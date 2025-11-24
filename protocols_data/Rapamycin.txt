@@ -1,0 +1,550 @@
+PROTOCOL: Rapamycin
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Abstract:Rapamycin is an exogenous compound that has been shown to improve cognition in Alzheimer’s disease mouse models and can regulate pathways downstream of the insulin receptor signaling pathway. Insulin is also known to improve cognition in rodent models of Alzheimer’s disease. Central nervous system (CNS) insulin must first cross the blood–brain barrier (BBB), a specialized network of brain endothelial cells. This transport process is regulated by physiological factors, such as insulin itself, triglycerides, cytokines, and starvation. Since rapamycin treatment can alter the metabolic state of rodents, increase the circulating triglycerides, and acts as a starvation mimetic, we hypothesized rapamycin could alter the rate of insulin transport across the BBB, providing a potential mechanism for the beneficial effects of rapamycin on cognition. Using young male and female CD-1 mice, we measured the effects of rapamycin on the basal levels of serum factors, insulin receptor signaling, vascular binding, and BBB pharmacokinetics. We found chronic rapamycin treatment was able to affect basal levels of circulating serum factors and endothelial cell insulin receptor signaling. In addition, while acute rapamycin treatment did affect insulin binding at the BBB, overall transport was unaltered. Chronic rapamycin slowed insulin BBB transport non-significantly (p = 0.055). These results suggest that rapamycin may not directly impact the transport of insulin at the BBB but could be acting to alter insulin signaling within brain endothelial cells, which can affect downstream signaling.
+DESCRIPTION: Rapamycin, an mTOR pathway inhibitor, is being investigated as a potential agent to support healthy aging and cancer prevention. Its actions include modulation of cellular metabolism, enhancement of mitochondrial function, and inhibition of cancer cell proliferation, which may translate into delayed aging processes and disease progression. Despite promising results from preclinical studies, further validation in clinical trials is needed.
+
+CONTENT SECTIONS:
+
+Effects of Rapamycin on Aging, Metabolism, and Cancer Prevention
+
+Rapamycin, an mTOR pathway inhibitor, is being investigated as a potential agent to support healthy aging and cancer prevention. Its actions include modulation of cellular metabolism, enhancement of mitochondrial function, and inhibition of cancer cell proliferation, which may translate into delayed aging processes and disease progression. Despite promising results from preclinical studies, further validation in clinical trials is needed.
+
+Level of evidence:Preliminary
+
+Level of risk:Elevated
+
+Rapamycin works by inhibiting the mTORC1 complex, a key regulator of cell growth, metabolism, and autophagy. By reducing mTORC1 activity, rapamycin slows down cell proliferation, improves mitochondrial function, and increases autophagy, which helps protect cells from damage. It can also modulate the immune system, affecting the balance between immunosuppression and immunostimulation.
+
+Level of risk:Elevated
+
+Rapamycin is generally well tolerated, but its use carries a risk of adverse effects, especially with long-term therapy or high doses. Side effects may include impaired glucose metabolism, insulin resistance, elevated blood lipid levels, and an increased risk of infections due to immunosuppressive activity.
+
+Rapamycin is not recommended for individuals with severe kidney or liver failure or for patients with active infections. It should not be used during pregnancy or in individuals with immune system disorders that may increase the risk of complications.
+
+Typically 1–5 mg daily in clinical studies, dosage depends on indication and tolerance
+
+Tablets, capsules, oral solutions
+
+Effects visible after several weeks of use; full efficacy may take months
+
+Preferably taken in the morning or as directed by a physician
+
+Regular monitoring of blood glucose and lipid levels during therapy, especially with long-term use
+
+Exercise caution and avoid contact with people who have infections; report any signs of infection to a doctor
+
+Individualize dosage based on therapeutic effects and tolerance, especially in older adults or those with comorbidities
+
+Combining with Other Medications
+
+Avoid concurrent use with other immunosuppressants without medical supervision; consult on drugs affecting rapamycin metabolism
+
+Rapamycin shows positive effects on brain function in numerous animal models, particularly in the context of neurodegenerative diseases, injuries, strokes, and aging. Key benefits include improved cognitive function, neuroprotection, and reduced inflammation, although most data comes from preclinical studies.
+
+Neurodegenerative Diseases (e.g. Alzheimer’s Disease)
+
+Brain Injuries and Strokes
+
+Limitations and Uncertainties
+
+Rapamycin, an mTOR pathway inhibitor, is extensively studied for its anti-cancer properties and potential in cancer prevention. Animal models and preliminary clinical data suggest that rapamycin may effectively delay cancer development and extend lifespan, particularly in individuals at increased cancer risk.
+
+Mechanisms of Action and Efficacy
+
+Review of Animal Model Results
+
+Limitations and Clinical Prospects
+
+Rapamycin, an mTOR pathway inhibitor, is extensively studied for its effects on metabolism and aging. Study results are complex: rapamycin may both improve and impair metabolism depending on dose, duration, sex, age, and health status.
+
+Positive Metabolic Effects
+
+Negative and Complex Effects
+
+Summary of Selected Metabolic Effects of Rapamycin
+
+Scientific data and sources
+
+Level of evidencePreliminary
+
+Number of included studies:58
+
+Final comment:Rapamycin is widely studied in the context of its effects on aging processes, metabolism, and cancer prevention, mainly in animal models and in vitro studies. The results of these studies suggest potential benefits such as lifespan extension, improvement in mitochondrial function, delayed tumor development, and positive effects on cognitive function. However, there is currently a lack of large-scale randomized controlled trials (RCTs) in humans that would confirm the efficacy and safety of rapamycin in clinical applications, especially in aging and cancer prevention.
+
+Rapamycin Alleviates Neuronal Injury and Modulates Microglial Activation After Cerebral Ischemia.
+
+Number of 
+
+Key takeaways:Rapamycin reduces neuronal injury and alters microglial activation after cerebral ischemia, potentially offering a promising therapeutic approach for treating ischemic cerebrovascular diseases.
+
+Abstract:Neurons and microglia are sensitive to cerebral microcirculation and their responses play a crucial part in the pathological processes, while they are also the main target cells of many drugs used to treat brain diseases. Rapamycin exhibits beneficial effects in many diseases; however, whether it can affect neuronal injury or alter the microglial activation after global cerebral ischemia remains unclear. In this study, we performed global cerebral ischemia combined with rapamycin treatment in CX3CR1^GFP/+ mice and explored the effects of rapamycin on neuronal deficit and microglial activation. Our results showed that rapamycin reduced neuronal loss, neurodegeneration, and ultrastructural damage after ischemia by histological staining and transmission electron microscopy (TEM). Interestingly, rapamycin suppressed de-ramification and proliferation of microglia and reduced the density of microglia. Immunofluorescence staining indicated that rapamycin skewed microglial polarization toward an anti-inflammatory state. Furthermore, rapamycin as well suppressed the activation of astrocytes. Meanwhile, quantitative real-time polymerase chain reaction (qRT-PCR) analyses revealed a significant reduction of pro-inflammatory factors as well as an elevation of anti-inflammatory factors upon rapamycin treatment. As a result of these effects, behavioral tests showed that rapamycin significantly alleviated the brain injury after stroke. Together, our study suggested that rapamycin attenuated neuronal injury, altered microglial activation state, and provided a more beneficial immune microenvironment for the brain, which could be used as a promising therapeutic approach to treat ischemic cerebrovascular diseases.
+
+Rapamycin restores brain vasculature, metabolism, and blood-brain barrier in an inflammaging model
+
+Number of 
+
+Key takeaways:Rapamycin may play a therapeutic role in inhibiting neuroinflammation by normalizing brain vascularity, blood-brain barrier, and some brain metabolites in an inflammaging model.
+
+Abstract:Rapamycin (RAPA) is found to have neuro-protective properties in various neuroinflammatory pathologies, including brain aging. With magnetic resonance imaging (MRI) techniques, we investigated the effect of RAPA in a lipopolysaccharide (LPS)-induced inflammaging model in rat brains. Rats were exposed to saline (control), or LPS alone or LPS combined with RAPA treatment (via food over 6 weeks). Arterial spin labeling (ASL) perfusion imaging was used to measure relative cerebral blood flow (rCBF). MR spectroscopy (MRS) was used to measure brain metabolite levels. Contrast-enhanced MRI (CE-MRI) was used to assess blood-brain barrier (BBB) permeability. Immunohistochemistry (IHC) was used to confirm neuroinflammation. RAPA restored NF-κB and HIF-1α to normal levels. RAPA was able to significantly restore rCBF in the cerebral cortex post-LPS exposure (p < 0.05), but not in the hippocampus. In the hippocampus, RAPA was able to restore total creatine (Cr) acutely, and N-acetyl aspartate (NAA) at 6 weeks, post-LPS. Myo-inositol (Myo-Ins) levels were found to decrease with RAPA treatment acutely post-LPS. RAPA was also able to significantly restore the BBB acutely post-LPS in both the cortex and hippocampus (p < 0.05 for both). RAPA was found to increase the percent change in BOLD signal in the cortex at 3 weeks, and in the hippocampus at 6 weeks post-LPS, compared to LPS alone. RAPA treatment also restored the neuronal and macro-vascular marker, EphB2, back to normal levels. These results indicate that RAPA may play an important therapeutic role in inhibiting neuroinflammation by normalizing brain vascularity, BBB, and some brain metabolites, and has a high translational capability.
+
+Rapamycin activates mitophagy and alleviates cognitive and synaptic plasticity deficits in a mouse model of Alzheimer's disease.
+
+Number of 
+
+Key takeaways:Rapamycin activates mitophagy and alleviates cognitive and synaptic plasticity deficits in Alzheimer's disease mice, potentially revealing a role of mitophagy in removing damaged mitochondria.
+
+Abstract:Alzheimer's disease (AD) is a chronic neurodegenerative disease, which is characterized by cognitive and synaptic plasticity damage. Rapamycin is an activator of autophagy/mitophagy, which plays an important role in identifying and degrading damaged mitochondria. The aim of this study was to investigate the effect of rapamycin on cognitive and synaptic plasticity defects induced by AD, and further explore if the underlying mechanism was associated with mitophagy. The results show that rapamycin increases parkin-mediated mitophagy and promotes fusion of mitophagosome and lysosome in the APP/PS1 mouse hippocampus. Rapamycin enhances learning and memory viability, synaptic plasticity and the expression of synapse related proteins, and impedes Cytochrome C-mediated apoptosis, decreases oxidative status and recovers mitochondrial function in APP/PS1 mice. The data suggest that rapamycin effectively alleviates AD-like behaviors and synaptic plasticity deficits in APP/PS1 mice, which is associated with enhanced mitophagy. Our findings possibly uncover an important function of mitophagy in eliminating damaged mitochondria to attenuate Alzheimer's disease-associated pathology.
+
+Effect and Mechanism of Rapamycin on Cognitive Deficits in Animal Models of Alzheimer’s Disease: A Systematic Review and Meta-analysis of Preclinical Studies
+
+Number of 
+
+Key takeaways:Rapamycin therapy improves learning and memory abilities in Alzheimer's disease animal models by reducing age-related plaque deposition and promoting autophagy.
+
+Abstract:Background: Alzheimer’s disease (AD), the most common form of dementia, remains long-term and challenging to diagnose. Furthermore, there is currently no medication to completely cure AD patients. Rapamycin has been clinically demonstrated to postpone the aging process in mice and improve learning and memory abilities in animal models of AD. Therefore, rapamycin has the potential to be significant in the discovery and development of drugs for AD patients. Objective: The main objective of this systematic review and meta-analysis was to investigate the effects and mechanisms of rapamycin on animal models of AD by examining behavioral indicators and pathological features. Methods: Six databases were searched and 4,277 articles were retrieved. In conclusion, 13 studies were included according to predefined criteria. Three 
+
+Chronic Rapamycin Restores Brain Vascular Integrity and Function Through NO Synthase Activation and Improves Memory in Symptomatic Mice Modeling Alzheimer’s Disease
+
+Number of 
+
+Key takeaways:Chronic rapamycin treatment after Alzheimer's disease onset restores brain vascular integrity and function, improving cognitive function and memory in symptomatic mice.
+
+Rapamycin and Alzheimer’s disease: Time for a clinical trial?
+
+Number of 
+
+Key takeaways:Rapamycin shows promising effects in animal models of neurodegeneration and aging, but no clinical trials have been conducted in Alzheimer's disease patients.
+
+Abstract:In this Perspective, the authors propose that clinical testing of rapamycin in patients with Alzheimer’s disease is long overdue. The drug rapamycin has beneficial effects in a number of animal models of neurodegeneration and aging including mouse models of Alzheimer’s disease. Despite its compelling preclinical record, no clinical trials have tested rapamycin or other mTOR inhibitors in patients with Alzheimer’s disease. We argue that such clinical trials should be undertaken.
+
+Treatment with Rapamycin in Animal Models of Traumatic Brain Injuries; a Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:Rapamycin treatment significantly reduces apoptosis and inflammation in rodents with traumatic brain injury, improving neurological status but not locomotion recovery.
+
+Abstract:Introduction: In light of the potential of enhanced functional and neurological recovery in traumatic brain injury (TBI) with the administration of rapamycin, this systematic review and meta-analysis aimed to investigate the efficacy of rapamycin treatment in animal models of TBI. Methods: An extensive search was conducted in the electronic databases of Medline, Embase, Scopus, and Web of Science by July 1st, 2023. Two independent researchers performed the screening process by reviewing the titles and abstracts and the full texts of the relevant articles, including those meeting the inclusion criteria. Apoptosis rate, inflammation, locomotion, and neurological status were assessed as outcomes. A standardized mean difference (SMD) with a 95% confidence interval (95%CI) was calculated for each experiment, and a pooled effect size was reported. Statistical analyses were performed using STATA 17.0 software. Results: Twelve articles were deemed eligible for inclusion in this meta-analysis. Pooled data analysis indicated notable reductions in the number of apoptotic cells (SMD for Tunnel-positive cells = -1.60; 95%CI: -2.21, -0.99, p<0.001), p-mTOR (SMD=-1.41; 95%CI: -2.03, -0.80, p<0.001), and p-S6 (SMD=-2.27; 95%CI: -3.03, -1.50, p<0.001) in TBI post-treatment. Our analysis also indicated substantial IL-1β reductions after rapamycin administration (SMD= -1.91; 95%CI: -2.61, -1.21, p<0.001). Moreover, pooled data analysis found significant neurological severity score (NSS) improvements at 24 hours (SMD= -1.16; 95%CI: -1.69, -0.62, p<0.001; I²=0.00%), 72 hours (SMD= -1.44; 95%CI: -2.00, -0.88, p<0.001; I²=0.00%), and 168 hours post-TBI (SMD= -1.56; 95%CI: -2.44, -0.68, p<0.001; I²=63.37%). No such improvement was observed in the grip test. Conclusion: Low to moderate-level evidence demonstrated a significant decrease in apoptotic and inflammatory markers and improved neurological status in rodents with TBI. However, no such improvements were observed in locomotion recovery.
+
+Rapamycin improves sevoflurane-induced cognitive dysfunction in aged rats by mediating autophagy through the TLR4/MyD88/NF-κB signaling pathway
+
+Number of 
+
+Key takeaways:Rapamycin improves cognitive dysfunction in aged rats induced by sevoflurane by mitigating brain tissue damage, inhibiting apoptosis, and activating autophagy through the TLR4/MyD88/NF-B signaling pathway.
+
+Abstract:The present study was aimed to observe the protective effect of rapamycin on cognitive dysfunction induced by sevoflurane in aged rats and its effect on autophagy-related proteins, and to investigate the regulatory mechanism of the Toll-like receptor 4/myeloid differentiation primary response 88/nuclear factor-κB (TLR4/MyD88/NF-κB) signaling pathway. Fifty Sprague-Dawley rats were randomly assigned to a control group, a sevoflurane group, a rapamycin pretreatment group, a TLR4 inhibitor group and a 3MA autophagy inhibitor group. A water maze test was used to evaluate the cognition and memory of rats. Hematoxylin and eosin (H&E) staining was performed to observe pathological changes of brain tissue. A TUNEL assay was used to detect the apoptosis of brain tissue. ELISA was used to assess changes in brain injury markers and inflammatory factors. A western blot assay or quantitative reverse transcription PCR (RT-qPCR) were performed to determine the expression of autophagy-related proteins and the TLR4/MyD88/NF-κB signaling pathway in brain tissue. The results revealed that rapamycin could improve cognitive dysfunction of aged rats induced by sevoflurane. Rapamycin was identified to play a therapeutic role, including mitigating brain tissue damage, inhibiting apoptosis, and activating autophagy in a sevoflurane-treated aged rat model. This function of rapamycin was demonstrated to depend on the TLR4/MyD88/NF-κB signaling pathway.
+
+Rapamycin Responds to Alzheimer’s Disease: A Potential Translational Therapy
+
+Number of 
+
+Key takeaways:Rapamycin shows potential in reducing Alzheimer's disease progression by reducing -amyloid deposition, inhibiting tau protein hyperphosphorylation, maintaining brain function in APOE 4 gene carriers, and reducing chronic inflammation.
+
+Abstract:Abstract Alzheimer’s disease (AD) is a sporadic or familial neurodegenerative disease of insidious onset with progressive cognitive decline. Although numerous studies have been conducted or are underway on AD, there are still no effective drugs to reverse the pathological features and clinical manifestations of AD. Rapamycin is a macrolide antibiotic produced by Streptomyces hygroscopicus. As a classical mechanistic target of rapamycin (mTOR) inhibitor, rapamycin has been shown to be beneficial in a variety of AD mouse and cells models, both before the onset of disease symptoms and the early stage of disease. Although many basic studies have demonstrated the therapeutic effects of rapamycin in AD, many questions and controversies remain. This may be due to the variability of experimental models, different modes of administration, dose, timing, frequency, and the availability of drug-targeting vehicles. Rapamycin may delay the development of AD by reducing β-amyloid (Aβ) deposition, inhibiting tau protein hyperphosphorylation, maintaining brain function in APOE ε4 gene carriers, clearing chronic inflammation, and improving cognitive dysfunction. It is thus expected to be one of the candidates for the treatment of Alzheimer’s disease.
+
+Rapamycin suppresses brain aging in senescence-accelerated OXYS rats
+
+Number of 
+
+Key takeaways:Low chronic doses of rapamycin can suppress brain aging in senescence-accelerated OXYS rats, improving behavior and preventing neurodegeneration without causing toxicity.
+
+Abstract:Cellular and organismal aging are driven in part by the MTOR (mechanistic target of rapamycin) pathway and rapamycin extends life span in C elegans, Drosophila and mice. Herein, we investigated effects of rapamycin on brain aging in OXYS rats. Previously we found, in OXYS rats, an early development of age-associated pathological phenotypes similar to several geriatric disorders in humans, including cerebral dysfunctions. Behavioral alterations as well as learning and memory deficits develop by 3 months. Here we show that rapamycin treatment (0.1 or 0.5 mg/kg as a food mixture daily from the age of 1.5 to 3.5 months) decreased anxiety and improved locomotor and exploratory behavior in OXYS rats. In untreated OXYS rats, MRI revealed an increase of the area of hippocampus, substantial hydrocephalus and 2-fold increased area of the lateral ventricles. Rapamycin treatment prevented these abnormalities, erasing the difference between OXYS and Wistar rats (used as control). All untreated OXYS rats showed signs of neurodegeneration, manifested by loci of demyelination. Rapamycin decreased the percentage of animals with demyelination and the number of loci. Levels of Tau and phospho-Tau (T181) were increased in OXYS rats (compared with Wistar). Rapamycin significantly decreased Tau and inhibited its phosphorylation in the hippocampus of OXYS and Wistar rats. Importantly, rapamycin treatment caused a compensatory increase in levels of S6 and correspondingly levels of phospo-S6 in the frontal cortex, indicating that some downstream events were compensatory preserved, explaining the lack of toxicity. We conclude that rapamycin in low chronic doses can suppress brain aging.
+
+Effects of Rapamycin on Insulin Brain Endothelial Cell Binding and Blood–Brain Barrier Transport
+
+Number of 
+
+Key takeaways:Rapamycin may improve cognition by altering insulin signaling within brain endothelial cells, rather than directly impacting insulin transport across the blood-brain barrier.
+
+Abstract:Rapamycin is an exogenous compound that has been shown to improve cognition in Alzheimer’s disease mouse models and can regulate pathways downstream of the insulin receptor signaling pathway. Insulin is also known to improve cognition in rodent models of Alzheimer’s disease. Central nervous system (CNS) insulin must first cross the blood–brain barrier (BBB), a specialized network of brain endothelial cells. This transport process is regulated by physiological factors, such as insulin itself, triglycerides, cytokines, and starvation. Since rapamycin treatment can alter the metabolic state of rodents, increase the circulating triglycerides, and acts as a starvation mimetic, we hypothesized rapamycin could alter the rate of insulin transport across the BBB, providing a potential mechanism for the beneficial effects of rapamycin on cognition. Using young male and female CD-1 mice, we measured the effects of rapamycin on the basal levels of serum factors, insulin receptor signaling, vascular binding, and BBB pharmacokinetics. We found chronic rapamycin treatment was able to affect basal levels of circulating serum factors and endothelial cell insulin receptor signaling. In addition, while acute rapamycin treatment did affect insulin binding at the BBB, overall transport was unaltered. Chronic rapamycin slowed insulin BBB transport non-significantly (p = 0.055). These results suggest that rapamycin may not directly impact the transport of insulin at the BBB but could be acting to alter insulin signaling within brain endothelial cells, which can affect downstream signaling.
+
+Rapamycin Pretreatment Alleviates Cerebral Ischemia/Reperfusion Injury in Dose-Response Manner Through Inhibition of the Autophagy and NFκB Pathways in Rats
+
+Number of 
+
+Key takeaways:Rapamycin pretreatment improves memory functions and reduces cerebral ischemia/reperfusion injury in rats by inhibiting autophagic activities and NFB pathways.
+
+Abstract:Although rapamycin can attenuate cerebral ischemia/reperfusion (I/R) injury, the potential roles of rapamycin on cerebral I/R injury remain largely controversial. The present work aims to evaluate underlying molecular mechanisms of rapamycin pretreatment on I/R injury. In total, 34 Sprague-Dawley rats were randomly grouped to 3 groups: sham group (n = 2), vehicle group (n = 16), and rapamycin-pretreatment group (n = 16). Before the focal cerebral ischemia was induced, those rats in the pretreatment group were intraperitoneally injected rapamycin (1 mg/kg body) for 20 hours, while rats in the vehicle group received same-volume saline. Then, rats in these 2 groups received focal cerebral ischemia for 3 and 6 hours, respectively (n = 8 in each group), which was followed by the application of reperfusion for 4, 24, 72 hours, and 1 week (n = 2 in each group). The results showed that the rapamycin pretreatment improved the memory functions of rats after I/R injury, which was evaluated using a Y-maze test. Rapamycin pretreatment significantly reduced the size of triphenyltetrazolium chloride infarction and decreased the expression of I/R injury markers. Moreover, the expression of LC-3 and NFκB was also significantly reduced after rapamycin pretreatment. Taken together, rapamycin pretreatment may alleviate cerebral I/R injury partly through inhibiting autophagic activities and NFκB pathways in rats.
+
+Single-dose rapamycin increases brain glucose metabolism but reduces synaptic density in Long-Evans rats: A PET imaging study
+
+Number of 
+
+Key takeaways:A single-dose of rapamycin increases brain glucose metabolism but reduces synaptic density in Long-Evans rats, suggesting multifaceted effects in the brain.
+
+Abstract:Rapamycin, an inhibitor of the mechanistic target of rapamycin (mTOR), has shown promise as a neuroprotective compound in preclinical studies. Reduced brain glucose metabolism and loss of synaptic density are key features of Alzheimer’s disease that can be measured in vivo using positron emission tomography (PET) imaging, allowing for assessment of treatment effects on brain function. Here, we used PET to investigate the acute effects of a single-dose of rapamycin on glucose metabolism and synaptic density in Long-Evans rats. In a repeated measures design, we quantified changes in brain glucose metabolism using FDG PET (n=13) at baseline, one day, and one week after intraperitoneal administration of rapamycin (8 mg/kg). In a separate cohort (n=6), we measured synaptic density using SynVesT-1 PET at baseline and one day after rapamycin administration. Regional standardized uptake values (SUV) were calculated for FDG while total distribution volumes were estimated for SynVesT-1 using image-derived input functions of the heart. Rapamycin induced significant increases in FDG SUV across multiple brain regions one day after administration, an effect that persisted at one-week follow-up. In contrast, SynVesT-1 binding showed significant decreases throughout the brain at 24 hours post-administration, indicating reduced synaptic density. These opposing effects on glucose metabolism and synaptic density point to multifaceted actions of rapamycin in the brain, possibly reflecting improved metabolic function occurring simultaneously with acute synaptic loss. These results show that FDG and synaptic density PET imaging could serve as useful biomarkers in human clinical trials evaluating rapamycin’s mechanistic and therapeutic effects in neurodegenerative disorders.
+
+Transferrin decorated-nanostructured lipid carriers (NLCs) are a promising delivery system for rapamycin in Alzheimer's disease: An in vivo study.
+
+Number of 
+
+Key takeaways:Transferrin-decorated nanostructured lipid carriers (NLCs) show promise as a safe and efficient brain delivery system for rapamycin, improving memory and neuroprotection in Alzheimer's disease.
+
+Rapamycin and Alzheimer disease: a double-edged sword?
+
+Number of 
+
+Key takeaways:Rapamycin may be useful in the earliest stages of Alzheimer's disease, but its use may exacerbate brain damage later in the disease.
+
+Abstract:ABSTRACT Numerous studies have reported that inhibition of MTOR (mechanistic target of rapamycin kinase) clearly reduces Alzheimer disease neuropathological hallmarks in mouse models. This has resulted in calls for the use of the MTOR inhibitor rapamycin for the treatment of dementia in humans. Unfortunately, intervention with rapamycin in these mouse studies commenced before or early in the appearance of these pathological hallmarks. Later in Alzheimer disease, when dementia actually manifests, the brain’s lysosomal system is severely damaged and treatment with rapamycin is likely to exacerbate this damage. We reassess literature described by a recent perspective article calling for the use of MTOR inhibition in dementia and conclude that rapamycin could be useful, but only in people who are in the earliest stages of Alzheimer disease. We contend that our interpretation of preclinical data concerning use of rapamycin in Alzheimer disease models is necessary if we are to avoid another failed Alzheimer disease drug trial. Abbreviations: AD: Alzheimer disease; APP: amyloid beta precursor protein; MAPT: microtubule associated protein tau; MTOR: mechanistic target of rapamycin kinase; MTORC1: mechanistic target of rapamycin kinase complex 1.
+
+Rapamycin and Alzheimer disease: a hypothesis for the effective use of rapamycin for treatment of neurodegenerative disease
+
+Number of 
+
+Key takeaways:Rapamycin may hold promise for prevention of Alzheimer's disease if used early, but its effectiveness depends on lysosomal degradative capacity in the brain.
+
+Abstract:ABSTRACT In 2019 we summarized work relating to the potential use of rapamycin for treating Alzheimer disease (AD). We considered the commentary necessary because use of rapamycin in people with AD is a very real prospect and we wanted to present a balanced view of the likely consequences of MTOR (mechanistic target of rapamycin kinase) inhibition in the AD brain. We concluded that use of rapamycin, an MTOR inhibitor that increases macroautophagy/autophagy, could hold promise for prevention of AD if used early enough. However, MTOR inhibition appeared ineffectual in resolving existing amyloid pathology in AD mouse models. In this View article, we update these observations with new studies that have used rapamycin in AD models and provide evidence both for and against its use in AD. We also discuss rapamycin in the light of new research that describes rapamycin-induced autophagic stress in the aging brain and autophagic stress as the origin of the amyloid plaque itself. We conclude that rapamycin will have complex effects on the brain in AD. Further, we hypothesize that lysosomal degradative capacity in the brain will likely determine how effective or detrimental rapamycin will be as a treatment of AD. Abbreviations: AD: Alzheimer disease; APP: amyloid beta precursor protein; MAPT/tau: microtubule associated protein tau; MTOR: mechanistic target of rapamycin kinase; MTORC1: mechanistic target of rapamycin kinase complex 1.
+
+Effect of rapamycin on aging and age-related diseases—past and future
+
+Number of 
+
+Key takeaways:Rapamycin shows strong evidence in mice for extending lifespan and reducing age-related diseases, suggesting it could be a potential treatment for Alzheimer's disease.
+
+Abstract:Abstract In 2009, rapamycin was reported to increase the lifespan of mice when implemented later in life. This observation resulted in a sea-change in how researchers viewed aging. This was the first evidence that a pharmacological agent could have an impact on aging when administered later in life, i.e., an intervention that did not have to be implemented early in life before the negative impact of aging. Over the past decade, there has been an explosion in the number of reports studying the effect of rapamycin on various diseases, physiological functions, and biochemical processes in mice. In this review, we focus on those areas in which there is strong evidence for rapamycin’s effect on aging and age-related diseases in mice, e.g., lifespan, cardiac disease/function, central nervous system, immune system, and cell senescence. We conclude that it is time that pre-clinical studies be focused on taking rapamycin to the clinic, e.g., as a potential treatment for Alzheimer’s disease.
+
+Rapamycin Improves Recognition Memory and Normalizes Amino-Acids and Amines Levels in the Hippocampal Dentate Gyrus in Adult Rats Exposed to Ethanol during the Neonatal Period
+
+Number of 
+
+Key takeaways:Rapamycin improves long-term recognition memory and normalizes amino acid and amine levels in the hippocampus of adult rats exposed to ethanol during neonatal period.
+
+Abstract:The mammalian target of rapamycin (mTOR), a serine/ threonine kinase, is implicated in synaptic plasticity by controlling protein synthesis. Research suggests that ethanol exposure during pregnancy alters the mTOR signaling pathway in the fetal hippocampus. Thus, we investigated the influence of pre-treatment with rapamycin, an mTORC1 inhibitor, on the development of recognition memory deficits in adult rats that were neonatally exposed to ethanol. In the study, male and female rat pups received ethanol (5 g/kg/day) by intragastric intubation at postanatal day (PND 4-9), an equivalent to the third trimester of human pregnancy. Rapamycin (3 and 10 mg/kg) was given intraperitoneally before every ethanol administration. Short- and long-term recognition memory was assessed in the novel object recognition (NOR) task in adult (PND 59/60) rats. Locomotor activity and anxiety-like behavior were also evaluated to exclude the influence of such behavior on the outcome of the memory task. Moreover, the effects of rapamycin pre-treatment during neonatal ethanol exposure on the content of amino-acids and amines essential for the proper development of cognitive function in the dentate gyrus (DG) of the hippocampus was evaluated using proton magnetic resonance spectroscopy (1H MRS) in male adult (PND 60) rats. Our results show the deleterious effect of ethanol given to neonatal rats on long-term recognition memory in adults. The effect was more pronounced in male rather than female rats. Rapamycin reversed this ethanol-induced memory impairment and normalized the levels of amino acids and amines in the DG. This suggests the involvement of mTORC1 in the deleterious effect of ethanol on the developing brain.
+
+Rapamycin Plays an Anti-Epileptic Role by Restoring Blood-Brain Barrier Dysfunction, Balancing T Cell Subsets and Inhibiting Neuronal Apoptosis.
+
+Number of 
+
+Key takeaways:Rapamycin may reduce epileptic seizures by restoring blood-brain barrier dysfunction, reducing inflammation, balancing T cell subsets, and inhibiting neuronal and glial cell apoptosis in temporal lobe epilepsy.
+
+Abstract:BACKGROUND
+Rapamycin (RAP), as a Mammalian Target of Rapamycin (mTOR) inhibitor, has a certain antiepileptic effect. The blood-brain barrier (BBB), neuroinflammation, lymphocyte immune cells, and neuronal apoptosis play an obligatory role in the course of a seizure. The aim of this study is to probe whether the antiepileptic mechanism of RAP involves the blood-brain barrier, neuroinflammation, lymphocytes, and neuronal apoptosis.
+
+METHODS
+First, we established a rat epilepsy model by injecting lithium chloride and pilocarpine into the rats (intraperitoneal injection). Then the epileptic rats were treated with different doses of RAP (1 mg/kg.d, 2 mg/kg.d, 4 mg/kg.d). Peripheral blood, brain tissue, and temporal lobe tissue were collected. The levels of blood-brain barrier-related proteins and inflammatory cytokines in the peripheral blood of rats were measured by enzyme-linked immunosorbent assay (ELISA). The effect of RAP on T cell subsets in epileptic rats was analyzed by flow cytometry. The apoptosis of neurons and glial cells in the temporal lobe of rats was analyzed by immunohistochemistry.
+
+RESULTS
+This study found that RAP reduces the levels of BBB-interrelated proteins (matrix metallopeptidase 9 (MMP-9), MMP-2, tissue inhibitor of metalloproteinases 1 (TIMP-1), TIMP-2) and inflammatory cytokines (interleukin-2 (IL-2), interferon-γ (IFN-γ), tumor necrosis factor-α (TNF-α)) in epileptic rats compared to the model group (p < 0.05). RAP increases the level of total T cells (CD3+CD45+) and T helper cells (CD3+CD4+), decreases the level of cytotoxic T lymphocytes (CD3+CD8+), and inhibits the apoptosis of neurons and glial cells in the temporal lobe compared to the model group (p < 0.05).
+
+CONCLUSIONS
+The antiepileptic mechanism of RAP may be to restore BBB dysfunction, reduce the inflammatory response, balance T cell subsets, and inhibit neuronal and glial cell apoptosis in temporal lobe epilepsy lesions.
+
+Targeting ageing with rapamycin and its derivatives in humans: a systematic review.
+
+Number of 
+
+Key takeaways:Rapamycin and its derivatives improve ageing-related physiological parameters in immune, cardiovascular, and integumentary systems without significant effects on endocrine, muscular, or neurological systems.
+
+Cancer prevention with rapamycin
+
+Number of 
+
+Key takeaways:Rapamycin and its related drugs effectively delay cancer by targeting pre-cancerous cells and slowing down organism aging.
+
+Abstract:Rapamycin (sirolimus) and other rapalogs (everolimus) are anti-cancer and anti-aging drugs, which delay cancer by directly targeting pre-cancerous cells and, indirectly, by slowing down organism aging. Cancer is an age-related disease and, figuratively, by slowing down time (and aging), rapamycin may delay cancer. In several dozen murine models, rapamycin robustly and reproducibly prevents cancer. Rapamycin slows cell proliferation and tumor progression, thus delaying the onset of cancer in carcinogen-treated, genetically cancer-prone and normal mice. Data on the use of rapamycin and everolimus in organ-transplant patients are consistent with their cancer-preventive effects. Treatment with rapamycin was proposed to prevent lung cancer in smokers and former smokers. Clinical trials in high-risk populations are warranted.
+
+Immunologic and dose dependent effects of rapamycin and its evolving role in chemoprevention.
+
+Number of 
+
+Key takeaways:Rapamycin has both immunosuppressant and immunostimulatory effects, with its effectiveness varying based on dose and administration schedule, and may serve as a chemopreventive agent for low-grade cancers and pre-malignant conditions.
+
+Rapamycin targets STAT3 and impacts c-Myc to suppress tumor growth.
+
+Number of 
+
+Key takeaways:Rapamycin suppresses tumor growth by directly targeting STAT3 and c-Myc, providing valuable information for developing STAT3 inhibitors for cancer therapy.
+
+Long‐term treatment of cancer‐prone germline PTEN mutant mice with low‐dose rapamycin extends lifespan and delays tumour development
+
+Number of 
+
+Key takeaways:Low-dose rapamycin treatment extends lifespan and delays tumor development in mice with germline PTEN loss, potentially benefiting cancer prevention in human PHTS and sporadic cancers with early PI3K pathway activation.
+
+Abstract:PTEN is one of the most commonly inactivated tumour suppressor genes in sporadic cancer. Germline heterozygous PTEN gene alterations also underlie PTEN hamartoma tumour syndrome (PHTS), a rare human cancer‐predisposition condition. A key feature of systemic PTEN deregulation is the inability to adequately dampen PI3‐kinase (PI3K)/mTORC1 signalling. PI3K/mTORC1 pathway inhibitors such as rapamycin are therefore expected to neutralise the impact of PTEN loss, rendering this a more druggable context compared with those of other tumour suppressor pathways such as loss of TP53. However, this has not been explored in cancer prevention in a model of germline cancer predisposition, such as PHTS. Clinical trials of short‐term treatment with rapamycin have recently been initiated for PHTS, focusing on cognition and colon polyposis. Here, we administered a low dose of rapamycin from the age of 6 weeks onwards to mice with heterozygous germline Pten loss, a mouse model that recapitulates most characteristics of human PHTS. Rapamycin was well tolerated and led to a highly significant improvement of survival in both male and female mice. This was accompanied by a delay in, but not full blockade of, the development of a range of proliferative lesions, including gastro‐intestinal and thyroid tumours and endometrial hyperplasia, with no impact on mammary and prostate tumours, and no effect on brain overgrowth. Our data indicate that rapamycin may have cancer prevention potential in human PHTS. This might also be the case for sporadic cancers in which genetic PI3K pathway activation is an early event in tumour development, such as endometrial cancer and some breast cancers. To the best of our knowledge, this is the first report of a long‐term treatment of a germline cancer predisposition model with a PI3K/mTOR pathway inhibitor. © 2022 The Authors. The Journal of Pathology published by John Wiley & Sons Ltd on behalf of The Pathological Society of Great Britain and Ireland.
+
+Antitumor Effect of Low-Dose of Rapamycin in a Transgenic Mouse Model of Liver Cancer
+
+Number of 
+
+Key takeaways:Low-dose rapamycin may effectively prevent liver cancer growth but may be ineffective as a treatment option after tumor development in transgenic mice.
+
+Abstract:Purpose We investigate whether low-dose rapamycin is effective in preventing hepatocellular carcinoma (HCC) growth and treating HCC after tumor development in transgenic mice. Materials and Methods We established transgenic mice with HCC induced by activated HrasG12V and p53 suppression. Transgenic mice were randomly assigned to five experimental groups: negative control, positive control, tacrolimus only, rapamycin only, and tacrolimus plus rapamycin. The mice were further divided into two groups according to time to commencement of immunosuppressant treatment: de novo treatment and post-tumor development. Results In the de novo treatment group, marked suppression of tumor growth was observed in the rapamycin only group. In the post-tumor development group, the rapamycin only group displayed no significant suppression of tumor growth, compared to the positive control group. In T lymphocyte subset analysis, the numbers of CD4+ effector T cells and CD4+ regulatory T cells were significantly lower in the positive control, tacrolimus only, and tacrolimus plus rapamycin groups than the negative control group. Immunohistochemical analysis revealed significantly higher expression of phosphorylated-mTOR, 4E-BP1, and S6K1 in the positive control group than in the rapamycin only group. Conclusion Low-dose rapamycin might be effective to prevent HCC growth, but may be ineffective as a treatment option after HCC development.
+
+Rapamycin extends maximal lifespan in cancer-prone mice.
+
+Number of 
+
+Key takeaways:Rapamycin extends lifespan and suppresses carcinogenesis in cancer-prone mice by slowing down organismal aging and reducing tumor onset and size.
+
+Abstract:Aging is associated with obesity and cancer. Calorie restriction both slows down aging and delays cancer. Evidence has emerged that the nutrient-sensing mammalian target of rapamycin (mTOR) pathway is involved in cellular and organismal aging. Here we show that the mTOR inhibitor rapamycin prevents age-related weight gain, decreases rate of aging, increases lifespan, and suppresses carcinogenesis in transgenic HER-2/neu cancer-prone mice. Rapamycin dramatically delayed tumor onset as well as decreased the number of tumors per animal and tumor size. We suggest that, by slowing down organismal aging, rapamycin delays cancer.
+
+Rapamycin prevents cyclophosphamide-induced ovarian follicular loss and potentially inhibits tumour proliferation in a breast cancer xenograft mouse model
+
+Number of 
+
+Key takeaways:Combining rapamycin and cyclophosphamide may mitigate ovarian toxicity and potentially inhibit tumor growth in breast cancer patients.
+
+Abstract:Abstract STUDY QUESTION To what extent and via what mechanism does the concomitant administration of rapamycin (a follicle activation pathway inhibitor and antitumour agent) and cyclophosphamide (a highly toxic ovarian anticancer agent) prevent cyclophosphamide-induced ovarian reserve loss and inhibit tumour proliferation in a breast cancer xenograft mouse model? SUMMARY ANSWER Daily concomitant administration of rapamycin and a cyclic regimen of cyclophosphamide, which has sufficient antitumour effects as a single agent, suppressed cyclophosphamide-induced primordial follicle loss by inhibiting primordial follicle activation in a breast cancer xenograft mouse model, suggesting the potential of an additive inhibitory effect against tumour proliferation. WHAT IS KNOWN ALREADY Cyclophosphamide stimulates primordial follicles by activating the mammalian target of the rapamycin (mTOR) pathway, resulting in the accumulation of primary follicles, most of which undergo apoptosis. Rapamycin, an mTOR inhibitor, regulates primordial follicle activation and exhibits potential inhibitory effects against breast cancer cell proliferation. STUDY DESIGN, SIZE, DURATION To assess ovarian follicular apoptosis, 3 weeks after administering breast cancer cells, 8-week-old mice were randomized into three treatment groups: control, cyclophosphamide, and cyclophosphamide + rapamycin (Cy + Rap) (n = 5 or 6 mice/group). Mice were treated with rapamycin or vehicle control for 1 week, followed by a single dose of cyclophosphamide or vehicle control. Subsequently, the ovaries were resected 24 h after cyclophosphamide administration (short-term treatment groups). To evaluate follicle abundance and the mTOR pathway in ovaries, as well as the antitumour effects and impact on the mTOR pathway in tumours, 8-week-old xenograft breast cancer transplanted mice were randomized into three treatment groups: vehicle control, Cy, and Cy + Rap (n = 6 or 7 mice/group). Rapamycin (5 mg/kg) or the vehicle was administered daily for 29 days. Cyclophosphamide (120 mg/kg) or the vehicle was administered thrice weekly (long-term treatment groups). The tumour diameter was measured weekly. Seven days after the last cyclophosphamide treatment, the ovaries were harvested, fixed, and sectioned (for follicle counting) or frozen (for further analysis). Similarly, the tumours were resected and fixed or frozen. PARTICIPANTS/MATERIALS, SETTING, METHODS Terminal deoxynucleotidyl transferase dUTP nick end labelling (TUNEL) was performed to examine ovarian follicular apoptosis in the short-term treatment groups. All subsequent experiments were conducted in the long-term treatment groups. Tumour growth was evaluated using the tumour volume index. The tumour volume index indicates the relative volume, compared to the volume 3 weeks after tumour cell injection (at treatment initiation) set to 100%. Tumour cell proliferation was evaluated by Ki-67 immunostaining. Activation of the mTOR pathway in tumours was assessed using the protein extracts from tumours and analysed by western blotting. Haematoxylin and eosin staining of ovaries was used to perform differential follicle counts for primordial, primary, secondary, antral, and atretic follicles. Activation of the mTOR pathway in ovaries was assessed using protein extracts from whole ovaries and analysed by western blotting. Localization of mTOR pathway activation within ovaries was assessed by performing anti-phospho-S6 kinase (downstream of mTOR pathway) immunohistochemistry. MAIN RESULTS AND THE ROLE OF CHANCE Ovaries of the short-term treatment groups were resected 24 h after cyclophosphamide administration and subjected to TUNEL staining of apoptotic cells. No TUNEL-positive primordial follicles were detected in the control, Cy, and Cy + Rap groups. Conversely, many granulosa cells of growing follicles were TUNEL positive in the Cy group but negative in the control and Cy + Rap groups. All subsequent experimental results were obtained from the long-term treatment groups. The tumour volume index stabilized at a mean of 160–200% in the Cy group and 130% in the Cy + Rap group throughout the treatment period. In contrast, tumours in the vehicle control group grew continuously with a mean tumour volume index of 600%, significantly greater than that of the two treatment groups. Based on the western blot analysis of tumours, the mTOR pathway was activated in the vehicle control group and downregulated in the Cy + Rap group when compared with the control and Cy groups. Ki-67 immunostaining of tumours showed significant inhibition of cell proliferation in the Cy + Rap group when compared with that in the control and Cy groups. The ovarian follicle count revealed that the Cy group had significantly fewer primordial follicles (P < 0.001) than the control group, whereas the Cy + Rap group had significantly higher number of primordial follicles (P < 0.001, 2.5 times) than the Cy group. The ratio of primary to primordial follicles was twice as high in the Cy group than in the control group; however, no significant difference was observed between the control group and the Cy + Rap group. Western blot analysis of ovaries revealed that the mTOR pathway was activated by cyclophosphamide and inhibited by rapamycin. The phospho-S6 kinase (pS6K)-positive primordial follicle rate was 2.7 times higher in the Cy group than in the control group. However, this effect was suppressed to a level similar to the control group in the Cy + Rap group. LARGE SCALE DATA None. LIMITATIONS, REASONS FOR CAUTION The combinatorial treatment of breast cancer tumours with rapamycin and cyclophosphamide elicited inhibitory effects on cell proliferative potential compared to cyclophosphamide monotherapy. However, no statistically significant additive effect was observed on tumour volume. Thus, the beneficial antitumour effect afforded by rapamycin administration on breast cancer could not be definitively proven. Although rapamycin has ovarian-protective effects, it does not fully counteract the ovarian toxicity of cyclophosphamide. Nevertheless, rapamycin is advantageous as an ovarian protective agent as it can be used in combination with other ovarian protective agents, such as hormonal therapy. Hence, in combination with other agents, mTOR inhibitors may be sufficiently ovario-protective against high-dose and cyclic cyclophosphamide regimens. WIDER IMPLICATIONS OF THE FINDINGS Compared with a cyclic cyclophosphamide regimen that replicates human clinical practice under breast cancer-bearing conditions, the combination with rapamycin mitigates the ovarian follicle loss of cyclophosphamide without interfering with the anticipated antitumour effects. Hence, rapamycin may represent a new non-invasive treatment option for cyclophosphamide-induced ovarian dysfunction in breast cancer patients. STUDY FUNDING/COMPETING INTEREST(S) This work was not financially supported. The authors declare that they have no conflict of interest.
+
+Lifespan extension and cancer prevention in HER-2/neu transgenic mice treated with low intermittent doses of rapamycin
+
+Number of 
+
+Key takeaways:Low intermittent doses of rapamycin can extend life span and delay cancer in cancer-prone mice, with a complex relationship between life-extension and cancer prevention.
+
+Abstract:Target of Rapamycin (TOR) is involved in cellular and organismal aging. Rapamycin extends lifespan and delays cancer in mice. It is important to determine the minimum effective dose and frequency of its administration that still extends lifespan and prevents cancer. Previously we tested 1.5 mg/kg of rapamycin given subcutaneously 6 times per two weeks followed by a two-week break (1.5 × 6/bi-weekly schedule: total of 6 injections during a 4-week period). This intermittent treatment prolonged lifespan and delayed cancer in cancer-prone female FVB/N HER-2/neu mice. Here, the dose was decreased from 1.5 mg/kg to 0.45 mg/kg per injection. This treatment was started at the age of 2 months (group Rap-2), 4 months (Rap-4), and 5 months (Rap-5). Three control groups received the solvent from the same ages. Rapamycin significantly delayed cancer and decreased tumor burden in Rap-2 and Rap-5 groups, increased mean lifespan in Rap-4 and Rap-5 groups, and increased maximal lifespan in Rap-2 and Rap-5 groups. In Rap-4 group, mean lifespan extension was achieved without significant cancer prevention. The complex relationship between life-extension and cancer-prevention depends on both the direct effect of rapamycin on cancer cells and its anti-aging effect on the organism, which in turn prevents cancer indirectly. We conclude that total doses of rapamycin that are an order of magnitude lower than standard total doses can detectably extend life span in cancer-prone mice.
+
+Rapamycin inhibits oral cancer cell growth by promoting oxidative stress and suppressing ERK1/2, NF-κB and beta-catenin pathways
+
+Number of 
+
+Key takeaways:Rapamycin shows potential as an oral cancer treatment and prevention strategy by inhibiting cancer cell growth and promoting apoptosis through oxidative stress and suppressing cancer-promoting pathways.
+
+Abstract:Treatment of oral cancer is based exclusively on surgery combined with or without chemotherapy. However, it has several side effects. Targeting a new, more effective therapy has become an urgent matter. The purpose of this study was to evaluate the anti-tumor activity of rapamycin in oral cancer and its mechanism of action. Human gingival carcinoma cells were stimulated with different concentrations of rapamycin to assess proliferation, colony formation, cell migration, as well as apoptosis, and autophagy. The expression of proteins involved in the cell cycle (cyclin D1, p15, p21, p27) and autophagy, as well as that of oncogenes and tumor suppressor genes, were determined by quantitative PCR. The signaling pathways were evaluated by Western blotting. Our results show that rapamycin has a selective effect at a low dose on cancer cell growth/survival. This was confirmed by low colony formation and the inhibition of cell migration, while increasing cell apoptosis by activating caspase-9 and -3. Rapamycin promoted cell autophagy and increased mitochondrial oxidative stress by being involved in DNA damage in the exposed cells. Finally, rapamycin exhibits potent anti-oral cancer properties through inhibition of several cancer-promoting pathways (MAPK, NF-κB, and Wnt/beta-catenin). These results indicate that rapamycin could be a potential agent for the treatment of oral cancer and for a prevention strategy.
+
+Abstract P6-07-04: Rapamycin inhibits the stemness of mammary epithelial cells in the premalignant tissues of MMTV-ErbB2 transgenic mice
+
+Number of 
+
+Key takeaways:Rapamycin effectively inhibits ErbB2-mediated mammary tumor development in mice, potentially reducing breast cancer risk.
+
+Abstract:Rapamycin, a well-studied mTOR inhibitor, has been demonstrated to inhibit mammary carcinogenesis at multiple stages, including initiation, invasion, and metastasis, in preclinical animal models. Nevertheless, the cancer preventative potential and underlying mechanisms remain unclear, especially in individual breast cancer subtypes like ErbB2/Her2-positive breast cancers. ErbB2 amplification/overexpression is a particular clinical concern because it occurs in approximately one-third of human breast cancers and is associated with poor prognosis. Therefore, we used MMTV-ErbB2 transgenic mice as our model system to test the efficacy of rapamycin in the prevention of ErbB2-mediated mammary tumor development. Our initial data provided proof of concept regarding the anti-cancer effects of rapamycin in vivo . Indeed, rapamycin (1.5 mg/kg/day for 12 days) significantly reduced the volume and weight of syngeneic 78617 cell-derived mammary tumors in MMTV-ErbB2 mice, despite observed decreases in CD4 + and CD8 + immune cells. Since advanced mammary gland development can serve as an indicator of breast cancer risk, we investigated the effects of rapamycin on mammary gland development in MMTV-ErbB2 mice that were treated with low-dose rapamycin (1 mg/kg/day) between weeks 10 and 20 of age. As such, rapamycin significantly attenuated mammary morphogenesis at 20 weeks of age, as indicated by decreased branching density, ductal elongation, and proliferative index of the premalignant mammary glands. Flow cytometric analysis of isolated primary mammary epithelial cells (MECs) was performed using CD24 and CD49f markers to identify MEC populations. We found that rapamycin has a significant impact on MEC stemness based on changes in luminal (CD24 high CD49f low ), mammary stem cell (MaSC)-enriched (CD24 high CD49f high ), and myoepithelial/basal (CD24 low/high CD49f high ) MEC populations. We also used CD61 and CD49f markers to identify a population enriched with luminal progenitor cells (CD61 high CD49f high ) that was selectively inhibited by rapamycin. Consistent with our flow cytometric analyses, rapamycin inhibited the luminal progenitor cell-enriched population, self-renewal, and anchorage-independent cell growth of primary MECs, as demonstrated by colony-forming cell, mammosphere, and 3D culture assays, respectively. These functional stem cell assays further corroborate that rapamycin suppresses the stemness of primary MECs. Molecular analysis of MECs demonstrated that rapamycin inhibited mTOR signaling, as expected. Importantly, rapamycin also significantly suppressed the receptor tyrosine kinase/ErbB2, estrogen receptor, Wnt/β-catenin, and TGFβ/Smad3 signaling pathways prior to malignant transformation. Collectively, our study provides evidence that rapamycin has potential cancer preventative effects in the mammary glands of MMTV-ErbB2 mice during the premalignant risk window. These rapamycin-induced anti-cancer effects ultimately highlight the promising clinical significance of rapamycin for the prevention and treatment of human ErbB2-overexpressing breast cancers. Citation Format: Yang X, Zhao Q, Parris AB, Howard EW, Zhao M, Guo Z, Xing Y, Ma Z. Rapamycin inhibits the stemness of mammary epithelial cells in the premalignant tissues of MMTV-ErbB2 transgenic mice . In: Proceedings of the 2017 San Antonio Breast Cancer Symposium; 2017 Dec 5-9; San Antonio, TX. Philadelphia (PA): AACR; Cancer Res 2018;78(4 Suppl):Abstract nr P6-07-04.
+
+Selective Synergy of Rapamycin Combined With Methioninase on Cancer Cells Compared to Normal Cells
+
+Number of 
+
+Key takeaways:Rapamycin and rMETase show a cancer-specific synergistic effect when combined against colorectal-cancer cells, suggesting their potential as an effective targeted cancer therapy.
+
+Abstract:Background/Aim: Rapamycin and recombinant methioninase (rMETase) have both shown efficacy to target cancer cells. Rapamycin prevents cancer-cell growth by inhibition of the mTOR protein kinase. rMETase, by degrading methionine, targets the methionine addiction of cancer and has been shown to improve the efficacy of chemotherapy drugs. In the present study, we aimed to determine if a synergy exists between rapamycin and rMETase when used in combination against a colorectal-carcinoma cell line, compared to normal fibroblasts, in vitro. Materials and Methods: The half-maximal inhibitory concentrations (IC50) of rapamycin alone and rMETase alone against the HCT-116 human colorectal-cancer cell line and Hs-27 human fibroblasts were determined using the CCK-8 Cell Viability Assay. After calculating the IC50 of each drug, we determined the efficacy of rapamycin and rMETase combined on both HCT-116 and Hs-27. Results: Hs-27 normal fibroblasts were more sensitive to rapamycin than HCT-116 colon-cancer cells (IC50=0.37 nM and IC50=1.38 nM, respectively). HCT-116 cells were more sensitive to rMETase than Hs-27 cells (IC50 0.39 U/ml and IC50 0.96 U/ml, respectively). The treatment of Hs-27 cells with the combination of rapamycin (IC50=0.37 nM) and rMETase (IC50=0.96 U/ml) showed no significant difference in their effect on Hs-27 cell viability compared to the two drugs being used separately. However, the treatment of HCT-116 cells with the combination of rapamycin (IC50=1.38 nM) and rMETase (IC50=0.39 U/ml) was able to decrease cancer-cell viability significantly more than either single-drug treatment. Conclusion: Rapamycin and rMETase, when used in combination against colorectal-cancer cells, but not normal fibroblasts, in vitro, have a cancer-specific synergistic effect, suggesting that the combination of these drugs can be used as an effective, targeted cancer therapy.
+
+Rapamycin Induces Phenotypic Alterations in Oral Cancer Cells That May Facilitate Antitumor T Cell Responses
+
+Number of 
+
+Key takeaways:Rapamycin treatment in oral cancer can cause direct antitumor and immunomodulatory effects by inhibiting mTOR activity and enhancing immune responses.
+
+Abstract:Objectives: In this study, we investigated the antitumor immunomodulatory effects of rapamycin in oral cancer. Study Design: We examined the proliferation, apoptosis, and migration of cancer cells and investigated the cell surface expression levels of immune accessory molecules and T cell immune responses in vitro. We investigated the effect of in vivo administration of rapamycin on immune cell distribution and T cell immune responses in oral tumor-bearing mice. Results: Rapamycin treatment significantly inhibited OSCC cell proliferation and migration, increased apoptotic cell death, and upregulated cell surface expression of several immune accessory and adhesion molecules, including CD40, CD83, PD-L1, PD-L2, MHC class I, P-selectin, and VCAM-1. These cancer cells augmented T cell proliferation. In vivo rapamycin administration significantly attenuated mouse tumor growth with an increased proportion of immune cells, including CD4+ T cells, CD8+ T cells, and dendritic cells (DCs); decreased the proportion of immune suppressive cells, such as myeloid-derived suppressor cells and regulatory T cells; enhanced DC maturation and upregulated the surface expression of CD40, CD86, and ICAM-1. Conclusions: Our results suggest that the therapeutic effect of mTOR inhibition in oral cancer can cause direct antitumor and immunomodulatory effects.
+
+Rapamycin as a Potential Alternative Drug for Squamous Cell Gingiva Carcinoma (Ca9-22): A Focus on Cell Cycle, Apoptosis and Autophagy Genetic Profile
+
+Number of 
+
+Key takeaways:Rapamycin shows promise as a clinical agent for managing Ca9-22 gingiva carcinoma cells by inhibiting cell growth and inducing apoptosis, autophagy, and cellular stress.
+
+Abstract:Oral cancer is considered as one of the most common malignancies worldwide. Its conventional treatment primarily involves surgery with or without postoperative adjuvant therapy. The targeting of signaling pathways implicated in tumorigenesis is becoming increasingly prevalent in the development of new anticancer drug candidates. Based on our recently published data, Rapamycin, an inhibitor of the mTOR pathway, exhibits selective antitumor activity in oral cancer by inhibiting cell proliferation and inducing cancer cell apoptosis, autophagy, and cellular stress. In the present study, our focus is on elucidating the genetic determinants of Rapamycin’s action and the interaction networks accountable for tumorigenesis suppression. To achieve this, gingival carcinoma cell lines (Ca9-22) were exposed to Rapamycin at IC50 (10 µM) for 24 h. Subsequently, we investigated the genetic profiles related to the cell cycle, apoptosis, and autophagy, as well as gene–gene interactions, using QPCR arrays and the Gene MANIA website. Overall, our results showed that Rapamycin at 10 µM significantly inhibits the growth of Ca9-22 cells after 24 h of treatment by around 50% by suppression of key modulators in the G2/M transition, namely, Survivin and CDK5RAP1. The combination of Rapamycin with Cisplatin potentializes the inhibition of Ca9-22 cell proliferation. A P1/Annexin-V assay was performed to evaluate the effect of Rapamycin on cell apoptosis. The results obtained confirm our previous findings in which Rapamycin at 10 μM induces a strong apoptosis of Ca9-22 cells. The live cells decreased, and the late apoptotic cells increased when the cells were treated by Rapamycin. To identify the genes responsible for cell apoptosis induced by Rapamycin, we performed the RT2 Profiler PCR Arrays for 84 apoptotic genes. The blocked cells were believed to be directed towards cell death, confirmed by the downregulation of apoptosis inhibitors involved in both the extrinsic and intrinsic pathways, including BIRC5, BNIP3, CD40LG, DAPK1, LTA, TNFRSF21 and TP73. The observed effects of Rapamycin on tumor suppression are likely to involve the autophagy process, evidenced by the inhibition of autophagy modulators (TGFβ1, RGS19 and AKT1), autophagosome biogenesis components (AMBRA1, ATG9B and TMEM74) and autophagy byproducts (APP). Identifying gene–gene interaction (GGI) networks provided a comprehensive view of the drug’s mechanism and connected the studied tumorigenesis processes to potential functional interactions of various kinds (physical interaction, co-expression, genetic interactions etc.). In conclusion, Rapamycin shows promise as a clinical agent for managing Ca9-22 gingiva carcinoma cells.
+
+Resveratrol potentiates the anti-tumor effects of rapamycin in papillary thyroid cancer: PI3K/AKT/mTOR pathway involved.
+
+Number of 
+
+Key takeaways:The combination of rapamycin and resveratrol significantly enhances the anti-tumor effects in papillary thyroid cancer by inhibiting proliferation, invasion, migration, and inducing apoptosis through the PI3K/AKT/mTOR pathway.
+
+Transient rapamycin treatment can increase lifespan and healthspan in middle-aged mice
+
+Number of 
+
+Key takeaways:Short-term rapamycin treatment can increase lifespan and improve healthspan in middle-aged mice, with potential benefits for aging prevention and cancer prevention.
+
+Abstract:The FDA approved drug rapamycin increases lifespan in rodents and delays age-related dysfunction in rodents and humans. Nevertheless, important questions remain regarding the optimal dose, duration, and mechanisms of action in the context of healthy aging. Here we show that 3 months of rapamycin treatment is sufficient to increase life expectancy by up to 60% and improve measures of healthspan in middle-aged mice. This transient treatment is also associated with a remodeling of the microbiome, including dramatically increased prevalence of segmented filamentous bacteria in the small intestine. We also define a dose in female mice that does not extend lifespan, but is associated with a striking shift in cancer prevalence toward aggressive hematopoietic cancers and away from non-hematopoietic malignancies. These data suggest that a short-term rapamycin treatment late in life has persistent effects that can robustly delay aging, influence cancer prevalence, and modulate the microbiome. DOI: 
+
+Rapamycin is an effective inhibitor of human renal cancer metastasis.
+
+Number of 
+
+Key takeaways:Rapamycin effectively inhibits human renal cancer metastasis and may prevent progression in patients with ESRD who have received renal allografts.
+
+Abstract:UNLABELLED
+Rapamycin is an effective inhibitor of human renal cancer metastasis.
+
+BACKGROUND
+Human renal cell cancer (RCC) is common and is 10 to 100 times more frequent in patients with end-stage renal disease (ESRD) and candidates for renal transplantation. Treatment of metastatic RCC is largely ineffective and is further undermined by immunosuppressive therapy in transplant recipients. A treatment regimen that prevents transplant rejection while constraining RCC progression would be of high value.
+
+METHODS
+We developed a human RCC pulmonary metastasis model using human RCC 786-O as the tumor challenge and the severe combined immunodeficient (SCID) beige mouse as the host. We explored the effect of rapamycin, cyclosporine, or rapamycin plus cyclosporine on the development of pulmonary metastases and survival. The effects of the drugs on tumor cell growth, apoptosis, and expression of vascular endothelial growth factor (VEGF-A) and transforming growth factor beta1 (TGF-beta1) were also investigated.
+
+RESULTS
+Rapamycin reduced, whereas cyclosporine increased, the number of pulmonary metastases. Rapamycin was effective in cyclosporine-treated mice, and rapamycin or rapamycin plus cyclosporine prolonged survival. Rapamycin growth arrested RCC 786-O at the G1 phase and reduced VEGF-A expression. Immunostaining of lung tissues for von Willebrand factor was minimal and circulating levels of VEGF-A and TGF-beta1 were lower in the rapamycin-treated mice compared to untreated or cyclosporine-treated mice.
+
+CONCLUSION
+Our findings support the idea that rapamycin may be of value for patients with RCC and that its antitumor efficacy is realized by cell cycle arrest and targeted reduction of VEGF-A and TGF-beta1. A regimen of rapamycin and cyclosporine, demonstrated to be effective in reducing acute rejection of renal allografts, may prevent RCC progression as well, and has the potential to prevent mortality due to RCC in patients with ESRD who have received renal allografts.
+
+Rapamycin increases leukemia cell sensitivity to chemotherapy by regulating mTORC1 pathway-mediated apoptosis and autophagy.
+
+Number of 
+
+Key takeaways:Rapamycin combined with chemotherapy effectively treats acute myeloid leukemia (AML), with its mechanism likely linked to mTORC1 pathway-mediated apoptosis and autophagy.
+
+Abstract:This study investigated the effect of rapamycin alone and in combination with chemotherapy (doxorubicin and cytarabine) on AML. Human acute monocytic leukemia cell line SHI-1 and NPG AML model mice created by intravenous injection of SHI-1 cell were treated with rapamycin, chemotherapy, or rapamycin plus chemotherapy. Analysis by cell counting kit-8, western blot, flow cytometry, and immunohistochemistry was performed, and results suggested that both rapamycin and chemotherapy inhibited proliferation of SHI-1 cells both in vitro and in vivo, suppressed neoplasm growth in vivo, and promoted survival of NPG AML mice. The antitumor effect of rapamycin plus chemotherapy was better than that of rapamycin alone and chemotherapy alone. In addition, western blot results demonstrated that rapamycin inhibited the phosphorylation of mTOR downstream targets 4EBP1 and S6K1 in SHI-1 cells, and increased the pro-apoptosis-related protein Bax and autophagy-associated proteins Beclin-1, LC3B-II, and ATG5 while reducing the anti-apoptosis-related protein Bcl-2. In conclusion, the results of this study indicate that rapamycin acts synergistically with doxorubicin and cytarabine in AML treatment, and its underlying mechanism might be associated with mTORC1 pathway-mediated apoptosis and autophagy.
+
+Safety Profile of Rapamycin Perfluorocarbon Nanoparticles for Preventing Cisplatin-Induced Kidney Injury
+
+Number of 
+
+Key takeaways:Rapamycin perfluorocarbon nanoparticles show potential in mitigating cisplatin-induced acute kidney injury with a single preventative dose, improving rapamycin pharmacokinetics and safety without affecting anti-cancer therapy efficacy.
+
+Abstract:Cancer treatment-induced toxicities may restrict maximal effective dosing for treatment and cancer survivors’ quality of life. It is critical to develop novel strategies that mitigate treatment-induced toxicity without affecting the efficacy of anti-cancer therapies. Rapamycin is a macrolide with anti-cancer properties, but its clinical application has been hindered, partly by unfavorable bioavailability, pharmacokinetics, and side effects. As a result, significant efforts have been undertaken to develop a variety of nano-delivery systems for the effective and safe administration of rapamycin. While the efficacy of nanostructures carrying rapamycin has been studied intensively, the pharmacokinetics, biodistribution, and safety remain to be investigated. In this study, we demonstrate the potential for rapamycin perfluorocarbon (PFC) nanoparticles to mitigate cisplatin-induced acute kidney injury with a single preventative dose. Evaluations of pharmacokinetics and biodistribution suggest that the PFC nanoparticle delivery system improves rapamycin pharmacokinetics. The safety of rapamycin PFC nanoparticles was shown both in vitro and in vivo. After a single dose, no disturbance was observed in blood tests or cardiac functional evaluations. Repeated dosing of rapamycin PFC nanoparticles did not affect overall spleen T cell proliferation and responses to stimulation, although it significantly decreased the number of Foxp3+CD4+ T cells and NK1.1+ cells were observed.
+
+Rapamycin: A Bacteria-Derived Immunosuppressant That Has Anti-atherosclerotic Effects and Its Clinical Application
+
+Number of 
+
+Key takeaways:Rapamycin, a bacteria-derived immunosuppressant, has multiple protective effects against atherosclerosis and has been successfully used as an anti-proliferation agent to prevent in-stent restenosis or vascular graft stenosis in patients with coronary artery disease.
+
+Abstract:Atherosclerosis (AS) is the leading cause of stroke and death worldwide. Although many lipid-lowering or antiplatelet medicines have been used to prevent the devastating outcomes caused by AS, the serious side effects of these medicines cannot be ignored. Moreover, these medicines are aimed at preventing end-point events rather than addressing the formation and progression of the lesion. Rapamycin (sirolimus), a fermentation product derived from soil samples, has immunosuppressive and anti-proliferation effects. It is an inhibitor of mammalian targets of rapamycin, thereby stimulating autophagy pathways. Several lines of evidence have demonstrated that rapamycin possess multiple protective effects against AS through various molecular mechanisms. Moreover, it has been used successfully as an anti-proliferation agent to prevent in-stent restenosis or vascular graft stenosis in patients with coronary artery disease. A thorough understanding of the biomedical regulatory mechanism of rapamycin in AS might reveal pathways for retarding AS. This review summarizes the current knowledge of biomedical mechanisms by which rapamycin retards AS through action on various cells (endothelial cells, macrophages, vascular smooth muscle cells, and T-cells) in early and advanced AS and describes clinical and potential clinical applications of the agent.
+
+Rapamycin increases oxidative metabolism and enhances metabolic flexibility in human cardiac fibroblasts
+
+Number of 
+
+Key takeaways:Rapamycin increases oxidative metabolism and enhances metabolic flexibility in human cardiac fibroblasts, potentially preventing premature senescence and promoting longevity.
+
+Abstract:Inhibition of mTOR signaling using rapamycin has been shown to increase lifespan and healthspan in multiple model organisms; however, the precise mechanisms for the beneficial effects of rapamycin remain uncertain. We have previously reported that rapamycin delays senescence in human cells and that enhanced mitochondrial biogenesis and protection from mitochondrial stress is one component of the benefit provided by rapamycin treatment. Here, using two models of senescence, replicative senescence and senescence induced by the presence of the Hutchinson-Gilford progeria lamin A mutation, we report that senescence is accompanied by elevated glycolysis and increased oxidative phosphorylation, which are both reduced by rapamycin. Measurements of mitochondrial function indicate that direct mitochondria targets of rapamycin are succinate dehydrogenase and matrix alanine aminotransferase. Elevated activity of these enzymes could be part of complex mechanisms that enable mitochondria to resume their optimal oxidative phosphorylation and resist senescence. This interpretation is supported by the fact that rapamycin-treated cultures do not undergo a premature senescence in response to the replacement of glucose with galactose in the culture medium, which forces a greater reliance on oxidative phosphorylation. Additionally, long-term treatment with rapamycin increases expression of the mitochondrial carrier protein UCP2, which facilitates the movement of metabolic intermediates across the mitochondrial membrane. The results suggest that rapamycin impacts mitochondrial function both through direct interaction with the mitochondria and through altered gene expression of mitochondrial carrier proteins.
+
+SEX- AND AGE-SPECIFIC METABOLIC EFFECTS OF EARLY-LIFE RAPAMYCIN TREATMENT IN UM-HET3 MICE
+
+Number of 
+
+Key takeaways:Early-life rapamycin treatment in mice has long-term effects on metabolic parameters, with sex and age-specific effects.
+
+Abstract:Abstract UM-HET3 mice were treated with rapamycin (4 mg/kg, i.p., 3 times/week) from 15 to 56 days of age. At day 15, no significant differences in body weight (BW) between the treatment and control groups within each sex. During the treatment, males in the treated group consistently had lower BW than controls (pairwise-t test, P < 0.01), while no differences were seen in females. Interestingly, the treatment significantly reduced the relative weights of fat pads (visceral, subcutaneous, and brown fat) in males, with a suggestive reduction in the relative pancreas weight and significant increases in heart, liver, and kidney relative weights. No significant organ weight changes were observed in females. At 2 months, rapamycin significantly raised fasting glucose in males (t test, P = 0.0002) but not in females. By 6 months, fasting glucose levels were significantly reduced in treated mice compared to controls, with a 26.7% reduction in males and 15.7% in females (t test, P = 0.0001 and 0.041, respectively). Glucose tolerance, assessed by the area under the curve (AUC) of relative glucose levels, was significantly increased by rapamycin in both sexes at 2 and 6 months (t test, P < 0.05), except in 6-month-old males. No significant effects or interactions were found in the insulin tolerance test. Indirect calorimetry showed no significant changes in heat production, but a suggestive increase in RQ was observed in treated males. These findings suggest that early-life rapamycin treatment may have long-term effects on metabolic parameters, and the effects are sex- and age-specific.
+
+Duration of rapamycin treatment has differential effects on metabolism in mice.
+
+Number of 
+
+Key takeaways:Prolonged rapamycin treatment in mice leads to beneficial metabolic alterations, explaining the 'rapamycin paradox' and supporting the potential causal importance of metabolic alterations in longevity.
+
+Rapamycin Reverses Metabolic Deficits in Lamin A/C-Deficient Mice.
+
+Number of 
+
+Key takeaways:Rapamycin can reverse metabolic deficits in Lamin A/C-deficient mice, restoring adiposity and mTOR signaling.
+
+Rapamycin increases mitochondrial efficiency by mtDNA-dependent reprogramming of mitochondrial metabolism in Drosophila
+
+Number of 
+
+Key takeaways:Rapamycin's beneficial effects on mitochondrial metabolism depend on genes encoded in mitochondrial DNA, suggesting a link between mitochondrial genotype and its effects on metabolic pathways.
+
+Abstract:ABSTRACT Downregulation of the mammalian target of rapamycin (mTOR) pathway by its inhibitor rapamycin is emerging as a potential pharmacological intervention that mimics the beneficial effects of dietary restriction. Modulation of mTOR has diverse effects on mitochondrial metabolism and biogenesis, but the role of the mitochondrial genotype in mediating these effects remains unknown. Here, we use novel mitochondrial genome replacement strains in Drosophila to test the hypothesis that genes encoded in mitochondrial DNA (mtDNA) influence the mTOR pathway. We show that rapamycin increases mitochondrial respiration and succinate dehydrogenase activity, decreases H2O2 production and generates distinct shifts in the metabolite profiles of isolated mitochondria versus whole Drosophila. These effects are disabled when divergent mitochondrial genomes from D. simulans are placed into a common nuclear background, demonstrating that the benefits of rapamycin to mitochondrial metabolism depend on genes encoded in the mtDNA. Rapamycin is able to enhance mitochondrial respiration when succinate dehydrogenase activity is blocked, suggesting that the beneficial effects of rapamycin on these two processes are independent. Overall, this study provides the first evidence for a link between mitochondrial genotype and the effects of rapamycin on mitochondrial metabolic pathways.
+
+Rapamycin treatment benefits glucose metabolism in mouse models of type 2 diabetes
+
+Number of 
+
+Key takeaways:Rapamycin treatment can improve glucose metabolism in type 2 diabetes mouse models, with benefits depending on the individual's pancreatic physiology.
+
+Abstract:Numerous studies suggest that rapamycin treatment promotes insulin resistance, implying that rapamycin could have negative effects on patients with, or at risk for, type 2 diabetes (T2D). New evidence, however, indicates that rapamycin treatment produces some benefits to energy metabolism, even in the context of T2D. Here, we survey 5 mouse models of T2D (KK, KK-Ay, NONcNZO10, BKS-db/db, TALLYHO) to quantify effects of rapamycin on well-recognized markers of glucose homeostasis within a wide range of T2D environments. Interestingly, dietary rapamycin treatment did not exacerbate impaired glucose or insulin tolerance, or elevate circulating lipids as T2D progressed. In fact, rapamycin increased insulin sensitivity and reduced weight gain in 3 models, and decreased hyperinsulinemia in 2 models. A key covariate of this genetically-based, differential response was pancreatic insulin content (PIC): Models with low PIC exhibited more beneficial effects than models with high PIC. However, a minimal PIC threshold may exist, below which hypoinsulinemic hyperglycemia develops, as it did in TALLYHO. Our results, along with other studies, indicate that beneficial or detrimental metabolic effects of rapamycin treatment, in a diabetic or pre-diabetic context, are driven by the interaction of rapamycin with the individual model's pancreatic physiology.
+
+Rapamycin/metformin co‐treatment normalizes insulin sensitivity and reduces complications of metabolic syndrome in type 2 diabetic mice
+
+Number of 
+
+Key takeaways:Combining rapamycin and metformin effectively normalizes insulin sensitivity and reduces complications of metabolic syndrome in type 2 diabetic mice, with potential applications in treating type 2 diabetes and promoting healthy aging.
+
+Abstract:Rapamycin treatment has positive and negative effects on progression of type 2 diabetes (T2D) in a recombinant inbred polygenic mouse model, male NONcNZO10/LtJ (NcZ10). Here, we show that combination treatment with metformin ameliorates negative effects of rapamycin while maintaining its benefits. From 12 to 30 weeks of age, NcZ10 males were fed a control diet or diets supplemented with rapamycin, metformin, or a combination of both. Rapamycin alone reduced weight gain, adiposity, HOMA‐IR, and inflammation, and prevented hyperinsulinemia and pre‐steatotic hepatic lipidosis, but exacerbated hyperglycemia, hypertriglyceridemia, and pancreatic islet degranulation. Metformin alone reduced hyperinsulinemia and circulating c‐reactive protein, but exacerbated nephropathy. Combination treatment retained the benefits of both while preventing many of the deleterious effects. Importantly, the combination treatment reversed effects of rapamycin on markers of hepatic insulin resistance and normalized systemic insulin sensitivity in this inherently insulin‐resistant model. In adipose tissue, rapamycin attenuated the expression of genes associated with adipose tissue expansion (Mest, Gpam), inflammation (Itgam, Itgax, Hmox1, Lbp), and cell senescence (Serpine1). In liver, the addition of metformin counteracted rapamycin‐induced alterations of G6pc, Ppara, and Ldlr expressions that promote hyperglycemia and hypertriglyceridemia. Both rapamycin and metformin treatment reduced hepatic Fasn expression, potentially preventing lipidosis. These results delineate a state of “insulin signaling restriction” that withdraws endocrine support for further adipogenesis, progression of the metabolic syndrome, and the development of its comorbidities. Our results are relevant for the treatment of T2D, the optimization of current rapamycin‐based treatments for posttransplant rejection and various cancers, and for the development of treatments for healthy aging.
+
+Metabolic consequences of long-term rapamycin exposure on common marmoset monkeys (Callithrix jacchus)
+
+Number of 
+
+Key takeaways:Long-term rapamycin treatment in marmoset monkeys resulted in minor metabolic consequences, suggesting improved health span and metabolic functioning.
+
+Abstract:Rapamycin has been shown to extend lifespan in rodent models, but the effects on metabolic health and function have been widely debated in both clinical and translational trials. Prior to rapamycin being used as a treatment to extend both lifespan and healthspan in the human population, it is vital to assess the side effects of the treatment on metabolic pathways in animal model systems, including a closely related non-human primate model. In this study, we found that long-term treatment of marmoset monkeys with orally-administered encapsulated rapamycin resulted in no overall effects on body weight and only a small decrease in fat mass over the first few months of treatment. Rapamycin treated subjects showed no overall changes in daily activity counts, blood lipids, or significant changes in glucose metabolism including oral glucose tolerance. Adipose tissue displayed no differences in gene expression of metabolic markers following treatment, while liver tissue exhibited suppressed G6Pase activity with increased PCK and GPI activity. Overall, the marmosets revealed only minor metabolic consequences of chronic treatment with rapamycin and this adds to the growing body of literature that suggests that chronic and/or intermittent rapamycin treatment results in improved health span and metabolic functioning. The marmosets offer an interesting alternative animal model for future intervention testing and translational modeling.
+
+Chronic Rapamycin Treatment Causes Glucose Intolerance and Hyperlipidemia by Upregulating Hepatic Gluconeogenesis and Impairing Lipid Deposition in Adipose Tissue
+
+Number of 
+
+Key takeaways:Chronic rapamycin treatment promotes insulin resistance, severe glucose intolerance, and increased gluconeogenesis in rats, despite modest reduction in adiposity.
+
+Abstract:OBJECTIVE The mammalian target of rapamycin (mTOR)/p70 S6 kinase 1 (S6K1) pathway is a critical signaling component in the development of obesity-linked insulin resistance and operates a nutrient-sensing negative feedback loop toward the phosphatidylinositol 3-kinase (PI 3-kinase)/Akt pathway. Whereas acute treatment of insulin target cells with the mTOR complex 1 (mTORC1) inhibitor rapamycin prevents nutrient-induced insulin resistance, the chronic effect of rapamycin on insulin sensitivity and glucose metabolism in vivo remains elusive. RESEARCH DESIGN AND METHODS To assess the metabolic effects of chronic inhibition of the mTORC1/S6K1 pathway, rats were treated with rapamycin (2 mg/kg/day) or vehicle for 15 days before metabolic phenotyping. RESULTS Chronic rapamycin treatment reduced adiposity and fat cell number, which was associated with a coordinated downregulation of genes involved in both lipid uptake and output. Rapamycin treatment also promoted insulin resistance, severe glucose intolerance, and increased gluconeogenesis. The latter was associated with elevated expression of hepatic gluconeogenic master genes, PEPCK and G6Pase, and increased expression of the transcriptional coactivator peroxisome proliferator–activated receptor-γ coactivator-1α (PGC-1α) as well as enhanced nuclear recruitment of FoxO1, CRTC2, and CREB. These changes were observed despite normal activation of the insulin receptor substrate/PI 3-kinase/Akt axis in liver of rapamycin-treated rats, as expected from the blockade of the mTORC1/S6K1 negative feedback loop. CONCLUSIONS These findings unravel a novel mechanism by which mTORC1/S6K1 controls gluconeogenesis through modulation of several key transcriptional factors. The robust induction of the gluconeogenic program in liver of rapamycin-treated rats underlies the development of severe glucose intolerance even in the face of preserved hepatic insulin signaling to Akt and despite a modest reduction in adiposity.
+
+Rapamycin facilitates differentiation of regulatory T cells via enhancement of oxidative phosphorylation.
+
+Number of 
+
+Key takeaways:Rapamycin promotes regulatory T cell differentiation by disrupting glycolysis and favoring mitochondrial metabolism, affecting their metabolic reprogramming.
+
+Effect of rapamycin on hepatic metabolomics of non-alcoholic fatty liver rats based on non-targeted platform.
+
+Number of 
+
+Key takeaways:Rapamycin has a potential protective effect against high-fat and high-cholesterol diet-induced non-alcoholic fatty liver disease, potentially through mediating bile secretion and glycerophospholipid metabolism.
+
+Differential effects of rapamycin on glucose metabolism in 9 inbred strains.
+
+Number of 
+
+Key takeaways:Rapamycin delays glucose clearance in mice, but has strain-specific effects on glucose clearance without altering systemic insulin sensitivity, highlighting genetic differences in its metabolic response.
+
+Abstract:Studies in mice suggest that rapamycin has a negative impact on glucose homeostasis by inducing insulin resistance. However, results have been inconsistent and difficult to assess because the strains, methods of treatment, and analysis vary among studies. Using a consistent protocol, we surveyed 9 inbred strains of mice for the effect of rapamycin on various aspects of glucose metabolism. Across all strains, rapamycin significantly delayed glucose clearance after challenge. However, rapamycin showed no main effect on systemic insulin sensitivity. Analysis of individual strains shows that rapamycin induced higher glucose values at 15 minutes post challenge in 7/9 strains. However, only 3 strains show rapamycin-induced reduction in glucose clearance from 15 to 120 minutes. While pancreatic insulin content was reduced by rapamycin in 7 strains, none showed reduced serum insulin values. While one strain showed no effects of rapamycin on glucose metabolism (129), another showed increased systemic insulin sensitivity (B6). We suggest that rapamycin likely inhibits insulin production/secretion in most strains while having strain-specific effects on glucose clearance without altering systemic insulin sensitivity. This strain survey indicates that genetic differences greatly influence the metabolic response to rapamycin.
+
+NEAT1/hsa-miR-372-3p axis participates in rapamycin-induced lipid metabolic disorder.
+
+Number of 
+
+Key takeaways:Targeting the NEAT1/hsa-miR-372-3p/AGPS/APOC4 axis may help combat rapamycin-induced dyslipidemia after liver transplantation.
+
+The Mechanistic Target of Rapamycin: The Grand ConducTOR of Metabolism and Aging.
+
+Number of 
+
+Key takeaways:Rapamycin extends lifespan in mice by inhibiting mTOR, a central coordinator of organismal metabolism, but its negative metabolic side effects may hinder its adoption for treating aging and metabolism diseases.
+
+Rapamycin reverses age-related increases in mitochondrial ROS production at complex I, oxidative stress, accumulation of mtDNA fragments inside nuclear DNA, and lipofuscin level, and increases autophagy, in the liver of middle-aged mice
+
+Number of 
+
+Key takeaways:Rapamycin increases longevity in mice by lowering mitochondrial ROS production and increasing autophagy, potentially decreasing damage accumulated with age and promoting longevity.
+
+Rapamycin-mediated lifespan increase in mice is dose and sex dependent and metabolically distinct from dietary restriction
+
+Number of 
+
+Key takeaways:Rapamycin-induced lifespan increase in mice is dose and sex dependent, and metabolically distinct from dietary restriction, with distinct effects on endocrine and metabolic changes.
+
+Abstract:Rapamycin, an inhibitor of mTOR kinase, increased median lifespan of genetically heterogeneous mice by 23% (males) to 26% (females) when tested at a dose threefold higher than that used in our previous studies; maximal longevity was also increased in both sexes. Rapamycin increased lifespan more in females than in males at each dose evaluated, perhaps reflecting sexual dimorphism in blood levels of this drug. Some of the endocrine and metabolic changes seen in diet‐restricted mice are not seen in mice exposed to rapamycin, and the pattern of expression of hepatic genes involved in xenobiotic metabolism is also quite distinct in rapamycin‐treated and diet‐restricted mice, suggesting that these two interventions for extending mouse lifespan differ in many respects.
+
+About-face on the metabolic side effects of rapamycin
+
+Number of 
+
+Key takeaways:Rapamycin can extend lifespan and improve age-related functional decline in mice, but its potential as a pro-longevity therapeutic faces challenges due to its metabolic side effects and potential for permanent alteration in metabolic function.
+
+Abstract:Rapamycin, an inhibitor of the mTOR pathway, can extend lifespan and improve age-related functional decline in mice, thereby providing the first proof of principal that a pharmaceutical agent can slow the aging process in mammals . These outcomes have proven robust in repeated studies, however, their potential translational relevance towards a means to slow aging or prevent age-related disease in otherwise healthy humans remains unclear. Part of the challenge in addressing the potential of rapamycin (or its analogs) as a pro-longevity therapeutic lies in its known clinical risks for adverse side-effects. Primary amongst these are metabolic defects that include hyperglycemia, hyperlipidemia, insulin resistance and increased incidence of new-onset type 2 diabetes. In healthy rodents, treatment with rapamycin also causes a relatively rapid, dose-dependent impairment of markers of glucose homeostasis . The nature of the metabolic effects/defects caused by rapamycin remain ambiguous in regards to their role in longevity and healthy aging. Fang et al. suggested the effects of rapamycin on metabolism depend on the length of treatment with a detrimental effect on glucose metabolism in the short-term whereas mice treated chronically with rapamycin actually became insulin-sensitive . On the other hand, Blagosklonny has proposed that the presumed metabolic impairments caused by rapamycin may simply be a consequence of its action as a “starvation-mimetic” and, further, may be fundamentally required for its pro-longevity effect . 
+ 
+Clarifying these uncertain relationships could pave the way to understanding how rapamycin, and thus targeting mTOR, could be used in ways that maximize its benefit during treatment. To this goal, several significant questions may be raised, the first of which is the molecular nature of the metabolic impairments imparted by rapamycin. Several recent studies have elegantly shown that chronic treatment with rapamycin inhibits mTORC2 signaling which may be a primary culprit in its alteration of glucose metabolism. Interestingly, Lamming et al. show that metabolic effects of reduced mTORC2 are independent of those on lifespan in mice with deletion of Rictor . Because rapamycin has now been shown to be promiscuous in its inhibition of the mTOR complexes, approaches that specifically target mTORC1 may help in this regard. 
+ 
+A second question that has arisen is whether the metabolic impairments caused by rapamycin can be alleviated. These effects in mice are dose-dependent 
+ 
+though until recently it has been unclear whether such treatment with rapamycin causes a permanent alteration in metabolic function. To better understand this question, we designed a straightforward study, now published in Aging, that tested whether the metabolic deficiencies that occur in mice chronically treated with encapsulated rapamycin are retained after the cessation of treatment . We also took this opportunity to test whether diet, genotype, and time of treatment could alter the metabolic effects of rapamycin treatment. In this study, glucose homeostasis, as measured by glucose and insulin tolerance tests, was significantly impaired by rapamycin in both inbred (C57BL/6) and genetically heterogeneous (UT-HET3) mice. This rapamycin-induced impairment occurred in mice fed either low fat or high fat diets and, moreover, we found no evidence that increasing the length of treatment promoted any improvement in metabolic phenotypes as has previously been suggested . However, once we ended the rapamycin treatment, all markers of glucose homeostasis almost completely returned to normal; i.e., glucose homeostasis in previously rapamycin-treated mice was no different from those never treated with rapamycin. Perhaps most interestingly, this reversal occurred in a relatively short period of time (1-2 weeks) even after long term (4 months) rapamycin treatment, suggesting that these metabolic side effects are a consequence of ongoing use of this drug and are not permanent alterations to the glucose homeostatic network. 
+ 
+Many of the pre-translational concerns regarding the usefulness of targeting the mTOR pathway revolve around discovering ways to mitigate its side effects while still retaining the beneficial effects. Our finding that the metabolic impairments caused by rapamycin can be alleviated suggest that alternative treatment regimens might be a feasible step towards this goal. One possibility could be intermittent treatment with rapamycin; Leontieva et al recently showed that a once-weekly treatment with rapamycin extends lifespan in high fat-fed mice without altering glucose or insulin levels . A second possibility might be pairing rapamycin with therapeutic treatment for metabolic dysfunction. Rosiglitazone, an insulin sensitizer, can partially improve the glucose impairments caused by rapamycin when administered concurrently . To test the effects on lifespan of such an approach, the NIA's Intervention Testing Program is currently performing longevity studies in which mice are treated concurrently with rapamycin and the antidiabetic drug metformin. 
+ 
+These findings will be an important piece in solving the puzzle regarding the complicated role of rapamycin (and mTOR) in metabolism and longevity.
+
+Rapamycin-Induced Insulin Resistance Is Mediated by mTORC2 Loss and Uncoupled from Longevity
+
+Number of 
+
+Key takeaways:Rapamycin extends life span but disrupts metabolic regulation and insulin sensitivity, with mTORC2 disruption being an important mediator of its effects in vivo.
+
+Abstract:Dissecting Rapamycin Responses Long-term treatment of mice and other organisms with the drug rapamycin extends life span. But, at the same time, the drug disrupts metabolic regulation and the action of the hormone insulin. Lamming et al. (p. 1638; see the Perspective by Hughes and Kennedy) dissected the action of rapamycin in genetically modified mice and found, encouragingly, that these two actions of rapamycin can be separated. Rapamycin inhibits a protein kinase complex known as mTORC1, and this appears to provide most of the life-lengthening effects of the drug. However, rapamycin also acts on a related complex known as mTORC2, and it is the disruption of mTORC2 action that produces the diabetic-like symptoms of decreased glucose tolerance and insensitivity to insulin. The effect of the drug rapamycin on life span can be separated from its effects on metabolism. Rapamycin, an inhibitor of mechanistic target of rapamycin complex 1 (mTORC1), extends the life spans of yeast, flies, and mice. Calorie restriction, which increases life span and insulin sensitivity, is proposed to function by inhibition of mTORC1, yet paradoxically, chronic administration of rapamycin substantially impairs glucose tolerance and insulin action. We demonstrate that rapamycin disrupted a second mTOR complex, mTORC2, in vivo and that mTORC2 was required for the insulin-mediated suppression of hepatic gluconeogenesis. Further, decreased mTORC1 signaling was sufficient to extend life span independently from changes in glucose homeostasis, as female mice heterozygous for both mTOR and mLST8 exhibited decreased mTORC1 activity and extended life span but had normal glucose tolerance and insulin sensitivity. Thus, mTORC2 disruption is an important mediator of the effects of rapamycin in vivo.
+
+Nutritional reprogramming of mouse liver proteome is dampened by metformin, resveratrol, and rapamycin.
+
+Number of 
+
+Key takeaways:Metformin, resveratrol, and rapamycin dampen the impact of diet on the liver proteome, affecting fundamental processes like mitochondrial function and RNA splicing.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

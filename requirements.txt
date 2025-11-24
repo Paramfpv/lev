@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+sentence-transformers
+faiss-cpu
+chromadb
+langchain-groq
+python-dotenv
+streamlit
+requests
+fastapi 
+uvicorn 
+torch
+supabase
+

@@ -1,0 +1,477 @@
+PROTOCOL: Fermented vegetables
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Abstract:Metabolic syndrome caused obesity has long been recognized as a risk of health. Celery and celery extracts have various medicinal properties, such as anti-diabetes and anti-inflammatory properties and blood glucose and serum lipid reduction. However, the effect of probiotic fermentation on celery juice and the association between fermented celery juice (FCJ) and obesity were unclear. This study aimed to evaluate the beneficial effects of FCJ on high-fat diet (HFD) induced obesity and related metabolic syndromes. C57BL/6 mice were randomly divided into six groups (n = 15 per group) fed either a normal diet (ND) or HFD with or without CJ/FCJ (10 g kg-1 day-1) by oral gavage for 12 weeks. Here we demonstrated that the probiotic fermentation of celery juice (CJ) could enhance the active ingredients in celery, such as total polyphenols, flavonoids, vitamin C and SOD. Compared to the slight improvement induced by CJ ingestion, FCJ intake significantly inhibited body weight gain, prevented dyslipidemia and hyperglycemia, and suppressed visceral fat accumulation. Furthermore, 16S rRNA sequencing analysis revealed that FCJ intake altered the composition of gut microbiota, increasing the ratio of Firmicutes/Bacteroidetes and the relative abundance of beneficial bacteria (Lactobacillus, Ruminococcaceae_UCG-014, Faecalibaculum and Blautia), and decreasing the relative abundance of harmful bacteria (Alloprevotella and Helicobacter). These findings suggest that FCJ can prevent HFD-induced obesity and become a novel gut microbiota modulator to prevent HFD-induced gut dysbiosis and obesity-related metabolic disorders.
+DESCRIPTION: Fermented vegetables, thanks to the presence of probiotics, bioactive metabolites, and nutrients, have a beneficial effect on health by supporting gut microbiota, the immune system, and improving the metabolic profile. Regular consumption of these products may help reduce inflammation, improve gut health, and support the immune system in fighting infections and diseases.
+
+CONTENT SECTIONS:
+
+Increased gut microbiota diversity, immune system support, improved metabolism
+
+Fermented vegetables, thanks to the presence of probiotics, bioactive metabolites, and nutrients, have a beneficial effect on health by supporting gut microbiota, the immune system, and improving the metabolic profile. Regular consumption of these products may help reduce inflammation, improve gut health, and support the immune system in fighting infections and diseases.
+
+Level of evidence:Good
+
+Level of risk:Negligible
+
+Vegetable fermentation promotes the production of probiotics that positively influence the composition of the gut microbiota, improving its diversity and function. Additionally, this process increases the bioavailability of nutrients such as vitamins, minerals, and polyphenols, which act as powerful antioxidants, regulating inflammatory processes and supporting the body's immune functions.
+
+Level of risk:Negligible
+
+Fermented vegetables are generally well tolerated by most people. Minor side effects may occur, such as bloating or abdominal pain, especially with high intake at the start of the diet.
+
+Fermented vegetables are not recommended for people with severe stomach problems, such as stomach ulcers or other inflammatory gastrointestinal conditions, which may worsen due to probiotics and acids.
+
+There is no established standard dose, but it is recommended to consume about 100 g of fermented vegetables per day.
+
+Available forms include pickled vegetables (sauerkraut, kimchi), fermented vegetable juices, and ready-made fermented vegetable mixes.
+
+First health effects may be noticeable after 2-4 weeks of regular consumption.
+
+Fermented vegetables are best eaten during the day, with meals, to support digestion and nutrient absorption.
+
+Gradual introduction into the diet
+
+To avoid bloating and other stomach discomfort, start with small amounts of fermented vegetables and gradually increase intake.
+
+Choosing appropriate fermented vegetables
+
+Choose vegetables that suit your taste preferences and digestibility. They can also be combined with other sources of fiber.
+
+Homemade vegetable fermentation gives you full control over quality and ingredients, and can also reduce the risk of contamination with external microorganisms.
+
+Fermented vegetables are just one part of the diet. It's important to maintain a balanced diet rich in other sources of fiber, protein, and healthy fats.
+
+Fermented vegetables may positively affect metabolism, particularly by improving the lipid profile, regulating blood sugar levels, exerting antioxidant effects, and supporting healthy gut microbiota.
+
+Reduction of body weight and fat tissue
+
+Improvement of lipid profile
+
+Regulation of glucose levels
+
+Increase in antioxidant activity
+
+Supporting gut microbiota
+
+Fermented vegetables support the immune system by improving gut microbiota composition, anti-inflammatory effects, and the presence of probiotics.
+
+Increase in microbiota diversity
+
+Reduction of inflammatory markers
+
+No significant changes in short studies
+
+Fermented vegetables support gut health through effects on microbiota and gut metabolites, as well as protection of the gut barrier.
+
+Effect on gut microbiota
+
+Protection of the gut barrier and anti-inflammatory effects
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:49
+
+Final comment:The evidence for the effectiveness of fermented vegetables in improving gut health, metabolism, and the immune system is solid, but most studies come from small research samples and clinical trials of mixed quality. Some studies are randomized controlled trials (RCTs) indicating positive effects, but they still require confirmation in larger groups and long-term studies. Nevertheless, available data suggest considerable and promising effectiveness, allowing the evidence to be rated as good.
+
+Fermented Lignan-Enriched Soy Beverage Ameliorates the Metabolic Effects of a High-Fat Diet on Female Mice.
+
+Number of 
+
+Key takeaways:A fermented lignan-enriched soy beverage can improve the metabolic effects of a high-fat diet on female mice, potentially enhancing their health and fertility.
+
+Abstract:Fermented vegetable beverages have potential beneficial effects on the health associated with the production of bioactive flavonoids and lignans by selected bacterial strains. Here, we studied the effects of a soy beverage and a soy beverage fermented by Bifidobacterium pseudocatenulatum INIA P815, both supplemented with lignan extracts, in a female mouse model on a high-fat diet followed for 16 weeks. The high-fat diet induced an increase in adipose tissue and plasma cholesterol as well as modified the fecal microbiota. Mice groups receiving any of the beverages showed a reduction in the mean area of ovarian fat tissue adipocytes and exhibited bioactive flavonoids and lignans in plasma and tissues, accompanied by a higher antioxidant activity in plasma. The group of mice subjected to the fermented beverage also demonstrated a lower increase in plasma cholesterol levels, an increase in short-chain fatty acid production, and higher levels of daidzein, genistein, enterolignans, and herbacetin in the plasma and organs. Moreover, the fertility of the mice that received the fermented beverage was also enhanced, resulting in a higher percentage of blastocysts per female mouse. Therefore, the consumption of the beverage fermented by B. pseudocatenulatum INIA P815 could be favoring the health of mice by ameliorating, to some extent, the effects of a high-fat diet.
+
+Metabolic and Lipidomic Profiling of Vegetable Juices Fermented with Various Probiotics
+
+Number of 
+
+Key takeaways:Probiotic-fermented vegetable juices contain more beneficial metabolites and carotenoids than non-fermented juices, making them a promising functional beverage for human health.
+
+Abstract:Fermented vegetable juices have gained attention due to their various beneficial effects on human health. In this study, we employed gas chromatography–mass spectrometry, direct infusion-mass spectrometry, and liquid chromatography–mass spectrometry to identify useful metabolites, lipids, and carotenoids in vegetable juice (VJ) fermented with Lactobacillus plantarum HY7712, Lactobacillus plantarum HY7715, Lactobacillus helveticus HY7801, and Bifidobacterium animalis ssp. lactis HY8002. A total of 41 metabolites, 24 lipids, and 4 carotenoids were detected in the fermented and non-fermented VJ (control). The lycopene, α-carotene, and β-carotene levels were higher in VJ fermented with L. plantarum strains (HY7712 and HY7715) than in the control. Proline content was also elevated in VJ fermented with HY7715. Uracil, succinic acid, and α-carotene concentration was increased in VJ fermented with HY7801, while glycine and lycopene levels were raised in VJ fermented with HY8002. This study confirmed that each probiotic strain has distinctive characteristics and produces unique changes to metabolic profiles of VJ during fermentation. Our results suggest that probiotic-fermented VJ is a promising functional beverage that contains more beneficial metabolites and carotenoids than commercial non-fermented VJ.
+
+Anti-obesity effect of vegetable juice fermented with lactic acid bacteria isolated from kimchi in C57BL/6J mice and human mesenchymal stem cells.
+
+Number of 
+
+Key takeaways:LAB-fermented vegetable juice and its metabolites from kimchi show potential in countering obesity by reducing weight gain, blood biochemical indicators, and liver fat accumulation in mice.
+
+Abstract:This study aimed to investigate the effect of fermented vegetable juice (VJ) obtained from a blend of four crops (Brassica oleracea var. capitata, B. oleracea var. italica, Daucus carota L., and Beta vulgaris) on adipogenesis along with the identification of active compounds. Two lactic acid bacteria (LAB) (Companilactobacillus allii WiKim39 and Lactococcus lactis WiKim0124), isolated from kimchi, were used to ferment the VJ and their effectiveness was evaluated in differentiated human mesenchymal stem cells and obese mice. In vitro antibody array analysis was done to understand signaling proteins in adipogenesis. Gene Ontology enrichment analysis showed that differentially expressed proteins are related to biological processes including immunological processes. These were effectively regulated by LAB and fermented VJ. Supplementation of fermented VJ reduced the weight gain, blood biochemical indicators, and liver fat accumulation in mice. Oil Red O staining indicated that the fermentation metabolites of VJ (indole-3-lactic acid, leucic acid, and phenyllactic acid) had an inhibitory effect on lipid accumulation in vitro. Therefore, it can be concluded that LAB-fermented VJ and its metabolites have the potential to counter obesity, and thus can be therapeutically effective.
+
+Meta-Omics Analyses of Conventional and Regenerative Fermented Vegetables: Is There an Impact on Health-Boosting Potential?
+
+Number of 
+
+Key takeaways:Regeneratively grown fermented vegetables have higher amounts of GABA and probiotic microbes, potentially boosting their health-boosting potential.
+
+Abstract:Fermented vegetables contain probiotic microbes and metabolites, which are transformed from fresh vegetables, potentially providing health benefits. The kind of vegetable used to ferment and how it is grown may determine the types of health-promoting properties. To understand the possible benefits of fermented vegetables under different growing conditions, we compared the microbiomes and metabolomes of three different types of naturally fermented vegetables—carrots, peppers, and radishes—that were grown either under conventional or regenerative growing systems. We profiled bacterial and fungal communities via 16S rRNA short-read (V4 region), long-read, and ITS2 sequencing, in tandem with untargeted metabolomics (LC-MS). The results showed that the microbiomes and metabolomes of the fermented vegetables under each growing system are unique, highlighting distinctions in amino acid content and potentially probiotic microbes (p < 0.05). All fermented vegetables contained high amounts of gamma-aminobutyric acid (GABA), a critical neurotransmitter. However, GABA was found to be in higher abundance in the regenerative fermented vegetables, particularly in carrots (p < 0.01) and peppers (p < 0.05), and was associated with higher abundances of the typically probiotic Lactiplantibacillus plantarum. Our findings indicate that the growing system may impact the microbiome and metabolome of plant-based ferments, encouraging more research on the health-boosting potential of regeneratively grown vegetables.
+
+Evaluation of glycemic index, antioxidant capacity, and metabolic effects of a fermented beverage made from Changbai Mountain fruit and vegetables.
+
+Number of 
+
+Key takeaways:The fermented beverage made from Changbai Mountain fruit and vegetables has a medium glycemic index and protective effects against oxidative stress in diabetic rats.
+
+Abstract:Fermented foods and beverages have been known to be beneficial when included in the human diet. This study examined the glycemic index (GI) of a fermented beverage (FB) made from Changbai Mountain fruit and vegetables in humans and its antioxidant capacity and metabolic effects in a rat model of diabetes. Twenty healthy volunteers were tested with 50 g of glucose and 50 g equivalent of carbohydrates from FB on two separate days for GI measurement. The rats were randomly divided into blank control group (n = 15) and diabetic model (DM) group (n = 75). DM group were randomly divided into five groups, positive control group, model control group and three FB treatment (2.5, 5, 10 ml/kg·bw·d) groups. The general indices, including blood glucose and lipid levels and antioxidant index, of the rats were measured to investigate the effect of FB. The GI of FB was found to be 56.99, indicating it as a medium GI food. Compared to model control group, the low-dose FB group had lower blood glucose levels and higher high-density lipoprotein cholesterol levels in DM rats (p < .05). Medium- and high-dose FB decreased the serum malonaldehyde levels in DM rats compared to those in the model control group. The FB-treated DM rat groups showed increased serum glutathione and superoxide dismutase levels compared with those in the model control group (p < .05). FB is a medium GI food that plays a protective role against oxidative stress in DM rats. PRACTICAL APPLICATIONS: The present study evaluated the glycemic index of a fermented beverage (FB) made from Changbai Mountain fruit and vegetables in humans and investigated its antioxidant capacity and metabolic effects in a rat diabetes model. The study results may aid in the development of FB from fruits and vegetables and provide a theoretical basis for further research and development.
+
+Fermented Vegetables and Legumes vs. Lifestyle Diseases: Microbiota and More
+
+Number of 
+
+Key takeaways:Fermented vegetables and legumes may prevent lifestyle diseases like obesity, diabetes, and metabolic syndrome due to their probiotic and antioxidant properties.
+
+Abstract:Silages may be preventive against lifestyle diseases, including obesity, diabetes mellitus, or metabolic syndrome. Fermented vegetables and legumes are characterized by pleiotropic health effects, such as probiotic or antioxidant potential. That is mainly due to the fermentation process. Despite the low viability of microorganisms in the gastrointestinal tract, their probiotic potential was confirmed. The modification of microbiota diversity caused by these food products has numerous implications. Most of them are connected to changes in the production of metabolites by bacteria, such as butyrate. Moreover, intake of fermented vegetables and legumes influences epigenetic changes, which lead to inhibition of lipogenesis and decreased appetite. Lifestyle diseases’ feature is increased inflammation; thus, foods with high antioxidant potential are recommended. Silages are characterized by having a higher bioavailable antioxidants content than fresh samples. That is due to fermentative microorganisms that produce the enzyme β-glucosidase, which releases these compounds from conjugated bonds with antinutrients. However, fermented vegetables and legumes are rich in salt or salt substitutes, such as potassium chloride. However, until today, silages intake has not been connected to the prevalence of hypertension or kidney failure.
+
+The health benefits of fermented fruits and vegetables and their underlying mechanisms.
+
+Number of 
+
+Key takeaways:Fermented fruits and vegetables have potential health benefits due to the microorganisms present in the fermentation process, which produce bioactive components with antioxidant, anti-inflammatory, and blood pressure-lowering effects.
+
+Abstract:Fermented fruits and vegetables are rich in phenolic compounds, minerals, and vitamins, which have potential health benefits for the prevention of many diseases such as cardiovascular disease and Type 2 diabetes. There is a growing demand for the development of nondairy probiotic products based on fruits and vegetables in view of changing lifestyles (e.g., vegetarianism, veganism, and allergy to dairy products) and the rise of nutritional diet therapy. In this review, the processes and health potential of fermented fruits and vegetables are described. The study focuses on the role of bacteria and fungi in fermented fruits and vegetables, outlines the process of transformation of bioactive components, and systematically summarizes the possible mechanisms of antioxidant, anti-inflammatory, and blood pressure-lowering effects. The health effects of fermented fruits and vegetables depend mainly on the microorganisms present in the fermentation process and the bioactive components they produce, such as phenols, vitamins, and organic acids. These active compounds exert many health effects such as antioxidant, anti-inflammatory, anti-obesity, hypotensive, hypoglycemic, and other health benefits. Therefore, the development of fermented foods based on fruits and vegetables can be a promising way to adapt to the market demand and to reduce the wastage of agriculturally produced fruits and vegetables.
+
+Effects of brine- and NaCl- fermented carrots on lipid metabolism and gut microbiota in high-fat diet-fed mice
+
+Number of 
+
+Key takeaways:Fermented carrots improve lipid metabolism and gut microbiota in high-fat diet-fed mice by enhancing antioxidant properties and promoting lipid metabolism through the AMPK pathway.
+
+Fruits and vegetables, as a 
+
+Number of 
+
+Key takeaways:Lactic acid bacteria fermentation of fruits and vegetables alters their bioactive compounds, resulting in improved health benefits and enhancing prebiotic and probiotic potential.
+
+The consequences of fermentation metabolism on the qualitative qualities and biological activity of fermented fruit and vegetable juices
+
+Number of 
+
+Key takeaways:Fermentation of fruit and vegetable juices with probiotics improves organoleptic properties, shelf life, and bioavailability of vitamins and minerals, resulting in a new functional food with potential health benefits.
+
+Effect of fermentation of chosen vegetables on the nutrient, mineral, and biocomponent profile in human and animal nutrition
+
+Number of 
+
+Key takeaways:Fermentation of vegetables improves nutrient and biocomponent profiles, but reduces water and increases fat content, with benefits for human and animal nutrition.
+
+Unique Microbial Diversity and Metabolic Pathway Features of Fermented Vegetables From Hainan, China
+
+Number of 
+
+Key takeaways:Fermented vegetables from Hainan Province, China, show unique microbial diversity and vigorous metabolic pathways, with Lactobacillus plantarum and Lactobacillus fermentum being major contributors.
+
+Abstract:Fermented vegetables are typically traditional foods made of fresh vegetables and their juices, which are fermented by beneficial microorganisms. Herein, we applied high-throughput sequencing and culture-dependent technology to describe the diversities of microbiota and identify core microbiota in fermented vegetables from different areas of Hainan Province, and abundant metabolic pathways in the fermented vegetables were simultaneously predicted. At the genus level, Lactobacillus bacteria were the most abundant. Lactobacillus plantarum was the most abundant species, followed by Lactobacillus fermentum, Lactobacillus pentosaceus, and Weissella cibaria. These species were present in each sample with average absolute content values greater than 1% and were thus defined as core microbiota. Analysis results based on the alpha and beta diversities of the microbial communities showed that the microbial profiles of the fermented vegetables differed significantly based on the regions and raw materials used, and the species of the vegetables had a greater effect on the microbial community structure than the region from where they were harvested. Regarding microbial functional metabolism, we observed an enrichment of metabolic pathways, including membrane transport, replication and repair and translation, which implied that the microbial metabolism in the fermented vegetables tended to be vigorous. In addition, Lactobacillus plantarum and Lactobacillus fermentum were calculated to be major metabolic pathway contributors. Finally, we constructed a network to better explain correlations among the core microbiota and metabolic pathways. This study facilitates an understanding of the differences in microbial profiles and fermentation pathways involved in the production of fermented vegetables, establishes a basis for optimally selecting microorganisms to manufacture high-quality fermented vegetable products, and lays the foundation for better utilizing tropical microbial resources.
+
+Fermented Foods in the Management of Obesity: Mechanisms of Action and Future Challenges
+
+Number of 
+
+Key takeaways:Fermented foods may help manage obesity by improving digestion, immunity, and weight loss, with potential for effective nutritional therapeutic approaches.
+
+Abstract:Fermented foods are part of the staple diet in many different countries and populations and contain various probiotic microorganisms and non-digestible prebiotics. Fermentation is the process of breaking down sugars by bacteria and yeast species; it not only enhances food preservation but can also increase the number of beneficial gut bacteria. Regular consumption of fermented foods has been associated with a variety of health benefits (although some health risks also exist), including improved digestion, enhanced immunity, and greater weight loss, suggesting that fermented foods have the potential to help in the design of effective nutritional therapeutic approaches for obesity. In this article, we provide a comprehensive overview of the health effects of fermented foods and the corresponding mechanisms of action in obesity and obesity-related metabolic abnormalities.
+
+Beneficial impacts of fermented celery (Apium graveolens L.) juice on obesity prevention and gut microbiota modulation in high-fat diet fed mice.
+
+Number of 
+
+Key takeaways:Fermented celery juice can prevent obesity and modulate gut microbiota, potentially preventing obesity-related metabolic disorders.
+
+Abstract:Metabolic syndrome caused obesity has long been recognized as a risk of health. Celery and celery extracts have various medicinal properties, such as anti-diabetes and anti-inflammatory properties and blood glucose and serum lipid reduction. However, the effect of probiotic fermentation on celery juice and the association between fermented celery juice (FCJ) and obesity were unclear. This study aimed to evaluate the beneficial effects of FCJ on high-fat diet (HFD) induced obesity and related metabolic syndromes. C57BL/6 mice were randomly divided into six groups (n = 15 per group) fed either a normal diet (ND) or HFD with or without CJ/FCJ (10 g kg-1 day-1) by oral gavage for 12 weeks. Here we demonstrated that the probiotic fermentation of celery juice (CJ) could enhance the active ingredients in celery, such as total polyphenols, flavonoids, vitamin C and SOD. Compared to the slight improvement induced by CJ ingestion, FCJ intake significantly inhibited body weight gain, prevented dyslipidemia and hyperglycemia, and suppressed visceral fat accumulation. Furthermore, 16S rRNA sequencing analysis revealed that FCJ intake altered the composition of gut microbiota, increasing the ratio of Firmicutes/Bacteroidetes and the relative abundance of beneficial bacteria (Lactobacillus, Ruminococcaceae_UCG-014, Faecalibaculum and Blautia), and decreasing the relative abundance of harmful bacteria (Alloprevotella and Helicobacter). These findings suggest that FCJ can prevent HFD-induced obesity and become a novel gut microbiota modulator to prevent HFD-induced gut dysbiosis and obesity-related metabolic disorders.
+
+Fermented Vegetables: Health Benefits, Defects, and Current Technological Solutions
+
+Number of 
+
+Key takeaways:Fermented vegetables provide health benefits, but have safety concerns, and emerging technologies can help reduce hazardous components and control quality.
+
+Abstract:This review summarizes current studies on fermented vegetables, analyzing the changes in nutritional components during pickling, the health benefits of fermented vegetables, and their safety concerns. Additionally, the review provides an overview of the applications of emergent non-thermal technologies for addressing these safety concerns during the production and processing of fermented vegetables. It was found that vitamin C would commonly be lost, the soluble protein would degrade into free amino acids, new nutrient compositions would be produced, and the flavor correlated with the chemical changes. These changes would be influenced by the variety/location of raw materials, the original bacterial population, starter cultures, fermentation conditions, seasoning additions, and post-fermentation processing. Consuming fermented vegetables benefits human health, including antibacterial effects, regulating intestinal bacterial populations, and promoting health (anti-cancer effects, anti-diabetes effects, and immune regulation). However, fermented vegetables have chemical and biological safety concerns, such as biogenic amines and the formation of nitrites, as well as the existence of pathogenic microorganisms. To reduce hazardous components and control the quality of fermented vegetables, unique starter cultures, high pressure, ultrasound, cold plasma, photodynamic, and other technologies can be used to solve these problems.
+
+Effect of Fermentation on the Nutritional Quality of the Selected Vegetables and Legumes and Their Health Effects
+
+Number of 
+
+Key takeaways:Fermentation enhances the nutritional quality of vegetables and legumes by reducing tannins and phytates, increasing antioxidant potential, and potentially supporting treatment of lifestyle diseases like depression and hypertension.
+
+Abstract:Abstract Vegetables are rich in many vitamins, mineral components, antioxidants, and macronutrients. However, they also contain high levels of anti-nutrients, which reduce the bioavailability of some nutritionally essential components such as zinc or iron. The processing of vegetables, including microbial fermentation, reduces or neutralizes tannins and phytates, which results in greater bioavailability of vitamins and minerals. Another effect of bacterial processing is an increased antioxidant potential, which has been linked to the release of polyphenols from complexes with anti-nutritional ingredients. Moreover, there were identified bioactive substances such as γ-aminobutyric acid or inhibitors of an angiotensin-converting enzyme in fermented vegetables. These substances may support the treatment of lifestyle diseases, such as depression or hypertension. However, there are still no data about these substances’ bioavailability after the consumption of fermented vegetables. Additionally, fermented foods are rich in probiotic microorganisms, where the main group is lactic acid bacteria. The effect of fermentation on each vegetable is different. This should be a reason to expand our knowledge as more innovative and untested fermented products appear on the market.
+
+Fermented foods and metabolic outcomes in diabetes and prediabetes: A systematic review and meta-analysis of randomized controlled trials
+
+Number of 
+
+Key takeaways:Fermented foods show potential in improving metabolic outcomes, including fasting blood glucose, insulin resistance, total cholesterol, LDL-C, and diastolic blood pressure, in patients with diabetes and prediabetes.
+
+Abstract:Abstract Several randomized controlled trials (RCTs) have investigated the effects of fermented foods on metabolic outcomes in adult patients suffering from diabetes and prediabetes. However, the results of these RCTs are conflicting. This systematic review and meta-analysis was carried out on data from RCTs to evaluate the effects of fermented foods in patients with diabetes and prediabetes. The PubMed, Web of Science, Embase, the Cochrane Library and Scopus databases were searched up to 21 June, 2022. English-language RCTs of fermented foods consumption were included which gave metabolic outcomes on body composition, glucose control, insulin sensitivity, lipid profile, as well as blood pressure. Eighteen RCTs met the inclusion criteria and 843 participants were included in the final analysis. The pooled results showed a significant reduction of fasting blood glucose (FBG), the homeostatic model assessment of insulin resistance (HOMA-IR), total cholesterol (TC), low density lipid cholesterol (LDL-C) and diastolic blood pressure (DBP) in the intervention group versus the control group. The results of this research showed that fermented foods have the potential to improve some metabolic outcomes, including FBG, HOMA-IR, TC, LDL-C, and DBP in patients with diabetes and prediabetes.
+
+The effects of fermented vegetable consumption on the composition of the intestinal microbiota and levels of inflammatory markers in women: A pilot and feasibility study
+
+Number of 
+
+Key takeaways:Regular consumption of 100 g/day of fermented vegetables for six weeks is feasible and may result in beneficial changes in gut microbiota composition in women.
+
+Abstract:The primary objective of this pilot study was to investigate the feasibility of regular consumption of fermented vegetables for six weeks on markers of inflammation and the composition of the gut microflora in women (clinical trials ID: NTC03407794). Thirty-one women were randomized into one of three groups: 100 g/day of fermented vegetables (group A), 100 g/day pickled vegetables (group B), or no vegetables (group C) for six weeks. Dietary intake was assessed by a food frequency questionnaire and blood and stool samples were provided before and after the intervention for measurement of C-reactive protein (CRP), tumor necrosis factor alpha (TNF-α), and lipopolysaccharide binding protein (LBP). Next-generation sequencing of the V4 region of the 16S rRNA gene was performed on the Illumina MiSeq platform. Participants’ ages ranged between 18 and 69 years. Both groups A and B had a mean daily consumption of 91g of vegetables for 32 and 36 days, respectively. Serum CRP ranged between 0.9 and 265 ng/mL (SD = 92.4) at baseline, while TNF-α and LBP concentrations ranged between 0 and 9 pg/mL (SD = 2.3), and 7 and 29 μg/mL (SD = 4.4), respectively. There were no significant changes in levels of inflammatory markers among groups. At timepoint 2, group A showed an increase in Faecalibacterium prausnitzii (P = 0.022), a decrease in Ruminococcus torques (P<0.05), and a trend towards greater alpha diversity measured by the Shannon index (P = 0.074). The findings indicate that consumption of ~100 g/day of fermented vegetables for six weeks is feasible and may result in beneficial changes in the composition of the gut microbiota. Future trials should determine whether consumption of fermented vegetables is an effective strategy against gut dysbiosis.
+
+The Role of Fermented Vegetables as a Sustainable and Health-Promoting Nutritional Resource
+
+Number of 
+
+Key takeaways:Fermented vegetables are a sustainable, healthy, and long-lasting nutritional resource that enhance food preservation, nutritional quality, and safety, while supporting gut health and immune function.
+
+Abstract:The increasing global burden of morbidity and mortality from chronic diseases related to poor diet quality, coupled with the unsustainable depletion of vital planetary resources by current food production systems, threatens future food security and highlights the urgent need to transition to high-quality plant-based diets as a viable solution to mitigate economic, health, and environmental challenges. Taking into consideration the significant role that fermented vegetables may play as a sustainable, healthy, long-lasting, and plant-based nutritional resource, this narrative review analyzes their production and benefits. For this purpose, the mechanisms of the fermentation process are explored, along with the importance of probiotic cultures in plant-based fermented foods, and with the implications of fermentation on food safety within the broader framework of low-impact, organic, plant-derived nutrition. Additionally, the health benefits of fermented vegetables and probiotics are examined, including their effects on mental health. Vegetable fermentation is a versatile method for enhancing food preservation, nutritional quality, and safety. This ancient practice prolongs the shelf life of perishable items, reduces the toxicity of raw ingredients, and improves digestibility. Specific starter cultures, particularly lactic acid bacteria, are essential for controlling fermentation, ensuring safety, and maximizing health benefits. Fermented vegetables, rich in probiotics, support gut health and immune function. Emerging research indicates their potential to alleviate adverse mental health symptoms such as stress and anxiety, highlighting their significance in modern dietary guidelines and chronic health management.
+
+Novel perspectives on fermented milks and cardiometabolic health with a focus on type 2 diabetes.
+
+Number of 
+
+Key takeaways:Fermented milk consumption may have beneficial effects on metabolism and cardiometabolic health, particularly type 2 diabetes, due to the release of bioactive peptides from lactic acid bacteria.
+
+Abstract:This review will explore the observational and mechanistic evidence supporting the hypothesis that fermented milk consumption has beneficial effects on metabolism. Live cultures in fermented dairy are thought to contribute to gut microbial balance, which is likely an instrumental mechanism that protects the host against gut dysbiosis and systemic inflammation associated with cardiometabolic diseases. Lactic acid bacteria (LAB) release bioactive metabolites, such as exopolysaccharides and peptides, that have the potential to exert a wide range of metabolic and regulatory functions. In particular, peptides derived from fermented dairy products are likely to exert greater cardiometabolic and anti-inflammatory effects than nonfermented dairy. It is hypothesized that LAB-derived bioactive peptides have the potential to protect the host against cardiometabolic diseases through antimicrobial actions and to effect changes in gene expression of glucose regulatory and anti-inflammatory signaling pathways. The peptides released through fermentation may explain some of the health effects of fermented dairy products on cardiometabolic disease risk observed in epidemiological studies, particularly type 2 diabetes; however, mechanisms have yet to be explored in detail.
+
+Anti-Inflammatory and Immunomodulatory Properties of Fermented Plant Foods
+
+Number of 
+
+Key takeaways:Fermented plant foods, such as berries, cabbage, and soybean products, have potential anti-inflammatory and immunomodulatory properties, potentially protecting against chronic inflammatory diseases.
+
+Abstract:Fermented plant foods are gaining wide interest worldwide as healthy foods due to their unique sensory features and their health-promoting potentials, such as antiobesity, antidiabetic, antihypertensive, and anticarcinogenic activities. Many fermented foods are a rich source of nutrients, phytochemicals, bioactive compounds, and probiotic microbes. The excellent biological activities of these functional foods, such as anti-inflammatory and immunomodulatory functions, are widely attributable to their high antioxidant content and lactic acid-producing bacteria (LAB). LAB contribute to the maintenance of a healthy gut microbiota composition and improvement of local and systemic immunity. Besides, antioxidant compounds are involved in several functional properties of fermented plant products by neutralizing free radicals, regulating antioxidant enzyme activities, reducing oxidative stress, ameliorating inflammatory responses, and enhancing immune system performance. Therefore, these products may protect against chronic inflammatory diseases, which are known as the leading cause of mortality worldwide. Given that a large body of evidence supports the role of fermented plant foods in health promotion and disease prevention, we aim to discuss the potential anti-inflammatory and immunomodulatory properties of selected fermented plant foods, including berries, cabbage, and soybean products, and their effects on gut microbiota.
+
+Evaluation of the nutritional index and immunological function of a fermented vegetable for esophageal cancer patients undergoing immunotherapy plus chemotherapy: A randomized controlled trial
+
+Number of 
+
+Key takeaways:Fermented vegetables can help alleviate some side effects of esophageal cancer immunotherapy and chemotherapy, such as anemia, malnutrition, and elevated AST.
+
+Determination of selected biogenic amines in fermented vegetables juices
+
+Number of 
+
+Key takeaways:Fermented vegetable juices contain significant amounts of biogenic amines, which may negatively affect their health-promoting properties.
+
+Are Fermented Foods Effective against Inflammatory Diseases?
+
+Number of 
+
+Key takeaways:Fermented foods, such as kimchi, sauerkraut, and soy-based foods, may enhance the immune system, improve gastrointestinal health, and lower the risk of developing various inflammatory diseases.
+
+Abstract:Fermented foods have been used over the centuries in various parts of the world. These foods are rich in nutrients and are produced naturally using various biological tools like bacteria and fungi. Fermentation of edible foods has been rooted in ancient cultures to keep food for preservation and storage for a long period of time with desired or enhanced nutritional values. Inflammatory diseases like rheumatoid arthritis, osteoarthritis, and chronic inflammatory pain are chronic disorders that are difficult to treat, and current treatments for these disorders fail due to various adverse effects of prescribed medications over a long period of time. Fermented foods containing probiotic bacteria and fungi can enhance the immune system, improve gastrointestinal health, and lower the risk of developing various inflammatory diseases. Foods prepared from vegetables by fermentation, like kimchi, sauerkraut, soy-based foods, or turmeric, lack proper clinical and translational experimental studies. The current review has focused on the effectiveness of various fermented foods or drinks used over centuries against inflammation, arthritis, and oxidative stress. We also described potential limitations on the efficacies or usages of these fermented products to provide an overarching picture of the research field.
+
+Gut-microbiota-targeted diets modulate human immune status
+
+Number of 
+
+Key takeaways:Fermented foods can counteract decreased microbiome diversity and increased inflammation in industrialized society.
+
+Synbiotic Effects of Fermented Rice on Human Health and Wellness: A Natural Beverage That Boosts Immunity
+
+Number of 
+
+Key takeaways:Xaj-pani, a traditional Assamese beer, contains prebiotics and probiotics, potentially improving digestion and immunity.
+
+Abstract:Fermented foods have been an important component of the human diet from the time immemorial. It contains a high amount of probiotics that have been associated to a wide range of health benefits, including improved digestion and immunity. This review focuses on the indigenously prepared prebiotic- and probiotic-containing functional fermented rice (named Xaj-pani) by the Ahom Community from Assam, in Northeast India, including all the beneficial and potential effects on human health. Literature was searched from scientific databases such as PubMed, ScienceDirect and Google Scholar. Glutinous rice (commonly known as bora rice of sali variety) is primarily employed to prepare beverages that are recovered through the filtration process. The beer is normally consumed during religious rites, festivals and ritual practices, as well as being used as a refreshing healthy drink. Traditionally, it is prepared by incorporating a variety of medicinal herbs into their starter culture (Xaj-pitha) inoculum which is rich in yeasts, molds and lactic acid bacteria (LAB) and then incorporated in alcoholic beverage fermentation. The Ahom communities routinely consume this traditionally prepared alcoholic drink with no understanding of its quality and shelf life. Additionally, a finally produced dried cake, known as vekur pitha act as a source of Saccharomyces cerevisiae and can be stored for future use. Despite the rampant use in this community, the relationship between Xaj-pani’s consumption, immunological response, infectious and inflammatory processes remains unknown in the presence of factors unrelated or indirectly connected to immune function. Overall, this review provides the guidelines to promote the development of prebiotic- and probiotic-containing functional fermented rice that could significantly have an impact on the health of the consumers. Graphical Abstract
+
+Probiotic Functions in Fermented Foods: Anti-Viral, Immunomodulatory, and Anti-Cancer Benefits
+
+Number of 
+
+Key takeaways:Fermented foods, such as yogurt, kimchi, and beer, contain probiotics that improve gut health, boost the immune system, and reduce inflammation, potentially benefiting overall health.
+
+Abstract:Fermented foods can provide many benefits to our health. These foods are created by the action of microorganisms and help support our digestive health and immune system. Fermented foods include yogurt, kimchi, pickles, kefir, beer, wine, and more. Fermented foods contain probiotics, lactic acid bacteria (LAB), yeast, organic acids, ethanol, or antimicrobial compounds, which help balance the gut microbiome and improve digestive health. Fermented foods can also benefit your overall health by increasing the diversity of your gut microbiome and reducing inflammation. By routinely consuming fermented foods with these benefits, we can continue to improve our health. Probiotics from fermented foods are beneficial strains of bacteria that are safe for human health and constitute an important component of human health, even for children and the elderly. Probiotics can have a positive impact on your health, especially by helping to balance your gut microbiome and improve digestive health. Probiotics can also boost your immune system and reduce inflammation, which can benefit your overall health. Probiotics, which can be consumed in the diet or in supplement form, are found in many different types of foods and beverages. Research is continuing to investigate the health effects of probiotics and how they can be utilized. The potential mechanisms of probiotics include anti-cancer activity, preventing and treating immune system-related diseases, and slowing the development of Alzheimer’s disease and Huntington’s disease. This is due to the gut–brain axis of probiotics, which provides a range of health benefits beyond the digestive and gastrointestinal systems. Probiotics reduce tumor necrosis factor-α and interleukins through the nuclear factor-kappa B and mitogen-activated protein kinase pathways. They have been shown to protect against colon cancer and colitis by interfering with the adhesion of harmful bacteria in the gut. This article is based on clinical and review studies identified in the electronic databases PubMed, Web of Science, Embase, and Google Scholar, and a systematic review of clinical studies was performed.
+
+Probiotic Potential of Fermented Foods and Their Effects on Immune System
+
+Number of 
+
+Key takeaways:Fermented foods, such as yogurt, kefir, kombucha, and cheeses, have probiotic potential, which can improve gut microbiota and enhance immune system function.
+
+Abstract:Fermentation is known as a method that improves the nutritional value of foods in addition to preserving them. Various traditionally produced fermented foods such as yogurt, kefir, kombucha, some cheeses, sausages and pickles have probiotic potential. Hence, consumption of fermented foods plays an important role in modulating of gut microbiota and supplying positive effects on health. With the help of beneficial microorganisms, the intestinal barrier can be improved which induces the activity of the immune cells associated to the gut. In recent years, probiotics have been used in foods in order to produce functional foods that have the potential to improve gastrointestinal health. It is known that intestinal microbiota and probiotics can interact in immune system and these interactions provide positive health effects like reducing risk of hypertension, improving gut microbiota, regulating immune system, preventing diabetes, allergies and diarrhea. In this paper, fermented foods having probiotic potential and the effects of consuming these foods on the immune system are revised.
+
+Potential Health Benefits of Fermented Vegetables with Additions of Lacticaseibacillus rhamnosus GG and Polyphenol Vitexin Based on Their Antioxidant Properties and Prohealth Profiles
+
+Number of 
+
+Key takeaways:Fermented vegetables with Lactic acid bacteria L. rhamnosus GG and polyphenol vitexin may enhance their functional relevance by promoting cellular protection against oxidative stress.
+
+Abstract:Fermented vegetables are increasingly being recognized as an important dietary component, particularly of plant-based diets, to achieve a sustainable healthy gut because of their microbial diversity and antioxidant properties. However, the functional relevance of fermented vegetables varies based on the raw ingredients used and nutrient supplementation. Therefore, in the present study, we investigated the microbial diversity and antioxidant activity of three formulas of fermented vegetables (standard, supplemented with Lacticaseibacillus rhamnosus GG, and supplemented with polyphenol vitexin) at days 0 and 15. The bacterial community profiles were determined through 16S rRNA sequencing analysis, and antioxidant activity was analyzed using 2,2-diphenyl-1-picrylhydrazyl and by measuring the oxygen radical absorbance capacity, the ferric reducing ability of plasma, and the total phenolic content. The results confirm microbial diversity in the taxonomic composition of the different formulas of fermented vegetables, with different bacteria predominating, particularly lactic acid bacteria including the genera Weissella, Pedicocccus, Leuconostoc, and Lactobacillus. Spearman’s correlation analysis showed significant differences in the specific bacteria present in the different formulas of fermented vegetables that conferred antioxidant capacity. Our findings show that supplementation with L. rhamnosus GG and polyphenol vitexin may effectively enhance the functional relevance of foods by promoting cellular protection against oxidative stress.
+
+Fermented Vegetables as a Potential Treatment for Irritable Bowel Syndrome.
+
+Number of 
+
+Key takeaways:Fermented vegetables, such as sauerkraut and kimchi, may be a potential treatment for irritable bowel syndrome by addressing gut dysbiosis and improving gastrointestinal function, immune balance, and mental health.
+
+Fermented Foods as Probiotics: A Review
+
+Number of 
+
+Key takeaways:Fermented foods contain lactic acid bacteria (LAB) suitable for development as probiotics, which can improve human health by enhancing the immune system and strengthening the body against pathogenic bacteria.
+
+Abstract:Fermented foods and drinks derived from animals as well as plants play an important role in diets. These foods usually contain lactic acid bacteria (LAB) grown during fermentation, and these naturally contain compounds, including organic acids, ethanol, or antimicrobial compounds with the ability to inhibit spoilage organisms and pathogenic bacteria in fermented foods. Furthermore, these bacteria are able to adapt well to the spontaneous fermentation process and play a role in human as well as animal health, especially in digestive tract, commonly known as probiotics. This study therefore aims to describe the microorganisms produced by fermented foods suitable for development as probiotics to improve human health, as these generally have the ability to improve the immune system against pathogenic bacteria. Several genera are used as probiotics, including Lactobacillus, Bifidobacterium, Bacillus, Pediococcus, and several yeasts. Therefore, LAB produced from fermented foods were concluded to be suitable potential candidates for probiotics, to replace antibiotics in overcoming pathogenic bacteria, and to possess the ability to improve the immune system and strengthen the body against pathogenic bacteria.
+
+Traditional Fermented Foods and Beverages from around the World and Their Health Benefits
+
+Number of 
+
+Key takeaways:Traditional fermented foods and beverages, such as agave fructans, kefir, yeats, kombucha, and chungkookjang, may promote human health by reducing the risk of cardiovascular disease, improving glucose and lipid levels, and promoting immune system function.
+
+Abstract:Traditional fermented foods and beverages play an important role in a range of human diets, and several experimental studies have shown their potential positive effects on human health. Studies from different continents have revealed strong associations between the microorganisms present in certain fermented foods (e.g., agave fructans, kefir, yeats, kombucha, chungkookjang, cheeses and vegetables, among others) and weight maintenance, reductions in the risk of cardiovascular disease, antidiabetic and constipation benefits, improvement of glucose and lipids levels, stimulation of the immunological system, anticarcinogenic effects and, most importantly, reduced mortality. Accordingly, the aim of this review is to corroborate information reported in experimental studies that comprised interventions involving the consumption of traditional fermented foods or beverages and their association with human health. This work focuses on studies that used fermented food from 2014 to the present. In conclusion, traditional fermented foods or beverages could be important in the promotion of human health. Further studies are needed to understand the mechanisms involved in inflammatory, immune, chronic and gastrointestinal diseases and the roles of fermented traditional foods and beverages in terms of preventing or managing those diseases.
+
+WHIPPED FERMENTED MILK DESSERT WITH FUNCTIONAL PROPERTIES
+
+Number of 
+
+Key takeaways:Whipped fermented milk desserts with vegetable additives, like yoghurt, have a positive physiological effect on the body and contain beneficial microorganisms, improving digestion and immune system.
+
+Abstract:The development of functional food products that have a positive physiological
+effect on the body is relevant. The development of technology for whipped fermented
+milk desserts with vegetable additives is obtained by fermenting natural milk with a
+special starter culture. Yoghurts have a high content of live beneficial fermented milk
+microorganisms, lacto- and bifidobacteria (probiotics), which naturally normalize the
+intestinal microflora, improve the digestive system, and have a positive effect on the
+immune system.
+
+The fermented cabbage metabolome and its protection against cytokine-induced intestinal barrier disruption of Caco-2 monolayers
+
+Number of 
+
+Key takeaways:Fermented cabbage, not raw cabbage or brine, protects against cytokine-induced damage to intestinal barrier cells, offering health benefits beyond individual metabolites.
+
+Abstract:ABSTRACT Fermented vegetables, such as fermented cabbage (sauerkraut), have garnered growing interest for their associations with a myriad of health benefits. However, the mechanistic details underlying the outcomes of consuming these foods require further investigation. This study examined the capacity of soluble metabolites in laboratory-scale and commercial-fermented cabbage to protect against disruption of polarized Caco-2 monolayers by interferon gamma (IFN-γ) and tumor necrosis factor-alpha (TNF-α). Laboratory-scale ferments (LSF) were prepared with and without the addition of Lactiplantibacillus plantarum NCIMB8826R (LP8826R) and sampled after 7 and 14 days of incubation. Trans-epithelial electrical resistance (TER) and paracellular permeability to fluorescein isothiocyanate (FITC)-dextran revealed that fermented cabbage, but not raw cabbage or brine, protected against cytokine-induced damage to the Caco-2 monolayers. Barrier-protective effects occurred despite increased IL-8 production following cytokine exposure. Metabolomic analyses performed using gas and liquid chromatography resulted in the identification of 149 and 333 metabolites, respectively. Significant differences were found between raw and fermented cabbage. LSF metabolomes changed over time, and the profiles of LSF with LP8826R best resembled the commercial product. Overall, fermentation resulted in lower carbohydrate and increased lactic acid, lipid, amino acid derivative (including D-phenyl-lactate , indole-3-lactate , and γ-aminobutyric acid ), and phenolic compound concentrations. Lactate, D-PLA, and ILA tested individually and combined only partially protected against cytokine-induced TER reductions and increases in paracellular permeability of Caco-2 monolayers. The findings show that intestinal barrier-protective compounds are consistently enriched during cabbage fermentations, irrespective of the scale or microbial additions, which may contribute to the health-promoting potential of these foods. IMPORTANCE Fermented vegetables are increasingly associated with health benefits. However, the importance of microbial transformations to foods during the fermentation process remains to be determined. We found that the metabolites in spontaneously fermented cabbage protected polarized intestinal epithelial cells against damage induced by proinflammatory cytokines. Cabbage fermentations resulted in consistent metabolome profiles enriched in bioactive compounds known to be made by beneficial members of the human gut microbiome, including D-phenyl-lactate (D-PLA) and indole-3-lactate (ILA). The metabolomes were distinct from raw cabbage and were further differentiated between commercial and lab ferments, sampling time, and the presence of an exogenous Lactiplantibacillus plantarum strain. Because only partial protection against intestinal barrier disruption was found when individual metabolites (D-PLA, ILA, and lactate) were applied, the findings indicate that the complex mixture of metabolites in a cabbage fermentation offers advantages over single metabolites to benefit intestinal health. Fermented vegetables are increasingly associated with health benefits. However, the importance of microbial transformations to foods during the fermentation process remains to be determined. We found that the metabolites in spontaneously fermented cabbage protected polarized intestinal epithelial cells against damage induced by proinflammatory cytokines. Cabbage fermentations resulted in consistent metabolome profiles enriched in bioactive compounds known to be made by beneficial members of the human gut microbiome, including D-phenyl-lactate (D-PLA) and indole-3-lactate (ILA). The metabolomes were distinct from raw cabbage and were further differentiated between commercial and lab ferments, sampling time, and the presence of an exogenous Lactiplantibacillus plantarum strain. Because only partial protection against intestinal barrier disruption was found when individual metabolites (D-PLA, ILA, and lactate) were applied, the findings indicate that the complex mixture of metabolites in a cabbage fermentation offers advantages over single metabolites to benefit intestinal health.
+
+Influence of Probiotic Fermented Fruit and Vegetables on Human Health and the Related Industrial Development Trend
+
+Number of 
+
+Key takeaways:Probiotic fermented fruit and vegetables promote intestinal health and prevent chronic diseases, with fermentation technology offering excellent market potential.
+
+Fermented Foods: Definitions and Characteristics, Impact on the Gut Microbiota and Effects on Gastrointestinal Health and Disease
+
+Number of 
+
+Key takeaways:Fermented foods, particularly kefir, have limited clinical evidence for their effectiveness in gastrointestinal health and disease, with potential benefits in lactose malabsorption and Helicobacter pylori eradication.
+
+Abstract:Fermented foods are defined as foods or beverages produced through controlled microbial growth, and the conversion of food components through enzymatic action. In recent years, fermented foods have undergone a surge in popularity, mainly due to their proposed health benefits. The aim of this review is to define and characterise common fermented foods (kefir, kombucha, sauerkraut, tempeh, natto, miso, kimchi, sourdough bread), their mechanisms of action (including impact on the microbiota), and the evidence for effects on gastrointestinal health and disease in humans. Putative mechanisms for the impact of fermented foods on health include the potential probiotic effect of their constituent microorganisms, the fermentation-derived production of bioactive peptides, biogenic amines, and conversion of phenolic compounds to biologically active compounds, as well as the reduction of anti-nutrients. Fermented foods that have been tested in at least one randomised controlled trial (RCT) for their gastrointestinal effects were kefir, sauerkraut, natto, and sourdough bread. Despite extensive in vitro studies, there are no RCTs investigating the impact of kombucha, miso, kimchi or tempeh in gastrointestinal health. The most widely investigated fermented food is kefir, with evidence from at least one RCT suggesting beneficial effects in both lactose malabsorption and Helicobacter pylori eradication. In summary, there is very limited clinical evidence for the effectiveness of most fermented foods in gastrointestinal health and disease. Given the convincing in vitro findings, clinical high-quality trials investigating the health benefits of fermented foods are warranted.
+
+Selected fermented indigenous vegetables and fruits from Malaysia as potential sources of natural probiotics for improving gut health
+
+Number of 
+
+Key takeaways:Fermented indigenous vegetables and fruits from Malaysia are potential sources of natural probiotics, improving gut health and contributing to their long shelf life.
+
+Fermented Foods, Health and the Gut Microbiome
+
+Number of 
+
+Key takeaways:Fermented foods positively impact the gut microbiome both short and long term, making them an important element of the human diet.
+
+Abstract:Fermented foods have been a part of human diet for almost 10,000 years, and their level of diversity in the 21st century is substantial. The health benefits of fermented foods have been intensively investigated; identification of bioactive peptides and microbial metabolites in fermented foods that can positively affect human health has consolidated this interest. Each fermented food typically hosts a distinct population of microorganisms. Once ingested, nutrients and microorganisms from fermented foods may survive to interact with the gut microbiome, which can now be resolved at the species and strain level by metagenomics. Transient or long-term colonization of the gut by fermented food strains or impacts of fermented foods on indigenous gut microbes can therefore be determined. This review considers the primary food fermentation pathways and microorganisms involved, the potential health benefits, and the ability of these foodstuffs to impact the gut microbiome once ingested either through compounds produced during the fermentation process or through interactions with microorganisms from the fermented food that are capable of surviving in the gastro-intestinal transit. This review clearly shows that fermented foods can affect the gut microbiome in both the short and long term, and should be considered an important element of the human diet.
+
+Effects of a diet based on inulin-rich vegetables on gut health and nutritional behavior in healthy humans
+
+Number of 
+
+Key takeaways:A diet based on inulin-rich vegetables improves gut health, satiety, and food-related behavior, while reducing gastrointestinal symptoms.
+
+Abstract:ABSTRACT Background Inulin-type fructans (ITFs) are a type of fermentable dietary fiber that can confer beneficial health effects through changes in the gut microbiota. However, their effect on gut sensitivity and nutritional behavior is a matter of debate. Objective We evaluated the impact of consuming ITF-rich vegetables daily on gut microbiota, gastro-intestinal symptoms, and food-related behavior in healthy individuals. Methods A single group-design trial was conducted in 26 healthy individuals. During 2 wk, the participants were instructed to adhere to a controlled diet based on ITF-rich vegetables (providing a mean intake of 15 g ITF/d). Three test days were organized: before and after the nutritional intervention and 3 wk after returning to their usual diet. We assessed nutrient intake, food-related behavior, fecal microbiota composition, microbial fermentation, and gastrointestinal symptoms. Results The major microbial modifications during the intervention were an increased proportion of the Bifidobacterium genus, a decreased level of unclassified Clostridiales, and a tendency to decrease Oxalobacteraceae. These changes were reversed 3 wk after the intervention. The volunteers showed greater satiety, a reduced desire to eat sweet, salty, and fatty food, and a trend to increase hedonic attitudes towards some inulin-rich vegetables. Only flatulence episodes were reported during the dietary intervention, whereas intestinal discomfort, inversely associated with Clostridium cluster IV and Ruminococcus callidus, was improved at the end of the intervention. Conclusions A higher consumption of ITF-rich vegetables allows a substantial increase in well-tolerated dietary fiber, which may in turn improve food-related behavior. Moreover, it leads to beneficial modifications of the gut microbiota composition and function. This trial is registered at clinicaltrial.gov as NCT03540550.
+
+Does Consumption of Fermented Foods Modify the Human Gut Microbiota?
+
+Number of 
+
+Key takeaways:Consumption of fermented foods may modify the human gut microbiota, potentially counteracting the proinflammatory effects of gut dysbiosis.
+
+Abstract:The human microbiota is a key contributor to many aspects of human health and its composition is largely influenced by diet. There is a growing body of scientific evidence to suggest that gut dysbiosis (microbial imbalance of the intestine) is associated with inflammatory and immune-mediated diseases (e.g., inflammatory bowel disease and asthma). Regular consumption of fermented foods (e.g., kimchi, kefir, etc.) may represent a potential avenue to counter the proinflammatory effects of gut dysbiosis. However, an assessment of the available literature in this research area is lacking. Here we provide a critical review of current human intervention studies that analyzed the effect of fermented foods on the composition and/or function of the human gut microbiota. A total of 19 human intervention studies were identified that met this search criteria. In this review, we discuss evidence that consumption of fermented foods may modify the gut microbiota in humans. Further, there is cursory evidence to suggest that gut microbiota compositional changes mediate associations between fermented food consumption and human health outcomes. Although promising, there remains considerable heterogeneity in the human populations targeted in the intervention studies we identified. Larger longitudinal feeding studies with longer follow-up are necessary to confirm and enhance the current data. Further, future studies should consider analyzing microbiota function as a means to elucidate the mechanism linking fermented food consumption with human health. This review highlights methodologic considerations for intervention trials, emphasizing an expanse of research opportunities related to fermented food consumption in humans.
+
+Fermented foods and gastrointestinal health: underlying mechanisms.
+
+Number of 
+
+Key takeaways:Fermented foods, and their components, contribute to gastrointestinal health by producing functional components, removing harmful compounds, and introducing beneficial microorganisms to the gut.
+
+Potential of fermented foods and their metabolites in improving gut microbiota function and lowering gastrointestinal inflammation
+
+Number of 
+
+Key takeaways:Fermented foods and their metabolites may improve gut microbiota function and lower gastrointestinal inflammation, potentially reducing the risk of inflammatory diseases.
+
+Abstract:Foods prepared using microbial conversion of major and minor food components, which are otherwise known as fermented foods continue to impact human health. The live microorganisms and transformed metabolites can also have a deep influence on the gut microbiota, the multifaceted population of microorganisms dwelling inside the gut play a key role in wellbeing of an individual. The probiotic strains delivered through the consumption of fermented food and other bioactive components such as polyphenolic metabolites, bioactive peptides, short-chain fatty acids and others including those produced via gut microbiota mediated transformations have been proposed to balance the gut microbiota diversity and activity, and also to regulate the inflammation in the gut. However, little is known about such effects and only a handful of fermented foods have been explored to date. We herein review the recent knowledge on the dysbiotic gut microbiota linking to major gut inflammatory diseases. Also, evidences that fermented food consumption modulates the gut microbiota, and its impact on the gut inflammation and inflammatory diseases have been discussed. © 2024 Society of Chemical Industry.
+
+Human gut microbiota fermentation of cooked eggplant, garlic, and onion supports distinct microbial communities.
+
+Number of 
+
+Key takeaways:Roasting vegetables, rather than grilling or frying, promotes beneficial gut microbes, while onion fermentation supports beneficial gut microbes and garlic promotes Faecalibacterium growth.
+
+Abstract:Heating and cooking vegetables not only enhances their palatability but also modifies their chemical structure, which in turn might affect their fermentation by resident gut microbes. Three commonly consumed vegetables that are known to undergo chemical browning, also known as Maillard reaction, during cooking - eggplant, garlic, and onion - were each fried, grilled, or roasted. The cooked vegetables were then subjected to an in vitro digestion-fermentation process aimed to simulate the passage of food through the human oro-gastro-intestinal tract. In the last step, the undigested fractions of these foods were anaerobically fermented by the complex human gut microbiota. We assessed the structure of microbial communities maintained on each cooked vegetable by high-throughput 16S rRNA gene amplicon sequencing, measured the levels of furosine, a chemical marker of the Maillard browning reaction, by HPLC, and determined the antioxidant capacities in all samples with ABTS and FRAP methods. Overall, vegetable type had the largest, statistically significant, effect on the microbiota structure followed by the cooking method. Onion fermentation supported a more beneficial community including an expansion of Bifidobacterium members and inhibition of Enterobacteriaceae. Fermentation of cooked garlic promoted Faecalibacterium growth. Among cooking methods, roasting led to a much higher ratio of beneficial-to-detrimental microbes in comparison with grilling and frying, possibly due to the exclusion of any cooking oil in the cooking process.
+
+Effects of Fermented Vegetable Consumption on Human Gut Microbiome Diversity—A Pilot Study
+
+Number of 
+
+Key takeaways:Regular consumption of sauerkraut and fermented vegetables may slightly increase gut microbial diversity, with Bacteroides dominating the microbial composition.
+
+Abstract:The interest in fermented food products has been increasing in recent years. Details about their microbial composition and the effects of their consumption on the human gut microbiome are of particular interest. However, evidence regarding their potential to increase gut microbial diversity, a measure likely associated with health, is lacking. To address this, we analyzed the microbial composition of commercially available fermented vegetables using 16S rRNA sequencing. We also conducted a pilot study to assess the feasibility of studying the effects of regular consumption of fermented vegetables on the gut microbiome. Six healthy male volunteers participated in a randomized crossover trial, with two two-week intervention phases. Volunteers consumed 150 g/d of either sauerkraut or a variety of six different commercially available fermented vegetables. This study is registered at the German Clinical Trials Register (DRKS-ID: DRKS00014840). Lactobacillales was the dominant family in all fermented vegetables studied. However, the alpha diversity, richness and evenness of the microbiota differed substantially among the different products. The number of species per product varied between 20 and 95. After consumption of both sauerkraut and the selection of fermented vegetables, we observed a slight increase in alpha diversity. Specifically, the amount of the genus Prevotella decreased while the amount of Bacteroides increased after both interventions. However, these initial observations need to be confirmed in larger studies. This pilot study demonstrates the feasibility of this type of research.
+
+Fermented Foods: Their Health-Promoting Components and Potential Effects on Gut Microbiota
+
+Number of 
+
+Key takeaways:Fermented foods have health-promoting components, including probiotic effects, increased vitamin content, antioxidant, antihypertensive, and antidiabetic activities, and potential effects on gut microbiota.
+
+Abstract:Fermented foods play a significant role in the diets of many cultures, and fermentation has been recognized for its many health benefits. During fermentation, the physical and biochemical changes due to microorganisms are crucial to the long-term stability of fermented foods. Recently, fermented foods have attracted the attention of scientists all over the world. Some putative mechanisms that explain how fermented foods affect health are the potential probiotic effects of the microorganisms in fermented foods, bioactive peptides and biogenic amines produced as a result of fermentation, phenolic compounds transformed to bioactive substances, and decreased antinutrients. In addition, increased vitamin content, antioxidant, antihypertensive, and antidiabetic activities have associated with fermented products. The purpose of this paper is to present various types of fermented foods and the health-promoting components that emerge during the fermentation of major food matrices, as well as the affect of fermented foods on the gut microbiome once they are ingested.
+
+Regular consumption of lacto-fermented vegetables has greater effects on the gut metabolome compared with the microbiome
+
+Number of 
+
+Key takeaways:Regular consumption of lacto-fermented vegetables has greater effects on the gut metabolome than the gut microbiome, warranting further investigation on their health significance as regular components of the daily diet.
+
+Abstract:Abstract The industrialisation of Western food systems has reduced the regular consumption of lacto-fermented vegetables (LFV). Consuming LFV may exert health benefits through the alteration of the gut microbiome, but the mechanisms involved remain unclear. To start understanding the possible benefits of LFV, we compared faecal microbial diversity and composition, as well as dietary habits between individuals who regularly consume LFV (n = 23) and those who do not (n = 24). We utilised microbial DNA amplicon sequencing (16S rRNA and ITS2) and untargeted metabolomics (LC–MS) to analyse stool samples. Study participants also provided three consecutive days of dietary data. Results show minor effects on microbiome composition; with the enrichment of a few microorganisms potentially associated with vegetable ferments, such as Leuconostoc mesenteroides and Rhodotorula mucilaginosa (P < 0.05), in LFV consumers. However, LFV consumption had greater effects on the faecal metabolome, with higher abundances of butyrate, acetate, and valerate (P < 0.05) and significantly greater metabolome diversity (P < 0.001). Overall, the observations of minor changes in the faecal microbiome and greater effects on the faecal metabolome from LFV consumption warrant further investigations on the health significance of LFV as regular components of the daily diet in humans.
+
+The effects of fermented vegetables on the gut microbiota for prevention of cardiovascular disease
+
+Number of 
+
+Key takeaways:Regular consumption of fermented vegetables for at least five days per week for eight weeks does not significantly change inflammatory biomarkers or gut microbiota composition in adults at increased risk for cardiovascular disease.
+
+Abstract:Abstract This study investigated the impact of regular consumption of fermented vegetables (FVs) on inflammation and the composition of the gut microbiota in adults at increased risk for cardiovascular disease. Eighty-seven adults ages 35–64 were randomized into an FV group, who consumed 100 g FVs daily at least five times per week for eight weeks, or a usual diet (UD) group. Blood and stool samples were obtained before and after the intervention. Dependent samples t tests and adjusted linear models were used for within- and between-group comparisons. The mean age and body mass index of participants were 45 years and 30 kg/m2, and 80% were female. Bloating or gas was the most common side effect reported (19.3% FV group vs. 9.4% UD group). There were no changes in C-reactive protein, oxidized low-density lipoprotein-receptor 1, angiopoietin-like protein 4, trimethylamine oxide, and lipopolysaccharide-binding protein or bacterial alpha diversity between groups. Our findings indicate that consuming 100 g of FVs for at least five days per week for eight weeks does not change inflammatory biomarkers or microbial alpha diversity as measured by the Shannon index. It is possible that higher doses of FVs are necessary to elicit a significant response by gut bacteria.
+
+Influence of Fermented Vegetable Consumption on Gut Microbiome Diversity
+
+Number of 
+
+Key takeaways:Consumption of fermented vegetables appears to increase the diversity of the gut microbiome, but further larger-scale studies are needed to confirm these observations.
+
+Abstract:The effects of fermented foods on the gut microbiome are of great interest, yet evidence regarding its potential to increase gut microbial diversity, a measure likely associated with health, is lacking. Therefore, we analyzed the microbial composition (bacteria and yeasts) of commercially available fermented vegetables. Furthermore, we conducted a pilot study to assess the feasibility of studying effects of regular consumption of fermented vegetables on the gut microbiome.
+ 
+ 
+ 
+ Six healthy male volunteers (age: 25.5 ± 2.9yrs, BMI: 24.3 ± 1.2kg/m2) participated in a randomized crossover trial, with two 2-week intervention phases each of which was preceded by a 2-week washout phase. Participants consumed 150g/d of either sauerkraut (intervention 1) or a variety of six different fermented vegetables (intervention 2). We used 16S rRNA sequencing to assess the effects of each dietary regime on the composition, diversity and dynamics of the gut microbiome, as well as the composition and diversity of the fermented vegetable microbiome.
+ 
+ 
+ 
+ Lactobacillus was the dominant genus in all fermented vegetables; still, the alpha diversity, richness and evenness of the microbiota differed substantially among the different products. Among our study participants, we observed an increase in alpha diversity (Shannon index) after both, consumption of sauerkraut (pre intervention: 3.31 ± 0.74, post intervention: 3.58 ± 0.68) and the selection of fermented vegetables (pre: 3.60 ± 0.93, post: 3.84 ± 0.81). However, the results did not reach statistical significance, due to the high inter- and intra-individual variability as evaluated by beta diversity of the gut microbial communities.
+ 
+ 
+ 
+ A longer-term intervention study with fermented vegetables and/or sauerkraut seems feasible. Consumption of fermented vegetables appears to increase the diversity of the gut microbiome, even after a relatively short period of time. However, further studies with a larger sample size are warranted to verify our observations.
+ 
+ 
+ 
+ Institutional budget.
+
+Fermented Dairy Foods: Impact on Intestinal Microbiota and Health-Linked Biomarkers
+
+Number of 
+
+Key takeaways:Consumption of fermented dairy products, particularly natural yogurt, may improve intestinal microbiota and reduce inflammation.
+
+Abstract:The intake of fermented foods is gaining increasing interest due to their health-promoting benefits. Among them, fermented dairy foods have been associated with obesity prevention, and reduction of the risk of metabolic disorders and immune-related pathologies. Fermented foods could lead to these health benefits by providing the consumer with both easily metabolizable nutrients and beneficial microorganisms. Our aim was to evaluate the relationship between the consumption of fermented dairy products and the intestinal microbiota, serum lipid profile, and the pro-oxidant/inflammatory status. 130 healthy adults were evaluated. Dietary fermented food intake was assessed by an annual food frequency questionnaire (FFQ), including 26 fermented dairy products. Levels of the major phylogenetic types of the intestinal microbiota were determined by qPCR, and concentration of fecal short chain fatty acids were assessed by gas chromatography. Serum glucose and lipid profile, as well as serum malondialdehyde (MDA), C-reactive protein (CRP), and leptin levels were determined by standardized protocols. Among fermented dairy foods, natural yogurt, sweetened yogurt and matured/semi-matured cheese were the most consumed. While natural yogurt consumers showed increased fecal levels of Akkermansia with respect to non-consumers, sweetened yogurt intake was associated to lower levels of Bacteroides. Serum levels of CRP were also significantly reduced in yogurt consumers. Our results underline the interest in exploring the potential effects of the different yogurt types and the role the microbiota may play in such effects.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

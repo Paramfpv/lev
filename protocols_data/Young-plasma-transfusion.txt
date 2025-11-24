@@ -1,0 +1,412 @@
+PROTOCOL: Young plasma transfusion
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Not specified
+DESCRIPTION: Young donor plasma transfusion is an innovative strategy being studied in the context of slowing aging processes, improving cognitive function, and positively influencing metabolism. Animal studies have shown memory improvement, neuron regeneration, and beneficial changes in health biomarkers, whereas clinical studies in humans have not confirmed significant therapeutic effects.
+
+CONTENT SECTIONS:
+
+Young plasma transfusion
+
+Neuroprotection and Metabolic Improvement in Preclinical Studies
+
+Young donor plasma transfusion is an innovative strategy being studied in the context of slowing aging processes, improving cognitive function, and positively influencing metabolism. Animal studies have shown memory improvement, neuron regeneration, and beneficial changes in health biomarkers, whereas clinical studies in humans have not confirmed significant therapeutic effects.
+
+Level of evidence:Preliminary
+
+Level of risk:Elevated
+
+The mechanism of young plasma action is based on the presence of growth factors, proteins, and micro-particles that support neural cell regeneration, improve mitochondrial function, and reduce inflammation. It is believed that administration of young plasma restores the balance of some key substances (e.g., IGF-1), whose levels decline with age. Additionally, young plasma may influence gene expression related to metabolism and aging, as well as improve health biomarkers in the body.
+
+Level of risk:Elevated
+
+Young donor plasma transfusion is generally well tolerated in short-term clinical studies, but its long-term safety is unknown. The procedure carries the typical risks of standard transfusions as well as potential side effects resulting from experimental interventions.
+
+Young donor plasma transfusion is not recommended for individuals with certain conditions or states that increase the risk of transfusion-related complications.
+
+No optimal therapeutic dose has been established; clinical studies have used single or repeated infusions of 250–500 ml of plasma weekly.
+
+Fresh frozen plasma (FFP) or plasma fractions from donors aged 18–30; protein concentrates (e.g., from cord blood plasma) are also available.
+
+Potential effects were most often assessed within a few days to a few weeks after administration; long-term effects are unknown.
+
+No recommendations regarding the optimal time for infusion; the procedure is performed in hospital settings under medical supervision.
+
+Experimental intervention; used only within clinical trials or exceptional medical indications.
+
+Not approved by the FDA or EMA for use in slowing aging or improving cognitive function.
+
+Use only within clinical trials
+
+Young plasma transfusion should only be performed under strict medical supervision and after qualification for study participation.
+
+Post-procedure monitoring
+
+After transfusion, patient observation is recommended for allergic reactions, heart failure symptoms, metabolic disturbances, and other complications.
+
+Donor safety and screening
+
+Each plasma unit should be thoroughly tested for infectious diseases, and the donor assessed for general health status.
+
+Adverse event reporting
+
+All adverse events or suspected side effects should be reported to the clinical trial team.
+
+No self-administration
+
+Self-sourcing or use of young plasma outside of recognized research centers is not recommended.
+
+Young donor plasma transfusions show beneficial effects on brain function in animal models, particularly in the context of aging and neurodegenerative diseases. Preliminary clinical studies suggest the safety of this intervention, but there are no confirmed clinical effects in humans.
+
+Impact on memory and cognitive function
+
+Reduction of Alzheimer's pathology
+
+Support for neurogenesis and synaptic plasticity
+
+Protection from acute brain injury
+
+Clinical trial results and limitations
+
+Young donor plasma transfusion may positively affect cellular metabolism and health biomarkers, particularly by improving mitochondrial function and mortality risk indicators. The strongest effects were observed in animal and cell studies, while clinical data remain preliminary.
+
+Impact on cellular metabolism
+
+Mitochondrial function and aging slowdown
+
+Impact on health biomarkers in humans
+
+Limitations and uncertainties
+
+Scientific data and sources
+
+Level of evidencePreliminary
+
+Number of included studies:36
+
+Final comment:Most of the available evidence on young donor plasma transfusion comes from animal studies, which have shown improvements in cognitive function, reduced neurodegenerative pathology, and beneficial effects on metabolism and health parameters in aging models. Data from human studies are very limited and mainly consist of early clinical trials with small participant numbers, which confirmed the safety of the intervention but did not demonstrate clinically significant cognitive or metabolic benefits. There are no meta-analyses or large randomized clinical trials assessing the efficacy of this intervention in humans. The mechanisms of action are partially understood and mainly involve the effects of growth factors and proteins present in young plasma on tissue regeneration and mitochondrial function. However, the efficacy and long-term safety of young plasma transfusion in humans have not yet been clearly established.
+
+Young blood plasma reduces Alzheimer’s disease-like brain pathologies and ameliorates cognitive impairment in 3×Tg-AD mice
+
+Number of 
+
+Key takeaways:Young blood plasma reduces Alzheimer's disease-like pathologies and improves cognitive function in 3Tg-AD mice, suggesting potential as a treatment for Alzheimer's disease.
+
+Abstract:Abstract Background Recent studies indicated that circulatory factors in blood plasma from young animals can reactivate neurogenesis, restore synaptic plasticity, and improve cognitive function in aged animals. Here, we investigated if young plasma could have a possible therapeutic effect for treatment of Alzheimer’s disease (AD)-like pathologies and cognitive impairment in triple-transgenic AD (3×Tg-AD) mice. Methods We intravenously injected plasma from 2- to 3-month-old C57BL/6 J wild-type mice into 16–17-month-old 3×Tg-AD mice twice a week for 8 weeks. The behavioral tests including open field, novel object recognition, Morris water maze, and reversal Morris water maze were conducted after 4-week plasma injections. The effect of young plasma on tau and Aβ pathologies and on the levels of synaptic proteins and neuroinflammation were assessed by Western blots and immunohistochemical staining. Results Young plasma treatment improved short-term memory in the novel object recognition test and enhanced the spatial learning and memory in Morris water maze test and reversal Morris water maze test. Biochemical studies revealed that young plasma treatment reduced both tau and Aβ pathologies, as well as neuroinflammation in the mouse brain. However, we did not detect any significant changes in levels of synaptic proteins or the dentate gyrus neurogenesis in the mouse brain after the treatment with young plasma. Conclusions These data indicate that young blood plasma not only ameliorates tau and Aβ pathologies but also enhances the cognitive function in 3×Tg-AD mice. These findings suggest that transfusion with young blood plasma could be a potentially effective treatment for AD.
+
+Transfusion with Blood Plasma from Young Mice Affects rTg4510 Transgenic Tau Mice Modeling of Alzheimer’s Disease
+
+Number of 
+
+Key takeaways:Plasma transfusions from young mice to Alzheimer's disease mice showed decreased phosphorylated tau and tangles in the brain, but no improvement in behavior.
+
+Abstract:Alzheimer’s disease (AD) is characterized by the buildup of plaques and tangles in the brain. Tangles are formed when the stabilizing protein, tau, becomes hyperphosphorylated and clumps together. There are limited treatments for AD; therefore, the exploration of new treatments is warranted. Previous research showed that plasma transfusion from young donor mice improved spatial memory and increased synaptic proteins in old transgenic APP/PS1 mice, suggesting a remediation of memory and synaptic function. In the current study, plasma was transfused from 2–3-month-old young wildtype mice (WT) to 8-month-old rTg4510 mice expressing human tau (Tau). One week after the transfusions, behavior and tau pathology were examined. We found that Tau mice injected with plasma had lower expression of phosphorylated tau (ptau) in the brain, accompanied by fewer tau tangles in the cortex and CA1 region of the hippocampus and smaller tau tangles in the cortex, when compared to Tau mice injected with saline. Despite no improvement in behavior, the decreased level of ptau and tangles open the door to future studies involving plasma transfusions.
+
+Preclinical Assessment of Young Blood Plasma for Alzheimer Disease.
+
+Number of 
+
+Key takeaways:Young blood plasma shows potential in improving cognition and synaptic function in Alzheimer's disease mice, suggesting it could be a potential future treatment for the disease.
+
+Abstract:Importance
+Alzheimer disease (AD) pathology starts long before clinical symptoms manifest, and there is no therapy to treat, delay, or prevent the disease. A shared blood circulation between 2 mice (aka parabiosis) or repeated injections of young blood plasma (plasma from 2- to 3-month-old mice) into old mice has revealed benefits of young plasma on synaptic function and behavior. However, to our knowledge, the potential benefit of young blood has not been tested in preclinical models of neurodegeneration or AD.
+
+Objectives
+To determine whether young blood plasma ameliorates pathology and cognition in a mouse model for AD and could be a possible future treatment for the disease.
+
+Design, Setting, and Participants
+In this preclinical study, mice that harbor a human mutant APP gene, which causes familial AD, were aged to develop AD-like disease including accumulation of amyloid plaques, loss of synaptic and neuronal proteins, and behavioral deficits. The initial parabiosis studies were done in 2010, and the final studies were conducted in 2014. Alzheimer disease model mice were then treated either by surgically connecting them with a young healthy mouse, thus providing a shared blood circulation through parabiosis, or through repeated injections of plasma from young mice.
+
+Main Outcomes and Measures
+Neuropathological parameters and changes in hippocampal gene expression in response to the treatment were assessed. In addition, cognition was tested in AD model mice intravenously injected with young blood plasma.
+
+Results
+Aged mutant amyloid precursor protein mice with established disease showed a near complete restoration in levels of synaptic and neuronal proteins after exposure to young blood in parabiosis (synaptophysin P = .02; calbindin P = .02) or following intravenous plasma administration (synaptophysin P < .001; calbindin P = .14). Amyloid plaques were not affected, but the beneficial effects in neurons in the hippocampus were accompanied by a reversal of abnormal extracellular receptor kinase signaling (P = .05), a kinase implicated in AD. Moreover, young plasma administration was associated with improved working memory (P = .01) and associative memory (P = .02) in amyloid precursor protein mice.
+
+Conclusions and Relevance
+Factors in young blood have the potential to ameliorate disease in a model of AD.
+
+Young plasma ameliorates aging-related acute brain injury after intracerebral hemorrhage
+
+Number of 
+
+Key takeaways:Young plasma treatment may reduce aging-related acute brain damage after intracerebral hemorrhage, offering a potential novel therapeutic approach for treating aging-related acute brain injury.
+
+Abstract:Aging has been shown to contribute to both the declined biofunctions of aging brain and aggravation of acute brain damage, and the former could be reversed by young plasma. These results suggest that young plasma treatment may also reduce the acute brain damage induced by intracerebral hemorrhage (ICH). In the present study, we first found that the administration of young plasma significantly reduced the mortality and neurological deficit score in aging ICH rodents, which might be due to the decreased brain water content, damaged neural cells, and increased survival neurons around the perihematomal brain tissues. Then, proteomics analysis was used to screen out the potential neuroprotective circulating factors and the results showed that many factors were changed in health human plasma among young, adult, and old population. Among these significantly changed factors, the plasma insulin-like growth factor 1 (IGF-1) level was significantly decreased with age, which was further confirmed both in human and rats detected by ELISA. Additionally, the brain IGF-1 protein level in aging ICH rats was markedly decreased when compared with young rats. Interestingly, the relative decreased brain IGF-1 level was reversed by the treatment of young plasma in aging ICH rats, while the mRNA level was non-significantly changed. Furthermore, the IGF-1 administration significantly ameliorated the acute brain injury in aging ICH rats. These results indicated that young circulating factors, like IGF-1, may enter brain tissues to exert neuroprotective effects, and young plasma may be considered as a novel therapeutic approach for the clinical treatment of aging-related acute brain injury.
+
+THERAPEUTIC POTENTIAL OF YOUNG HUMAN PLASMA IN COGNITIVE DISORDERS
+
+Number of 
+
+Key takeaways:Young human plasma has therapeutic potential in improving cognitive and motor function in aged mice, with long-lasting effects and potential disease-modifying effects.
+
+Chronic stress-induced anxiety-like behavior, hippocampal oxidative, and endoplasmic reticulum stress are reversed by young plasma transfusion in aged adult rats
+
+Number of 
+
+Key takeaways:Young plasma transfusion can reverse anxiety-like behavior in stressed aged rats by modulating hippocampal oxidative and endoplasmic reticulum stress markers.
+
+Abstract:Objective(s): Aging and stress synergistically induce behavioral dysfunctions associated with oxidative and endoplasmic reticulum (ER) stress in brain regions. Considering the rejuvenating effects of young plasma on aging brain function, in the current study, we examined the effects of young plasma administration on anxiety-like behavior, NADH oxidase, NADPH oxidase, and ER stress markers in the hippocampus of old male rats. Materials and Methods: Young (3 months old) and aged (22 months old) rats were randomly assigned into five groups: young control (Y), aged control (A), aged rats subjected to chronic stress for four weeks (A+S), aged rats subjected to chronic stress and treated with old plasma (A+S+OP), and aged rats subjected to chronic stress and treated with young plasma (A+S+YP). Systemic injection of (1 ml) young and old plasma was performed for four weeks (3 times/week). Results: Young plasma transfusion significantly improved anxiety-like behavior in aged rats and modulated oxidative stress in the hippocampus, evidenced by the increased NADH oxidase (NOX) activity and the reduced NADPH oxidase. In addition, the levels of C/EBP homologous protein (CHOP) and Glucose-Regulated Protein 78 (GRP-78), as ER stress markers, markedly reduced in the hippocampus following the administration of young plasma. Conclusion: These findings suggest that young plasma transfusion could reverse anxiety-like behavior in stress-exposed aged rats by modulating the hippocampal oxidative and ER stress markers.
+
+Healthy blood, healthy brain: a window into understanding and treating neurodegenerative diseases.
+
+Number of 
+
+Key takeaways:Young, healthy blood transfusions show promise in treating neurodegenerative diseases due to their richness in protective and restorative components.
+
+Abstract:Our limited understanding of complex neurodegenerative disorders has held us back on the development of efficient therapies. While several approaches are currently being considered, it is still unclear what will be most successful. Among the latest and more novel ideas, the concept of blood or plasma transfusion from young healthy donors to diseased patients is gaining momentum and attracting attention beyond the scientific arena. While young or healthy blood is enriched with protective and restorative components, blood from older subjects may accumulate neurotoxic agents or be impoverished of beneficial factors. In this commentary, we present an overview of the compelling evidence collected in various animal models of brain diseases (e.g., Alzheimer, Parkinson, Huntington) to the actual clinical trials that have been conducted to test the validity of blood-related treatments in neurodegenerative diseases and argue in favor of such approach.
+
+Young plasma administration mitigates depression‐like behaviours in chronic mild stress‐exposed aged rats by attenuating apoptosis in prefrontal cortex
+
+Number of 
+
+Key takeaways:Chronic transfusion of young plasma improves depressive behavior in aged rats by reducing apoptosis in the prefrontal cortex.
+
+Abstract:What is the central question of this study? Young plasma contains several rejuvenating factors that exert beneficial effects in ageing and neurodegenerative diseases: can repeated transfusion of young plasma improve depressive behaviour in aged rats? What is the main finding and its importance? Following chronic transfusion of young plasma, depressive behaviour was improved in the depression model of aged rats, which was associated with reduced apoptosis process in the prefrontal cortex.
+
+Young Plasma Induces Antidepressant-Like Effects in Aged Rats Subjected to Chronic Mild Stress by Suppressing Indoleamine 2,3-Dioxygenase Enzyme and Kynurenine Pathway in the Prefrontal Cortex
+
+Number of 
+
+Key takeaways:Young plasma has antidepressant-like effects in aged rats subjected to chronic mild stress, potentially due to its ability to suppress aging-related changes in the brain.
+
+Abstract:Pathophysiology of depression in elderlies is linked to aging-associated increase in indoleamine 2,3-dioxygenase (IDO) levels and activity and kynurenine (Kyn) metabolites. Moreover, these aging-induced changes may alter the brain’s responses to stress. Growing evidence suggested that young plasma can positively affect brain dysfunctions in old age. The present study aimed to investigate whether the antidepressant effects of young plasma administration in aged rats subjected to chronic unpredictable mild stress (CUMS) and underlying mechanisms, focusing on the prefrontal cortex (PFC). Young (3 months old) and aged (22 months old) male rats were divided into five groups; young control, aged control, aged rats subjected to CUMS (A + CUMS), aged rats subjected to CUMS and treated with young plasma (A + CUMS + YP), and aged rats subjected to CUMS and treated with old plasma (A + CUMS + OP). Plasma was injected (1 ml, intravenously) three times per week for four weeks. Young plasma significantly improved CUMS-induced depressive-like behaviors, evidenced by the increased sucrose consumption ratio in the sucrose preference test and the reduced immobility time in the forced swimming test. Furthermore, young plasma markedly reduced the levels of interferon-gamma (IFN-γ), IDO, Kyn, and Kyn to tryptophan (Kyn/Trp) ratio in PFC tissue. Expression levels of the serotonin transporter and growth-associated protein (GAP)-43 were also significantly increased after chronic administration of young plasma. These findings provide evidence for the antidepressant effect of young plasma in old age; however, whether it improves depressive behaviors or faster recovery from stress-induced deficits is required to be elucidated.
+
+Young blood products: emerging treatment for Alzheimer's disease?
+
+Number of 
+
+Key takeaways:Young blood products show potential in enhancing neurogenesis and synaptic plasticity in aging brains, but more research is needed for significant cognitive improvements in Alzheimer's patients.
+
+Abstract:Alzheimer's disease is the most common neurodegenerative disorder and no disease-modifying treatment is currently available. Research has shown that while brain neurogenesis continues in adult life, it declines with age. Using parabiosis, plasma transfusions and direct administration of neural growth factors, animal studies have demonstrated the positive impact of exposure to young blood products on neurogenesis and synaptic plasticity in an aging brain. The hippocampus and the sub-ventricular zones were identified as the main regions affected. Promising findings have prompted researchers to experiment their effects in subjects with an established neurocognitive disorder, such as Alzheimer's disease. They argued that modification of brain vasculature, reactivation of adult neural stem cells, and remodeling of their synaptic activity/plasticity may lead to cognitive enhancement and increased neurogenesis. One pilot human study found that young donor plasma infusion protocols for adults with Alzheimer's disease were safe and feasible; however, no statistically significant improvements in cognition were detected. There is a need to conduct additional placebo-controlled human studies in larger samples. Future studies should focus on identifying an “optimal age” at which an intervention in humans may yield significant cognitive enhancement, as well as determining the types of transfusions with the best efficacy and tolerability profiles.
+
+Young plasma reverses anesthesia and surgery-induced cognitive impairment in aged rats by modulating hippocampal synaptic plasticity
+
+Number of 
+
+Key takeaways:Young plasma reverses anesthesia- and surgery-induced cognitive impairment in aged rats by activating the TrkB/ERK/CREB signaling pathway and improving hippocampal synaptic plasticity.
+
+Abstract:We investigated the protective effect of young plasma on anesthesia- and surgery-induced cognitive impairment and the potential underlying mechanism using bioinformatics, functional enrichment analysis, gene set enrichment analysis, Golgi-Cox staining, dendritic spine analysis, immunofluorescence assay, western blot analysis, and transmission electron microscopy. Furthermore, we performed behavioral assessments using the open field test, the novel object recognition test, and the Morris water maze test. We identified 1969 differentially expressed genes induced by young plasma treatment, including 800 upregulated genes and 1169 downregulated genes, highlighting several enriched biological processes (signal release from synapse, postsynaptic density and neuron to neuron synapse). Anesthesia- and surgery-induced cognitive impairment in aged rats was comparatively less severe following young plasma preinfusion. In addition, the decreased levels of synapse-related and tyrosine kinase B/extracellular signal-regulated protein kinase/cyclic adenosine monophosphate response element-binding protein (TrkB/ERK/CREB) signaling pathway-related proteins, dendritic and spine deficits, and ultrastructural changes were ameliorated in aged mice following young plasma preinfusion. Together, these findings suggest that young plasma reverses anesthesia- and surgery-induced cognitive impairment in aged rats and that the mechanism is associated with the activation of the TrkB/ERK/CREB signaling pathway and improvement in hippocampal synaptic plasticity.
+
+Access of Elderly Adults to Potentially Inappropriate Medications in the Brazilian Health System
+
+Number of 
+
+Key takeaways:Young plasma may improve age-related memory impairment in Alzheimer's disease by enhancing the peripheral amyloid sink and decreasing cerebral amyloid beta.
+
+Abstract:clinical trial of plasma transfusion from young donors to individuals with Alzheimer’s disease (AD). An additional hypothesis is proposed to explain this effect: that young plasma reverses age-related memory impairment by enhancing the peripheral amyloid sink and hence decreasing cerebral amyloid beta (Ab). Accumulation of Ab in the brain is the pathological and molecular hallmark of AD, the most common dementia in elderly adults. Age-related increases in brain Ab impair memory by inactivating molecular promoters of memory such as cyclic adenosine monophosphate response element binding protein (CREB) and suppressing synaptic plasticity and neurogenesis. In addition to deposition in the brain, Ab circulates in plasma, cerebrospinal fluid (CSF), and brain interstitial fluid as soluble and insoluble oligomeric forms. There is an intricate interplay between the production of Ab in the brain and its passage into the peripheral circulation; Ab can cross the blood–brain barrier attached to some proteins, which carry it to the liver for clearance, a process known as the “peripheral amyloid sink.” In the peripheral circulation, the majority of Ab is bound to serum low density–related protein 1 (sLRP1), which sequesters 70% to 90% of plasma Ab, and apolipoprotein E (ApoE). Emerging evidence suggests that there is an imbalance between brain production of Ab and its crossing into the peripheral amyloid sink in individuals with AD. sLRP1 levels and its capacity to bind Ab are low in individuals with AD. Similarly, certain isoforms of the serum Ab transporter ApoE, such as E4, are associated with a greater risk of AD. There is evidence that reducing levels of circulating Ab in the periphery, thereby augmenting the peripheral amyloid sink, leads to lower cerebral Ab burden by shifting Ab from the central nervous system to the blood. More recently, it was shown that exchanging blood from mice with AD with blood from normal wild-type mice resulted in reduction of cerebral Ab deposition and improved spatial memory performance. The rejuvenating effect of plasma from young mice in cognitively impaired old mice may be due, at least in part, to a reduction of cerebral Ab through enhancement of the peripheral amyloid sink. The level and amyloid-binding capacity of the major peripheral amyloid sink, sLRP1, decline with aging. Hence, infusion of young plasma would replenish the sLRP1 in the blood, which could then efficiently shift cerebral Ab to blood, decreasing cerebral Ab burden. In future studies, it will be important to investigate whether reduction in the burden of cerebral Ab through augmentation of the peripheral amyloid sink mediates the rejuvenating effect of plasma from young individuals or mice on age-related cognitive impairment. If that is the case, it would suggest a therapeutic trial of plasma pheresis instead of plasma transfusion in individuals with AD, because pheresis might be more suitable for elderly individuals, who may have cardiovascular compromise.
+
+Early plasma transfusion is associated with improved survival after isolated traumatic brain injury in patients with multifocal intracranial hemorrhage
+
+Number of 
+
+Key takeaways:Early plasma transfusion is associated with improved in-hospital survival in isolated traumatic brain injury patients with multifocal intracranial hemorrhage.
+
+Perspective: Is therapeutic plasma exchange a viable option for treating Alzheimer's disease?
+
+Number of 
+
+Key takeaways:Therapeutic plasma exchange shows potential in slowing cognitive decline in Alzheimer's patients, but larger, more rigorous studies are needed to confirm these initial positive results.
+
+Abstract:Therapeutic plasma exchange, consisting of removing blood plasma and exchanging it with donated blood products, has been proposed for treating Alzheimer's disease (AD) to remove senescent or toxic factors. In preclinical studies, administration of plasma from young healthy mice to AD transgenic mice improved cognitive deficits without affecting brain amyloid plaques. Initial encouraging results have been collected in a double‐blind, placebo‐controlled study in nine AD patients receiving young plasma. In a 14‐month double‐blind, placebo‐controlled study in 322 AD patients, multiple infusions with plasma enriched with albumin with or without immunoglobulins slowed cognitive, functional, and clinical decline, especially in moderately affected patients. Clinical trials of plasma fractions containing hypothetically beneficial proteins are also under way. These initial positive clinical results need to be confirmed in larger and more rigorous controlled studies in which the possible benefits of plasma exchange approaches can be weighed against the intrinsic side effects of repetitive infusion procedures.
+
+Safety, Tolerability, and Feasibility of Young Plasma Infusion in the Plasma for Alzheimer Symptom Amelioration Study: A Randomized Clinical Trial
+
+Number of 
+
+Key takeaways:Young plasma infusions from male donors are safe, tolerable, and feasible for patients with mild to moderate Alzheimer's disease.
+
+Abstract:Importance Young mouse plasma restores memory in aged mice, but, to our knowledge, the effects are unknown in patients with Alzheimer disease (AD). Objective To assess the safety, tolerability, and feasibility of infusions of young fresh frozen plasma (yFFP) from donors age 18 to 30 years in patients with AD. Design, Setting, and Participants The Plasma for Alzheimer Symptom Amelioration (PLASMA) study randomized 9 patients under a double-blind crossover protocol to receive 4 once-weekly infusions of either 1 unit (approximately 250 mL) of yFFP from male donors or 250 mL of saline, followed by a 6-week washout and crossover to 4 once-weekly infusions of an alternate treatment. Patients and informants were masked to treatment and subjective measurements. After an open-label amendment, 9 patients received 4 weekly yFFP infusions only and their subjective measurements were unmasked. Patients were enrolled solely at Stanford University, a tertiary academic medical center, from September 2014 to December 2016, when enrollment reached its target. Eighteen consecutive patients with probable mild to moderate AD dementia, a Mini-Mental State Examination (score of 12 to 24 inclusive), and an age of 50 to 90 years were enrolled. Thirty-one patients were screened and 13 were excluded: 11 failed the inclusion criteria and 2 declined to participate. Interventions One unit of yFFP from male donors/placebo infused once weekly for 4 weeks. Main Outcome and Measures The primary outcomes were the safety, tolerability, and feasibility of 4 weekly yFFP infusions. Safety end point analyses included all patients who received the study drug/placebo. Results There was no difference in the age (mean , 74.17 years), sex (12 women ), or baseline Mini-Mental State Examination score (mean , 19.39 ) between the crossover (n = 9) and open-label groups (n = 9). There were no related serious adverse events. One patient discontinued participation because of urticaria and another because of an unrelated stroke. There was no statistically significant difference between the plasma (17 ) and placebo (9 ) cohorts for other adverse events, which were mild to moderate in severity. The most common adverse events in the plasma group included hypertension (3 ), dizziness (2 ), sinus bradycardia (3 ), headache (3 ), and sinus tachycardia (3 ). The mean visit adherence (n = 18) was 86% (interquartile range, 87%-100%) and adherence, accounting for a reduction in the total visit requirement due to early patient discontinuation, was 96% (interquartile range, 89%-100%). Conclusions and Relevance The yFFP treatment was safe, well tolerated, and feasible. The study’s limitations were the small sample size, short duration, and change in study design. The results warrant further exploration in larger, double-blinded placebo-controlled clinical trials. Trial Registration ClinicalTrials.gov Identifier: NCT02256306
+
+Plasma dilution improves cognition and attenuates neuroinflammation in old mice
+
+Number of 
+
+Key takeaways:Neutral blood exchange (NBE) improves cognition and reduces neuroinflammation in old mice, promoting brain health and function through dilution of age-related factors.
+
+Abstract:Our recent study has established that young blood factors are not causal, nor necessary, for the systemic rejuvenation of mammalian tissues. Instead, a procedure referred to as neutral blood exchange (NBE) that resets signaling milieu to a pro-regenerative state through dilution of old plasma, enhanced the health and repair of the muscle and liver, and promoted better hippocampal neurogenesis in 2-year-old mice (Mehdipour et al., Aging 12:8790-8819, 2020). Here we expand the rejuvenative phenotypes of NBE, focusing on the brain. Namely, our results demonstrate that old mice perform much better in novel object and novel texture (whisker discrimination) tests after a single NBE, which is accompanied by reduced neuroinflammation (less-activated CD68+ microglia). Evidence against attenuation/dilution of peripheral senescence-associated secretory phenotype (SASP) as the main mechanism behind NBE was that the senolytic ABT 263 had limited effects on neuroinflammation and did not enhance hippocampal neurogenesis in the old mice. Interestingly, peripherally acting ABT 263 and NBE both diminished SA-βGal signal in the old brain, demonstrating that peripheral senescence propagates to the brain, but NBE was more robustly rejuvenative than ABT 263, suggesting that rejuvenation was not simply by reducing senescence. Explaining the mechanism of the positive effects of NBE on the brain, our comparative proteomics analysis demonstrated that dilution of old blood plasma yields an increase in the determinants of brain maintenance and repair in mice and in people. These findings confirm the paradigm of rejuvenation through dilution of age-elevated systemic factors and extrapolate it to brain health and function.
+
+Plasma transfusion and hospital mortality in moderate-severe traumatic brain injury.
+
+Number of 
+
+Key takeaways:Plasma administration within the first four hours after hospital presentation was not associated with decreased or increased mortality in adult patients with moderate to severe traumatic brain injury after accounting for confounders.
+
+Infusion of young donor plasma components in older patients modifies the immune and inflammatory response to surgical tissue injury: a randomized clinical trial
+
+Number of 
+
+Key takeaways:Infusion of young plasma protein fractions in elderly patients significantly reduces inflammation and immune responses to surgical trauma, potentially benefiting age-related conditions.
+
+Abstract:Abstract Background Preclinical evidence suggests that young plasma has beneficial effects on multiple organ systems in aged mice. Whether young plasma exerts beneficial effects in an aging human population remains highly controversial. Despite lacking data, young donor plasma infusions have been promoted for age-related conditions. Given the preclinical evidence that young plasma exerts beneficial effects by attenuating inflammation, this study examined whether administering a young plasma protein fraction to an elderly population would exert anti-inflammatory and immune modulating effects in humans, using surgery as a tissue injury model. Methods This double-blind, placebo-controlled study enrolled and randomized 38 patients undergoing major joint replacement surgery. Patients received four separate infusions of a plasma protein fraction derived from young donors, or placebo one day before surgery, before and after surgery on the day of surgery, and one day after surgery. Blood specimens for proteomic and immunological analyses were collected before each infusion. Based on the high-content assessment of circulating plasma proteins with single-cell analyses of peripheral immune cells, proteomic signatures and cell-type-specific signaling responses that separated the treatment groups were derived with regression models. Results Elastic net regression models revealed that administration a young plasma protein fraction significantly altered the proteomic (AUC = 0.796, p = 0.002) and the cellular immune response (AUC 0.904, p &lt; 0.001) to surgical trauma resulting in signaling pathway- and cell type-specific anti-inflammatory immune modulation. Affected proteomic pathways regulating inflammation included JAK-STAT, NF-kappa B, and MAPK ( p &lt; 0.001). These findings were confirmed at the cellular level as the MAPK and JAK/STAT signaling responses were diminished and IkB, the negative regulator of NFkB, was elevated in adaptive immune cells. Conclusion Reported findings provide a first proof of principle in humans that a young plasma protein fraction actively regulates inflammatory and immune responses in an elderly population. They provide a solid rationale for elucidating active principles in young plasma that may be of therapeutic benefits for a range of age-related pathologies. Trial registration ClinicalTrials.gov, NCT 03981419.
+
+.
+
+Number of 
+
+Key takeaways:Platelet-rich plasma from young donors increases metabolic activity and prevents cell necrosis, while elderly donors cause lower metabolic activity and higher cell necrosis and apoptosis.
+
+Abstract:OBJECTIVE
+To study the age-adjusted regenerative potential of platelet-rich plasma (PRP) in a culture of dermal fibroblast cells with analysis of proliferative, migratory and metabolic activity of cells after their stimulation with PRP from donors of different ages.
+
+MATERIAL AND METHODS
+To prepare PRP, we used one of the classic protocols for one-stage centrifugation of whole blood from healthy donors divided into age groups: the first group (n=10) - donors aged 30-40 years, the second group (n=10) - donors aged 60-70 years. We used hTERT-HDFa (d220) cell line and added donor PRP to the experimental wells at concentrations of 10%. Samples without PRP comprised group 0 (K). The same medium without PRP supplemented with 10% FBS was used as a positive control (group 0 (K 10% FBS)). We analyzed metabolic activity of cells (MTT test) and migration activity of fibroblasts in 'scratch assay'. We estimated intensity of reactive oxygen species (ROS) release, morphological characteristics of cells and mechanisms of cell death (fluorescence microscopy).
+
+RESULTS
+PRP from donors aged 60-70 years reduced metabolic activity of hTERT-HDFa culture on the first day of experiment by 85.5% (p<0.001) compared to the first group. ROS release by fibroblasts after addition of plasma from donors aged 30-40 years was maximum in the first hours and decreased throughout the follow-up period. After addition of plasma from donors aged 60-70 years, ROS release did not show significant changes in the first hours, but significantly increased throughout the follow-up period. Microscopy revealed the highest percentage of viable cells in groups 0 (K 10% FBS) and 1 (donors aged 30-40 years). The highest percentage of necrosis and apoptosis was recorded in group 2 (donors 60-70 years).
+
+CONCLUSION
+In the first 24 hours, we revealed pro-oxidant stimulating effect of PRP from young donors with increase in metabolic activity and no cell necrosis. Addition of PRP from elderly donors on the first day was accompanied by lower metabolic activity of culture and higher percentage of cell necrosis and apoptosis. There was no difference in migration activity of cells depending on donor age.
+
+Small extracellular vesicles from young plasma reverse age-related functional declines by improving mitochondrial energy metabolism
+
+Number of 
+
+Key takeaways:Young plasma extracellular vesicles reverse age-related dysfunction by stimulating PGC-1 expression and enhancing mitochondrial energy metabolism in aged mice.
+
+Hypoxic storage of red blood cells improves metabolism and post‐transfusion recovery
+
+Number of 
+
+Key takeaways:Hypoxic storage of red blood cells improves metabolism and post-transfusion recovery, but its impact on clinical outcomes remains unclear.
+
+Abstract:Blood transfusion is a lifesaving intervention for millions of recipients worldwide every year. Storing blood makes this possible but also promotes a series of alterations to the metabolism of the stored erythrocyte. It is unclear whether the metabolic storage lesion is correlated with clinically relevant outcomes and whether strategies aimed at improving the metabolic quality of stored units, such as hypoxic storage, ultimately improve performance in the transfused recipient.
+
+Effects of red blood cell (RBC) transfusion on sickle cell disease recipient plasma and RBC metabolism
+
+Number of 
+
+Key takeaways:Exchange transfusion in sickle cell disease recipients may impact their plasma and RBC metabolism, with storage durations of up to 2 weeks potentially causing irreversible storage lesion damage.
+
+Abstract:Exchange transfusion is a mainstay in the treatment of sickle cell anemia. Transfusion recipients with sickle cell disease (SCD) can be transfused over 10 units per therapy, an intervention that replaces circulating sickle red blood cells (RBCs) with donor RBCs. Storage of RBCs makes the intervention logistically feasible. The average storage duration for units transfused at the Duke University Medical Center is approximately 2 weeks, a time window that should anticipate the accumulation of irreversible storage lesion to the RBCs. However, no metabolomics study has been performed to date to investigate the impact of exchange transfusion on recipients' plasma and RBC phenotypes.
+
+Umbilical cord plasma concentrate has beneficial effects on DNA methylation GrimAge and human clinical biomarkers
+
+Number of 
+
+Key takeaways:Umbilical cord plasma concentrate is safe and beneficially affects more than 20 clinical biomarkers, potentially reducing age-related conditions and promoting youth.
+
+Abstract:Plasma transfusions are standard treatments to replace missing proteins in people with rare genetic diseases. Prior studies have demonstrated that heterochronic parabiosis has beneficial effects on several tissues of old animals receiving young blood. Human clinical trials are currently underway to investigate whether the infusion of plasma or plasma‐derived factors from young donors can be used to mitigate human age‐related conditions. Here, we use data from a safety study (n = 18, mean age 74) to investigate whether human umbilical cord plasma concentrate (hereinafter Plasma Concentrate) injected weekly (1 ml intramuscular) into elderly human subjects over a 10‐week period affects different biomarkers, including epigenetic age measures, standard clinical biomarkers of organ dysfunction, mitochondrial DNA copy number (mtDNA‐CN), and leukocyte telomere length. This study shows that treatment with plasma concentrate is safe. More than 20 clinical biomarkers were significantly and beneficially altered following the treatments. For example, creatinine was significantly decreased (p = 0.0039), while estimated glomerular filtration rate (eGFR) was increased (p = 0.0044), indicating the treatment may improve biomarkers of kidney function. Three of four immunoglobulin biomarkers decreased, while telomere length and mtDNA‐CN were not significantly affected by the treatment. The treatment reduced DNA methylation‐based GrimAge by an average of 0.82 years (p = 0.0093), suggests a reduction in morbidity and mortality risk. By contrast, no significant results could be observed for epigenetic clocks that estimate chronological age. Our results support the view that plasma concentrate contains youth‐promoting factors.
+
+Lack of association between blood donor age and survival of transfused patients.
+
+Number of 
+
+Key takeaways:Blood transfusions from young donors to older patients show no association with improved survival rates or muscle regeneration in older mice.
+
+Abstract:To the editor:
+
+The possible rejuvenating effects of transfusions from young donors to older patients have generated considerable interest recently, following publication of a study showing improvements in muscle regeneration when older mice were transfused with blood from younger mice.
+
+Linking Stored Red Blood Cell Metabolism to Transfusion Recipient Iron Homeostasis Pathophysiology in Critically-Ill Children
+
+Number of 
+
+Key takeaways:Stored red blood cell metabolism at the time of transfusion correlates with recipient iron homeostasis in critically-ill pediatric patients, potentially impacting their risk of sepsis and multiorgan failure.
+
+Abstract:Background: Transfusion of packed red blood cells (pRBCs) is a common, life-saving therapy for many critically-ill children. However, routine blood bank storage results in the progressive accumulation of a series of RBC modifications, termed the 'storage lesion,' that reduce RBC recovery in vivo, may affect transfusion recipient physiology, and may be implicated in transfusion-related adverse events. In particular, circulating non-transferrin-bound iron (NTBI) in recipients can be increased after pRBC transfusion. NTBI promotes bacterial growth, induces oxidative injury, and inversely correlates with post-transfusion recovery, all of which may increase the risk of sepsis, multiorgan failure, and death. We aimed to determine whether the metabolic state of donor pRBCs at the time of transfusion correlates with recipient NTBI levels, which serves as a marker of hemolysis and iron homeostasis in critically-ill pediatric patients.
+ Study Design/Methods: Critically-ill pediatric patients, aged < 21-years-old with a minimum weight of 5kg in the pediatric intensive care unit at a single-site tertiary care hospital, who required pRBC transfusion, were prospectively enrolled after parental consent (n = 49 patients). Patient blood samples were obtained pre-transfusion and 4 hours following the patient's first qualifying pRBC transfusion, and analyzed for markers of iron and heme homeostasis, hemolysis, liver function, and inflammation utilizing standard laboratory methods. pRBC transfusate (1 mL) was frozen at -80°C immediately at the end of transfusion for each transfused patient. Hydrophilic and lipophilic compounds were extracted separately using methanol:acetonitrile:water or methanol, respectively, before analysis using high-throughput LC-MS based metabolomics and lipidomics platforms to determine the relative abundance of small molecule compounds. Metabolite levels in the pRBC transfusates were correlated with the differences in pre- and post-transfusion clinical laboratory values and selected patient parameters (e.g. blood type, patient age, and storage age of the pRBC unit at the time of transfusion), using Pearson correlation coefficients and associated p-values.
+ Results: The relative levels of 221 unique metabolites and lipids in the pRBC transfusates were correlated with the corresponding transfusion recipient's clinical laboratory values and selected patient parameters. Analysis of Pearson's correlations between the levels of these compounds in the donor pRBC transfusates and the pre- and post-transfusion differences in the recipients' NTBI levels (ΔNTBI) demonstrated statistically significant correlations for 24 metabolites (R = 0.28-0.43, p = 0.0022-0.0476, see Table). Analysis of recipient clinical laboratory biomarkers associated with recipient ΔNTBI revealed a positive correlation with increases in serum iron (R = 0.41, p = 0.0034) but not with other changes in recipient clinical laboratory biomarkers. The age of the stored pRBCs at the time of transfusion did not correlate with ΔNTBI levels (R = 0.24, p = 0.0912).
+ Conclusions: Statistically significant correlations of donor pRBC transfusate metabolites with transfusion recipient ΔNTBI are primarily seen with hypoxanthine, lactate, metabolites of glutathione homeostasis, amino acids, unsaturated free fatty acids, acyl-carnitines, and metabolites of indole and tryptophan metabolism. These data suggest that higher levels of oxidative stress, proteolysis, membrane remodeling in stored donor pRBCs, and, possibly, microbiome metabolism in the pRBC donor, are associated with significant increases in recipient plasma NTBI and serum iron levels, likely from hemolysis of storage-damaged RBCs. The levels of these metabolic biomarkers of the RBC storage lesion correlate better with ΔNTBI than the storage age of the donor unit, supporting the notion that pRBC metabolic age is not equivalent to pRBC chronologic age, and that the former may be more relevant to transfusion recipient pathophysiology in critically-ill children.
+ Table.
+ 
+ 
+ Nemkov: Omix Technologies, Inc.: Equity Ownership, Other: Founder. Spitalnik:Hemanext: Membership on an entity's Board of Directors or advisory committees; Tioma, Inc.: Consultancy. D'Alessandro:Hemanext, Inc.: Membership on an entity's Board of Directors or advisory committees; Omix Technologies, Inc.: Other: Founder.
+
+The impact of donor sex and age on stored platelet metabolism and post-transfusion recovery.
+
+Number of 
+
+Key takeaways:Donor sex and age significantly impact platelet metabolism, with older, male donors showing higher levels of certain metabolites that correlate with post-transfusion recovery and long-term survival.
+
+Abstract:BACKGROUND
+The impact of donor biology on blood component storability is increasingly appreciated as a determinant of the storage lesion and post-transfusion performances. Platelet metabolism is affected by age and it is critical to platelet responses to activating stimuli in an age-dependent manner. Sex has been previously highlighted as a contributing factor to the platelet proteomics lesion. However, little is known about the impact of donor sex and age on stored platelet metabolism and post-transfusion capacity to circulate.
+
+MATERIALS AND METHODS
+Apheresis platelets were donated via apheresis by 21 healthy volunteers (12 males and 9 females; ages 20 to 59). Metabolomics analyses were performed at day 0 and after 5 days of storage at 22+2 °C, along with autologous post-transfusion recovery and survival studies with 51Cr and 111In.
+
+RESULTS
+Sex and age significantly impacted platelet metabolism at baseline and upon storage. Platelets from older, male donors were characterised by higher levels of Krebs cycle metabolites, pentose phosphate pathway intermediates and byproducts, deaminated purines and long chain fatty acids. These metabolites ranked amongst the top significant correlates to post-transfusion recoveries. Glutathione homeostasis and sphingosine 1-phosphate were the top positive correlates to long term survival, which was lower in platelets from older, male donors - without reaching statistical significance.
+
+DISCUSSION
+In this study we report that donor sex and age have a significant impact on platelet metabolism. Novel metabolic correlates to platelet post-transfusion performances (24 h recovery and long-term survival) were identified through high-resolution, stable isotope-labeled internal standard-assisted metabolomics approach.
+
+Microvascular changes in young hamsters after single heterochronic blood transfusion of one unit of blood
+
+Number of 
+
+Key takeaways:Younger donors' blood transfusions improve recovery from anemia in young animals, as it ensures higher functional capillary density and supports proper tissue homeostasis.
+
+Abstract:Aging is the most significant risk factor for many chronic diseases. Studies of heterochronic blood exchange show that blood and plasma from old-age animals have senescent effects in young mice. However, the underlying mechanisms of how bloodborne factors promote aging remain largely unknown, and studies of blood transfusions' effects on donors of different ages are currently unavailable. This study aimed to compare the microcirculatory effects of blood transfusions from young or old donors in anemic young animals. Blood was collected from anesthetized young (8 weeks old) and older (52-60 weeks old) golden Syrian hamsters via cardiac puncture into CP2D (from an AS-3 blood preparation kit). The supernatant and buffy coat were removed. The AS-3 additive was added according to manufacture instructions, and packed red cells were mixed gently. For microhemodynamic studies, young golden Syrian hamsters instrumented with a dorsal window chamber were subjected to an isovolemic hemodilution of 30% of the animal's blood volume with 5% human serum albumin to induce a normovolemic anemic state. The next day, the anemic animals were randomly assigned to young or older blood and received a transfusion of a volume equivalent to a single unit of red cells. The microhemodynamics in arterioles lower and greater than 60 μm and venules between 20 and 80 μm and functional capillary density (FCD) were measured. Hemodilution acutely reduced hematocrit (Hct) to 60% of the baseline and increased microvascular blood flow in venules and arterioles while decreasing the FCD. Transfusion of young or old donors’ blood increased the Hct. There was no significant change post-transfusion in the diameter or the flow of the arterioles in the young donors' blood group compared to old donors’ blood. The animals transfused with blood from young donors restored venules flow and diameter similarly to baseline (pre-anemia). However, the old donors’ blood group did not show the same recovery. More importantly, the FCD significantly improved after younger donors' blood transfusions compared to the old ones. These results suggest that recovery from anemia is improved when using blood from younger donors, as this ensures higher FCD and supports proper tissue homeostasis. This study intentionally tried to recapitulate how blood is processed in the USA and transfuse only a conservative amount of blood into anemic animals. Studies have shown that heterochronic parabiosis (surgically joining younger and older animals in which blood, organs, and environments are shared) or a blood exchange rejuvenates old tissues. Here using a heterochronic blood transfusion, we show that the donor's age determines the recovery of FCD after transfusion. These deficits could be due to capillary collapse preventing oxygen from arriving uniformly through the tissue, as the FCD determines the microvascular oxygen diffusion field. Future studies will look at the implication of the recovery of FCD after transfusion. This study was supported by National Institutes of Health grants R01HL162120, R01HL159862 and the Department of Defense under grants W81XWH1810059. This is the full abstract presented at the American Physiology Summit 2023 meeting and is only available in HTML format. There are no additional versions or additional content available for this abstract. Physiology was not involved in the peer review process.
+
+Influence of Donor Blood Temperature on Metabolic and Hormonal Changes During Exchange Transfusion
+
+Number of 
+
+Key takeaways:Exchange transfusions with cold blood cause thermal stress to infants, but metabolic consequences are slight and mitigated by the glucose in the donor blood.
+
+Abstract:Measurements of plasma glucose, free fatty acid, glycerol, insulin, growth hormone, and glucagon were made during exchange transfusions performed with blood heated to 36·5 to 38·5 °C or cooled to 10 to 13 °C. Term, normally grown infants suffering from rhesus incompatibility were studied. 10 received warm transfusions and 9 cold transfusions. Cold transfusions caused a progressive fall in rectal, umbilical vein, and skin temperature, whereas warm transfusions caused little change in body temperature. Infants receiving cold transfusions had a greater net positive balance of glucose and a smaller net negative balance of free fatty acids than those receiving warm transfusions. Other metabolic and hormonal responses to exchange transfusion were similar in the two groups. It was concluded that while exchange transfusion performed with cold blood did cause thermal stress to the infant, the metabolic consequences were slight and were mitigated by the glucose in the donor blood. There was no evidence that insulin, growth hormone, or glucagon played a part in the response of the newborn infant to cold.
+
+The profile of circulating extracellular vesicles depending on the age of the donor potentially drives the rejuvenation or senescence fate of hematopoietic stem cells
+
+Number of 
+
+Key takeaways:Plasma-derived vesicles from young donors can reverse aging-associated changes in hematopoietic stem cells, while those from elderly donors promote senescence-associated differentiation.
+
+Infusion of donor feces affects the gut–brain axis in humans with metabolic syndrome
+
+Number of 
+
+Key takeaways:Infusion of donor feces from post-Roux-en-Y gastric bypass patients increases brain dopamine transporter binding, suggesting a potential gut-brain axis modulation in obese metabolic syndrome patients.
+
+Regulation of kynurenine metabolism by blood donor genetics and biology impacts red cell hemolysis in vitro and in vivo.
+
+Number of 
+
+Key takeaways:Blood donor genetics and biology influence kynurenine metabolism, which is a key predictor of osmotic fragility in stored red blood cells, and may impact hemolysis in critically-ill recipients.
+
+Abstract:In the field of Transfusion Medicine, the clinical relevance of the metabolic markers of the red blood cell (RBC) storage lesion is incompletely understood. Here we performed metabolomics of RBC units from 643 donors enrolled in the Recipient Epidemiology and Donor Evaluation Study - REDS RBC Omics. These units were tested at storage day 10, 23 and 42 for a total of 1,929 samples, and also characterized for end of storage hemolytic propensity following oxidative and osmotic insults. Our results indicate that the metabolic markers of the storage lesion poorly correlated with hemolytic propensity. On the other hand, kynurenine was not affected by storage duration and was identified as the top predictor of osmotic fragility. RBC kynurenine levels were affected by donor age and BMI, and were reproducible within the same donor across multiple donations 2-12 months apart. To delve into the genetics underpinnings of kynurenine levels in stored RBCs, we thus tested kynurenine levels in day 42 stored RBCs from 13,091 donors from the REDS RBC Omics study, a population that was also genotyped for 879,000 single nucleotide polymorphisms. Through a metabolite Quantitative Trait Loci analysis, we identified polymorphisms in SLC7A5, ATXN2 and a series of rate-limiting enzymes (e.g., IDO1, KMO, TDO) in the kynurenine pathway as critical factors impacting RBC kynurenine levels. By interrogating a donor-recipient linkage vein-to-vein database, we then report that SLC7A5 polymorphisms are also associated with changes in hemoglobin and bilirubin levels suggestive of in vivo hemolysis in 4,470 critically-ill recipients receiving single unit transfusions.
+
+Association of Donor Age and Sex With Survival of Patients Receiving Transfusions
+
+Number of 
+
+Key takeaways:Donor age and sex are not associated with patient survival, and should not be considered in blood allocation decisions.
+
+Abstract:Importance Following animal model data indicating the possible rejuvenating effects of blood from young donors, there have been at least 2 observational studies conducted with humans that have investigated whether donor age affects patient outcomes. Results, however, have been conflicting. Objective To study the association of donor age and sex with survival of patients receiving transfusions. Design, Setting, and Participants A retrospective cohort study based on the Scandinavian Donations and Transfusions database, with nationwide data, was conducted for all patients from Sweden and Denmark who received at least 1 red blood cell transfusion of autologous blood or blood from unknown donors between January 1, 2003, and December 31, 2012. Patients were followed up from the first transfusion until death, emigration, or end of follow-up. Data analysis was performed from September 15 to November 15, 2016. Exposures The number of transfusions from blood donors of different age and sex. Exposure was treated time dependently throughout follow-up. Main Outcomes and Measures Hazard ratios (HRs) for death and adjusted cumulative mortality differences, both estimated using Cox proportional hazards regression. Results Results of a crude analysis including 968 264 transfusion recipients (550 257 women and 418 007 men; median age at first transfusion, 73.0 years ) showed a U-shaped association between age of the blood donor and recipient mortality, with a nadir in recipients for the most common donor age group (40-49 years) and significant and increasing HRs among recipients of blood from donors of successively more extreme age groups (<20 years: HR, 1.12; 95% CI, 1.10-1.14; ≥70 years: HR, 1.25; 95% CI, 1.08-1.44). Higher mortality was also noted among recipients of blood from female donors (HR, 1.07; 95% CI, 1.07-1.07). Adjustments for number of transfusions with a linear term attenuated the associations, but the increased mortality for recipients of blood from young, old, and female donors was not eliminated. Closer examination of the association between number of transfusions and mortality revealed a nonlinear pattern. After adjustments to accommodate nonlinearity, donor age and sex were no longer associated with patient mortality. Conclusions and Relevance Donor age and sex were not associated with patient survival and need not be considered in blood allocation. Any comparison between common and less common categories of transfusions will inevitably be confounded by the number of transfusions, which drives the probability of receiving the less common blood components. Previous positive findings regarding donor age and sex are most likely explained by residual confounding.
+
+No association between donor age and recipient outcomes: transfusion of plasma in patients undergoing coronary artery bypass grafting surgery
+
+Number of 
+
+Key takeaways:Transfusion of plasma from young donors does not have a significant impact on recipient outcomes in coronary artery bypass grafting patients.
+
+Abstract:Recent animal studies suggest that transfusion of plasma from young donors reverses age‐related neurologic and cardiac changes in older recipients. Associations between age of blood product donors and corresponding outcomes in recipients have not been studied in humans. Therefore, our primary objective was to examine this relationship between donor age and recipient outcomes among patients that received plasma during and after coronary artery bypass grafting (CABG) surgery.
+
+Transfused trauma patients have better outcomes when transfused with blood components from young donors.
+
+Number of 
+
+Key takeaways:Trauma patients have better outcomes when transfused with blood components from young donors, potentially due to a positive effect of younger donors or the absence of negative effects from older donors.
+
+Unrelated donor umbilical cord blood transplantation for inherited metabolic disorders in 159 pediatric patients from a single center: influence of cellular composition of the graft on transplantation outcomes.
+
+Number of 
+
+Key takeaways:Unrelated donor umbilical cord blood transplantation for inherited metabolic disorders in pediatric patients with high pretransplantation performance status, matched donor/recipient ethnicity, and higher infused colony forming units improves overall survival.
+
+Abstract:Outcomes of 159 young patients with inherited metabolic disorders (IMDs) undergoing transplantation with partially HLA-mismatched unrelated donor umbilical cord blood were studied to investigate the impact of graft and patient characteristics on engraftment, overall survival (OS), and graft-versus-host disease (GVHD). Patients received myeloablative chemotherapy (busulfan, cyclophosphamide, ATG) and cyclosporine-based GVHD prophylaxis. Infused cell doses were high (7.57 x 10(7)/kg) because of the patients' young age (median, 1.5 years) and small size (median, 12 kg). Median follow-up was 4.2 years (range, 1-11 years). The cumulative incidences of neutrophil and platelet engraftment were 87.1% (95% confidence interval , 81.8%-92.4%) and 71.0% (95% CI, 63.7%-78.3%). A total of 97% achieved high (> 90%) donor chimerism. Serum enzyme normalized in 97% of patients with diseases for which testings exist. Grade III/IV acute GVHD occurred in 10.3% (95% CI, 5.4%-15.2%) of patients. Extensive chronic GVHD occurred in 10.8% (95% CI, 5.7%-15.9%) of patients by 1 year. OS at 1 and 5 years was 71.8% (95% CI, 64.7%-78.9%) and 58.2% (95% CI, 49.7%-66.6%) in all patients and 84.5% (95% CI, 77.0%-92.0%) and 75.7% (95% CI, 66.1%-85.3%) in patients with high (80-100) performance score. In multivariate analysis, favorable factors for OS were high pretransplantation performance status, matched donor/recipient ethnicity, and higher infused colony forming units.
+
+Genetic determinants of plasma testosterone in male blood donors are associated with altered red blood cell characteristics and survival in cold storage and after transfusion.
+
+Number of 
+
+Key takeaways:Genetic determinants of plasma testosterone in male donors significantly impact the quality and transfusion effectiveness of cold stored red blood cells, with potential clinical implications.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

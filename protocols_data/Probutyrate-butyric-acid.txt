@@ -1,0 +1,501 @@
+PROTOCOL: Probutyrate (butyric acid)
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Abstract:Butyrate is a short-chain fatty acid (SCFA) created within the intestinal lumen by bacterial fermentation of largely undigested dietary carbohydrates. Its beneficial effects on cellular energy metabolism and intestinal homeostasis have garnered significant attention among SCFAs. Butyrate also has systemic effects and is known to regulate the immune system. Most of the butyrate and other SCFAs are produced in the human colon, through the fermentation of dietary fiber or resistant starch. However, the modern diet often lacks sufficient intake of fermentable dietary fiber, which can lead to low butyrate levels in the colon. To increase butyrate levels, it is helpful to incorporate fiber sources into meals and drinks that rely on slow bacterial fermentation. Butyrate is well known for its anti-inflammatory properties and has a range of immune system-related properties. As an agonist for GPR41, GPR43, or GPR109A, butyrate may have anti-inflammatory effects through these receptors’ signaling pathways. Butyrate also serves as an epigenetic regulator, responding to environmental or pharmacological changes by inhibiting HDAC, up-regulating miR-7a-5p, and promoting histone butyrylation and autophagy processes. This review discusses the importance of butyrate in regulating immunological homeostasis and the inflammatory response. It also addresses experimental models and human studies investigating the therapeutic potential of butyrate supplementation in immune-related conditions linked to butyrate depletion. Specifically, it covers the role of butyrate in some immune-related diseases such as systemic lupus erythematosus, atopic dermatitis, psoriasis, human immunodeficiency virus, cancer, and several other special conditions.
+DESCRIPTION: Butyric acid, a natural short-chain fatty acid, supports gut health, strengthens immunity, and may improve metabolic parameters. Supplementation with products such as ProButyrate may benefit individuals with disrupted microbiota or chronic inflammation.
+
+CONTENT SECTIONS:
+
+Probutyrate (butyric acid)
+
+Multifaceted support for gut, immunity, and metabolism
+
+Butyric acid, a natural short-chain fatty acid, supports gut health, strengthens immunity, and may improve metabolic parameters. Supplementation with products such as ProButyrate may benefit individuals with disrupted microbiota or chronic inflammation.
+
+Level of evidence:Preliminary
+
+Butyric acid primarily acts in the gut, where it serves as the main energy source for epithelial cells. It strengthens the intestinal barrier, exhibits anti-inflammatory properties, and supports microbiota balance. Additionally, it modulates the immune system and affects glucose and lipid metabolism through gene expression regulation and activation of GPR receptors. Systemic effects depend on bioavailability and may be limited in individuals with advanced metabolic disorders.
+
+Butyric acid supplementation is generally well tolerated, especially in physiological doses. However, mild side effects are possible, particularly from the digestive tract.
+
+Supplementation is not recommended for individuals with certain gastrointestinal disorders or fat metabolism issues.
+
+250–1500 mg per day (as sodium butyrate, calcium butyrate, or as tributyrin)
+
+Capsules, microcapsules, liquid, enteric-coated butyrate
+
+First effects may be noticeable after 1–2 weeks of supplementation
+
+With food or immediately after meals, for better tolerance
+
+With prebiotics (e.g., soluble fiber) and probiotics for synergistic microbiota support
+
+What not to combine with
+
+Avoid combining with antacids – may affect capsule dissolution
+
+Choosing a delayed-release form
+
+Choose supplements with enteric-coated butyrate or in tributyrin form – these improve stability and absorption.
+
+In gut inflammation or after antibiotic therapy, it’s worth combining supplementation with a microbiota-supportive diet.
+
+Gradual dose increase
+
+For sensitive digestive tracts, start with lower doses (e.g., 250 mg) and gradually increase them.
+
+Metabolic effects are subtle – it’s best to combine supplementation with physical activity and an anti-inflammatory diet.
+
+It may be particularly beneficial in the elderly with weakened gut barrier and reduced microbiota diversity.
+
+Butyric acid supports the immune system through anti-inflammatory effects, regulation of immune cells, and improvement of gut microbiota balance.
+
+Mechanisms of action on the immune system
+
+Examples of applications and effects
+
+Butyric acid supports gut health by strengthening the intestinal barrier, reducing inflammation, regulating motility, and modulating gut microbiota.
+
+Key gut health benefits
+
+Butyric acid supports metabolic health by improving insulin sensitivity, regulating lipids, and exerting anti-inflammatory effects, though human results are less consistent than preclinical findings.
+
+Mechanisms of action and metabolic effects
+
+Study results in humans and animals
+
+Limitations and uncertainties
+
+Scientific data and sources
+
+Level of evidencePreliminary
+
+Number of included studies:55
+
+Final comment:Butyric acid shows promising effects in gut, immune, and metabolic health. Evidence for its efficacy comes largely from preclinical studies, including numerous animal experiments and in vitro research. These models have demonstrated its impact on strengthening the gut barrier, reducing inflammation, improving metabolic parameters, and regulating the microbiota. There are also human clinical studies, but their number is limited, and effects are often observed only in specific populations, such as lean or healthy individuals. There is a lack of large meta-analyses and conclusive evidence confirming the effectiveness of butyric acid supplementation in the general population. The effectiveness of this intervention in the context of metabolic, immune, and gut health requires further well-designed clinical studies with larger sample sizes.
+
+Butyrate Properties in Immune-Related Diseases: Friend or Foe?
+
+Number of 
+
+Key takeaways:Butyrate supplementation may have therapeutic potential in immune-related diseases linked to butyrate depletion, such as systemic lupus erythematosus, atopic dermatitis, psoriasis, HIV, cancer, and other conditions.
+
+Abstract:Butyrate is a short-chain fatty acid (SCFA) created within the intestinal lumen by bacterial fermentation of largely undigested dietary carbohydrates. Its beneficial effects on cellular energy metabolism and intestinal homeostasis have garnered significant attention among SCFAs. Butyrate also has systemic effects and is known to regulate the immune system. Most of the butyrate and other SCFAs are produced in the human colon, through the fermentation of dietary fiber or resistant starch. However, the modern diet often lacks sufficient intake of fermentable dietary fiber, which can lead to low butyrate levels in the colon. To increase butyrate levels, it is helpful to incorporate fiber sources into meals and drinks that rely on slow bacterial fermentation. Butyrate is well known for its anti-inflammatory properties and has a range of immune system-related properties. As an agonist for GPR41, GPR43, or GPR109A, butyrate may have anti-inflammatory effects through these receptors’ signaling pathways. Butyrate also serves as an epigenetic regulator, responding to environmental or pharmacological changes by inhibiting HDAC, up-regulating miR-7a-5p, and promoting histone butyrylation and autophagy processes. This review discusses the importance of butyrate in regulating immunological homeostasis and the inflammatory response. It also addresses experimental models and human studies investigating the therapeutic potential of butyrate supplementation in immune-related conditions linked to butyrate depletion. Specifically, it covers the role of butyrate in some immune-related diseases such as systemic lupus erythematosus, atopic dermatitis, psoriasis, human immunodeficiency virus, cancer, and several other special conditions.
+
+Short-chain fatty acids: linking diet, the microbiome and immunity.
+
+Number of 
+
+Key takeaways:Short-chain fatty acids (SCFAs) influence gut barrier function and immunity, potentially aiding in the prevention and treatment of immune-mediated diseases.
+
+Microbial metabolite butyrate promotes anti-PD-1 antitumor efficacy by modulating T cell receptor signaling of cytotoxic CD8 T cell
+
+Number of 
+
+Key takeaways:Butyrate, a metabolite of gut microbiota, enhances the efficacy of anti-PD-1 immunotherapy by modulating TCR signaling of cytotoxic CD8 T cells, making it a promising therapeutic biomarker for enhancing antitumor immunity.
+
+Abstract:ABSTRACT Recent studies have demonstrated that the antitumor immunity of immune cells can be modulated by gut microbiota and their metabolites. However, the underlying mechanisms remain unclear. Here, we showed that the serum butyric acid level is positively correlated with the expression of programmed cell death-1 (PD-1) on circulating CD8+ and Vγ9 Vδ2 (Vδ2+) T cells in patients with non-small cell lung cancer (NSCLC). Responder NSCLC patients exhibited higher levels of serum acetic acid, propionic acid, and butyric acid than non-responders. Depletion of the gut microbiota reduces butyrate levels in both feces and serum in tumor-bearing mice. Mechanistically, butyrate increased histone 3 lysine 27 acetylation (H3K27ac) at the promoter region of Pdcd1 and Cd28 in human CD8+ T cells, thereby promoting the expression of PD-1/CD28 and enhancing the efficacy of anti-PD-1 therapy. Butyrate supplementation promotes the expression of antitumor cytokines in cytotoxic CD8+ T cells by modulating the T-cell receptor (TCR) signaling pathway. Collectively, our findings reveal that the metabolite butyrate of the gut microbiota facilitates the efficacy of anti-PD-1 immunotherapy by modulating TCR signaling of cytotoxic CD8 T cells, and is a highly promising therapeutic biomarker for enhancing antitumor immunity.
+
+Prominent action of butyrate over β-hydroxybutyrate as histone deacetylase inhibitor, transcriptional modulator and anti-inflammatory molecule
+
+Number of 
+
+Key takeaways:Butyrate is a stronger HDAC inhibitor, transcriptional modulator, and anti-inflammatory molecule than Rhydroxybutyrate, with a slight pro-inflammatory effect on endothelial cells.
+
+The Butyrate-Producing Bacterium Clostridium butyricum Suppresses Clostridioides difficile Infection via Neutrophil- and Antimicrobial Cytokine–Dependent but GPR43/109a-Independent Mechanisms
+
+Number of 
+
+Key takeaways:Clostridium butyricum, a butyrate-producing probiotic, effectively suppresses Clostridioides difficile infection in mice by boosting antimicrobial innate and cytokine-mediated immunity without relying on GPR43 and GPR109a receptors.
+
+Abstract:Key Points Clostridium butyricum strain MIYAIRI588 (CBM588) protects mice from CDI. CBM588 elicits neutrophil recruitment and Th1 and Th17 immunity in the gut. The protective effects of CBM588 are independent of GPR43 and GPR109a. Visual Abstract Short-chain fatty acids, such as butyrate, are major gut microbial metabolites that are beneficial for gastrointestinal health. Clostridium butyricum MIYAIRI588 (CBM588) is a bacterium that produces a robust amount of butyrate and therefore has been used as a live biotherapeutic probiotic in clinical settings. Clostridioides difficile causes life-threatening diarrhea and colitis. The gut resident microbiota plays a critical role in the prevention of C. difficile infection (CDI), as the disruption of the healthy microbiota by antibiotics greatly increases the risk for CDI. We report that CBM588 treatment in mice significantly improved clinical symptoms associated with CDI and increased the number of neutrophils and Th1 and Th17 cells in the colonic lamina propria in the early phase of CDI. The protective effect of CBM588 was abolished when neutrophils, IFN-γ, or IL-17A were depleted, suggesting that induction of the immune reactants is required to elicit the protective effect of the probiotic. The administration of tributyrin, which elevates the concentration of butyrate in the colon, also increased the number of neutrophils in the colonic lamina propria, indicating that butyrate is a potent booster of neutrophil activity during infection. However, GPR43 and GPR109a, two G protein–coupled receptors activated by butyrate, were dispensable for the protective effect of CBM588. These results indicate that CBM588 and butyrate suppress CDI, in part by boosting antimicrobial innate and cytokine-mediated immunity.
+
+The Short-Chain Fatty Acid Sodium Butyrate Functions as a Regulator of the Skin Immune System.
+
+Number of 
+
+Key takeaways:Sodium butyrate can activate resident skin Tregs, potentially reducing inflammatory skin reactions and maintaining a stable state under physiologic conditions.
+
+β-hydroxybutyrate (β-HB) exerts anti-inflammatory and antioxidant effects in lipopolysaccharide (LPS)-stimulated macrophages in Liza haematocheila.
+
+Number of 
+
+Key takeaways:-hydroxybutyrate (-HB) enhances immunity by inhibiting inflammation and promoting macrophage viability, with potential benefits for aquatic animals.
+
+Clostridium butyricum potentially improves inflammation and immunity through alteration of the microbiota and metabolism of gastric cancer patients after gastrectomy
+
+Number of 
+
+Key takeaways:Oral administration of Clostridium butyricum after gastrectomy can reduce early postoperative inflammation, enhance immune ability, restore intestinal microbiota eubiosis, increase intestinal short-chain fatty acids, and promote early recovery.
+
+Abstract:Background Gastrectomy is the most effective treatment to improve the clinical survival rate of patients with gastric cancer. However, the pathophysiological changes caused by gastrectomy have seriously affected the postoperative recovery. Methods In the present trial, Ataining (containing C. butyricum, CGMCC0313.1) was applied in patients after gastrectomy to investigate the effect of C. butyricum on the early postoperative recovery by monitoring the inflammatory immune response with blood indicators, detecting the gut microbiota with high-throughput sequencing, and analyzing the short-chain fatty acids (SCFAs) with targeted metabolomics. This study is registered with the number ChiCTR2000040915. Results Our outcomes revealed that C. butyricum had significantly reduced the number of Leucocyte (P < 0.001), the percentage of Neutrophil (P < 0.001), the expression of IL-1β (P < 0.01), IL-6 (P < 0.05), and TNF-α (P < 0.01), while markedly enhanced the immunity indexes (immunoglobulin and lymphocyte) (P < 0.05) and nutrition indexes (albumin and total protein) (P < 0.05). In addition, the use of the C. butyricum greatly enriched the relative abundance of beneficial bacteria Bacteroides, Faecalibacterium and Gemmiger, while the abundance of pathogenic Streptococcus, Desulfovibrio and Actinomyces were markedly decreased at genus level. We also observed significant up-regulation of SCFAs, including acetic acid, propionic acid, butyric acid and isobutyric acid, after C. butyricum administration in patients receiving gastrectomy. Conclusion Therefore, evidence supported that oral administration of C. butyricum after gastrectomy can reduce early postoperative inflammation, enhance immune ability, restore intestinal microbiota eubiosis, increase intestinal SCFAs, reduce the occurrence of postoperative complications, and ultimately promote the early recovery of the patient. Clinical trial registration identifier (ChiCTR2000040915).
+
+Butyric Acid from Probiotic Staphylococcus epidermidis in the Skin Microbiome Down-Regulates the Ultraviolet-Induced Pro-Inflammatory IL-6 Cytokine via Short-Chain Fatty Acid Receptor
+
+Number of 
+
+Key takeaways:Butyric acid from probiotic Staphylococcus epidermidis in the skin microbiome reduces UVB-induced pro-inflammatory IL-6 production by mediating the short-chain fatty acid receptor 2.
+
+Abstract:The glycerol fermentation of probiotic Staphylococcus epidermidis (S. epidermidis) in the skin microbiome produced butyric acid in vitro at concentrations in the millimolar range. The exposure of dorsal skin of mice to ultraviolet B (UVB) light provoked a significant increased production of pro-inflammatory interleukin (IL)-6 cytokine. Topical application of butyric acid alone or S. epidermidis with glycerol remarkably ameliorated the UVB-induced IL-6 production. In vivo knockdown of short-chain fatty acid receptor 2 (FFAR2) in mouse skin considerably blocked the probiotic effect of S. epidermidis on suppression of UVB-induced IL-6 production. These results demonstrate that butyric acid in the metabolites of fermenting skin probiotic bacteria mediates FFAR2 to modulate the production of pro-inflammatory cytokines induced by UVB.
+
+Effect of dietary butyric acid, Bacillus licheniformis ‎ (probiotic), and their combination on hemato-biochemical indices, antioxidant enzymes, immunological parameters, and growth performance of Rainbow trout (Oncorhynchus mykiss)
+
+Number of 
+
+Key takeaways:Dietary butyric acid and Bacillus licheniformis combined provide promising results for rainbow trout growth, immune parameters, and resistance to S. agalactiae infection.
+
+Tributyrin Supplementation Protects Immune Responses and Vasculature and Reduces Oxidative Stress in the Proximal Colon of Mice Exposed to Chronic-Binge Ethanol Feeding
+
+Number of 
+
+Key takeaways:Tributyrin supplementation preserves immune responses and reduces oxidative stress in the proximal colon of mice exposed to chronic-binge ethanol, potentially maintaining intestinal villi vasculature integrity.
+
+Abstract:Excessive ethanol consumption causes adverse effects and contributes to organ dysfunction. Ethanol metabolism triggers oxidative stress, altered immune function, and gut dysbiosis. The gut microbiome is known to contribute to the maintenance of intestinal homeostasis, and disturbances are associated with pathology. A consequence of gut dysbiosis is also alterations in its metabolic and fermentation byproducts. The gut microbiota ferments undigested dietary polysaccharides to yield short-chain fatty acids, predominantly acetate, propionate, and butyrate. Butyrate has many biological mechanisms of action including anti-inflammatory and immunoprotective effects, and its depletion is associated with intestinal injury. We previously showed that butyrate protects gut-liver injury during ethanol exposure. While the intestine is the largest immune organ in the body, little is known regarding the effects of ethanol on intestinal immune function. This work is aimed at investigating the effects of butyrate supplementation, in the form of the structured triglyceride tributyrin, on intestinal innate immune responses and oxidative stress following chronic-binge ethanol exposure in mice. Our work suggests that tributyrin supplementation preserved immune responses and reduced oxidative stress in the proximal colon during chronic-binge ethanol exposure. Our results also indicate a possible involvement of tributyrin in maintaining the integrity of intestinal villi vasculature disrupted by chronic-binge ethanol exposure.
+
+Positive effects of a Clostridium butyricum-based compound probiotic on growth performance, immune responses, intestinal morphology, hypothalamic neurotransmitters, and colonic microbiota in weaned piglets.
+
+Number of 
+
+Key takeaways:Probiotics improve growth performance, intestinal morphology, and modulate colonic microflora in weaned piglets, offering a potential antibiotic alternative.
+
+Abstract:Weaning stress in piglets can lead to poor health outcomes and reduced production. We investigated the effects of probiotics, one potential antibiotic alternative, on the growth performance, serum biochemical parameters, intestinal morphology, mucosal immunity, hypothalamic neurotransmitters, and colonic microflora in weaned piglets. Thirty-six weaned piglets were fed a basal diet, a diet supplemented with colistin sulphate antibiotic, or a diet supplemented with probiotics including Clostridium butyricum, Bacillus subtilis, and B. licheniformis. Probiotics significantly increased the feed : gain ratio, improved the average day gain from day 1 to day 28, and decreased the diarrhoea index. Probiotics also lowered the serum concentrations of AST, ALT, and ALP on day 14 and lowered the serum concentration of ALT on day 28 compared with the control. Probiotic supplementation caused fewer ileal apoptotic cells. The serum and ileal concentrations of TNF-α and IL-1β on day 28 were significantly lowered, and the serum concentrations of IL-6 were significantly lowered on days 14 and 28. Probiotic-fed piglets exhibited higher contents of hypothalamic serotonin and dopamine as well as serum γ-aminobutyric acid along with higher colonic concentrations of butyrate and valerate on day 28. High-throughput sequencing showed 972 core operational taxonomic units among all groups, of which 48 were unique to the probiotic-treated group. The relative abundance of genus Bacillus and species Bacillus velezensis was enriched in probiotic piglets; the phylogenetic investigation of communities by the reconstruction of unobserved states indicated that amino acid metabolism, DNA repair, replication and recombination proteins, and secretion systems were enriched with probiotics. In conclusion, the Clostridium butyricum-based probiotics improved growth performance, enhanced intestinal morphology, changed hypothalamic neurotransmitters and modulated colonic microflora in weaned piglets.
+
+The effect of butyric acid and nucleotides supplementation on broiler (Gallus gallus domesticus) growth performance, immune status, intestinal histology, and serum parameters
+
+Number of 
+
+Key takeaways:Butyric acid and nucleotides supplementation in broiler feed enhances growth performance, immune status, intestinal histology, and hepatic functions, while preserving gut homeostasis and epithelial integrity.
+
+Abstract:Background: Butyric acid and its derivatives support the immune system, lessen inflammation, and lessen oxidative stress in broilers in addition to preserving gut homeostasis and epithelial integrity. Broiler performance has also been demonstrated to rise with the addition of nucleotides to the diet. Aim: The purpose of the study was to ascertain the effects of butyric acid and nucleotides added to feed on the overall performance, immunity, oxidant/antioxidant enzyme levels, intestinal histology, and hepatic functions of broilers. Methods: Four experimental groups of thirty chickens, each were used in the present study. The groups were assigned as a control group that received normal diet without additives, butyrate (B) group received the diet supplemented with butyric acid (250 g/ton feed), nucleotides (N) group received the diet supplemented with nucleotides (200 g/ton feed), and the fourth group received the diet supplemented with a combination of butyrate and nucleotide (BN) (250 g/ton B feed, and 200 g/ton N feed, respectively). Necrotic enteritis was produced in ten birds from each group to assess the immune-modulatory effect of these supplements, antioxidant status, intestinal histology, and liver functions were measured in all experimental groups. Results: The addition of butyric acid and nucleotides to feed enhanced body weight, growth performance, hepatic functions, and antioxidant capabilities. Histological sections of the gut from challenged or unchallenged (with necrotic enteritis) groups in the BN group showed considerable improvement, as shown by strong proliferation in intestinal crypts and villus enterocytes. Conclusion: Nucleotides and butyric acid can be added to broiler feeding regimens to enhance growth and health.
+
+Probiotics Mechanism of Action on Immune Cells and Beneficial Effects on Human Health
+
+Number of 
+
+Key takeaways:Probiotic bacteria interact with immune cells and commensal microbes in the human intestine to improve immune functions and homeostasis, offering a promising approach for improving immune system activities.
+
+Abstract:Immune cells and commensal microbes in the human intestine constantly communicate with and react to each other in a stable environment in order to maintain healthy immune activities. Immune system-microbiota cross-talk relies on a complex network of pathways that sustain the balance between immune tolerance and immunogenicity. Probiotic bacteria can interact and stimulate intestinal immune cells and commensal microflora to modulate specific immune functions and immune homeostasis. Growing evidence shows that probiotic bacteria present important health-promoting and immunomodulatory properties. Thus, the use of probiotics might represent a promising approach for improving immune system activities. So far, few studies have been reported on the beneficial immune modulatory effect of probiotics. However, many others, which are mainly focused on their metabolic/nutritional properties, have been published. Therefore, the mechanisms behind the interaction between host immune cells and probiotics have only been partially described. The present review aims to collect and summarize the most recent scientific results and the resulting implications of how probiotic bacteria and immune cells interact to improve immune functions. Hence, a description of the currently known immunomodulatory mechanisms of probiotic bacteria in improving the host immune system is provided.
+
+A Comparative Study on Effects of Three Butyric Acid-Producing Additives on the Growth Performance, Non-specific Immunity, and Intestinal Microbiota of the Sea Cucumber Apostichopus japonicus
+
+Number of 
+
+Key takeaways:Dietary live cells of Clostridium butyricum show the most effective growth-promoting and immune-enhancing effects in sea cucumber Apostichopus japonicus, while sodium butyrate and tributyrin show mixed effects.
+
+Abstract:The providers of butyric acid, Clostridium butyricum (CB), sodium butyrate (SB), and tributyrin (TB), have been extensively studied as aquafeed additives in recent years. However, no comparative study has been reported on the probiotic effects of CB, SB, and TB as feed additives on sea cucumber (Apostichopus japonicus). A 63-day feeding trial was performed to assess the effects of dietary live cells of C. butyricum (CB group, the basal diet supplemented with 1% CB), sodium butyrate (SB group, the basal diet supplemented with 1% SB), and tributyrin (TB group, the basal diet supplemented with 1% TB) on the growth, non-specific immunity, and intestinal microbiota of A. japonicus with a basal diet group as the control. Results indicated that all three additives considerably increased A. japonicus growth, with dietary CB having the optimal growth-promoting effect. Of the seven non-specific enzyme parameters measured in coelomocytes of A. japonicus (i.e., the activities of phagocytosis, respiratory burst, superoxide dismutase, alkaline phosphatase, acid phosphatase, catalase, and lysozyme), dietary CB, SB, and TB considerably increased the activities of six, five, and six of them, respectively. The immune genes (Aj-p105, Aj-p50, Aj-rel, and Aj-lys) expression in the mid-intestine tissues of A. japonicus was significantly increased by all three additives. The CB group had the highest expression of all four genes. Additionally, the relative expression of Aj-p105, Aj-p50, and Aj-lys genes was significantly up-regulated in the three additive groups after stimulation with inactivated Vibrio splendidus. Dietary CB enhanced the intestinal microbial diversity and richness in A. japonicus while dietary TB decreased them. Meanwhile, dietary CB, SB, and TB significantly enhanced the abundance of Firmicutes, unclassified_f_Rhodobacteraceae, and Proteobacteria, respectively, while dietary CB and SB reduced the abundance of Vibrio. Dietary CB and SB improved the stability of microbial ecosystem in the intestine of A. japonicus. In contrast, dietary TB appeared to have a negative effect on the stability of intestinal microbial ecosystem. All three additives improved the intestinal microbial functions associated with energy production and immunity regulation pathways, which may contribute directly to growth promotion and non-specific immunity enhancement in A. japonicus. Collectively, in terms of enhancing growth and non-specific immunity, as well as improving intestinal microbiota, dietary live cells of C. butyricum exhibited the most effective effects in A. japonicus.
+
+Effects of Clostridium butyricum and Enterococcus faecalis on growth performance, immune function, intestinal morphology, volatile fatty acids, and intestinal flora in a piglet model.
+
+Number of 
+
+Key takeaways:Probiotics Clostridium butyricum and Enterococcus faecalis improve growth performance, intestinal villi morphology, immunity, and intestinal flora in weaned piglets.
+
+Abstract:We investigated the effects of Clostridium butyricum and Enterococcus faecalis (probiotics) in a piglet model. Weaned piglets (180) were randomly divided into three treatment groups and fed basal diet and basal diet supplemented with 6 × 109 CFU C. butyricum per kg and 2 × 1010 CFU E. faecalis per kg, respectively. The probiotics improved the final body weight, average daily gain, and feed conversion rate, while they reduced the diarrhea rate. The serum aspartate aminotransferase and alanine aminotransferase activities in probiotic-supplemented piglets were decreased on days 14 and 28. Piglets supplemented with probiotics presented an increased serum immunoglobulin (Ig)M level on day 14 and IgA, IgG, and IgM levels on day 28 compared with control piglets, respectively. Moreover, the probiotics increased the jejunal villus length and jejunal villus height to crypt depth ratio, while they decreased the jejunal crypt depth compared with those of the control. Similarly, an increase in inflammation-related pathway factor expression was observed after probiotic administration. Piglets supplemented with probiotics had a higher concentration of volatile fatty acids in the colonic contents than that in the control. High-throughput sequencing indicated that the probiotics modulated the colon bacterial diversity. Species richness and the alpha diversity index of bacterial samples in probiotic-supplemented piglets were higher than those in the control. Piglets supplemented with C. butyricum presented a considerably high relative abundance of C. butyricum compared with that in the control. Overall, C. butyricum and E. faecalis can promote growth performance, protect the intestinal villi morphology, improve immunity, and optimize the intestinal flora in weaned piglets.
+
+Beneficial effects of the butanoic acid derivative tributyrin on the growth, immunity and intestinal health of large mouth bass (Micropterus salmoides)
+
+Number of 
+
+Key takeaways:Tributyrin improves growth, immunity, and intestinal health in large mouth bass, with an optimal dietary level of 0.15%.
+
+Beneficial Effects of Probiotic Consumption on the Immune System
+
+Number of 
+
+Key takeaways:Probiotic consumption stimulates the immune system, maintains intestinal balance, and may help prevent and treat allergies.
+
+Abstract:Background: The gastrointestinal tract is one of the most microbiologically active ecosystems that plays a crucial role in the working of the mucosal immune system (MIS). In this ecosystem, the consumed probiotics stimulate the immune system and induce a network of signals mediated by the whole bacteria or their cell wall structure. This review is aimed at describing the immunological mechanisms of probiotics and their beneficial effects on the host. Summary: Once administered, oral probiotic bacteria interact with the intestinal epithelial cells (IECs) or immune cells associated with the lamina propria, through Toll-like receptors, and induce the production of different cytokines or chemokines. Macrophage chemoattractant protein 1, produced by the IECs, sends signals to other immune cells leading to the activation of the MIS, characterized by an increase in immunoglobulin A+ cells of the intestine, bronchus and mammary glands, and the activation of T cells. Specifically, probiotics activate regulatory T cells that release IL-10. Interestingly, probiotics reinforce the intestinal barrier by an increase of the mucins, the tight junction proteins and the Goblet and Paneth cells. Another proposed mechanism of probiotics is the modulation of intestinal microbiota by maintaining the balance and suppressing the growth of potential pathogenic bacteria in the gut. Furthermore, it has been demonstrated that long-term probiotics consumption does not affect the intestinal homeostasis. The viability of probiotics is crucial in the interaction with IECs and macrophages favoring, mainly, the innate immune response. Macrophages and Dendritic cells (DCs) play an important role in this immune response without inducing an inflammatory pattern, just a slight increase in the cellularity of the lamina propria. Besides, as part of the machinery that probiotics activate to protect against different pathogens, an increase in the microbicidal activity of peritoneal and spleen macrophages has been reported. In malnutrition models, such as undernourishment and obesity, probiotic was able to increase the intestinal and systemic immune response. Furthermore, probiotics contribute to recover the histology of both the intestine and the thymus damaged in these conditions. Probiotic bacteria are emerging as a safe and natural strategy for allergy prevention and treatment. Different mechanisms such as the generation of cytokines from activated pro-T-helper type 1, which favor the production of IgG instead of IgE, have been proposed. Key Messages: Probiotic bacteria, their cell walls or probiotic fermented milk have significant effects on the functionality of the mucosal and systemic immune systems through the activation of multiple immune mechanisms.
+
+Butyric Acid Precursor Tributyrin Modulates Hippocampal Synaptic Plasticity and Prevents Spatial Memory Deficits: Role of PPARγ and AMPK
+
+Number of 
+
+Key takeaways:Tributyrin, a prodrug of butyric acid, positively influences synaptic plasticity and hippocampus-dependent spatial memory, suggesting potential benefits for memory.
+
+Abstract:Abstract Background Short chain fatty acids (SCFA), such as butyric acid (BA), derived from the intestinal fermentation of dietary fiber and contained in dairy products, are gaining interest in relation to their possible beneficial effects on neuropsychological disorders Methods C57BL/6J male mice were used to investigate the effect of tributyrin (TB), a prodrug of BA, on hippocampus (HIP)-dependent spatial memory, HIP synaptic transmission and plasticity mechanisms, and the expression of genes and proteins relevant to HIP glutamatergic transmission. Results Ex vivo studies, carried out in HIP slices, revealed that TB can transform early-LTP into late-LTP (l-LTP) and to rescue LTP-inhibition induced by scopolamine. The facilitation of l-LTP induced by TB was blocked both by GW9662 (a PPARγ antagonist) and C-Compound (an AMPK inhibitor), suggesting the involvement of both PPARγ and AMPK on TB effects. Moreover, 48-hour intake of a diet containing 1% TB prevented, in adolescent but not in adult mice, scopolamine-induced impairment of HIP-dependent spatial memory. In the adolescent HIP, TB upregulated gene expression levels of Pparg, leptin, and adiponectin receptors, and that of the glutamate receptor subunits AMPA-2, NMDA-1, NMDA-2A, and NMDA-2B. Conclusions Our study shows that TB has a positive influence on LTP and HIP-dependent spatial memory, which suggests that BA may have beneficial effects on memory.
+
+Antiangiogenic effects of the chemopreventive agent tributyrin, a butyric acid prodrug, during the promotion phase of hepatocarcinogenesis.
+
+Number of 
+
+Key takeaways:Tributyrin shows early antiangiogenic activity in preneoplastic livers, reinforcing its potential chemopreventive effects against hepatocellular carcinoma.
+
+Abstract:Agents that inhibit angiogenic factors may prevent the development of hepatocellular carcinoma. Thus, the objective of this study was to kinetically evaluate the anti-angiogenic activity of tributyrin (TB), a butyric acid prodrug, in the promotion stage of hepatocarcinogenesis. For this purpose, the resistant hepatocyte model was used for induction of preneoplastic lesions in Wistar rats. During the promotion phase, the animals received TB or maltodextrin (MD) as control daily. The rats were euthanized at three different time-points (P1, P2, P3). Increased expression of Vegfa and Vegfr2 was observed during promotion phase of hepatocarcinogenesis, which was not reversed by TB treatment. However, TB treatment reduced the expression of cluster of differentiation (CD) 34 positive vessels at P3 and α -smooth muscle actin (α-SMA) positive vessels at P2 compared with MD. Enhanced levels of hypoxia inducible factor (HIF-1α) and phosphorylated extracellular signal-regulated kinases (pERK) were detected at P3 when compared with P1 and P2 in the MD treatment. TB treatment reduced the levels of HIF-1α and pERK at P3 relative to the MD control. Experiments with human endothelial cell (HUVEC) showed that sodium butyrate (NaBu) inhibited cell migration and tube formation, confirming the antiangiogenic activity of its prodrug TB. In conclusion, antiangiogenic activity of TB is an early event that already occurs in preneoplastic livers, reinforcing its potential chemopreventive effects against hepatocellular carcinoma (HCC).
+
+Potential beneficial effects of butyrate in intestinal and extraintestinal diseases.
+
+Number of 
+
+Key takeaways:Butyrate has multiple beneficial effects on human health, including intestinal health, colorectal cancer prevention, and extraintestinal conditions.
+
+Abstract:The multiple beneficial effects on human health of the short-chain fatty acid butyrate, synthesized from non-absorbed carbohydrate by colonic microbiota, are well documented. At the intestinal level, butyrate plays a regulatory role on the transepithelial fluid transport, ameliorates mucosal inflammation and oxidative status, reinforces the epithelial defense barrier, and modulates visceral sensitivity and intestinal motility. In addition, a growing number of studies have stressed the role of butyrate in the prevention and inhibition of colorectal cancer. At the extraintestinal level, butyrate exerts potentially useful effects on many conditions, including hemoglobinopathies, genetic metabolic diseases, hypercholesterolemia, insulin resistance, and ischemic stroke. The mechanisms of action of butyrate are different; many of these are related to its potent regulatory effects on gene expression. These data suggest a wide spectrum of positive effects exerted by butyrate, with a high potential for a therapeutic use in human medicine.
+
+Butyrate: A Double-Edged Sword for Health?
+
+Number of 
+
+Key takeaways:Butyrate has beneficial effects on intestinal health and energy metabolism, but its role in obesity remains controversial, with potential effects on the gut-brain axis.
+
+Abstract:Butyrate, a four-carbon short-chain fatty acid, is produced through microbial fermentation of dietary fibers in the lower intestinal tract. Endogenous butyrate production, delivery, and absorption by colonocytes have been well documented. Butyrate exerts its functions by acting as a histone deacetylase (HDAC) inhibitor or signaling through several G protein-coupled receptors (GPCRs). Recently, butyrate has received particular attention for its beneficial effects on intestinal homeostasis and energy metabolism. With anti-inflammatory properties, butyrate enhances intestinal barrier function and mucosal immunity. However, the role of butyrate in obesity remains controversial. Growing evidence has highlighted the impact of butyrate on the gut-brain axis. In this review, we summarize the present knowledge on the properties of butyrate, especially its potential effects and mechanisms involved in intestinal health and obesity.
+
+Butyric acid attenuates intestinal inflammation in murine DSS-induced colitis model via milk fat globule-EGF factor 8
+
+Number of 
+
+Key takeaways:Butyric acid has significant anti-inflammatory effects on DSS-induced murine experimental colitis partly through MFG-E8 upregulation.
+
+Butyrate Derivatives Exhibited Anti-Inflammatory Effects and Enhanced Intestinal Barrier Integrity in Porcine Cell Culture Models
+
+Number of 
+
+Key takeaways:Butyrate derivatives, such as glycerides and salts, effectively reduce inflammation and promote intestinal barrier integrity in porcine cell culture models.
+
+Abstract:Simple Summary Butyrate is an organic acid compound present in the gastrointestinal environment which has been shown to positively influence gut health and reduce inflammation. Primarily, the presence of butyrate is understood to be a product of the beneficial microbes present in the intestinal environment. However, in the interest of directly administering this functional nutrient in diets, different derivatives such as glycerides and salts of the acid may be useful. In order to further characterize butyrate and its derivatives, this study aimed to evaluate several different butyrate-based compounds for effects on inflammation and barrier integrity in cells derived from pigs. The findings from these experiments confirm the efficacy of butyric acid as an anti-inflammatory agent and its impact on promoting the integrity of the intestinal barrier in vitro. In addition, other derivatives of butyrate, which are more manageable for handling and inclusion in pig diets, demonstrated comparable impacts on physiology in the cell culture models. This study provides evidence in support of the application of different butyrate derivatives as a dietary supplement to promote health in pigs.
+
+The role of Short-chain fatty acids in intestinal barrier function, inflammation, oxidative stress, and colonic carcinogenesis.
+
+Number of 
+
+Key takeaways:Short-chain fatty acids (SCFAs) may have beneficial effects on inflammation, carcinogenesis, intestinal barrier function, and oxidative stress, with potential therapeutic use in human-related diseases.
+
+Physiological activity of E. coli engineered to produce butyric acid
+
+Number of 
+
+Key takeaways:E. coli engineered to produce butyric acid has improved gut health benefits, with BCD essential for production and optimal carbon sources being NAG and glucose.
+
+Abstract:Faecalibacterium prausnitzii (F. prausnitzii) is one of the most abundant bacteria in the human intestine, with its anti‐inflammatory effects establishing it as a major effector in human intestinal health. However, its extreme sensitivity to oxygen makes its cultivation and physiological study difficult. F. prausnitzii produces butyric acid, which is beneficial to human gut health. Butyric acid is a short‐chain fatty acid (SCFA) produced by the fermentation of carbohydrates, such as dietary fibre in the large bowel. The genes encoding butyryl‐CoA dehydrogenase (BCD) and butyryl‐CoA:acetate CoA transferase (BUT) in F. prausnitzii were cloned and expressed in E. coli to determine the effect of butyric acid production on intestinal health using DSS‐induced colitis model mice. The results from the E. coli Nissle 1917 strain, expressing BCD, BUT, or both, showed that BCD was essential, while BUT was dispensable for producing butyric acid. The effects of different carbon sources, such as glucose, N‐acetylglucosamine (NAG), N‐acetylgalactosamine (NAGA), and inulin, were compared with results showing that the optimal carbon sources for butyric acid production were NAG, a major component of mucin in the human intestine, and glucose. Furthermore, the anti‐inflammatory effects of butyric acid production were tested by administering these strains to DSS‐induced colitis model mice. The oral administration of the E. coli Nissle 1917 strain, carrying the expression vector for BCD and BUT (EcN‐BCD‐BUT), was found to prevent DSS‐induced damage. Introduction of the BCD expression vector into E. coli Nissle 1917 led to increased butyric acid production, which improved the strain’s health‐beneficial effects.
+
+Effects of sodium butyrate on intestinal health and gut microbiota composition during intestinal inflammation progression in broilers.
+
+Number of 
+
+Key takeaways:Sodium butyrate supplementation improves intestinal development, reduces inflammation, and modulates gut microbiota composition in broilers, with optimal anti-inflammatory effects at higher doses (300 mg/kg).
+
+Abstract:Butyric acid is a beneficial feed additive used in animal production, including poultry production. However, there are few reports on butyric acid as a prophylactic treatment against intestinal inflammation in broilers. The current study explored the effect of sodium butyrate (SB) as a prophylactic treatment on the intestinal health and gut microbiota of broilers with intestinal inflammation induced by dextran sulfate sodium (DSS) by monitoring changes in intestinal histopathology, gut leakiness indicators, inflammatory cytokines, and gut microbiota composition. Sodium butyrate supplementation prior to DSS administration significantly reduced the lesion scores of intestinal bleeding (P < 0.05) and increased villus height and the total mucosa of the ileum (P < 0.05). Regardless of intestinal inflammation, supplementation with SB at 300 mg/kg significantly decreased the levels of D (-)-lactate (P < 0.05), interleukin-6, and interleukin-1β (P < 0.05) but increased the level of interleukin-10 (P < 0.05). The SB treatment did not affect the alpha diversity of intestinal microbiota during intestinal inflammation progression but altered their composition, and the microbial community structure of treated broilers was similar to that of control broilers. Taken together, our results reveal the importance of SB in improving intestinal development, inducing an anti-inflammatory effect during intestinal inflammation progression, and modulating the microbial community in broilers. Sodium butyrate seems to be optimized for anti-inflammatory effects at higher doses (300 mg/kg SB).
+
+Butyric and Citric Acids and Their Salts in Poultry Nutrition: Effects on Gut Health and Intestinal Microbiota
+
+Number of 
+
+Key takeaways:Butyric and citric acids positively impact growth performance, welfare, and intestinal health in poultry by reducing pathogenic bacteria and maintaining gastrointestinal tract pH.
+
+Abstract:Intestinal dysfunction of farm animals, such as intestinal inflammation and altered gut microbiota, is the critical problem affecting animal welfare, performance and farm profitability. China has prohibited the use of antibiotics to improve feed efficiency and growth performance for farm animals, including poultry, in 2020. With the advantages of maintaining gut homeostasis, enhancing digestion, and absorption and modulating gut microbiota, organic acids are regarded as promising antibiotic alternatives. Butyric and citric acids as presentative organic acids positively impact growth performance, welfare, and intestinal health of livestock mainly by reducing pathogenic bacteria and maintaining the gastrointestinal tract (GIT) pH. This review summarizes the discovery of butyric acid (BA), citric acid (CA) and their salt forms, molecular structure and properties, metabolism, biological functions and their applications in poultry nutrition. The research findings about BA, CA and their salts on rats, pigs and humans are also briefly reviewed. Therefore, this review will fill the knowledge gaps of the scientific community and may be of great interest for poultry nutritionists, researchers and feed manufacturers about these two weak organic acids and their effects on intestinal health and gut microbiota community, with the hope of providing safe, healthy and nutrient-rich poultry products to consumers.
+
+Acetic acid and butyric acid released in large intestine play different roles in the alleviation of constipation
+
+Number of 
+
+Key takeaways:Acetic acid and butyric acid play different roles in relieving constipation, with acetic acid-producing bacteria improving small intestinal transit rate and water content, and butyric acid-producing bacteria reducing time to first black stool defecation.
+
+Sodium Butyrate Attenuates Diarrhea in Weaned Piglets and Promotes Tight Junction Protein Expression in Colon in a GPR109A-Dependent Manner
+
+Number of 
+
+Key takeaways:Sodium butyrate reduces diarrhea symptoms and promotes tight junction protein expression in the colon of weaned piglets, acting through the Akt signaling pathway and a GPR109A-dependent manner.
+
+Abstract:Background/Aims: Butyric acid plays an important role in maintaining intestinal health. Butyric acid has received special attention as a short-chain fatty acid, but its role in protecting the intestinal barrier is poorly characterized. Butyric acid not only provides energy for epithelial cells but also acts as a histone deacetylase inhibitor; it is also a natural ligand for G protein-coupled receptor 109A (GPR109A). A GPR109A analog was expressed in Sus scrofa and mediated the anti-inflammatory effects of beta-hydroxybutyric acid. This study investigated the effects of butyrate on growth performance, diarrhea symptoms, and tight junction protein levels in 21-day-old weaned piglets. We also studied the mechanism by which butyric acid regulates intestinal permeability. Methods: Twenty-four piglets that had been weaned at an age of 21 days were divided randomly into 2 equal groups: basal diet group and sodium butyrate + basal diet group. Diarrhea rate, growth performance during 3 weeks of feeding on these diets were observed, the lactulose-mannitol ratio in urine were detected by High Performance Liquid Chromatography, the expression levels of tight junction proteins in the intestinal tract and related signaling molecules, such as GPR109A and Akt, in the colon were examined by quantitative real-time PCR or western blot analyses on day 21. Caco-2 cells were used as a colon cell model and cultured with or without sodium butyrate to assess the expression of tight junction proteins and the activation of related signaling molecules. GPR109A-short hairpin RNA (shRNA) and specific antagonists of Akt and ERK1/2 were used as signaling pathway inhibitors to elucidate the mechanism by which butyric acid regulates the expression of tight junction proteins and the colonic epithelial barrier. Results: The sodium butyrate diet alleviated diarrhea symptoms and decreased intestinal permeability without affecting the growth of early weaned piglets. The expression levels of the tight junction proteins Claudin-3, Occludin, and zonula occludens 1 were up-regulated by sodium butyrate in the colon and Caco-2 cells. GPR109A knockdown using shRNA or blockade of the Akt signaling pathway in Caco-2 cells suppressed sodium butyrate-induced Claudin-3 expression. Conclusions: Sodium butyrate acts on the Akt signaling pathway to facilitate Claudin-3 expression in the colon in a GPR109A-dependent manner.
+
+Phenylbutyric Acid: simple structure - multiple effects.
+
+Number of 
+
+Key takeaways:Phenylbutyrate (PBA) has a broad spectrum of beneficial effects on various human diseases, including cancer, genetic metabolic syndromes, neuropathies, diabetes, hemoglobinopathies, and urea cycle disorders, due to its role as an ammonia scavenger, chaperone,
+
+Abstract:Phenylbutyrate (PBA) is an aromatic short-chain fatty acid which is a chemical derivative of butyric acid naturally produced by colonic bacteria fermentation. At the intestinal level butyrate exerts a multitude of activities including amelioration of mucosal inflammation, regulation of transepithelial fluid transport, improvement in oxidative status and colon cancer prevention. Moreover, increasing number of studies report the beneficial role of butyric acid in prevention or inhibition of other types of malignancies, leading to cancer cell growth arrest and apoptosis. Similarly, phenylbutyrate displays potentially favorable effects on many pathologies including cancer, genetic metabolic syndromes, neuropathies, diabetes, hemoglobinopathies, and urea cycle disorders. The mechanisms by which PBA exerts these effects are different. Some of them are connected with the regulation of gene expression, playing the role of a histone deacetylase inhibitor, while others contribute to the ability of rescuing conformational abnormalities of proteins, serving as chemical chaperone, and some are dedicated to its metabolic characteristic enabling excretion of toxic ammonia, thus acting as ammonia scavenger. Phenylbutyrate may exert variable effects depending on the cell type, thus the term 'butyrate paradox' has been proposed. These data indicate a broad spectrum of beneficial effects evoked by PBA with a high potential in therapy. In this review, we focus on cellular and systemic effects of PBA treatment with special attention to the three main branches of its molecular activity: ammonia scavenging, chaperoning and histone deacetylase inhibiting, and describe its particular role in various human diseases.
+
+Tributyrin alleviates gut microbiota dysbiosis to repair intestinal damage in antibiotic-treated mice
+
+Number of 
+
+Key takeaways:Tributyrin supplementation can restore gut microbiota, increase short-chain fatty acids, suppress inflammation, and repair antibiotic-induced intestinal damage in mice.
+
+Abstract:Tributyrin (TB) is a butyric acid precursor and has a key role in anti-inflammatory and intestinal barrier repair effects by slowly releasing butyric acid. However, its roles in gut microbiota disorder caused by antibiotics remain unclear. Herein, we established an intestinal microbiota disorder model using ceftriaxone sodium via gavage to investigate the effects of different TB doses for restoring gut microbiota and intestinal injury. First, we divided C57BL/6 male mice into two groups: control (NC, n = 8) and experimental (ABx, n = 24) groups, receiving gavage with 0.2 mL normal saline and 400 mg/mL ceftriaxone sodium solution for 7 d (twice a day and the intermediate interval was 6 h), respectively. Then, mice in the ABx group were randomly split into three groups: model (M, 0.2 mL normal saline), low TB group (TL, 0.3 g/kg BW), and high TB group (TH, 3 g/kg BW) for 11 d. We found that TB supplementation alleviated antibiotics-induced weight loss, diarrhea, and intestinal tissue damage. The 16S rRNA sequence analysis showed that TB intervention increased the α diversity of intestinal flora, increased potential short-chain fatty acids (SCFAs)-producing bacteria (such as Muribaculaceae and Bifidobacterium), and inhibited the relative abundance of potentially pathogenic bacteria (such as Bacteroidetes and Enterococcus) compared to the M group. TB supplementation reversed the reduction in SCFAs production in antibiotic-treated mice. Additionally, TB downregulated the levels of serum LPS and zonulin, TNF-α, IL-6, IL-1β and NLRP3 inflammasome-related factors in intestinal tissue and upregulated tight junction proteins (such as ZO-1 and Occludin) and MUC2. Overall, the adjustment ability of low-dose TB to the above indexes was stronger than high-dose TB. In conclusion, TB can restore the dysbiosis of gut microbiota, increase SCFAs, suppress inflammation, and ameliorate antibiotic-induced intestinal damage, indicating that TB might be a potential gut microbiota modulator.
+
+Monobutyrin Reduces Liver Cholesterol and Improves Intestinal Barrier Function in Rats Fed High-Fat Diets
+
+Number of 
+
+Key takeaways:Monobutyrin supplementation effectively reduces liver cholesterol and improves intestinal barrier function in rats fed high-fat diets.
+
+Abstract:Butyric acid has been shown to reduce high-fat diet-related metabolic disturbances and to improve intestinal barrier function due to its potent anti-inflammatory capacity. This study investigates whether a butyric acid ester, monobutyrin (MB) affects lipid profiles and gut barrier function in a dose-response manner in rats fed butter- or lard-based high-fat diets. Four-week-old male Wistar rats were fed butter-based diets containing 0, 0.25, 0.75 and 1.5 MB g/100 g (dry weight basis) or 0.5 glycerol g/100 g, and diets with lard (La) containing 0 and 0.5 MB g/100 g or a low-fat control diet for 3–4 weeks. Lipid profiles in blood and liver tissue, intestinal permeability and cecal short-chain fatty acids were examined. The results showed a dose-dependent decrease in liver total cholesterol for 1.5 MB (p < 0.05) and liver triglycerides for 0.75 MB (p < 0.05) and 1.5 MB (p = 0.08) groups compared to the high-fat control group. Furthermore, a lower excretion of mannitol in urine in the 1.5 MB group indicated improved intestinal barrier function. When MB was supplemented in the lard-based diet, serum total cholesterol levels decreased, and total amount of liver high-density lipoprotein-cholesterol increased. Thus, MB dietary supplementation can be effective in counteracting lipid metabolism disturbances and impaired gut barrier function induced by high-fat diets.
+
+Soy hull polysaccharide encapsulated tributyrin delivery system exhibits gut microbiota responsive release and improved high butyric acid state in vitro
+
+Number of 
+
+Key takeaways:SHP nanomicelles effectively deliver tributyrin to the colon, promoting its degradation into butyric acid, promoting absorption in the body without toxicity.
+
+Butyric acid, a gut bacteria metabolite, lowers arterial blood pressure via colon-vagus nerve signaling and GPR41/43 receptors
+
+Number of 
+
+Key takeaways:Butyric acid, produced by gut bacteria in the colon, significantly lowers arterial blood pressure through colon-vagus nerve signaling and GPR41/43 receptors.
+
+Abstract:Abstract Butyric acid (BA) is a short-chain fatty acid (SCFA) produced by gut bacteria in the colon. We hypothesized that colon-derived BA may affect hemodynamics. Arterial blood pressure (BP) and heart rate (HR) were recorded in anesthetized, male, 14-week-old Wistar rats. A vehicle, BA, or 3-hydroxybutyrate, an antagonist of SCFA receptors GPR41/43 (ANT) were administered intravenously (IV) or into the colon (IC). Reactivity of mesenteric (MA) and gracilis muscle (GMA) arteries was tested ex vivo. The concentration of BA in stools, urine, portal, and systemic blood was measured with liquid chromatography coupled with mass spectrometry. BA administered IV decreased BP with no significant effect on HR. The ANT reduced, whereas L-NAME, a nitric oxide synthase inhibitor, did not affect the hypotensive effect of BA. In comparison to BA administered intravenously, BA administered into the colon produced a significantly longer decrease in BP and a decrease in HR, which was associated with a 2–3-fold increase in BA colon content. Subphrenic vagotomy and IC pretreatment with the ANT significantly reduced the hypotensive effect. Ex vivo, BA dilated MA and GMA. In conclusion, an increase in the concentration of BA in the colon produces a significant hypotensive effect which depends on the afferent colonic vagus nerve signaling and GPR41/43 receptors. BA seems to be one of mediators between gut microbiota and the circulatory system.
+
+Clostridium butyricum, a butyrate-producing probiotic, inhibits intestinal tumor development through modulating Wnt signaling and gut microbiota.
+
+Number of 
+
+Key takeaways:Clostridium butyricum, a butyrate-producing probiotic, can inhibit intestinal tumor development by modulating Wnt signaling and gut microbiota composition, suggesting potential efficacy against colorectal cancer.
+
+Effect of Clostridium butyricum on High-Fat Diet-Induced Intestinal Inflammation and Production of Short-Chain Fatty Acids
+
+Number of 
+
+Key takeaways:Probiotic C. butyricum improves intestinal inflammation and increases short-chain fatty acid production, with more pronounced effects in male rats.
+
+Abstract:Background/AimsA high-fat diet (HFD) can cause intestinal inflammation and alter the gut microbiota; probiotics, however, are known to have anti-inflammatory effects. This study aimed to investigate the response of rat colon to HFD and the effect of Clostridium butyricum on HFD-induced intestinal inflammation and production of short-chain fatty acids (SCFAs) according to sex.MethodsMale and female 6-week-old Fischer-344 rats were fed a chow diet or HFD for 8 weeks, and Biovita or three different concentrations of C. butyricum were orally gavaged. The levels of tight junction proteins (TJPs), inflammatory markers in the ascending colonic mucosa, and bile acids (BAs) and SCFAs in stool were measured.ResultsHFD significantly increased the histological inflammation scores and fat proportions. Fecal BA levels were higher in the HFD group than in the control group, with a more prominent increase in deoxycholic acid/cholic acid after probiotics administration in females; however, no statistically significant differences were observed. TJPs showed an opposite response to HFD depending on sex, and tended to increase and decrease after HFD in males and females, respectively. The HFD-reduced TJPs were recovered by probiotics, with some statistical significance in females. HFD-decreased butyric acid in stools appeared to be recovered by probiotics in males, but not in females. The expression of inflammatory markers (TNF-α) was increased by HFD in males and decreased with medium-concentration probiotic supplementation. The opposite was observed in females. MPO was increased by HFD in both sexes and decreased by probiotic supplementation.ConclusionsThe probiotic C. butyricum improved indicators of HFD-induced colonic inflammation such as levels of inflammatory markers and increased the production of SCFAs and the expression of TJPs. These effects tended to be more pronounced in male rats, showing sex difference.
+
+Tributyrin in Inflammation: Does White Adipose Tissue Affect Colorectal Cancer?
+
+Number of 
+
+Key takeaways:FOS and butyrate supplements were not beneficial for colon cancer, and butyrate worsened adipose tissue inflammation.
+
+Abstract:Colorectal cancer affects the large intestine, leading to loss of white adipose tissue (WAT) and alterations in adipokine secretion. Lower incidence of colorectal cancer is associated with increased fibre intake. Fructooligosaccharides (FOS) are fibres that increase production of butyrate by the intestinal microbiota. Tributyrin, a prodrug of butyric acid, exerts beneficial anti-inflammatory effects on colorectal cancer. Our aim was to characterise the effects of diets rich in FOS and tributyrin within the context of a colon carcinogenesis model, and characterise possible support of tumorigenesis by WAT. C57/BL6 male mice were divided into four groups: a control group (CT) fed with chow diet and three colon carcinogenesis-induced groups fed either with chow diet (CA), tributyrin-supplemented diet (BUT), or with FOS-supplemented diet. Colon carcinogenesis decreased adipose mass in subcutaneous, epididymal, and retroperitoneal tissues, while also reducing serum glucose and leptin concentrations. However, it did not alter the concentrations of adiponectin, interleukin (IL)-6, IL-10, and tumour necrosis factor alpha (TNF)-α in WAT. Additionally, the supplements did not revert the colon cancer affected parameters. The BUT group exhibited even higher glucose tolerance and levels of IL-6, VEGF, and TNF-α in WAT. To conclude our study, FOS and butyrate supplements were not beneficial. In addition, butyrate worsened adipose tissue inflammation.
+
+Assessment of the safety and probiotic properties of Roseburia intestinalis: A potential “Next Generation Probiotic”
+
+Number of 
+
+Key takeaways:Roseburia intestinalis is a suitable next-generation probiotic due to its probiotic properties and safety, potentially benefiting various diseases.
+
+Abstract:Roseburia intestinalis is an anaerobic bacterium that produces butyric acid and belongs to the phylum Firmicutes. There is increasing evidence that this bacterium has positive effects on several diseases, including inflammatory bowel disease, atherosclerosis, alcoholic fatty liver, colorectal cancer, and metabolic syndrome, making it a potential “Next Generation Probiotic.” We investigated the genomic characteristics, probiotic properties, cytotoxicity, oral toxicity, colonization characteristics of the bacterium, and its effect on the gut microbiota. The genome contains few genes encoding virulence factors, three clustered regularly interspaced short palindromic repeat (CRISPR) sequences, two Cas genes, no toxic biogenic amine synthesis genes, and several essential amino acid and vitamin synthesis genes. Seven prophages and 41 genomic islands were predicted. In addition to a bacteriocin (Zoocin A), the bacterium encodes four metabolic gene clusters that synthesize short-chain fatty acids and 222 carbohydrate-active enzyme modules. This bacterium is sensitive to antibiotics specified by the European Food Safety Authority, does not exhibit hemolytic or gelatinase activity, and exhibits some acid resistance. R. intestinalis adheres to intestinal epithelial cells and inhibits the invasion of certain pathogens. In vitro experiments showed that the bacterium was not cytotoxic. R. intestinalis did not affect the diversity or abundance of the gut flora. Using the fluorescent labelling method, we discovered that R. intestinalis colonizes the cecum and mucus of the colon. An oral toxicity study did not reveal any obvious adverse effects. The lethal dose (LD)50 of R. intestinalis exceeded 1.9 × 109 colony forming units (CFU)/kg, whereas the no observed adverse effect level (NOAEL) derived from this study was 1.32 × 109 CFU/kg/day for 28 days. The current research shows that, R. intestinalis is a suitable next-generation probiotic considering its probiotic properties and safety.
+
+OUP accepted manuscript
+
+Number of 
+
+Key takeaways:Tributyrin, a prodrug of butyric acid, positively influences late-term plasticity and hippocampus-dependent spatial memory, suggesting potential benefits for memory.
+
+Abstract:Abstract Background Short chain fatty acids (SCFA), such as butyric acid (BA), derived from the intestinal fermentation of dietary fiber and contained in dairy products, are gaining interest in relation to their possible beneficial effects on neuropsychological disorders Methods C57BL/6J male mice were used to investigate the effect of tributyrin (TB), a prodrug of BA, on hippocampus (HIP)-dependent spatial memory, HIP synaptic transmission and plasticity mechanisms, and the expression of genes and proteins relevant to HIP glutamatergic transmission. Results Ex vivo studies, carried out in HIP slices, revealed that TB can transform early-LTP into late-LTP (l-LTP) and to rescue LTP-inhibition induced by scopolamine. The facilitation of l-LTP induced by TB was blocked both by GW9662 (a PPARγ antagonist) and C-Compound (an AMPK inhibitor), suggesting the involvement of both PPARγ and AMPK on TB effects. Moreover, 48-hour intake of a diet containing 1% TB prevented, in adolescent but not in adult mice, scopolamine-induced impairment of HIP-dependent spatial memory. In the adolescent HIP, TB upregulated gene expression levels of Pparg, leptin, and adiponectin receptors, and that of the glutamate receptor subunits AMPA-2, NMDA-1, NMDA-2A, and NMDA-2B. Conclusions Our study shows that TB has a positive influence on LTP and HIP-dependent spatial memory, which suggests that BA may have beneficial effects on memory.
+
+Butyrate, generated by gut microbiota, and its therapeutic role in metabolic syndrome.
+
+Number of 
+
+Key takeaways:Butyrate supplementation may improve metabolic syndrome symptoms in animal models, but its effectiveness in humans remains uncertain due to poor systemic availability and rapid clearance.
+
+Effect of exercise and butyrate supplementation on microbiota composition and lipid metabolism.
+
+Number of 
+
+Key takeaways:Exercise and butyrate supplementation improve lipid metabolism and protect against obesity by altering gut microbiota composition and promoting the production of short-chain fatty acids.
+
+Abstract:The composition and activity of the gut microbiota depend on the host genome, nutrition, and life-style. Exercise and sodium butyrate (NaB) exert metabolic benefits in both mice and humans. However, the underlying mechanisms have not been fully elucidated. This study aimed to examine the effect of exercise training and dietary supplementation of butyrate on the composition of gut microbiota and whether the altered gut microbiota can stimulate differential production of short-chain fatty acids (SCFAs), which promote the expression of Sesn2 and CRTC2 to improve metabolic health and protect against obesity. C57BL/6J mice were used to study the effect of exercise and high-fat diet (HFD) with or without NaB on gut microbiota. Bacterial communities were assayed in fecal samples using pyrosequencing of 16S rRNA gene amplicons. Western blot was performed using relevant antibodies to detect the protein expressions in liver and HepG2 cell extracts. Exercise and butyrate administration significantly reversed metabolic dysfunctions induced by HFD (p < 0.05). The number of Firmicutes and the proportion of Firmicutes to Bacteroidetes order were predominant in all HFD groups (p = 0.001). Exercise and butyrate supplementation significantly inhibited the relative abundance of lipopolysaccharide-producing phyla (p = 0.001). Sesn2 and CRTC2 expression in the liver of mice were significantly increased after exercise (p < 0.05) and/or supplementation of butyrate (p < 0.05). Exercise enhances butyrate-producing fecal bacteria and increases butyrate production and consequently improves lipid metabolism through the butyrate -Sesn2/CRTC2 pathway. Excess butyrate may reduce the proportion of probiotics and reverse the metabolic effects.
+
+Differential metabolic effects of oral butyrate treatment in lean versus metabolic syndrome subjects
+
+Number of 
+
+Key takeaways:Oral butyrate treatment improves glucose metabolism in lean males but not in metabolic syndrome subjects, suggesting it may not be effective for glucose regulation in type 2 diabetes mellitus.
+
+Engineered butyrate-producing bacteria prevents high fat diet-induced obesity in mice
+
+Number of 
+
+Key takeaways:The genetically modified Bacillus subtilis SCK6 strain with enhanced butyric acid production shows potential anti-obesity effects in mice, potentially regulating metabolic disorders linked to obesity.
+
+Abstract:Abstract Background Obesity is a major problem worldwide and severely affects public safety. As a metabolite of gut microbiota, endogenous butyric acid participates in energy and material metabolism. Considering the serious side effects and weight regain associated with existing weight loss interventions, novel strategies are urgently needed for prevention and treatment of obesity. Results In the present study, we engineered Bacillus subtilis SCK6 to exhibited enhanced butyric acid production. Compared to the original Bacillus subtilis SCK6 strain, the genetically modified BsS-RS06550 strain had higher butyric acid production. The mice were randomly divided into four groups: a normal diet (C) group, a high-fat diet (HFD) group, an HFD + Bacillus subtilis SCK6 (HS) group and an HFD + BsS-RS06550 (HE) group. The results showed BsS-RS06550 decreased the body weight, body weight gain, and food intake of HFD mice. BsS-RS06550 had beneficial effects on blood glucose, insulin resistance and hepatic biochemistry. After the 14-week of experiment, fecal samples were collected for nontargeted liquid chromatography-mass spectrometry analysis to identify and quantify significant changes in metabolites. Sixteen potentially significant metabolites were screened, and BsS-RS06550 was shown to potentially regulate disorders in glutathione, methionine, tyrosine, phenylalanine, and purine metabolism and secondary bile acid biosynthesis. Conclusions In this study, we successfully engineered Bacillus subtilis SCK6 to have enhanced butyric acid production. The results of this work revealed that the genetically modified live bacterium BsS-RS06550 showed potential anti-obesity effects, which may have been related to regulating the levels of metabolites associated with obesity. These results indicate that the use of BsS-RS06550 may be a promising strategy to attenuate obesity.
+
+Butyrate producers, “The Sentinel of Gut”: Their intestinal significance with and beyond butyrate, and prospective use as microbial therapeutics
+
+Number of 
+
+Key takeaways:Butyrate producers play a crucial role in gut health by maintaining gut barrier integrity, regulating inflammation, and shaping the gut microbial community, making them potential microbial therapeutics.
+
+Abstract:Gut-microbial butyrate is a short-chain fatty acid (SCFA) of significant physiological importance than the other major SCFAs (acetate and propionate). Most butyrate producers belong to the Clostridium cluster of the phylum Firmicutes, such as Faecalibacterium, Roseburia, Eubacterium, Anaerostipes, Coprococcus, Subdoligranulum, and Anaerobutyricum. They metabolize carbohydrates via the butyryl-CoA: acetate CoA-transferase pathway and butyrate kinase terminal enzymes to produce most of butyrate. Although, in minor fractions, amino acids can also be utilized to generate butyrate via glutamate and lysine pathways. Butyrogenic microbes play a vital role in various gut-associated metabolisms. Butyrate is used by colonocytes to generate energy, stabilizes hypoxia-inducible factor to maintain the anaerobic environment in the gut, maintains gut barrier integrity by regulating Claudin-1 and synaptopodin expression, limits pro-inflammatory cytokines (IL-6, IL-12), and inhibits oncogenic pathways (Akt/ERK, Wnt, and TGF-β signaling). Colonic butyrate producers shape the gut microbial community by secreting various anti-microbial substances, such as cathelicidins, reuterin, and β-defensin-1, and maintain gut homeostasis by releasing anti-inflammatory molecules, such as IgA, vitamin B, and microbial anti-inflammatory molecules. Additionally, butyrate producers, such as Roseburia, produce anti-carcinogenic metabolites, such as shikimic acid and a precursor of conjugated linoleic acid. In this review, we summarized the significance of butyrate, critically examined the role and relevance of butyrate producers, and contextualized their importance as microbial therapeutics.
+
+Butyrate Suppresses the Proliferation of Colorectal Cancer Cells via Targeting Pyruvate Kinase M2 and Metabolic Reprogramming *
+
+Number of 
+
+Key takeaways:Butyrate suppresses colorectal cancer cell proliferation by targeting pyruvate kinase M2, promoting metabolic reprogramming, and inhibiting the Warburg effect.
+
+Abstract:Butyrate is a short chain fatty acid present in a high concentration in the gut lumen. It has been well documented that butyrate, by serving as an energetic metabolite, promotes the proliferation of normal colonocytes while, by serving as a histone deacetylase inhibitor, epigenetically suppressing the proliferation of cancerous counterparts undergoing the Warburg effect. However, how butyrate interrupts the metabolism of colorectal cancer cells and ultimately leads to the suppression of cell proliferation remains unclear. Here, we employed a metabolomics-proteomics combined approach to explore the link between butyrate-mediated proliferation arrest and cell metabolism. A metabolomics study revealed a remodeled metabolic profile with pronounced accumulation of pyruvate, decreased glycolytic intermediates upstream of pyruvate and reduced levels of nucleotides in butyrate-treated HCT-116 cells. Supplementation of key metabolite intermediates directly affected cancer-cell metabolism and modulated the suppressive effect of butyrate in HCT-116 cells. By a Drug Affinity Responsive Target Stability (DARTS)-based quantitative proteomics approach, we revealed the M2 isoform of a pyruvate kinase, PKM2, as a direct binding target of butyrate. Butyrate activates PKM2 via promoting its dephosphorylation and tetramerization and thereby reprograms the metabolism of colorectal cancer cells, inhibiting the Warburg effect while favoring energetic metabolism. Our study thus provides a mechanistic link between PKM2-induced metabolic remodeling and the antitumorigenic function of butyrate and demonstrates a widely applicable approach to uncovering unknown protein targets for small molecules with biological functions.
+
+311 Effect of feeding butyric acid on growth performance and metabolic indicators of dairy calves before weaning: A meta-analysis
+
+Number of 
+
+Key takeaways:Feeding butyric acid to dairy calves improves growth performance and intestinal health, while increasing production profits without significantly affecting blood glucose levels.
+
+Abstract:This meta-analysis aimed to evaluate the effect of feeding butyric acid (BA) on growth performance and metabolic indicators in dairy calves. A literature search was conducted to identify in vivo research studies carried out on BA supplementation in dairy calves. Inclusion criteria were in vivo studies, dairy calves, weaning, BA, and inclusion doses of BA. Twenty-three papers with 80 data and 1,132 calves were selected. Data extracted included the number of calves in control and treatment groups and measures of variance of responses (standard error or standard deviation). The response variables were production performance including body weight (BW), average daily gain (ADG) feed efficiency (FE), and metabolic indicators including blood glucose and beta-hydroxybutyrate (BHB) concentrations. A random effect of model was used to examine the raw mean difference and standardized mean difference between BA supplementation and the control group. The analysis was conducted using the metafor package of Rstudio. Butyric acid moderately improved the growth performance and metabolic indicators responses of calves with substantial heterogeneity (59 < I2 < 73%, P < 0.01). Final BW and ADG were increased by 2.7 kg and 48.1 g/day, or > 0.6 and > 0.4 standard deviation units (P < 0.05), respectively. However, FE was increased by BA supplementation but not significantly different. For metabolic indicators, glucose concentration was greater with BA supplementation with > 0.4 standard deviation unit, (P < 0.05). However, BA supplementation did not affect the blood concentration of BHB (P > 0.05). In conclusion, the meta-analysis results demonstrated that BA constitutes an important energy source for dairy calves. Butyric acid is effective in promoting growth performance and intestinal health and, yet, increasing production profits.
+
+Lipid-regulating properties of butyric acid and 4-phenylbutyric acid: Molecular mechanisms and therapeutic applications.
+
+Number of 
+
+Key takeaways:Butyric acid and 4-phenylbutyric acid intakes benefit lipid homeostasis, slowing down atherosclerosis progression and stimulating fatty acid -oxidation, with potential therapeutic applications.
+
+Hydroxy-Carboxylic Acid Receptor Actions in Metabolism
+
+Number of 
+
+Key takeaways:HCA receptors play a crucial role in maintaining homeostasis and can serve as targets for prevention and therapy of metabolic and inflammatory disorders.
+
+Could the use of butyric acid have a positive effect on microbiota and treatment of type 2 diabetes?
+
+Number of 
+
+Key takeaways:Sodium butyrate may improve gut microbiota and counteract the negative effects of type 2 diabetes treatment, potentially benefiting both patients and their guts.
+
+Abstract:OBJECTIVE
+This review focuses on the role of butyrate as one of the key metabolites of gut microbiota. Butyrate along with other short-chain fatty acids, acetate and propionate, is one of the most important regulators of human metabolism. In this review, we discuss how changes in gut microbiota triggered by type 2 diabetes mellitus and its treatment (e.g., metformin) affect butyrate synthesis, how to increase butyrate production and whether there is robust evidence for the positive effects of sodium butyrate in the treatment of diabetes mellitus.
+
+MATERIALS AND METHODS
+ Literature review was conducted by all 
+
+RESULTS
+Butyrate was found to effectively reduce inflammation and plays a prominent role in the function of the intestinal barrier. To date the use of sodium butyrate in the treatment of patients with T2DM is not very popular. Meanwhile, butyric acid can beneficially modulate intestinal functions, counteracting the negative effects of the disease as well as the drugs used to treat diabetes.
+
+CONCLUSIONS
+T2DM is a widespread chronic disease. Understanding role of microbiota in type 2 diabetes and the mechanisms connecting T2DM and alterations in gut microbiota could be the key to improved treatment of T2DM.
+
+Gamma-aminobutyric Acid Enriched Rice Bran Diet Attenuates Insulin Resistance and Balances Energy Expenditure via Modification of Gut Microbiota and Short-Chain Fatty Acids.
+
+Number of 
+
+Key takeaways:GABA-enriched rice bran reduces insulin resistance and balances energy expenditure by modifying gut microbiota and short-chain fatty acids, potentially benefiting metabolic syndromes.
+
+Abstract:In this study, gamma-aminobutyric acid (GABA) enriched rice bran (ERB) was supplemented to obese rats to investigate the attenuation of metabolic syndromes induced by high-fat diet. ERB-containing diet stimulated butyrate and propionate production by promoting Anaerostipes, Anaerostipes sp., and associated synthesizing enzymes. This altered short-chain fatty acid (SCFA) distribution further enhanced circulatory levels of leptin and glucagon-like peptide-1, controlling food intake by downregulating orexigenic factors. Together with the enhanced fatty acid β-oxidation highlighted by Prkaa2, Ppara, and Scd1 expression via AMPK signaling pathway and nonalcoholic fatty liver disease pathway, energy expenditure was positively modulated. Serum lipid compositions showed ERB supplement exhibited a more efficient effect on lowering serum sphingolipids, which was closely associated with the status of insulin resistance. Consistently, genes of Ppp2r3b and Prkcg, involved in the function of ceramides in blocking insulin action, were also downregulated following ERB intervention. Enriched GABA and phenolic acids were supposed to be responsible for the health-beneficial effects.
+
+High-Fat Diet Reduces the Formation of Butyrate, but Increases Succinate, Inflammation, Liver Fat and Cholesterol in Rats, while Dietary Fibre Counteracts These Effects
+
+Number of 
+
+Key takeaways:Fermentable dietary fibers can counteract harmful effects of high-fat diets on inflammation, liver fat, and cholesterol levels in rats, while reducing weight gain and weight-related health risks.
+
+Abstract:Introduction Obesity is linked to type 2 diabetes and risk factors associated to the metabolic syndrome. Consumption of dietary fibres has been shown to have positive metabolic health effects, such as by increasing satiety, lowering blood glucose and cholesterol levels. These effects may be associated with short-chain fatty acids (SCFAs), particularly propionic and butyric acids, formed by microbial degradation of dietary fibres in colon, and by their capacity to reduce low-grade inflammation. Objective To investigate whether dietary fibres, giving rise to different SCFAs, would affect metabolic risk markers in low-fat and high-fat diets using a model with conventional rats for 2, 4 and 6 weeks. Material and Methods Conventional rats were administered low-fat or high-fat diets, for 2, 4 or 6 weeks, supplemented with fermentable dietary fibres, giving rise to different SCFA patterns (pectin – acetic acid; guar gum – propionic acid; or a mixture – butyric acid). At the end of each experimental period, liver fat, cholesterol and triglycerides, serum and caecal SCFAs, plasma cholesterol, and inflammatory cytokines were analysed. The caecal microbiota was analysed after 6 weeks. Results and Discussion Fermentable dietary fibre decreased weight gain, liver fat, cholesterol and triglyceride content, and changed the formation of SCFAs. The high-fat diet primarily reduced formation of SCFAs but, after a longer experimental period, the formation of propionic and acetic acids recovered. The concentration of succinic acid in the rats increased in high-fat diets with time, indicating harmful effect of high-fat consumption. The dietary fibre partly counteracted these harmful effects and reduced inflammation. Furthermore, the number of Bacteroides was higher with guar gum, while noticeably that of Akkermansia was highest with the fibre-free diet.
+
+Butyric acid and its perspectives in control of obesity
+
+Number of 
+
+Key takeaways:Butyric acid plays a crucial role in metabolism and obesity control, with potential benefits from modifying nutrition and gut microbiota composition.
+
+Abstract:Butyric acid (BA, butyrate) is a short-chain fatty acid (SCFA) - a metabolite of the human gut microbiota (GM). This SCFA is represented in a larger amount relative to other SCFAs and is synthesized by butyrate-producing representatives of GM via various pathways. The substrate for the synthesis of BA is some food products, mainly starch and to a lesser extent dairy products. The synthesis of BA is directly or indirectly influenced by various factors, including dietary habits, antibacterial therapy, as well as harmful habits (smoking, alcohol abuse). Numerous data confirm the important role of BA in various metabolic processes. The effects of BA are of particular relevance in endocrinology as one of the potential mechanisms for controlling carbohydrate metabolism and body weight. Given the large amount of data on the correlation of an increase in the level of BA with the positive dynamics of metabolic parameters, as well as the presence of a wide range of pleiotropic effects of BA, it is interesting to study ways to control the metabolism of GM and, in particular, the production of BA. At the moment, there is no doubt about such method as the modification of nutrition. The use of dietary fiber, transplantation of fecal microbiota and the use of genetic engineering methods to improve the butyrate-producing properties of bacteria are actively discussed. Nevertheless, there are no unambiguous recommendations regarding the most effective way to manage the level of BA as an element of the treatment and prevention of obesity.
+
+Metabolic engineering of Clostridium tyrobutyricum for enhanced butyric acid production from glucose and xylose.
+
+Number of 
+
+Key takeaways:The engineered strain Ct-pTBA, with benzyl viologen addition, produces more butyric acid from glucose and xylose, with higher xylose utilization rates and efficiency, making it an economical process for butyric acid production from lignocellulosic biomass.
+
+Steerable isobutyric and butyric acid production from CO2 and H2 by Clostridium luticellarii
+
+Number of 
+
+Key takeaways:Clostridium luticellarii can produce butyric and isobutyric acid from CO2 and H2 under specific growth conditions, with pH playing a key role in metabolic fluxes and product titers.
+
+Abstract:Clostridium luticellarii is a recently discovered acetogen that is uniquely capable of producing butyric and isobutyric acid from various substrates (e.g. methanol), but it is unclear which factors influence its (iso)butyric acid production from H2 and CO2. We aimed to investigate the autotrophic metabolism of C. luticellarii by identifying the necessary growth conditions and examining the effects of pH and metabolite levels on product titers and selectivity. Results show that autotrophic growth of C. luticellarii requires the addition of complex nutrient sources and the absence of shaking conditions. Further experiments combined with thermodynamic calculations identified pH as a key parameter governing the direction of metabolic fluxes. At circumneutral pH (~6.5), acetic acid is the sole metabolic end product but C. luticellarii possesses the unique ability to co‐oxidize organic acids such as valeric acid under high H2 partial pressures (>1 bar). Conversely, mildly acidic pH (≤5.5) stimulates the production of butyric and isobutyric acid while partly halting the oxidation of organic acids. Additionally, elevated acetic acid concentrations stimulated butyric and isobutyric acid production up to a combined selectivity of 53 ± 3%. Finally, our results suggest that isobutyric acid is produced by a reversible isomerization of butyric acid, but valeric and caproic acid are not isomerized. These combined insights can inform future efforts to optimize and scale‐up the production of valuable chemicals from CO2 using C. luticellarii.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

@@ -1,0 +1,494 @@
+PROTOCOL: Sleep less than 7 hours
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Sleep is essential for maintaining mental health, cardiovascular health, and cognitive function. Regular sleep of less than 7 hours a day increases the risk of developing depression, anxiety, memory and concentration problems, and also negatively affects the cardiovascular system, raising the risk of heart disease and mortality. Additionally, sleep restriction leads to deterioration in brain structure, reducing gray matter volume, which may promote neurodegenerative diseases.
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Sleep is essential for maintaining mental health, cardiovascular health, and cognitive function. Regular sleep of less than 7 hours a day increases the risk of developing depression, anxiety, memory and concentration problems, and also negatively affects the cardiovascular system, raising the risk of heart disease and mortality. Additionally, sleep restriction leads to deterioration in brain structure, reducing gray matter volume, which may promote neurodegenerative diseases.
+
+CONTENT SECTIONS:
+
+Sleep less than 7 hours
+
+Short sleep duration and mental, cardiovascular, and cognitive health
+
+Sleep is essential for maintaining mental health, cardiovascular health, and cognitive function. Regular sleep of less than 7 hours a day increases the risk of developing depression, anxiety, memory and concentration problems, and also negatively affects the cardiovascular system, raising the risk of heart disease and mortality. Additionally, sleep restriction leads to deterioration in brain structure, reducing gray matter volume, which may promote neurodegenerative diseases.
+
+Level of evidence:Strong
+
+Sleep plays a key role in brain regeneration and maintaining cardiovascular health. Chronic sleep deficiency (<7 hours per day) disrupts brain detoxification processes, such as the removal of β-amyloid, which is linked to the development of Alzheimer's disease. Additionally, shorter sleep increases inflammatory markers, raising the risk of heart disease. Shorter sleep also impairs mental health, increasing the risk of depression and anxiety.
+
+Sleeping less than 7 hours a night has a clear negative impact on health, as confirmed by numerous studies. Long-term sleep deprivation leads to serious health consequences, including mental and cardiovascular problems. People who sleep less than 7 hours a day are more likely to develop depression, anxiety, cardiovascular diseases, and cognitive disorders, including dementia.
+
+The scale of the problem associated with chronic sleep deprivation is global. The increasing number of people suffering from sleep disorders, such as insomnia, and the still growing number of people sleeping less than 7 hours a day, constitute a major health challenge. These problems have a significant impact on public health, and chronic sleep deficiency is becoming one of the key risk factors for chronic diseases.
+
+Establish a regular sleep schedule
+
+Regularity is key to improving sleep quality. Try to go to bed and wake up at the same time every day to regulate your body's rhythm.
+
+Limit screen exposure before bedtime
+
+Reducing the time spent in front of a computer, phone, or TV screen for an hour before bedtime will help improve sleep quality. Blue light emitted by screens suppresses the production of melatonin, the sleep hormone.
+
+Ensure proper bedroom conditions
+
+Take care of darkness, silence, and an appropriate temperature in the bedroom. A dark and cool environment promotes deeper and more restful sleep.
+
+Sleep plays a key role in maintaining mental health. Regularly sleeping less than 7 hours a night is associated with an increased risk of mental problems, such as depression, anxiety, low mood, and impaired cognitive function.
+
+The impact of short sleep on mental health
+
+Mechanisms and correlations
+
+Table: Sleep <7h and mental health
+
+Cardiovascular system
+
+Sleeping less than 7 hours a night is clearly associated with an increased risk of cardiovascular diseases and mortality from them. The optimal sleep duration for heart health is 7–8 hours per night. Both too short and too long sleep increase the risk of cardiovascular problems.
+
+The impact of short sleep on the cardiovascular system
+
+Optimal sleep duration and cardiovascular risk
+
+Sleep plays a key role in brain health and cognitive function. Regularly sleeping less than 7 hours a night is associated with impaired cognitive function, changes in brain structure, and an increased risk of neurodegenerative diseases.
+
+The impact of short sleep on cognitive function and brain structure
+
+Biological mechanisms and other effects
+
+Table: Effects of <7 hours of sleep per night on the brain
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:52
+
+Final comment:Short-term sleep lasting less than 7 hours per day is strongly associated with deteriorating health, as confirmed by numerous studies, including meta-analyses and randomized controlled trials. There is strong evidence that sleep deficiency increases the risk of cardiovascular diseases, mental disorders, and cognitive impairment. These studies, conducted on large population samples, show that sleeping less than 7 hours has a clear negative impact on health.
+
+The Impact of Short Sleep Duration on Depression, Mental Health Days, and Physical Health
+
+Number of 
+
+Key takeaways:Short sleep duration significantly increases the risk of depression and worsens mental and physical health.
+
+Abstract:IntroductionSleep is essential for mental and physical well-being, yet a significant proportion of U.S. adults experience insufficient sleep (<7 hours per night). Short sleep duration has been associated with an increased risk of mental health disorders and poor physical health, but limited studies have quantified these associations.
+
+ObjectiveThis study examines the impact of short sleep duration on depression, self-reported poor mental health days, and poor physical health days.
+
+MethodologyData were obtained from the Behavioral Risk Factor Surveillance System (BRFSS) (2016-2023). Sleep duration was categorized as short sleep (<7 hours, coded as 1) or adequate sleep (7 hours, coded as 0). The primary outcomes were depression diagnosis, poor mental health days, and poor physical health days. Inverse Probability Weighting (IPW) was used to estimate the Average Treatment Effect (ATE), adjusting for demographic and socioeconomic factors.
+
+ResultsShort sleep duration was associated with a 5.6% increased risk of depression (ATE = 0.056, p < 0.001), 2.24 additional poor mental health days per month (ATE = 2.24, p < 0.001), and 1.8 more poor physical health days per month (ATE = 1.76, p < 0.001).
+
+ConclusionShort sleep duration significantly increases the risk of depression and worsens mental and physical health. Public health interventions promoting sleep hygiene are needed to mitigate these effects and improve overall well-being.
+
+Improving sleep quality leads to better mental health: A meta-analysis of randomised controlled trials
+
+Number of 
+
+Key takeaways:Improving sleep quality leads to significant improvements in mental health, including reduced depression, anxiety, and rumination, with greater sleep improvements resulting in better mental health outcomes.
+
+Number of 
+
+Key takeaways:Regularly sleeping less than seven hours a night is a disaster for our mental and physical wellbeing, increasing our risk of depression, obesity, and other health issues.
+
+Abstract:Sleep (or lack of it) is back in fashion. Two recent books, Why We Sleep by neuroscientist Matthew Walker and The Business of Sleep by clinical psychologist Vicki Culpin, warn in the strongest terms that regularly sleeping less than seven hours a night is a disaster for our mental and physical wellbeing.
+
+As a culture, we in rich countries are in the throes of what Culpin calls “an epidemic of sleeplessness,” increasing our risk of depression, …
+
+Effect of Inadequate Sleep on Frequent Mental Distress
+
+Number of 
+
+Key takeaways:Inadequate sleep, defined as 6 hours or less per night, is significantly associated with increased odds of frequent mental distress in US adults aged 18 to 64.
+
+Abstract:Introduction One-third of US adults report sleeping less than the recommended amount, and approximately 20% live with a mental illness. The objective of our study was to examine the association between inadequate sleep and frequent mental distress in a population-based sample of US adults. Methods We conducted a cross-sectional study by using 2018 Behavioral Risk Factor Surveillance System (BRFSS) data that included 273,695 US adults aged 18 to 64. Inadequate sleep was defined as 6 hours or less in a given night, and frequent mental distress was defined as self-reporting 14 days of mental health status as “not good” within the last month. We used weighted logistic regression to calculate odds ratios (ORs) and 95% CIs. Results Thirteen percent of study participants experienced inadequate sleep, and 14.1% experienced frequent mental distress. Participants who averaged 6 hours or less of sleep per night were about 2.5 times more likely to have frequent mental distress when controlling for confounders (OR, 2.52; 95% CI, 2.32–2.73) than those who slept more than 6 hours. Conclusion Inadequate sleep was associated with significantly increased odds of frequent mental distress. Our findings suggest that further research is necessary to evaluate the temporal relationship between inadequate sleep and frequent mental distress.
+
+The brain structure and genetic mechanisms underlying the nonlinear association between sleep duration, cognition and mental health
+
+Number of 
+
+Key takeaways:Optimal sleep duration is 7 hours, and both insufficient and excessive sleep duration negatively impact cognition and mental health, with potential genetic mechanisms and brain structural changes playing a role.
+
+Impact of Insomnia on Optimism: A Predictor Factor among Young Adults in Indian Context
+
+Number of 
+
+Key takeaways:Insomnia is a significant predictor of low optimism among young adults in India, with a higher prevalence in those who sleep less than 7 hours per night.
+
+Abstract:E research supports the findings that nocturnal sleep is one of the most important aspects of our life for maintaining a sound physical and mental health.1 Various research studies indicate that sleeping less than 7-hours as well as sleeping more than 8-hours is closely linked to an increased susceptibility to a broad range of physical and psychological health problems, such as ranging from poor vigilance and memory to reduced mental and physical reaction times, reduced motivation, depression, insomnia, metabolic abnormalities, obesity, immune impairment, and even a greater risk of coronary heart disease and even cancer.2 Longitudinal evidence suggests that insomnia is the most common co-morbid condition seen with mood, anxiety and predates the onset of low optimistic attitude within an individual.3
+
+Impact of sleep duration on executive function and brain structure
+
+Number of 
+
+Key takeaways:Seven hours of sleep per day is optimal for cognitive performance and brain health, with a quadratic relationship persisting in older individuals.
+
+Mild to moderate partial sleep deprivation is associated with increased impulsivity and decreased positive affect in young adults
+
+Number of 
+
+Key takeaways:Sleeping 1.5-2 hours less than usual leads to faster response speed, but more commission errors and decreased positive affect in young adults.
+
+Abstract:Abstract The effects of mild–moderate partial sleep deprivation on affective and cognitive functioning were evaluated in a naturalistic home environment, mimicking short sleep typically caused by demands from work or society. A total of 52 healthy individuals aged 18–35 was included in an 11-day study protocol. Participants slept at home, and sleep patterns were observed using actigraphs and sleep diaries. After maintaining habitual sleep for 7 days, the participants were asked to sleep 2 hours less than their average sleep duration for the last three nights of the study protocol. A not-X continuous performance test was administered at 9 am (± 90 minutes) on days 1, 4, 8 (habitual sleep), 9 and 11 (sleep deprivation). Performance-based measures included response accuracy and speed. Participant-reported measures included how well the participants felt they performed and how exhausted they were from taking the test, as well as positive and negative affect. There was a significant change in reaction time, number of commission errors, subjective performance, subjective exertion, and positive affect across the visits. Specifically, there was a linear decrease in reaction time, performance, and positive affect throughout the study, and a significant quadratic trend for commissions and exertion (first decreasing, then increasing after sleep deprivation). The univariate tests for omissions and negative affect were not significant. We conclude that sleeping 1.5–2 hours less than usual leads to faster response speed, but more commission errors and decreased positive affect. This indicates that individuals become more impulsive and experience less positive affect after a period of short sleep.
+
+Sleep physiology, pathophysiology, and sleep hygiene.
+
+Number of 
+
+Key takeaways:Proper sleep hygiene, including achieving 7 to 9 hours of sleep, maintaining a consistent schedule, regular exercise, and avoiding caffeine, alcohol, heavy meals, and light exposure, can improve sleep quality and overall health.
+
+The association between various dimensions of sleep parameters and mental health: A large cross-sectional study of 13554 Chinese students.
+
+Number of 
+
+Key takeaways:Sleep deprivation on school days, late chronotype, and social jetlag are positively associated with worse mental health in Chinese students aged 9-22, with variations across educational stages.
+
+Hours of sleep in adolescents and its association with anxiety, emotional concerns, and suicidal ideation.
+
+Number of 
+
+Key takeaways:Reduced hours of sleep in adolescents are associated with potentially severe mental health problems, such as anxiety, emotional concerns, and suicidal ideation.
+
+Exploration of Sleep as a Specific Risk Factor for Poor Metabolic and Mental Health: A UK Biobank Study of 84,404 Participants
+
+Number of 
+
+Key takeaways:Six to eight hours of sleep and less fragmented sleep are associated with better long-term metabolic and mental health in older adults.
+
+Abstract:Purpose Short and long sleep durations have adverse effects on physical and mental health. However, most studies are based on self-reported sleep duration and health status. Therefore, this longitudinal study aims to investigate objectively measured sleep duration and subsequent primary health care records in older adults to investigate the impact of sleep duration and fragmentation on physical and mental health. Methods Data on objective sleep duration were measured using accelerometry. Primary care health records were then obtained from the UK Biobank (n=84,404). Participants (mean age, 62.4 years) were divided into five groups according to their sleep duration derived from the accelerometry data: <5 hours, 5–6 hours, 6–7 hours, 7–8 hours and >8 hours. ICD-10 codes were used for the analysis of primary care data. Wake after sleep onset, activity level during the least active 5 hours and episodes of movement during sleep were analysed as an indication for sleep fragmentation. Binary regression models were adjusted for age, gender and Townsend deprivation score. Results A “U-shaped” relationship was found between sleep duration and diseases including diabetes, hypertension and heart disease and depression. Short and long sleep durations and fragmented sleep were associated with increased odds of disease. Conclusion Six to eight hours of sleep, as well as less fragmented sleep, predicted better long-term metabolic and mental health.
+
+Impact of working hours on sleep and mental health.
+
+Number of 
+
+Key takeaways:Longer working hours are associated with poorer mental health, increased anxiety and depression symptoms, and worse sleep quality.
+
+Abstract:Background
+The number of hours people are required to work has a pervasive influence on both physical and mental health. Excessive working hours can also negatively affect sleep quality. The impact at work of mental health problems can have serious consequences for individuals' as well as for organizations' productivity.
+
+Aims
+To evaluate differences in sleep quality and anxiety and depression symptoms between longer working hours group (LWHG) and regular working hours group (RWHG). To examine factors influencing weekly working hours, sleep quality and anxiety and depressive symptoms.
+
+Methods
+Participants were divided into two groups, RWHG and LWHG, based on working hours, with a cut-off of 48 h per week. We used the Hospital Anxiety and Depression Scale (HADS) to assess anxiety and depression symptoms and the Pittsburgh Sleep Quality Index (PSQI) to measure the quality and patterns of sleep.
+
+Results
+The response rate was 23%. Among the 429 study participants, those in the LWHG group (n = 256, 53%) had significantly more depressive and anxiety symptoms and worse sleep quality than those in RWHG (n = 223, 47%). Working time was significantly positively correlated with higher corporate position and HADS scores. Moreover, HADS scores were positively correlated with PSQI scores and negatively correlated with age.
+
+Conclusions
+This study suggests that longer working hours are associated with poorer mental health status and increasing levels of anxiety and depression symptoms. There was a positive correlation between these symptoms and sleep disturbances.
+
+Prospective association between sleep duration and cognitive impairment: Findings from the China Health and Retirement Longitudinal Study (CHARLS)
+
+Number of 
+
+Key takeaways:Optimal sleep habits, including 7-8 hours per day and 60 minutes of post-lunch napping, are associated with the lowest risk of cognitive impairment in middle-aged and older Chinese individuals.
+
+Abstract:Objective The association between sleep duration and cognition are inconclusive. Our study aimed to comprehensively investigate the effects of sleep duration on the risk of cognitive impairment in the middle-aged and older Chinese population. Methods We used the longitudinal cohort data from waves 1–4 (2011–2018) of the China Health and Retirement Longitudinal Study (CHARLS). Self-reported exposures included total sleep duration, nocturnal sleep duration, post-lunch napping, and changes in sleep duration over time according to face-to-face interviews. Cognitive function was assessed by a Chinese version of the Modified Mini-Mental State Examination (MMSE). Results A total of 7,342 eligible participants were included. The mean age was 61.5 ± 6.5 years, and 48.9% (3,588/7,342) were male. We identified a U-shaped association of total sleep duration as well as nocturnal sleep duration with the risk of cognitive impairment. People with 7–8 h of total sleep duration and 6–7 h of nocturnal sleep had the lowest risk of cognitive impairment. Further results showed that post-lunch napping within 2 h was beneficial to cognition and 60 min was optimal. Moreover, analyses of changes in sleep duration further supported that sleeping less or more was harmful to cognition. Notably, those “excessive-change” sleepers (from ≤6 to ≥9 h, or from ≥9 to ≤6 h) had more risks. Conclusions Keeping 7–8 h per day was related to the lowest risk of cognitive impairment in midlife and late life, and an optimal post-lunch napping was 60 min for these stable sleepers. Especially, excessive changes in sleep duration over time led to poorer cognition. Our work highlights the importance of optimal sleep habits to cognitive function. The self-reported sleep measures limited our findings, and further studies are needed for verification.
+
+SLEEP BEHAVIORS THAT AFFECT THE DEVELOPMENT OF MENTAL HEALTH CONDITIONS
+
+Number of 
+
+Key takeaways:Sleep behavior, such as a normal 5-8 hour sleep duration and reasonable sleep time, can moderate mental health symptoms, but excessive staying up late or sleeping less may increase the risk of mental health conditions in the future.
+
+Abstract:Most of the respondents are female, aged 17â€“22 years, they are students/college students and are single. From the study, it was found that most of the samples had sleeping behavior. In terms of the sleeping duration which is between 5-8 hours, followed by less than 5 hours and more than 8 hours, respectively. In terms of the sleeping time, most of them had during 22.01-00.00, followed by 00.01-02.00, after 02.00 and 20.00 - 22.00, respectively. As for the study of symptoms and mental state, it was found that it was at a moderate level. When considering one by one, it was found that the symptoms of irritability and mood swings were the most, which were at a moderate level, followed by the anxiety of people being around them and their surroundings, feeling depressed and unhappy in life, respectively which is at a low level of symptoms. Therefore, from the results of the study, it can be concluded that sleep behavior affects the incidence of mental health conditions because most of the samples had a sleep duration in the normal period of 5-8 hours, and most of them slept during a reasonable time, not too late, which is during 22.01-00.00 hrs. This causes the overall symptoms to be at a moderate level. However, there are some behaviors of staying up late and sleeping less which may affect the risk of various mental health conditions in the future.
+
+The effects of insufficient sleep and adequate sleep on cognitive function in healthy adults.
+
+Number of 
+
+Key takeaways:Consistent, stable sleep of at least 7 hours/night improves working memory and response inhibition in healthy adults, while insufficient sleep shows no significant improvement.
+
+The Neuroprotective Aspects of Sleep.
+
+Number of 
+
+Key takeaways:A minimum of 7 hours of daily sleep is necessary for proper cognitive and behavioral function, as it improves memory recall, regulates metabolism, and reduces mental fatigue.
+
+Abstract:Sleep is an important component of human life, yet many people do not understand the relationship between the brain and the process of sleeping. Sleep has been proven to improve memory recall, regulate metabolism, and reduce mental fatigue. A minimum of 7 hours of daily sleep seems to be necessary for proper cognitive and behavioral function. The emotional and mental handicaps associated with chronic sleep loss as well as the highly hazardous situations which can be contributed to the lack of sleep is a serious concern that people need to be aware of. When one sleeps, the brain reorganizes and recharges itself, and removes toxic waste byproducts which have accumulated throughout the day. This evidence demonstrates that sleeping can clear the brain and help maintain its normal functioning. Multiple studies have been done to determine the effects of total sleep deprivation; more recently some have been conducted to show the effects of sleep restriction, which is a much more common occurrence, have the same effects as total sleep deprivation. Each phase of the sleep cycle restores and rejuvenates the brain for optimal function. When sleep is deprived, the active process of the glymphatic system does not have time to perform that function, so toxins can build up, and the effects will become apparent in cognitive abilities, behavior, and judgment. As a background for this paper we have reviewed literature and research of sleep phases, effects of sleep deprivation, and the glymphatic system of the brain and its restorative effect during the sleep cycle.
+
+Perils of the nighttime: Impact of behavioral timing and preference on mental health in 73,888 community-dwelling adults
+
+Number of 
+
+Key takeaways:Start sleeping before 1AM to age healthily, despite chronobiological preferences.
+
+La importancia del sueño en la vida cotidiana
+
+Number of 
+
+Key takeaways:Sleep restriction, resulting in less than 7 hours of sleep per day, can negatively impact health, cognitive performance, and social cognition.
+
+Abstract:Sleep occupies a third of human life and cycles within a circadian rhythm. Sleep is essential for daily functioning and is of fundamental importance for maintaining good health. Despite this, people sleep less and less due to different factors including economic activities, work stress, social demand, erroneous beliefs about sleep, excessive use of electronic devices, long hours of work or rotating shifts, and such circumstances generate conditions in which people sleep less than 7 hours a day, well, sleeping less than 7 hours a day is considered as sleep restriction and restricting sleep only a couple of hours per night can lead to deterioration in health and quality of life, producing a significant decrease in cognitive performance. When the restriction extends to 2 weeks, it can reach levels of impairment that are comparable to 2 nights in total sleep deprivation, resulting in problems in memory consolidation, as well as impaired attention, learning and executive functioning (working memory, cognitive flexibility, self-monitoring, impulsiveness, planning and inhibition, and social cognition). Although the association between sleep restriction and memory disorders is well known, there is insufficient information regarding alterations in executive functions, specifically those of social cognition in subjects with sleep restriction. Social cognition involves those human skills necessary to successfully interact in a social environment and according to recent research, it can be affected if people cannot sleep.
+
+Prevalence of Healthy Sleep Duration among AdultsUnited States, 2014.
+
+Number of 
+
+Key takeaways:In 2014, 65.2% of U.S. adults reported healthy sleep duration (≥7 hours), with lower prevalence among certain racial groups and geographic areas, highlighting the need for public awareness and education on sleep health.
+
+Abstract:To promote optimal health and well-being, adults aged 18-60 years are recommended to sleep at least 7 hours each night (1). Sleeping <7 hours per night is associated with increased risk for obesity, diabetes, high blood pressure, coronary heart disease, stroke, frequent mental distress, and all-cause mortality (2-4). Insufficient sleep impairs cognitive performance, which can increase the likelihood of motor vehicle and other transportation accidents, industrial accidents, medical errors, and loss of work productivity that could affect the wider community (5). CDC analyzed data from the 2014 Behavioral Risk Factor Surveillance System (BRFSS) to determine the prevalence of a healthy sleep duration (≥ 7 hours) among 444,306 adult respondents in all 50 states and the District of Columbia. A total of 65.2% of respondents reported a healthy sleep duration; the age-adjusted prevalence of healthy sleep was lower among non-Hispanic blacks, American Indians/Alaska Natives, Native Hawaiians/Pacific Islanders, and multiracial respondents, compared with non-Hispanic whites, Hispanics, and Asians. State-based estimates of healthy sleep duration prevalence ranged from 56.1% in Hawaii to 71.6% in South Dakota. Geographic clustering of the lowest prevalence of healthy sleep duration was observed in the southeastern United States and in states along the Appalachian Mountains, and the highest prevalence was observed in the Great Plains states. More than one third of U.S. respondents reported typically sleeping <7 hours in a 24-hour period, suggesting an ongoing need for public awareness and public education about sleep health; worksite shift policies that ensure healthy sleep duration for shift workers, particularly medical professionals, emergency response personnel, and transportation industry personnel; and opportunities for health care providers to discuss the importance of healthy sleep duration with patients and address reasons for poor sleep health.
+
+Associations of Accelerometer-measured Sleep Duration with Incident Cardiovascular Disease and Cardiovascular Mortality.
+
+Number of 
+
+Key takeaways:A sleep duration of 7 hours/day but not >9 hours/day is associated with increased risks of cardiovascular disease and cardiovascular-related mortality.
+
+Abstract:STUDY OBJECTIVES
+This study aimed to determine the associations between accelerometer-measured sleep durations and the risks of incident cardiovascular disease (CVD) and CVD-related mortality.
+
+METHODS
+A total of 92,261 participants (mean age: 62.4±7.8 years, 56.4% female) were included in UK Biobank between 2013 and 2015. Average daily sleep durations were measured using wrist-worn accelerometers over a seven-day period. Sleep durations were categorized as <7 hours/day, 7-9 hours/day (reference), and >9 hours/day. The incidence of CVD and CVD-related mortality were ascertained by hospital records and death registries.
+
+RESULTS
+During a median follow-up period of 7.0 years, a total of 13,167 participants developed CVD, and 1,079 participants died of CVD. Compared with a sleep duration 7-9 hours/day, an accelerometer-measured sleep duration <7 hours/day but not >9 hours/day was associated with higher risks of incident CVD (HR 1.06, 95% CI: 1.02-1.10), CVD-related mortality (HR 1.29, 95% CI: 1.14-1.47), coronary heart disease (HR 1.11, 95% CI: 1.03-1.19), myocardial infarction (HR 1.14, 95% CI: 1.03-1.27), heart failure (HR 1.20, 95% CI: 1.08-1.34), and atrial fibrillation (HR 1.15, 95% CI: 1.07-1.24). A curvilinear dose‒response pattern was observed between accelerometer-measured sleep durations and incident CVD (Poverall<0.001), with L-shaped associations found for incident CVD and CVD-related mortality.
+
+CONCLUSIONS
+An accelerometer-measured sleep duration <7 hours/day but not >9 hours/day was associated with elevated risks of incident CVD and CVD-related mortality. Maintaining adequate sleep may help promote cardiovascular health.
+
+Association between short and long sleep durations and cardiovascular outcomes: a systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Both short (7 hours) and long (>9 hours) sleep durations can increase the risk of cardiovascular disease mortality, particularly in Asian populations and elderly individuals.
+
+Abstract:Background: A shorter sleep duration has been identified as a risk factor for cardiovascular diseases and increased mortality. It has been hypothesized that a short sleep duration may be linked to changes in ghrelin and leptin production, leading to an alteration of stress hormone production. Here, we conducted a systematic review and meta-analysis to investigate the potential relationship between a sleep duration and cardiovascular disease mortality. Methods: We conducted a comprehensive search of Ovid Medline In-Process and other non-indexed 
+
+Association of Sleep Duration, Napping, and Sleep Patterns With Risk of Cardiovascular Diseases: A Nationwide Twin Study
+
+Number of 
+
+Key takeaways:Short or long sleep (7 or 10 hours/night), napping, and poor sleep patterns are associated with an increased risk of cardiovascular diseases, but genetic and early-life environmental factors may not explain this association.
+
+Abstract:Background Although sleep disorders have been linked to cardiovascular diseases (CVDs), the association between sleep characteristics and CVDs remains inconclusive. We aimed to examine the association of nighttime sleep duration, daytime napping, and sleep patterns with CVDs and explore whether genetic and early‐life environmental factors account for this association. Methods and Results In the Swedish Twin Registry, 12 268 CVD‐free twin individuals (mean age=70.3 years) at baseline were followed up to 18 years to detect incident CVDs. Sleep duration, napping, and sleep patterns (assessed by sleep duration, chronotype, insomnia, snoring, and daytime sleepiness) were self‐reported at baseline. CVDs were ascertained through the Swedish National Patient Registry and the Cause of Death Register. Data were analyzed using a Cox model. In the multiadjusted Cox model, compared with 7 to 9 hours/night, the hazard ratios (HRs) of CVDs were 1.14 (95% CI, 1.01–1.28) for <7 hours/night and 1.10 (95% CI, 1.00–1.21) for ≥10 hours/night, respectively. Compared with no napping, napping 1 to 30 minutes (HR, 1.11 ) and >30 minutes (HR, 1.23 ) were related to CVDs. Furthermore, a poor sleep pattern was associated with CVDs (HR, 1.22 ). The co‐twin matched control analyses showed similar results as the unmatched analyses, and there was no significant interaction between sleep characteristics and zygosity (P values >0.05). Conclusions Short or long sleep (<7 or ≥10 hours/night), napping, and poor sleep patterns are associated with an increased CVD risk. Genetic and early‐life environmental factors may not account for the sleep–CVD association.
+
+Cardiovascular Complications of Sleep Disorders: A Better Night's Sleep for a Healthier Heart / From Bench to Bedside.
+
+Number of 
+
+Key takeaways:Insomnia, short sleep, and other sleep disorders increase the risk of cardiovascular diseases, with optimal cardiovascular health requiring at least 7 hours of sleep for adults over 18.
+
+Abstract:Sleep is essential to and an integral part of life and when lacking or disrupted, a multitude of mental and physical pathologies ensue, including cardiovascular (CV) disease, which increase health care costs. Several prospective studies and meta-analyses show that insomnia, short (<7h) or long (>9h) sleep and other sleep disorders are associated with an increased risk of hypertension, metabolic syndrome, myocardial infarction, heart failure, arrhythmias, CV disease risk and/or mortality. The mechanisms by which insomnia and other sleep disorders lead to increased CV risk may encompass inflammatory, immunological, neuro-autonomic, endocrinological, genetic and microbiome perturbations. Guidelines are emerging that recommend a target of >7 h of sleep for all adults >18 years for optimal CV health. Treatment of sleep disorders includes cognitive-behavioral therapy considered the mainstay of non-pharmacologic management of chronic insomnia, and drug treatment with benzodiazepine receptor agonists binding to gamma aminobutyric acid type A (benzodiazepine and non-benzodiazepine agents) and some antidepressants. However, observational studies and meta-analyses indicate an increased mortality risk of anxiolytics and hypnotics, although bias may be involved due to confounding and high heterogeneity in these studies. Nevertheless, it seems that the risk incurred by the non-benzodiazepine hypnotic agents (Z drugs) may be relatively less than the risk of anxiolytics, with evidence indicating that at least one of these agents, zolpidem, may even confer a lower risk of mortality in adjusted models. All these issues are herein reviewed.
+
+Association of estimated sleep duration and naps with mortality and cardiovascular events: a study of 116 632 people from 21 countries.
+
+Number of 
+
+Key takeaways:Sleeping 6-8 hours per day is associated with the lowest risk of deaths and major cardiovascular events, while daytime napping increases risks for those with more than 6 hours of nighttime sleep.
+
+Abstract:AIMS
+To investigate the association of estimated total daily sleep duration and daytime nap duration with deaths and major cardiovascular events.
+
+METHODS AND RESULTS
+We estimated the durations of total daily sleep and daytime naps based on the amount of time in bed and self-reported napping time and examined the associations between them and the composite outcome of deaths and major cardiovascular events in 116 632 participants from seven regions. After a median follow-up of 7.8 years, we recorded 4381 deaths and 4365 major cardiovascular events. It showed both shorter (≤6 h/day) and longer (>8 h/day) estimated total sleep durations were associated with an increased risk of the composite outcome when adjusted for age and sex. After adjustment for demographic characteristics, lifestyle behaviours and health status, a J-shaped association was observed. Compared with sleeping 6-8 h/day, those who slept ≤6 h/day had a non-significant trend for increased risk of the composite outcome . As estimated sleep duration increased, we also noticed a significant trend for a greater risk of the composite outcome . The results were similar for each of all-cause mortality and major cardiovascular events. Daytime nap duration was associated with an increased risk of the composite events in those with over 6 h of nocturnal sleep duration, but not in shorter nocturnal sleepers (≤6 h).
+
+CONCLUSION
+Estimated total sleep duration of 6-8 h per day is associated with the lowest risk of deaths and major cardiovascular events. Daytime napping is associated with increased risks of major cardiovascular events and deaths in those with >6 h of nighttime sleep but not in those sleeping ≤6 h/night.
+
+Sleep and Cardiovascular Disease.
+
+Number of 
+
+Key takeaways:Short or long sleep durations, irregular sleep timing, and lifestyle behaviors, such as smoking, alcohol consumption, and physical inactivity, contribute to increased cardiovascular risk.
+
+Abstract:Sleep is essential for optimal health,1 yet more than one-third of US adults report insufficient sleep2 and 50 to 70 million people in the United States experience 1 or several sleep disorders.3 Both short and long sleep (<7 or >7 hours per night, respectively) have been associated with a greater risk of all-cause mortality and cardiovascular disease (CVD).4 Evidence links hypertension, coronary heart disease, and cerebrovascular disease to both ends of the sleep duration continuum (<5–6 hours or >8–9 hours).5,6 In addition to sleep duration, irregular sleep timing is associated with cardiovascular events.7 Irregular sleep timing (differing bedtimes and rise times for 1 week)7 represents the potential for circadian misalignment. Evidence has emerged demonstrating increased CVD risk among shift workers,8 as well as rise in cardiac events after daylight saving time,9 and in individuals who have longer sleep times on weekends compared with weekdays (called social jetlag).10,11 Populations at Risk Some populations may be at a greater risk for sleep-related CVD risk. Many factors, such as the social determinants of health and lifestyle behaviors, influence sleep. Hale and colleagues12 observed that living in disadvantaged neighborhoods was associated with poor sleep quality, sleep disruptions, and insufficient sleep. Individuals with lower income and education levels experience a shorter sleep duration,13 of which occupational characteristics may play a role.14 Living arrangements and family structure have also been noted to affect sleep. Living alone and living with high levels of environmental noise contribute to sleep deficits.12,15 Adults with children report shorter sleep than those without children living in the home.12 Lifestyle behaviors, such as smoking, alcohol consumption, and physical inactivity, also influence an individual's sleep. Those who smoke report shorter sleep durations than nonsmokers and experience more insomnia symptoms than light smokers or nonsmokers.16 Alcohol consumption in nonalcoholics may promote sleep during the first half of the sleep period but disrupts sleep during the second half, leading to impaired sleep homeostasis.17 Binge drinking further disrupts sleep homeostasis.17 Women may be at a greater risk for cardiovascular effects of sleep restriction than men. Covassin and colleagues18 reported that 9 consecutive nights of sleep restriction resulted in elevated ambulatory blood pressure, impaired endothelial function, and stimulated sympathetic response among healthy adults. Of note, elevated blood pressure occurred only in women. The COVID-19 pandemic has altered lifestyles resulting in sleep disturbances. Sleep problems continue to be common during this pandemic, affecting roughly 40% of the general and healthcare populations.19 A longitudinal study demonstrated that midsleep times (the midpoint between bedtime and wake time), which are indicative of the circadian system, were delayed, whereas midsleep variability and resting heart rate decreased.20 Healthcare workers are the most vulnerable population in the fight against COVID-19 and its variants because they are on the front lines. Approximately 40% of physicians and 35% of nurses reported sleep disturbances,21 and 36% to 41% of nurses experienced insomnia symptoms.22 The Society of Behavioral Sleep Medicine has issued objectives and recommendations for managing sleep problems during a pandemic. These guidelines include many resources for clinicians.23 Implications Healthy sleep requires adequate duration, regularity of timing, daytime alertness, absence of sleep disorders, and good subjective quality.1 Sleep is a potentially modifiable behavior that is critical to the promotion of health and reduction of cardiovascular risk. The American Academy of Sleep Medicine issued a position statement in June 2021. The Academy recommended that healthcare providers routinely assess sleep habits, sleep symptoms, and sleep patterns and timing during patient encounters. They recommend that sleep health be 'targeted by public health and workplace interventions to improve health-related outcomes, and behaviors that help people attain healthy sleep.'24(p2) The Academy also places a major emphasis on sleep health education in schools, in community and healthcare settings, in the workplace, and in public health policy arenas. The evidence-based recommendations issued by the Academy provide a 'call to action' for nurses and nursing underscoring the importance of quality and quantity of sleep across the life course of individuals. Cardiovascular nurses are well positioned in clinical and community-based settings to implement the recommendations and advocate for the promotion of sleep health for patients, healthcare providers, and the public.
+
+Sleep duration and risk of coronary heart disease: A systematic review and meta-analysis of prospective cohort studies.
+
+Number of 
+
+Key takeaways:Short and long sleep durations are significantly associated with increased risk of coronary heart disease, with the lowest risk at 7-8 hours per day.
+
+Short and long sleep are positively associated with obesity, diabetes, hypertension, and cardiovascular disease among adults in the United States.
+
+Number of 
+
+Key takeaways:Short (<7h) and long (>8h) sleep durations are positively associated with obesity, diabetes, hypertension, and cardiovascular disease in US adults, with 7-8 hours being optimal for reducing chronic disease risk.
+
+Sleep Duration and Incidence of Cardiovascular Events in a Japanese Population: The Jichi Medical School Cohort Study
+
+Number of 
+
+Key takeaways:Men who sleep less than 6 hours a day have a higher risk of cardiovascular events compared to those sleeping 7 to 7.9 hours.
+
+Abstract:Background Although sleep is one of the most important health-related factors, the relationship between sleep duration and the incidence of cardiovascular events has not been fully described. Methods The present study comprised the 11 367 study subjects (4413 men and 6954 women) of the Jichi Medical School Cohort Study, a population-based prospective study. Baseline data were obtained by questionnaire and health examinations between April 1992 and July 1995 in 12 rural areas in Japan, and the main outcome measures were the incidence of cardiovascular diseases (stroke and myocardial infarction ). Cox proportional hazards models were used to analyze the association between sleep duration and the incidence of cardiovascular events. Results A total of 481carciovascular events (255 men and 226 women) were observed during an average follow-up period of 10.7 years. After adjusting for age, systolic blood pressure, serum total cholesterol, body mass index, smoking habits, and alcohol drinking habits, the hazard ratios (95% confidence intervals) for the incidence of cardiovascular diseases for individuals sleeping less than 6 hours and 9 hours or longer were 2.14 (1.11–4.13) and 1.33 (0.93–1.92) in men, and 1.46 (0.70–3.04) and 1.28 (0.88–1.87) in women, respectively, relative to those who reported sleeping 7 to 7.9 hours per day. Conclusions Our data indicate that men who sleep less than 6 hours a day have a higher risk of cardiovascular events than those sleeping 7 to 7.9 hours.
+
+Correlations between sleep patterns and cardiovascular diseases in a Chinese middle-aged population
+
+Number of 
+
+Key takeaways:Napping, long and short duration of habitual sleep, and sleeping 7-8 hours per night are associated with increased odds of cardiovascular disease.
+
+Abstract:ABSTRACT Epidemiological and animal studies have suggested an association between habitual sleep patterns and cardiovascular (CV) disease, but the results are still controversial. Therefore, the aims of this study are to investigate the relationships between habitual sleep patterns and CV disease based on Prospective Urban Rural Epidemiology (PURE) China study. PURE China study recruited 46 285 participants, aged 35–70, from 12 provinces and 115 communities in China. Habitual sleep patterns and CV disease were self-reported. Multilevel logistic regression was used in our analysis. In this study, 39 515 participants were eligible in our analysis, including 23 345 (59.1%) women and 16 170 (40.9%) men. Sleeping ≥9 h per day was associated with increased odds of CV disease (OR = 1.16, 95% CI: 1.01–1.32, p = 0.033) compared with sleeping 7–8 h per day. Taking daytime naps was also associated with an increased odds of CV disease, and the CV odds increased with increasing napping duration (p for trend < 0.001). For the sleeping < 6 h per day, we only found an association with coronary artery disease (CAD) (OR = 1.58, 95% CI: 1.01–2.48, p = 0.046). Participants with only 7–8 h sleep per night had lowest prevalence of CV disease (OR = 0.77, 95% CI: 0.65–0.90, p = 0.001) compared with other sleep patterns. Napping, long and short duration of habitual sleep may increase the odds of CV disease. Only participants sleeping 7–8 hours at night are recommended in this study, and large longitudinal studies are needed to confirm these results.
+
+Sleep patterns and their correlation with cardiovascular health in the general population: A cross-sectional study
+
+Number of 
+
+Key takeaways:Short sleep duration and poor sleep quality are associated with higher cardiovascular risk, while optimal sleep duration (7-8 hours) correlates with the lowest risk scores.
+
+Abstract:Sleep patterns, including duration and quality, are closely linked to cardiovascular health. This cross-sectional study of 100 participants aged 30-65 years assessed sleep patterns using validated questionnaires and measured cardiovascular health using the Framingham Risk Score. Short sleep duration (<6 hours) and poor sleep quality were significantly associated with higher cardiovascular risk (p < 0.001), while optimal sleep duration (7-8 hours) correlated with the lowest risk scores (p = 0.002). Long sleep duration also increased cardiovascular risk, particularly in individuals with conditions such as obesity and hypertension. These findings underscore the importance of promoting healthy sleep habits as a key strategy in preventing cardiovascular disease in the general population.
+
+Association between sleep duration and cardiovascular disease specific mortality: A meta-analysis
+
+Number of 
+
+Key takeaways:Short (7 hours/day) or long (>7 hours/day) sleep duration is significantly associated with increased cardiovascular disease mortality risk.
+
+Abstract:Backgrounds: In this systemic review and meta-analysis, we concentrated on the association between sleep duration and cardiovascular disease (CVD) mortality because existing studies results were inconsistent.
+Methods: We searched for articles published before December 2021 in databases (PubMed and Web of Science). We used STATA 12.0 software to compute hazard ratios (HRs) with their 95% confidence intervals (CIs) to create a pooled effect size and 95% CI.
+Results: The meta-analysis showed that short sleep duration (<7 hours/day) was associated with an increased CVD specific mortality, compared to normal sleep duration with a random effects model (HR = 1.12, 95% CI 1.08 to 1.16, I2 = 38.6%, p = 0.002). The meta-analysis showed that long sleep duration (>7 hours/day) was associated with an increased CVD specific mortality, compared to normal sleep duration with a random effects model (HR = 1.23, 95% CI 1.18 to 1.29, I2 = 65.2%, p < 0.001).
+Conclusions: We found that sleep duration that is either too short or too long is significantly associated with higher risk of CVD mortality. More relevant factors about sleep are needed to be evaluated on the associations between sleep and CVD. Further large-scale, well-designed, randomized controlled trials are needed to explore the associations.
+
+Sleep Irregularity and Risk of Cardiovascular Events: The Multi-Ethnic Study of Atherosclerosis.
+
+Number of 
+
+Key takeaways:Irregular sleep duration and timing may increase the risk of cardiovascular disease, independent of traditional risk factors and sleep quality.
+
+Healthy sleep pattern reduce the risk of cardiovascular disease: A 10-year prospective cohort study.
+
+Number of 
+
+Key takeaways:A healthy sleep pattern, including no insomnia, snoring, or frequent daytime sleepiness, and sleeping 7-8 hours per day, effectively reduces the risk of cardiovascular disease, chronic obstructive pulmonary disease, and stroke.
+
+Sleep duration and excess heart age among US adults☆,☆☆,★,★★
+
+Number of 
+
+Key takeaways:Excess heart age (EHA) is lowest among adults who sleep 7 hours per night and increases with fewer or more hours of sleep.
+
+Effects of sleep deprivation on arterial vasculature in university students
+
+Number of 
+
+Key takeaways:Partial sleep deprivation in healthy university students leads to decreased arterial diameter and increased inflammatory markers, potentially promoting cardiovascular events.
+
+Abstract:Introduction Sleep plays an essential role in the mental, emotional, physical and psychological well-being of an individual and a poor quality of this leads to psychological changes, also affecting the cardiovascular system. The current society demands more and more hours of work, which leads to a decrease in the quantity and quality of sleep, and this has already been associated in several studies with risk factors for cardiovascular diseases such as hypertension, obesity, diabetes, among others, but was never considered a risk factor by its own.
+ Objectives Understand if partial sleep deprivation for 4 nights causes vascular changes in healthy university students.
+ Methodology The sample consisted of 20 healthy university students, who underwent 3 nights in which they slept the ideal for their age group, being evaluated at the end of those nights. At the next night they were subjected to partial sleep deprivation and were evaluated the next day. The third evaluation occurred after 4 nights of partial sleep deprivation. Evaluations consisted in carotid evaluation, flow-mediated dilation (FMD), blood pressure (BP) and temperature monitoring. From the first night, the participants used an actigraphy during the daily routine for 7 nights. An initial questionnaire was completed and also the Epworth Sleepiness Scale (ESE) and the Pittsburgh Sleep Quality Index (PSQI).
+ Results Partial sleep deprivation causes a decrease in the diameter of the right brachial artery and the common carotid artery (CCA). There was also an increase in the SBP of CCA, in pulsatility and endurance indexes and on β-stiffness. With sleep deprivation, sleep efficiency also decreased.
+ Conclusion Sleep deprivation leads to an increase in inflammatory markers that act on the endothelium and end up promoting the existence of cardiovascular events.
+
+Dose-response relationship between sleep duration and cardiovascular metabolic multimorbidity among older adults in China: A nationwide survey.
+
+Number of 
+
+Key takeaways:Adequate sleep time, between 9 and 10 hours per day, can effectively prevent cardiovascular and metabolic multimorbidity in older adults.
+
+Habitual sleep duration and its relationship with cardiovascular health, healthcare costs, and resource utilization in a working population.
+
+Number of 
+
+Key takeaways:Sleeping 6 or more hours is associated with better cardiovascular health, lower healthcare expenditures, and reduced healthcare resource utilization in a working population.
+
+Sleep patterns, genetic susceptibility, and venous thromboembolism: A prospective study of 384,758 UK Biobank participants
+
+Number of 
+
+Key takeaways:A healthy sleep pattern, including early chronotype, 7-8 hours of sleep daily, no snoring, infrequent insomnia, and infrequent daytime sleepiness, significantly reduces the risk of venous thromboembolism, regardless of genetic susceptibility.
+
+Abstract:Background Although healthy sleep patterns have been linked to a lower risk of cardiovascular disease in earlier research, it is unclear how beneficial they are for venous thromboembolism (VTE). Aim This research aimed to examine the correlation between sleep patterns, genetic susceptibility, and VTE. Methods In the UK Biobank cohort, healthy sleep behaviors were defined as early chronotype, 7–8 hours of sleep each day, no snoring, infrequent insomnia, and infrequent daytime sleepiness. Each of the five criteria was given 1 point, creating a healthy sleep score ranging from 0 to 5. Cox proportional hazards regression models were utilized to examine the associations between genetic susceptibility, healthy sleep score and VTE. Results The UK Biobank study included 384,758 participants aged 56.6 ± 8.0 years. After a median of 11.9 years of follow-up, 8,885 (2.3%) participants were diagnosed with VTE. A healthy sleep score inversely affected VTE risk. For participants with a score of 5, the hazard ratio of VTE was 0.813 (95% confidence interval: 0.758–0.873, P<0.001) compared to those with a score ≤2. Early chronotype, sleeping 7–8 hours each day, infrequent insomnia, and infrequent daytime sleepiness were significantly associated with a 7.9%, 8.3%, 5.1%, and 20.7% lower risk of VTE, respectively. In addition, the correlation between sleep pattern and the incidence of VTE was consistent, regardless of genetic susceptibility (P for interaction = 0.366). Conclusions Our secondary analysis of a large-scale prospectively gathered registry revealed that individuals with a healthy sleep pattern are significantly correlated with lower risk of developing VTE, irrespective of genetic susceptibility.
+
+Associations between self-reported sleep duration and incident cardiovascular diseases in a nationwide prospective cohort study of Chinese middle-aged and older adults
+
+Number of 
+
+Key takeaways:Short sleep durations (6 hours/day) are associated with an increased risk of cardiovascular disease in Chinese middle-aged and older adults, particularly among elderly females.
+
+Abstract:Purpose This study explores the correlation between sleep duration and cardiovascular disease (CVD) among middle-aged and older adults in China. Furthermore, we aim to investigate the association between sleep duration and incident CVD in this population, while assessing potential variations across different age and gender subgroups. Methods Utilizing data from the nationwide prospective survey of the China Health and Retirement Longitudinal Study (CHARLS) conducted in 2011, 2013, 2015, and 2018, involving 17,596 participants aged 45 years and above, we employed Cox proportional hazards regression models. These models were used to examine the impact of baseline sleep duration on CVD, considering age (middle-aged/elderly) and gender (male/female) groups. Results Over the 8-year follow-up, 2,359 CVD events were recorded. Compared to individuals sleeping 6–8 h per day, a short sleep duration (≤6 h/day) was significantly associated with an increased risk of CVD (HR: 1.17, 95% CI: 1.03–1.33). Subgroup analysis revealed a more pronounced relationship in participants aged ≥60 years, where both short sleep duration (≤6 h/day) (HR: 1.17, 95% CI: 1.02–1.35) and long sleep duration (>8 h/day) (HR: 1.20, 95% CI: 1.02–1.41) were significantly associated with an elevated risk of CVD. Specifically, among female participants, short sleep durations (≤6 h/day) was significantly associated with CVD (HR: 1.24, 95% CI: 1.05–1.47). Conclusion Short sleep durations can serve as predictive factors for CVD in China's population aged 45 and above, particularly among elderly female participants. Our study underscores the importance of considering sleep health as a critical aspect when formulating strategies for enhancing CVD prevention.
+
+Dissociable effects of self-reported daily sleep duration on high-level cognitive abilities
+
+Number of 
+
+Key takeaways:Too little or too much sleep impairs reasoning and verbal skills, while short-term memory performance is unaffected, suggesting that optimal sleep duration is similar for all adult age groups.
+
+Abstract:Abstract Most people will at some point experience not getting enough sleep over a period of days, weeks, or months. However, the effects of this kind of everyday sleep restriction on high-level cognitive abilities—such as the ability to store and recall information in memory, solve problems, and communicate—remain poorly understood. In a global sample of over 10000 people, we demonstrated that cognitive performance, measured using a set of 12 well-established tests, is impaired in people who reported typically sleeping less, or more, than 7–8 hours per night—which was roughly half the sample. Crucially, performance was not impaired evenly across all cognitive domains. Typical sleep duration had no bearing on short-term memory performance, unlike reasoning and verbal skills, which were impaired by too little, or too much, sleep. In terms of overall cognition, a self-reported typical sleep duration of 4 hours per night was equivalent to aging 8 years. Also, sleeping more than usual the night before testing (closer to the optimal amount) was associated with better performance, suggesting that a single night’s sleep can benefit cognition. The relationship between sleep and cognition was invariant with respect to age, suggesting that the optimal amount of sleep is similar for all adult age groups, and that sleep-related impairments in cognition affect all ages equally. These findings have significant real-world implications, because many people, including those in positions of responsibility, operate on very little sleep and may suffer from impaired reasoning, problem-solving, and communications skills on a daily basis.
+
+Poorer sleep impairs brain health at midlife
+
+Number of 
+
+Key takeaways:Poor sleep at midlife, including daytime dozing, is associated with lower brain health and cognitive measures, potentially affecting brain health into old age and preventing dementia.
+
+Is Short Sleep Bad for the Brain? Brain Structure and Cognitive Function in Short Sleepers
+
+Number of 
+
+Key takeaways:Some individuals can cope with less sleep without negative effects on brain structure, but may experience slightly lower cognitive function.
+
+Abstract:Many sleep less than recommended without experiencing daytime sleepiness. According to prevailing views, short sleep increases risk of lower brain health and cognitive function. Chronic mild sleep deprivation could cause undetected sleep debt, negatively affecting cognitive function and brain health. However, it is possible that some have less sleep need and are more resistant to negative effects of sleep loss. We investigated this using a cross-sectional and longitudinal sample of 47,029 participants of both sexes (20–89 years) from the Lifebrain consortium, Human Connectome project (HCP) and UK Biobank (UKB), with measures of self-reported sleep, including 51,295 MRIs of the brain and cognitive tests. A total of 740 participants who reported to sleep <6 h did not experience daytime sleepiness or sleep problems/disturbances interfering with falling or staying asleep. These short sleepers showed significantly larger regional brain volumes than both short sleepers with daytime sleepiness and sleep problems (n = 1742) and participants sleeping the recommended 7–8 h (n = 3886). However, both groups of short sleepers showed slightly lower general cognitive function (GCA), 0.16 and 0.19 SDs, respectively. Analyses using accelerometer-estimated sleep duration confirmed the findings, and the associations remained after controlling for body mass index, depression symptoms, income, and education. The results suggest that some people can cope with less sleep without obvious negative associations with brain morphometry and that sleepiness and sleep problems may be more related to brain structural differences than duration. However, the slightly lower performance on tests of general cognitive abilities warrants closer examination in natural settings. SIGNIFICANCE STATEMENT Short habitual sleep is prevalent, with unknown consequences for brain health and cognitive performance. Here, we show that daytime sleepiness and sleep problems are more strongly related to regional brain volumes than sleep duration. However, participants sleeping ≤6 h had slightly lower scores on tests of general cognitive function (GCA). This indicates that sleep need is individual and that sleep duration per se is very weakly if at all related brain health, while daytime sleepiness and sleep problems may show somewhat stronger associations. The association between habitual short sleep and lower scores on tests of general cognitive abilities must be further scrutinized in natural settings.
+
+Sleep Patterns and Human Brain Health.
+
+Number of 
+
+Key takeaways:Long sleep (>8 hours) is not generally beneficial for long-term brain health in humans, and more research is needed to confirm this hypothesis.
+
+Abstract:It is a widely held opinion that sleep is important for human brain health. Here we examine the evidence for this view, focusing on normal variations in sleep patterns. We discuss the functions of sleep and highlight the paradoxical implications of theories seeing sleep as an adaptive capacity versus the theory that sleep benefits clearance of metabolic waste from the brain. We also evaluate the proposition that sleep plays an active role in consolidation of memories. Finally, we review research on possible effects of chronic sleep deprivation on brain health. We find that the evidence for a causal role of sleep in human brain health is surprisingly weak relative to the amount of attention to sleep in science and society. While there are well-established associations between sleep parameters and aspects of brain health, results are generally not consistent across studies and measures, and it is not clear to what extent alterations in sleep patterns represent symptoms or causes. Especially, the proposition that long sleep (>8 hours) in general is beneficial for long-term brain health in humans seems to lack empirical support. We suggest directions for future research to establish a solid foundation of knowledge about a role of sleep in brain health based on longitudinal studies with frequent sampling, attention to individual differences, and more ecologically valid intervention studies.
+
+Day-to-day directional relationships between sleep duration and negative affect.
+
+Number of 
+
+Key takeaways:Shorter sleep duration predicts higher next-day negative affect, with an optimal range of at least 7.5 hours and no more than 10.5 hours being associated with the lowest negative affect.
+
+Sleep duration over 28 years, cognition, gray matter volume, and white matter microstructure: a prospective cohort study
+
+Number of 
+
+Key takeaways:Meeting sleep guidelines of at least 7 hours per night may not be associated with better cognition, gray matter volume, or white matter microstructure.
+
+Abstract:Abstract Study Objectives To examine the association between sleep duration trajectories over 28 years and measures of cognition, gray matter volume, and white matter microstructure. We hypothesize that consistently meeting sleep guidelines that recommend at least 7 hours of sleep per night will be associated with better cognition, greater gray matter volumes, higher fractional anisotropy, and lower radial diffusivity values. Methods We studied 613 participants (age 42.3 ± 5.03 years at baseline) who self-reported sleep duration at five time points between 1985 and 2013, and who had cognitive testing and magnetic resonance imaging administered at a single timepoint between 2012 and 2016. We applied latent class growth analysis to estimate membership into trajectory groups based on self-reported sleep duration over time. Analysis of gray matter volumes was carried out using FSL Voxel-Based-Morphometry and white matter microstructure using Tract Based Spatial Statistics. We assessed group differences in cognitive and MRI outcomes using nonparametric permutation testing. Results Latent class growth analysis identified four trajectory groups, with an average sleep duration of 5.4 ± 0.2 hours (5%, N = 29), 6.2 ± 0.3 hours (37%, N = 228), 7.0 ± 0.2 hours (45%, N = 278), and 7.9 ± 0.3 hours (13%, N = 78). No differences in cognition, gray matter, and white matter measures were detected between groups. Conclusions Our null findings suggest that current sleep guidelines that recommend at least 7 hours of sleep per night may not be supported in relation to an association between sleep patterns and cognitive function or brain structure.
+
+Comprehensive assessment of sleep duration, insomnia, and brain structure within the UK Biobank cohort
+
+Number of 
+
+Key takeaways:Sleeping longer than recommended by the National Sleep Foundation is associated with various brain structure changes, potentially indicating poorer brain health, while sleeping less than recommended is linked to lower cortical surface areas.
+
+Abstract:Study Objectives To assess for associations between sleeping more than or less than recommended by the National Sleep Foundation (NSF), and self-reported insomnia, with brain structure. Methods Data from the UK Biobank cohort were analysed (N between 9K and 32K, dependent on availability, aged 44 to 82 years). Sleep measures included self-reported adherence to NSF guidelines on sleep duration (sleeping between 7 and 9 hours per night), and self-reported difficulty falling or staying asleep (insomnia). Brain structural measures included global and regional cortical or subcortical morphometry (thickness, surface area, volume), global and tract-related white matter microstructure, brain age gap (difference between chronological age and age estimated from brain scan), and total volume of white matter lesions. Results Longer-than-recommended sleep duration was associated with lower overall grey and white matter volumes, lower global and regional cortical thickness and volume measures, higher brain age gap, higher volume of white matter lesions, higher mean diffusivity globally and in thalamic and association fibers, and lower volume of the hippocampus. Shorter-than-recommended sleep duration was related to higher global and cerebellar white matter volumes, lower global and regional cortical surface areas, and lower fractional anisotropy in projection fibers. Self-reported insomnia was associated with higher global grey and white matter volumes, and with higher volumes of the amygdala, hippocampus and putamen. Conclusions Sleeping longer than recommended by the NSF is associated with a wide range of differences in brain structure, potentially indicative of poorer brain health. Sleeping less than recommended is distinctly associated with lower cortical surface areas. Future studies should assess the potential mechanisms of these differences and investigate long sleep duration as a putative marker of brain health.
+
+Sleep deprivation impairs molecular clearance from the human brain.
+
+Number of 
+
+Key takeaways:One night of total sleep deprivation impairs molecular clearance from the human brain, and this impairment is not compensated for by subsequent sleep.
+
+Abstract:It remains an enigma why human beings spend one-third of their life asleep. Experimental data suggest that sleep is required for clearance of waste products from brain metabolism. This has, however, never been verified in humans. The primary aim of the present study was to examine in vivo whether one night of total sleep deprivation affects molecular clearance from the human brain. Secondarily, we examined whether clearance was affected by subsequent sleep. Multiphase MRI with standardized T1 sequences was performed up to 48 h after intrathecal administration of the contrast agent gadobutrol (0.5 ml of 1 mmol/ml), which served as a tracer molecule. Using FreeSurfer software, we quantified tracer enrichment within 85 brain regions as percentage change from baseline of normalized T1 signals. The cerebral tracer enrichment was compared between two cohorts of individuals; one cohort (n = 7) underwent total sleep deprivation from Day 1 to Day 2 (sleep deprivation group) while an age and gender-matched control group (n = 17; sleep group) was allowed free sleep from Day 1 to Day 2. From Day 2 to 3 all individuals were allowed free sleep. The tracer enriched the brains of the two groups similarly. Sleep deprivation was the sole intervention. One night of sleep deprivation impaired clearance of the tracer substance from most brain regions, including the cerebral cortex, white matter and limbic structures, as demonstrated on the morning of Day 2 after intervention (sleep deprivation/sleep). Moreover, the impaired cerebral clearance in the sleep deprivation group was not compensated by subsequent sleep from Day 2 to 3. The present results provide in vivo evidence that one night of total sleep deprivation impairs molecular clearance from the human brain, and that humans do not catch up on lost sleep.
+
+Sleep function: an evolutionary perspective
+
+Number of 
+
+Key takeaways:Optimal sleep duration for humans is 7 hours per night, with hunter-gatherer populations sleeping for 6-8 hours per night, and REM sleep plays a key role in brain temperature regulation and alert awakening.
+
+β-Amyloid accumulation in the human brain after one night of sleep deprivation
+
+Number of 
+
+Key takeaways:A single night of sleep deprivation increases -amyloid burden in the brain, potentially impacting Alzheimer's disease risk.
+
+Abstract:Significance There has been an emerging interest in sleep and its association with β-amyloid burden as a risk factor for Alzheimer’s disease. Despite the evidence that acute sleep deprivation elevates β-amyloid levels in mouse interstitial fluid and in human cerebrospinal fluid, not much is known about the impact of sleep deprivation on β-amyloid burden in the human brain. Using positron emission tomography, here we show that acute sleep deprivation impacts β-amyloid burden in brain regions that have been implicated in Alzheimer’s disease. Our observations provide preliminary evidence for the negative effect of sleep deprivation on β-amyloid burden in the human brain. The effects of acute sleep deprivation on β-amyloid (Aβ) clearance in the human brain have not been documented. Here we used PET and 18F-florbetaben to measure brain Aβ burden (ABB) in 20 healthy controls tested after a night of rested sleep (baseline) and after a night of sleep deprivation. We show that one night of sleep deprivation, relative to baseline, resulted in a significant increase in Aβ burden in the right hippocampus and thalamus. These increases were associated with mood worsening following sleep deprivation, but were not related to the genetic risk (APOE genotype) for Alzheimer’s disease. Additionally, baseline ABB in a range of subcortical regions and the precuneus was inversely associated with reported night sleep hours. APOE genotyping was also linked to subcortical ABB, suggesting that different Alzheimer’s disease risk factors might independently affect ABB in nearby brain regions. In summary, our findings show adverse effects of one-night sleep deprivation on brain ABB and expand on prior findings of higher Aβ accumulation with chronic less sleep.
+
+Sleep, physical activity, sedentary behavior, and risk of incident dementia: A prospective cohort study of 431,924 UK Biobank participants
+
+Number of 
+
+Key takeaways:A combination of seven-hour sleep, moderate-to-high physical activity, and low-to-moderate sedentary behavior reduces dementia risk, with each behavior potentially affecting brain structures.
+
+Number of 
+
+Key takeaways:Adolescents and adults need at least 7 hours of sleep per night to be well rested, and chronic sleep loss or sleep disorders may affect 70 million Americans, resulting in $16 billion in healthcare costs and $50 billion in lost productivity.
+
+Abstract:Think of your daily activities. Which activity is so important you should devote one-third of your time to doing it? Probably the first things that come to mind are working, spending time with your family, or doing leisure activities. But there's something else you should be doing about one-third of your time—sleeping. Many people view sleep as merely a ' down time ' when their brains shut off and their bodies rest. People may cut back on sleep, think­ ing it won't be a problem, because other responsibilities seem much more important. But research shows that a number of vital tasks carried out during sleep help people stay healthy and function at their best. While you sleep, your brain is hard at work forming the pathways necessary for learning and creating memories and new insights. Without enough sleep, you can't focus and pay attention or respond quickly. A lack of sleep may even cause mood problems. Also, growing evidence shows that a chronic lack of sleep increases your risk of obesity, diabetes, cardiovas­ cular disease, and infections. Despite growing support for the idea that adequate sleep, like adequate nutrition and physical activity, is vital to our well-being, people are sleeping less. The nonstop ' 24/7 ' nature of the world today encourages longer or nighttime work hours and offers continual access to entertainment and other activities. To keep up, people cut back on sleep. A common myth is that people can learn to get by on little sleep (such as less than 6 hours a night) with no adverse effects. Research suggests, however, that adults need at least 7–8 hours of sleep each night to be well rested. Indeed, in 1910, most people slept 9 hours a night. But recent surveys show the average adult now sleeps fewer than 7 hours a night. More than one-third of adults report daytime sleepiness so severe that it interferes with work, driving, and social functioning at least a few days each month. Evidence also shows that children's and adolescents' sleep is shorter than recommended. These trends have been linked to increased exposure to electronic media. Lack of sleep may have a direct effect on children's health, behavior, and development. Chronic sleep loss or sleep disorders may affect as many as 70 million Americans. This may result in an annual cost of $16 billion in health care expenses and $50 billion in lost productivity. …
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

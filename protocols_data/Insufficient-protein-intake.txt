@@ -1,0 +1,528 @@
+PROTOCOL: Insufficient protein intake
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Insufficient protein intake - Protein deficiency leads to loss of muscle mass, decreased performance, and increased risk of sarcopenia | Longevity Protocols
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Too low protein intake is a serious risk factor for the deterioration of muscle and bone health, especially in the elderly and chronically ill. Chronic protein deficiency leads to weakness, loss of muscle mass, decreased physical performance, and accelerates the development of sarcopenia and osteoporosis. An adequate amount of dietary protein is essential for maintaining performance, regeneration, and metabolic health.
+
+CONTENT SECTIONS:
+
+Insufficient protein intake
+
+Protein deficiency leads to loss of muscle mass, decreased performance, and increased risk of sarcopenia
+
+Too low protein intake is a serious risk factor for the deterioration of muscle and bone health, especially in the elderly and chronically ill. Chronic protein deficiency leads to weakness, loss of muscle mass, decreased physical performance, and accelerates the development of sarcopenia and osteoporosis. An adequate amount of dietary protein is essential for maintaining performance, regeneration, and metabolic health.
+
+Level of evidence:Strong
+
+Protein provides essential amino acids that are key for the synthesis of new muscle proteins, tissue repair, and proper metabolic processes. Too little protein intake causes negative changes in muscle gene expression, inhibits protein synthesis, and leads to loss of muscle mass. Lack of sufficient protein also impairs bone mineralization and increases susceptibility to fractures. Protein deficiency negatively affects metabolism, increases the risk of glucose disturbances, weakens immunity, and hinders body recovery.
+
+Insufficient protein intake is a significant health problem, especially among older adults, leading to muscle weakness, sarcopenia, and metabolic disorders. These consequences increase the risk of falls, fractures, and deteriorate quality of life.
+
+Protein deficiency affects a significant percentage of older adults and populations with limited access to dietary protein. It is an important risk factor for chronic diseases and hospitalizations, impacting public health and healthcare costs.
+
+Increase protein intake
+
+Include protein-rich foods in your diet, such as lean meats, fish, eggs, dairy, and legumes.
+
+Distribute protein intake evenly
+
+Consume protein evenly throughout meals to maximally stimulate muscle protein synthesis.
+
+If you have difficulty meeting your protein needs, consult a specialist who can help you choose supplementation or an appropriate diet.
+
+Include physical activity
+
+Regular exercise, especially strength training, supports the maintenance of muscle mass with adequate protein intake.
+
+Musculoskeletal system
+
+Insufficient protein intake has a clearly negative effect on the musculoskeletal system, especially in older adults. Too little protein leads to loss of muscle mass, decreased strength, reduced physical function, and increases the risk of sarcopenia and bone weakening.
+
+Impact of protein deficiency on muscles and physical performance
+
+Impact of protein deficiency on bones
+
+Summary of studies: Effects of protein deficiency on the musculoskeletal system
+
+Insufficient protein intake can negatively affect body composition, mainly by causing loss of muscle mass and increasing the risk of sarcopenia, especially in older adults. A low-protein diet promotes the loss of lean body mass and may hinder the maintenance or building of muscle, even with physical activity.
+
+Impact of protein deficiency on body composition
+
+Example effects of protein intake on body composition
+
+Insufficient protein intake can negatively affect metabolism, especially in older adults and physically active people. Too little protein in the diet is associated with increased risk of metabolic disorders such as abdominal obesity, insulin resistance, or abnormal glucose levels.
+
+Impact of protein deficiency on metabolism
+
+Long-term consequences
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:51
+
+Final comment:The impact of protein deficiency on human health is one of the best-documented aspects of clinical nutrition and chronic disease prevention. Numerous meta-analyses, systematic reviews, and randomized controlled trials confirm that too low protein intake leads to loss of muscle mass, deterioration of physical and metabolic functions, increased risk of sarcopenia, bone weakening, and higher risk of falls and fractures. These effects are particularly visible in older adults but also occur in other populations such as athletes, hospitalized patients, or growing children. Epidemiological and clinical studies have also shown that chronic protein deficiency can impair metabolism, increase the risk of glucose disturbances and insulin resistance, and lead to a persistent decline in quality of life and survival. Scientific consensus clearly indicates that adequate protein intake is crucial for maintaining musculoskeletal, metabolic health, and overall longevity.
+
+Prevalence of protein intake below recommended in community‐dwelling older adults: a meta‐analysis across cohorts from the PROMISS consortium
+
+Number of 
+
+Key takeaways:Lower protein intake is prevalent among community-dwelling older adults, with varying cut-off values, potentially leading to muscle loss and strength loss.
+
+Abstract:Lower protein intake in older adults is associated with loss of muscle mass and strength. The present study aimed to provide a pooled estimate of the overall prevalence of protein intake below recommended (according to different cut‐off values) among community‐dwelling older adults, both within the general older population and within specific subgroups.
+
+Low protein intake, muscle strength and physical performance in the very old: The Newcastle 85+ Study
+
+Number of 
+
+Key takeaways:Low protein intake may lead to reduced muscle strength and physical performance in the very old (aged 85+), posing a risk for malnutrition and functional decline.
+
+Benefits and safety of dietary protein for bone health—an expert consensus paper endorsed by the European Society for Clinical and Economical Aspects of Osteopororosis, Osteoarthritis, and Musculoskeletal Diseases and by the International Osteoporosis Foundation
+
+Number of 
+
+Key takeaways:Higher protein intake (≥0.8-g/kg body weight/day) can reduce bone loss and hip fracture risk in older adults with osteoporosis, provided calcium intake is adequate.
+
+Abstract:A summary of systematic reviews and meta-analyses addressing the benefits and risks of dietary protein intakes for bone health in adults suggests that dietary protein levels even above the current RDA may be beneficial in reducing bone loss and hip fracture risk, provided calcium intakes are adequate. Several systematic reviews and meta-analyses have addressed the benefits and risks of dietary protein intakes for bone health in adults. This narrative review of the literature summarizes and synthesizes recent systematic reviews and meta-analyses and highlights key messages. Adequate supplies of dietary protein are required for optimal bone growth and maintenance of healthy bone. Variation in protein intakes within the “normal” range accounts for 2–4% of BMD variance in adults. In older people with osteoporosis, higher protein intake (≥ 0.8-g/kg body weight/day, i.e., above the current RDA) is associated with higher BMD, a slower rate of bone loss, and reduced risk of hip fracture, provided that dietary calcium intakes are adequate. Intervention with dietary protein supplements attenuate age-related BMD decrease and reduce bone turnover marker levels, together with an increase in IGF-I and a decrease in PTH. There is no evidence that diet-derived acid load is deleterious for bone health. Thus, insufficient dietary protein intakes may be a more severe problem than protein excess in the elderly. Long-term, well-controlled randomized trials are required to further assess the influence of dietary protein intakes on fracture risk.
+
+Dietary protein and bone health
+
+Number of 
+
+Key takeaways:High protein intake increases urinary calcium excretion, but its effects on bone health depend on age, health status, and diet, with low protein intake impairing bone formation and muscle cell synthesis.
+
+Abstract:The effects of dietary protein on bone health are paradoxical and need to be considered in context of the age, health status and usual diet of the population. Over the last 80 years numerous studies have demonstrated that a high protein intake increases urinary Ca excretion and that on average 1 mg Ca is lost in urine for every 1 g rise in dietary protein. This relationship is primarily attributable to metabolism of S amino acids present in animal and some vegetable proteins, resulting in a greater acid load and buffering response by the skeleton. However, many of these early studies that demonstrated the calciuric effects of protein were limited by low subject numbers, methodological errors and the use of high doses of purified forms of protein. Furthermore, the cross-cultural and population studies that showed a positive association between animal-protein intake and hip fracture risk did not consider other lifestyle or dietary factors that may protect or increase the risk of fracture. The effects of protein on bone appear to be biphasic and may also depend on intake of Ca- and alkali-rich foods, such as fruit and vegetables. At low protein intakes insulin-like growth factor production is reduced, which in turn has a negative effect on Ca and phosphate metabolism, bone formation and muscle cell synthesis. Although growth and skeletal development is impaired at very low protein intakes, it is not known whether variations in protein quality affect the achievement of optimal peak bone mass in adolescents and young adults. Prospective studies in the elderly in the USA have shown that the greatest bone losses occur in elderly men and women with an average protein intake of 16–50 g/d. Although a low protein intake may be indicative of a generally poorer diet and state of health, there is a need to evaluate whether there is a lower threshold for protein intake in the elderly in Europe that may result in increased bone loss and risk of osteoporotic fracture.
+
+Dietary protein is associated with musculoskeletal health independently of dietary pattern: the Framingham Third Generation Study.
+
+Number of 
+
+Key takeaways:Dietary protein is associated with lean mass and quadriceps strength, but not bone mineral density, and dietary protein food patterns do not provide further insight into beneficial protein effects on muscle outcomes.
+
+Abstract:Background: Above-average dietary protein, as a single nutrient, improves musculoskeletal health. Evaluating the link between dietary protein and musculoskeletal health from a whole-diet perspective is important, as dietary guidelines focus on dietary patterns.Objective: We examined the prospective association of novel dietary protein food clusters (derived from established dietary pattern techniques) with appendicular lean mass (ALM), quadriceps strength (QS), and bone mineral density (BMD) in 2986 men and women, aged 19-72 y, from the Framingham Third Generation Study.Design: Total protein intake was estimated by food-frequency questionnaire in 2002-2005. A cluster analysis was used to classify participants into mutually exclusive groups, which were determined by using the percentage of contribution of food intake to overall protein intake. General linear modeling was used to 1) estimate the association between protein intake (grams per day) and BMD, ALM, appendicular lean mass normalized for height (ALM/ht2), and QS (2008-2011) and to 2) calculate adjusted least-squares mean outcomes across quartiles of protein (grams per day) and protein food clusters.Results: The mean ± SD age of subjects was 40 ± 9 y; 82% of participants met the Recommended Daily Allowance (0.8 g · kg body weight-1 · d-1). The following 6 dietary protein food clusters were identified: fast food and full-fat dairy, fish, red meat, chicken, low-fat milk, and legumes. BMD was not different across quartiles of protein intake (P-trend range = 0.32-0.82); but significant positive trends were observed for ALM, ALM/ht2 (P < 0.001), and QS (P = 0.0028). Individuals in the lowest quartile of total protein intake (quartile 1) had significantly lower ALM, ALM/ht2, and QS than did those in the higher quartiles of intake (quartiles 2-4; (P ranges = 0.0001-0.003, 0.0007-0.003, and 0.009-0.05, respectively). However, there were no associations between protein clusters and any musculoskeletal outcome in adjusted models.Conclusions: In a protein-replete cohort of adults, dietary protein is associated with ALM and QS but not with BMD. In this study, dietary protein food patterns do not provide further insight into beneficial protein effects on muscle outcomes.
+
+Protein 
+
+Number of 
+
+Key takeaways:Higher dietary protein intake in older adults may benefit muscle health, but future research is needed on plant-sourced proteins like pea protein to provide clearer messaging on their effects on the aging musculoskeletal system.
+
+Abstract:Research shows that higher dietary protein of up to 1.2 g/kgbodyweight/day may help prevent sarcopenia and maintain musculoskeletal health in older individuals. Achieving higher daily dietary protein levels is challenging, particularly for older adults with declining appetites and underlying health conditions. The negative impact of these limitations on aging muscle may be circumvented through the consumption of high-quality 
+
+Inadequate protein intake affects skeletal muscle transcript profiles in older humans.
+
+Number of 
+
+Key takeaways:Inadequate protein intake in older adults leads to changes in muscle transcript levels, potentially predisposing to adverse metabolic, functional, and structural events.
+
+Abstract:BACKGROUND
+Inadequate dietary protein intake causes adverse changes in the morphology and function of skeletal muscle. These changes may be reflected in early alterations in muscle messenger RNA levels.
+
+OBJECTIVE
+This study assessed whether inadequate protein intake differentially affects skeletal muscle transcript concentrations and expression profiles in older adults.
+
+DESIGN
+Twenty-one older men and women (aged 55-80 y) consumed controlled diets that provided 1.2 g protein x kg(-1) x d(-1) (adequate protein) for 1 wk and then were randomly assigned to consume either 0.5 g protein x kg(-1) x d(-1) or 1.2 g protein x kg(-1) x d(-1) (control group; n=10) for a second week. RNA was isolated from fasting-state vastus lateralis biopsy samples obtained at the end of each period, and transcript levels in the IP group were measured by using microarray analysis. Changes in selected transcript levels were confirmed by real-time polymerase chain reaction in both groups.
+
+RESULTS
+Analysis of variance showed 529 differentially expressed transcripts (P<0.05) after inadequate protein intake. Using the false discovery rate (FDR) correction to adjust for multiple comparisons, we observed that 85 transcripts were differentially expressed: 54 were up-regulated and 31 were down-regulated. The differentially expressed transcripts were in functional classes for immune, inflammatory, and stress responses (predominantly up-regulated); contraction, movement, and development (up-regulated); extracellular connective tissue (up-regulated); energy metabolism (down-regulated); protein synthesis (down-regulated); and proliferation (down-regulated). Diet-related differences in the expression of 9 transcripts were cross-validated by using real-time polymerase chain reaction.
+
+CONCLUSION
+The results document changes in skeletal muscle transcript levels induced by short-term inadequate protein intakes in older humans that might precede adverse metabolic, functional, and structural events, including muscle wasting.
+
+The Effect of Protein Intake on Bone Disease, Kidney Disease, and Sarcopenia: A Systematic Review
+
+Number of 
+
+Key takeaways:Dietary protein intake's impact on bone disease, kidney disease, and sarcopenia risk remains unclear, requiring more rigorous research.
+
+Protein Intake and Muscle Health in Old Age: From Biological Plausibility to Clinical Evidence
+
+Number of 
+
+Key takeaways:Older adults need higher protein intake, especially from sources rich in leucine, to maintain muscle health and function due to anabolic resistance.
+
+Abstract:The provision of sufficient amounts of dietary proteins is central to muscle health as it ensures the supply of essential amino acids and stimulates protein synthesis. Older persons, in particular, are at high risk of insufficient protein ingestion. Furthermore, the current recommended dietary allowance for protein (0.8 g/kg/day) might be inadequate for maintaining muscle health in older adults, probably as a consequence of “anabolic resistance” in aged muscle. Older individuals therefore need to ingest a greater quantity of protein to maintain muscle function. The quality of protein ingested is also essential to promoting muscle health. Given the role of leucine as the master dietary regulator of muscle protein turnover, the ingestion of protein sources enriched with this essential amino acid, or its metabolite β-hydroxy β-methylbutyrate, is thought to offer the greatest benefit in terms of preservation of muscle mass and function in old age.
+
+Skeletal Muscle Disuse Atrophy and the Rehabilitative Role of Protein in Recovery from Musculoskeletal Injury.
+
+Number of 
+
+Key takeaways:Protein intake can help protect muscle mass and function during postinjury disuse conditions, potentially synergistically with early rehabilitation efforts.
+
+Abstract:Muscle atrophy and weakness occur as a consequence of disuse after musculoskeletal injury (MSI). The slow recovery and persistence of these deficits even after physical rehabilitation efforts indicate that interventions designed to attenuate muscle atrophy and protect muscle function are necessary to accelerate and optimize recovery from MSI. Evidence suggests that manipulating protein intake via dietary protein or free amino acid-based supplementation diminishes muscle atrophy and/or preserves muscle function in experimental models of disuse (i.e., immobilization and bed rest in healthy populations). However, this concept has rarely been considered in the context of disuse following MSI, which often occurs with some muscle activation during postinjury physical rehabilitation. Given that exercise sensitizes skeletal muscle to the anabolic effect of protein ingestion, early rehabilitation may act synergistically with dietary protein to protect muscle mass and function during postinjury disuse conditions. This narrative review explores mechanisms of skeletal muscle disuse atrophy and recent advances delineating the role of protein intake as a potential countermeasure. The possible synergistic effect of protein-based interventions and postinjury rehabilitation in attenuating muscle atrophy and weakness following MSI is also considered.
+
+Protein intake and physical function in older adults: A systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Higher protein intake in older adults is associated with better physical performance and muscle strength, but does not prevent physical function decline over time.
+
+Perspective: Protein Requirements and Optimal Intakes in Aging: Are We Ready to Recommend More Than the Recommended Daily Allowance?
+
+Number of 
+
+Key takeaways:Older individuals should consume at least 1.2 g protein per kg of body weight daily, with an emphasis on leucine intake, to support skeletal muscle health and function.
+
+Abstract:The Dietary Reference Intakes set the protein RDA for persons >19 y of age at 0.8 g protein ⋅ kg body weight-1 ⋅ d-1. A growing body of evidence suggests, however, that the protein RDA may be inadequate for older individuals. The evidence for recommending a protein intake greater than the RDA comes from a variety of metabolic approaches. Methodologies centered on skeletal muscle are of paramount importance given the age-related decline in skeletal muscle mass and function (sarcopenia) and the degree to which dietary protein could mitigate these declines. In addition to evidence from short-term experimental trials, observational data show that higher protein intakes are associated with greater muscle mass and, more importantly, better muscle function with aging. We are in dire need of more evidence from longer-term intervention trials showing the efficacy of protein intakes that are higher than the RDA in older persons to support skeletal muscle health. We propose that it should be recommended that older individuals consume ≥1.2 g protein · kg-1 · d-1 and that there should be an emphasis on the intake of the amino acid leucine, which plays a central role in stimulating skeletal muscle anabolism. Critically, the often-cited potential negative effects of consuming higher protein intakes on renal and bone health are without a scientific foundation in humans.
+
+Protein Intake and Bone Health in the Elderly
+
+Number of 
+
+Key takeaways:Adequate protein intake is crucial for optimal bone health in the elderly, especially in sarcopenia and osteoporosis, and can be met with simple nutritional advice and supplements.
+
+Abstract:Abstract Protein plays an important role in muscle and bone metabolism. This is of great importance for optimal bone health, especially in the elderly, in sarcopenia and osteoporosis. Adequate protein intake is a prerequisite for optimal musculoskeletal health and efficient strength training. Protein is one of the macronutrients and besides calcium the most abundant structural component of our musculoskeletal system. However, elderly subjects often consume too little protein. In 2017, the revised reference values in the D-A-CH region were increased for adults>65 years to 1.0 g protein/kg (ideal) body weight / day and ESPEN even advocates for an intake of 1.0–1.5 g protein/kg BW/ day. Many elderly people, especially women do not meet these targets. In our experience, there is a fundamental misconception that protein needs can only be met consuming animal products. Many studies have investigated whether sufficient protein intake has a positive effect on bone. In this short review, the importance of protein for bone and the problem of inadequate protein intake in sarcopenia will be discussed and the most relevant clinical guidelines and studies will be presented. For practical use, we give examples of omnivore and vegetarian meal plans and important protein sources (plant and animal origin) are given. Usually, the minimal demands can easily be met with simple nutritional advice. Sometimes however, additional protein supplements (often liquids, puddings, powders) are needed, especially in nursing home residents, and when poor appetite or dysphagia impair appropriate caloric and protein intake.
+
+Protein supplementation improves lean body mass in physically active older adults: a randomized placebo‐controlled trial
+
+Number of 
+
+Key takeaways:Protein supplementation for 12 weeks improves lean body mass, muscle strength, and physical performance in physically active older adults with low protein intake.
+
+Abstract:An inadequate protein intake may offset the muscle protein synthetic response after physical activity, reducing the possible benefits of an active lifestyle for muscle mass. We examined the effects of 12 weeks of daily protein supplementation on lean body mass, muscle strength, and physical performance in physically active older adults with a low habitual protein intake (<1.0 g/kg/day).
+
+Effects of dietary protein intake on body composition changes after weight loss in older adults: a systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:Higher protein diets help older adults retain more lean mass and lose more fat mass during weight loss.
+
+Abstract:CONTEXT
+The impact of dietary protein on body composition changes after older adults purposefully lose weight requires systematic evaluation
+
+OBJECTIVE
+: This systematic review and meta-analysis assessed the effects of protein intake (< 25% vs ≥ 25% of energy intake or 1.0 g/kg/d) on energy restriction-induced changes in body mass, lean mass, and fat mass in adults older than 50 years.
+
+DATA SOURCES
+PubMed, Cochrane, Scopus, and Google Scholar were searched using the keywords 'dietary proteins,' 'body composition,' 'skeletal muscle,' and 'muscle strength.'
+
+STUDY SELECTION
+Two researchers independently screened 1542 abstracts.
+
+DATA EXTRACTION
+Information was extracted from 24 articles.
+
+DATA SYNTHESIS
+Twenty randomized control trials met the inclusion criteria.
+
+CONCLUSION
+Older adults retained more lean mass and lost more fat mass during weight loss when consuming higher protein diets.
+
+The Impact of Dairy Protein Intake on Muscle Mass, Muscle Strength, and Physical Performance in Middle-Aged to Older Adults with or without Existing Sarcopenia: A Systematic Review and Meta-Analysis.
+
+Number of 
+
+Key takeaways:Dairy protein supplementation can improve appendicular muscle mass in middle-aged and older adults, but its effect on muscle strength and physical performance remains inconclusive.
+
+Abstract:Sarcopenia is an age-related condition associated with a progressive loss of muscle mass and strength. Insufficient protein intake is a risk factor for sarcopenia. Protein supplementation is suggested to improve muscle anabolism and function in younger and older adults. Dairy products are a good 
+
+Effects of Dietary Protein on Body Composition in Exercising Individuals
+
+Number of 
+
+Key takeaways:A high-protein diet combined with exercise leads to increased muscle accretion, fat loss, and beneficial effects on bone, with no deleterious effects on muscle, fat, or bone.
+
+Abstract:Protein is an important component of a healthy diet and appears to be integral to enhancing training adaptations in exercising individuals. The purpose of this narrative review is to provide an evidence-based assessment of the current literature examining increases in dietary protein intake above the recommended dietary allowance (RDA: 0.8 g/kg/d) in conjunction with chronic exercise on body composition (i.e., muscle, fat and bone). We also highlight acute and chronic pre-sleep protein studies as well as the influence of exercise timing on body composition. Overall, a high-protein diet appears to increase muscle accretion and fat loss and may have beneficial effects on bone when combined with exercise. Pre-sleep protein is a viable strategy to help achieve total daily protein goals. Importantly, there appears to be no deleterious effects from a high-protein diet on muscle, fat or bone in exercising individuals.
+
+Influence of protein intake on the changes in skeletal muscle mass after kidney transplantation.
+
+Number of 
+
+Key takeaways:Insufficient protein intake negatively affects recovery from skeletal muscle mass loss after kidney transplantation, suggesting a protein intake of at least 0.72 g/kg IBW/day is recommended for kidney transplant recipients.
+
+Protein intake and body weight, fat mass and waist circumference: an umbrella review of systematic reviews for the evidence-based guideline on protein intake of the German Nutrition Society
+
+Number of 
+
+Key takeaways:A high-protein diet does not affect body weight, fat mass, or waist circumference in adults under isoenergetic conditions, and the impact of protein type on these outcomes is 'insufficient'.
+
+Abstract:Abstract Purpose This umbrella review aimed to assess whether dietary protein intake with regard to quantitative (higher vs. lower dietary protein intake) and qualitative considerations (total, plant-based or animal-based protein intake) affects body weight (BW), fat mass (FM) and waist circumference (WC). Methods A systematic literature search was conducted in PubMed, Embase and Cochrane Database of Systematic Reviews for systematic reviews (SRs) with and without meta-analyses of prospective studies published between 04 October 2007 and 04 January 2022. Methodological quality and outcome-specific certainty of evidence of the retrieved SRs were assessed by using AMSTAR 2 and NutriGrade, respectively, in order to rate the overall certainty of evidence using predefined criteria. Results Thirty-three SRs were included in this umbrella review; 29 were based on randomised controlled trials, a few included cohort studies. In studies without energy restriction, a high-protein diet did not modulate BW, FM and WC in adults in general (all “possible” evidence); for older adults, overall certainty of evidence was “insufficient” for all parameters. Under hypoenergetic diets, a high-protein diet mostly decreased BW and FM, but evidence was “insufficient” due to low methodological quality. Evidence regarding an influence of the protein type on BW, FM and WC was “insufficient”. Conclusion “Possible” evidence exists that the amount of protein does not affect BW, FM and WC in adults under isoenergetic conditions. Its impact on the reduction in BW and FM under hypoenergetic conditions remains unclear; evidence for an influence of protein type on BW, FM and WC is “insufficient”.
+
+A word of caution against excessive protein intake
+
+Number of 
+
+Key takeaways:Excessive protein intake may have adverse public health consequences, despite its crucial role in human health.
+
+The effects of protein supplementation on body composition after bariatric surgery: a systematic review and meta-analysis of randomized controlled trials.
+
+Number of 
+
+Key takeaways:Protein supplementation may improve weight and some body composition metrics after bariatric surgery, but does not significantly influence overall BMI and lean body mass.
+
+Abstract:OBJECTIVE
+We aimed to explore the effect of protein supplementation on anthropometric measures and body composition in patients after metabolic bariatric surgery (MBS).
+
+METHODS
+We performed a systematic search up to January 2024 including randomized controlled trials investigating the effects of protein or amino acid supplementation on the body composition of patients who underwent MBS. The overall effect was presented as the weighted mean difference (WMD) at a 95% CI.
+
+RESULTS
+Ten trials were included in this meta-analysis. Our results indicate that there was a statistically greater change in weight (WMD, -1.31 kg, 95% CI: -1.93 to -0.69, p < 0.001; Grading of Recommendations Assessment, Development, and Evaluation  = moderate), muscle mass (WMD, 1.33 kg, 95% CI: 0.1 to 2.57, p = 0.035; GRADE = low), fat-free mass (WMD, 1.74 kg, 95% CI: 0.46 to 3.01, p = 0.01; GRADE = low), and fat mass (WMD, -3.91 kg, 95% CI: -4.10 to -0.59, p = 0.01; GRADE = low) in the protein group compared to the control group. However, protein supplementation did not significantly change BMI and lean body mass.
+
+CONCLUSIONS
+Based on moderate- to low-certainty evidence, our findings suggest that although protein supplementation may improve weight and some body composition metrics, it does not influence overall BMI and lean body mass. More research is needed to recommend protein supplementation after MBS.
+
+Dietary protein intake is associated with lean mass change in older, community-dwelling adults: the Health, Aging, and Body Composition (Health ABC) Study.
+
+Number of 
+
+Key takeaways:Higher dietary protein intake may reduce age-related lean mass loss in older adults.
+
+Abstract:BACKGROUND
+Dietary surveys suggest that many older, community-dwelling adults consume insufficient dietary protein, which may contribute to the age-related loss of lean mass (LM).
+
+OBJECTIVE
+The objective of the study was to determine the association between dietary protein and changes in total LM and nonbone appendicular LM (aLM) in older, community-dwelling men and women.
+
+DESIGN
+Dietary protein intake was assessed by using an interviewer-administered 108-item food-frequency questionnaire in men and women aged 70-79 y who were participating in the Health, Aging, and Body Composition study (n=2066). Changes in LM and aLM over 3 y were measured by using dual-energy X-ray absorptiometry. The association between protein intake and 3-y changes in LM and aLM was examined by using multiple linear regression analysis adjusted for potential confounders.
+
+RESULTS
+After adjustment for potential confounders, energy-adjusted protein intake was associated with 3-y changes in LM and aLM . Participants in the highest quintile of protein intake lost approximately 40% less LM and aLM than did those in the lowest quintile of protein intake (x+/-SE: -0.501+/-0.106 kg compared with -0.883+/-0.104 kg for LM; -0.400+/-0.058 kg compared with -0.661+/-0.057 kg for aLM; P for trend<0.01). The associations were attenuated slightly after adjustment for change in fat mass, but the results remained significant.
+
+CONCLUSION
+Dietary protein may be a modifiable risk factor for sarcopenia in older adults and should be studied further to determine its effects on preserving LM in this population.
+
+Correlation between physiological and biochemical variables during short term adequate protein intake combined with resistance exercise in sedentary adults
+
+Number of 
+
+Key takeaways:Adequate protein intake (1.5 g/kg body weight/day) and resistance exercise (resistance training) synergistically increase fat metabolism, increase muscle mass and strength in sedentary adults.
+
+The effects of protein intake higher than the recommended value on body composition changes after bariatric surgery: A meta-analysis of randomized controlled trials.
+
+Number of 
+
+Key takeaways:Higher protein intake after bariatric surgery may cause greater weight and fat loss, but does not support the role of additional protein in preserving fat-free mass, except in patients with laparoscopic sleeve gastrectomy.
+
+Impacts of protein quantity and distribution on body composition
+
+Number of 
+
+Key takeaways:Meal distribution of dietary protein impacts muscle mass and body composition, with older adults needing more leucine in their meals to stimulate muscle protein synthesis, but long-term effects remain unclear.
+
+Abstract:The importance of meal distribution of dietary protein to optimize muscle mass and body remains unclear, and the findings are intertwined with age, physical activity, and the total quantity and quality of protein consumed. The concept of meal distribution evolved from multiple discoveries about regulating protein synthesis in skeletal muscle. The most significant was the discovery of the role of the branched-chain amino acid leucine as a metabolic signal to initiate a post-meal anabolic period of muscle protein synthesis (MPS) in older adults. Aging is often characterized by loss of muscle mass and function associated with a decline in protein synthesis. The age-related changes in protein synthesis and subsequent muscle atrophy were generally considered inevitable until the discovery of the unique role of leucine for the activation of the mTOR signal complex for the initiation of MPS. Clinical studies demonstrated that older adults (>60 years) require meals with at least 2.8 g of leucine (~30 g of protein) to stimulate MPS. This meal requirement for leucine is not observed in younger adults (<30 years), who produce a nearly linear response of MPS in proportion to the protein content of a meal. These findings suggest that while the efficiency of dietary protein to stimulate MPS declines with aging, the capacity for MPS to respond is maintained if a meal provides adequate protein. While the meal response of MPS to total protein and leucine is established, the long-term impact on muscle mass and body composition remains less clear, at least in part, because the rate of change in muscle mass with aging is small. Because direct diet studies for meal distribution during aging are impractical, research groups have applied meal distribution and the leucine threshold to protein-sparing concepts during acute catabolic conditions such as weight loss. These studies demonstrate enhanced MPS at the first meal after an overnight fast and net sparing of lean body mass during weight loss. While the anabolic benefits of increased protein at the first meal to stimulate MPS are clear, the benefits to long-term changes in muscle mass and body composition in aging adults remain speculative.
+
+Impact of Dietary Protein Quantity and Macronutrients Composition on Body Composition: A Systematic Review, Pairwise, and Network Meta-Analysis
+
+Number of 
+
+Key takeaways:High-protein diets (HPD) positively impact body composition, but adjusting other macronutrients is also important for optimal results.
+
+The Role of Protein Intake and its Timing on Body Composition and Muscle Function in Healthy Adults: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+
+Number of 
+
+Key takeaways:Protein supplementation positively impacts lean body mass in adults and older adults, regardless of intake timing, but its effects on muscle strength and synthesis require further investigation.
+
+Abstract:BACKGROUND
+Increased protein intake has been suggested to improve gains in muscle mass and strength in adults. Furthermore, the timing of protein intake has been discussed as a margin of opportunity for improved prevention measures.
+
+OBJECTIVE
+This systematic review investigated the effect of protein supplementation on body composition and muscle function (strength and synthesis) in healthy adults, with an emphasis on the timing of protein intake.
+
+METHODS
+Randomized controlled trials were identified using PubMed, Web of Science, CINAHL, and Embase, up to March 2019. For meta-analyses, data on lean body mass (LBM), handgrip strength, and leg press strength were pooled by age group (mean age 18-55 or >55 y) and timing of protein intake. The quality of evidence was assessed using the Grading of Recommendations, Assessment, Development and Evaluations approach.
+
+RESULTS
+Data from 65 studies with 2907 participants (1514 men and 1380 women, 13 unknown sex) were included in the review. Twenty-six, 8, and 24 studies were used for meta-analysis on LBM, handgrip strength, and leg press strength, respectively. The protein supplementation was effective in improving (mean difference; 95% CI) LBM in adults (0.62 kg; 0.36, 0.88) and older adults (0.46 kg; 0.23, 0.70), but not handgrip strength (older adults: 0.26 kg; -0.51, 1.04) and leg press strength (adults: 5.80 kg; -0.33, 11.93; older adults: 1.97 kg; -2.78, 6.72). Sensitivity analyses removing studies without exercise training had no impact on the outcomes. Data regarding muscle synthesis were scarce and inconclusive. Subgroup analyses showed no beneficial effect of a specific timing of protein intake on LBM, handgrip strength, and leg press strength.
+
+CONCLUSION
+Overall, the results support the positive impact of protein supplementation on LBM of adults and older adults, independently of intake timing. Effects on muscle strength and synthesis are less clear and need further investigation. This systematic review was registered on PROSPERO as CRD42019126742.
+
+Reducing meat and/or dairy consumption in adults: a systematic review and meta-analysis of effects on protein intake, anthropometric values, and body composition
+
+Number of 
+
+Key takeaways:Reducing meat and/or dairy consumption in adults reduces protein intake without significantly impacting anthropometric values or body composition.
+
+Abstract:Abstract Context Consumers are increasingly encouraged to reduce meat and dairy consumption. However, few meta-analyses of randomized controlled trials (RCTs) on the effect of reducing meat and/or dairy on (absolute) protein intake, anthropometric values, and body composition are available. Objective The aim of this systematic review and meta-analysis was to evaluate the effect of reducing meat and/or dairy consumption on (absolute) protein intake, anthropometric values, and body composition in adults aged ≥ 45 years. Data Sources The MEDLINE, Cochrane CENTRAL, Embase, ClinicalTrials.gov, and International Clinical Trials Registry Platform databases were searched up to November 24, 2021. Data Extraction Randomized controlled trials reporting protein intake, anthropometric values, and body composition were included. Data Analysis Data were pooled using random-effects models and expressed as the mean difference (MD) with 95%CI. Heterogeneity was assessed and quantified using Cochran’s Q and I2 statistics. In total, 19 RCTs with a median duration of 12 weeks (range, 4–24 weeks) and a total enrollment of 1475 participants were included. Participants who consumed meat- and/or dairy-reduced diets had a significantly lower protein intake than those who consumed control diets (9 RCTs; MD, −14 g/d; 95%CI, −20 to −8; I2 = 81%). Reducing meat and/or dairy consumption had no significant effect on body weight (14 RCTs; MD, −1.2 kg; 95%CI, −3 to 0.7; I2 = 12%), body mass index (13 RCTs; MD, −0.3 kg/m2; 95%CI, −1 to 0.4; I2 = 34%), waist circumference (9 RCTs; MD, −0.5 cm; 95%CI, −2.1 to 1.1; I2 = 26%), amount of body fat (8 RCTs; MD, −1.0 kg; 95%CI, −3.0 to 1.0; I2 = 48%), or lean body mass (9 RCTs; MD, −0.4 kg; 95%CI, −1.5 to 0.7; I2 = 0%). Conclusion Reduction of meat and/or dairy appears to reduce protein intake. There is no evidence of a significant impact on anthropometric values or body composition. More long-term intervention studies with defined amounts of meat and dairy are needed to investigate the long-term effects on nutrient intakes and health outcomes. Systematic Review Registration PROSPERO registration no. CRD42020207325.
+
+A high protein diet (3.4 g/kg/d) combined with a heavy resistance training program improves body composition in healthy trained men and women – a follow-up investigation
+
+Number of 
+
+Key takeaways:A high protein diet (3.4 g/kg/d) combined with a heavy resistance-training program may improve body composition and performance in healthy trained men and women without causing deleterious effects.
+
+Abstract:Background The consumption of a high protein diet (>4 g/kg/d) in trained men and women who did not alter their exercise program has been previously shown to have no significant effect on body composition. Thus, the purpose of this investigation was to determine if a high protein diet in conjunction with a periodized heavy resistance training program would affect indices of body composition, performance and health.Methods Forty-eight healthy resistance-trained men and women completed this study (mean ± SD; Normal Protein group : 24.8 ± 6.9 yr; 174.0 ± 9.5 cm height; 74.7 ± 9.6 kg body weight; 2.4 ± 1.7 yr of training; High Protein group : 22.9 ± 3.1 yr; 172.3 ± 7.7 cm; 74.3 ± 12.4 kg; 4.9 ± 4.1 yr of training). Moreover, all subjects participated in a split-routine, periodized heavy resistance-training program. Training and daily diet logs were kept by each subject. Subjects in the NP and HP groups were instructed to consume their baseline (~2 g/kg/d) and >3 g/kg/d of dietary protein, respectively.Results Subjects in the NP and HP groups consumed 2.3 and 3.4 g/kg/day of dietary protein during the treatment period. The NP group consumed significantly (p < 0.05) more protein during the treatment period compared to their baseline intake. The HP group consumed more (p < 0.05) total energy and protein during the treatment period compared to their baseline intake. Furthermore, the HP group consumed significantly more (p < 0.05) total calories and protein compared to the NP group. There were significant time by group (p ≤ 0.05) changes in body weight (change: +1.3 ± 1.3 kg NP, −0.1 ± 2.5 HP), fat mass (change: −0.3 ± 2.2 kg NP, −1.7 ± 2.3 HP), and % body fat (change: −0.7 ± 2.8 NP, −2.4 ± 2.9 HP). The NP group gained significantly more body weight than the HP group; however, the HP group experienced a greater decrease in fat mass and % body fat. There was a significant time effect for FFM; however, there was a non-significant time by group effect for FFM (change: +1.5 ± 1.8 NP, +1.5 ± 2.2 HP). Furthermore, a significant time effect (p ≤ 0.05) was seen in both groups vis a vis improvements in maximal strength (i.e., 1-RM squat and bench) vertical jump and pull-ups; however, there were no significant time by group effects (p ≥ 0.05) for all exercise performance measures. Additionally, there were no changes in any of the blood parameters (i.e., basic metabolic panel).Conclusion Consuming a high protein diet (3.4 g/kg/d) in conjunction with a heavy resistance-training program may confer benefits with regards to body composition. Furthermore, there is no evidence that consuming a high protein diet has any deleterious effects.
+
+Effect of proteins from different sources on body composition.
+
+Number of 
+
+Key takeaways:High-protein diets enhance energy expenditure, satiety, and fat loss, but the impact of protein source on body composition remains inconclusive.
+
+The effects of a high protein diet on indices of health and body composition – a crossover trial in resistance-trained men
+
+Number of 
+
+Key takeaways:A high protein diet (2.6 to 3.3 g/kg/day) in resistance-trained young men does not affect blood lipids, kidney function, performance, or body composition, and has no harmful effects.
+
+Abstract:Background Eight weeks of a high protein diet (>3 g/kg/day) coupled with a periodized heavy resistance training program has been shown to positively affect body composition with no deleterious effects on health. Using a randomized, crossover design, resistance-trained male subjects underwent a 16-week intervention (i.e., two 8-week periods) in which they consumed either their normal (i.e., habitual) or a higher protein diet (>3 g/kg/day). Thus, the purpose of this study was to ascertain if significantly increasing protein intake would affect clinical markers of health (i.e., lipids, kidney function, etc.) as well as performance and body composition in young males with extensive resistance training experience.Methods Twelve healthy resistance-trained men volunteered for this study (mean ± SD: age 25.9 ± 3.7 years; height 178.0 ± 8.5 cm; years of resistance training experience 7.6 ± 3.6) with 11 subjects completing most of the assessments. In a randomized crossover trial, subjects were tested at baseline and after two 8-week treatment periods (i.e., habitual diet and high protein diet) for body composition, measures of health (i.e., blood lipids, comprehensive metabolic panel) and performance. Each subject maintained a food diary for the 16-week treatment period (i.e., 8 weeks on their normal or habitual diet and 8 weeks on a high protein diet). Each subject provided a food diary of two weekdays and one weekend day per week. In addition, subjects kept a diary of their training regimen that was used to calculate total work performed.Results During the normal and high protein phase of the treatment period, subjects consumed 2.6 ± 0.8 and 3.3 ± 0.8 g/kg/day of dietary protein, respectively. The mean protein intake over the 4-month period was 2.9 ± 0.9 g/kg/day. The high protein group consumed significantly more calories and protein (p < 0.05) than the normal protein group. There were no differences in dietary intake between the groups for any other measure. Moreover, there were no significant changes in body composition or markers of health in either group. There were no side effects (i.e., blood lipids, glucose, renal, kidney function etc.) regarding high protein consumption.Conclusion In resistance-trained young men who do not significantly alter their training regimen, consuming a high protein diet (2.6 to 3.3 g/kg/day) over a 4-month period has no effect on blood lipids or markers of renal and hepatic function. Nor were there any changes in performance or body composition. This is the first crossover trial using resistance-trained subjects in which the elevation of protein intake to over four times the recommended dietary allowance has shown no harmful effects.
+
+Effects of variation in protein and carbohydrate intake on body mass and composition during energy restriction: a meta-regression 1.
+
+Number of 
+
+Key takeaways:Low-carbohydrate, high-protein diets positively impact body mass and composition beyond just energy restriction, supporting the proposed metabolic advantage of these diets.
+
+Abstract:BACKGROUND
+It is unclear whether low-carbohydrate, high-protein, weight-loss diets benefit body mass and composition beyond energy restriction alone.
+
+OBJECTIVE
+The objective was to use meta-regression to determine the effects of variations in protein and carbohydrate intakes on body mass and composition during energy restriction.
+
+DESIGN
+English-language studies with a dietary intervention of > or =4200 kJ/d (1000 kcal/d), with a duration of > or =4 wk, and conducted in subjects aged > or =19 y were considered eligible for inclusion. A self-reported intake in conjunction with a biological marker of macronutrient intake was required as a minimum level of dietary control. A total of 87 studies comprising 165 intervention groups met the inclusion criteria.
+
+RESULTS
+After control for energy intake, diets consisting of < or =35-41.4% energy from carbohydrate were associated with a 1.74 kg greater loss of body mass, a 0.69 kg greater loss of fat-free mass, a 1.29% greater loss in percentage body fat, and a 2.05 kg greater loss of fat mass than were diets with a higher percentage of energy from carbohydrate. In studies that were conducted for >12 wk, these differences increased to 6.56 kg, 1.74 kg, 3.55%, and 5.57 kg, respectively. Protein intakes of >1.05 g/kg were associated with 0.60 kg additional fat-free mass retention compared with diets with protein intakes < or =1.05 g/kg. In studies conducted for >12 wk, this difference increased to 1.21 kg. No significant effects of protein intake on loss of either body mass or fat mass were observed.
+
+CONCLUSION
+Low-carbohydrate, high-protein diets favorably affect body mass and composition independent of energy intake, which in part supports the proposed metabolic advantage of these diets.
+
+Protein intake and body-weight regulation
+
+Number of 
+
+Key takeaways:Elevated protein intake plays a key role in body-weight management through increased satiety, thermogenesis, body composition, and decreased energy-efficiency, leading to larger weight loss and stronger maintenance.
+
+Relationship of protein, calcium and vitamin D consumption with body composition and fractures in oldest-old independent people.
+
+Number of 
+
+Key takeaways:In 80-year-old independent people, only dietary protein intake is associated with body composition and bone mineral density, but not fracture risk, while those with fractures are more likely to be obese with low muscle mass.
+
+The impact of dietary protein intake on longevity and metabolic health
+
+Number of 
+
+Key takeaways:A low-protein/high-carbohydrate diet, particularly low in red meat, may promote longevity and metabolic health, while excessive protein intake may promote age-related diseases.
+
+Does Protein Intake Affect Metabolic Risk Factors among Older Adults in Korea?
+
+Number of 
+
+Key takeaways:Lower protein intake (0.8 g protein/kg body weight/day) is associated with a higher risk of metabolic abnormalities in Korean older adults, particularly in women.
+
+Abstract:Background Carbohydrate intake can impact metabolic risk factors, but related research on protein intake in the elderly is rare. Our purpose was to estimate protein intake and explore how different levels of protein intake influence metabolic risk factors in Korean older adults. Methods Data were obtained from men aged 51–70 years (n=1,735), men aged ≥71 years (n=700), women aged 51–70 years (n=2,305), and women aged ≥71 years (n=957). Health and dietary data were obtained from the Korean National Health and Nutrition Examination Survey of 2010–2011. Results Relative to the recommended protein intake based on the Dietary Reference Intakes for Koreans, inadequate intake was higher in women and super-aging groups than in others. Women had an increased risk of having metabolic risk factors. After adjustment for age and sex, compared with those in the highest quartile of protein intake levels (>1.2 g protein/kg body weight/day), participants in the lowest quartile (<0.8 g protein/kg body weight/day) had increased odds ratios (ORs) for abdominal obesity (men: OR, 2.67; 95% confidence interval , 2.00–3.56; women: OR, 3.42; 95% CI, 2.64–4.43), hypertriglyceridemia (men: OR, 1.44; 95% CI, 1.08–1.93; women: OR, 1.82; 95% CI, 1.45–2.29), and high fasting blood glucose (men: OR, 1.41; 95% CI, 1.07–1.87; women: OR, 2.03; 95% CI, 1.48–2.79). Conclusion Protein intake (<0.8 g protein/kg body weight/day) lower than the recommend level was associated with a higher risk of metabolic abnormalities in Korean older adults. In particular, lower intake of protein contributed to a higher prevalence of metabolic risk factors in women than in men.
+
+Protein Restriction in Metabolic Health: Lessons from Rodent Models
+
+Number of 
+
+Key takeaways:Protein-restricted diets can lead to body weight loss and improved metabolic health, particularly in overweight or obese adults, through the FGF21 signaling pathway.
+
+Abstract:Consumption of protein-rich diets and supplements has been increasingly advocated by individuals seeking to optimize metabolic health and mitigate the effects of aging. Protein intake is postulated to support muscle mass retention and enhance longevity, underscoring its perceived benefits in age-related metabolic regulation. However, emerging evidence presents a paradox; while moderate protein consumption contributes to health maintenance, an excessive intake is associated with an elevated risk of chronic diseases, notably obesity and diabetes. Furthermore, recent studies suggest that reducing the ratio of protein intake to macronutrients improves metabolic parameters and extends lifespan. The aim of this study is to review the current evidence concerning the metabolic effects of protein-restricted diets and their potential mechanisms. Utilizing rodent models, investigations have revealed that protein-restricted diets exert a notable influence over food intake and energy consumption, ultimately leading to body weight loss, depending on the degree of dietary protein restriction. These phenotypic alterations are primarily mediated by the FGF21 signaling pathway, whose activation is likely regulated by ATF4 and the circadian clock. The evidence suggests that protein-restricted diets as an alternative approach to calorie-restricted regimes, particularly in overweight or obese adults. However, more research is needed to determine the optimal level of restriction, duration, and long-term effects of such interventions.
+
+Decreased Consumption of Branched-Chain Amino Acids Improves Metabolic Health.
+
+Number of 
+
+Key takeaways:A moderate protein-restricted diet improves metabolic health in humans, with branched-chain amino acids playing a key role in glucose tolerance and body composition.
+
+Controversies surrounding high-protein diet intake: satiating effect and kidney and bone health.
+
+Number of 
+
+Key takeaways:High-protein diets may help with weight loss and maintenance, but long-term intake may cause kidney and bone health issues.
+
+Abstract:Long-term consumption of a high-protein diet could be linked with metabolic and clinical problems, such as loss of bone mass and renal dysfunction. However, although it is well accepted that a high-protein diet may be detrimental to individuals with existing kidney dysfunction, there is little evidence that high protein intake is dangerous for healthy individuals. High-protein meals and foods are thought to have a greater satiating effect than high-carbohydrate or high-fat meals. The effect of high-protein diets on the modulation of satiety involves multiple metabolic pathways. Protein intake induces complex signals, with peptide hormones being released from the gastrointestinal tract and blood amino acids and derived metabolites being released in the blood. Protein intake also stimulates metabolic hormones that communicate information about energy status to the brain. Long-term ingestion of high amounts of protein seems to decrease food intake, body weight, and body adiposity in many well-documented studies. The aim of this article is to provide an extensive overview of the efficacy of high protein consumption in weight loss and maintenance, as well as the potential consequences in human health of long-term intake.
+
+Impact of dietary carbohydrate type and protein–carbohydrate interaction on metabolic health
+
+Number of 
+
+Key takeaways:Dietary carbohydrate quality significantly impacts metabolic health, with resistant starch being the healthiest option for low-protein, high-carbohydrate diets, while fructose and glucose mixtures are detrimental.
+
+Effects of Dietary Protein Source and Quantity during Weight Loss on Appetite, Energy Expenditure, and Cardio-Metabolic Responses
+
+Number of 
+
+Key takeaways:Dietary protein source and quantity have minimal effects on appetite control, energy expenditure, and cardio-metabolic risk factors during energy restriction-induced weight loss in overweight and obese adults.
+
+Abstract:Higher protein meals increase satiety and the thermic effect of feeding (TEF) in acute settings, but it is unclear whether these effects remain after a person becomes acclimated to energy restriction or a given protein intake. This study assessed the effects of predominant protein source (omnivorous, beef/pork vs. lacto-ovo vegetarian, soy/legume) and quantity (10%, 20%, or 30% of energy from protein) on appetite, energy expenditure, and cardio-metabolic indices during energy restriction (ER) in overweight and obese adults. Subjects were randomly assigned to one protein source and then consumed diets with different quantities of protein (4 weeks each) in a randomized crossover manner. Perceived appetite ratings (free-living and in-lab), TEF, and fasting cardio-metabolic indices were assessed at the end of each 4-week period. Protein source and quantity did not affect TEF, hunger, or desire to eat, other than a modestly higher daily composite fullness rating with 30% vs. 10% protein diet (p = 0.03). While the 20% and 30% protein diets reduced cholesterol, triacylglycerol, and APO-B vs. 10% protein (p < 0.05), protein source did not affect cardio-metabolic indices. In conclusion, diets varying in protein quantity with either beef/pork or soy/legume as the predominant source have minimal effects on appetite control, energy expenditure and cardio-metabolic risk factors during ER-induced weight loss.
+
+A liver stress-endocrine nexus promotes metabolic integrity during dietary protein dilution.
+
+Number of 
+
+Key takeaways:Dietary protein dilution improves glucose homeostasis in obese mice and humans through an NEAA insufficiency-induced liver NUPR1/FGF21 axis, potentially reducing the risk of type 2 diabetes.
+
+Abstract:Dietary protein intake is linked to an increased incidence of type 2 diabetes (T2D). Although dietary protein dilution (DPD) can slow the progression of some aging-related disorders, whether this strategy affects the development and risk for obesity-associated metabolic disease such as T2D is unclear. Here, we determined that DPD in mice and humans increases serum markers of metabolic health. In lean mice, DPD promoted metabolic inefficiency by increasing carbohydrate and fat oxidation. In nutritional and polygenic murine models of obesity, DPD prevented and curtailed the development of impaired glucose homeostasis independently of obesity and food intake. DPD-mediated metabolic inefficiency and improvement of glucose homeostasis were independent of uncoupling protein 1 (UCP1), but required expression of liver-derived fibroblast growth factor 21 (FGF21) in both lean and obese mice. FGF21 expression and secretion as well as the associated metabolic remodeling induced by DPD also required induction of liver-integrated stress response-driven nuclear protein 1 (NUPR1). Insufficiency of select nonessential amino acids (NEAAs) was necessary and adequate for NUPR1 and subsequent FGF21 induction and secretion in hepatocytes in vitro and in vivo. Taken together, these data indicate that DPD promotes improved glucose homeostasis through an NEAA insufficiency-induced liver NUPR1/FGF21 axis.
+
+A Systematic Review of the Effects of Plant Compared with Animal Protein Sources on Features of Metabolic Syndrome.
+
+Number of 
+
+Key takeaways:Soy protein with isoflavones may prevent the onset of cardiovascular disease risk factors like hypercholesterolemia and hypertension, but further research is needed on glucose homeostasis and body composition.
+
+Abstract:Dietary protein may play an important role in the prevention of metabolic dysfunctions. However, the way in which the protein 
+
+Effects of Varying Protein Amounts and Types on Diet-Induced Thermogenesis: A Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:Higher protein meals/diets increase components of energy expenditure, but different types of protein do not significantly impact energy metabolism.
+
+Digging deep for nutrients and metabolites derived from high dietary protein intake and their potential functions in metabolic health.
+
+Number of 
+
+Key takeaways:High dietary protein intake from dairy, meat, or plants can affect body weight and metabolic health, with varying gut and systemic effects.
+
+Abstract:Intake of high quantities of dietary proteins sourced from dairy, meat or plants can affect body weight and metabolic health in humans. To improve our understanding of how this may be achieved, we reviewed the data related to the availability of nutrients and metabolites in the faeces, circulation and urine. All protein sources (≥20% by energy) increased faecal levels of branched chain fatty acids and ammonia, and decreased the levels of butyrate. There were metabolites responding to dairy and meat proteins (branch chain amino acids) as well as dairy and plant proteins (p-cresol), which were increased in faecal matter. Specific to dairy protein intake, the faecal levels of acetate, indole and phenol were increased, whereas plant protein intake specifically increased the levels of kynurenine and tyramine. Meat protein intake increased the faecal levels of methionine, cysteine and alanine, and decreased the levels of propionate and acetate. The metabolite profile in the faecal matter following dairy protein intake mirrored availability in circulation or urine. These findings provide an understanding of the contrasting gut versus systemic effects of different dietary proteins, which we know to show different physiological effects. In this regard, we provide directions to determining the mechanisms for the effects of different dietary proteins.
+
+Beef, Casein, and Soy Proteins Differentially Affect Lipid Metabolism, Triglycerides Accumulation and Gut Microbiota of High-Fat Diet-Fed C57BL/6J Mice
+
+Number of 
+
+Key takeaways:High-fat diets increase metabolic syndromes and gut inflammation, while consuming beef, casein, and soy protein differently affect lipid metabolism and gut microbiota composition.
+
+Abstract:Consumption of dietary protein at recommended levels is considered a potential strategy to promote satiety and weight management, but how protein from different dietary sources effect the obesity development, lipid metabolism, and gut microbiota is not known. This study focused on the effects of beef, casein, and soy protein diet on lipid metabolism, triglycerides accumulation, and microbial diversity in colon of C57BL/6J mice, which were given either low-fat diets (LFD, 12% Kcal) or high-fat diets (HFD, 60% Kcal) for 12 weeks. Body and liver weight increased significantly in mice fed a beef protein HFD (HFB), whereas reduced cumulative energy intake was seen in a soy protein HFD (HFS) group. HFB-fed mice showed signs of impaired glucose metabolism and insulin resistance along with a significant elevation in the concentration of triglycerides, LDL-cholesterol, total cholesterol, IL1β, TNF-α, IL-6, and leptin in serum. HFB also enhanced lipid accumulation in liver with increased activity of genes important for lipogenesis and hepatic cholesterol metabolism. A 16S rRNA gene sequencing indicated that HFD, regardless of proteins, significantly enhanced the ratio of Firmicutes to Bacteroidetes in colonic microbiota. However, HFB not only reduced the abundance of Akkermansia, compared with LFD independent of proteins, but also decreased the abundance of butyrate-producing bacteria such as Anaerotruncus, Butyricicoccus, and Lactobacillus (P < 0.05) compared with HFS and HFC. In conclusion, consumption of HFB does not only affect the gut microbiota composition but also increases the problems related to metabolic syndromes like dyslipidemia, hypercholesterolemia, and triglycerides accumulation in liver, which lead to systemic inflammation and its associated comorbidities, for example, impaired glucose metabolism and insulin resistance.
+
+The long-term association of different dietary protein sources with metabolic syndrome
+
+Number of 
+
+Key takeaways:Higher consumption of total protein, animal and plant proteins is associated with reduced risk of metabolic syndrome, while processed meat and legumes/soy show no significant association.
+
+Protein 
+
+Number of 
+
+Key takeaways:Higher intake of animal protein significantly decreases the risk of developing metabolic syndrome, particularly among those consuming less than the recommended nutrient intake.
+
+Milk protein for improved metabolic health: a review of the evidence
+
+Number of 
+
+Key takeaways:Milk protein may aid in improving metabolic health by promoting lean body mass, satiety, and skeletal muscle growth through anabolic effects of branch chain amino acids.
+
+Abstract:Epidemiological evidence shows that consumption of dairy products is associated with decreased prevalence of metabolic related disorders, whilst evidence from experimental studies points towards dairy protein as a dietary component which may aid prevention of type 2 diabetes (T2DM). Poor metabolic health is a common characteristic of overweight, obesity and aging, and is the forerunner of T2DM and cardiovascular disease (CVD), and an ever increasing global health issue. Progressive loss of metabolic control is evident from a blunting of carbohydrate, fat and protein metabolism, which is commonly manifested through decreased insulin sensitivity, inadequate glucose and lipid control, accompanied by a pro-inflammatory environment and hypertension. Adverse physiological changes such as excess visceral adipose tissue deposition and expansion, lipid overspill and infiltration into liver, muscle and other organs, and sarcopaenia or degenerative loss of skeletal muscle mass and function all underpin this adverse profile. ‘Sarcobesity’ and sarcopaenic diabetes are rapidly growing health issues. As well as through direct mechanisms, dairy protein may indirectly improve metabolic health by aiding loss of body weight and fat mass through enhanced satiety, whilst promoting skeletal muscle growth and function through anabolic effects of dairy protein-derived branch chain amino acids (BCAAs). BCAAs enhance muscle protein synthesis, lean body mass and skeletal muscle metabolic function. The composition and processing of dairy protein has an impact on digestion, absorption, BCAA kinetics and function, hence the optimisation of dairy protein composition through selection and combination of specific protein components in milk may provide a way to maximize benefits for metabolic health.
+
+Resting Metabolic Rate and Substrate Utilization during Energy and Protein Availability in Male and Female Athletes
+
+Number of 
+
+Key takeaways:Low energy and protein availability in athletes can lead to lower fat utilization and resting metabolic rate, while sufficient protein intake can lead to excessive protein utilization and excessive calorie consumption.
+
+Abstract:Active athletes frequently develop low energy (LEA) and protein availabilities (LPA) with consequent changes in the vital metabolic processes, especially resting metabolic rate (RMR) and substrate utilization. This study investigated the association of energy and protein intakes with RMR and substrate utilization in male and female athletes and those with LEA and LPA. Sixty athletes (35% female, 26.83 ± 7.12 y) were enrolled in this study. Anthropometric measurements and body composition analysis were reported to estimate fat-free mass (eFFM). Dietary intakes were recorded by two-day multiple-pass 24 h recall records and three-day food records and then analyzed by food processor software to calculate protein intake (PI) and energy intake (EI). Indirect calorimetry was used to measure RMR and percentages of substrate utilization. Activity–energy expenditure (AEE) was assessed by using an Actighrphy sensor for three days. Energy availability was calculated using the following formula (EA = EI − AEE/eFFM). The correlation of EI and PI with RMR and substrate utilization was tested with Pearson correlation. In the LEA group, both EI and PI correlated positively with RMR (r = 0.308, 0.355, respectively, p < 0.05). In addition, EI showed a positive correlation with the percentage of fat utilization. In the male and sufficient-PA groups, PI correlated positively with the RMR and negatively with the percentage of protein utilization. In conclusion, the percentage of LEA is markedly prevalent in our sample, with a higher prevalence among males. Athletes with LEA had lower fat utilization and lower RMR, while those with sufficient PA showed lower protein utilization with excessive PI. These findings may explain the metabolic responses in the cases of LEA and LPA.
+
+The varied effects of protein intake during infancy, childhood, and adolescence: Associations with growth metrics, body composition, and pubertal development timelines
+
+Number of 
+
+Key takeaways:Optimal protein intake during childhood is crucial for supporting growth, body composition, and metabolic health, with balanced consumption promoting optimal growth and preventing obesity.
+
+Abstract:Introduction: Protein plays a crucial role in the growth and development of children, impacting various physiological functions and long-term health outcomes. Understanding the optimal protein intake during the dynamic stages of childhood is essential due to its significant implications for metabolic and hormonal pathways, as well as its association with childhood obesity and malnutrition. Review Methods: The review involved a systematic examination of existing literature, focusing on studies that explored the relationship between protein intake and children's growth, development, and health outcomes. Databases such as PubMed, Scopus, and Web of Science were searched using specific keywords, with the selection criteria emphasizing peer-reviewed articles, clinical trials, and observational studies in English, excluding non-human studies. Results: The analysis indicates that protein intake has a pivotal influence on children's growth patterns, body composition, and metabolic health. Findings suggest that both excessive and insufficient protein consumption can have adverse effects, highlighting the importance of balanced protein intake. The review also points out the critical impact of maternal dietary quality on infant growth and underscores the significance of protein 
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

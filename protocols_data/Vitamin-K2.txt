@@ -1,0 +1,548 @@
+PROTOCOL: Vitamin K2
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Supplementation with vitamin K2 is not recommended for individuals taking oral anticoagulants (warfarin) due to pharmacological contraindications, as well as for those with hypersensitivity to the supplement ingredients.
+DESCRIPTION: Vitamin K2 supports bone mineralization, improves insulin sensitivity, and inhibits vascular calcification, translating into benefits for the musculoskeletal, metabolic, and cardiovascular systems. K2 supplementation may reduce fracture risk, improve glycemic control, and slow the progression of arterial calcification.
+
+CONTENT SECTIONS:
+
+Improved bone, metabolic, and cardiovascular health
+
+Vitamin K2 supports bone mineralization, improves insulin sensitivity, and inhibits vascular calcification, translating into benefits for the musculoskeletal, metabolic, and cardiovascular systems. K2 supplementation may reduce fracture risk, improve glycemic control, and slow the progression of arterial calcification.
+
+Level of evidence:Good
+
+Level of risk:Negligible
+
+Vitamin K2 acts as a cofactor in the carboxylation of vitamin K-dependent proteins such as osteocalcin and matrix Gla protein (MGP). Carboxylation of osteocalcin supports calcium binding in bones, while activated MGP inhibits calcium deposition in blood vessels. Additionally, K2 influences the expression of genes responsible for glucose and fat metabolism, improving insulin sensitivity and promoting fat degradation.
+
+Level of risk:Negligible
+
+Supplementation with vitamin K2 is generally well tolerated by most people, but mild gastrointestinal discomfort may occur at higher doses.
+
+Supplementation with vitamin K2 is not recommended for individuals taking oral anticoagulants (warfarin) due to pharmacological contraindications, as well as for those with hypersensitivity to the supplement ingredients.
+
+100–360 µg of vitamin K2 (MK-7) per day
+
+Capsules, tablets, softgels (MK-7), powder
+
+Initial effects visible after 4–8 weeks, full benefits after 3–6 months
+
+Take with a meal containing fat
+
+Take 360 µg/day for 7 days, then 180 µg/day as a maintenance dose
+
+Supplementation together with vitamin D3 and calcium
+
+Co-administration with D3 (25 µg/day) and calcium enhances the effect on bone health
+
+Avoid concurrent intake with anticoagulants
+
+People on warfarin should consult a doctor before taking K2
+
+Take with a high-fat meal
+
+The presence of fats improves the absorption of vitamin K2
+
+Vitamin K2 supplementation supports musculoskeletal health by improving bone mineralization and density and protecting joints from degradation.
+
+Vitamin K2 supports metabolic health by improving insulin sensitivity, regulating glucose levels, and supporting fat reduction.
+
+Effect on glucose metabolism and insulin resistance
+
+Effect on fat metabolism and body weight
+
+Cardiovascular system
+
+Vitamin K2 protects the cardiovascular system mainly by inhibiting vascular calcification and improving arterial elasticity.
+
+Clinical and observational study results
+
+Limitations and uncertainties
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:53
+
+Final comment:The evidence for the effectiveness of vitamin K2 in improving bone mineralization is based on numerous meta-analyses and randomized controlled trials (RCTs) in humans; additional RCTs and observational studies confirm improved insulin sensitivity and reduction of metabolic markers, while in the context of the cardiovascular system, observational data and RCT protocols dominate, indicating the need for further clinical research.
+
+Effect of vitamin K in bone metabolism and vascular calcification: A review of mechanisms of action and evidences
+
+Number of 
+
+Key takeaways:Vitamin K2 can promote bone formation and reduce vascular calcification, potentially benefiting osteoporotic post-menopausal women.
+
+Abstract:ABSTRACT Osteoporosis is a public health concern associated with an increased risk of bone fractures and vascular calcification. Vitamin K presents unique benefits on these issues, although understudied. The two main forms of vitamin K are phylloquinone (vitamin K1) and menaquinone (vitamin K2). In this study, it was especially investigated the action of vitamin K2 in bones and vessels. Vitamin K2 has shown to stimulate bone formation by promoting osteoblast differentiation and carboxylation of osteocalcin, and increasing alkaline phosphatase, insulin-like growth factor-1, growth differentiation factor-15, and stanniocalcin 2 levels. Furthermore, vitamin K2 reduces the pro-apoptotic proteins Fas and Bax in osteoblasts, and decreases osteoclast differentiation by increasing osteoprotegerin and reducing the receptor activator of nuclear factor kappa-B ligand. In blood vessels, vitamin K2 reduces the formation of hydroxyapatite, through the carboxylation of matrix Gla protein and Gla rich protein, inhibits the apoptosis of vascular smooth muscle cells, by increasing growth arrest-specific gene 6, and reduces the transdifferentiation of vascular smooth muscle cells to osteoblasts. The commonly used dosage of vitamin K2 in human studies is 45 mg/day and its application can be an interesting strategy in benefitting bone and vascular health, especially to osteoporotic post-menopausal women.
+
+Regulation of bone remodeling by vitamin K2.
+
+Number of 
+
+Key takeaways:Vitamin K2 promotes bone health and inhibits vascular calcification, potentially aiding in the prevention and treatment of osteoporosis.
+
+Abstract:All living tissues require essential nutrients such as amino acids, fatty acids, carbohydrates, minerals, vitamins, and water. The skeleton requires nutrients for development, maintaining bone mass and density. If the skeletal nutritional requirements are not met, the consequences can be quite severe. In recent years, there has been growing interest in promotion of bone health and inhibition of vascular calcification by vitamin K2. This vitamin regulates bone remodeling, an important process necessary to maintain adult bone. Bone remodeling involves removal of old or damaged bone by osteoclasts and its replacement by new bone formed by osteoblasts. The remodeling process is tightly regulated, when the balance between bone resorption and bone formation shifts to a net bone loss results in the development of osteoporosis in both men and women. In this review, we focus on our current understanding of the effects of vitamin K2 on bone cells and its role in prevention and treatment of osteoporosis.
+
+Vitamin K2 ameliorates osteoarthritis by suppressing ferroptosis and extracellular matrix degradation through activation GPX4's dual functions.
+
+Number of 
+
+Key takeaways:Vitamin K2 reduces osteoarthritis pain and inflammation by suppressing ferroptosis and extracellular matrix degradation through activation of GPX4's dual functions.
+
+Efficacy of vitamin K2 in the prevention and treatment of postmenopausal osteoporosis: A systematic review and meta-analysis of randomized controlled trials
+
+Number of 
+
+Key takeaways:Vitamin K2 supplementation can improve bone mineral density and reduce fracture incidence in postmenopausal women, but has no significant effect on carboxylated osteocalcin levels.
+
+Abstract:Introduction Vitamin K (VK) as a nutrient, is a cofactor in the carboxylation of osteocalcin (OC), which can bind with hydroxyapatite to promote bone mineralization and increase bone strength. However, some studies have been inconsistent on whether vitamin K2 (VK2) can maintain or improve bone mineral density (BMD) and reduce the incidence of fractures in postmenopausal women. Therefore, the main objective of this meta-analysis was to determine the effect of VK2 as a nutritional supplement on BMD and fracture incidence in postmenopausal women. Methods We searched PubMed, EMBASE, and Cochrane Library databases (published before March 17, 2022) and then extracted and pooled data from all randomized controlled trials (RCTs) that met the inclusion criteria. Results Sixteen RCTs with a total of 6,425 subjects were included in this meta-analysis. The overall effect test of 10 studies showed a significant improvement in lumbar spine BMD (BMD LS) (P = 0.006) with VK2. The subgroup analysis of VK2 combination therapy showed that BMD LS was significantly maintained and improved with the administration of VK2 (P = 0.03). The overall effect test of the six RCTs showed no significant difference in fracture incidence between the two groups (RR=0.96, P=0.65). However, after excluding one heterogeneous study, the overall effect test showed a significant reduction in fracture incidence with VK2 (RR = 0.43, P = 0.01). In addition, this meta-analysis showed that VK2 reduced serum undercarboxylated osteocalcin (uc-OC) levels and the ratio of uc-OC to cOC in both subgroups of VK2 combined intervention and alone. However, for carboxylated osteocalcin (cOC), both subgroup analysis and overall effect test showed no significant effect of VK2 on it. And the pooled analysis of adverse reactions showed no significant difference between the VK2 and control groups (RR = 1.03, 95%CI 0.87 to 1.21, P = 0.76). Conclusions The results of this meta-analysis seem to indicate that VK2 supplementation has a positive effect on the maintenance and improvement of BMD LS in postmenopausal women, and it can also reduce the fracture incidence, serum uc-OC levels and the ratio of uc-OC to cOC. In conclusion, VK2 can indirectly promote bone mineralization and increase bone strength.
+
+Effects of vitamin K supplementation on bone mineral density at different sites and bone metabolism in the middle-aged and elderly population
+
+Number of 
+
+Key takeaways:Vitamin K supplementation improves bone health by enhancing the carboxylation of osteocalcin, rather than altering the total amount of osteocalcin.
+
+Abstract:Aims This meta-analysis and systematic review aimed to comprehensively investigate the effects of vitamin K supplementation on bone mineral density (BMD) at various sites and bone metabolism in middle-aged and older adults. Methods The databases of PubMed, Web of Science, and Cochrane Library were thoroughly searched from inception to July 2023. Results The results revealed that vitamin K supplementation increased BMD at the lumbar spine (p = 0.035). Moreover, the pooled effects demonstrated a notable increase in carboxylated osteocalcin (cOC) (p = 0.004), a decrease in uncarboxylated osteocalcin (ucOC) (p < 0.001), and no significant effect on total osteocalcin (tOC) (p = 0.076). Accordingly, the ratio of cOC to ucOC (p = 0.002) significantly increased, while the ratio of ucOC to tOC decreased (p = 0.043). However, there was no significant effect of vitamin K supplementation on other bone metabolism markers, such as cross-linked telopeptide of type 1 collagen (NTx), bone alkaline phosphatase (BAP), and procollagen I N-terminal propeptide (PINP). Subgroup analysis revealed that vitamin K notably enhanced bone health in females by increasing lumbar spine BMD (p = 0.028) and decreasing ucOC (p < 0.001). Vitamin K, especially vitamin K2, exhibited effects on maintaining or increasing lumbar spine BMD, and influencing the balance of cOC and ucOC. Conclusion This review suggests that the beneficial effects of vitamin K supplementation on bone health primarily involve enhancing the carboxylation of OC rather than altering the total amount of OC. Cite this article: Bone Joint Res 2024;13(12):750–763.
+
+Effect of Low-Dose Vitamin K2 Supplementation on Bone Mineral Density in Middle-Aged and Elderly Chinese: A Randomized Controlled Study
+
+Number of 
+
+Key takeaways:Low-dose vitamin K2 supplementation of 90 g/day significantly reduces bone loss in postmenopausal women, but co-supplementation with calcium and vitamin D_3 shows no additional effects.
+
+Abstract:Previous studies indicated a positive effect of vitamin K2 (VK2) supplementation on bone turnover biomarkers and bone mineral density (BMD), but the doses varied, and few studies have focused on the difference between VK2 supplementation alone and in combination with calcium and vitamin D_3. The aim of this study was to explore a low and effective dose of VK2 for improving BMD, and to examine whether the co-supplementation of VK2, calcium and vitamin D_3 would bring greater effects. In this trial, a total of 311 community-dwelling men and postmenopausal women aged 50 and 75 years were randomly assigned to four groups, receiving placebo, 50 µg/day, 90 µg/day or co-supplementation with calcium (500 mg/day) and vitamin D_3 (10 µg/day) for 1 year. At the endpoint, the bone loss of femoral neck was significantly lower in postmenopausal women in the two 90 µg groups (treatment × time, p = 0.006) compared with placebo, but no effects in men. Serum biomarkers cOC/ucOC ratio increased in the intervention groups (treatment × time, p < 0.001). VK2 supplementation in dose of 90 µg/day performed a significant effect on reducing bone loss in postmenopausal women, but in combination with calcium and vitamin D_3 brought no additional effects.Trial registration This trial was registered at as chiCTR1800019240.
+
+Effect of Vitamin K2 Alone or in Combination on Various Bone Turnover Markers Amongst Postmenopausal Females
+
+Number of 
+
+Key takeaways:Vitamin K2 supplementation combined with vitamin D and calcium can improve bone mineral density and reduce bone turnover markers in postmenopausal women, but it cannot replace existing treatment options and should be used cautiously.
+
+Abstract:Background Osteoporosis is common in postmenopausal women. Some studies have demonstrated the usefulness of vitamin K through the action of bone-specific proteins and osteoblast and osteoclast activities. However, no systematic review had explored this aspect in postmenopausal women. Hence, this systematic review aimed to explore the effect of vitamin K2 alone or in combination with other agents (vitamin D3 or calcium) on various bone turnover markers (BTMs) and bone mineral density (BMD) in postmenopausal women. Methods MEDLINE, ScienceDirect, PubMed, and Google Scholar were searched to identify relevant studies using specific inclusion criteria. Data extraction and quality assessment were carried out using standardized tests, and the results were narratively synthesized and presented in the form of tables. Results Vitamin K2 was beneficial in inducing an improvement or preventing deterioration, as evidenced by the BMD and osteocalcin (OC), undercarboxylated OC (ucOC), carboxylated OC (cOC), and γ-carboxylated OC levels. However, its effect was not conclusive when procollagen type 1 N-terminal propeptide, carboxyterminal propeptide of type I procollagen, C-terminal telopeptide of type I collagen, bone alkaline phosphatase, deoxypyridinoline, and N-terminal telopeptide levels (NTX) and ucOC:cOC or cOC:ucOC, and NTX:creatinine ratios were examined. Conclusions Vitamin K2 supplementation combined with vitamin D and calcium was found to be advantageous. However, vitamin K2 supplementation cannot replace the existing treatment options. In addition, vitamin K2 should be used with caution, considering its interactions with food and other drugs.
+
+Molecular Pathways and Roles for Vitamin K2-7 as a Health-Beneficial Nutraceutical: Challenges and Opportunities
+
+Number of 
+
+Key takeaways:Vitamin K2-7 supplementation offers health benefits in osteoporosis, cardiovascular disease, inflammation, cancer, Alzheimer's disease, diabetes, and peripheral neuropathy.
+
+Abstract:Vitamin K2-7, also known as menaquinone-7 (MK-7) is a form of vitamin K that has health-beneficial effects in osteoporosis, cardiovascular disease, inflammation, cancer, Alzheimer’s disease, diabetes and peripheral neuropathy. Compared to vitamin K1 (phylloquinone), K2-7 is absorbed more readily and is more bioavailable. Clinical studies have unequivocally demonstrated the utility of vitamin K2-7 supplementation in ameliorating peripheral neuropathy, reducing bone fracture risk and improving cardiovascular health. We examine how undercarboxylated osteocalcin (ucOC) and matrix Gla protein (ucMGP) are converted to carboxylated forms (cOC and cMGP respectively) by K2-7 acting as a cofactor, thus facilitating the deposition of calcium in bones and preventing vascular calcification. K2-7 is beneficial in managing bone loss because it upregulates osteoprotegerin which is a decoy receptor for RANK ligand (RANKL) thus inhibiting bone resorption. We also review the evidence for the health-beneficial outcomes of K2-7 in diabetes, peripheral neuropathy and Alzheimer’s disease. In addition, we discuss the K2-7-mediated suppression of growth in cancer cells via cell-cycle arrest, autophagy and apoptosis. The mechanistic basis for the disease-modulating effects of K2-7 is mediated through various signal transduction pathways such as PI3K/AKT, MAP Kinase, JAK/STAT, NF-κB, etc. Interestingly, K2-7 is also responsible for suppression of proinflammatory mediators such as IL-1α, IL-1β and TNF-α. We elucidate various genes modulated by K2-7 as well as the clinical pharmacometrics of vitamin K2-7 including K2-7-mediated pharmacokinetics/pharmacodynamics (PK/PD). Further, we discuss the current status of clinical trials on K2-7 that shed light on dosing strategies for maximum health benefits. Taken together, this is a synthetic review that delineates the health-beneficial effects of K2-7 in a clinical setting, highlights the molecular basis for these effects, elucidates the clinical pharmacokinetics of K2-7, and underscores the need for K2-7 supplementation in the global diet.
+
+Vitamin K and Bone Metabolism: A Review of the Latest Evidence in Preclinical Studies
+
+Number of 
+
+Key takeaways:Vitamin K positively impacts bone metabolism by promoting osteoblast differentiation, upregulating gene expression, and activating bone-associated vitamin K dependent proteins, potentially improving osteogenesis in bone graft surgeries.
+
+Abstract:Bone is a metabolically active tissue that renews itself throughout one's life. Cytokines along with several hormonal, nutritional, and growth factors are involved in tightly regulated bone remodeling. Accordingly, vitamin K as a multifunctional vitamin has been recently deemed appreciable as a topic of research as it plays a pivotal role in maintenance of the bone strength, and it has been proved to have a positive impact on the bone metabolism. Vitamin K exerts its anabolic effect on the bone turnover in different ways such as promoting osteoblast differentiation, upregulating transcription of specific genes in osteoblasts, and activating the bone-associated vitamin k dependent proteins which play critical roles in extracellular bone matrix mineralization. There is also credible evidence to support the effects of vitamin k2 on differentiation of other mesenchymal stem cells into osteoblast. The main objective of the present paper is to comprehensively outline the preclinical studies on the properties of vitamin K and its effects on the bone metabolism. The evidence could shed light on further clinical studies to improve osteogenesis in bone graft surgeries.
+
+Effects of vitamin K2 administration on guided bone regeneration in diabetic rats.
+
+Number of 
+
+Key takeaways:Vitamin K2 administration in guided bone regeneration for diabetic rats favorably impacts bone healing in critical-size defects, offering an adjunctive strategy for bone regeneration.
+
+Abstract:AIM
+The present study aimed to investigate the histomorphometric and immunohistochemical impacts of vitamin K2 on guided bone regeneration (GBR) in calvarial critical-size defects (CSDs) in diabetic rats.
+
+METHODS
+A total of 30 rats were used in this study, comprising 12 non-diabetic (control) rats and 18 with streptozotocin-nicotinamide-induced experimental Diabetes mellitus (DM). In all rats, two calvarial CSDs were created: one defect was left empty (E), the other was treated with bovine-derived bone graft and collagen-based resorbable membrane (GM). Study groups were as follows: control rats administered saline (n = 6, C-E and C-GM groups) or vitamin K2 (n = 6, CK-E and CK-GM groups) and diabetic rats administered saline (n = 6, DM-E and DM-GM groups) or vitamin K2 (n = 6, DMK-E and DMK-GM groups). After 4 weeks of saline or vitamin K2 administration, the rats were euthanized. Bone defect healing and new bone formation were assessed histomorphometrically, and osteocalcin and osteopontin levels were examined immunohistochemically.
+
+RESULTS
+Percentage of new bone formation was greater in CK-GM vs. CK-E and in DMK-GM vs. DMK-E . Bone defect healing scores were higher in CK-GM vs. CK-E and in DMK-GM vs. DMK-E . Osteocalcin expression levels were elevated in CK-GM vs. CK-E, in DMK-GM vs. DMK-E . Vitamin K2 enhanced osteocalcin expression levels in DMK-E vs. DM-E and in DMK-GM vs. DM-GM . Osteopontin expression was enhanced in defects treated with GM vs. E defects .
+
+CONCLUSION
+The research findings suggest that administering vitamin K2 in GBR for rats with DM favorably impacts bone healing in CSDs, presenting an adjunctive strategy for bone regeneration.
+
+Growing Evidence of a Proven Mechanism Shows Vitamin K2 Can Impact Health Conditions Beyond Bone and Cardiovascular.
+
+Number of 
+
+Key takeaways:Vitamin K2 supports bone and cardiovascular health, but its mechanism of action also impacts brain, joint, neuropathy, and vision health, suggesting a widespread deficiency could significantly improve global health.
+
+Abstract:Vitamin K2 is a vital nutrient newly recognized for supporting bone and cardiovascular health, shown in observational and intervention trials, in healthy and patient populations, in adults and children. Even more recently, it has come to light that K2 status and the vitamin’s mechanism of action impact other health areas, including but not limited to brain health, healthy joints, neuropathy, and vision health. This evidence lends itself to the argument that correcting a widespread vitamin K2 deficiency can significantly improve global health. The first step in remedying that deficiency is establishing a vitamin K2-specific recommended daily intake.
+
+The Impact of Vitamin K2 (Menaquionones) in Children’s Health and Diseases: A Review of the Literature
+
+Number of 
+
+Key takeaways:Vitamin K2 supplementation may improve bone mineralization, vascular stiffness, and brain development in children, with potential benefits for those with various health disorders.
+
+Abstract:Vitamin K2 activates vitamin K-dependent proteins that support many biological functions, such as bone mineralization, the inhibition of vascular stiffness, the improvement of endothelial function, the maintenance of strong teeth, brain development, joint health, and optimal body weight. Due to the transformation of food habits in developed countries over the last five decades, vitamin K and, specifically, vitamin K2 intakes among parents and their offspring have decreased significantly, resulting in serious health implications. The therapeutics used in pediatric practice (antibiotics and glucocorticoids) are also to blame for this situation. Low vitamin K status is much more frequent in newborns, due to both endogenous and exogenous insufficiencies. Just after birth vitamin K stores are low, and since human milk is relatively poor in this nutrient, breast-fed infants are at particular risk of a bleeding disorder called vitamin K deficiency bleeding. A pilot study showed that better vitamin K status is associated with lower rate of low-energy fracture incidence. An ongoing clinical trial is intended to address whether vitamin K2 and D3 supplementation might positively impact the biological process of bone healing. Vitamin K2 as menaquinone-7 (MK-7) has a documented history of safe and effective use. The lack of adverse effects of MK-7 makes it the ideal choice for supplementation by pregnant and nursing women and children, both healthy and suffering from various malabsorptions and health disorders, such as dyslipidemia, diabetes, thalassemia major (TM), cystic fibrosis (CF), inflammatory bowel diseases (IBD), and chronic liver diseases. Additionally, worthy of consideration is the use of vitamin K2 in obesity-related health outcomes.
+
+Vitamin K2 in Health and Disease: A Clinical Perspective
+
+Number of 
+
+Key takeaways:Vitamin K2 supplementation is generally associated with improved health outcomes, but more detailed research is needed to establish a Recommended Daily Intake for this versatile vitamin.
+
+Abstract:Vitamins are essential organic compounds that vary widely in chemical structure and are vital in small quantities for numerous biochemical and biological functions. They are critical for metabolism, growth, development and maintaining overall health. Vitamins are categorised into two groups: hydrophilic and lipophilic. Vitamin K (VK), a lipophilic vitamin, occurs naturally in two primary forms: phylloquinone (VK1), found in green leafy vegetables and algae, and Menaquinones (VK2), present in certain fermented and animal foods and widely formulated in VK supplements. This review explores the possible factors contributing to VK deficiency, including dietary influences, and discusses the pharmacological and therapeutic potential of supplementary VK2, examining recent global clinical studies on its role in treating diseases such as osteoporosis, osteoarthritis, rheumatoid arthritis, cardiovascular disease, chronic kidney disease, diabetes, neurodegenerative disorders and cancers. The analysis includes a review of published articles from multiple databases, including Scopus, PubMed, Google Scholar, ISI Web of Science and CNKI, focusing on human studies. The findings indicate that VK2 is a versatile vitamin essential for human health and that a broadly positive correlation exists between VK2 supplementation and improved health outcomes. However, clinical data are somewhat inconsistent, highlighting the need for further detailed research into VK2′s metabolic processes, biomarker validation, dose–response relationships, bioavailability and safety. Establishing a Recommended Daily Intake for VK2 could significantly enhance global health.
+
+The Dual Role of Vitamin K2 in “Bone-Vascular Crosstalk”: Opposite Effects on Bone Loss and Vascular Calcification
+
+Number of 
+
+Key takeaways:Vitamin K2 may play a crucial role in preventing bone loss and vascular calcification, potentially benefiting elderly individuals.
+
+Abstract:Osteoporosis (OP) and vascular calcification (VC) represent relevant health problems that frequently coexist in the elderly population. Traditionally, they have been considered independent processes, and mainly age-related. However, an increasing number of studies have reported their possible direct correlation, commonly defined as “bone-vascular crosstalk”. Vitamin K2 (VitK2), a family of several natural isoforms also known as menaquinones (MK), has recently received particular attention for its role in maintaining calcium homeostasis. In particular, VitK2 deficiency seems to be responsible of the so-called “calcium paradox” phenomenon, characterized by low calcium deposition in the bone and its accumulation in the vessel wall. Since these events may have important clinical consequences, and the role of VitK2 in bone-vascular crosstalk has only partially been explained, this review focuses on its effects on the bone and vascular system by providing a more recent literature update. Overall, the findings reported here propose the VitK2 family as natural bioactive molecules that could be able to play an important role in the prevention of bone loss and vascular calcification, thus encouraging further in-depth studies to achieve its use as a dietary food supplement.
+
+The combination effect of vitamin K and vitamin D on human bone quality: a meta-analysis of randomized controlled trials.
+
+Number of 
+
+Key takeaways:The combination of vitamin K and D significantly increases total bone mineral density and decreases undercarboxylated osteocalcin, with a more favorable effect when using vitamin K2.
+
+Abstract:BACKGROUND
+Previous studies did not draw a consistent conclusion about the effects of vitamin K combined with vitamin D on human skeletal quality.
+
+METHOD AND FINDINGS
+A comprehensive search on Web of Science, PubMed, Embase and the Cochrane Library (from 1950 to February 2020) and bibliographies of relevant articles was undertaken, with the meta-analysis of eight randomized controlled trials (RCTs) including a total of 971 subjects. Vitamin K combined with vitamin D significantly increased the total bone mineral density (BMD): the pooled effect size was 0.316 . A significant decrease in undercarboxylated osteocalcin (-0.945, -1.113 to -0.778) can be observed with the combination of vitamin K and D. Simultaneously, subgroup analysis showed that K2 or vitamin K (not specified) supplement was less than 500 μg d-1, which when combined with vitamin D can significantly increase the total BMD compared with the control group fed a normal diet or the group with no treatment (0.479, 0.101 to 0.858 and 0.570, 0.196 to 0.945).
+
+CONCLUSIONS
+The combination of vitamin K and D can significantly increase the total BMD and significantly decrease undercarboxylated osteocalcin, and a more favorable effect is expected when vitamin K2 is used.
+
+Immunomodulatory effect of vitamin K2: Implications for bone health.
+
+Number of 
+
+Key takeaways:Vitamin K2 has immunomodulatory activities, which may help reduce bone fracture risk in postmenopausal women by inhibiting T-cell proliferation.
+
+Abstract:OBJECTIVE
+In women with postmenopausal osteoporosis, vitamin K2 appears to decrease the incidence of hip, vertebral, and non-vertebral fractures. Women with postmenopausal osteoporosis have more circulating activated T cells compared with healthy postmenopausal and premenopausal women, but the effects of vitamin K2 on T cells have not been studied. In this study, we have looked at T-cell suppression by vitamin K2.
+
+MATERIALS AND METHODS
+Peripheral blood mononuclear cells (PBMCs) from three healthy donors were used. The PBMCs were stimulated with the mitogens phytohemagglutinin and concanavalin A, and T-cell proliferation was analyzed using flow cytometry based on carboxyfluorescein succinimidyl ester (CSFE) dye dilution.
+
+RESULTS
+Vitamin K2 (60 and 100 μM) inhibited T-cell proliferation. Vitamin K1 at the same concentrations did not inhibit T-cell proliferation.
+
+CONCLUSION
+Vitamin K2 has immunomodulatory activities.
+
+The combined effect of vitamin K and calcium on bone mineral density in humans: a meta-analysis of randomized controlled trials
+
+Number of 
+
+Key takeaways:The combination of vitamin K and calcium positively affects lumbar bone mineral density and decreases undercarboxylated osteocalcin levels in humans.
+
+Abstract:Abstract Background With the increasing incidence of osteoporosis, vitamin K and calcium have been linked to bone mineral density (BMD) and undercarboxylated osteocalcin (UcOC) in many studies, but the results of studies of the combined effect of vitamin K and calcium on BMD and UcOC in humans have been inconsistent. We conducted a systematic review of randomized controlled trials to assess the effect of this combination treatment on BMD and UcOC in humans. Methods A search for articles was conducted using PubMed, Embase, and the Cochrane Library database up to March 2021 (no language restrictions). We also reviewed the reference lists of the relevant publications and reviews to locate additional publications. The standard mean difference (SMD) was used as the primary measure of effect size. Our main endpoints were lumbar BMD, femoral neck BMD, hip BMD, total femoral BMD, and UcOC from baseline to end point. We performed subgroup analysis, heterogeneity testing, and assessment of publication bias. Results A total of 1346 patients from 10 randomized controlled trials were included in the meta-analysis. The forest plot analysis revealed that vitamin K combined with calcium was associated with a higher lumbar spine BMD compared to controls. The SMD was 0.20 . Vitamin K and calcium supplementation led to a significant decrease in UcOC (SMD: − 1.71, 95% CI: − 2.45 to − 0.96). Subgroup analysis showed that vitamin K2 and vitamin K1 had SMDs of 0.30 (95% CI: 0.10 to 0.51) and SMDs of 0.14 (95% CI: − 0.02 to 0.29), and calcium dosages of ≤ 1000 mg/d or &gt; 1000 mg/d had SMDs of 0.19 (95% CI: 0.05 to 0.32) and 0.26 (95% CI: − 0.04 to 0.55). Conclusion The combination of vitamin K and calcium has a positive effect on lumbar BMD and decreases the level of UcOC. Registration : The protocol for this meta-analysis was registered at the International Prospective Register of Systematic Reviews (CRD42021251825).
+
+The Medical Benefits of Vitamin K2 on Calcium-Related Disorders
+
+Number of 
+
+Key takeaways:Vitamin K2 shows potential in improving osteoporosis, cardiovascular disease, parathyroid disorders, cerebral palsy, and sperm motility, but further investigation is needed to confirm these beneficial effects.
+
+Abstract:Background: Due to the potentially crucial role of vitamin K2 in calcium metabolism, a deficit can disrupt many mechanisms, resulting in an array of different issues, such as broken bones, stiff arteries and poor fertility. Although there has been existing research, the potential of vitamin K2 as a treatment for conditions including cerebral palsy, parathyroid disease, heart disease and gastrointestinal disease is unknown. This review discusses the biochemistry of vitamin K and the metabolism of calcium, followed by an analysis of the current literature available on vitamin K2 and its prospects. Methods: Using public libraries including PubMed and Wiley, we searched for existing research on the metabolism and use of vitamin K2 that has been conducted in the preceding two decades. Results: Data indicated that vitamin K2 had a positive impact on osteoporosis, cardiovascular disease, parathyroid disorders, cerebral palsy and sperm motility. Conclusion: Due to the existence of confounding variables and limitations in the quality and volume of research conducted, further investigation must be done to see whether the beneficial effects seen are reproducible and must assess the viability of vitamin K2 as treatment in isolation for these conditions.
+
+Vitamin K2 Supplementation for the Prevention and Treatment of Rheumatoid Arthritis
+
+Number of 
+
+Key takeaways:Vitamin K2 supplementation may help prevent and treat rheumatoid arthritis by inhibiting inflammatory responses and reducing disease activity.
+
+Abstract:To investigate the effects of vitamin K2 supplementation on the prevention and treatment of rheumatoid arthritis(RA).
+ 
+ 
+ 
+ Vitamin K2 and rheumatoid arthritis were searched in Pubmed from inception until December 2020.
+ 
+ 
+ 
+ Study 1: Vitamin K2 inhibited the proliferation of mitogen-activated PBMCs of RA patients with an IC50 value of 3,288.47 ± 4,910.02 ng/mL. There was a significant correlation between IC50 values of vitamin K2 and patient-related factors of RA patients (p < 0.05), such as C-reactive protein (CRP), rheumatoid factor, anti-cyclic citrullinated peptide antibody (ACPA), matrix metalloproteinase-3, Pre-DAS-28 (CRP), and ∆DAS-28 (CRP). Methotrexate inhibited the proliferation of mitogen-activated PBMCs of RA patients with a IC50 value of 22.83 ± 12.47 ng/mL. IC50 values of methotrexate only showed significant correlation with ACPA (p = 0.0158, r = 0.6905); Study 2: A significant decrease in MK-7 treated group for the levels of undercarboxylated osteocalcin (ucOC), erythrocyte sedimentation rate (ESR), disease activity score assessing 28 joints with ESR (DAS28-ESR), C-reactive protein (CRP) and matrix metalloproteinase (MMP-3) was found. In MK-7 treated group, a marked decrease in RA clinical and biochemical markers for moderate and good response compared to non-responders was observed in ucOC, ESR and DAS28-ESR. A marked increase in the levels of MK-7 for the moderate and good responders compared to non-responders was observed; Study 3: as compared to the MK-4-naïve group, the MK-4-treated group showed lower serum CRP (1.7 ± 0.2 vs. 0.5 ± 0.1 mg/dl; P < 0.001), MMP-3 (220.4 ± 21.9 vs. 118.0 ± 14.4 ng/ml; P < 0.001), and DAS28-CRP (2.9 ± 0.1 vs. 2.4 ± 0.1; P < 0.05). The patients who were additionally treated with MK-4 showed significant decreases in serum CRP (1.1 ± 0.2 to 0.6 ± 0.2 mg/dl; P < 0.001), MMP-3 (160.1 ± 25.6 to 125.0 ± 17.8 ng/ml; P < 0.05), and DAS28-CRP (3.1 ± 0.2 to 2.4 ± 0.1; P < 0.001).
+ 
+ 
+ 
+ Vitamin K2 supplementation could provide a benefit for the prevention and treatment of RA patients via its immunosuppressive function and improving disease activity.
+ 
+ 
+ 
+ No.
+
+The role of vitamins D, B12, C, and K in modulating inflammation and disease management in rheumatoid arthritis: a comprehensive review.
+
+Number of 
+
+Key takeaways:Vitamins D, B12, C, and K play critical roles in immune modulation, inflammation reduction, and bone health in rheumatoid arthritis management.
+
+Abstract:Rheumatoid arthritis (RA) is a chronic autoimmune disorder marked by joint inflammation and destruction. Recent studies emphasize the importance of vitamins D, B12, C, and K in managing RA and enhancing patient health. Vitamin D deficiency is common in RA patients and correlates with increased disease severity, indicating its potential to modulate immune responses and reduce inflammation. Supplementation has shown promise in improving disease activity scores and lowering inflammatory markers. Vitamin B12 is vital for energy and neurological function; its deficiency can worsen fatigue in RA sufferers. Vitamin C, with its antioxidant properties, aids collagen synthesis and may reduce joint inflammation. Vitamin K, particularly through Matrix Gla-Protein (MGP), is essential for bone health and may help prevent joint calcification and osteoporosis. Collectively, these vitamins play critical roles in immune modulation, inflammation reduction, and bone health in RA management, warranting further research on optimal dosages and combinations for effective treatment strategies.
+
+Effect of vitamin K2 on type 2 diabetes mellitus: A review.
+
+Number of 
+
+Key takeaways:Vitamin K2 supplementation improves insulin sensitivity and glycemic control in type 2 diabetes mellitus patients, with better effects than vitamin K1.
+
+Co-supplementation of Vitamin K2 and Selenium Synergistically Improves Metabolic Status and Reduces Cardiovascular Risk Markers in Dyslipidemic Rabbits
+
+Number of 
+
+Key takeaways:Co-supplementation of vitamin K2 and selenium improves metabolic profile, reduces cardiovascular risk markers, and atherosclerosis in dyslipidemic rabbits.
+
+Abstract:This work investigated the impact of vitamin K2 and selenium co-supplementation on metabolic profile and indicators of cardiovascular health in dyslipidemic rabbits. Fifty adult male rabbits were equally allocated into 5 groups: Control group, Dyslipidemic group: received 0.5% cholesterol in diet for 12 weeks, groups 3, 4 and 5 dyslipidemic rabbits daily treated with vitamin K2 (10 mg/kg bw) or/and selenium (1 mg/kg bw) for 8 weeks. Co-supplementation of vitamin K2 and selenium significantly decreased body weight gain and blood pressure elevation in dyslipidemic rabbits compared to un-treated ones. Consuming vitamin K2 plus selenium also markedly lowered serum lipids encompassing cholesterol, triglycerides and LDL and elevated HDL relative to placebo. Additionally, such co-supplementation reduced fasting glucose and insulin, enhancing insulin sensitivity with respect to placebo. Regarding cardiovascular risk markers, dyslipidemic rabbits received vitamin K2 concurrently with selenium displayed lower levels of atherogenic index (LDL/HDL), serum C-reactive protein, heart fatty acid-binding protein and asymmetric dimethylarginine as well as aortic ox-LDL, lipid peroxidation and calcium but higher levels of serum nitric oxide and aortic total antioxidants than un-treated ones. Concomitant administration of vitamin K2 and selenium improved metabolic profile, markers of cardiovascular health and atherosclerosis in dyslipidemic rabbits.
+
+Vitamin K2 Enhances Fat Degradation to Improve the Survival of C. elegans
+
+Number of 
+
+Key takeaways:Vitamin K2 enhances fat metabolism, not antioxidant effects, to improve survival and resistance in C. elegans, supporting its potential use in medical treatments.
+
+Abstract:The beneficial effects of vitamin K (VK) on various chronic age-related syndromes have generally been considered dependent on its antioxidant effects. However, due to the distinct bioavailability and biological activities of VKs, exactly which of these activities and by what mechanisms they might act still need to be elucidated. In this study, we found that VK2 can extend the lifespan of C. elegans and improve the resistance to pathogen infection, heat stress and H2O2-induced inner oxidative stress. Importantly, the roles of VK2 on aging and stress resistance were shown to be dependent on enhanced fat metabolism and not due to its antioxidant effects. Moreover, the genes related to fat metabolism that were up-regulated following VK2 treatment play key roles in improving survival. Obesity is a leading risk factor for developing T2DM, and taking VKs has been previously considered to improve the insulin sensitivity associated with obesity and T2DM risk. However, our results showed that VK2 can significantly influence the expression of genes related to fat metabolism, including those that regulate fatty acid elongation, desaturation, and synthesis of fatty acid-CoA. VK2 enhanced the fatty acid β-oxidation activity in peroxisome to degrade and digest fatty acid-CoA. Our study implies that VK2 can enhance fat degradation and digestion to improve survival, supporting the effectiveness of VK2-based medical treatments. VK2 is mainly produced by gut bacteria, suggesting that VK2 might facilitate communication between the gut microbiota and the host intestinal cells to influence fat metabolism.
+
+Vitamin K2 Supplementation Improves Insulin Sensitivity via Osteocalcin Metabolism: A Placebo-Controlled Trial
+
+Number of 
+
+Key takeaways:Vitamin K2 supplementation improves insulin sensitivity by modulating osteocalcin metabolism in healthy young male subjects.
+
+Abstract:Undercarboxylated osteocalcin (ucOC) is reported to function as an endocrine hormone, affecting glucose metabolism in mice (1,2). Vitamin K, which converts ucOC to carboxylated osteocalcin (cOC), has been suggested to regulate glucose metabolism by modulating osteocalcin and/or proinflammatory pathway (3–5).
+
+We studied whether modulation of ucOC via vitamin K2 supplementation for 4 weeks affects β-cell function and/or insulin sensitivity in healthy young male subjects. Forty-two healthy young male volunteers received vitamin K2 (menatetrenone; 30 mg; Eisai Co., Japan) or placebo t.i.d. for 4 weeks. Frequently sampled intravenous glucose tolerance test was performed to determine insulin sensitivity index ( S i), acute insulin response to glucose (AIRg), and disposition index (DI) before and after treatment. Adiponectin, interleukin (IL)-6, C-reactive protein (CRP), ucOC, and cOC …
+
+Vitamin K-induced effects on body fat and weight: results from a 3-year vitamin K2 intervention study
+
+Number of 
+
+Key takeaways:High vitamin K2 intake may support reducing body weight, abdominal and visceral fat, particularly in individuals showing a strong increase in carboxylated osteocalcin.
+
+Short‐term impact of vitamin K2 supplementation on biochemical parameters and lipoprotein fractions
+
+Number of 
+
+Key takeaways:Vitamin K2 supplementation effectively increases menaquinone-7 levels within 2-6 hours, potentially impacting bone metabolism and cardiovascular health.
+
+Abstract:This study explored the short‐term effects of vitamin K2 (VK2) supplementation on biochemical parameters (vitamin D, vitamin E, vitamin A, alkaline phosphatase, calcium, phosphorus (P), magnesium, metallothionein, triglycerides, cholesterol, high‐density lipoprotein (HDL), low‐density lipoprotein (LDL), and lipoprotein fractions (albumin, HDL, very low‐density lipoprotein (VLDL), LDL, and chylomicrons). A short‐term experiment (24 h, six probands) was performed to track changes in VK2 levels after a single‐dose intake (360 µg/day). Liquid chromatography–tandem mass spectrometry was used to monitor vitamin K levels (menaquinone‐4 (MK‐4), menaquinone‐7 (MK‐7), and vitamin K1 ) with a limit of detection of 1.9 pg/mL for VK1 and 3.8 pg/mL for the two forms of VK2. Results showed that MK‐7 levels significantly increased within 2–6 h post‐administration and then gradually declined. MK‐4 levels were initially low, showing a slight increase, whereas VK1 levels rose initially and then decreased. Biochemical analyses indicated no significant changes in sodium, chloride, potassium, calcium, magnesium, albumin, or total protein levels. A transient increase in P was observed, peaking at 12 h before returning to baseline. Agarose gel electrophoresis of lipoprotein fractions revealed distinct chylomicron bands and variations in VLDL and HDL mobility, influenced by dietary lipids and VK2 supplementation. These findings suggest effective absorption and metabolism of MK‐7 with potential implications for bone metabolism and cardiovascular health.
+
+Vitamin K2 supplementation improves impaired glycemic homeostasis and insulin sensitivity for type 2 diabetes through gut microbiome and fecal metabolites
+
+Number of 
+
+Key takeaways:Vitamin K2 supplementation improves glycemic homeostasis and insulin sensitivity in type 2 diabetes patients by regulating gut microbiome and fecal metabolites.
+
+Abstract:Abstract Background There is insufficient evidence for the ability of vitamin K2 to improve type 2 diabetes mellitus symptoms by regulating gut microbial composition. Herein, we aimed to demonstrate the key role of the gut microbiota in the improvement of impaired glycemic homeostasis and insulin sensitivity by vitamin K2 intervention. Methods We first performed a 6-month RCT on 60 T2DM participants with or without MK-7 (a natural form of vitamin K2) intervention. In addition, we conducted a transplantation of the MK-7-regulated microbiota in diet-induced obesity mice for 4 weeks. 16S rRNA sequencing, fecal metabolomics, and transcriptomics in both study phases were used to clarify the potential mechanism. Results After MK-7 intervention, we observed notable 13.4%, 28.3%, and 7.4% reductions in fasting serum glucose ( P = 0.048), insulin ( P = 0.005), and HbA1c levels ( P = 0.019) in type 2 diabetes participants and significant glucose tolerance improvement in diet-induced obesity mice ( P = 0.005). Moreover, increased concentrations of secondary bile acids (lithocholic and taurodeoxycholic acid) and short-chain fatty acids (acetic acid, butyric acid, and valeric acid) were found in human and mouse feces accompanied by an increased abundance of the genera that are responsible for the biosynthesis of these metabolites. Finally, we found that 4 weeks of fecal microbiota transplantation significantly improved glucose tolerance in diet-induced obesity mice by activating colon bile acid receptors, improving host immune-inflammatory responses, and increasing circulating GLP-1 concentrations. Conclusions Our gut-derived findings provide evidence for a regulatory role of vitamin K2 on glycemic homeostasis, which may further facilitate the clinical implementation of vitamin K2 intervention for diabetes management. Trial registration The study was registered at (ChiCTR1800019663).
+
+Vitamin K2 protects mice against non-alcoholic fatty liver disease induced by high-fat diet
+
+Number of 
+
+Key takeaways:Vitamin K2 protects mice from non-alcoholic fatty liver disease induced by a high-fat diet, potentially due to its improvement of lipid metabolism disorder.
+
+The biological responses of vitamin K2: A comprehensive review
+
+Number of 
+
+Key takeaways:Vitamin K2, found in animal and fermented foods, has multiple biological functions, including osteogenesis, prevention of calcification, relief of menopausal symptoms, and potential use in treating coronavirus disease.
+
+Abstract:Abstract Vitamin K1 (VitK1) and Vitamin K2 (VitK2), two important naturally occurring micronutrients in the VitK family, found, respectively, in green leafy plants and algae (VitK1) and animal and fermented foods (VitK2). The present review explores the multiple biological functions of VitK2 from recently published in vitro and in vivo studies, including promotion of osteogenesis, prevention of calcification, relief of menopausal symptoms, enhancement of mitochondrial energy release, hepato‐ and neuro‐protective effects, and possible use in treatment of coronavirus disease. The mechanisms of action associated with these biological effects are also explored. Overall, the findings presented here suggest that VitK, especially VitK2, is an important nutrient family for the normal functioning of human health. It acts on almost all major body systems and directly or indirectly participates in and regulates hundreds of physiological or pathological processes. However, as biological and clinical data are still inconsistent and conflicting, more in‐depth investigations are warranted to elucidate its potential as a therapeutic strategy to prevent and treat a range of disease conditions.
+
+Vitamin K2 alleviates type 2 diabetes in rats by induction of osteocalcin gene expression.
+
+Number of 
+
+Key takeaways:Vitamin K2 improves glucose metabolism and insulin sensitivity in type 2 diabetic rats by inducing osteocalcin gene expression, with different concentrations needed to affect glucose metabolism and insulin sensitivity.
+
+Metabolism and cell biology of vitamin K
+
+Number of 
+
+Key takeaways:Vitamin K metabolism varies between plant and bacterial forms, with potential benefits for osteoporosis, cancer, and anticoagulation control.
+
+Abstract:Summary Naturally occurring vitamin K compounds comprise a plant form, phylloquinone (vitamin K1) and a series of bacterial menaquinones (MKs) (vitamin K2). Structural differences in the isoprenoid side chain govern many facets of metabolism of K vitamins including the way they are transported, taken up by target tissues, and subsequently excreted. In the post-prandial state, phylloquinone is transported mainly by triglyceride-rich lipoproteins (TRL) and long-chain MKs mainly by low-density lipoproteins (LDL). TRL-borne phylloquinone uptake by osteoblasts is an apoE-mediated process with the LRP1 receptor playing a predominant role. One K2 form, MK-4, has a highly specific tissue distribution suggestive of local synthesis from phylloquinone in which menadione is an intermediate. Both phylloquinone and MKs activate the steroid and xenobiotic receptor (SXR) that initiates their catabolism, but MK-4 specifically upregulates two genes suggesting a novel MK-4 signalling pathway. Many studies have shown specific clinical benefits of MK-4 at pharmacological doses for osteoporosis and cancer although the mechanism(s) are poorly understood. Other putative non-cofactor functions of vitamin K include the suppression of inflammation, prevention of brain oxidative damage and a role in sphingolipid synthesis. Anticoagulant drugs block vitamin K recycling and thereby the availability of reduced vitamin K. Under extreme blockade, vitamin K can bypass the inhibition of Gla synthesis in the liver but not in the bone and the vessel wall. In humans, MK-7 has a greater efficacy than phylloquinone in carboxylating both liver and bone Gla proteins. A daily supplement of phylloquinone has shown potential for improving anticoagulation control.
+
+Vitamin K2 promotes PI3K/AKT/HIF-1α-mediated glycolysis that leads to AMPK-dependent autophagic cell death in bladder cancer cells
+
+Number of 
+
+Key takeaways:Vitamin K2 promotes glycolysis in bladder cancer cells, leading to metabolic stress and AMPK-dependent autophagic cell death, which can be reversed by glucose supplementation.
+
+Advances in regulating vitamin K2 production through metabolic engineering strategies
+
+Number of 
+
+Key takeaways:Metabolic engineering strategies, such as static and dynamic regulation, show promise in regulating vitamin K2 production, with potential for industrial scale production.
+
+Abstract:Vitamin K_2 (menaquinone, VK_2, MK) is an essential lipid-soluble vitamin that plays critical roles in inhibiting cell ferroptosis, improving blood clotting, and preventing osteoporosis. The increased global demand for VK_2 has inspired interest in novel production strategies. In this review, various novel metabolic regulation strategies, including static and dynamic metabolic regulation, are summarized and discussed. Furthermore, the advantages and disadvantages of both strategies are analyzed in-depth to highlight the bottlenecks facing microbial VK_2 production on an industrial scale. Finally, advanced metabolic engineering biotechnology for future microbial VK_2 production will also be discussed. In summary, this review provides in-depth information and offers an outlook on metabolic engineering strategies for VK_2 production.
+
+Three-Dimensional Co-Culture System of Human Osteoblasts and Osteoclast Precursors from Osteoporotic Patients as an Innovative Model to Study the Role of Nutrients: Focus on Vitamin K2
+
+Number of 
+
+Key takeaways:A 3-D co-culture system using osteoblasts and osteoclast precursors from the same osteoporotic patient can provide a more informative model for studying vitamin K2's effects on bone metabolism and predicting personal responsiveness to nutraceuticals and drugs promoting bone health.
+
+Abstract:Several natural compounds, such as vitamin K2, have been highlighted for their positive effects on bone metabolism. It has been proposed that skeletal disorders, such as osteoporosis, may benefit from vitamin K2-based therapies or its regular intake. However, further studies are needed to better clarify the effects of vitamin K2 in bone disorders. To this aim, we developed in vitro a three-dimensional (3D) cell culture system one step closer to the bone microenvironment based on co-culturing osteoblasts and osteoclasts precursors obtained from bone specimens and peripheral blood of the same osteoporotic patient, respectively. Such a 3-D co-culture system was more informative than the traditional 2-D cell cultures when responsiveness to vitamin K2 was analyzed, paving the way for data interpretation on single patients. Following this approach, the anabolic effects of vitamin K2 on the osteoblast counterpart were found to be correlated with bone turnover markers measured in osteoporotic patients’ sera. Overall, our data suggest that co-cultured osteoblasts and osteoclast precursors from the same osteoporotic patient may be suitable to generate an in vitro 3-D experimental model that potentially reflects the individual’s bone metabolism and may be useful to predict personal responsiveness to nutraceutical or drug molecules designed to positively affect bone health.
+
+Vitamin K2 Ameliorates Diabetes-Associated Cognitive Decline by Reducing Oxidative Stress and Neuroinflammation.
+
+Number of 
+
+Key takeaways:Vitamin K2 partially reverses diabetes-associated cognitive decline by reducing oxidative stress and neuroinflammation, protecting hippocampal neurons from damage.
+
+Abstract:Diabetes, a chronic metabolic disease, affects approximately 422 million people and leads to 1.5 million deaths every year, It is found that 45% of individuals with diabetes eventually develop cognitive impairment. Here we study effects of Vitamin K2 on diabetes-associated cognitive decline (DACD) and its underlying mechanism. Diabetes was induced in adult Swiss albino mice with high-fat diet and a low dose (35 mg/kg) of streptozotocin and measured by fasting glucose and HbA1c levels. After one week of development of diabetes, one group of animals received Vitamin K2 (100 µg/kg) via oral gavage for 21 days. Then different behavioural studies, including the elevated plus maze, Morris water maze, passive avoidance test and novel object recognition test were performed followed by biochemical tests including AchE, different oxidative stress parameters (SOD, GSH, MDA, catalase, SIRT1, NRF2), inflammatory markers (TNFα, IL1β, MCP1, NFκB), apoptosis marker (Caspase 3). Hippocampal neuronal density was measured using histopathology. Vitamin K2 treatment in diabetic animals led to reduced fasting glucose and HbA1c, It could partially reverse DACD as shown by behavioural studies. Vitamin K2 adminstration reduced corticohippocampal AchE level and neuroinflammation (TNFα, IL1β, MCP1, NFκB, SIRT1). It reduced oxidative stress by increasing antioxidant enzymes (SOD, GSH, catalase), transcription factor NRF2 while reducing caspase 3. This eventually increased CA1 and CA3 neuronal density in diabetic animals. Vitamin K2 partially reverses DACD by increasing ACh while reducing the oxidative stress via Nrf2/ARE pathway and neuroinflammation, thus protecting the hippocampal neurons from diabetes associated damage.
+
+Vitamin K2 Improves Anxiety and Depression but not Cognition in Rats with Metabolic Syndrome: a Role of Blood Glucose?
+
+Number of 
+
+Key takeaways:Vitamin K2 reduces anxiety and depression in rats with metabolic syndrome, but does not improve memory deficits, possibly due to its effects on blood glucose.
+
+Abstract:Abstract Background: The metabolic syndrome is a socially important disorder of energy utilization and storage, recognized as a factor predisposing to the development of depression, anxiety and cognitive impairment in humans. Aim: In the present study we examined the effects of vitamin K2 on the behavior of rats with metabolic syndrome and looked for relationships with the effects on blood sugar. Materials and methods: Male Wistar rats were divided in four groups: a control group on a regular rat chow, a metabolic syndrome (MS) group fed a high-fat high-fructose diet, a control group treated with vitamin K2 and a MS group treated with vitamin K2. Vitamin K2 was given by gavage. At the end of the study (after 10 weeks) behavioral tests were performed and fasting blood glucose was measured. Anxiety was determined using the social interaction test and depression was assessed by the Porsolt test. Memory effects were estimated by the object recognition test. Correlations between fasting blood glucose and behavioral performance were analyzed. Results: The rats from the MS group had elevated blood glucose. They had anxiety, depression and memory deficit. Vitamin K2 normalized blood glucose, reduced anxiety and depression, but did not improve memory. Time of social interaction (inverse index of anxiety) and memory recognition were negatively correlated with blood glucose in the untreated rats but the immobility time (measure of depression) was not. When vitamin K2-treated rats were added, the correlation of blood glucose with the time of social interaction was kept, but the one with the recognition memory was lost. It might be that the anxiolytic effect of vitamin K2 in this setting is at least partly due to its effects on blood glucose, while the anti-depressant effect is glucose-independent. Conclusion: The present study demonstrated that vitamin K2 prevented the development of anxiety and depression, but did not improve the memory deficit caused by the dietary manipulation in an experimental model of metabolic syndrome. It might be that the anxiolytic effect of vitamin K2 is at least partly due to its effects on blood glucose, while the antidepressant effect is glucose-independent.
+
+Vitamin K1 inversely correlates with glycemia and insulin resistance in patients with type 2 diabetes (T2D) and positively regulates SIRT1/AMPK pathway of glucose metabolism in liver of T2D mice and hepatocytes cultured in high glucose.
+
+Number of 
+
+Key takeaways:Vitamin K1 supplementation can lower fasting glucose and insulin resistance in type 2 diabetes patients by regulating the SIRT1/AMPK signaling pathway in the liver.
+
+Vitamin K2—a neglected player in cardiovascular health: a narrative review
+
+Number of 
+
+Key takeaways:Vitamin K2 supplementation shows promise in improving cardiovascular outcomes by modifying systemic calcification and arterial stiffness, with potential benefits for cardiac patients.
+
+Abstract:Vitamin K2 serves an important role in cardiovascular health through regulation of calcium homeostasis. Its effects on the cardiovascular system are mediated through activation of the anti-calcific protein known as matrix Gla protein. In its inactive form, this protein is associated with various markers of cardiovascular disease including increased arterial stiffness, vascular and valvular calcification, insulin resistance and heart failure indices which ultimately increase cardiovascular mortality. Supplementation of vitamin K2 has been strongly associated with improved cardiovascular outcomes through its modification of systemic calcification and arterial stiffness. Although its direct effects on delaying the progression of vascular and valvular calcification is currently the subject of multiple randomised clinical trials, prior reports suggest potential improved survival among cardiac patients with vitamin K2 supplementation. Strengthened by its affordability and Food and Drug Adminstration (FDA)-proven safety, vitamin K2 supplementation is a viable and promising option to improve cardiovascular outcomes.
+
+The Role of Vitamin K2 in Cardiovascular Health
+
+Number of 
+
+Key takeaways:Vitamin K2 supplementation slows down coronary artery and aortic valve calcification, improves metabolic syndrome, heart failure, and arterial stiffness, and is safe for use in clinical practice.
+
+Abstract:Vitamin K naturally occurs as two structurally similar but functionally different vitamins: K1 and K2. Vitamin K2 activates Matrix Gla Protein (MGP) which acts as an inhibitor of vascular calcification. Vitamin K2 plays a role in cardiovascular health. It slows down the progression of coronary artery and aortic valve calcification by inhibiting vascular and valvular calcification. It also has an impact on metabolic syndrome, heart failure, microvascular function, and the progression of arterial stiffness. Vitamin K deficiency was shown to correlate with worse clinical outcomes. Additionally, vitamin K2 supplementation is safe and has been the focus of numerous studies and randomized clinical trials. While some trials have shown no significant effect of supplementation in mitigating coronary artery or valvular calcification, the overall findings remain promising. Many methods and assays to assess vitamin K status and function exist, however, in clinical practice, Protein Induced by Vitamin K Absence/antagonism (PIVKA-II) and vitamin K1 are commonly used together.
+Keywords
+Cardiovascular health • Metabolic syndrome • Aortic stiffness • Heart failure • Hypertension
+
+Perspective: Evidence before Enthusiasm-A Critical Review of the Potential Cardiovascular Benefits of Vitamin K.
+
+Number of 
+
+Key takeaways:High intake of vitamin K2, but not phylloquinone, may reduce vascular calcification and the risk of cardiovascular disease, but the evidence is limited and controversial.
+
+Abstract:A protective role for vitamin K in cardiovascular disease (CVD), a leading cause of morbidity and mortality, has been proposed because vitamin K-dependent proteins, such as matrix Gla (γ-carboxyglutamic acid) protein (MGP), are present in vascular tissue. MGP functions as a vascular calcification inhibitor-but only when it is carboxylated, which requires vitamin K. There is more than one naturally occurring form of vitamin K. Phylloquinone (vitamin K1) is found in plant-based foods, whereas menaquinones (vitamin K2) are a class of vitamin K compounds found in animal-based and fermented foods. Phylloquinone and menaquinones are capable of carboxylating MGP and other vitamin K-dependent proteins. In rodent models, high intakes of either phylloquinone or menaquinone reduced vascular calcification. Evidence of the relative importance of phylloquinone and menaquinone to CVD in humans is limited and controversial. In some observational studies, higher dietary menaquinone intake, but not phylloquinone intake, was associated with less coronary artery calcification (a subclinical manifestation of CVD) and a lower risk for clinical CVD events. These findings have led to claims that menaquinones have unique cardiovascular health benefits compared with phylloquinone. However, this claim is not supported by the results of the limited number of intervention trials conducted to date. The purpose of this review is to evaluate the strengths and limitations of the available evidence regarding the role of vitamin K in vascular calcification, CVD, and mortality.
+
+Quantifying dietary vitamin K and its link to cardiovascular health: a narrative review.
+
+Number of 
+
+Key takeaways:Vitamin K1 and K2 are important for blood coagulation, reducing inflammation, and regulating blood calcium metabolism, potentially promoting cardiovascular health.
+
+Abstract:Cardiovascular disease is the leading cause of death and disability worldwide. Recent work suggests a link between vitamin K insufficiency and deficiency with vascular calcification, a marker of advanced atherosclerosis. Vitamin K refers to a group of fat-soluble vitamins important for blood coagulation, reducing inflammation, regulating blood calcium metabolism, as well as bone metabolism, all of which may play a role in promoting cardiovascular health. Presently, there is a lack of a comprehensive vitamin K database on individual foods, which are required to accurately calculate vitamin K1 and K2 intake for examination in epidemiological studies. This has likely contributed to ambiguity regarding the recommended daily intake of vitamin K, including whether vitamin K1 and K2 may have separate, partly overlapping functions. This review will discuss the presence of: (i) vitamin K1 and K2 in the diet; (ii) the methods of quantitating vitamin K compounds in foods; and (iii) provide an overview of the evidence for the cardiovascular health benefits of vitamin K in observational and clinical trials.
+
+Vitamin K Intake and Atherosclerotic Cardiovascular Disease in the Danish Diet Cancer and Health Study
+
+Number of 
+
+Key takeaways:High vitamin K1 and K2 intake is associated with a reduced risk of atherosclerotic cardiovascular disease-related hospitalizations.
+
+Abstract:Background Dietary vitamin K (K1 and K2) may reduce atherosclerotic cardiovascular disease (ASCVD) risk via several mechanisms. However, studies linking vitamin K intake with incident ASCVD are limited. We aimed to determine the relationship between dietary vitamin K intake and ASCVD hospitalizations. Methods and Results In this prospective cohort study, participants from the Danish Diet, Cancer, and Health Study, with no prior ASCVD, completed a food‐frequency questionnaire at baseline and were followed up for hospital admissions of ASCVD; ischemic heart disease, ischemic stroke, or peripheral artery disease. Intakes of vitamin K1 and vitamin K2 were estimated from the food‐frequency questionnaire, and their relationship with ASCVD hospitalizations was determined using Cox proportional hazards models. Among 53 372 Danish citizens with a median (interquartile range) age of 56 (52–60) years, 8726 individuals were hospitalized for any ASCVD during 21 (17–22) years of follow‐up. Compared with participants with the lowest vitamin K1 intakes, participants with the highest intakes had a 21% lower risk of an ASCVD‐related hospitalization (hazard ratio, 0.79; 95% CI: 0.74–0.84), after multivariable adjustments for relevant demographic covariates. Likewise for vitamin K2, the risk of an ASCVD‐related hospitalization for participants with the highest intakes was 14% lower than participants with the lowest vitamin K2 intake (hazard ratio, 0.86; 95% CI, 0.81–0.91). Conclusions Risk of ASCVD was inversely associated with diets high in vitamin K1 or K2. The similar inverse associations with both vitamin K1 and K2, despite very different dietary sources, highlight the potential importance of vitamin K for ASCVD prevention.
+
+The effect of vitamin K supplementation on cardiovascular risk factors: a systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Vitamin K supplementation can reduce insulin resistance but has no significant effect on other cardiovascular risk factors.
+
+Abstract:Abstract Cardiovascular disease (CVD) is one of the most important diseases which controlling its related risk factors, such as metabolic and inflammatory biomarkers, is necessary because of the increased mortality risk of that. The aim of our meta-analysis is to reveal the general effect of vitamin K supplementation on its related risk factors. Original databases were searched using standard keywords to identify all randomized clinical trials (RCTs) investigating the effects of vitamin K on CVD. Pooled weighted mean difference (WMD) and 95 % confidence intervals (95 % CI) were achieved by random-model effect analysis for the best estimation of outcomes. The statistical heterogeneity was determined using the Cochran's Q test and I2 statistics. Seventeen studies were included in this systematic review and meta-analysis. The pooled findings showed that vitamin K supplementation can reduce homeostatic model assessment insulin resistance (HOMA-IR) (WMD: −0⋅24, 95 % CI: −0⋅49, −0⋅02, P = 0⋅047) significantly compared to the placebo group. However, no significant effect was observed on other outcomes. Subgroup analysis showed a significant effect of vitamin K2 supplementation compared to vitamin K1 supplementation on HOMA-IR. However, no significant effect was observed on other variables. Also, subgroup analysis showed no potential effect of vitamin K supplementation on any outcome and omitting any articles did not affect the final results. We demonstrated that supplementation with vitamin K has no effect on anthropometrics indexes, CRP, glucose metabolism, and lipid profile factors except HOMA-IR.
+
+Physiological and Cellular Functions of Vitamin K on Cardiovascular Function
+
+Number of 
+
+Key takeaways:Vitamin K levels and dietary supplementation play a crucial role in cardiovascular disease prevention, with deficiency leading to negative effects on vascular composition and functions.
+
+Abstract:This chapter reviews the physiological and cellular functions of vitamin K in the cardiovascular system based on the latest pre-clinical and clinical evidence. Vitamin K belongs to a family of structurally similar fat-soluble vitamins, actively required by the body for the synthesis of essential proteins as well as regulate blood clotting, bone metabolism and calcium level. The authors emphasize the quintessential association between dietary vitamin K2 and cardiovascular diseases shown in various studies. The association, through the vitamin K - dependent hormones, plays a primary role in regulating calcification of different cell types, especially their role in calcification of the vascular endothelial cells. The consequences of vitamin K deficiency in the vascular system are unfavorable, shown in various clinical studies on statins - well-known inhibitors of vitamin K production in the body. New clinical insights suggest that vitamin K levels in the body and its dietary supplementation play a crucial role in cardiovascular disease prevention. There is negative influence of these antagonist’s pate in vascular composition and functions. Therefore, there is a need for prospective studies to make more in-depth exploration and increase the current understanding of this critical relationship to confidently apply such knowledge to prevent cardiovascular diseases and improve their outcomes.
+
+Effects of vitamins K2 and D3 supplementation in patients with severe coronary artery calcification: a study protocol for a randomised controlled trial
+
+Number of 
+
+Key takeaways:Vitamin K2 and D3 supplementation may slow down coronary artery calcification in patients with severe calcification, potentially reducing cardiovascular events and death.
+
+Abstract:Introduction Coronary artery calcification (CAC) and especially progression in CAC is a strong predictor of acute myocardial infarction and cardiovascular mortality. Supplementation with vitamin K2 and D3 has been suggested to have a protective role in the progression of CAC. In this study, we will examine the effect of vitamins K2 and D3 in men and women with severe CAC. We hypothesise that supplementation with vitamins K2 and D3 will slow down the calcification process. Method and analysis In this multicentre and double-blinded placebo-controlled study, 400 men and women with CAC score≥400 are randomised (1:1) to treatment with vitamin K2 (720 µg/day) and vitamin D3 (25 µg/day) or placebo treatment (no active treatment) for 2 years. Among exclusion criteria are treatment with vitamin K antagonist, coagulation disorders and prior coronary artery disease. To evaluate progression in coronary plaque, a cardiac CT-scan is performed at baseline and repeated after 12 and 24 months of follow-up. Primary outcome is progression in CAC score from baseline to follow-up at 2 years. Among secondary outcomes are coronary plaque composition and cardiac events. Intention-to-treat principle is used for all analyses. Ethics and dissemination There are so far no reported adverse effects associated with the use of vitamin K2. The protocol was approved by the Regional Scientific Ethical Committee for Southern Denmark and the Data Protection Agency. It will be conducted in accordance with the Declaration of Helsinki. Positive as well as negative findings will be reported. Trial registration number NCT05500443.
+
+Should We Recommend Vitamin K2 Supplement to Prevent Coronary Artery Calcification for Patients Receiving Statins and/or Warfarin?
+
+Number of 
+
+Key takeaways:Vitamin K2 supplements may help prevent coronary calcification in patients receiving warfarin or statins, but more clinical studies are needed to confirm their effectiveness and potential adverse effects on cardiovascular outcomes.
+
+Abstract:Several reports suggest that in animal models, as well as in the clinical setting, long-term warfarin use increases coronary artery calcifications. The same has been reported for statins prescribed for patients at risk or with established atherosclerosis. Coronary calcifications are considered a risk marker for further cardiovascular events. However, numerous clinical trials have established that statins reduce the risk for cardiovascular events. Warfarin also has been shown to reduce the risk of cardiovascular events, including re-infarction. It has been suggested that the increase in coronary calcification can be viewed as a marker of stabilization of the coronary plaque in such patients. Warfarin inhibits the activation of Vitamin K epoxide reductase complex 1 (VKORC1), which blocks the regeneration of reduced vitamin K1 and K2. Vitamin K1 is predominantly localized to the liver, serving to carboxylate clotting factors. Vitamin K2 travels through systemic circulation, with significant and wide-ranging effects. Several studies using animal models of atherosclerosis have shown that vitamin K2 supplement can attenuate the progression of atherosclerosis, as well as coronary calcification. Clinical studies supporting this effect in patients are lacking. Yet, there is an increase in the use of over-the-counter vitamin K2 supplements, and several manuscripts recommended its use in patients receiving long-term warfarin to attenuate coronary calcification. However, it is unclear if this occurs in patients with atherosclerosis receiving warfarin or statins and if attenuating coronary calcification has beneficial or detrimental effects on cardiovascular outcomes.
+
+Effect of Vitamin K2 on Progression of Coronary Artery Calcification by Multislice CT Examination
+
+Number of 
+
+Key takeaways:Vitamin K2 supplementation can help decrease the progression of coronary artery calcification, potentially reducing the risk of acute myocardial infarction and cardiovascular mortality.
+
+Abstract:Coronary artery disease (CAD) is associated with high mortality around the world. Dyslipidemia, hypertension, diabetes and smoking are common risk factors for CAD. Coronary artery calcification (CAC) and especially progression in CAC is a strong predictor of acute myocardial infarction (AMI) and cardiovascular mortality. Vitamin K2 is thought to inhibit vascular calcification through many different mechanisms.
+ 
+ 
+ 
+ To study the effect of Vitamin K2 on coronary artery calcification using the Agatston calcium score.
+ 
+ 
+ 
+ This study was conducted on 30 patients with pre-existing CAD who were randomly assigned in a 1:1 ratio to either oral Vitamin K2 supplementation or no treatment for 6 months. Non contrast cardiac MDCT examination was done at baseline and after 6 months to detect the change in CAC score.
+ 
+ 
+ 
+ 46.6 % of the cases who took the vitamin K2 (MENA Q) drug had their post 6 months follow up calcium score decreased and 53.3 % of them had their post 6 months follow up the same as the baseline, while 80 % of the patients in the control group showed an increase in their coronary artery calcium score and only 20 % of them showed no change in their coronary calcium score remaining the same as the baseline done at the start of the study.
+ 
+ 
+ 
+ Our study confirms that by using the CAC Agatston score, Vitamin K2 can have a role in decreasing the progression of coronary artery calcification.
+
+A narrative review of vitamin K forms in cheese and their potential role in cardiovascular disease
+
+Number of 
+
+Key takeaways:Vitamin K2 may play a role in cardiovascular health, but more data on cheese's K2 forms is needed to clarify associations between cheese consumption and reduced cardiovascular disease risk.
+
+Abstract:Vitamin K collectively describes fat‐soluble vitamins containing 2‐methyl‐1,4‐naphthoquinone, including two naturally‐occurring forms: phylloquinone (K1) and a range of menaquinones, MK4‐M13 (K2). Leafy vegetables are the main dietary source of K1, whereas K2 is mainly bacterially synthesised and found in fermented foods, including dairy foods, and some animal sources. Studies suggest that vitamin K may be important for cardiovascular health, due to its role in inhibiting vascular calcification, but food source data, particularly for K2 forms, is lacking. This information could help to clarify recent associations between cheese consumption and reduced CVD risk and would be of use in future epidemiological studies.
+
+Vitamin K – sources, physiological role, kinetics, deficiency, detection, therapeutic use, and toxicity
+
+Number of 
+
+Key takeaways:Vitamin K plays a diverse role in blood coagulation, regulating calcification of connective tissues, and may have a link to osteoporosis and cardiovascular diseases, but current knowledge is inconclusive.
+
+Abstract:Abstract Vitamin K is traditionally connected with blood coagulation, since it is needed for the posttranslational modification of 7 proteins involved in this cascade. However, it is also involved in the maturation of another 11 or 12 proteins that play different roles, encompassing in particular the modulation of the calcification of connective tissues. Since this process is physiologically needed in bones, but is pathological in arteries, a great deal of research has been devoted to finding a possible link between vitamin K and the prevention of osteoporosis and cardiovascular diseases. Unfortunately, the current knowledge does not allow us to make a decisive conclusion about such a link. One possible explanation for this is the diversity of the biological activity of vitamin K, which is not a single compound but a general term covering natural plant and animal forms of vitamin K (K1 and K2) as well as their synthetic congeners (K3 and K4). Vitamin K1 (phylloquinone) is found in several vegetables. Menaquinones (MK4–MK13, a series of compounds known as vitamin K2) are mostly of a bacterial origin and are introduced into the human diet mainly through fermented cheeses. Current knowledge about the kinetics of different forms of vitamin K, their detection, and their toxicity are discussed in this review.
+
+Vitamin K as a Diet Supplement with Impact in Human Health: Current Evidence in Age-Related Diseases
+
+Number of 
+
+Key takeaways:Vitamin K supplements can improve human health and reduce age-related diseases, with potential for sustainable production and novel natural sources.
+
+Abstract:Vitamin K health benefits have been recently widely shown to extend beyond blood homeostasis and implicated in chronic low-grade inflammatory diseases such as cardiovascular disease, osteoarthritis, dementia, cognitive impairment, mobility disability, and frailty. Novel and more efficient nutritional and therapeutic options are urgently needed to lower the burden and the associated health care costs of these age-related diseases. Naturally occurring vitamin K comprise the phylloquinone (vitamin K1), and a series of menaquinones broadly designated as vitamin K2 that differ in source, absorption rates, tissue distribution, bioavailability, and target activity. Although vitamin K1 and K2 sources are mainly dietary, consumer preference for diet supplements is growing, especially when derived from marine resources. The aim of this review is to update the reader regarding the specific contribution and effect of each K1 and K2 vitamers in human health, identify potential methods for its sustainable and cost-efficient production, and novel natural sources of vitamin K and formulations to improve absorption and bioavailability. This new information will contribute to foster the use of vitamin K as a health-promoting supplement, which meets the increasing consumer demand. Simultaneously, relevant information on the clinical context and direct health consequences of vitamin K deficiency focusing in aging and age-related diseases will be discussed.
+
+Association of vitamin K with cardiovascular events and all-cause mortality: a systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Higher dietary vitamin K consumption is associated with a moderately lower risk of coronary heart disease, while higher plasma dp-ucMGP concentration is associated with increased risks of all-cause and cardiovascular mortality.
+
+Abstract:PurposeWe conducted a meta-analysis to systematically assess the prospective association between vitamin K and cardiovascular disease (CVD) events and all-cause mortality.MethodsWe searched PubMed and EMBASE through January 2019 for prospective studies that reported the association of vitamin K (assessed by dietary intake or circulating concentration) with CVD events and all-cause mortality. Multivariable-adjusted hazard ratios (HRs) comparing top versus bottom tertiles of vitamin K were combined using random-effects meta-analysis.ResultsTwenty-one articles were included with 222,592 participants. A significant association was found between dietary phylloquinone and total CHD (pooled HR 0.92; 95% CI 0.84, 0.99; I^2 = 0%; four studies), as well as menaquinone and total CHD (0.70; 95% CI 0.53, 0.93; I^2 = 32.1%; two studies). No significant association was observed between dietary vitamin K and all-cause mortality, CVD mortality, or stroke. Elevated plasma desphospho-uncarboxylated MGP (dp-ucMGP), a marker of vitamin K deficiency, was associated with an increased risk of all-cause mortality (1.84; 95% CI 1.48, 2.28; I^2 = 16.8%; five studies) and CVD mortality (1.96; 95% CI 1.47, 2.61; I^2 = 0%; two studies). No significant association was observed between circulating total osteocalcin and all-cause mortality or total CVD.ConclusionsOur findings showed that higher dietary vitamin K consumption was associated with a moderately lower risk of CHD, and higher plasma dp-ucMGP concentration, but not total circulating osteocalcin, was associated with increased risks of all-cause and CVD mortality. However, causal relations cannot be established because of limited number of available studies, and larger prospective studies and randomized clinical trials are needed to validate the findings.
+
+The Role of Vitamin K Status in Cardiovascular Health: Evidence from Observational and Clinical Studies
+
+Number of 
+
+Key takeaways:Low vitamin K status may contribute to cardiovascular disease development, particularly in high-risk and chronic kidney disease populations.
+
+Abstract:Vitamin K is a fat-soluble vitamin required for the activation of several vitamin K-dependent proteins to confer functioning. A growing body of evidence supports that vitamin K has beneficial effects on bone and cardiovascular health. This review summarizes key evidence on vitamin K status as measured by circulating measures and cardiovascular outcomes.Overall, observational studies indicate that low vitamin K status as measured by high dephosphorylated uncarboxylated matrix gla protein concentrations plays a potential role in cardiovascular disease development, particularly in high-risk and chronic kidney disease populations. Very few vitamin K intervention trials have been conducted with cardiovascular-related outcomes. A couple of intervention trials studied the effect of the combination of vitamin D + K supplementation, which might have synergistic effects compared to vitamin K supplementation alone.Assessing vitamin K status in prospective studies and well-designed randomized trials would provide important insight whether vitamin K is causally related to vascular calcification and cardiovascular disease.
+
+Vitamin K: A vital micronutrient with the cardioprotective potential against diabetes-associated complications.
+
+Number of 
+
+Key takeaways:Vitamin K, found in green leafy vegetables, shows potential in reducing cardiovascular disease risk factors and inflammation in patients with type 2 diabetes.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

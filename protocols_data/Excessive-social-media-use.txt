@@ -1,0 +1,495 @@
+PROTOCOL: Excessive social media use
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Excessive social media use - Risk factor for mental health and sleep quality, especially among young people | Longevity Protocols
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Excessive use of social media is widespread and shows a clear negative impact on mental health and sleep. Numerous studies indicate that people who frequently and compulsively use social media are more likely to experience symptoms of depression, anxiety, stress, and deteriorating well-being. These effects are particularly visible among adolescents and young adults.
+
+CONTENT SECTIONS:
+
+Excessive social media use
+
+Risk factor for mental health and sleep quality, especially among young people
+
+Excessive use of social media is widespread and shows a clear negative impact on mental health and sleep. Numerous studies indicate that people who frequently and compulsively use social media are more likely to experience symptoms of depression, anxiety, stress, and deteriorating well-being. These effects are particularly visible among adolescents and young adults.
+
+Level of evidence:Strong
+
+Social media affects the brain by activating the reward system, reinforcing addictive behaviors and susceptibility to addiction, especially at a young age. The negative impact includes mechanisms such as excessive social comparison, cyberbullying, social pressure, and difficulties with impulse control. Frequent use of social media, especially before bedtime, leads to poorer sleep quality, shorter sleep duration, and increased daytime sleepiness. Problematic use also promotes the development of mood disorders and lowers self-esteem.
+
+Excessive use of social media is a well-documented risk factor for mental health and sleep quality, especially among adolescents and young adults. Problematic and compulsive use of these platforms leads to increased risk of depression, anxiety, loneliness, deteriorating well-being, and sleep disorders. In some people, behavioral addiction may develop, as well as deteriorated social and cognitive functioning. These effects are particularly severe with evening and nighttime use of social media.
+
+The scale of excessive social media use is growing worldwide, particularly among teenagers and young adults. The problem affects millions of users, many of whom show signs of addiction or significant psychological difficulties. These effects are a major public health challenge.
+
+Set time limits for use
+
+Set a maximum daily amount of time to spend on social media (e.g., using time-tracking apps or built-in phone limits).
+
+Avoid using social media before sleep
+
+Stop using social media at least 1–2 hours before planned sleep to improve its quality.
+
+Engage actively, not passively
+
+Focus on active interaction and building positive relationships, rather than passively browsing content.
+
+Watch for warning signs
+
+Monitor yourself for symptoms of mood deterioration, increased anxiety, decreased motivation, or sleep problems—these may be signs of excessive use.
+
+Maintain digital balance
+
+Replace some of your online time with offline activities—physical activity, meeting loved ones, or developing hobbies.
+
+Excessive use of social media leads to increased symptoms of depression, anxiety, stress, and general deterioration of mental well-being. Young people are particularly vulnerable, and effects include both clinical symptoms and a decrease in quality of life.
+
+Depression and anxiety
+
+Stress and reduced well-being
+
+Loneliness and low self-esteem
+
+Additional observations
+
+Excessive use of social media, especially in the evening, is strongly associated with poorer sleep quality, reduced sleep duration, and a higher risk of sleep disorders, particularly among adolescents and young adults.
+
+Sleep quality and duration
+
+Daytime sleepiness and circadian rhythm
+
+Addiction, stress, and risk factors
+
+Exceptions and limitations
+
+Excessive use of social media can negatively affect mental health and brain function, leading to emotional disorders, deteriorated cognitive function, and structural changes similar to other behavioral addictions.
+
+Impact on mental health
+
+Structural changes in the brain
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:49
+
+Final comment:The impact of excessive social media use on mental health and sleep quality is supported by numerous meta-analyses, systematic reviews, and many large observational studies. This evidence clearly indicates a connection between frequent or problematic use of social media and increased symptoms of depression, anxiety, stress, loneliness, and deteriorating mental well-being, especially among adolescents and young adults. There is also a clear link to poorer sleep quality, longer sleep latency, greater daytime sleepiness, and a higher risk of behavioral addiction. These effects are observed in many studies, across different populations and cultural contexts, and show a dose-response relationship. Some experimental and observational studies also provide preliminary data on structural brain changes and addiction mechanisms related to the reward system. The results are consistent across high-quality studies, and the described negative effects are confirmed by literature reviews and meta-analyses, justifying the assignment of the highest level of scientific evidence to this intervention.
+
+Problematic Social Media Use in Adolescents and Young Adults: Systematic Review and Meta-analysis
+
+Number of 
+
+Key takeaways:Problematic social media use is moderately associated with increased symptoms of depression, anxiety, and stress in adolescents and young adults.
+
+Abstract:Background Technology is ever evolving, with more and more diverse activities becoming possible on screen-based devices. However, participating in a heavy screen-based lifestyle may come at a cost. Our hypothesis was that problematic social media use increased the prevalence of mental health outcomes. Objective This study seeks to systematically examine problematic social media use in youth and its association with symptoms of depression, anxiety, and stress. Methods A systematic search was conducted to identify studies in adolescents and young adults, using the databases Engineering Village, Psycinfo, Pubmed, and Web of Science. A total of 18 studies were identified, with a total of 9269 participants in our review and included in the meta-analysis. Results Our metaregression shows moderate but statistically significant correlations between problematic social media use and depression (r=0.273, P<.001), anxiety (r=0.348, P<.001), and stress (r=0.313, P<.001). We did not find evidence of heterogeneity of these summary correlations by age, gender, or year of publication. Conclusions This study provides further evidence of the association between problematic social media use and negative mental health among adolescents and young adults and supports future research to focus on the underlying mechanisms of problematic use of social media. Trial Registration PROSPERO CRD42021222309; 
+
+Social Media Use and Mental Health: A Global Analysis
+
+Number of 
+
+Key takeaways:Excessive social media use, particularly among vulnerable individuals, is linked to depression and other mental health disorders.
+
+Abstract:Research indicates that excessive use of social media can be related to depression and anxiety. This study conducted a systematic review of social media and mental health, focusing on Facebook, Twitter, and Instagram. Based on inclusion criteria from the systematic review, a meta-analysis was conducted to explore and summarize studies from the empirical literature on the relationship between social media and mental health. Using PRISMA guidelines on PubMed and Google Scholar, a literature search from January 2010 to June 2020 was conducted to identify studies addressing the relationship between social media sites and mental health. Of the 39 studies identified, 20 were included in the meta-analysis. Results indicate that while social media can create a sense of community for the user, excessive and increased use of social media, particularly among those who are vulnerable, is correlated with depression and other mental health disorders.
+
+Social media use and its impact on adult's mental health and well-being: A scoping review.
+
+Number of 
+
+Key takeaways:Excessive social media use can increase depression, anxiety, mood, and loneliness, but purposeful use can also contribute to improvements in mental health and well-being.
+
+Abstract:BACKGROUND
+Social media use has grown in importance and prevalence, with its estimated number of users at 4.9 billion worldwide. Social media use research has revealed positive and negative impacts on users' mental health and well-being. However, such impacts among adults have not been examined in any reviews.
+
+METHODS
+A scoping review was conducted based on the framework by Arksey and O'Malley and reported based on the PRISMA-ScR guidelines. Eight databases were searched from 2005 to December 2021. Articles were included after being reviewed by three independent teams, with discrepancies resolved through consensus with the senior author. Publication-related information (i.e., authors, year of publication, aims, study population, methodology, interventions, comparisons, outcome measures and key findings) were extracted from each study. Thematic analysis was conducted to answer the research questions.
+
+RESULTS
+Among the 114 eligible articles, young adults (69.6%) represented the main age group. Most studies (78.6%) focused on the negative impacts of social media use on mental health and well-being, with nearly a third (32.1%) assessing such impacts on depression. Notably, this scoping review found that more than three-quarters (78.6%) of the included studies revealed that excessive and passive social media use would increase depression, anxiety, mood, and loneliness. Nevertheless, a third (33.0%) also reported positive impacts, where positive and purposeful use of social media would contribute to improvements in mental health and well-being, such as increased perceived social support and enjoyment.
+
+LINKING EVIDENCE TO ACTION
+This review has provided an overview of the existing knowledge on how social media use would affect adults and identified areas of research that merit investigations in future studies. More attention should be given to maximizing the positive impacts of social media use on mental health and well-being among adults.
+
+A meta-analysis of the problematic social media use and mental health
+
+Number of 
+
+Key takeaways:Problematic social media use negatively impacts well-being, while positive correlations show it increases distress, with depression and loneliness being the most significant indicators.
+
+Abstract:Background: Although previous meta-analyses were conducted to quantitatively synthesize the relation between problematic social media (SM) use and mental health, they focused on Facebook addiction. Aims: The purpose of this meta-analysis is to examine this relation by extending the research scope via the inclusion of studies examining problematic use of all platforms. Method: One hundred and thirty-three independent samples (N =244,676) were identified. Results: As expected, the mean correlations between problematic SM use and well-being are negative, while those between problematic SM use and distress are positive. Life satisfaction and self-esteem are commonly used to represent well-being, while depression and loneliness are usually used to indicate distress. The mean correlations of problematic SM use with life satisfaction and self-esteem are small, whereas those of problematic SM use with depression and loneliness are moderate. The moderating effects of publication status, instruments, platforms and mean age are not significant. Conclusions: The magnitude of the correlations between problematic SM use and mental health indicators can generalize across most moderator conditions.
+
+IMPACT OF SOCIAL MEDIA ON MENTAL HEALTH
+
+Number of 
+
+Key takeaways:Social media can provide benefits like connectivity and emotional support, but excessive usage can lead to mental health concerns like anxiety, depression, and self-esteem issues.
+
+Abstract:Social media has transformed the way individuals interact and communicate, significantly
+impacting mental health and well-being. This study explores the complex relationship between
+social media usage and mental health, considering both positive and negative effects. While
+social networking platforms facilitate connectivity, knowledge sharing, and emotional support,
+excessive usage has been linked to mental health concerns such as anxiety, depression, and
+self-esteem issues. The displaced behavior theory suggests that when individuals experience
+stress, they may engage in immediate but detrimental behaviors, such as excessive social media
+use, which can lead to long-term negative consequences.
+A systematic review of relevant literature reveals conflicting findings regarding social media's
+impact on mental health. While some studies highlight the benefits of social interaction and
+support, others emphasize the risks associated with cyberbullying, self-comparison, and
+addiction. Data analysis indicates that Instagram dominates social media engagement, with a
+significant proportion of users experiencing pressure to maintain an idealized online identity.
+Additionally, a notable percentage of respondents report difficulty in reducing their social
+media usage, and many experience sleep disturbances as a result.
+The study underscores the need for a balanced approach to social media engagement,
+advocating for mental health awareness initiatives by social media platforms. Further
+longitudinal research is essential to provide clearer insights into the long-term effects of social
+media on mental health. Understanding the nuances of social media use is crucial for
+developing strategies to mitigate risks while leveraging its benefits for social connectivity and
+mental well-being
+
+Social Media Use and Mental Health among Young Adults
+
+Number of 
+
+Key takeaways:Social media use is not predictive of impaired mental health in young adults, but vaguebooking is a potential warning sign for suicidal ideation.
+
+Abstract:In recent years many parents, advocates and policy makers have expressed concerns regarding the potential negative impact of social media use. Some studies have indicated that social media use may be tied to negative mental health outcomes, including suicidality, loneliness and decreased empathy. Other studies have not found evidence for harm, or have indicated that social media use may be beneficial for some individuals. The current correlational study examined 467 young adults for their time spent using social media, importance of social media in their lives and tendency to engage in vaguebooking (posting unclear but alarming sounding posts to get attention). Outcomes considered included general mental health symptoms, suicidal ideation, loneliness, social anxiety and decreased empathy. Results indicated that social media use was not predictive of impaired mental health functioning. However, vaguebooking was predictive of suicidal ideation, suggesting this particular behavior could be a warning sign for serious issues. Overall, results from this study suggest that, with the exception of vaguebooking, concerns regarding social media use may be misplaced.
+
+The Impact of Social Media on Mental Health
+
+Number of 
+
+Key takeaways:Social media can foster connections and support mental health, but excessive use can lead to depression, anxiety, and social isolation.
+
+Abstract:Social media has become an integral part of daily life, especially for children, adolescents, and young adults. While it provides opportunities for socialization, self-expression, and mental health support, it also presents significant risks, such as increased depression, anxiety, and social isolation. This paper examines both the positive and negative effects of social media on mental health, discussing its role in fostering connections, providing access to mental health resources, and enabling self-expression. Conversely, it examines the adverse impacts of excessive use, cyberbullying, and social comparison. Additionally, strategies for promoting positive mental health through mindful social media use are outlined. Understanding this complex relationship is essential for researchers, mental health professionals, policymakers, and social media platforms to create a safer and healthier digital environment. Future research should explore the evolving trends and long-term effects of social media use on mental health across diverse demographics.
+
+Keywords: Social media, mental health, depression, anxiety, cyberbullying, social comparison, adolescents.
+
+Social media use and emerging mental health issues
+
+Number of 
+
+Key takeaways:Excessive social media use can lead to negative mental health outcomes, such as social anxiety, depression, and reduced sleep quality.
+
+Abstract:Since its inception, social media has brought about numerous benefits, including higher levels of social connectedness, potential positive interactions, and greater access to information. Nonetheless, the excessive use of social media can lead to negative health outcomes, such as social anxiety, depression, low self-esteem, reduced sleep quality, and higher perceived stress. It has been argued that boredom and loneliness may be mediating factors between social media misuse and negative mental health effects, above all among youth and adolescents. Likewise, exposure to graphic imagery or misinformation on social media may also have deleterious implications for mental health. Taken together, this suggests a need for targeted studies on the relationship between social media and mental health, as well as the development of educational interventions for adolescents to share knowledge about the safe use of such tools. Mental health professionals should be adequately trained in identifying risk factors and treating the negative health outcomes that may result from social media. Specific strategies and guidelines should be adopted by social media companies aligned with international evidence from health agencies and experts in e-mental health.
+
+A systematic review: the influence of social media on depression, anxiety and psychological distress in adolescents
+
+Number of 
+
+Key takeaways:Adolescent social media use, including time spent, activity, investment, and addiction, is positively correlated with depression, anxiety, and psychological distress.
+
+Abstract:ABSTRACT While becoming inextricable to our daily lives, online social media are blamed for increasing mental health problems in younger people. This systematic review synthesized evidence on the influence of social media use on depression, anxiety and psychological distress in adolescents. A search of PsycINFO, Medline, Embase, CINAHL and SSCI databases reaped 13 eligible studies, of which 12 were cross-sectional. Findings were classified into four domains of social media: time spent, activity, investment and addiction. All domains correlated with depression, anxiety and psychological distress. However, there are considerable caveats due to methodological limitations of cross-sectional design, sampling and measures. Mechanisms of the putative effects of social media on mental health should be explored further through qualitative enquiry and longitudinal cohort studies.
+
+A Systematic Review of Excessive Social Media Use: Has It Really Affected Our Mental Health?
+
+Number of 
+
+Key takeaways:Excessive social media use is positively associated with addiction and reduces perceived stress, with avoidant attachment being a contributing factor.
+
+Abstract:Introduction: Social media use has been rapidly increasing over the past few years. Research and practice have mostly focused on the positive impacts of social media, intending to understand and support the various opportunities afforded by this particular technology era. However, it is increasingly observable that social media also involves enormous risks for individuals, communities, firms and even for society as a whole. This systematic review aimed to establish the negative impacts on mental health related to the excessive use of social media.Methods: As many as 15 articles were generated from Scopus, ScienceDirect and Ebscohost. The reviewers independently screened the titles and abstracts in addition to assessing the studies. The study design varied in rigorousness over the quantitative as well as qualitative studies.Results: The result for this study are that having an average daily screen time (more than 2 hours a day) is positively associated with social media addiction. Avoidant attachment was associated with more problematic social media use.Conclusion: Avoidant attachment was associated with more problematic social media use. Thus, an abstinence of several days from social media consumption can caused a reduction in perceived stress.
+
+Perception, use of social media, and its impact on the mental health of Indian adolescents: A qualitative study
+
+Number of 
+
+Key takeaways:Excessive social media use in Indian adolescents is linked to increased stress, anxiety, and depression, and leads to sleep disruption.
+
+Abstract:BACKGROUND Mental illness is a health challenge faced by adolescents that has grown worse after the Coronavirus disease 2019 pandemic. Research on social media and young people’s mental health has recently increased, and numerous studies have examined whether frequent use of social media is linked to issues such as anxiety, stress, depression, eating disorders, insomnia, frustration, feeling alone, and externalizing problems among adolescents. This influence of social media on adolescents’ lives is clear, with many platforms like Facebook, Instagram, and YouTube playing an important role in daily interactions and self-expression. Even though social media offers numerous benefits, such as connectivity and information sharing, excessive usage can have detrimental effects on mental health, particularly among adolescents. AIM To study the impact of social media on the mental wellbeing of adolescents, and the associated potential dangers in India. METHODS A total of 204 adolescents aged 14 years to 23 years were included in the study. This study explored the intricate relationship between social media usage and adolescent mental health in India. The study employs a cross-sectional survey design to capture a snapshot of adolescent mental health and social media usage patterns. Data collection involved administering structured questionnaires and the analysis utilized quantitative methods, including descriptive statistics. RESULTS Excessive use of social media is correlated with increased stress, anxiety, and depression. Adolescents engage in compulsive behaviors such as scrolling in the middle of the night, which negatively impacts their mental and physical health, and leads to significant sleep disruption. Findings from the study aim to provide insights into the current state of adolescent mental health and inform strategies to promote positive wellbeing in the Indian population. CONCLUSION The study underscores the need for further research to better understand the complex interplay between social media and adolescent mental health, and need for effective strategies to combat online harassment.
+
+Exploring the Impact of Excessive Social Media Use on Mental Health and Social Interaction
+
+Number of 
+
+Key takeaways:Excessive social media use can trigger antisocial behavior, deteriorate mental health, and foster addictive tendencies, particularly among young users.
+
+Abstract:This paper examines the impact of excessive social media usage on mental health and well-being, focusing on its potential to trigger antisocial behavior, deteriorate mental health, and foster addictive tendencies. Despite the label 'social,' social media can diminish social interactions, contributing to feelings of loneliness and heightened social anxiety. Neurologically, the brain's reward system responds to social media interactions with dopamine release, cultivating addictive behavior, especially among young users. Studies reveal direct links between extensive social media engagement and increased anxiety and depression. The intricate relationship between dopamine, digital engagement, and mental well-being underscores the vulnerability of younger individuals. Balancing the allure of virtual connection with the risks of addiction necessitates a mindful approach to social media usage, including time limits and the pursuit of diverse offline activities. This inquiry highlights the importance of informed engagement to preserve well-being in the era of pervasive social media.
+
+Effects Of Social Media On Mental Health: A Review
+
+Number of 
+
+Key takeaways:Excessive social media use is associated with depression and other mental health disorders, but may also foster a sense of community among users.
+
+Abstract:Research indicates that excessive use of social media can be related to depression and anxiety. This study conducted a systematic review of social media and mental health, focusing on Facebook, Twitter, and Instagram. Based on inclusion criteria from the systematic review, ameta-analysis was conducted to explore and summarize studies from the empirical literature on the relationship between social media and mental health. Using PRISMA guidelines on PubMed and Google Scholar, a literature search from January 2010 to June 2020 was conducted to identify studies addressing the relationship between social media sites and mental health. Of the 45 studies identified, 25 were included in the meta-analysis. The findings indicate that while excessive and expanding use of social media, particularly among those who are sensitive, is associated to depression and other mental health disorders, it may also foster a sense of community among users
+
+Social Media and Mental Health: Excessive Use of Social Media May Lead to Psychiatric Disorders
+
+Number of 
+
+Key takeaways:Excessive use of social media can lead to sleep deprivation, anxiety, and other mental health issues.
+
+Abstract:Excessive use of social media is one of the causes of psychiatric disorders. Millions of people suffer from health issues but not all get the adequate treatment. Individuals involve in social media to gain support, help and to advance their own image online. They also utilize social media for excitement, to relax and for time pass. Usage of social media leads to both positive and negative psychological results. Connection between social media and psychiatric disorders can be seen by the regularity of online presence individual have everyday schedule. Usage of social media is turning into a hazard for youth generation these days. They mostly fall prey to the inappropriate content and online security issues. This proposal explains how sleep deprivation, anxiety and other health issues have a direct connection with excessive use of social media. The main purpose of this proposal is to highlight how social networking sites effect individual’s relations, the findings indicates that some online activities were linked to higher level of anxiety.
+
+Social Media and its Effects on Mental Health
+
+Number of 
+
+Key takeaways:Excessive social media usage is linked to mental health issues, highlighting the need for stakeholders to take immediate measures to prevent its rampant use.
+
+Abstract:There is no doubt that varioussocial media platforms have transformed the new generation. The social media has resulted in the transformation of not only how this generation communicates, but has also transformed business, education and above all, the entertainment. Not only that the social media has made a lot of positive impacts on the human life, it has a lot of negative impacts on all age group as well, especially the youth. Addiction of social media is in trend and is a major contributing factor to rapid increase in several mental health issues. Some of the examples of the issues arising from the excessive use of social media that are on rise include: disturbed circadian rhythm, sleep disorders, reproductive health, phantom vibration, and ringing syndrome. Therefore, thisstudy surveyed the extent to which the mental health is being hampered by excessive use ofsocial media. This study was conducted in two stages surveying 263 participants from India, Russia, Nepal, Ukraine, Kazakhstan, and Georgia. A questionnaire was used as a research instrument, which was sent to the random respondents to study their indulgence in social media. Findings from these responses showed that the mental health issues are associated to the social media usage. Therefore, stakeholders must take remedial action to prevent rampancy of social media usage. From the study conducted, the effects of the social media are not only taking toll on the social life, life style, and physical heath of the users but, also over their mental health. There are urgent needs to take immediate remedial measures to counter this growing menace in the society.
+
+The Impact of Social Media on Mental Health: A Comprehensive Review
+
+Number of 
+
+Key takeaways:Social media use can both positively and negatively impact mental health, with age, developmental stage, and usage patterns influencing its effects.
+
+Abstract:Introduction: This comprehensive review explores the multifaceted relationship between social media use and mental health, highlighting its positive and negative effects. While social media fosters connectivity and mental health awareness, excessive use has been linked to adverse outcomes such as anxiety, depression, and cyberbullying. It is utilizing theoretical frameworks such as Social Comparison Theory and the personal Model.Objectives: This study examines how curated online interactions influence psychological well-being. Methods: A systematic scoping review was conducted, encompassing recent studies from 2019 onward. Results: Findings reveal that age, developmental stage, and usage patterns significantly moderate the effects of social media on mental health. Emerging concerns include Fear of Missing Out (FOMO), sleep disturbances, and low self-esteem, particularly among adolescents and young adults. Despite its challenges, social media presents opportunities for mental health support through peer networks and online interventions. Conclusions: This review underscores the need for tailored strategies, digital literacy programs, and policy regulations to mitigate risks and maximize social media’s potential for positive mental health outcomes. Future research should focus on longitudinal studies, cross-cultural analyses, and innovative digital interventions to address gaps in understanding the complexities of social media's impact on mental health.
+
+The Effect of Excessive Social Media Communication on Student’s Mental Health
+
+Number of 
+
+Key takeaways:Excessive social media use has a significant impact on mental health, with positive use for networking and relationship building, while excessive use for unclear purposes can trigger overthinking, insecurity, and insomnia.
+
+Abstract:Humans are social creatures who cannot live without other people. The development of the times and the phenomenon that occurs is communicating using media technology, commonly referred to as social media. This study aims to determine the effect of excessive social media communication on the mental health of bilingual communication science students at Medan Area University. This research method is using a quantitative approach; data collection is done using primary data and secondary data. The population in this study was 43 people and the sampling technique was a saturated sample with a total sample of 43 respondents. The results of this study indicate that the use of social media has a very significant relationship to mental health with the Pearson X and Y correlation values of 0.001 &lt; 0.05, Then the variable relationship is stated to have a correlation. Students who use social media for positive purposes and pay attention to duration have a positive effect on mental health such as expanding relationships, increasing networking, in the world of technology, while students who use social media for purposes that are not clear and without seeing the duration of what their goals are can actually trigger overthinking, insecure, insomnia. Keywords: Communication, Social Media, Students, Excessive, Mental Health. DOI: 10.7176/NMMC/101-09 Publication date: August 30 th 2022
+
+Social media use and its impact on adolescent mental health: An umbrella review of the evidence.
+
+Number of 
+
+Key takeaways:Most reviews view the associations between social media use and adolescent mental health as weak or inconsistent, with a few calling them substantial or deleterious.
+
+Social Media and Gen Z's Mental Well-Being: Impact of Excessive Usage on Anxiety, Stress, and Depression Levels Analysis
+
+Number of 
+
+Key takeaways:Excessive social media use may negatively impact mental health, particularly among vulnerable Gen Z populations.
+
+Abstract:Generation Z’s unprecedented access to social media, facilitated by their lifelong exposure to technology, has raised concerns about its impact on mental health. Despite evidence indicating that excessive social media use can negatively affect mental well-being, limited research specifically addresses Gen Z, the true digital natives. This study contributes to this discourse by examining the effects of high social media usage on the mental health of Gen Z, the newest generation in the workforce. While previous research has explored the impact of excessive social networking site (SNS) use on mental health, it often lacks generational specificity. This study employs the DASS-21 survey instrument to assess the impact of social media on depression, anxiety, and stress among Gen Z. Problematic social media usage is measured using the Bergen Social Media Addiction Scale (BSMAS), an adaptation of the Bergen Facebook Addiction Scale (BFAS). The sample includes social media users who participated either through in-person interactions or online surveys. Correlation analysis identifies the relationship between social media usage and mental health outcomes, while Structural Equation Modeling (SEM) elucidates the connections between variables influencing social media usage and mental well-being. Findings suggest that excessive social media use may negatively impact mental health, particularly among vulnerable Gen Z populations.
+
+Interplay between social media use, sleep quality, and mental health in youth: A systematic review.
+
+Number of 
+
+Key takeaways:Excessive social media use is linked to poor sleep quality and negative mental health in youth.
+
+#Sleepyteens: Social media use in adolescence is associated with poor sleep quality, anxiety, depression and low self-esteem.
+
+Number of 
+
+Key takeaways:Adolescents who use social media more and are emotionally invested in it experience poorer sleep quality, lower self-esteem, and higher levels of anxiety and depression.
+
+The association between social media use and sleep disturbance among young adults.
+
+Number of 
+
+Key takeaways:Higher social media use volume and frequency is strongly associated with increased odds of sleep disturbance among young adults.
+
+Effect of social media use on learning, social interactions, and sleep duration among university students
+
+Number of 
+
+Key takeaways:Prolonged use of social media for nonacademic purposes can negatively impact academic performance, social interactions, and sleep duration among university students, leading to a sedentary lifestyle and physical inactivity.
+
+Fear of missing out and sleep: Cognitive behavioural factors in adolescents' nighttime social media use.
+
+Number of 
+
+Key takeaways:Fear of missing out contributes to shorter sleep duration in adolescents by driving late-night social media use and increasing pre-sleep cognitive arousal.
+
+Social media use, mental health and sleep: A systematic review with meta-analyses.
+
+Number of 
+
+Key takeaways:Social media use is positively associated with depression, anxiety, and sleep problems, while problematic social media use is positively associated with depression, anxiety, and sleep problems.
+
+The association between the use of social network sites, sleep quality and cognitive function during the day
+
+Number of 
+
+Key takeaways:Increased dependence on social network sites is correlated with decreased sleep quality and increased everyday cognitive failures, with sleep quality acting as a mediator.
+
+Social media use in female adolescents: Associations with anxiety, loneliness, and sleep disturbances.
+
+Number of 
+
+Key takeaways:Social media disorder in female adolescents is associated with increased loneliness, poorer sleep quality, and different associations across platforms and usage.
+
+Social Media Use, Social Media Stress, and Sleep: Examining Cross-Sectional and Longitudinal Relationships in Adolescents
+
+Number of 
+
+Key takeaways:Social media use and stress are positively related to sleep latency and daytime sleepiness in adolescents, but stress is a more significant predictor of these sleep issues than use itself.
+
+Abstract:ABSTRACT There are concerns that social media (SM) use and SM stress may disrupt sleep. However, evidence on both the cross-sectional and longitudinal relationships is limited. Therefore, the main aim of this study is to address this gap in the literature by examining the cross-sectional and longitudinal relationships between SM use, SM stress, and sleep (i.e., sleep latency and daytime sleepiness) in adolescents. In total, 1,441 adolescents 11–15 years, 51% boys) filled out a survey in at least one of three waves that were three to four months apart (NWave1 = 1,241; NWave2 = 1,216; NWave3 = 1,103). Cross-sectionally, we found that SM use and SM stress were positively related to sleep latency and daytime sleepiness. However, when examined together, SM use was not a significant predictor of sleep latency and daytime sleepiness above the effects of SM stress. The longitudinal findings showed that SM stress was positively related to subsequent sleep latency and daytime sleepiness, but only among girls. Our findings stress that it is important to focus on how adolescents perceive and cope with their SM use, instead of focusing on the mere frequency of SM use.
+
+Social media, sleep difficulties and depressive symptoms: A case study of South African youth in Cape Town
+
+Number of 
+
+Key takeaways:Excessive social media use is linked to increased sleep difficulties and depressive symptoms in South African youth.
+
+Relationship between Social Media Use and Sleep Disturbance among Adults in Afghanistan
+
+Number of 
+
+Key takeaways:Excessive social media use in Afghanistan leads to poor sleep quality and difficulty concentrating on daily activities, highlighting the need for awareness and interventions.
+
+Abstract:This study aimed to investigate the impact of excessive social media use on sleep and mental well-being among adults in Afghanistan. An online survey was conducted across 19 provinces in Afghanistan to assess social media usage and its effects on sleep. 407 Afghan adults Participated in the survey and were asked about their usage patterns, perceived addiction, and impact on their sleep quality and mental well-being. The survey revealed that many Afghan adults exhibited excessive social media usage and showed signs of addiction. ¾ participants reported a strong urge to use social media. Social media usage, particularly before bedtime, significantly affected sleep patterns and mental well-being. 68% of participants identified social media as a problem. A direct correlation was observed between the duration of social media usage and sleep disturbances, with increased usage leading to poor sleep quality and difficulty concentrating on daily activities. This study highlights the need for awareness and interventions to address the harmful effects of excessive social media use on sleep and mental well-being. Mental health professionals, policymakers, and health organizations are urged to collaborate and develop strategies to promote mental well-being and address the issue of excessive social media usage.
+
+Bedtime social media use, sleep, and affective wellbeing in young adults: an experience sampling study.
+
+Number of 
+
+Key takeaways:Bedtime social media use is not detrimental to the sleep and affective wellbeing of healthy young adults, but may be harmful to vulnerable individuals.
+
+Abstract:BACKGROUND
+Findings from primarily cross-sectional studies have linked more extensive social media use to poorer sleep and affective wellbeing among adolescents and young adults. This study examined bedtime social media use, sleep, and affective wellbeing, using an experience sampling methodology with the aim of establishing a day-to-day temporal link between the variables. The study hypothesized a positive association between increased bedtime social media use and lower affective wellbeing the following day, mediated by poorer sleep.
+
+METHODS
+Using a smartphone application, 101 undergraduate students (Mage  = 19.70 years, SD = 1.09 years), completed daily questionnaires assessing the previous night's bedtime social media use and sleep duration and satisfaction (one measurement per day, questionnaire sent at 08:00), and momentary affective wellbeing (five measurements per day, at randomly varying times between 08:00 and 22:00 on weekdays and 10:00 and 22:00 on weekends), for 14 consecutive days. Objective assessments of total sleep time and sleep efficiency were obtained via wrist-worn actigraphs. By means of separate multilevel models, it was tested whether increased bedtime social media use predicted poorer sleep the same night, whether poorer sleep was predictive of positive and negative affect the following day, and whether sleep mediated the relationship between social media use and affective wellbeing.
+
+RESULTS
+Increased bedtime social media use was not associated with poorer sleep the same night. Apart from subjective sleep satisfaction, no other sleep variable (i.e., subjective sleep duration, objective total sleep time and objective sleep efficiency) predicted positive or negative affect the following day.
+
+CONCLUSIONS
+This study found that bedtime social media use is not detrimental to the sleep and affective wellbeing of healthy young adults. However, it is possible that bedtime social media use may be harmful to the sleep of vulnerable individuals.
+
+Excessive use of social media related to mental health and decreased sleep quality in students
+
+Number of 
+
+Key takeaways:Excessive social media use before bedtime can impair sleep quality and negatively affect mental and physical health in students.
+
+Abstract:Objective: To identify in the literature the relationship between the use of social media by students and its impact on mental health and sleep quality. Methods: Integrative literature review in databases such as PubMed, LILACS, SciELO, Acervo+ Index Base and Cochrane Library, including cross-sectional observational studies 
+
+The Impact of Social Media Use on Sleep and Mental Health in Youth: a Scoping Review
+
+Number of 
+
+Key takeaways:Social media use negatively impacts sleep and mental health in youth, with potential benefits during COVID, but more research is needed to establish directionality and causality.
+
+Abstract:Abstract Purpose of Review Social media use (SMU) and other internet-based technologies are ubiquitous in today’s interconnected society, with young people being among the commonest users. Previous literature tends to support that SMU is associated with poor sleep and mental health issues in youth, despite some conflicting findings. In this scoping review, we summarized relevant studies published within the past 3 years, highlighted the impacts of SMU on sleep and mental health in youth, while also examined the possible underlying mechanisms involved. Future direction and intervention on rational use of SMU was discussed. Recent Findings Both cross-sectional and longitudinal cohort studies demonstrated the negative impacts of SMU on sleep and mental health, with preliminary evidence indicating potential benefits especially during the COVID period at which social restriction was common. However, the limited longitudinal research has hindered the establishment of directionality and causality in the association among SMU, sleep, and mental health. Summary Recent studies have made advances with a more comprehensive understanding of the impact of SMU on sleep and mental health in youth, which is of public health importance and will contribute to improving sleep and mental health outcomes while promoting rational and beneficial SMU. Future research should include the implementation of cohort studies with representative samples to investigate the directionality and causality of the complex relationships among SMU, sleep, and mental health; the use of validated questionnaires and objective measurements; and the design of randomized controlled interventional trials to reduce overall and problematic SMU that will ultimately enhance sleep and mental health outcomes in youth.
+
+Impact of Intense Social Media Usage on Sleeping Pattern
+
+Number of 
+
+Key takeaways:Excessive social media usage is linked to sleep problems or disruptions, potentially impacting daily tasks but also negatively affecting sleep habits.
+
+Abstract:The sleeping pattern refers to our habit of resting our bodies after a day's activities. This involves the number of hours spent sleeping and the overall wellbeing of the body when performing everyday tasks. When we don't get enough sleep, it immediately affects our health. This unhealthy sleep pattern is caused by several things, one of which is the intense usage of social media. The use of Social Media can affect health, both physically and psychologically. This research relies on systematic literatur review (SLR) method obtained from databases, namely Google Scholar from many countries in the world, and data about digital 2021 global overview report from Hootsuite & We Are Social. Of the 55 studies obtained, 41 studies stated that Insufficient sleep was found to be linked to social media use. daytime sleepiness, insomnia, or sleep patterns. According to the research, excessive usage of social media is related to sleep problems or disruptions. The usage of social media will have a beneficial impact, since it will make daily tasks easier. However, unrestricted use of social media can have a detrimental effect on sleep habits.
+
+The dark side of social media: Stalking, online self‐disclosure and problematic sleep
+
+Number of 
+
+Key takeaways:Stalking and online self-disclosure on social media drive compulsive use and poor sleep hygiene, with sleep hygiene having the strongest effect on problematic sleep.
+
+Abstract:Abstract The proliferation of social media usage has led to the manifestation of certain negative behaviours that are now referred to as the ‘dark side’ of social media use. These behaviours are a matter of concern, as they are detrimental to people's well‐being. The present study examines the empirical association among social media stalking, online self‐disclosure, social media sleep hygiene, compulsive social media use and problematic sleep, most of which have been previously recognized as key dark side behaviours. While social media stalking is a relatively new and under‐explored phenomenon, its predecessor, the much‐castigated cyberstalking, has received sufficient scholarly attention. This study's hypothesized associations are grounded in cognitive‐behavioural theory, self‐awareness theory and problem behaviour theory, which we test using cross‐sectional data from 876 social media users. We further control for age and gender. The findings suggest that stalking and online self‐disclosure drive compulsive use and poor sleep hygiene, with stalking being the chief driver in both cases. Problematic sleep is influenced by stalking, compulsive use and poor sleep hygiene, with sleep hygiene having the strongest effect, while poor sleep hygiene and compulsive use also partially mediate the association of both stalking and online self‐disclosure with problematic sleep.
+
+Assessing the effects of acute reductions in mobile device social media use on anxiety and sleep.
+
+Number of 
+
+Key takeaways:Acute reductions in social media use for one week showed no evidence of a causal effect on anxiety or sleep quality.
+
+Digital media and mental health in adolescent athletes.
+
+Number of 
+
+Key takeaways:Excessive social media usage in adolescent athletes is linked to increased negative affect and dysfunctional eating patterns, with social comparison and sleep quality being key factors.
+
+Problematic Social Networking Site use-effects on mental health and the brain
+
+Number of 
+
+Key takeaways:Problematic Social Networking Site use is associated with increased rates of depression, anxiety, stress, OCD, ADHD, and increased vulnerability to aggression, cyberbullying, and fear of missing out.
+
+Abstract:The association between excessive use of Social Networking Sites (SNS) and mental health is raising serious concern among health and education professionals. Problematic SNS use has been associated with an increased rate of depression, anxiety, stress, obsessive-compulsive disorder (OCD), attention-deficit/hyperactivity disorder (ADHD), and propensity to excessive alcohol use. It may also lead to vulnerability to aggression, cyberbullying and fear of missing out (FOMO). There is little evidence for cognitive impairments, but there is some preliminary event-related potentials (ERPs) evidence for inefficiency in allocating and monitoring resources and inhibitory control. Problematic SNS has been associated with the personality traits of conscientiousness agreeableness and neuroticism, and with narcissism. There is evidence for reduced sleep quality and quantity, longer sleeping latency and more sleep disturbance. The few brain imaging studies show some similarity between problematic SNS use and other addictions related to inhibitory-control mechanism, reduced gray matter volumes in the nucleus accumbens, amygdala, and the insula, suggesting rewarding effects of SNS use on the brain. Finally, there is preliminary evidence that treatment with Cognitive Behavior Therapy (CBT) can assist in short-term abstinence intervention to treat problematic SNS use. We conclude that problematic SNS use may have deleterious effects on emotional and social relationships, and more research is required on its effects on cognitive and brain function.
+
+Social media use and everyday cognitive failure: investigating the fear of missing out and social networks use disorder relationship
+
+Number of 
+
+Key takeaways:Excessive social media use may negatively impact cognitive functioning, with the Fear of Missing Out (FoMO) being a key contributing factor.
+
+Abstract:Nearly five billion individuals worldwide are using social media platforms. While the benefits of using social media, such as fostering social connections, are clear, ongoing discussions are focused on whether excessive use of these platforms might have adverse effects on cognitive functioning. Excessive social media use shares similarities with addictive behaviors and is believed to result from a complex interplay of individual characteristics, emotions, thoughts, and actions. Among these contributing factors, one of particular interest is the Fear of Missing Out (FoMO), a state where an individual apprehends that others are experiencing rewarding moments in their absence (but see more information on the FoMO trait/state debate in this article).
+
+Adverse consequences of excessive social networking site use on academic performance: Explaining underlying mechanism from stress perspective
+
+Number of 
+
+Key takeaways:Excessive social networking site use leads to cognitive distraction, negatively impacting academic performance among students, with cognitive-behavioral control reducing this negative effect.
+
+The impact of excessive social media use at work: a usage experience–stressor–strain perspective
+
+Number of 
+
+Key takeaways:Excessive social media use at work leads to emotional exhaustion and decreased job performance, with information overload having a significant impact on both emotional exhaustion and performance.
+
+Abstract:ABSTRACT Excessive use of personal social media has become prevalent in the work environment and has caused significant psychological and behavioural problems among employees. These problems call for in-depth study. In this paper, we develop a usage experience–stressor–strain model to examine the consequences of excessive social media usage behaviour of employees at work, revealing the effects of different excessive usage patterns (i.e. social, hedonic, and cognitive) on employees’ psychological state (i.e. emotional exhaustion) and behavioural outcome (i.e. job performance) through dimensions of social media overload (i.e. information, communication, and social). We empirically test the research model with a survey of 422 employees who use social media at work. Our analysis presents that excessive social use at work is the major predictor of dimensions of overload. Furthermore, in contrast to the single effect of communication overload on emotional exhaustion and social overload on job performance, information overload has a significant impact on both emotional exhaustion and job performance of employees. This study advances our understanding of the complex relationships between excessive usage patterns, overload, emotional exhaustion, and job performance.
+
+Social Media Use and Well-Being: A Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:Problematic social media use is negatively correlated with subjective and psychological well-being, while excessive social media use shows no significant association with either well-being.
+
+Abstract:Prior research has investigated the link between social media use (SMU) and negative well-being. However, the connection with positive well-being has not been extensively studied, leading to a situation where there are inconsistent and inconclusive findings. This study fills this gap by examining the correlation between excessive and problematic SMU and subjective as well as psychological well-being (PWB). We conducted a systematic search across databases such as PubMed, Scopus, and Web of Science, and gray literature 
+
+Understanding neuroticism and social media: A systematic review
+
+Number of 
+
+Key takeaways:People with high trait neuroticism report excessive social media use despite appearing to use it infrequently, highlighting the need for considerations for both social media platform designers and users.
+
+Link between excessive social media use and psychiatric disorders
+
+Number of 
+
+Key takeaways:Excessive social media use is strongly linked to the development of anxiety, depression, insomnia, stress, and other psychological problems, with the likelihood of such disorders increasing with time spent on platforms and frequency of usage.
+
+Abstract:Mental health disorders are an emerging challenge with the progressively increasing usage of social media platforms. Social media use is the second leading cause of disability among psychiatric disorders. A great deal of literature has tried to establish links between social media exposure and mental health diseases. However, there is a need to discuss the current literature that presents crucial perspectives on social media-induced psychiatric disorders to establish a holistic, evidence-based approach for their prevention and treatment. The use of social networks is strongly correlated with the development of anxiety and other psychological problems such as depression, insomnia, stress, decreased subjective happiness, and a sense of mental deprivation. The majority of the cited literature predicts that the likelihood of social media-induced mental health problems is directly proportional to the amount of time spent on these sites, the frequency of usage, and the number of platforms being used. Various possible explanations have been implicated, including a negative impact on self-esteem through unhealthy comparisons, social media burnout, stress, lack of emotional regulation due to social media preoccupation, and development of social anxiety due to decreased real-life social interactions. It has been postulated that increased social media use is driven by preexisting anxiety and is a coping strategy. This era of progressively increasing digitalization, the recent trend of a dramatic shift toward online social life, and the desire to get social attention is expected to take a gruesome toll on the population’s mental health, which therefore warrants more attention to mental health care.
+
+Social Media and Romantic Relationship: Excessive Social Media Use Leads to Relationship Conflicts, Negative Outcomes, and Addiction via Mediated Pathways
+
+Number of 
+
+Key takeaways:Excessive social media use in romantic relationships can lead to reduced satisfaction, increased conflicts, and addiction, with sacrifice potentially mitigating these negative effects.
+
+Abstract:Social media provides a useful platform for people to share information, develop networks, and connect with each other online. While social media allows one to foster relationships with ease, it may pose challenges for individuals in a romantic relationship. Mounting evidence suggests that social media use may have an adverse impact on relationship dynamics, largely due to reduced time and attention for relationship partners. However, it remains unclear (1) how the increased use of social media may lead to negative consequences of relationship quality; (2) how the increased use of social media and negative relationship consequences together may trigger social media addiction; and (3) whether there are psychological factors that may contribute to the mitigation of the negative consequences. Here, we explored these issues by selecting Instagram (IG) as the target platform because the unique feature of tracking objective time of usage within the IG app allowed us to more accurately determine the length of IG usage. Using a structural equation modeling approach, we found that increased IG usage reduced relationship satisfaction, which led to an increase in both conflicts and negative outcomes. The sequential effects of reduced relationship satisfaction and increased conflicts then triggered addictive use of IG. In contrast, tendency to make sacrifice for the relationship partner in everyday life produced a positive effect on relationship satisfaction, which in turn reduced the likelihood of conflicts, negative outcomes, and addiction. Taken together, we have delineated pathways through which excessive social media use may detrimentally affect both relationship and personal well-being and identified sacrifice as a possible psychological factor to mitigate the detrimental effects. We believe that these findings add to our understanding of the processes by which social media influences romantic relationship and highlight the interactive effects of social media and relationship on causing unexpected, adverse consequences.
+
+Does excessive social media use decrease subjective well-being? A longitudinal analysis of the relationship between problematic use, loneliness and life satisfaction
+
+Number of 
+
+Key takeaways:Excessive social media use negatively impacts life satisfaction, with loneliness playing a crucial role in this relationship.
+
+Excessive social media use at work: Exploring the effects of social media overload on job performance
+
+Number of 
+
+Key takeaways:Excessive social media use at work leads to information and communication overload, which significantly reduces individual job performance.
+
+Abstract:Purpose
+The purpose of this paper is to explore the effects of excessive social media use on individual job performance and its exact mechanism. An extended stressor–strain–outcome research model is proposed to explain how excessive social media use at work influences individual job performance.
+
+Design/methodology/approach
+The research model was empirically tested with an online survey study of 230 working professionals who use social media in organizations.
+
+Findings
+The results revealed that excessive social media use was a determinant of three types of social media overload (i.e. information, communication and social overload). Information and communication overload were significant stressors that influence social media exhaustion, while social overload was not a significant predictor of exhaustion. Furthermore, social media exhaustion significantly reduces individual job performance.
+
+Originality/value
+Theory-driven investigation of the effects of excessive social media use on individual job performance is still relatively scarce, underscoring the need for theoretically-based research of excessive social media use at work. This paper enriches social media research by presenting an extended stressor–strain–outcome model to explore the exact mechanism of excessive use of social media at work, and identifying three components of social media-related overload, including information, communication and social overload. It is an initial attempt to systematically validate the casual relationships among excessive usage experience, overload, exhaustion and individual job performance based on the transactional theory of stress and coping.
+
+Psychosocial Correlates of Excessive Social Media Use in a Hispanic College Sample
+
+Number of 
+
+Key takeaways:Excessive social media use in Hispanic college students is linked to negative mood, attention-seeking behaviors, and manipulation of others.
+
+Abstract:Excessive social media has emerged as a potential behavioral addiction with multiple consequences, especially in young adulthood (18-24 years). This study aimed to assess the relationship between excessive social media use, sociodemographics, and psychosocial constructs in a Hispanic college student sample. College students (n = 621; n = 456 females; n = 160 males) from a university located on the U.S./Mexico border completed a survey assessing sociodemographics, social media addiction, social media use, and psychosocial constructs (e.g., Internet motives, sensation seeking, and need for drama ). Descriptive analyses were conducted, as were two linear regressions assessing weekly social media use and social media addiction. Participants reported using social media an average of 20 hours a week (SD = 19.47). In addition, 57.9 percent of participants reported using social media once a day or more, whereas 15.1 percent met the social media addiction threshold. Weekly social media use was positively associated with NFD, socialization, and coping as motives while being negatively associated with age. Social media addiction was positively associated with NFD and coping while being negatively associated with age. Findings suggest that Hispanic college students evidence high social media use rates and may be using social media as an unhealthy strategy to deal with negative mood and daily problems. Furthermore, college students may be using social media as an avenue to engage in attention-seeking behaviors and manipulation of others. Prospective studies are warranted to assess these relationships temporally, as are intervention efforts aimed at reducing excessive social media use.
+
+The relationship between addictive use of social media, narcissism, and self-esteem: Findings from a large national survey.
+
+Number of 
+
+Key takeaways:Addictive social media use is associated with narcissism, lower self-esteem, and lower age, with women potentially developing more addictive use than men.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

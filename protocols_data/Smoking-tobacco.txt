@@ -1,0 +1,916 @@
+PROTOCOL: Smoking tobacco
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Smoking tobacco - A known risk factor for many chronic diseases | Longevity Protocols
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Smoking tobacco is one of the most thoroughly documented harmful health behaviors. It increases the risk of many chronic diseases, including cancers, cardiovascular diseases, chronic obstructive pulmonary disease (COPD), and many other health disorders. The scale of harm is enormous, and quitting smoking brings immediate health benefits, improving the functioning of many body systems.
+
+CONTENT SECTIONS:
+
+A known risk factor for many chronic diseases
+
+Smoking tobacco is one of the most thoroughly documented harmful health behaviors. It increases the risk of many chronic diseases, including cancers, cardiovascular diseases, chronic obstructive pulmonary disease (COPD), and many other health disorders. The scale of harm is enormous, and quitting smoking brings immediate health benefits, improving the functioning of many body systems.
+
+Level of evidence:Strong
+
+Smoking tobacco negatively affects the body through a range of mechanisms. Cigarette smoke contains thousands of harmful chemicals, including carcinogens that damage DNA and cause epigenetic changes. Additionally, cigarette smoke induces inflammation, oxidative stress, disrupts immune system functions, and leads to the buildup of atherosclerotic plaques in blood vessels, resulting in many chronic diseases.
+
+The harmfulness of cigarette smoking is confirmed by decades of epidemiological research, systematic reviews, and WHO data. Smoking leads to:
+
+The global scale of the tobacco smoking problem is based on WHO data and epidemiological analyses. Key figures include:
+
+Choose a specific day within the next 1–2 weeks and treat it as a milestone moment.
+
+Pay attention to situations that trigger the urge to smoke and replace them with healthy habits (deep breathing, walking, chewing gum).
+
+Inform your loved ones about your decision and ask for their support. Mutual motivation to quit smoking can significantly increase your chances of success.
+
+Consider support therapies
+
+Use available smoking cessation therapies, such as nicotine replacement therapy, prescription medications, or psychological support programs.
+
+Quitting smoking is a process that takes time. Allow yourself to adapt to a new lifestyle and be forgiving if you feel tempted.
+
+Smoking tobacco has a clearly negative impact on the lungs. It causes serious respiratory diseases, such as lung cancer, chronic obstructive pulmonary disease (COPD), asthma, and increases the risk of infections and worsens lung function. Both active and passive smoking lead to permanent lung damage and deteriorated respiratory health.
+
+Asthma and asthma exacerbations
+
+Respiratory infections
+
+Changes in lung microbiome
+
+Cardiovascular system
+
+Smoking tobacco has a clearly negative impact on the cardiovascular system. It increases the risk of almost all heart and vascular diseases, including heart attack, stroke, heart failure, atherosclerosis, and sudden cardiac death. Quitting smoking significantly reduces this risk, even in older adults.
+
+Endothelial damage and atherosclerosis
+
+Increased blood pressure and heart rate
+
+Accelerated vascular aging
+
+Smoking tobacco is one of the best-documented factors increasing the risk of developing many cancers. Smoking significantly increases the risk of at least 17 types of cancers, including lung, larynx, oral cavity, esophagus, bladder, kidney, pancreas, stomach, colon, and others.
+
+Risk of various cancers
+
+Mechanisms and relationships
+
+Exceptions and nuances
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:96
+
+Final comment:Smoking tobacco is one of the best-documented risk factors for many chronic diseases, including cancers, cardiovascular diseases, and lung diseases. Numerous epidemiological studies, meta-analyses, and clinical trials have demonstrated a strong, thoroughly documented impact of smoking on health, encompassing not only direct health effects but also negative consequences for life expectancy.
+
+Cigarette smoke exposure and alveolar macrophages: mechanisms for lung disease
+
+Number of 
+
+Key takeaways:Cigarette smoking alters alveolar macrophage recruitment, phenotype, immune function, and homeostasis, potentially causing lung disease and reducing the risk of infection or injury in ex-smokers.
+
+Abstract:Cigarette smoking is the leading cause of preventable death worldwide. It causes chronic lung disease and predisposes individuals to acute lung injury and pulmonary infection. Alveolar macrophages are sentinel cells strategically positioned in the interface between the airway lumen and the alveolar spaces. These are the most abundant immune cells and are the first line of defence against inhaled particulates and pathogens. Recently, there has been a better understanding about the ontogeny, phenotype and function of alveolar macrophages and their role, not only in phagocytosis, but also in initiating and resolving immune response. Many of the functions of the alveolar macrophage have been shown to be dysregulated following exposure to cigarette smoke. While the mechanisms for these changes remain poorly understood, they are important in the understanding of cigarette smoking-induced lung disease. We review the mechanisms by which smoking influences alveolar macrophage: (1) recruitment, (2) phenotype, (3) immune function (bacterial killing, phagocytosis, proteinase/anti-proteinase release and reactive oxygen species production) and (4) homeostasis (surfactant/lipid processing, iron homeostasis and efferocytosis). Further understanding of the mechanisms of cigarette smoking on alveolar macrophages and other lung monocyte/macrophage populations may allow novel ways of restoring cellular function in those patients who have stopped smoking in order to reduce the risk of subsequent infection or further lung injury.
+
+SmokeHaz: Systematic Reviews and Meta-analyses of the Effects of Smoking on Respiratory Health.
+
+Number of 
+
+Key takeaways:Smoking tobacco increases the risk of lung cancer, COPD, and asthma in adults, as well as a higher risk of sleep apnea, asthma exacerbations, and tuberculosis in children.
+
+Cigarette Smoke-Induced Respiratory Response: Insights into Cellular Processes and Biomarkers
+
+Number of 
+
+Key takeaways:Cigarette smoke induces oxidative stress, inflammation, apoptosis, and senescence in the lung, leading to respiratory diseases like COPD, PF, and lung cancer.
+
+Abstract:Cigarette smoke (CS) poses a significant risk factor for respiratory, vascular, and organ diseases owing to its high content of harmful chemicals and reactive oxygen species (ROS). These substances are known to induce oxidative stress, inflammation, apoptosis, and senescence due to their exposure to environmental pollutants and the presence of oxidative enzymes. The lung is particularly susceptible to oxidative stress. Persistent oxidative stress caused by chronic exposure to CS can lead to respiratory diseases such as chronic obstructive pulmonary disease (COPD), pulmonary fibrosis (PF), and lung cancer. Avoiding exposure to environmental pollutants, like cigarette smoke and air pollution, can help mitigate oxidative stress. A comprehensive understanding of oxidative stress and its impact on the lungs requires future research. This includes identifying strategies for preventing and treating lung diseases as well as investigating the underlying mechanisms behind oxidative stress. Thus, this review aims to investigate the cellular processes induced by CS, specifically inflammation, apoptosis, senescence, and their associated biomarkers. Furthermore, this review will delve into the alveolar response provoked by CS, emphasizing the roles of potential therapeutic target markers and strategies in inflammation and oxidative stress.
+
+Inflammatory Diseases of the Lung Induced by Conventional Cigarette Smoke: A Review.
+
+Number of 
+
+Key takeaways:Cigarette smoke exposure leads to various inflammatory lung diseases, with ongoing research on targeted anti-inflammatory treatments to improve outcomes for affected individuals.
+
+Abstract:Smoking-induced lung diseases were extremely rare prior to the 20th century. With commercialization and introduction of machine-made cigarettes, worldwide use skyrocketed and several new pulmonary diseases have been recognized. The majority of pulmonary diseases caused by cigarette smoke (CS) are inflammatory in origin. Airway epithelial cells and alveolar macrophages have altered inflammatory signaling in response to CS, which leads to recruitment of lymphocytes, eosinophils, neutrophils, and mast cells to the lungs-depending on the signaling pathway (nuclear factor-κB, adenosine monophosphate-activated protein kinase, c-Jun N-terminal kinase, p38, and signal transducer and activator of transcription 3) activated. Multiple proteins are upregulated and secreted in response to CS exposure, and many of these have immunomodulatory activities that contribute to disease pathogenesis. In particular, metalloproteases 9 and 12, surfactant protein D, antimicrobial peptides (LL-37 and human β defensin 2), and IL-1, IL-6, IL-8, and IL-17 have been found in higher quantities in the lungs of smokers with ongoing inflammation. However, many underlying mechanisms of smoking-induced inflammatory diseases are not yet known. We review here the known cellular and molecular mechanisms of CS-induced diseases, including COPD, respiratory bronchiolitis-interstitial lung disease, desquamative interstitial pneumonia, acute eosinophilic pneumonia, chronic rhinosinusitis, pulmonary Langerhans cell histiocytosis, and chronic bacterial infections. We also discuss inflammation induced by secondhand and thirdhand smoke exposure and the pulmonary diseases that result. New targeted antiinflammatory therapeutic options are currently under investigation and hopefully will yield promising results for the treatment of these highly prevalent smoking-induced diseases.
+
+Effects of cigarette smoke on pulmonary endothelial cells.
+
+Number of 
+
+Key takeaways:Cigarette smoke exposure causes pulmonary endothelial cell damage, leading to the development of ARDS, emphysema, and pulmonary hypertension.
+
+Abstract:Cigarette smoking is the leading cause of preventable disease and death in the United States. Cardiovascular comorbidities associated with both active and secondhand cigarette smoking indicate the vascular toxicity of smoke exposure. Growing evidence supports the injurious effect of cigarette smoke on pulmonary endothelial cells and the roles of endothelial cell injury in development of acute respiratory distress syndrome (ARDS), emphysema, and pulmonary hypertension. This review summarizes results from studies of humans, preclinical animal models, and cultured endothelial cells that document toxicities of cigarette smoke exposure on pulmonary endothelial cell functions, including barrier dysfunction, endothelial activation and inflammation, apoptosis, and vasoactive mediator production. The discussion is focused on effects of cigarette smoke-induced endothelial injury in the development of ARDS, emphysema, and vascular remodeling in chronic obstructive pulmonary disease.
+
+Disruption of the Molecular Regulation of Mitochondrial Metabolism in Airway and Lung Epithelial Cells by Cigarette Smoke: Are Aldehydes the Culprit?
+
+Number of 
+
+Key takeaways:Cigarette smoke impairs mitochondrial metabolism and content in airway and lung epithelial cells, potentially contributing to COPD.
+
+Abstract:Chronic obstructive pulmonary disease (COPD) is a devastating lung disease for which cigarette smoking is the main risk factor. Acetaldehyde, acrolein, and formaldehyde are short-chain aldehydes known to be formed during pyrolysis and combustion of tobacco and have been linked to respiratory toxicity. Mitochondrial dysfunction is suggested to be mechanistically and causally involved in the pathogenesis of smoking-associated lung diseases such as COPD. Cigarette smoke (CS) has been shown to impair the molecular regulation of mitochondrial metabolism and content in epithelial cells of the airways and lungs. Although it is unknown which specific chemicals present in CS are responsible for this, it has been suggested that aldehydes may be involved. Therefore, it has been proposed by the World Health Organization to regulate aldehydes in commercially-available cigarettes. In this review, we comprehensively describe and discuss the impact of acetaldehyde, acrolein, and formaldehyde on mitochondrial function and content and the molecular pathways controlling this (biogenesis versus mitophagy) in epithelial cells of the airways and lungs. In addition, potential therapeutic applications targeting (aldehyde-induced) mitochondrial dysfunction, as well as regulatory implications, and the necessary required future studies to provide scientific support for this regulation, have been covered in this review.
+
+Cigarette Smoke Induced Lung Barrier Dysfunction, EMT, and Tissue Remodeling: A Possible Link between COPD and Lung Cancer
+
+Number of 
+
+Key takeaways:Cigarette smoking may cause lung barrier dysfunction, inflammation, and tissue remodeling, potentially linking COPD and lung cancer.
+
+Abstract:Chronic obstructive pulmonary disease (COPD) and lung cancer, closely related to smoking, are major lung diseases affecting millions of individuals worldwide. The generated gas mixture of smoking is proved to contain about 4,500 components such as carbon monoxide, nicotine, oxidants, fine particulate matter, and aldehydes. These components were considered to be the principle factor driving the pathogenesis and progression of pulmonary disease. A large proportion of lung cancer patients showed a history of COPD, which demonstrated that there might be a close relationship between COPD and lung cancer. In the early stages of smoking, lung barrier provoked protective response and DNA repair are likely to suppress these changes to a certain extent. In the presence of long-term smoking exposure, these mechanisms seem to be malfunctioned and lead to disease progression. The infiltration of inflammatory cells to mucosa, submucosa, and glandular tissue caused by inhaled cigarette smoke is responsible for the destruction of matrix, blood supply shortage, and epithelial cell death. Conversely, cancer cells have the capacity to modulate the proliferation of epithelial cells and produce of new vascular networks. Comprehension understanding of mechanisms responsible for both pathologies is necessary for the prevention and treatment of COPD and lung cancer. In this review, we will summarize related articles and give a glance of possible mechanism between cigarette smoking induced COPD and lung cancer.
+
+Lung injury and cancer: Mechanistic insights into ceramide and EGFR signaling under cigarette smoke.
+
+Number of 
+
+Key takeaways:Cigarette smoke exposure leads to lung injury and cancer by affecting ceramide and EGFR signaling, affecting cell death and hyperplasia in airway epithelial cells.
+
+Abstract:Cigarette smoke has been connected to an array of chronic lung diseases and is a major source of morbidity and mortality. Active smoking is responsible for approximately 90% of lung cancer cases. In addition, cigarette smoke is associated with other chronic pulmonary diseases such as pulmonary edema, chronic bronchitis, and pulmonary emphysema, the last two also termed chronic obstructive pulmonary disease (COPD). Lung cancer and COPD are developed very frequently in chronic cigarette smokers. It has been known for some time that lung cancer incidence increases in patients with COPD. Even the existence of some low-grade emphysema without noticeable airflow obstruction is associated with significantly elevated risk of lung cancer. These recent clinical insights demand new thinking and exploration of novel mechanistic studies to fully understand these observations. Lung injury and repair involve cell death and hyperplasia of airway epithelial cells and infiltration of inflammatory cells. All of these occur simultaneously. The mechanisms of cell death and hyperplasia in the lung constitute two sides of the coin of lung injury and repair. However, most molecular studies in airway epithelial cells center on the mechanism(s) of either cell growth and proliferation or cell death and the ceramide-generating machinery that drives aberrant induction of apoptotic cell death. Very few address both sides of the coin as an outcome of cigarette smoke exposure, which is the focus of this review.
+
+Metabolic Reprogramming: A Driver of Cigarette Smoke-Induced Inflammatory Lung Diseases.
+
+Number of 
+
+Key takeaways:Cigarette smoking alters metabolic regulation, leading to inflammatory lung diseases like COPD, asthma, and idiopathic pulmonary fibrosis, with potential therapeutic potential.
+
+Cigarette Smoke Exposure Exacerbates Lung Inflammation and Compromises Immunity to Bacterial Infection
+
+Number of 
+
+Key takeaways:Cigarette smoke exposure increases lung inflammation and compromises adaptive immunity, potentially predisposing chronic obstructive pulmonary disease patients to recurrent infections and contributing to mortality.
+
+Abstract:The detrimental impact of tobacco on human health is clearly recognized, and despite aggressive efforts to prevent smoking, close to one billion individuals worldwide continue to smoke. People with chronic obstructive pulmonary disease are susceptible to recurrent respiratory infections with pathogens, including nontypeable Haemophilus influenzae (NTHI), yet the reasons for this increased susceptibility are poorly understood. Because mortality rapidly increases with multiple exacerbations, development of protective immunity is critical to improving patient survival. Acute NTHI infection has been studied in the context of cigarette smoke exposure, but this is the first study, to our knowledge, to investigate chronic infection and the generation of adaptive immune responses to NTHI after chronic smoke exposure. After chronic NTHI infection, mice that had previously been exposed to cigarette smoke developed increased lung inflammation and compromised adaptive immunity relative to air-exposed controls. Importantly, NTHI-specific T cells from mice exposed to cigarette smoke produced lower levels of IFN-γ and IL-4, and B cells produced reduced levels of Abs against outer-membrane lipoprotein P6, with impaired IgG1, IgG2a, and IgA class switching. However, production of IL-17, which is associated with neutrophilic inflammation, was enhanced. Interestingly, cigarette smoke–exposed mice exhibited a similar defect in the generation of adaptive immunity after immunization with P6. Our study has conclusively demonstrated that cigarette smoke exposure has a profound suppressive effect on the generation of adaptive immune responses to NTHI and suggests the mechanism by which prior cigarette smoke exposure predisposes chronic obstructive pulmonary disease patients to recurrent infections, leading to exacerbations and contributing to mortality.
+
+Tobacco Smoke Induces and Alters Immune Responses in the Lung Triggering Inflammation, Allergy, Asthma and Other Lung Diseases: A Mechanistic Review
+
+Number of 
+
+Key takeaways:Tobacco smoke exposure leads to oxidative stress, increased inflammation, and immune imbalance, contributing to lung diseases like COPD, asthma, and allergies.
+
+Abstract:Many studies have been undertaken to reveal how tobacco smoke skews immune responses contributing to the development of chronic obstructive pulmonary disease (COPD) and other lung diseases. Recently, environmental tobacco smoke (ETS) has been linked with asthma and allergic diseases in children. This review presents the most actual knowledge on exact molecular mechanisms responsible for the skewed inflammatory profile that aggravates inflammation, promotes infections, induces tissue damage, and may promote the development of allergy in individuals exposed to ETS. We demonstrate how the imbalance between oxidants and antioxidants resulting from exposure to tobacco smoke leads to oxidative stress, increased mucosal inflammation, and increased expression of inflammatory cytokines (such as interleukin (IL)-8, IL-6 and tumor necrosis factor α (-α). Direct cellular effects of ETS on epithelial cells results in increased permeability, mucus overproduction, impaired mucociliary clearance, increased release of proinflammatory cytokines and chemokines, enhanced recruitment of macrophages and neutrophils and disturbed lymphocyte balance towards Th2. The plethora of presented phenomena fully justifies a restrictive policy aiming at limiting the domestic and public exposure to ETS.
+
+The impact of exposure to tobacco smoke and e‐cigarettes on asthma‐related outcomes: Systematic review informing the EAACI guidelines on environmental science for allergic diseases and asthma
+
+Number of 
+
+Key takeaways:Exposure to tobacco smoke and e-cigarettes increases the risk of asthma-related outcomes, including increased risk of severe asthma exacerbations and poor asthma control.
+
+Abstract:To inform the clinical practice guidelines' recommendations developed by the European Academy of Allergy and Clinical Immunology systematic reviews (SR) assessed using GRADE on the impact of environmental tobacco smoke (ETS) and active smoking on the risk of new‐onset asthma/recurrent wheezing (RW)/low lung function (LF), and on asthma‐related outcomes. Only longitudinal studies were included, almost all on combustion cigarettes, only one assessing e‐cigarettes and LF. According to the first SR (67 studies), prenatal ETS increases the risk of RW (moderate certainty evidence) and may increase the risk of new‐onset asthma and of low LF (low certainty evidence). Postnatal ETS increases the risk of new‐onset asthma and of RW (moderate certainty evidence) and may impact LF (low certainty evidence). Combined in utero and postnatal ETS may increase the risk of new‐onset asthma (low certainty evidence) and increases the risk of RW (moderate certainty evidence). According to the second SR (24 studies), ETS increases the risk of severe asthma exacerbations and impairs asthma control and LF (moderate certainty evidence). According to the third SR (25 studies), active smoking increases the risk of severe asthma exacerbations and of suboptimal asthma control (moderate certainty evidence) and may impact asthma‐related quality‐of‐life and LF (low certainty evidence).
+
+Cigarette smoke-induced dysbiosis: comparative analysis of lung and intestinal microbiomes in COPD mice and patients
+
+Number of 
+
+Key takeaways:Cigarette smoke exposure leads to significant dysbiosis in lung and intestinal microbiomes, affecting lung function and injury, aligning with changes in COPD patients.
+
+Abstract:The impact of cigarette smoke (CS) on lung diseases and the role of microbiome dysbiosis in chronic obstructive pulmonary disease (COPD) have been previously reported; however, the relationships remain unclear. Our research examined the effects of 20-week cigarette smoke (CS) exposure on the lung and intestinal microbiomes in C57BL/6JNarl mice, alongside a comparison with COPD patients' intestinal microbiome data from a public dataset. The study found that CS exposure significantly decreased forced vital capacity (FVC), thickened airway walls, and induced emphysema. Increased lung damage was observed along with higher lung keratinocyte chemoattractant (KC) levels by CS exposure. Lung microbiome analysis revealed a rise in Actinobacteriota, while intestinal microbiome showed significant diversity changes, indicating dysbiosis. Principal coordinate analysis highlighted distinct intestinal microbiome compositions between control and CS-exposed groups. In the intestinal microbiome, notable decreases in Patescibacteria, Campilobacterota, Defferibacterota, Actinobacteriota, and Desulfobacterota were observed. We also identified correlations between lung function and dysbiosis in both lung and intestinal microbiomes. Lung interleukins, interferon-ɣ, KC, and 8-isoprostane levels were linked to lung microbiome dysbiosis. Notably, dysbiosis patterns in CS-exposed mice were similar to those in COPD patients, particularly of Global Initiative for Chronic Obstructive Lung Disease (GOLD) stage 4 patients. This suggests a systemic impact of CS exposure. In summary, CS exposure induces significant dysbiosis in lung and intestinal microbiomes, correlating with lung function decline and injury. These results align with changes in COPD patients, underscoring the important role of microbiome in smoke-related lung diseases.
+
+Implications of the Immune Landscape in COPD and Lung Cancer: Smoking Versus Other Causes
+
+Number of 
+
+Key takeaways:Cigarette smoke exposure significantly impacts the immune system, contributing to lung cancer and COPD development, even in non-smokers.
+
+Abstract:Cigarette smoking is reported in about one third of adults worldwide. A strong relationship between cigarette smoke exposure and chronic obstructive pulmonary disease (COPD) as well as lung cancer has been proven. However, about 15% of lung cancer cases, and between one fourth and one third of COPD cases, occur in never-smokers. The effects of cigarette smoke on the innate as well as the adaptive immune system have been widely investigated. It is assumed that certain immunologic features contribute to lung cancer and COPD development in the absence of smoking as the major risk factor. In this article, we review different immunological aspects of lung cancer and COPD with a special focus on non-smoking related risk factors.
+
+Cigarette smoke-induced autophagy impairment accelerates lung aging, COPD-emphysema exacerbations and pathogenesis.
+
+Number of 
+
+Key takeaways:Cigarette smoke exposure and aging accelerate lung aging and COPD-emphysema development, with autophagy impairment playing a key role in disease progression.
+
+Abstract:Cigarette-smoke (CS) exposure and aging are the leading causes of chronic obstructive pulmonary disease (COPD)-emphysema development, although the molecular mechanism that mediates disease pathogenesis remains poorly understood. Our objective was to investigate the impact of CS exposure and aging on autophagy and the pathophysiological changes associated with lung aging (senescence) and emphysema progression. Beas2b cells, C57BL/6 mice, and human (GOLD 0-IV) lung tissues were used to determine the central mechanism involved in CS/age-related COPD-emphysema pathogenesis. Beas2b cells and murine lungs exposed to cigarette smoke extract (CSE)/CS showed a significant ( P < 0.05) accumulation of poly-ubiquitinated proteins and impaired autophagy marker, p62, in aggresome bodies. Moreover, treatment with the autophagy-inducing antioxidant drug cysteamine significantly ( P < 0.001) decreased CSE/CS-induced aggresome bodies. We also found a significant ( P < 0.001) increase in levels of aggresome bodies in the lungs of smokers and COPD subjects in comparison to nonsmoker controls. Furthermore, the presence and levels of aggresome bodies statistically correlated with severity of emphysema and alveolar senescence. In addition to CS exposure, lungs from old mice also showed accumulation of aggresome bodies, suggesting this as a common mechanism to initiate cellular senescence and emphysema. Additionally, Beas2b cells and murine lungs exposed to CSE/CS showed cellular apoptosis and senescence, which were both controlled by cysteamine treatment. In parallel, we evaluated the impact of CS on pulmonary exacerbation, using mice exposed to CS and/or infected with Pseudomonas aeruginosa ( Pa), and confirmed cysteamine's potential as an autophagy-inducing antibacterial drug, based on its ability to control CS-induced pulmonary exacerbation ( Pa-bacterial counts) and resulting inflammation. CS induced autophagy impairment accelerates lung aging and COPD-emphysema exacerbations and pathogenesis.
+
+Impact of Tobacco Smoke and Nicotine Exposure on Lung Development.
+
+Number of 
+
+Key takeaways:Prenatal and postnatal tobacco smoke and nicotine exposure impairs lung development, alters immune response, and increases asthma symptoms in children.
+
+Abstract:Tobacco smoke and nicotine exposure during prenatal and postnatal life can impair lung development, alter the immune response to viral infections, and increase the prevalence of wheezing during childhood. The following review examines recent discoveries in the fields of lung development and tobacco and nicotine exposure, emphasizing studies published within the last 5 years. In utero tobacco and nicotine exposure remains common, occurring in approximately 10% of pregnancies within the United States. Exposed neonates are at increased risk for diminished lung function, altered central and peripheral respiratory chemoreception, and increased asthma symptoms throughout childhood. Recently, genomic and epigenetic risk factors, such as alterations in DNA methylation, have been identified that may influence the risk for long-term disease. This review examines the impact of prenatal tobacco and nicotine exposure on lung development with a particular focus on nicotinic acetylcholine receptors. In addition, this review examines the role of prenatal and postnatal tobacco smoke and nicotine exposure and its association with augmenting infection risk, skewing the immune response toward a T-helper type 2 bias and increasing risk for developing an allergic phenotype and asthmalike symptoms during childhood. Finally, this review outlines the respiratory morbidities associated with childhood secondhand smoke and nicotine exposure and examines genetic and epigenetic modifiers that may influence respiratory health in infants and children exposed to in utero or postnatal tobacco smoke.
+
+Effects of cigarette smoke on the human airway epithelial cell transcriptome.
+
+Number of 
+
+Key takeaways:Cigarette smoke alters the human airway epithelial cell transcriptome, causing persistent altered gene expression in former smokers, potentially explaining their risk for developing lung cancer.
+
+Abstract:Cigarette smoke is the major cause of lung cancer, the leading cause of cancer death, and of chronic obstructive pulmonary disease, the fourth leading cause of death in the United States. Using high-density gene expression arrays, we describe genes that are normally expressed in a subset of human airway epithelial cells obtained at bronchoscopy (the airway transcriptome), define how cigarette smoking alters the transcriptome, and detail the effects of variables, such as cumulative exposure, age, sex, and race, on cigarette smoke-induced changes in gene expression. We also determine which changes in gene expression are and are not reversible when smoking is discontinued. The persistent altered expression of a subset of genes in former smokers may explain the risk these individuals have for developing lung cancer long after they have discontinued smoking. The use of gene expression profiling to explore the normal biology of a specific subset of cells within a complex organ across a broad spectrum of healthy individuals and to define the reversible and irreversible genetic effects of cigarette smoke on human airway epithelial cells has not been previously reported.
+
+Lung function and respiratory symptoms in a randomized smoking cessation trial of electronic cigarettes.
+
+Number of 
+
+Key takeaways:Switching to electronic cigarettes can lead to long-term improvements in lung function and respiratory symptoms, suggesting that quitting smoking can reverse tobacco harm in the lung.
+
+Abstract:Quitting smoking is the most important step smokers can take to improve their health. Nonetheless, there is little information on long-term improvements in lung function and/or respiratory symptoms after smoking cessation. Here we illustrate long-term changes in spirometric indices as well as in respiratory symptoms in smokers invited to quit or reduce their cigarette consumption by switching to electronic cigarettes (ECs). Prospective evaluation of cigarette consumption, spirometry and symptoms was performed in a 1-year randomized controlled trial of smokers receiving EC containing 2.4%, 1.8% or 0% nicotine. Spirometric data are presented on the basis of participants' pooled continuous smoking phenotype classification (Quitters, Reducers, Failures), whereas respiratory symptoms on the basis of their point prevalence-smoking phenotype. Smoking phenotype classification (Quitters, Reducers, Failures) had no significant effect on spirometric indices (FEV1, FVC and FEV1/FVC) with the exception of FEF25-75%, which significantly (P  =0.034) increased over the time among Quitters; their FEF25-75% (% predicted) improving from (means±S.D.) 85.7±15.6% at baseline (BL) to 100.8±14.6%. High prevalence of cough/phlegm (43.1%) and shortness of breath (SoB; 34.8%) was reported at BL with substantial reduction in their frequency at subsequent follow-up visits. These symptoms virtually disappeared very quickly in both quitters and reducers. Smokers invited to switch to ECs who completely abstained from smoking showed steady progressive improvements in their FEF25-75% Normalization of peripheral airways function was associated with improvement in respiratory symptoms, adding to the notion that abstaining from smoking can reverse tobacco harm in the lung.
+
+Comparison of the effects of e-cigarette vapor with cigarette smoke on lung function and inflammation in mice.
+
+Number of 
+
+Key takeaways:E-cigarette vapor and cigarette smoke negatively impact lung biology, with added flavor in e-cigs exacerbating the detrimental effects.
+
+Abstract:Electronic cigarettes (e-cigs) are advertised as a less harmful nicotine delivery system or as a new smoking cessation tool. We aimed to assess the in vivo effects of e-cig vapor in the lung and to compare them to those of cigarette smoke (CS). We exposed C57BL/6 mice for either 3 days or 4 wk to ambient air, CS, or e-cig vapor containing 1) propylene glycol/vegetable glycerol (PG:VG-Sol; 1:1), 2) PG:VG with nicotine (G:VG-N), or 3) PG:VG with nicotine and flavor (PG:VG-N+F) and determined oxidative stress, inflammation, and pulmonary mechanics. E-cig vapors, especially PG:VG-N+F, increased bronchoalveolar lavage fluid (BALF) cellularity, Muc5ac production, as well as BALF and lung oxidative stress markers at least comparably and in many cases more than CS. BALF protein content at both time points studied was only elevated in the PG:VG-N+F group. After 3 days, PG:VG-Sol altered tissue elasticity, static compliance, and airway resistance, whereas after 4 wk CS was the only treatment adversely affecting these parameters. Airway hyperresponsiveness in response to methacholine was increased similarly in the CS and PG:VG-N+F groups. Our findings suggest that exposure to e-cig vapor can trigger inflammatory responses and adversely affect respiratory system mechanics. In many cases, the added flavor in e-cigs exacerbated the detrimental effects of e-cig vapor. We conclude that both e-cig vaping and conventional cigarette smoking negatively impact lung biology.
+
+Aerosolized nicotine-free e-liquid base constituents exacerbates mitochondrial dysfunction and endothelial glycocalyx shedding via the AKT/GSK3β-mPTP pathway in lung injury models
+
+Number of 
+
+Key takeaways:Nicotine-free e-cigarette vapor can cause lung damage and endothelial dysfunction, suggesting potential health risks and potential therapeutic targets for preventing lung injury progression.
+
+Abstract:Smoking has been recognized as a risk factor of cancer, heart disease, stroke, diabetes, and lung diseases such as chronic obstructive pulmonary disease, and nicotine appears to be the responsible component of tobacco smoke that affects lung development. While nicotine-free electronic cigarettes (e-cigarettes) are often promoted as a safer alternative to traditional smoking, recent evidence suggests that they might pose significant health risks. This study investigates the effects of nicotine-free e-cigarette vapor (ECV) on lung tissue and endothelial function. A mouse model of ECV-induced lung injury and human pulmonary microvascular endothelial cells (HPMVECs) were utilized to evaluate the impact of ECV exposure on mitochondrial function, endothelial cell viability, and glycocalyx shedding. ECV exposure significantly damages lung tissue, characterized by alveolar enlargement, inflammation, and vascular remodeling, indicative of emphysematous changes. In vitro, HPMVECs exposed to nicotine-free e-cigarette extract (ECE) demonstrated dose-dependent increases in mitochondrial reactive oxygen species (ROS), mitochondrial membrane depolarization, mPTP opening, and reduced ATP production, leading to enhanced endothelial permeability and glycocalyx degradation. The inhibition of mPTP opening with Cyclosporin A (CsA) was found to mitigate the mitochondrial dysfunction and glycocalyx damage induced by ECE, indicating a protective role of mPTP inhibition in preserving endothelial integrity. The AKT/GSK3β signaling pathway was identified as a key regulator of these processes, with ECE exposure downregulating p-AKT and p-GSK3β, thereby promoting mPTP opening. Activation of AKT signaling partially reversed these effects, highlighting the potential of targeting the AKT/GSK3β-mPTP axis to mitigate the adverse effects of e-cigarette exposure on lung and endothelial function. These findings underscore the potential risks associated with nicotine-free e-cigarettes and suggest novel therapeutic targets for preventing lung injury progression.
+
+The impact of smoking and the influence of other factors on lung cancer
+
+Number of 
+
+Key takeaways:Smoking, along with factors like respiratory diseases, psychological stress, and global warming, contributes to lung cancer development, with nicotine vaping potentially increasing cancer risk in COPD patients.
+
+Abstract:ABSTRACT Introduction: Smoking is the main preventable cause of lung cancer. This review summarizes preclinical and clinical data on the mechanisms of smoking-associated cancer development of the major histological lung cancer types small cell lung carcinoma squamous cell carcinoma and pulmonary adenocarcinoma (PAC) and the impact of several factors other than smoking on this process. Areas covered: The role of intracellular signaling induced by nicotinic receptors and beta-adrenergic receptors, the resulting increase in intracellular cyclic adenosine monophosphate (cAMP) as a key driver of PAC and the promoting effects of respiratory tract diseases and their therapeutics, psychological stress and global warming. Expert opinion: Smoking has deleterious effects on the regulation of lung epithelia by neurotransmitter receptors that are further enhanced by gene mutations. Sensitization of the alpha-7 nicotinic receptor (α7nAChR) by COPD enhances the carcinogenic effects of smoking and turns nicotine into a carcinogen. Nicotine vaping may, therefore, cause cancer in individuals with chronic obstructive pulmonary disease. The opposing effects of cAMP on the major lung cancer types indicate that patients with PAC of Clara cell phenotype (PAC-Cl) will benefit from treatment with cAMP reducers and suggest that global warming-induced respiratory tract diseases and their therapeutics cause the global increase in the incidence of PAC.
+
+Current Smoker: A Clinical Chronic Obstructive Pulmonary Disease Phenotype Affecting Disease Progression and Response to Therapy
+
+Number of 
+
+Key takeaways:Current smokers have more severe COPD and worse lung function decline, and smoking negatively affects the treatment efficacy of COPD medications.
+
+Abstract:Chronic obstructive pulmonary disease (COPD) is a heterogeneous condition of the lungs, characterized by chronic respiratory symptoms, primarily dyspnea, cough, and sputum production, due to airway and/or alveoli abnormalities that cause persistent, and often progressive, airflow obstruction. Although the underlying mechanisms responsible for COPD remain poorly understood, over the last several decades, clinical phenotypes and endotypes have been suggested. These include frequent exacerbator and eosinophilic groups that guide tailored therapies for patients with that clinical expression. In the developed world, smoking is the main known cause of COPD, responsible for ~80% of cases. Active smokers have more severe disease, with more rapid lung function decline and impaired quality of life, than former smokers. Unfortunately, smoking is still highly prevalent. Rates range between 3% and 37% globally, with factors including sex, age, race, education level, and geography influencing the rate of addiction. Importantly, several studies have shown that smoking detrimentally affects treatment efficacy of COPD medications; this is particularly true of inhaled corticosteroids and macrolides. In this review, we discuss the effects of smoking on the pathophysiology of COPD and the clinical impact of smoke exposure in patients with COPD.
+
+Tobacco use disorder and the lungs.
+
+Number of 
+
+Key takeaways:Smoking cessation significantly benefits the respiratory system, preventing and managing respiratory diseases, but current interventions and patient uptake are limited.
+
+Abstract:This narrative review provides a summary of the impact of tobacco smoking on the respiratory system and the benefits of smoking cessation. Tobacco smoking is one of the leading preventable causes of death worldwide and a major risk factor for lung cancer and chronic obstructive pulmonary disease. Smoking is also associated with an increased risk of respiratory infections and appears to be related to poorer outcomes among those with COVID-19. Nonsmokers with second-hand smoke exposure also experience significant adverse respiratory effects. Smoking imposes enormous health- and non-health-related costs to societies. The benefits of smoking cessation, in both prevention and management of respiratory disease, have been known for decades and to this day cessation support remains one of the most important cost-effective interventions health professionals can provide to people who smoke. Cessation at any age confers substantial health benefits, even in smokers with established morbidities. As other treatments for chronic respiratory disease advance and survival rates increase, smoking cessation treatment will become even more relevant. Whilst smoking cessation interventions are available, the offer of these by clinicians and uptake by patients remain limited.
+
+Smoking, immunity, and DNA damage.
+
+Number of 
+
+Key takeaways:Smoking exposes the lungs to 60 powerful chemical carcinogens, potentially causing DNA damage and triggering immune responses.
+
+Abstract:The normal lung of non-smokers contains alveolar macrophages as guardian residents. However, when tobacco smoke enters the lungs it triggers a dramatic influx of macrophages and neutrophils in the bronchi and pulmonary epithelia. Smoking directly exposes the epithelial tissue to at least 60 powerful chemical carcinogens with the potential to cause DNA damage to larynx, bronchi, and lung epithelial cells. The most common compounds in tobacco smoke are nicotine, formaldehyde, ammonia, carbon monoxide, carbon dioxide, benzopyrenes, tar, acetone, hydroxyquinone, cadmium, and nitrogen oxides (1).
+
+Effects of smoking cessation on lung function and airway inflammation in smokers with asthma.
+
+Number of 
+
+Key takeaways:Smoking cessation significantly improves lung function and reduces sputum neutrophil count in asthmatic smokers after 6 weeks, highlighting the importance of quitting smoking for better health outcomes.
+
+Abstract:RATIONALE
+Active smoking in asthma is associated with worsening of symptoms, accelerated decline in lung function, and impaired response to corticosteroids.
+
+OBJECTIVES
+To examine the short-term effects of smoking cessation on lung function, airway inflammation, and corticosteroid responsiveness in smokers with asthma.
+
+METHODS AND MEASUREMENTS
+Smokers with asthma were given the option to quit or continue smoking. Both groups underwent spirometry and induced sputum at baseline and at 1, 3, and 6 wk. Cutaneous vasoconstrictor response to topical beclometasone, airway response to oral prednisolone, and sensitivity of peripheral blood lymphocytes to corticosteroids were measured before smoking cessation and at 6 wk.
+
+MAIN RESULTS
+Of 32 subjects recruited, 11 opted to continue smoking (smoking control group). Of 21 subjects who opted for smoking cessation, 10 quit smoking for 6 wk (quit group). In the comparison of quitters with smokers at 6 wk, the mean (confidence interval ) difference in FEV(1) was 407 ml (21, 793), p = 0.040, and the proportion of sputum neutrophils was reduced by 29 (51, 8), p = 0.039. Total cutaneous vasoconstrictor response score to topical beclometasone improved after smoking cessation with a mean (CI) difference of 3.56 (0.84, 6.28), p = 0.042, between quitters and smokers. There was no change in airway corticosteroid responses after smoking cessation.
+
+CONCLUSIONS
+By 6 wk after smoking cessation, subjects who quit smoking had achieved considerable improvement in lung function and a fall in sputum neutrophil count compared with subjects who continued to smoke. These findings highlight the importance of smoking cessation in asthma.
+
+Combined Impact of Smoking and Early‐Life Exposures on Adult Lung Function Trajectories
+
+Number of 
+
+Key takeaways:Cigarette smoking accelerates adult FEV1 decline and modifies the impact of early-life exposures on midlife FEV1 and FVC, impairing pulmonary development during adolescence or early adulthood.
+
+Abstract:Rationale: Both adverse early‐life exposures and adult smoking can negatively influence adult lung function trajectory, but few studies consider how the impact of early‐life exposures may be modified by subsequent smoking. Methods: The Medical Research Council National Survey of Health and Development is a nationally representative cohort, initially of 5,362 individuals, followed since enrollment at birth in March 1946. Using data collected prospectively across life and multilevel modeling, we investigated how the relationships between early‐life exposures (infant lower respiratory infection, manual social class, home overcrowding, and pollution exposure) and FEV1 and FVC trajectories between ages 43 and 60‐64 years were influenced by smoking behavior. Measurements and Main Results: Among 2,172 individuals, there were synergistic interactions of smoking with infant respiratory infection (P = 0.04) and early‐life home overcrowding (P = 0.009), for FEV1 at 43 years. Within smoker‐stratified models, there were FEV1 deficits among ever‐smokers associated with infant lower respiratory infection (−108.2 ml; P = 0.001) and home overcrowding (−89.2 ml; P = 0.002), which were not evident among never‐smokers (−15.9 ml; P = 0.69 and −13.7 ml; P = 0.70, respectively). FVC modeling, including 1,960 individuals, yielded similar results. FEV1 decline was greater in smokers (P < 0.001), but there was no effect of any early‐life exposure on FEV1 decline. Neither smoking nor early‐life exposures were associated with FVC decline. Conclusions: Besides accelerating adult FEV1 decline, cigarette smoking also modifies how early‐life exposures impact on both midlife FEV1 and FVC. These findings are consistent with smoking impairing pulmonary development during adolescence or early adulthood, thereby preventing catch‐up from earlier acquired deficits.
+
+The impact of smoking cessation on respiratory symptoms, lung function, airway hyperresponsiveness and inflammation
+
+Number of 
+
+Key takeaways:Smoking cessation improves respiratory symptoms, bronchial hyperresponsiveness, and prevents excessive decline in lung function in all three groups, but its effects on inflammation and remodelling remain unclear.
+
+Abstract:Smoking is the main risk factor in the development of chronic obstructive pulmonary disease (COPD), and smoking cessation is the only effective treatment for avoiding or reducing the progression of this disease. Despite the fact that smoking cessation is a very important health issue, information about the underlying mechanisms of the effects of smoking cessation on the lungs is surprisingly scarce. It is likely that the reversibility of smoke-induced changes differs between smokers without chronic symptoms, smokers with nonobstructive chronic bronchitis and smokers with COPD. This review describes how these three groups differ regarding the effects of smoking cessation on respiratory symptoms, lung function (forced expiratory volume in one second), airway hyperresponsiveness, and pathological and inflammatory changes in the lung. Smoking cessation clearly improves respiratory symptoms and bronchial hyperresponsiveness, and prevents excessive decline in lung function in all three groups. Data from well-designed studies are lacking regarding the effects on inflammation and remodelling, and the few available studies show contradictory results. In chronic obstructive pulmonary disease, a few histopathological studies suggest that airway inflammation persists in exsmokers. Nevertheless, many studies have shown that smoking cessation improves the accelerated decline in forced expiratory volume in one second, which strongly indicates that important inflammatory and/or remodelling processes are positively affected.
+
+Indoor PM2.5, tobacco smoking and chronic lung diseases: A narrative review.
+
+Number of 
+
+Key takeaways:Tobacco smoking and indoor PM2.5 levels are closely linked to chronic lung diseases, with indoor PM2.5 being the most reliable marker of tobacco smoke presence.
+
+The effect of smoking on the transcriptional regulation of lung inflammation in patients with chronic obstructive pulmonary disease.
+
+Number of 
+
+Key takeaways:Smoking alters nucleosomal structure, leading to increased inflammation in smokers susceptible to COPD by imbalanced histone deacetylation and acetylation.
+
+Abstract:RATIONALE
+Chronic obstructive pulmonary disease (COPD) is believed to result from an abnormal inflammatory response in the lungs to noxious particles and gases usually found in cigarette smoke.
+
+OBJECTIVES
+In this study, the molecular mechanisms for the enhanced proinflammatory cytokine gene transcription in COPD were investigated.
+
+METHODS
+Lung tissue was examined from 56 subjects undergoing resection for peripheral lung tumors as follows: current smokers with (n = 14) and without COPD (n = 17), ex-smokers with COPD (n = 13), and nonsmokers (n = 12). The levels of inhibitor kappaB-alpha (IkappaB-alpha), histone deacetylase 2 (HDAC2), acetylated (ac-) histone H3 and H4, the transcription factor nuclear factor-kappaB (NF-kappaB), proinflammatory cytokine messenger RNA, and 8-isoprostane were measured.
+
+MEASUREMENTS AND MAIN RESULTS
+IkappaB-alpha levels were significantly decreased in healthy smokers and current and ex-smoking patients with COPD when compared with nonsmokers (p < 0.001), with an associated increase in NF-kappaB DNA binding in current smokers (p < 0.05). An increase in acetylated histone 4 (ac-H4; p < 0.01) was found in current smokers. Conversely, ex-smokers with COPD showed an increase in ac-H3 (p < 0.05). Decreased levels of cytoplasmic, but not nuclear, HDAC2 protein levels were detected. From the cytokine profiles, no significant differences were detected; however, interleukin-12p40 expression correlated with ac-H4 in current smokers with COPD (p < 0.01).
+
+CONCLUSION
+These data propose a role for modification of nucleosomal structure in inflammatory cytokine gene transcription in response to smoking. The imbalance between histone deacetylation and acetylation in favor of acetylation may contribute to the enhanced inflammation in smokers susceptible to the development of COPD.
+
+Smoking related environmental microbes affecting the pulmonary microbiome in Chinese population.
+
+Number of 
+
+Key takeaways:Smoking alters the composition of the lung microbiome in Chinese individuals, potentially leading to smoking-related diseases.
+
+Diet inflammatory potential modifies the association between tobacco smoke exposure and lung function
+
+Number of 
+
+Key takeaways:Higher diet inflammatory potential increases the negative impact of tobacco smoke exposure on lung function, warranting further attention.
+
+Abstract:The adverse effect of tobacco smoke exposure on lung function varies among individuals. We aim to investigate whether diet inflammatory potential modifies the association between tobacco smoke exposure and lung function. This was a cross-sectional study of 11,382 adults from the 2007-2012 National Health and Nutrition Examination Survey. Tobacco smoke exposure was measured using serum cotinine level, and dichotomized as low or high level according to the race/ethnicity-specific cut-points. Forced expiratory volume in 1 s percent of predicted (FEV1% predicted), forced vital capacity percent of predicted (FVC% predicted) and FEV1/FVC were selected to quantify lung function. Diet inflammatory potential was assessed using dietary inflammatory index (DII), and categorized into quartiles. The modification effect of DII on the relationship between tobacco smoke exposure and lung function were evaluated by multivariate linear regression model with interaction term and stratified analysis. DII interacted with serum cotinine level in association with FEV1% predicted, FVC% predicted and FEV1/FVC (P for interaction < 0.05). In individuals with higher DII, serum cotinine level had stronger inverse associations with FEV1% predicted, FVC% predicted and FEV1/FVC. More specifically, 23 of 28 DII components showed modification effects on the relationship between serum cotinine level and lung function. Diet inflammatory potential modifies the effect of tobacco smoke exposure on lung function, and tobacco smoke exposure had a stronger adverse impact on lung function among individuals with high diet inflammatory potential, which should attract more attention.
+
+Waterpipe smoking: a review of pulmonary and health effects
+
+Number of 
+
+Key takeaways:Waterpipe smoking is associated with negative health effects, including increased risk of lung diseases, COPD, and various cancers, and requires increased awareness and education to reduce its use and associated diseases.
+
+Abstract:Waterpipe smoking is an old form of tobacco smoking, originating in Persia and the Middle East. The popularity of the waterpipe is increasing worldwide, particularly among young adults, and there are widespread misconceptions regarding its negative health effects. The inhaled smoke of the waterpipe contain several toxic and hazardous materials including nicotine, tar, polyaromatic hydrocarbons and heavy metals, all of which are proven to be related to lung diseases and cancer. Regular waterpipe smoking is associated with respiratory symptoms, a decrease in pulmonary function and increased risk for lung disease such as COPD. Additional negative health effects include increased risk for arterial stiffness, ischaemic heart disease and several cancer types including lung cancer. This review summarises the negative health effects of waterpipe smoking, with emphasis on cardiorespiratory complications. Increased awareness and knowledge amongst healthcare professionals will hopefully help identify waterpipe smokers and promote patient education. Applying World Health Organization (WHO) regulations will provide a synergistic effect in reducing waterpipe use and associated disease. Waterpipe smoking is increasing in popularity worldwide despite its deleterious cardiac and respiratory health effects and associated increased risk of malignancy. There is a need to identify waterpipe smokers, educate them and encourage smoking cessation. 
+
+Effects of water-pipe smoking on lung function: a systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:Water-pipe smoking negatively affects lung function and may be as harmful as cigarette smoking, making it a potential cause of COPD.
+
+Abstract:BACKGROUND
+Although common in many Middle Eastern countries, water-pipe tobacco smoking, commonly known as water-pipe smoking (WPS), is increasingly popular in Western cultures. The primary objective of this study was to systematically review the effects of WPS on lung function. The secondary objective was to compare the effects of WPS and cigarette smoking on lung function.
+
+METHODS
+We conducted a systematic review using the approach of the Cochrane Collaboration to search for, select, and abstract studies. We conducted two separate meta-analyses comparing water-pipe smokers with nonsmokers, and water-pipe smokers with cigarette smokers for each of three spirometric measurements (FEV₁, FVC, and FEV₁/ FVC). We used the standardized mean difference (SMD) to pool the results.
+
+RESULTS
+Six cross-sectional studies were eligible for this review. Compared with no smoking, WPS was associated with a statistically significant reduction in FEV₁ (SMD = -0.43; 95% CI, -0.58 to -0.29; equivalent to a 4.04% lower FEV₁%), a trend toward lower FVC (SMD = -0.15; 95% CI, -0.34 to 0.04; equivalent to a 1.38% reduction in FVC%), and lower FEV₁/ FVC (SMD = -0.46; 95% CI, -0.93 to 0.01; equivalent to a 3.08% lower FEV₁/ FVC). Comparing WPS with cigarette smoking, there was no statistically significant difference in FEV₁, FVC, and FEV₁/ FVC. The six studies suffered from methodologic limitations.
+
+CONCLUSIONS
+WPS negatively affects lung function and may be as harmful as cigarette smoking. WPS, therefore, is likely to be a cause of COPD.
+
+Smoking and cardiovascular disease.
+
+Number of 
+
+Key takeaways:Smoking increases the risk of coronary heart disease, stroke, peripheral vascular disease, and peripheral vascular disease, with smoking cessation significantly reducing the risk of these diseases.
+
+Effects of Tobacco Smoking on Cardiovascular Disease.
+
+Number of 
+
+Key takeaways:Tobacco smoking is a major risk factor for cardiovascular disease, with more extensive adverse effects than previously thought, and harm does not disappear just by changing the delivery system of tobacco.
+
+Abstract:Tobacco smoking continues to be a major risk factor for cardiovascular disease (CVD) and the leading avoidable cause of death worldwide. Tobacco smoking has declined in high-income countries, but the average smoking rate in Japan remains high: 29.4% for men and 7.2% for women in 2017. Of note, the average smoking rate among middle-aged men remains approximately 40%, indicating that a high incidence of smoking-related CVD will continue for a couple of decades in Japan. The adverse effects of tobacco smoking on CVD are more extensive than previously thought. Physicians should be particularly alert to the development and progression of heart failure, atrial fibrillation, and venous thromboembolism, as well as ischemic CVD among tobacco smokers. Increasing use of heat-not-burn tobacco as cigarette alternatives is an emerging issue. Harmful effects do not disappear just by changing the delivery system of tobacco.
+
+Tobacco Use Disorder and Cardiovascular Health.
+
+Number of 
+
+Key takeaways:Cigarette smoking and other tobacco products increase the incidence of cardiovascular diseases, but quitting can significantly reduce harmful effects and improve cardiovascular health.
+
+Abstract:This narrative review examines the impact of cigarette smoking and the use of other tobacco and nicotine products on cardiovascular disease. Smoking increases the incidence of both acute and chronic cardiovascular diseases, and the harmful effects are substantially and relatively quickly reversible after quitting. Recommended cessation treatment includes offering pharmacotherapy, counseling which should emphasize the rapid risk reduction that occurs after quitting, and adequate follow-up contacts. Although most research on cardiovascular disease in relation to tobacco use has focused on cigarette smoking, we also review available data related to other combustible tobacco products, smokeless tobacco, electronic nicotine delivery systems, and secondhand smoke. We discuss the implications of smoking on clinical management of patients with heart disease and newer developments with potential relevance to treatment of such patients.
+
+Cigarette Smoking and Atherosclerotic Cardiovascular Disease
+
+Number of 
+
+Key takeaways:Cigarette smoking contributes to atherosclerosis and thrombosis by causing endothelial dysfunction, inflammation, and thrombosis, emphasizing the need for smoking cessation to protect cardiovascular health.
+
+Abstract:The detrimental effects of cigarette smoking on cardiovascular health, particularly atherosclerosis and thrombosis, are well established, and more detailed mechanisms continue to emerge. As the fundamental pathophysiology of the adverse effects of smoking, endothelial dysfunction, inflammation, and thrombosis are considered to be particularly important. Cigarette smoke induces endothelial dysfunction, leading to impaired vascular dilation and hemostasis regulation. Factors contributing to endothelial dysfunction include reduced bioavailability of nitric oxide, increased levels of superoxide anion, and endothelin release. Chronic inflammation of the vascular wall is a central pathogenesis of smoking-induced atherosclerosis. Smoking systemically elevates inflammatory markers and induces the expression of adhesion molecules and cytokines in various tissues. Pattern recognition receptors and damage-associated molecular patterns play crucial roles in the mechanism underlying smoking-induced inflammation. Smoking-induced DNA damage and activation of innate immunity, such as the NLRP3 inflammasome, cyclic GMP–AMP synthase (cGAS)-stimulator of interferon genes (STING) pathway, and Toll-like receptor 9, are shown to amplify inflammatory cytokine expression. Cigarette smoke-induced oxidative stress and inflammation influence platelet adhesion, aggregation, and coagulation via adhesion molecule upregulation. Furthermore, it affects the coagulation cascade and fibrinolysis balance, causing thrombus formation. Matrix metalloproteinases contribute to plaque vulnerability and atherothrombotic events. The impact of smoking on inflammatory cells and adhesion molecules further intensifies the risk of atherothrombosis. Collectively, exposure to cigarette smoke exerts profound effects on endothelial function, inflammation, and thrombosis, contributing to the development and progression of atherosclerosis and atherothrombotic cardiovascular diseases. Understanding these intricate mechanisms highlights the urgent need for smoking cessation to protect cardiovascular health. This comprehensive review investigates the multifaceted mechanisms through which smoking contributes to these life-threatening conditions.
+
+Cardiovascular Effects of Smoking and Smoking Cessation: A 2024 Update
+
+Number of 
+
+Key takeaways:Quitting smoking can significantly reduce or reverse the harmful effects on cardiovascular health, with benefits observed in a relatively short period compared to smoking history.
+
+Abstract:Smoking is a significant risk factor for both acute and chronic cardiovascular diseases. These diseases contribute to approximately twenty percent of all-cause mortality. Research indicates that quitting smoking can substantially reduce or even reverse the harmful effects associated with smoking on cardiovascular health. Notably, these benefits can be observed in a relatively short period compared to the duration of smoking history. This article aims to provide data to understand the effects of smoking on the cardiovascular system locally as well as its effects as a pandemic globally and hence provide comprehensive strategies in the management of cardiovascular patients for smoking cessation.
+
+Cardiovascular risk of smoking and benefits of smoking cessation
+
+Number of 
+
+Key takeaways:Smoking increases mortality and contributes to atherosclerotic cardiovascular disease, with early smoking cessation reducing the risk of death by 90%.
+
+Abstract:Smoking increases mortality from all causes and has a crucial role in atherosclerotic cardiovascular disease (ASCVD). Active smoking and secondhand smoke exposure determine more than 30% of coronary heart disease (CHD) mortality. The exact mechanisms of cardiovascular damages are not well known, but the detrimental effect of smoking on endothelial function has long been recognized. Smoking elicits oxidative processes, negatively affects platelet function, fibrinolysis, inflammation and vasomotor function; all these proatherogenic effects double the 10-year risk of fatal events in smokers compared to non smokers. An intriguing issue about smoking is the vulnerability of female gender. The mortality from cardiovascular diseases (CVDs) is higher in female than male smokers and female smokers show a 25% higher risk of developing CHD than men with the same exposure to tobacco smoke. This female vulnerability seems to be related to genes involved in thrombin signaling. The effects of smoking cessation have also been extensively studied. Cessation at an early age (40 years) has an impressive 90% reduction in the excess risk of death. In this review we report recent data about the causal link between smoking and CVDs and about the benefits of smoking cessation.
+
+Tobacco smoking induces cardiovascular mitochondrial oxidative stress, promotes endothelial dysfunction, and enhances hypertension.
+
+Number of 
+
+Key takeaways:Tobacco smoking-induced mitochondrial oxidative stress contributes to endothelial dysfunction and hypertension, and targeting this stress may help treat related conditions.
+
+Abstract:Tobacco smoking is a major risk factor for cardiovascular disease and hypertension. It is associated with the oxidative stress and induces metabolic reprogramming, altering mitochondrial function. We hypothesized that cigarette smoke induces cardiovascular mitochondrial oxidative stress, which contributes to endothelial dysfunction and hypertension. To test this hypothesis, we studied whether the scavenging of mitochondrial H2O2 in transgenic mice expressing mitochondria-targeted catalase (mCAT) attenuates the development of cigarette smoke/angiotensin II-induced mitochondrial oxidative stress and hypertension compared with wild-type mice. Two weeks of exposure of wild-type mice with cigarette smoke increased systolic blood pressure by 17 mmHg, which was similar to the effect of a subpresssor dose of angiotensin II (0.2 mg·kg-1·day-1), leading to a moderate increase to the prehypertensive level. Cigarette smoke exposure and a low dose of angiotensin II cooperatively induced severe hypertension in wild-type mice, but the scavenging of mitochondrial H2O2 in mCAT mice completely prevented the development of hypertension. Cigarette smoke and angiotensin II cooperatively induced oxidation of cardiolipin (a specific biomarker of mitochondrial oxidative stress) in wild-type mice, which was abolished in mCAT mice. Cigarette smoke and angiotensin II impaired endothelium-dependent relaxation and induced superoxide overproduction, which was diminished in mCAT mice. To mimic the tobacco smoke exposure, we used cigarette smoke condensate, which induced mitochondrial superoxide overproduction and reduced endothelial nitric oxide (a hallmark of endothelial dysfunction in hypertension). Western blot experiments indicated that tobacco smoke and angiotensin II reduce the mitochondrial deacetylase sirtuin-3 level and cause hyperacetylation of a key mitochondrial antioxidant, SOD2, which promotes mitochondrial oxidative stress. NEW & NOTEWORTHY This work demonstrates tobacco smoking-induced mitochondrial oxidative stress, which contributes to endothelial dysfunction and development of hypertension. We suggest that the targeting of mitochondrial oxidative stress can be beneficial for treatment of pathological conditions associated with tobacco smoking, such as endothelial dysfunction, hypertension, and cardiovascular diseases.
+
+Impact of smoking on cardiovascular risk and premature ageing: Findings from the STANISLAS cohort.
+
+Number of 
+
+Key takeaways:Current smoking is associated with early signs of cardiovascular ageing and protein biomarkers that regulate inflammation, endothelial function, metabolism, oncological processes, and apoptosis.
+
+The Effects of Cigarette Smoking on the Cardiovascular System: Mechanisms of Damage, Risk Factors, and Prevention Strategies
+
+Number of 
+
+Key takeaways:Cigarette smoking significantly affects the cardiovascular system, with both active and passive smoking having negative impacts, and further research is needed to develop effective treatment and prevention strategies.
+
+Abstract:Introduction: Cardiovascular diseases remain the leading cause of morbidity and premature mortality. Even though the prevalence of cigarette smoking has decreased over the last few decades, it is still one of the most important preventable risk factors for cardiovascular diseases. Moreover, recently, an increasing number of people have been transitioning to e-cigarettes, which also influence blood pressure and the cardiovascular system.
+Purpose of the study: The following review analyzes the association between cigarette smoking and both prevalence and development of cardiovascular diseases. It also suggests the management of tobacco addiction.
+Materials and methods: A literature review of English language papers was conducted to summarize the latest knowledge on the topic, focusing on the most recent papers. The review was conducted using the PubMed database, with 53 works used and accessed before December 2024.
+Conclusions: Tobacco significantly affects the cardiovascular system, with numerous studies highlighting the negative impacts of both active and passive smoking. Although extensive knowledge exists about tobacco smoke's impact on the cardiovascular system, further research is still needed. A better understanding of the link between smoking and the development of cardiovascular diseases, as well as methods for the management of the addiction, is crucial to developing successful treatment and prevention strategies.
+
+Tobacco smoking and risk of 36 cardiovascular disease subtypes: fatal and non-fatal outcomes in a large prospective Australian study
+
+Number of 
+
+Key takeaways:Current smoking significantly increases the risk of nearly all cardiovascular disease subtypes, with quitting substantially reducing the risk.
+
+Abstract:Tobacco smoking is a leading cause of cardiovascular disease (CVD) morbidity and mortality. Evidence on the relation of smoking to different subtypes of CVD, across fatal and non-fatal outcomes, is limited.A prospective study of 188,167 CVD- and cancer-free individuals aged ≥ 45 years from the Australian general population joining the 45 and Up Study from 2006 to 2009, with linked questionnaire, hospitalisation and death data up to the end of 2015. Hazard ratios (HRs) for hospitalisation with or mortality from CVD among current and past versus never smokers were estimated, including according to intensity and recency of smoking, using Cox regression, adjusting for age, sex, urban/rural residence, alcohol consumption, income and education. Population-attributable fractions were estimated.During a mean 7.2 years follow-up (1.35 million person-years), 27,511 (crude rate 20.4/1000 person-years) incident fatal and non-fatal major CVD events occurred, including 4548 (3.2) acute myocardial infarction (AMI), 3991 (2.8) cerebrovascular disease, 3874 (2.7) heart failure and 2311 (1.6) peripheral arterial disease (PAD) events. At baseline, 8% of participants were current and 34% were past smokers. Of the 36 most common specific CVD subtypes, event rates for 29 were increased significantly in current smokers. Adjusted HRs in current versus never smokers were as follows: 1.63 (95%CI 1.56-1.71) for any major CVD, 2.45 (2.22-2.70) for AMI, 2.16 (1.93-2.42) for cerebrovascular disease, 2.23 (1.96-2.53) for heart failure, 5.06 (4.47-5.74) for PAD, 1.50 (1.24-1.80) for paroxysmal tachycardia, 1.31 (1.20-1.44) for atrial fibrillation/flutter, 1.41 (1.17-1.70) for pulmonary embolism, 2.79 (2.04-3.80) for AMI mortality, 2.26 (1.65-3.10) for cerebrovascular disease mortality and 2.75 (2.37-3.19) for total CVD mortality. CVD risks were elevated at almost all levels of current smoking intensity examined and increased with smoking intensity, with HRs for total CVD mortality in current versus never smokers of 1.92 (1.11-3.32) and 4.90 (3.79-6.34) for 4-6 and ≥ 25 cigarettes/day, respectively. Risks diminished with quitting, with excess risks largely avoided by quitting before age 45. Over one third of CVD deaths and one quarter of acute coronary syndrome hospitalisations in Australia aged < 65 can be attributed to smoking.Current smoking increases the risk of virtually all CVD subtypes, at least doubling the risk of many, including AMI, cerebrovascular disease and heart failure. Paroxysmal tachycardia is a newly identified smoking-related risk. Where comparisons are possible, smoking-associated relative risks for fatal and non-fatal outcomes are similar. Quitting reduces the risk substantially. In an established smoking epidemic, with declining and low current smoking prevalence, smoking accounts for a substantial proportion of premature CVD events.
+
+Impact of smoking and smoking cessation on cardiovascular events and mortality among older adults: meta-analysis of individual participant data from prospective cohort studies of the CHANCES consortium
+
+Number of 
+
+Key takeaways:Smoking remains a strong independent risk factor for cardiovascular events and mortality in older adults, with cessation still beneficial in reducing excess risk.
+
+Abstract:Objective To investigate the impact of smoking and smoking cessation on cardiovascular mortality, acute coronary events, and stroke events in people aged 60 and older, and to calculate and report risk advancement periods for cardiovascular mortality in addition to traditional epidemiological relative risk measures. Design Individual participant meta-analysis using data from 25 cohorts participating in the CHANCES consortium. Data were harmonised, analysed separately employing Cox proportional hazard regression models, and combined by meta-analysis. Results Overall, 503?905 participants aged 60 and older were included in this study, of whom 37?952 died from cardiovascular disease. Random effects meta-analysis of the association of smoking status with cardiovascular mortality yielded a summary hazard ratio of 2.07 (95% CI 1.82 to 2.36) for current smokers and 1.37 (1.25 to 1.49) for former smokers compared with never smokers. Corresponding summary estimates for risk advancement periods were 5.50 years (4.25 to 6.75) for current smokers and 2.16 years (1.38 to 2.39) for former smokers. The excess risk in smokers increased with cigarette consumption in a dose-response manner, and decreased continuously with time since smoking cessation in former smokers. Relative risk estimates for acute coronary events and for stroke events were somewhat lower than for cardiovascular mortality, but patterns were similar. Conclusions Our study corroborates and expands evidence from previous studies in showing that smoking is a strong independent risk factor of cardiovascular events and mortality even at older age, advancing cardiovascular mortality by more than five years, and demonstrating that smoking cessation in these age groups is still beneficial in reducing the excess risk.
+
+Impact of Electronic Cigarettes on the Cardiovascular System
+
+Number of 
+
+Key takeaways:Electronic cigarettes, like tobacco smoking, have the potential to cause cardiovascular diseases, such as heart attacks and strokes, by mimicking the harmful effects of tobacco smoking.
+
+Abstract:Tobacco smoking is a major public health threat for both smokers and nonsmokers. There is accumulating evidence demonstrating that smoking causes several human diseases, including those affecting the cardiovascular system. Indeed, tobacco smoking is responsible for up to 30% of heart disease–
+
+A Systematic Review of the Effects of Smoking on the Cardiovascular System and General Health
+
+Number of 
+
+Key takeaways:Smoking increases cardiovascular disease risk and shortens life expectancy, while quitting smoking leads to better cardiovascular health and longer life expectancy.
+
+Abstract:The main risk factor for atherosclerotic cardiovascular disease is smoking. Nicotine and carbon monoxide are two dangerous substances that are found in cigarette smoke. The increased heart rate can have an almost instantaneous impact on the heart and blood vessels. Smoking is well known to cause oxidative stress, endanger the lining of the arteries, and accelerate the accumulation of fatty plaque in the blood vessels. It raises the danger of sudden thrombotic events, inflammatory alterations, and low-density lipoprotein oxidation. The smoke's carbon monoxide decreases the blood's capacity to deliver oxygen, adding to the heart's stress. Notably, these risks increase when diabetes, hypertension, high cholesterol, and glucose intolerance are present. It has a detrimental effect on peripheral blood vessels, raising the possibility of thromboangiitis obliterans. Stroke risk is known to be increased by smoking. As compared to those who continue to smoke, those who give up smoking have a much longer life expectancy. Chronic cigarette smoking has been shown to affect the macrophages' ability to remove cholesterol. Abstinence from smoking enhances the function of high-density lipoproteins and cholesterol efflux, lowering the risk of plaque buildup. In this review, we present the most recent information regarding the causal relationship between smoking and cardiovascular health as well as the long-term advantages of quitting.
+
+Impact of smoking on cardiovascular outcomes in patients with stable coronary artery disease.
+
+Number of 
+
+Key takeaways:Current smokers with stable coronary artery disease have a significantly higher risk of future cardiovascular events and mortality compared to never-smokers, with former smokers at an intermediate risk.
+
+Abstract:AIMS
+Smoking is a major preventable risk factor for cardiovascular disease and mortality. However, the 'smoker's paradox' suggests that it is associated with better survival after acute myocardial infarction. We aimed to investigate the impact of smoking on mortality and cardiovascular outcomes in patients with stable coronary artery disease.
+
+METHODS
+The international CLARIFY registry included 32,703 patients with stable coronary artery disease between 2009 and 2010. Among the 32,378 patients included in the present analysis, Cox proportional hazards models (adjusted for age, sex, geographic region, prior myocardial infarction, and revascularization status) were used to estimate associations between smoking status and outcomes. Patients were stratified as follows: 41.3% of patients never smoked, 12.5% were current smokers and 46.2% were former smokers.
+
+RESULTS
+Current smokers were younger than never-smokers and former smokers (59 vs. 66 and 64 years old, respectively, p < 0.0001). There were more men among current or former smokers compared with never-smokers. Compared with never-smokers, both current and former smokers were at higher risk of all-cause death (hazard ratio = 1.96 and 1.37) and cardiovascular death (hazard ratio = 1.92 and 1.38) within five years (all p < 0.05). Similarly graded and increased risks were present for myocardial infarction and the composite of cardiovascular death, myocardial infarction and stroke (all p < 0.05).
+
+CONCLUSION
+In contrast to the 'smoker's paradox', current smokers with stable coronary artery disease have a greatly increased risk of future cardiovascular events, including mortality, compared with never-smokers. In former smokers, cardiovascular risk remains elevated albeit at an intermediate level between that of current and never-smokers, reinforcing the importance of smoking cessation. (ISRCTN43070564).
+
+Cigarette smoking: an undertreated risk factor for cardiovascular disease.
+
+Number of 
+
+Key takeaways:Smoking cessation is a highly effective and cost-effective way to improve cardiovascular health in smokers, but often undertreated due to perceived lifestyle choices or low long-term quit rates.
+
+Immunological Insights into Cigarette Smoking-Induced Cardiovascular Disease Risk
+
+Number of 
+
+Key takeaways:Cigarette smoking negatively affects the cardiovascular system and alters the immune system, leading to increased autoimmune diseases, inflammatory diseases, and cancer.
+
+Abstract:Smoking is one of the most prominent addictions of the modern world, and one of the leading preventable causes of death worldwide. Although the number of tobacco smokers is believed to be at a historic low, electronic cigarette use has been on a dramatic rise over the past decades. Used as a replacement for cigarette smoking, electronic cigarettes were thought to reduce the negative effects of burning tobacco. Nonetheless, the delivery of nicotine by electronic cigarettes, the most prominent component of cigarette smoke (CS) is still delivering the same negative outcomes, albeit to a lesser extent than CS. Smoking has been shown to affect both the structural and functional aspects of major organs, including the lungs and vasculature. Although the deleterious effects of smoking on these organs individually is well-known, it is likely that the adverse effects of smoking on these organs will have long-lasting effects on the cardiovascular system. In addition, smoking has been shown to play an independent role in the homeostasis of the immune system, leading to major sequela. Both the adaptive and the innate immune system have been explored regarding CS and have been demonstrated to be altered in a way that promotes inflammatory signals, leading to an increase in autoimmune diseases, inflammatory diseases, and cancer. Although the mechanism of action of CS has not been fully understood, disease pathways have been explored in both branches of the immune system. The pathophysiologically altered immune system during smoking and its correlation with cardiovascular diseases is not fully understood. Here we highlight some of the important pathological mechanisms that involve cigarette smoking and its many components on cardiovascular disease and the immune systems in order to have a better understanding of the mechanisms at play.
+
+Differential effects of cigarette smoking on cardiovascular disease in females: A narrative review and call to action.
+
+Number of 
+
+Key takeaways:Cigarette smoking has disproportionately negative effects on the cardiovascular system in females, especially in younger women, and requires further research and female-specific approaches for treating smoking.
+
+Impact of tobacco smoking and smoking cessation on cardiovascular risk and disease
+
+Number of 
+
+Key takeaways:Smoking cessation and second-hand smoke avoidance rapidly reduce cardiovascular risk and disease, with proven interventions like brief physician advice, counseling, and nicotine replacement therapy being crucial for all smokers.
+
+Abstract:Despite declines in smoking prevalence in many Western countries, tobacco use continues to grow in global importance as a leading preventable cause of cardiovascular disease. Tobacco smoke is both prothrombotic and atherogenic, increasing the risks of acute myocardial infarction, sudden cardiac death, stroke, aortic aneurysm and peripheral vascular disease. Even very low doses of exposure increase the risk of acute myocardial infarction. However, smoking cessation and second-hand smoke avoidance swiftly reduce this risk. While promising new agents are emerging, proven cost-effective and safe cessation interventions already exist, such as brief physician advice, counseling and nicotine replacement therapy. These should be routinely offered, where available, to all smokers. This is especially important for those at risk of, or with established and even acute, cardiovascular disease. Clinicians must play a more active role than ever before in supporting complete cessation in patients who smoke and in advocating for stronger tobacco control measures.
+
+Tobacco smoking and the risk of sudden cardiac death: a systematic review and meta-analysis of prospective studies
+
+Number of 
+
+Key takeaways:Smoking increases the risk of sudden cardiac death, with current smokers having a higher risk than former smokers.
+
+Abstract:Smoking is an established risk factor for cardiovascular disease including coronary heart disease and stroke, however, data regarding smoking and sudden cardiac death have not been summarized in a meta-analysis previously. We therefore conducted a systematic review and meta-analysis to clarify this association. We searched the PubMed and Embase databases for studies of smoking and sudden cardiac death up to July 20th 2017. Prospective studies were included if they reported adjusted relative risk (RR) estimates and 95% confidence intervals (CIs) for smoking and sudden cardiac death. Summary RRs were estimated by use of a random effects model. Twelve prospective studies were included. The summary RR was 3.06 (95% CI 2.46–3.82, I2 = 41%, pheterogeneity = 0.12, n = 7) for current smokers and 1.38 (95% CI 1.20–1.60, I2 = 0%, pheterogeneity = 0.55, n = 7) for former smokers compared to never smokers. For four studies using non-current (never + former) smokers as the reference category the summary RR among current smokers was 2.08 (95% CI 1.70–2.53, I2 = 18%, pheterogeneity = 0.30). The results persisted in most of the subgroup analyses. There was no evidence of publication bias. These results confirm that smoking increases the risk of sudden cardiac death. Any further studies should investigate in more detail the effects of duration of smoking, number of cigarettes per day, pack-years, and time since quitting smoking and sudden cardiac death.
+
+Low cigarette consumption and risk of coronary heart disease and stroke: meta-analysis of 141 cohort studies in 55 study reports
+
+Number of 
+
+Key takeaways:Smoking one cigarette per day carries a risk of developing coronary heart disease and stroke that is half that of people who smoke 20 per day, emphasizing the need for smokers to quit rather than cut down.
+
+Abstract:Abstract Objective To use the relation between cigarette consumption and cardiovascular disease to quantify the risk of coronary heart disease and stroke for light smoking (one to five cigarettes/day). Design Systematic review and meta-analysis. Data 
+
+Nicotine and vascular dysfunction
+
+Number of 
+
+Key takeaways:Nicotine exposure, both in cigarette smoking and electronic cigarettes, leads to vascular dysfunction and remodelling, highlighting the need for further nicotine research.
+
+Abstract:Cigarette smoking is the single most important risk factor for the development of cardiovascular diseases (CVDs). However, the role of nicotine, the addictive component of all tobacco products, in the development of CVD is incompletely understood. Although increased public awareness of the harms of cigarette smoking has successfully led to a decline in its prevalence, the use of electronic cigarettes (e‐cig) or electronic nicotine delivery system has increased dramatically in recent years because of the perception that these products are safe. This review summarizes our current knowledge of the expression and function of the nicotinic acetylcholine receptors in the cardiovascular system and the impact of nicotine exposure on cardiovascular health, with a focus on nicotine‐induced vascular dysfunction. Nicotine alters vasoreactivity through endothelium‐dependent and/or endothelium‐independent mechanisms, leading to clinical manifestations in both cigarette smokers and e‐cig users. In addition, nicotine induces vascular remodelling through its effects on proliferation, migration and matrix production of both vascular endothelial and vascular smooth muscle cells. The purpose of this review is to identify critical knowledge gaps regarding the effects of nicotine on the vasculature and to stimulate continued nicotine research.
+
+Cardiovascular injury induced by tobacco products: assessment of risk factors and biomarkers of harm. A Tobacco Centers of Regulatory Science compilation.
+
+Number of 
+
+Key takeaways:New and emerging tobacco products, such as electronic cigarettes, hookah, and heat-not-burn products, may increase cardiovascular disease risk by altering biomarkers sensitive to combustible cigarettes.
+
+Abstract:Although substantial evidence shows that smoking is positively and robustly associated with cardiovascular disease (CVD), the CVD risk associated with the use of new and emerging tobacco products, such as electronic cigarettes, hookah, and heat-not-burn products, remains unclear. This uncertainty stems from lack of knowledge on how the use of these products affects cardiovascular health. Cardiovascular injury associated with the use of new tobacco products could be evaluated by measuring changes in biomarkers of cardiovascular harm that are sensitive to the use of combustible cigarettes. Such cardiovascular injury could be indexed at several levels. Preclinical changes contributing to the pathogenesis of disease could be monitored by measuring changes in systemic inflammation and oxidative stress, organ-specific dysfunctions could be gauged by measuring endothelial function (flow-mediated dilation), platelet aggregation, and arterial stiffness, and organ-specific injury could be evaluated by measuring endothelial microparticles and platelet-leukocyte aggregates. Classical risk factors, such as blood pressure, circulating lipoproteins, and insulin resistance, provide robust estimates of risk, and subclinical disease progression could be followed by measuring coronary artery Ca2+ and carotid intima-media thickness. Given that several of these biomarkers are well-established predictors of major cardiovascular events, the association of these biomarkers with the use of new and emerging tobacco products could be indicative of both individual and population-level CVD risk associated with the use of these products. Differential effects of tobacco products (conventional vs. new and emerging products) on different indexes of cardiovascular injury could also provide insights into mechanisms by which they induce cardiovascular harm.
+
+Nicotine and the renin-angiotensin system.
+
+Number of 
+
+Key takeaways:Nicotine alters the renin-angiotensin system's homeostasis, contributing to the development of cardiovascular and pulmonary diseases, and e-cigarettes may have the potential to reverse health benefits gained from tobacco smoking decline.
+
+Abstract:Cigarette smoking is the single most important risk factor for the development of cardiovascular and pulmonary diseases (CVPD). Although cigarette smoking has been in constant decline since the 1950s, the introduction of e-cigarettes or electronic nicotine delivery systems 10 yr ago has attracted former smokers as well as a new generation of consumers. Nicotine is a highly addictive substance, and it is currently unclear whether e-cigarettes are 'safer' than regular cigarettes or whether they have the potential to reverse the health benefits, notably on the cardiopulmonary system, acquired with the decline of tobacco smoking. Of great concern, nicotine inhalation devices are becoming popular among young adults and youths, emphasizing the need for awareness and further study of the potential cardiopulmonary risks of nicotine and associated products. This review focuses on the interaction between nicotine and the renin-angiotensin system (RAS), one of the most important regulatory systems on autonomic, cardiovascular, and pulmonary functions in both health and disease. The literature presented in this review strongly suggests that nicotine alters the homeostasis of the RAS by upregulating the detrimental angiotensin-converting enzyme (ACE)/angiotensin (ANG)-II/ANG II type 1 receptor axis and downregulating the compensatory ACE2/ANG-(1-7)/Mas receptor axis, contributing to the development of CVPD.
+
+EFFECT OF TOBACCO AND ELECTRONIC CIGARETTES ON HEART RATE AND CARDIOVASCULAR SYSTEM IN SMOKERS
+
+Number of 
+
+Key takeaways:Tobacco and e-cigarettes negatively impact the cardiovascular system in young people aged 18-21, with heart rate, regulation, and adaptation mechanisms potentially increasing with smoking history.
+
+Abstract:Smoking is widespread among the young working population in Russia. Moreover, e-cigarettes are very popular among smokers as an alternative to traditional ones. 
+The purpose of the study was to establish the effect of traditional cigarettes and modern e-cigarettes on the physiological characteristics of smokers, namely young people aged 18–21. 
+Materials and Methods. The study involved young people agd 18–21 with at least 1 year of smoking experience and non-smokers. The trial participants were organized into three groups: a control group (non-smokers) and two experimental groups (traditional cigarette smokers and e-cigarette smokers). The research methods included physical tests, such as a breathing test, pressure measurements at rest, at load and after smoking, and calculation of cardiovascular state parameters. 
+Results. During the experiment, no changes in blood pressure were observed in e-cigarette smokers.In traditional cigarette smokers, an increase in systolic blood pressure was observed at load. However, diastolic blood pressure was normal. It indicated a decrease in the distensibility of arterial vessels. An increase in heart rate was noted in both cigarette and e-cigarette smokers at load and immediately after smoking. The predominance of the sympathetic influence on the cardiovascular system was determined in all trial subjects. The obtained data indicated a violation in cardiovascular system activity in all subjects before and after exercise, and after smoking. At the same time, cardiovascular system activity deteriorated in the experimental groups after smoking. Under normal conditions and after exercise, all trial subjects showed tension in their adaptation mechanisms. After smoking in both experimental groups cardiovascular system adaptation potential was unsatisfactory. 
+Conclusion. An assessment of physical parameters in smokers revealed a negative impact of tobacco and e-cigarettes on the cardiovascular system, namely on heart rate, regulation of cardiovascular system activity, adaptation mechanisms, which was likely to increase with smoking history.
+
+The cardiovascular effects of electronic cigarettes: A systematic review of experimental studies.
+
+Number of 
+
+Key takeaways:Most studies suggest potential cardiovascular harm from electronic cigarette use, increasing risk of thrombosis and atherosclerosis, with conflicts of interest and high risk of bias significantly reducing findings.
+
+Cardiovascular effects of electronic cigarettes
+
+Number of 
+
+Key takeaways:Electronic cigarettes may pose some cardiovascular risk, but the risk is believed to be less than cigarette smoking, potentially benefiting public health overall.
+
+Cardiovascular effects of electronic cigarettes: A systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Electronic cigarettes may negatively affect cardiovascular health, with conflicting evidence on their effects on heart rate and blood pressure, and should not be labelled as a cardiovascular safe product.
+
+Abstract:Aims The electronic cigarette is marketed as a safe alternative to tobacco smoking, but electronic cigarette cardiovascular effects remain largely unknown. We systematically reviewed and meta-analysed 
+
+Association Between E-Cigarette Use and Cardiovascular Disease Among Never and Current Combustible-Cigarette Smokers.
+
+Number of 
+
+Key takeaways:Dual use of e-cigarettes and combustible cigarettes is associated with significantly higher odds of cardiovascular disease compared to smoking alone.
+
+Mutational signatures associated with tobacco smoking in human cancer
+
+Number of 
+
+Key takeaways:Tobacco smoking increases cancer risk by increasing the somatic mutation load, with multiple distinct mutational signatures contributing to different cancers and limited differences in DNA methylation.
+
+Abstract:Assessing smoke damage in cancer genomes We have known for over 60 years that smoking tobacco is one of the most avoidable risk factors for cancer. Yet the detailed mechanisms by which tobacco smoke damages the genome and creates the mutations that ultimately cause cancer are still not fully understood. Alexandrov et al. examined mutational signatures and DNA methylation changes in over 5000 genome sequences from 17 different cancer types linked to smoking (see the Perspective by Pfeifer). They found a complex pattern of mutational signatures. Only cancers originating in tissues directly exposed to smoke showed a signature characteristic of the known tobacco carcinogen benzopyrene. One mysterious signature was shared by all smoking-associated cancers but is of unknown origin. Smoking had only a modest effect on DNA methylation. Science, this issue p. 618; see also p. 549 Tobacco smoke causes cancer through mutational processes that are more complex than previously thought. Tobacco smoking increases the risk of at least 17 classes of human cancer. We analyzed somatic mutations and DNA methylation in 5243 cancers of types for which tobacco smoking confers an elevated risk. Smoking is associated with increased mutation burdens of multiple distinct mutational signatures, which contribute to different extents in different cancers. One of these signatures, mainly found in cancers derived from tissues directly exposed to tobacco smoke, is attributable to misreplication of DNA damage caused by tobacco carcinogens. Others likely reflect indirect activation of DNA editing by APOBEC cytidine deaminases and of an endogenous clocklike mutational process. Smoking is associated with limited differences in methylation. The results are consistent with the proposition that smoking increases cancer risk by increasing the somatic mutation load, although direct evidence for this mechanism is lacking in some smoking-related cancer types.
+
+Establishment of a Strong Link Between Smoking and Cancer Pathogenesis through DNA Methylation Analysis
+
+Number of 
+
+Key takeaways:Smoking-related DNA methylation is strongly linked to cancer-related pathways, with the aryl hydrocarbon receptor signaling pathway playing a key role in smoking-attributable cancer.
+
+Tobacco smoking and cancer: A meta‐analysis
+
+Number of 
+
+Key takeaways:Current smokers have the highest relative risks of lung, laryngeal, and pharyngeal cancers, followed by upper digestive tract and oral cancers.
+
+Abstract:We conducted a systematic meta‐analysis of observational studies on cigarette smoking and cancer from 1961 to 2003. The aim was to quantify the risk for 13 cancer sites, recognized to be related to tobacco smoking by the International Agency for Research on Cancer (IARC), and to analyze the risk variation for each site in a systematic manner. We extracted data from 254 reports 
+
+Smoking and Colorectal Cancer Risk, Overall and by Molecular Subtypes: A Meta-Analysis.
+
+Number of 
+
+Key takeaways:Cigarette smoking increases colorectal cancer risk in a dose-dependent manner, with quitting smoking reducing the risk, and smoking is strongly associated with the risk of developing colorectal cancer through the microsatellite instability pathway.
+
+Abstract:INTRODUCTION
+The aim of this study was to provide the most comprehensive and up-to-date evidence on the association between cigarette smoking and colorectal cancer (CRC) risk.
+
+METHODS
+We conducted a systematic review and meta-analysis of epidemiological studies on the association between cigarette smoking and CRC risk published up to September 2018. We calculated relative risk (RR) of CRC according to smoking status, intensity, duration, pack-years, and time since quitting, with a focus on molecular subtypes of CRC.
+
+RESULTS
+The meta-analysis summarizes the evidence from 188 original studies. Compared with never smokers, the pooled RR for CRC was 1.14 (95% confidence interval 1.10-1.18) for current smokers and 1.17 (95% CI 1.15-1.20) for former smokers. CRC risk increased linearly with smoking intensity and duration. Former smokers who had quit smoking for more than 25 years had significantly decreased risk of CRC compared with current smokers. Smoking was strongly associated with the risk of CRC, characterized by high CpG island methylator phenotype (RR 1.42; 95% CI 1.20-1.67; number of studies = 4), BRAF mutation (RR 1.63; 95% CI 1.23-2.16; n = 4), or high microsatellite instability (RR 1.56; 95% CI 1.32-1.85; n = 8), but not characterized by KRAS (RR 1.04; 95% CI 0.90-1.20; n = 5) or TP53 (RR 1.13; 95% CI 0.99-1.29; n = 5) mutations.
+
+DISCUSSION
+Cigarette smoking increases the risk of CRC in a dose-dependent manner with intensity and duration, and quitting smoking reduces CRC risk. Smoking greatly increases the risk of CRC that develops through the microsatellite instability pathway, characterized by microsatellite instability-high, CpG island methylator phenotype positive, and BRAF mutation.
+
+The Role of Tobacco Smoke in Bladder and Kidney Carcinogenesis: A Comparison of Exposures and Meta-analysis of Incidence and Mortality Risks.
+
+Number of 
+
+Key takeaways:Tobacco smoking significantly increases the risk of bladder cancer and renal cell cancer, with smoking cessation reducing the risk of developing and dying from these common cancers.
+
+Impact of tobacco smoking on the risk of developing 25 different cancers in the UK: a retrospective study of 422,010 patients followed for up to 30 years
+
+Number of 
+
+Key takeaways:Smoking increases the overall risk of cancer in the UK, with smoking predominantly positively associated with various cancers and less frequently negatively associated with skin, prostate, multiple myeloma, endometrial carcinoma, and breast cancer.
+
+Abstract:Background The aim of this study was to analyze the impact of tobacco smoking on the risk of developing 25 different cancers in patients followed for up to 30 years in general practices in the UK. Methods This study included all individuals with at least one visit to one of 196 general practitioners’ offices in the UK between January 1988 and December 2008 (index date). Only individuals with documented smoking status were included. Smokers and non-smokers were matched (1:1) by age, gender, index year, body mass index, and physician. The main outcome of the study was the risk of cancer as a function of smoking status. Data regarding a total of 25 cancers were available for the present analysis. The risk of cancer was analyzed using Cox’s regression model. Results The present retrospective study included 211,005 smokers and 211,005 non-smokers. The mean age was 36.5 years (SD = 12.5 years) in men and 34.3 years (SD = 13.1 years) in women. There was a slightly positive association between smoking and any cancer in both men (HR = 1.07) and women (HR = 1.03). Smoking was further found to be positively associated with several cancers, such as liver cancer, bladder and kidney cancers, pancreas cancer, and lymphoma. By contrast, the use of tobacco was negatively associated with the risk of developing skin cancer, prostate cancer, multiple myeloma, endometrial carcinoma, or breast cancer. Conclusions Smoking increased the overall risk of cancer in primary care practices in the UK. In addition, smoking was predominantly positively and less frequently negatively associated with numerous specific cancers.
+
+Cigarette smoking and lung cancer—relative risk estimates for the major histological types from a pooled analysis of case–control studies
+
+Number of 
+
+Key takeaways:Smoking has a steeper risk gradient for squamous cell carcinoma and small cell lung cancer than for adenocarcinoma, with higher risks for these subtypes in current smokers.
+
+Abstract:Lung cancer is mainly caused by smoking, but the quantitative relations between smoking and histologic subtypes of lung cancer remain inconclusive. By using one of the largest lung cancer datasets ever assembled, we explored the impact of smoking on risks of the major cell types of lung cancer. This pooled analysis included 13,169 cases and 16,010 controls from Europe and Canada. Studies with population controls comprised 66.5% of the subjects. Adenocarcinoma (AdCa) was the most prevalent subtype in never smokers and in women. Squamous cell carcinoma (SqCC) predominated in male smokers. Age‐adjusted odds ratios (ORs) were estimated with logistic regression. ORs were elevated for all metrics of exposure to cigarette smoke and were higher for SqCC and small cell lung cancer (SCLC) than for AdCa. Current male smokers with an average daily dose of >30 cigarettes had ORs of 103.5 (95% confidence interval (CI): 74.8–143.2) for SqCC, 111.3 (95% CI: 69.8–177.5) for SCLC and 21.9 (95% CI: 16.6–29.0) for AdCa. In women, the corresponding ORs were 62.7 (95% CI: 31.5–124.6), 108.6 (95% CI: 50.7–232.8) and 16.8 (95% CI: 9.2–30.6), respectively. Although ORs started to decline soon after quitting, they did not fully return to the baseline risk of never smokers even 35 years after cessation. The major result that smoking exerted a steeper risk gradient on SqCC and SCLC than on AdCa is in line with previous population data and biological understanding of lung cancer development.
+
+Smoking at diagnosis and survival in cancer patients
+
+Number of 
+
+Key takeaways:Current smoking at diagnosis increases long-term overall and disease-specific mortality risks in cancer patients, with no survival benefit observed in any disease site.
+
+Abstract:The effect of smoking on survival in cancer patients is limited by the lack of structured prospective assessments of smoking at diagnosis. To assess the effect of smoking at diagnosis on survival, structured smoking assessments were obtained in a cohort of 5,185 cancer patients within 30 days of a cancer diagnosis between 1982 and 1998. Hazard ratios (HRs) or odds ratios were generated to analyze the effects of smoking at diagnosis on overall mortality (OM) and disease‐specific mortality (DSM) in a patient cohort from 13 disease sites containing at least 100 patients in each disease site. With a minimum of 12 years of follow‐up, current smoking increased OM risk versus recent quit (HR 1.17), former (HR 1.29) and never smokers (HR 1.38) in the overall cohort. Current smoking increased DSM risk versus former (HR 1.23) and never smokers (HR 1.18). In disease sites with proportionately large (>20%) recent quit cohorts (lung and head/neck), current smoking increased OM and DSM risks as compared with recent quit. Current smoking increased mortality risks in lung, head/neck, prostate and leukemia in men and breast, ovary, uterus and melanoma in women. Current smoking was not associated with any survival benefit in any disease site. Data using prospective structured smoking assessments demonstrate that current smoking increased long‐term OM and DSM. Standardized smoking assessment at diagnosis is an important variable for evaluating outcomes in cancer patients.
+
+Cigarette smoking and thyroid cancer risk: a cohort study
+
+Number of 
+
+Key takeaways:Current smoking is associated with a decreased risk of thyroid cancer in men, but not in women, even after accounting for TSH and BMI levels.
+
+Tobacco smoking after diagnosis of cancer: clinical aspects.
+
+Number of 
+
+Key takeaways:Smoking after cancer diagnosis increases risks, worsens treatment tolerance, and worsens quality of life, with continued smoking being the strongest adverse predictor of survival.
+
+Abstract:Tobacco smoking accounts for at least 30% of all cancer deaths and nearly 90% of lung cancer deaths. Smoking cessation significantly reduces the risk of developing tobacco-related malignancies. Smoking after cancer diagnosis is also associated with multiple risks, including worse tolerance of treatment, higher risk of a failure and second primary tumors, and poorer quality of life. Apart from disease site and stage, continued smoking is considered the strongest adverse predictor of survival in cancer patients. However, the benefits of smoking cessation are undervalued: many patients are not aware of harms related to continued tobacco use after cancer diagnosis. Furthermore, health care professionals often do not encourage their patients to quit, and do not provide tobacco cessation assistance for continuing tobacco users. Despite the apparent impact of tobacco use on treatment outcomes, data on current smoking status is only rarely captured in clinical trials This article reviews the most important clinical aspects of smoking after the diagnosis of cancer.
+
+Dose-response association between cigarette smoking and gastric cancer risk: a systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:Cigarette smoking is an independent risk factor for gastric cancer, particularly for gastric cardia, with a dose-dependent increase in risk with smoking duration.
+
+Abstract:This study aims at providing an accurate and up-to-date quantification of the dose–response association between cigarette smoking and gastric cancer (GC) risk, overall and by subsite. We conducted a systematic review and meta-analysis of case–control and cohort studies on the association between cigarette smoking and GC risk 
+
+An updated review of the epidemiological evidence that cigarette smoking increases risk of colorectal cancer.
+
+Number of 
+
+Key takeaways:Cigarette smoking is strongly associated with an increased risk of colorectal cancer, with up to one in five cancers in the United States potentially attributable to tobacco use.
+
+Abstract:Carcinogens from tobacco reach the colorectal mucosa through either the alimentary tract or the circulatory system and could possibly damage or alter expression of important cancer-related genes. Twenty-one of 22 studies found that long-term, heavy cigarette smokers have a 2-3-fold elevated risk of colorectal adenoma. Risk of large adenomas, immediate cancer precursors, was elevated in smokers in 12 of 12 studies. The studies of smoking and colorectal cancer risk conducted earlier in the twentieth century consistently did not show any association. However, 27 studies in various countries, including the vast majority of those that have been analyzed in the past several years, now show an association between tobacco use and colorectal cancer. In the United States, 15 of 16 studies conducted after 1970 in middle-age men and elderly men and, in the 1990s, in women demonstrate an association. This temporal pattern is consistent with an induction period of three to four decades between genotoxic exposure and the diagnosis of colorectal cancer and with men as a group having begun smoking several decades earlier than women. Overall, accumulating evidence, much within the past decade, strongly supports the addition of colorectal cancer to the list of tobacco-associated malignancies and the possibility that up to one in five colorectal cancers in the United States may be potentially attributable to tobacco use.
+
+Smoking and Risk of Prostate Cancer and Prostate Cancer Death: A Pooled Study.
+
+Number of 
+
+Key takeaways:Smoking is associated with a lower risk of prostate cancer, but a higher risk of prostate cancer death, particularly when combined with obesity.
+
+Cigarette Smoking and Pancreatic Cancer Survival.
+
+Number of 
+
+Key takeaways:Cigarette smoking is associated with a reduction in survival among pancreatic cancer patients, with heavy smokers having a higher risk of death.
+
+Abstract:Purpose Cigarette smoking is associated with increased incidence of pancreatic cancer. However, few studies have prospectively evaluated the association of smoking with patient survival. Patients and Methods We analyzed survival by smoking status among 1,037 patients from two large US prospective cohort studies diagnosed from 1986 to 2013. Among 485 patients from four prospective US cohorts, we also evaluated survival by prediagnostic circulating levels of cotinine, a metabolite of nicotine that is proportional to tobacco smoke exposure. On the basis of prediagnosis cotinine levels, we classified patients as nonsmokers (< 3.1 ng/mL), light smokers (3.1-20.9 ng/mL), or heavy smokers (≥ 21.0 ng/mL). We estimated hazard ratios (HRs) for death by using Cox proportional hazards models, with adjustment for age, sex, race/ethnicity, body mass index, diabetes status, diagnosis year, and cancer stage. Results The multivariable-adjusted HR for death was 1.37 (95% CI, 1.11 to 1.69) comparing current smokers with never smokers ( P = .003). A statistically significant negative trend in survival was observed for increasing pack-years of smoking ( Ptrend = .008), with HR for death of 1.49 (95% CI, 1.05 to 2.10) for > 60 pack-years of smoking versus never smoking. Survival among former smokers was similar to that for never smokers, regardless of time since quitting. Heavy smokers defined by prediagnostic circulating cotinine levels had a multivariable-adjusted HR for death of 1.76 (95% CI, 1.23 to 2.51) compared with nonsmokers. Among patients with circulating cotinine levels measured within 5 years before diagnosis, heavy smokers had a multivariable-adjusted HR for death of 2.47 (95% CI, 1.24 to 4.92) compared with nonsmokers. Conclusion Cigarette smoking was associated with a reduction in survival among patients with pancreatic cancer.
+
+Smokeless tobacco and cigarette smoking: chemical mechanisms and cancer prevention
+
+Number of 
+
+Key takeaways:Smokeless tobacco and cigarette smoking contribute to cancer by exposing users to multiple carcinogens, and monitoring their exposure can help identify high-risk individuals for effective cancer prevention interventions.
+
+Smoking and risk of breast cancer in the Generations Study cohort
+
+Number of 
+
+Key takeaways:Smoking is associated with a modest but significantly increased risk of breast cancer, particularly among women who start smoking at adolescent or peri-menarcheal ages, and is greater for those with a family history of the disease.
+
+Abstract:Plausible biological reasons exist regarding why smoking could affect breast cancer risk, but epidemiological evidence is inconsistent. We used serial questionnaire information from the Generations Study cohort (United Kingdom) to estimate HRs for breast cancer in relation to smoking adjusted for potentially confounding factors, including alcohol intake. Among 102,927 women recruited 2003–2013, with an average of 7.7 years of follow-up, 1815 developed invasive breast cancer. The HR (reference group was never smokers) was 1.14 (95% CI 1.03–1.25; P = 0.010) for ever smokers, 1.24 (95% CI 1.08–1.43; P = 0.002) for starting smoking at ages < 17 years, and 1.23 (1.07–1.41; P = 0.004) for starting smoking 1–4 years after menarche. Breast cancer risk was not statistically associated with interval from initiation of smoking to first birth (P-trend = 0.97). Women with a family history of breast cancer (ever smoker vs never smoker HR 1.35; 95% CI 1.12–1.62; P = 0.002) had a significantly larger HR in relation to ever smokers (P for interaction = 0.039) than women without (ever smoker vs never smoker HR 1.07; 95% CI 0.96–1.20; P = 0.22). The interaction was prominent for age at starting smoking (P = 0.003) and starting smoking relative to age at menarche (P = 0.0001). Smoking was associated with a modest but significantly increased risk of breast cancer, particularly among women who started smoking at adolescent or peri-menarcheal ages. The relative risk of breast cancer associated with smoking was greater for women with a family history of the disease.
+
+Active cigarette smoking and risk of breast cancer
+
+Number of 
+
+Key takeaways:Cigarette smoking is associated with a higher risk of breast cancer, particularly in women who smoke for a long duration or prior to their first pregnancy.
+
+Abstract:Although epidemiological evidence on the role of active cigarette smoking in breast cancer risk has been inconsistent, recent literature supports a modest association between smoking and breast cancer. This association is particularly observed in women who smoke for a long duration, or who smoke for a long time prior to their first pregnancy. Here, we provide updated results on cigarette smoking and breast cancer risk in the Canadian National Breast Screening Study (NBSS). The NBSS is a large cohort of 89,835 women, aged 40–59, who were followed for a mean of 22.1 years, resulting in the ascertainment of 6,549 incident cases of breast cancer. Cox proportional hazard models were used to estimate hazard ratios (HR) and 95% confidence intervals (CI) for the association of cigarette smoking variables with breast cancer risk. We found breast cancer to be associated with duration (40 years vs. 0: HR = 1.57; 95%CI = 1.29–1.92), intensity (40 cigarettes per day vs. 0: HR = 1.21; 95%CI = 1.04–1.40), cumulative exposure (40 pack‐years vs. 0: HR = 1.19; 95%CI = 1.06–1.13) and latency (40 years since initiation vs. 0: HR = 1.19; 95%CI = 1.10–1.53) of cigarette smoking. Number of years smoked prior to first full‐term pregnancy was associated with higher risk of breast cancer than comparative years smoked post‐pregnancy (among parous women, 5 years pre pregnancy vs. 0: HR = 1.18; 95%CI = 1.10–1.26). These results strongly support a role for cigarette smoking in breast cancer etiology and emphasize the importance of timing of this exposure.
+
+Lung cancer in never smokers: The role of different risk factors other than tobacco smoking.
+
+Number of 
+
+Key takeaways:Never-smokers are at risk for lung cancer due to factors such as radon exposure, domestic fuel smoke, infections, and inflammatory diseases, highlighting the need for targeted therapies.
+
+Cigarette smoking increases risk for breast cancer in high-risk breast cancer families.
+
+Number of 
+
+Key takeaways:Cigarette smoking increases the risk of breast cancer in high-risk breast cancer families, especially among sisters and daughters with the strongest familial predisposition.
+
+Abstract:Most epidemiological studies of cigarette smoking and breast cancer have failed to demonstrate a strong association. Only one study has been performed on women at high genetic risk, and smoking was reported to be a protective factor. To further explore this observation, we examined the association of cigarette smoking with the risk of breast cancer in a historical cohort study of high-risk breast cancer families. A total of 426 families ascertained through a consecutive series of breast cancer patients (probands) between 1944 and 1952 were followed through 1996. Occurrence of breast cancer and detailed smoking histories for sisters, daughters, granddaughters, nieces, and marry-ins were obtained through telephone interviews between 1991 and 1996. Cox proportional hazards regression, accounting for age, birth cohort, and other risk factors, was used to calculate relative risks and 95% confidence intervals (CIs) of breast cancer. All of the models were constructed within strata defined by relationship to the index case (proband), with nonsmokers designated as the referent group. Of the 426 families in the cohort, 132 had at least three incident breast and/or ovarian cancers in the biological relatives at the end of the follow-up period. Among sisters and daughters in these 132 high-risk families, those who ever smoked were at 2.4-fold increased risk of breast cancer (95% CI, 1.2-5.1) relative to never-smokers. No association between breast cancer and smoking was observed among nieces and granddaughters of probands or among marry-ins. When the analysis was restricted to 35 families at highest genetic risk (each containing five breast and/or ovarian cancers), smoking became an even stronger risk factor. Among sisters and daughters, ever-smokers were at 5.8-fold greater risk than nonsmokers (95% CI, 1.4-23.9). Among nieces and granddaughters, the risk of breast cancer associated with smoking was increased 60% (95% CI, 0.8-3.2). These results suggest that smoking may increase risk for breast cancer in families with multiple cases of breast or ovarian cancer, especially those with the strongest apparent familial predisposition.
+
+Quantified relations between exposure to tobacco smoking and bladder cancer risk: a meta-analysis of 89 observational studies.
+
+Number of 
+
+Key takeaways:Active smokers have an increased risk of bladder cancer, with a risk plateau at 15 cigarettes a day and 50 pack-years, and even after long-term smoking cessation, an elevated risk remains.
+
+Abstract:BACKGROUND
+Smoking is a major risk factor for bladder cancer (BC). This meta-analysis updates previous reviews on smoking characteristics and BC risk, and provides a more quantitative estimation of the dose-response relationship between smoking characteristics and BC risk.
+
+METHODS
+In total, 89 studies comprising data from 57 145 BC cases were included and summary odds ratios (SORs) were calculated. Dose-response meta-analyses modelled relationships between smoking intensity, duration, pack-years and cessation and BC risk. Sources of heterogeneity were explored and sensitivity analyses were conducted to test the robustness of findings.
+
+RESULTS
+Current smokers (SOR = 3.14, 95% CI = 2.53-3.75) and former smokers(SOR = 1.83, 95% CI = 1.52-2.14) had an increased risk of BC compared with never smokers. Age at first exposure was negatively associated with BC risk. BC risk increased gradually by smoking duration and a risk plateau at smoking 15 cigarettes a day and 50 pack-years was observed. Smoking cessation is most beneficial from 20 years before diagnosis. The population-attributable risk of BC for smokers has decreased from 50% to 43% in men and from 35% to 26% in women from Europe since estimated in 2000. Results were homogeneous between sources of heterogeneity, except for lower risk estimates found in studies of Asian populations.
+
+CONCLUSIONS
+Active smokers are at an increased risk of BC. Dose-response meta-analyses showed a BC risk plateau for smoking intensity and indicate that even after long-term smoking cessation, an elevated risk of bladder cancer remains.
+
+Cigarette smoking and lung cancer: chemical mechanisms and approaches to prevention.
+
+Number of 
+
+Key takeaways:Cigarette smoking causes lung cancer through genetic changes, and new approaches like human uptake of tobacco carcinogens and chemoprevention are needed to prevent the disease.
+
+Abstract 6462: Cigarette smoking reduction and lung cancer risk in the Alpha-Tocopherol, Beta-Carotene Cancer Prevention Study
+
+Number of 
+
+Key takeaways:Reducing the number of cigarettes smoked per day significantly lowers the risk of lung cancer, even without quitting smoking.
+
+Abstract:Background. Cigarette smoking is a leading cancer risk factor. In addition to quitting smoking, reducing the number of cigarettes/day may decrease risk of lung cancer compared with continuing to smoke more heavily. However, few cohort studies have longitudinal assessments of cigarette use. Methods. We examined the association of changes in smoking status (trying to quit, not smoking at this time, and still smoking) and changes in cigarettes/day with subsequent incidence of lung cancer in 24,613 Finnish male participants of the Alpha-Tocopherol, Beta-Carotene Cancer Prevention (ATBC) Study, a cancer prevention trial of vitamin supplements that collected serial assessments of cigarette use. At baseline (1985-1988), all participants were current smokers 50-69 years old who smoked 5+ cigarettes/day. During the five-to-eight year intervention period, men were asked at 4-month intervals about changes in their smoking use since their last visit. We obtained individual estimates of the proportion of follow-up time (% of time) in each of the three smoking statuses, the transition probabilities between statuses and intercepts and slopes for the number of cigarettes/day. We then examined associations between changes in smoking and in cigarettes/day and subsequent incidence of lung cancer occurring between the end of the trial (April 30, 1993) and December 31, 2012. Using Cox regression, we modeled lung cancer risk ratios (RRs) and 95% confidence intervals (95%CI) associated with changes in smoking (% of time and number of cigarettes/day) relative to individuals who smoked 20 cigarettes/day across all the study visits. Models were additionally adjusted for age at the end of the trial, ATBC intervention group, education, and age at smoking initiation. Results. Overall, 3013 lung cancers were diagnosed during follow-up. The risk of lung cancer was lower among participants who reduced their smoking intensity by 5 or 10 cigarettes/day . RRs were further decreased among participants who also smoked at only 50% of study visits . Individuals with the lowest risk were those who stopped smoking early at follow-up and continued to not smoke over the intervention period. For example, an individual who began the study smoking 15 cigarettes/day, stop smoking at 4 months and remained not smoking had a RR=0.24(95%CI: 0.11, 0.50). Conclusion: Even in the absence of cessation, smokers may meaningfully lower their lung cancer risk by reducing the number of cigarettes they smoke per day and the proportion of time they smoke. Yet, the lowest risk was observed among smokers who quit completely.
+ Citation Format: Daniela S. Gutiérrez-Torres, Sungduk Kim, Paul Albert, Demetrius Albanes, Stephanie J. Weinstein, Maki Inoue-Choi, Neal D. Freedman. Cigarette smoking reduction and lung cancer risk in the Alpha-Tocopherol, Beta-Carotene Cancer Prevention Study. . In: Proceedings of the American Association for Cancer Research Annual Meeting 2023; Part 1 (Regular and Invited Abstracts); 2023 Apr 14-19; Orlando, FL. Philadelphia (PA): AACR; Cancer Res 2023;83(7_Suppl):Abstract nr 6462.
+
+Changes in smoking use and subsequent lung cancer risk in the ATBC study.
+
+Number of 
+
+Key takeaways:Reducing smoking intensity and frequency can lower the risk of lung cancer, but quitting smoking completely is the most effective way to reduce the risk.
+
+Abstract:BACKGROUND
+Reducing cigarettes/day may lower the risk of lung cancer compared with continuing to smoke at the same intensity. Other changes in smoking behaviors, such as increasing cigarette consumption or quitting for a period and relapsing, may also affect lung cancer risk.
+
+METHODS
+We examined changes in smoking status and cigarettes/day among 24,613 Finnish male smokers aged 50-69 years who participated in the Alpha-Tocopherol, Beta-Carotene Cancer Prevention (ATBC) Study. Longitudinal data on smoking were collected during study follow-up visits three times a year (approximately every 4 months) between 1985 and 1993. Incident lung cancer cases through 2012 were identified by the Finnish Cancer Registry. Risk ratios (RRs) and 95% confidence intervals (95%CI) were estimated using Cox proportional hazards regression.
+
+RESULTS
+Compared with smoking 20 cigarettes/day continuously across the intervention period, reducing an average of 5 cigarettes/day per year while smoking was associated with a 20% lower risk of lung cancer (95%CI : 0.71 to 0.90). A substantially lower risk of lung cancer was also observed when participants smoked at 50% (RR = 0.72; 95%CI : 0.57-0.90) and 10% (RR = 0.55; 95%CI : 0.36-0.83) of study visits, relative to smoked at 100% of study visits.
+
+CONCLUSIONS
+Smokers may lower their risk of lung cancer by reducing smoking intensity (cigarettes per day while smoking) and the time they smoke. However, quitting smoking completely is the most effective way for smokers to reduce their risk of lung cancer.
+
+Cigarette Smoking and Estrogen-Related Cancer
+
+Number of 
+
+Key takeaways:Cigarette smoking may have protective associations with the risk of estrogen-related cancers, but the exact mechanism remains unclear.
+
+Abstract:Cigarette smoking is a known cause of many cancers, yet epidemiologic studies have found protective associations with the risk of four “estrogen-related” malignancies: endometrial cancer, endometrioid and clear cell ovarian cancers, and thyroid cancer. This review considers epidemiologic and biological aspects of these associations, focusing particularly on estrogen signaling, and contrasts them with those for breast cancer, another estrogen-related malignancy. The observational findings regarding the inverse associations are consistent and remain after adjustment for possible confounding factors. In general, women who smoke do not have lower circulating estrogen levels than nonsmokers, eliminating one possible explanation for reduced risks of these malignancies. For endometrial and endometrioid ovarian cancer, the negative associations could plausibly be explained by interference with signaling through the estrogen receptor α. However, this is unlikely to explain the lower risks of thyroid and clear cell ovarian cancers. For thyroid cancer, an anti-inflammatory effect of nicotine and reduced TSH levels from smoking have been proposed explanations for the inverse association, but both lack convincing evidence. While the overall impact of cigarette smoking is overwhelmingly negative, protective associations such as those discussed here can provide potential clues to disease etiology, treatment, and prevention.
+
+Cigarette smoking and colorectal cancer mortality in the cancer prevention study II.
+
+Number of 
+
+Key takeaways:Long-term cigarette smoking increases the risk of colorectal cancer mortality in both men and women, with early smoking cessation reducing the risk.
+
+Abstract:BACKGROUND
+Recent studies suggest that long-term cigarette smoking is associated with an increased risk of colorectal cancer. Whether the association is causal or due to confounding remains unclear.
+
+METHODS
+We examined cigarette smoking in relation to colorectal cancer mortality, evaluating smoking duration and recency and controlling for potential confounders in the Cancer Prevention Study II. This prospective nationwide mortality study of 1 184 657 adults (age > or =30 years) was begun by the American Cancer Society in 1982. After exclusions, our analytic cohort included 312 332 men and 469 019 women, among whom 4432 colon or rectal cancer deaths occurred between 1982 and 1996 among individuals who were cancer free in 1982. Rate ratios (RRs) and 95% confidence intervals (CIs) were estimated by fitting Cox proportional hazards models. All statistical tests were two-sided.
+
+RESULTS
+Multivariate-adjusted colorectal cancer mortality rates were highest among current smokers, were intermediate among former smokers, and were lowest in lifelong nonsmokers. The multivariate-adjusted RR (95% CI) for current compared with never smokers was 1.32 (1.16-1.49) among men and 1.41 (1.26-1.58) among women. Increased risk was evident after 20 or more years of smoking for men and women combined as compared with never smokers. Risk among current and former smokers increased with duration of smoking and average number of cigarettes smoked per day; risk in former smokers decreased significantly with years since quitting. If the multivariate-adjusted RR estimates in this study do, in fact, reflect causality, then approximately 12% of colorectal cancer deaths among both men and women in the general U.S. population in 1997 were attributable to smoking.
+
+CONCLUSIONS
+Long-term cigarette smoking is associated with increased risk of colorectal cancer mortality in both men and women. Clear reduction in risk is observed with early smoking cessation.
+
+Cancer incidence and cancer death in relation to tobacco smoking in a population‐based Australian cohort study
+
+Number of 
+
+Key takeaways:Australian smokers face significant cancer risks, with lung cancer risk increasing with smoking intensity, emphasizing the need for strategies to prevent smoking and facilitate cessation.
+
+Abstract:Tobacco smoke is a known carcinogen, but the magnitude of smoking‐related cancer risk depends on country‐specific, generational smoking patterns. We quantified cancer risk in relation to smoking in a population‐based cohort, the 45 and Up Study (2006‐2009) in New South Wales, Australia. Cox proportional hazards regressions estimated adjusted hazard ratios (HR) by self‐reported smoking history at baseline (2006‐2009) for incident, primary cancers via linkage to cancer registry data to 2013 and cancer death data to 2015. Among 229 028 participants aged ≥45 years, 18 475 cancers and 5382 cancer deaths occurred. Current‐smokers had increased risks of all cancers combined (HR = 1.42, 95% confidence interval , 1.34‐1.51), cancers of the lung (HR = 17.66, 95%CI, 14.65‐21.29), larynx (HR = 11.29, 95%CI, 5.49‐23.20), head‐and‐neck (HR = 2.53, 95%CI, 1.87‐3.41), oesophagus (HR = 3.84, 95%CI, 2.33‐6.35), liver (HR = 4.07, 95%CI, 2.55‐6.51), bladder (HR = 3.08, 95%CI, 2.00‐4.73), pancreas (HR = 2.68, 95%CI, 1.93‐3.71), colorectum (HR = 1.31, 95%CI, 1.09‐1.57) and unknown primary site (HR = 3.26, 95%CI, 2.19‐4.84) versus never‐smokers. Hazards increased with increasing smoking intensity; compared to never‐smokers, lung cancer HR = 9.22 (95%CI, 5.14‐16.55) for 1‐5 cigarettes/day and 38.61 (95%CI, 25.65‐58.13) for >35 cigarettes/day. Lung cancer risk was lower with quitting at any age but remained higher than never‐smokers for quitters aged >25y. By age 80y, an estimated 48.3% of current‐smokers (41.1% never‐smokers) will develop cancer, and 14% will develop lung cancer, including 7.7% currently smoking 1‐5 cigarettes/day and 26.4% for >35 cigarettes/day (1.0% never‐smokers). Cancer risk for Australian smokers is significant, even for 'light' smokers. These contemporary estimates underpin the need for continued investment in strategies to prevent smoking uptake and facilitate cessation, which remain key to reducing cancer morbidity and mortality worldwide.
+
+Dose-response Relationships Between Cigarette Smoking and Breast Cancer Risk: A Systematic Review and Meta-analysis
+
+Number of 
+
+Key takeaways:Cigarette smoking has a causal role on breast cancer risk, with increased risk with increased intensity and duration of smoking.
+
+Abstract:Background The possible association between cigarette smoking and breast cancer risk has been quite controversial. Methods We conducted a systematic review and meta-analysis of all available observational studies published on the issue up to January 2020. Random-effects models were used to compute pooled relative risks (RRs) for cigarette smoking status and dose-risk relationships were evaluated using one-stage random-effects dose-response models. Results A total of 169 studies were selected, providing a pooled RR for breast cancer of 1.07 (95% confidence interval , 1.05–1.10) for current, 1.08 (95% CI, 1.06–1.10) for former, and 1.09 (95% CI, 1.07–1.11) for ever smokers, compared to never smokers. Results were consistent in case-control and cohort studies. No meaningful differences were observed across strata of most covariates considered, nor according to relevant genetic mutations and polymorphisms (ie, BRCA mutation, N-acetyltransferase and glutathione S-transferase genotypes, and P53). Breast cancer risk increased linearly with intensity of smoking (RR 1.12; 95% CI, 1.08–1.16 for 20 cigarettes/day and 1.26; 95% CI, 1.17–1.36 for 40 cigarettes/day), and with increasing duration of smoking (RR 1.05; 95% CI, 1.03–1.08 for 20 years of smoking and 1.11; 95% CI, 1.06–1.16 for 40 years of smoking). Conclusion The present large and comprehensive meta-analysis—conducted using an innovative approach for study search—supports the evidence of a causal role of tobacco smoking on breast cancer risk.
+
+Impact of smoking on urologic cancers: a snapshot of current evidence
+
+Number of 
+
+Key takeaways:Smoking is significantly associated with more aggressive urologic cancers, poorer outcomes, and tumor recurrence, with smoking cessation potentially providing some protective effect.
+
+Abstract:Abstract Purpose The purpose of this paper is to present evidence regarding the associations between smoking and the following urologic cancers: prostate, bladder, renal, and upper tract urothelial cancer (UTUC). Methods This is a narrative review. PubMed was queried for evidence-based analyses and trials regarding the associations between smoking and prostate, bladder, renal, and UTUC tumors from inception to September 1, 2022. Emphasis was placed on articles referenced in national guidelines and protocols. Results Prostate—multiple studies associate smoking with higher Gleason score, higher tumor stage, and extracapsular invasion. Though smoking has not yet been linked to tumorigenesis, there is evidence that it plays a role in biochemical recurrence and cancer-specific mortality. Bladder—smoking is strongly associated with bladder cancer, likely due to DNA damage from the release of carcinogenic compounds. Additionally, smoking has been linked to increased cancer-specific mortality and higher risk of tumor recurrence. Renal—smoking tobacco has been associated with tumorigenesis, higher tumor grade and stage, poorer mortality rates, and a greater risk of tumor recurrence. UTUC—tumorigenesis has been associated with smoking tobacco. Additionally, more advanced disease, higher stage, lymph node metastases, poorer survival outcomes, and tumor recurrence have been linked to smoking. Conclusion Smoking has been shown to significantly affect most urologic cancers and has been associated with more aggressive disease, poorer outcomes, and tumor recurrence. The role of smoking cessation is still unclear, but appears to provide some protective effect. Urologists have an opportunity to engage in primary prevention by encouraging cessation practices.
+
+Dysregulation of immunity by cigarette smoking promotes inflammation and cancer: A review.
+
+Number of 
+
+Key takeaways:Cigarette smoking promotes inflammation and cancer by affecting immune cells and influencing molecular mechanisms, including epigenetics and DNA damage.
+
+The biologic effects of cigarette smoke on cancer cells
+
+Number of 
+
+Key takeaways:Cigarette smoke induces a more malignant tumor phenotype by increasing proliferation, migration, invasion, and angiogenesis and activating prosurvival cellular pathways.
+
+Abstract:Smoking is one of the largest preventable risk factors for developing cancer, and continued smoking by cancer patients is associated with increased toxicity, recurrence, risk of second primary cancer, and mortality. Cigarette smoke (CS) contains thousands of chemicals, including many known carcinogens. The carcinogenic effects of CS are well established, but relatively little work has been done to evaluate the effects of CS on cancer cells. In this review of the literature, the 
+
+Effect of cigarette smoking on major histological types of lung cancer: a meta-analysis.
+
+Number of 
+
+Key takeaways:Cigarette smoking is significantly associated with all histologic types of lung cancer, with stronger associations for squamous cell carcinoma and small cell carcinoma than large cell cancer and adenocarcinoma.
+
+Biomarkers of Exposure to Tobacco-Related Toxicants and Oxidative Stress among Cancer Survivors.
+
+Number of 
+
+Key takeaways:Cancer survivors are at higher risk for exposure to tobacco-related toxicants, and addressing both smoking and e-cigarette use is crucial for improving long-term health outcomes and quality of life.
+
+Abstract:INTRODUCTION
+Cancer survivors who continue to use tobacco products may have negative impacts on their long-term health outcomes.
+
+METHODS
+Data were drawn from the Population Assessment of Tobacco and Health Study Wave 5 (n=6946). Geometric mean concentrations of biomarkers from four classes of harmful and potentially harmful constituents, along with a biomarker of oxidative stress, were compared between cancer survivors and non-cancer adults using weighted linear regressions adjusted for demographic factors. Among cancer survivors, comparisons were also made across current cigarette smoking and e-cigarette use statuses.
+
+RESULTS
+Compared to non-cancer adults (n=6441), cancer survivors (n=505) exhibited higher mean concentrations of 4-(methylnitrosoamino)-1-(3-pyridyl)-1-butanol (NNAL, 10.9 vs. 6.7 pg/mg creatinine), cadmium (0.3 vs. 0.2 ng/mg creatinine), lead (0.4 vs. 0.3 ng/mg creatinine), N-Acetyl-S-(2-carboxyethyl)-L-cysteine (CEMA), 156.6 vs. 128.3 ng/mg creatinine), and 8-isoprostane (521.6 vs. 441.5 pg/mg creatinine) in the unadjusted analyses. Among cancer survivors, both exclusive cigarette smokers and dual users had higher mean concentrations of urine nicotine metabolites (i.e., nicotine equivalents , and cotinine), NNAL, cadmium, volatile organic compounds (VOCs), and 8-isoprostane than non-tobacco users. Exclusive e-cigarette users also had higher mean concentrations of nicotine metabolites (TNE2, 4.1 vs. 0.01, p<.0001; cotinine, 288.1 vs. 0.4, p<.0001), NNAL (5.6 vs. 1.7, p=.03), cadmium (0.4 vs. 0.3, p=.01), and 8-isoprostane (594.2 vs. 482.5, p=.03) than non-tobacco users.
+
+CONCLUSIONS
+Both exclusive smoking and dual use pose elevated risks of exposure to tobacco-related toxicants to cancer survivors. Exclusive e-cigarette use also increases the risk of nicotine addiction and oxidative stress. Abstinence of all tobacco use among cancer survivors is needed to improve health outcomes.
+
+IMPLICATIONS
+Cancer survivors represent a high-risk group for tobacco use. This study offers important insights into differences in biomarkers of tobacco-related toxicant exposure between cancer survivors and non-cancer adults and provides evidence of the health impacts associated with cigarette smoking and e-cigarette use. The findings emphasize the need for clinical monitoring and targeted public health interventions to encourage tobacco cessation, including addressing dual use of cigarettes and e-cigarettes, in order to enhance long-term health outcomes and quality of life for cancer survivors.
+
+Cigarette smoking and pancreatic cancer: an analysis from the International Pancreatic Cancer Case-Control Consortium (Panc4).
+
+Number of 
+
+Key takeaways:Current cigarette smoking is associated with a twofold increased risk of pancreatic cancer, with the risk increasing with the number of cigarettes smoked and duration of smoking, reaching a level similar to never smokers 20 years after quitting.
+
+Abstract:BACKGROUND
+To evaluate the dose-response relationship between cigarette smoking and pancreatic cancer and to examine the effects of temporal variables.
+
+METHODS
+We analyzed data from 12 case-control studies within the International Pancreatic Cancer Case-Control Consortium (PanC4), including 6507 pancreatic cases and 12 890 controls. We estimated summary odds ratios (ORs) by pooling study-specific ORs using random-effects models.
+
+RESULTS
+Compared with never smokers, the OR was 1.2 (95% confidence interval 1.0-1.3) for former smokers and 2.2 (95% CI 1.7-2.8) for current cigarette smokers, with a significant increasing trend in risk with increasing number of cigarettes among current smokers (OR=3.4 for ≥35 cigarettes per day, P for trend<0.0001). Risk increased in relation to duration of cigarette smoking up to 40 years of smoking (OR=2.4). No trend in risk was observed for age at starting cigarette smoking, whereas risk decreased with increasing time since cigarette cessation, the OR being 0.98 after 20 years.
+
+CONCLUSIONS
+This uniquely large pooled analysis confirms that current cigarette smoking is associated with a twofold increased risk of pancreatic cancer and that the risk increases with the number of cigarettes smoked and duration of smoking. Risk of pancreatic cancer reaches the level of never smokers ∼20 years after quitting.
+
+Cigarette smoking and innate immunity
+
+Number of 
+
+Key takeaways:Cigarette smoking impairs innate immunity, highlighting the importance of quitting for cancer prevention, coronary artery disease, and recurrent infections.
+
+Abstract:Cigarette smoking is a worldwide epidemic and the most prevalent cause of many diseases leading to increased morbidity and mortality globally. The impact of smoking on pathogenesis of cancer is being extensively studied however cigarette smoke as an immunosuppressant is less well recognized. Here we review the immunosuppressive effects of cigarette smoke and the mechanisms by which smoking affects host innate immunity including structural and functional changes in the respiratory ciliary epithelium, lung surfactant protein, and immune cells such as alveolar macrophages, neutrophils, lymphocytes and natural killer (NK) cells. Thus smoking cessation should be emphasized not only for prevention of cancer and coronary artery disease but also for patients with recurrent infections and immunosuppressive states.
+
+Electronic cigarette aerosols alter the expression of cisplatin transporters and increase drug resistance in oral cancer cells
+
+Number of 
+
+Key takeaways:E-cigarette aerosols may increase chemotherapy resistance in oral cancer cells, similar to tobacco smoke, due to changes in drug influx and efflux transporters.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

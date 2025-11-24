@@ -1,0 +1,468 @@
+PROTOCOL: Cold plunge
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Abstract:Homeotherms have specific mechanisms to maintain a constant core body temperature despite changes in thermal environment, food supply, and metabolic demand. Brown adipose tissue, the principal thermogenic organ, quickly and efficiently increases heat production by dissipating the mitochondrial proton motive force. It has been suggested that activation of brown fat, via either environmental (i.e. cold exposure) or pharmacologic means, could be used to increase metabolic rate and thus reduce body weight. Here we assess the effects of intermittent cold exposure (4°C for one to eight hours three times a week) on C57BL/6J mice fed a high fat diet. Cold exposure increased metabolic rate approximately two-fold during the challenge and activated brown fat. In response, food intake increased to compensate fully for the increased energy expenditure; thus, the mice showed no reduction in body weight or adiposity. Despite the unchanged adiposity, the cold-treated mice showed transient improvements in glucose homeostasis. Administration of the cannabinoid receptor-1 inverse agonist AM251 caused weight loss and improvements in glucose homeostasis, but showed no further improvements when combined with cold exposure. These data suggest that intermittent cold exposure causes transient, meaningful improvements in glucose homeostasis, but without synergy when combined with AM251. Since energy expenditure is significantly increased during cold exposure, a drug that dissociates food intake from metabolic demand during cold exposure may achieve weight loss and further metabolic improvements.
+DESCRIPTION: Regular cold exposure, such as winter swimming or cold baths, supports metabolic, immune, and mental health, bringing benefits such as improved insulin sensitivity, enhanced immunity, and stress reduction. While weight loss effects are moderate, the intervention promotes improvements in body composition and well-being. In adapted individuals, better resistance to infections and increased levels of positive emotions are also observed.
+
+CONTENT SECTIONS:
+
+Thermogenesis, Immunity, Mental Health
+
+Regular cold exposure, such as winter swimming or cold baths, supports metabolic, immune, and mental health, bringing benefits such as improved insulin sensitivity, enhanced immunity, and stress reduction. While weight loss effects are moderate, the intervention promotes improvements in body composition and well-being. In adapted individuals, better resistance to infections and increased levels of positive emotions are also observed.
+
+Level of evidence:Good
+
+Level of risk:Elevated
+
+Cold exposure activates brown adipose tissue and thermogenesis through non-shivering and shivering mechanisms, which increases energy expenditure. At the same time, it stimulates the sympathetic nervous system, releasing catecholamines and endorphins that modulate mood and immune response. Long-term acclimatization leads to adaptive changes in leukocyte composition, strengthening the antioxidant barrier and improving hormonal regulation.
+
+Level of risk:Elevated
+
+Cold exposure can cause acute vascular and cardiac reactions, thermal shivering, and hypothermia in some individuals, especially without gradual adaptation.
+
+Cold exposure is not recommended for individuals with certain conditions that require careful medical consultation before starting cold training.
+
+2–5 sessions per week, 3–10 minutes of immersion
+
+Cold bath (cold plunge), winter swimming, cold shower
+
+Immediate mood effects; metabolic adaptation after 2–4 weeks
+
+Morning or directly after training
+
+Start with short showers (30–60 s) in gradually decreasing temperature to reduce the risk of thermal shock.
+
+Use breathing exercises (e.g., Wim Hof method) before and during exposure to support adaptation and improve comfort.
+
+Warming up after the session
+
+After a cold bath, immediately put on dry, warm clothes and engage in light activity to restore body temperature.
+
+Regularly assess subjective well-being and blood pressure, especially when increasing session time or frequency.
+
+Consult a doctor before starting the program if you have cardiovascular disease or other chronic conditions.
+
+Cold exposure can support a healthy metabolism and slightly improve body composition, mainly through brown adipose tissue activation and improvement of metabolic parameters. However, weight loss effects are moderate and often compensated by increased appetite.
+
+Effects on adipose tissue and metabolism
+
+Regular, controlled cold exposure can beneficially modulate the immune system, especially in adapted individuals. The effects are moderate and depend on regularity and individual response.
+
+Activation of innate and acquired immunity
+
+Short-term inflammatory response
+
+Changes in leukocyte count and activity
+
+Adaptation and safety
+
+Cold exposure may positively influence mental health by improving mood, reducing stress and anxiety. However, more studies are needed to confirm long-term effects and establish optimal exposure conditions.
+
+Impact on mood and emotions
+
+Stress, depression, and general well-being
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:51
+
+Final comment:Out of approximately 42 publications analyzed, around 34 directly concerned cold exposure interventions in humans (including RCTs, uncontrolled studies, meta-analyses, and systematic reviews), providing moderately strong evidence for benefits in metabolism, immune system, and mental health. Although some trials were small, the existence of many well-designed studies and several meta-analyses allows the level of evidence to be classified as good.
+
+The Effects of Intermittent Cold Exposure on Adipose Tissue
+
+Number of 
+
+Key takeaways:Intermittent cold exposure may improve metabolic health and increase brown adipose tissue activity, but does not consistently lower body weight or fat mass.
+
+Abstract:Intermittent cold exposure (ICE) has garnered increased attention in popular culture, largely for its proposed effects on mood and immune function, but there are also suggestions that the energy-wasting mechanisms associated with thermogenesis may decrease body weight and fat mass. Considering the continued and worsening prevalence of obesity and type II diabetes, any protocol that can reduce body weight and/or improve metabolic health would be a substantial boon. Here, we present a narrative review exploring the research related to ICE and adipose tissue. Any publicly available original research examining the effects of repeated bouts of ICE on adipose-related outcomes was included. While ICE does not consistently lower body weight or fat mass, there does seem to be evidence for ICE as a positive modulator of the metabolic consequences of obesity, such as glucose tolerance and insulin signaling. Further, ICE consistently increases the activity of brown adipose tissue (BAT) and transitions white adipose tissue to a phenotype more in line with BAT. Lastly, the combined effects of ICE and exercise do not seem to provide any additional benefit, at least when exercising during ICE bouts. The majority of the current literature on ICE is based on rodent models where animals are housed in cold rooms, which does not reflect protocols likely to be implemented in humans such as cold water immersion. Future research could specifically characterize ICE via cold water immersion in combination with controlled calorie intake to clearly determine the effects of ICE as it would be implemented in humans looking to lower their body weight via reductions in fat mass.
+
+Effect of Intermittent Cold Exposure on Brown Fat Activation, Obesity, and Energy Homeostasis in Mice
+
+Number of 
+
+Key takeaways:Intermittent cold exposure activates brown fat and increases metabolic rate, but does not reduce body weight or adiposity, and may benefit glucose homeostasis when combined with a drug that reduces food intake during cold exposure.
+
+Abstract:Homeotherms have specific mechanisms to maintain a constant core body temperature despite changes in thermal environment, food supply, and metabolic demand. Brown adipose tissue, the principal thermogenic organ, quickly and efficiently increases heat production by dissipating the mitochondrial proton motive force. It has been suggested that activation of brown fat, via either environmental (i.e. cold exposure) or pharmacologic means, could be used to increase metabolic rate and thus reduce body weight. Here we assess the effects of intermittent cold exposure (4°C for one to eight hours three times a week) on C57BL/6J mice fed a high fat diet. Cold exposure increased metabolic rate approximately two-fold during the challenge and activated brown fat. In response, food intake increased to compensate fully for the increased energy expenditure; thus, the mice showed no reduction in body weight or adiposity. Despite the unchanged adiposity, the cold-treated mice showed transient improvements in glucose homeostasis. Administration of the cannabinoid receptor-1 inverse agonist AM251 caused weight loss and improvements in glucose homeostasis, but showed no further improvements when combined with cold exposure. These data suggest that intermittent cold exposure causes transient, meaningful improvements in glucose homeostasis, but without synergy when combined with AM251. Since energy expenditure is significantly increased during cold exposure, a drug that dissociates food intake from metabolic demand during cold exposure may achieve weight loss and further metabolic improvements.
+
+Cold-induced lipid dynamics and transcriptional programs in white adipose tissue
+
+Number of 
+
+Key takeaways:Short-term cold exposure induces browning of white adipose tissue and alters gene expression, potentially benefiting health and lifespan.
+
+Abstract:Abstract Background In mammals, cold exposure induces browning of white adipose tissue (WAT) and alters WAT gene expression and lipid metabolism to boost adaptive thermogenesis and maintain body temperature. Understanding the lipidomic and transcriptomic profiles of WAT upon cold exposure provides insights into the adaptive changes associated with this process. Results Here, we applied mass spectrometry and RNA sequencing (RNA-seq) to provide a comprehensive resource for describing the lipidomic or transcriptome profiles in cold-induced inguinal WAT (iWAT). We showed that short-term (3-day) cold exposure induces browning of iWAT, increases energy expenditure, and results in loss of body weight and fat mass. Lipidomic analysis shows that short-term cold exposure leads to dramatic changes of the overall composition of lipid classes WAT. Notably, cold exposure induces significant changes in the acyl-chain composition of triacylglycerols (TAGs), as well as the levels of glycerophospholipids and sphingolipids in iWAT. RNA-seq and qPCR analysis suggests that short-term cold exposure alters the expression of genes and pathways involved in fatty acid elongation, and the synthesis of TAGs, sphingolipids, and glycerophospholipids. Furthermore, the cold-induced lipid dynamics and gene expression pathways in iWAT are contrary to those previously observed in metabolic syndrome, neurodegenerative disorders, and aging, suggesting beneficial effects of cold-induced WAT browning on health and lifespan. Conclusion We described the significant alterations in the composition of glyphospholipids, glycerolipids, and sphingolipids and expression of genes involved in thermogenesis, fatty acid elongation, and fatty acid metabolism during the response of iWAT to short-term cold exposure. We also found that some changes in the levels of specific lipid species happening after cold treatment of iWAT are negatively correlated to metabolic diseases, including obesity and T2D.
+
+Examining the benefits of cold exposure as a therapeutic strategy for obesity and type 2 diabetes.
+
+Number of 
+
+Key takeaways:Cold exposure may improve insulin sensitivity and reduce fasting glycemia in individuals with type 2 diabetes, but more research is needed to determine its long-term effects and cardiovascular effects.
+
+Abstract:The pathogenesis of metabolic diseases such as obesity and type 2 diabetes are characterized by a progressive dysregulation in energy partitioning, often leading to end-organ complications. One emerging approach proposed to target this metabolic dysregulation is the application of mild cold exposure. In healthy individuals, cold exposure can increase energy expenditure and whole-body glucose and fatty acid utilization. Repeated exposures can lower fasting glucose and insulin levels and improve dietary fatty acid handling, even in healthy individuals. Despite its apparent therapeutic potential, little is known regarding the effects of cold exposure in populations for which this stimulation could benefit the most. The few studies available, have shown that both acute and repeated exposures to the cold improve insulin sensitivity and reduce fasting glycemia in individuals with type 2 diabetes. However, critical gaps remain in understanding the prolonged effects of repeated cold exposures on glucose regulation and whole-body insulin sensitivity in individuals with metabolic syndrome. Much of the metabolic benefits appear to be attributable to the recruitment of shivering skeletal muscles. However, further work is required to determine whether the broader recruitment of skeletal muscles observed during cold exposure can confer metabolic benefits that surpass what has been historically observed from endurance exercise. In addition, while cold exposure offers unique cardiovascular responses for a physiological stimulus that increases energy expenditure, further work is required to determine how acute and repeated cold exposure can impact cardiovascular responses and myocardial function across a broader scope of individuals.
+
+Impact of cold exposure on life satisfaction and physical composition of soldiers
+
+Number of 
+
+Key takeaways:Regular cold exposure in military training positively impacts soldiers' mental status, physical composition, and reduces anxiety, potentially contributing to higher psychological resilience.
+
+Abstract:Introduction Optimal mental state and physical fitness are crucial factors affecting training of military personnel. Incorporating components aimed at improving mental status and physical composition of soldiers into training programmes can lead to better outcomes. Previously, cold exposure has been used to promote human health in multiple ways, with a plethora of reported benefits. Thus, the aim of this study was to examine the effect of regular cold exposure on the psychological status and physical composition of healthy young soldiers in the Czech Army. Methods A total of 49 (male and female) soldiers aged 19–30 years were randomly assigned to one of the two groups (intervention and control). The participants regularly underwent cold exposure for 8 weeks, in outdoor and indoor environments. Life Satisfaction Questionnaire and InBody 770 device were used to evaluate life satisfaction and body composition, respectively. Zung Self-Rating Anxiety Scale was used to assess anxiety produced by cold exposure. Results Theoretical and practical training in cold immersion in the winter did not induce anxiety. Regular cold exposure led to a significant (p=0.045) increase of 6.2% in self-perceived sexual satisfaction compared with the pre-exposure measurements. Furthermore, considerable increase (6.3% compared with the pre-exposure period) was observed in self-perceived health satisfaction; the change was borderline significant (p=0.052). In men, there was a reduction in waist circumference (1.3%, p=0.029) and abdominal fat (5.5%, p=0.042). Systematic exposure to cold significantly lowered perceived anxiety in the entire test group (p=0.032). Conclusions Cold water exposure can be recommended as an addition to routine military training regimens. Regular exposure positively impacts mental status and physical composition, which may contribute to the higher psychological resilience. Additionally, cold exposure as a part of military training is most likely to reduce anxiety among soldiers.
+
+Effects of cold exposure on gaseous metabolism and body composition in the rat
+
+Number of 
+
+Key takeaways:Cold exposure in rats leads to stabilization of metabolism and a lower fat content, with bone growth continuing during cold exposure.
+
+Cold exposure alters lipid metabolism of skeletal muscle through HIF-1α-induced mitophagy
+
+Number of 
+
+Key takeaways:Short-term cold exposure increases intramuscular fat deposition and alters lipid metabolism in skeletal muscle through HIF-1-induced mitophagy.
+
+Abstract:Abstract Background In addition to its contractile properties and role in movement, skeletal muscle plays an important function in regulating whole-body glucose and lipid metabolism. A central component of such regulation is mitochondria, whose quality and function are essential in maintaining proper metabolic homeostasis, with defects in processes such as autophagy and mitophagy involved in mitochondria quality control impairing skeletal muscle mass and function, and potentially leading to a number of associated diseases. Cold exposure has been reported to markedly induce metabolic remodeling and enhance insulin sensitivity in the whole body by regulating mitochondrial biogenesis. However, changes in lipid metabolism and lipidomic profiles in skeletal muscle in response to cold exposure are unclear. Here, we generated lipidomic or transcriptome profiles of mouse skeletal muscle following cold induction, to dissect the molecular mechanisms regulating lipid metabolism upon acute cold treatment. Results Our results indicated that short-term cold exposure (3 days) can lead to a significant increase in intramuscular fat deposition. Lipidomic analyses revealed that a cold challenge altered the overall lipid composition by increasing the content of triglyceride (TG), lysophosphatidylcholine (LPC), and lysophosphatidylethanolamine (LPE), while decreasing sphingomyelin (SM), validating lipid remodeling during the cold environment. In addition, RNA-seq and qPCR analysis showed that cold exposure promoted the expression of genes related to lipolysis and fatty acid biosynthesis. These marked changes in metabolic effects were associated with mitophagy and muscle signaling pathways, which were accompanied by increased TG deposition and impaired fatty acid oxidation. Mechanistically, HIF-1α signaling was highly activated in response to the cold challenge, which may contribute to intramuscular fat deposition and enhanced mitophagy in a cold environment. Conclusions Overall, our data revealed the adaptive changes of skeletal muscle associated with lipidomic and transcriptomic profiles upon cold exposure. We described the significant alterations in the composition of specific lipid species and expression of genes involved in glucose and fatty acid metabolism. Cold-mediated mitophagy may play a critical role in modulating lipid metabolism in skeletal muscle, which is precisely regulated by HIF-1α signaling.
+
+Health effects of voluntary exposure to cold water – a continuing subject of debate
+
+Number of 
+
+Key takeaways:Voluntary exposure to cold water may have some beneficial health effects, but further conclusive studies are needed to confirm these findings.
+
+Abstract:ABSTRACT This review is based on a multiple database survey on published literature to determine the effects on health following voluntary exposure to cold-water immersion (CWI) in humans. After a filtering process 104 studies were regarded relevant. Many studies demonstrated significant effects of CWI on various physiological and biochemical parameters. Although some studies were based on established winter swimmers, many were performed on subjects with no previous winter swimming experience or in subjects not involving cold-water swimming, for example, CWI as a post-exercise treatment. Clear conclusions from most studies were hampered by the fact that they were carried out in small groups, often of one gender and with differences in exposure temperature and salt composition of the water. CWI seems to reduce and/or transform body adipose tissue, as well as reduce insulin resistance and improve insulin sensitivity. This may have a protective effect against cardiovascular, obesity and other metabolic diseases and could have prophylactic health effects. Whether winter swimmers as a group are naturally healthier is unclear. Some of the studies indicate that voluntary exposure to cold water has some beneficial health effects. However, without further conclusive studies, the topic will continue to be a subject of debate.
+
+Altered Microbiota Contributes to Reduced Diet-Induced Obesity upon Cold Exposure
+
+Number of 
+
+Key takeaways:Cold exposure leads to a shift in gut microbiota composition, reducing diet-induced obesity and improving glucose tolerance in mice.
+
+Gut Microbiota Orchestrates Energy Homeostasis during Cold
+
+Number of 
+
+Key takeaways:Cold exposure shifts gut microbiota composition, promoting energy expenditure and tolerance, while reducing body weight loss due to adaptive mechanisms.
+
+Physiological responses to acute cold exposure in young lean men
+
+Number of 
+
+Key takeaways:Acute cold exposure in young lean men increases energy expenditure, fat oxidation, and muscle activity, with the largest physiological changes occurring during the first 30 minutes of cold exposure.
+
+Abstract:The aim of this study was to comprehensively describe the physiological responses to an acute bout of mild cold in young lean men (n = 11, age: 23 ± 2 years, body mass index: 23.1 ± 1.2 kg/m2) to better understand the underlying mechanisms of non-shivering thermogenesis and how it is regulated. Resting energy expenditure, substrate metabolism, skin temperature, thermal comfort perception, superficial muscle activity, hemodynamics of the forearm and abdominal regions, and heart rate variability were measured under warm conditions (22.7 ± 0.2°C) and during an individualized cooling protocol (air-conditioning and water cooling vest) in a cold room (19.4 ± 0.1°C). The temperature of the cooling vest started at 16.6°C and decreased ~ 1.4°C every 10 minutes until participants shivered (93.5 ± 26.3 min). All measurements were analysed across 4 periods: warm period, at 31% and at 64% of individual´s cold exposure time until shivering occurred, and at the shivering threshold. Energy expenditure increased from warm period to 31% of cold exposure by 16.7% (P = 0.078) and to the shivering threshold by 31.7% (P = 0.023). Fat oxidation increased by 72.6% from warm period to 31% of cold exposure (P = 0.004), whereas no changes occurred in carbohydrates oxidation. As shivering came closer, the skin temperature and thermal comfort perception decreased (all P<0.05), except in the supraclavicular skin temperature, which did not change (P>0.05). Furthermore, the superficial muscle activation increased at the shivering threshold. It is noteworthy that the largest physiological changes occurred during the first 30 minutes of cold exposure, when the participants felt less discomfort.
+
+Body size and body composition effects on heat loss from the hands during severe cold exposure.
+
+Number of 
+
+Key takeaways:Muscular individuals are less susceptible to heat loss and cold injury during severe cold exposure, making them better at manual tasks in cold conditions than nonmuscular individuals.
+
+Abstract:OBJECTIVES
+This study investigated the influence of body size and composition on maintaining hand temperature during severe cold exposure. The hand's high surface area-to-volume ratio predisposes the hand to heat loss, increasing the risk of cold injury and even hypothermia, which are major selective pressures in cold environments. While vasoregulation may reduce heat loss from the hand, the effect of body form, tissue thermogenesis, and body insulation on heat loss is unknown.
+
+MATERIALS AND METHODS
+Thermal imaging was used to determine heat loss during a 3-min ice-water hand immersion test carried out on 114 volunteers (female = 63, male = 51). Established anthropometric measures were used to quantify body size, and bioelectrical impedance analysis determined skeletal muscle and fat mass.
+
+RESULTS
+Skeletal muscle mass relative to body mass was a highly significant predictor of heat loss, while body mass, fat mass, and stature were not. Body composition and body size had little to no significant influence during rewarming after immersion.
+
+DISCUSSION
+The thermogenic properties of muscle mass support maintenance of hand temperature during severe cold exposure. The findings here suggest that muscular individuals are less susceptible to heat loss and cold injury, and may be better at manual tasks in cold conditions than nonmuscular individuals.
+
+Exploring the benefits of cold exposure in health and athletic performance - review of articles
+
+Number of 
+
+Key takeaways:Cold exposure has positive effects on athletic performance, enhancing physical endurance and facilitating faster body recovery.
+
+Abstract:Introduction and purpose: In recent years there has been an increase in scientific research regarding the body's exposure to low temperatures. The potential health benefits have captured the attention of both researchers and the general public. This article review provides an analysis of the existing literature concerning the impact of cold body exposure on health and athletic achievements.
+Material and methods: A review of the literature available in the "PubMed" database and books was conducted. The search was performed by using the following keywords: "cold exposure", "cryotherapy", "cold shower", "cold-water immersion" and "winter swimming".
+State of knowledge: Encountering low temperatures can be perceived as a physiological stressor. The body responds to this situation by activating adaptive mechanisms to maintain homeostasis, such as the activation of brown adipose tissue, improved glucose control and increased immune system activity. An increasing amount of data supports the positive impact of cold exposure on athletic performance. Potential benefits are indicated such as enhancing physical endurance through increased heat production and stimulation of the circulatory system, as well as facilitating faster body recovery.
+Results and Conclusions: The article review indicates a growing interest in the impact of cold exposure. While there are encouraging findings of positive effects, further research is necessary for better understanding and determining the optimal conditions for achieving maximum benefits. This information could have a significant impact on the development of training strategies and health prevention.
+
+Sex Disparities in Thermoregulatory and Metabolic Responses to Mild Cold Exposure Largely Explained by Differences in Body Mass and Body Surface Area
+
+Number of 
+
+Key takeaways:Sex differences in thermoregulatory and metabolic responses to mild cold exposure are largely explained by differences in body mass and body surface area, even when comparing lean, healthy men and women with equivalent body mass and body surface area.
+
+Abstract:Abstract Sex-related differences in thermoregulatory responses to cold exposure, such as differences in metabolic heat production and fuel selection, are often attributed to differences in morphology and body composition. Whether these differences persist in response to cold when comparing lean, healthy men and women with equivalent total body mass (BM, heat producing capacity) and body surface areas (BSA, heat loss capacity) remains unknown. In this study, we aimed to compare thermoregulatory and metabolic responses to cold exposure in both men and women, before and after matching for BM (± 0.6 kg) and BSA (± 0.01 m2). Data included in this study were derived from four previously 
+
+The effects of cold exposure on body composition: Analysis with Computerized Bioimpedance
+
+Number of 
+
+Key takeaways:Cryolipolysis significantly enhances body composition in midlife women by reducing fat mass, maintaining lean mass, and improving muscle/fat ratio and hydration status.
+
+Abstract:Introduction: Weight gain and obesity are common concerns for midlife women. Obesity is characterized by an accumulation of body fat resulting in body weight at least 20% above the optimum. Objective: To evaluate the efficacy of cryolipolysis on body composition in midlife women. Methods: Thirty women aged 30-55 with overweight underwent three cryolipolysis sessions, (45 minutes each), spaced 15 days apart. Body composition was assessed using bioelectrical impedance before and after the intervention. Parameters measured included fat mass, lean mass, muscle mass, muscle/fat ratio, and total body water (TBW) percentage. Results: Significant reductions were observed in both absolute fat mass (from 26 ± 1.5 kg to 24.4 ± 1.51 kg, p<0.05) and fat mass percentage (from 34.4 ± 1.2% to 32.8 ± 1%, p<0.05). Lean mass remained stable (48.91 ± 1.56 kg to 48.82 ± 1.4 kg), with a significant increase in lean mass percentage (65 ± 1.2% to 67 ± 1.2%, p<0.05). Muscle mass percentage rise from 29 ± 0.6% to 31 ± 0.7% (p<0.05). The muscle/fat ratio improved significantly from 0.85 ± 0.04 to 0.95 ± 0.2 (p<0.05), and TBW percentage increased from 46.5 ± 0.9% to 48 ± 0.9% (p<0.01). Conclusion: Cryolipolysis significantly enhances body composition by reducing fat mass, maintaining lean mass, and improving muscle/fat ratio and hydration status. These findings underscore cryolipolysis as an effective non-invasive alternative for body contouring with potential health benefits, including improved metabolic and cardiovascular health. Future research should explore long-term effects and mechanisms to optimize clinical applications.
+
+Effects of cold-water immersion on health and wellbeing: A systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Cold-water immersion can reduce stress and improve sleep quality and overall wellbeing in healthy adults.
+
+Abstract:Background Cold-water immersion (CWI) has gained popularity as a health and wellbeing intervention among the general population. Objective This systematic review and meta-analysis aimed to evaluate the psychological, cognitive, and physiological effects of CWI in healthy adults. Methods Electronic databases were searched for randomized trials involving healthy adults aged ≥ 18 years undergoing acute or long-term CWI exposure via cold shower, ice bath, or plunge with water temperature ≤15°C for at least 30 seconds. Outcomes of interest were sleep, stress, fatigue, energy, skin health, immunity, inflammation, mental wellbeing, depression, anxiety, mood, concentration, and alertness or focus. Meta-analyses were conducted using RevMan software (version 5.4), applying random effects models to calculate standardized mean differences (SMD) between pre- and post-CWI exposure outcomes. Risk of bias was assessed using the PEDro scale. Results Eleven studies were included, comprising 3177 total participants and a mean PEDro score of 6.4 (n = 7 moderate quality, n = 4 high quality). CWI interventions were performed in baths (n = 10) or showers (n = 1) at temperatures ranging from 7°C to 15°C and durations ranging from 30 seconds to 2 hours. The meta-analysis revealed significant increases in inflammation immediately (SMD: 1.03, , p <  0.01) and 1 hour post CWI (SMD: 1.26, , p <  0.01), indicating an acute inflammatory response. A significant reduction in stress was observed 12 hours post-CWI (SMD: –1.00, , p <  0.01), however, no significant effects on stress were detected immediately (SMD: –0.09 , p >  0.05), 1 hour (SMD: –0.29 , p >  0.05), 24 hours (SMD: –0.06 , p >  0.05), or 48 hours (SMD: 0.09 , p >  0.05) post-exposure. While meta-analysis showed no significant effects on immune function immediately (SMD: –0.16 , p >  0.05) or 1 hour (SMD: –0.18 , p >  0.05) post-CWI, narrative synthesis suggested longer-term benefits, including a 29% reduction in sickness absence among participants who took cold showers. Improvements were also observed in sleep quality and quality of life, but not mood. Conclusions This systematic review suggests that CWI delivers time-dependent effects on inflammation, stress, immunity, sleep quality, and quality of life, offering potential practical applications for health practitioners considering CWI for stress management and wellbeing support. However, the current evidence base is constrained by few RCTs, small sample sizes, and a lack of diversity in study populations. Future high-quality RCTs are needed to examine the long-term effects of CWI, its impact on diverse health outcomes, and optimal CWI protocols. PROSPERO (ID: CRD42024500591)
+
+Effects of cold water exposure on stress, cardiovascular, and psychological variables
+
+Number of 
+
+Key takeaways:Cold water exposure has mixed effects on psychological and cognitive functions, with stable blood pressure, stable heart rate, and variations in HDL-c and triglycerides.
+
+Abstract:Cold water exposure has been employed across various cultures and traditions for centuries, often linked to health and well-being benefits. In recent decades, scientific interest in the effects of cold water exposure on the human body has surged, leading to a plethora of research spanning areas such as physiology, psychology, and biochemistry.1, 2 While athletes and physically active individuals have frequently adopted cold water immersion as part of their recovery routines,1 the potential implications for nonathletic individuals are not clear, and the existing literature presents conflicting outcomes and, in some instances, inconclusive findings.2 For this editorial, we followed the PRISMA3 approach to review the effects of cold water exposure in healthy nonathletes. We included studies 
+
+Cold Stress Effects on Exposure Tolerance and Exercise Performance.
+
+Number of 
+
+Key takeaways:Cold exposure negatively impacts aerobic performance, strength, and power, with factors like habituation, anthropometry, sex, race, and fitness influencing cold tolerance.
+
+Abstract:Cold weather can have deleterious effects on health, tolerance, and performance. This paper will review the physiological responses and external factors that impact cold tolerance and physical performance. Tolerance is defined as the ability to withstand cold stress with minimal changes in physiological strain. Physiological and pathophysiological responses to short-term (cold shock) and long-term cold water and air exposure are presented. Factors (habituation, anthropometry, sex, race, and fitness) that influence cold tolerance are also reviewed. The impact of cold exposure on physical performance, especially aerobic performance, has not been thoroughly studied. The few studies that have been done suggest that aerobic performance is degraded in cold environments. Potential physiological mechanisms (decreases in deep body and muscle temperature, cardiovascular, and metabolism) are discussed. Likewise, strength and power are also degraded during cold exposure, primarily through a decline in muscle temperature. The review also discusses the concept of thermoregulatory fatigue, a reduction in the thermal effector responses of shivering and vasoconstriction, as a result of multistressor factors, including exhaustive exercise.
+
+The effects of cold exposure (cold water immersion, whole- and partial- body cryostimulation) on cardiovascular and cardiac autonomic control responses in healthy individuals: A systematic review, meta-analysis and meta-regression.
+
+Number of 
+
+Key takeaways:Cryostimulation and cold-water immersion exposure enhance parasympathetic nervous activity in healthy individuals, with effects depending on individual characteristics and cooling techniques.
+
+Cold Exposure Affects Lipid Metabolism, Fatty Acids Composition and Transcription in Pig Skeletal Muscle
+
+Number of 
+
+Key takeaways:Cold exposure in pig skeletal muscle can regulate lipid metabolism and fatty acid composition without affecting meat quality traits.
+
+Abstract:Cold exposure promotes glucose oxidation and modulates the lipid metabolism in adipose tissue, but it is still not fully clear whether cold exposure could affect meat quality and fatty acid metabolism in skeletal muscle of pig in vivo. Here, we kept finishing pigs under cold or room temperature overnight and determined the effects of cold exposure on meat quality, fatty acids composition and transcriptional changes in skeletal muscle of pigs. We found that cold exposure significantly reduced the meat colour24 h and pH24 h, without affecting carcass characteristics and other meat quality traits. Considerable changes were found in the proportions of individual fatty acids and the total content of saturated fatty acid, polyunsaturated fatty acids, monounsaturated fatty acid and n3-fatty acids. RNA-seq results showed upregulated fatty acid biosynthesis genes and downregulated mitochondrial beta-oxidation genes. The lipid metabolism in cold-treated longissimus dorsi muscle might be regulated by functions of the lipoprotein particle, the extracellular matrix, and the PPAR signaling pathways. Our study revealed the potential of cold exposure to regulate the lipid metabolism and fatty acid composition in skeletal muscle of farmed animals.
+
+Immune response to cold exposure: Role of γδ T cells and TLR2‐mediated inflammation
+
+Number of 
+
+Key takeaways:T cells play a crucial role in the adaptive response to cold exposure, regulating immune response and thermogenic regulation.
+
+Abstract:The mammalian body possesses remarkable adaptability to cold exposure, involving intricate adjustments in cellular metabolism, ultimately leading to thermogenesis. However, cold‐induced stress can impact immune response, primarily through noradrenaline‐mediated pathways. In our study, we utilized a rat model subjected to short‐term or long‐term mild cold exposure to investigate systemic immune response during the cold acclimation. To provide human relevance, we included a group of regular cold swimmers in our study. Our research revealed complex relationship between cold exposure, neural signaling, immune response, and thermogenic regulation. One‐day cold exposure triggered stress response, including cytokine production in white adipose tissue, subsequently activating brown adipose tissue, and inducing thermogenesis. We further studied systemic immune response, including the proportion of leukocytes and cytokines production. Interestingly, γδ T cells emerged as possible regulators in the broader systemic response, suggesting their possible contribution in the dynamic process of cold adaptation. We employed RNA‐seq to gain further insights into the mechanisms by which γδ T cells participate in the response to cold. Additionally, we challenged rats exposed to cold with the Toll‐like receptor 2 agonist, showing significant modulation of immune response. These findings significantly contribute to understanding of the physiological acclimation that occur in response to cold exposure.
+
+Habitual cold-water swimming and upper respiratory tract infection.
+
+Number of 
+
+Key takeaways:Habitual cold-water swimming may boost immunity and reduce upper respiratory tract infections, but more research is needed to confirm these claims.
+
+Abstract:It has long been claimed that non-wetsuit cold water swimming (CWS) benefits health (1), and anecdotally cold-water swimmers claimed to suffer fewer and milder infections, though this was not directly measured. A boost to immunity is biologically plausible: stress hormones are released during cold-water immersion (2), and short-term stress may ready the immune system for injury or infection (3). However, very few studies have investigated immune system markers and/or actual illness in habitual cold-water swimmers.
+
+What is the impact of cold-water bathing and swimming on human health? Literature review
+
+Number of 
+
+Key takeaways:Regular winter swimming by adapted individuals has benefits on hematopoiesis and may increase immunity, but the circulatory system's impact depends on the practitioner's adaptation level.
+
+Abstract:Winter swimming has a long tradition that dates back to ancient times. In recent years, there has been an increase in interest in this activity in Poland and European countries. This review aims to present the positive and negative aspects of bathing and swimming in cold water. Regular winter swimming by adapted people has benefits. However, the risk of adverse consequences occurs when inexperienced and unadapted people try winter swimming. Researchers analyzed blood serum of swimmers who regularly took cold baths to search for changes in the concentrations of hematological indicators, which allowed them to demonstrate the beneficial effect of winter swimming on the process of hematopoiesis. The impact on increasing human immunity is probable, though it should be studied on a larger group. The studies did not show any significant effect on human plasma hormone levels. However, the impact of winter swimming on the circulatory system might have positive or negative depending on the degree of adaptation of the practitioner.
+
+The effect of cold exposure on circulating transcript levels of immune genes in Dutch South Asian and Dutch Europid men.
+
+Number of 
+
+Key takeaways:Mild cold exposure increases mRNA levels of immune genes involved in cytotoxicity and lowers mRNA levels of inflammasome genes in Dutch South Asian men compared to Dutch Europid men.
+
+Cold exposure: human immune responses and intracellular cytokine expression.
+
+Number of 
+
+Key takeaways:Cold exposure does not depress immune function, and exercise and fatigue do not affect immune responses during cold exposure.
+
+Abstract:It is commonly believed that exposure to cold environmental temperatures depresses immune function and increases the risk for infection. This review paper will 1) present an overview of human physiological responses to cold exposure, 2) present the human studies examining the effects of cold exposure on immune responses, and 3) summarize recent experiments from our laboratories examining the effects of exercise and fatigue on immune responses during subsequent cold exposure. Based on the review of the literature, there is no support for the concept that cold exposure depresses immune function.
+
+Does cold activate the Drosophila melanogaster immune system?
+
+Number of 
+
+Key takeaways:Cold exposure activates potential immunity in Drosophila melanogaster, potentially as a compensatory mechanism to maintain stable immune function during or after low temperature exposure.
+
+Immune changes in humans during cold exposure: effects of prior heating and exercise.
+
+Number of 
+
+Key takeaways:Pretreatment with physical exercise in 18 degrees C water can enhance the immune response to cold exposure, with thermal clamping potentially playing a role in these changes.
+
+Abstract:This study examined the immunological responses to cold exposure together with the effects of pretreatment with either passive heating or exercise (with and without a thermal clamp). On four separate occasions, seven healthy men sat for 2 h in a climatic chamber maintained at 5 degrees C. Before exposure, subjects participated in one of four pretreatment conditions. For the thermoneutral control condition, subjects remained seated for 1 h in a water bath at 35 degrees C. In another pretreatment, subjects were passively heated in a warm (38 degrees C) water bath for 1 h. In two other pretreatments, subjects exercised for 1 h at 55% peak oxygen consumption (once immersed in 18 degrees C water and once in 35 degrees C water). Core temperature rose by 1 degrees C during passive heating and during exercise in 35 degrees C water and remained stable during exercise in 18 degrees C water (thermal clamping). Subsequent cold exposure induced a leukocytosis and granulocytosis, an increase in natural killer cell count and activity, and a rise in circulating levels of interleukin-6. Pretreatment with exercise in 18 degrees C water augmented the leukocyte, granulocyte, and monocyte response. These results indicate that acute cold exposure has immunostimulating effects and that, with thermal clamping, pretreatment with physical exercise can enhance this response. Increases in levels of circulating norepinephrine may account for the changes observed during cold exposure and their modification by changes in initial status.
+
+Cold stress activates disease resistance in Arabidopsis thaliana through a salicylic acid dependent pathway.
+
+Number of 
+
+Key takeaways:Cold stress activates disease resistance in Arabidopsis thaliana through a salicylic acid-dependent pathway, similar to pathogen infection.
+
+Abstract:Exposure to short-term cold stress influences disease resistance by mechanisms that remain poorly characterized. The molecular basis of cold-activated immunity was therefore investigated in Arabidopsis thaliana inoculated with the bacterial pathogen Pst DC3000, using a transcriptomic analysis. Exposure to cold stress for 10 hr was sufficient to activate immunity, as well as H2 O2 accumulation and callose deposition. Transcriptome changes induced by the 10-hr cold treatment were similar to those caused by pathogen infection, including increased expression of the salicylic acid (SA) pathway marker genes, PR2 and PR5, and genes playing positive roles in defence against (hemi)-biotrophs. In contrast, transcripts encoding jasmonic acid (JA) pathway markers such as PR4 and MYC2 and transcripts with positive roles in defence against necrotrophs were less abundant following the 10-hr cold treatment. Cold-activated immunity was dependent on SA, being partially dependent on NPR1 and ICS1/SID2. In addition, transcripts encoding SA biosynthesis enzymes such as ICS2, PAL1, PAL2, and PAL4 (but not ICS1/SID2) and MES9 were more abundant, whereas GH3.5/WES1 and SOT12 transcripts that encode components involved in SA modification were less abundant following cold stress treatment. These findings show that cold stress cross-activates innate immune responses via a SA-dependent pathway.
+
+The Influence of Whole-Body Cryotherapy or Winter Swimming on the Activity of Antioxidant Enzymes
+
+Number of 
+
+Key takeaways:Regular whole-body cryotherapy and winter swimming sessions can improve health by strengthening the body's antioxidant barrier and may help treat diseases caused by oxidative stress.
+
+Abstract:Simple Summary Whole-body cryotherapy and winter swimming (cold bath) are treatments that use low temperature as a therapeutic stimulus and have become increasingly popular in recent years. These treatments have many positive effects on the human body. The most important reactions of the body include analgesic and anti-swelling effects, as well as reactions of the immune and circulatory systems and changes in the concentration of many hormones. However, some reports indicate that exposure to extremely low temperatures may induce the production of reactive oxygen species in the body. Healthy people often have an increased level of oxidative stress, which may cause abnormal endothelial function and, consequently, an increased risk of developing hypertension, atherosclerosis and other diseases. Oxidative stress can likewise cause acute or chronic inflammation. In order to combat the harmful effects of free oxygen radicals, in this study we assessed the level of antioxidant enzymes in patients after receiving a cold stimulus. Abstract The aim of this study was to investigate the effect of a series of 20 whole-body cryotherapy sessions and 20 winter swimming sessions on the level of catalase, glutathione peroxidase and superoxide dismutase. The experimental group consisted of 60 people (30 people received cryotherapy and 30 people swam in cold water). The control group—without intervention: 30 people. Each of the three groups was tested twice. Analyzing the changes in the examined indicators, a statistical increase of CAT was observed in men after the use of WBC, as well as an increase of SOD in women and a decrease of SOD in men after the winter swimming season. Regular WS does not seem to place an excessive burden on the body in terms of intensifying oxidative processes. WS sessions once a week can be recommended as an effective method of improving health by causing positive adaptive changes and strengthening the body’s antioxidant barrier. WBC may be used as an adjunct therapy in the treatment of diseases caused by oxidative stress, as it improves the body’s antioxidant capacity. Further research is needed to elucidate antioxidant mechanisms in humans and to determine the short- and long-term effects of exposure to WS and WBC.
+
+Regular cold shower exposure modulates humoral and cell-mediated immunity in healthy individuals.
+
+Number of 
+
+Key takeaways:Regular cold shower exposure enhances humoral and cell-mediated immunity in healthy individuals by upregulating antibodies, interleukin-2, and interleukin-4.
+
+Cold-induced immune activation in chill-susceptible insects.
+
+Number of 
+
+Key takeaways:Cold stress in chill-susceptible insects leads to immune activation, with potential adaptive significance and underlying mechanisms still unclear.
+
+Cold stress after swimming fatigue decreases immunity-related gene expression in the spleen of the Chinese sucker.
+
+Number of 
+
+Key takeaways:Cold stress combined with swimming fatigue in Chinese sucker fish leads to the downregulation of many immune genes, suggesting serious immune suppression.
+
+Regular cold water swimming during winter time affects resting hematological parameters and serum erythropoietin.
+
+Number of 
+
+Key takeaways:Regular cold water swimming induces adaptive changes in resting blood elements and EPO concentrations, with more evident changes in female organisms.
+
+Abstract:Recreational winter swimming in cold sea water evokes body responses to regularly repeated cold water immersion. However, the understanding of adaptive changes is still limited and data regarding very short-term exposure to severe cold stress are scarce. The purpose of the study was to examine the effects of regular active cold water exposure on resting blood elements and erythropoietin in male and female cold water swimmers (CWSs). Thirty four healthy subjects (18 men and 16 women) aged 50.0 ± 12.2 years were swimming in cold sea water during winter season at least twice a week. The average water temperature was 9.5°C in October, 1.0°C in January and 4.4°C at the end of April. Fasting blood samples were taken within the first weeks of October, January and April. Serum erythropoietin (EPO), complete blood count (CBC) including evaluation of: red blood cells (RBC count, hemoglobin, hematocrit and RBC indices), white blood cells (WBC count with WBC differential), platelets (PLT count), serum folate and serum immunoglobulins (IgG, IgA, IgM) were determined. Between October and April an increase was observed in the following parameters: RBC (from 4.8 x 1012/L to 5.2 x 1012/L, P < 0.001), hemoglobin (from 8.6 mmol/L to 9.4 mmol/L, P < 0.001), MCH (from 1.8 fmol to 1.9 fmol, P = 0.003), MCHC (from 19.9 mmol/L to 20.6 mmol/L, P < 0.001), EPO (from 6.3 IU/L to 8.1 IU/L, P = 0.001). At the same time decreased concentrations of PLT (from 249.9 x 109/L to 221.6 x 109/L, P = 0.005), folate (from 10.5 ng/mL to 7.4 ng/mL, P < 0.001) and immunoglobulins (IgG: from 11.8 g/L to 10.9 g/L, P < 0.001; IgA: from 2.5 g/L to 2.2 g/L, P < 0.001; IgM: from 0.9 g/L to 0.8 g/L, P < 0.001). Statistically significant changes in EPO and PLT values were noted only in female CWSs. We conclude that regular cold water swimming induces adaptive changes in the resting blood elements and EPO concentrations which are more evident in female organism.
+
+Passion and Health: How Winter Swimming Influences Blood Morphology and Rheology
+
+Number of 
+
+Key takeaways:Winter swimming leads to positive changes in blood morphology and rheology, benefiting the cardiovascular system without affecting blood aggregation or fibrinogen indicators.
+
+Abstract:An important area of health is health promotion. A healthy lifestyle supports health improvement and early prevention of chronic diseases. Stimulation of the body by cold water swimming and swimming in a swimming pool can lead to adaptive changes beneficial for the human cardiovascular system. Within the winter swimming season of 2023/2024, for a period of 5 months, from November to March, once a week, study participants (n = 30; n = 15 females and n = 15 males) from the Krakow Society of Winter Swimmers ‘Kaloryfer’ in Krakow (Poland) practiced winter swimming in cold water (4–5 °C) and swam in the sports pool of the University of Physical Culture in Krakow in water at a temperature of 28 °C. After a full season of winter swimming and swimming pool sessions, both males and females exhibited a tendency towards lower erythrocyte (p = 0.002), leukocyte (p < 0.001), and platelet counts (p < 0.001), as well as an increase in blood plasma viscosity (within normal limits) (p = 0.001), without any changes in blood aggregation or fibrinogen indicators. The remaining morphological indicators and the elongation index demonstrated only limited variation. Winter swimming induces positive changes in blood morphology and rheology.
+
+Immune Responses to Exercising in a Cold Environment
+
+Number of 
+
+Key takeaways:Exercise in cold temperatures may lead to greater immune impairment and increased infection risk, with more research needed to determine the extent of exercise-induced immune impairment and infection risk in subfreezing conditions.
+
+Effect of regular winter swimming on blood morphological, rheological, and biochemical indicators and activity of antioxidant enzymes in males
+
+Number of 
+
+Key takeaways:Regular winter swimming positively impacts blood morphological, rheological, and biochemical indicators and antioxidant enzyme activity in males.
+
+Abstract:Exposure of the human body to cold water triggers numerous beneficial physiological changes. The study aimed to assess the impact of regular winter swimming on blood morphological, rheological, and biochemical indicators and activity of antioxidant enzymes in males.
+
+Effects of long‐term whole‐body cold exposures on plasma concentrations of ACTH, beta‐endorphin, cortisol, catecholamines and cytokines in healthy females
+
+Number of 
+
+Key takeaways:Long-term regular exposure to acute cold temperatures stimulates norepinephrine, potentially playing a role in pain alleviation in whole-body cryotherapy and winter swimming.
+
+Abstract:Objective. Cold therapy is used to relieve pain and inflammatory symptoms. The present study was designed to determine the influence of long‐term regular exposure to acute cold temperature. Two types of exposure were studied: winter swimming in ice‐cold water and whole‐body cryotherapy. The outcome was investigated on humoral factors that may account for pain alleviation related to the exposures. Material and methods. During the course of 12 weeks, 3 times a week, a group of healthy females (n = 10) was exposed to winter swimming (water 0–2°C) for 20 s and another group (n = 10) to whole‐body cryotherapy (air −110°C) for 2 min in a special chamber. Blood specimens were drawn in weeks 1, 2, 4, 8 and 12, on a day when no cold exposure occurred (control specimens) and on a day of cold exposures (cold specimens) before the exposures (0 min), and thereafter at 5 and 35 min. Results. Plasma ACTH and cortisol in weeks 4–12 on time‐points 35 min were significantly lower than in week 1, probably due to habituation, suggesting that neither winter swimming nor whole‐body cryotherapy stimulated the pituitary‐adrenal cortex axis. Plasma epinephrine was unchanged during both experiments, but norepinephrine showed significant 2‐fold to 3‐fold increases each time for 12 weeks after both cold exposures. Plasma IL‐1‐beta, IL‐6 or TNFα did not show any changes after cold exposure. Conclusions. The main finding was the sustained cold‐induced stimulation of norepinephrine, which was remarkably similar between exposures. The frequent increase in norepinephrine might have a role in pain alleviation in whole‐body cryotherapy and winter swimming.
+
+Short-Term Head-Out Whole-Body Cold-Water Immersion Facilitates Positive Affect and Increases Interaction between Large-Scale Brain Networks
+
+Number of 
+
+Key takeaways:Short-term cold-water immersion improves mood by increasing positive emotions and reducing negative emotions, with changes in brain connectivity supporting these effects.
+
+Abstract:Simple Summary An increasing number of people are turning to cold showers or outdoor swimming to keep fit and for health benefits. After cold-water immersion, the swimmers reported elevated positive emotions and a decreased negative emotional state. The present study aimed to examine how mood changes after cold-water immersion are associated with changes in brain connectivity. Thirty-three healthy adults naïve to cold-water swimming (age range 20–45, 16 females) undertook a 20 °C 5 min whole-body bath. We measured brain connectivity and self-reported emotional state before and after cold-water immersion. Our findings showed that participants felt more active, alert, attentive, proud, and inspired and less distressed and nervous after having a cold-water bath. The changes in positive emotions were associated with the coupling between brain areas involved in attention control, emotion, and self-regulation. A reduction in negative emotions did not show strong associations with changes in brain connectivity. The results indicate that short-term whole-body cold-water immersion may have integrative effects on brain functioning, contributing to the reported improvement in mood. Abstract An emerging body of evidence indicates that short-term immersion in cold water facilitates positive affect and reduces negative affect. However, the neural mechanisms underlying these effects remain largely unknown. For the first time, we employed functional magnetic resonance imaging (fMRI) to identify topological clusters of networks coupled with behavioural changes in positive and negative affect after a 5 min cold-water immersion. Perceived changes in positive affect were associated with feeling more active, alert, attentive, proud, and inspired, whilst changes in negative affect reflected reductions in distress and nervousness. The increase in positive affect was supported by a unique component of interacting networks, including the medial prefrontal node of the default mode network, a posterior parietal node of the frontoparietal network, and anterior cingulate and rostral prefrontal parts of the salience network and visual lateral network. This component emerged as a result of a focal effect confined to few connections. Changes in negative affect were associated with a distributed component of interacting networks at a reduced threshold. Affective changes after cold-water immersion occurred independently, supporting the bivalence model of affective processing. Interactions between large-scale networks linked to positive affect indicated the integrative effects of cold-water immersion on brain functioning.
+
+Mental and Cognitive Performance in the Cold
+
+Number of 
+
+Key takeaways:Cold temperatures can negatively impact cognitive performance and mood, with a dose-response relation involving decrements in performance as core body temperature declines and task complexity increases.
+
+Abstract:ABSTRACT Vigilance, attention, memory, and motivation are essential to adapting to the physiological changes that occur with prolonged exposure to the cold and to avoiding both the environmental hazards associated with cold and the health-related consequences of these hazards, This paper summarizes the effects of cold temperatures on cognitive performance and mood. Although the effects of hypothermic-induced cold temperatures on cognitive performance and mood have been well documented, evidence of nonhypothermic effects has been inconsistent. There is evidence of a dose-response relation involving decrements in cognitive performance with respect to decline in core body temperature and complexity of tasks performed. However, it is unclear whether these effects are due to distraction or increased arousal. Likewise, further research is required to test the efficacy of existing and proposed pharmacologic and nutritional countermeasures. (Int J Circumpolar Health 2001; 60: 430-439)
+
+Combined cold-water immersion and breathwork may be associated with improved mental health and reduction in the duration of upper respiratory tract infection - a case–control study
+
+Number of 
+
+Key takeaways:Combined cold-water immersion and breathwork may improve mental health and reduce upper respiratory tract infection duration.
+
+Abstract:ABSTRACT A polar plunge is a term referring to an ice-cold water immersion (CWI), usually in the winter period. It is also a part of a specific training program (STP) which currently gains popularity worldwide and was proven to display paradigm-shifting characteristics. The aim of this study was to compare the indices of mental functioning (including depression, anxiety, mindfulness) and duration of upper respiratory tract infection (URTI) measured among the study participants. A set of questionnaires was distributed via the Internet. Participants declaring regular STP practice were selected (N = 77). Two groups were matched based on a case–control principle: the first one (the control group) comprised participants who did not declare nor CWI practice, nor STP practice. The second one comprised participants declaring regular CWI practice only. The CWI only group displayed better mental health indices and shorter URTIs compared to the control group. Moreover, the STP group also displayed better general mental health, less somatic complaints, and shorter URTIs compared to the CWI only group. This study suggests the existence of CWI’s potential in boosting mental health and immune system functioning, however when complemented by a specific breathwork, this potential can be increased. However, further research is required.
+
+The Effects of Whole-body Cold-water Immersion on Brain Connectivity Related to the Affective State in Adults Using fMRI: A Protocol of a Pre-post Experimental Design
+
+Number of 
+
+Key takeaways:Whole-body cold-water immersion for 5 minutes leads to reliable changes in brain connectivity related to affective state, making it a tested experimental framework for future studies.
+
+Abstract:An emerging body of behavioural studies indicates that regular swimming in cold water has positive effects on mental health and wellbeing, such as reducing fatigue, improving mood, and lessening depressive symptoms. Moreover, some studies reported immediate effects of cold-water immersion (CWI) on elevating mood and increasing a positive emotional state. However, the neural mechanisms underlying these effects remain largely unknown. The lack of studies using neuroimaging techniques to investigate how a whole-body CWI affects neural processes has partly resulted from the lack of a tested experimental protocol. Previous protocols administered tonic limb cooling (1–10 °C) while recording functional magnetic resonance (fMRI) signals. However, using very low water temperature constitutes points of contrast to painful experiences that are different from what we experience after a whole-body head-out CWI. In our protocol, healthy adults unhabituated to cold water were scanned twice: immediately before (pre-CWI) and after (post-CWI) immersion in cold water (water temperature 20 °C) for 5 min. We recorded cardiac and ventilatory responses to CWI and assessed self-reported changes in positive and negative affects. Our protocol showed reliable changes in brain connectivity after a short exposure to cold water, thus enabling its use as a tested experimental framework in future studies.
+
+Effect of extreme temperatures on daily emergency room visits for mental disorders
+
+Number of 
+
+Key takeaways:Short-term exposure to extreme temperatures (heat and cold) is associated with increased emergency room visits for mental disorders, with effects varying by age and race.
+
+Abstract:Relatively few studies investigated the effects of extreme temperatures (both heat and cold) on mental health (ICD-9: 290-319; ICD-10: F00-F99) and the potential effect modifications by individuals’ age, sex, and race. We aimed to explore the effect of extreme temperatures of both heat and cold on the emergency room (ER) visits for mental health disorders, and conducted a stratified analysis to identify possible susceptible population in Erie and Niagara counties, NY, USA. To assess the short-term impacts of daily maximum temperature on ER visits related to mental disorders (2009–2015), we applied a quasi-Poisson generalized linear model combined with a distributed lag non-linear model (DLNM). The model was adjusted for day of the week, precipitation, long-term time trend, and seasonality. We found that there were positive associations between short-term exposure to extreme ambient temperatures and increased ER visits for mental disorders, and the effects can vary by individual factors. We found heat effect (relative risk (RR) = 1.16; 95% confidence intervals (CI), 1.06–1.27) on exacerbated mental disorders became intense in the study region and subgroup of population (the elderly) being more susceptible to extreme heat than any other age group. For extreme cold, we found that there is a substantial delay effect of 14 days (RR = 1.25; 95% CI = 1.08–1.45), which is particularly burdensome to the age group of 50–64 years old and African-Americans. Our findings suggest that there is a positive association between short-term exposure to extreme ambient temperature (heat and cold) and increased ER visits for mental disorders, and the effects vary as a function of individual factors, such as age and race.
+
+The untapped potential of cold water therapy as part of a lifestyle intervention for promoting healthy aging.
+
+Number of 
+
+Key takeaways:Cold water therapy may promote healthy aging by improving cardiometabolic risk factors, enhancing alertness and mood, reducing inflammation, boosting the immune system, and promoting sleep and recovery after exercise.
+
+Abstract:Healthy aging is a crucial goal in aging societies of the western world, with various lifestyle strategies being employed to achieve it. Among these strategies, hydrotherapy stands out for its potential to promote cardiovascular and mental health. Cold water therapy, a hydrotherapy technique, has emerged as a lifestyle strategy with the potential capacity to evoke a wide array of health benefits. This review aims to synthesize the extensive body of research surrounding cold water therapy and its beneficial effects on various health systems as well as the underlying biological mechanisms driving these benefits. We conducted a search for interventional and observational cohort studies from MEDLINE and EMBASE up to July 2024. Deliberate exposure of the body to cold water results in distinct physiological responses that may be linked to several health benefits. Evidence, primarily from small interventional studies, suggests that cold water therapy positively impacts cardiometabolic risk factors, stimulates brown adipose tissue and promotes energy expenditure—potentially reducing the risk of cardiometabolic diseases. It also triggers the release of stress hormones, catecholamines and endorphins, enhancing alertness and elevating mood, which may alleviate mental health conditions. Cold water therapy also reduces inflammation, boosts the immune system, promotes sleep and enhances recovery following exercise. The optimal duration and temperature needed to derive maximal benefits is uncertain but current evidence suggests that short-term exposure and lower temperatures may be more beneficial. Overall, cold water therapy presents a potential lifestyle strategy to enhancing physical and mental well-being, promoting healthy aging and extending the healthspan, but definitive interventional evidence is warranted.
+
+The Effect of Cold Exposure on Cognitive Performance in Healthy Adults: A Systematic Review
+
+Number of 
+
+Key takeaways:Cold exposure can impair cognitive performance in healthy adults, particularly affecting attention, processing speed, executive function, and memory.
+
+Abstract:Several aspects of cognition can be affected after cold exposure, but contradictory results have been reported regarding affected cognitive domains. The aim of the current systematic review was to evaluate the effects of specific cold exposure on cognitive performance in healthy subjects. A systematic search was performed using MEDLINE (through PubMed), EMBASE (Scopus) and PsycINFO databases according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Inclusion criteria were healthy subjects exposed to a cold environment (either simulated or not) and cognitive performance related to cold exposure with an experimental design. The literature search identified 18 studies, eight studies investigated the effect of cold air exposure and ten the effect of cold water immersion on cognitive performance of healthy subjects. There were several differences among the studies (environmental temperature reached, time of exposure, timing, and type of cognitive test administration). Cold exposure induced in most of the experimental settings (15 of 18) an impairment of CP even before accidental hypothermia was established. The most investigated and affected cognitive domains were attention and processing speed, executive function, and memory. Gender differences and effects of repeated exposure and possible acclimation on cognitive performance need further studies to be confirmed.
+
+The effect of breathing exercises and mindset with or without cold exposure on mental and physical health in persons with a spinal cord injury-a protocol for a three-arm randomised-controlled trial.
+
+Number of 
+
+Key takeaways:The Wim Hof Method (WHM) with cold exposure may improve mental and physical health in individuals with chronic spinal cord injury.
+
+Cardiovascular and mood responses to an acute bout of cold water immersion.
+
+Number of 
+
+Key takeaways:An acute bout of cold water immersion reduces negative feelings and cortisol levels, potentially benefiting mental health.
+
+Effects of ambient temperature on mental and neurological conditions in older adults: A systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:High temperatures and heat waves can negatively impact mental and neurological conditions in older adults, highlighting the need for increased attention to their health in the context of climate change and population aging.
+
+Does Extreme Temperature Exposure Take a Toll on Mental Health? Evidence from the China Health and Retirement Longitudinal Study
+
+Number of 
+
+Key takeaways:Long-term exposure to extreme heat and cold significantly increases depression levels in adults over age 45, with air conditioning and heating equipment effectively alleviating the adverse impact.
+
+Abstract:Long-term exposure to extreme temperatures could threaten individuals' mental health and psychological wellbeing. This study aims to investigate the long-term impact of cumulative exposure to extreme temperature. Differently from existing literature, we define extreme temperature exposure in relative terms based on local temperature patterns. Combining the China Health and Retirement Longitudinal Study and environmental data from the U.S. National Oceanic and Atmospheric Administration from 2011 to 2015, this study demonstrates that heat and cold exposure days in the past year significantly increase the measured depression level of adults over age 45 by 1.75 and 3.00 per cent, respectively, controlling for the city, year, and individual fixed effects. The effect is heterogeneous across three components of depression symptoms as well as age, gender, and areas of residency, and air conditioning and heating equipment are effective in alleviating the adverse impact of heat and cold exposure. The estimation is robust and consistent across a variety of temperature measurements and model modifications. Our findings provide evidence on the long-term and accumulative cost of extreme temperature to middle-aged and elderly human capital, contributing to the understanding of the social cost of climate change and the consequent health inequality.
+
+Early life cold and heat exposure impacts white matter development in children
+
+Number of 
+
+Key takeaways:Early life cold and heat exposure can negatively impact children's white matter development, potentially affecting their mental health and cognition.
+
+Cold and longevity: Can cold exposure counteract aging?
+
+Number of 
+
+Key takeaways:Cold exposure may reduce chronic inflammation, enhance antioxidant defenses, and improve metabolic health, potentially leading to increased longevity.
+
+Effect of repeated exposures to cold on cognitive performance in humans
+
+Number of 
+
+Key takeaways:Repeated exposure to cold temperatures can improve cognitive performance efficiency and shorten response times, but thermal responses do not significantly impact performance.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

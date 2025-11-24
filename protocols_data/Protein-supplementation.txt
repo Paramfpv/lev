@@ -1,0 +1,603 @@
+PROTOCOL: Protein supplementation
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Abstract:ABSTRACT Protein supplementation often refers to increasing the intake of this particular macronutrient through dietary supplements in the form of powders, ready-to-drink shakes, and bars. The primary purpose of protein supplementation is to augment dietary protein intake, aiding individuals in meeting their protein requirements, especially when it may be challenging to do so through regular food (i.e. chicken, beef, fish, pork, etc.) 
+DESCRIPTION: Protein supplementation is widely used to increase lean body mass, improve recovery, and support proper metabolism, especially in older individuals, physically active people, and during weight reduction. The best effects are achieved when combined with resistance training or under caloric deficit. The effectiveness of supplementation depends on age, activity level, and health status.
+
+CONTENT SECTIONS:
+
+Protein supplementation
+
+Muscle mass gain, recovery support, and metabolic benefits
+
+Protein supplementation is widely used to increase lean body mass, improve recovery, and support proper metabolism, especially in older individuals, physically active people, and during weight reduction. The best effects are achieved when combined with resistance training or under caloric deficit. The effectiveness of supplementation depends on age, activity level, and health status.
+
+Level of evidence:Good
+
+Level of risk:Negligible
+
+Protein provides essential amino acids for the synthesis and rebuilding of skeletal muscles, supports muscle mass maintenance during weight loss, and aids in post-exercise recovery. It increases satiety and may support weight control through enhanced postprandial thermogenesis and reduced muscle loss. Metabolic benefits are also linked to improved insulin sensitivity, reduction of visceral fat, and support of cardiometabolic parameters.
+
+Level of risk:Negligible
+
+Protein supplementation is generally well tolerated in healthy individuals, but may cause mild adverse effects, especially at very high doses or in cases of food sensitivities.
+
+Protein supplementation is not recommended in certain health conditions or when there are known contraindications to increased protein intake.
+
+Typical supplement doses are 20–40 g of protein per serving, most often 1–2 times a day; for muscle building purposes 1.4–2.0 g/kg body weight per day.
+
+Powder (concentrate, isolate), ready-to-drink shakes, protein bars, capsules
+
+First effects (improved recovery, muscle mass increase) can be observed after 4–12 weeks of regular supplementation combined with exercise
+
+Most often post-workout, in the morning, or as a protein complement in meals; pre-sleep protein may support recovery
+
+Greatest benefits when combined with resistance training and a diet with appropriate caloric intake
+
+Not recommended with a diet excessively high in protein in individuals at risk of kidney disease
+
+Individualize the dose
+
+Adjust the dose to body weight, activity level, and total dietary protein intake.
+
+Choose the type of protein according to tolerance and needs – whey isolate is fast-absorbing, casein works slower, soy protein is a plant-based option.
+
+Administration method
+
+Protein powder can be mixed with water, milk, yogurt, or added to meals (oatmeal, smoothies).
+
+Taking protein after training and before sleep may further support recovery and muscle growth.
+
+In case of kidney or liver disease, always consult supplementation with a doctor or dietitian.
+
+Musculoskeletal system
+
+Protein supplementation affects the musculoskeletal system, especially in older adults. The greatest benefits are observed when protein supplementation is combined with resistance training.
+
+Impact on muscle mass and strength
+
+Practical conclusions
+
+Protein supplementation can improve body composition – it supports an increase in lean body mass and reduction of body fat, especially when accompanied by physical activity or caloric deficit.
+
+Impact on lean body mass and fat reduction
+
+Factors affecting effectiveness
+
+Protein supplementation may support beneficial metabolic changes, particularly in the context of visceral fat loss, improved body composition, and cardiometabolic parameters, although effects depend on individual factors.
+
+Impact on metabolism and body composition
+
+Impact on metabolic parameters
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:50
+
+Final comment:Evidence for the effectiveness of protein supplementation comes primarily from meta-analyses and large systematic reviews including numerous randomized controlled trials in humans. These indicate that protein supplementation is most effective when combined with resistance training or during weight loss, particularly in older and physically active individuals. Benefits include increased lean body mass and maintenance of muscle during caloric deficit. Effects are less pronounced in healthy individuals without protein deficiency or without concurrent exercise, and some meta-analyses show no significant changes in strength or physical performance in these groups. The impact of supplementation on metabolic parameters, such as glucose metabolism or lipids, is moderately positive, although not always consistent. There is a lack of strong, consistent evidence confirming a clear effect of protein supplementation alone (without other interventions) on long-term metabolic health. The current level of evidence is considered good — confirmed by numerous clinical studies in humans but with some limitations due to inconsistent effects in specific subgroups and methodological differences in studies.
+
+The effect of daily protein supplementation, with or without resistance training for 1 year, on muscle size, strength, and function in healthy older adults: A randomized controlled trial.
+
+Number of 
+
+Key takeaways:Heavy resistance training combined with protein supplementation effectively preserves muscle mass and increases strength in healthy older adults, while protein supplementation alone is ineffective.
+
+Abstract:BACKGROUND
+Protein supplementation alone or combined with resistance training has been proposed to be effective in counteracting age-related losses of muscle mass and strength.
+
+OBJECTIVES
+To investigate the effect of protein supplementation alone or combined with light-intensity or heavy-load resistance exercise on muscle size, strength, and function in older adults.
+
+METHODS
+In a 1-y randomized controlled trial, 208 healthy older adults (>65 y) were randomly assigned to 1 of 5 interventions: 1) carbohydrate supplementation (CARB); 2) collagen protein supplementation (COLL); 3) whey protein supplementation (WHEY); 4) light-intensity resistance training 3-5 times/wk with whey protein supplementation (LITW); and 5) heavy resistance training 3 times weekly with whey protein supplementation (HRTW). Protein supplements contained 20 g protein + 10 g carbohydrate, whereas CARB contained 30 g of carbohydrates. All intervention groups received the supplement twice daily. The primary outcome was change in the quadriceps cross-sectional area (qCSA). Secondary outcomes included measures of lower extremity strength and power, functional capabilities, and body composition.
+
+RESULTS
+There were 184 participants who completed the study. COLL and WHEY did not affect any measured parameter compared to CARB. Compared to WHEY, HRTW improved the qCSA size (between-group difference, +1.68 cm2; 95% CI, +0.41 to +2.95 cm2; P = 0.03), as well as dynamic (+18.4 Nm; 95% CI, +10.1 to +26.6 Nm; P < 10-4) and isometric knee extensor strength (+23.9 Nm; 95% CI, +14.2 to +33.6 Nm; P < 10-5). LITW did not improve the qCSA size, but increased dynamic knee extensor strength compared to WHEY (+13.7 Nm; 95% CI, +5.3 and +22.1 Nm; P = 0.01).
+
+CONCLUSIONS
+Recommending protein supplementation as a stand-alone intervention for healthy older individuals seems ineffective in improving muscle mass and strength. Only HRTW was effective in both preserving muscle mass and increasing strength. Thus, we recommend that future studies investigate strategies to increase long-term compliance to heavy resistance exercise in healthy older adults. This trial was registered at clinicaltrials.gov as NCT02034760.
+
+The effect of vitamin D plus protein supplementation on sarcopenia: A systematic review and meta-analysis of randomized controlled trials.
+
+Number of 
+
+Key takeaways:Vitamin D and protein supplementation improves muscle strength in patients with sarcopenia, but does not affect muscle mass or performance.
+
+Effects of protein supplementation on lean body mass, muscle strength, and physical performance in nonfrail community-dwelling older adults: a systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:Protein supplementation does not significantly increase lean body mass, muscle strength, or physical performance in nonfrail community-dwelling older adults, and does not show superior effects when combined with resistance exercise training.
+
+Abstract:Background
+Increasing protein intake has been suggested as an effective strategy to ameliorate age-related loss of muscle mass and strength. Current reviews assessing the effect of protein supplementation are strongly influenced by the inclusion of studies with frail older adults.
+
+Objectives
+We assessed the effect of protein supplementation on lean body mass, muscle strength, and physical performance in exclusively nonfrail community-dwelling older adults. Moreover, we assessed the superior effects of protein supplementation during concomitant resistance exercise training on muscle characteristics.
+
+Design
+A systematic literature search was conducted on PubMed, Embase, and Web of Science up to 15 May 2018. We included randomized controlled trials that assessed the effect of protein supplementation on lean body mass, muscle thigh cross-sectional area, muscle strength, gait speed, and chair-rise ability and performed random-effects meta-analyses.
+
+Results
+Data from 36 studies with 1682 participants showed no significant effects of protein supplementation on changes in lean body mass , handgrip strength (SMD: 0.58; 95% CI: -0.08, 1.24), lower extremity muscle strength (SMD: 0.03; 95% CI: -0.20, 0.27), gait speed (SMD: 0.41; 95% CI: -0.04, 0.85), or chair-rise ability (SMD: 0.10; 95%: CI -0.08, 0.28) compared with a control condition in nonfrail community-dwelling older adults. Moreover, no superior effects of protein supplementation were found during concomitant resistance exercise training on muscle characteristics.
+
+Conclusions
+Protein supplementation in nonfrail community-dwelling older adults does not lead to increases in lean body mass, muscle cross-sectional area, muscle strength, or physical performance compared with control conditions; nor does it exert superior effects when added to resistance exercise training. Habitual protein intakes of most study participants were already sufficient, and protein interventions differed in terms of type of protein, amount, and timing. Future research should clarify what specific protein supplementation protocol is beneficial for nonfrail community-dwelling older adults with low habitual protein intake.
+
+The Role of Protein Intake and its Timing on Body Composition and Muscle Function in Healthy Adults: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+
+Number of 
+
+Key takeaways:Protein supplementation positively impacts lean body mass in adults and older adults, regardless of intake timing, but its effects on muscle strength and synthesis require further investigation.
+
+Abstract:BACKGROUND
+Increased protein intake has been suggested to improve gains in muscle mass and strength in adults. Furthermore, the timing of protein intake has been discussed as a margin of opportunity for improved prevention measures.
+
+OBJECTIVE
+This systematic review investigated the effect of protein supplementation on body composition and muscle function (strength and synthesis) in healthy adults, with an emphasis on the timing of protein intake.
+
+METHODS
+Randomized controlled trials were identified using PubMed, Web of Science, CINAHL, and Embase, up to March 2019. For meta-analyses, data on lean body mass (LBM), handgrip strength, and leg press strength were pooled by age group (mean age 18-55 or >55 y) and timing of protein intake. The quality of evidence was assessed using the Grading of Recommendations, Assessment, Development and Evaluations approach.
+
+RESULTS
+Data from 65 studies with 2907 participants (1514 men and 1380 women, 13 unknown sex) were included in the review. Twenty-six, 8, and 24 studies were used for meta-analysis on LBM, handgrip strength, and leg press strength, respectively. The protein supplementation was effective in improving (mean difference; 95% CI) LBM in adults (0.62 kg; 0.36, 0.88) and older adults (0.46 kg; 0.23, 0.70), but not handgrip strength (older adults: 0.26 kg; -0.51, 1.04) and leg press strength (adults: 5.80 kg; -0.33, 11.93; older adults: 1.97 kg; -2.78, 6.72). Sensitivity analyses removing studies without exercise training had no impact on the outcomes. Data regarding muscle synthesis were scarce and inconclusive. Subgroup analyses showed no beneficial effect of a specific timing of protein intake on LBM, handgrip strength, and leg press strength.
+
+CONCLUSION
+Overall, the results support the positive impact of protein supplementation on LBM of adults and older adults, independently of intake timing. Effects on muscle strength and synthesis are less clear and need further investigation. This systematic review was registered on PROSPERO as CRD42019126742.
+
+Effect of protein and amino acids supplements on muscle strength and physical performance: A scoping review of randomized controlled trials.
+
+Number of 
+
+Key takeaways:Whey protein, creatine, and milk protein supplementation improves muscle strength and body composition in older adults when combined with resistance training, but its impact on physical performance remains inconclusive.
+
+Abstract:Protein and amino acid supplementation is an effective intervention that significantly enhances physical function and reduces frailty and sarcopenia in older adults. This scoping review aims to map and synthesize the available evidence on the effects of various types of protein and amino acid supplementation in this population. Following the PRISMA-ScR guidelines, we conducted a literature search to identify clinical trials examining the effects of protein and amino acid supplementation, with or without physical exercise, on muscle strength, physical performance, and body composition in healthy, frail, or sarcopenic older adults. Our analysis of 80 trials with a total of 5290 participants examines the evidence for the effectiveness of protein supplementation in enhancing muscle strength and body composition. Whey protein, creatine, milk protein, leucine, essential amino acids, and soy protein were the most used types of protein, and our findings indicate that whey protein, creatine, and milk protein yield the best results when used in conjunction with resistance training. Additionally, leucine and milk protein have shown the potential to enhance body composition even without concurrent resistance training. In conclusion, studies on the effectiveness of whey protein in improving muscle strength and body composition in older adults with resistance training are inconsistent. More research is required to explore the potential benefits of soy and leucine-enriched supplements. Protein supplementation's impact on physical performance remains inconclusive. Further studies are needed to determine the effects of protein types and supplementation on muscle-related parameters in older adults.
+
+Protein-Based Supplementation to Enhance Recovery in Team Sports: What is the Evidence?
+
+Number of 
+
+Key takeaways:Protein supplementation may enhance performance recovery after team-sport activity, but its effectiveness is limited by small sample sizes, high variability in supplements, and factors such as training level and recovery duration.
+
+Abstract:Protein supplementation is a major nutritional practice among professional and amateur team-sport athletes representing a market of $5 billion in the USA alone. This practice, however, may not be supported by evidence-based science. Our objective as to present a thorough review of literature investigating the effects of protein supplementation on performance recovery and exercise-induced muscle damage following team-sport activity. PubMed-derived, full English language articles investigating the effects of protein-based supplementation/feeding on skeletal muscle performance, muscle damage and inflammatory status during recovery following team-sport activity were included. Studies investigated professional or amateur team-sport athletes participating in regular training and competition as well as examining the impact of protein supplementation on performance, muscle damage/soreness and inflammatory markers after team-sport activity. Finally, ten articles (150 participants) met the inclusion criteria. Experimental designs were evaluated for confounders. All protocols employing team-sport activity increased systemic muscle damage indicators and inflammatory markers and deteriorated performance during recovery. Protein-based supplementation attenuated the rise in muscle damage markers and enhanced performance recovery in six (60% of the studies included) and three (30% of the studies included) out of 10 studies, respectively. In contrast, immunity and muscle soreness remained unaffected by protein ingestion, independent of dosage and distribution pattern. In conclusion, there are limited and inconsistent data showing that protein supplementation may enhance performance recovery following team-sport activity despite an attenuation of indirect markers of muscle damage. Interpretation of results is limited by small sample sizes, high variability in tested supplements, participants' training level, length of recovery periods, absence of direct measurement of myofibrillar disruption, protein turnover and protein metabolism, and lack of dietary monitoring during experimentation.
+
+Effect of Protein Supplementation Combined With Resistance Training on Muscle Mass, Strength and Function in the Elderly: A Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:Protein supplementation combined with resistance training may have a stronger effect on maintaining muscle mass, strength, and function in the elderly than either treatment alone.
+
+Abstract:The loss of muscle mass, strength and function associated with increasing age has various health ramifications, including the elevated risk for falls, fractures, frailty, poor quality of life, and mortality. Several studies have confirmed the effects of protein supplementation and RT (resistance training) for this age-related change independently, but whether a combination of the two produces a stronger effect remains controversial.
+
+A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults
+
+Number of 
+
+Key takeaways:Dietary protein supplementation significantly enhances muscle strength and size gains during prolonged resistance training in healthy adults, with optimal intake around 1.6g/kg/day.
+
+Abstract:Objective We performed a systematic review, meta-analysis and meta-regression to determine if dietary protein supplementation augments resistance exercise training (RET)-induced gains in muscle mass and strength. Data 
+
+Dietary Supplementation During Musculoskeletal Injury: Protein and Creatine
+
+Number of 
+
+Key takeaways:Using protein and creatine supplements during rehabilitation from musculoskeletal injuries can improve muscle function and energy production, potentially benefiting individuals during this recovery period.
+
+Abstract:ABSTRACT THIS ARTICLE IS A COMMENTARY TO OUTLINE THE POTENTIAL BENEFITS OF USING 2 SPECIFIC DIETARY SUPPLEMENTS DURING REHABILITATION FROM MUSCULOSKELETAL INJURY. JUSTIFICATION AND EXPLANATION ARE PROVIDED FOR THE USE OF PROTEIN AND CREATINE SUPPLEMENTS DURING AN EXERCISE PROGRAM TO INCREASE PROTEIN SYNTHESIS AND MUSCLE FUNCTION, AND TO IMPROVE ENERGY PRODUCTION TO PREVENT FATIGUE. EVIDENCE SUGGESTS POTENTIAL BENEFITS FOR THESE SUPPLEMENTS TO BE USED IN THIS POSTINJURY PERIOD, AT A TIME WHEN MANY INDIVIDUALS WILL ABSTAIN FROM SUPPLEMENTATION. SUGGESTIONS ARE MADE FOR PROFESSIONALS WORKING WITH INJURED OR RECOVERING INDIVIDUALS TO CONSIDER ADVISING THEM TO SUSTAIN THE SUPPLEMENTATION REGIMES.
+
+Effects of Exergames and Protein Supplementation on Body Composition and Musculoskeletal Function of Prefrail Community-Dwelling Older Women: A Randomized, Controlled Clinical Trial
+
+Number of 
+
+Key takeaways:Exergames and protein supplementation reversed pre-frailty status, improved ankle dorsiflexors torque, and reduced fatigue/exhaustion in pre-frail older women.
+
+Abstract:This study aimed to investigate the effects of exergames and protein supplementation on the body composition and musculoskeletal function of pre-frail older women. Methods: A randomized controlled clinical trial was conducted with 90 pre-frail older women (71.2 ± 4.5 years old) divided into five groups: control (CG); exergames training (ETG); protein supplementation (PSG); exergames combined with protein supplementation (ETPSG); exergames combined with isoenergetic supplementation (ETISG). The primary outcomes were pre-frailty status, body composition (appendicular muscle mass (ASM); appendicular muscle mass index (ASMI)) assessed by dual energy X-ray absorptiometry and gastrocnemius muscle architecture via ultrasound. Secondary outcomes were protein intake, plasma levels of interleukin (IL)-6, plantar and dorsiflexion isokinetic peak torque, and handgrip strength (HS). Data were analyzed using an ANOVA mixed model test and Bonferroni post hoc test (p < 0.05). The ETG showed a reduction of ASM (16.7 ± 3.4 vs. 16.1 ± 3.3 kg; Δ = −0.5; p = 0.02; d = 0.26) and ASMI (6.8 ± 0.9 vs. 6.5 ± 0.9 kg; Δ = −0.2; p = 0.03; d = 0.35), without changing ASM in other groups. The average protein intake in the supplemented groups (PSG and ETPSG) was 1.1 ± 0.2 g/kg/day. The dorsiflexion peak torque increased 11.4% in ETPSG (16.3 ± 2.5 vs. 18.4 ± 4.2 Nm; p = 0.021; d = −0.58). The HS increased by 13.7% in ETG (20.1 ± 7.2 vs. 23.3 ± 6.2 kg, Δ = 3.2 ± 4.9, p = 0.004, d = −0.48). The fatigue/exhaustion reduced by 100% in ETG, 75% in PSG, and 100% in ETPSG. Physical training with exergames associated with protein supplementation reversed pre-frailty status, improved the ankle dorsiflexors torque, and ameliorated fatigue/exhaustion in pre-frail older women.
+
+Effects of High Intensity Dynamic Resistance Exercise and Whey Protein Supplements on Osteosarcopenia in Older Men with Low Bone and Muscle Mass. Final Results of the Randomized Controlled FrOST Study
+
+Number of 
+
+Key takeaways:High intensity dynamic resistance exercise and whey protein supplementation are a feasible, attractive, safe, and highly effective option for combating osteosarcopenia in older men with low bone and muscle mass.
+
+Abstract:The present study aimed to evaluate the effect of high intensity dynamic resistance exercise (HIT-DRT) and whey protein supplementation (WPS) on bone mineral density (BMD) and sarcopenia parameters in osteosarcopenic men. Men ≥ 72 years with osteosarcopenia (n = 43) were randomly assigned to a HIT-RT (HIT-RT: n = 21) or a non-training control group (n = 22). Supervised HIT-RT twice/week was applied for 18 months, while the control group maintained their habitual lifestyle. Supplying WPS, total protein intake amounted to 1.5–1.6 (HIT-RT) and 1.2 g/kg/body mass/d (control). Both groups were supplied with calcium and vitamin D. Primary study outcomes were BMD and the sarcopenia Z-score. After adjusting for multiplicity, we observed significant positive effects for sarcopenia Z-score (standardized mean difference (SMD): 1.40), BMD at lumbar spine (SMD: 0.72) and total hip (SMD: 0.72). In detail, effect sizes for skeletal muscle mass changes were very pronounced (1.97, p < 0.001), while effects for functional sarcopenia parameters were moderate (0.87, p = 0.008; handgrip strength) or low (0.39, p = 0.209; gait velocity). Apart from one man who reported short periods of temporary worsening of existing joint pain, no HIT-RT/WPS-related adverse effects or injuries were reported. We consider HIT-RT supported by whey protein supplementation as a feasible, attractive, safe and highly effective option to fight osteosarcopenia in older men.
+
+Protein 
+
+Number of 
+
+Key takeaways:Higher dietary protein intake in older adults may benefit muscle health, but future research is needed on plant-sourced proteins like pea protein to provide clearer messaging on their effects on the aging musculoskeletal system.
+
+Abstract:Research shows that higher dietary protein of up to 1.2 g/kgbodyweight/day may help prevent sarcopenia and maintain musculoskeletal health in older individuals. Achieving higher daily dietary protein levels is challenging, particularly for older adults with declining appetites and underlying health conditions. The negative impact of these limitations on aging muscle may be circumvented through the consumption of high-quality 
+
+Protein Supplementation Does Not Significantly Augment the Effects of Resistance Exercise Training in Older Adults: A Systematic Review
+
+Number of 
+
+Key takeaways:Protein/EAA supplementation does not significantly augment the effects of resistance exercise training on muscle strength, size, functional ability, and body composition in older adults.
+
+Skeletal Muscle Disuse Atrophy and the Rehabilitative Role of Protein in Recovery from Musculoskeletal Injury.
+
+Number of 
+
+Key takeaways:Protein intake can help protect muscle mass and function during postinjury disuse conditions, potentially synergistically with early rehabilitation efforts.
+
+Abstract:Muscle atrophy and weakness occur as a consequence of disuse after musculoskeletal injury (MSI). The slow recovery and persistence of these deficits even after physical rehabilitation efforts indicate that interventions designed to attenuate muscle atrophy and protect muscle function are necessary to accelerate and optimize recovery from MSI. Evidence suggests that manipulating protein intake via dietary protein or free amino acid-based supplementation diminishes muscle atrophy and/or preserves muscle function in experimental models of disuse (i.e., immobilization and bed rest in healthy populations). However, this concept has rarely been considered in the context of disuse following MSI, which often occurs with some muscle activation during postinjury physical rehabilitation. Given that exercise sensitizes skeletal muscle to the anabolic effect of protein ingestion, early rehabilitation may act synergistically with dietary protein to protect muscle mass and function during postinjury disuse conditions. This narrative review explores mechanisms of skeletal muscle disuse atrophy and recent advances delineating the role of protein intake as a potential countermeasure. The possible synergistic effect of protein-based interventions and postinjury rehabilitation in attenuating muscle atrophy and weakness following MSI is also considered.
+
+Effects of Protein Supplementation Combined with Exercise Training on Muscle Mass and Function in Older Adults with Lower-Extremity Osteoarthritis: A Systematic Review and Meta-Analysis of Randomized Trials
+
+Number of 
+
+Key takeaways:Protein supplementation combined with exercise training improves muscle mass, strength, and function, and reduces pain in older adults with lower-limb osteoarthritis, especially post-joint replacement.
+
+Abstract:Aging and osteoarthritis (OA) are associated with a high risk of muscle mass loss, which can lead to physical disability. This study investigated the effectiveness of protein supplementation combined with exercise training (PS + ET) in improving muscle mass and functional outcomes in older adults with lower-limb OA. A comprehensive search of online databases was performed to identify randomized controlled trials (RCTs) on the effectiveness of PS + ET in older adults with hip or knee OA. Meta-analysis and risk of bias assessment of the included RCTs were conducted. Six RCTs were included in this systemic review; they had a median (range/total) Physiotherapy Evidence Database (PEDro) score of 7 (6–9) out of 10, respectively. Five RCTs that enrolled patients who underwent total joint replacement were included in this meta-analysis. The PS + ET group exhibited significant improvements in muscle mass (standard mean difference = 1.13, p < 0.00001), pain (SMD = 1.36, p < 0.00001), and muscle strength (SMD = 0.44, p = 0.04). Our findings suggest that PS + ET improves muscle mass, muscle strength, and functional outcomes and reduces pain in older adults with lower-limb OA, particularly in those who have undergone total joint replacement.
+
+The effect of dose, frequency, and timing of protein supplementation on muscle mass in older adults: A systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Protein supplementation improves muscle mass in community-dwelling older adults, but its dose, frequency, or timing does not significantly influence the effect.
+
+Effects of multidomain interventions on skeletal muscle architecture and function in pre-frail older women: The WiiProtein study.
+
+Number of 
+
+Key takeaways:Physical training with exergames and protein supplementation improves musculoskeletal function, reduces exhaustion, and reverses pre-frailty in older women.
+
+Common questions and misconceptions about protein supplementation: what does the scientific evidence really show?
+
+Number of 
+
+Key takeaways:Protein supplementation is safe and beneficial for both exercise-trained individuals and sedentary individuals, but some common misconceptions remain.
+
+Abstract:ABSTRACT Protein supplementation often refers to increasing the intake of this particular macronutrient through dietary supplements in the form of powders, ready-to-drink shakes, and bars. The primary purpose of protein supplementation is to augment dietary protein intake, aiding individuals in meeting their protein requirements, especially when it may be challenging to do so through regular food (i.e. chicken, beef, fish, pork, etc.) 
+
+Effect of a Protein Supplement on the Gut Microbiota of Endurance Athletes: A Randomized, Controlled, Double-Blind Pilot Study
+
+Number of 
+
+Key takeaways:Long-term protein supplementation in endurance athletes may negatively impact gut microbiota, increasing Bacteroidetes abundance and decreasing health-related taxa.
+
+Abstract:Nutritional supplements are popular among athletes to improve performance and physical recovery. Protein supplements fulfill this function by improving performance and increasing muscle mass; however, their effect on other organs or systems is less well known. Diet alterations can induce gut microbiota imbalance, with beneficial or deleterious consequences for the host. To test this, we performed a randomized pilot study in cross-country runners whose diets were complemented with a protein supplement (whey isolate and beef hydrolysate) (n = 12) or maltodextrin (control) (n = 12) for 10 weeks. Microbiota, water content, pH, ammonia, and short-chain fatty acids (SCFAs) were analyzed in fecal samples, whereas malondialdehyde levels (oxidative stress marker) were determined in plasma and urine. Fecal pH, water content, ammonia, and SCFA concentrations did not change, indicating that protein supplementation did not increase the presence of these fermentation-derived metabolites. Similarly, it had no impact on plasma or urine malondialdehyde levels; however, it increased the abundance of the Bacteroidetes phylum and decreased the presence of health-related taxa including Roseburia, Blautia, and Bifidobacterium longum. Thus, long-term protein supplementation may have a negative impact on gut microbiota. Further research is needed to establish the impact of protein supplements on gut microbiota.
+
+The Effects of Type I Collagen Hydrolysate Supplementation on Bones, Muscles, and Joints: A Systematic Review.
+
+Number of 
+
+Key takeaways:Collagen supplementation shows promising results for joint health, but heterogeneity among studies limits the generalizability of findings.
+
+Abstract:Introduction
+Musculoskeletal discomfort is prevalent in primary care, with conditions such as osteoarthritis and osteoporosis being significant contributors. Collagen, particularly type I, is a major structural protein found in connective tissues. The supplementation of type I hydrolyzed collagen has been investigated for its potential benefits in musculoskeletal health.
+
+Objective
+This systematic review aims to evaluate the current literature on the effects of type I hydrolyzed collagen supplementation on bones, muscles, and joints.
+
+Methods
+A systematic search was conducted in August 2024 using four electronic databases - PubMed, Scopus, EMBASE, and CINAHL. The inclusion criteria were randomized controlled trials (RCTs) and systematic reviews evaluating oral supplementation with type I hydrolyzed collagen. Exclusion criteria were pre-clinical studies, experimental studies, studies not focusing on type I hydrolyzed collagen, studies with beauty-related endpoints, studies that combined collagen with other ingredients, and unblinded, nonrandomized, and uncontrolled trials.
+
+Results
+Out of 4,246 articles screened, 36 RCTs met the inclusion criteria. The study protocols varied in population, health conditions, and study duration. Studies focused on bone health faced limitations that prevent definitive conclusions about the effects of collagen supplementation. In contrast, studies on joint health reported beneficial outcomes, such as pain reduction, improvements in clinical parameters, increased physical mobility, and enhanced ankle function. The muscle health studies were inconsistent, with positive effects predominantly observed when supplementation was associated with physical exercise.
+
+Conclusion
+Collagen supplementation demonstrates promising results. However, heterogeneity among studies limits the generalizability of findings. Future research should prioritize standardized protocols and consistent outcome measures.
+
+The effects of protein supplementation on body composition after bariatric surgery: a systematic review and meta-analysis of randomized controlled trials.
+
+Number of 
+
+Key takeaways:Protein supplementation may improve weight and some body composition metrics after bariatric surgery, but does not significantly influence overall BMI and lean body mass.
+
+Abstract:OBJECTIVE
+We aimed to explore the effect of protein supplementation on anthropometric measures and body composition in patients after metabolic bariatric surgery (MBS).
+
+METHODS
+We performed a systematic search up to January 2024 including randomized controlled trials investigating the effects of protein or amino acid supplementation on the body composition of patients who underwent MBS. The overall effect was presented as the weighted mean difference (WMD) at a 95% CI.
+
+RESULTS
+Ten trials were included in this meta-analysis. Our results indicate that there was a statistically greater change in weight (WMD, -1.31 kg, 95% CI: -1.93 to -0.69, p < 0.001; Grading of Recommendations Assessment, Development, and Evaluation  = moderate), muscle mass (WMD, 1.33 kg, 95% CI: 0.1 to 2.57, p = 0.035; GRADE = low), fat-free mass (WMD, 1.74 kg, 95% CI: 0.46 to 3.01, p = 0.01; GRADE = low), and fat mass (WMD, -3.91 kg, 95% CI: -4.10 to -0.59, p = 0.01; GRADE = low) in the protein group compared to the control group. However, protein supplementation did not significantly change BMI and lean body mass.
+
+CONCLUSIONS
+Based on moderate- to low-certainty evidence, our findings suggest that although protein supplementation may improve weight and some body composition metrics, it does not influence overall BMI and lean body mass. More research is needed to recommend protein supplementation after MBS.
+
+Effect of whey protein supplementation on body composition changes in women: a systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Whey protein supplementation improves body composition in women by modestly increasing lean mass without influencing fat mass, with more robust effects when combined with energy restriction.
+
+Abstract:Context
+A preponderance of evidence supports the beneficial effects of whey protein (WP) supplementation on body composition in men; however, there is currently insufficient evidence to make an equivalent claim in women.
+
+Objective
+This systematic review and meta-analysis assessed the effects of WP supplementation with or without energy restriction (ER) and resistance training (RT) on changes in body mass, lean mass, and fat mass in women.
+
+Data Sources
+Pubmed, Scopus, Cochrane, and CINAHL were searched using the keywords 'whey protein,' 'body composition,' and 'lean mass.'
+
+Data Extraction
+Two researchers independently screened 1845 abstracts and extracted 276 articles. Thirteen randomized controlled trials with 28 groups met the inclusion criteria.
+
+Results
+Globally, WP supplementation increased lean mass (WMD, 0.37 kg; 95% confidence interval , 0.06 to 0.67) while not influencing changes in fat mass (-0.20 kg; 95%CI, -0.67 to 0.27) relative to non-WP control. The beneficial effect of WP on lean mass was lost when only studies with RT were included in the analysis (n = 7 comparisons; 0.23 kg; 95%CI, -0.17 to 0.63). The beneficial effect of WP on lean mass was more robust when only studies with an ER component were included (n = 6 comparisons; 0.90 kg; 95%CI, 0.31 to 1.49). There was no effect of WP on lean mass in studies without ER (n = 9 comparisons; 0.22 kg; 95%CI, -0.12 to 0.57).
+
+Conclusion
+Whey protein supplementation improves body composition by modestly increasing lean mass without influencing changes in fat mass. Body composition improvements from WP are more robust when combined with ER .
+
+Exploring the Impact of Protein Supplement 
+
+Number of 
+
+Key takeaways:BCAAs and vegan protein supplements significantly reduced body weight and BMI in women undergoing anaerobic resistance exercise, while meat and BCAAs both reduced weight and BMI, but no statistical differences were observed.
+
+Abstract:Supplements based on protein hydrolysates have been used as an effective source to access amino acids with greater bioavailability, promoting absorption to improve body composition. Five groups of young women were randomly selected. They followed a personalized eating plan that included different protein supplements (meat, vegan, branched-chain amino acids , whey, and control group), combined with an exercise plan, for eight weeks, aiming to assess their consumption effects combined with resistance exercise on body composition. Bioelectrical impedance before and after the treatment was conducted. The results showed that the supplementation with BCAAs presented a significant decrease (p < 0.05) on the BMI in this group (initial BMI = 19.7 kg/m2; final BMI = 19.4 kg/m2). When comparing the final measures among the groups, the BCAAs and vegan supplements caused a significant decrease in body weight (50.24 kg and 51.34 kg, respectively). The BMI of the group supplemented with meat proteins was statistically higher (22.06 kg/m2) than that the group supplemented with BCAAs (19.4 kg/m2) (p < 0.05). No significant changes were observed in the type of protein consumed to produce muscle mass in the participants after eight weeks of study under a controlled diet and anaerobic resistance exercise. Participants exhibited energy deficiencies, but their macronutrient distribution appeared normal. Following an 8-week intervention, meat and BCAAs reduced weight and BMI, although no statistical differences were observed. It is recommended to extend the treatment for a more comprehensive understanding.
+
+Effects of dietary protein intake on body composition changes after weight loss in older adults: a systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:Higher protein diets help older adults retain more lean mass and lose more fat mass during weight loss.
+
+Abstract:CONTEXT
+The impact of dietary protein on body composition changes after older adults purposefully lose weight requires systematic evaluation
+
+OBJECTIVE
+: This systematic review and meta-analysis assessed the effects of protein intake (< 25% vs ≥ 25% of energy intake or 1.0 g/kg/d) on energy restriction-induced changes in body mass, lean mass, and fat mass in adults older than 50 years.
+
+DATA SOURCES
+PubMed, Cochrane, Scopus, and Google Scholar were searched using the keywords 'dietary proteins,' 'body composition,' 'skeletal muscle,' and 'muscle strength.'
+
+STUDY SELECTION
+Two researchers independently screened 1542 abstracts.
+
+DATA EXTRACTION
+Information was extracted from 24 articles.
+
+DATA SYNTHESIS
+Twenty randomized control trials met the inclusion criteria.
+
+CONCLUSION
+Older adults retained more lean mass and lost more fat mass during weight loss when consuming higher protein diets.
+
+Effects of protein supplementation combined with resistance exercise on body composition and physical function in older adults: a systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:Protein supplementation combined with resistance exercise effectively improves muscle mass and leg strength in older adults, regardless of their body mass index.
+
+Abstract:Background: Overweight and obese older people face a high risk of muscle loss and impaired physical function, which may contribute to sarcopenic obesity. Resistance exercise training (RET) has a beneficial effect on muscle protein synthesis and can be augmented by protein supplementation (PS). However, whether body weight affects the augmentation of muscular and functional performance in response to PS in older people undergoing RET remains unclear.Objective: This study was conducted to identify the effects of PS on the body composition and physical function of older people undergoing RET.Design: We performed a comprehensive search of online databases to identify randomized controlled trials (RCTs) reporting the efficacy of PS for lean mass gain, strength gain, and physical mobility improvements in older people undergoing RET.Results: We included 17 RCTs; the overall mean ± SD age and body mass index (BMI; in kg/m2) in these RCTs were 73.4 ± 8.1 y and 29.7 ± 5.5, respectively. The participants had substantially greater lean mass and leg strength gains when PS and RET were used than with RET alone, with the standard mean differences (SMDs) being 0.58 (95% CI: 0.32, 0.84) and 0.69 (95% CI: 0.39, 0.98), respectively. The subgroup of studies with a mean BMI ≥30 exhibited substantially greater lean mass (SMD: 0.53; 95% CI: 0.19, 0.87) and leg strength (SMD: 0.88; 95% CI: 0.42, 1.34) gains in response to PS. The subgroup of studies with a mean BMI <30 also exhibited relevant gains in response to PS.Conclusions: Compared with RET alone, PS combined with RET may have a stronger effect in preventing aging-related muscle mass attenuation and leg strength loss in older people, which was found in studies with a mean BMI ≥30 and in studies with a mean BMI <30. Clinicians could use nutrition supplement and exercise strategies, especially PS plus RET, to effectively improve the physical activity and health status of all older patients.
+
+Effects of Dietary Protein on Body Composition in Exercising Individuals
+
+Number of 
+
+Key takeaways:A high-protein diet combined with exercise leads to increased muscle accretion, fat loss, and beneficial effects on bone, with no deleterious effects on muscle, fat, or bone.
+
+Abstract:Protein is an important component of a healthy diet and appears to be integral to enhancing training adaptations in exercising individuals. The purpose of this narrative review is to provide an evidence-based assessment of the current literature examining increases in dietary protein intake above the recommended dietary allowance (RDA: 0.8 g/kg/d) in conjunction with chronic exercise on body composition (i.e., muscle, fat and bone). We also highlight acute and chronic pre-sleep protein studies as well as the influence of exercise timing on body composition. Overall, a high-protein diet appears to increase muscle accretion and fat loss and may have beneficial effects on bone when combined with exercise. Pre-sleep protein is a viable strategy to help achieve total daily protein goals. Importantly, there appears to be no deleterious effects from a high-protein diet on muscle, fat or bone in exercising individuals.
+
+Comparison of the effect of soya protein and whey protein on body composition: a meta-analysis of randomised clinical trials
+
+Number of 
+
+Key takeaways:Whey protein supplementation significantly improves body composition by increasing lean body mass without affecting fat mass, body mass, or body fat percentage.
+
+Abstract:Abstract Essential amino acids (EAA) promote the process of regulating muscle synthesis. Thus, whey protein that contains higher amounts of EAA can have a considerable effect on modifying muscle synthesis. However, there is insufficient evidence regarding the effect of soya and whey protein supplementation on body composition. Thus, we sought to perform a meta-analysis of 
+
+Does Beef Protein Supplementation Improve Body Composition and Exercise Performance? A Systematic Review and Meta-Analysis of Randomized Controlled Trials
+
+Number of 
+
+Key takeaways:Beef protein supplementation provides similar effects to whey protein on protein intake and body composition, and may be an effective intervention to increase total daily protein intake, lean body mass, and lower-limb muscle strength.
+
+Abstract:Protein supplementation might improve body composition and exercise performance. Supplements containing whey protein (WP) have received the most attention, but other protein sources such as beef protein (BP) are gaining popularity. We conducted a systematic review and meta-analysis of randomized controlled trials that compared the effects of exercise training combined with BP, WP or no protein supplementation (NP), on body composition or exercise performance. Secondary endpoints included intervention effects on total protein intake and hematological parameters. Seven studies (n = 270 participants) were included. No differences were found between BP and WP for total protein intake (standardized mean difference (SMD) = 0.04, p = 0.892), lean body mass (LBM) (SMD = −0.01, p = 0.970) or fat mass (SMD = 0.07, p = 0.760). BP significantly increased total daily protein intake (SMD = 0.68, p < 0.001), LBM (SMD = 0.34, p = 0.049) and lower-limb muscle strength (SMD = 0.40, p = 0.014) compared to NP, but no significant differences were found between both conditions for fat mass (SMD = 0.15, p = 0.256), upper-limb muscle strength (SMD = 0.16, p = 0.536) or total iron intake (SMD = 0.29, p = 0.089). In summary, BP provides similar effects to WP on protein intake and body composition and, compared to NP, might be an effective intervention to increase total daily protein intake, LBM and lower-limb muscle strength.
+
+Higher compared with lower dietary protein during an energy deficit combined with intense exercise promotes greater lean mass gain and fat mass loss: a randomized trial.
+
+Number of 
+
+Key takeaways:A higher protein intake (2.4 g/kg/d) during an energy deficit, combined with intense exercise, promotes greater lean mass gain and fat mass loss compared to a lower protein intake (1.2 g/kg/d).
+
+Abstract:BACKGROUND
+A dietary protein intake higher than the Recommended Dietary Allowance during an energy deficit helps to preserve lean body mass (LBM), particularly when combined with exercise.
+
+OBJECTIVE
+The purpose of this study was to conduct a proof-of-principle trial to test whether manipulation of dietary protein intake during a marked energy deficit in addition to intense exercise training would affect changes in body composition.
+
+DESIGN
+We used a single-blind, randomized, parallel-group prospective trial. During a 4-wk period, we provided hypoenergetic (~40% reduction compared with requirements) diets providing 33 ± 1 kcal/kg LBM to young men who were randomly assigned (n = 20/group) to consume either a lower-protein (1.2 g · kg(-1) · d(-1)) control diet (CON) or a higher-protein (2.4 g · kg(-1) · d(-1)) diet (PRO). All subjects performed resistance exercise training combined with high-intensity interval training for 6 d/wk. A 4-compartment model assessment of body composition was made pre- and postintervention.
+
+RESULTS
+As a result of the intervention, LBM increased (P < 0.05) in the PRO group (1.2 ± 1.0 kg) and to a greater extent (P < 0.05) compared with the CON group (0.1 ± 1.0 kg). The PRO group had a greater loss of fat mass than did the CON group (PRO: -4.8 ± 1.6 kg; CON: -3.5 ± 1.4kg; P < 0.05). All measures of exercise performance improved similarly in the PRO and CON groups as a result of the intervention with no effect of protein supplementation. Changes in serum cortisol during the intervention were associated with changes in body fat (r = 0.39, P = 0.01) and LBM (r = -0.34, P = 0.03).
+
+CONCLUSIONS
+Our results showed that, during a marked energy deficit, consumption of a diet containing 2.4 g protein · kg(-1) · d(-1) was more effective than consumption of a diet containing 1.2 g protein · kg(-1) · d(-1) in promoting increases in LBM and losses of fat mass when combined with a high volume of resistance and anaerobic exercise. Changes in serum cortisol were associated with changes in body fat and LBM, but did not explain much variance in either measure. This trial was registered at clinicaltrials.gov as NCT01776359.
+
+Protein supplementation improves lean body mass in physically active older adults: a randomized placebo‐controlled trial
+
+Number of 
+
+Key takeaways:Protein supplementation for 12 weeks improves lean body mass, muscle strength, and physical performance in physically active older adults with low protein intake.
+
+Abstract:An inadequate protein intake may offset the muscle protein synthetic response after physical activity, reducing the possible benefits of an active lifestyle for muscle mass. We examined the effects of 12 weeks of daily protein supplementation on lean body mass, muscle strength, and physical performance in physically active older adults with a low habitual protein intake (<1.0 g/kg/day).
+
+Whey protein, amino acids, and vitamin D supplementation with physical activity increases fat-free mass and strength, functionality, and quality of life and decreases inflammation in sarcopenic elderly.
+
+Number of 
+
+Key takeaways:Whey protein, amino acids, and vitamin D supplementation with physical activity increases fat-free mass, strength, functionality, and quality of life, and decreases inflammation in sarcopenic elderly.
+
+Abstract:BACKGROUND
+Interventions to attenuate the adverse effects of age-related loss of skeletal muscle and function include increased physical activity and nutritional supplementation.
+
+OBJECTIVE
+This study tested the hypothesis that nutritional supplementation with whey protein (22 g), essential amino acids (10.9 g, including 4 g leucine), and vitamin D concurrent with regular, controlled physical activity would increase fat-free mass, strength, physical function, and quality of life, and reduce the risk of malnutrition in sarcopenic elderly persons.
+
+DESIGN
+A total of 130 sarcopenic elderly people (53 men and 77 women; mean age: 80.3 y) participated in a 12-wk randomized, double-blind, placebo-controlled supplementation trial. All participants concurrently took part in a controlled physical activity program. We examined body composition with dual-energy X-ray absorptiometry, muscle strength with a handgrip dynamometer, and blood biochemical indexes of nutritional and health status, and evaluated global nutritional status, physical function, and quality of life before and after the 12 wk of intervention.
+
+RESULTS
+Compared with physical activity and placebo, supplementation plus physical activity increased fat-free mass (1.7-kg gain, P < 0.001), relative skeletal muscle mass (P = 0.009), android distribution of fat (P = 0.021), handgrip strength (P = 0.001), standardized summary scores for physical components (P = 0.030), activities of daily living (P = 0.001), mini nutritional assessment (P = 0.003), and insulin-like growth factor I (P = 0.002), and lowered C-reactive protein (P = 0.038).
+
+CONCLUSION
+Supplementation with whey protein, essential amino acids, and vitamin D, in conjunction with age-appropriate exercise, not only boosts fat-free mass and strength but also enhances other aspects that contribute to well-being in sarcopenic elderly. This trial was registered at clinicaltrials.gov as NCT02402608.
+
+Protein Supplementation at Breakfast and Lunch for 24 Weeks beyond Habitual Intakes Increases Whole-Body Lean Tissue Mass in Healthy Older Adults.
+
+Number of 
+
+Key takeaways:Protein supplementation at breakfast and lunch for 24 weeks in healthy older adults increases whole-body lean tissue mass, suggesting a balanced protein intake may help preserve lean tissue in the elderly.
+
+Abstract:BACKGROUND
+Key areas of research on the preservation of lean tissue mass (LTM) during aging are determinations of the protein requirement and optimal protein intake at meals.
+
+OBJECTIVE
+The aim of this study was to determine the effect of protein supplementation at breakfast and lunch for 24 wk beyond habitual intakes on whole-body LTM in healthy adults aged 50-70 y.
+
+METHODS
+In a single-blinded, randomized, controlled design, 60 healthy older men and women (aged 61 ± 5 y) with a body mass index (in kg/m(2)) of 25.8 ± 3.6 consumed either 0.165 g/kg body mass of a milk-based protein matrix (PRO) or an isoenergetic, nonnitrogenous maltodextrin control (CON) at breakfast and midday meals, the lower protein-containing meals of the day, for 24 wk. Dual-energy X-ray absorptiometry was used to measure the change in LTM.
+
+RESULTS
+After the intervention, protein intake in the PRO group increased from 0.23 ± 0.1 to 0.40 ± 0.1 g/kg for breakfast and from 0.31 ± 0.2 to 0.47 ± 2 g/kg for the midday meal. In response, LTM increased by 0.45 (95% CI: 0.06, 0.83) kg in the PRO group compared with a decrease of 0.16 (95% CI: -0.49, 0.17) kg in the CON group (P = 0.006). Appendicular LTM accounted for the majority of the difference in LTM, increasing by 0.27 (95% CI: 0.05, 0.48) kg in the PRO group compared with no change in the CON group (P = 0.002).
+
+CONCLUSIONS
+Protein supplementation at breakfast and lunch for 24 wk in healthy older adults resulted in a positive (+0.6 kg) difference in LTM compared with an isoenergetic, nonnitrogenous maltodextrin control. These observations suggest that an optimized and balanced distribution of meal protein intakes could be beneficial in the preservation of lean tissue mass in the elderly. This trial was registered at clinicaltrials.gov as NCT02529124.
+
+Whey protein isolate supplementation improves body composition, muscle strength, and treatment tolerance in malnourished advanced cancer patients undergoing chemotherapy
+
+Number of 
+
+Key takeaways:Whey protein isolate supplementation improves body composition, muscle strength, body weight, and reduces chemotherapy toxicity in malnourished advanced cancer patients undergoing treatment.
+
+Abstract:In recent years, whey proteins (WP) have attracted increasing attention in health and disease for their bioactive functions. The aim of this study was to evaluate the benefit of WP isolate (WPI) supplementation in addition to nutritional counseling in malnourished advanced cancer patients undergoing chemotherapy (CT). In a single‐center, randomized, pragmatic, and parallel‐group controlled trial (ClinicalTrials.gov: NCT02065726), 166 malnourished advanced cancer patients with mixed tumor entities candidate to or undergoing CT were randomly assigned to receive nutritional counseling with (N = 82) or without (N = 84) WPI supplementation (20 g/d) for 3 months. The primary endpoint was the change in phase angle (PhA). Secondary endpoints included changes in standardized PhA (SPA), fat‐free mass index (FFMI), body weight, muscle strength, and CT toxicity (CTCAE 4.0 events). In patients with the primary endpoint assessed (modified intention‐to‐treat population), counseling plus WPI (N = 66) resulted in improved PhA compared to nutritional counseling alone (N = 69): mean difference, 0.48° (95% CI, 0.05 to 0.90) (P = .027). WPI supplementation also resulted in improved SPA (P = .021), FFMI (P = .041), body weight (P = .023), muscle strength (P < .001), and in a reduced risk of CT toxicity (risk difference, −9.8% ; P = .009), particularly of severe (grade ≥ 3) events (risk difference, −30.4% ; P = .001). In malnourished advanced cancer patients undergoing CT, receiving nutritional counseling, a 3‐month supplementation with WPI resulted in improved body composition, muscle strength, body weight, and reduced CT toxicity. Further trials, aimed at verifying the efficacy of this nutritional intervention on mid‐ and long‐term primary clinical endpoints in newly diagnosed specific cancer types, are warranted.
+
+Effects of milk proteins supplementation in older adults undergoing resistance training: A meta-analysis of randomized control trials
+
+Number of 
+
+Key takeaways:Milk proteins supplementation may promote muscle anabolism in older adults undergoing resistance training, but mixed results have been observed in randomized control trials on body weight and composition outcomes.
+
+Abstract:Older adults experience age-related physiological changes that affect body weight and body composition. In general, nutrition and exercise have been identified as potent stimulators of protein synthesis in skeletal muscle. Milk proteins are excellent sources of all the essential amino acids and may represent an ideal protein source to promote muscle anabolism in older adults undergoing resistance training. However, several randomized control trials (RCTs) have yielded mixed results on the effects of milk proteins supplementation in combination with resistance training on body weight and composition.
+
+Regulation of metabolic health by essential dietary amino acids
+
+Number of 
+
+Key takeaways:Dietary protein and specific amino acids play a key role in regulating metabolic health and longevity, and restricting specific amino acids may be a potent therapy to treat or prevent metabolic syndrome and promote healthy aging.
+
+Effect of Soy Protein Supplementation on Muscle Adaptations, Metabolic and Antioxidant Status, Hormonal Response, and Exercise Performance of Active Individuals and Athletes: A Systematic Review of Randomised Controlled Trials
+
+Number of 
+
+Key takeaways:Soy protein supplementation may enhance lean mass, improve antioxidant status, and reduce oxidative stress in active individuals and athletes, but has inconsistent effects on testosterone and cortisol levels.
+
+Abstract:Abstract Background Protein supplements are important to maintain optimum health and physical performance, particularly in athletes and active individuals to repair and rebuild their skeletal muscles and connective tissues. Soy protein (SP) has gained popularity in recent years as an alternative to animal proteins. Objectives This systematic review evaluates the evidence from randomised controlled clinical trials of the effects of SP supplementation in active individuals and athletes in terms of muscle adaptations, metabolic and antioxidant status, hormonal response and exercise performance. It also explores the differences in SP supplementation effects in comparison to whey protein. Methods A systematic search was conducted in PubMed, Embase and Web of Science, as well as a manual search in Google Scholar and EBSCO, on 27 June 2023. Randomised controlled trials that evaluated the applications of SPs supplementation on sports and athletic-related outcomes that are linked with exercise performance, adaptations and biomarkers in athletes and physically active adolescents and young adults (14 to 39 years old) were included, otherwise, studies were excluded. The risk of bias was assessed according to Cochrane’s revised risk of bias tool. Results A total of 19 eligible original research articles were included that investigated the effect of SP supplementation on muscle adaptations ( n = 9), metabolic and antioxidant status ( n = 6), hormonal response ( n = 6) and exercise performance ( n = 6). Some studies investigated more than one effect. SP was found to provide identical increases in lean mass compared to whey in some studies. SP consumption promoted the reduction of exercise-induced metabolic/blood circulating biomarkers such as triglycerides, uric acid and lactate. Better antioxidant capacity against oxidative stress has been seen with respect to whey protein in long-term studies. Some studies reported testosterone and cortisol fluctuations related to SP; however, more research is required. All studies on SP and endurance performance suggested the potential beneficial effects of SP supplementation (10–53.3 g) on exercise performance by improving high-intensity and high-speed running performance, enhancing maximal cardiac output, delaying fatigue and improving isometric muscle strength, improving endurance in recreational cyclists, increasing running velocity and decreasing accumulated lactate levels; however, studies determining the efficacy of soy protein on VO 2 max provided conflicted results. Conclusion It is possible to recommend SP to athletes and active individuals in place of conventional protein supplements by assessing their dosage and effectiveness in relation to different types of training. SP may enhance lean mass compared with other protein sources, enhance the antioxidant status, and reduce oxidative stress. SP supplementation had an inconsistent effect on testosterone and cortisol levels. SP supplementation may be beneficial, especially after muscle damage, high-intensity/high-speed or repeated bouts of strenuous exercise.
+
+Pre-sleep Protein Supplementation Affects Energy Metabolism and Appetite in Sedentary Healthy Adults
+
+Number of 
+
+Key takeaways:Pre-sleep protein supplementation combined with resistance exercise can significantly increase sleep energy expenditure and fullness in the next morning, potentially improving sleep energy metabolism in sedentary adults.
+
+Abstract:Purpose To assess the acute effect of pre-sleep protein supplementation combined with resistance exercise on energy metabolism (including 24-h total energy expenditure (TEE), sleep energy expenditure (SEE), basal energy expenditure (BEE), glycolipid oxidation, and appetite of sedentary adults. Methods A total of thirty-one sedentary participants completed this randomized, double-blind, crossover study. Participants completed the following 24-h experimental conditions in random order in the Human Calorimeter chamber: (1) 40-g protein supplementation with dinner before a nighttime resistance exercise, and followed by pre-sleep placebo intake (PRO-PLA); (2) placebo intake with dinner before a nighttime resistance exercise, and followed by pre-sleep 40-g protein supplementation (PLA-PRO); and (3) placebo supplementation both with dinner and pre-sleep combined with a nighttime resistance exercise (PLA). Subjective appetite score before breakfast the next day was evaluated using the visual analog scale. Results The SEE values were significantly higher by a mean of 21.7 kcal and 33.3 kcal in PRO-PLA (318.3 ± 44.3 kcal) and PLA-PRO (329.9 ± 45.2 kcal), respectively, than in PLA (296.6 ± 46.6 kcal). In addition, the SEE values for PLA-PRO was also significantly higher by 11.6 kcal than that for PRO-PLA. Further, the fullness the next morning was significantly higher by 30.8% in PLA-PRO (43.9 ± 23.5 mm) than in PLA (33.5 ± 26.6 mm). These effects remained after adjustment for 24-h energy intake. Conclusion Pre-sleep protein supplementation combined with resistance exercise can significantly increase the SEE and fullness in the next morning, indicating a possible strategy to improve sleep energy metabolism in the sedentary population.
+
+Effects of high-quality protein supplementation on cardiovascular risk factors in individuals with metabolic diseases: A systematic review and meta-analysis of randomized controlled trials.
+
+Number of 
+
+Key takeaways:High-quality protein supplementation can reduce cardiovascular disease risk factors, particularly in hypertensive and overweight/obese individuals.
+
+The impact of dietary protein intake on longevity and metabolic health
+
+Number of 
+
+Key takeaways:A low-protein/high-carbohydrate diet, particularly low in red meat, may promote longevity and metabolic health, while excessive protein intake may promote age-related diseases.
+
+Protein supplementation during an energy-restricted diet induces visceral fat loss and gut microbiota amino acid metabolism activation: a randomized trial
+
+Number of 
+
+Key takeaways:Protein supplementation during an energy-restricted diet leads to greater visceral fat loss and activation of gut microbiota amino-acid metabolism compared to a normoproteic diet.
+
+Long-Term Effects of Dietary Protein and Branched-Chain Amino Acids on Metabolism and Inflammation in Mice
+
+Number of 
+
+Key takeaways:Dietary protein restriction and BCAA supplementation together improve metabolism and immune profile in mice during prolonged feeding, with BCAA supplementation potentially increasing body weight and lean mass.
+
+Abstract:Aging is the main factor involved in the onset of degenerative diseases. Dietary protein restriction has been shown to increase the lifespan of rodents and improve metabolic phenotype. Branched-chain amino acids (BCAA) can act as nutrient signals that increase the lifespan of mice after prolonged supplementation. It remains unclear whether the combination of protein restriction and BCAA supplementation improves metabolic and immunological profiles during aging. Here, we investigated how dietary protein levels and BCAA supplementation impact metabolism and immune profile during a 12-month intervention in adult male C57BL/6J mice. We found that protein restriction improved insulin tolerance and increased hepatic fibroblast growth factor 21 mRNA, circulating interleukin (IL)-5 concentration, and thermogenic uncoupling protein 1 in subcutaneous white fat. Surprisingly, BCAA supplementation conditionally increased body weight, lean mass, and fat mass, and deteriorated insulin intolerance during protein restriction, but not during protein sufficiency. BCAA also induced pro-inflammatory gene expression in visceral adipose tissue under both normal and low protein conditions. These results suggest that dietary protein levels and BCAA supplementation coordinate a complex regulation of metabolism and tissue inflammation during prolonged feeding.
+
+A Systematic Review of the Effects of Plant Compared with Animal Protein Sources on Features of Metabolic Syndrome.
+
+Number of 
+
+Key takeaways:Soy protein with isoflavones may prevent the onset of cardiovascular disease risk factors like hypercholesterolemia and hypertension, but further research is needed on glucose homeostasis and body composition.
+
+Abstract:Dietary protein may play an important role in the prevention of metabolic dysfunctions. However, the way in which the protein 
+
+The Impact of Protein Supplementation on Appetite and Energy Intake in Healthy Older Adults: A Systematic Review with Meta-Analysis.
+
+Number of 
+
+Key takeaways:Protein supplementation may effectively increase protein intakes in healthy older adults without compromising energy intake through appetite suppression.
+
+Abstract:Protein supplementation is an attractive strategy to prevent loss of muscle mass in older adults. However, it could be counterproductive due to adverse effects on appetite. This systematic review and meta-analysis aimed to determine the effects of protein supplementation on appetite and/or energy intake (EI) in healthy older adults. MEDLINE, The Cochrane Library, CINAHL, and Web of Science were searched up to June 2020. Acute and longitudinal studies in healthy adults ≥60 y of age that reported effects of protein supplementation (through supplements or whole foods) compared with control and/or preintervention (for longitudinal studies) on appetite ratings, appetite-related peptides, and/or EI were included. Random-effects model meta-analysis was performed on EI, with other outcomes qualitatively reviewed. Twenty-two studies (9 acute, 13 longitudinal) were included, involving 857 participants (331 males, 526 females). In acute studies (n = 8), appetite ratings were suppressed in 7 out of 24 protein arms. For acute studies reporting EI (n = 7, n = 22 protein arms), test meal EI was reduced following protein preload compared with control . However, when energy content of the supplement was accounted for, total EI was greater with protein compared with control (MD: 649 kJ; 95% CI: 438, 861 kJ; P < 0.00001). Longitudinal studies (n = 12 protein arms) showed a higher protein intake (MD: 0.29 g ⋅ kg-1 ⋅ d-1; 95% CI: 0.14, 0.45 g ⋅ kg-1 ⋅ d-1; P < 0.001) and no difference in daily EI between protein and control groups at the end of trials (MD: -54 kJ/d; 95% CI: -300, 193 kJ/d; P  = 0.67). While appetite ratings may be suppressed with acute protein supplementation, there is either a positive effect or no effect on total EI in acute and longitudinal studies, respectively. Therefore, protein supplementation may represent an effective solution to increase protein intakes in healthy older adults without compromising EI through appetite suppression. This trial was registered at PROSPERO as (CRD42019125771).
+
+Protein Supplementation May Dampen Positive Effects of Exercise on Glucose Homeostasis: A Pilot Weight Loss Intervention
+
+Number of 
+
+Key takeaways:Protein supplementation during weight loss may reduce the beneficial effects of exercise on glucose homeostasis in older adults with obesity.
+
+Abstract:Background: The role of protein in glucose homeostasis has demonstrated conflicting results. However, little research exists on its impact following weight loss. This study examined the impact of protein supplementation on glucose homeostasis in older adults >65 years with obesity seeking to lose weight. Methods: A 12-week, nonrandomized, parallel group intervention of protein (PG) and nonprotein (NPG) arms for 28 older rural adults (body mass index (BMI) ≥ 30 kg/m2) was conducted at a community aging center. Both groups received twice weekly physical therapist-led group strength training classes. The PG consumed a whey protein supplement three times per week, post-strength training. Primary outcomes included pre/post-fasting glucose, insulin, inflammatory markers, and homeostasis model assessment of insulin resistance (HOMA-IR). Results: Mean age and baseline BMI were 72.9 ± 4.4 years and 37.6 ± 6.9 kg/m2 in the PG and 73.0 ± 6.3 and 36.6 ± 5.5 kg/m2 in the NPG, respectively. Mean weight loss was −3.45 ± 2.86 kg in the PG and −5.79 ± 3.08 kg in the NPG (p < 0.001). There was a smaller decrease in pre- vs. post-fasting glucose levels (PG: −4 mg ± 13.9 vs. NPG: −12.2 ± 25.8 mg/dL; p = 0.10), insulin (−7.92 ± 28.08 vs. −46.7 ± 60.8 pmol/L; p = 0.01), and HOMA-IR (−0.18 ± 0.64 vs. −1.08 ± 1.50; p = 0.02) in the PG compared to the NPG. Conclusions: Protein supplementation during weight loss demonstrated a smaller decrease in insulin resistance compared to the NPG, suggesting protein may potentially mitigate beneficial effects of exercise on glucose homeostasis.
+
+Effects of dietary protein-load and alkaline supplementation on acid–base balance and glucose metabolism in healthy elderly
+
+Number of 
+
+Key takeaways:Alkaline supplementation improves acid-base balance and glucose metabolism in elderly individuals after a 4-week protein-rich diet, but does not significantly influence it on its own.
+
+Does protein supplementation impact appetite and energy intake in older adults? A systematic review
+
+Number of 
+
+Key takeaways:Protein supplementation may effectively address protein deficiencies in older adults without compromising daily energy intake, despite some appetite suppression.
+
+Abstract:Abstract Protein supplementation represents an attractive strategy to prevent skeletal muscle mass loss and function with aging. However, it could be counterproductive in older adults, due to adverse effects on appetite and energy intake (EI). Understanding the effects of protein supplementation on appetite and energy intake is therefore key when investigating the potential efficacy for use in improving health outcomes. This systematic review aimed to assess the literature investigating the effects of protein supplementation on energy intake, and/or appetite in healthy older adults. PubMed and The Cochrane Library, as well as MEDLINE, CINAHL, EBSCO, and Web of Science databases were searched up to 21 March 2019 for published studies and theses. The review was limited to randomized controlled trials and longitudinal studies in healthy adults over 60 years of age that reported effects of protein supplementation compared to control or pre-intervention on appetite and/or energy intake. The review was conducted according to PRISMA guidelines. Out of 5,429 articles screened, 90 full-texts were reviewed and twenty-six studies (11 acute, 15 longitudinal) included. Studies involved a total of 1439 participants (502 male, 881 females). Of the acute studies, 3 reported conditions in which appetite was suppressed, 5 studies reported no effect and one study reported a condition in which appetite ratings increased following a protein load versus control. Three studies reported conditions in which ad libitum test meal EI was suppressed following protein preload and 7 reported no difference. When examining total EI (accounting for protein supplement and test meal), 2 studies reported no difference and 8 reported conditions where total EI was increased with protein supplement compared to control. Longitudinal studies ranged from 2–26 weeks duration. Two studies reported effects on appetite, one showing hunger to be suppressed on higher (1.0g/kg/d) compared to lower protein diet, and another showing hunger in response to whey consumption increased, but fullness also increased.14 studies reported effects on EI, most commonly assessed by food diary, and all showed no effect of increased protein intake compared to control on daily EI. The systematic review indicates that while appetite may be suppressed under some conditions, the current literature supports protein supplementation in older adults, as it either has a positive effect or no effect on total EI in both short and longer-term studies. Therefore, protein supplementation may represent an effective solution to address protein deficiencies in older adults without compromising daily EI.
+
+Branched‐chain amino acids differently modulate catabolic and anabolic states in mammals: a pharmacological point of view
+
+Number of 
+
+Key takeaways:BCAA supplementation can have beneficial effects on weight regulation, muscle protein synthesis, glucose homeostasis, and ageing, but their effects may vary depending on the organism's catabolic and anabolic states.
+
+Abstract:Substantial evidence has been accumulated suggesting that branched‐chain amino acid (BCAA) supplementation or BCAA‐rich diets have a positive effect on the regulation of body weight, muscle protein synthesis, glucose homeostasis, the ageing process and extend healthspan. Despite these beneficial effects, epidemiological studies have shown that BCAA plasma concentrations and BCAA metabolism are altered in several metabolic disorders, including type 2 diabetes mellitus and cardiovascular diseases. In this review article, we present an overview of the current literature on the different effects of BCAAs in health and disease. We also highlight the results showing the most promising therapeutic effects of dietary BCAA supplementation and discuss how BCAAs can trigger different and even opposite effects, depending on the catabolic and anabolic states of the organisms. Moreover, we consider the effects of BCAAs when metabolism is abnormal, in the presence of a mixture of different anabolic and catabolic signals. These unique pharmacodynamic properties may partially explain some of the markedly different effects found in BCAA supplementation studies. To predict accurately these effects, the overall catabolic/anabolic status of patients should be carefully considered. In wider terms, a correct modulation of metabolic disorders would make nutraceutical interventions with BCAAs more effective.
+
+Protein Restriction in Metabolic Health: Lessons from Rodent Models
+
+Number of 
+
+Key takeaways:Protein-restricted diets can lead to body weight loss and improved metabolic health, particularly in overweight or obese adults, through the FGF21 signaling pathway.
+
+Abstract:Consumption of protein-rich diets and supplements has been increasingly advocated by individuals seeking to optimize metabolic health and mitigate the effects of aging. Protein intake is postulated to support muscle mass retention and enhance longevity, underscoring its perceived benefits in age-related metabolic regulation. However, emerging evidence presents a paradox; while moderate protein consumption contributes to health maintenance, an excessive intake is associated with an elevated risk of chronic diseases, notably obesity and diabetes. Furthermore, recent studies suggest that reducing the ratio of protein intake to macronutrients improves metabolic parameters and extends lifespan. The aim of this study is to review the current evidence concerning the metabolic effects of protein-restricted diets and their potential mechanisms. Utilizing rodent models, investigations have revealed that protein-restricted diets exert a notable influence over food intake and energy consumption, ultimately leading to body weight loss, depending on the degree of dietary protein restriction. These phenotypic alterations are primarily mediated by the FGF21 signaling pathway, whose activation is likely regulated by ATF4 and the circadian clock. The evidence suggests that protein-restricted diets as an alternative approach to calorie-restricted regimes, particularly in overweight or obese adults. However, more research is needed to determine the optimal level of restriction, duration, and long-term effects of such interventions.
+
+The role of BCAA metabolism in metabolic health and disease
+
+Number of 
+
+Key takeaways:Dietary restriction can improve metabolic health and extend lifespan, but branched-chain amino acids (BCAAs) may contribute to the deteriorating effects of a protein diet on aging and related disorders.
+
+Effect of source and frequency of rumen-protected protein supplementation on mammary gland amino acid metabolism and nitrogen balance of dairy cattle.
+
+Number of 
+
+Key takeaways:Rumen-protected protein supplementation with His, Lys, and Met improves mammary gland metabolism and N efficiency in dairy cattle, while a 24-hour oscillating pattern does not increase N efficiency over static supplementation.
+
+Abstract:The AA profile of MP affects mammary gland metabolism and milk N efficiency of dairy cattle. Further, the frequency of dietary protein supplementation may influence N partitioning leading to reduced N excretion. This study investigated the effect of 
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

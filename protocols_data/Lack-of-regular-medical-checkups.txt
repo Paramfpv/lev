@@ -1,0 +1,612 @@
+PROTOCOL: Lack of regular medical checkups
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Lack of regular medical check-ups increases the risk of late disease detection, leading to poorer treatment outcomes, especially in cases of heart disease, cancer, and metabolic syndrome. Regular preventive check-ups are crucial for early detection of diseases, which enables more effective treatment and reduces the risk of serious complications.
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Lack of regular medical check-ups increases the risk of late disease detection, leading to poorer treatment outcomes, especially in cases of heart disease, cancer, and metabolic syndrome. Regular preventive check-ups are crucial for early detection of diseases, which enables more effective treatment and reduces the risk of serious complications.
+
+CONTENT SECTIONS:
+
+Lack of regular medical checkups
+
+Lack of regular medical check-ups can lead to late detection of diseases and worse prognosis
+
+Lack of regular medical check-ups increases the risk of late disease detection, leading to poorer treatment outcomes, especially in cases of heart disease, cancer, and metabolic syndrome. Regular preventive check-ups are crucial for early detection of diseases, which enables more effective treatment and reduces the risk of serious complications.
+
+Level of evidence:Good
+
+Not having regular check-ups prevents early detection of pathological changes, resulting in later and often less effective treatment. Early diagnosis enables rapid implementation of appropriate therapies and prevention, which can significantly improve patient prognosis and reduce the risk of complications. Regular examinations, such as mammography, cytology, or ultrasound, allow for the detection of cancerous changes before they become advanced, increasing the chances of a complete cure.
+
+Lack of regular medical check-ups leads to late detection of many diseases, which significantly increases the risk of serious complications, such as advanced-stage cancer, heart disease, or metabolic syndrome. Such delays in diagnosis have serious health consequences.
+
+Lack of regular medical check-ups affects a large portion of the population, which has serious health consequences. Globally, millions of people do not make use of available preventive screenings, leading to an increase in cases of diseases detected at advanced stages.
+
+Set a regular check-up schedule
+
+Plan annual medical check-ups and stick to the set schedule. Regularity is the key to early detection of potential health problems.
+
+Increase health awareness
+
+Education about the benefits of preventive check-ups and their role in disease prevention can help persuade loved ones to undergo such examinations.
+
+Use primary care services
+
+Regular visits to your primary care physician can be an easier way to maintain continuity of check-ups, especially if you have access to public healthcare.
+
+Mobile apps can help maintain regularity in check-ups by reminding you of appointment dates and monitoring your daily health.
+
+Maintain a healthy lifestyle
+
+Regular check-ups should go hand-in-hand with a healthy lifestyle – proper diet, physical activity, and stress management, to support the effectiveness of prevention.
+
+Lack of regular preventive screenings significantly increases the risk of detecting cancer at an advanced stage, resulting in poorer treatment outcomes and lower survival rates. Regular screenings are key in cancer prevention, especially breast and ovarian cancer, enabling their early detection.
+
+Lack of regular screenings and cancer detection
+
+Barriers to accessing preventive screenings
+
+Importance of support and health education
+
+Consequences of lack of regular preventive screenings
+
+Cardiovascular system
+
+Lack of regular medical check-ups can negatively affect the cardiovascular system, mainly through delayed detection of risk factors and diseases, which increases the risk of serious complications such as stroke or death. Regular check-ups help in early identification and control of cardiovascular risk factors, which translates into better health and a lower risk of serious incidents.
+
+Lack of check-ups and detection of risk factors
+
+Later detection of heart diseases
+
+Benefits of regular cardiovascular check-ups
+
+Limitations and recommendations
+
+Lack of regular medical check-ups may indirectly negatively affect metabolism, mainly due to an increased risk of undiagnosed and untreated metabolic syndrome and unhealthy habits. People who undergo regular check-ups are less likely to have metabolic disorders, especially if this is accompanied by a healthy lifestyle.
+
+Relationship between regular check-ups and metabolism
+
+Frequency of check-ups and risk of metabolic disorders
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:59
+
+Final comment:Lack of regular medical check-ups has a strong impact on health, as it results in late detection of diseases, making effective treatment more difficult. Although the absence of such check-ups does not immediately lead to serious health problems, in the long run it significantly increases the risk of diagnosing diseases at advanced stages. As a result, the effectiveness of therapy decreases, and mortality and the risk of complications rise, especially in cases of heart disease, cancer, and metabolic syndromes. There is widespread support for the thesis that regular preventive check-ups are key to preventing the development of many serious diseases. Evidence shows that people who undergo regular examinations have a lower risk of developing advanced stages of diseases and better control over risk factors such as hypertension, cholesterol levels, or diabetes.
+
+Abstaining from annual health check-ups is a predictor of advanced cancer diagnosis: a retrospective cohort study
+
+Number of 
+
+Key takeaways:Not undergoing annual health check-ups is a predictor of cancer diagnosis and advanced cancer stage, highlighting the need for improved primary prevention strategies.
+
+Abstract:Background Cancer prevention is a crucial challenge in preventive medicine. Several studies have suggested that voluntary health check-ups and recommendations from health professionals are associated with increased participation in cancer screening. In Japan, it is recommended that individuals aged 40–74 years should undergo annual health check-ups; however, the compliance to this recommendation is approximately <50%. According to the national survey, individuals who do not undergo annual health check-ups are at a higher risk for cancer. However, to the best of our knowledge, no previous study has investigated the association between the use of health check-ups and the incidence rate of cancer. We hypothesised that not undergoing periodic health check-ups and/or less use of outpatient medical services are predictors for advanced cancer. Methods To explore the relationship between health check-up or outpatient service utilisation and cancer incidence, this retrospective cohort study used data at two time points—baseline in 2014 and endpoint in 2017—from the National Health Insurance (NHI) claims and cancer registry. A multivariable logistic regression analysis was performed to investigate whether cancer diagnosis was associated with health check-up or outpatient service utilisation. Results A total of 72,171 participants were included in the analysis. The results of the multivariable logistic regression showed that individuals who skipped health check-ups had a higher risk of cancer diagnosis (odds ratio , 1.21; 95% confidence interval , 1.04–1.40). Moreover, not undergoing health check-ups increased the risk of advanced-stage cancer (OR, 1.78; 95% CI, 1.29–2.44). Furthermore, increased rate of outpatient service utilisation was negatively associated with advanced cancer diagnosis. Conclusions This is the first study reporting that not undergoing health check-ups is a predictor of cancer diagnosis and advanced cancer stage. Primary prevention strategies for NHI members who do not undergo health check-ups must be reassessed. Moreover, future research should examine secondary prevention strategies, such as health education and recommendations from health professionals to facilitate adequate utilisation of preventive health services. Supplementary information The online version contains supplementary material available at 
+
+Factors Affecting Women’s Approach to Gynecologic Examination for Cancer Prevention
+
+Number of 
+
+Key takeaways:Women's regular gynecologic examinations are influenced by healthcare professionals' caring attitude, respect for privacy, and lack of negative attitudes.
+
+Abstract:Introduction: Gynecologic examination makes early diagnosis and follow-up possible in the event of gynecologic cancer. Healthcare professionals (midwi ves, nurses and doctors) have the critical responsi bility of ensuring that women are psychologically prepared fo r examinations and get examined regularly. Aim of the Study: The aim of this study is to determine the factors affecting women’s appro ach to gynecologic examination for cancer prevention. Methodology: The study was performed with 635 women consenting to participate from among the patients admitted to the Family Health Center No. 1 in the K iraz county of Izmir province, Turkey. The subjects were given a questionnaire of 46 questions on their soci o-demographic characteristics, gynecologic complain ts, and reasons for having or not having gynecologic examin tio . Results: According to study results, the mean age of the wom en was 34.91±11.00 and 72.3% of them were married. It was found that 64.1% of them did not undergo regular gynecologic e xaminations and 35.9% did. By their own admission, 37.5% of these women sought gy necologic examination when their problems became unbearable, 35.9% underwent regular examination and 26.6% did this only when they had a complaint. A statistically significant (p<0.001) correlation was found between the regular gynecologic examination status of women and the caring attitude, respect for privacy and lack of negative attitudes by the healthcare pe sonnel. Conclusion: It is important to know about the thoughts and expe riences of women on gynecologic examination, as well as the factors affecting their habit of und ergoing this on a regular basis so that healthcare professionals can provide information and raise awareness about e arly diagnosis and screening and ensure that they p rovide enough care to women, respect their privacy, and re frain from negative attitudes.
+
+The importance of cancers prophylaxis among women
+
+Number of 
+
+Key takeaways:Regular examinations for breast and cervical cancers may contribute to a decrease in deaths, but large financial expenditures on preventive programs do not guarantee increased detection or decreased death rates.
+
+Abstract:Abstract Introduction. Late detected breast and cervical cancer are two of the most dangerous cancers due to the therapeutic possibilities and high mortality rate of women. Conducted scientific research, prevention programs and social campaigns do not contribute to changes in the attitudes of Polish women who, do not report for examinations and thus, preclude the possibility of early diagnosis. Aim. The aim of the study is to analyze epidemiological data on the occurrence of cancer in women in Poland and to draw attention to the importance of prevention in this area. Material and methods. For epidemiological analyzes, data from the National Cancer Registry, the Central Statistical Office and the Supreme Medical Chamber from the years 2014-2018 were prepared using descriptive methods. Discussion. Every year the number of cancer deaths increases (SAO, 2018). Prevention, despite financing from the state budget, did not bring the intended goal. More than half of the surveyed men claimed that women after mastectomy lose their attractiveness and those men would not start a new relationship with such women. Despite the fact that permanent, long-term partners accept the appearance of their partner after mastectomy, women are ashamed of their sexuality, what has its consequence in problems in the relationship or even the end of this relationship. Conclusions. 1) Insufficient number of specialists in the field of oncology results in the fact that not every patient has a chance to be early diagnosed and to early start the treatment. 2) Regular examinations may contribute to a decrease in deaths caused by two most dangerous female cancers. 3) Diagnosis of breast cancer, cervical cancer and its effects have a negative impact on the psyche of women, especially on the perception of their femininity. In relationships in which there was a strong emotional bond before the woman’s disease, an improvement in sexual life was noted. Important factors affecting such relationship are: self-acceptance of a woman and her sense of attractiveness. 4) Large financial expenditures on preventive programs do not guarantee an increase in the detection of tumors nor a decrease in the number of deaths.
+
+Cancer prevention and screening: the next step in the era of precision medicine
+
+Number of 
+
+Key takeaways:Precision cancer prevention integration, incorporating genomic and environmental factors, can improve cancer screening and prevention strategies, reducing overdiagnosis and overtreatment.
+
+Screening for prevention and early diagnosis of cancer.
+
+Number of 
+
+Key takeaways:Cancer screening options include cervical, colorectal, and breast screening, with behavioral research aimed at reducing underscreening and minimizing inequalities.
+
+Abstract:The poor outcomes for cancers diagnosed at an advanced stage have been the driver behind research into techniques to detect disease before symptoms are manifest. For cervical and colorectal cancer, detection and treatment of 'precancers' can prevent the development of cancer, a form of primary prevention. For other cancers-breast, prostate, lung, and ovarian-screening is a form of secondary prevention, aiming to improve outcomes through earlier diagnosis. International and national expert organizations regularly assess the balance of benefits and harms of screening technologies, issuing clinical guidelines for population-wide implementation. Psychological research has made important contributions to this process, assessing the psychological costs and benefits of possible screening outcomes (e.g., the impact of false positive results) and public tolerance of overdiagnosis. Cervical, colorectal, and breast screening are currently recommended, and prostate, lung, and ovarian screening are under active review. Once technologies and guidelines are in place, delivery of screening is implemented according to the health care system of the country, with invitation systems and provider recommendations playing a key role. Behavioral scientists can then investigate how individuals make screening decisions, assessing the impact of knowledge, perceived cancer risk, worry, and normative beliefs about screening, and this information can be used to develop strategies to promote screening uptake. This article describes current cancer screening options, discusses behavioral research designed to reduce underscreening and minimize inequalities, and considers the issues that are being raised by informed decision making and the development of risk-stratified approaches to screening.
+
+Breast Cancer in Asia: Incidence, Mortality, Early Detection, Mammography Programs, and Risk-Based Screening Initiatives
+
+Number of 
+
+Key takeaways:Early detection of breast cancer is crucial for survival, but resources and screening guidelines need improvement in low-income and high-income Asian countries.
+
+Abstract:Simple Summary Nearly all breast cancer patients survive for more than five years when the tumor is found early and in the localized stage. Regular clinical breast examinations, mammograms, and monthly self-exams of the breasts all contribute to early detection. However, late-stage breast cancers are common in many Asian countries. Low-income countries suffer from a lack of resources for breast cancer screening. High-income countries, on the other hand, are not benefiting fully from national breast screening programs due to an underutilization of the preventive healthcare services available. Existing reviews on Asian breast cancers are heavily focused on risk factors. The question of whether we should adopt or adapt the knowledge generated from non-Asian breast cancers would benefit from an extension into screening guidelines. In addition, several Asian countries are piloting studies that move away from the age-based screening paradigm. Abstract Close to half (45.4%) of the 2.3 million breast cancers (BC) diagnosed in 2020 were from Asia. While the burden of breast cancer has been examined at the level of broad geographic regions, literature on more in-depth coverage of the individual countries and subregions of the Asian continent is lacking. This narrative review examines the breast cancer burden in 47 Asian countries. Breast cancer screening guidelines and risk-based screening initiatives are discussed.
+
+Epidemiology, Screening, and Prevention of Bladder Cancer.
+
+Number of 
+
+Key takeaways:Targeted screening for high-risk individuals may reduce bladder cancer mortality, while smoking cessation is the most important prevention strategy.
+
+Early performance measures following regular versus irregular screening attendance in the population-based screening program for breast cancer in Norway
+
+Number of 
+
+Key takeaways:Irregular breast cancer screening attendance is linked to higher recall, needle biopsies, and cancer detection rates, with cancers detected after irregular examinations having less favorable tumor characteristics.
+
+Abstract:Objective Irregular attendance in breast cancer screening has been associated with higher breast cancer mortality compared to regular attendance. Early performance measures of a screening program following regular versus irregular screening attendance have been less studied. We aimed to investigate early performance measures following regular versus irregular screening attendance. Methods We used information from 3,302,396 screening examinations from the Cancer Registry of Norway. Examinations were classified as regular or irregular. Regular was defined as an examination 2 years ± 6 months after the prior examination, and irregular examination >2 years and 6 months after prior examination. Performance measures included recall, biopsy, screen-detected and interval cancer, positive predictive values, and histopathological tumor characteristics. Results Recall rate was 2.4% (72,429/3,070,068) for regular and 3.5% (8217/232,328) for irregular examinations. The biopsy rate was 1.0% (29,197/3,070,068) for regular and 1.7% (3825/232,328) for irregular examinations, while the rate of screen-detected cancers 0.51% (15,664/3,070,068) versus 0.86% (2003/232,328), respectively. The adjusted odds ratio was 1.53 (95% CI: 1.49–1.56) for recall, 1.73 (95% CI: 1.68–1.80) for biopsy, and 1.68 (95% CI: 1.60–1.76) for screen-detected cancer after irregular examinations compared to regular examinations. The proportion of lymph node-positive tumors was 20.1% (2553/12,719) for regular and 25.6% (426/1662) for irregular examinations. Conclusion Irregular attendance was linked to higher rates of recall, needle biopsies, and cancer detection. Cancers detected after irregular examinations had less favorable histopathological tumor characteristics compared to cancers detected after regular examinations. Women should be encouraged to attend screening when invited to avoid delays in diagnosis.
+
+Regularly scheduled physical examinations and the detection of breast cancer recurrences
+
+Number of 
+
+Key takeaways:Routinely scheduled follow-up appointments for early breast cancer patients rarely detect recurrences, with a need for approximately 35, 000 follow-up visits to detect two recurrences.
+
+Breast self-examination and death from breast cancer: a meta-analysis
+
+Number of 
+
+Key takeaways:Regular breast self-examination is not an effective method to reduce breast cancer mortality, but may increase women seeking medical advice and having biopsies.
+
+Effectiveness of Clinical Examination in Cancer Surveillance: New Paradigm to Cancer Survivorship Beyond the COVID-19 Pandemic
+
+Number of 
+
+Key takeaways:Routine clinical examinations may not be effective in detecting cancer recurrence, and future cancer surveillance strategies should consider integration with shared care and primary care.
+
+Evaluation of prevention behaviour and its influencing factors with respect to cancer screening
+
+Number of 
+
+Key takeaways:Women, older age, and non-smoking status are associated with higher cancer screening participation, while socioeconomic factors and change stages influence barriers and require gender-specific mobilization strategies.
+
+Abstract:Every year, about 4.6 million people are diagnosed with cancer in Europe. However, based on preclinical changes and using appropriate examination procedures certain cancers can be detected in symptom-free patients at an early stage and treatment initiated. In Germany, various cancer screening examinations are currently offered to the relevant age groups and sexes free of charge. Participation rates are affected by a number of factors and barriers. The study aimed at identifying potential obstacles and barriers to uptake, taking into account demographic and socio-economic variables.Data collection was conducted in the context of routine examination appointments at the City of Kiel Occupational Health Department from September 2013 to September 2014 using an anonymised questionnaire. In addition to recording socio-demographic data and tobacco consumption, the questionnaire also catalogued participation in statutory health insurance cancer screening examinations using the 'stages of change' from the Transtheoretical Model. Eight potential barriers to participation were recorded.The results are based on 718 completed questionnaires. It was found that women, older age, and non-smoking status were associated with a higher probability of participating in cancer screening. It was also found that various barriers affecting (regular) participation were perceived significantly different according to the individual stages of change. This influence of the stages was moderated by gender.The results showed interesting trends in the different barriers and how they are influenced by socioeconomic factors and the stages of change. Especially the stages require different gender-specific approaches to mobilisation for cancer screening.
+
+The importance of the regularity of preventive examinations in the early diagnosis of ovarian cancer
+
+Number of 
+
+Key takeaways:Regular preventive gynecological examinations with mandatory ultrasound verification are crucial for early diagnosis of ovarian cancer, as early symptoms often go unnoticed.
+
+Abstract:Objective. To show the importance of regularity of preventive examinations in early diagnostics of ovarian cancer. Malignant ovarian tumors occupy the third place in the frequency of occurrence among the gynecological tumors after cancer of the uterine body and cervix but they leave them behind with regard to the mortality rate. Detection of the disease at late stages leads to only 17 % five-year survival rate in Europe and Russia. 
+Materials and methods. A prospective study was conducted on the basis of the Gynecological Unit of Perm Regional Oncological Dispensary. It enclosed 50 patients aged 45 to 77 years, operated for ovarian cancer with various stages of the disease. The following methods were used: collection of complaints and anamnesis, study of outpatient cards and medical histories, assessment of morphological conclusions. 
+Results. According to the anamnesis, all patients represented a risk group for ovarian cancer. The annual gynecological preventive examination was carried out in 40 % of patients, ultrasound examination of the pelvic organs was performed in 28 % of cases. The smallest group,10 % of patients, was a group of patients with stage I of the disease and asymptomatic course of pathology, who underwent preventive examinations and ultrasound in 100 % of cases. The largest number of patients had stage III 40 %, annual preventive examinations were carried out in 20 % of women of this group without ultrasound examination of the pelvic organs. In 64 % of cases, a late examination by a doctor was detected a year or more after the symptoms of the disease occurred. Patients with stages III and IV of the disease were postmenopausal, were unemployed and lived in rural areas. 
+Conclusions. The absence of symptoms at an early stage of ovarian cancer and late onset of treatment with the complaints available actualizes the need for annual preventive gynecological examinations with mandatory ultrasound verification of the diagnosis to identify the disease in time.
+
+Use of Preventive Health Services Among Cancer Survivors in the U.S.
+
+Number of 
+
+Key takeaways:Cancer survivors in the U.S. have more frequent screening for most preventive services compared to non-cancer survivors, except for diabetes screening.
+
+Who should be screened for colorectal cancer and how can it be prevented more effectively?
+
+Number of 
+
+Key takeaways:Regular colorectal cancer screenings are crucial, but a greater focus on primary prevention is needed to effectively reduce the disease burden and improve outcomes.
+
+Abstract:In this editorial, we comment on the article 
+
+Factors Affecting Attitudes Towards Cancer, Cancer Prevention, and Early Diagnosis Behaviors Among Cancer Patient Relatives
+
+Number of 
+
+Key takeaways:Cancer patient relatives' negative attitudes towards cancer are influenced by factors such as age, low education, and relation to the patient, highlighting the need for education on cancer prevention and early diagnosis.
+
+Abstract:Attitudes towards cancer may affect the cancer prevention behaviors of cancer patients’ relatives and their participation in cancer screening. Knowing the factors affecting attitudes will shed light on the education programs to be planned to encourage individuals to gain a positive attitude towards cancer and positive health behaviors in cancer prevention. Determining the behaviors towards cancer prevention and cancer screening, identifying reasons that prevent participation in cancer screening, determining the factors associated with the attitudes of cancer patients’ relatives towards cancer, determining the factors affecting their attitudes towards cancer of cancer patients’ relatives, can increase the awareness of healthcare professionals and patient relatives on the subject. The aim of the present study was to determine cancer prevention and early diagnosis behavior and the factors affecting the attitudes of towards cancer of cancer patient relatives. The descriptive and analytical study was completed with 321 relatives of cancer patients. The data were collected by the face-to-face interview method. The interview was conducted in a quiet place, alone with the participant, using a clear and simple language, allowing people to speak freely, and avoiding criticism and evaluation. About half of the participants smoked : 1.744). Even for those having positive health behaviors, such as not smoking (Exp(β): 2.008) and using sun protection (Exp(β): 2.280), the attitudes towards cancer were negative for the Impossible to Recover sub-dimension. Cancer prevention behaviors and regular participation in cancer screening of cancer patients’ relatives were very low. It was determined that low education level, increasing age of the patient, and the degree of relation to the patient negatively affected attitudes towards cancer, and that there was a need for education. We believe that the results of the present study will contribute to evidence-based practice for cancer prevention and early diagnosis.
+
+Short-term impact of cancer prevention and screening activities on quality of life.
+
+Number of 
+
+Key takeaways:Short-term effects of cancer prevention and screening activities are generally transient, and clinicians should be aware of potential for short-term adverse effects and link these experiences to long-term health status and service use.
+
+Abstract:PURPOSE
+There are few data on the short-term effects of participating in cancer prevention activities, undergoing genetic risk assessment, or having routine screening. The objective of this article is to systematically review existing research on short-term effects of prevention, genetic counseling and testing, and screening activities on quality of life.
+
+METHODS
+We conducted a MEDLINE search for original research studies that were published between January 1, 1985, and December 31, 2002, and conducted in North America or Western Europe. Data were abstracted and summarized using a standardized format.
+
+RESULTS
+We reviewed 210 publications. Most studies focused on psychological states (anxiety, depression), symptoms, or general health status. One hundred thirty-one studies used 51 previously validated noncancer instruments. Many researchers (12.6%) also added cancer-specific measures, such as perceived cancer risk or symptom indices. Only one study measured satisfaction or quality of provider-client communication. While one report examined lost workdays, no other economic consequences of short-term outcomes were evaluated. Among seven studies that assessed short-term outcomes preferences, only four specifically used time trade-off or linear rating scale methods. No study used standard gamble or willingness-to-pay methods. The overwhelming majority of research indicated that short-term effects were transient. Only two studies linked short-term effects to long-term cancer-related health behaviors such as repeat screening.
+
+CONCLUSION
+There is considerable heterogeneity in short-term outcome measurement. Clinicians need to be aware of potential for short-term, transient adverse effects. The impact of short-term experiences should to be linked to long-term health status and use of services.
+
+The durability of previous examinations for cancer: Danish nationwide cohort study
+
+Number of 
+
+Key takeaways:Negative cancer examination results are common, but there is no safe period after which a negative result alone can safely rule out the presence of cancer.
+
+Abstract:Abstract Objective Patients previously examined for cancer with a negative result may present in general practice with ongoing or new symptoms or signs suggestive of cancer. This paper explores the potential existence of a relatively safe period for cancer occurrence after receiving negative examination results for specific types of cancer, including lung (CT thorax), upper gastrointestinal (gastroscopy), colorectal (colonoscopy), bladder (cystoscopy), and breast (clinical mammography). Design Register-based time-to-event analyses. Setting Denmark. Subjects All 3.3 million citizens aged 30–85 years who on January first, 2017, had not previously been diagnosed with the specific type of cancer were categorized based on the time since their most recent examination. Main outcome measures Using 1-year follow-up, we calculated the age- and sex-adjusted hazard ratios of being diagnosed with the related cancer, with non-examined individuals as reference. Negative examination results were defined as the absence of a cancer diagnosis within 6 months following the examination. Results Previous negative examination results were common, also among those diagnosed with cancer during follow-up. For 10 years after a negative colonoscopy the risk of diagnosing a colorectal cancer was nearly halved. However, already 1 year after a clinical mammography and 2 years after a CT thorax the risk of diagnosing the related cancers was significantly higher among those with a previous negative result compared to non-examined individuals. Conclusion This study did not identify a post-examination period in which the cancer risk, compared to non-examined individuals, was sufficiently low to confidently rule out any of the investigated cancers. KEY POINTS What should one expect when considering re-examining a patient with a negative result of a previous examination for cancer? We found that previous negative examination results are common in the general population and among those subsequently diagnosed with cancer. We did not find a safe period after any of the examinations in which a negative result alone could safely rule out the presence of cancer.
+
+Influence of variables on breast self-examination: Potential barrier or enhancement of breast cancer prevention
+
+Number of 
+
+Key takeaways:Factors influencing the implementation of breast self-examination can either hinder or enhance breast cancer prevention, with awareness and education being crucial for rural women.
+
+Abstract:INTRODUCTION: Breast self-examination (BSE) is an important tool for early detection of breast cancer and can contribute to increased awareness and familiarity with breast tissue. This study aimed to review factors that influenced BSE in preventing breast cancer. METHODS: In the initial stage of searching for 
+
+Women’s health behaviours regarding early detection of breast cancer
+
+Number of 
+
+Key takeaways:Regular breast self-examination, medical examinations, and participation in preventive programs are crucial for early detection and improved prognosis in women with breast cancer.
+
+Abstract:Introduction and Objective. Breast cancer is the most common malignant tumour among women in highly developed countries, including Poland, and ranks first in terms of the incidence of malignant tumours in women. In the early stages of development, breast cancer may be completely asymptomatic, but in the advanced stage of the disease it causes numerous symptoms that impair functioning in every sphere of life. Integrated methods of oncological surgery, radiotherapy, chemotherapy and hormone therapy are used to treat breast cancer. Pro-health behaviours involving the elimination or modification of risk factors are promoted among women, as well as activities enabling early identification of disturbing symptoms related to cancer, such as breast self-examination or participation in a breast cancer prevention programme. Breast cancer diagnosed early has a high cure rate. The aim of this study is to review the literature on the impact of desired behaviours and activities in the field of breast cancer prevention. Brief description of the state of knowledge. Women's knowledge about early diagnosis and risk factors of breast cancer is expanding. New drugs and therapy options have a positive impact on improving the prognosis, but the most important thing is to detect cancer at an early stage. Ma-intaining the so-called oncological vigilance expressed in knowledge of potential symptoms of breast cancer and the use of preventive and screening tests. Summary. Breast cancer prevention should include educating women of all ages about the need for regular breast self-exa-mination, medical examinations and, above all, participation in preventive programmes. Knowledge about early cancer detection methods, risk factors and prevention methods is vital in the fight against breast cancer in women.
+
+The Face Is the Mirror of the Soul. The Cardiovascular Physical Exam Is Not Yet Dead!
+
+Number of 
+
+Key takeaways:The head and neck visual examination can reveal subtle cardiovascular findings before beginning a physical exam, highlighting the importance of maintaining competency in this crucial skill.
+
+Risk of Cardiovascular Events and Death—Does Insurance Matter?
+
+Number of 
+
+Key takeaways:Lack of health insurance is associated with increased rates of stroke and death, as well as less awareness and control of cardiovascular risk conditions.
+
+Abstract:BACKGROUNDMany Americans lack health insurance. Despite good evidence that lack of insurance compromises access to care, few prospective studies examine its relationship to health outcomes.OBJECTIVETo determine the relationship between insurance and cardiovascular outcomes and the relationship between insurance and selected process measures.DESIGN AND PARTICIPANTSWe used data from 15,792 participants in the Atherosclerosis Risk in Communities Study, a prospective cohort study. Participants were enrolled in 1987–1989 and returned for follow-up visits every 3 years, for a total of 4 visits.MAIN OUTCOME MEASURESWe estimated the hazard of myocardial infarction, stroke, and death associated with insurance status using Cox proportional hazard modeling. We used generalized estimating equations to examine the association between insurance status and risk of (1) reporting no routine physical examinations, (2) being unaware of a personal cardiovascular risk condition, and (3) inadequate control of cardiovascular risk conditions.RESULTSPersons without insurance had higher rates of stroke (adjusted hazard ratio, 95% CI 1.22–2.22) and death (adjusted hazard ratio 1.26, 95% CI 1.03–1.53), but not myocardial infarction, than those who were insured. The uninsured were less likely to report routine physical examinations (adjusted risk ratio 1.13, 95% CI 1.08–1.18); more likely to be unaware of hypertension (adjusted risk ratio 1.12, 95% CI 1.00–1.25) and hyperlipidemia (adjusted risk ratio 1.11, 95% CI 1.03–1.19); and more likely to have poor blood pressure control (adjusted risk ratio 1.23, 95% CI 1.08–1.39).CONCLUSIONSLack of health insurance is associated with increased rates of stroke and death and with less awareness and control of cardiovascular risk conditions. Health insurance may improve cardiovascular risk factor awareness, control and outcomes.
+
+Outpatient Physical Therapist Attitudes Toward and Behaviors in Cardiovascular Disease Screening: A National Survey
+
+Number of 
+
+Key takeaways:Few physical therapists consistently include blood pressure and heart rate screening on initial examinations, with perceived importance and clinic policy being key facilitators for increasing screening rates.
+
+Abstract:Abstract Background Screening the cardiovascular system is an important and necessary component of the physical therapist examination to ensure patient safety, appropriate referral, and timely medical management of cardiovascular disease (CVD) and risk factors. The most basic screening includes a measurement of resting blood pressure (BP) and heart rate (HR). Previous work demonstrated that rates of BP and HR screening and perceptions toward screening by physical therapists are inadequate. Objective The purpose was to assess the current attitudes and behaviors of physical therapists in the United States regarding the screening of patients for CVD or risk factors in outpatient orthopedic practice. Design This was a cross-sectional, online survey study. Methods Data were collected from an anonymous adaptive online survey delivered via an email list. Results A total of 1812 surveys were included in this analysis. A majority of respondents (n = 931; 51.38%) reported that at least half of their current caseload included patients either with diagnosed CVD or at moderate or greater risk of a future occurrence. A total of 14.8% of respondents measured BP and HR on the initial examination for each new patient. The most commonly self-reported barriers to screening were lack of time (37.44%) and lack of perceived importance (35.62%). The most commonly self-reported facilitators of routine screening were perceived importance (79.48%) and clinic policy (38.43%). Clinicians who managed caseloads with the highest CVD risk were the most likely to screen. Limitations Although the sampling population included was large and representative of the profession, only members of the American Physical Therapy Association Orthopaedic Section were included in this survey. Conclusions Despite the high prevalence of patients either diagnosed with or at risk for CVD, few physical therapists consistently included BP and HR on the initial examination. The results of this survey suggest that efforts to improve understanding of the importance of screening and modifications of clinic policy could be effective strategies for improving rates of HR and BP screening.
+
+Physical Activity Habits and Incident First-Ever Stroke in Middle-Aged Adults-A Prospective Cohort Study.
+
+Number of 
+
+Key takeaways:Regular leisure-time physical activity over 10 years is associated with a lower risk of a first-ever stroke in middle-aged adults, possibly due to lower body mass index and reduced risk of hypertension and diabetes.
+
+Abstract:BACKGROUND
+Lifestyle affects the risk of cardiovascular events such as myocardial infarction and stroke. Several lifestyle factors, such as physical activity (PA), are modifiable, and in this study, we examined the association between leisure-time PA habits and the risk of a first-ever stroke.
+
+METHODS
+This prospective study included residents in Västerbotten, Sweden, who participated in the Västerbotten Intervention Programme at 40, 50, and 60 years of age. Altogether, 31,855 individuals (50.5% women, mean age: 42.6 y at baseline) participated between 1989 and 2016. Leisure-time PA was categorized as irregular (never/now and then) or regular (once a week/2 or 3 times a week/more than 3 times a week). Changes in PA were compared between examinations (10 y apart). Cases of stroke were validated according to World Health Organization MONICA (Monitoring Trends and Determinants of Cardiovascular Disease) criteria. The risk related to changes in leisure-time PA was estimated using a multivariable Cox regression model.
+
+RESULTS
+During an average follow-up of 9.8 years (4.4), 609 incident first-ever stroke cases occurred (1.9%). A multivariable model showed that, compared with individuals with irregular PA at both examinations, those reporting regular PA over time had a lower risk of stroke (hazard ratio: 0.78, 95% CI, 0.61-0.99).
+
+CONCLUSION
+Middle-aged adults who maintained regular PA during their leisure time over 10 years had a lower risk of a first-ever stroke. This association is probably partly mediated by lower body mass index and a reduced risk of hypertension and diabetes.
+
+Dynamic physical examination indicators of cardiovascular health: A single-center study in Shanghai, China
+
+Number of 
+
+Key takeaways:Dynamic physical examination indicators show a decreasing trend in cardiovascular health in Shanghai, with 50-69 year-olds being key for better prevention and control.
+
+Abstract:Dynamic physical examination data can provide both cross-sectional and time-series characteristics of cardiovascular health. However, most physical examination databases containing health and disease information have not been fully utilized in China. Hence, this study aimed to analyze dynamic physical examination indicators for cardiovascular health to provide evidence for precise prevention and control of cardiovascular diseases in the primary prevention domain among healthy population with different demographic characteristics in Shanghai. Three-year continuous data were collected from the physical examination center of a hospital in Shanghai from 2018 to 2020, which included a total of 14,044 participants with an average age of 46.51±15.57 years. The cardiovascular status of overall healthy individuals may have a decreasing trend, which is manifested as a significant year-on-year decrease in high-density lipoprotein cholesterol; a significant year-on-year increase in total cholesterol, low-density lipoprotein cholesterol, and blood glucose levels; and a possible increasing trend of diastolic blood pressure, body mass index, and triglycerides. Healthy population with different sex and age groups have various sensitives to cardiovascular physical examination indicators. To conduct more accurate cardiovascular health management and health promotion for key populations in primary prevention, focusing on the dynamic trends of blood pressure, blood lipids, blood glucose, and body mass index in men and changes in total cholesterol in women over time is especially important. The age group of 50–69 years is key for better prevention and control of cardiovascular health.
+
+.
+
+Number of 
+
+Key takeaways:A check-up at the family doctor can significantly improve cardiovascular risk factors and provide individualized prevention and counseling, while strengthening the doctor-patient relationship.
+
+Abstract:Sensible Check-up examinations in general practice - General aspects with a focus on cardiovascular risk Abstract. Patient's desire for check-up examinations is common in primary care. Systematic (yearly) Check-ups for asymptomatic persons outside of the regular care by the own family doctor cannot be recommended based on the current scientific evidence. Check-ups offered in designated specialized centers show no benefit concerning morbidity and mortality and the risk of false positive results is substantial. On the contrary, there is scientific evidence that a Check-up at the own family doctor shows health benefits, since it is able to significantly improve cardiovascular risk factors. It also offers an opportunity for individualized, evidence-based prevention and counseling, for which there is no time during regular consultations concerning acute health problems. Recognizing the motives for the check-up (hidden agenda) and an individualized risk assessment, as well as advice on a healthy lifestyle, are central elements of a check-up at the family doctor. The check-up also offers an opportunity to strengthen the doctor-patient relationship, which is known to be associated with improved health. This article discusses the different components of a check-up consultation and introduces some useful tools, with a focus on cardiovascular screening.
+
+Cardiovascular changes in medical students: Examination stress
+
+Number of 
+
+Key takeaways:Exam stress significantly affects cardiovascular parameters in 2nd-year medical students, leading to decreased functioning capability and potential pathological changes.
+
+Abstract:Background: Functioning capability of normal healthy individual can reduce due to stress which can be observed by the changes in their physiological parameters. Medical students do have huge burden of academic stress during the time of examination. This stress affects their normal physiology which subsequently might lead to pathological changes. 
+ 
+Aims and Objectives: The objectives of the study were to assess the changes in the cardiovascular system in 2nd year medical students of Oman Medical College (OMC) during the state of examination stress. 
+ 
+Materials and Methods: This was a randomized, observational-based study for 100 2nd-year students enrolled in 201314 batch for the medical program at OMC, Bawshar campus, Sultanate of Oman. Cardiovascular parameters such as pulse rate, arterial blood pressure were recorded at three stages. 1st, 3 months before the first formative assessment, second a day before the first formative examination, and third a day after examination. Data were collected and analyzed statistically using a paired t-test. 
+ 
+Result: Significant difference (2-tailed
+
+What must we know about cardiovascular prevention in medical school freshmen?
+
+Number of 
+
+Key takeaways:Medical students in their first and sixth years are at risk for cardiovascular disease, with obesity, low physical activity, and smoking being prevalent, and blood pressure being linked to weight and BMI.
+
+Abstract:Type of funding 
+ Background/Introduction. Medical students have been found to report high levels of perceived stress that may be influenced on health status and academic performance. Digital era and e-learning produce novel risk factors for cardiovascular disease (CVD) including arterial hypertension. In real life clinical practice in large healthy populations it is quite difficult to follow guidelines for hypertension screening due to the time deficit.
+ Purpose. The aim of the study was to examine prevalence of CVD risk factors and impact of casual blood pressure on cognitive function in 1st and 6th year medical male students.
+ Methods. Cross-sectional study was conducted during the period from 2014 to 2020. 222 first year (age (M ± m) 18.5 ± 0.1 years) and 207 6th year male medical students (age 23.5 ± 0.3 years) completed 45-item questionnaire about habitual life-behavior and performed 9 cognitive tasks. Blood pressure (BP) was self-measured by electronic device just prior to testing.
+ Results. In freshmen mean body height was (M ± m) 180.3 ± 0.5 cm; weight – 76.8 ± 1.1 kg, body mass index (BMI) – 23.6 ± 0.3 kg/m2; heart rate – 82.1 ± 0.9 bpm; casual systolic BP (SBP) -131.9 ± 2.3 and diastolic BP (DBP) – 77.6 ± 0.6 mm Hg. 6th year male students had similar height (179.6 ± 0.5 cm), but were heavier (80.5 ± 1.0 kg; p < 0.01; BMI =24.9 ± 0.3 kg/m2; p < 0.01). Heart rate (78.7 ± 0.8 bpm; p < 0.05) and casual SBP (126.7 ± 0.8 mm Hg; p < 0.05) were lower. No difference was found in DBP (77.8 ± 0.6 mm Hg).
+ Excessive body weight was detected in 16.6 % of 1st and in 36.2 % of 6th year students, obesity – in 8.5 and 6.8 % of students. 3 first year males and 1 – from 6th year group had morbid obesity (BMI > 40.0). Low physical activity reported 22.1% and 29.9%. Current smokers were 16.1 % of 1st and 33.3 % of 6th year students, but only 9.4 and 18.8 % smoked permanently. Casual SBP lay in high normal range in 27.4 % of 1st and in 34.3% of 6th year, and above 140 mm Hg – in 21.5 and 14%.
+ Correlation analysis revealed in both groups significant positive correlations SBP and DBP to weight and BMI, SBP to height (p < 0.05) and screen time (p < 0.01) and DBP - to heart rate. Only in freshmen SPB was related to cognitive functions: 17-18 year’s ones with elevated BP made tests faster may be due to their greater arousal, whereas 19-20 year’s – slower, but had better working vision memory. Only in 17-18 year group existed negative association SBP to subjective vision value and smoking status.
+ Conclusions. Modern medical male students are at high risk of CVD: casual BP within the normal range was only in 49 % of 1st and in 48 % of 6th year students, 25 % of freshmen and 43 % of 6th year males were overweight or obese, and one quarter was physically inactive. Besides healthy lifestyle and nutrition promotion quite necessary is also to limit screen time.
+
+Make your choice: Angiography or periodical health examination?
+
+Number of 
+
+Key takeaways:Regular periodical health examinations at primary healthcare centers can help mitigate the need for angiography in individuals with high SYNTAX scores, indicating more severe coronary artery disease.
+
+Abstract:Periodical health examination is one of the important factors influencing a healthy lifestyle. Patients undergoing routine physical examination in primary care are included in the scope of preventive medical services, which is the most basic principle of primary care. Identifying the risk factors enables individuals to adopt healthier lifestyle practices. In our study, we examined the correlation between patients undergoing coronary angiography for suspected coronary stenosis and the extent of primary care services they had received in their medical history, along with the severity of stenosis observed during the angiography. Patients were interviewed using a pre-structured questionnaire to gather information about their past utilization of primary healthcare services related to coronary matters and their cardiovascular (CV) risk profile as documented in their medical history. The necessary standard tests for angiography procedures were retrieved from patient records. The SYNTAX score, a tool that aids in the objective assessment of the severity of coronary artery disease (CAD), was computed and documented. This score was then compared with the history of primary care utilization. The patients’ utilization of services from the Primary Healthcare Center (PHC) was evaluated using a scoring system, with an average score of 29.27 ± 11.27 out of 100 points (minimum: 20; maximum: 60). The average SCORE Türkiye indicating the 10-year risk of CV events for all patients was calculated as 14.31% ± 8.65% (high—very high risk), while the average SYNTAX score was 15.20 ± 9.97. There was a positive and significant correlation found between fasting blood glucose and creatinine values with both SYNTAX score and SCORE Türkiye (respectively; R = 0.238, P = .013; R = 0.289, P = .002). Factors such as smoking and metabolic syndrome were associated with CAD severity. It important to highlight that individual recommended for angiography had a notably lower utilization of healthcare services from the PHC based on their medical histories. This circumstance has resulted in individuals who do not undergo CV event screenings at PHCs having higher SYNTAX scores, indicating more severe CAD that necessitates angiography. Conducting regular periodical health examinations at PHCs can help mitigate these statistics.
+
+Nursing Assessment of Cardiovascular System: Importance of History Taking and Physical Examination
+
+Number of 
+
+Key takeaways:Nursing assessment of a patient's cardiovascular system involves history taking and physical examination, which together provide a comprehensive picture for creating an effective nursing care plan.
+
+Abstract:Assessment of a patient's cardiovascular system is crucial in identifying potential problems, determining a diagnosis, and creating a care plan. The nursing assessment process involves both history taking and physical examination. History taking is important in obtaining information about the patient's past medical history, risk factors for cardiovascular disease, symptoms, and medication use. This information can help to identify potential problems, such as high blood pressure or heart disease, and provide a baseline for comparison during subsequent assessments. Physical examination includes evaluating the patient's vital signs, such as blood pressure, heart rate, and rhythm, and listening to the heart and lungs for sounds that may indicate problems, such as murmurs or crackles. The examination may also involve palpating for peripheral pulses, evaluating for edema, and assessing skin color and temperature. Together, the information gathered during history taking and physical examination forms a comprehensive picture of the patient's cardiovascular system and provides the foundation for an effective nursing care plan.
+
+Features of Changes in Heart Rate Variability among Medical Students during the Education Process
+
+Number of 
+
+Key takeaways:Medical students experience increased heart rate and lower blood pressure during exams, with sympathotonic students showing more tension and vagotonic students experiencing slight activation of the SNS.
+
+Abstract:Background: We investigated the changes of Heart Rate Variability (HRV) parameters, which reflect the state of the regulatory mechanisms of cardiovascular system, among medical students during routine academic period and examination session. Methods: The study was conducted in Jan–Feb 2024, at the IHSM in Bishkek, Kyrgyz Republic, among the healthy 70 students (mean age 19.71 ± 1.54 years) from India and Pakistan. For each student, two ECG recordings were performed: one 3 weeks before the exam and one 10–15 minutes after exam. Results: The results of study demonstrated that after the exam, students presented significantly higher HR, AMo, SI, VLF, LF and lower SDNN, TP, HF compared before the exam (P<0.05). Distribution of students showed that on a routine academic period 53% of students belonged to sympathotonic, 14% to vagotonic and 33% to normotonic. During the examination period the number of sympathotonic increased to 74%, but the number of vagotonic and normotonic decreased to 4% and 22% respectively. Conclusion: Each type revealed an individual reaction to exam stress: in the group of vagotonic there was a slight activation of the SNS; in sympathotonic students there was a tension of regulatory mechanisms, leading to depletion of adaptive mechanisms; in the group of normotonic there was a shift in the vegetative balance towards the sympathetic link of ANS.
+
+The occurrence of cardiovascular risk factors and functioning in chronic illness in the Polish population of EUROASPIRE V
+
+Number of 
+
+Key takeaways:Lower total cardiovascular risk and number of uncontrolled risk factors lead to better functioning in chronic illness patients, with regular physical activity being the strongest determinant.
+
+Abstract:Background The aim of this study was to assess the impact of cardiovascular risk on the functioning of patients without a history of atherosclerotic cardiovascular disease. Methods Two hundred patients diagnosed with arterial hypertension, hypercholesterolemia, or diabetes were enrolled in the study. The median age was 52.0 years (interquartile range 43.0–60.0). The following risk factors were assessed: blood pressure, body mass index, waist circumference, physical activity, smoking, LDL-cholesterol, triglycerides, and fasting plasma glucose concentration. Total cardiovascular risk was determined as the number of uncontrolled risk factors, and with the Systemic Coronary Risk Evaluation Score (SCORE). The Functioning in the Chronic Illness Scale (FCIS) was applied to assess the physical and mental functioning of patients. Results The median number of measures of cardiovascular risk factors was 4.0 (IQR 3.0–5.0). The median of SCORE for the whole study population was 2.0 (IQR 1.0–3.0). Patients with lower total cardiovascular risk as defined by SCORE and number of uncontrolled risk factors had better functioning as reflected by higher FCIS (R = −0.315, p < 0.0001; R = −0.336, p < 0.0001, respectively). Multivariate logistic regression analysis identified abnormal blood pressure, abnormal waist circumference, tobacco smoking, and lack of regular physical activity to be negative predictors of functioning. Lack of regular physical activity was the only predictor of low FCIS total score (odds ratio 9.26, 95% confidence interval 1.19–71.77, p = 0.03). Conclusions The functioning of patients worsens as the total cardiovascular risk increases. Each of the risk factors affects the functioning of subjects without coronary artery disease with different strength, with physical activity being the strongest determinant of patient functioning.
+
+How valuable is physical examination of the cardiovascular system?
+
+Number of 
+
+Key takeaways:Physical examination of the cardiovascular system is valuable for detecting and evaluating valvular heart disease, heart failure, and other conditions, but further research is needed to optimize its clinical application and reduce overuse of technological aids.
+
+Abstract:Physical examination of the cardiovascular system is central to contemporary teaching and practice in clinical medicine. Evidence about its value focuses on its diagnostic accuracy and varies widely in methodological quality and statistical power. This makes collation, analysis, and understanding of results difficult and limits their application to daily clinical practice. Specific factors affecting interpretation and clinical application include poor standardisation of observers’ technique and training, the study of single signs rather than multiple signs or signs in combination with symptoms, and the tendency to compare physical examination directly with technological aids to diagnosis rather than explore diagnostic strategies that combine both. Other potential aspects of the value of physical examination, such as cost effectiveness or patients’ perceptions, are poorly studied. This review summarises the evidence for the clinical value of physical examination of the cardiovascular system. The best was judged to relate to the detection and evaluation of valvular heart disease, the diagnosis and treatment of heart failure, the jugular venous pulse in the assessment of central venous pressure, and the detection of atrial fibrillation, peripheral arterial disease, impaired perfusion, and aortic and carotid disease. Although technological aids to diagnosis are likely to become even more widely available at the point of care, the evidence suggests that further research into the value of physical examination of the cardiovascular system is needed, particularly in low resource settings and as a potential means of limiting inappropriate overuse of technological aids to diagnosis.
+
+Comparison of cardiovascular, cognitive and stress parameters in presence and in absence of examination among medical students: An observational and prospective study
+
+Number of 
+
+Key takeaways:Medical students experience increased stress during examinations, leading to increased cardiovascular parameters, cognitive function, and stress score, potentially impacting performance and leading to anxiety and depression.
+
+Abstract:Introduction: Medical student during undergraduate course of 4=1/2 years including 1-year internship study
+hard, tirelessly for longer periods of day or night and often work beyond their mental threshold and physical
+strength resulting in stress. The present study was designed to evaluate and compare the stress status among
+first and second year MBBS students.
+Materials and Methods: 160 (62 males and 98 females) first (n=90) and second (n=70) year healthy
+MBBS students were enrolled for this study. Cardiovascular parameters like pulse rate (PR), systolic blood
+pressure (SBP), diastolic blood pressure (DBP), Cognitive function tests like auditory reaction time (ART)
+and visual reaction time (VRT) and Stress score (by stress questionnaire) was evaluated and compared in
+presence of examination (pre-examination) and during absence examination (post-examination, 10-15 days
+after pre-examination). Data obtained from this study was analysed by Instat Graph Pad using paired t-test.
+Results: All parameters studied in this study were increased in almost all students during pre-examination.
+In females compared to males all parameters were significantly less in pre-examination except PR (i.e.
+less SBP, DBP, less cognition function that means high ART & VRT and less stress score). During postexamination
+study comparison between males and females, difference of means of parameters were not
+significant except VRT (Visual reaction time was high in females). Cognition function was less in females
+as compared to males in both pre as well post examination.
+Conclusion: Students were in stress with increased all cardiovascular parameters, cognitive parameters
+and stress score. This may affect the performance and can produce anxiety and/or depression subsequently.
+Students who are at risk of excessive stress should be identified and faculties should help them to deal the
+examination stress, anxiety or depression effectively and the earliest.
+
+Keywords: Cardiovascular parameters, Cognit
+
+Analysis of the Cost-effectiveness of Routine Medical Examinations and Follow-up at a Krasnodar Territorial Outpatient Clinic
+
+Number of 
+
+Key takeaways:Regular medical examinations and follow-up are cost-effective, preventing cardiocirculatory diseases and reducing the cost of a year of life saved.
+
+Abstract:Study Objective: To assess the cost-effectiveness of preventive measures —routine medical examinations and follow-up — for health group IIIa patients with known cardiovascular disease (CVD) at the ambulatory and outpatient department of the Research Institute of Territorial Clinical Hospital No. 1 (a Krasnodar Government-funded Healthcare Institution) in 2015-2018. Materials and Methods: The study was conducted using data collected in 2015 and 2018 during routine medical examinations of adults registered in the territory covered by the ambulatory and outpatient department of Research Institute of Territorial Clinical Hospital No. 1 (a Krasnodar Government-funded Healthcare Institution), as well as 2015-2018 follow-up data on health group IIIa patients with CVD. Comprehensive analysis was done, including estimation of the number of potentially prevented deaths from cardiocirculatory diseases (CCD) of working-age (WA) and economically active (EA) persons for a ten-year period; estimation of costs of years of life saved, including the direct costs of regular medical examinations, using a cost-effectiveness modification of cost-benefit analysis; and comparison of the total cost of years of life saved for CVD patients with average per capita income. Study Results: Regular medical examinations performed in 2015 prevented a total of 33.25 deaths from CCD in a ten-year period: 2.14 deaths within 10 years among WA persons and 5.90 deaths within 10 years among EA persons (up to age 72). Regular medical examinations performed in 2018 and three-year follow-up (of patients with CVD) prevented a total of 38.36 deaths from CCD in a ten-year period: 3.77 deaths within 10 years among WA persons and 13.21 deaths within 10 years among EA persons. For the period 2015-2018 the number of years of life saved in WA patients increased from 22.74 to 49.05. In EA persons the number of years of life saved increased from 25.04 to 63.80. The gain in years of life saved was observed primarily in women, for whom it increased by 30.72, from 21.83 in 2015 to 52.55 in 2018. The costs of the first step of regular medical examinations per patient increased by 36 rubles and 73 kopecks from 2015 to 2018. Over this period the cost of a year of life saved decreased by 50.65%, which suggests that regular medical examinations are effective. This trend towards reduction in the cost of a year of life saved was observed in both WA and EA persons. The cost of treatment for health group IIIa patients with CVD increased by 81,48% in 2015-2018. Calculation of the total costs of a year of life saved, including the direct cost of regular medical examinations and follow-up of health group III patients with CVD, showed that this parameter decreased by 42.1% (22,253 rubles and 95 kopecks) in 2015-2018. This is explained by the increased number of years of life saved and an increase in the number of health group IIIa patients. This trend towards reduction in the cost of a year of life saved was observed both in WA and EA patients. Reduction in the total cost of a year of life saved for health group IIIa patients with CVD was observed simultaneously with an increase in per capita income by 44.7% (from 31,440 rubles to 45,499 rubles) in 2015-2018. Conclusion: Regular medical examinations in 2015 and 2018 and three-year follow-up had a clear economic effect, namely reduction in the cost of a year of life saved by 50.65% for WA and EA persons and reduction in the total cost of a year of life saved by 42.1% for health group IIIa patients with CVD who were followed up. Keywords: regular medical examinations, medical follow-up, economic effect.
+
+Sleep Irregularity and Risk of Cardiovascular Events: The Multi-Ethnic Study of Atherosclerosis.
+
+Number of 
+
+Key takeaways:Irregular sleep duration and timing may increase the risk of cardiovascular disease, independent of traditional risk factors and sleep quality.
+
+STRESS BEFORE EXAMS AS A RISK FACTOR CAUSING FUNCTIONAL DISORDERS IN THE CARDIOVASCULAR SYSTEM IN STUDENTS WITH DIFFERENT METABOLIC STATUS
+
+Number of 
+
+Key takeaways:Stress before exams can cause functional deregulation in the cardiovascular system in medical students with different metabolic status, highlighting the need for timely prevention activities.
+
+Abstract:Students who attend a medical HEE often face strain in their adaptation mechanisms when preparing for exams; it can create substantial preconditions for functional deregulation in body systems. The articles outlines some results obtained via examining heart rate variability (HRV) in students of the 2nd and the 3 rd year attending the North Ossetia State Medical Academy who had different metabolic status in a period prior to exams. Our research goal was to assess the state of the vegetative nervous system and regulatory systems in students with different metabolic status (BMI < 25; BMI=25–29.99; BMI=30–34.99.) who had to face excess stress during preparation to exams. Heart rate intervals were registered during five minutes in an examined person being at rest. HRV parameters were analyzed in time and frequency domains. We revealed that medical students had elevated activity of the sympathetic section in their vegetative nervous system (VNS) during a period prior to exams; in particular, it was apparent for the regulation system of the vasomotor center (PLF = 48.4 %). Students’ bodies had apparent strain in their regulatory systems (SI=177.5 a.u.). Total activity of the regulatory system was significantly elevated (TP=2,293 msec 2 ) due to central regulation levels. As students’ BMI grew, there was a decrease in activity of the parasympathetic component in vegetative regulation and heart rate management became more centralized (IC=3.2–4.5 a.u.). Students with Class 3 obesity had the maximum spectrum power of the superlow component in heart rate variability (PVLF=29.3 %). HRV parameters analysis allows estimating whether adaptation processes in students’ bodies are adequate during preparation to exams; it can be done in screening mode and provides an opportunity to perform timely prevention activities.
+
+The negative effects of long COVID-19 on cardiovascular health and implications for the presurgical examination
+
+Number of 
+
+Key takeaways:Long COVID-19 negatively impacts cardiovascular health, requiring special attention in presurgical cardiac examinations for patients undergoing noncardiac procedures due to increased risk of sudden cardiac death, myocarditis, stroke, and myocardial infarction.
+
+Abstract:Abstract Context In 2019, emergence of the novel and communicable severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection took scientific communities by surprise and imposed significant burden on healthcare systems globally. Although the advent of this disease piqued the interest of academic centers, healthcare systems, and the general public, there is still much yet to be elucidated regarding epidemiology, pathophysiology, and long-term impacts of coronavirus disease 2019 (COVID-19). It has been established that long COVID-19 can impact multiple organ systems, including the cardiovascular system, unfavorably. Although the pathophysiology of this damage is not well understood, adverse sequelae may range from chest pain and arrhythmias to heart failure (HF), myocardial infarction, or sudden cardiac death. For any postacute COVID-19 patient requiring a surgical procedure, the potential for cardiac injury secondary to long COVID-19 must be considered in the preoperative cardiac examination. Objectives This literature review serves to add to the growing body of literature exploring postacute cardiovascular outcomes of COVID-19, with a focus on presurgical cardiac clearance in the adult patient. Specifically, this review studies the prevalence of cardiovascular symptomatology including chest pain, arrhythmias, blood pressure changes, myo-/pericarditis, HF, cardiomyopathy, orthostatic intolerance, and thromboembolism. Although current evidence is scarce in both quality and quantity, it is the goal that this review will highlight the negative impacts of long COVID-19 on cardiovascular health and encourage providers to be cognizant of potential sequelae in the context of the presurgical examination. Methods For this study, peer-reviewed and 
+
+Cardiovascular Effects and Benefits of Exercise
+
+Number of 
+
+Key takeaways:Regular physical activity, especially moderate levels, is beneficial for cardiovascular health, reducing cardiovascular disease risk and mortality.
+
+Abstract:It is widely accepted that regular physical activity is beneficial for cardiovascular health. Frequent exercise is robustly associated with a decrease in cardiovascular mortality as well as the risk of developing cardiovascular disease. Physically active individuals have lower blood pressure, higher insulin sensitivity, and a more favorable plasma lipoprotein profile. Animal models of exercise show that repeated physical activity suppresses atherogenesis and increases the availability of vasodilatory mediators such as nitric oxide. Exercise has also been found to have beneficial effects on the heart. Acutely, exercise increases cardiac output and blood pressure, but individuals adapted to exercise show lower resting heart rate and cardiac hypertrophy. Both cardiac and vascular changes have been linked to a variety of changes in tissue metabolism and signaling, although our understanding of the contribution of the underlying mechanisms remains incomplete. Even though moderate levels of exercise have been found to be consistently associated with a reduction in cardiovascular disease risk, there is evidence to suggest that continuously high levels of exercise (e.g., marathon running) could have detrimental effects on cardiovascular health. Nevertheless, a specific dose response relationship between the extent and duration of exercise and the reduction in cardiovascular disease risk and mortality remains unclear. Further studies are needed to identify the mechanisms that impart cardiovascular benefits of exercise in order to develop more effective exercise regimens, test the interaction of exercise with diet, and develop pharmacological interventions for those unwilling or unable to exercise.
+
+Lifestyle-related behaviour modifications during examinations in undergraduate medical students in India
+
+Number of 
+
+Key takeaways:Exams significantly impact undergraduate medical students' lifestyle, leading to high prevalence of extreme examination stress, irregular eating habits, lack of physical activity, and sleep deprivation.
+
+Abstract:Background: Examinations are formal tests conducted to assess a student's knowledge. Despite their paramount importance, they can impact students physically and mentally by causing stress and anxiety. Hence, identifying the changes that hamper a student's lifestyle, during examinations, in order to prevent the development of unhealthy behavioral patterns is the goal of this study.
+Methods: It was a cross-sectional study conducted among undergraduate medical students of Mysuru over a period of 2 months from February 2023 to April 2023 in 120 participants. Data was collected using an online questionnaire, entered into M.S. Excel and analyzed using SPSS software. Frequencies and percentages were calculated for all the categorical variables.
+Results: 61.7% of the study participants showed extreme examination stress. Only 39.3% consumed 3 balanced meals daily. A complete lack of physical activity was observed in 38.1%. Regular caffeine consumption was noted in 46.4% and 27.4% showed unusual amounts of junk food daily. Irregular sleeping patterns were found in 23.8%, sleeping at odd times beyond 1 am was noted in 59.5% and deficient sleep duration (<6 hours) was observed in 46.6% of the surveyed population.
+Conclusions: The findings from this survey highlight the significant impact of examinations on the lifestyle-related behaviors of undergraduate students such as high prevalence of extreme examination stress, irregular eating habits, lack of physical activity, and sleep deprivation.
+
+HEALTH MEDICAL EXAMINATION AND THE PREVALENCE OF METABOLIC SYNDROME
+
+Number of 
+
+Key takeaways:High frequency of health medical examinations demonstrated low prevalence of MetS in men and women, with better health management behavior and better cholesterol, HDL, and systolic blood pressure.
+
+Abstract:Background and Objective 
+Metabolic syndrome (MetS) can be effectively prevented and treated by following healthy lifestyle practices. Healthy lifestyle management not only includes regulation of drinking and smoking, and regular physical activity but also health medical examinations. However, health medical examinations at private medical facilities involve high cost, limiting continuous and regular examination. The aim of this study is to analyze the prevalence of MetS and health management behavior according to the number of health medical examinations conducted in 14 years. 
+ 
+Material and Methods 
+According to the number of health medical examinations undertaken each year from 1999 to 2012, in 2012, 21,803 visitors (14,511 men and 7,292 women) from a health medical examination center at a private medical facility were assigned to low- (3–5 health examinations in 14 years), middle- (6–10 health examinations in 14 years), and high-frequency groups (11–14 health examinations for 14 years) and were classified by sex. Namely, they were divided into three groups: those who underwent 3–5 examinations, as low-frequency group, 6–10 examinations, as middle-frequency group, and 11-14 examinations, as high-frequency group. MetS was evaluated according to the criteria of the National Cholesterol Education Program and Adult Treatment Panel III and waist circumference was measured according to the standard for Asians by the World Health Organization. Odds ratio (OR) was calculated by logistic regression analysis. 
+ 
+Results 
+Systolic blood pressure tended to decrease to 124.5 versus 123.9 versus 123.5 mmHg in the low-, middle-, and high-frequency groups in men, respectively. In addition, the middle- and high-frequency groups demonstrated better total cholesterol, high-density lipoprotein, low-density lipoprotein, and systolic blood pressure compared with the low-frequency group. The prevalence of MetS demonstrated no significance before adjusting for variables in men, and high-frequency examinees demonstrated 18% low OR values (0.823, p < 0.001) after adjusting for age. OR was 0.868 (p = 0.015) when adjusted for age, other socio-economic factors, and health behavior. In women, the prevalence of MetS demonstrated significantly high OR of 1.205 (p = 0.007) and 1.300 (p = 0.008) in the middle- and high-frequency groups, respectively, but OR value decreased by 21% (0.791, p = 0.026) after adjusting for age. However, OR remained significant when adjusting for socioeconomic variables, physical activity, drinking, and smoking. For income and education, high-frequency examinees belonged to the high socioeconomic status group among men and women, but there were significant differences in walking among men with regard to physical activity (p < 0.001). Smoking was well-managed in the high-frequency group among men and women, and drinking showed a significant difference only in women (p < 0.001). 
+ 
+ 
+Conclusion 
+The high frequency of health medical examinations demonstrated low prevalence of MetS in men and women, and high socioeconomic status was associated with healthy behavior.
+
+Health Status of French Young Patients with Inborn Errors of Metabolism with Lifelong Restricted Diet.
+
+Number of 
+
+Key takeaways:Young patients with inborn errors of metabolism require a restricted diet, have high clinical complications, and experience varying impacts on their quality of life, with self-reported quality being both positively and negatively impacted.
+
+The Global Epidemic of the Metabolic Syndrome
+
+Number of 
+
+Key takeaways:Metabolic syndrome, caused by high calorie-low fiber fast food and decreased physical activity, has become a global health issue, with potential for global solutions through better urban planning, whole grain consumption, and promoting healthy lifestyles.
+
+Abstract:Metabolic syndrome, variously known also as syndrome X, insulin resistance, etc., is defined by WHO as a pathologic condition characterized by abdominal obesity, insulin resistance, hypertension, and hyperlipidemia. Though there is some variation in the definition by other health care organization, the differences are minor. With the successful conquest of communicable infectious diseases in most of the world, this new non-communicable disease (NCD) has become the major health hazard of modern world. Though it started in the Western world, with the spread of the Western lifestyle across the globe, it has become now a truly global problem. The prevalence of the metabolic syndrome is often more in the urban population of some developing countries than in its Western counterparts. The two basic forces spreading this malady are the increase in consumption of high calorie-low fiber fast food and the decrease in physical activity due to mechanized transportations and sedentary form of leisure time activities. The syndrome feeds into the spread of the diseases like type 2 diabetes, coronary diseases, stroke, and other disabilities. The total cost of the malady including the cost of health care and loss of potential economic activity is in trillions. The present trend is not sustainable unless a magic cure is found (unlikely) or concerted global/governmental/societal efforts are made to change the lifestyle that is promoting it. There are certainly some elements in the causation of the metabolic syndrome that cannot be changed but many are amenable for corrections and curtailments. For example, better urban planning to encourage active lifestyle, subsidizing consumption of whole grains and possible taxing high calorie snacks, restricting media advertisement of unhealthy food, etc. Revitalizing old fashion healthier lifestyle, promoting old-fashioned foods using healthy herbs rather than oil and sugar, and educating people about choosing healthy/wholesome food over junks are among the steps that can be considered.
+
+Short Sleep Duration Increases Metabolic Impact in Healthy Adults: A Population-Based Cohort Study
+
+Number of 
+
+Key takeaways:Short sleep duration increases the risk of metabolic syndrome in healthy adults, while long sleep duration decreases these risks.
+
+Abstract:Objectives
+The metabolic impact of inadequate sleep has not been determined in healthy individuals outside laboratories. This study aims to investigate the impact of sleep duration on five metabolic syndrome components in a healthy adult cohort.
+
+Methods
+A total of 162121 adults aged 20-80 years (men 47.4%) of the MJ Health Database, who were not obese and free from major diseases, were recruited and followed up from 1996 to 2014. Sleep duration and insomnia symptoms were assessed by a self-administered questionnaire. Incident cases of five metabolic syndrome components were identified by follow-up medical examinations. Cox proportional hazard ratios (HRs) were calculated for three sleep duration categories '< 6 hours/day (short),' '6-8 hours/day (regular),' and '> 8 hours/day (long)' with adjustment for potential confounding factors. Analyses were stratified by insomnia symptoms to assess whether insomnia symptoms modified the association between sleep duration and metabolic syndrome.
+
+Results
+Compared to regular sleep duration, short sleep significantly (p < .001) increased the risk for central obesity by 12% (adjusted HR 1.12 ), for elevated fasting glucose by 6% (adjusted HR 1.06 ), for high blood pressure by 8% (adjusted HR 1.08 ), for low high-density lipoprotein-cholesterol by 7% (adjusted HR 1.07 ), for hypertriglyceridemia by 9% (adjusted HR 1.09 ), and for metabolic syndrome by 9% (adjusted HR 1.09 ). Long sleep decreased the risk of hypertriglyceridemia (adjusted HR 0.89 ) and metabolic syndrome (adjusted HR 0.93 ). Insomnia symptoms did not modify the effects of sleep duration.
+
+Conclusions
+Sleep duration may be a significant determinant of metabolic health.
+
+Metabolic syndrome update.
+
+Number of 
+
+Key takeaways:Metabolic syndrome, driven by excess energy intake and obesity, is a risk factor for atherosclerotic cardiovascular disease and type 2 diabetes, with lifestyle intervention and sometimes drug therapies or bariatric surgery being necessary to control risk factors.
+
+Epidemiology of metabolic syndrome
+
+Number of 
+
+Key takeaways:Metabolic syndrome, characterized by obesity, insulin resistance, hypertension, and dyslipidemia, is a major global health threat, with early life development and a strong link to adult obesity.
+
+Abstract:Abstract The global increase of overweight and obesity in children and adults is one of the most prominent public health threats, often accompanied by insulin resistance, hypertension, and dyslipidemia. The simultaneous occurrence of these health problems is referred to as metabolic syndrome. Various criteria have been proposed to define this syndrome, but no general consensus on the specific markers and the respective cut-offs has been achieved yet. As a consequence, it is difficult to assess regional variations and temporal trends and to obtain a comprehensive picture of the global burden of this major health threat. This limitation is most striking in childhood and adolescence, when metabolic parameters change with developmental stage. Obesity and related metabolic disorders develop early in life and then track into adulthood, i.e., the metabolic syndrome seems to originate in the early life course. Thus, it would be important to monitor the trajectories of cardio-metabolic parameters from early on. We will summarize selected key studies to provide a narrative overview of the global epidemiology of the metabolic syndrome while considering the limitations that hinder us to provide a comprehensive full picture of the problem. A particular focus will be given to the situation in children and adolescents and the risk factors impacting on their cardio-metabolic health. This summary will be complemented by key findings of a pan-European children cohort and first results of a large German adult cohort.
+
+The metabolic syndrome – What is it and how should it be managed?
+
+Number of 
+
+Key takeaways:Metabolic syndrome is a complex condition requiring individualized management, focusing on healthy lifestyle choices and pharmacological treatment, with long-term goals.
+
+Abstract:A cluster of metabolic factors have been merged into an entity named the metabolic syndrome. Although the characteristics of this syndrome have varied over time the presently used definition was established in 2009. The presence of three abnormal findings out of five components qualifies a person for the metabolic syndrome: elevated waist circumference, elevated triglycerides, reduced high-density lipoprotein cholesterol, elevated blood pressure and elevated fasting plasma glucose. Cut points have been defined for all components apart from waist circumference, for which national or regional values are used. The metabolic syndrome predicts cardiovascular disease and type 2 diabetes. This associated risk does not exceed its components whereof elevated blood pressure is the most frequent. A successful management should, however, address all factors involved. The management is always based on healthy lifestyle choices but has not infrequently to be supported by pharmacological treatment, especially blood pressure lowering drugs. The metabolic syndrome is a useful example of the importance of multiple targets for preventive interventions. To be successful management has to be individualized not the least when it comes to pharmacological therapy. Frail elderly people should not be over-treated. Knowledge transfer of how risk factors act should be accompanied by continuous trust building and motivation. In complex situations with a mix of biological risk factors, adverse social conditions and unhealthy lifestyle, everything cannot be changed at once. It is better to aim for small steps that are lasting than large, unsustainable steps with relapses to unhealthy behaviours. A person with the metabolic syndrome will always be afflicted by its components, which is the reason that management has to be sustained over a very long time. This review summarizes the knowledge on the metabolic syndrome and its management according to present state of the art.
+
+Editorial: The impact of metabolic disorders on female reproductive health
+
+Number of 
+
+Key takeaways:Metabolic disorders, such as obesity and hyperglycemia, significantly impact female reproductive health, leading to complications like PCOS, ectopic pregnancies, and infertility.
+
+Abstract:Metabolic syndrome is a multifaceted condition characterized by a cluster of endocrine and inflammatory pathologies, including obesity, hyperglycemia, hypertension, and insulin resistance. The global prevalence of metabolic-associated disorders has escalated in recent decades, significantly impacting gynecological health. These disorders disrupt hormonal regulation, ovarian function, fertilization, and pregnancy, leading to various complications such as ectopic pregnancies, pelvic inflammatory disease, polycystic ovary syndrome (PCOS), anovulation, menorrhagia, miscarriage, recurrent pregnancy loss (RPL), gestational diabetes mellitus (GDM), and preterm birth. This underscores an urgent need for effective, evidence-based, and patient-centered therapeutic interventions to address these gynecological challenges. This research topic aims to unravel the metabolic alterations influencing female reproductive health and to identify innovative therapeutic approaches.Zhang et al. (2023) investigated the relationship between metabolic alterations and hormonal profiles, highlighting their role in the onset of reproductive disorders, particularly PCOS. The study assessed hormonal markers including follicle-stimulating hormone, luteinizing hormone, estrogen, prolactin, total testosterone, and androstenedione in 160 women with PCOS compared to 139 age-matched controls. Their findings reveal that women with PCOS, both obese and non-obese, exhibit more severe insulin resistance and sex-hormone imbalances than their counterparts without PCOS. The study also established a correlation between body fat, glucose metabolism, and hormonal profiles in women with PCOS, offering critical insights into the metabolic underpinnings of this disorder.In a comprehensive review, Malik et al. (2024) assembled existing research on PCOS, underlying causes, adverse impact on reproductive physiology, and potential natural plant-based therapeutic interventions. The review detailed preclinical and clinical studies on phytochemicals, providing insights into their effective dosages, study designs, durations, and mechanisms of action. The authors explained that several phytochemicals, such as curcumin, berberine, resveratrol, quercetin, hesperidin, and genistein, have shown promising treatment of PCOS in preclinical studies. While compounds like Vitex agnus-castus, Cinnamomum cassia, pomegranate juice, spearmint tea, Nigella sativa, and Tribulus terrestris have demonstrated efficacy in managing PCOS in clinical patients. These natural compounds offer potential alternatives or may enhance treatment outcomes when used alongside conventional therapies. This work underscores the potential of phytochemical-based treatments as safer, low-toxicity alternatives for PCOS management, paving the way for innovative therapeutic strategies.The novel biomarker investigation is another critical area for advancing diagnostic tools for female reproductive disorders. Marek-Iannucci et al. explored the potential of natriuretic peptides as biomarkers for predicting preeclampsia (PE), a life-threatening condition particularly prevalent in low-income regions. Their study analyzed four cases of pregnant women with severe PE, all of whom exhibited elevated levels of brain natriuretic peptide (BNP) in their urine. The authors proposed BNP as a promising biomarker for identifying PE, especially in women with chronic hypertension, facilitating earlier and more effective intervention.The past decade has also witnessed growing interest in benign uterine conditions, such as adenomyosis (ADS), and their association with female infertility. However, the underlying pathogenic mechanisms of ADS remain inadequately understood. Wang and Duan et al. examined the link between ADS and infertility, emphasizing the role of the myometrium's junctional zone in maintaining uterine fertility. Altered contractility within this zone can significantly impair reproductive outcomes. Leveraging advanced diagnostic tools such as MRI, ultrasound, and imaging, the authors highlighted the intricate dynamics of the junctional zone and reviewed various therapeutic options for addressing ADS-related infertility.This editorial is highlighted the critical intersections of metabolic alterations, hormonal imbalances, and gynecological health. From novel phytochemical treatments for PCOS to emerging biomarkers for preeclampsia and insights into adenomyosis-related infertility, these studies collectively emphasize the importance of innovative and multidisciplinary approaches to advancing women's reproductive health.Any metabolic disturbance potentially disrupts the physiology of women that ultimate leads to reproductive disorders. The study of Qin et al.'s investigation examines the negative impact of type 2 diabetes mellitus on female reproductive outcomes during assisted reproductive techniques. The study analyzed 265 infertile female patients undergoing assisted reproduction and found that those with type 2 diabetes mellitus had lower levels of anti-Müllerian hormone (AMH) and worse pregnancy outcomes than those without diabetes. This underscores the diminished ovarian reserve in diabetic women compared to their nondiabetic counterparts. This special edition encapsulates a diverse array of articles, shedding light on the interplay between metabolic disorders and pregnancy, fundamentally reshaping our understanding of metabolic disorders associated infertility and how affects the pregnancy in humans.
+
+Metabolic Syndrome and Overactive Bladder Syndrome May Share Common Pathophysiologies
+
+Number of 
+
+Key takeaways:Metabolic syndrome and overactive bladder syndrome share common pathophysiologies, which could lead to unsatisfactory results from regular medications.
+
+Abstract:Metabolic syndrome (MetS) is defined by a group of cardiovascular risk factors, including impaired glucose tolerance, central obesity, hypertension, and dyslipidemia. Overactive bladder (OAB) syndrome consists of symptoms such as urinary urgency, frequency, and nocturia with or without urge incontinence. The high prevalences of metabolic syndrome (MetS) and overactive bladder (OAB) worldwide affect quality of life and cause profound negative impacts on the social economy. Accumulated evidence suggests that MetS might contribute to the underlying mechanisms for developing OAB, and MetS-associated OAB could be a subtype of OAB. However, how could these two syndromes interact with each other? Based on results of animal studies and observations in epidemiological studies, we summarized the common pathophysiologies existing between MetS and OAB, including autonomic and peripheral neuropathies, chronic ischemia, proinflammatory status, dysregulation of nutrient-sensing pathways (e.g., insulin resistance at the bladder mucosa and excessive succinate intake), and the probable role of dysbiosis. Since the MetS-associated OAB is a subtype of OAB with distinctive pathophysiologies, the regular and non-specific medications, such as antimuscarinics, beta-3 agonist, and botulinum toxin injection, might lead to unsatisfying results. Understanding the pathophysiologies of MetS-associated OAB might benefit future studies exploring novel biomarkers for diagnosis and therapeutic targets on both MetS and OAB.
+
+Research advances in the therapy of metabolic syndrome
+
+Number of 
+
+Key takeaways:Metabolic syndrome research advances have improved understanding of its pathogenesis, pathophysiological repercussions, and treatment approaches, potentially reducing the burden of cardiovascular diseases.
+
+Abstract:Metabolic syndrome refers to the pathological state of metabolic disorder of protein, fat, carbohydrate, and other substances in the human body. It is a syndrome composed of a group of complex metabolic disorders, whose pathogenesis includes multiple genetic and acquired entities falling under the category of insulin resistance and chronic low-grade inflammationand. It is a risk factor for increased prevalence and mortality from diabetes and cardiovascular disease. Cardiovascular diseases are the predominant cause of morbidity and mortality globally, thus it is imperative to investigate the impact of metabolic syndrome on alleviating this substantial disease burden. Despite the increasing number of scientists dedicating themselves to researching metabolic syndrome in recent decades, numerous aspects of this condition remain incompletely understood, leaving many questions unanswered. In this review, we present an epidemiological analysis of MetS, explore both traditional and novel pathogenesis, examine the pathophysiological repercussions of metabolic syndrome, summarize research advances, and elucidate the mechanisms underlying corresponding treatment approaches.
+
+Number of 
+
+Key takeaways:Recent studies in metabolism reveal that diet, exercise, and dietary changes can help manage metabolic issues and prevent obesity-related health problems.
+
+Abstract:Metabolism, disrupted metabolic function, and the pathophysiology of aberrant body weight states are classics of physiological research and non-negotiables in most medical school curricula. Let us quickly revisit current topics in this wide area, stay up to date, and have a look at recently published articles in Acta Physiologica. Dietary strategies are usually the first and most recommended lifestyle adaptations in the management of metabolic syndrome, high triglycerides, and low HDL cholesterol, including a recommended primary intake of complex carbs, proteins, and monounsaturated fats, mainly from plant-based sources.1 Metabolic syndrome spectrum pathophysiology is characterized by a reduced metabolic reserve and flexibility, that is, an impaired ability to adequately respond to changing metabolic demands, as is the case in insulin resistance and impaired fuel selection between glucose and fatty acids in obesity and type 2 diabetes, respectively.2 Kutz et al.3 recently elucidated the role of Na/K-ATPase (NKA)-mediated regulation of Src kinase in the regulation of metabolic capacity, which can, interestingly, be targeted pharmacologically. Dos Santos et al.4 investigate the influence of macronutrient on the insulin-to-glucagon ratio in healthy and diabetic individuals, which is a more sufficient parameter than either insulin or glucagon levels alone.5 Their results are in favor of the low-carb approach to weight loss in overweight individuals. Another interesting observation comes from a study done by Popov et al., who showed how a high-fat diet, which is in other context considered harmful, actually enhances the size and function of astrocytes and promotes synaptic plasticity,6 thus leaving the scientific community with a lot of food for thought, as to, for example, in which contexts dietary-induced changes in astrocytic morphology and function would be beneficial or detrimental.7 Desmet et al., in a recent study, describe how chronic jetlag, as occurs frequent time zone traveling, actually disrupts rhythmicity in gut function, with potential negative metabolic consequences, for example, an alteration of the food intake pattern and involuntary body weight gain.8 Shibayama et al. recently investigated how hepatic glucocorticoid receptors are stabilized during starvation periods, an important step in elucidating the transcriptional control of nuclear receptors in physiological fasting-feeding cycles.9 Exercise regimens are another staple in the international guidelines for the long-term management of metabolic syndrome.10 In a recent study by Sabaratnam et al., the role of the skeletal muscle as an endocrine organ is recognized, in, for example, exercise-mediated interorgan communication through myokine release.11 Given the differences in skeletal muscle function between subjects of different ages or gender,12 the study of metabolic effects of muscle tissue needs to differentiate accordingly. Christiansen et al. have seen first indications of an added benefit of controlled blood flow restriction in exercise-mediated induction of factors regulating cholesterol production and glucose homeostasis.13 Marafon et al. investigated the influence of different exercise regimen patterns on endoplasmic reticulum stress markers in skeletal muscle, showing that, while chronic exercise attenuates ER stress, acute exercise requires adequate recovery periods to avoid pathophysiologic induction of ER stress, with subsequent metabolic consequences.14 Loss of muscle mass, which can be due to several different pathophysiologic mechanisms, has relatively recently been shown to be a novel risk factor for cardiovascular disease. Even without a reduction in body mass, exercise, via an increase in skeletal muscle tissue volume, may protect against obesity-related secondary cardiovascular dysfunction such as hypertension and secondary renal injury.15 We are only recently beginning to unravel the complex interaction of hypertension, loss of muscle volume, and CV risk in different systemic diseases.16, 17 Myokine networks regulate the complex mechanisms required to regenerate skeletal muscle in attempts to counteract the effects of a loss of volume in skeletal muscle tissue.18 Doncheva et al. have found first evidence of extracellular vesicles, also mediators in interorgan cross talk, change in association with exercise, and impact metabolic health such as obesity and insulin sensitivity.19 Studies of metabolic aberrations in humans would not be complete without considering metabolic interactions between parental and filial generations. Recently, Cornejo et al. described how pre-pregnancy obesity, a condition which is on the rise worldwide, affects the vascular aberrations and resulting risk for both the mother and the foetus in gestational diabetes.20 Lean et al. have taken a closer look at the negative effects of obesity on maternal lactation ability,21 another obesity-associated complication in childbearing women that warrants early vigilance and targeted intervention. Taken together, while most of these findings suggest an increase in a multitude of obesity-associated health problems, the mechanisms outlined in these studies help develop targeted strategies for prevention and therapeutic intervention. None. None. None. None.
+
+Pathophysiology of the metabolic syndrome.
+
+Number of 
+
+Key takeaways:Metabolic syndrome, characterized by obesity, hypertension, insulin resistance, and atherogenic dyslipidemia, is a prothrombotic and proinflammatory state with potential health risks.
+
+Meal Timing, Meal Frequency and Metabolic Syndrome
+
+Number of 
+
+Key takeaways:Meal timing and frequency have limited evidence linking metabolic syndrome to these factors, but may impact type 2 diabetes, cardiovascular diseases, and other chronic conditions.
+
+Abstract:Individuals with metabolic syndrome have increased risk for developing health conditions, including cardiovascular diseases and stroke. Modifiable risk factors, such as exercise and diet, are key components in the prevention and control of metabolic syndrome. Specifically, dietary patterns and habits are extremely successful in controlling more than one of the metabolic syndrome risk factors. Meal timing and frequency have been associated with type 2 diabetes, cardiovascular diseases, and other chronic conditions. However, there is limited evidence linking metabolic syndrome to meal timing and meal frequency. This review summarizes and discusses how meal timing and frequency impact metabolic outcomes in adults.
+
+Longevity Analysis by Comparing the Overall Metabolism and Life Routine Regularity for Two Periods via GH-Method: Math-Physical Medicine
+
+Number of 
+
+Key takeaways:Strong lifestyle management, including stress level and routine regularity, can improve overall metabolism and immune system, leading to increased longevity and reduced risk of chronic diseases and infections.
+
+Abstract:The author describes one of his hypothetical theories on the relationship between life longevity and overall metabolism, the macrosystem view, specifically the stress and daily life routine regularity, two micro-categories. He has spent ~25,000 h over 7.5 years (2010–2019) to conduct research on metabolism, endocrinology, and chronic diseases, specifically diabetes. These big data analytics is based on ~600,000 data over 2.5 years. His developed metabolism model has shed some light about the impact on his life longevity due to his overall metabolic changes, especially his stress level and life routine regularity. Having a strong lifestyle management leads into a good metabolic state, which then converts into a strong immunity to fight against three major disease categories, chronic diseases and complications (50% of death), cancers (29% of death), and infectious diseases (11% of death), with the remaining 10% of non-diseases related to death cases. This is a logical way to achieve longevity which is the core of geriatrics.
+
+Effect of the metabolic syndrome on the quality of life and sleep in women
+
+Number of 
+
+Key takeaways:Metabolic syndrome is common in women and negatively affects their quality of life and sleep, requiring regular evaluation and healthcare professionals to promote healthy living behaviors.
+
+Abstract:Purpose: This study was conducted to determine the metabolic syndrome prevalence in women and evaluate its effect on the quality of life and sleep.&#x0D; Materials and Methods: This descriptive and cross-sectional study was completed with 372 women. Data were collected using a descriptive questionnaire, the Pittsburgh Sleep Quality Index, and the SF 36 Quality of Life Scale..&#x0D; Results: The metabolic syndrome prevalence in women was 41.9%, according to the International Diabetes Federation diagnostic criteria. The mean scores obtained from the sleep quality index by those with metabolic syndrome were significantly higher than those without metabolic syndrome. The median scores obtained from the physical function and role difficulty, pain, general health perception, and mental summary sub-dimensions of the SF-36 quality of life scale by the women who were found to have metabolic syndrome were lower than those without metabolic syndrome.&#x0D; Conclusion: Metabolic syndrome was found to be common in women and to affect the quality of life and sleep negatively in women in this study. We, therefore, recommend women to be evaluated in terms of metabolic syndrome at regular intervals and healthcare professionals to provide training and consultancy services to promote healthy living behaviors that could improve their quality of life and sleep.
+
+A Comprehensive Review on Metabolic Syndrome
+
+Number of 
+
+Key takeaways:Metabolic syndrome is a complex condition involving insulin resistance, obesity, and other risk factors, increasing the risk of cardiovascular disease, type 2 diabetes, and all-cause mortality.
+
+Abstract:Metabolic syndrome is defined by a constellation of interconnected physiological, biochemical, clinical, and metabolic factors that directly increases the risk of cardiovascular disease, type 2 diabetes mellitus, and all cause mortality. Insulin resistance, visceral adiposity, atherogenic dyslipidemia, endothelial dysfunction, genetic susceptibility, elevated blood pressure, hypercoagulable state, and chronic stress are the several factors which constitute the syndrome. Chronic inflammation is known to be associated with visceral obesity and insulin resistance which is characterized by production of abnormal adipocytokines such as tumor necrosis factor α, interleukin-1 (IL-1), IL-6, leptin, and adiponectin. The interaction between components of the clinical phenotype of the syndrome with its biological phenotype (insulin resistance, dyslipidemia, etc.) contributes to the development of a proinflammatory state and further a chronic, subclinical vascular inflammation which modulates and results in atherosclerotic processes. Lifestyle modification remains the initial intervention of choice for such population. Modern lifestyle modification therapy combines specific recommendations on diet and exercise with behavioural strategies. Pharmacological treatment should be considered for those whose risk factors are not adequately reduced with lifestyle changes. This review provides summary of literature related to the syndrome's definition, epidemiology, underlying pathogenesis, and treatment approaches of each of the risk factors comprising metabolic syndrome.
+
+Novel Insights into the Pathogenesis and Management of the Metabolic Syndrome
+
+Number of 
+
+Key takeaways:Metabolic syndrome, a clustering of risk factors, is primarily caused by central obesity and is linked to insulin resistance, requiring preventive measures and therapeutic strategies in children and adolescents.
+
+Abstract:The metabolic syndrome, by definition, is not a disease but is a clustering of individual metabolic risk factors including abdominal obesity, hyperglycemia, hypertriglyceridemia, hypertension, and low high-density lipoprotein cholesterol levels. These risk factors could dramatically increase the prevalence of type 2 diabetes and cardiovascular disease. The reported prevalence of the metabolic syndrome varies, greatly depending on the definition used, gender, age, socioeconomic status, and the ethnic background of study cohorts. Clinical and epidemiological studies have clearly demonstrated that the metabolic syndrome starts with central obesity. Because the prevalence of obesity has doubly increased worldwide over the past 30 years, the prevalence of the metabolic syndrome has markedly boosted in parallel. Therefore, obesity has been recognized as the leading cause for the metabolic syndrome since it is strongly associated with all metabolic risk factors. High prevalence of the metabolic syndrome is not unique to the USA and Europe and it is also increasing in most Asian countries. Insulin resistance has elucidated most, if not all, of the pathophysiology of the metabolic syndrome because it contributes to hyperglycemia. Furthermore, a major contributor to the development of insulin resistance is an overabundance of circulating fatty acids. Plasma fatty acids are derived mainly from the triglycerides stored in adipose tissues, which are released through the action of the cyclic AMP-dependent enzyme, hormone sensitive lipase. This review summarizes the latest concepts in the definition, pathogenesis, pathophysiology, and diagnosis of the metabolic syndrome, as well as its preventive measures and therapeutic strategies in children and adolescents.
+
+Metabolic Syndrome and Breast Cancer: Prevalence, Treatment Response, and Prognosis
+
+Number of 
+
+Key takeaways:Metabolic syndrome significantly impacts breast cancer risk, progression, treatment response, and prognosis, leading to unfavorable treatment responses and increased recurrence and mortality rates.
+
+Abstract:Metabolic syndrome is a type of multifactorial metabolic disease with the presence of at least three factors: obesity, diabetes mellitus, low high-density lipoprotein, hypertriglyceridemia, and hypertension. Recent studies have shown that metabolic syndrome and its related components exert a significant impact on the initiation, progression, treatment response, and prognosis of breast cancer. Metabolic abnormalities not only increase the disease risk and aggravate tumor progression but also lead to unfavorable treatment responses and more treatment side effects. Moreover, biochemical reactions caused by the imbalance of these metabolic components affect both the host general state and organ-specific tumor microenvironment, resulting in increased rates of recurrence and mortality. Therefore, this review discusses the recent advances in the association of metabolic syndrome and breast cancer, providing potential novel therapeutic targets and intervention strategies to improve breast cancer outcome.
+
+Longevity Analysis by Using the Overall Metabolism and Life Routine Regularity via GH-Method:Math-physical Medicine.
+
+Number of 
+
+Key takeaways:Life longevity may be linked to overall metabolism and life routine regularity, as demonstrated through the 'math-physical medicine' approach.
+
+Abstract:This paper describes one of the author’s hypothetical theories of relationship between life longevity and overall metabolism (the macro-system view), including specifically the life routine regularity (a specific micro-category). The dataset is provided by the author, who uses his own type 2 diabetes metabolic conditions control, as a case study via the “math-physical medicine”approach of a non-traditional methodology in medical research.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

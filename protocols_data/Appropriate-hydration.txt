@@ -1,0 +1,579 @@
+PROTOCOL: Appropriate hydration
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Both dehydration and overhydration can be harmful – maintaining balance is key.
+DESCRIPTION: Maintaining adequate hydration helps to preserve optimal performance during exercise and daily activities, reduces feelings of fatigue, and supports efficient brain and cardiovascular function.
+
+CONTENT SECTIONS:
+
+Appropriate hydration
+
+Support for performance and recovery
+
+Maintaining adequate hydration helps to preserve optimal performance during exercise and daily activities, reduces feelings of fatigue, and supports efficient brain and cardiovascular function.
+
+Level of evidence:Strong
+
+Level of risk:Negligible
+
+Drinking water increases body fluid volume, which improves blood flow and oxygen delivery to tissues, as well as regulates blood viscosity and blood pressure. Hydration supports electrolyte balance, which is crucial for proper nerve conduction and muscle contraction. By stabilizing plasma volume and neuron excitability, water quickly alleviates fatigue and accelerates post-exercise recovery.
+
+Level of risk:Negligible
+
+Hydration is generally well tolerated, but excessive fluid intake may cause stomach discomfort or, in rare cases, hyponatremia.
+
+Hydration in its standard form is safe for most people but may be inadvisable in patients with certain conditions or fluid disorders.
+
+1.5–3 L of water per day, depending on body weight and physical activity level
+
+Spring water, isotonic drinks for electrolyte replenishment
+
+First benefits observed after 30–60 minutes of intake
+
+Regularly throughout the day: in the morning, before and after exercise, and during the day
+
+Drink 100–150 ml every 15–20 minutes, rather than large volumes at once, to absorb fluids better.
+
+Light yellow urine indicates proper hydration; darker color means you need to increase water intake.
+
+Replenish electrolytes
+
+After intense exercise, reach for isotonic drinks or add a pinch of salt to your water.
+
+Avoid excess caffeine
+
+Coffee and tea are dehydrating – drink them in moderation and supplement with extra water.
+
+Drink before feeling thirsty
+
+Thirst is already a sign of mild dehydration – drink regularly, even if you don't feel thirsty.
+
+Adequate hydration has a significant positive impact on brain function; even mild dehydration can impair memory, concentration, processing speed, and mood, while fluid replenishment quickly improves these functions.
+
+Impact of hydration on cognitive functions and mood
+
+Changes in brain structure and function
+
+Cardiovascular system
+
+Adequate hydration has a significant positive impact on the cardiovascular system. Both observational and experimental studies indicate that proper hydration supports heart health, improves vascular function, and lowers the risk of cardiovascular diseases.
+
+Key mechanisms and benefits
+
+Limitations and recommendations
+
+Fatigue and regeneration
+
+Adequate hydration reduces fatigue and supports recovery processes after physical exertion, helping to maintain performance and speed up the return to form.
+
+Impact of hydration on fatigue
+
+Hydration and recovery
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:54
+
+Final comment:A strong level of evidence comes from numerous meta-analyses and large randomized controlled trials conducted in various populations (children, older adults, athletes, patients with cardiovascular diseases), whose results consistently confirm the beneficial impact of hydration on cognitive function, body recovery, and cardiovascular health.
+
+Effects of hydration status on cognitive performance and mood.
+
+Number of 
+
+Key takeaways:Water consumption positively influences cognitive abilities and mood, particularly in individuals with poor fluid regulation, such as the elderly and children.
+
+Abstract:Although it is well known that water is essential for human homeostasis and survival, only recently have we begun to understand its role in the maintenance of brain function. Herein, we integrate emerging evidence regarding the effects of both dehydration and additional acute water consumption on cognition and mood. Current findings in the field suggest that particular cognitive abilities and mood states are positively influenced by water consumption. The impact of dehydration on cognition and mood is particularly relevant for those with poor fluid regulation, such as the elderly and children. We critically review the most recent advances in both behavioural and neuroimaging studies of dehydration and link the findings to the known effects of water on hormonal, neurochemical and vascular functions in an attempt to suggest plausible mechanisms of action. We identify some methodological weaknesses, including inconsistent measurements in cognitive assessment and the lack of objective hydration state measurements as well as gaps in knowledge concerning mediating factors that may influence water intervention effects. Finally, we discuss how future research can best elucidate the role of water in the optimal maintenance of brain health and function.
+
+The importance of good hydration for day-to-day health.
+
+Number of 
+
+Key takeaways:Good hydration is crucial for maintaining cognitive function, alertness, and short-term memory, as well as promoting overall health and well-being.
+
+Abstract:The role of hydration in the maintenance of health is increasingly recognized. Studies in healthy adults show that even mild dehydration impairs a number of important aspects of cognitive function such as concentration, alertness, and short-term memory. However, due to the lack of suitable tools for assessment of hydration status, the effects of hydration on other aspects of day-to-day health and well-being remain to be demonstrated.
+
+Autonomic adaptations mediate the effect of hydration on brain functioning and mood: Evidence from two randomized controlled trials
+
+Number of 
+
+Key takeaways:Minor dehydration (<1% body weight loss) negatively impacts brain function, mood, and cardiovascular health, leading to reduced heart rate variability, increased anxiety, and greater perceived effort.
+
+Minor degree of hypohydration adversely influences cognition: a mediator analysis.
+
+Number of 
+
+Key takeaways:Drinking water improves memory and focused attention when there is a loss of 1% body mass due to hypohydration, making it beneficial for cognitive functioning in everyday life.
+
+Abstract:BACKGROUND
+Because the assumption that small changes in hydration status are readily compensated by homeostatic mechanisms has been little studied, the influence of hypohydration on cognition was examined.
+
+OBJECTIVES
+We assessed whether a loss of <1% of body mass due to hypohydration adversely influenced cognition, and examined the possible underlying mechanisms.
+
+DESIGN
+A total of 101 individuals were subjected to a temperature of 30°C for 4 h and randomly either did or did not consume 300 mL H2O during that period. Changes in body mass, urine osmolality, body temperature, and thirst were monitored. Episodic memory, focused attention, mood, and the perceived difficulty of tasks were measured on 3 occasions. The data were analyzed with the use of a regression-based approach whereby we looked for variables that mediated the influence of hypohydration on psychological functioning.
+
+RESULTS
+Drinking water improved memory and focused attention. In the short-term, thirst was associated with poorer memory. Later, a greater loss of body mass was associated with poorer memory and attention (mean loss: 0.72%). At 90 min, an increase in thirst was associated with a decline in subjective energy and increased anxiety and depression, effects that were reduced by drinking water. At 180 min, subjects found the tests easier if they had consumed water.
+
+CONCLUSIONS
+Drinking water was shown, for the first time to our knowledge, to benefit cognitive functioning when there was a loss of <1% body mass at levels that may occur during everyday living. Establishing the variables that generate optimal fluid consumption will help to tailor individual advice, particularly in clinical situations. This trial was registered at clinicaltrials.gov as NCT02671149.
+
+Water and Brain Function - Effects of Hydration Status on Neurostimulation with Transcranial Magnetic Stimulation.
+
+Number of 
+
+Key takeaways:Rehydration can increase excitability in motor TMS, affecting brain volume conduction and neurostimulation techniques.
+
+Abstract:INTRODUCTION
+Neurostimulation/neurorecording are tools to study, diagnose, and treat neurologic/psychiatric conditions. Both techniques depend on volume conduction between scalp and excitable brain tissue. We examine how neurostimulation with TMS is affected by hydration status, a physiologic variable which can influence the volume of fluid spaces/cells, excitability and cellular/global brain functioning. Compared to dehydration, we expected rehydration to show signs of macroscopic and microscopic volume changes including decreased scalp-cortex distance (brain closer to stimulator) and astrocyte swelling-induced glutamate release.
+
+METHODS
+Normal healthy adult participants (32, 9 male) had common motor TMS measures taken in a repeated measures design from dehydrated (12-hour overnight fast/thirst) and rehydrated (identical dehydration protocol followed by rehydration with 1 L water in 1 hour) testing days. The target region was left primary motor cortex hand area. Response at the target muscle was recorded with electromyography. Urinalysis confirmed hydration status.
+
+RESULTS
+Motor hotspot shifted in half of participants. Motor threshold decreased in rehydration, indicating increased excitability. Even after re-dosing/re-localizing TMS to the new threshold/hotspot, rehydration still showed evidence of increased excitability: recruitment curve measures generally shifted upwards and SICF was increased. SICI, LICI, LICF, and CSP were relatively unaffected. The hydration perturbations were mild/subclinical, based on the magnitude/speed and urinalysis.
+
+DISCUSSION
+Motor TMS measures showed evidence of expected physiologic changes of osmotic challenges. Hydration may be a source of variability affecting techniques dependant on brain volumes/volume conduction. These concepts are important for researchers/clinicians using such techniques or dealing with the wide variety of disease processes involving water balance.
+
+Effects of drinking supplementary water at school on cognitive performance in children
+
+Number of 
+
+Key takeaways:Drinking supplementary water during the school day improves short-term memory and reduces dehydration in children living in hot climates.
+
+Do small differences in hydration status affect mood and mental performance?
+
+Number of 
+
+Key takeaways:Small differences in hydration status can affect mood and mental performance, but more research is needed on the effects of mild dehydration on mood, fatigue, and alertness in individuals with sedentary lifestyles in temperate climates.
+
+Abstract:Although it has been suggested that many in the general population are dehydrated to the extent that mood and cognition are disrupted, there has been little research investigating mild levels of dehydration. When dehydration reduces body mass by more than 2%, it has been consistently reported that mood is influenced, fatigue is greater, and alertness is lower. In contrast, the effects on cognition have been less consistent. Only a few studies have looked at females and these studies made little attempt to consider hormones that influence kidney functioning. In particular, there has been virtually no attempt to look at changes in hydration status in the range that occurs in individuals with a sedentary lifestyle in a temperate climate. There is a consequent need to study individuals who have lost up to 1% of body mass due to dehydration. While 4 intervention trials have found that the cognition of children improved in response to water consumption, the effects of water consumption on cognition in older adults, another high-risk group, have been largely ignored.
+
+Effects of Water Provision and Hydration on Cognitive Function among Primary-School Pupils in Zambia: A Randomized Trial
+
+Number of 
+
+Key takeaways:Water provision and hydration may have a positive relationship with increased visual attention in primary-school pupils in Zambia, but their cognitive performance was not impacted.
+
+Abstract:There is a well-established link between hydration and improved cognitive performance among adults, with evidence of similar findings among children. No trials have investigated the impact of water provision on cognitive performance among schoolchildren in hot and arid low-re
+
+Cognitive performance in relation to hydration status and water intake among older adults, NHANES 2011–2014
+
+Number of 
+
+Key takeaways:Moderately higher hydration status and adequate water intake are associated with improved attention/processing speed in older women, but not in men.
+
+Abstract:PurposeRisks of dehydration and cognitive decline increase with advancing age, yet the relation between dehydration, water intake, and cognitive performance among older adults remains understudied.MethodsUsing data from the 2011–2014 cycles of the Nutrition and Health Examination Survey (NHANES), we tested if calculated serum osmolarity (Sosm) and adequate intake (AI) of water among women (n = 1271) and men (n = 1235) ≥ 60 years old were associated with scores of immediate and delayed recall, verbal fluency, and attention/processing speed. Sosm was categorized as < 285 (hyperhydrated), 285–289, 290–294, 295–300, or > 300 (dehydrated) mmol/L. AI of water was defined as ≥ 2 L/day for women and ≥ 2.5 L/day for men.ResultsWomen with Sosm between 285 and 289 mmol/L scored 3.2–5.1 points higher on the Digit Symbol Substitution test (DSST) of attention/processing speed than women in other Sosm categories (P values < 0.05). There was evidence of a curvilinear relationship between DSST scores and Sosm among women and men (P values for quadratic terms < 0.02). Meeting an alternative AI on water intake of ≥ 1 mL/kcal and ≥ 1500 mL, but not the sex-specific AI, was associated with scoring one point higher on a verbal fluency test (P = 0.02) and two points higher on the DSST (P = 0.03) among women. Significant negative associations between dehydration or inadequate water intake and test scores were not observed among men.ConclusionHydration status and water intake were moderately associated with attention/processing speed among females. Future work should consider the effects of both dehydration and overhydration on cognitive function and investigate potential sex differences in cognitive responses to hydration status.
+
+Water intake, hydration status and 2-year changes in cognitive performance: a prospective cohort study
+
+Number of 
+
+Key takeaways:Lower physiological hydration status is associated with greater declines in global cognitive function over a 2-year period in older adults with metabolic syndrome and overweight or obesity.
+
+Abstract:Abstract Background Water intake and hydration status have been suggested to impact cognition; however, longitudinal evidence is limited and often inconsistent. This study aimed to longitudinally assess the association between hydration status and water intake based on current recommendations, with changes in cognition in an older Spanish population at high cardiovascular disease risk. Methods A prospective analysis was conducted of a cohort of 1957 adults (aged 55–75) with overweight/obesity (BMI between ≥ 27 and &lt; 40 kg/m 2 ) and metabolic syndrome from the PREDIMED-Plus study. Participants had completed bloodwork and validated, semiquantitative beverage and food frequency questionnaires at baseline, as well as an extensive neuropsychological battery of 8 validated tests at baseline and 2 years of follow-up. Hydration status was determined by serum osmolarity calculation and categorized as &lt; 295 mmol/L (hydrated), 295–299.9 mmol/L (impending dehydration), and ≥ 300 mmol/L (dehydrated). Water intake was assessed as total drinking water intake and total water intake from food and beverages and according to EFSA recommendations. Global cognitive function was determined as a composite z -score summarizing individual participant results from all neuropsychological tests. Multivariable linear regression models were fitted to assess the associations between baseline hydration status and fluid intake, continuously and categorically, with 2-year changes in cognitive performance. Results The mean baseline daily total water intake was 2871 ± 676 mL/day (2889 ± 677 mL/day in men; 2854 ± 674 mL/day in women), and 80.2% of participants met the ESFA reference values for an adequate intake. Serum osmolarity (mean 298 ± 24 mmol/L, range 263 to 347 mmol/L) indicated that 56% of participants were physiologically dehydrated. Lower physiological hydration status (i.e., greater serum osmolarity) was associated with a greater decline in global cognitive function z -score over a 2-year period ( β : − 0.010; 95% CI − 0.017 to − 0.004, p -value = 0.002). No significant associations were observed between water intake from beverages and/or foods with 2-year changes in global cognitive function. Conclusions Reduced physiological hydration status was associated with greater reductions in global cognitive function over a 2-year period in older adults with metabolic syndrome and overweight or obesity. Future research assessing the impact of hydration on cognitive performance over a longer duration is needed. Trial registration International Standard Randomized Controlled Trial Registry, ISRCTN89898870. Retrospectively registered on 24 July 2014
+
+The Effects of Hydration Status on Cognitive Performances among Young Adults in Hebei, China: A Randomized Controlled Trial (RCT)
+
+Number of 
+
+Key takeaways:Dehydration negatively impacts cognitive performance and brain function, while water supplementation improves these outcomes in young adults.
+
+Abstract:Background: Dehydration may affect cognitive performances as water accounts for 75% of brain mass. The purpose of this study is to investigate the effects of dehydration and water supplementation on cognitive performances, and to explore the changes of brain structures and functions using MRI. Methods and Analysis: A double-blinded randomized controlled trial has been designed and will be implemented among 64 college students aged 18–23 years from Baoding, China. Subjects will be asked to restrict water for 36 h. The first morning urine will be collected and urine osmolality measured. The fasting blood samples will be collected and osmolality and copeptin will be measured. Three MRI sequences, including fMRI, ASL and 3D BRAVO will be taken to observe the changes of whole brain volume, ventricular volume, BOLD response and the cortex thickness. Cognitive performances and mood will be performed with software and questionnaires, respectively. Subjects in the water supplementation groups 1, 2, 3 will drink 200, 500 and 1000 mL of water, respectively, while subjects in the no water supplementation group will not drink any water. After 90 min, urine and blood samples, MRI scans, cognitive performances and mood will be performed. One-way ANOVA will be used to study the differences among groups. Ethics and Dissemination: The study protocol has been approved by the Peking University Institutional Review Committee. Ethical approval project identification code is IRB00001052-16071. Results will be published according to the CONSORT statement and will be reported in peer-reviewed journals.
+
+Dehydration and rehydration affect brain regional density and homogeneity among young male adults, determined via magnetic resonance imaging: A pilot self-control trial
+
+Number of 
+
+Key takeaways:Rehydration increases brain gray matter and white matter density and improves brain regional homogeneity, while dehydration increases cerebrospinal fluid density and decreases brain regional homogeneity in young male adults.
+
+Abstract:The effects of dehydration and rehydration on brain regional density and homogeneity are unknown and have been infrequently studied. In this pilot self-control study, twelve participants aged 18-25 years were recruited and the brain was scanned using magnetic resonance imaging for three tests under different hydration statuses. In three tests, urine osmolality was determined to assess hydration status. Test 1 was conducted after 12 h of overnight fasting. Test 2 was conducted in a dehydration state induced by 36 h of water deprivation. Test 3 was conducted in a rehydration state, which was induced by 1.5 L of purified water supplementation. Compared with test 1, participants under the dehydration state in test 2 had higher cerebrospinal fluid density (p < 0.001). Compared with test 2, participants under the rehydration state in test 3 showed an extensive increase in gray matter density in widespread brain regions, mainly involving the left middle temporal gyrus, cuneus, right thalamus, left rolandic opercula, Brodmann area 39, right precentral, left postcentral gyrus, and cingulate gyrus (p < 0.001); a higher white matter density in the temporal lobe, sub-lobar, and sub-gyral areas; and a lower cerebrospinal fluid density (p < 0.001). The multimodal, multiscale neuroimaging marker of the human brain connection—the regional homogeneity (ReHo) index—was used for evaluating the connectivity of nodes in the brain. Compared with test 1, participants in test 2 had a lower ReHo value in the right amygdala, left occiput median, right lingual, opercula part of right inferior frontal gyrus, and right precuneus (p < 0.01). Compared with test 2, participants in test 3 had a higher ReHo value in the right amygdala, right lingual, opercula part of the right inferior frontal gyrus, and right precuneus (p < 0.01). Dehydration state increased cerebrospinal fluid density, decreased brain regional homogeneity. Rehydration state increased brain gray matter and white matter density widespreadly, and increased brain regional homogeneity.
+
+Narrative Review of Hydration and Selected Health Outcomes in the General Population
+
+Number of 
+
+Key takeaways:Adequate hydration is crucial for maintaining proper health, particularly in cognition, kidney stone risk, and weight management, but more randomized trials are needed to confirm these findings.
+
+Abstract:Although adequate hydration is essential for health, little attention has been paid to the effects of hydration among the generally healthy population. This narrative review presents the state of the science on the role of hydration in health in the general population, specifically in skin health, neurological function (i.e., cognition, mood, and headache), gastrointestinal and renal functions, and body weight and composition. There is a growing body of evidence that supports the importance of adequate hydration in maintaining proper health, especially with regard to cognition, kidney stone risk, and weight management. However, the evidence is largely associative and lacks consistency, and the number of randomized trials is limited. Additionally, there are major gaps in knowledge related to health outcomes due to small variations in hydration status, the influence of sex and sex hormones, and age, especially in older adults and children.
+
+A 4-d Water Intake Intervention Increases Hydration and Cognitive Flexibility among Preadolescent Children.
+
+Number of 
+
+Key takeaways:A 4-day water intake intervention improved urinary markers of hydration and selectively benefits cognitive flexibility in preadolescent children, with benefits observed during task switching.
+
+Abstract:BACKGROUND
+Hydration effects on cognition remain understudied in children. This is concerning since a large proportion of US children exhibit insufficient hydration.
+
+OBJECTIVE
+This study investigated the effects of water intake on urinary markers of hydration and cognition among preadolescents.
+
+METHODS
+A 3-intervention crossover design was used among 9- to 11-y-olds . Participants maintained their water intake or consumed high (2.5 L/d) or low (0.5 L/d) water for 4 d. The primary outcomes were performance on cognitive tasks requiring inhibition, working memory, and cognitive flexibility assessed using a modified flanker, go/no-go, and color-shape switch tasks, respectively. Secondary outcomes included urine hydration indices assessed using 24-h urine collected during day 4 of each intervention. Repeated-measures ANOVAs were used to assess intervention effects.
+
+RESULTS
+There was a significant difference in hydration across all 3 interventions. Urine color during the low intervention was greater than during AL , and both were greater than during the high intervention (all P ≤ 0.01). Similarly, osmolality and USG during the low intervention were greater during AL, and both were greater than during the high intervention (all P ≤ 0.01). USG and osmolality AL values were related to switch task measures (β: 0.21 to -0.31, P < 0.05). Benefits of the high intervention were observed during the switch task, whereby participants exhibited 34% lower working memory cost relative to the low intervention. No significant changes in cognition were observed for the flanker and go/no-go tasks.
+
+CONCLUSIONS
+The water intervention improved urinary markers of hydration and had selective benefits during task switching. Furthermore, children's cognitive flexibility selectively benefits from greater habitual hydration and water intake. This study is registered at clinicaltrials.gov as NCT02816450.
+
+Autonomic Adaptations mediate the effect of Hydration on Brain Functioning, Cognition and Mood: A Randomised Controlled Trial.
+
+Number of 
+
+Key takeaways:Drinking water prevents memory and mood declines due to minor hypo-hydration, which is linked to reduced heart rate variability, increased anxiety, and reduced autonomic activity in the brain.
+
+Abstract:Dehydration (water loss: 2.0% of body weight) has significant negative effects on physical and mental performance. In the current study, the effects of minor (water loss <1.0% of body weight) hypo-hydration on CNS function, mood and cardiovascular function were measured. On two mornings twelve male participants were exposed to a temperature of 30oC for four hours and either did or did not drink two 150ml glasses of water during that time. Subjects not given water lost 0.6% body weight. Subjects participated in a fMRI protocol during which they completed a modified version of the Paced Auditory Serial Addition Test (PASAT): a challenging arithmetic task designed to elicit autonomic arousal. Throughout the morning the subjects had their heart rate variability (HRV) monitored. At periodic intervals, subjects rated their thirst and mood by visual analogue scales and at the end of the PASAT task, they rated its difficulty. Changes in body temperature and fluid loss (perspiration and urine) and urine osmolality were monitored. Decreases in functional magnetic resonance imaging (fMRI) blood oxygen dependent level (BOLD) activity in the orbitofrontal cortex, ventral cingulate gyrus, dorsal cingulate cortex, hypothalamus, amygdala, right striatum, post-central gyrus and superior parietal cortex were seen when participants were hypo-hydrated. These deactivations were associated with reduced HRV, greater perceived effort and more anxiety. Drinking water also prevented a decline in memory and mood. These data are discussed in relation to a model that describes how autonomic regulatory and interoceptive processes may contribute to the cognitive and affective consequences of hypo-hydration. This trial was registered at clinicaltrials.gov NCT03525470.
+
+H2OAthletes study protocol: effects of hydration changes on neuromuscular function in athletes
+
+Number of 
+
+Key takeaways:Increasing total water intake in athletes with low water intake can improve neuromuscular function and hydration status, potentially enhancing athletic performance.
+
+Abstract:Abstract We aim to understand the effects of hydration changes on athletes’ neuromuscular performance, on body water compartments, fat-free mass hydration and hydration biomarkers and to test the effects of the intervention on the response of acute dehydration in the hydration indexes. The H2OAthletes study (clinicaltrials.gov ID: NCT05380089) is a randomised controlled trial in thirty-eight national/international athletes of both sexes with low total water intake (WI) (i.e. < 35·0 ml/kg/d). In the intervention, participants will be randomly assigned to the control (CG, n 19) or experimental group (EG, n 19). During the 4-day intervention, WI will be maintained in the CG and increased in the EG (i.e. > 45·0 ml/kg/d). Exercise-induced dehydration protocols with thermal stress will be performed before and after the intervention. Neuromuscular performance (knee extension/flexion with electromyography and handgrip), hydration indexes (serum, urine and saliva osmolality), body water compartments and water flux (dilution techniques, body composition (four-compartment model) and biochemical parameters (vasopressin and Na) will be evaluated. This trial will provide novel evidence about the effects of hydration changes on neuromuscular function and hydration status in athletes with low WI, providing useful information for athletes and sports-related professionals aiming to improve athletic performance.
+
+Effects of Water Restriction and Supplementation on Cognitive Performances and Mood among Young Adults in Baoding, China: A Randomized Controlled Trial (RCT)
+
+Number of 
+
+Key takeaways:Dehydration impairs episodic memory and mood, while water supplementation improves processing speed, working memory, and mood, with 1000 mL being the optimal volume for young adults.
+
+Abstract:The brain is approximately 75% water. Therefore, insufficient water intake may affect the cognitive performance of humans. The present study aimed to investigate the effects of water restriction and supplementation on cognitive performances and mood, and the optimum amount of water to alleviate the detrimental effects of dehydration, among young adults. A randomized controlled trial was conducted with 76 young, healthy adults aged 18–23 years old from Baoding, China. After fasting overnight for 12 h, at 8:00 a.m. of day 2, the osmolality of the first morning urine and blood, cognitive performance, and mood were measured as a baseline test. After water restriction for 24 h, at 8:00 a.m. of day 3, the same indexes were measured as a dehydration test. Participants were randomly assigned into four groups: water supplementation group (WS group) 1, 2, or 3 (given 1000, 500, or 200 mL purified water), and the no water supplementation group (NW group). Furthermore, participants were instructed to drink all the water within 10 min. Ninety minutes later, the same measurements were performed as a rehydration test. Compared with the baseline test, participants were all in dehydration and their scores on the portrait memory test, vigor, and self-esteem decreased (34 vs. 27, p < 0.001; 11.8 vs. 9.2, p < 0.001; 7.8 vs. 6.4, p < 0.001). Fatigue and TMD (total mood disturbance) increased (3.6 vs. 4.8, p = 0.004; 95.7 vs. 101.8, p < 0.001) in the dehydration test. Significant interactions between time and volume were found in hydration status, fatigue, vigor, TMD, symbol search test, and operation span test (F = 6.302, p = 0.001; F = 3.118, p = 0.029; F = 2.849, p = 0.043; F = 2.859, p = 0.043; F = 3.463, p = 0.021) when comparing the rehydration and dehydration test. Furthermore, the hydration status was better in WS group 1 compared to WS group 2; the fatigue and TMD scores decreased, and the symbol search test and operation span test scores increased, only in WS group 1 and WS group 2 (p < 0.05). There was no significant difference between them (p > 0.05). Dehydration impaired episodic memory and mood. Water supplementation improved processing speed, working memory, and mood, and 1000 mL was the optimum volume.
+
+The Effect of Hydration on Cognition in Children: The WITiKids Randomized Controlled Crossover Trial (OR32-08-19).
+
+Number of 
+
+Key takeaways:Better habitual hydration in children leads to better cognitive flexibility performance and improved urinary markers of hydration.
+
+Abstract:Objectives
+Previous work in adults has shown that dehydration has negative effects on cognitive function. However, the effect of changes in hydration on cognitive function remain understudied in children. This is relevant since epidemiological data suggests that a large proportion of children in the United States exhibit highly concentrated urine, suggestive of insufficient hydration. This study aimed to determine the effects of changes in daily water intake on urinary markers of hydration and cognitive control among school-aged children.
+
+Methods
+9-11-year-old children (N = 82) completed a three-intervention crossover water intake intervention where they were asked to either maintain their regular water intake (ad libitum) or consume High or Low ) water for 4 consecutive days. Following the interventions, cognitive control tasks requiring inhibition, working memory, and cognitive flexibility were assessed using a modified flanker, Go/NoGo, and color-shape switch tasks. During day 4 of each intervention, children collected their urine over a 24-hour period for urine color, urine specific gravity (USG), and osmolality assessment.
+
+Results
+Hydration differed significantly between interventions. Urine color during the Low intervention was significantly higher than ad libitum and both were significantly greater than High intervention (Low: 6 and 2 , ad libitum: 5 and 2 , High: 3 and 0 , all P ≤ 0.01). Similar intervention effects were observed for osmolality (Low: 912 ± 199, ad libitum: 790 ± 257.0, High: 260 ± 115 mOsmol/kg, all P < 0.001) and USG (Low: 1.023 ± 0.005, ad libitum: 1.020 ± 0.007, High: 1.005 ± 0.004, all P < 0.001). Ad libitumhydration was positively related to switch task performance. Benefits of the High intervention were observed during the switch task whereby participants exhibited lower working memory cost relative to the Low intervention. No significant changes in cognition were observed for the flanker and Go/NoGo tasks.
+
+Conclusions
+Children with better habitual hydration exhibited superior performance during the cognitive flexibility task. Additionally, the 4d water intervention resulted in significant changes in urinary markers of hydration and had selective benefits during task switching.
+
+Funding Sources
+Danone Research, Palaiseau, France.
+
+Effects of Dehydration and Rehydration on Cognitive Performance and Mood among Male College Students in Cangzhou, China: A Self-Controlled Trial
+
+Number of 
+
+Key takeaways:Dehydration negatively affects cognitive performance and mood, while rehydration improves fatigue, mood disturbance, short-term memory, attention, and reaction time.
+
+Abstract:Water accounts for 75% of brain mass. Associations may exist between hydration and cognitive performance. The objective of this study was to investigate the effects of dehydration and rehydration on cognitive performance and mood. In this self-control trial, 12 men were recruited from a medical college in Cangzhou, China. After 12 h of overnight fasting, the participants took baseline tests at 8:00 AM on day 2. First morning urine and blood osmolality were analyzed to determine hydration state. Height, weight, and blood pressure were measured following standardized procedures. A visual analog scale for the subjective sensation of thirst was applied, and a profile of mood states questionnaire was applied. Tests were conducted for cognitive performance, including a test of digit span forward and backward, digit-symbol substitutions, dose-work, and stroop effects. Participants were required not to drink water for 36 h but were given three meals on day 3. On day 4, the same indexes were tested as a baseline test. At 8:30 AM, participants drank 1500 mL of purified water over 15 min. After a 1 h interval, the same measurements were performed. Compared with baseline test results, during the dehydration test, participants had lower scores of vigor (11.9 vs. 8.8, %, p = 0.007) and esteem-related affect (8.2 vs. 5.7, %, p = 0.006), lower total scores of digit span (14.3 vs. 13.3, %, p = 0.004), and higher error rates for dose-work (0.01 vs. 0.16, %, p = 0.005). Compared with the dehydration test scores, rehydration test scores showed that fatigue (4.3 vs. 2.1, %, p = 0.005) and total mood disturbance (TMD) (99.0 vs. 90.2, %, p = 0.008) improved, and scores of forward, backward, and total digit span increased (7.7 vs. 8.6, p = 0.014; 5.7 vs. 1.2, p = 0.019; 13.3 vs. 15.4, p = 0.001). Increases were also noted in correct number of digit symbol substitutions, reading speed, and mental work ability (70.8 vs. 75.4, p < 0.001; 339.3 vs. 486.4, n/min, p < 0.001; 356.1 vs. 450.2, p < 0.001), and reaction time decreased (30.2 vs. 28.7, s, p = 0.002). As a conclusion, dehydration had negative effects on vigor, esteem-related affect, short-term memory, and attention. Rehydration after water supplementation alleviated fatigue and improved TMD, short-term memory, attention, and reaction.
+
+Effect of Increased Daily Water Intake and Hydration on Health in Japanese Adults
+
+Number of 
+
+Key takeaways:Increasing daily water intake after waking up and before bedtime in healthy Japanese adults may lower blood pressure, increase body temperature, dilute blood waste materials, and protect kidney function.
+
+Abstract:Increased hydration is recommended as healthy habit with several merits. However, supportive data are sparse. To assess the efficacy of increased daily water intake, we tested the effect of water supplementation on biomarkers in blood, urine, and saliva. Twenty-four healthy Japanese men and 31 healthy Japanese women with fasting blood glucose levels ranging from 90–125 mg/dL were included. An open-label, two-arm, randomized controlled trial was conducted for 12 weeks. Two additional 550 mL bottles of water on top of habitual fluid intake were consumed in the intervention group. The subjects drank one bottle of water (550 mL) within 2 h of waking, and one bottle (550 mL) 2 h before bedtime. Subjects increased mean fluid intake from 1.3 L/day to 2.0 L/day, without changes in total energy intake. Total body water rate increased with associated water supplementation. There were no significant changes in fasting blood glucose and arginine vasopressin levels, but systolic blood pressure was significantly decreased in the intervention group. Furthermore, water supplementation increased body temperature, reduced blood urea nitrogen concentration, and suppressed estimated glomerular filtration rate reduction. Additionally, existence of an intestinal microbiome correlated with decreased systolic blood pressure and increased body temperature. Habitual water supplementation after waking up and before bedtime in healthy subjects with slightly elevated fasting blood glucose levels is not effective in lowering these levels. However, it represents a safe and promising intervention with the potential for lowering blood pressure, increasing body temperature, diluting blood waste materials, and protecting kidney function. Thus, increasing daily water intake could provide several health benefits.
+
+Hydration Status and Cardiovascular Function
+
+Number of 
+
+Key takeaways:Acute hypohydration impairs vascular function and blood pressure regulation, potentially increasing the risk of cardiovascular events.
+
+Abstract:Hypohydration, defined as a state of low body water, increases thirst sensations, arginine vasopressin release, and elicits renin–angiotensin–aldosterone system activation to replenish intra- and extra-cellular fluid stores. Hypohydration impairs mental and physical performance, but new evidence suggests hypohydration may also have deleterious effects on cardiovascular health. This is alarming because cardiovascular disease is the leading cause of death in the United States. Observational studies have linked habitual low water intake with increased future risk for adverse cardiovascular events. While it is currently unclear how chronic reductions in water intake may predispose individuals to greater future risk for adverse cardiovascular events, there is evidence that acute hypohydration impairs vascular function and blood pressure (BP) regulation. Specifically, acute hypohydration may reduce endothelial function, increase sympathetic nervous system activity, and worsen orthostatic tolerance. Therefore, the purpose of this review is to present the currently available evidence linking acute hypohydration with altered vascular function and BP regulation.
+
+Water Intake and Markers of Hydration Are Related to Cardiometabolic Risk Biomarkers in Community-Dwelling Older Adults: A Cross-Sectional Analysis
+
+Number of 
+
+Key takeaways:Higher water intake and better hydration are associated with better cardiometabolic health in older adults, supporting the link between hydration and lipid metabolism.
+
+Abstract:ABSTRACT Background Emerging evidence links underhydration and habitual low water intake to higher cardiometabolic risk, but evidence is limited in community-dwelling older adults. Objectives The objective is to examine if higher water intake and better hydration are associated with better cardiometabolic health. Methods This cross-sectional analysis using general linear models included 2238 participants from the Framingham Heart Study Second Generation and First Generation Omni cohorts with an estimated glomerular filtration rate >30 mL·min–1·1.73 m–2 and a valid FFQ for assessment of water intake. Of these participants, 2219 had fasting spot urinary creatinine data and 950 had 24-h urine creatinine data to assess hydration. Cardiometabolic risk factors included fasting glucose, triglycerides (TGs), total cholesterol (TC), HDL cholesterol, and calculated LDL cholesterol; glycated hemoglobin (HbA1c); C-reactive protein (CRP); and systolic (SBP) and diastolic (DBP) blood pressure. Results The combined cohorts were on average aged 70 y; 55% were women. Mean (95% CI) daily total water intakes were 2098 (2048, 2150) mL for men and 2109 (2063, 2156) mL for women. Total daily water, beverage (including plain water), and plain water intakes demonstrated significant positive trends with HDL cholesterol (P < 0.01). TG concentrations were significantly lower among the highest plain water consumers (P < 0.05). The 24-h urine concentration, as measured by creatinine, was positively associated with LDL cholesterol and TG concentrations ( P < 0.01) and inversely associated with HDL cholesterol concentrations (P < 0.002). Neither water intake nor urine concentration was associated with glucose or HbA1c (P > 0.05). Conclusions Our findings of a consistent pattern between circulating lipid concentrations and different water sources and hydration markers support an association between hydration and lipid metabolism in older adults and add to the growing evidence that inadequate water intake and underhydration may lead to higher cardiometabolic risk.
+
+Influence of Fluid Ingestion on Heart Rate, Cardiac Autonomic Modulation and Blood Pressure in Response to Physical Exercise: A Systematic Review with Meta-Analysis and Meta-Regression
+
+Number of 
+
+Key takeaways:Hydration during exercise reduces heart rate increases, improves autonomic recovery, and slightly increases systolic blood pressure, but does not affect diastolic blood pressure after exercise.
+
+Abstract:A systematic review was undertaken to investigate the involvement of hydration in heart rate (HR), HR variability (HRV) and diastolic (DBP) and systolic (SBP) blood pressure in response to exercise. Data synthesis: The EMBASE, MEDLINE, Cochrane Library, CINAHL, LILACS and Web of Science databases were searched. In total, 977 studies were recognized, but only 36 were included after final screening (33 studies in meta-analysis). This study includes randomized controlled trials (RCTs) and non-RCTs with subjects > 18 years old. The hydration group consumed water or isotonic drinks, while the control group did not ingest liquids. For the hydration protocol (before, during and after exercise), the HR values during the exercise were lower compared to the controls (−6.20 bpm, 95%CI: −8.69; −3.71). In the subgroup analysis, “water ingested before and during exercise” showed lower increases in HR during exercise (−6.20, 95%CI: 11.70 to −0.71), as did “water was ingested only during exercise” (−6.12, 95%CI: −9.35 to −2.89). Water intake during exercise only revealed a trend of avoiding greater increases in HR during exercise (−4,60, 95%CI: −9.41 to 0.22), although these values were not significantly different (p = 0.06) from those of the control. “Isotonic intake during exercise” showed lower HRs than the control (−7.23 bpm, 95% CI: −11.68 to −2.79). The HRV values following the exercise were higher in the hydration protocol (SMD = 0.48, 95%CI: 0.30 to 0.67). The values of the SBP were higher than those of the controls (2.25 mmHg, 95%CI: 0.08 to 4.42). Conclusions: Hydration-attenuated exercise-induced increases in HR during exercise, improved autonomic recovery via the acceleration of cardiac vagal modulation in response to exercise and caused a modest increase in SBP values, but did not exert effects on DBP following exercise.
+
+.
+
+Number of 
+
+Key takeaways:Adequate hydration is crucial for cardiovascular health, cognitive function, and overall well-being.
+
+Abstract:Water is an essential nutrient for health. Inadequate water intake induces states of dehydration and hypovolemia,causing an increase in plasma osmolality proportional to the decrease in body water. Restricting water intake can have harmful effects on cardiovascular health by affecting endothelial function and increasing the viscosity of blood, haematocrit and fibrinogen. Adequate hydration is associated with lower risk of deadly coronary heart disease. Obesity and diabetes are risk factors for cardiovascular disease. Hypohydration is linked to weight gain and obesity. An association between adequate water intake and healthier body composition has been evidenced, there is an inverse relationship between water consumption and weight, body fat and waist circumference. In addition, water consumption decreases the risk of hyperglycemia and type 2 diabetes. Regarding the composition of water, a positive association between the level of calcium and magnesium and cardiovascular health has been observed. On the other hand, hydration also affects cognitive ability. Decreased fluid intake and dehydration have a negative impact on cognitive performance (attention, memory, learning and executive functions), improving cognitive function with rehydration.
+
+The effects of hydration status on cardiovascular system: a review
+
+Number of 
+
+Key takeaways:High intake of water may reduce the risk of cardiovascular diseases, but more research is needed to confirm these associations.
+
+Abstract:Fluid balance is essential for life. Some studies have shown an association between high intake of water and a low risk of cardiovascular diseases. However, the evidence is insufficient or inconsistent to draw substantial conclusions. The author's objective was to review previous studies addressing the influence of drinking water and hydration status on the cardiovascular system. The PubMed and Google Scholar databases were searched using relevant terms. Animal and human studies in the English language which were highly relevant to the topic were selected and summarized. Drinking about half a liter of water rapidly raises sympathetic activity as much as classic sympathetic stimuli such as caffeine and increases plasma norepinephrine leading to peripheral vasoconstriction. However, cardiac vagal tone enhancement with water ingestion buffers the pressor effects of sympathetic activation. Dehydration leads to mild hypernatremia which gradually causes changes such as increased blood viscosity, hemoconcentration, inflammatory signals, platelet activation and aggregation, adhesive properties of endothelial cells, thrombogenesis, and so on, all of which are harmful to the cardiovascular system. Overhydration can result in water intoxication and increase coagulability. Both dehydration and overhydration are associated with several adverse effects on the cardiovascular system. However, the data regarding how much water can reduce the risk of heart disease is limited and the results are also controversial. More research is needed to confirm the observed associations between hydration status and cardiovascular diseases.
+
+Influence of the hydration on autonomic modulation and cardiorespiratory parameters of coronary heart disease patients submitted to a cardiovascular rehabilitation session: crossover clinical trial protocol
+
+Number of 
+
+Key takeaways:Hydration during and after exercise in coronary heart disease patients may positively influence autonomic modulation, cardiorespiratory parameters, and perceived exertion and discommodity.
+
+Abstract:Aims: The influence of fluid replacement, realized during and after the exercise on individuals with coronary artery disease (CAD) remains poorly understood. To investigate the influence of hydration on cardiac autonomic modulation, cardiorespiratory parameters and perceived exertion and discommodity, of coronary heart patients submitted to cardiac rehabilitation (CR) session. Methods: This cross-over clinical trial, will recruit 31 adults with more than 45 years old, participants of a cardiovascular rehabilitation program, with CAD diagnosis. The participants will be submitted to an experimental protocol composed of three phases: I) Maximal stress test; II) Control protocol (CP); and III) Hydration protocol (HP). The CP and HP will consist of 10 min of rest in a supine position, 15 min of warming, 40 min of treadmill exercise, 5 min of cooling down and 60 min of rest in a supine position. In the HP, the participants will be hydrated with mineral water, based on the bodyweight reduction of the CP. The water intake will be divided into eight equal portions, offered during the treadmill exercise and recovery period. On CP and HP will be evaluated linear and nonlinear indices of heart rate variability, the heart rate, systolic blood pressure, diastolic blood pressure, respiratory rate, oxygen partial saturation, perceived exertion and discommodity on specifics moments. Conclusion: The results of this study will allow us to identify if the proposed protocol will be able to positively influence the outcomes and, consequently, if could be implement in the clinical practice.
+
+Sex differences in the associations of water, coffee and tea consumption with cardiovascular diseases: a prospective cohort study
+
+Number of 
+
+Key takeaways:Higher water consumption is associated with a reduced risk of cardiovascular diseases, while heavy coffee or tea consumption increases the risk, with significant sex differences in these associations.
+
+Abstract:Background Water, coffee and tea are the primary 
+
+Utility of an Isotonic Beverage on Hydration Status and Cardiovascular Alterations
+
+Number of 
+
+Key takeaways:Isotonic beverages promote greater fluid retention capacity compared to distilled water within 4 hours of consumption, potentially benefiting patients with autonomic failure.
+
+Abstract:This study determined the beverage hydration index (BHI) and postprandial cardiac autonomic activity after consuming an isotonic beverage (IB) compared to distilled water (DW). Twenty-two participants (50% female; mean ± SD; age, 27 ± 3 year; height, 169.1 ± 12.6 cm; weight, 73.3 ± 13.8 kg; BF%, 23 ± 10%) completed two experimental trials where they consumed 1 L DW or an IB; after which urine volume and cardiac autonomic activity was measured through 240 min. Cardiac autonomic activity was quantified using heart rate (HR), log transformed heart rate variability measures (root mean square of successive R–R intervals; RMSSD; low frequency, LF; and high frequency, HF) and systolic time intervals (pre-ejection period, PEP). BHI was significantly greater after IB consumption at min 0 (MD ; 1.31 ), 180 min (0.09 ), and 240 min (0.1 ) compared to DW (p = 0.031). Net fluid balance was significantly greater in IB than DW at 180 min (90 ) and 240 min (106 ) (p = 0.037). HR decreased over time in both beverage trials but was higher following IB ingestion at 0 min (3.9 ), 30 min (5.3 ), and 60 min (2.7 ) (p = 0.0002). lnHF was greater 30 min post DW ingestion compared to IB (0.45 ) (p = 0.039). IB promotes greater fluid retention capacity compared to DW within 4 hours of consumption. The variations in cardiac autonomic measures may warrant further investigation in clinical populations (i.e., patients with autonomic failure).
+
+The Hydrating Effects of Hypertonic, Isotonic and Hypotonic Sports Drinks and Waters on Central Hydration During Continuous Exercise: A Systematic Meta-Analysis and Perspective
+
+Number of 
+
+Key takeaways:Hypotonic carbohydrate-electrolyte drinks provide the greatest benefit to hydration during continuous exercise, with isotonic drinks and water showing similar effects.
+
+Abstract:Abstract Background Body-fluid loss during prolonged continuous exercise can impair cardiovascular function, harming performance. Delta percent plasma volume ( d PV) represents the change in central and circulatory body-water volume and therefore hydration during exercise; however, the effect of carbohydrate–electrolyte drinks and water on the d PV response is unclear. Objective To determine by meta-analysis the effects of ingested hypertonic (&gt; 300 mOsmol kg −1 ), isotonic (275–300 mOsmol kg −1 ) and hypotonic (&lt; 275 mOsmol kg −1 ) drinks containing carbohydrate and electrolyte ( &lt; 50 mmol L −1 ), and non-carbohydrate drinks/water (&lt; 40 mOsmol kg −1 ) on d PV during continuous exercise. Methods A systematic review produced 28 qualifying studies and 68 drink treatment effects. Random-effects meta-analyses with repeated measures provided estimates of effects and probability of superiority ( p + ) during 0–180 min of exercise, adjusted for drink osmolality, ingestion rate, metabolic rate and a weakly informative Bayesian prior. Results Mean drink effects on d PV were: hypertonic − 7.4% , isotonic − 8.7% (90% CL − 10.1, − 7.4), hypotonic − 6.3% (90% CL − 7.4, − 5.3) and water − 7.5% (90% CL − 8.5, − 6.4). Posterior contrast estimates relative to the smallest important effect ( d PV = 0.75%) were: hypertonic-isotonic 1.2% (90% CL − 0.1, 2.6; p + = 0.74), hypotonic-isotonic 2.3% (90% CL 1.1, 3.5; p + = 0.984), water-isotonic 1.3% (90% CL 0.0, 2.5; p + = 0.76), hypotonic-hypertonic 1.1% (90% CL 0.1, 2.1; p + = 0.71), hypertonic-water 0.1% (90% CL − 0.8, 1.0; p + = 0.12) and hypotonic-water 1.1% (90% CL 0.1, 2.0; p + = 0.72). Thus, hypotonic drinks were very likely superior to isotonic and likely superior to hypertonic and water. Metabolic rate, ingestion rate, carbohydrate characteristics and electrolyte concentration were generally substantial modifiers of d PV. Conclusion Hypotonic carbohydrate–electrolyte drinks ingested continuously during exercise provide the greatest benefit to hydration. Graphical abstract
+
+Acute and chronic effects of hydration status on health.
+
+Number of 
+
+Key takeaways:Dehydration and fluid overload are associated with various diseases, but the evidence is insufficient and inconsistent for firm conclusions.
+
+Abstract:Maintenance of fluid and electrolyte balance is essential to healthy living as dehydration and fluid overload are associated with morbidity and mortality. This review presents the current evidence for the impact of hydration status on health. The Web of Science, MEDLINE, PubMed, and Google Scholar databases were searched using relevant terms. Randomized controlled trials and large cohort studies published during the 20 years preceding February 2014 were selected. Older articles were included if the topic was not covered by more recent work. Studies show an association between hydration status and disease. However, in many cases, there is insufficient or inconsistent evidence to draw firm conclusions. Dehydration has been linked with urological, gastrointestinal, circulatory, and neurological disorders. Fluid overload has been linked with cardiopulmonary disorders, hyponatremia, edema, gastrointestinal dysfunction, and postoperative complications. There is a growing body of evidence that links states of fluid imbalance and disease. However, in some cases, the evidence is largely associative and lacks consistency, and the number of randomized trials is limited.
+
+Hydration Influence on the Autonomic Recovery of the Coronary Diseases Patient: Geometric Indices Analysis
+
+Number of 
+
+Key takeaways:Hydration during cardiovascular rehabilitation sessions promotes more efficient recovery of parasympathetic autonomic modulation and increases global heart rate variability in coronary artery disease patients.
+
+Abstract:ABSTRACT Purpose: To evaluate the recovery period of autonomic modulation, through geometric indices of heart rate variability (HRV), on coronary artery disease (CAD) patients submitted to a cardiovascular rehabilitation session (CR), associated with hydration. Methods: Thirty male participants of a CR program, diagnosed with CAD were submitted to the control (CP) and hydration protocol (HP) characterized by a CR session. Only during HP were the participants given 8 equal portions of water. The water amount was determined through the hydric loss measured at the CP. During the protocols, the heart rate was measured beat-by-beat at rest (5–10 minutes) and at recovery (0–5 minutes , 5–10 minutes , 15–20 minutes , 25–30 minutes , 40–45 minutes , 55–60 minutes ) for the HRV analysis, performed by the geometric indices: TINN, RRTRI, SD1, SD2 and SD1/SD2 ratio. Results: Statistically significant differences were observed between the protocols (SD1, pvalue = 0.022), moments (TINN, pvalue = 0.001; SD1, pvalue = 0.019; SD2, pvalue = 0.001; SD1/SD2, pvalue = 0.001) and moments vs. protocol interaction (SD1, pvalue = 0.019). The SD1 index pointed to acceleration of parasympathetic recovery in the first minutes after exercising (HP recovery after M3 vs. CP recovery after M5) and increase in global variability (TINN—HP remained increased in longer, until M5 (M1 83.10 ± 55.76 ms to M5 116.82 ± 67.54 ms) vs. CP that remained increased for a short time, until M2 (M1 77.93 ± 68.56 ms to M2 134.82 ± 56.08 ms). Conclusions: In CAD patients, hydration promoted a more efficient recovery on parasympathetic autonomic modulation and increased the global HRV in the recovery period.
+
+Impact of Hydration on Exercise Performance and Physiological Responses
+
+Number of 
+
+Key takeaways:Proper hydration during exercise improves athletes' physical performance and prevents health-related issues like hyponatremia, fatigue, and perceived exertion.
+
+Abstract:Studies have shown the importance of hydration in maintaining the physical
+performance and physiological responses of athletes. Therefore, the objective of this review was to
+provide data on the impact of hydration on physical performance and physiological responses during
+sports practice.
+
+We performed a search of articles published in selected PubMed and ScienceDirect databases
+from March 2018 to May 2019 using the keywords “hydration”, “dehydration”, “physical performance”,
+“thermoregulation”, and “hydroelectrolytic repositors”.
+
+The scientific data presented in this review show the importance of hydration in maintaining
+heart rate, maximum oxygen volume (VO2MAX), and the physical performance of athletes. Besides,
+our results show that when properly performed, hydration can help athletes avoid hyponatremia, fatigue,
+and quitting due to perceived exertion more quickly.
+
+ Proper hydration during exercise helps achieve satisfactory physical performance and
+prevents health-related problems.
+
+Increased Hydration Can Be Associated with Weight Loss
+
+Number of 
+
+Key takeaways:Increased hydration can lead to weight loss and reduce the risk factors for obesity and type 2 diabetes.
+
+Abstract:This mini-review develops the hypothesis that increased hydration leads to body weight loss, mainly through a decrease in feeding, and a loss of fat, through increased lipolysis. The publications cited come from animal, mainly rodent, studies where manipulations of the central and/or the peripheral renin–angiotensin system lead to an increased drinking response and a decrease in body weight. This hypothesis derives from a broader association between chronic hypohydration (extracellular dehydration) and raised levels of the hormone angiotensin II (AngII) associated with many chronic diseases, such as obesity, diabetes, cancer, and cardiovascular disease. Proposed mechanisms to explain these effects involve an increase in metabolism due to hydration expanding cell volume. The results of these animal studies often can be applied to the humans. Human studies are consistent with this hypothesis for weight loss and for reducing the risk factors in the development of obesity and type 2 diabetes.
+
+Thirst and hydration: Physiology and consequences of dysfunction
+
+Number of 
+
+Key takeaways:Thirst and sodium appetite regulate the body's water and sodium levels, maintaining cardiovascular function and preventing dehydration.
+
+Current Hydration Habits: The Disregarded Factor for the Development of Renal and Cardiometabolic Diseases
+
+Number of 
+
+Key takeaways:Improper hydration habits, such as underhydration and sugar-sweetened beverage consumption, are a risk factor for chronic kidney and cardiovascular diseases.
+
+Abstract:Improper hydration habits are commonly disregarded as a risk factor for the development of chronic diseases. Consuming an intake of water below recommendations (underhydration) in addition to the substitution of sugar-sweetened beverages (SSB) for water are habits deeply ingrained in several countries. This behavior is due to voluntary and involuntary dehydration; and because young children are exposed to SSB, the preference for a sweet taste is profoundly implanted in the brain. Underhydration and SSB intake lead to mild hyperosmolarity, which stimulates biologic processes, such as the stimulation of vasopressin and the polyol-fructose pathway, which restore osmolarity to normal but at the expense of the continued activation of these biological systems. Unfortunately, chronic activation of the vasopressin and polyol-fructose pathways has been shown to mediate many diseases, such as obesity, diabetes, metabolic syndrome, chronic kidney disease, and cardiovascular disease. It is therefore urgent that we encourage educational and promotional campaigns that promote the evaluation of personal hydration status, a greater intake of potable water, and a reduction or complete halting of the drinking of SSB.
+
+Drug Consumption and Hydration Status: Analysis of the Associations in an Elder Population
+
+Number of 
+
+Key takeaways:Chronic treatment with certain drugs, particularly diuretics and cardiovascular drugs, is associated with poorer hydration status in elderly individuals.
+
+Abstract:Hydration status plays a key role in healthy ageing, and it is potentially affected by several factors, including drug consumption. However, research on this issue to date is scarce, especially in highly vulnerable groups, such as the elderly. We aimed to study the relationship linking hydration status, analysed by means of a validated questionnaire, 24 h urine analysis, body composition assessment, and drug consumption in a sample of old adults. A total of 144 elders were included in the study. Cardiovascular drug consumption was significantly associated with a lower water intake in men (β = −0.282, p = 0.029). Moreover, urinary analysis revealed that total drug intake as well as the consumption of diuretics and cardiovascular drugs were associated with poorer hydration status, whereas genito-urinary drugs were associated with an opposite effect, and these results were confirmed in terms of body composition. Hence, total drug consumption (β = −0.205), diuretic (β = −0.408), cardiovascular (β = −0.297), and genito-urinary drugs (β = 0.298) were significantly associated (p < 0.05) with total body water. The obtained results confirmed the impact of chronic treatment with certain drugs on hydration status. Nutritional interventions may be of great interest in certain population groups in order to prevent complications due to altered hydration status.
+
+Associations between hydration status, body composition, sociodemographic and lifestyle factors in the general population: a cross-sectional study
+
+Number of 
+
+Key takeaways:Sex, age, body composition, and physical activity influence body hydration, with differences in water regulation between sexes and a stronger association with physical activity in men.
+
+Abstract:Abstract Background Whole-body hydration status is associated with several health outcomes, such as dehydration, edema and hypertension, but little is known about the nonclinical determinants. Therefore, we studied the associations of sex, age, body composition, nutrition, and physical activity on several body hydration measures. Methods We assessed sociodemographic variables, dietary habits, and physical activity by questionnaire and body composition by bioelectric impedance analysis (BIA). We compared determinants between the sexes and calculated associations between determinants and BIVA hydration measures by multivariable linear regressions. Results A total of 242 adults from the general population (age 18–94, 47% women) were included. Women were younger, smaller, lighter, and had a smaller BMI (kg/m 2 ) than men ( p &lt; 0.05). Women had less muscle mass, less visceral fat mass and less extracellular and intracellular water than men ( p &lt; 0.001). Women showed less intracellular water per extracellular water than men, while men showed higher phase angle values than women (both p &lt; 0.001). Men had a stronger association of hydration measures with physical activity than women. Both sexes showed a decrease in hydration measures with age. Conclusions Sex, age, body composition, and physical activity influence body hydration. There seem to be differences in body water regulation between the sexes. Especially interesting are factors susceptible to preventive measures such as physical activity.
+
+Hydration and Chronic Kidney Disease Progression: A Critical Review of the Evidence
+
+Number of 
+
+Key takeaways:Increasing water intake may improve renal function in patients with chronic kidney disease and those at risk, potentially slowing kidney function loss in polycystic kidney disease.
+
+Abstract:We performed a comprehensive literature review to examine evidence on the effects of hydration on the kidney. By reducing vasopressin secretion, increasing water intake may have a beneficial effect on renal function in patients with all forms of chronic kidney disease (CKD) and in those at risk of CKD. This potential benefit may be greater when the kidney is still able to concentrate urine (high fluid intake is contraindicated in dialysis-dependent patients). Increasing water intake is a well-accepted method for preventing renal calculi, and current evidence suggests that recurrent dehydration and heat stress from extreme occupational conditions is the most probable cause of an ongoing CKD epidemic in Mesoamerica. In polycystic kidney disease (PKD), increased water intake has been shown to slow renal cyst growth in animals via direct vasopressin suppression, and pharmacologic blockade of renal vasopressin-V2 receptors has been shown to slow cyst growth in patients. However, larger clinical trials are needed to determine if supplemental water can safely slow the loss of kidney function in PKD patients.
+
+Pilot study: Effects of drinking hydrogen-rich water on muscle fatigue caused by acute exercise in elite athletes
+
+Number of 
+
+Key takeaways:Drinking hydrogen-rich water before exercise reduces blood lactate levels and improves exercise-induced decline of muscle function in elite athletes.
+
+Abstract:Muscle contraction during short intervals of intense exercise causes oxidative stress, which can play a role in the development of overtraining symptoms, including increased fatigue, resulting in muscle microinjury or inflammation. Recently it has been said that hydrogen can function as antioxidant, so we investigated the effect of hydrogen-rich water (HW) on oxidative stress and muscle fatigue in response to acute exercise.Ten male soccer players aged 20.9 ± 1.3 years old were subjected to exercise tests and blood sampling. Each subject was examined twice in a crossover double-blind manner; they were given either HW or placebo water (PW) for one week intervals. Subjects were requested to use a cycle ergometer at a 75 % maximal oxygen uptake (VO2) for 30 min, followed by measurement of peak torque and muscle activity throughout 100 repetitions of maximal isokinetic knee extension. Oxidative stress markers and creatine kinase in the peripheral blood were sequentially measured.Although acute exercise resulted in an increase in blood lactate levels in the subjects given PW, oral intake of HW prevented an elevation of blood lactate during heavy exercise. Peak torque of PW significantly decreased during maximal isokinetic knee extension, suggesting muscle fatigue, but peak torque of HW didn't decrease at early phase. There was no significant change in blood oxidative injury markers (d-ROMs and BAP) or creatine kinease after exercise.Adequate hydration with hydrogen-rich water pre-exercise reduced blood lactate levels and improved exercise-induced decline of muscle function. Although further studies to elucidate the exact mechanisms and the benefits are needed to be confirmed in larger series of studies, these preliminary results may suggest that HW may be suitable hydration for athletes.
+
+Influence of Exogenous Factors Related to Nutritional and Hydration Strategies and Environmental Conditions on Fatigue in Endurance Sports: A Systematic Review with Meta-Analysis
+
+Number of 
+
+Key takeaways:Nutritional and hydration strategies, along with environmental conditions, significantly impact fatigue in endurance sports, affecting both performance and perceived fatigability.
+
+Abstract:The aim of this systematic review with meta-analysis was to examine the influence of exogenous factors related to nutritional and hydration strategies and environmental conditions, as modulators of fatigue, including factors associated with performance fatigability and perceived fatigability, in endurance tests lasting 45 min to 3 h. A search was carried out using four databases: PubMed, Web of Science, SPORTDiscus, and EBSCO. A total of 5103 articles were screened, with 34 included in the meta-analysis. The review was registered with PROSPERO (CRD42022327203) and adhered to the PRISMA guidelines. The study quality was evaluated according to the PEDro score and assessed using Rosenthal’s fail-safe N. Carbohydrate (CHO) intake increased the time to exhaustion (p < 0.001) and decreased the heart rate (HR) during the test (p = 0.018). Carbohydrate with protein intake (CHO + PROT) increased lactate during the test (p = 0.039). With respect to hydration, dehydrated individuals showed a higher rate of perceived exertion (RPE) (p = 0.016) and had a higher body mass loss (p = 0.018). In hot conditions, athletes showed significant increases in RPE (p < 0.001), HR (p < 0.001), and skin temperature (p = 0.002), and a decrease in the temperature gradient (p < 0.001) after the test. No differences were found when athletes were subjected to altitude or cold conditions. In conclusion, the results revealed that exogenous factors, such as nutritional and hydration strategies, as well as environmental conditions, affected fatigue in endurance sports, including factors associated with performance fatigability and perceived fatigability.
+
+Hydration Habits and Water Balance in a Working Population in Greece
+
+Number of 
+
+Key takeaways:Sociodemographic and occupational factors influence hydration practices, suggesting targeted strategies for improving hydration among working populations in Greece.
+
+Abstract:Background/Objectives: Adequate hydration is fundamental for maintaining physical and mental health, yet dehydration remains a common issue, with significant health consequences such as fatigue, impaired cognitive function, and increased risk of chronic diseases. This study aimed to assess the water balance status of healthy employees in Greece and explore the influence of sociodemographic, anthropometric, occupational, and other lifestyle factors. Methods: After completing a validated questionnaire, demographic, dietary, and occupational factors were first analyzed by gender and then examined for their association with water balance, defined as the net difference between water intake and losses, using univariate and multivariable analyses. Results: Daily water consumption had a median value of 3063.77 mL (Q1: 2181.62, Q3: 4070.04), with men consuming significantly more than women. Multivariable analysis identified several factors associated with water balance, including years of education (β: −21.88, SE: 8.55), hours of work per week (β: 30.17, SE: 15.38), use of glasses during the day (Yes vs. No: β: 423.13, SE: 216.41), use of a bottle during the day (Yes vs. No: β: 873.50, SE: 278.82), and consuming water for pleasure (Yes vs. No: β: 478.63, SE: 200.16). Additionally, exposure to weather conditions at work (Yes vs. No) was suggested to have a positive influence on water balance. Conclusions: This study underscores the complex interplay between sociodemographic and occupational factors and hydration practices, providing evidence for targeted hydration strategies, as wellness programs and public health initiatives aimed at improving hydration among working populations in Greece.
+
+The Influence of Various Hydration Strategies (Isotonic, Water, and No Hydration) on Hematological Indices, Plasma Volume, and Lactate Concentration in Young Men during Prolonged Cycling in Elevated Ambient Temperatures
+
+Number of 
+
+Key takeaways:Isotonic drinks maintain extracellular fluid hydration and minimize hematological changes during prolonged physical exercise in high temperatures, while water maintains water-electrolyte balance and performance.
+
+Abstract:Simple Summary Engaging in physical exertion in an elevated temperature environment leads to water–electrolyte disturbances as well as to the disruption of thermal balance and internal homeostasis, which enhances the physiological–biochemical changes associated with the physical work. In order to maintain the body’s exercise capacity, it is essential not only to hydrate the body but also to provide it with an adequate amount and quality of carbohydrates. Disturbances of thermal and fluid balance homeostasis pose a health risk, exercise performance may be reduced in the heat, and athletes are therefore likely to attempt to reduce this performance loss. The aim of this study was to evaluate the effect of different hydration strategies (isotonic, water, and no hydration) on young men’s hematological indicators, plasma volume, and blood lactate levels during prolonged physical exercise in a high ambient temperature. Water and isotonic hydration strategies allow for a better maintenance of water–electrolyte homeostasis during physical activity in a high-temperature environment, but consumption of isotonic drinks has a greater effect on the hydration of extracellular spaces with minimal changes in hematological indices. Abstract Background: Increased internal body temperature during dehydration can be accompanied by water–electrolyte imbalances, higher levels of lactate during and after physical exertion, and changes in blood volume. Adequate hydration with carbohydrate–electrolyte fluids during physical activity can prevent dehydration and delay the onset of fatigue, allowing for proper biochemical and hematological reactions during exertion. A suitable drinking plan should consider the pre-exercise hydration level as well as the requirements for fluids, electrolytes, and substrates before, during, and after exercise. The objective of this study was to assess the impact of different hydration strategies (isotonic, water, and no hydration) on hematological indicators (hemoglobin concentration, hematocrit number, erythrocyte count, leukocyte count, and mean corpuscular volume) and lactate concentration during prolonged physical exertion in a high-temperature environment in young men. Methods: The research method was quasi-experimental. The study involved 12 healthy men aged 20.6 ± 0.9 years, who were characterized by a body height (BH) of 177.2 ± 4.8 cm, a body mass (BM) of 74.4 ± 7.6 kg, a lean body mass (LBM) of 61.1 ± 6.1 kg, and a body mass index (BMI) of 23.60 ± 0.48. Measurements were taken of body composition and hematological and biochemical indicators. The main tests consisted of three series of tests separated by a one-week break. During the tests, the men performed a 120 min exercise with an intensity of 110 W on a cycle ergometer in a thermo-climatic chamber at an ambient temperature of 31 ± 2 °C. During exertion, the participants consumed isotonic fluids or water in an amount of 120–150% of the lost water every 15 min. The participants who exercised without hydration did not consume any fluids. Results: Significant differences in serum volume were observed between the use of isotonic beverage and no hydration (p = 0.002) and between the use of isotonic beverage and water (p = 0.046). Immediately after the experimental exercise, hemoglobin values were significantly higher with no hydration than with water (p = 0.002). An even stronger significance of differences in hemoglobin was observed between no hydration and isotonic beverage consumption (p < 0.001). There was a statistically significant difference in the number of leukocytes between the consumption of isotonic beverage and no hydration (p = 0.006). Conclusions: Each active hydration strategy allows for a better maintenance of water–electrolyte homeostasis during physical exertion in a high-temperature environment, and isotonic beverage consumption had a greater impact on hydrating extracellular spaces with the smallest changes in hematological indicators.
+
+.
+
+Number of 
+
+Key takeaways:Sports beverages effectively restore fluid balance after exercise, preventing dehydration, accelerating fatigue recovery, and enhancing exercise performance.
+
+Abstract:A good hydration status is important to the exercise performance and cognitive function of exercisers.The effective restoration of fluid balance after exercise is helpful to prevent dehydration,maintain body fluid balance,accelerate fatigue recovery,and enhance exercise performance.As the most effective sports nutrition supplement,sports beverage has different ingredients and formulas,and also has various effects.To provide clues for the development of sports beverage,this article reviews the types,components,effects,and mechanisms of sports beverage currently used in post-exercise fluid restoration.
+
+The Effect of Superficial Hydration, With or Without Systemic Hydration, on Voice Quality in Future Female Professional Singers.
+
+Number of 
+
+Key takeaways:Superficial hydration improves perceptual voice quality and reduces vocal fatigue in future female professional singers, but mixed results were observed regarding acoustic parameters.
+
+Phase angle is not associated with fatigue in cancer patients: the hydration impact
+
+Number of 
+
+Key takeaways:Phase angle (PhA) is not associated with fatigue in cancer patients, even after accounting for extracellular fluid accumulation.
+
+Effect of energy adequacy level and hydration status on occupational fatigue in fisherman
+
+Number of 
+
+Key takeaways:Occupational fatigue in fishermen is significantly related to energy sufficiency and hydration status, emphasizing the need for balanced nutrition and sufficient fluid intake.
+
+Abstract:Fatigue is a risk factor that can reduce the health status of workers and cause accidents. Fatigue can be caused by inadequate energy and hydration levels. This study aimed to determine the relationship between the level of energy adequacy, hydration status, and work fatigue among fishermen in Puger Wetan Village in February to April 2024. This was a cross-sectional study of 106 fishermen.  The data collected were fisherman’s characteristics, Swedish Occupational Fatigue Index (SOFI), self-urine check card, and 2×24 hour food recall. Data were analyzed using Spearman’s rank correlation test. The results showed that more than half (54,7%) of the fishermen experienced moderate fatigue and mild dehydration (41,5%). In addition, the level of energy adequacy (p < 0,0001; r=-0,449) and hydration status (p= 0,003; r= 0,289) were correlated to occupational fatigue. The conclusion is that there is a significant relationship between energy sufficiency and hydration status to   occupational fatigue among fishermen. Fishermen are expected to focus on consuming a variety of foods with balanced nutrition and sufficient body fluid intake. Future research should explore other factors related to occupational fatigue, such as workload, job stress, shift work, and sleep quality.
+
+Fatigue and fluid hydration status in multiple sclerosis: A hypothesis
+
+Number of 
+
+Key takeaways:High hydration status in individuals with multiple sclerosis (MS) is associated with lower self-reported fatigue scores.
+
+Abstract:Background: Fatigue is a prevalent and functionally disabling symptom for individuals living with multiple sclerosis (MS) which is poorly understood and multifactorial in etiology. Bladder dysfunction is another common MS symptom which limits social engagement and quality of life. To manage bladder issues, individuals with MS tend to limit their fluid intake, which may contribute to a low-hydration (LoH) state and fatigue. Objective: To evaluate the relationship between patient-reported MS fatigue, bladder dysfunction, and hydration status. Methods: We performed a prospective cross-sectional study in 50 women with MS. Participants submitted a random urine sample and completed several fatigue-related surveys. Using a urine specific gravity (USG) threshold of 1.015, we classified MS subjects into two groups: high-hydration (HiH) and LoH states. Results: LoH status was more common in MS subjects with bladder dysfunction. Statistically significant differences in self-reported Fatigue Performance Scale were observed between HiH and LoH subjects (p = 0.022). USG was significantly correlated with fatigue as measured by the MS Fatigue Severity Scale (FSS) score (r = 0.328, p = 0.020). Conclusion: Hydration status correlates with self-reported fatigue, with lower fatigue scores found in those with HiH status (USG < 1.015).
+
+Parenteral hydration in patients with advanced cancer: a multicenter, double-blind, placebo-controlled randomized trial.
+
+Number of 
+
+Key takeaways:Parenteral hydration at 1 L per day did not improve symptoms, quality of life, or survival in advanced cancer patients compared to placebo.
+
+Abstract:PURPOSE
+The vast majority of patients with cancer at the end of life receive parenteral hydration in hospitals and no hydration in hospice, with limited evidence supporting either practice. In this randomized controlled trial, we determined the effect of hydration on symptoms associated with dehydration, quality of life, and survival in patients with advanced cancer.
+
+PATIENTS AND METHODS
+We randomly assigned 129 patients with cancer from six hospices to receive parenteral hydration (normal saline 1 L per day) or placebo (normal saline 100 mL per day) daily over 4 hours. The primary outcome was change in the sum of four dehydration symptoms (fatigue, myoclonus, sedation and hallucinations, 0 = best and 40 = worst possible) between day 4 and baseline. Secondary outcomes included Edmonton Symptom Assessment Scale (ESAS), Memorial Delirium Assessment Scale (MDAS), Nursing Delirium Screening Scale (NuDESC), Unified Myoclonus Rating Scale (UMRS), Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F), Dehydration Assessment Scale, creatinine, urea, and overall survival. Intention-to-treat analysis was conducted to examine the change by day 4 ± 2 and day 7 ± 2 between groups.
+
+RESULTS
+The hydration (n = 63) and placebo (n = 66) groups had similar baseline characteristics. We found no significant differences between the two groups for change in the sum of four dehydration symptoms (-3.3 v -2.8, P = .77), ESAS (all nonsignificant), MDAS (1 v 3.5, P = .084), NuDESC (0 v 0, P = .13), and UMRS (0 v 0, P = .54) by day 4. Results for day 7, including FACIT-F, were similar. Overall survival did not differ between the two groups (median, 21 v 15 days, P = .83).
+
+CONCLUSION
+Hydration at 1 L per day did not improve symptoms, quality of life, or survival compared with placebo.
+
+The Effect Of Hydration Status On Sleep Before And After Resistance Exercise: A Pilot Study
+
+Number of 
+
+Key takeaways:Proper hydration before and after resistance exercise can improve sleep efficiency and increase time spent in beneficial sleep phases, while inadequate hydration may increase REM sleep, potentially impacting physical recovery.
+
+Abstract:Sleep improves muscle recovery and cognitive health, and can be impaired by physiological and mental stress. Dehydration can induce stress which leads to sleep impairment and thus could affect the readiness for and recovery from exercise. However, no study has examined the effect of hydration on sleep before and after resistance exercise (RE). PURPOSE: To examine the effect of hydration status on sleep before and after RE. METHODS: 7 resistance-trained men completed two identical RE consisting of bilateral leg press and knee extensions (5 sets of 10 repetitions at 80% of 1 repetition maximum) in a euhydrated state (EU; urine specific gravity (USG) < 1.020) and in a dehydrated state (DE: USG ≥ 1.020). The two conditions were separated by 2 weeks in random order. During DE, participants underwent a 24-hr fluid restriction the day before RE and consumed only 1.5 L water following RE throughout the day. Participants wore a wearable sleep device, and sleep efficiency (SE), light sleep (LS), rapid eye movement (REM), and slow wave sleep (SWS) were measured the night before (PRE) and the night after (POST) RE. A 2X2 ANOVA and effect sizes (ES) were used to detect differences. RESULTS: No significant (p > 0.05) condition x time effect was observed for any sleep parameters. At PRE, a small ES was observed for SE (1.1%; η2 = 0.05) where EU was more efficient than DE. Additionally, a medium ES was observed for LS (26.2%; η2 = 0.09) and SWS (8%; η2 = 0.08) where EU spent more time in these phases than DE, while EU spent less time in the REM phase (-16.4%; η2 = 0.07) than DE. At POST, a small ES was observed for SE (1.3%; η2 = 0.05) where EU was more efficient than DE. Additionally, a medium ES was observed for REM (-35.7%; η2 = 0.07) and SWS (-8.4%; η2 = 0.08) where EU spent less time in these phases than DE, while EU spent more time in the LS phase (18.7%; η2 = 0.09) than DE. CONCLUSION: The pilot data suggests hydration status could influence sleep. Proper fluid intake could help with sleep efficiency and increase time spent in LS and SWS, which are beneficial for muscle and tissue recovery. Intriguingly, inadequate fluid intake could increase the time spent in REM, which might be due to the mental and physical stresses from dehydration and RE. Combined, these data suggest that hydration status could affect the readiness for and recovery from physical stress.
+
+Relationship between Adequacy Level of Nutritional Intake, Hydration Status, and Work Fatigue with Employee Productivity of PT. PAL Indonesia (Persero)
+
+Number of 
+
+Key takeaways:Adequate energy and iron intake positively impact work productivity, but hydration status and fatigue levels show no significant relationship.
+
+Abstract:Work productivity is a comparison between the results of work in the form of goods or services with the resources or labor used in a production process. The importance of adequate nutrition for general health and work productivity requires serious attention. The purpose of this study was to determine the relationship between the level of adequacy of nutrient intake, hydration status, and level of fatigue with work productivity. This study is an analytic observational study with a cross-sectional design. The research population is the general engineering division workers of PT. PAL Indonesia (Persero). The sample size calculated using Lemeshow formula was obtained as many as 64 respondents. Primary data sourced from questionnaires and interviews with respondents as well as secondary data on work productivity. Data were analyzed using Chi-Square analysis. The results showed that there was a relationship between energy intake (p=0.010) and worker productivity. Iron intake was also associated with worker productivity (p=0.024). But there are no relationship between work productivity with hydration status (p=0.272) and level of fatigue (p=0.556). There is a relationship between energy and iron intake with work productivity, but there is no relationship between hydration status and fatigue level with work productivity. Researchers suggest for workers to consume variety of type and amount of food intake daily.
+
+Corticospinal and peripheral responses to heat-induced hypo-hydration: potential physiological mechanisms and implications for neuromuscular function
+
+Number of 
+
+Key takeaways:Heat-induced hypo-hydration impairs neuromuscular function during repeated and sustained contractions, with mechanisms separate from hyperthermia-induced fatigue.
+
+Abstract:Abstract Heat-induced hypo-hydration (hyperosmotic hypovolemia) can reduce prolonged skeletal muscle performance; however, the mechanisms are less well understood and the reported effects on all aspects of neuromuscular function and brief maximal contractions are inconsistent. Historically, a 4–6% reduction of body mass has not been considered to impair muscle function in humans, as determined by muscle torque, membrane excitability and peak power production. With the development of magnetic resonance imaging and neurophysiological techniques, such as electromyography, peripheral nerve, and transcranial magnetic stimulation (TMS), the integrity of the brain-to-muscle pathway can be further investigated. The findings of this review demonstrate that heat-induced hypo-hydration impairs neuromuscular function, particularly during repeated and sustained contractions. Additionally, the mechanisms are separate to those of hyperthermia-induced fatigue and are likely a result of modulations to corticospinal inhibition, increased fibre conduction velocity, pain perception and impaired contractile function. This review also sheds light on the view that hypo-hydration has ‘no effect’ on neuromuscular function during brief maximal voluntary contractions. It is hypothesised that irrespective of unchanged force, compensatory reductions in cortical inhibition are likely to occur, in the attempt of achieving adequate force production. Studies using single-pulse TMS have shown that hypo-hydration can reduce maximal isometric and eccentric force, despite a reduction in cortical inhibition, but the cause of this is currently unclear. Future work should investigate the intracortical inhibitory and excitatory pathways within the brain, to elucidate the role of the central nervous system in force output, following heat-induced hypo-hydration.
+
+Cryotherapy with carbon dioxide hydrate enhances immediate recovery of muscle function from neuromuscular fatigue
+
+Number of 
+
+Key takeaways:Cryotherapy with carbon dioxide hydrate promotes greater immediate recovery of muscle power from neuromuscular fatigue compared to ice or passive rest.
+
+Abstract:ABSTRACT This study investigated the effect of cryotherapy with carbon dioxide hydrate (CDH) on fatigue recovery of neuromuscular function and muscle blood circulation. Fourteen young males randomly received three types of 20-min recovery interventions (cryotherapy with CDH or normal ice , or quiet sitting at room temperature ) 5 min following a fatiguing task (50 maximal effort isotonic contractions) on three separate days. The isotonic peak power of the knee extensors at 35 min after the fatiguing task in the CDH-condition (95% of baseline) was greater than that in the other conditions (82–89% of baseline; p ≤ 0.031). In addition, at 25 and 35 min after the fatiguing task, the changes in haemoglobin concentration of the knee extensors from before the fatiguing task in the CON-condition (2.5 and 3.0 μmol/L) were different from those in the ICE-condition (−1.4 and −1.3 μmol/L; p ≤ 0.004) but comparable to those in the CDH-condition (1.1 and 0.7 μmol/L; p ≥ 0.060), respectively. These findings suggest that cryotherapy with CDH did not lower the blood volume following the intervention, unlike that with normal ice, and promoted greater immediate recovery of muscle power from neuromuscular fatigue compared with cryotherapy with ice or passive rest.
+
+Carbon dioxide hydrate as a recovery tool after fatigue of the plantar flexors.
+
+Number of 
+
+Key takeaways:Cooling the triceps surae with carbon dioxide hydrate can facilitate recovery from peripheral muscle fatigue, potentially due to increased blood flow caused by carbon dioxide within the hydrate.
+
+Autogenous self-healing of ultra-high-performance fiber-reinforced concrete with varying silica fume dosages: Secondary hydration and structural regeneration
+
+Number of 
+
+Key takeaways:Silica fume addition at 20% enhances the autogenous self-healing of ultra-high-performance fiber-reinforced concrete by accelerating secondary hydration and promoting fiber-matrix interface regeneration.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

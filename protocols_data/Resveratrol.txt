@@ -1,0 +1,425 @@
+PROTOCOL: Resveratrol
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: 
+DESCRIPTION: Resveratrol is a natural compound found in grapes, red wine, and certain berries, extensively studied for its potential benefits for heart and brain health. Laboratory and preclinical studies demonstrate its antioxidant, anti-inflammatory, endothelial-supporting, and neuroprotective effects. Preliminary clinical findings suggest possible beneficial effects on selected cardiovascular health markers and cognitive functions; however, the effectiveness of supplementation in humans has not been definitively confirmed.
+
+CONTENT SECTIONS:
+
+Potential support for the cardiovascular system and brain
+
+Resveratrol is a natural compound found in grapes, red wine, and certain berries, extensively studied for its potential benefits for heart and brain health. Laboratory and preclinical studies demonstrate its antioxidant, anti-inflammatory, endothelial-supporting, and neuroprotective effects. Preliminary clinical findings suggest possible beneficial effects on selected cardiovascular health markers and cognitive functions; however, the effectiveness of supplementation in humans has not been definitively confirmed.
+
+Level of evidence:Preliminary
+
+Resveratrol acts in multiple ways – as an antioxidant, it neutralizes free radicals, and as a modulator of cellular pathways, it reduces oxidative stress and inflammation. It may improve endothelial function by increasing nitric oxide production and support neuroprotection by influencing the removal of damaged proteins and stimulating neurogenesis. However, resveratrol has low bioavailability, and its biological effects may vary depending on the form and method of administration.
+
+Resveratrol has a very favorable safety profile. It is generally well tolerated, and adverse effects are rare and mild. Most side effects are associated with high doses or long-term supplementation.
+
+Resveratrol is not recommended for individuals with certain medical conditions or those taking specific medications. It is advisable to consult a physician before supplementation, especially in the case of chronic diseases.
+
+Typical supplementation dose in clinical studies ranges from 150–1000 mg per day, although dietary intake is significantly lower.
+
+Tablets, capsules, powder; naturally present in grapes, red wine, peanuts, and certain berries.
+
+Initial effects may appear after a few weeks of regular use; long-term effects require further research.
+
+Can be taken at any time of day; preferably with a meal to minimize gastrointestinal discomfort.
+
+Resveratrol has low bioavailability – most of the ingested dose is quickly metabolized and excreted from the body.
+
+Pay attention to supplement quality
+
+Choose products from reputable manufacturers, preferably with a certificate of analysis (COA), to ensure the content of active ingredients.
+
+Avoid exceeding doses used in clinical studies, especially without consulting a physician.
+
+Consider natural sources
+
+Some benefits can be obtained by consuming foods naturally rich in resveratrol, such as grapes and berries, as part of a balanced diet.
+
+Individuals taking blood-thinning medications, NSAIDs, or drugs affecting the liver should exercise caution and consult a doctor before supplementation.
+
+Monitor your well-being
+
+If adverse symptoms appear (e.g., bleeding, gastrointestinal issues, rash), stop supplementation and consult a healthcare professional.
+
+Long-term effectiveness
+
+Currently, there is insufficient data on the safety and effectiveness of long-term resveratrol supplementation in humans – use for a limited period, in line with current research recommendations.
+
+Cardiovascular system
+
+Resveratrol may benefit the cardiovascular system through its antioxidant and anti-inflammatory effects and by improving endothelial function, although clinical results are moderate and inconclusive.
+
+Clinical study results
+
+Limitations and uncertainties
+
+Resveratrol may support brain health and cognitive function through neuroprotective effects; however, effects in humans are moderate and inconclusive, with most positive results coming from animal studies.
+
+Mechanisms of action and study results
+
+Limitations and uncertainties
+
+Scientific data and sources
+
+Level of evidencePreliminary
+
+Number of included studies:39
+
+Final comment:For the cardiovascular system, numerous preclinical studies as well as a few small randomized controlled trials and systematic reviews are available. Resveratrol has been shown to have beneficial effects on selected inflammatory markers and endothelial function, but the results are often moderate, inconclusive, or limited to surrogate endpoints. There is a lack of clear evidence for clinical endpoints, and literature reviews highlight inconsistencies and the need for further studies in larger populations. As a result, the level of evidence should be considered preliminary.
+
+Antioxidant effects of resveratrol in the cardiovascular system
+
+Number of 
+
+Key takeaways:Resveratrol's antioxidant properties are primarily due to its effect as a gene regulator, reducing free radical production and promoting cardiovascular health through its effects on various enzymes.
+
+Abstract:The antioxidant effects of resveratrol (3,5,4'‐trihydroxy‐trans‐stilbene) contribute substantially to the health benefits of this compound. Resveratrol has been shown to be a scavenger of a number of free radicals. However, the direct scavenging activities of resveratrol are relatively poor. The antioxidant properties of resveratrol in vivo are more likely to be attributable to its effect as a gene regulator. Resveratrol inhibits NADPH oxidase‐mediated production of ROS by down‐regulating the expression and activity of the oxidase. This polyphenolic compound reduces mitochondrial superoxide generation by stimulating mitochondria biogenesis. Resveratrol prevents superoxide production from uncoupled endothelial nitric oxide synthase by up‐regulating the tetrahydrobiopterin‐synthesizing enzyme GTP cyclohydrolase I. In addition, resveratrol increases the expression of various antioxidant enzymes. Some of the gene‐regulating effects of resveratrol are mediated by the histone/protein deacetylase sirtuin 1 or by the nuclear factor‐E2‐related factor‐2. In this review article, we have also summarized the cardiovascular effects of resveratrol observed in clinical trials.
+
+The Effect of Resveratrol on the Cardiovascular System from Molecular Mechanisms to Clinical Results
+
+Number of 
+
+Key takeaways:Resveratrol has wide beneficial effects on the cardiovascular system, including cell longevity, energy metabolism, and anti-inflammatory and antioxidant properties, with potential future perspectives against COVID-19 in cardiovascular diseases.
+
+Abstract:Cardiovascular diseases are the leading causes of death worldwide. The cardioprotective effects of natural polyphenols such as resveratrol (3,5,4-trihydroxystilbene) have been extensively investigated throughout recent decades. Many studies of RES have focused on its favorable effects on pathological conditions related to cardiovascular diseases and their risk factors. The aim of this review was to summarize the wide beneficial effects of resveratrol on the cardiovascular system, including signal transduction pathways of cell longevity, energy metabolism of cardiomyocytes or cardiac remodeling, and its anti-inflammatory and antioxidant properties. In addition, this paper discusses the significant preclinical and human clinical trials of recent years with resveratrol on cardiovascular system. Finally, we present a short overview of antiviral and anti-inflammatory properties and possible future perspectives on RES against COVID-19 in cardiovascular diseases.
+
+Pharmacological basis and new insights of resveratrol action in the cardiovascular system
+
+Number of 
+
+Key takeaways:Resveratrol shows cardioprotective effects, with potential benefits for longevity, energy metabolism, stress resistance, exercise mimetics, circadian clock, and microbiota composition.
+
+Abstract:Resveratrol (trans‐3,4′,5‐trihydroxystilbene) belongs to the family of natural phytoalexins. Resveratrol first came to our attention in 1992, following reports of the cardioprotective effects of red wine. Thereafter, resveratrol was shown to exert antioxidant, anti‐inflammatory, anti‐proliferative, and angio‐regulatory effects against atherosclerosis, ischaemia, and cardiomyopathy. This article critically reviews the current findings on the molecular basis of resveratrol‐mediated cardiovascular benefits, summarizing the broad effects of resveratrol on longevity regulation, energy metabolism, stress resistance, exercise mimetics, circadian clock, and microbiota composition. In addition, this article also provides an update, both preclinically and clinically, on resveratrol‐induced cardiovascular protection and discusses the adverse and inconsistent effects of resveratrol reported in both preclinical and clinical studies. Although resveratrol has been claimed as a master anti‐aging agent against several age‐associated diseases, further detailed mechanistic investigation is still required to thoroughly unravel the therapeutic value of resveratrol against cardiovascular diseases at different stages of disease development.
+
+Resveratrol and Cardiovascular Diseases
+
+Number of 
+
+Key takeaways:Resveratrol, found in red wine, may improve cardiovascular health by reducing endothelial dysfunction and oxidative stress.
+
+Abstract:The increased incidence of cardiovascular diseases (CVDs) has stimulated research for substances that could improve cardiovascular health. Among them, resveratrol (RES), a polyphenolic compound notably present in grapes and red wine, has been involved in the “French paradox”. RES is known for its antioxidant and anti-inflammatory properties and for its ability to upregulate endothelial NO synthase (eNOS). RES was able to scavenge •OH/O2•− and peroxyl radicals, which can limit the lipid peroxidation processes. Moreover, in bovine aortic endothelial cells (BAEC) under glucose-induced oxidative stress, RES restored the activity of dimethylargininedimethylaminohydrolase (DDAH), an enzyme that degrades an endogenous inhibitor of eNOS named asymmetric dimethylarginine (ADMA). Thus, RES could improve •NO availability and decrease the endothelial dysfunction observed in diabetes. Preclinical studies have made it possible to identify molecular targets (SIRT-1, AMPK, Nrf2, NFκB…); however, there are limited human clinical trials, and difficulties in the interpretation of results arise from the use of high-dose RES supplements in research studies, whereas low RES concentrations are present in red wine. The discussions on potential beneficial effects of RES in CVDs (atherosclerosis, hypertension, stroke, myocardial infarction, heart failure) should compare the results of preclinical studies with those of clinical trials.
+
+Regulatory effects of resveratrol on nitric oxide signaling in cardiovascular diseases.
+
+Number of 
+
+Key takeaways:Resveratrol, found in red wine, promotes nitric oxide production and improves vascular endothelium function by promoting eNOS production and reducing oxidative stress.
+
+Abstract:Cardiovascular illnesses are multifactorial disorders and represent the primary reasons for death worldwide, according to the World Health Organization. As a signaling molecule, nitric oxide (NO) is extremely permeable across cellular membranes owing to its unique molecular features, like its small molecular size, lipophilicity, and free radical properties. Some of the biological effects of NO are vasodilation, inhibition in the growth of vascular smooth muscle cells, and functional regulation of cardiac cells. Several therapeutic approaches have been tested to increase the production of NO or some downstream NO signaling pathways. The health benefits of red wine are typically attributed to the polyphenolic phytoalexin, resveratrol (3,5,4′-trihydroxy-trans-stilbene), which is found in several plant species. Resveratrol has beneficial cardiovascular properties, some of which are mediated through endothelial nitric oxide synthase production (eNOS). Resveratrol promotes NO generation from eNOS through various methods, including upregulation of eNOS expression, activation in the enzymatic activity of eNOS, and reversal of eNOS uncoupling. Additionally, by reducing of oxidative stress, resveratrol inhibits the formation of superoxide and inactivation NO, increasing NO bioavailability. This review discusses the scientific literature on resveratrol’s beneficial impact on NO signaling and how this effect improves the function of vascular endothelium.Graphical Abstract
+
+The Effects of Resveratrol in Patients with Cardiovascular Disease and Heart Failure: A Narrative Review
+
+Number of 
+
+Key takeaways:Resveratrol shows potential as an effective treatment for cardiovascular disease and heart failure, potentially improving health outcomes in specific patient populations.
+
+Abstract:Cardiovascular disease (CVD) is the main cause of death globally and responsible for the second highest number of deaths in Canada. Medical advancements in the treatment of CVD have led to patients living longer with CVD but often progressing to another condition called heart failure (HF). As a result, HF has emerged in the last decade as a major medical concern. Fortunately, various “traditional” pharmacotherapies for HF exist and have shown success in reducing HF-associated mortality. However, to augment the treatment of patients with CVD and/or HF, alternative pharmacotherapies using nutraceuticals have also shown promise in the prevention and treatment of these two conditions. One of these natural compounds considered to potentially help treat HF and CVD and prevent their development is resveratrol. Herein, we review the clinical findings of resveratrol’s ability to be used as an effective treatment to potentially help treat HF and CVD. This will allow us to gain a more fulsome appreciation for the effects of resveratrol in the health outcomes of specific patient populations who have various disorders that constitute CVD.
+
+Beneficial Effects of Resveratrol Administration—Focus on Potential Biochemical Mechanisms in Cardiovascular Conditions
+
+Number of 
+
+Key takeaways:Resveratrol administration may slow down cardiovascular disease development, reduce inflammation, and potentially improve stroke management and cognitive impairments.
+
+Abstract:Resveratrol (RV) is a natural non-flavonoid polyphenol and phytoalexin produced by a number of plants such as peanuts, grapes, red wine and berries. Numerous in vitro studies have shown promising results of resveratrol usage as antioxidant, antiplatelet or anti-inflammatory agent. Beneficial effects of resveratrol activity probably result from its ability to purify the body from ROS (reactive oxygen species), inhibition of COX (cyclooxygenase) and activation of many anti-inflammatory pathways. Administration of the polyphenol has a potential to slow down the development of CVD (cardiovascular disease) by influencing on certain risk factors such as development of diabetes or atherosclerosis. Resveratrol induced an increase in Sirtuin-1 level, which by disrupting the TLR4/NF-κB/STAT signal cascade (toll-like receptor 4/nuclear factor κ-light-chain enhancer of activated B cells/signal transducer and activator of transcription) reduces production of cytokines in activated microglia. Resveratrol caused an attenuation of macrophage/mast cell-derived pro-inflammatory factors such as PAF (platelet-activating factor), TNF-α (tumour necrosis factor-α and histamine. Endothelial and anti-oxidative effect of resveratrol may contribute to better outcomes in stroke management. By increasing BDNF (brain-derived neurotrophic factor) serum concentration and inducing NOS-3 (nitric oxide synthase-3) activity resveratrol may have possible therapeutical effects on cognitive impairments and dementias especially in those characterized by defective cerebrovascular blood flow.
+
+Resveratrol and cardiovascular system—the unfulfilled hopes
+
+Number of 
+
+Key takeaways:Resveratrol's health-promoting effects on the cardiovascular system have not been clearly confirmed in humans, despite numerous articles and clinical studies.
+
+Abstract:IntroductionResveratrol is a natural polyphenolic compound with a stilbene structure endowed with multiple health-promoting effects. Among phenolic compounds, resveratrol is assigned a leading role in the health-promoting effects of red wine.MethodsThe aim of the study was to assess the effect of resveratrol on the cardiovascular system in the experimental and clinical studies conducted so far. Moreover, the paper discusses the results of the most recent meta-analyses assessing resveratrol’s therapeutic effect on the cardiovascular system in humans.ResultsIn animal and preclinical studies, resveratrol has demonstrated a wide physiological and biochemical spectrum of activity, including antioxidant, anti-inflammatory, antiplatelet, and anticoagulant activities, which translated into its health-promoting effects on the cardiovascular system. The performed meta-analyses allow to confirm such an impact, however, after the assessment with the use of the SYRCLE’s tool, these studies are burdened with a high risk of bias, and the results are not clearly presented.ConclusionDespite numerous articles and clinical studies, the convincing beneficial mechanisms of resveratrol as well as its health-promoting effects in cardiovascular diseases have not been clearly confirmed in humans. Therefore, there is a need for further clinical studies, especially randomized, double-blind, placebo-controlled trials to objectively confirm the possible health-promoting effects of this substance and to determine both the efficacy and safety, and possible therapeutic potential.
+
+Cardiovascular effects and molecular targets of resveratrol.
+
+Number of 
+
+Key takeaways:Resveratrol, found in red wine, has cardiovascular benefits by stimulating nitric oxide production, reducing oxidative stress, inhibiting vascular inflammation, and preventing platelet aggregation.
+
+Resveratrol in cardiovascular health and disease
+
+Number of 
+
+Key takeaways:Resveratrol has cardioprotective effects by inducing autophagy and promoting preconditioning, offering potential for treating various degenerative and cardiovascular diseases.
+
+Abstract:Resveratrol, initially used for cancer therapy, has shown beneficial effects against most degenerative and cardiovascular diseases from atherosclerosis, hypertension, ischemia/reperfusion, and heart failure to diabetes, obesity, and aging. The cardioprotective effects of resveratrol are associated with its preconditioning‐like action potentiated by its adaptive response. During preconditioning, small doses of resveratrol can exert an adaptive stress response, forcing the expression of cardioprotective genes and proteins such as heat shock and antioxidant proteins. Similarly, resveratrol can induce autophagy, another form of stress adaptation for degrading damaged or long‐lived proteins, as a first line of protection against oxidative stress. Resveratrol's interaction with multiple molecular targets of diverse intracellular pathways (e.g., action on sirtuins and FoxOs through multiple transcription factors and protein targets) intertwines with those of the autophagic pathway to give support in the modified redox environment after stem cell therapy, which leads to prolonged survival of cells. The successful application of resveratrol in therapy is based upon its hormetic action similar to any toxin: exerting beneficial effects at lower doses and cytotoxic effects at higher doses.
+
+A systemic review on the antioxidant and anti-inflammatory effects of resveratrol, curcumin, and dietary nitric oxide supplementation on human cardiovascular health.
+
+Number of 
+
+Key takeaways:Resveratrol, curcumin, and nitric oxide supplements show cardioprotective effects due to their antioxidant and anti-inflammatory properties.
+
+Resveratrol and Its Effects on the Vascular System
+
+Number of 
+
+Key takeaways:Resveratrol has vasculoprotective effects, alleviating oxidative stress and inflammation, and may moderately lower blood pressure and glucose levels in hypertensive and diabetes patients.
+
+Abstract:Resveratrol, the phenolic substance isolated initially from Veratrum grandiflorum and richly present in grapes, wine, peanuts, soy, and berries, has been attracting attention of scientists and medical doctors for many decades. Herein, we review its effects on the vascular system. Studies utilizing cell cultures and pre-clinical models showed that resveratrol alleviates oxidative stress and inflammation. Furthermore, resveratrol suppresses vascular smooth muscle cell proliferation, promotes autophagy, and has been investigated in the context of vascular senescence. Pre-clinical models unambiguously demonstrated numerous vasculoprotective effects of resveratrol. In clinical trials, resveratrol moderately diminished systolic blood pressure in hypertensive patients, as well as blood glucose in patients with diabetes mellitus. Yet, open questions remain, as exemplified by a recent report which states that the intake of resveratrol might blunt certain positive effects of exercise in older persons, and further research addressing the framework for long-term use of resveratrol as a food supplement, will stay in demand.
+
+Resveratrol and beyond: The Effect of Natural Polyphenols on the Cardiovascular System: A Narrative Review
+
+Number of 
+
+Key takeaways:Moderate, long-term red wine consumption is associated with cardiovascular benefits, including resveratrol and flavonoids.
+
+Abstract:Cardiovascular diseases (CVDs) are among the leading causes of morbidity and mortality worldwide. Unhealthy dietary habits have clearly been shown to contribute to the development of CVDs. Beyond the primary nutrients, a healthy diet is also rich in plant-derived compounds. Natural polyphenols, found in fruits, vegetables, and red wine, have a clear role in improving cardiovascular health. In this review, we strive to summarize the results of the relevant pre-clinical and clinical trials that focused on some of the most important natural polyphenols, such as resveratrol and relevant flavonoids. In addition, we aim to identify their common sources, biosynthesis, and describe their mechanism of action including their regulatory effect on signal transduction pathways. Finally, we provide scientific evidence regarding the cardiovascular benefits of moderate, long-term red wine consumption.
+
+Health Benefits and Molecular Mechanisms of Resveratrol: A Narrative Review
+
+Number of 
+
+Key takeaways:Resveratrol has antioxidant, anti-inflammatory, immunomodulatory, glucose and lipid regulatory, neuroprotective, and cardiovascular protective effects, making it a potential candidate for nutraceuticals and pharmaceuticals to prevent and treat various chronic diseases.
+
+Abstract:Resveratrol is a bioactive compound in many foods. Since its anticancer activity was reported in 1997, its health benefits have been intensively investigated. Resveratrol has antioxidant, anti-inflammatory, immunomodulatory, glucose and lipid regulatory, neuroprotective, and cardiovascular protective effects, therefore, can protect against diverse chronic diseases, such as cardiovascular diseases (CVDs), cancer, liver diseases, obesity, diabetes, Alzheimer’s disease, and Parkinson’s disease. This review summarizes the main findings of resveratrol-related health benefits in recent epidemiological surveys, experimental studies, and clinical trials, highlighting its related molecular mechanisms. Resveratrol, therefore, has been regarded as a potent candidate for the development of nutraceuticals and pharmaceuticals to prevent and treat certain chronic diseases.
+
+Resveratrol and vascular health: evidence from clinical studies and mechanisms of actions related to its metabolites produced by gut microbiota
+
+Number of 
+
+Key takeaways:Resveratrol may have cardioprotective effects through modulation of antioxidant, anti-inflammatory, and anti-hypertensive pathways, with potential effects through gut microbiota composition.
+
+Abstract:Cardiovascular diseases are among the leading causes of mortality worldwide, with dietary factors being the main risk contributors. Diets rich in bioactive compounds, such as (poly)phenols, have been shown to potentially exert positive effects on vascular health. Among them, resveratrol has gained particular attention due to its potential antioxidant and anti-inflammatory action. Nevertheless, the results in humans are conflicting possibly due to interindividual different responses. The gut microbiota, a complex microbial community that inhabits the gastrointestinal tract, has been called out as potentially responsible for modulating the biological activities of phenolic metabolites in humans. The present review aims to summarize the main findings from clinical trials on the effects of resveratrol interventions on endothelial and vascular outcomes and review potential mechanisms interesting the role of gut microbiota on the metabolism of this molecule and its cardioprotective metabolites. The findings from randomized controlled trials show contrasting results on the effects of resveratrol supplementation and vascular biomarkers without dose-dependent effect. In particular, studies in which resveratrol was integrated using food sources, i.e., red wine, reported significant effects although the resveratrol content was, on average, much lower compared to tablet supplementation, while other studies with often extreme resveratrol supplementation resulted in null findings. The results from experimental studies suggest that resveratrol exerts cardioprotective effects through the modulation of various antioxidant, anti-inflammatory, and anti-hypertensive pathways, and microbiota composition. Recent studies on resveratrol-derived metabolites, such as piceatannol, have demonstrated its effects on biomarkers of vascular health. Moreover, resveratrol itself has been shown to improve the gut microbiota composition toward an anti-inflammatory profile. Considering the contrasting findings from clinical studies, future research exploring the bidirectional link between resveratrol metabolism and gut microbiota as well as the mediating effect of gut microbiota in resveratrol effect on cardiovascular health is warranted.
+
+Resveratrol blunts the positive effects of exercise training on cardiovascular health in aged men
+
+Number of 
+
+Key takeaways:Resveratrol supplementation reduces the positive effects of exercise training on cardiovascular health in aged men, potentially affecting vasodilation and atherosclerosis prevention.
+
+Abstract:•  In rodents, resveratrol has been shown to enhance training‐induced changes in cardiovascular function, exercise performance and the retardation of atherosclerosis. We examined the effect of 8 weeks of exercise training with and without concomitant resveratrol supplementation in aged men. •  Exercise training potently improved blood pressure, blood cholesterol, maximal oxygen uptake and the plasma lipid profile. •  Resveratrol supplementation reduced the positive effect of exercise training on blood pressure, blood cholesterol and maximal oxygen uptake and did not affect the retardation of atherosclerosis. •  Whereas exercise training improved formation of the vasodilator prostacyclin, concomitant resveratrol supplementation caused a shift in vasoactive systems favouring vasoconstriction. •  The present study is the first to demonstrate negative effects of resveratrol on training‐induced improvements in cardiovascular health parameters in humans and adds to the growing body of evidence questioning the positive effects of resveratrol supplementation in humans.
+
+Anti-inflammatory effects of resveratrol in patients with cardiovascular disease: a systematic review and meta-analysis of randomized controlled trials.
+
+Number of 
+
+Key takeaways:Resveratrol supplements significantly decrease CRP and TNF- levels in patients with cardiovascular disease, suggesting potential as a treatment for reducing inflammation.
+
+Pleiotropic Effects of Resveratrol on Aging-Related Cardiovascular Diseases—What Can We Learn from Research in Dogs?
+
+Number of 
+
+Key takeaways:Resveratrol has pleiotropic effects on cardiovascular health in dogs, providing a valuable translational model for human cardiovascular diseases.
+
+Abstract:Resveratrol (RES) is a polyphenol with natural anti-inflammatory and antioxidant properties. It is found in abundance in plants, i.e., grapes and mulberry fruit. In addition, synthetic forms of RES exist. Since the discovery of its specific biological properties, RES has emerged as a candidate substance not only with modeling effects on the immune response but also as an important factor in preventing the onset and progression of cardiovascular disease (CVD). Previous research provided strong evidence of the effects of RES on platelets, mitochondria, cardiomyocytes, and vascular endothelial function. In addition, RES positively affects the coagulation system and vasodilatory function and improves blood flow. Not only in humans but also in veterinary medicine, cardiovascular diseases have one of the highest incidence rates. Canine and human species co-evolved and share recent evolutionary selection processes, and interestingly, numerous pathologies of companion dogs have a human counterpart. Knowledge of the impact of RES on the cardiovascular system of dogs is becoming clearer in the literature. Dogs have long been recognized as valuable animal models for the study of various human diseases as they share many physiological and genetic similarities with humans. In this review, we aim to shed light on the pleiotropic effects of resveratrol on cardiovascular health in dogs as a translational model for human cardiovascular diseases.
+
+Cardiovascular and Antiobesity Effects of Resveratrol Mediated through the Gut Microbiota.
+
+Number of 
+
+Key takeaways:Resveratrol may have cardiovascular and antiobesity effects through modulating gut microbiota composition and affecting central energy metabolism and satiety hormones.
+
+Abstract:Encouraging scientific research into the health effects of dietary bioactive resveratrol has been confounded by its rapid first-pass metabolism, which leads to low in vivo bioavailability. Preliminary studies have shown that resveratrol can modulate gut microbiota composition, undergo biotransformation to active metabolites via the intestinal microbiota, or affect gut barrier function. In rodents, resveratrol can modify the relative Bacteroidetes:Firmicutes ratio and reverse the gut microbial dysbiosis caused by a high-fat diet. By upregulating the expression of genes involved in maintaining tight junctions between intestinal cells, resveratrol contributes to gut barrier integrity. The composition of the gut microbiome and rapid metabolism of resveratrol determines the production of resveratrol metabolites, which are found at greater concentrations in humans after ingestion than their parent molecule and can have similar biological effects. Resveratrol may affect cardiovascular risk factors such as elevated blood cholesterol or trimethylamine N-oxide concentrations. Modulating the composition of the gut microbiota by resveratrol may affect central energy metabolism and modify concentrations of satiety hormones to produce antiobesity effects. Encouraging research from animal models could be tested in humans.
+
+The therapeutic potential of resveratrol: a review of clinical trials
+
+Number of 
+
+Key takeaways:Resveratrol shows well-tolerated benefits for neurological disorders, cardiovascular diseases, and diabetes, but has ambiguous effects in certain cancers and NAFLD, with poor bioavailability being a major obstacle.
+
+Resveratrol Induces Brain Resilience Against Alzheimer Neurodegeneration Through Proteostasis Enhancement
+
+Number of 
+
+Key takeaways:Resveratrol enhances brain resilience against Alzheimer's disease and age-related neurodegeneration by improving proteostasis and reducing amyloid and tau pathologies in both healthy and AD mice.
+
+Abstract:Resveratrol is a natural compound that mimics the antioxidant and antiaging effects of caloric restriction, mainly mediated through SIRT1, a deacetylase that induces longevity and neuroprotection. We aimed to analyze the effects of resveratrol on the brain status of control non-transgenic (NoTg) and AD transgenic (3xTg-AD) mice to discern the mechanisms involved in a potential inducement of resilience against age-related neurodegeneration and Alzheimer’s disease (AD). Mice were fed with a diet supplemented with 100 mg/kg of resveratrol from 2 months of age during 10 months. Resveratrol administration induced complete protection against memory loss and brain pathology in 3xTg-AD mice, and also induced cognitive enhancement in healthy NoTg mice. Resveratrol improved exploration and reduced anxiety in both mouse strains, indicative of well-being. Resveratrol reduced the presence of Aβ and p-tau pathology in the hippocampus of the 3xTg-AD mouse. Proteostasis analysis showed the following in both NoTg and 3xTg-AD mice: (i) increased levels of the amyloid-degrading enzyme neprilysin, (ii) reduction of the amyloidogenic secretase BACE1, and (iii) increase of proteasome protein levels and enhancement of proteasome activity. Resveratrol also increased AMPK protein levels, then upregulating the SIRT1 pathway, as shown by the activation of PGC-1α and CREB in both mice, resulting in further beneficial changes. Our data demonstrated that resveratrol induces cognitive enhancement and neuroprotection against amyloid and tau pathologies. Improvement of proteostasis by resveratrol, in both healthy and AD mice, suggests that it is a mechanism of brain resilience and defense against neurodegeneration caused by the accumulation of aberrant proteins.
+
+Resveratrol and Neuroprotection: Impact and Its Therapeutic Potential in Alzheimer's Disease
+
+Number of 
+
+Key takeaways:Resveratrol, found in red wine and plants, shows potential neuroprotective effects in Alzheimer's disease by promoting non-amyloidogenic cleavage of amyloid precursor protein and enhancing amyloid beta-peptide clearance.
+
+Abstract:Alzheimer’s disease (AD) is a progressive cortex and hippocampal neurodegenerative disease which ultimately causes cognitively impaired decline in patients. The AD pathogen is a very complex process, including aggregation of Aβ (β-amyloid peptides), phosphorylation of tau-proteins, and chronic inflammation. Exactly, resveratrol, a polyphenol present in red wine, and many plants are indicated to show the neuroprotective effect on mechanisms mostly above. Resveratrol plays an important role in promotion of non-amyloidogenic cleavage of the amyloid precursor protein. It also enhances the clearance of amyloid beta-peptides and reduces the damage of neurons. Most experimental research on AD and resveratrol has been performed in many species, both in vitro and in vivo, during the last few years. Nevertheless, resveratrol’s effects are restricted by its bioavailability in the reservoir. Therefore, scientists have tried to improve its efficiency by using different methods. This review focuses on recent work done on the cell and animal cultures and also focuses on the neuroprotective molecular mechanisms of resveratrol. It also discusses about the therapeutic potential onto the treatment of AD.
+
+Does resveratrol improve cognition in humans? A scientometric study to an in‐depth review
+
+Number of 
+
+Key takeaways:Chronic resveratrol intake may positively affect brain function, but optimal dose, time, and duration need further research.
+
+Abstract:Abstract Aim In order to understand the different processes and mechanisms of cognitive function and resveratrol (RES) as an active participant in pathophysiological events that affect cognitive function. Methods First, the Web of Science (core collection) was selected as the data source. To ensure the comprehensiveness and accuracy of the search data, the index was selected as “SCI‐EXPANDED”, and the search formula was TS = resveratrol AND TS = (“cognitive” OR “memory” OR “cognition” OR “mood”). Next, details of authors, keywords, journals, countries, institutions, references, and more were analyzed by CiteSpace and VOSviewer software. Finally, we explored the mechanism by which RES could improve cognitive impairment, that involves healthy young adults, healthy elderly, post‐menopausal women, and diseases involving Alzheimer's disease (AD), diabetes‐related cognitive impairment, mental illness, post‐stroke cognitive impairment, and neonatal hypoxic–ischemic injury. Results 287 valid papers were obtained. The scientometric results demonstrated 287 papers used in this study came from 1601 authors from 443 organizations in 38 countries, published in 169 journals, and cited 13,680 literatures from 2431 journals. Depression, AD, cerebral ischemia, diabetic cognitive impairment, and cognitive function in the elderly are all keywords of the co‐occurrence network. Conclusion This study supports the hypothesis that chronic RES intake may positively affect brain function. But it has become challenging to determine the optimal dose, time and duration of RES and improve the bioavailability of RES, which many researchers need to overcome.
+
+Resveratrol Activates Neuronal Autophagy Through AMPK in the Ischemic Brain
+
+Number of 
+
+Key takeaways:Resveratrol protects against cerebral ischemia and excitotoxicity by activating the AMPK/autophagy pathway, reducing infarct area and increasing survival in rats and neurons.
+
+Abstract:During cerebral ischemia, oxygen and glucose levels decrease, producing many consequences such as the generation of reactive oxygen species, tissue injury, and the general metabolism collapse. Resveratrol triggers signaling dependent on the protein kinase activated by adenosine monophosphate (AMPK), the sensor of cellular energy metabolism that regulates autophagy, eliminates damaged mitochondria, and increases energy sources. In the present study, we investigated the participation of AMPK activation in the protective effect of resveratrol on cerebral ischemia and excitotoxicity. We found that resveratrol increased the levels of phosphorylated AMPK in the cerebral cortex of rats subjected to middle cerebral artery occlusion (MCAO) and in primary cultured neurons exposed to glutamate-induced excitotoxicity. Resveratrol (1.8 mg/Kg; i. v.; administered at the beginning of reperfusion) decreased the infarct area and increased survival of rats subjected to MCAO. In neuronal cultures, resveratrol treatment (40 μM, after excitotoxicity) reduced the production of superoxide anion, prevented the overload of intracellular Ca^+2 associated to mitochondrial failure, reduced the release of the lactate dehydrogenase enzyme, and reduced death. It also promoted mitophagy (increased Beclin 1 level, favored the recruitment of LC3-II, reduced LAMP1, and reduced mitochondrial matrix protein HSP60 levels). In both models, inhibition of AMPK activation with Compound C obstructed the effect of resveratrol, showing that its protective effect depends, partially, on the activation of the AMPK/autophagy pathway.
+
+Resveratrol, pterostilbene, and dementia
+
+Number of 
+
+Key takeaways:Resveratrol and pterostilbene show potential in preventing and treating dementia, with pterostilbene being more effective in combating brain changes associated with aging.
+
+Abstract:Resveratrol is a natural phytoestrogen with neuroprotective properties. Polyphenolic compounds including resveratrol exert in vitro antioxidant, anti‐inflammatory, and antiamyloid effects. Resveratrol and its derivative pterostilbene are able to cross the blood‐brain barrier and to influence brain activity. The present short review summarizes the available evidence regarding the effects of these polyphenols on pathology and cognition in animal models and human subjects with dementia. Numerous investigations in cellular and mammalian models have associated resveratrol and pterostilbene with protection against dementia syndromes such as Alzheimer's disease (AD) and vascular dementia. The neuroprotective activity of resveratrol and pterostilbene demonstrated in in vitro and in vivo studies suggests a promising role for these compounds in the prevention and treatment of dementia. In comparison to resveratrol, pterostilbene appears to be more effective in combatting brain changes associated with aging. This may be attributed to the more lipophilic nature of pterostilbene with its two methoxyl groups compared with the two hydroxyl groups of resveratrol. The findings of available intervention trials of resveratrol in individuals with mild cognitive impairment or AD do not provide evidence of neuroprotective or therapeutic effects. Future clinical trials should be conducted with long‐term exposure to preparations of resveratrol and pterostilbene with high bioavailability. © 2017 BioFactors, 44(1):83–90, 2018
+
+Effects of Resveratrol on Cognitive Performance, Mood and Cerebrovascular Function in Post-Menopausal Women; A 14-Week Randomised Placebo-Controlled Intervention Trial
+
+Number of 
+
+Key takeaways:Regular consumption of a modest dose of resveratrol can enhance cerebrovascular function and cognition in post-menopausal women, potentially reducing their risk of accelerated cognitive decline.
+
+Abstract:We tested whether chronic supplementation with resveratrol (a phytoestrogen) could improve cerebrovascular function, cognition and mood in post-menopausal women. Eighty post-menopausal women aged 45–85 years were randomised to take trans-resveratrol or placebo for 14 weeks and the effects on cognitive performance, cerebral blood flow velocity and pulsatility index (a measure of arterial stiffness) in the middle cerebral artery (using transcranial Doppler ultrasound), and cerebrovascular responsiveness (CVR) to both cognitive testing and hypercapnia were assessed. Mood questionnaires were also administered. Compared to placebo, resveratrol elicited 17% increases in CVR to both hypercapnic (p = 0.010) and cognitive stimuli (p = 0.002). Significant improvements were observed in the performance of cognitive tasks in the domain of verbal memory (p = 0.041) and in overall cognitive performance (p = 0.020), which correlated with the increase in CVR (r = 0.327; p = 0.048). Mood tended to improve in multiple measures, although not significantly. These results indicate that regular consumption of a modest dose of resveratrol can enhance both cerebrovascular function and cognition in post-menopausal women, potentially reducing their heightened risk of accelerated cognitive decline and offering a promising therapeutic treatment for menopause-related cognitive decline.
+
+Effects of Resveratrol on Memory Performance, Hippocampal Functional Connectivity, and Glucose Metabolism in Healthy Older Adults
+
+Number of 
+
+Key takeaways:Supplementing with resveratrol improves memory performance, glucose metabolism, and hippocampal functional connectivity in older adults, offering potential for brain health strategies during aging.
+
+Abstract:Dietary habits such as caloric restriction or nutrients that mimic these effects may exert beneficial effects on brain aging. The plant-derived polyphenol resveratrol has been shown to increase memory performance in primates; however, interventional studies in older humans are lacking. Here, we tested whether supplementation of resveratrol would enhance memory performance in older adults and addressed potential mechanisms underlying this effect. Twenty-three healthy overweight older individuals that successfully completed 26 weeks of resveratrol intake (200 mg/d) were pairwise matched to 23 participants that received placebo (total n = 46, 18 females, 50–75 years). Before and after the intervention/control period, subjects underwent memory tasks and neuroimaging to assess volume, microstructure, and functional connectivity (FC) of the hippocampus, a key region implicated in memory functions. In addition, anthropometry, glucose and lipid metabolism, inflammation, neurotrophic factors, and vascular parameters were assayed. We observed a significant effect of resveratrol on retention of words over 30 min compared with placebo (p = 0.038). In addition, resveratrol led to significant increases in hippocampal FC, decreases in glycated hemoglobin (HbA1c) and body fat, and increases in leptin compared with placebo (all p < 0.05). Increases in FC between the left posterior hippocampus and the medial prefrontal cortex correlated with increases in retention scores and with decreases in HbA1c (all p < 0.05). This study provides initial evidence that supplementary resveratrol improves memory performance in association with improved glucose metabolism and increased hippocampal FC in older adults. Our findings offer the basis for novel strategies to maintain brain health during aging.
+
+Resveratrol and Brain Mitochondria: a Review
+
+Number of 
+
+Key takeaways:Resveratrol, found in grapes, berries, peanuts, and wines, may protect brain mitochondria from dysfunction and neuroinflammation, potentially benefiting neurodegenerative diseases.
+
+Abstract:Resveratrol (3,4',5-trihydroxystilbene; C_14H_12O_3) is a polyphenolic phytoalexin found in grapes, berries, peanuts, and wines. Resveratrol has been viewed as an antioxidant, anti-inflammatory, anti-apoptotic, and anticancer agent. Moreover, it has been reported that resveratrol modulates mitochondrial function, redox biology, and dynamics in both in vitro and in vivo experimental models. Resveratrol also attenuates mitochondrial impairment induced by certain stressors. Resveratrol upregulates, for example, mitochondria-located antioxidant enzymes, decreasing the production of reactive species by these organelles. Resveratrol also triggers mitochondrial biogenesis, ameliorating the mitochondria-related bioenergetics status in mammalian cells. In the present work, we discuss about the effects of resveratrol on brain mitochondria. Brain cells (both neuronal and glial) are susceptible to mitochondrial dysfunction due to their high demand for adenosine triphosphate (ATP). Additionally, brain cells consume oxygen (O_2) at very high rates, leading to a proportionally high mitochondrial production of reactive species. Therefore, strategies focusing on the maintenance of mitochondrial function in these cell types are of pharmacological interest in the case of neurodegenerative diseases, which involve mitochondrial impairment and increased generation of reactive species, leading to neuroinflammation and cell death. The mechanism by which resveratrol protects mitochondrial function and dynamics is not completely understood, and further research would be necessary in order to investigate exactly how resveratrol affects mitochondria-related parameters. Furthermore, it is particularly important because resveratrol is able to induce cytotoxicity depending on its dosage.
+
+Unraveling the therapeutic efficacy of resveratrol in Alzheimer’s disease: an umbrella review of systematic evidence
+
+Number of 
+
+Key takeaways:Resveratrol shows promising potential in treating Alzheimer's disease through various mechanisms, including cognitive enhancement, reduced A accumulation, neuroprotection, and reduced neuroinflammation.
+
+Abstract:Abstract Context Resveratrol (RV), a natural compound found in grapes, berries, and peanuts, has been extensively studied for its potential in treating Alzheimer’s disease (AD). RV has shown promise in inhibiting the formation of beta-amyloid plaques (Aβ) and neurofibrillary tangles (NFTs), protecting against neuronal damage and oxidative stress, reducing inflammation, promoting neuroprotection, and improving the function of the blood–brain barrier (BBB). However, conflicting results have been reported, necessitating a comprehensive umbrella review of systematic reviews to provide an unbiased conclusion on the therapeutic effectiveness of RV in AD. Objective The objective of this study was to systematically synthesize and evaluate systematic and meta-analysis reviews investigating the role of RV in AD using data from both human and animal studies. Data sources and extraction Of the 34 systematic and meta-analysis reviews examining the association between RV and AD that were collected, six were included in this study based on specific selection criteria. To identify pertinent studies, a comprehensive search was conducted in English-language peer-reviewed journals without any restrictions on the publication date until October 15, 2023. The search was carried out across multiple databases, including Embase, MEDLINE (PubMed), Cochrane Library, Web of Science, and Google Scholar, utilizing appropriate terms relevant to the specific research field. The AMSTAR-2 and ROBIS tools were also used to evaluate the quality and risk of bias of the included systematic reviews, respectively. Two researchers independently extracted and analyzed the data, resolving any discrepancies through consensus. Of note, the study adhered to the PRIOR checklist. Data analysis This umbrella review presented robust evidence supporting the positive impacts of RV in AD, irrespective of the specific mechanisms involved. It indeed indicated that all six systematic and meta-analysis reviews unanimously concluded that the consumption of RV can be effective in the treatment of AD. Conclusion RV exhibits promising potential for benefiting individuals with AD through various mechanisms. It has been observed to enhance cognitive function, reduce Aβ accumulation, provide neuroprotection, protect the BBB, support mitochondrial function, facilitate synaptic plasticity, stabilize tau proteins, mitigate oxidative stress, and reduce neuroinflammation commonly associated with AD. Graphical abstract
+
+A meta-analysis of resveratrol protects against cerebral ischemia/reperfusion injury: Evidence from rats studies and insight into molecular mechanisms
+
+Number of 
+
+Key takeaways:Resveratrol has a good neuroprotective effect on cerebral ischemia/reperfusion injury in rats, with 30 mg/kg being the optimal dose and early administration being more effective.
+
+Abstract:Objective: To evaluate the neuroprotective effect of resveratrol (RES) in rat models of cerebral ischemia/reperfusion (I/R) injury. Data 
+
+The role of resveratrol in neurogenesis: a systematic review.
+
+Number of 
+
+Key takeaways:Resveratrol intake can boost neurogenesis in the subventricular zone and hippocampus, potentially improving cognitive function, mood regulation, stress resilience, and neuroprotection.
+
+Abstract:CONTEXT
+Resveratrol (RV) is a natural compound found in grapes, wine, berries, and peanuts and has potential health benefits-namely, neurogenesis improvement. Neurogenesis, which is the process through which new neurons or nerve cells are generated in the brain, occurs in the subventricular zone and hippocampus and is influenced by various factors. RV has been shown to increase neural stem cell proliferation and survival, improving cognitive function in hippocampus-dependent tasks. Thus, to provide a convergent and unbiased conclusion of the available evidence on the correlation between the RV and neurogenesis, a systematic review needs to be undertaken meticulously and with appropriate attention.
+
+OBJECTIVE
+This study aimed to systematically review any potential connection between the RV and neurogenesis in animal models.
+
+DATA SOURCES AND EXTRACTION
+Based on the particular selection criteria, 8 original animal studies that investigated the relationship between RV and neurogenesis were included. Studies written in English and published in peer-reviewed journals with no restrictions on the starting date of publication on August 17, 2023, were searched in the Google Scholar and PubMed databases. Furthermore, data were extracted and analyzed independently by 2 researchers and then reviewed by a third researcher, and discrepancies were resolved by consensus. This project followed PRISMA reporting standards.
+
+DATA ANALYSIS
+In the studies analyzed in this review, there is a definite correlation between RV and neurogenesis, meaning that RV intake, irrespective of the mechanisms thereof, can boost neurogenesis in both the subventricular zone and hippocampus.
+
+CONCLUSION
+This finding, albeit with some limitations, provides a plausible indication of RV's beneficial function in neurogenesis. Indeed, RV intake may result in neurogenesis benefits-namely, cognitive function, mood regulation, stress resilience, and neuroprotection, potentially preventing cognitive decline.
+
+Resveratrol: A “miracle” drug in neuropsychiatry or a cognitive enhancer for mice only? A systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Resveratrol's promising effects on cognition and brain function in animal models are not replicated in human clinical trials, and its effects on human cognition are likely small.
+
+Resveratrol differentially affects MMP‐9 release from neurons and glia; implications for therapeutic efficacy
+
+Number of 
+
+Key takeaways:Resveratrol reduces MMP-9 release from activated glia, but spares neuroplasticity-promoting MMP-9 release from neurons, suggesting its diverse effects on affected cell types and molecular targets.
+
+Abstract:Resveratrol, a naturally occurring polyphenol that activates sirtuin 1 (SIRT1), has been shown to reduce overall levels of matrix metalloprotease‐9 (MMP‐9) in cerebrospinal fluid (CSF) samples from patients with Alzheimer's dementia (AD). Depending on the site of release, however, MMP‐9 has the potential to improve or impair cognition. In particular, its release from microglia or pericytes proximal to the blood brain barrier can damage the basement membrane, while neuronal activity‐dependent release of this protease from glutamatergic neurons can instead promote dendritic spine expansion and long‐term potentiation of synaptic plasticity. In the present study, we test the hypothesis that resveratrol reduces overall MMP‐9 levels in CSF samples from patients with APOE4, an allele associated with increased glial inflammation. We also examine the possibility that resveratrol reduces inflammation‐associated MMP release from cultured glia but spares neuronal activity‐dependent release from cultured cortical neurons. We observe that resveratrol decreases overall levels of MMP‐2 and MMP‐9 in CSF samples from AD patients. Resveratrol also reduces CSF levels of tissue inhibitor of metalloproteinases‐1 (TIMP‐1), glial‐derived protein that restricts long‐term potentiation of synaptic transmission, in individuals homozygous for APOE4. Consistent with these results, we observe that resveratrol reduces basal and lipopolysaccharide (LPS)‐stimulated MMP and TIMP‐1 release from cultured microglia and astrocytes. In contrast, however, resveratrol does not inhibit release of MMP‐9 from cortical neurons. Overall, these results are consistent with the possibility that while resveratrol reduces potentially maladaptive MMP and TIMP‐1 release from activated glia, neuroplasticity‐promoting MMP release from neurons is spared. In contrast, resveratrol reduces release of neurocan and brevican, extracellular matrix components that restrict neuroplasticity, from both neurons and glia. These data underscore the diversity of resveratrol's actions with respect to affected cell types and molecular targets and also suggest that further studies may be warranted to determine if its effects on glial MMP release could make it a useful adjunct for AD‐ and/or anti‐amyloid therapy‐related damage to the blood brain barrier.
+
+Molecular and biological functions of resveratrol in psychiatric disorders: a review of recent evidence
+
+Number of 
+
+Key takeaways:Resveratrol shows potential in improving mental health by regulating brain function and enhancing learning, anxiety, depression, and memory.
+
+Abstract:Abstract Mental disorders including depression, anxiety, schizophrenia, autism spectrum disorders, bipolar and etc. have a considerable proportion of global disorder burden. Many nutritional psychiatry investigations have been conducted to evaluate the relationship between several individual nutrients such as herbal compounds with mental health. Resveratrol, a famous polyphenol compound, is known as an antioxidant, anti-inflammatory, anti-apoptotic, and neuroprotective agent regulating the function of brain and improves the behavioral factors associated with learning, anxiety, depression, and memory. In addition, this natural compound can cross the blood–brain barrier representing neurological influences. The pharmacological interest of utilizing resveratrol in mental disorders is due to its anti-inflammatory and antioxidant features. The aim of this paper was to review the studies evaluated the potential effects of resveratrol on mental disorders.
+
+Effects of resveratrol on cerebral blood flow variables and cognitive performance in humans: a double-blind, placebo-controlled, crossover investigation.
+
+Number of 
+
+Key takeaways:Orally administered resveratrol can modulate cerebral blood flow variables without affecting cognitive function in healthy adults.
+
+Abstract:BACKGROUND
+The many putative beneficial effects of the polyphenol resveratrol include an ability to bolster endogenous antioxidant defenses, modulate nitric oxide synthesis, and promote vasodilation, which thereby improves blood flow. Resveratrol may therefore modulate aspects of brain function in humans.
+
+OBJECTIVE
+The current study assessed the effects of oral resveratrol on cognitive performance and localized cerebral blood flow variables in healthy human adults.
+
+DESIGN
+In this randomized, double-blind, placebo-controlled, crossover study, 22 healthy adults received placebo and 2 doses (250 and 500 mg) of trans-resveratrol in counterbalanced order on separate days. After a 45-min resting absorption period, the participants performed a selection of cognitive tasks that activate the frontal cortex for an additional 36 min. Cerebral blood flow and hemodynamics, as indexed by concentration changes in oxygenated and deoxygenated hemoglobin, were assessed in the frontal cortex throughout the posttreatment period with the use of near-infrared spectroscopy. The presence of resveratrol and its conjugates in plasma was confirmed by HPLC after the same doses in a separate cohort (n = 9).
+
+RESULTS
+Resveratrol administration resulted in dose-dependent increases in cerebral blood flow during task performance, as indexed by total concentrations of hemoglobin. There was also an increase in deoxyhemoglobin after both doses of resveratrol, which suggested enhanced oxygen extraction, that became apparent toward the end of the 45-min absorption phase and was sustained throughout task performance. Cognitive function was not affected. Resveratrol metabolites were present in plasma throughout the cognitive task period.
+
+CONCLUSION
+These results showed that single doses of orally administered resveratrol can modulate cerebral blood flow variables.
+
+Effect of resveratrol on cognitive and memory performance and mood: A meta‐analysis of 225 patients
+
+Number of 
+
+Key takeaways:Resveratrol has no significant effect on memory and cognitive performance, but may enhance mood.
+
+Effects of 90 Days of Resveratrol Supplementation on Cognitive Function in Elders: A Pilot Study.
+
+Number of 
+
+Key takeaways:90 days of resveratrol supplementation at a dose of 1000 mg per day improves psychomotor speed in older adults, but does not significantly affect other cognitive domains.
+
+Abstract:OBJECTIVE
+The purpose of this trial was to study the effects of chronic resveratrol use on cognitive function in humans.
+
+DESIGN
+The authors conducted a double-blind, Phase IIa randomized, placebo-controlled trial to obtain preliminary estimates of the effects of resveratrol supplementation on cognitive function over a 90-day period in older adults.
+
+LOCATION
+University of Florida in Gainesville, FL.
+
+SUBJECTS
+Sedentary, overweight older adults (N = 32; age range: 65-93 years, M age = 73.34 years, SD age = 7.02 years).
+
+INTERVENTION
+Participants were randomized to one of three treatment groups (placebo, 300 mg/day resveratrol, 1000 mg/day resveratrol) for 90 days.
+
+OUTCOME MEASURES
+Cognitive function was assessed before and after treatment using a well-characterized test battery: Trail Making, Digits Forward and Backward, Erikson-Flanker, Controlled Oral Word Association, Hopkins Verbal Learning Test-Revised, and Task Switching.
+
+RESULTS
+Psychomotor speed improved on the Trail Making Test part A in participants taking 1000 mg/day of resveratrol compared with participants in both the 300 mg/day condition and the placebo condition (p = 0.02).
+
+CONCLUSION
+This pilot study suggests that 90 days of resveratrol supplementation at a dose of 1000/mg per day selectively improves psychomotor speed but does not significantly affect other domains of cognitive function in older adults. These findings provide modest support to further study the effects of resveratrol on cognitive function in older adults.
+
+Resveratrol prevents memory deficits and the increase in acetylcholinesterase activity in streptozotocin-induced diabetic rats.
+
+Number of 
+
+Key takeaways:Resveratrol treatment prevents memory impairment and increases acetylcholinesterase activity in diabetic rats, improving cognition.
+
+The Plant-Derived Compound Resveratrol in Brain Cancer: A Review
+
+Number of 
+
+Key takeaways:Resveratrol shows promising anticancer effects in various types of brain cancer, potentially overcoming resistance to standard treatments.
+
+Abstract:Despite intensive research, malignant brain tumors are among the most difficult to treat due to high resistance to conventional therapeutic approaches. High-grade malignant gliomas, including glioblastoma and anaplastic astrocytoma, are among the most devastating and rapidly growing cancers. Despite the ability of standard treatment agents to achieve therapeutic concentrations in the brain, malignant gliomas are often resistant to alkylating agents. Resveratrol is a plant polyphenol occurring in nuts, berries, grapes, and red wine. Resveratrol crosses the blood‒brain barrier and may influence the central nervous system. Moreover, it influences the enzyme isocitrate dehydrogenase and, more importantly, the resistance to standard treatment via various mechanisms, such as O6-methylguanine methyltransferase. This review summarizes the anticancer effects of resveratrol in various types of brain cancer. Several in vitro and in vivo studies have presented promising results; however, further clinical research is necessary to prove the therapeutic efficacy of resveratrol in brain cancer treatment.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

@@ -1,0 +1,557 @@
+PROTOCOL: Red light therapy
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Abstract:Introduction Muscle injury is common among athletes and amateur practitioners of sports. Following an injury, the production of reactive oxygen species (ROS) occurs, which can harm healthy muscle fibers (secondary damage) and delay the repair process. Low-level laser therapy (LLLT) administered prior to or following an injury has demonstrated positive and protective effects on muscle repair, but the combination of both administration times together has not been clarified. Aim To evaluate the effect of LLLT (660 nm and 780 nm, 10 J/cm², 40 mW, 3.2 J) prior to injury with or without the administration after injury on oxidative stress during the muscle repair process. Methods Wistar rats were divided into following groups: control; muscle injury alone; LLLT 660 nm + injury; LLLT 780 nm + injury; LLLT 660 nm before and after injury; and LLLT 780 nm before and after injury. The rats were euthanized on days 1, 3 and 7 following cryoinjury of the tibialis anterior (TA) muscle, which was then removed for analysis. Results Lipid peroxidation decreased in the 660+injury group after one day. Moreover, red and infrared LLLT employed at both administration times induced a decrease in lipid peroxidation after seven days. CAT activity was altered by LLLT in all periods evaluated, with a decrease after one day in the 780+injury+780 group and after seven days in the 780+injury group as well as an increase in the 780+injury and 780+injury+780 groups after three days. Furthermore, increases in GPx and SOD activity were found after seven days in the 780+injury+780 group. Conclusion The administration of red and infrared laser therapy at different times positively modulates the activity of antioxidant enzymes and reduces stress markers during the muscle repair process.
+DESCRIPTION: Red light therapy is a non-invasive method that uses light with wavelengths between 600–700 nm to illuminate tissues, supporting the repair processes of skin, muscles, and bones. Its application in sports, dermatology, and orthopedics accelerates wound healing, reduces inflammation, and improves muscle strength and endurance. Numerous studies confirm its safety and effectiveness in humans.
+
+CONTENT SECTIONS:
+
+Supporting Tissue Regeneration and Increasing Muscle Performance
+
+Red light therapy is a non-invasive method that uses light with wavelengths between 600–700 nm to illuminate tissues, supporting the repair processes of skin, muscles, and bones. Its application in sports, dermatology, and orthopedics accelerates wound healing, reduces inflammation, and improves muscle strength and endurance. Numerous studies confirm its safety and effectiveness in humans.
+
+Level of evidence:Strong
+
+Level of risk:Negligible
+
+Red light photons are absorbed by cytochrome c oxidase in the mitochondria, which increases ATP production and nitric oxide release. The rise in cellular energy and modulation of reactive oxygen species activate signaling pathways responsible for cell proliferation, migration, and differentiation. Additionally, the synthesis of collagen, growth factors, and angiogenesis is stimulated, leading to accelerated tissue regeneration and improved muscle performance.
+
+Level of risk:Negligible
+
+Red light therapy is well tolerated; reported side effects are mild and temporary.
+
+Therapy is not recommended for individuals with light sensitivity or certain medical conditions.
+
+5–6 J per point (approx. 5–20 minutes per area), 2–3 sessions per week
+
+LED matrices, low-level lasers, LED patches
+
+Initial results after 2–4 weeks of regular use
+
+Best before workout or in the evening as a recovery session
+
+Always wear protective goggles to shield the retina during exposure.
+
+Position the light source 5–10 cm from the skin for appropriate radiation dose.
+
+Hydration and massage
+
+After a session, perform a light massage and ensure proper hydration to support circulation.
+
+Exposure before exercise enhances performance and delays fatigue.
+
+Monitor skin reactions
+
+Regularly assess skin condition to quickly detect any hypersensitivity.
+
+Fatigue and regeneration
+
+Red light therapy (RLT, photobiomodulation) supports regenerative processes by stimulating mitochondria, increasing cellular energy production, and activating pathways responsible for tissue repair.
+
+Applications and effects
+
+Limitations and considerations
+
+Red light therapy (RLT) is increasingly used in dermatology and cosmetology to improve skin appearance, support healing, and reduce inflammation.
+
+Mechanisms of action and biological effects
+
+Clinical applications
+
+Limitations and safety
+
+Musculoskeletal system
+
+Red light therapy supports muscle performance, regeneration, and protection by stimulating mitochondria, reducing oxidative stress, and modulating inflammatory processes.
+
+Impact on muscle performance and fatigue
+
+Muscle regeneration and protection
+
+Practical applications and safety
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:52
+
+Final comment:The assessment is based on numerous meta-analyses, randomized controlled trials, and systematic reviews, which clearly confirm the effectiveness of red light photobiomodulation in tissue regeneration, muscle performance enhancement, and wound healing in humans, indicating high reliability and reproducibility of the results.
+
+Mechanisms and Mitochondrial Redox Signaling in Photobiomodulation
+
+Number of 
+
+Key takeaways:Photobiomodulation (PBM) therapy reduces pain, inflammation, and promotes tissue regeneration by affecting stem cells through mitochondrial redox signaling.
+
+Abstract:Photobiomodulation (PBM) involves the use of red or near‐infrared light at low power densities to produce a beneficial effect on cells or tissues. PBM therapy is used to reduce pain, inflammation, edema, and to regenerate damaged tissues such as wounds, bones, and tendons. The primary site of light absorption in mammalian cells has been identified as the mitochondria and, more specifically, cytochrome c oxidase (CCO). It is hypothesized that inhibitory nitric oxide can be dissociated from CCO, thus restoring electron transport and increasing mitochondrial membrane potential. Another mechanism involves activation of light or heat‐gated ion channels. This review will cover the redox signaling that occurs in PBM and examine the difference between healthy and stressed cells, where PBM can have apparently opposite effects. PBM has a marked effect on stem cells, and this is proposed to operate via mitochondrial redox signaling. PBM can act as a preconditioning regimen and can interact with exercise on muscles.
+
+Accelerated Bone Regeneration by Two-Photon Photoactivated Carbon Nitride Nanosheets.
+
+Number of 
+
+Key takeaways:Carbon nitride nanosheets effectively accelerate bone regeneration and fracture healing by enhancing human bone marrow-derived mesenchymal stem cell differentiation through red light absorption.
+
+Abstract:Human bone marrow-derived mesenchymal stem cells (hBMSCs) present promising opportunities for therapeutic medicine. Carbon derivatives showed only marginal enhancement in stem cell differentiation toward bone formation. Here we report that red-light absorbing carbon nitride (C3N4) sheets lead to remarkable proliferation and osteogenic differentiation by runt-related transcription factor 2 (Runx2) activation, a key transcription factor associated with osteoblast differentiation. Accordingly, highly effective hBMSCs-driven mice bone regeneration under red light is achieved (91% recovery after 4 weeks compared to 36% recovery in the standard control group in phosphate-buffered saline without red light). This fast bone regeneration is attributed to the deep penetration strength of red light into cellular membranes via tissue and the resulting efficient cell stimulation by enhanced photocurrent upon two-photon excitation of C3N4 sheets near cells. Given that the photoinduced charge transfer can increase cytosolic Ca2+ accumulation, this increase would promote nucleotide synthesis and cellular proliferation/differentiation. The cell stimulation enhances hBMSC differentiation toward bone formation, demonstrating the therapeutic potential of near-infrared two-photon absorption of C3N4 sheets in bone regeneration and fracture healing.
+
+Noninvasive red and near‐infrared wavelength‐induced photobiomodulation: promoting impaired cutaneous wound healing
+
+Number of 
+
+Key takeaways:Red and near-infrared light-induced photobiomodulation therapy shows promise in promoting impaired cutaneous wound healing, reduction in inflammation, pain, and restoration of function without invasive procedures.
+
+Abstract:The innumerable intricacies associated with chronic wounds have made the development of new painless, noninvasive, biophysical therapeutic interventions as the focus of current biomedical research. Red and near‐infrared light‐induced photobiomodulation therapy appears to emerge as a promising drug‐free approach for promoting wound healing, reduction in inflammation, pain and restoration of function owing to penetration power in conjunction with their ability to positively modulate the biochemical and molecular responses. This review will describe the physical properties of red and near‐infrared light and their interaction with skin and highlight their efficacy of wound repair and regeneration. Near‐infrared (800–830 nm) was found to be the most effective and widely studied wavelength range followed by red (630–680 nm) and 904 nm superpulsed light exhibiting beneficial photobiomodulatory effects on impaired dermal wound healing.
+
+Red (635 nm), Near-Infrared (808 nm) and Violet-Blue (405 nm) Photobiomodulation Potentiality on Human Osteoblasts and Mesenchymal Stromal Cells: A Morphological and Molecular In Vitro Study
+
+Number of 
+
+Key takeaways:Red (635 nm) photobiomodulation may be an effective option for promoting bone regeneration, while violet-blue (405 nm) light shows no significant effect on human osteoblast and mesenchymal stromal cell viability, proliferation, and osteogenic differentiation.
+
+Abstract:Photobiomodulation (PBM) has been used for bone regenerative purposes in different fields of medicine and dentistry, but contradictory results demand a skeptical look for its potential benefits. This in vitro study compared PBM potentiality by red (635 ± 5 nm) or near-infrared (NIR, 808 ± 10 nm) diode lasers and violet-blue (405 ± 5 nm) light-emitting diode operating in a continuous wave with a 0.4 J/cm2 energy density, on human osteoblast and mesenchymal stromal cell (hMSC) viability, proliferation, adhesion and osteogenic differentiation. PBM treatments did not alter viability (PI/Syto16 and MTS assays). Confocal immunofluorescence and RT-PCR analyses indicated that red PBM (i) on both cell types increased vinculin-rich clusters, osteogenic markers expression (Runx-2, alkaline phosphatase, osteopontin) and mineralized bone-like nodule structure deposition and (ii) on hMSCs induced stress fiber formation and upregulated the expression of proliferation marker Ki67. Interestingly, osteoblast responses to red light were mediated by Akt signaling activation, which seems to positively modulate reactive oxygen species levels. Violet-blue light-irradiated cells behaved essentially as untreated ones and NIR irradiated ones displayed modifications of cytoskeleton assembly, Runx-2 expression and mineralization pattern. Although within the limitations of an in vitro experimentation, this study may suggest PBM with 635 nm laser as potential effective option for promoting/improving bone regeneration.
+
+Effect of red light on epidermal proliferation and mitochondrial activity
+
+Number of 
+
+Key takeaways:Red light accelerates epidermal water-impermeable barrier recovery, while blue light delays it, while white and green light have no effect on human skin.
+
+Abstract:We previously demonstrated that irradiation with red light accelerates recovery of the epidermal water‐impermeable barrier, whereas blue light delays it, and white and green light have no effect. Here, we aimed to examine in detail the effects of red and blue light in a human epidermal‐equivalent model and in human skin.
+
+3D printing scaffold coupled with low level light therapy for neural tissue regeneration
+
+Number of 
+
+Key takeaways:3D printed neural scaffolds coupled with low-level light therapy can promote neural stem cell proliferation and differentiation, potentially offering a powerful method for neural tissue engineering.
+
+Abstract:3D printing has shown promise for neural regeneration by providing customized nerve scaffolds to structurally support and bridge the defect gap as well as deliver cells or various bioactive substances. Low-level light therapy (LLLT) exhibits positive effects on rehabiliation of degenerative nerves and neural disorders. With this in mind, we postulate that 3D printed neural scaffold coupling with LLLT will generate a new strategy to repair neural degeneration. To achieve this goal, we applied red laser light to stimualte neural stem cells on 3D printed scaffolds and investigated the subsequent cell response with respect to cell proliferation and differentiation. Here we show that cell prolifeartion rate and intracellular reactive oxgen species synthesis were significantly increased after 15 s laser stimulation follwed by 1 d culture. Over culturing time of 14 d in vitro, the laser stimulation promoted neuronal differentiation of neural stem cells, while the glial differentiation was suppressed based on results of both immunocytochemistry studies and real-time quantitative reverse transcription polymerase chain reaction testing. These findings suggest that integration of 3D printing and LLLT might provide a powerful methodology for neural tissue engineering.
+
+Fibroblast function recovery through rejuvenation effect of nanovesicles extracted from human adipose-derived stem cells irradiated with red light.
+
+Number of 
+
+Key takeaways:Red light irradiated nanovesicles from human adipose-derived stem cells can rejuvenate and enhance the therapeutic efficacy of old fibroblasts, restoring their skin wound healing ability.
+
+Effects of red and near-infrared LED light therapy on full-thickness skin graft in rats
+
+Number of 
+
+Key takeaways:Red LED light therapy significantly improves skin graft healing in rats by enhancing the dermo-epidermal junction and modulating tissue repair proteins.
+
+Abstract:The aim of the present study was to evaluate the in vivo response of different wavelengths (red and near-infrared) of light-emitting diode (LED) on full-thickness skin grafts (FTSG) in rats. Thirty rats were randomly allocated into three experimental groups: control group (C); red LED treated group (R); and near-infrared LED group (NIR). Skin grafts were irradiated daily for ten consecutive days, starting immediately after the surgery using a red (630 nm) or near-infrared (850 nm) LED. The results showed that the red wavelength LED significantly enhanced the skin graft score in relation to the NIR group and increased transforming growth factor beta (TGF-β) protein expression and density of collagen fibers compared with the other experimental groups. These results suggest that the red wavelength LED was efficient to improve the dermo-epidermal junction and modulate the expression proteins related to tissue repair.
+
+Low-energy red light-emitting diode irradiation enhances osteogenic differentiation of periodontal ligament stem cells by regulating miR-146a-5p.
+
+Number of 
+
+Key takeaways:Low-energy red LED irradiation enhances osteogenic differentiation of periodontal ligament stem cells by targeting MAPK1, making it a potential adjunct therapy for periodontal regeneration.
+
+Abstract:AIMS
+The study aimed to investigate the role of miR-146a-5p in osteogenesis of hPDLSCs irradiated with low-energy red LEDs.
+
+METHODS
+After irradiation with 5 J/cm2 red LED, miR-146a-5p expression was detected by real-time quantitative polymerase chain reaction (RT-qPCR), and osteogenic markers expression was determined by RT-qPCR and Western blotting. Alkaline phosphatase (ALP) activity was assessed by ALP staining, and mineralization was assessed by Alizarin Red staining, respectively. Lentiviral vectors were designed to regulate miR-146a-5p expression. Dual-luciferase reporter assay was performed to confirm the targeted relationship between miR-146a-5p and MAPK1. Short hairpin RNA (shRNA) was used to regulate MAPK1 expression.
+
+RESULTS
+RT-qPCR and western blotting revealed that 5 J/cm2 irradiation elevated the levels of the osteogenic markers osterix (OSX) and bone sialoprotein (BSP) in hPDLSCs. miR-146a-5p is downregulated in hPDLSCs under the low-energy red LED light irradiation. miR-146a-5p underexpression markedly promoted the osteogenic potential of hPDLSCs. miR-146a-5p targeted MAPK1. 5 J/cm2 red LED irradiation rescued the inhibitory effects of upregulated miR-146a-5p on osteogenic differentiation, and the positive influence of red LED irradiation could be reversed by downregulated MAPK1.
+
+CONCLUSION
+These findings confirm that miR-146a-5p is involved in the effect of LED irradiation on the osteogenic differentiation of hPDLSCs by targeting MAPK1. Red LED irradiation may be a potential clinical adjunct therapy for periodontal regeneration.
+
+Photobiomodulation Therapy; Survey and Principal Study Leading to Design Rules for Implants.
+
+Number of 
+
+Key takeaways:This study proposes a design rule for photobiomodulation implants, aiming to restore cellular function in internal organs, using safe wireless inductive links and a power density of 100 mW/cm2.
+
+Abstract:Photobiomodulation (PBM) therapy using red- and near-infrared (NIR) light has shown beneficial regenerative effects on cell functionalities and consequently on health applications. Light parameter values, particularly power density, significantly affect the treatment outcomes. The limited use of light in transcutaneous applications is due to the power attenuation challenge, which restricts the transmission of light energy to deeper tissues. However, the potential of light therapy to restore cellular function presents a promising strategy for regenerating of cells in internal human organs. We have 1) studied the mechanism and impact of red light at the cellular level, 2) reviewed the literature and classified the research done using light therapy, indicating the positive and negative effects associated with the light power density and exposure time levels, and 3) proposed a design rule for designing PBM implants targeting interior organs. Therefore, this work leads to 1) designing safe and efficient implantable devices by extracting the necessary light parameters, and 2) expanding the applications of light therapy. The range of the red-light power density used in different studies starts from 10 mW/cm2 to as big as 5000 mW/cm2 in a few cases, and from 10 s to 3000 s for different exposure times. According to the light parameters, we have tested different types of off-the-shelf LEDs to experimentally find the correlation between the generated light power densities at different distances from light sources and the LEDs' input electrical power. We have found that for an average light power density of 100 mW/cm2 over an area of 1 cm2, the input power of 18 mW must be delivered to the LED, which is achievable safely via wireless inductive links for delivering sufficient power deep in the body with under 1.6 W/kg of specific absorption rate (SAR). A design rule and approach are provided in this work as a starting point for designing PBM implants.
+
+Number of 
+
+Key takeaways:Low-level light therapy (LLLT) shows potential in accelerating wound healing and tissue regeneration by stimulating various cells involved in vessel formation.
+
+Abstract:Tissue engineering techniques, to replace wounded or missing tissue, are advancing rapidly to ensure the speedy recovery of patients. However, this field faces limitations of cells and biomaterials which prevents the acceleration of regeneration. Low level light therapy, a physical therapy, shows potential in enhancing and supporting the existing medicinal treatments. Visible light in the red and near-infrared range has shown to have positive stimulatory effects on various types of cells involved in wound healing and tissue regeneration. As angiogenesis is an essential part of this process, light therapy was investigated in multiple studies to see its beneficial effect on vessel formation. In vitro, in vivo, and in a clinical setup, LLLT therapy proved that it is capable of stimulating not only endothelial cells but other cells such as fibroblasts, smooth muscle cells, and lymphocytes which are involved in the vessel formation process. It triggers the activation of cytochrome c oxidase, which leads to the production of NO, ROS, and ATP in the mitochondria. These molecules appear to act as secondary messengers initiating ERK/Sp1 and PI3K signaling pathway, which in turn leads to proliferation, migration, and the synthesis of proangiogenic factors. This data indicates that LLLT could be a promising adjuvant treatment in the future.
+
+Light-emitting diode red light therapy: evidence base for aesthetic indications
+
+Number of 
+
+Key takeaways:LED red light therapy offers affordable, effective, and minimally invasive skin rejuvenation, stimulating regenerative processes without causing damage to the skin.
+
+Abstract:Non-invasive approaches to skin rejuvenation, such light-emitting diode (LED) red light therapy, are increasing in popularity owing to their affordability, effective treatment outcomes and minimal downtime. In contrast to traumatic ablative (e.g. laser resurfacing) and non-ablative (e.g. intense pulsed light) skin rejuvenation modalities, which induce secondary tissue repair by causing controlled damage to the epidermis or dermis, LED red light therapy is atraumatic and bypasses the initial destructive step by directly stimulating regenerative processes in the skin. Its mechanisms of action encompass increased cellular proliferation, as well as stimulation of tissue regeneration, through targeting fibroblasts, keratinocytes and immune cells (mast cells, neutrophils and macrophages), which can be stimulated using specific wavelengths with significant tissue penetration properties. A growing body of literature supports the safe use of this treatment modality in aesthetic medicine.
+
+SHEDDING LIGHT ON CHONDROGENESIS: THE IMPACT OF LOW-LEVEL LASER ON THE CHONDROGENIC DIFFERENTIATION
+
+Number of 
+
+Key takeaways:Low-level lasers can positively impact cartilage regeneration, with red light showing the most promising impact.
+
+Abstract:Photobiomodulation (PBM), the use of light for regenerative purposes, has a long history with first documentations several thousand years ago in ancient Egypt and a Nobel Price on this topic at the beginning of last century (by Niels Finsen). Nowadays, it is in clinical use for indications such as wound healing, pain relief and anti-inflammatory treatment. Given the rising numbers of in vitro studies, there is increasing evidence for the underlying mechanisms such as wavelength dependent reactive oxygen production and adenosine triphosphate generation. In cartilage regeneration, the use of PBM is controversially discussed with divergent results in clinics and insufficient in vitro studies. As non-invasive therapy, PMB is, though, of particular importance, since a general regenerative stimulus would be of great benefit in the otherwise only surgically accessible tissues. We therefore investigated the influence of different wavelengths - blue (475 nm), green (516 nm) or red (635 nm) of a low-level laser (LLL) - on the chondrogenic differentiation of chondrocytes and adipose derived stromal cells of different human donors and applied the light in different settings (2D, 3D) with cells in a proliferative or differentiating stage. All assessed parameters (spheroid growth, histology, matrix quantification and gene expression) revealed an influence of LLL on chondrogenesis in a donor-, wavelength- and culture-model-dependent manner. Especially encouraging was the finding, that cells with poor chondrogenic potential could be improved by one single 2D treatment. Amongst the three wave lengths, red light was the most promising one with the most positive impact. Although in vivo data are still missing, these in vitro results provide evidence for a proper biofunctional effect of LLL.
+
+The impact of wavelengths of LED light-therapy on endothelial cells
+
+Number of 
+
+Key takeaways:Green LED light therapy is more potent than red light therapy for stimulating endothelial cell proliferation and migration, potentially benefiting tissue regeneration.
+
+Mitochondrial Bioenergetic, Photobiomodulation and Trigeminal Branches Nerve Damage, What’s the Connection? A Review
+
+Number of 
+
+Key takeaways:Photobiomodulation therapy using red and NIR light can potentially aid nerve recovery after damage to the trigeminal nerve branches.
+
+Abstract:Background: Injury of the trigeminal nerve in oral and maxillofacial surgery can occur. Schwann cell mitochondria are regulators in the development, maintenance and regeneration of peripheral nerve axons. Evidence shows that after the nerve injury, mitochondrial bioenergetic dysfunction occurs and is associated with pain, neuropathy and nerve regeneration deficit. A challenge for research is to individuate new therapies able to normalise mitochondrial and energetic metabolism to aid nerve recovery after damage. Photobiomodulation therapy can be an interesting candidate, because it is a technique involving cell manipulation through the photonic energy of a non-ionising light 
+
+NIR light-assisted phototherapies for bone-related diseases and bone tissue regeneration: A systematic review
+
+Number of 
+
+Key takeaways:NIR light-assisted phototherapy shows promise in treating bone-related diseases and promoting bone tissue regeneration, with potential for further biomedical and clinical applications.
+
+Abstract:Recently, the rapid development of biomaterials has induced great interest in the precisely targeted treatment of bone-related diseases, including bone cancers, infections, and inflammation. Realizing noninvasive therapeutic effects, as well as improving bone tissue regeneration, is essential for the success of bone‑related disease therapies. In recent years, researchers have focused on the development of stimuli-responsive strategies to treat bone-related diseases and to realize bone regeneration. Among the various external stimuli for targeted therapy, near infrared (NIR) light has attracted considerable interests due to its high tissue penetration capacity, minimal damage toward normal tissues, and easy remote control properties. The main objective of this systematic review was to reveal the current applications of NIR light-assisted phototherapy for bone-related disease treatment and bone tissue regeneration. Database collection was completed by June 1, 2020, and a total of 81 relevant studies were finally included. We outlined the various therapeutic applications of photothermal, photodynamic and photobiomodulation effects under NIR light irradiation for bone‑related disease treatment and bone regeneration, based on the retrieved literatures. In addition, the advantages and promising applications of NIR light-responsive drug delivery systems for spatiotemporal-controlled therapy were summarized. These findings have revealed that NIR light-assisted phototherapy plays an important role in bone-related disease treatment and bone tissue regeneration, with significant promise for further biomedical and clinical applications.
+
+Myopia Control Effect of Repeated Low-Level Red-Light Therapy in Chinese Children: A Randomized, Double-Blind, Controlled Clinical Trial.
+
+Number of 
+
+Key takeaways:Repeated low-level red-light therapy with 100% power significantly reduced myopia progression in Chinese children aged 7 to 12 years compared to a sham device with 10% original power, without treatment-related adverse effects.
+
+Low-intensity red-light therapy in slowing myopic progression and the rebound effect after its cessation in Chinese children: a randomized controlled trial
+
+Number of 
+
+Key takeaways:Low-intensity red-light therapy effectively slows myopic progression and may improve accommodative function in Chinese children, but may cause a slight rebound after its cessation.
+
+Abstract:PurposeTo investigate the effect of low-intensity red-light (LRL) therapy on myopic control and the response after its cessation.MethodsA prospective clinical trial. One hundred two children aged 6 to 13 with myopia were included in the LRL group (n = 51) and the single-focus spectacles (SFS) group (n = 51). In LRL group, subjects wore SFS and received LRL therapy provided by a laser device that emitted red-light of 635 nm and power of 0.35 ± 0.02 mW. One year after the control trial, LRL therapy was stopped for 3 months. The outcomes mainly included axial length (AL), spherical equivalent refraction (SER), subfoveal choroidal thickness (SFCT), and accommodative function.ResultsAfter 12 months of therapy, 46 children in the LRL group and 40 children in the SFS group completed the trial. AL elongation and myopic progression were 0.01 mm (95%CI: − 0.05 to 0.07 mm) and 0.05 D (95%CI: − 0 .08 to 0.19 D) in the LRL group, which were less than 0.39 mm (95%CI: 0.33 to 0.45 mm) and − 0.64 D (95%CI: − 0.78 to − 0.51 D) in the SFS group (p < 0.05). The change of SFCT in the LRL group was greater than that in the SFS group (p < 0.05). Accommodative response and positive relative accommodation in the LRL group were more negative than those in the SFS group (p < 0.05). Forty-two subjects completed the observation of LRL cessation, AL and SER increased by 0.16 mm (95%CI: 0.11 to 0.22 mm) and − 0.20 D (95%CI: − 0.26 to − 0.14 D) during the cessation (p < 0.05), and SFCT returned to baseline (p > 0.05).ConclusionsLRL is an effective measure for preventing and controlling myopia, and it may also have the ability to improve the accommodative function. There may be a slight myopic rebound after its cessation. The effect of long-term LRL therapy needs to be further explored.Trial registrationChinese Clinical Trial Registry: Chinese Clinical Trails registry: ChiCTR2100045250. Registered 9 April 2021; retrospectively registered. 
+
+Effect of Repeated Low-Level Red-Light Therapy in Myopia Control in Children: A Multicenter Randomized Controlled Trial.
+
+Number of 
+
+Key takeaways:Repeated low-level red-light therapy is a promising alternative treatment for myopia control in children, with good user acceptability and no documented functional or structural damage.
+
+Photobiomodulation: The Clinical Applications of Low-Level Light Therapy.
+
+Number of 
+
+Key takeaways:Low-level light therapy shows promise for skin rejuvenation, acne treatment, and body contouring, but more well-designed, independent clinical trials are needed to confirm its therapeutic utility.
+
+Abstract:BACKGROUND
+Low level light therapy is a recent aaddition to the pantheon of light-based therapeutic interventions. Termed 'photobiomodulation', the absorption of red/near infrared light energy induces enhancement of mitochondrial ATP production, cell signaling and growth factor synthesis and attenuates oxidative stress. Photobiomodulation is highly commercialized with devices marketed directly to the consumer. In the grey area between the commercial and therapeutic sectors, harnessing the clinical potential in reproducible and scientifically measurable ways remains challenging.
+
+OBJECTIVES
+This article presents a summary of the clinical evidence for photobiomodulation and discusses the regulatory framework for low level light therapy.
+
+METHODS
+A review of the clinical literature pertaining to the use of low level light therapy for skin rejuvenation (facial rhytids and dyschromias), acne vulgaris, wound healing, body contouring and androgenic alopecia was performed.
+
+RESULTS
+A reasonable body of clinical trial evidence exists in support of the role of low energy red/near infrared light as a safe and effective method of skin rejuvenation, treatment of acne vulgaris, alopecia and, especially, body contouring. Methodological flaws, small patient cohorts and industry funding mean there is ample scope to improve the quality of evidence. It remains unclear if LED-based light sources induces physiologic effects of the nature and magnitude of laser-based systems which were used in most of the higher quality studies.
+
+CONCLUSIONS
+Low level light therapy is here to stay. However, its ubiquity and commercial success has outpaced the empirical approach on which solid clinical evidence is established. Thus, the challenge is to prove its therapeutic utility in retrospect. Well-designed, adequately powered, independent clinical trials will help us answer some of the unresolved questions and enable the potential of this therapy to be realized.
+
+Reverse skin aging signs by red light photobiomodulation
+
+Number of 
+
+Key takeaways:Red light photobiomodulation can reverse skin aging signs by enhancing mitochondrial ATP production, cell signaling, growth factor synthesis, and reducing oxidative stress.
+
+Abstract:Photobiomodulation is a process by which the absorption of red light energy produces a series of physiological effects at the cellular level such as the enhancement of mitochondrial Adenosine Triphosphate (ATP) production, cell signaling and growth factor synthesis, and the reduction of oxidative stress. Light emitting diodes (LEDs) photobiomodulation is an increasingly popular therapy for treating skin problems, especially for reversing the signs of skin aging.
+
+Transcriptome analysis of human dermal fibroblasts following red light phototherapy
+
+Number of 
+
+Key takeaways:Red light phototherapy improves skin fibrosis by altering fibrotic gene expression, increasing MMP1 and PRSS35 expression in human dermal fibroblasts.
+
+Low‐level red plus near infrared lights combination induces expressions of collagen and elastin in human skin in vitro
+
+Number of 
+
+Key takeaways:Low-level red and near infrared LED combination effectively induces collagen and elastin expression in human skin in vitro, potentially offering a safe alternative treatment for photo-ageing and photo-damaged skin.
+
+Abstract:Light therapy has attracted medical interests as a safe, alternative treatment for photo‐ageing and photo‐damaged skin. Recent research suggested the therapeutic activity of red and infrared (IR) lights may be effective at much lower energy levels than those used clinically. This study was to evaluate the efficacy of low‐level red plus near IR light emitting diode (LED) combination on collagen and elastin and ATP production.
+
+Red-light photons on skin cells and the mechanism of photobiomodulation
+
+Number of 
+
+Key takeaways:Red-light photons stimulate skin cells, affecting metabolic responses, gene regulation, and nitric oxide homeostasis, potentially benefiting psoriasis treatment.
+
+Abstract:Red light (600–700 nm, ∼2.1–1.8 eV) consists of a low-energy radiation with a high capacity to penetrate the skin and to induce stimulatory effects. These characteristics make this wavelength range very promising for light-based therapies. Aiming to discuss the mechanisms of action of photobiomodulation, we start by providing a broad perspective of the skin and of its interaction with light, focusing on the endogenous photosensitizers, on the formation of excited states and reactive oxidants, and on the activation of signaling effectors. The peculiar aspect of the photons in the red spectral range is that they are much less absorbed by the endogenous photosensitizers and consequently generate a lot fewer reactive oxidants (when compared with the other ranges of visible light), allowing the skin to mainly experience the consequences of several signaling pathways that are activated during the skin interaction with red-light photons. Indeed, the effects of red light in epithelial cells involve the control of metabolic responses, the modulation of several key genes and transcriptions factors, as well as the regulation of the intracellular nitric oxide stocks. In this article, we discuss how red light interacts with all these variables and end up causing a vigorous tissue activation. We also analyzed the effect of red-light photons on the nitric oxide homeostasis, with implications for the phototherapy of psoriasis. It is likely that several of the observations and mechanisms described for the interactions of red-light photons may also be occurring during and after the interaction with other photons with similar energy.
+
+Photobiomodulation therapy effects of the flexible red-OLED devices by in vitro evaluation
+
+Number of 
+
+Key takeaways:Red-OLED light sources show valid healing effects on chronic skin diseases like atopic dermatitis and psoriasis, suggesting advances in photobiomodulation therapy.
+
+Abstract:Photobiomodulation therapy (PBMT) with LLLT phototherapy has been shown to have a positive effect on the skin diseases and rejuvenation. Studies of PBM treatments have mainly used lasers and light-emitting diodes (LEDs) as light sources, and despite the advantages of organic light-emitting diodes (OLEDs), their use in PBM treatments is limited. Although OLEDs are promising next-generation wearable light source for PBMT, there is a lack of validated evidence on their of skin diseases therapy. To confirm the healing effects o OLEDs on skin diseases, we conducted a study on the therapeutic effect of OLED irradiation using animal models of atopic dermatitis and psoriasis. Our findings provide valid evidence for the healing effect of Red-OLED light sources on chronic skin diseases and suggest advances in the field of PBMT therapy.
+
+Os efeitos fisiológicos do led vermelho no tegumento
+
+Number of 
+
+Key takeaways:Red LED Light therapy has positive physiological effects on the skin, accelerating wound healing, providing analgesia, and anti-inflammatory effects.
+
+Abstract:Among the new technologies, the LED (acronym for Light Emiting Diode, in Portuguese: Light Emitting Diode) is a phototherapy resource that has been widely used in skin changes. The different wavelengths are absorbed by specific cells and this process is called photobiomodulation, promoting a safe, non-invasive and painless treatment. The light in the red band has a wavelength of 610-760nm and is used to accelerate the wound healing process, has analgesic and anti-inflammatory power. Understanding the physiological effects of Red LED Light on the skin is the main objective of this literature review work and verifying whether Led therapy has the same efficacy as Low Power LASER, at the same wavelength as red, is a specific objective. The research is carried out around the discussion of five scientific articles and it is possible to verify that, in the cases presented by the authors, the results on the effects on the integument, especially the healing, analgesia and anti-inflammatory effects were positive. The present study also highlights the importance of continuing new research for the use of LED, especially the Red LED, since its beneficial results were effective for the skin.
+
+Effects of red light on inflammation and skin barrier recovery following acute perturbation. Pilot study results in healthy human subjects
+
+Number of 
+
+Key takeaways:Red light at 656 nm can effectively reduce inflammation and improve skin barrier recovery in healthy human volunteers after acute perturbation.
+
+Abstract:In an original article recently 
+
+Visible Red Light Emitting Diode Photobiomodulation for Skin Fibrosis: Key Molecular Pathways
+
+Number of 
+
+Key takeaways:Visible red light phototherapy shows potential in modulating key cellular characteristics associated with skin fibrosis, potentially altering the current treatment paradigm.
+
+Abstract:Skin fibrosis, also known as skin scarring, is an important global health problem that affects an estimated 100 million persons per year worldwide. Current therapies are associated with significant side effects and even with combination therapy, progression, and recurrence is common. Our goal is to review the available published data available on light-emitting diode-generated (LED) red light phototherapy for treatment of skin fibrosis. A search of the published literature from 1 January 2000 to present on the effects of visible red light on skin fibrosis, and related pathways was performed in January 2016. A search of PubMed and EMBASE was completed using specific keywords and MeSH terms. 'Fibrosis' OR 'skin fibrosis' OR 'collagen' was combined with ('light emitting diode,' 'LED,' 'laser,' or 'red light'). The articles that were original research studies investigating the use of visible red light to treat skin fibrosis or related pathways were selected for inclusion. Our systematic search returned a total of 1376 articles. Duplicate articles were removed resulting in 1189 unique articles, and 133 non-English articles were excluded. From these articles, we identified six articles related to LED effects on skin fibrosis and dermal fibroblasts. We augmented our discussion with additional in vitro data on related pathways. LED phototherapy is an emerging therapeutic modality for treatment of skin fibrosis. There is a growing body of evidence demonstrating that visible LED light, especially in the red spectrum, is capable of modulating key cellular characteristic associated with skin fibrosis. We anticipate that as the understanding of LED-RL's biochemical mechanisms and clinical effects continue to advance, additional therapeutic targets in related pathways may emerge. We believe that the use of LED-RL, in combination with existing and new therapies, has the potential to alter the current treatment paradigm of skin fibrosis. There is a current lack of clinical trials investigating the efficacy of LED-RL to treat skin fibrosis. Randomized clinical trials are needed to demonstrate visible red light's clinical efficacy on different types of skin fibrosis.
+
+Photodynamic Therapy with 5-aminolevulinic Acid 10% Gel and Red Light for the Treatment of Actinic Keratosis, Nonmelanoma Skin Cancers, and Acne: Current Evidence and Best Practices.
+
+Number of 
+
+Key takeaways:Photodynamic therapy with 5-aminolevulinic acid 10% gel and red light is an effective treatment for actinic keratosis, non-melanoma skin cancers, and acne vulgaris.
+
+Abstract:Photodynamic therapy (PDT) can be an effective treatment for actinic keratosis (AK) as well as selected non-melanoma skin cancers (NMSCs), such as Bowen's disease and superficial basal cell carcinoma. PDT has also demonstrated effectiveness in the management of acne vulgaris. Results from controlled clinical trials have shown the safety and efficacy of PDT for these conditions with the use of different photosensitizers and a wide range of light sources. PDT has been employed effectively as monotherapy and in combination with other topicals and alternate light or laser energy therapies. This article provides expert practical guidance for the use of the newest 5-aminolevulinic acid (ALA) product (ALA 10% gel) plus red light as monotherapy for AKs, NMSC, and acne. Here, information from clinical guidelines and a summary of supporting evidence is provided for each cutaneous condition. The authors also provide detailed guidance for employing ALA 10% gel, a photosensitizer precursor, for each of these applications.
+
+Effects of photobiomodulation therapy with red LED on inflammatory cells during the healing of skin burns
+
+Number of 
+
+Key takeaways:Red LED photobiomodulation therapy can modulate inflammatory cells in early stages of third-degree skin burn healing, but may not effectively reduce neutrophils and lymphocytes in advanced stages.
+
+Abstract:The aim of this study was to evaluate the effects of red light emitting diode (LED) photobiomodulation therapy protocol on inflammatory cells during the healing of third-degree skin burns. Fifty Wistar rats were randomly divided into control group (CTRL) (n = 25) and red group (RED) (n = 25), with subgroups (n = 5) for each time of euthanasia (7, 14, 21, 28, and 32 days). Treatment animals were daily irradiated (630 nm ± 10 nm, 300 mW, 9 J/cm^2 per point, 30 s, continuous emission mode) at the 4 angles of the wound (total: 36 J/cm^2). After specimen removal, histological sections were stained with hematoxylin and eosin for quantitative analysis of the inflammatory infiltrate (neutrophils and lymphocytes) under light microscopy. Greater number of inflammatory cells was observed in irradiated groups when compared to CTRL at 7, 14, 21, and 28 days, but with statistically significant difference only at 14 days (p = 0.02). At 32 days, higher inflammatory cell value was observed in CTRL when compared to RED, but with no statistically significant difference (p = 0.91). The results suggest that red LED, according to the protocol used, modulates the number of inflammatory cells in the early stages of the healing of third-degree skin burns. Nevertheless, this low-intensity light therapy may not, be efficient in reducing the number of neutrophils and lymphocytes in advanced stages of the repair process of skin burns. Further studies with other therapy protocols are needed to assess the effects of this type of light on the inflammatory response of skin burns.
+
+Light therapies for acne: abridged Cochrane systematic review including GRADE assessments
+
+Number of 
+
+Key takeaways:Light-based interventions for acne show mixed results, with no clinically significant effects and limited adverse effects reported.
+
+Abstract:We undertook a Cochrane review of randomized controlled trials (RCTs) evaluating the effects of light‐based interventions for acne vulgaris. We searched the Cochrane Skin Specialised Register, CENTRAL, MEDLINE, Embase, LILACS, ISI Web of Science and grey literature sources (September 2015). We used the Grading of Recommendations Assessment, Development and Evaluation Working Group approach to assess the quality of evidence (QoE). We included 71 RCTs (4211 participants, median sample size 31). Results from a single study (n = 266, low QoE) showed little or no difference in effectiveness on participants' assessment of improvement between 20% aminolaevulinic acid (ALA) photodynamic therapy (PDT), activated by blue light, vs. vehicle plus blue light, whereas another study (n = 180) comparing ALA‐PDT (red light) concentrations showed that 20% ALA‐PDT was no more effective than 15% ALA‐PDT but better than 10% and 5% ALA‐PDT. Pooled data from three studies (n = 360, moderate QoE) showed that methyl aminolaevulinate PDT, activated by red light, had a similar effect on changes in lesion counts vs. placebo cream with red light. Several studies compared yellow light with placebo or no treatment, infrared light with no treatment, gold microparticle suspension with vehicle and clindamycin/benzoyl peroxide (C/BPO) combined with pulsed dye laser with C/BPO alone. None of these showed any clinically significant effects. Most studies reported adverse effects, but inadequately, with scarring reported as absent, and blistering only in studies on intense pulsed light, infrared light and PDT (very low QoE). Carefully planned studies, using standardized outcome measures and common acne treatments as comparators, are needed.
+
+Red-light therapy in recalcitrant acne - a case series
+
+Number of 
+
+Key takeaways:Red-led light therapy (633nm) shows promising results in treating inflammatory acne vulgaris, offering a cost-effective alternative to traditional anti-acne treatments.
+
+Abstract:The use of various light sources is being increasingly tried in various dermatological conditions like acne, skin rejuvenation, and chronic ulcers to name a few. Red-led light therapy (633nm) is a cost-effective and simple procedure that gives promising results, especially for the inflammatory type of acne vulgaris. In this case series, we present three patients with inflammatory acne who were non-responsive to most of the anti-acne therapy but responded dramatically with red-led light therapy.
+
+Red and blue LED light increases the survival rate of random skin flaps in rats after MRSA infection.
+
+Number of 
+
+Key takeaways:Red and blue LED light therapy effectively increases the survival rate of MRSA-infected skin flaps in rats by promoting angiogenesis, relieving oxidative stress, and reducing bacterial loads.
+
+Abstract:Skin flap transplantation is a conventional wound repair method in plastic and reconstructive surgery, but infection and ischemia are common complications. Photobiomodulation (PBM) therapy has shown promise for various medical problems, including wound repair processes, due to its capability to accelerate angiogenesis and relieve inflammation. This study investigated the effect of red and blue light on the survival of random skin flaps in methicillin-resistant Staphylococcus aureus (MRSA)-infected Sprague Dawley (SD) rats. Forty male SD rats were divided into control and light-emitting diode-red and blue light-treated (LED-RBL) groups at a ratio of 1:1 and a McFarland flap procedure was performed, which was subsequently infected with MRSA strains. After 7 days, the appearance and survival of the flaps were evaluated. The microvascular density was determined by hematoxylin and eosin (HE) staining. The expression levels of vascular endothelial growth factor (VEGF), hypoxia inducible factor 1α (HIF-1α), phosphatidylinositol 3-kinase (PI3K), and protein kinase B (normally expressed as AKT) were detected by immunohistochemistry. The flap survival rate and microvascular density in the LED-RBL group were significantly higher than those in the control group (P < 0.05). In addition, the VEGF, HIF1-α, PI3K, and AKT levels were significantly higher in the LED-RBL group compared to the control group (P < 0.05). Red and blue light increased the survival area of the infected flap in rats by promoting angiogenesis, relieving oxidative stress, and reducing bacterial loads, indicating that PBM therapy is a convenient, simple, analgesic, and safe treatment intervention in promoting the survival rate of transplanted flaps after wound repair surgery.
+
+Does blue light restore human epidermal barrier function via activation of Opsin during cutaneous wound healing?
+
+Number of 
+
+Key takeaways:Blue light may activate Opsin receptors, potentially restoring human epidermal barrier function during cutaneous wound healing, but its role in human skin physiology remains unclear.
+
+Abstract:Visible light has beneficial effects on cutaneous wound healing, but the role of potential photoreceptors in human skin is unknown. In addition, inconsistency in the parameters of blue and red light‐based therapies for skin conditions makes interpretation difficult. Red light can activate cytochrome c oxidase and has been proposed as a wound healing therapy. UV‐blue light can activate Opsin 1‐SW, Opsin 2, Opsin 3, Opsin 4, and Opsin 5 receptors, triggering biological responses, but their role in human skin physiology is unclear.
+
+Comparison of blue laser and red light-emitting diode-mediated aminolevulinic acid-based photodynamic therapy for moderate and severe acne vulgaris: a prospective, split-face, nonrandomized controlled study.
+
+Number of 
+
+Key takeaways:Both blue laser and red light-emitting diode-mediated photodynamic therapy effectively treat moderate-to-severe acne vulgaris, with red light-emitting diode-mediated PDT having milder adverse effects.
+
+Postconditioning With Red-Blue Light Therapy Improves Survival of Random Skin Flaps in a Rat Model.
+
+Number of 
+
+Key takeaways:Postconditioning with red-blue light therapy improves the survival of random skin flaps by improving angiogenesis and nitric oxide release.
+
+Abstract:BACKGROUND
+Random skin flap ischemic necrosis is a serious challenge in reconstructive surgery. Photobiomodulation is a noninvasive effective technique to improve microcirculation and neovascularization. Photobiomodulation with red or blue light has been separately proven to partially prevent skin flap necrosis, but the synergistic effect of red and blue light not been elucidated. Our experiment evaluated the impact of postconditioning with red-blue light therapy on the viability of random flaps.
+
+METHODS
+Thirty Sprague-Dawley male rats (male, 12 weeks) with a cranially based random pattern skin flap (3 × 8 cm) were divided into 3 groups: control group, red light group, and red-blue light group. On postoperative day 7, flap survival was observed and recorded using transparent graph paper, flaps were obtained and stained with hematoxylin and eosin, and microvessel density was measured. Micro-computed tomography was used to measure vascular volume and vascular length. On days 0, 3, and 7 after surgery, blood flow was measured by laser Doppler. To investigate the underlying mechanisms, the amount of nitric oxide (NO) metabolites in the flap tissue was assessed on days 3, 5, and 7 after surgery.
+
+RESULTS
+The mean percentage of skin flap survival was 59 ± 10% for the control group, 69 ± 7% for the red light group, and 79 ± 9% for the red-blue light group (P < 0.01). The microvessel density was 12.3 ± 1.2/mm for the control group, 31.3 ± 1.3/mm for the red light group, and 36.5 ± 1.4/mm for the red-blue light group (P < 0.01). Both vascular volume and total length in the red-blue light group showed significantly increased compared with the red light and control group (P < 0.01). Blood flow in the red-blue light treated flap showed significantly increased at postsurgery days 3 and 7 compared with the red light and control group (P < 0.01). The level of the NO metabolites was significantly increased in flap tissues belonging to the red-blue light group compared with the other 2 groups (P < 0.01).
+
+CONCLUSIONS
+This study showed that postconditioning with red-blue light therapy can enhance the survival of random skin flap by improving angiogenesis and NO releasing.
+
+Photobiomodulation in human muscle tissue: an advantage in sports performance?
+
+Number of 
+
+Key takeaways:Photobiomodulation (PBM) can increase muscle mass gained after training and decrease inflammation and oxidative stress in muscle biopsies, potentially benefiting sports performance and recovery.
+
+Abstract:Photobiomodulation (PBM) describes the use of red or near‐infrared (NIR) light to stimulate, heal, and regenerate damaged tissue. Both preconditioning (light delivered to muscles before exercise) and PBM applied after exercise can increase sports performance in athletes. This review covers the effects of PBM on human muscle tissue in clinical trials in volunteers related to sports performance and in athletes. The parameters used were categorized into those with positive effects or no effects on muscle performance and recovery. Randomized controlled trials and case‐control studies in both healthy trained and untrained participants, and elite athletes were retrieved from MEDLINE up to 2016. Performance metrics included fatigue, number of repetitions, torque, hypertrophy; measures of muscle damage and recovery such as creatine kinase and delayed onset muscle soreness. Searches retrieved 533 studies, of which 46 were included in the review (n = 1045 participants). Studies used single laser probes, cluster of laser diodes, LED clusters, mixed clusters (lasers and LEDs), and flexible LED arrays. Both red, NIR, and red/NIR mixtures were used. PBM can increase muscle mass gained after training, and decrease inflammation and oxidative stress in muscle biopsies. We raise the question of whether PBM should be permitted in athletic competition by international regulatory authorities.
+
+Phototherapy Improves Muscle Recovery and Does Not Impair Repeated Bout Effect in Plyometric Exercise
+
+Number of 
+
+Key takeaways:Phototherapy with red (630 nm) and near-infrared (940 nm) light wavelengths before eccentric exercise improves muscle recovery and does not impair repeated bout effect in plyometric exercise.
+
+Abstract:Abstract Padoin, S, Zeffa, AC, Molina Corrêa, JC, de Angelis, TR, Moreira, TB, Barazetti, LK, and de Paula Ramos, S. Phototherapy improves muscle recovery and does not impair repeated bout effect in plyometric exercise. J Strength Cond Res 36(12): 3301–3310, 2022—The effects of photobiomodulation with red (630 nm) and near-infrared (940 nm) light wavelengths were investigated on the inhibition of exercise-induced muscle damage (EIMD) and adaptation to the repeated bout effect (RBE). Twenty-eight healthy men were randomized to receive light-emitting diode therapy (LEDT) at 630 nm (4.6 J·cm−2, 97 J energy), LEDT at 940 nm (4.6 J·cm−2, 114 J), or placebo. After LEDT or placebo treatment, subjects performed 100 drop-jumps (5 sets of 20 repetitions). Creatine kinase, delayed-onset muscle soreness (DOMS), countermovement jump (CMJ), and squat jump (SJ) were assessed before, immediately after, and 24, 48, and 72 hours after the bout. After 14 days, the subjects were submitted to the same plyometric exercise, without LEDT, and were evaluated again. Creatine kinase levels increased significantly 72 hours after the first bout in the placebo group in relation to the LEDT 940-nm group (P < 0.01). The LEDT 630-nm group showed a significant increase in SJ at 24 hours (P < 0.05), whereas, at 48 hours, the LEDT 940 nm showed a significant increase compared with the placebo group (P < 0.05). The 2-way analysis of variance revealed an effect for treatment in the SJ (F = 7.12; P = 0.001). No differences were found between groups for DOMS and CMJ after the first bout. After the second bout of exercise, there was no effect of treatment. The results suggest that treatment with LEDT 630 nm and LEDT 940 nm before eccentric exercise attenuates EIMD without impairing RBE.
+
+Effect of phototherapy (low-level laser therapy and light-emitting diode therapy) on exercise performance and markers of exercise recovery: a systematic review with meta-analysis
+
+Number of 
+
+Key takeaways:Phototherapy with lasers and LEDs improves muscular performance and accelerates recovery mainly when applied before exercise.
+
+Abstract:Recent studies have explored if phototherapy with low-level laser therapy (LLLT) or narrow-band light-emitting diode therapy (LEDT) can modulate activity-induced skeletal muscle fatigue or subsequently protect against muscle injury. We performed a systematic review with meta-analysis to investigate the effects of phototherapy applied before, during and after exercises. A literature search was performed in Pubmed/Medline database for randomized controlled trials (RCTs) 
+
+Red (660 nm) and infrared (830 nm) low-level laser therapy in skeletal muscle fatigue in humans: what is better?
+
+Number of 
+
+Key takeaways:Both red and infrared low-level laser therapy effectively delay skeletal muscle fatigue and enhance muscle performance, with no significant difference in effectiveness between the two wavelengths.
+
+Abstract:In animal and clinical trials low-level laser therapy (LLLT) using red, infrared and mixed wavelengths has been shown to delay the development of skeletal muscle fatigue. However, the parameters employed in these studies do not allow a conclusion as to which wavelength range is better in delaying the development of skeletal muscle fatigue. With this perspective in mind, we compared the effects of red and infrared LLLT on skeletal muscle fatigue. A randomized double-blind placebo-controlled crossover trial was performed in ten healthy male volunteers. They were treated with active red LLLT, active infrared LLLT (660 or 830 nm, 50 mW, 17.85 W/cm(2), 100 s irradiation per point, 5 J, 1,785 J/cm(2) at each point irradiated, total 20 J irradiated per muscle) or an identical placebo LLLT at four points of the biceps brachii muscle for 3 min before exercise (voluntary isometric elbow flexion for 60 s). The mean peak force was significantly greater (p < 0.05) following red (12.14%) and infrared LLLT (14.49%) than following placebo LLLT, and the mean average force was also significantly greater (p < 0.05) following red (13.09%) and infrared LLLT (13.24%) than following placebo LLLT. There were no significant differences in mean average force or mean peak force between red and infrared LLLT. We conclude that both red than infrared LLLT are effective in delaying the development skeletal muscle fatigue and in enhancement of skeletal muscle performance. Further studies are needed to identify the specific mechanisms through which each wavelength acts.
+
+Photobiomodulation therapy and its effects on muscle damage recovery
+
+Number of 
+
+Key takeaways:Photobiomodulation therapy (PBMT) may reduce muscle damage and fatigue after high-intensity training, but more research is needed to confirm its effectiveness and safety.
+
+Abstract:Dr Jamie Ghigiarelli from Hofstra University investigated the effects of whole-body photobiomodulation (red light) therapy (PBMT) administered before and after high-intensity training on 12 male participants. There lacks evidence on the effects of PBMT on larger muscle groups, as handheld devices to treat localised muscle tissues is the conventional method of instrumentation. This study showed no statistical significance but notably there was a -18% change for creatinine kinase (CK) levels from 24hrs to 72hrs after high-intensity training in the difference of average when PBMT group was compared to control conditions. of PBMT in the management of muscular rehabilitation and performance. Some studies concluded that PBMT reduces injury time, decreases recovery time between exercise sessions, muscle tiredness and damage, and sleep quality. A number of biochemical markers have been shown to reduce after administration of PBMT, such as cytokine (involved in immune responses to inflammation), blood lactate (associated with low flow of blood and oxygen concentration in cells), and creatine kinase (CK) levels (marker of muscle damage).
+
+Investigation of the Comparative Effects of Red and Infrared Laser Therapy on Skeletal Muscle Repair in Diabetic Rats
+
+Number of 
+
+Key takeaways:Infrared laser therapy effectively promotes skeletal muscle repair in diabetic rats by reducing injury area and modulating protein expression related to repair.
+
+Abstract:ObjectiveThe aim of this study was to evaluate the in vivo response of 2 different laser wavelengths (red and infrared) on skeletal muscle repair process in diabetic rats. DesignForty Wistar rats were randomly divided into 4 experimental groups: basal control—nondiabetic and muscle-injured animals without treatment (BC); diabetic muscle-injured without treatment (DC); diabetic muscle-injured, treated with red laser (DCR) and infrared laser (DCIR). The injured region was irradiated daily for 7 consecutive days, starting immediately after the injury using a red (660 nm) and an infrared (808 nm) laser. ResultsThe histological results demonstrated in both treated groups (red and infrared wavelengths) a modulation of the inflammatory process and a better tissue organization located in the site of the injury. However, only infrared light significantly reduced the injured area and increased MyoD and myogenin protein expression. Moreover, both red and infrared light increased the expression of the proangiogenic vascular endothelial growth factor and reduced the cyclooxygenase 2 protein expression. ConclusionThese results suggest that low-level laser therapy was efficient in promoting skeletal muscle repair in diabetic rats. However, the effect of infrared wavelength was more pronounced by reducing the area of the injury and modulating the expression proteins related to the repair.
+
+Ultrastructure of Myofascial Trigger Points of Skeletal Muscles of Rats after Photobiostimulation with Low-Intensity Red Light
+
+Number of 
+
+Key takeaways:Low-intensity red light effectively reduces myofascial trigger points in skeletal muscle of mature rats, promoting intracellular regeneration and stimulating plastic processes.
+
+Abstract:The effectiveness of low-intensity red light on myofascial trigger points in skeletal muscle of mature rats was evaluated by electron microscopy and high-resolution respirometry. The revealed changes in mitochondrial ultrastructure and activity of the respiratory chain enzymes indicate the development of hypoxia in the simulation area. Under the influence of low-intensity red light on myofascial trigger points, a decrease in the number of destructively altered muscle fibers and stimulation of mitochondrial respiration were found. These findings indicate intracellular regeneration and the stimulating effect of low-intensity red light on plastic processes.
+
+Red and Infrared Low-Level Laser Therapy Prior to Injury with or without Administration after Injury Modulate Oxidative Stress during the Muscle Repair Process
+
+Number of 
+
+Key takeaways:Red and infrared low-level laser therapy administered before and after injury positively modulates antioxidant enzymes and reduces stress markers during muscle repair.
+
+Abstract:Introduction Muscle injury is common among athletes and amateur practitioners of sports. Following an injury, the production of reactive oxygen species (ROS) occurs, which can harm healthy muscle fibers (secondary damage) and delay the repair process. Low-level laser therapy (LLLT) administered prior to or following an injury has demonstrated positive and protective effects on muscle repair, but the combination of both administration times together has not been clarified. Aim To evaluate the effect of LLLT (660 nm and 780 nm, 10 J/cm², 40 mW, 3.2 J) prior to injury with or without the administration after injury on oxidative stress during the muscle repair process. Methods Wistar rats were divided into following groups: control; muscle injury alone; LLLT 660 nm + injury; LLLT 780 nm + injury; LLLT 660 nm before and after injury; and LLLT 780 nm before and after injury. The rats were euthanized on days 1, 3 and 7 following cryoinjury of the tibialis anterior (TA) muscle, which was then removed for analysis. Results Lipid peroxidation decreased in the 660+injury group after one day. Moreover, red and infrared LLLT employed at both administration times induced a decrease in lipid peroxidation after seven days. CAT activity was altered by LLLT in all periods evaluated, with a decrease after one day in the 780+injury+780 group and after seven days in the 780+injury group as well as an increase in the 780+injury and 780+injury+780 groups after three days. Furthermore, increases in GPx and SOD activity were found after seven days in the 780+injury+780 group. Conclusion The administration of red and infrared laser therapy at different times positively modulates the activity of antioxidant enzymes and reduces stress markers during the muscle repair process.
+
+Chronic Effect Of Photobiomodulation Therapy On Muscle Function In Persons With Multiple Sclerosis
+
+Number of 
+
+Key takeaways:Two-week administration of photobiomodulation therapy (PBMT) may improve muscle strength in persons with mild-moderate multiple sclerosis.
+
+Abstract:Muscle weakness and fatigue are two disabling symptoms of Multiple Sclerosis (MS). Photobiomodulation therapy (PBMT) using red/near-infrared light is an emerging therapeutic modality thought to improve endurance or strength in healthy populations. Previously presented work revealed that a single acute high energy dose of PBMT may improve muscle force recovery in persons with MS (PwMS). PURPOSE: To investigate the effect of extended PBMT at an optimal dose of energy on muscle strength and endurance during a fatiguing contraction in PwMS. METHODS: Randomized crossover design. Persons with mild-moderate relapsing-remitting MS (n = 12, F = 11) were recruited. Participants applied PBMT (active or placebo) to the gastrocnemius and Tibialis Anterior (TA) muscles of both legs twice a day. The optimal dose of energy of the active device for each participant was 40 J, 80 J, or 120 J as determined individually from preliminary studies. The effect of PBMT on muscle function was assessed in five sessions, pre- and post-treatment, and post-washout. The measurements comprised three maximal voluntary contractions (MVCs) of the right TA, followed by an intermittent contraction at 50% MVC to task failure. The measurements were obtained at baseline, after which followed two weeks of active or placebo treatment at home, followed by post-treatment measurements. Then participants had two weeks with no intervention or placebo to wash-off any potential effects, followed by the repetition of the procedure with the other active or placebo device, again followed by two weeks of washout. The Wilcoxon signed-rank test was used to compare the change in pre to post-treatment measurement within subjects and between the active treatment and placebo. Values are mean (SD) in N. RESULTS: Under active treatment, strength significantly improved compared to the baseline (Pre,162.64 (37.51); Post,185.56 (33.95), p = 0.01) and compared to the placebo (Active,22.64 (24.01); Placebo,-4.12 (32.24), p = 0.02). No significant difference in strength was reported with placebo (p = 0.68). Endurance time did not change significantly with either active treatment (p = 0.52) nor placebo (p = 0.85). CONCLUSIONS: Two-week administration of PBMT may improve muscle strength in persons with mild-moderate MS. Supported by a pilot grant from the National MS Society.
+
+A Novel Blue-Red Photobiomodulation Therapy Patch Effects on a Repetitive Elbow-Flexion Fatigue Task.
+
+Number of 
+
+Key takeaways:The blue/red light-emitting diode photobiomodulation therapy patch improves muscle function and decreases perceived exertion in nearly 30% of participants during repeated elbow-flexion fatigue tasks.
+
+Abstract:Background: Photobiomodulation (laser/light) therapy has reduced skeletal muscle fatigue and improved performance in previous research. Objective: To determine if the application of a novel blue (450 nm) and red (645 nm) light-emitting diode photobiomodulation therapy patch improves muscle function and decreases perceived exertion after an elbow-flexion fatigue protocol. Participants: Thirty-four strength-trained individuals (male = 32 and female = 2, age = 22.5  y). Methods: Participants were randomly assigned to an active or placebo treatment. On  visit 1, participants' 1-repetition maximal biceps c
+
+Using Pre-Exercise Photobiomodulation Therapy Combining Super-Pulsed Lasers and Light-Emitting Diodes to Improve Performance in Progressive Cardiopulmonary Exercise Tests.
+
+Number of 
+
+Key takeaways:The combination of super-pulsed lasers and light-emitting diodes (LEDs) improves time, distance, and pulmonary ventilation while decreasing dyspnea score during a cardiopulmonary test.
+
+Abstract:CONTEXT
+Skeletal muscle fatigue and exercise performance are novel areas of research and clinical application in the photobiomodulation field, and positive outcomes have been reported in several studies; however, the optimal measures have not been fully established.
+
+OBJECTIVE
+To assess the acute effect of photobiomodulation therapy (PBMT) combining superpulsed lasers (low-level laser therapy) and light-emitting diodes (LEDs) on muscle performance during a progressive cardiopulmonary treadmill exercise test.
+
+DESIGN
+Crossover study.
+
+SETTING
+Laboratory.
+
+PATIENTS OR OTHER PARTICIPANTS
+Twenty untrained male volunteers (age = 26.0 ± 6.0 years, height = 175.0 ± 10.0 cm, mass = 74.8 ± 10.9 kg).
+
+INTERVENTION(S)
+Participants received PBMT with either combined superpulsed lasers and LED (active PBMT) or placebo at session 1 and the other treatment at session 2. All participants completed a cardiopulmonary test on a treadmill after each treatment. For active PBMT, we performed the irradiation at 17 sites on each lower limb (9 on the quadriceps, 6 on the hamstrings, and 2 on the gastrocnemius muscles), using a cluster with 12 diodes (four 905-nm superpulsed laser diodes with an average power of 0.3125 mW, peak power of 12.5 W for each diode, and frequency of 250 Hz; four 875-nm infrared LED diodes with an average power of 17.5 mW; and four 640-nm red LED diodes with an average power of 15 mW) and delivering a dose of 30 J per site.
+
+MAIN OUTCOME MEASURE(S)
+Distance covered, time until exhaustion, pulmonary ventilation, and dyspnea score.
+
+RESULTS
+The distance covered (1.96 ± 0.30 versus 1.84 ± 0.40 km, t19 = 2.119, P < .001) and time until exhaustion on the cardiopulmonary test (780.2 ± 91.0 versus 742.1 ± 94.0 seconds, t19 = 3.028, P < .001) was greater after active PBMT than after placebo. Pulmonary ventilation was greater (76.4 ± 21.9 versus 74.3 ± 19.8 L/min, t19 = 0.180, P = .004) and the score for dyspnea was lower (3.0 versus 4.0 , U = 184.000, P < .001) after active PBMT than after placebo.
+
+CONCLUSIONS
+The combination of lasers and LEDs increased the time, distance, and pulmonary ventilation and decreased the score of dyspnea during a cardiopulmonary test.
+
+In Vivo Low‐level Light Therapy Increases Cytochrome Oxidase in Skeletal Muscle
+
+Number of 
+
+Key takeaways:Low-level light therapy (LLLT) increases cytochrome oxidase in skeletal muscle, enhancing the aerobic capacity of intermediate and red fibers.
+
+Abstract:Low‐level light therapy (LLLT) increases survival of cultured cells, improves behavioral recovery from neurodegeneration and speeds wound healing. These beneficial effects are thought to be mediated by upregulation of mitochondrial proteins, especially the respiratory enzyme cytochrome oxidase. However, the effects of in vivo LLLT on cytochrome oxidase in intact skeletal muscle have not been previously investigated. We used a sensitive method for enzyme histochemistry of cytochrome oxidase to examine the rat temporalis muscle 24 h after in vivo LLLT. The findings showed for the first time that in vivo LLLT induced a dose‐ and fiber type‐dependent increase in cytochrome oxidase in muscle fibers. LLLT was particularly effective at enhancing the aerobic capacity of intermediate and red fibers. The findings suggest that LLLT may enhance the oxidative energy metabolic capacity of different types of muscle fibers, and that LLLT may be used to enhance the aerobic potential of skeletal muscle.
+
+Sex, but not skin tone affects penetration of red‐light (660 nm) through sites susceptible to sports injury in lean live and cadaveric tissues
+
+Number of 
+
+Key takeaways:Red-light penetration through sports injury sites is affected by irradiance, bone/muscle composition, and tissue thickness, with sex playing a role but skin tone unaffected.
+
+Abstract:Red‐light treatment is emerging as a novel therapy for promoting tissue recovery but data on red‐light penetration through human tissues are lacking. We aimed to: (1) determine the effect of light irradiance, tissue thickness, skin tone, sex and bone/muscle content on 660 nm light penetration through common sites of sports injuries, and (2) establish if cadaver tissues serve as a useful model for predicting red‐light penetration in live tissues. Live and cadaver human tissues were exposed to 660 nm light at locations across the skull, spinal cord and upper and lower limbs. Red‐light was produced by a light emitting diode array of various irradiances (15‐500 mW/cm2) and measured by a light‐probe positioned on the tissue surface opposite to the light emitting diodes. 100 mW/cm2 successfully penetrated tissue <50 mm thick; a disproportionate irradiance increase was required to achieve deeper penetration. Penetration was unaffected by skin tone, increased with irradiance and relative bone/muscle composition, and decreased with greater tissue thickness and in males. Live and cadaveric tissue penetration did not differ statistically for tissues <50 mm but cadavers required more red‐light to penetrate >50 mm. These results assist clinicians and researchers in determining red‐light treatment intensities for penetrating human tissues.
+
+Photobiomodulation therapy for the improvement of muscular performance and reduction of muscular fatigue associated with exercise in healthy people: a systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Photobiomodulation therapy, using low-level laser and light-emitting diode therapy, can improve muscular performance and reduce fatigue in healthy individuals when applied within an exercise protocol.
+
+Abstract:Researches have been performed to investigate the effects of phototherapy on improving performance and reduction of muscular fatigue. However, a great variability in the light parameters and protocols of the trials are a concern to establish the efficacy of this therapy to be used in sports or clinic. The aim of this study is to investigate the effectiveness, moment of application of phototherapy within an exercise protocol, and which are the parameters optimally effective for the improvement of muscular performance and the reduction of muscular fatigue in healthy people. Systematic searches of PubMed, PEDro, Cochrane Library, EMBASE, and Web of Science databases were conducted for randomized clinical trials to March 2017. Analyses of risk of bias and quality of evidence of the included trials were performed, and 
+
+Exercise Therapy in Down Syndrome: A Systematic Review and Meta-analysis Focused on Muscle Strength, Redox Balance, and Inflammatory Profile.
+
+Number of 
+
+Key takeaways:Exercise therapy positively impacts muscle strength, redox balance, and inflammation in adults with Down Syndrome, with tailored training prescriptions being crucial for optimal results.
+
+Abstract:OBJECTIVE
+This study systematically reviewed and meta-analyzed randomized and quasi-randomized controlled trials investigating the impact of exercise therapy on muscle strength, redox balance, and inflammatory profile in individuals with Down Syndrome.
+
+DESIGN
+Systematic review and meta-analysis.Data SourcesCochrane Central Register of Controlled Trials, MEDLINE, CINAHL, SPORTDiscus, EMBASE, and PEDro.Eligibility Criteria for Selecting StudiesRandomized and quasi-randomized controlled trials exploring exercise therapy effects on muscle strength and redox balance in individuals with Down Syndrome. While no initial restrictions on age, gender, or health condition were applied during the search process, all included studies focused on adult participants (>18 years old). No language restrictions were applied, and the search covered the period from 1970 to 2021.
+
+RESULTS
+We assessed the abstract of 1964 studies. Of the 46 studies meeting the inclusion criteria for the period 2004-2021, 32 focused on muscle strength, and 14 examined redox balance and inflammation. A total of 1611 participants with a mean age of 27 years were included. This review confirmed that different exercise modalities are prone to improve muscle strength (random effect : 0.66, 0.54 - 0.78), redox balance and inflammatory profile (random effect : -1.04, -1.31 - -0.76) in this population. The multi-model inference suggested that the frequency of training (times per week) might play a significant role in the main effect. Unsupervised machine learning algorithms displayed a pattern-based graphic representation to assess heterogeneity.
+
+CONCLUSIONS
+Exercise training demonstrated a positive impact on muscle strength in adults with Down Syndrome. The review provides valuable insights into the effects of exercise therapy on individuals with Down Syndrome, emphasizing the need for tailored training prescriptions.
+
+Effect of Near Infrared Laser Light on Muscle Fatigue: 3040 Board #105 June 3, 3: 30 PM - 5: 00 PM.
+
+Number of 
+
+Key takeaways:Near infrared laser light treatment with an 800-nm laser light during exercise and a combination of 800-nm and 905-nm laser light may attenuate muscular force decreases compared to a placebo.
+
+Abstract:Laser therapy has been used for many years to assist in wound healing, attenuate inflammation, and reduce pain, all with the goal of improving performance. Recently, research has suggested that low intensity near infrared light may work by impacting oxygen - hemoglobin binding and improving aerobic metabolism via cytochrome c oxidase stimulation. PURPOSE: Thus, this study aims to look at the impact of low intensity near infrared light on muscle fatigue. METHODS: Young adults (N=9) were randomly exposed (The Flexor Pollicis Longus, Flexor Digitorum Superficialis and Flexor Digitorum Profundus muscles were targeted) to either 800-nm laser light (K-LaserUSA, Franklin, TN), a combination of 800 and 905-nm light or a placebo while completing 50 maximal contractions on a hand grid dynamometer (Model DHD-1, Saehan Medical). The cadence for contraction and relaxation was set using a multimedia platform and the force of each contraction was recorded and used to generate a force/time curve. RESULTS: Both treatment and control groups exhibited the expected decrease in force production, however the treatment groups showed less force decrement than did the placebo group (p=0.0121 for 800 nm and p=0.0101 for the combination). CONCLUSIONS: These data indicate that treatment with an 800-nm laser light during exercise and treatment with 800-nm + 905-nm laser light may attenuate muscular force decreases. More work is needed to determine the mechanisms of action for both the 800-nm and 905-nm laser lights.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

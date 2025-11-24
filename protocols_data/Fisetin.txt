@@ -1,0 +1,569 @@
+PROTOCOL: Fisetin
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: 
+DESCRIPTION: Fisetin, a natural flavonoid present in fruits and vegetables, exhibits broad health-promoting effects, particularly in the context of metabolism, cancer protection, and neuroprotection. In preclinical studies, fisetin improves glucose and lipid metabolism, reduces inflammation, protects the liver, supports the fight against obesity, and shows anti-inflammatory and antioxidant effects. Additionally, fisetin shows potential in cancer prevention by affecting cancer cell growth, inducing apoptosis, and regulating signaling pathways associated with cancer development.
+
+CONTENT SECTIONS:
+
+Metabolic Support and Cancer Prevention
+
+Fisetin, a natural flavonoid present in fruits and vegetables, exhibits broad health-promoting effects, particularly in the context of metabolism, cancer protection, and neuroprotection. In preclinical studies, fisetin improves glucose and lipid metabolism, reduces inflammation, protects the liver, supports the fight against obesity, and shows anti-inflammatory and antioxidant effects. Additionally, fisetin shows potential in cancer prevention by affecting cancer cell growth, inducing apoptosis, and regulating signaling pathways associated with cancer development.
+
+Level of evidence:Preliminary
+
+Fisetin acts mainly by activating the SIRT1/AMPK pathways, which support energy metabolism and fat burning. In addition, it inhibits inflammation by reducing the activity of NF-κB and inflammatory markers. It also acts as an antioxidant by activating the Nrf2 pathway and increasing glutathione levels, protecting cells from oxidative stress. In the context of cancer, fisetin regulates the PI3K/Akt/mTOR and NF-κB pathways, which leads to the inhibition of cancer cell growth, angiogenesis, and metastasis.
+
+Fisetin is generally well tolerated by the body, but some side effects may occur, especially with long-term use in high doses. Most studies indicate its low toxicity, but as with any substance, caution is advised.
+
+Fisetin supplementation is not recommended for people with certain diseases or health conditions, especially in the case of sensitivity to flavonoids or interactions with medications.
+
+20–30 mg daily (depending on the supplement form, e.g., capsules, tablets)
+
+Powder, capsules, tablets
+
+First effects may be visible after 2–4 weeks of regular use
+
+Recommended intake is in the morning, preferably with a meal to increase absorption
+
+Use in Cancer Treatment
+
+Fisetin may be used as an adjunct in cancer treatment, especially in combination with other drugs. Use of fisetin should be consulted with a doctor, particularly during intensive oncology therapy.
+
+Supplementation with Other Flavonoids
+
+Fisetin may act synergistically with other flavonoids, such as quercetin, which increases its anti-inflammatory and anticancer potential.
+
+People using fisetin should monitor liver function and inflammatory status in the body, especially in case of long-term supplementation.
+
+Synergy Potential with Diet
+
+Fisetin supplementation may be more effective when supported by an appropriate diet rich in fruits and vegetables containing natural flavonoids.
+
+Fisetin, a natural flavonoid present in many fruits and vegetables, shows broad positive effects on metabolism in animal and cell studies. Fisetin improves glucose and lipid metabolism, supports liver function, acts anti-inflammatory and antioxidant, and may help in the fight against obesity and metabolic syndrome.
+
+Improvement of Glucose and Lipid Metabolism
+
+Reduction of Insulin Resistance and Inflammation
+
+Protection against Fatty Liver
+
+Regulation of Cholesterol Metabolism
+
+Strengthening Antioxidant Defense
+
+Fisetin, a natural flavonoid found in fruits and vegetables, shows strong neuroprotective effects in preclinical studies. Numerous animal and cell model studies indicate that fisetin may protect the brain from oxidative stress, inflammation, neurodegeneration, and memory disorders.
+
+Antioxidant and Anti-inflammatory
+
+Protection against Neurodegeneration
+
+Improvement of Cognitive Functions
+
+Removal of Senescent Cells
+
+Summary of Selected Effects of Fisetin on the Brain
+
+Limitations and Future
+
+Fisetin, a natural flavonoid present in many fruits and vegetables, shows promising anticancer properties in laboratory and animal studies. Current evidence suggests that fisetin may support cancer prevention by inhibiting cancer cell growth, inducing apoptosis, and regulating signaling pathways associated with cancer development. However, there is still a lack of large, well-designed clinical studies confirming its effectiveness in humans.
+
+Inhibition of Proliferation and Induction of Apoptosis
+
+Regulation of Signaling Pathways
+
+Anti-inflammatory and Antioxidant Effects
+
+Examples of Use and Limitations
+
+What Remains Unclear?
+
+Scientific data and sources
+
+Level of evidencePreliminary
+
+Number of included studies:57
+
+Final comment:Current scientific data supporting the action of fisetin comes mainly from preclinical studies, including in vitro studies and animal studies. In these studies, fisetin shows promising results in various areas, such as neuroprotection, anti-inflammatory effects, cancer prevention, and metabolic benefits. Despite the positive results obtained under controlled conditions, there is a lack of clinical studies in humans, and those that do exist are at an early stage. Therefore, although fisetin shows great potential, evidence for its efficacy and safety in humans is preliminary. The lack of large, well-designed clinical trials means that its actual effectiveness and safety profile in human populations have not yet been fully established. Thus, the action of fisetin should be approached with caution until further clinical trials confirm the results obtained in preclinical studies. Therefore, the current level of evidence for the effects of fisetin can be classified as preliminary.
+
+The Effects of Novel Co-Amorphous Naringenin and Fisetin Compounds on a Diet-Induced Obesity Murine Model
+
+Number of 
+
+Key takeaways:Co-amorphous naringenin and fisetin show potential in improving metabolic health, thermogenesis, and gut microbiota, potentially offering therapeutic agents against obesity and related disorders.
+
+Abstract:Background/Objective: In recent studies, it has been shown that dietary bioactive compounds can produce health benefits; however, it is not known whether an improvement in solubility can enhance their biological effects. Thus, the aim of this work was to study whether co-amorphous (CoA) naringenin or fisetin with enhanced solubility modify glucose and lipid metabolism, thermogenic capacity and gut microbiota in mice fed a high-fat, high-sucrose (HFSD) diet. Methods: Mice were fed with an HFSD with or without CoA-naringenin or CoA-fisetin for 3 months. Body weight, food intake, body composition, glucose tolerance, hepatic lipid composition and gut microbiota were assessed. Results: CoA-naringenin demonstrated significant reductions in fat-mass gain, improved cholesterol metabolism, and enhanced glucose tolerance. Mice treated with CoA-naringenin gained 45% less fat mass and exhibited improved hepatic lipid profiles, with significant reductions seen in liver triglycerides and cholesterol. Additionally, both CoA-flavonoids increased oxygen consumption (VO2), contributing to enhanced energy expenditure and improved metabolic flexibility. Thermogenic activation, indicated by increased UCP1 and PGC-1α levels, was observed with CoA-fisetin, supporting its role in fat oxidation and adipocyte size reduction. Further, both CoA-flavonoids modulated gut microbiota, restoring diversity and promoting beneficial bacteria, such as Akkermansia muciniphila, which has been linked to improved metabolic health. Conclusions: These findings suggest that co-amorphous naringenin or fisetin offers promising applications in improving solubility, metabolic health, and thermogenesis, highlighting the potential of both as therapeutic agents against obesity and related disorders.
+
+The Effects of Fisetin on Gene Expression Profile and Cellular Metabolism in IFN-γ-Stimulated Macrophage Inflammation
+
+Number of 
+
+Key takeaways:Fisetin effectively reduces IFNinduced macrophage inflammation and improves cellular metabolism through a possible Jak1/2-STAT1-IRF1 pathway.
+
+Abstract:Although interferon-gamma (IFN-γ) is known as a critical factor in polarizing macrophages into the pro-inflammatory state for immune response, how dietary flavonoids regulate IFN-γ response for anti-inflammation is incompletely elucidated. This study aims to investigate the effect of fisetin, a typical flavonol, on the inhibition of IFN-γ-induced inflammation by RNA sequencing (RNA-Seq) and cellular metabolism analysis. RAW264 macrophages pretreated with fisetin following IFN-γ stimulation were subjected to RNA-Seq to analyze alterations in gene expression. Cellular signaling and transcription were investigated using enrichment analysis, motif analysis, and transcription factor prediction. Cellular metabolic state was assessed by measuring the oxygen consumption rate (OCR) and lactate level to reflect mitochondrial respiration and glycolysis. Alterations in signaling proteins were confirmed by Western blot. The results revealed that fisetin downregulated the IFN-γ-induced expression of pro-inflammatory genes and M1 marker genes such as Cxcl9, Il6, Cd80, Cd86, and Nos2. In cellular metabolism, fisetin upregulated the oxidative phosphorylation (OXPHOS) pathway, restored impaired OCR, and reduced lactate production induced by IFN-γ. Motif analysis suggested that fisetin suppressed the activation of IFN-regulatory factor 1 (IRF1). Western blot data further confirmed that fisetin inhibited the phosphorylation of Jak1, Jak2, and STAT1, and decreased the nuclear accumulation of phosphorylated STAT1 and IRF1 induced by IFN-γ. Taken together, our data revealed that fisetin is a potent flavonoid that attenuates IFN-γ-stimulated murine macrophage inflammation and ameliorates disrupted cellular metabolism with a possible Jak1/2-STAT1-IRF1 pathway.
+
+The protective effects of fisetin in metabolic disorders: a focus on oxidative stress and associated events.
+
+Number of 
+
+Key takeaways:Fisetin enhances antioxidant defenses by modulating the Nrf2 pathway, improving metabolic health and mitigating the effects of metabolic syndrome.
+
+Abstract:AbstractMetabolic syndrome is increasingly recognized as a significant precursor to various chronic diseases, contributing to a growing public health concern. Its complex pathogenesis involves multiple interrelated mechanisms, with oxidative stress identified as a cornerstone that exacerbates other pathogenic pathways. This study elucidates the molecular mechanisms by which oxidative stress intensifies metabolic disturbances, particularly insulin resistance. Some recent research has focused on fisetin, a natural product known for its potential benefits in diabetes and its associated microvascular and macrovascular complications. This paper compiles a comprehensive collection of findings by reviewing studies conducted over the past decade, detailing dosages, investigated markers, and their respective outcomes. Notably, a recurrent finding was fisetin's ability to enhance Nrf2, a principal regulator of antioxidant defense, in both metabolic and non-metabolic diseases. Furthermore, intriguing results suggest that the effects of Nrf2 extend beyond oxidative stress modulation, demonstrating favorable impacts on tissue-specific functions in metabolic regulation. This highlights fisetin not only as an antioxidant but also as a potential therapeutic agent for improving metabolic health and mitigating the effects of metabolic syndrome. In conclusion, fisetin can enhance the body's antioxidant defenses by modulating the Nrf2 pathway while also improving metabolic health through its effects on inflammation, cell survival, and energy metabolism, offering a comprehensive approach to managing metabolic disorders.Graphical Abstract
+
+Fisetin Attenuates Metabolic Dysfunction in Mice Challenged with a High-Fructose Diet.
+
+Number of 
+
+Key takeaways:Fisetin supplementation effectively improves metabolic dysfunction in mice on a high-fructose diet, potentially due to suppression of NF-B and activation of the Nrf2 pathway.
+
+Abstract:Excess fructose consumption can lead to metabolic syndrome, including insulin resistance, dyslipidemia, and hepatic injury, which are associated with oxidative stress and inflammation. The present study was to investigate whether fisetin improved multiple disturbances induced by fructose consumption. First, fisetin was found to be nontoxic to mice after an 8 week treatment. Second, the mice fed with a high-fructose (HFru)-diet for 8 weeks exhibited insulin resistance, dyslipidemia, hepatic injury, oxidative stress, and inflammation. Fisetin supplementation effectively improved the undesirable results mentioned above when compared to the HFru group. Meanwhile, fisetin significantly suppressed the nuclear factor κ-light-chain-enhancer of activated B cells (NF-κB) pathway and activated the nuclear factor erythroid 2-related factor 2 (Nrf2) pathway in mice fed with HFru. Our findings demonstrated that fisetin exerted the beneficial effects in HFru-feeding mice, which might be associated with suppression of NF-κB and activation of the Nrf2 pathway.
+
+Fisetin Alleviates d-Galactose-Induced Senescence in C2C12 Myoblasts: Metabolic and Gene Regulatory Mechanisms.
+
+Number of 
+
+Key takeaways:Fisetin effectively combats skeletal muscle aging and restores cellular functionality by improving cell viability, reducing senescence markers, and regulating metabolic pathways.
+
+Abstract:Skeletal muscle aging poses a major threat to the health and quality of life of elderly individuals. Fisetin, a natural polyphenolic compound, exhibits various biological activities; however, its role in preventing skeletal muscle cell aging is still unclear. This study aimed to elucidate the effects of fisetin on skeletal muscle aging using a d-galactose-induced C2C12 myoblast senescence model. Fisetin treatment effectively ameliorated d-galactose-induced aging damage and restored cellular functionality by improving cell viability, reducing the accumulation of the senescence marker enzyme SA-β-gal, and decreasing the expression of key aging marker proteins, p16 and p53. NMR-based metabolomics and RNA-seq transcriptomics analyses revealed that fisetin regulates several critical metabolic pathways, including glutathione metabolism, glycine, serine and threonine metabolism, as well as taurine and hypotaurine metabolism. This regulation led to the restoration of amino acid metabolism, stabilization of cellular energy homeostasis, and the preservation of membrane integrity. In addition, fisetin inhibited calcium signaling and JAK-STAT pathways, reduced cellular stress responses and reversed senescence-induced cell cycle arrest. Together, these findings highlight the potential of fisetin as a therapeutic agent to combat skeletal muscle aging and restore cellular homeostasis, offering a promising avenue for the development of antiaging treatments for skeletal muscle degeneration.
+
+Fisetin Protects Against Hepatic Steatosis Through Regulation of the Sirt1/AMPK and Fatty Acid β-Oxidation Signaling Pathway in High-Fat Diet-Induced Obese Mice
+
+Number of 
+
+Key takeaways:Fisetin shows potential in improving nonalcoholic fatty liver disease in mice by activating the sirt1/AMPK and -oxidation pathways.
+
+Abstract:Background/Aims: Fisetin is a naturally abundant flavonoid isolated from various fruits and vegetables that was recently identified to have potential biological functions in improving allergic airway inflammation, as well as anti-oxidative and anti-tumor properties. Fisetin has also been demonstrated to have anti-obesity properties in mice. However, the effect of fisetin on nonalcoholic fatty liver disease (NAFLD) is still elusive. Thus, the present study evaluated whether fisetin improves hepatic steatosis in high-fat diet (HFD)-induced obese mice and regulates lipid metabolism of FL83B hepatocytes in vitro. Methods: NAFLD was induced by HFD in male C57BL/6 mice. The mice were then injected intraperitoneally with fisetin for 10 weeks. In another experiment, FL83B cells were challenged with oleic acid to induce lipid accumulation and treated with various concentrations of fisetin. Results: NAFLD mice treated with fisetin had decreased body weight and epididymal adipose tissue weight compared to NAFLD mice. Fisetin treatment also reduced liver lipid droplet and hepatocyte steatosis, alleviated serum free fatty acid, and leptin concentrations, significantly decreased fatty acid synthase, and significantly increased phosphorylation of AMPKα and the production of sirt-1 and carnitine palmitoyltransferase I in the liver tissue. In vitro, fisetin decreased lipid accumulation and increased lipolysis and β-oxidation in hepatocytes. Conclusion: This study suggests that fisetin is a potential novel treatment for alleviating hepatic lipid metabolism and improving NAFLD in mice via activation of the sirt1/AMPK and β-oxidation pathway.
+
+Modulatory effects of fisetin, a bioflavonoid, on hyperglycemia by attenuating the key enzymes of carbohydrate metabolism in hepatic and renal tissues in streptozotocin-induced diabetic rats.
+
+Number of 
+
+Key takeaways:Fisetin effectively reduces blood glucose levels and increases plasma insulin levels in diabetic rats by modulating key carbohydrate metabolism enzymes.
+
+Improving Non-alcoholic Fatty Liver Disease Treatment in High-fat Diet Fed Mice with Fisetin and Hydroxychloroquine: The Cooperative Pathways for Improved Metabolic Health.
+
+Number of 
+
+Key takeaways:Combining hydroxychloroquine with fisetin shows promise for improving Non-Alcoholic Fatty Liver Disease management by reducing risks and enhancing outcomes in high-fat diet fed mice.
+
+Abstract:BACKGROUND
+The high incidence of Non-Alcoholic Fatty Liver Disease (NAFLD) as a hepatic component of metabolic syndrome is attributed to the ongoing rise in obesity rates. Given the beneficial effects of hydroxychloroquine (HCQ) on metabolism, there is growing interest in combining it with fisetin (FSN), a natural product, to treat NAFLD more effectively.
+
+OBJECTIVE
+The efficacy and safety of the combined therapy of FSN and HCQ in animal models of NAFLD were assessed, focusing on liver function, insulin sensitivity, oxidative stress, and inflammation.
+
+MATERIALS
+and Methods: C57BL/6J mice were fed either a standard chow diet or a high- -fat diet to induce NAFLD. FSN and HCQ were administered to the mice, and biochemical parameters related to glucose and lipid metabolism, as well as oxidative stress markers, were measured in serum and liver tissue. Analyses included Oil Red O staining, mRNA levels of key lipid metabolism molecules, and immunohistochemical assessments of macrophage infiltration. Statistical analyses were performed using GraphPad Prism 9.
+
+RESULTS
+While the HCQ group exhibited some improvements in certain markers, it also displayed adverse effects. The FSN group, particularly the FSN + HCQ group, effectively reversed insulin sensitivity, glucose homeostasis, and NAFLD markers by modulating lipid metabolism and inflammation pathways. HCQ exacerbated oxidative stress, which was mitigated by the effects of FSN.
+
+CONCLUSION
+Despite concerns regarding the long-term side effects of HCQ, its combination with FSN presents a promising approach for improving the management of NAFLD by reducing risks and enhancing outcomes.
+
+Concurrent regulation of the transcription factors Nrf2 and ATF4 mediates the enhancement of glutathione levels by the flavonoid fisetin.
+
+Number of 
+
+Key takeaways:Fisetin enhances glutathione levels by increasing the transcription factors Nrf2 and ATF4, which together work to maintain them under various stresses.
+
+Metabolism and pharmacokinetics of 3,3',4',7-tetrahydroxyflavone (fisetin), 5-hydroxyflavone, and 7-hydroxyflavone and antihemolysis effects of fisetin and its serum metabolites.
+
+Number of 
+
+Key takeaways:Fisetin and 7-OH-flavone rapidly biotransform into their sulfate/glucuronide metabolites, with 5-OH-flavone being exclusively metabolized to glucuronide.
+
+Abstract:3,3',4',7-Tetrahydroxyflavone (fisetin) has shown various beneficial bioactivities. This study investigated the metabolism and pharmacokinetics of fisetin, 5-hydroxyflavone (5-OH-flavone), and 7-hydroxyflavone (7-OH-flavone) in male Sprague-Dawley rats. Blood was withdrawn via cardiopuncture and assayed by HPLC before and after hydrolysis with sulfatase and beta-glucuronidase. The results indicated that after intravenous administration of fisetin (10 mg/kg of bw), fisetin declined rapidly and fisetin sulfates/glucuronides emerged instantaneously. When fisetin (50 mg/kg of bw) was given orally, fisetin parent form was transiently present in serum only during the absorption phase, whereas fisetin sulfates/glucuronides predominated. The serum metabolites of fisetin showed less potent inhibition on 2,2'-azobis(2-amidinopropane hydrochloride) (AAPH)-induced hemolysis than fisetin. Following oral administrations of 40 mg/kg of bw of 5-OH-flavone and 7-OH-flavone, the glucuronide of 5-OH-flavone and the sulfate/glucuronide of 7-OH-flavone were found in serum, whereas no traces of parent forms were detected. In conclusion, fisetin and 7-OH-flavone were rapidly and extensively biotransformed into their sulfate/glucuronide, whereas 5-OH-flavone was exclusively metabolized to glucuronide.
+
+Fisetin protects against hepatosteatosis in mice by inhibiting miR-378.
+
+Number of 
+
+Key takeaways:Fisetin protects against hepatosteatosis in mice by modulating lipid metabolism genes and miR-378, suggesting its potential as a preventive or intervention against metabolic diseases.
+
+Abstract:SCOPE
+Lipid homeostasis in vertebrates is regulated at many levels including synthesis, degradation, and distribution. MicroRNAs (miRNAs) are key regulators of lipid homeostasis. The use of phytochemicals to target miRNA (miR) could provide new therapeutic approaches to human diseases. Thus, we investigated the regulation of lipid metabolism by the flavonoid fisetin during experimental analysis of hepatic miRs in mice.
+
+METHODS AND RESULTS
+Mice were separated into three groups. One group was maintained on the normal diet and the other two groups were fed either a high-fat (HF) diet or HF supplemented with fisetin. We found that fisetin lowered hepatic fat accumulation in HF mice and reversed abnormal expressions of lipid metabolism genes. The co-expression of miR-378 and its host gene PGC-1β was significantly induced by HF, whereas fisetin prevented the induction of both genes. We also identified nuclear respiratory factor-1 (NRF-1), a critical regulator of the mitochondrial function, as a direct target of miR-378.
+
+CONCLUSION
+Dietary fisetin protects against hepatosteatosis in association with modulation of lipid metabolism genes and miR-378 in mice. These observations suggest that the use of fisetin to target miRs could be an effective prevention or intervention against metabolic diseases.
+
+Effects of Fisetin, a Plant-Derived Flavonoid, on Response to Oxidative Stress, Aging, and Age-Related Diseases in Caenorhabditis elegans
+
+Number of 
+
+Key takeaways:Fisetin supplementation extends lifespan and delays age-related decline in motility, supporting the free radical theory of aging and suggesting its potential use in anti-aging nutraceuticals.
+
+Abstract:Fisetin (3,3′,4′,7-tetrahydroxyflavone), a flavonoid abundant in various fruits and vegetables, including apple, strawberry, and onion, shows several beneficial effects such as anti-oxidant, anti-inflammatory, and anti-tumor effects. The free radical theory of aging suggests that age-related accumulation of oxidative damage is the major cause of aging and that decreasing cellular oxidative stress can regulate aging. Here, we investigated the effects of dietary supplementation with fisetin on the stress response, aging, and age-related diseases. Fisetin reduced the cellular ROS levels and increased the resistance to oxidative stress. However, the response to UV irradiation was not affected by fisetin. Both the mean and maximum lifespans were significantly extended by fisetin; lifespan extension by fisetin was accompanied by reduced fertility as a trade-off. Age-related decline in motility was also delayed by supplementation with fisetin. Amyloid beta-induced toxicity was markedly decreased by fisetin, which required DAF-16 and SKN-1. Reduced motility induced by a high-glucose diet was completely recovered by supplementation with fisetin, which was dependent on SKN-1. Using a Parkinson’s disease model, we showed that degeneration of dopaminergic neurons was significantly inhibited by treatment with fisetin. Genetic analysis revealed that lifespan extension by fisetin was mediated by DAF-16-induced stress response and autophagy. These findings support the free radical theory of aging and suggest that fisetin can be a strong candidate for use in novel anti-aging anti-oxidant nutraceuticals.
+
+Fisetin, a dietary flavonoid, promotes transintestinal cholesterol excretion through the activation of PPARδ.
+
+Number of 
+
+Key takeaways:Fisetin, found in strawberries, effectively lowers cholesterol by enhancing transintestinal cholesterol excretion through the activation of intestinal PPAR.
+
+Flavonoid Fisetin Alleviates Ovarian Aging of Laying Chickens by Enhancing Antioxidant Capacity and Glucose Metabolic Homeostasis
+
+Number of 
+
+Key takeaways:Fisetin supplementation improves egg production and eggshell quality in aging laying chickens, reduces follicular atresia, and enhances ovarian antioxidant capacity and glucose metabolism, reducing ovarian aging in poultry production.
+
+Abstract:Oxidative stress is a crucial factor contributing to ovarian follicular atresia and an imbalance in ovarian energy metabolism in poultry, leading to decreased laying performance in aging hens. This study aimed to investigate the effects of a natural flavonoid, fisetin, on laying performance, ovarian redox status, and energy metabolism in laying chickens. The results showed that dietary fisetin supplementation improved egg production and eggshell quality in aging laying chickens, reduced follicular atresia rate, promoted ovarian cell proliferation, elevated serum estrogen and progesterone levels, restored ovarian antioxidant capacity, and improved energy metabolism. Furthermore, fisetin treatment increased the activity of antioxidant enzymes by inhibiting NF-κB signaling and COX-2 expression while promoting SIRT1 expression in the H2O2-induced small white follicle (SWF). Additionally, fisetin significantly enhanced the anti-apoptotic capacity of SWF and promoted glucose catabolism by activating the AKT and JNK signaling pathways. In summary, fisetin supplementation can alleviate ovarian oxidative stress in aging laying chickens by upregulating SIRT1 expression and inhibiting NF-κB signaling. The activation of AKT and JNK signaling pathways by fisetin contributes to the balance of energy metabolism and promotion of follicular development in the ovaries of aging laying chickens, thereby retarding ovarian aging in poultry production.
+
+Fisetin Improves Hyperuricemia-Induced Chronic Kidney Disease via Regulating Gut Microbiota-Mediated Tryptophan Metabolism and Aryl Hydrocarbon Receptor Activation.
+
+Number of 
+
+Key takeaways:Fisetin improves kidney function and reduces renal fibrosis in hyperuricemia-induced chronic kidney disease by regulating gut microbiota-mediated tryptophan metabolism and aryl hydrocarbon receptor activation.
+
+Abstract:The intestinal flora serves a critical role in the development of hyperuricemia-induced chronic kidney disease (CKD). We previously found that natural flavonol fisetin exhibited nephroprotective effects in hyperuricemic mice. However, the mechanism remains largely unknown. To investigate the underlying mechanism of fisetin, mice were fed with potassium oxonate and adenine to introduce hyperuricemia-induced CKD. Fisetin improved kidney function, ameliorated renal fibrosis, and restored enteric dysbacteriosis in hyperuricemia-induced CKD mice. Meanwhile, gut microbiota-derived tryptophan metabolites, especially l-kynurenine, showed correlations with nephroprotective profiles of fisetin. Additionally, the kidney expression of the aryl hydrocarbon receptor (AHR), an endogenous receptor of l-kynurenine, was enhanced in hyperuricemic mice and further reduced in fisetin-treated mice. Finally, in vitro results showed that inhibition of AHR activation attenuated l-kynurenine-induced fibrosis. These results highlighted that fisetin protected against hyperuricemia-induced CKD via modulating gut microbiota-mediated tryptophan metabolism and AHR activation.
+
+The neuroprotective effects of fisetin, a natural flavonoid in neurodegenerative diseases: Focus on the role of oxidative stress
+
+Number of 
+
+Key takeaways:Fisetin, a natural flavonoid, exhibits neuroprotective effects by reducing oxidative stress, inflammation, and neurotoxicity, potentially preventing neurodegenerative disorders.
+
+Abstract:Oxidative stress (OS) disrupts the chemical integrity of macromolecules and increases the risk of neurodegenerative diseases. Fisetin is a flavonoid that exhibits potent antioxidant properties and protects the cells against OS. We have viewed the NCBI database, PubMed, Science Direct (Elsevier), Springer-Nature, ResearchGate, and Google Scholar databases to search and collect relevant articles during the preparation of this review. The search keywords are OS, neurodegenerative diseases, fisetin, etc. High level of ROS in the brain tissue decreases ATP levels, and mitochondrial membrane potential and induces lipid peroxidation, chronic inflammation, DNA damage, and apoptosis. The subsequent results are various neuronal diseases. Fisetin is a polyphenolic compound, commonly present in dietary ingredients. The antioxidant properties of this flavonoid diminish oxidative stress, ROS production, neurotoxicity, neuro-inflammation, and neurological disorders. Moreover, it maintains the redox profiles, and mitochondrial functions and inhibits NO production. At the molecular level, fisetin regulates the activity of PI3K/Akt, Nrf2, NF-κB, protein kinase C, and MAPK pathways to prevent OS, inflammatory response, and cytotoxicity. The antioxidant properties of fisetin protect the neural cells from inflammation and apoptotic degeneration. Thus, it can be used in the prevention of neurodegenerative disorders. Graphical Abstract
+
+Fisetin ameliorates atherosclerosis by regulating PCSK9 and LOX-1 in apoE-/- mice
+
+Number of 
+
+Key takeaways:Fisetin improves atherosclerosis in apoE-/- mice by regulating lipid metabolism and senescence, potentially benefiting chronic diseases like AS, obesity, diabetes, and cancer.
+
+Abstract:The purpose of the current study was to investigate the mechanism by which fisetin improves atherosclerosis (AS) by regulating lipid metabolism and senescence in apolipoprotein E-deficient (apoE-/-) mice. An AS model was established by feeding apoE-/- mice a high-fat diet. Mice were randomly divided into the model group (n=18), the fisetin group (n=18) and the atorvastatin group (n=18). The control group (n=18) was composed of wild-type C57BL/6 mice of the same age and genetic background. The fisetin and atorvastatin groups were respectively treated with aqueous solutions of fisetin (12.5 mg/kg) and atorvastatin (2 mg/kg) via oral gavage daily for 12 weeks. The pathological morphology, lipid accumulation, collagen deposition of the aortic sinus were observed, serum lipids, superoxide dismutase (SOD) and malondialdehyde (MDA) levels and alanine aminotransferase (ALT) and aspartate aminotransferase (AST) activities were measured in the peripheral blood serum. Additionally, the expressions of proprotein convertase subtilisin/kexin type 9 (PCSK9), lectin-like oxidized low-density lipoprotein receptor-1 (LOX-1), tumor suppressor protein p53 (p53), cyclin-dependent kinase inhibitor 1A (p21) and multiple tumor suppressor-1 (p16) were analyzed in the aorta. The results of the current study indicated that compared with the control group, a large area of AS plaque in the aortic sinus that contained a large amount of red-stained lipids and decreased collagen fiber content were found in the model group, which exhibited higher total cholesterol (TC), low-density lipoprotein cholesterol (LDL-C), very low-density lipoprotein cholesterol (VLDL-C), oxidized low-density lipoprotein (ox-LDL) and MDA levels; higher ALT and AST activities, lower high-density lipoprotein cholesterol (HDL-C) and SOD levels and increased expression levels of PCSK9, LOX-1, p53, p21 and p16. Fisetin is a phytochemical and bioflavonoid that serves a potential role in chronic diseases including AS, obesity, diabetes and cancer due to its wide biological activities, such as regulating lipid metabolism and anti-aging, anti-oxidation and anti-inflammatory. Atorvastatin is recognized as a first-line treatment drug for AS; therefore it was used as a positive control in the current study. Following fisetin and atorvastatin treatment, both the AS plaque and the lipid accumulation in the aortic sinus were significantly reduced, and the expressions of PCSK9, LOX-1 and aging markers, including p53, p21 and p16 were downregulated.
+
+Fisetin disrupts mitochondrial homeostasis via superoxide dismutase 2 acetylation in pancreatic adenocarcinoma
+
+Number of 
+
+Key takeaways:Fisetin disrupts mitochondrial homeostasis and may serve as a promising therapeutic for pancreatic adenocarcinoma by inducing cancer-suppressive effects through superoxide dismutase 2 acetylation.
+
+Abstract:Pancreatic adenocarcinoma (PDAC) is one of the most lethal malignant tumors with an urgent need for precision medicine strategies. The present study seeks to assess the antitumor effects of fisetin, and characterize its impact on PDAC. Multi‐omic approaches include proteomic, transcriptomic, and metabolomic analyses. Further validation includes the assessment of mitochondria‐derived reactive oxygen species (mtROS), mitochondrial membrane potential, as well as ATP generation. Molecular docking, immunoprecipitation, and proximity ligation assay were used to detect the interactions among fiseitn, superoxide dismutase 2 (SOD2), and sirtuin 2 (SIRT2). We showed that fisetin disrupted mitochondrial homeostasis and induced SOD2 acetylation in PDAC. Further, we produced site mutants to determine that fisetin‐induced mtROS were dependent on SOD2 acetylation. Fisetin inhibited SIRT2 expression, thus blocking SOD2 deacetylation. SIRT2 overexpression could impede fisetin‐induced SOD2 acetylation. Additionally, untargeted metabolomic analysis revealed an acceleration of folate metabolism with fisetin. Collectively, our findings suggest that fisetin disrupts mitochondrial homeostasis, eliciting an important cancer‐suppressive role; thus, fisetin may serve as a promising therapeutic for PDAC.
+
+Fisetin ameliorates polycystic ovary syndrome in rats via a mechanistic modulation of AMP-activated protein kinase and SIRT1 molecular pathway.
+
+Number of 
+
+Key takeaways:Fisetin shows potential as a therapeutic intervention for managing polycystic ovary syndrome by modulating AMPK/SIRT1 signaling in rats.
+
+Abstract:Fisetin, a polyphenolic flavonoid, exhibits numerous pharmacological activities against metabolic syndromes. The present research aims to explore the therapeutic efficacy of fisetin in experimental polycystic ovary syndrome (PCOS). Female Sprague-Dawley rats were administered mifepristone (20 mg/kg/day) to induce PCOS. PCOS rats were treated with fisetin (20 mg/kg and 40 mg/kg) and further compared with metformin HCl, the conventional drug for PCOS. The mechanism of fisetin was explored using dorsomorphin (an AMPK inhibitor). Then, rats were sacrificed for further analysis of biochemical and histological parameters. PCOS rats exhibited irregular estrous cycles, increased serum testosterone (4.72 ± 0.139 ng/ml), estradiol (750.2 ± 16.56 pg/ml), LH (30.33 ± 1.563 mIU/ml), HOMA-IR (1.115 ± 0.049), TNF-α (86.59 ± 3.93 pg/ml), IL-6 (55.34 ± 4.432 pg/ml), and TBARS (3.867 ± 0.193 µmol/mg) along with declined progesterone (11.67 ± 1.54 ng/ml), FSH (13.33 ± 1.256 mIU/ml), GSH (33.47 ± 1.348 µmol/mg) levels, and SOD (2.163 ± 0.298 U/mg) activity as compared to normal control group. Fisetin high dose significantly lowers testosterone (3.014 ± 0.234 ng/ml), estradiol (533.7 ± 15.39 pg/ml), LH (16.67 ± 1.62 mIU/ml), HOMA-IR (0.339 ± 0.20), TNF-α (46.02 ± 2.66 pg/ml), IL-6 (31.77 ± 3.47 pg/ml), and TBARS (1.747 ± 0.185 µmol/mg) and enhances progesterone (33.17 ± 1.447 ng/ml), FSH (27.17 ± 1.42 mIU/ml), GSH (60.35 ± 1.1.102 µmol/mg) levels, and SOD (4.513 ± 0.607 U/mg) activity. The histology of ovarian tissues shows a significant increase in cystic follicles in PCOS rats compared with the normal control group. These alterations were attenuated with fisetin treatment. Administration of dorsomorphin with fisetin can reverse the beneficial effects of fisetin in PCOS rats. Altogether, these present findings highlight the potential of fisetin as a promising therapeutic intervention for the management of PCOS by modulating AMPK/SIRT1 signaling in rats.
+
+Fisetin, potential flavonoid with multifarious targets for treating neurological disorders: An updated review.
+
+Number of 
+
+Key takeaways:Fisetin shows potential in treating various neurological diseases by targeting multiple molecular mechanisms and promoting neuroprotection through its neuroprotective role in preclinical models.
+
+Neuroprotective Effect of Fisetin Against Amyloid-Beta-Induced Cognitive/Synaptic Dysfunction, Neuroinflammation, and Neurodegeneration in Adult Mice
+
+Number of 
+
+Key takeaways:Fisetin has a potent neuroprotective effect against amyloid-beta-induced neurotoxicity, improving memory and preventing neuroinflammation in adult mice.
+
+Abstract:Alzheimer’s disease (AD) is a devastating and progressive neurodegenerative disease and is characterized pathologically by the accumulation of amyloid beta (Aβ) and the hyperphosphorylation of tau proteins in the brain. The deposition of Aβ aggregates triggers synaptic dysfunction, hyperphosphorylation of tau, and neurodegeneration, which lead to cognitive disorders. Here, we investigated the neuroprotective effect of fisetin in the Aβ_1–42 mouse model of AD. Single intracerebroventricular injections of Aβ_1–42 (3 μl/5 min/mouse) markedly induced memory/synaptic deficits, neuroinflammation, and neurodegeneration. Intraperitoneal injections of fisetin at a dose of 20 mg/kg/day for 2 weeks starting 24 h after Aβ_1–42 injection significantly decreased the Aβ_1–42-induced accumulation of Aβ, BACE-1 expression, and hyperphosphorylation of tau protein at serine 413. Fisetin treatment also markedly reversed Aβ_1–42-induced synaptic dysfunction by increasing the levels of both presynaptic (SYN and SNAP-25) and postsynaptic proteins (PSD-95, SNAP-23, p-GluR1 (Ser 845), p-CREB (Ser 133) and p-CAMKII (Thr 286) and ultimately improved mouse memory, as observed in the Morris water maze test. Fisetin significantly activated p-PI3K, p-Akt (Ser 473), and p-GSK3β (Ser 9) expression in Aβ_1–42-treated mice. Moreover, fisetin prevented neuroinflammation by suppressing various activated neuroinflammatory mediators and gliosis; it also suppressed the apoptotic neurodegeneration triggered by Aβ_1–42 injections in the mouse hippocampus. Fluorojade-B and immunohistochemical staining for caspase-3 revealed that fisetin prevented neurodegeneration in Aβ_1–42-treated mice. Our results suggest that fisetin has a potent neuroprotective effect against Aβ_1–42-induced neurotoxicity. These results demonstrate that polyphenolic flavonoids such as fisetin could be a beneficial, effective and safe neuroprotective agent for preventing neurological disorders such as AD.
+
+Phytomedicine-Based Potent Antioxidant, Fisetin Protects CNS-Insult LPS-Induced Oxidative Stress-Mediated Neurodegeneration and Memory Impairment
+
+Number of 
+
+Key takeaways:Fisetin, a natural antioxidant and neuroprotective phytomedicine, effectively reduces oxidative stress-induced neurodegeneration and memory impairment in adult mice.
+
+Abstract:Phytomedicine based natural flavonoids have potent antioxidant, anti-inflammatory, and neuroprotective activities against neurodegenerative diseases. The aim of the present study is to investigate the potent neuroprotective and antioxidant potential effects of fisetin (natural flavonoid) against central nervous system (CNS)-insult, lipopolysaccharide (LPS)-induced reactive oxygen species (ROS), neuroinflammation, neurodegeneration, and synaptic/memory deficits in adult mice. The mice were injected intraperitoneally (i.p.) with LPS (250 μg/kg/day for 1 week) and a fisetin dosage regimen (20 mg/kg/day i.p. for 2 weeks, 1 week pre-treated to LPS and 1 week co-treated with LPS). Behavioral tests, and biochemical and immunofluorescence assays were applied. Our results revealed that fisetin markedly abrogated the LPS-induced elevated ROS/oxidative stress and activated phosphorylated c-JUN N-terminal Kinase (p-JNK) in the adult mouse hippocampus. Fisetin significantly alleviated LPS-induced activated gliosis. Moreover, fisetin treatment inhibited LPS-induced activation of the inflammatory Toll-like Receptors (TLR4)/cluster of differentiation 14 (CD14)/phospho-nuclear factor kappa (NF-κB) signaling and attenuated other inflammatory mediators (tumor necrosis factor-α (TNF-α), interleukin-1 β (IL1-β), and cyclooxygenase (COX-2). Furthermore, immunoblotting and immunohistochemical results revealed that fisetin significantly reversed LPS-induced apoptotic neurodegeneration. Fisetin improved the hippocampal-dependent synaptic and memory functions in LPS-treated adult mice. In summary, our results strongly recommend that fisetin, a natural potent antioxidant, and neuroprotective phytomedicine, represents a promising, valuable, and therapeutic candidate for the prevention and treatment of neurodegenerative diseases.
+
+Fisetin Rescues the Mice Brains Against D-Galactose-Induced Oxidative Stress, Neuroinflammation and Memory Impairment
+
+Number of 
+
+Key takeaways:Fisetin protects mice brains from d-galactose-induced oxidative stress, neuroinflammation, and memory impairment by regulating endogenous anti-oxidant mechanisms and suppressing inflammatory cytokines.
+
+Abstract:Herein, we have evaluated the protective potentials of Fisetin against d-galactose-induced oxidative stress, neuroinflammation, and memory impairment in mice. d-galactose (D-gal) causes neurological impairment by inducing reactive oxygen species (ROS), neuroinflammation, and synaptic dysfunction, whereas fisetin (Fis) is a natural flavonoid having potential antioxidant effects, and has been used against different models of neurodegenerative diseases. Here, the normal mice were injected with D-gal (100 mg/kg/day for 60 days) and fisetin (20 mg/kg/day for 30 days). To elucidate the protective effects of fisetin against d-galactose induced oxidative stress-mediated neuroinflammation, we conducted western blotting, biochemical, behavioral, and immunofluorescence analyses. According to our findings, D-gal induced oxidative stress, neuroinflammation, synaptic dysfunctions, and cognitive impairment. Conversely, Fisetin prevented the D-gal-mediated ROS accumulation, by regulating the endogenous anti-oxidant mechanisms, such as Sirt1/Nrf2 signaling, suppressed the activated p-JNK/NF-kB pathway, and its downstream targets, such as inflammatory cytokines. Hence, our results together with the previous reports suggest that Fisetin may be beneficial in age-related neurological disorders.
+
+Fisetin as a caloric restriction mimetic protects rat brain against aging induced oxidative stress, apoptosis and neurodegeneration
+
+Number of 
+
+Key takeaways:Fisetin supplementation may provide neuroprotection against aging-induced oxidative stress, apoptosis, neuro-inflammation, and neurodegeneration in rat brain.
+
+Fisetin improves lead-induced neuroinflammation, apoptosis and synaptic dysfunction in mice associated with the AMPK/SIRT1 and autophagy pathway.
+
+Number of 
+
+Key takeaways:Fisetin, a natural flavonoid found in plants, fruits, and vegetables, can significantly improve lead-induced neuroinflammation, apoptosis, and synaptic dysfunction in mice, potentially serving as a potential nutritional target for prevention.
+
+Fisetin exerts neuroprotective effects in vivo and in vitro by inhibiting ferroptosis and oxidative stress after traumatic brain injury
+
+Number of 
+
+Key takeaways:Fisetin exhibits neuroprotective effects in traumatic brain injury by inhibiting ferroptosis and oxidative stress, reducing tissue damage and cognitive dysfunction.
+
+Abstract:Traumatic brain injury (TBI) is an important cause of disability and mortality, and identifying effective neuroprotective drugs and targets after TBI is an urgent public concern. Ferroptosis, an iron dependent, novel form of cell death associated with lipid peroxidation, has recently been shown to participate in secondary injury processes after TBI. Fisetin is a natural and relatively safe at general dosages flavonoid compound with neuroprotective properties. This study aimed to investigate the molecular mechanism of ferroptosis in TBI and the role of fisetin in neuroprotection by regulating ferroptosis and oxidative stress following TBI. Through in vivo experiments, a mouse model of repetitive mild closed head injury was established to determine that fisetin could reduce post-TBI injury and exert neuroprotective effects as determined by the Neurobehavioral Severity Scale score, brain water content, Nissl staining, hematoxylin-eosin staining, TUNEL staining and water maze experiment results. Fisetin was proven to be capable of inhibiting the changes in post-TBI ferroptosis proteins, activating the PI3K/AKT/NRF2 signaling pathway, and reducing oxidative stress, as confirmed by Western blotting. Via in vitro experiments, cell death models of ferroptosis were established with glutamate and erastin. As determined by MTT assay, fisetin improved the survival of cells with induced ferroptosis. The morphological alterations of ferroptotic cells were ascertained with a microscope. Fisetin similarly inhibited the changes in multiple ferroptosis-associated proteins induced by glutamate and erastin, reduced ROS and peroxidation products, and increased the level of antioxidants. In conclusion, fisetin exerts neuroprotective effects in TBI through multiple pathways, thereby alleviating tissue damage and cognitive dysfunction.
+
+Fisetin provides neuroprotection in pentylenetetrazole-induced cognition impairment by upregulating CREB/BDNF.
+
+Number of 
+
+Key takeaways:Fisetin improves cognitive function in mice with pentylenetetrazole-induced cognitive dysfunction by upregulating CREB/BDNF and reducing oxidative stress.
+
+Fisetin Reduces the Impact of Aging on Behavior and Physiology in the Rapidly Aging SAMP8 Mouse
+
+Number of 
+
+Key takeaways:Fisetin reduces cognitive deficits and restores markers associated with impaired synaptic function, stress, and inflammation in rapidly aging SAMP8 mice, suggesting potential benefits for age-related neurodegenerative diseases.
+
+Abstract:Alzheimer's disease (AD) is rarely addressed in the context of aging even though there is an overlap in pathology. We previously used a phenotypic screening platform based on old age-associated brain toxicities to identify the flavonol fisetin as a potential therapeutic for AD and other age-related neurodegenerative diseases. Based on earlier results with fisetin in transgenic AD mice, we hypothesized that fisetin would be effective against brain aging and cognitive dysfunction in rapidly aging senescence-accelerated prone 8 (SAMP8) mice, a model for sporadic AD and dementia. An integrative approach was used to correlate protein expression and metabolite levels in the brain with cognition. It was found that fisetin reduced cognitive deficits in old SAMP8 mice while restoring multiple markers associated with impaired synaptic function, stress, and inflammation. These results provide further evidence for the potential benefits of fisetin for the treatment of age-related neurodegenerative diseases.
+
+Fisetin as a Senotherapeutic Agent: Biopharmaceutical Properties and Crosstalk between Cell Senescence and Neuroprotection
+
+Number of 
+
+Key takeaways:Fisetin shows potential as a senotherapeutic agent, extending lifespan and reducing brain aging and neurodegenerative diseases by reducing oxidative stress and neuroinflammation.
+
+Abstract:Like other organs, brain functions diminish with age. Furthermore, for a variety of neurological disorders—including Alzheimer’s disease—age is one of the higher-risk factors. Since in many Western countries the average age is increasing, determining approaches for decreasing the effects of aging on brain function is taking on a new urgency. Neuroinflammation and oxidative stress are two convoluted key factors in brain aging and chronic neurodegenerative diseases. The diverseness of factors, causing an age-related decrease in brain functions, requires identifying small molecules that have multiple biological activities that can affect all these factors. One great source of these small molecules is related to polyphenolic flavonoids. Recently, 3,3′,4′,7-tetrahydroxyflavone (fisetin) has been reported as a potent senotherapeutic capable of extending lifespan by reducing peroxidation levels and enhancing antioxidant cell responses. The neuroprotective effects of fisetin have been shown in several in vitro and in vivo models of neurological disorders due to its actions on multiple pathways associated with different neurological disorders. The present work aims to collect the most recent achievements related to the antioxidant and neuroprotective effects of fisetin. Moreover, in silico pharmacokinetics, pharmacodynamics, and toxicity of fisetin are also comprehensively described along with emerging novel drug delivery strategies for the amelioration of this flavonol bioavailability and chemical stability.
+
+Neuroprotective Effect of Fisetin Against the Cerebral Ischemia-Reperfusion Damage via Suppression of Oxidative Stress and Inflammatory Parameters
+
+Number of 
+
+Key takeaways:Fisetin protects the brain against ischemic-reperfusion injury by suppressing inflammatory cytokines, potentially due to reduced NF-B activity.
+
+Abstract:It is well established that inflammatory reactions and oxidative stress play an imperial role in cerebral ischemia-reperfusion pathogenesis. Fisetin is a flavonoid and has an antioxidant and anti-inflammatory effect on various diseases. In this study, we have been working to examine the neuroprotective effect of fisetin in brain injuries triggered by cerebral ischemic-reperfusion and explore the potential role of nuclear factor kappa B (NF-κB) signaling. In vitro, fisetin was examined against the cell viability, lactate dehydrogenase (LDH) leakage, cytokines, and apoptosis after ischemia/reperfusion (I/R) induced in the cells. In vivo, I/R injury was induced in the brain via transient middle cerebral artery occlusion (2 h) and reperfusion (20 h). The infarction area, brain water content, and neurofunctional parameters were also estimated. Inflammatory cytokines and brain injury markers were scrutinized at the end of the study. Fisetin treatment alleviated cell injury and suppressed the inflammatory cytokines (interleukin-1 (IL-1), tumor necrosis factor- α (TNF-α), inducible nitric oxide synthase (iNOS), interleukin-1β (IL-1β), cyclooxygenase-2 (COX-2), interleukin-16 (IL-6), and prostaglandin E_2 (PGE_2)) and antioxidant parameters in a dose-dependent manner. Fisetin significantly (P < 0.001) reduced the infarct volume, brain water content. Fisetin significantly (P < 0.001) suppressed the neurological parameters and inflammatory cytokines such as IL-1, TNF-α, iNOS, IL-1β, COX-2, IL-6, PGE_2, and oxidative markers in a dose-dependent manner. Fisetin significantly (P < 0.001) reduced the inflammatory mediators including NF-κB and intercellular adhesion molecule 1 (ICAM-1). Further studies also showed that fisetin significantly inhibited the NF-κB activity via inflammatory and antioxidant pathways. In conclusion, by suppressing inflammatory cytokines, fisetin protected the brain tissue against I/R injury, and this effect could be due to reduced NF-κB activity.
+
+Neuroprotective Effects of Fisetin in Alzheimer's and Parkinson's Diseases: From Chemistry to Medicine.
+
+Number of 
+
+Key takeaways:Fisetin shows potential neuroprotective effects, enhancing learning and memory, decreasing neuronal cell death, and suppressing oxidative stress, making it a promising new approach for treating Alzheimer's and Parkinson's diseases.
+
+Abstract:According to the epidemiological reports published by the World Health Organization, the proportion of elderly people (over 60 years) will increase from 11% to 22% by 2050 worldwide. This increase will be associated with a growing rate of morbidity and mortality of age-related diseases. Mental and neurodegenerative diseases are important health problems in elderly people. Therefore, recent research has been focused on finding effective neuroprotective agents with low adverse effects. Over the last two decades, much attention has been drawn to plant-derived bioactive compounds as novel therapeutic agents for treatment of neurodegenerative diseases such as Alzheimer's disease (AD) and Parkinson's disease (PD). Among them, flavonoid chemical class is known as one of the most bioactive and non-toxic phytochemicals, which are widely found in different herbal medicines and edible plants. Fisetin is one of the most common and bioactive flavonoids which possesses potential neuroprotective effects. Fisetin also enhances learning and memory, decreases neuronal cell death, and suppresses oxidative stress. The present paper aims to critically evaluate the available literature regarding the beneficial effects of fisetin on neurodegenerative diseases, especially AD and PD. In addition, we provide information regarding the chemistry, sources, bioavailability and clinical impacts of fisetin to provide a broad spectrum for the use of this compound as a new approach to the treatment of AD and PD.
+
+Cell and brain tissue imaging of the flavonoid fisetin using label-free two-photon microscopy
+
+Number of 
+
+Key takeaways:Fisetin, a neuroprotective and cognition-enhancing flavonoid, localizes to the nucleoli in cells and rapidly distributes to the brain's blood vessels after oral administration.
+
+Neuropharmacology of Fisetin as a Senotherapeutic Agent: Investigating Its Role in Neurodegeneration and Brain Aging
+
+Number of 
+
+Key takeaways:Fisetin shows potential as a therapeutic agent for brain aging by targeting senescent cells, reducing neuroinflammation, and enhancing synaptic function.
+
+Abstract:Fisetin, a flavonoid in various fruits and vegetables, has emerged as a promising chemotherapeutic agent with potential neuroprotective effects, particularly in neurodegeneration and brain aging. Objective: To explore the role of fisetin in mitigating age-related neuronal damage by targeting oxidative stress, inflammation, and cellular senescence, common contributors to neurodegenerative diseases such as Alzheimer's and Parkinson's. Methods: Following PRISMA guidelines, relevant studies were 
+
+Dietary flavonoid fisetin regulates aluminium chloride-induced neuronal apoptosis in cortex and hippocampus of mice brain.
+
+Number of 
+
+Key takeaways:Fisetin may slow or prevent neurodegeneration and serve as a neuroprotective agent against Alzheimer's and Parkinson's diseases by regulating ASK-1 and p-JNK.
+
+How fisetin reduces the impact of age and disease on CNS function.
+
+Number of 
+
+Key takeaways:Fisetin, a novel neuroprotective and cognition-enhancing molecule, has the potential to reduce the impact of age-related neurological diseases on brain function by combining antioxidant, neurotrophic factor, and anti-inflammatory activities.
+
+Abstract:It is becoming increasingly clear that neurological diseases are multi-factorial involving disruptions in multiple cellular systems. Thus, while each disease has its own initiating mechanisms and pathologies, certain common pathways appear to be involved in most, if not all, neurological diseases. Thus, it is unlikely that modulating only a single factor will be effective at either preventing disease development or slowing disease progression. A better approach is to identify small (< 900 daltons) molecules that have multiple biological activities relevant to the maintenance of brain function. We have identified an orally active, novel neuroprotective and cognition-enhancing molecule, the flavonoid fisetin. Fisetin not only has direct antioxidant activity but it can also increase the intracellular levels of glutathione, the major intracellular antioxidant. Fisetin can also activate key neurotrophic factor signaling pathways. In addition, it has anti-inflammatory activity and inhibits the activity of lipoxygenases, thereby reducing the production of pro-inflammatory eicosanoids and their by-products. This wide range of actions suggests that fisetin has the ability to reduce the impact of age-related neurological diseases on brain function.
+
+Nanoformulated fisetin ameliorates Alzheimer's disease via reducing proinflammatory cytokines and activating the NRF2/HO-1 pathway.
+
+Number of 
+
+Key takeaways:The chitosan-coated fisetin nanoformulation enhances the neuroprotective effects of fisetin in Alzheimer's disease models, potentially improving colon health and suggesting a link between colon health and A-induced AD pathology.
+
+Abstract:Aim: The study aimed to evaluate the neuroprotective effect of a chitosan-coated fisetin nanoformulation in an experimental Alzheimer's disease (AD) model, focusing on improving fisetin's pharmacokinetics and exploring its impact on both brain and colon pathology.Materials & methods: AD was induced in mice by intracerebroventricular administration of Aβ1-42. Mice were treated with either fisetin or a fisetin nanoformulation (5 mg/kg/day, orally) for 21 days. Behavioural assessments were conducted to evaluate memory impairment, motor deficits, and depression-like behaviour. Oxidative stress markers and pro-inflammatory cytokines were measured in the cortex, hippocampus and colon. The changes in cortical and hippocampal AChE levels were also recorded. Histological studies were performed on the cortex, hippocampus (dentate gyrus), and proximal colon.Results: The fisetin nanoformulation significantly improved neurobehavioral outcomes, reducing memory impairment, motor deficits and depression-like symptoms induced by Aβ1-42. It also decreased oxidative and nitrosative stress, along with pro-inflammatory cytokine levels in the cortex, hippocampus and colon. Histological analyses revealed improved brain and colon tissue architecture after treatment with the nanoformulation.Conclusion: The chitosan-coated fisetin nanoformulation enhanced the neuroprotective effects of fisetin in an AD model, likely by improving its pharmacokinetic profile. The findings also suggest a potential link between colon health and Aβ-induced AD pathology, underscoring the therapeutic potential of fisetin nanoformulations in AD management.
+
+Effects of Fisetin Treatment on Cellular Senescence of Various Tissues and Organs of Old Sheep
+
+Number of 
+
+Key takeaways:Fisetin treatment significantly reduces cellular senescence in the brain and other vital organs of old sheep, potentially benefiting brain health and preventing age-related brain diseases.
+
+Abstract:Fisetin has been shown to be beneficial for brain injury and age-related brain disease via different mechanisms. The purpose of this study was to determine the presence of senescent cells and the effects of fisetin on cellular senescence in the brain and other vital organs in old sheep, a more translational model. Female sheep 6–7 years old (N = 6) were treated with 100 mg/kg fisetin or vehicle alone on two consecutive days a week for 8 weeks. All vital organs were harvested at the time of sacrifice. Histology, immunofluorescence staining, and RT-Q-PCR were performed on different regions of brain tissues and other organs. Our results indicated that fisetin treatment at the current regimen did not affect the general morphology of the brain. The presence of senescent cells in both the cerebral brain cortex and cerebellum and non-Cornu Ammonis (CA) area of the hippocampus was detected by senescent-associated β-galactosidase (SA-β-Gal) staining and GL13 (lipofuscin) staining. The senescent cells detected were mainly neurons in both gray and white matter of either the cerebral brain cortex, cerebellum, or non-CA area of the hippocampus. Very few senescent cells were detected in the neurons of the CA1-4 area of the hippocampus, as revealed by GL13 staining and GLB1 colocalization with NEUN. Fisetin treatment significantly decreased the number of SA-β-Gal+ cells in brain cortex white matter and GL13+ cells in the non-CA area of the hippocampus, and showed a decreasing trend of SA-β-Gal+ cells in the gray matter of both the cerebral brain cortex and cerebellum. Furthermore, fisetin treatment significantly decreased P16+ and GLB1+ cells in neuronal nuclear protein (NEUN)+ neurons, glial fibrillary acidic protein (GFAP)+ astrocytes, and ionized calcium binding adaptor molecule 1 (IBA1)+ microglia cells in both gray and white matter of cerebral brain cortex. Fisetin treatment significantly decreased GLB1+ cells in microglia cells, astrocytes, and NEUN+ neurons in the non-CA area of the hippocampus. Fisetin treatment significantly decreased plasma S100B. At the mRNA level, fisetin significantly downregulated GLB1 in the liver, showed a decreasing trend in GLB1 in the lung, heart, and spleen tissues, and significantly decreased P21 expression in the liver and lung. Fisetin treatment significantly decreased TREM2 in the lung tissues and showed a trend of downregulation in the liver, spleen, and heart. A significant decrease in NRLP3 in the liver was observed after fisetin treatment. Finally, fisetin treatment significantly downregulated SOD1 in the liver and spleen while upregulating CAT in the spleen. In conclusion, we found that senescent cells were widely present in the cerebral brain cortex and cerebellum and non-CA area of the hippocampus of old sheep. Fisetin treatment significantly decreased senescent neurons, astrocytes, and microglia in both gray and white matter of the cerebral brain cortex and non-CA area of the hippocampus. In addition, fisetin treatment decreased senescent gene expressions and inflammasomes in other organs, such as the lung and the liver. Fisetin treatment represents a promising therapeutic strategy for age-related diseases.
+
+The Neuroprotective Effects of Flavonoid Fisetin against Corticosterone-Induced Cell Death through Modulation of ERK, p38, and PI3K/Akt/FOXO3a-Dependent Pathways in PC12 Cells
+
+Number of 
+
+Key takeaways:Fisetin, a flavonoid found in fruits and vegetables, effectively protects PC12 cells from corticosterone-induced cell death by modulating ERK, p38, and PI3K/Akt/FOXO3a-dependent pathways.
+
+Abstract:The overactive hypothalamic–pituitary–adrenal (HPA) axis is believed to trigger the overproduction of corticosterone, leading to neurotoxicity in the brain. Fisetin is a flavonoid commonly found in fruits and vegetables. It has been suggested to possess various biological activities, including antioxidant, anti-inflammatory, and neuroprotective effects. This study aims to explore the potential neuroprotective properties of fisetin against corticosterone-induced cell death and its underlying molecular mechanism in PC12 cells. Our results indicate that fisetin, at concentrations ranging from 5 to 40 μM, significantly protected PC12 cells against corticosterone-induced cell death. Fisetin effectively reduced the corticosterone-mediated generation of reactive oxygen species (ROS) in PC12 cells. Fisetin treatments also showed potential in inhibiting the corticosterone-induced apoptosis of PC12 cells. Moreover, inhibitors targeting MAPK/ERK kinase 1/2 (MEK1/2), p38 MAPK, and phosphatidylinositol 3-kinase (PI3K) were found to significantly block the increase in cell viability induced by fisetin in corticosterone-treated cells. Consistently, fisetin enhanced the phosphorylation levels of ERK, p38, Akt, and c-AMP response element-binding protein (CREB) in PC12 cells. Additionally, it was found that the diminished levels of p-CREB and p-ERK by corticosterone can be restored by fisetin treatment. Furthermore, the investigation of crosstalk between ERK and CREB revealed that p-CREB activation by fisetin occurred through the ERK-independent pathway. Moreover, we demonstrated that fisetin effectively counteracted the corticosterone-induced nuclear accumulation of FOXO3a, an apoptosis-triggering transcription factor, and concurrently promoted FOXO3a phosphorylation and its subsequent cytoplasmic localization through the PI3K/Akt pathway. In conclusion, our findings indicate that fisetin exerts its neuroprotective effect against corticosterone-induced cell death by modulating ERK, p38, and the PI3K/Akt/FOXO3a-dependent pathways in PC12 cells. Fisetin emerges as a promising phytochemical for neuroprotection.
+
+The Potential Role of Fisetin, a Flavonoid in Cancer Prevention and Treatment
+
+Number of 
+
+Key takeaways:Fisetin, a flavonoid found in fruits, vegetables, and seeds, shows potential in cancer prevention and treatment by modulating various cell signaling pathways.
+
+Abstract:Cancer is a main culprit and the second-leading cause of death worldwide. The current mode of treatment strategies including surgery with chemotherapy and radiation therapy may be effective, but cancer is still considered a major cause of death. Plant-derived products or their purified bioactive compounds have confirmed health-promoting effects as well as cancer-preventive effects. Among these products, flavonoids belong to polyphenols, chiefly found in fruits, vegetables and in various seeds/flowers. It has been considered to be an effective antioxidant, anti-inflammatory and to play a vital role in diseases management. Besides these activities, flavonoids have been revealed to possess anticancer potential through the modulation of various cell signaling molecules. In this regard, fisetin, a naturally occurring flavonoid, has a confirmed role in disease management through antioxidant, neuro-protective, anti-diabetic, hepato-protective and reno-protective potential. As well, its cancer-preventive effects have been confirmed via modulating various cell signaling pathways including inflammation, apoptosis, angiogenesis, growth factor, transcription factor and other cell signaling pathways. This review presents an overview of the anti-cancer potential of fisetin in different types of cancer through the modulation of cell signaling pathways based on in vivo and in vitro studies. A synergistic effect with anticancer drugs and strategies to improve the bioavailability are described. More clinical trials need to be performed to explore the anti-cancer potential and mechanism-of-action of fisetin and its optimum therapeutic dose.
+
+Fisetin, a Promising Anti-Cancer Flavonoid: A Brief Review of Its Biological Effects and Molecular Mechanisms in Lung Cancer Prevention and Therapy.
+
+Number of 
+
+Key takeaways:Fisetin shows potential in lung cancer prevention and therapy by modulating various signaling pathways, potentially reducing drug resistance and chemoprotective effects.
+
+Abstract:INTRODUCTION
+Experimental evidence has demonstrated that compounds of natural origin possess adjuvant anti-cancer properties, and their combination with anti-cancer drugs has the potential to reduce drug resistance in cancer treatment exhibiting chemoprotective effects.
+
+METHOD
+Fisetin (FIS), a flavonoid-structured polyphenolic compound found in various vegetables and fruits, is used as a yellow/ochre coloring agent and shows diverse pharmacological and biological effects. FIS can modulate various signaling pathways in relation to oxidative stress, inflammation, cell proliferation, metastasis, and angiogenesis. Thus, FIS is proposed to be a beneficial agent for preventing and treating numerous human malignancies. Awareness of natural compound action mechanisms paves the way for scientific communities, healthcare organizations, and the pharmaceutical industry to develop and introduce new drugs to treat diseases. In this paper, the general properties of FIS were highlighted first, and later, using the Scopus database, all related scientific literature regarding the studies that investigated the effects of FIS on lung cancer was collected.
+
+RESULTS
+The critical points were extracted from the research works, and possible effects and molecular mechanisms of FIS on cancer cells were reviewed, and a comprehensive discussion about the roles of this phytochemical on different signaling pathways that were very crucial in lung cancer cells was provided.
+
+CONCLUSION
+Finally, the current challenges and future perspectives of lung cancer prevention and therapy approaches using FIS were addressed.
+
+Dietary flavonoid fisetin for cancer prevention and treatment.
+
+Number of 
+
+Key takeaways:Dietary flavonoid fisetin shows potential in inhibiting cancer growth through altering cell cycle, inducing apoptosis, angiogenesis, invasion, and metastasis without causing toxicity to normal cells.
+
+Abstract:Cancer remains a major public health concern and a significant cause of death worldwide. Identification of bioactive molecules that have the potential to inhibit carcinogenesis continues to garner interest among the scientific community. In particular, flavonoids from dietary sources are the most sought after because of their safety, cost-effectiveness, and feasibility of oral administration. Emerging data have provided newer insights into understanding the molecular mechanisms that are essential to identify novel mechanism-based strategies for cancer prevention and treatment. Dietary flavonoid fisetin (3,3',4',7-tetrahydroxyflavone) found in many fruits and vegetables has been shown in preclinical studies to inhibit cancer growth through alteration of cell cycle, inducing apoptosis, angiogenesis, invasion, and metastasis without causing any toxicity to normal cells. Although data from in-vitro and in-vivo studies look convincing, well-designed clinical trials in humans are needed to conclusively determine the efficacy across various cancers. This review highlights the chemopreventive and therapeutic effects, molecular targets, and mechanisms that contribute to the observed anticancer activity of fisetin against various cancers.
+
+Fisetin: A bioactive phytochemical with potential for cancer prevention and pharmacotherapy
+
+Number of 
+
+Key takeaways:Fisetin shows potential for cancer prevention and management by blocking multiple signaling pathways associated with chronic diseases.
+
+Fisetin and Quercetin: Promising Flavonoids with Chemopreventive Potential
+
+Number of 
+
+Key takeaways:Fisetin and quercetin show promising chemopreventive potential by modulating cancer signaling pathways and influencing cancer initiation and progression.
+
+Abstract:Despite advancements in healthcare facilities for diagnosis and treatment, cancer remains the leading cause of death worldwide. As prevention is always better than cure, efficient strategies are needed in order to deal with the menace of cancer. The use of phytochemicals as adjuvant chemotherapeutic agents in heterogeneous human carcinomas like breast, colon, lung, ovary, and prostate cancers has shown an upward trend during the last decade or so. Flavonoids are well-known products of plant derivatives that are reportedly documented to be therapeutically active phytochemicals against many diseases encompassing malignancies, inflammatory disorders (cardiovascular disease, neurodegenerative disorder), and oxidative stress. The current review focuses on two key flavonols, fisetin and quercetin, known for their potential pharmacological relevance. Also, efforts have been made to bring together most of the concrete studies pertaining to the bioactive potential of fisetin and quercetin, especially in the modulation of a range of cancer signaling pathways. Further emphasis has also been made to highlight the molecular action of quercetin and fisetin so that one could explore cancer initiation pathways and progression, which could be helpful in designing effective treatment strategies.
+
+Fisetin, a Potent Anticancer Flavonol Exhibiting Cytotoxic Activity against Neoplastic Malignant Cells and Cancerous Conditions: A Scoping, Comprehensive Review
+
+Number of 
+
+Key takeaways:Fisetin, a flavonoid found in plants, shows potential as a complementary drug for preventing and treating various cancerous conditions.
+
+Abstract:Diet plays a crucial role in homeostasis maintenance. Plants and spices containing flavonoids have been widely used in traditional medicine for thousands of years. Flavonols present in our diet may prevent cancer initiation, promotion and progression by modulating important enzymes and receptors in signal transduction pathways related to proliferation, differentiation, apoptosis, inflammation, angiogenesis, metastasis and reversal of multidrug resistance. The anticancer activity of fisetin has been widely documented in numerous in vitro and in vivo studies. This review summarizes the worldwide, evidence-based research on the activity of fisetin toward various types of cancerous conditions, while describing the chemopreventive and therapeutic effects, molecular targets and mechanisms that contribute to the observed anticancer activity of fisetin. In addition, this review synthesized the results from preclinical studies on the use of fisetin as an anticancer agent. Based on the available literature, it might be suggested that fisetin has a bioactive potential to become a complementary drug in the prevention and treatment of cancerous conditions. However, more in-depth research is required to validate current data, so that this compound or its derivatives can enter the clinical trial phase.
+
+Cancer chemopreventive role of fisetin: Regulation of cell signaling pathways in different cancers.
+
+Number of 
+
+Key takeaways:Fisetin shows potential as a chemopreventive agent by regulating various oncogenic pathways and inhibiting cancer cell metastatic spread.
+
+Exploring the molecular targets of dietary flavonoid fisetin in cancer.
+
+Number of 
+
+Key takeaways:Fisetin, found in fruits and vegetables, shows potential anti-cancer properties, with potential molecular targets for developing a potent chemopreventive/chemotherapeutic agent against cancer.
+
+The flavonoid fisetin as an anticancer agent targeting the growth signaling pathways.
+
+Number of 
+
+Key takeaways:Fisetin, found in fruits and vegetables, shows promising anticancer effects by targeting growth signaling pathways and inhibiting cancer cell growth.
+
+Fisetin's Promising Antitumor Effects: Uncovering Mechanisms and Targeting for Future Therapies
+
+Number of 
+
+Key takeaways:Fisetin, found in strawberries, apples, and onions, shows promising anticancer properties through multiple mechanisms of action, and its potential synergistic effects with other anticancer drugs suggests potential for combination therapies.
+
+Abstract:Abstract Background  Cancer remains a critical global health challenge and a leading cause of mortality. Flavonoids found in fruits and vegetables have gained attention for their potential anti-cancer properties. Fisetin, abundantly present in strawberries, apples, onions, and other plant sources, has emerged as a promising candidate for cancer prevention. Epidemiological studies linking a diet rich in these foods to lower cancer risk have sparked extensive research on fisetin’s efficacy. Objective  This review aims to comprehensively explore the molecular mechanisms of fisetin's anticancer properties and investigate its potential synergistic effects with other anticancer drugs. Furthermore, the review examines the therapeutic and preventive effects of fisetin against various cancers. Methods  A systematic analysis of the available scientific literature was conducted, including research articles, clinical trials, and review papers related to fisetin’s anticancer properties. Reputable databases were searched, and selected studies were critically evaluated to extract essential information on fisetin’s mechanisms of action and its interactions with other anticancer drugs. Results  Preclinical trials have demonstrated that fisetin inhibits cancer cell growth through mechanisms such as cell cycle alteration, induction of apoptosis, and activation of the autophagy signaling pathway. Additionally, fisetin reduces reactive oxygen species levels, contributing to its overall anticancer potential. Investigation of its synergistic effects with other anticancer drugs suggests potential for combination therapies. Conclusion  Fisetin, a bioactive flavonoid abundant in fruits and vegetables, exhibits promising anticancer properties through multiple mechanisms of action. Preclinical trials provide a foundation for further exploration in human clinical trials. Understanding fisetin’s molecular mechanisms is vital for developing novel, safe, and effective cancer prevention and treatment strategies. The potential synergy with other anticancer drugs opens new avenues for combination therapies, enhancing cancer management approaches and global health outcomes.
+
+A comprehensive view on the fisetin impact on colorectal cancer in animal models: Focusing on cellular and molecular mechanisms
+
+Number of 
+
+Key takeaways:Fisetin induces colon cancer cell apoptosis through multiple mechanisms, making it a promising candidate for future colorectal cancer therapy development.
+
+Abstract:Flavonoids, including fisetin, have been linked to a reduced risk of colorectal cancer (CRC) and have potential therapeutic applications for the condition. Fisetin, a natural flavonoid found in various fruits and vegetables, has shown promise in managing CRC due to its diverse biological activities. It has been found to influence key cell signaling pathways related to inflammation, angiogenesis, apoptosis, and transcription factors. The results of this study demonstrate that fisetin induces colon cancer cell apoptosis through multiple mechanisms. It impacts the p53 pathway, leading to increased levels of p53 and decreased levels of murine double minute 2, contributing to apoptosis induction. Fisetin also triggers the release of important components in the apoptotic process, such as second mitochondria‐derived activator of caspase/direct inhibitor of apoptosis‐binding protein with low pI and cytochrome c. Furthermore, fisetin inhibits the cyclooxygenase‐2 and wingless‐related integration site (Wnt)/epidermal growth factor receptor/nuclear factor kappa B signaling pathways, reducing Wnt target gene expression and hindering colony formation. It achieves this by regulating the activities of cyclin‐dependent kinase 2 and cyclin‐dependent kinase 4, reducing retinoblastoma protein phosphorylation, decreasing cyclin E levels, and increasing p21 levels, ultimately influencing E2 promoter binding factor 1 and cell division cycle 2 (CDC2) protein levels. Additionally, fisetin exhibits various effects on CRC cells, including inhibiting the phosphorylation of Y‐box binding protein 1 and ribosomal S6 kinase, promoting the phosphorylation of extracellular signal‐regulated kinase 1/2, and disrupting the repair process of DNA double‐strand breaks. Moreover, fisetin serves as an adjunct therapy for the prevention and treatment of phosphatidylinositol‐4,5‐bisphosphate 3‐kinase catalytic subunit α (PIK3CA)‐mutant CRC, resulting in a reduction in phosphatidylinositol‐3 kinase (PI3K) expression, Ak strain transforming phosphorylation, mTOR activity, and downstream target proteins in CRC cells with a PIK3CA mutation. These findings highlight the multifaceted potential of fisetin in managing CRC and position it as a promising candidate for future therapy development.
+
+Kaempferol, Myricetin and Fisetin in Prostate and Bladder Cancer: A Systematic Review of the Literature
+
+Number of 
+
+Key takeaways:Kaempferol, fisetin, and myricetin show potential anti-cancer properties in prostate and bladder cancer, with low expected toxicity, warranting further clinical trials.
+
+Abstract:Prostate and bladder cancer represent the two most frequently diagnosed genito-urinary malignancies. Diet has been implicated in both prostate and bladder cancer. Given their prolonged latency and high prevalence rates, both prostate and bladder cancer represent attractive candidates for dietary preventive measures, including the use of nutritional supplements. Flavonols, a class of flavonoids, are commonly found in fruit and vegetables and are known for their protective effect against diabetes and cardiovascular diseases. Furthermore, a higher dietary intake of flavonols was associated with a lower risk of both bladder and prostate cancer in epidemiological studies. In this systematic review, we gathered all available evidence supporting the anti-cancer potential of selected flavonols (kaempferol, fisetin and myricetin) against bladder and prostate cancer. A total of 21, 15 and 7 pre-clinical articles on bladder or prostate cancer reporting on kaempferol, fisetin and myricetin, respectively, were found, while more limited evidence was available from animal models and epidemiological studies or clinical trials. In conclusion, the available evidence supports the potential use of these flavonols in prostate and bladder cancer, with a low expected toxicity, thus providing the rationale for clinical trials that explore dosing, settings for clinical use as well as their use in combination with other pharmacological and non-pharmacological interventions.
+
+Role of Fisetin in Selected Malignant Neoplasms in Women
+
+Number of 
+
+Key takeaways:Fisetin shows potential in reducing metastasis and cancer progression in women with breast, cervical, and ovarian cancers, but large-scale clinical trials are needed to confirm its chemotherapeutic efficacy.
+
+Abstract:A promising therapeutic window and cost-effectiveness are just two of the potential advantages of using naturally derived drugs. Fisetin (3,3′,4′,7-tetrahydroxyflavone) is a natural flavonoid of the flavonol group, commonly found in fruit and vegetables. In recent years, fisetin has gained wide attention across the scientific community because of its broad spectrum of pharmacological properties, including cytotoxic activity against most abundant cancers. By stimulating or inhibiting selected molecular targets or biochemical processes, fisetin could affect the reduction of metastasis or cancer progression, which indicates its chemotherapeutic or chemopreventive role. In this review, we have summarized the results of studies on the anticancer effects of fisetin on selected female malignancies, both in in vitro and in vivo tests, i.e., breast, cervical, and ovarian cancer, published over the past two decades. Until now, no article dedicated exclusively to the action of fisetin on female malignancies has appeared. This review also describes a growing number of nanodelivery systems designed to improve the bioavailability and solubility of this natural compound. The reported low toxicity and activity of fisetin on cancer cells indicate its valuable potential, but large-scale clinical trials are urgently needed to assess real chemotherapeutic efficacy of this flavonoid.
+
+Anti-cancer effects of fisetin on mammary carcinoma cells via regulation of the PI3K/Akt/mTOR pathway: In vitro and in vivo studies
+
+Number of 
+
+Key takeaways:Fisetin shows anti-mammary carcinoma effects by suppressing cell proliferation, metastasis, and invasiveness, and inducing apoptosis, but its low solubility and bioavailability limit its clinical value.
+
+Abstract:Fisetin, a natural flavonoid found in a variety of edible and medical plants, has been suggested to inhibit the proliferation of various tumor cells and to induce apoptosis. However, the effects of fisetin on breast cancer have rarely been reported and the underlying mechanism is still undefined. The present study explored the anti-cancer effects of fisetin on mammary carcinoma cells and the underlying mechanisms. Following treatment with fisetin, viability of 4T1, MCF-7 and MDA-MB-231 cells were measured by MTT assay. The inhibitory effects of fisetin on proliferation, migration and invasion were evaluated in 4T1 cells using proliferation array, wound-healing assay, and HUV-EC-C-cell barrier based on electrical cell-substrate impedance sensing platform. Cell apoptosis was analyzed by flow cytometry, and western blotting analysis was performed to identify target molecules. A 4T1 orthotopic mammary tumor model was used to assess the fisetin-inhibition on tumor growth in vivo. Test kits were used to examine the liver and kidney function of tumor-bearing mice. The results suggest that fisetin suppressed the proliferation of breast cancer cells, suppressed the metastasis and invasiveness of 4T1 cells, and induced the apoptosis of 4T1 cells in vitro. The potent anti-cancer effect of fisetin was associated with the regulation of the phosphatidylinositol-3-kinase/protein kinase B/mammalian target of rapamycin pathway. In vivo experiments demonstrated that fisetin suppressed the growth of 4T1 cell-derived orthotopic breast tumors and enhanced tumor cell apoptosis, and the evaluated alanine amino transferase and aspartate amino transferase levels in serum of tumor-bearing mice suggested that fisetin may lead to side effects on liver biochemical function. The present study confirms that fisetin exerted an anti-mammary carcinoma effect. However, in vivo experiments also revealed that fisetin had low solubility and low bioavailability. Further investigation is required to determine the clinical value of fisetin.
+
+Dietary flavonoid fisetin: a novel dual inhibitor of PI3K/Akt and mTOR for prostate cancer management.
+
+Number of 
+
+Key takeaways:Fisetin, found in fruits and vegetables, acts as a dual inhibitor of PI3K/Akt and mTOR pathways, suggesting it could be a useful chemotherapeutic agent for managing prostate and other cancers.
+
+Fisetin in Cancer: Attributes, Developmental Aspects, and Nanotherapeutics
+
+Number of 
+
+Key takeaways:Fisetin shows potential as an anticancer agent due to its antioxidant, anti-inflammatory, and antiangiogenic properties, but its poor bioavailability hinders its clinical utility.
+
+Abstract:Cancer is one of the major causes of mortality, globally. Cancerous cells invade normal cells and metastasize to distant sites with the help of the lymphatic system. There are several mechanisms involved in the development and progression of cancer. Several treatment strategies including the use of phytoconstituents have evolved and been practiced for better therapeutic outcomes against cancer. Fisetin is one such naturally derived flavone that offers numerous pharmacological benefits, i.e., antioxidant, anti-inflammatory, antiangiogenic, and anticancer properties. It inhibits the rapid growth, invasiveness, and metastasis of tumors by hindering the multiplication of cancer cells, and prompts apoptosis by avoiding cell division related to actuation of caspase-9 and caspase-8. However, its poor bioavailability associated with its extreme hydrophobicity hampers its clinical utility. The issues related to fisetin delivery can be addressed by adapting to the developmental aspects of nanomedicines, such as formulating it into lipid or polymer-based systems, including nanocochleates and liposomes. This review aims to provide in-depth information regarding fisetin as a potential candidate for anticancer therapy, its properties and various formulation strategies.
+
+Biological effects and mechanisms of fisetin in cancer: a promising anti-cancer agent
+
+Number of 
+
+Key takeaways:Fisetin shows promise as an anti-cancer agent due to its ability to suppress cell growth, trigger programmed cell death, reduce blood vessel formation, protect against oxidative stress, and enhance chemotherapy effectiveness.
+
+Abstract:Abstract Fisetin, a natural flavonoid, possesses numerous biological activities that have been extensively studied in various diseases. When it comes to cancer, fisetin exhibits a range of biological effects, such as suppressing cell growth, triggering programmed cell death, reducing the formation of new blood vessels, protecting against oxidative stress, and inhibiting cell migration. Moreover, fisetin has the ability to enhance the effectiveness of chemotherapy. The anticancer properties of fisetin can be attributed to a diverse array of molecules and signaling pathways, including vascular endothelial growth factor (VEGF), mitogen-activated protein kinase (MAPK), nuclear factor-kappa B (NF-κB), PI3K/Akt/mTOR, and Nrf2/HO-1. Consequently, fisetin holds promise as a therapeutic agent for anticancer treatment. In this review, we place emphasis on the biological functions and various molecular targets of fisetin in anticancer therapy.
+
+Abstract 18: Fisetin effectively inhibits cancer stem cell properties in pancreatic ductal adenocarcinoma
+
+Number of 
+
+Key takeaways:Fisetin effectively inhibits cancer stem cell properties in pancreatic ductal adenocarcinoma, reducing viability, colony formation, and migration, while downregulating NF-B signaling.
+
+Abstract:Cancer stem cells (CSCs) are crucial in the aggressiveness and chemoresistance of pancreatic ductal adenocarcinoma (PDAC). Targeting CSCs is essential for effective treatment and preventing relapse. Fisetin, a natural flavonoid, has demonstrated anticancer, anti-inflammatory, and antioxidant properties. This study investigates the anti-CSC effects of fisetin in PDAC.
+ 
+ 
+ 
+ CSCs were isolated from Panc-1 cells and explant cultures of PDAC tissue using fluorescence-activated cell sorting (FACS) with specific surface markers (CD44, CD24, CD133, CD326/ESA). The isolated CSCs were treated with various doses of fisetin for 24 and 48 hours, and the half-maximal inhibitory concentration (IC50) was determined using the MTT assay. The effects of fisetin on colony formation, cell cycle, apoptosis, migration, invasion , and sphere formation were evaluated. Additionally, the expression of epithelial-mesenchymal transition (EMT) markers and stemness markers was assessed at both gene and protein levels. The molecular mechanisms underlying the anti-CSC effects of fisetin were investigated through mRNA sequencing, followed by validation using ELISA.
+ 
+ 
+ 
+ Fisetin significantly reduced viability and colony formation of CSCs in a dose- and time-dependent manner. The apoptotic cells increased from 2.06% in untreated to 50.9% in fisetin-treated CSCs. This was further supported by enhanced expression of apoptosis markers Bid and Bcl-2 in fisetin-treated CSCs. Migration capacity was significantly reduced, with the wound closure area increasing from 1.18% to 29.5%. Fisetin also induced cell cycle arrest, with a notable increase in the percentage of cells in the G2 and S phases. The size of tumor spheroids was significantly reduced after treatment. Additionally, fisetin elevated the expression of the epithelial marker E-cadherin and reduced the level of the mesenchymal marker N-cadherin. The expression of transcription factors SOX2 and OCT4, which are associated with the maintenance of CSCs, was decreased. Reactive oxygen species (ROS) levels in CSCs were significantly reduced. Fisetin treatment led to the downregulation of genes involved in inflammatory signalling pathways, including BCL2A1 (NF-κB target gene), CXCL1, CXCL8, CX3CL1, and CCL2. KEGG pathway analysis showed that the NF-κB and cytokine-cytokine receptor signalling pathways were significantly downregulated following fisetin treatment. ELISA further confirmed the significant downregulation of NF-κB p65 signaling (p = 0.013) in fisetin-treated CSCs.
+ 
+ 
+ 
+ Fisetin effectively targets and inhibits CSCs in PDAC, modulating key markers of epithelial-mesenchymal transition and stemness, while downregulating NF-κB signaling. These results support the need for further validation in in vivo models.
+ 
+ 
+ 
+ Anjali Aggarwal, Vinit Sharma, Rajesh Gupta, Mayank Sharma, Ankita Semwal. Fisetin effectively inhibits cancer stem cell properties in pancreatic ductal adenocarcinoma . In: Proceedings of the American Association for Cancer Research Annual Meeting 2025; Part 1 (Regular Abstracts); 2025 Apr 25-30; Chicago, IL. Philadelphia (PA): AACR; Cancer Res 2025;85(8_Suppl_1):Abstract nr 18.
+
+Effect of fisetin supplementation on inflammatory factors and matrix metalloproteinase enzymes in colorectal cancer patients.
+
+Number of 
+
+Key takeaways:Fisetin supplementation may improve inflammatory status and suppress MMP-7 levels in colorectal cancer patients, suggesting it as a potential complementary antitumor agent.
+
+Abstract:A growing body of evidence indicates that inflammation is associated with tumorigenesis, metastasis and chemotherapeutic resistance in patients with colorectal cancer (CRC). Natural flavonoids are promising agents for inflammation-related tumor progression in patients with CRC. This study aimed to assess the efficacy of flavonoid fisetin supplementation on the inflammatory status and matrix metalloproteinase (MMP) levels in these patients. In this double-blind, randomized placebo-controlled clinical trial, 37 CRC patients undergoing chemotherapy were assigned to receive either 100 mg fisetin (n = 18) or placebo (n = 19) for seven consecutive weeks. The supplementation began one week before chemotherapy and continued until the end of the second chemotherapy cycle. Levels of interleukin (IL)-8, IL-10, high-sensitivity C-reactive protein (hs-CRP), MMP-7, and MMP-9 were measured in plasma using ELISA, before and after the intervention. The trial was registered at (code: IRCT2015110511288N9). The participants were 55.59 ± 15.46 years old with 62.16% being male. After the intervention, the plasma levels of IL-8 and hs-CRP reduced significantly in the fisetin group (p < 0.04 and p < 0.01, respectively). Additionally, fisetin supplementation suppressed the values of MMP-7 levels (p < 0.02). However, significant changes were observed only in IL-8 concentrations in the fisetin group when compared with the placebo group (p < 0.03). The changes in the levels of other metabolic factors were not statistically significant. According to the results, fisetin could improve the inflammatory status in CRC patients, suggesting it as a novel complementary antitumor agent for these patients and warranting further studies.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

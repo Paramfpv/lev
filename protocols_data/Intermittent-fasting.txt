@@ -1,0 +1,558 @@
+PROTOCOL: Intermittent fasting
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Abstract:The objective of this review is to provide an overview of intermittent fasting regimens, summarize the evidence on the health benefits of intermittent fasting, and discuss physiological mechanisms by which intermittent fasting might lead to improved health outcomes. A MEDLINE search was performed using PubMed and the terms 'intermittent fasting,' 'fasting,' 'time-restricted feeding,' and 'food timing.' Modified fasting regimens appear to promote weight loss and may improve metabolic health. Several lines of evidence also support the hypothesis that eating patterns that reduce or eliminate nighttime eating and prolong nightly fasting intervals may result in sustained improvements in human health. Intermittent fasting regimens are hypothesized to influence metabolic regulation via effects on (a) circadian biology, (b) the gut microbiome, and (c) modifiable lifestyle behaviors, such as sleep. If proven to be efficacious, these eating regimens offer promising nonpharmacological approaches to improving health at the population level, with multiple public health benefits.
+DESCRIPTION: Intermittent fasting (IF) is a dietary strategy that alternates periods of fasting with periods of eating. IF can support weight loss, improve lipid profiles, regulate glycemia, and reduce blood pressure. The greatest benefits are observed in individuals with overweight, obesity, and metabolic disorders.
+
+CONTENT SECTIONS:
+
+Weight loss, improved metabolism, and cardiovascular support
+
+Intermittent fasting (IF) is a dietary strategy that alternates periods of fasting with periods of eating. IF can support weight loss, improve lipid profiles, regulate glycemia, and reduce blood pressure. The greatest benefits are observed in individuals with overweight, obesity, and metabolic disorders.
+
+Level of evidence:Good
+
+Intermittent fasting activates adaptive metabolic mechanisms such as autophagy and circadian rhythm regulation, promoting improved metabolic health. IF enhances insulin sensitivity, reduces fat mass, lowers blood glucose and insulin levels, and supports beneficial changes in gut microbiota. It may also reduce inflammation and support cardiovascular function.
+
+Intermittent fasting is generally well tolerated by adults, especially those with overweight and metabolic disorders. Most side effects are mild and transient, though some adverse symptoms may occur in specific groups.
+
+Intermittent fasting is not recommended for certain groups and health conditions. It is advisable to consult a doctor before starting IF, especially in the presence of chronic diseases.
+
+The most popular protocols are 16/8 (16 hours fasting, 8-hour eating window), 18/6, 5:2 (two days of significantly reduced caloric intake per week), alternate-day fasting.
+
+IF can be practiced as time-restricted eating, full-day fasts, alternate-day fasting, or 5:2 schemes.
+
+Initial effects on weight loss and metabolic parameters are typically seen after 2–4 weeks; full benefits stabilize after several months.
+
+The eating window should align with one’s circadian rhythm; most people benefit from daytime eating (e.g., 12:00–20:00).
+
+The best results come from combining IF with physical activity (especially resistance or interval training) and a minimally processed diet.
+
+It is not advisable to combine IF with very low-calorie or detox diets.
+
+Gradual introduction of fasting
+
+Start by gradually shortening the eating window (e.g., from 12 to 10, then 8 hours) to avoid excessive hunger and discomfort.
+
+Hydration during fasting
+
+Drink water during fasting hours; herbal teas and black coffee are also allowed – beverages should not contain calories.
+
+Diet quality during eating window
+
+Choose minimally processed foods rich in fiber, protein, and healthy fats during the eating window – this reduces hunger and yo-yo effect risk.
+
+Monitoring effects and adjusting protocol
+
+Listen to your body and adjust the IF schedule to your lifestyle – not everyone tolerates the same fasting windows equally.
+
+Avoid excessive calorie restriction
+
+Do not drastically reduce calories outside fasting hours – this increases the risk of deficiencies and rebound effects.
+
+Monitor health status
+
+For chronic conditions or medication use, regular monitoring of health parameters and medical supervision is recommended.
+
+Intermittent fasting supports metabolism through improved glycemic control, insulin sensitivity, weight loss, and favorable lipid profile changes. Effects vary based on baseline health status, fasting type, and individual characteristics.
+
+Key metabolic benefits
+
+Limitations and individual differences
+
+Intermittent fasting effectively supports improvements in body composition – reducing weight and fat mass while preserving lean body mass. Strongest effects occur in people with overweight and obesity.
+
+Key effects of IF on body composition
+
+Additional observations
+
+Cardiovascular system
+
+Intermittent fasting may positively affect cardiovascular risk factors such as body weight, blood pressure, lipid profile, and inflammation, though superiority over other diets is not clearly established.
+
+Key benefits for cardiovascular health
+
+Mechanisms and limitations
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:51
+
+Final comment:Most of the evidence on intermittent fasting comes from randomized controlled trials as well as meta-analyses and systematic reviews conducted in humans. These studies consistently show that IF leads to moderate weight loss, improvement in metabolic parameters (glycemia, lipid profile, insulin resistance), and cardiovascular risk factors, especially in people with overweight, obesity, or metabolic syndrome. The results are reproducible and demonstrate benefits of IF compared to standard calorie restriction, although not always showing superiority over other weight loss strategies in the long term. There is still a lack of large, long-term studies evaluating hard endpoints such as mortality or cardiovascular events, but the overall quality and quantity of evidence warrant classifying IF as 'good'.
+
+Metabolic Effects of Intermittent Fasting.
+
+Number of 
+
+Key takeaways:Intermittent fasting regimens may promote weight loss and improve metabolic health, potentially through effects on circadian biology, gut microbiome, and modifiable lifestyle behaviors like sleep.
+
+Abstract:The objective of this review is to provide an overview of intermittent fasting regimens, summarize the evidence on the health benefits of intermittent fasting, and discuss physiological mechanisms by which intermittent fasting might lead to improved health outcomes. A MEDLINE search was performed using PubMed and the terms 'intermittent fasting,' 'fasting,' 'time-restricted feeding,' and 'food timing.' Modified fasting regimens appear to promote weight loss and may improve metabolic health. Several lines of evidence also support the hypothesis that eating patterns that reduce or eliminate nighttime eating and prolong nightly fasting intervals may result in sustained improvements in human health. Intermittent fasting regimens are hypothesized to influence metabolic regulation via effects on (a) circadian biology, (b) the gut microbiome, and (c) modifiable lifestyle behaviors, such as sleep. If proven to be efficacious, these eating regimens offer promising nonpharmacological approaches to improving health at the population level, with multiple public health benefits.
+
+Intermittent Fasting and Metabolic Health
+
+Number of 
+
+Key takeaways:Intermittent fasting can lead to weight loss and improved metabolic health, making it a potential option for individuals experiencing unhealthy weight gain through standard eating patterns.
+
+Abstract:Given the ongoing strain that the obesity epidemic has placed on public health outcomes, new and effective approaches to weight control are needed. One approach to improving weight and metabolic outcomes is intermittent fasting, which consists of multiple different timing schedules for temporary food avoidance, including alternate-day fasting, other similar full-day fasting patterns, and time-restricted feeding (where the day’s food is consumed over a 6-h period, allowing for 18 h of fasting). These feeding schedules have favorable metabolic effects by intermittently inducing the metabolism of fatty acids to ketones. The regimens overall lead to a decrease in weight and have been linked to improvements in dyslipidemia and blood pressure. While more research is needed on longer-term outcomes and this approach should be avoided in particular health conditions, intermittent fasting should be considered as an option for individuals who have a pattern of unhealthy weight gain using standard eating patterns.
+
+Effects of intermittent fasting on glucose and lipid metabolism
+
+Number of 
+
+Key takeaways:Intermittent fasting shows potential benefits on glucose and lipid metabolism in the short-to-medium term, but more long-term safety studies are needed.
+
+Abstract:Two intermittent fasting variants, intermittent energy restriction (IER) and time-restricted feeding (TRF), have received considerable interest as strategies for weight-management and/or improving metabolic health. With these strategies, the pattern of energy restriction and/or timing of food intake are altered so that individuals undergo frequently repeated periods of fasting. This review provides a commentary on the rodent and human literature, specifically focusing on the effects of IER and TRF on glucose and lipid metabolism. For IER, there is a growing evidence demonstrating its benefits on glucose and lipid homeostasis in the short-to-medium term; however, more long-term safety studies are required. Whilst the metabolic benefits of TRF appear quite profound in rodents, findings from the few human studies have been mixed. There is some suggestion that the metabolic changes elicited by these approaches can occur in the absence of energy restriction, and in the context of IER, may be distinct from those observed following similar weight-loss achieved via modest continuous energy restriction. Mechanistically, the frequently repeated prolonged fasting intervals may favour preferential reduction of ectopic fat, beneficially modulate aspects of adipose tissue physiology/morphology, and may also impinge on circadian clock regulation. However, mechanistic evidence is largely limited to findings from rodent studies, thus necessitating focused human studies, which also incorporate more dynamic assessments of glucose and lipid metabolism. Ultimately, much remains to be learned about intermittent fasting (in its various forms); however, the findings to date serve to highlight promising avenues for future research.
+
+Intermittent Fasting and Metabolic Health: From Religious Fast to Time‐Restricted Feeding
+
+Number of 
+
+Key takeaways:Intermittent fasting can lead to weight loss and improved metabolic health, but no specific fasting regimen is currently superior; future studies should tailor dietary prescriptions based on individual responses.
+
+Abstract:Over the past 10 to 15 years, intermittent fasting has emerged as an unconventional approach to reduce body weight and improve metabolic health beyond simple calorie restriction. In this review, we summarize findings related to Ramadan and Sunnah fasting. We then discuss the role of caloric restriction not only as an intervention for weight control, but importantly, as a strategy for healthy aging and longevity. Finally, we review the four most common intermittent fasting (IF) strategies used to date for weight management and to improve cardiometabolic health. Weight loss is common after IF but does not appear to be different than daily caloric restriction when compared directly. IF may also provide additional cardiometabolic benefit, such as insulin sensitization, that is independent from weight loss. While no specific fasting regimen stands out as superior at this time, there is indeed heterogeneity in responses to these different IF diets. This suggests that one dietary regimen may not be ideally suited for every individual. Future studies should consider strategies for tailoring dietary prescriptions, including IF, based on advanced phenotyping and genotyping prior to diet initiation.
+
+The Effectiveness of Intermittent Fasting to Reduce Body Mass Index and Glucose Metabolism: A Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:Intermittent fasting can significantly reduce body mass index, improve glycemic control, and insulin resistance, and positively affect adipokine levels in adults without diabetes.
+
+Abstract:The effects of an intermittent fasting diet (IFD) in the general population are still controversial. In this study, we aimed to systematically evaluate the effectiveness of an IFD to reduce body mass index and glucose metabolism in the general population without diabetes mellitus. Cochrane, PubMed, and Embase databases were searched to identify randomized controlled trials and controlled clinical trials that compared an IFD with a regular diet or a continuous calorie restriction diet. The effectiveness of an IFD was estimated by the weighted mean difference (WMD) for several variables associated with glucometabolic parameters including body mass index (BMI) and fasting glucose. The pooled mean differences of outcomes were calculated using a random effects model. From 2814 studies identified through a literature search, we finally selected 12 articles (545 participants). Compared with a control diet, an IFD was associated with a significant decline in BMI (WMD, −0.75 kg/m2; 95% CI, −1.44 to −0.06), fasting glucose level (WMD, −4.16 mg/dL; 95% CI, −6.92 to −1.40), and homeostatic model assessment of insulin resistance (WMD, −0.54; 95% CI, −1.05 to −0.03). Fat mass (WMD, −0.98 kg; 95% CI, −2.32 to 0.36) tended to decrease in the IFD group with a significant increase in adiponectin (WMD, 1008.9 ng/mL; 95% CI, 140.5 to 1877.3) and a decrease in leptin (WMD, −0.51 ng/mL; 95% CI, −0.77 to −0.24) levels. An IFD may provide a significant metabolic benefit by improving glycemic control, insulin resistance, and adipokine concentration with a reduction of BMI in adults.
+
+Intermittent fasting promotes adipose thermogenesis and metabolic homeostasis via VEGF-mediated alternative activation of macrophage
+
+Number of 
+
+Key takeaways:Intermittent fasting improves metabolic homeostasis and prevents obesity and metabolic disorders by promoting adipose thermogenesis and VEGF-mediated alternative activation of macrophages.
+
+Impact of intermittent fasting on health and disease processes
+
+Number of 
+
+Key takeaways:Intermittent fasting can improve health and counteract age-related disorders, including diabetes, cardiovascular disease, cancers, and neurological disorders.
+
+Effects of Intermittent Fasting on Regulation of Metabolic Homeostasis: A Systematic Review and Meta-Analysis in Health and Metabolic-Related Disorders
+
+Number of 
+
+Key takeaways:Alternate-Day Fasting (ADF) protocols show the most beneficial effects on improving metabolic conditions, particularly for obese and metabolic syndrome individuals.
+
+Abstract:Intermittent fasting (IF) is an emerging dietetic intervention that has been associated with improved metabolic parameters. Nowadays, the most common IF protocols are Alternate-Day Fasting (ADF) and Time-Restricted Fasting (TRF), but in this review and meta-analysis we have also considered Religious Fasting (RF), which is similar to TRF but against the circadian rhythm. The available studies usually include the analysis of a single specific IF protocol on different metabolic outcomes. Herein, we decided to go further and to conduct a systematic review and meta-analysis on the advantages of different IF protocols for metabolic homeostasis in individuals with different metabolic status, such as with obesity, diabetes mellitus type 2 (T2D) and metabolic syndrome (MetS). Systematic searches (PubMed, Scopus, Trip Database, Web of Knowledge and Embase, published before June 2022) of original articles in peer-review scientific journals focusing on IF and body composition outcomes were performed. Sixty-four reports met the eligibility criteria for the qualitative analysis and forty-seven for the quantitative analysis. Herein, we showed that ADF protocols promoted the major beneficial effects in the improvement of dysregulated metabolic conditions in comparison with TRF and RF protocols. Furthermore, obese and MetS individuals are the most benefited with the introduction of these interventions, through the improvement of adiposity, lipid homeostasis and blood pressure. For T2D individuals, IF impact was more limited, but associated with their major metabolic dysfunctions—insulin homeostasis. Importantly, through the integrated analysis of distinct metabolic-related diseases, we showed that IF seems to differently impact metabolic homeostasis depending on an individual’s basal health status and type of metabolic disease.
+
+Effects of Intermittent Fasting on Health, Aging, and Disease.
+
+Number of 
+
+Key takeaways:Intermittent fasting improves mental and physical performance, increases disease resistance, and may slow or reverse aging and disease processes.
+
+Abstract:brain diseases. Periodic flipping of the metabolic switch not only provides the ketones that are necessary to fuel cells during the fasting period but also elicits highly orchestrated systemic and cellular responses that carry over into the fed state to bolster mental and physical performance, as well as disease resistance. Here, we review studies in animals and humans that have shown how intermittent fasting affects general health indicators and slows or reverses aging and disease processes. First, we describe the most commonly studied intermittent-fasting regimens and the metabolic and cellular responses to intermittent fasting. We then present and discuss findings from preclinical studies and more recent clinical studies that tested intermittent-fasting regimens in healthy persons and in of fibroblast growth factor 21 (FGF21), a protein with widespread effects on cells throughout the body and brain. β-HB and acetoacetate are actively transported into cells where they can be metabolized to acetyl CoA, which enters the tricarboxylic acid (TCA) cycle and generates ATP. β-HB also has signaling functions, including the activation of transcription factors such as cyclic AMP response element–binding protein (CREB) and nuclear factor κB (NF-κB) and the expression of brain-derived neurotrophic factor (BDNF) in neurons. Reduced levels of glucose and amino acids during fasting result in reduced activity of the mTOR pathway and up-regulation of autophagy. In addition, energy restriction stimulates mitochondrial biogenesis and mitochondrial uncoupling. signaling and overall protein synthesis. Exercise enhances these effects of fasting. On recovery from fasting (eating and sleeping), glucose levels increase, ketone levels plum-met, and cells increase protein synthesis, undergoing growth and repair. Maintenance of an intermittent-fasting reg- imen, particularly when combined with regular exercise, results in many long-term adaptations that improve mental and physical performance and increase disease resistance. HRV denotes heart-rate variability. medical school training in disease prevention, students could learn the basics of how intermittent fasting affects metabolism and how cells and organs respond adaptively to intermittent fasting, the major indications for intermittent fasting (obesity, diabetes, cardiovascular disease, and cancers), and how to implement intermittent-fasting prescriptions to maximize long-term benefits. Physicians can incorporate intermittent-fasting prescriptions for early intervention in patients with a range of chronic conditions or at risk for such conditions, particularly those conditions associated with overeating and a sedentary lifestyle. One can envision inpatient and outpatient facilities staffed by experts in diet, nutrition, exercise, and psychology that will help patients make the transition to sustain-able intermittent-fasting and exercise regimens (covered by basic health insurance policies). As an example of a spe- cific prescription, the patient could choose either a daily time-restricted feeding regimen (an 18-hour fasting period and a 6-hour eating period) or the 5:2 intermittent-fasting regimen (fasting 2 days per week), with a 4-month transition period to accomplish the goal. To facilitate adherence to the prescription, the phy- sician’s staff should be in frequent contact with the patient during the 4-month period and should closely monitor the patient’s body weight and glucose and ketone levels.
+
+Intermittent fasting influences immunity and metabolism
+
+Number of 
+
+Key takeaways:Intermittent fasting can lower metabolic inflammation and improve glucose metabolism without lowering obesity, influencing immune and metabolic responses differently than classic caloric restriction strategies.
+
+Effects of Intermittent Fasting on Cardiometabolic Health: An Energy Metabolism Perspective
+
+Number of 
+
+Key takeaways:Intermittent fasting improves body composition, ectopic fat, and cardiometabolic risk factors, but its additional benefits compared to continuous daily caloric restriction remain unclear.
+
+Abstract:This review summarizes the effects of different types of intermittent fasting (IF) on human cardiometabolic health, with a focus on energy metabolism. First, we discuss the coordinated metabolic adaptations (energy expenditure, hormonal changes and macronutrient oxidation) occurring during a 72 h fast. We then discuss studies investigating the effects of IF on cardiometabolic health, energy expenditure and substrate oxidation. Finally, we discuss how IF may be optimized by combining it with exercise. In general, IF regimens improve body composition, ectopic fat, and classic cardiometabolic risk factors, as compared to unrestricted eating, especially in metabolically unhealthy participants. However, it is still unclear whether IF provides additional cardiometabolic benefits as compared to continuous daily caloric restriction (CR). Most studies found no additional benefits, yet some preliminary data suggest that IF regimens may provide cardiometabolic benefits in the absence of weight loss. Finally, although IF and continuous daily CR appear to induce similar changes in energy expenditure, IF regimens may differentially affect substrate oxidation, increasing protein and fat oxidation. Future tightly controlled studies are needed to unravel the underlying mechanisms of IF and its role in cardiometabolic health and energy metabolism.
+
+Intermittent Fasting and 'Metabolic Switch': Effects on Metabolic Syndrome, Pre-diabetes and Type 2 Diabetes Mellitus.
+
+Number of 
+
+Key takeaways:Intermittent fasting regimens show similar effectiveness to calorie restriction for weight loss and glycemic improvement in individuals with metabolic syndrome, pre-diabetes, and type 2 diabetes mellitus, but long-term adherence and sustainability require further study.
+
+Abstract:Various intermittent fasting (IF) dietary plans have gained popularity among obese individuals in recent years as a means of achieving weight loss. Yet, studies evaluating the effect of IF regimens in people with metabolic syndrome, pre-diabetes and type 2 diabetes mellitus (T2DM) are limited. The aim of the present review is to briefly elucidate the biochemical and physiological mechanisms underlying the positive effects of IF, especially the effect of the proposed 'metabolic switch' on metabolism. Then, we will examine the efficacy and safety of IF regimens in individuals with metabolic syndrome, pre-diabetes, and T2DM. For this, we performed a MEDLINE PubMed search using the combination of various terminology of IF and included trials in which participants met the additional criteria for either metabolic syndrome, pre-diabetes or T2DM. We found four studies in individuals with metabolic syndrome, one study in persons with pre-diabetes, and eight studies in people with T2DM evaluating the effects of different IF regimens. The limited available evidence with small sample sizes and short duration, suggests that IF regimens have similar effectiveness compared to calorie restriction (CR) diets for weight loss and improvement in glycemic parameters. In general, most IF regimens are effective and safe. However, there is increased risk of hypoglycemia in patients with T2DM who are treated with insulin or sulfonylureas. Moreover, the long-term adherence to these regimens appears uncertain. There is a need for large controlled randomized trials to evaluate the efficacy of IF regimens especially in individuals with metabolic syndrome and pre-diabetes. If proven to be sustainable and efficacious for prolonged periods, IF could offer a promising approach to improving health at the population level, and would result in multiple public health benefits.
+
+Intermittent Fasting and Its Effects on Weight, Glycemia, Lipids, and Blood Pressure: A Narrative Review
+
+Number of 
+
+Key takeaways:Intermittent fasting can lead to mixed effects on weight management, with time-restricted eating and alternate-day fasting showing consistent BMI reduction, while intermittent energy restriction shows uncertain results.
+
+Abstract:Metabolic syndrome (MetS) has become a significant public health concern globally. Weight managementis crucial in controlling MetS risk factors, making energy balance and weight loss strategies important in nutrition recommendations. Intermittent fasting (IF) has gained traction as a dietary approach for weight management and cardiovascular risk reduction. However, the effects of IF on cardiovascular risk factors have been inconsistent in previous studies. This review aims to summarize the effects of various types of IF on body mass index (BMI), glycemia, lipid profile, and blood pressure, while providing insights into their clinical implications. A comprehensive search of interventional studies and meta-analyses was conducted, and the results were analyzed. The findings indicate that different types of IF lead to mixed effects. Time-restricted eating (TRE) and alternate-day fasting (ADF) consistently showed decreases in BMI, while the outcomes of intermittent energy restriction (IER) were more uncertain. The effects of IF on glycemia and lipid profile were also variable, with TRE and ADF generally showing positive results. However, the impact of IER remained inconsistent. More research is needed to understand the long-term effects and optimal implementation of IF for managing metabolic syndrome and cardiovascular risk factors.
+
+Metabolic impact of intermittent fasting in patients with type 2 diabetes mellitus: a systematic review and meta-analysis of interventional studies.
+
+Number of 
+
+Key takeaways:Intermittent fasting leads to greater weight loss in type 2 diabetes patients compared to standard diets, with similar effects on glycemic control.
+
+Abstract:CONTEXT
+Intermittent fasting (IF) has been proposed as a weight-loss strategy with additional cardio-metabolic benefits in individuals with obesity. Despite its growing popularity, the effect of IF in patients with type 2 diabetes (T2DM) remains unclear.
+
+OBJECTIVE
+We conducted a systematic review and meta-analysis to evaluate the metabolic impact of IF as compared to standard diet in patients with T2DM.
+
+DATA SOURCES
+Embase, PubMed, and clinicaltrials.gov between 1950 and August-12-2020.
+
+STUDY SELECTION
+Randomized, diet-controlled studies evaluating any IF intervention in adults with T2DM.
+
+DATA EXTRACTION
+We examined the impact of IF on weight loss and glucose-lowering by calculating pooled estimates of the absolute differences in bodyweight and glycated hemoglobin (HbA1c) as compared to control group using random-effects model.
+
+DATA SYNTHESIS
+Seven studies (n=338 participants; mean BMI 35.65kg/m 2, mean baseline HbA1c of 8.8%) met our inclusion criteria. IF induced greater decrease in bodyweight by -1.89kg (95%CI -2.91 to -0.86 kg) as compared to regular diet, with no significant between-study heterogeneity (I 221.0%, P=0.28). The additional weight loss induced by IF was greater in studies with heavier population (BMI >36kg/m 2) and in studies of shorter duration (≤ 4 months) . IF was not associated with further reduction in HbA1c as compared to standard diet .
+
+CONCLUSIONS
+Current evidence suggests that IF is associated with greater weight loss in patients with T2DM as compared with standard diet, with similar impact on glycemic control.
+
+Effectiveness of an intermittent fasting diet versus regular diet on fat loss in overweight and obese middle-aged and olderly people without metabolic disease: a systematic review and meta-analysis of randomized controlled trials.
+
+Number of 
+
+Key takeaways:Intermittent fasting can effectively reduce body weight, BMI, fat mass, and TG in adults aged over 40 with obesity without metabolic disease, without significantly decreasing lean body mass.
+
+Effects of Intermittent Fasting on the Circulating Levels and Circadian Rhythms of Hormones
+
+Number of 
+
+Key takeaways:Intermittent fasting may alter hormone levels and circadian rhythms, posing potential health risks and requiring careful consideration of potential side effects versus benefits.
+
+Abstract:Intermittent fasting has become an increasingly popular strategy in losing weight and associated reduction in obesity-related medical complications. Overwhelming studies support metabolic improvements from intermittent fasting in blood glucose levels, cardiac and brain function, and other health benefits, in addition to weight loss. However, concerns have also been raised on side effects including muscle loss, ketosis, and electrolyte imbalance. Of particular concern, the effect of intermittent fasting on hormonal circadian rhythms has received little attention. Given the known importance of circadian hormonal changes to normal physiology, potential detrimental effects by dysregulation of hormonal changes deserve careful discussions. In this review, we describe the changes in circadian rhythms of hormones caused by intermittent fasting. We covered major hormones commonly pathophysiologically involved in clinical endocrinology, including insulin, thyroid hormones, and glucocorticoids. Given that intermittent fasting could alter both the level and frequency of hormone secretion, decisions on practicing intermittent fasting should take more considerations on potential detrimental consequences versus beneficial effects pertaining to individual health conditions.
+
+Intermittent Fasting Improves Cardiometabolic Risk Factors and Alters Gut Microbiota in Metabolic Syndrome Patients.
+
+Number of 
+
+Key takeaways:Intermittent fasting improves cardiometabolic risk factors and alters gut microbiota, leading to a reduction in cardiovascular risk factors in metabolic syndrome patients.
+
+Abstract:CONTEXT
+Intermittent fasting (IF) is an effective strategy to the improvement of cardiometabolic health.
+
+OBJECTIVE
+To examine the effects of IF on cardiometabolic risk factors and the gut microbiota in patients with metabolic syndrome (MS).
+
+DESIGN
+Randomized clinical trial.
+
+SETTING
+Community Health Service Center.
+
+PATIENTS
+Adults with MS, 30-50 years of age.
+
+INTERVENTION
+8 weeks of 'two-day' modified IF.
+
+MAIN OUTCOME MEASURE
+Cardiometabolic risk factors including body composition, oxidative stress, inflammatory cytokines, and endothelial function were assessed at baseline and 8 weeks. The diversity, composition, and functional pathways of the gut microbiota, as well as circulating gut-derived metabolites were also measured.
+
+RESULTS
+39 patients with MS were included: 21 in the IF group and 18 in the control group. On fasting days, participants in the IF group reduced 69% of the calorie intake compared to nonfasting days. The 8-week IF significantly reduced fat mass, ameliorated oxidative stress, modulated inflammatory cytokines, and improved the vasodilatory parameters. Furthermore, IF induced significant changes in gut microbiota communities, increased the production of short-chain fatty acids (SCFAs), and decreased the circulating levels of lipopolysaccharides (LPS). Gut microbiota alteration attributed to the IF was significantly associated with cardiovascular risk factors and resulted in distinct genetic shifts of carbohydrate metabolism in the gut community.
+
+CONCLUSION
+IF induces a significant alteration of the gut microbial community and functional pathways in a manner, which is closely associated with the mitigation of cardiometabolic risk factors. The study provides potential mechanistic insights into the prevention of adverse outcomes associated with MS.
+
+Effects of Intermittent Fasting on Brain Metabolism
+
+Number of 
+
+Key takeaways:Intermittent fasting enhances brain metabolism, cellular stress resistance, synaptic plasticity, and neurogenesis, but more research is needed for widespread clinical use.
+
+Abstract:We are facing an obesity epidemic, and obesity itself and its close companion, type 2 diabetes, are independent risk factors for neurodegeneration. While most medical treatments fail to induce a clinically meaningful improvement in neurodegenerative disorders, lifestyle interventions have emerged in the spotlight. A recently rediscovered approach is intermittent fasting (IF), which, compared to the classic caloric restriction regimens, limits only the time of eating, rather than the number of calories allowed per day. There is already a large amount of evidence from preclinical and clinical studies showing the beneficial effects of IF. In this review, we specifically focus on the effects of IF on brain metabolism. Key molecular players modified during IF and involved in its beneficial central effects (ketone bodies, BDNF, GABA, GH/IGF-1, FGF2, sirtuin-3, mTOR, and gut microbiota) are identified and discussed. Studies suggest that IF induces several molecular and cellular adaptations in neurons, which, overall, enhance cellular stress resistance, synaptic plasticity, and neurogenesis. Still, the absence of guidelines regarding the application of IF to patients hampers its broad utilization in clinical practice, and further studies are needed to improve our knowledge on the different IF protocols and long-term effects of IF on brain metabolism before it can be widely prescribed.
+
+Repercussions of intermittent fasting on the intestinal microbiota community and body composition: a systematic review.
+
+Number of 
+
+Key takeaways:Intermittent fasting protocols, such as alternate-day fasting and time-restricted feeding, positively impact intestinal microbiota remodeling and may help control body fat and improve insulin sensitivity.
+
+Abstract:CONTEXT
+Several therapies have been tested for combating weight gain and obesity-related metabolic diseases, and among these therapies, intermittent fasting (IF) has gained a great deal of interest.
+
+OBJECTIVE
+The aim of this study was to provide the reader with a current survey of IF protocols and an understanding of the outcomes found to date in terms of the profile of the intestinal microbiota (IM) in obese organisms.
+
+DATA SOURCES
+Data were obtained from 4 databases: PubMed, SCOPUS, LILACs, and Web of Science.
+
+DATA EXTRACTION
+Data from studies relating IF protocols to the microbiota and weight loss were extracted using a protocol in START program.
+
+DATA ANALYSIS
+Of the 82 original articles identified from the databases, 35 were eliminated due to duplication, and 32 were excluded due to not meeting the inclusion criteria. Two additional articles found in a new search were added, yielding a total of 17 studies to be included in this review. Among the protocols, alternate-day fasting (ADF) and time-restricted feeding (TRF) were the most common, and they were shown to have different mechanisms of metabolic signaling. TRF influences weight control and biochemical parameters by regulating the circadian system, and improving satiety control systems by acting on leptin secretion. On the other hand, ADF leads to a reduction of ±75% of all energy consumption regardless of dietary composition in addition to promoting hormonal adjustments that promote weight control. Furthermore, both protocols showed the ability to remodel the IM by changing the Firmicutes/Bacteroidetes ratio and increasing the abundance of strains such as Lactobacillus spp. and Akkermansia m. that have a protective effect on metabolism against the effects of weight gain.
+
+CONCLUSION
+In short, the ADF and TRF protocols have a positive effect on the remodeling of the IM and can possibly be used to control body adiposity, improve insulin sensitivity, and achieve other obesity-related metabolic changes.
+
+Intermittent and periodic fasting, longevity and disease
+
+Number of 
+
+Key takeaways:Intermittent and periodic fasting are safe strategies that may affect longevity and health by affecting cellular aging and disease risk factors, with minimal or minor side effects.
+
+Effects of intermittent fasting on body composition and clinical health markers in humans.
+
+Number of 
+
+Key takeaways:Intermittent fasting effectively reduces body weight, body fat, and improves blood lipids in normal-weight, overweight, and obese humans.
+
+Abstract:Intermittent fasting is a broad term that encompasses a variety of programs that manipulate the timing of eating occasions by utilizing short-term fasts in order to improve body composition and overall health. This review examines studies conducted on intermittent fasting programs to determine if they are effective at improving body composition and clinical health markers associated with disease. Intermittent fasting protocols can be grouped into alternate-day fasting, whole-day fasting, and time-restricted feeding. Alternate-day fasting trials of 3 to 12 weeks in duration appear to be effective at reducing body weight (≈3%-7%), body fat (≈3-5.5 kg), total cholesterol (≈10%-21%), and triglycerides (≈14%-42%) in normal-weight, overweight, and obese humans. Whole-day fasting trials lasting 12 to 24 weeks also reduce body weight (≈3%-9%) and body fat, and favorably improve blood lipids (≈5%-20% reduction in total cholesterol and ≈17%-50% reduction in triglycerides). Research on time-restricted feeding is limited, and clear conclusions cannot be made at present. Future studies should examine long-term effects of intermittent fasting and the potential synergistic effects of combining intermittent fasting with exercise.
+
+Effects of Ramadan and Non-ramadan Intermittent Fasting on Body Composition: A Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:Non-Ramadan intermittent fasting is more effective in improving overall body composition than Ramadan fasting, with both methods showing beneficial weight management adaptations.
+
+Abstract:Intermittent fasting (IF) has gained popularity for body-composition improvement purposes. The aim of this systematic review and meta-analysis was to summarize the effects of Ramadan vs. non-Ramadan IF on parameters of body composition. We conducted a comprehensive search of peer-reviewed articles in three electronic databases: PubMed, Scopus, and Web of Science (published until May 2020). Studies were selected if they included samples of adults (≥18 years), had an experimental or observational design, investigated any type of IF and included body composition outcomes. Meta-analytical procedures were conducted when feasible. Sixty-six articles met the eligibility criteria. We found that non-Ramadan IF is effective for decreasing body weight (−0.341 (95% CI , p = 0.006), body mass index (−0.699, 95% CI , p < 0.001), and absolute fat mass (−0.447, 95% CI , p < 0.001). When contrasting pre- post-intervention data on fat-free mass between treatments and controls, group-differences were non-significant (p > 0.05). Conversely, we observed a significant increase in fat-free mass when comparing pre- to post-intervention in a within design fashion (0.306, 95% CI , p = 0.001). Finally, despite being accompanied by dehydration, Ramadan IF is effective in decreasing body weight (−0.353; 95% CI , p = 0.02) and relative fat mass (−0.533; 95% CI , p = 0.034). Ramadan IF seems to implicate some beneficial adaptations in weight management, although non-Ramadan IF appears to be more effective in improving overall body composition.
+
+Influence of Intermittent Fasting on Body Composition, Physical Performance, and the Orexinergic System in Postmenopausal Women: A Pilot Study
+
+Number of 
+
+Key takeaways:Intermittent fasting combined with high-intensity interval training effectively enhances body composition and physical performance in postmenopausal women, potentially mediated by changes in the orexinergic system.
+
+Abstract:Objective: This study aims to evaluate the effects of different nutritional strategies, specifically intermittent fasting (IF) combined with high-intensity interval training (HIIT) versus a low-calorie diet (LCD), on body composition, physical performance, and the orexinergic system in postmenopausal women. Methods: A randomized controlled trial involving thirty postmenopausal women (mean age 57.50 ± 6.50 years) was conducted over eight weeks, comparing the two dietary approaches alongside an 8-week HIIT program. Body composition was assessed using bioelectrical impedance analysis (BIA) and dual-energy X-ray absorptiometry (DEXA). Performance metrics included handgrip strength and the 6-min walking test (6MWT). Salivary samples were analyzed for Orexin-A (OX-A) levels pre- and post-intervention. Results: Significant improvements in health metrics, such as heart rate (HR) and endurance, were found, with mean HR changes showing a significant difference (F = 5.943, p = 0.033) between the groups at T1. Orexin-A levels reflected significant metabolic regulation shifts in relation to other variables, showing a change from baseline to post-intervention values at T1 (F = 10,931, p = 0.033). Flexibility (sit and reach) significantly improved by 6% (p < 0.05), as well as VO2 max (10%, p < 0.05), both highlighted as key predictors of overall health outcomes. Additionally, Cohen’s d analyses indicated that the dietary groups exhibited notable differences in endurance, with the LCD group showing a Cohen’s d of −0.90, suggesting a large effect size compared with the control group. Conclusions: The combination of IF and HIIT is an effective nutritional strategy for enhancing body composition and physical performance in postmenopausal women, potentially mediated by changes in the orexinergic system. Further research is warranted to explore long-term effects and underlying mechanisms.
+
+Effectiveness of an intermittent fasting diet versus continuous energy restriction on anthropometric measurements, body composition and lipid profile in overweight and obese adults: a meta-analysis
+
+Number of 
+
+Key takeaways:An intermittent fasting diet may improve anthropometry, body composition, and lipid profile in overweight or obese adults, but its adherence is inconclusive.
+
+The effects of intermittent fasting on body composition and cardiometabolic health in adults with prediabetes or type 2 diabetes: A systematic review and meta‐analysis
+
+Number of 
+
+Key takeaways:Intermittent fasting improves body composition and cardiometabolic health compared to a control diet or calorie restriction in individuals with prediabetes or type 2 diabetes.
+
+Abstract:To perform a meta‐analysis to investigate the effects of intermittent fasting (IF), as compared with either a control diet (CON) and/or calorie restriction (CR), on body composition and cardiometabolic health in individuals with prediabetes and type 2 diabetes (T2D).
+
+Effects Of Intermittent Fasting On Exercise Performance And Body Composition: A Systematic Review And Meta-analysis
+
+Number of 
+
+Key takeaways:Intermittent fasting effectively reduces relative fat mass while slightly impairing maximum oxygen uptake in athletes.
+
+Abstract:Intermittent fasting (IF) has been mostly studied in athletes during Ramadan and in those willing to decrease adiposity while maintaining or increasing lean body mass. PURPOSE: To estimate the effects of IF on performance outcomes, namely aerobic, anaerobic, muscle strength and body composition adaptations. METHODS: We conducted a comprehensive search of peer-reviewed articles in 3 electronic databases: PubMed, Web of Science and Sport Discus (all articles 
+
+The impact of Ramadan intermittent fasting on anthropometric measurements and body composition: Evidence from LORANS study and a meta-analysis
+
+Number of 
+
+Key takeaways:Ramadan intermittent fasting leads to a reduction in body weight, BMI, waist circumference, hip circumference, fat percentage, and total body water, but these effects reverse after Ramadan.
+
+Abstract:Background Although the effect of Ramadan intermittent fasting (RIF) on anthropometry and body composition has been questioned, none of the previous studies tried to explain the reported changes in these parameters. Also, systematic reviews that investigated the topic were limited to healthy individuals or a specific disease group. Methods The London Ramadan Study (LORANS) is an observational study on health effects of RIF. We measured weight, waist circumference (WC), hip circumference (HC), body mass index (BMI), waist-to-hip ratio (WHR), basal metabolic rate (BMR), fat percentage (FP), free-fat mass (FFM), extremities predicted muscle mass, total body water (TBW), trunk FM, trunk FFM and trunk predicted muscle mass before and immediately after Ramadan. Using mixed-effects regression models, we investigated the effect of RIF with adjustment for potential confounders. We also conducted a meta-analysis of the results of LORANS with other studies that investigated the effect of RIF on anthropometry and body composition. The review protocol is registered with PROSPERO registry (CRD42020186532). Results We recruited 146 participants (Mean ± SD age = 43.3 ± 15 years). Immediately after Ramadan, compared with before Ramadan, the mean difference was−1.6 kg (P<0.01) in weight,−1.95cm (P<0.01) in WC,−2.86cm (P <0.01) in HC, −0.60 kg/m2 (P < 0.01) in BMI and −1.24 kg (P < 0.01) in FM. In the systematic review and meta-analysis, after screening 2,150 titles and abstracts, 66 studies comprising 7,611 participants were included. In the general population, RIF was followed by a reduction of 1.12 Kg in body weight (−1.89– −0.36, I2 = 0), 0.74 kg/m2 reduction in BMI (−0.96– −0.53, I2 = 0), 1.54cm reduction in WC (−2.37– −0.71, I2 = 0) and 1.76cm reduction in HC (−2.69– −0.83, I2 = 0). The effect of fasting on anthropometric and body composition parameters starts to manifest in the second week of Ramadan and starts to diminish 3 weeks after Ramadan. Conclusion RIF is associated with a reduction in body weight, BMI, WC, HC, FM, FP and TBW. Most of these reductions are partially attributed to reduced FM and TBW. The reductions in these parameters appear to reverse after Ramadan.
+
+Intermittent Fasting: Does It Affect Sports Performance? A Systematic Review
+
+Number of 
+
+Key takeaways:Intermittent fasting improves body composition without reducing physical performance, maintaining lean mass, and improving maximum power in athletes.
+
+Abstract:Intermittent fasting is one of the most popular types of diet at the moment because it is an effective nutritional strategy in terms of weight loss. The main objective of this review is to analyze the effects that intermittent fasting has on sports performance. We analyzed physical capacities: aerobic capacity, anaerobic capacity, strength, and power, as well as their effect on body composition. For this, a bibliographic search was carried out in several databases where 25 research articles were analyzed to clarify these objectives. Inclusion criteria: dates between 2013 and present, free full texts, studies conducted in adult human athletes, English and/or Spanish languages, and if it has been considered that intermittent fasting is mainly linked to sports practice and that this obtains a result in terms of performance or physical capacities. This review was registered in PROSPERO with code ref. 407024, and an evaluation of the quality or risk of bias was performed. After this analysis, results were obtained regarding the improvement of body composition and the maintenance of muscle mass. An influence of intermittent fasting on sports performance and body composition is observed. It can be concluded that intermittent fasting provides benefits in terms of body composition without reducing physical performance, maintenance of lean mass, and improvements in maximum power. But despite this, it is necessary to carry out new studies focusing on the sports field since the samples have been very varied. Additionally, the difference in hours of intermittent fasting should be studied, especially in the case of overnight fasting.
+
+Longer‐term effects of intermittent fasting on body composition and cardiometabolic health in adults with overweight and obesity: A systematic review and meta‐analysis
+
+Number of 
+
+Key takeaways:Long-term intermittent fasting and continuous caloric restriction are similarly effective for reducing body weight and adiposity, and improving cardiometabolic health markers in adults with overweight or obesity.
+
+Abstract:The aim of the present study was to investigate the effects of long‐term intermittent fasting (IF) on body composition and cardiometabolic health in adults with overweight and obesity. PubMed, Web of Science, and Scopus were searched from inception to March 2024 to identify original randomized trials that investigated the effects of IF versus either a control diet (CON) and/or continuous caloric restriction (CR). Participants were adults with overweight and obesity and intervention durations were ≥ 6 months. Overall, a total of 24 studies involving 2032 participants were included in the meta‐analysis. Compared with CON, IF significantly reduced body weight , BMI , fat mass , fat‐free mass , waist circumference , visceral fat , fasting glucose , triglycerides , and diastolic blood pressure . Conversely, IF significantly increased high‐density lipoproteins when compared with CON, but had no effects on insulin, hemoglobin A1c%, total cholesterol, low‐density lipoprotein, or systolic blood pressure. Compared with CR, IF significantly reduced fat mass , body fat percentage , and DBP , and increased HDL , with no other significant effects. Subgroup analyses showed that the mode of IF and intervention duration were the primary moderators of IF effects on the markers. In adults with overweight or obesity, IF and CR are comparably effective for reducing body weight and adiposity, as well as for improving cardiometabolic health markers.
+
+The Effects of Intermittent Fasting on Glycemic Control and Body Composition in Adults with Obesity and Type 2 Diabetes: A Systematic Review.
+
+Number of 
+
+Key takeaways:Intermittent fasting can improve glycemic control and body composition in adults with obesity and type 2 diabetes within 12-24 weeks, but long-term benefits remain unclear.
+
+Abstract:The purpose of this study was to evaluate the effects of intermittent fasting on glycemic control and body composition in adults with obesity and type 2 diabetes. Although intermittent fasting has shown some promise in improving glucoregulatory indicators and body composition in adults with obesity, there is currently no systematic review evaluating these effects in adults with obesity and type 2 diabetes. A database search of PubMed, CINHAL, and MEDLINE identified five studies that met inclusion criterion. All studies were randomized controlled trials in adult subjects (n = 46-137) with type 2 diabetes and a body mass index of ≥30 kg/m2. Four different intermittent fasting regimens were reviewed. All fasting regimens revealed strong evidence to support intermittent fasting as a feasible diet to improve glycemia and body composition measures within 12-24 weeks. Follow-up 12-18 months after intermittent fasting did not show promising results for continued weight loss and improved glycemic control. The majority of the studies demonstrated insignificant differences between intermittent fasting and continuous energy restriction for measures of glycated hemoglobin a1c and body composition. More data on intermittent fasting in adults with obesity and type 2 diabetes are needed to determine its benefits within this patient population. Future research should include consistent fasting regimens and larger sample sizes to improve the reliability and generalizability of the data. Also, consistent follow-up after a fasting intervention may enhance long-term benefits and should be considered in future research.
+
+EFFECTS OF INTERMITTENT FASTING IN BODY COMPOSITION ON OBESE PEOPLE: A SYSTEMATIC REVIEW
+
+Number of 
+
+Key takeaways:Intermittent fasting can contribute to developing hypoglycemia or type 2 diabetes in obese individuals, with calorie intake restrictions and fasting potentially contributing to these conditions.
+
+Abstract:This article has been developed to address the impact of intermittent fasting on the body composition of obese individuals. Presently there are about 650 million obesity-affected individuals worldwide. Intermittent fasting is primarily implemented and practised to contribute to better health conditions and weight loss. The prevalence is measured by a BMI above 25, identified as overweight and BMI above 30, identified as obese. This paper has a systematic literature review of relevant studies to develop understanding and idea development. Data extraction for this article has followed the PRISMA model extracting 25 relevant journals from 55 initial considerations. The findings have been represented following a thematic approach addressing the effects, strategies and challenges of intermittent fasting. The Twice-a-week Method, Alternate Day Fasting, Time Restricted Eating and the 24 Hour Fast respective intermittent fasting techniques have been evaluated. Calorie intake restrictions and fasting are fundamental contributing factors to developing hypoglycemia or “type 2 diabetes”, which is identified as an impact of intermittent fasting. Recommendations have been farmed addressing better practice and inclusion of intermittent fasting by Controlled Practice of Intermittent Fasting and Compliance with Medical Conditions.
+KEYWORDS: Intermittent Fasting, Underwater Weighing, obesity, overweight, weight loss, body, composition
+
+Combined versus independent effects of exercise training and intermittent fasting on body composition and cardiometabolic health in adults: a systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Combining exercise training and intermittent fasting leads to superior body composition changes but no additive or synergistic effects on cardiometabolic health markers.
+
+Abstract:Abstract Introduction and aim Exercise training (Ex) and intermittent fasting (IF) are effective for improving body composition and cardiometabolic health overweight and obese adults, but whether combining Ex and IF induces additive or synergistic effects is less well established. We therefore, performed a systematic review and meta-analysis to compare the combined versus independent effects of Ex and IF on body composition and cardiometabolic health in adults. Method An electronic search was conducted in three main online databases including PubMed, Web of Science, and Scopus, from inception to March 9, 2023 for studies involving Ex plus IF trials versus standalone Ex and/or IF interventions in adults. Interventions had a duration of ≥ 2 weeks. Standardized (SMD) or weighted mean differences (WMD) and 95% confidence intervals were calculated in order to compare effects on body weight, body mass index (BMI), body fat lean body mass (LBM), visceral fat, and waist circumference. For cardiometabolic health, outcomes included fasting glucose, insulin, total cholesterol (TC), low-density lipoprotein cholesterol (LDL), triglycerides (TG), high-density lipoprotein cholesterol (HDL), systolic (SBP) and diastolic (DBP) blood pressure, and VO 2 max/peak. Results Ex plus IF decreased body weight , BMI , body fat , visceral fat , and waist circumference more than Ex alone. However, changes in body composition and cardiometabolic health markers were not significantly different for Ex plus IF when compared with IF alone, with the exception of VO 2 max/peak . Conclusion We demonstrate that a combination of Ex and IF produces superior changes in body composition, but not in markers of cardiometabolic health when compared with Ex or IF alone. Ex plus IF could therefore be effective for weight and fat loss but has no additive or synergistic effects for other cardiometabolic health markers.
+
+Effects of intermittent fasting combined with resistance training on body composition: a systematic review and meta‐analysis
+
+Number of 
+
+Key takeaways:Intermittent fasting combined with resistance training effectively reduces body mass and fat compared to non-IF control diets, while maintaining fat-free mass.
+
+A narrative review of intermittent fasting with exercise.
+
+Number of 
+
+Key takeaways:Combining intermittent fasting with exercise leads to decreased fat mass, but more high-powered trials are needed to determine its impact on weight loss, body composition, and cardiometabolic risk factors.
+
+Effects of Intermittent Fasting on Specific Exercise Performance Outcomes: A Systematic Review Including Meta-Analysis
+
+Number of 
+
+Key takeaways:Intermittent fasting can enhance maximum oxygen uptake with time-restricted feeding, but may impair aerobic capacity during Ramadan fasting.
+
+Abstract:Intermittent fasting (IF) has been studied in athletes during Ramadan and in those willing to decrease adiposity while maintaining or increasing lean body mass. The purpose of this systematic review was to summarize the effects of IF on performance outcomes. We searched peer-reviewed articles in the following databases: PubMed, Web of Science and Sport Discus (up to December 2019). Studies were selected if they included samples of adults (≥18 years), had an experimental or observational design, investigated IF (Ramadan and time-restricted feeding (TRF)), and included performance outcomes. Meta-analytical procedures were conducted when feasible. Twenty-eight articles met the eligibility criteria. Findings indicated that maximum oxygen uptake is significantly enhanced with TRF protocols (SMD = 1.32, p = 0.001), but reduced with Ramadan intermittent fasting (Ramadan IF; SMD = −2.20, p < 0.001). Additional effects of IF may be observed in body composition (body mass and fat mass). Non-significant effects were observed for muscle strength and anaerobic capacity. While Ramadan IF may lead to impairments in aerobic capacity, TRF may be effective for improving it. As there are few studies per performance outcome, more research is needed to move the field forward.
+
+Effect of Various Types of Intermittent Fasting (IF) on Weight Loss and Improvement of Diabetic Parameters in Human
+
+Number of 
+
+Key takeaways:Intermittent fasting can reduce body weight and improve diabetes parameters, but long-term studies are needed to confirm these benefits in populations with type II diabetes and insulin resistance.
+
+Abstract:Abstract Purpose of Review A number of recent studies have suggested that intermittent fasting is as effective as traditional calorie restriction (CR) for weight loss and for cardioprotection. However, it is still unclear whether IF improves diabetes risk indicators as does CR. This review provides an overview of various patterns of intermittent fasting and shows the effect of intermittent fasting on human anthropometric such as excess body weight and biochemical parameters for example high glucose and fasting insulin, which are risk factors for diabetes. Recent Findings There is a growing body of evidence pointing to the benefits of intermittent fasting for glucose and insulin homeostasis, but this should be confirmed by further studies in population groups with (or at high risk) type II diabetes and insulin resistance. Long-term studies are also needed that could reveal potential negative health effects that some studies report. Summary Eleven studies in overweight/obese adult people that included changes in weight, body composition, and diabetic parameters (fasting glucose, fasting insulin, HbA1c concentration, and HOMA-IR index) were published between 2012 and 2020. Seven studies concerning the effects of alternate day fasting (ADF) on weight loss and diabetic parameters were analyzed. All of them have shown the effects of ADF on weight loss and slight improvement in diabetic parameters. For time-restricted feeding (TRF), a significant improvement in the HOMA-IR index was observed in 2 studies. One study saw an increase in fasting glucose. An analysis of 2 studies using a complete alternate day fasting (CADF) was performed. One study showed decrease in fasting glucose and insulin, and in one a decrease in glycosylated hemoglobin (HbA1c) was observed. Conclusion Different types of intermittent fasting reduce body weight and reduce diabetes parameters such as fasting glucose, fasting insulin, HOMA-IR index, and glycated hemoglobin (HbA1c).
+
+Effects of Intermittent Fasting in Human Compared to a Non-intervention Diet and Caloric Restriction: A Meta-Analysis of Randomized Controlled Trials
+
+Number of 
+
+Key takeaways:Intermittent fasting effectively reduces body weight, waist circumference, and fat mass, and improves insulin resistance and blood lipid conditions compared to non-intervention diets.
+
+Abstract:Background The popularity of applying intermittent fasting (IF) has increased as more and more people are trying to avoid or alleviate obesity and metabolic disease. This study aimed to systematically explore the effects of various IF in humans. Methods The randomized controlled trials (RCTs) related to IF vs. non-intervention diet or caloric restriction (CR) were retrieved in PubMed, Web of Science, Cochrane Library database, and Embase. Extraction outcomes included, but were not limited to, weight, body mass index (BMI), waist circumference (WC), fasting glucose, and triglyceride (TG). Results This study includes 43 RCTs with 2,483 participants. The intervention time was at least 1 month, and the median intervention time was 3 months. Contrasting results between IF and non-intervention diet showed that participants had lower weight (weighted mean difference (WMD) = 1.10, 95% CI: 0.09–2.12, p = 0.03) and BMI after IF (WMD = 0.38, 95% CI: 0.08–0.68, p = 0.01). The WC of participants after IF decreased significantly compared with the non-intervention diet (WMD = 1.02, 95% CI: 0.06–1.99, p = 0.04). IF regulated fat mass (FM) more effectively than non-intervention diet (WMD = 0.74, 95% CI: 0.17–1.31, p = 0.01). The fat-free mass of people after IF was higher (WMD = −0.73, 95% CI: (−1.45)–(−0.02), p = 0.05). There was no difference in fasting blood glucose concentrations between participants in the after IF and non-intervention diet groups. The results of insulin concentrations and HOMA-IR, though, indicated that IF was significantly more beneficial than non-intervention diet (standard mean difference (SMD) = −0.21, 95% CI: 0.02–0.40, p = 0.03, and WMD = 0.35, 95% CI: 0.04–0.65, p = 0.03, respectively). Cholesterol and TG concentrations in participants after IF were also lower than that after a nonintervention diet (SMD = 0.22, 95% CI: 0.09–0.35, p = 0.001 and SMD = 0.13, 95% CI: 0.00–0.26, p = 0.05, respectively). IF outcomes did not differ from CR except for reduced WC. Conclusion Intermittent fasting was more beneficial in reducing body weight, WC, and FM without affecting lean mass compared to the non-intervention diet. IF also effectively improved insulin resistance and blood lipid conditions compared with non-intervention diets. However, IF showed less benefit over CR.
+
+Intermittent Fasting in Cardiovascular Disorders—An Overview
+
+Number of 
+
+Key takeaways:Intermittent fasting shows potential in weight loss, reducing inflammation, and improving cardiovascular health, including atherosclerosis progression, diabetes mellitus type 2, and blood pressure reduction.
+
+Abstract:Intermittent fasting is a form of time restricted eating (typically 16 h fasting and 8 h eating), which has gained popularity in recent years and shows promise as a possible new paradigm in the approach to weight loss and the reduction of inflammation, and has many potential long term health benefits. In this review, the authors will incorporate many aspects of fasting, mainly focusing on its effects on the cardiovascular system, involving atherosclerosis progression, benefits for diabetes mellitus type 2, lowering of blood pressure, and exploring other cardiovascular risk factors (such as lipid profile and inflammation).
+
+Intermittent Fasting: A Heart Healthy Dietary Pattern?
+
+Number of 
+
+Key takeaways:Intermittent fasting may reduce the risk of cardiovascular disease by improving weight control, hypertension, dyslipidemia, and diabetes through multiple pathways.
+
+Intermittent fasting for the prevention of cardiovascular disease.
+
+Number of 
+
+Key takeaways:Intermittent fasting may reduce weight compared to ad libitum feeding, but its clinical significance and impact on cardiometabolic risk factors for cardiovascular disease remain unclear.
+
+Abstract:BACKGROUND
+Cardiovascular disease (CVD) is the leading cause of death worldwide. Lifestyle changes are at the forefront of preventing the disease. This includes advice such as increasing physical activity and having a healthy balanced diet to reduce risk factors. Intermittent fasting (IF) is a popular dietary plan involving restricting caloric intake to certain days in the week such as alternate day fasting and periodic fasting, and restricting intake to a number of hours in a given day, otherwise known as time-restricted feeding. IF is being researched for its benefits and many randomised controlled trials have looked at its benefits in preventing CVD.
+
+OBJECTIVES
+To determine the role of IF in preventing and reducing the risk of CVD in people with or without prior documented CVD.
+
+SEARCH METHODS
+We conducted our search on 12 December 2019; we searched CENTRAL, MEDLINE and Embase. We also searched three trials registers and searched the reference lists of included papers. Systematic reviews were also viewed for additional studies. There was no language restriction applied.
+
+SELECTION CRITERIA
+We included randomised controlled trials comparing IF to ad libitum feeding (eating at any time with no specific caloric restriction) or continuous energy restriction (CER). Participants had to be over the age of 18 and included those with and without cardiometabolic risk factors. Intermittent fasting was categorised into alternate-day fasting, modified alternate-day fasting, periodic fasting and time-restricted feeding.
+
+DATA COLLECTION AND ANALYSIS
+Five review 
+
+AUTHORS' CONCLUSIONS
+Intermittent fasting was seen to be superior to ad libitum feeding in reducing weight. However, this was not clinically significant. There was no significant clinical difference between IF and CER in improving cardiometabolic risk factors to reduce the risk of CVD. Further research is needed to understand the safety and risk-benefit analysis of IF in specific patient groups (e.g. patients with diabetes or eating disorders) as well as the effect on longer-term outcomes such as all-cause mortality and myocardial infarction.
+
+Exploring the Impact of Intermittent Fasting on Vascular Function and the Immune System: A Narrative Review and Novel Perspective
+
+Number of 
+
+Key takeaways:Intermittent fasting improves vascular function and reduces inflammation, with potential implications for cardiovascular health.
+
+Abstract:Vascular function is a critical determinant of cardiovascular health and all-cause mortality. Recent studies have suggested that intermittent fasting, a popular dietary strategy, elicits beneficial effects on vascular function. These studies also suggest that fasting-mediated improvements in vascular function coincide with reductions in systemic inflammation. However, the mechanisms that connect fasting, the immune system, and vascular function remain largely underexplored. The current review summarizes the effects of different intermittent fasting modalities on vascular health, focusing on endothelial dysfunction and arterial stiffness, 2 critical indices of vascular function. Improvements in vascular function are associated with reduced inflammation and are mechanistically linked to decreased circulating immune cells and their accumulation within the vascular wall and perivascular tissue. Recent data show that fasting redistributes circulating and tissue-resident immune cells to the bone marrow, affecting their inflammatory actions. However, there is no direct evidence relating immune cell redistribution to cardiovascular health. By relating fasting-induced immune cell redistribution to reduced inflammation and improved vascular function, we propose an exciting avenue of further exploration is determining whether fasting-induced immune cell redistribution impacts cardiovascular health.
+
+Periodic and Intermittent Fasting in Diabetes and Cardiovascular Disease
+
+Number of 
+
+Key takeaways:Intermittent fasting, time-restricted eating, prolonged fasting, and fasting-mimicking diets show promise in reducing cardiovascular disease risk factors, with potential for prevention and treatment.
+
+Abstract:Purpose of ReviewCardiovascular disease (CVD) is one of the leading causes of death globally. Nutrition plays a central role in CVD risk by affecting aging, adiposity, glycemia, blood pressure, cholesterol, inflammation, and other risk factors and can affect CVD risk not only based on calorie intake and dietary composition but also the timing and range of meals. This review evaluates the effects of fasting, fasting-mimicking diets, and time-restricted eating on the reduction of CVD risk factors and provides initial data on their potential to serve as CVD prevention and treatment therapies.Recent FindingsIntermittent fasting (IF), time-restricted eating (TRE), prolonged fasting (PF), and fasting-mimicking diets (FMD) show promise in the reduction of CVD risk factors.SummaryResults on IF, TRE, PF, and FMD on CVD risk factors are significant and often independent of weight loss, yet long-term studies on their effect on CVD are still lacking. Coupling periodic and prolonged, or intermittent and more frequent cycles of fasting or fasting-mimicking diets, designed to maximize compliance and minimize side effects, has the potential to play a central role in the prevention and treatment of CVD and metabolic syndrome.
+
+A perspective on intermittent fasting and cardiovascular risk in the era of obesity pharmacotherapy
+
+Number of 
+
+Key takeaways:Intermittent fasting may not be more effective than standard daily caloric restriction for short-term weight loss and cardiometabolic improvements in obese patients, and long-term fasting may increase cardiovascular disease risk.
+
+Abstract:Intermittent fasting has been linked to metabolic health by improving lipid profiles, reducing body weight, and increasing insulin sensitivity. However, several randomized clinical trials have shown that intermittent fasting is not more effective than standard daily caloric restriction for short-term weight loss or cardiometabolic improvements in patients with obesity. Observational studies also suggest cardiovascular benefits from extended rather than reduced eating windows, and indicate that long-term intermittent fasting regimens may increase the risk of cardiovascular disease mortality. In this perspective, we discuss evidence that may support potential adverse effects of intermittent fasting on cardiovascular health through the loss of lean mass, circadian misalignment and poor dietary choices associated with reward-based eating. Given the ongoing revolution in obesity pharmacotherapy, we argue that future research should integrate anti-obesity medications with dietary strategies that confer robust benefits to cardiometabolic health, combine exercise regimens, and consider genetic factors to personalize obesity treatment. Comprehensive approaches combining diet, pharmacotherapy, and lifestyle modifications will become crucial for managing obesity and minimizing long-term cardiovascular risk.
+
+Impact of Intermittent Fasting on Lipid Profile–A Quasi-Randomized Clinical Trial
+
+Number of 
+
+Key takeaways:Intermittent fasting may improve lipid profile and raise sub-optimal HDL levels, potentially protecting cardiovascular health in South Asian adults.
+
+Abstract:Background: Sub-optimal HDL is a prognostic marker of cardiovascular disease. South Asia has a high prevalence of sub-optimal HDL compared to other parts of the world. Intermittent fasting (IF) is a type of energy restriction which may improve serum HDL and other lipids thereby reducing the risk of cardiovascular diseases. Objective: The aim of the study was to evaluate the effect of IF on lipid profile and HDL-cholesterol in a sample of South Asian adults. Methods: A 6-week quasi-experimental (non-randomized) clinical trial was conducted on participants with low HDL (< 40 mg/dl for men and < 50 mg/dl for women). Participants of the control group were recommended not to change their diet. The intervention group was recommended to fast for ~12 h during day time, three times per week for 6 weeks. Pulse rate, blood pressure, body weight, waist circumference, serum lipid profile, and blood glucose levels were measured at baseline and after 6 weeks. Result: A total of 40 participants were enrolled in the study (N = 20 in each group), while 35 (20 control and 15 intervention) completed the trial and were included in data analysis of the study. Body measurements, including body weight, BMI and waist circumference, showed significant interaction effects (p's < 0.001), indicating that there were larger reductions in the IF group than in the control group. Significant interaction effects were also observed for total (p = 0.033), HDL (p = 0.0001), and LDL cholesterol (p = 0.010) with larger improvements in the IF group. Conclusion: This study suggests that intermittent fasting may protect cardiovascular health by improving the lipid profile and raising the sub-optimal HDL. Intermittent fasting may be adopted as a lifestyle intervention for the prevention, management and treatment of cardiovascular disorders. Clinical Trial Registration: NCT03805776, registered on January 16, 2019, 
+
+Multiomics analyses reveal dynamic bioenergetic pathways and functional remodeling of the heart during intermittent fasting
+
+Number of 
+
+Key takeaways:Intermittent fasting alters heart function and vulnerability to injury, offering potential for novel cardioprotective mechanisms and new pharmacological approaches to prevent and treat cardiovascular diseases.
+
+Abstract:Aims Intermittent fasting (IF) reduces cardiovascular risk factors in animals and humans, and can protect the heart against ischemic injury in models of myocardial infarction, but the underlying molecular mechanisms are unknown. To delineate molecular and cellular adaptations of the heart to IF, we carried out system-wide comprehensive analyses of proteome and phosphoproteome, complemented with transcriptome profiling, followed by functional analysis. Methods and results In order to understand molecular and cellular remodeling of the heart during IF, we employed advanced mass spectrometry for system-wide profiling of the proteome and phosphoproteome of heart tissues obtained from mice maintained for 6 months on either daily 12- or 16-hour fasting, every-other-day fasting or ad libitum control feeding regimens. We also performed transcriptome analyses using RNA sequencing to evaluate whether the observed molecular responses to IF occur at the transcriptional or post-transcriptional levels. IF regimens significantly affected pathways that regulate cyclic GMP signaling, lipid and amino acid metabolism, cell adhesion, cell death, and inflammation. Comparison of differentially expressed proteome and transcriptome upon IF showed the higher correlation of pathway alternation in short IF regimen but the inverse correlation of metabolic processes such as fatty acid oxidation and immune processes in longer IF regimens. In addition, functional echocardiographic analyses demonstrated that IF enhances stress-induced cardiac performance. Conclusion Our systematic multi-omics study elucidates a molecular framework for understanding how IF impacts the heart’s function and its vulnerability to injury and disease. Translational perspective Intermittent fasting is emerging as a desirable lifestyle adaptation to impact cardiovascular health through the modulation of molecular and cellular mechanisms, and by acting on disease risk factors. Evidence from numerous studies indicates that the fasting cycles are highly and consistently effective in protecting against cardiovascular diseases and improving cardiac health in animals and human. Using multi-omics, here we dissect distinct molecular adaptations of the heart to different intermittent fasting regimens. Our results unveil novel cardioprotective mechanisms and open up new avenues for innovative pharmacological approaches to prevent and treat cardiovascular diseases.
+
+Modulatory Effect of Intermittent Fasting on Adipose Tissue Inflammation: Amelioration of Cardiovascular Dysfunction in Early Metabolic Impairment
+
+Number of 
+
+Key takeaways:Intermittent fasting can improve cardiovascular outcomes in early metabolic impairment by reducing adipose tissue inflammation and promoting positive metabolic remodeling.
+
+Abstract:Cardiometabolic syndrome (CMS) is a cluster of maladaptive cardiovascular, renal, thrombotic, inflammatory, and metabolic disorders. It confers a high risk of cardiovascular mortality and morbidity. CMS is triggered by major shifts in lifestyle and dietary habits with increased consumption of refined, calorie-dense diets. Evidence indicates that diet-induced CMS is linked to Adipose tissue (AT) inflammation. This led to the proposal that adipose inflammation may be involved in metabolic derangements, such as insulin resistance and poor glycemic control, as well as the contribution to the inflammatory process predisposing patients to increased cardiovascular risk. Therefore, in the absence of direct pharmacological interventions for the subclinical phase of CMS, time restricted feeding regimens were anticipated to alleviate early metabolic damage and subsequent comorbidities. These regimens, referred to as intermittent fasting (IF), showed a strong positive impact on the metabolic state of obese and non-obese human subjects and animal models, positive AT remodeling in face of overnutrition and high fat diet (HFD) consumption, and improved CV outcomes. Here, we summarize the available evidence on the role of adipose inflammation in triggering cardiovascular impairment in the context of diet induced CMS with an emphasis on the involvement of perivascular adipose tissue. As well, we propose some possible molecular pathways linking intermittent fasting to the ameliorative effect on adipose inflammation and cardiovascular dysfunction under such circumstances. We highlight a number of targets, whose function changes in perivascular adipose tissue inflammation and could be modified by intermittent fasting acting as a novel approach to ameliorate the inflammatory status.
+
+Intermittent Fasting Improves High-Fat Diet-Induced Obesity Cardiomyopathy via Alleviating Lipid Deposition and Apoptosis and Decreasing m6A Methylation in the Heart
+
+Number of 
+
+Key takeaways:Intermittent fasting improves cardiac function and structural impairment in high-fat diet-induced obesity cardiomyopathy by reducing lipid deposition and apoptosis and decreasing m6A RNA methylation levels.
+
+Abstract:Intermittent fasting (IF) plays an essential role in improving lipid metabolism disorders caused by metabolic cardiomyopathy. Growing evidence revealed that N6-methyladenosine (m6A) RNA methylation is related to obesity and lipid metabolic. Our study aimed to assess the beneficial effects of IF on lipid deposition, apoptosis, and m6A methylation in high-fat diet (HFD)-induced obesity cardiomyopathy. Male C57BL/6J mice were fed a normal diet (ND) or HFD ad libitum for 13 weeks, after which time a subgroup of HFD mice were subjected to IF for 24 h and fed HFD in the other day for 8 weeks. We found that IF intervention significantly improved cardiac functional and structural impairment and serum lipid metabolic disorder induced by HFD. Furthermore, IF intervention decreased the mRNA levels of the fatty acid uptake genes of FABP1, FATP1, and CD36 and the fatty acid synthesis genes of SREBF1, FAS, and ACCα and increased the mRNA levels of the fatty acid catabolism genes of ATGL, HSL, LAL, and LPL in cardiac tissueof HFD-induced obese mice. TUNEL-positive cells, Bax/Bcl-2 ratio, and Cleaved Caspase-3 protein expression in HFD-induced obese mice hearts was down-regulated by IF intervention. In addition, IF intervention decreased the m6A methylation levels and METTL3 expression and increased FTO expression in HFD-induced obesity cardiomyopathy. In conclusion, our findings demonstrate that IF attenuated cardiac lipid deposition and apoptosis, as well as improved cardiac functional and structural impairment in HFD-induced obesity cardiomyopathy, by a mechanism associated with decreased m6A RNA methylation levels.
+
+Intermittent Fasting After ST-Segment–Elevation Myocardial Infarction Improves Left Ventricular Function: The Randomized Controlled INTERFAST-MI Trial
+
+Number of 
+
+Key takeaways:Intermittent fasting may be safe and improve left ventricular function after STEMI, with greater adherence and greater reduction in diastolic blood pressure and body weight.
+
+Abstract:BACKGROUND: Intermittent fasting has shown positive effects on numerous cardiovascular risk factors. The INTERFAST-MI trial (Intermittent Fasting in Myocardial Infarction) has been designed to study the effects of intermittent fasting on cardiac function after STEM (ST-segment–elevation myocardial infarction) and the feasibility of future multicenter trials. METHODS: The INTERFAST-MI study was a prospective, randomized, controlled, nonblinded, single-center investigator-initiated trial. From October 1, 2020, to July 15, 2022, 48 patients were randomized to the study groups intermittent fasting or regular diet and followed for 6 months with follow-up visits at 4 weeks and 3 months. RESULTS: In all, 22 of 24 patients in the intermittent fasting group with a mean age of 58.54±12.29 years and 20 of 24 patients in the regular diet group with a mean age of 59.60±13.11 years were included in the intention-to-treat population. The primary efficacy end point (improvement in left ventricular ejection fraction after 4 weeks) was significantly greater in the intermittent fasting group compared with the control group (mean±SD, 6.636±7.122%. versus 1.450±4.828%; P=0.038). This effect was still significant and even more pronounced after 3 and 6 months. The patients in the intermittent fasting group showed a greater reduction in diastolic blood pressure and body weight compared with the control group. The mean adherence of patients in the intermittent fasting group was a median of 83.7% (interquartile range, 69.0%–98.4%) of all days. None of the patients from either group reported dizziness, syncope, or collapse. CONCLUSIONS: Our results suggest that intermittent fasting after myocardial infarction may be safe and could improve left ventricular function after STEMI. REGISTRATION: 
+
+Effect of Intermittent Fasting on Cardiometabolic Health in the Chinese Population: A Meta-Analysis of Randomized Controlled Trials
+
+Number of 
+
+Key takeaways:Intermittent fasting may improve cardiometabolic health in Chinese adults, but more long-term trials are needed to confirm its efficacy.
+
+Abstract:The efficacy of intermittent fasting (IF), as an emerging weight management strategy, in improving cardiometabolic health has been evaluated in various populations, but that among Chinese individuals has not been systematically studied. A comprehensive search on multiple databases was performed to identify eligible randomized controlled trials (RCTs) up to October 2022. The primary outcome was post-intervention weight loss, and secondary outcomes included changes in cardiometabolic indicators. Effect estimates were meta-analyzed using a random-effects model. In total, nine RCTs with 899 Chinese participants were included. Time-restricted eating was the most adopted IF protocol in this study (six out of nine), followed by alternate-day fasting. The IF intervention significantly reduced body weight, body mass index, body fat mass, homeostatic model assessment of insulin resistance, low-density lipoprotein cholesterol, and triglycerides when compared with control groups. However, no statistically significant reductions in waist circumference, total cholesterol, high-density lipoprotein cholesterol, fasting glucose, systolic blood pressure, and diastolic blood pressure were found. To sum up, IF can be a weight management strategy and may improve the cardiometabolic health of Chinese adults, but more long-term trials using different IF strategies are required to generate robust evidence of its efficacy.
+
+Cardiometabolic Benefits of Intermittent Fasting.
+
+Number of 
+
+Key takeaways:Intermittent fasting is a safe diet therapy that can produce significant weight loss and improve cardiometabolic health in individuals with obesity.
+
+Abstract:This review aims to summarize the effects of intermittent fasting on markers of cardiometabolic health in humans. All forms of fasting reviewed here-alternate-day fasting (ADF), the 5:2 diet, and time-restricted eating (TRE)-produced mild to moderate weight loss (1-8% from baseline) and consistent reductions in energy intake (10-30% from baseline). These regimens may benefit cardiometabolic health by decreasing blood pressure, insulin resistance, and oxidative stress. Low-density lipoprotein cholesterol and triglyceride levels are also lowered, but findings are variable. Other health benefits, such as improved appetite regulation and favorable changes in the diversity of the gut microbiome, have also been demonstrated, but evidence for these effects is limited. Intermittent fasting is generally safe and does not result in energy level disturbances or increased disordered eating behaviors. In summary, intermittent fasting is a safe diet therapy that can produce clinically significant weight loss (>5%) and improve several markers of metabolic health in individuals with obesity.
+
+Unravelling the health effects of fasting: a long road from obesity treatment to healthy life span increase and improved cognition
+
+Number of 
+
+Key takeaways:Intermittent and long-term fasting can increase healthy life span, improve cognition, and decrease cardiovascular risk in both obese and non-obese individuals.
+
+Abstract:Abstract In recent years a revival of interest has emerged in the health benefits of intermittent fasting and long-term fasting, as well as of other related nutritional strategies. In addition to meal size and composition a new focus on time and frequency of meals has gained attention. The present review will investigate the effects of the main forms of fasting, activating the metabolic switch from glucose to fat and ketones (G-to-K), starting 12–16 h after cessation or strong reduction of food intake. During fasting the deactivation of mTOR regulated nutrient signalling pathways and activation of the AMP protein kinase trigger cell repair and inhibit anabolic processes. Clinical and animal studies have clearly indicated that modulating diet and meal frequency, as well as application of fasting patterns, e.g. intermittent fasting, periodic fasting, or long-term fasting are part of a new lifestyle approach leading to increased life and health span, enhanced intrinsic defences against oxidative and metabolic stresses, improved cognition, as well as a decrease in cardiovascular risk in both obese and non-obese subjects. Finally, in order to better understand the mechanisms beyond fasting-related changes, human studies as well as non-human models closer to human physiology may offer useful clues. KEY-MESSAGES Biochemical changes during fasting are characterised by a glucose to ketone switch, leading to a rise of ketones, advantageously used for brain energy, with consequent improved cognition. Ketones reduce appetite and help maintain effective fasting. Application of fasting patterns increases healthy life span and defences against oxidative and metabolic stresses. Today’s strategies for the use of therapeutic fasting are based on different protocols, generally relying on intermittent fasting, of different duration and calorie intake. Long-term fasting, with durations between 5 and 21 days can be successfully repeated in the course of a year.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

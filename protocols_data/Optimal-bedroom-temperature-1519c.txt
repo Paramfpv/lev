@@ -1,0 +1,247 @@
+PROTOCOL: Optimal bedroom temperature (15–19°c)
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Not specified
+DESCRIPTION: Maintaining a bedroom temperature between 20–25°C promotes deep and efficient sleep, reduces the number of awakenings, and enhances nighttime comfort. Both overheating and the sensation of cold can negatively impact sleep quality, so it is important to adjust the environment to individual needs.
+
+CONTENT SECTIONS:
+
+Optimal bedroom temperature (15–19°c)
+
+Support for Sleep Quality
+
+Maintaining a bedroom temperature between 20–25°C promotes deep and efficient sleep, reduces the number of awakenings, and enhances nighttime comfort. Both overheating and the sensation of cold can negatively impact sleep quality, so it is important to adjust the environment to individual needs.
+
+Level of evidence:Good
+
+Level of risk:Negligible
+
+Optimal temperature supports the physiological regulation of body temperature during sleep, enabling smooth transitions between deep and REM sleep phases. Both excessively high and low temperatures disrupt thermoregulation, causing awakenings, shortened sleep, and reduced restfulness. Adjusting conditions to a moderately cool environment helps reduce excessive sweating, chill, and associated nighttime discomforts.
+
+Level of risk:Negligible
+
+Maintaining a moderately cool bedroom temperature is well tolerated by most individuals and is not associated with significant health risks.
+
+Maintaining a cool bedroom temperature is not recommended in certain health conditions or risk groups.
+
+Optimal bedroom temperature: 20–25°C
+
+Ambient temperature – regulated via thermostat, air conditioning, ventilation, or heating
+
+Sleep quality improvements observed within the first nights after temperature adjustment
+
+Maintain optimal temperature throughout the night, especially during falling asleep and deep sleep phases
+
+Temperature Monitoring
+
+Use a room thermometer or smart sensors to maintain the recommended 20–25°C range.
+
+Individual Adjustment
+
+Adjust the temperature to your personal preferences, paying attention to thermal comfort and ease of falling asleep.
+
+Ventilation and Air Quality
+
+Ensure proper bedroom ventilation to avoid elevated CO2 levels and humidity, which also affect sleep quality.
+
+Localized Heating or Cooling
+
+If necessary, use bed heating or light bedding to reduce discomfort without lowering the temperature of the entire room too much.
+
+Avoid both overheating (above 25°C) and overcooling (below 18°C) – both extremes impair sleep and recovery.
+
+Maintaining a moderately cool bedroom temperature (around 20–25°C) promotes better sleep quality. Both overheating and feeling cold can negatively affect sleep – hence adjusting the temperature to individual preferences and comfort is recommended.
+
+Optimal Temperature Range
+
+Practical Conclusions
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:20
+
+Final comment:Evidence on the impact of optimal bedroom temperature (around 20–25°C) on sleep quality is consistent and reliable, derived from numerous observational and experimental studies conducted in large populations, including older adults and various climate zones. These studies repeatedly confirm that both overheating and overcooling of the bedroom reduce sleep efficiency and increase nighttime awakenings, whereas a moderately cool environment promotes better sleep quality. However, despite the large number of studies, there is a lack of meta-analyses and large-scale multicenter randomized clinical trials (RCTs), which are the standard for classifying evidence as strong. Thus, this intervention is supported by high-quality population-based studies but does not meet the criteria for the highest level of evidence reserved for meta-analyses and large RCTs.
+
+Nighttime ambient temperature and sleep in community-dwelling older adults.
+
+Number of 
+
+Key takeaways:Nighttime ambient temperature between 20 and 25°C is optimal for sleep efficiency and restfulness in older adults, with a 5-10% drop in efficiency when temperature increases from 25 to 30°C.
+
+NIGHTTIME AMBIENT TEMPERATURE AND SLEEP IN OLDER ADULTS
+
+Number of 
+
+Key takeaways:Optimizing bedroom temperature between 20-24°C can enhance sleep quality in older adults, with a 5-10% drop in efficiency when the temperature increases by 5°C.
+
+Abstract:Abstract Background Sleep quality is a key contributor to overall health and wellbeing in older adults. While lab-based studies demonstrate that changes in ambient temperature influence sleep quality and duration, our understanding of these associations in older adults’ own home, where they have some degree of control over the temperature, is limited. Aim To examine the relationships between bedroom ambient temperature and outcomes related to sleep in community dwelling older adults. Methods In this longitudinal observational study, we monitored 50 older adults (average age=79 ±7.2y, 41 females) living in Boston, for 18 months. We used wearable sleep monitors and environmental sensors to measure sleep duration, and efficiency (ratio of time spent asleep to time spent in bed) along with bedroom temperature and humidity. Results Sleep was most efficient when the nighttime ambient temperature was between 20-24˚C, with a clinically relevant 5-10% drop in sleep efficiency when the temperature increased beyond this range by 5 ˚C. The associations were primarily nonlinear, with significant between-subject variations. Discussion Sleep disturbances and difficulties falling asleep are common in older adults, often without undiagnosed underlying conditions. Our study identifies bedroom temperature as a crucial regulator of sleep even within home where the individual can control the temperature. This highlights the potential impact of climate change on sleep in older adults, especially those of lower socioeconomic status. Furthermore, our findings suggest that optimizing bedroom temperature can enhance sleep quality in older adults and emphasize the importance of personalized temperature adjustments based on individual needs and circumstances.
+
+An Energy-Efficient Approach for Thermal Comfort and Sleep Quality in Subtropical Bedrooms
+
+Number of 
+
+Key takeaways:Increasing the set-point temperature in subtropical bedrooms from 22°C to 28°C can reduce cooling energy usage by 95%, improving sleep comfort and sleep quality.
+
+Abstract:This study conducted a within-subject study to assess sleeping environmental comfort, acceptance, and self-reported sleep quality in air-conditioned and mixed-mode ventilated bedrooms in a subtropical region during the summer. A wide thermal comfort temperature range of 22.2 °C to 28.2 °C was observed, with slightly warmer thermal sensation at higher temperatures but no significant differences in sleep quality or environmental comfort acceptance within this range. Subjects adapted to warmer sleeping conditions by choosing lighter clothing and bedding insulation. Energy simulations indicated a reduction in the percentage of nights requiring cooling from 65% to 23% by increasing the set-point temperature from 22 °C to 28 °C, resulting in a potential 95% savings in cooling energy. This study advocates for an economical and energy-efficient approach to enhance sleeping thermal comfort while reducing cooling energy usage. These findings offer valuable insights for improved residential building design and optimized cooling energy management practices, especially in light of intensified climate change and the imperative for behavioral changes to promote building sustainability.
+
+Associations of bedroom air temperature and CO2 concentration with subjective perceptions and sleep quality during transition seasons.
+
+Number of 
+
+Key takeaways:A slightly warm pre-sleep environment and high ventilation with low indoor CO2 concentration in naturally ventilated bedrooms during transition seasons improves sleep quality for residents.
+
+Abstract:This field study aimed to investigate naturally ventilated bedroom environment and its effects on subjective perception and sleep quality. Totally, 104 healthy subjects living in urban areas of Beijing participated in the study for one night during transition seasons. Bedroom environment parameters, including temperature, relative humidity, and CO2 concentration, were recorded before and during sleep. Objective sleep quality was measured by Fitbit Alta 2, a wrist-type actigraphy sensor. Subjective assessments were collected by paper-based questionnaires on sleep quality and environmental perceptions. The results showed that neutral temperature for waking state (before sleep) was estimated to be 23.8°C while for sleep state it was 26.5°C. Furthermore, pre-sleep thermal sensation vote was found to be positively correlated with deep sleep percentage. Indoor air quality was correlated with sleep quality as indicated by statistically significant correlations between odor intensity assessment, air quality acceptability, average nightly CO2 concentration, and measures of sleep quality. For naturally ventilated bedrooms during transition seasons with a mild outdoor climate, present findings suggest that a bedroom with slightly warm pre-sleep environment than neutral, and with high ventilation as indicated by low indoor CO2 concentration, could be beneficial for sleep quality of residents.
+
+The effects of bedroom air quality on sleep and next-day performance.
+
+Number of 
+
+Key takeaways:Lowering CO2 levels in bedroom ventilation significantly improves sleep quality, perceived freshness, and next-day mental performance.
+
+Abstract:The effects of bedroom air quality on sleep and next-day performance were examined in two field-intervention experiments in single-occupancy student dormitory rooms. The occupants, half of them women, could adjust an electric heater to maintain thermal comfort but they experienced two bedroom ventilation conditions, each maintained for 1 week, in balanced order. In the initial pilot experiment (N = 14), bedroom ventilation was changed by opening a window (the resulting average CO2 level was 2585 or 660 ppm). In the second experiment (N = 16), an inaudible fan in the air intake vent was either disabled or operated whenever CO2 levels exceeded 900 ppm (the resulting average CO2 level was 2395 or 835 ppm). Bedroom air temperatures varied over a wide range but did not differ between ventilation conditions. Sleep was assessed from movement data recorded on wristwatch-type actigraphs and subjects reported their perceptions and their well-being each morning using online questionnaires. Two tests of next-day mental performance were applied. Objectively measured sleep quality and the perceived freshness of bedroom air improved significantly when the CO2 level was lower, as did next-day reported sleepiness and ability to concentrate and the subjects' performance of a test of logical thinking.
+
+Experimental study of the negative effects of raised bedroom temperature and reduced ventilation on the sleep quality of elderly subjects.
+
+Number of 
+
+Key takeaways:Elevated bedroom temperatures and poor ventilation significantly reduce sleep quality in the elderly, while improved ventilation and lower temperatures enhance deep and REM sleep duration.
+
+Abstract:This study investigated the effects of air temperature and ventilation on the sleep quality of elderly subjects and elucidated the mechanisms involved. Sixteen subjects aged over 65 years old were exposed to four conditions in a 2 × 2 design: air temperatures of 27°C and 30°C (with a ceiling fan in operation at 30°C) and two ventilation conditions (with and without mechanical ventilation) in experimental bedrooms. Their electroencephalogram, electrooculogram, chin electromyogram, electrocardiogram, respiration, oxygen saturation, and wrist skin temperature were measured continuously during sleep. Saliva samples were collected, and blood pressure was measured both before and after sleep. The results showed that at the temperature of 30°C, the total sleep time, sleep efficiency, and duration of REM sleep of the elderly decreased by 26.3 min, 5.5%, and 5.3 min, respectively, and time awake increased by 27.0 min, in comparison with 27°C, indicating that the sleep quality of the elderly is very vulnerable to heat exposure. Even a small heat load led to an overactive sympathetic nervous system and increased wrist skin temperature, which reduced sleep quality. Improving the ventilation increased the duration of deep sleep and REM sleep by 10.3 min and 3.7 min, respectively. Higher pollutant concentrations affected the respiration and autonomous nervous systems to reduce sleep quality. The benefits of improved thermal environment and ventilation on sleep quality were found to be additive. Good ventilation and the avoidance of raised temperatures in the bedroom are thus both important for the sleep quality of the elderly.
+
+Optimizing bedroom thermal environment: A review of human body temperature, sleeping thermal comfort and sleep quality
+
+Number of 
+
+Key takeaways:Body temperature distribution serves as a bridge between sleep quality and thermal comfort, and optimizing this relationship can potentially improve both sleep quality and thermal comfort in a bedroom.
+
+Perception of feeling cold in the bedroom and sleep quality
+
+Number of 
+
+Key takeaways:Keeping the bedroom temperature above a minimum limit can improve sleep quality by reducing the perception of coldness in the room.
+
+Abstract:ABSTRACT Sleep disorders are drawing the attention of both medical and public health concern worldwide. In Japan, research suggests that one fifth of adults do not receive appropriate sleep and 40% of adults sleep less than 6 hours a day, and sleep rates are decreasing further year by year. Many studies show that cold indoor environments negatively affect sleep comfort and quality. Whereas these studies have focused on the effects of low bedroom temperature, few studies have focused on the effect of perception of coldness. Indoor temperature is typically much lower in Japan than in other countries. Therefore, the current study aimed to identify the effect of perception of bedroom coldness on sleep quality among Japanese adults. After controlling for covariates of age, presence of current disease and pain, smoking and consumption of alcohol (Model 1), participants who sometimes, often or always felt cold in the bedroom exhibited 0.57 (95% CI=0.32–0.83, p=<.0001), 1.08 (95% CI=0.82–1.35, p<.0001) or 2.25 (95% CI=1.83–2.67, p<.0001) higher PSQI scores compared to the group which didn’t feel cold in bedroom. Our findings suggest keeping the bedroom thermal environment above a minimum limit as recommended by the World Health Organization or other organization during colder, winter nights when feeling cold during sleep. Additional deficiencies in the housing infrastructure, air quality issues due to the use of a heater, and micro bed environment need to be holistically addressed. Sleep quality can be improved by certain level via providing thermally comfortable sleeping environment.
+
+1214 Higher Bedroom Temperature Associated With Poorer Sleep: Data From Over 3.75 Million Nights
+
+Number of 
+
+Key takeaways:Higher bedroom temperatures, even within the recommended range, are associated with poorer sleep quality and increased wakefulness.
+
+Abstract:Bedroom temperature can influence nocturnal thermoregulation and sleep. To date, limited, small experimental studies have shown that bedroom temperatures outside the recommended range of 65 and 70°F can negatively impact sleep. However, this association has not been studied in a large-scale data set. Using over 3.75 million nights of objectively measured data, we analyzed the associations between habitual bedroom temperatures and sleep.
+ 
+ 
+ 
+ Over 3.75 million nights of sleep and bedroom temperature data were collected using S+ by ResMed technology from 34,096 Individuals (57% male, 20-90 years, mean age 48.7 +/-14.5 years, all US residents). Multilevel regression analyses were used to analyze associations between bedroom temperature and sleep. A stricter alpha level of 0.001 was used to account for the large number of observations in the dataset.
+ 
+ 
+ 
+ Bedroom temperature was above 70°F for 69% of nights, with the average temperature ranging between 68.8 and 76.2°F. For each 1°F increase in bedroom temperature between 60-85°F, sleep efficiency decreased by 0.06%. Likewise, higher bedroom temperatures were linked to shorter Total Sleep Time duration (-0.45 mins/°F), longer Sleep Onset Latency (+0.04 mins/°F), and longer Wake After Sleep Onset (+0.11 mins/°F), all ps<0.001.
+ 
+ 
+ 
+ Analyzing data from over 3.75 million nights, we found that many people sleep in a bedroom warmer than the optimal temperature. Further, higher bedroom temperatures - even within the recommended range for optimal sleep - are associated with poorer sleep and higher wakefulness. Bedroom thermostats and cooling options should be considered to achieve optimal sleeping temperature conditions.
+ 
+ 
+ 
+ N/A
+
+Associations between bedroom environment and sleep quality when sleeping less or more than 6h: a cross sectional study during summer
+
+Number of 
+
+Key takeaways:Bedroom environment significantly impacts sleep quality, especially in short-sleep durations, suggesting the need for alternative solutions to natural ventilation during summer in Shanghai.
+
+Effect of bedroom environment on sleep and physiological parameters for individuals with good sleep quality: A pilot study
+
+Number of 
+
+Key takeaways:Bedroom environment, including temperature, humidity, CO2, and pressure, significantly impacts sleep quality and physiological parameters in individuals with good sleep quality.
+
+Associations of bedroom temperature and ventilation with sleep quality
+
+Number of 
+
+Key takeaways:Bedroom temperature negatively impacts sleep efficiency and REM sleep, while bedroom CO2 concentration negatively affects deep sleep percentage, with air freshness also negatively impacting sleep quality.
+
+Abstract:Sleep is essential for the body to recover from both physical and psychological fatigue accruing throughout the day, and to restore energy to maintain bodily functions. Bedroom environmental quality is one of the key causes of sleep disturbance, so a better understanding of the associations of bedroom temperature and ventilation rate (using CO2 as the surrogate) with sleep quality is necessary. This field study was conducted during summer in subtropical Sydney, Australia, with a sample of 48 householders, including both males and females. In addition to a questionnaire-based subjective sleep quality scales, sleep metrics were also monitored using wrist-wearable sensors. An indoor environmental quality monitoring station (SAMBA) was installed in each survey bedroom for continuous measurements of thermal and air quality parameters at 5-minute intervals for five consecutive days for each subject. The thermal sensation subjects used to characterize their night’s sleep showed no relationship with the actual thermal conditions prevailing in the bedroom while sleeping. Sleep efficiency (ratio of time asleep to time in bed) and rapid eye movement (REM) sleep (%) were both negatively correlated with bedroom operative temperature; as bedroom operative temperature increases by 1 K, the estimate of sleep efficiency and REM sleep percentage decrease by 1.036% and 1.647%, respectively. Deep sleep percentage was negatively related to bedroom CO2 concentration, with a 4.3% decrement for every 100 ppm increase in the overnight mean CO2 concentration. The deterioration in subjectively evaluated air freshness was associated with poorer self-reported sleep quality. The effect of bedroom CO2 concentration on light sleep percentage varied significantly under different bedroom operative temperature levels.
+
+Association of bedroom environment with the sleep quality of elderly subjects in summer: A field measurement in Shanghai, China
+
+Number of 
+
+Key takeaways:Higher air temperature and CO2 concentration negatively impact the sleep quality of elderly subjects in summer, with air temperature being the key factor influencing sleep efficiency and REM sleep duration.
+
+Associations of bedroom PM2.5, CO2, temperature, humidity, and noise with sleep: An observational actigraphy study.
+
+Number of 
+
+Key takeaways:Higher levels of PM2.5, temperature, CO2, and noise in the bedroom decrease sleep efficiency, highlighting the importance of the bedroom environment for high-quality sleep.
+
+Association between bedroom environment and sleep quality of older adults: A winter field study
+
+Number of 
+
+Key takeaways:Increasing ventilation rate and avoiding low/high humidity in the bedroom are crucial for maintaining sleep quality for older adults during winter months.
+
+Bed heating improves the sleep quality and health of the elderly who adapted to no heating in a cold environment
+
+Number of 
+
+Key takeaways:Bed heating improves sleep quality and health for elderly without sleep disorders in a cold environment without changing thermal comfort.
+
+Exploring the nexus between bedroom design and sleep quality in a warming climate
+
+Number of 
+
+Key takeaways:Bedroom design plays a crucial role in sleep quality and resilience, with overheating and extreme heat affecting sleep quality in residential properties.
+
+0219 Experimental study on thermal comfort and sleep quality of sleeping people in overheated bedroom conditions in the UK
+
+Number of 
+
+Key takeaways:Overheated bedroom conditions negatively impact sleep quality, sleep efficiency, and self-rated sleep experience, emphasizing the importance of considering bed microclimate in designing and managing sleeping environments.
+
+Abstract:Thermal comfort and sleep quality are important factors in human health and well-being and can be influenced by various environmental factors such as ambient temperature, humidity, and airflow. The microclimate within a bed, or the local climate immediately surrounding a person's body while they sleep, can also have a significant impact on thermal comfort and sleep quality.
+ 
+ 
+ 
+ In this paper, we investigate the relationship between bed microclimate and thermal comfort and sleep quality in overheated bedroom conditions that are prevalent during heatwaves in the United Kingdom. Participants were screened using the Sleep Disorder Symptoms Checklist (SDS-CL)-25 and health questionnaire. 10 healthy participants were recruited in a 3-night sleep monitoring in the bedrooms of student accommodation hall at Loughborough University campus in the summer of 2022. Baseline sleep quality (in-home) was objectively and subjectively collected for all the participants before the onset of the 3-night sleep monitoring period. Subjective response (self-rating) of sleep quality, sleep satisfaction, thermal sensation, and thermal satisfaction of the room and bed microclimate was collected using Consensus Sleep Diary and survey questionnaires, twice each night (before sleeping) and once in the morning (after waking up). Data on sleeping environment conditions (both room thermal environment and bed microclimate) were collected every night throughout the experiment period. Sleep quality of participants was objectively measured using actigraphy method and mean skin temperature was measured using wireless sensors at ten locations on the body.
+ 
+ 
+ 
+ Overall, sleep quality in the overheated bedroom conditions was poorer compared to the baseline sleep quality. We found that the sleep efficiency reduced, and the self-rated sleep experience was significantly poorer, compared to the baseline. Impact of room thermal conditions on sleep latency was examined, which was found to be increased significantly in the overheated conditions compared to baseline (at home). The results also highlight the statistical significance between sleep quality, skin temperature, and bed temperature.
+ 
+ 
+ 
+ This study highlights the impact of overheated bedroom conditions (room environment and bed microclimate) on both thermal comfort and sleep quality, and the importance of considering the bed microclimate in the design and management of sleeping environments.
+ 
+ 
+ 
+ EPSRC grant number EP/S021671/1
+
+EFFECTS OF SUMMER BEDROOM THERMAL ENVIRONMENT ON SLEEP IN OLDER ADULTS
+
+Number of 
+
+Key takeaways:Adjusting to an appropriate bedroom thermal environment, above 29°C, is crucial for maintaining sleep quality and preventing excessive sleep duration in older adults.
+
+Abstract:This study aimed to evaluate the bedroom thermal environment of older adults and to clarify the effects of the thermal environment on sleep using a longitudinal field survey. More than 90% of bedroom temperatures were higher than the recommended standard bedroom temperature for older people (23-27 °C). However, most participants rated their bedroom environment as cool and comfortable. A high bedroom temperature, above 29 °C, decreased sleep quality, subjective sleep evaluation, and extended time in bed. Adjusting to an appropriate bedroom thermal environment is important for maintaining sleep quality and preventing excessive sleep duration. This study aimed to evaluate the bedroom thermal environment of older adults and to clarify the effects of the thermal environment on sleep using a longitudinal field survey. Simultaneously, we also examined whether the thermal environment and the participants’ use of cooling devices changed during the survey period. The survey was conducted five times, initially in either 2012 or 2013, and then in 2014, 2016, 2017, and 2018, lasting for three to four days each July or August. Participants were ten older individuals (four males and six females), with an average age of 70.8±4.3 years at the time of the first survey; the participants lived independently in Nara City, Nara Prefecture. The amount of physical activity they performed during the daytime and during sleep was measured by an actigraph worn around their waist. Air temperature and relative humidity were measured in the participants’ bedrooms to monitor the thermal environment during nocturnal sleep. Participants rated their subjective sleep evaluation (OSA sleep inventory MA version), thermal sensation, and thermal comfort after waking up. Thermal sensation and comfort were measured only after 2016. In addition, the participants answered questionnaires on the use of cooling devices in their bedroom once each survey year. an
+
+The Influence of Bedroom CO2 Concentration on Sleep Quality
+
+Number of 
+
+Key takeaways:Higher CO2 concentrations in a bedroom lead to reduced sleep quality, including quietness, satisfaction, and duration, as well as increased discomfort and awakenings.
+
+Abstract:A person spends about a third of their life sleeping, and high sleep quality is very important for health. Environmental factors are one of the most important factors affecting sleep quality, and indoor carbon dioxide (CO2) concentration while sleeping has a significant effect on sleep quality. In an indoor bedroom with no open windows and no fresh air system, different numbers of people sleeping will lead to changes in indoor CO2 concentration. In order to study the changes in sleep quality caused by differences in CO2 concentration, experimental research was performed. Objective sleep quality data are collected with polysomnography (PSG) and a subjective questionnaire. The sleep quality of the subjects is tested under three different CO2 concentration levels; the average carbon dioxide concentration of three conditions is 680, 920, and 1350 ppm, which simulate a room with 1, 2, and 3 people sleeping, respectively. Other environment parameters are controlled as follows: test environment temperature is 26 ± 0.5 °C, relative humidity is 50 ± 5%, there is no obvious heat source in the test room, and the radiation temperature and air temperature difference is less than 1 °C. A total of 30 subjective tests were carried out with 10 subjects; the test lasted more than one month. The data subsequently underwent statistical analysis to determine the influence of CO2 concentration on sleep quality. The results show that as the CO2 concentration level increased, the sleep quietness and satisfaction of the subjects gradually decreased, the sleep duration gradually decreased, and symptoms such as throat discomfort, dyspnea, dry and itchy skin, difficulty falling asleep, difficulty waking up, congested nose and bad air smell become more obvious. The PSG test results showed that CO2 concentration has a significant impact on the proportion of the N3 period. According to the group of CO2 concentration conditions, the mean of the N3 period proportion under the conditions of one person, two persons, and three persons is 20.4%, 17.3%, and 14.4%, respectively. Finally, there was also an increase in turning over or awakening during sleep, indicating that sleep quality was reduced under higher CO2 concentrations.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

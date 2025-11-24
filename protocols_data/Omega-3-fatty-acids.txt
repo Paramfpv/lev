@@ -1,0 +1,540 @@
+PROTOCOL: Omega-3 fatty acids
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Abstract:The brain is the most significant and complex organ of the human body. Increasingly, we are becoming aware that certain nutrients may help to safeguard brain health. An expanse of research has investigated the effects of omega fatty acids in relation to brain health but effects across the lifespan have not been widely evaluated. The present systematic review collated evidence from 25 randomized controlled trials (n = 3633) published since 2013. Compared with control groups, omega-3 supplementation generally correlated with improvements in blood biomarkers. Subsequently, these appear to benefit those with lower baseline fatty acid levels, who are breastfeeding or who have neuropsychiatric conditions. Whilst multiple studies indicate that omega fatty acids can protect against neurodegeneration in older adults, more work is needed in the years preceding the diagnosis of such medical conditions. Bearing in mind the scale of ageing populations and rising healthcare costs linked to poor brain health, omega supplementation could be a useful strategy for helping to augment dietary intakes and support brain health across the lifespan. Ongoing research is now needed using harmonious methodologies, supplement dosages, ratios and intervention periods to help formulate congruent conclusions.
+DESCRIPTION: Omega-3 fatty acids, especially EPA and DHA, support brain health, improve cognitive function, relieve joint pain and inflammation, and have a beneficial effect on the cardiovascular system. Regular omega-3 supplementation is particularly recommended for older adults, individuals with joint disorders, and those at high cardiovascular risk.
+
+CONTENT SECTIONS:
+
+Benefits for the brain, joints, and cardiovascular system
+
+Omega-3 fatty acids, especially EPA and DHA, support brain health, improve cognitive function, relieve joint pain and inflammation, and have a beneficial effect on the cardiovascular system. Regular omega-3 supplementation is particularly recommended for older adults, individuals with joint disorders, and those at high cardiovascular risk.
+
+Level of evidence:Good
+
+DHA and EPA are key components of neuronal cell membranes, influencing neurotransmission and neuroprotection. Omega-3 fatty acids reduce the production of inflammatory mediators, which translates into improved joint function and pain reduction. In the cardiovascular system, omega-3s lower triglyceride levels, improve endothelial function, and reduce the risk of cardiovascular events, particularly with high doses of pure EPA.
+
+Omega-3 supplementation is generally well tolerated by most individuals. Mild side effects are possible, which usually resolve on their own or after dose adjustment.
+
+Omega-3 supplementation is not recommended for individuals with certain conditions or in specific situations that may increase the risk of complications or interactions.
+
+0.8–4 g per day of EPA and DHA, depending on clinical indications
+
+Capsules, fish oil, triglycerides, phospholipids
+
+First effects after 4–12 weeks of regular supplementation
+
+With meals, for better absorption
+
+Choose supplements with high purity and stability, preferably standardized for EPA and DHA content.
+
+Dosage in cardiovascular diseases
+
+In cardiovascular diseases, use doses above 1 g of EPA daily, in accordance with medical recommendations.
+
+Supplementation in joint diseases
+
+Regular use of omega-3 can alleviate inflammatory symptoms and joint pain; at least 3 months of therapy is recommended.
+
+Monitoring and consultation
+
+If using anticoagulant medications or in the case of other chronic diseases, consult a doctor before supplementing.
+
+Omega-3 fatty acids have a proven, positive effect on brain health and function. The most important benefits include improved memory, cognitive functions, protection against neurodegeneration, and support for mental health, especially in older adults and those with omega-3 deficiencies.
+
+Protection against neurodegeneration
+
+Brain development in children
+
+Brain structure and function
+
+Limitations and recommendations
+
+Omega-3 fatty acids are extensively studied for their effects on joint and bone health. Research confirms benefits in relieving joint pain, improving function, and supporting bone health, although the impact on bone mineral density is moderate and requires further investigation.
+
+Summary of omega-3 effects on joints
+
+Cardiovascular system
+
+Omega-3 fatty acids, especially EPA and DHA, are extensively studied for their effects on the cardiovascular system. The strongest evidence concerns the reduction of risk for certain cardiovascular events, although effectiveness depends on the type and dose of fatty acids.
+
+Effectiveness in cardiovascular disease prevention
+
+Limitations and controversies
+
+Summary of major omega-3 effects on the cardiovascular system
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:58
+
+Final comment:The level of evidence regarding the impact of omega-3 fatty acids on the cardiovascular system is considered good due to numerous meta-analyses and randomized controlled trials confirming the beneficial effect of supplementation, especially with pure EPA, on the reduction of selected cardiovascular events. However, these effects are not uniform in the general population and may depend on the dose and form of omega-3. Evidence concerning the musculoskeletal system, including joint pain relief and improved function, is preliminary, as clinical studies indicate benefits, but the impact on bone mineral density remains inconclusive and requires further high-quality research. In the case of brain function, especially in older individuals and those with omega-3 deficiencies, positive effects are observed, though in healthy and younger populations the evidence is still in the early stages. Overall, omega-3 supplementation is well tolerated, indicating a low risk of adverse effects for most people, with the exception of a potential increased risk of atrial fibrillation and bleeding at high doses of pure EPA in predisposed individuals.
+
+Long-chain omega-3 fatty acids and the brain: a review of the independent and shared effects of EPA, DPA and DHA
+
+Number of 
+
+Key takeaways:Understanding the unique effects of EPA, DPA, and DHA in brain health and repair can improve dietary recommendations and therapeutic interventions for neurodegenerative and neurological disorders.
+
+Abstract:Omega-3 polyunsaturated fatty acids (PUFAs) exhibit neuroprotective properties and represent a potential treatment for a variety of neurodegenerative and neurological disorders. However, traditionally there has been a lack of discrimination between the different omega-3 PUFAs and effects have been broadly accredited to the series as a whole. Evidence for unique effects of eicosapentaenoic acid (EPA), docosahexaenoic acid (DHA) and more recently docosapentaenoic acid (DPA) is growing. For example, beneficial effects in mood disorders have more consistently been reported in clinical trials using EPA; whereas, with neurodegenerative conditions such as Alzheimer’s disease, the focus has been on DHA. DHA is quantitatively the most important omega-3 PUFA in the brain, and consequently the most studied, whereas the availability of high purity DPA preparations has been extremely limited until recently, limiting research into its effects. However, there is now a growing body of evidence indicating both independent and shared effects of EPA, DPA and DHA. The purpose of this review is to highlight how a detailed understanding of these effects is essential to improving understanding of their therapeutic potential. The review begins with an overview of omega-3 PUFA biochemistry and metabolism, with particular focus on the central nervous system (CNS), where DHA has unique and indispensable roles in neuronal membranes with levels preserved by multiple mechanisms. This is followed by a review of the different enzyme-derived anti-inflammatory mediators produced from EPA, DPA and DHA. Lastly, the relative protective effects of EPA, DPA and DHA in normal brain aging and the most common neurodegenerative disorders are discussed. With a greater understanding of the individual roles of EPA, DPA and DHA in brain health and repair it is hoped that appropriate dietary recommendations can be established and therapeutic interventions can be more targeted and refined.
+
+Effects of Omega-3 Polyunsaturated Fatty Acids on Brain Functions: A Systematic Review
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids improve learning, memory, cognitive well-being, and blood flow in the brain, making them beneficial and risk-free for individuals.
+
+Abstract:Omega is a polyunsaturated fatty acid (PUFA) that has an essential impact on cognitive performance at all stages of life. Eicosapentaenoic acid (EPA), docosahexaenoic acid (DHA), and alpha-linolenic acid (ALA) are essential for brain functions. DHA, the dominant omega-3 in the brain, impacts neurotransmitters and functions of the brain. This systematic review aimed to assess the effects of omega-3 on brain functions. We searched for articles from 2010 to 2022 in PubMed, electronic databases: discover, academic search complete (EBSCO), and Cochrane. To increase search efficiency, search terms include database-specific indexed phrases and keywords. Search terms included "omega three," "DHA," "fish oil," "eicosapentaenoic acid," "EPA," "docosahexaenoic acid," "omega-3," "cognition," "brain," "mental health," and "PUFAs".We conducted a review of only randomized clinical trials (RCTs) that were published in English. We evaluated the quality of the studies using the Cochrane Collaboration bias assessment tool. Our search strategy yielded 174 articles, out of which 33 full-text articles were reviewed and nine articles were selected for data abstraction. The overall number of individuals in all nine studies was 1319. Of the participants, 591 (44.81%) were men, and 728 (55.19%) were women. Participants who received omega-3 were 700 (65.06%) compared to 376 (34.94%) who received a placebo, and their mean age was 45. Ingestion of omega-3 fatty acids increases learning, memory, cognitive well-being, and blood flow in the brain. Omega-3 treatments are advantageous, well-tolerated, and risk-free. Lonelier people, the elderly, and those who eat fewer healthy foods containing omega-3 may benefit from an omega-3 supplement. We suggest that natural omega-3 consumption through the diet should be promoted.
+
+Omega-3 Fatty Acids: Key Players in Cognitive Function and Brain Health
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids, particularly DHA and EPA, significantly improve memory and learning, and show potential in reducing the risk of neurodegenerative diseases like Alzheimer's and mental health disorders like depression and schizophrenia.
+
+Abstract:Introduction:
+Omega-3 fatty acids, particularly DHA and EPA, are crucial for brain health. Modern diets, often lacking in omega-3, highlight their importance in combating cognitive decline, neurodegenerative diseases, and mental disorders.
+Purpose of research:
+This study explores the roles of omega-3 fatty acids in brain health and cognitive functions, including their mechanisms of action and potential in preventing and alleviating neurodegenerative diseases.
+Materials and methods:
+This study involves a comprehensive review of scientific literature on the impact of omega-3 fatty acids on brain health and cognitive functions. The literature search was conducted using PubMed and Google Scholar, focusing on peer-reviewed articles, clinical trials, and meta-analyses relevant to omega-3 fatty acids, brain health, cognitive functions, and mental health outcomes.
+Results and conclusions:
+Research shows that DHA and EPA supplementation can significantly improve memory and learning, especially in older individuals and those with cognitive impairments. Omega-3s also show potential in reducing the risk of neurodegenerative diseases like Alzheimer's through their anti-inflammatory and antioxidant properties. In mental health, omega-3s can help reduce symptoms of depression and schizophrenia, although effectiveness depends on dosage and the EPA to DHA ratio. Omega-3s are essential for brain health and cognitive functions. Their supplementation, combined with cognitively stimulating activities, offers substantial benefits, especially in aging populations. Further research is needed to fully understand omega-3s' mechanisms, optimal dosing, and their use in preventing and treating neurological disorders.
+
+Brain Health across the Lifespan: A Systematic Review on the Role of Omega-3 Fatty Acid Supplements
+
+Number of 
+
+Key takeaways:Omega-3 fatty acid supplements show potential in improving brain health across the lifespan, particularly for those with lower fatty acid levels, breastfeeding, or neuropsychiatric conditions.
+
+Abstract:The brain is the most significant and complex organ of the human body. Increasingly, we are becoming aware that certain nutrients may help to safeguard brain health. An expanse of research has investigated the effects of omega fatty acids in relation to brain health but effects across the lifespan have not been widely evaluated. The present systematic review collated evidence from 25 randomized controlled trials (n = 3633) published since 2013. Compared with control groups, omega-3 supplementation generally correlated with improvements in blood biomarkers. Subsequently, these appear to benefit those with lower baseline fatty acid levels, who are breastfeeding or who have neuropsychiatric conditions. Whilst multiple studies indicate that omega fatty acids can protect against neurodegeneration in older adults, more work is needed in the years preceding the diagnosis of such medical conditions. Bearing in mind the scale of ageing populations and rising healthcare costs linked to poor brain health, omega supplementation could be a useful strategy for helping to augment dietary intakes and support brain health across the lifespan. Ongoing research is now needed using harmonious methodologies, supplement dosages, ratios and intervention periods to help formulate congruent conclusions.
+
+Unraveling the impact of Omega-3 polyunsaturated fatty acids on blood-brain barrier (BBB) integrity and glymphatic function
+
+Number of 
+
+Key takeaways:Omega-3 polyunsaturated fatty acids show neuroprotection, anti-inflammatory effects, and modulatory effects on microvascular pathophysiology, amyloid-beta clearance, and glymphatic pathways in Alzheimer's disease and dementia.
+
+Impacts of Omega-3 Fatty Acids, Natural Elixirs for Neuronal Health, on Brain Development and Functions.
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids (EPA and DHA) play a crucial role in maintaining brain health and functioning, and have therapeutic value in treating nervous system diseases and disorders.
+
+Abstract:Omega-3 fatty acids play a seminal role in maintaining the structural and functional integrity of the nervous system. These specialized molecules function as precursors for many lipid-based biological messengers. Also, studies suggest the role of these fatty acids in regulating healthy sleep cycles, cognitive ability, brain development, etc. Dietary intake of essential poly unsaturated fatty acids (PUFA) such as eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) are foundational to the optimal working of the nervous system. Besides regulating health, these biomolecules have great therapeutic value in treating several diseases, particularly nervous system diseases and disorders. Many recent studies conclusively demonstrated the beneficial effects of Omega-3 fatty acids in treating depression, neuropsychiatric disorders, neurodegenerative disorders, neurochemical disorders, and many other illnesses associated with the nervous system. This chapter summates the multifaceted role of poly unsaturated fatty acids, especially Omega-3 fatty acids (EPA and DHA), in the neuronal health and functioning. The importance of dietary intake of these essential fatty acids, their recommended dosages, bioavailability, the mechanism of their action, and therapeutic values are extensively discussed.
+
+New perspectives on randomized controlled trials with omega-3 fatty acid supplements and cognition: A scoping review
+
+Number of 
+
+Key takeaways:Omega-3 fatty acid supplementation may improve cognition in various populations, but more randomized controlled trials are needed to confirm these findings.
+
+Long-chain omega-3 fatty acids improve brain function and structure in older adults.
+
+Number of 
+
+Key takeaways:Higher intake of long-chain omega-3 fatty acids improves brain function and structure in healthy older adults, suggesting novel strategies to maintain cognitive functions into old age.
+
+Abstract:Higher intake of seafish or oil rich in long-chain omega-3 polyunsaturated fatty acids (LC-n3-FA) may be beneficial for the aging brain. We tested in a prospective interventional design whether high levels of supplementary LC-n3-FA would improve cognition, and addressed potential mechanisms underlying the effects. Sixty-five healthy subjects (50-75 years, 30 females) successfully completed 26 weeks of either fish oil (2.2 g/day LC-n3-FA) or placebo intake. Before and after the intervention period, cognitive performance, structural neuroimaging, vascular markers, and blood parameters were assayed. We found a significant increase in executive functions after LC-n3-FA compared with placebo (P = 0.023). In parallel, LC-n3-FA exerted beneficial effects on white matter microstructural integrity and gray matter volume in frontal, temporal, parietal, and limbic areas primarily of the left hemisphere, and on carotid intima media thickness and diastolic blood pressure. Improvements in executive functions correlated positively with changes in omega-3-index and peripheral brain-derived neurotrophic factor, and negatively with changes in peripheral fasting insulin. This double-blind randomized interventional study provides first-time evidence that LC-n3-FA exert positive effects on brain functions in healthy older adults, and elucidates underlying mechanisms. Our findings suggest novel strategies to maintain cognitive functions into old age.
+
+Omega-3 Fatty Acids, Cognition, and Brain Volume in Older Adults
+
+Number of 
+
+Key takeaways:Increased levels of omega-3 fatty acids are associated with better memory, processing speed, and structural brain measures in healthy, cognitively older adults.
+
+Abstract:The elderly population is growing at increased rates and is expected to double in size by 2050 in the United States and worldwide. The consumption of healthy foods and enriched diets have been associated with improved cognition and brain health. The key nutrients common to many healthy foods and diets are the omega-3 polyunsaturated fatty acids (omega-3 FAs), such as eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA). We explored whether omega-3 FA levels are associated with brain volume and cognition. Forty healthy, cognitively normal, Seventh-day Adventist older adults (mean age 76.3 years at MRI scan, 22 females) completed neurocognitive testing, a blood draw, and structural neuroimaging from 2016 to 2018. EPA and an overall omega-3 index were associated with individual measures of delayed recall (RAVLT-DR) and processing speed (Stroop Color) as well as entorhinal cortex thickness. EPA, DHA, and the omega-3 index were significantly correlated with the total white matter volume. The entorhinal cortex, frontal pole, and total white matter were associated with higher scores on delayed memory recall. This exploratory study found that among healthy, cognitively older adults, increased levels of omega-3 FAs are associated with better memory, processing speed, and structural brain measures.
+
+Effects of dietary omega-3 polyunsaturated fatty acids on brain gene expression.
+
+Number of 
+
+Key takeaways:Omega-3 PUFA-enriched diets lead to significant changes in gene expression in the central nervous system, potentially impacting learning and memory.
+
+Abstract:Polyunsaturated fatty acids (PUFA) are essential structural components of the central nervous system. Their role in controlling learning and memory has been well documented. A nutrigenomic approach with high-density microarrays was used to reveal brain gene-expression changes in response to different PUFA-enriched diets in rats. In aged rats fed throughout life with PUFA-enriched diets, genes with altered expressions included transthyretin, alpha-synuclein, and calmodulins, which play important roles in synaptic plasticity and learning. The effect of perinatal omega-3 PUFA supply on gene expression later in life also was studied. Several genes showed similar changes in expression in rats fed omega-3-deficient diets in the perinatal period, regardless of whether they or their mothers were fed omega-3 PUFA-sufficient diets after giving birth. In this experiment, among the down-regulated genes were a kainate glutamate receptor and a DEAD-box polypeptide. Among the up-regulated genes were a chemokine-like factor, a tumor necrosis factor receptor, and cytochrome c. The possible involvement of the genes with altered expression attributable to different diets in different brain regions in young and aged rats and the possible mode of regulatory action of PUFA also are discussed. We conclude that PUFA-enriched diets lead to significant changes in expression of several genes in the central nervous tissue, and these effects appear to be mainly independent of their effects on membrane composition. The direct effects of PUFA on transcriptional modulators, the downstream developmentally and tissue-specifically activated elements might be one of the clues to understanding the beneficial effects of the omega-3 PUFA on the nervous system.
+
+Omega-3 Fatty Acids Attenuate Brain Alterations in High-Fat Diet-Induced Obesity Model
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids partially reverse brain changes caused by a high-fat diet, suggesting they may contribute to obesity treatment.
+
+Abstract:This study evaluated the effects of omega-3 on inflammation, oxidative stress, and energy metabolism parameters in the brain of mice subjected to high-fat diet-induced obesity model. Body weight and visceral fat weight were evaluated as well. Male Swiss mice were divided into control (purified low-fat diet) and obese (purified high-fat diet). After 6 weeks, the groups were divided into control + saline, control + omega-3, obese + saline, and obese + OMEGA-3. Fish oil (400 mg/kg/day) or saline solution was administrated orally, during 4 weeks. When the experiment completed 10 weeks, the animals were euthanized and the brain and visceral fat were removed. The brain structures (hypothalamus, hippocampus, prefrontal cortex, and striatum) were isolated. Treatment with omega-3 had no effect on body weight, but reduced the visceral fat. Obese animals showed increased inflammation, increased oxidative damage, decreased antioxidant enzymes activity and levels, changes in the Krebs cycle enzyme activities, and inhibition of mitochondrial respiratory chain complexes in the brain structures. Omega-3 treatment partially reversed the changes in the inflammatory and in the oxidative damage parameters and attenuated the alterations in the antioxidant defense and in the energy metabolism (Krebs cycle and mitochondrial respiratory chain). Omega-3 had a beneficial effect on the brain of obese animals, as it partially reversed the changes caused by the consumption of a high-fat diet and consequent obesity. Our results support studies that indicate omega-3 may contribute to obesity treatment.
+
+Omega-3 fatty acids and mental health
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids play a crucial role in brain development and function, and their deficiency may increase the risk of various psychiatric disorders.
+
+Impact of Omega-3 Fatty Acid Supplementation on Memory Functions in Healthy Older Adults
+
+Number of 
+
+Key takeaways:Omega-3 fatty acid supplementation positively impacts memory functions in healthy older adults, suggesting novel strategies to maintain cognitive functions into old age.
+
+Abstract:As the process of Alzheimer’s disease (AD) begins years before disease onset, searching for prevention strategies is of major medical and economic importance. Nutritional supplementation with long-chain polyunsaturated omega-3 fatty acids (LC-n3-FA) may exert beneficial effects on brain structure and function. However, experimental evidence in older adults without clinical dementia is inconsistent, possibly due to low sensitivity of previously employed test batteries for detecting subtle improvements in cognition in healthy individuals. Here we used LOCATO, recently described as a robust and sensitive tool for assessing object-location memory (OLM) in older adults, to evaluate the impact of LC-n3-FA supplementation on learning and memory formation. In a double-blind placebo-controlled proof-of-concept study, 44 (20 female) cognitively healthy individuals aged 50–75 years received either LC-n3-FA (2,200 mg/day, n = 22) or placebo (n = 22) for 26 weeks. Before and after intervention, memory performance in the OLM-task (primary) was tested. As secondary outcome parameters, performance in Rey Auditory Verbal Learning Test (AVLT), dietary habits, omega-3-index, and other blood-derived parameters were assessed. Omega-3 index increased significantly in the LC-n3-FA group compared with the placebo group. Moreover, recall of object locations was significantly better after LC-n3-FA supplementation compared with placebo. Performance in the AVLT was not significantly affected by LC-n3-FA. This double-blind placebo-controlled proof-of-concept study provides further experimental evidence that LC-n3-FA exert positive effects on memory functions in healthy older adults. Our findings suggest novel strategies to maintain cognitive functions into old age.
+
+Omega-3 fatty acids' supplementation in Alzheimer's disease: A systematic review
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids supplementation shows potential benefits in mild Alzheimer's disease, but more extensive studies are needed to support its use in treating the disease.
+
+Abstract:Introduction: Alzheimer's disease (AD) is a neurodegeneration disorder characterized by progressive impairments of memory, language, reasoning, and other cognitive functions. Evidence suggests that omega-3 fatty acids may act as a possible protection factor in AD. Objective: To evaluate the results available in the literature involving omega-3 fatty acids supplementation and its effect on cognitive function in AD patients. Methods: A systematic review of MEDLINE (from PubMed), Excerpta Medica Database, and Cochrane Library databases was conducted according to Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Inclusion criteria consisted in original intervention studies, controlled by placebo, that assessed the impact of supplementation or dietary intake of omega-3 fatty acids on cognitive function, in humans with AD, without limitation for prime date of publication. Results: Initial search resulted in 361 articles. Seven studies fully met the inclusion criteria. Most studies did not find statistically significant results for the omega-3 fatty acids supplementation compared to placebo, and those who show some benefit do it only in a few cognitive assessment scales. However, the effects of omega-3 fatty acids appear to be most effectively demonstrated in patients with very mild AD. Conclusion: The effects of omega-3 fatty acids supplementation in mild AD corroborate epidemiological observational studies showing that omega-3 fatty acids may be beneficial in disease onset, when there is slight impairment of brain function. Although some studies have shown changes in scales of cognitive function in more severe cases, they are not enough to support omega-3 fatty acids supplementation in the treatment of AD.
+
+Omega-3 fatty acid, carotenoid and vitamin E supplementation improves working memory in older adults: A randomised clinical trial.
+
+Number of 
+
+Key takeaways:Omega-3 fatty acid, carotenoid, and vitamin E supplementation improves working memory in cognitively healthy older adults, potentially reducing cognitive decline and dementia risk.
+
+Omega-3 and its domain-specific effects on cognitive test performance in youths: A meta-analysis
+
+Number of 
+
+Key takeaways:Omega-3 fatty acid supplementation shows no main effect on cognitive test performance in youths, but EPA-rich formulations show benefits in long-term memory, working memory, and problem solving.
+
+Understanding the effects of omega-3 fatty acid supplementation on the physical properties of brain lipid membranes
+
+Number of 
+
+Key takeaways:Omega-3 fatty acid supplementation alters brain lipid membranes' molecular packing, elasticity, and lipid miscibility, potentially impacting brain health and disease.
+
+A Systematic Review of Omega-3 Fatty Acid Consumption and Cognitive Outcomes in Neurodevelopment
+
+Number of 
+
+Key takeaways:Omega-3 fatty acid supplementation may have short-term positive impacts on neurodevelopment, particularly in visual attention, working memory, executive function, and communication.
+
+Abstract:Introduction: This systematic review addresses the effects of n-3 long-chain polyunsaturated fatty acids consumption on human neurodevelopment. It evaluates articles 
+
+Essential omega-3 fatty acids tune microglial phagocytosis of synaptic elements in the mouse developing brain
+
+Number of 
+
+Key takeaways:Low maternal omega-3 fatty acid intake in mice leads to increased microglia-mediated phagocytosis of synaptic elements, altering neuronal morphology and cognitive performance in offspring.
+
+Long COVID and long chain fatty acids (LCFAs): Psychoneuroimmunity implication of omega-3 LCFAs in delayed consequences of COVID-19
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids may counteract the negative effects of long COVID on the brain, behavior, and immunity by reducing inflammation and restoring tissue homeostasis.
+
+Omega-3 fatty acids in pathological calcification and bone health.
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids supplementation can improve bone health and prevent pathological calcification in various tissues, including vascular cells and cancer cells.
+
+Abstract:Omega-3 fatty acids (ω-3FAs) such as Docosahexaenoic acid (DHA) and Eicosapentanoic acid (EPA), are active ingredient of fish oil, which have larger health benefits against various diseases including cardiovascular, neurodegenerative, cancers and bone diseases. Substantial studies documented a preventive role of omega-3 fatty acids in pathological calcification like vascular calcification and microcalcification in cancer tissues. In parallel, these fatty acids improve bone quality probably by preventing bone decay and augmenting bone mineralization. This study also addresses that the functions of ω-3FAs not only depend on tissue types, but also work through different molecular mechanisms for preventing pathological calcification in various tissues and improving bone health. PRACTICAL APPLICATIONS: Practical applications of the current study are to improve the knowledge about the supplementation of omega-3 fatty acids. This study infers that supplementation of omega-3 fatty acids aids in bone preservation in elder females at the risk of osteoporosis and also, on the contrary, omega-3 fatty acids interfere with pathological calcification of vascular cells and cancer cells. Omega-3 supplementation should be given to the cardiac patients because of its cardio protective role. In line with this, omega-3 supplementation should be included with chemotherapy for cancer patients as it can prevent osteoblastic potential of breast cancer patients, responsible for pathological mineralization, and blocks off target toxicities. Administration of omega-3 fatty acid with chemotherapy will not only improve survival of cancer patients, but also improve the bone quality. Thus, this study allows a better understanding on omega-3 fatty acids in combating pathological complications such as osteoporosis, vascular calcification, and breast microcalcification.
+
+Effect of omega-3 polyunsaturated fatty acids supplementation for patients with osteoarthritis: a meta-analysis
+
+Number of 
+
+Key takeaways:Omega-3 PUFA supplementation effectively relieves pain and improves joint function in patients with osteoarthritis, with no severe treatment-related adverse events observed.
+
+Abstract:Abstract Background Omega-3 polyunsaturated fatty acids (n-3 PUFAs) confers anti-inflammatory efficacy, which has been suggested to be effective for patients with osteoarthritis (OA). However, previous studies evaluating the influence of n-3 PUFAs supplementation in patients with OA showed inconsistent results. We performed a systematic review and meta-analysis to comprehensively evaluate the influence of n-3 PUFAs on symptom and joint function of patients with OA. Methods Relevant randomized controlled trials (RCTs) were obtained by searching PubMed, Embase, and Cochrane Library databases. A random-effects model was employed to combine the results. Results Nine RCTs with 2070 patients with OA contributed to the meta-analysis. Pooled results showed that n-3 PUFAs supplementation could significantly relieve the arthritis pain as compared to placebo (standardized mean difference : − 0.29, 95% confidence interval − 0.47 to − 0.11, p = 0.002, I 2 = 60%). Besides, supplementation with n-3 PUFAs was also associated with improved joint function (SMD: − 0.21, 95% CI − 0.34 to − 0.07, p = 0.002, I 2 = 27%). Subgroup analysis showed consistent results of studies with arthritis pain and joint function evaluated by the Western Ontario-McMaster University Osteoarthritis Index and other scales ( p for subgroup difference = 0.33 and 0.34, respectively). No severe treatment-related adverse events (AEs) were observed in the included patients, and the incidence of overall AEs was similar between groups (odds ratio: 0.97, 95% CI 0.64–1.45, p = 0.86, I 2 = 0%). Conclusions Supplementation of n-3 PUFAs is effective to relieve pain and improve joint function in patients with OA.
+
+Modulatory effect of omega-3 polyunsaturated fatty acids on osteoblast function and bone metabolism.
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids supplementation in the diet promotes bone formation and reduces prostaglandin E2 production in osteoblast-like cells, potentially benefiting bone health.
+
+The Relationship Between Omega-3, Omega-6 and Total Polyunsaturated Fat and Musculoskeletal Health and Functional Status in Adults: A Systematic Review and Meta-analysis of RCTs
+
+Number of 
+
+Key takeaways:Increasing omega-3 intake may improve bone density, but more high-quality research is needed to confirm this and other musculoskeletal effects.
+
+Abstract:We conducted a systematic review and meta-analysis to assess the effects of increasing dietary omega-3, omega-6 and mixed polyunsaturated fatty acids (PUFA) on musculoskeletal health, functional status, sarcopenia and risk of fractures. We searched Medline, Embase, The Cochrane library, ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP) databases for Randomised Controlled Trials (RCTs) of adults evaluating the effects of higher versus lower oral omega-3, omega-6 or mixed PUFA for ≥ 6 months on musculoskeletal and functional outcomes. We included 28 RCTs (7288 participants, 31 comparisons), 23 reported effects of omega-3, one of omega-6 and four of mixed total PUFA. Participants and doses were heterogeneous. Six omega-3 trials were judged at low summary risk of bias. We found low-quality evidence that increasing omega-3 increased lumbar spine BMD by 2.6% (0.03 g/cm2, 95% CI − 0.02 to 0.07, 463 participants). There was also the suggestion of an increase in femoral neck BMD (of 4.1%), but the evidence was of very low quality. There may be little or no effect of omega-3 on functional outcomes and bone mass; effects on other outcomes were unclear. Only one study reported on effects of omega-6 with very limited data. Increasing total PUFA had little or no effect on BMD or indices of fat-free (skeletal) muscle mass (low-quality evidence); no data were available on fractures, BMD or functional status and data on bone turnover markers were limited. Trials assessing effects of increasing omega-3, omega-6 and total PUFA on functional status, bone and skeletal muscle strength are limited with data lacking or of low quality. Whilst there is an indication that omega-3 may improve BMD, high-quality RCTs are needed to confirm this and effects on other musculoskeletal outcomes.
+
+Exposure to omega-3 fatty acids at early age accelerate bone growth and improve bone quality.
+
+Number of 
+
+Key takeaways:Exposure to high omega-3 fatty acids at a young age accelerates bone growth and improves bone quality, with maternal high omega-3 concentrations playing a role during gestation and postnatal periods.
+
+Dietary Omega-3 Fatty Acids and Bone Health
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids have beneficial effects on bone metabolism and joint health, with potential for optimizing bone growth and maintaining bone mass during remodeling.
+
+Abstract:The data presented in this review describe consistent and reproducible beneficial effects of n-3 fatty acids on bone metabolism and bone/joint disease. Polyunsaturated fatty acids (PUFA) modulate eicosanoid biosynthesis in numerous tissues and cell types, alter signal transduction, and influence gene expression. The effect of n-6 and n-3 polyunsaturated fatty acids on cardiovascular disease, certain cancer and bone/joint health is related to the newer discoveries of how dietary PUFA impact health. Since the prostanoid PGE2 plays an important role in bone metabolism and inflammatory process, we speculate that by modulating the dietary ratio of n-6/n-3 fatty acids, bone growth could be optimized during bone modeling and bone mass better maintained during bone remodeling. Future research on n-3 fatty acids should focus on two aspects of bone. The first, to further elucidate the effects of n-3 fatty acids on biochemical and molecular factors that are involved in bone modeling, remodeling, and disease processes. The second, to evaluate the pharmaceutical interactions and applications of these nutraceutical fatty acids in maintaining bone mineral status and controlling inflammatory bone/joint diseases.
+
+Omega-3 Polyunsaturated Fatty Acids and Skeletal Health1
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids have beneficial effects on bone metabolism and joint diseases, with potential pharmaceutical applications in maintaining bone mineral status and controlling inflammatory bone/joint diseases.
+
+Abstract:This minireview on skeletal biology describes the actions of prostaglandins and cytokines involved in the local regulation of bone metabolism, it documents the role of lipids in bone biology, and it presents relationships between fatty acids and other factors that impact skeletal metabolism. The data presented herein show consistent and reproducible beneficial effects of omega-3 (n-3) fatty acids on bone metabolism and bone/joint diseases. Polyunsaturated fatty acids modulate eicosanoid biosynthesis in numerous tissues and cell types, alter signal transduction, and influence gene expression. These effects have not been explored in the skeletal system. Future research on n-3 fatty acids in bone biology should focus on the following two aspects. First, the further elucidation of how n-3 fatty acids alter biochemical and molecular processes involved in bone modeling and bone cell differentiation, and second, the evaluation of the potential pharmaceutical applications of these nutraceutical fatty acids in maintaining bone mineral status and controlling inflammatory bone/joint diseases.
+
+The association between dietary omega-3 intake and osteoporosis: a NHANES cross-sectional study
+
+Number of 
+
+Key takeaways:Higher dietary omega-3 fatty acid intake is significantly associated with a lower risk of osteoporosis, particularly in individuals under 60, females, and non-smokers.
+
+Abstract:Background Recent research suggests that omega-3 fatty acids may play a role in bone metabolism through their influence on bone mineral density (BMD) and the regulation of bone turnover markers. However, epidemiological evidence linking omega-3 intake to the risk of developing osteoporosis is still emerging and remains inconclusive. This study aims to clarify the role of dietary omega-3 fatty acids in the prevention of osteoporosis. Methods We analyzed data from 8,889 participants categorized into normal, osteopenia, and osteoporosis groups based on their BMD scores from the National Health and Nutrition Examination Survey (NHANES). We measured dietary omega-3 intake using two 24-h dietary recall interviews. Dietary omega-3 intake was quantified and divided into quartiles. Multivariate logistic regression and subgroup analysis were used to explore the correlation between dietary omega-3 intake and osteoporosis. The dose–response relationship between the two was analyzed with a restricted cubic spline (RCS). Results Higher dietary intake of omega-3 fatty acids was inversely associated with the risk of osteoporosis. Participants in the highest quartile of omega-3 intake had a significantly lower risk (OR = 0.71, 95% CI: 0.53–0.93) compared to those in the lowest quartile, with a consistent trend across all adjusted models (p for trend <0.05). Subgroup analyses indicated stronger associations in individuals under 60 years of age, female and non-smokers. In individuals aged under 60, higher omega-3 intake was associated with significantly reduced osteoporosis risk (OR = 0.51, 95%CI: 0.26–0.95), females showed a protective effect of high omega-3 intake against osteoporosis (OR = 0.65, 95% CI: 0.49–0.87). Among non-smokers, higher omega-3 intake was associated with a lower risk of osteoporosis (OR = 0.64, 95% CI: 0.45–0.90), whereas in smokers, the association was not evident (OR = 0.91, 95%CI: 0.55–1.52). No significant associations were found in older participants or smokers. Intake of omega-3 and osteoporosis were linearly related (p for nonlinear = 0.366). Conclusion This study demonstrates a significant inverse relationship between dietary omega-3 fatty acid intake and osteoporosis risk, suggesting omega-3 s play a crucial role in bone health. However, further longitudinal studies are needed to confirm these findings and refine dietary recommendations for osteoporosis prevention.
+
+Effects of dietary omega-3 fatty acids on bones of healthy mice.
+
+Number of 
+
+Key takeaways:Dietary omega-3 fatty acids do not significantly affect bone structure or metabolism in healthy growing mice.
+
+Omega-3 Fatty Acids for the Management of Osteoarthritis: A Narrative Review
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids show potential in managing osteoarthritis by reducing inflammation and cartilage loss.
+
+Abstract:Osteoarthritis (OA) is a disease which results in degeneration of cartilage within joints and affects approximately 13.6% of adults over 20 years of age in Canada and the United States of America. OA is characterized by a state of low-grade inflammation which leads to a greater state of cellular catabolism disrupting the homeostasis of cartilage synthesis and degradation. Omega-3 polyunsaturated fatty acids (PUFAs) have been postulated as a potential therapeutic treatment option for individuals with OA. Omega-3 PUFAs are recognized for their anti-inflammatory properties, which could be beneficial in the context of OA to moderate pro-inflammatory markers and cartilage loss. The purpose of this narrative review is to outline recent pre-clinical and clinical evidence for the use of omega-3 in the management of OA.
+
+Joint effects of one year of marine omega-3 fatty acid supplementation and participant dietary fish intake upon circulating lipid mediators of inflammation resolution in a randomized controlled trial.
+
+Number of 
+
+Key takeaways:One year of omega-3 fatty acid supplementation reduces proinflammatory mediators and increases proresolving mediators, with larger effects observed in those with low baseline fish intake.
+
+Implications for eicosapentaenoic acid- and docosahexaenoic acid-derived resolvins as therapeutics for arthritis.
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids, specifically resolvins, protectins, and maresins, show potential as therapeutic agonists for inflammatory diseases like rheumatoid arthritis.
+
+A meta-analysis of the analgesic effects of omega-3 polyunsaturated fatty acid supplementation for inflammatory joint pain
+
+Number of 
+
+Key takeaways:Omega-3 polyunsaturated fatty acids supplementation reduces patient-reported joint pain intensity, morning stiffness, and number of painful joints in conditions like rheumatoid arthritis and inflammatory bowel disease.
+
+Omega 3 polyunsaturated fatty acids: Potential anti-inflammatory effect in a model of ovariectomy and temporomandibular joint arthritis induction in rats.
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids effectively reduced temporomandibular joint damage in rats with ovariectomy and induced rheumatoid arthritis, offering a promising alternative for bone repair and reducing inflammation.
+
+The Influence of Omega-3 Fatty Acids on Skeletal Muscle Protein Turnover in Health, Disuse, and Disease
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids positively impact skeletal muscle mass by enhancing protein synthesis, reducing breakdown, and improving mitochondrial function, benefiting both healthy individuals and those with muscle-disuse or cancer cachexia.
+
+Abstract:Ingestion of omega-3 fatty acids is known to exert favorable health effects on a number of biological processes such as improved immune profile, enhanced cognition, and optimized neuromuscular function. Recently, data have emerged demonstrating a positive influence of omega-3 fatty acid intake on skeletal muscle. For instance, there are reports of clinically-relevant gains in muscle size and strength in healthy older persons with omega-3 fatty acid intake as well as evidence that omega-3 fatty acid ingestion alleviates the loss of muscle mass and prevents decrements in mitochondrial respiration during periods of muscle-disuse. Cancer cachexia that is characterized by a rapid involuntary loss of lean mass may also be attenuated by omega-3 fatty acid provision. The primary means by which omega-3 fatty acids positively impact skeletal muscle mass is via incorporation of eicosapentaenoic acid (EPA; 20:5n−3) and docosahexaenoic acid (DHA; 22:6n−3) into membrane phospholipids of the sarcolemma and intracellular organelles. Enrichment of EPA and DHA in these membrane phospholipids is linked to enhanced rates of muscle protein synthesis, decreased expression of factors that regulate muscle protein breakdown, and improved mitochondrial respiration kinetics. However, exactly how incorporation of EPA and DHA into phospholipid membranes alters these processes remains unknown. In this review, we discuss the interaction between omega-3 fatty acid ingestion and skeletal muscle protein turnover in response to nutrient provision in younger and older adults. Additionally, we examine the role of omega-3 fatty acid supplementation in protecting muscle loss during muscle-disuse and in cancer cachexia, and critically evaluate the molecular mechanisms that underpin the phenotypic changes observed in skeletal muscle with omega-3 fatty acid intake.
+
+The Effect of Omega-3 Fatty Acids on Rheumatoid Arthritis
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids may have a beneficial effect on rheumatoid arthritis treatment by modulating disease activity and reducing swollen and tender joints.
+
+Abstract:Omega-3 fatty acids are unsaturated fatty acids thought to play a role in health and disease. They are known as essential fatty acids, as they cannot be synthesized in mammals. Omega-3 fatty acids have a beneficial effect on the secondary prevention of coronary artery disease and stroke and are essential for the development and function of the nervous system and the retina in man. Omega-3 fatty acids are thought to have immunomodulatory properties as they act as precursors to lipid mediators of inflammation which may limit or modulate the inflammatory response. Omega-3 fatty acids seem to prevent or attenuate experimental arthritis. They may have a beneficial effect in the treatment of rheumatoid arthritis. Clinical studies have shown that omega-3 fatty acids may have a modulatory effect on disease activity, namely on the number of swollen and tender joints. It appears that omega-3 fatty acids may modulate disease activity in rheumatoid arthritis.
+
+Effects of omega-3 supplementation on lipid metabolism, inflammation, and disease activity in rheumatoid arthritis: a meta-analysis of randomized controlled trials.
+
+Number of 
+
+Key takeaways:Omega-3 supplementation increases EPA and DHA, reduces omega-6:omega-3 ratio, triglyceride, and tender joint count in rheumatoid arthritis patients, but has limited effects on CRP, ESR, and DAS28 scores.
+
+Abstract:IntroductionOmega-3 possesses anti-inflammatory and lipid metabolism modifying effects in rheumatoid arthritis (RA), but inconsistency exists among previous studies. This meta-analysis intended to explore the effects of omega-3 supplementation on fatty acid distribution, blood lipid profiles, inflammation, and disease activity in RA patients.MethodsThis meta-analysis followed the Preferred Reporting Item for Systematic Reviews and Meta-Analyses (PRISMA) protocol. PubMed, Web of Science, and Embase databases were searched until August 31, 2023.ResultsEighteen randomized controlled trials with 1018 RA patients were included. Regarding fatty acid distribution, omega-3 supplementation increased eicosapentaenoic acid (EPA) and docosahexanoic acid (DHA) (SMD: 0.62; 95% CI: 0.35, 0.89; P < 0.001), but reduced omega-6:omega-3 ratio (SMD: -1.06; 95% CI: -1.39, -0.73; P < 0.001) in RA patients. Regarding blood lipid, omega-3 supplementation decreased triglyceride (TG) in RA patients (SMD: -0.47; 95% CI: -0.78, -0.16; P = 0.003). Regarding clinical symptoms, omega-3 supplementation reduced tender joint count (TJC) in RA patients (SMD: -0.59; 95% CI: -0.79, -0.39; P < 0.001). Notably, erythrocyte sedimentation rate (ESR), C-reactive protein (CRP), and disease activity score on 28 joints (DAS28) score were slightly decreased by omega-3 supplementation but without statistical significance (all P > 0.05). Publication bias was low, and stability assessed by sensitivity analysis was good.ConclusionOmega-3 supplementation increases EPA and DHA, but reduces the omega-6:omega-3 ratio, TG, and TJC in RA patients.Key Points• Omega-3 increased EPA and DHA, but decreased omega-6:omega-3 ratio in RA patients.• Omega-3 reduced TG and TJC in RA patients.• Omega-3 showed limited effects on CRP, ESR, and DAS28 scores in RA patients.
+
+The Relationship between Fatty Acids and the Development, Course and Treatment of Rheumatoid Arthritis
+
+Number of 
+
+Key takeaways:Increased consumption of omega-3 fatty acids may reduce pain and disease activity in patients with rheumatoid arthritis, making it a standard of care alongside pharmacotherapy.
+
+Abstract:For this systematic review, a search of the relevant literature was conducted in the EMBASE and PubMed databases. We used the following terms: ‘rheumatoid arthritis’ in conjunction with ‘fatty acid’. The following inclusion criteria had to be satisfied for the studies to be included in the analysis: an RCT/observational/cohort study published in English. A total of seventy-one studies were analysed. The presented systematic review of the available data indicates that increased consumption of omega-3 fatty acids (FAs) may have a beneficial effect on human health by decreasing pain and disease activity in patients with RA. The beneficial effect of unsaturated FA on the clinical parameters of RA was demonstrated in all 71 studies analysed. The content of omega-3 FAs in the diet and the consumption of fish, which are their main source, may contribute to a reduced incidence of RA. FAs are an essential component in the synthesis of eicosanoids that exhibit anti-inflammatory properties. Due to the documented positive influence of unsaturated FAs on treatment outcomes, the use of a diet rich in long-chain unsaturated FAs should be the standard of care, along with pharmacotherapy, in the treatment of RA patients. An important element in the control of the treatment process should be the routine assessment of the quality of life of RA patients.
+
+Association between Omega-3 fatty acids and autoimmune disease: Evidence from the umbrella review and Mendelian randomization analysis.
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids have a beneficial impact on rheumatoid arthritis and systemic lupus erythematosus by reducing disease risk, decreasing disease activity, and mitigating inflammation biomarkers.
+
+Effects of Omega-3 Fatty Acids on Immune Cells
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids alter immune cell activation through diverse mechanisms, including regulation of membrane properties and signaling molecules.
+
+Abstract:Alterations on the immune system caused by omega-3 fatty acids have been described for 30 years. This family of polyunsaturated fatty acids exerts major alterations on the activation of cells from both the innate and the adaptive immune system, although the mechanisms for such regulation are diverse. First, as a constitutive part of the cellular membrane, omega-3 fatty acids can regulate cellular membrane properties, such as membrane fluidity or complex assembly in lipid rafts. In recent years, however, a new role for omega-3 fatty acids and their derivatives as signaling molecules has emerged. In this review, we describe the latest findings describing the effects of omega-3 fatty acids on different cells from the immune system and their possible molecular mechanisms.
+
+Effect of omega-3 fatty acids on cardiovascular outcomes: A systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids reduce cardiovascular mortality and improve cardiovascular outcomes, with EPA monotherapy showing a more prominent reduction than EPA+DHA therapy.
+
+Marine Omega-3 (N-3) Fatty Acids for Cardiovascular Health: An Update for 2020
+
+Number of 
+
+Key takeaways:Higher intake of omega-3 fatty acids, EPA and DHA, from fish and fatty fish is associated with lower risk of developing cardiovascular disease and cardiovascular mortality.
+
+Abstract:The omega-3 (n-3) fatty acids, eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), are found in seafood (especially fatty fish), supplements and concentrated pharmaceutical preparations. Long-term prospective cohort studies consistently demonstrate an association between higher intakes of fish, fatty fish and marine n-3 fatty acids (EPA + DHA) or higher levels of EPA and DHA in the body and lower risk of developing cardiovascular disease (CVD), especially coronary heart disease (CHD) and myocardial infarction (MI), and cardiovascular mortality in the general population. This cardioprotective effect of EPA and DHA is most likely due to the beneficial modulation of a number of known risk factors for CVD, such as blood lipids, blood pressure, heart rate and heart rate variability, platelet aggregation, endothelial function, and inflammation. Evidence for primary prevention of CVD through randomised controlled trials (RCTs) is relatively weak. In high-risk patients, especially in the secondary prevention setting (e.g., post-MI), a number of large RCTs support the use of EPA + DHA (or EPA alone) as confirmed through a recent meta-analysis. This review presents some of the key studies that have investigated EPA and DHA in the primary and secondary prevention of CVD, describes potential mechanisms for their cardioprotective effect, and evaluates the more recently published RCTs in the context of existing scientific literature.
+
+Cardiovascular effects of marine omega-3 fatty acids
+
+Number of 
+
+Key takeaways:Marine omega-3 fatty acids show beneficial effects in various cardiac disorders, but their use alongside other medical therapies and their optimum dose remain uncertain.
+
+Emerging Mechanisms of Cardiovascular Protection for the Omega-3 Fatty Acid Eicosapentaenoic Acid
+
+Number of 
+
+Key takeaways:EPA, a form of omega-3 fatty acid, may reduce cardiovascular events by 25% in patients with established cardiovascular disease or diabetes mellitus, due to multiple molecular mechanisms.
+
+Abstract:Patients with well-controlled LDL (low-density lipoprotein) levels still have residual cardiovascular risk associated with elevated triglycerides. Epidemiological studies have shown that elevated fasting triglyceride levels associate independently with incident cardiovascular events, and abundant recent human genetic data support the causality of TGRLs (triglyceride-rich lipoproteins) in atherothrombosis. Omega-3 fatty acids, such as eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), lower blood triglyceride concentrations but likely exert additional atheroprotective properties at higher doses. Omega-3 fatty acids modulate T-cell differentiation and give rise to various prostaglandins and specialized proresolving lipid mediators that promote resolution of tissue injury and inflammation. The REDUCE-IT (Reduction of Cardiovascular Events with Icosapent Ethyl–Intervention Trial) with an EPA-only formulation lowered a composite of cardiovascular events by 25% in patients with established cardiovascular disease or diabetes mellitus and other cardiovascular risk factors. This clinical benefit likely arises from multiple molecular mechanisms discussed in this review. Indeed, human plaques readily incorporate EPA, which may render them less likely to trigger clinical events. EPA and DHA differ in their effects on membrane structure, rates of lipid oxidation, inflammatory biomarkers, and endothelial function as well as tissue distributions. Trials that have evaluated DHA-containing high-dose omega-3 fatty acids have thus far not shown the benefits of EPA alone demonstrated in REDUCE-IT. This review will consider the mechanistic evidence that helps to understand the potential mechanisms of benefit of EPA.
+
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease.
+
+Number of 
+
+Key takeaways:Increasing omega-3 fatty acid intake from fish and plants shows little or no effect on all-cause mortality, cardiovascular events, and stroke risk.
+
+Abstract:BACKGROUND
+Researchers have suggested that omega-3 polyunsaturated fatty acids from oily fish (long-chain omega-3 (LCn3), including eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA)), as well as from plants (alpha-linolenic acid (ALA)) benefit cardiovascular health. Guidelines recommend increasing omega-3-rich foods, and sometimes supplementation, but recent trials have not confirmed this.
+
+OBJECTIVES
+To assess effects of increased intake of fish- and plant-based omega-3 for all-cause mortality, cardiovascular (CVD) events, adiposity and lipids.
+
+SEARCH METHODS
+We searched CENTRAL, MEDLINE and Embase to April 2017, plus ClinicalTrials.gov and World Health Organization International Clinical Trials Registry to September 2016, with no language restrictions. We handsearched systematic review references and bibliographies and contacted authors.
+
+SELECTION CRITERIA
+We included randomised controlled trials (RCTs) that lasted at least 12 months and compared supplementation and/or advice to increase LCn3 or ALA intake versus usual or lower intake.
+
+DATA COLLECTION AND ANALYSIS
+Two review authors independently assessed studies for inclusion, extracted data and assessed validity. We performed separate random-effects meta-analysis for ALA and LCn3 interventions, and assessed dose-response relationships through meta-regression.
+
+MAIN RESULTS
+We included 79 RCTs (112,059 participants) in this review update and found that 25 were at low summary risk of bias. Trials were of 12 to 72 months' duration and included adults at varying cardiovascular risk, mainly in high-income countries. Most studies assessed LCn3 supplementation with capsules, but some used LCn3- or ALA-rich or enriched foods or dietary advice compared to placebo or usual diet. LCn3 doses ranged from 0.5g/d LCn3 to > 5 g/d (16 RCTs gave at least 3g/d LCn3).Meta-analysis and sensitivity analyses suggested little or no effect of increasing LCn3 on all-cause mortality (RR 0.98, 95% CI 0.90 to 1.03, 92,653 participants; 8189 deaths in 39 trials, high-quality evidence), cardiovascular mortality (RR 0.95, 95% CI 0.87 to 1.03, 67,772 participants; 4544 CVD deaths in 25 RCTs), cardiovascular events (RR 0.99, 95% CI 0.94 to 1.04, 90,378 participants; 14,737 people experienced events in 38 trials, high-quality evidence), coronary heart disease (CHD) mortality (RR 0.93, 95% CI 0.79 to 1.09, 73,491 participants; 1596 CHD deaths in 21 RCTs), stroke (RR 1.06, 95% CI 0.96 to 1.16, 89,358 participants; 1822 strokes in 28 trials) or arrhythmia (RR 0.97, 95% CI 0.90 to 1.05, 53,796 participants; 3788 people experienced arrhythmia in 28 RCTs). There was a suggestion that LCn3 reduced CHD events (RR 0.93, 95% CI 0.88 to 0.97, 84,301 participants; 5469 people experienced CHD events in 28 RCTs); however, this was not maintained in sensitivity analyses - LCn3 probably makes little or no difference to CHD event risk. All evidence was of moderate GRADE quality, except as noted.Increasing ALA intake probably makes little or no difference to all-cause mortality (RR 1.01, 95% CI 0.84 to 1.20, 19,327 participants; 459 deaths, 5 RCTs),cardiovascular mortality (RR 0.96, 95% CI 0.74 to 1.25, 18,619 participants; 219 cardiovascular deaths, 4 RCTs), and CHD mortality (1.1% to 1.0%, RR 0.95, 95% CI 0.72 to 1.26, 18,353 participants; 193 CHD deaths, 3 RCTs) and ALA may make little or no difference to CHD events (RR 1.00, 95% CI 0.80 to 1.22, 19,061 participants, 397 CHD events, 4 RCTs, low-quality evidence). However, increased ALA may slightly reduce risk of cardiovascular events (from 4.8% to 4.7%, RR 0.95, 95% CI 0.83 to 1.07, 19,327 participants; 884 CVD events, 5 RCTs, low-quality evidence with greater effects in trials at low summary risk of bias), and probably reduces risk of arrhythmia (3.3% to 2.6%, RR 0.79, 95% CI 0.57 to 1.10, 4,837 participants; 141 events, 1 RCT). Effects on stroke are unclear.Sensitivity analysis retaining only trials at low summary risk of bias moved effect sizes towards the null (RR 1.0) for all LCn3 primary outcomes except arrhythmias, but for most ALA outcomes, effect sizes moved to suggest protection. LCn3 funnel plots suggested that adding in missing studies/results would move effect sizes towards null for most primary outcomes. There were no dose or duration effects in subgrouping or meta-regression.There was no evidence that increasing LCn3 or ALA altered serious adverse events, adiposity or lipids, except LCn3 reduced triglycerides by ˜15% in a dose-dependant way (high-quality evidence).
+
+AUTHORS' CONCLUSIONS
+This is the most extensive systematic assessment of effects of omega-3 fats on cardiovascular health to date. Moderate- and high-quality evidence suggests that increasing EPA and DHA has little or no effect on mortality or cardiovascular health (evidence mainly from supplement trials). Previous suggestions of benefits from EPA and DHA supplements appear to spring from trials with higher risk of bias. Low-quality evidence suggests ALA may slightly reduce CVD event and arrhythmia risk.
+
+An Update on Omega-3 Polyunsaturated Fatty Acids and Cardiovascular Health
+
+Number of 
+
+Key takeaways:Higher doses of omega-3 polyunsaturated fatty acids (EPA) may reduce cardiovascular disease events, but insufficient dosing and aggressive treatment may explain discrepant results in controlled trials.
+
+Abstract:Interest in the potential cardiovascular (CV) benefits of omega-3 polyunsaturated fatty acids (Ω-3) began in the 1940s and was amplified by a subsequent landmark trial showing reduced CV disease (CVD) risk following acute myocardial infarction. Since that time, however, much controversy has circulated due to discordant results among several studies and even meta-analyses. Then, in 2018, three more large, randomized trials were released—these too with discordant findings regarding the overall benefits of Ω-3 therapy. Interestingly, the trial that used a higher dose (4 g/day highly purified eicosapentaenoic acid (EPA)) found a remarkable, statistically significant reduction in CVD events. It was proposed that insufficient Ω-3 dosing (<1 g/day EPA and docosahexaenoic acid (DHA)), as well as patients aggressively treated with multiple other effective medical therapies, may explain the conflicting results of Ω-3 therapy in controlled trials. We have thus reviewed the current evidence regarding Ω-3 and CV health, put forth potential reasoning for discrepant results in the literature, highlighted critical concepts such as measuring blood levels of Ω-3 with a dedicated Ω-3 index and addressed current recommendations as suggested by health care professional societies and recent significant scientific data.
+
+Effects of omega-3 fatty acids on coronary revascularization and cardiovascular events: a meta-analysis.
+
+Number of 
+
+Key takeaways:Omega-3 fatty acid supplementation reduces the risk of cardiovascular events and coronary revascularization, with eicosapentaenoic acid showing greater benefits.
+
+Abstract:AIMS
+Benefits of pharmacologic omega-3 fatty acid administration in cardiovascular prevention are controversial. Particularly, effects on coronary revascularization are unclear; also debated are specific benefits of eicosapentaenoic acid (EPA). We investigated incident coronary revascularizations, myocardial infarction (MI), stroke, heart failure (HF), unstable angina, and cardiovascular death, in subjects randomized to receive EPA or EPA + docosahexaenoic acid (EPA + DHA) vs. control.
+
+METHODS AND RESULTS
+Meta-analysis of randomized controlled trials (RCTs) was conducted after MEDLINE, Embase, Scopus, Web of Science, and Cochrane Library search. Preferred Reporting Items for Systematic Reviews and Meta-analysis guidelines were followed for abstracting data and assessing data quality and validity. Data were pooled using a random effects model. Eighteen RCTs with 134 144 participants (primary and secondary cardiovascular prevention) receiving DHA + EPA (n = 52 498), EPA alone (n = 14 640), or control/placebo (n = 67 006) were included. Follow-up ranged from 4.5 months to 7.4 years. Overall, compared with controls, omega-3 supplementation reduced the risk of revascularization , MI (0.89, 95% CI 0.81-0.98; P = 0.02; P-heterogeneity = 0.06; I2 = 41%), and cardiovascular death (0.92, 95% CI 0.85-0.99; P = 0.02; P-heterogeneity = 0.13; I2 = 33%). Lower risk was still observed in trials where most participants (≥60%) were on statin therapy. Compared with DHA + EPA, EPA alone showed a further significant risk reduction of revascularizations (0.76, 95% CI 0.65-0.88; P = 0.0002; P-interaction = 0.005) and all outcomes except HF.
+
+CONCLUSION
+Omega-3 fatty acid supplementation reduced the risk of cardiovascular events and coronary revascularization, regardless of background statin use. Eicosapentaenoic acid alone produced greater benefits. The role of specific omega-3 molecules in primary vs. secondary prevention and the potential benefits of reduced revascularizations on overall health status and cost savings warrant further research.
+
+Omega-3 Fatty Acid and Cardiovascular Disease
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids significantly reduce the risk of sudden death and all-cause mortality in patients with known coronary heart disease, and can be found in foods like tuna, salmon, mackerel, herring, trout, halibut, and cod.
+
+Abstract:Cardioceuticals are nutritional supplements that contain all the essential nutrients including vitamins, minerals, omega-3fatty acids and other antioxidants like a-lipoic acid and coenzyme Q10 in the right proportion that provide all round protection to the heart by reducing the most common risks associated with the cardiovascular disease including high low-density lipoprotein cholesterol and triglyceride levels and factors that contribute to coagulation of blood. Omega-3 fatty acids have been shown to significantly reduce the risk for sudden death caused by cardiac arrhythmias and all-cause mortality in patients with known coronary heart disease. Omega-3 fatty acids are also used to treat hyperlipidemia and hypertension. There are no significant drug interactions with omega-3 fatty acids. The American Heart Association recommends consumption of two servings of fish per week for persons with no history of coronary heart disease and at least one serving of fish daily for those with known coronary heart disease. Approximately 1 g/day of eicosapentaenoic acid plus docosahexaenoic acid is recommended for cardio protection. Higher dosages of omega-3 fatty acids are required to reduce elevated triglyceride levels (2-4 g/day). Modest decreases in blood pressure occur with significantly higher dosages of omega-3 fatty acids. Lifestyle intervention such as consistent aerobic exercise and a diet high in fruits and vegetables promotes cardiovascular health. A heart-healthy lifestyle decreases the risk of coronary heart disease and heart attack. Although it may seem intuitive that dietary fat is bad for the heart and that it must be avoided, certain unsaturated fats are heart healthy, and other saturated fats are not good for the heart. These heart-healthy unsaturated fats are known as omega-3 fatty acids. The 3 main omega-3 fatty acids that are beneficial for cardiovascular health are α-linoleic acid (ALA), eicosapentaenoic acid (EPA), and docosahexaenoic acid (DHA). ALA is primarily found in plant-based foods such as olive, soybean, canola, walnut, and flaxseed oils, and in walnuts and flaxseeds, as well. EPA and DHA are primarily found in marine-based foods that include the variety of fatty fish, such as tuna, salmon, mackerel, herring, trout, halibut, and cod. This Cardiology Patient Page will present the beneficial effects of omega-3 fatty acids on cardiovascular health, explain the possible mechanisms for these effects, and offer recommendations that can be implemented into a healthy lifestyle to further promote good cardiovascular health.
+
+Omega-3-fatty acids: Do they prevent cardiovascular disease?
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids lower triglycerides but their ability to reduce cardiovascular disease risk is inconsistent, with icosapent ethyl showing better results than mixed EPA/DHA formulations.
+
+Omega-3 Polyunsaturated Fatty Acid (Fish Oil) Supplementation and the Prevention of Clinical Cardiovascular Disease: A Science Advisory From the American Heart Association
+
+Number of 
+
+Key takeaways:Omega-3 polyunsaturated fatty acid supplementation may help prevent clinical cardiovascular events in patients with diabetes, prediabetes, and high risk of cardiovascular disease.
+
+Abstract:Multiple randomized controlled trials (RCTs) have assessed the effects of supplementation with eicosapentaenoic acid plus docosahexaenoic acid (omega-3 polyunsaturated fatty acids, commonly called fish oils) on the occurrence of clinical cardiovascular diseases. Although the effects of supplementation for the primary prevention of clinical cardiovascular events in the general population have not been examined, RCTs have assessed the role of supplementation in secondary prevention among patients with diabetes mellitus and prediabetes, patients at high risk of cardiovascular disease, and those with prevalent coronary heart disease. In this scientific advisory, we take a clinical approach and focus on common indications for omega-3 polyunsaturated fatty acid supplements related to the prevention of clinical cardiovascular events. We limited the scope of our review to large RCTs of supplementation with major clinical cardiovascular disease end points; meta-analyses were considered secondarily. We discuss the features of available RCTs and provide the rationale for our recommendations. We then use existing American Heart Association criteria to assess the strength of the recommendation and the level of evidence. On the basis of our review of the cumulative evidence from RCTs designed to assess the effect of omega-3 polyunsaturated fatty acid supplementation on clinical cardiovascular events, we update prior recommendations for patients with prevalent coronary heart disease, and we offer recommendations, when data are available, for patients with other clinical indications, including patients with diabetes mellitus and prediabetes and those with high risk of cardiovascular disease, stroke, heart failure, and atrial fibrillation.
+
+Omega‐3 fatty acids for the prevention of atherosclerotic cardiovascular disease
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids may reduce cardiovascular events and death in patients with atherosclerotic cardiovascular disease, but low-dose (1g daily) omega-3 fatty acids may not show a significant benefit.
+
+Abstract:Marine‐derived omega‐3 fatty acids, docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA), are a type of polyunsaturated fatty acids with many purported beneficial health effects including the prevention of atherosclerotic cardiovascular disease (ASCVD) events. Omega‐3 fatty acid intake may be supplemented via dietary sources, as well as prescription or non‐prescription products. Omega‐3 fatty acids have been shown to reduce serum triglycerides, but there remains ongoing debate regarding the effect of omega‐3 fatty acids on major adverse cardiovascular events in patients with established, or at risk of, ASCVD. Recent evidence from randomized, placebo‐controlled trials has demonstrated that low‐dose (1 g daily or less) omega‐3 fatty acids (DHA and EPA) do not reduce cardiovascular events or death in patients with or without established ASCVD. Contrarily, the REDUCE‐IT trial demonstrated that a purified form of EPA ethyl esters (icosapent ethyl) at 4 g daily reduced cardiovascular events and death in patients with ASCVD (or diabetes and multiple cardiovascular risk factors) and elevated triglycerides on background statin therapy. However, 4 g daily of omega‐3 carboxylic acids (DHA and EPA) did not show a cardiovascular benefit in the STRENGTH trial, which enrolled a similar population. The explanation for this observed discrepancy remains a source of contention and discourse. For now, icosapent ethyl has the most compelling evidence to support a cardiovascular benefit and should be considered in select patients who meet the REDUCE‐IT criteria. Furthermore, alternative versions of omega‐3 fatty acids should not be considered equivalent to icosapent ethyl. Patients taking an omega‐3 fatty acid supplement should be monitored for potential adverse effects, including gastrointestinal disorders or bleeding, in addition to a possible increased risk of atrial fibrillation.
+
+Effect of Omega-3 Polyunsaturated Fatty Acids on Cardiovascular Outcomes in Patients with Diabetes: A Meta-analysis of Randomized Controlled Trials
+
+Number of 
+
+Key takeaways:Omega-3 fatty acid supplementation effectively reduces cardiovascular disease risk in patients with diabetes, but further large-scale randomized controlled trials are needed to confirm its safety and effect on atrial fibrillation.
+
+Cardiovascular effects of omega-3 fatty acids: Hope or hype?
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids show mixed results in controlling cardiovascular disease risk, with some positive results and others negative, influenced by different types, doses, and comparators.
+
+Omega-3 Polyunsaturated Fatty Acids—Vascular and Cardiac Effects on the Cellular and Molecular Level (Narrative Review)
+
+Number of 
+
+Key takeaways:Omega-3 polyunsaturated fatty acids (n-3 PUFAs) have additive effects on cardiovascular health, reducing atherothrombosis, promoting heart health, and modifying ion channels.
+
+Abstract:In the prevention and treatment of cardiovascular disease, in addition to the already proven effective treatment of dyslipidemia, hypertension and diabetes mellitus, omega-3 polyunsaturated fatty acids (n-3 PUFAs) are considered as substances with additive effects on cardiovascular health. N-3 PUFAs combine their indirect effects on metabolic, inflammatory and thrombogenic parameters with direct effects on the cellular level. Eicosapentaenoic acid (EPA) seems to be more efficient than docosahexaenoic acid (DHA) in the favorable mitigation of atherothrombosis due to its specific molecular properties. The inferred mechanism is a more favorable effect on the cell membrane. In addition, the anti-fibrotic effects of n-3 PUFA were described, with potential impacts on heart failure with a preserved ejection fraction. Furthermore, n-3 PUFA can modify ion channels, with a favorable impact on arrhythmias. However, despite recent evidence in the prevention of cardiovascular disease by a relatively high dose of icosapent ethyl (EPA derivative), there is still a paucity of data describing the exact mechanisms of n-3 PUFAs, including the role of their particular metabolites. The purpose of this review is to discuss the effects of n-3 PUFAs at several levels of the cardiovascular system, including controversies.
+
+Beneficial effects of omega-3 fatty acids in cardiovascular disease.
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids show potential benefits in managing heart disease in dogs, with potential benefits for energy metabolism, endothelial function, heart rate and blood pressure, and immune function.
+
+Abstract:There is a large body of evidence supporting beneficial effects of omega-3 fatty acids for both primary and secondary prevention of cardiac disease in people. However, evidence is increasing for the use of omega-3 fatty acids in dogs with cardiac disease as well. Omega-3 fatty acids' anti-inflammatory and anti-arrhythmic effects may be beneficial in managing the loss of lean body mass and arrhythmias that are common in heart failure. However, omega-3 fatty acids also may have positive effects on myocardial energy metabolism, endothelial function, heart rate and blood pressure, and immune function. Additional research is needed to determine optimal indications, doses and formulations for dogs and cats with cardiac disease.
+
+Fish consumption, fish oil, omega-3 fatty acids, and cardiovascular disease.
+
+Number of 
+
+Key takeaways:Omega-3 fatty acids from fish and fish oil supplements may have beneficial effects on cardiovascular disease, particularly in patients with preexisting CVD and healthy individuals.
+
+Abstract:Since the first AHA Science Advisory “Fish Consumption, Fish Oil, Lipids, and Coronary Heart Disease,”1 important new findings, including evidence from randomized controlled trials (RCTs), have been reported about the beneficial effects of omega-3 (or n-3) fatty acids on cardiovascular disease (CVD) in patients with preexisting CVD as well as in healthy individuals.2 New information about how omega-3 fatty acids affect cardiac function (including antiarrhythmic effects), hemodynamics (cardiac mechanics), and arterial endothelial function have helped clarify potential mechanisms of action. The present Statement will address distinctions between plant-derived (α-linolenic acid, C18:3n-3) and marine-derived (eicosapentaenoic acid, C20:5n-3 and docosahexaenoic acid, C22:6n-3 ) omega-3 fatty acids. (Unless otherwise noted, the term omega-3 fatty acids will refer to the latter.) Evidence from epidemiological studies and RCTs will be reviewed, and recommendations reflecting the current state of knowledge will be made with regard to both fish consumption and omega-3 fatty acid (plant- and marine-derived) supplementation. This will be done in the context of recent guidance issued by the US Environmental Protection Agency and the Food and Drug Administration (FDA) about the presence of environmental contaminants in certain species of fish.
+
+### Coronary Heart Disease
+
+As reviewed by Stone,1 three prospective epidemiological studies within populations reported that men who ate at least some fish weekly had a lower coronary heart disease (CHD) mortality rate than that of men who ate none.3–6⇓⇓⇓ More recent evidence that fish consumption favorably affects CHD mortality, especially nonsudden death from myocardial infarction (MI), has been reported in a 30-year follow-up of the Chicago Western Electric Study.7 Men who consumed 35 g or more of fish daily compared with those who consumed none had a relative risk of death from CHD of 0.62 and a relative risk of nonsudden death from MI of 0.33. In an …
+
+Omega-3 Fatty Acid Supplementation and Coronary Heart Disease Risks: A Meta-Analysis of Randomized Controlled Clinical Trials
+
+Number of 
+
+Key takeaways:Omega-3 fatty acid supplementation reduces the risk of major adverse cardiovascular events, cardiovascular death, and myocardial infarction, with 0.8-1.2g being the most effective dose.
+
+Abstract:Background The clinical benefits of omega-3 fatty acids (FAs) supplementation in preventing and treating coronary heart disease (CHD) remain controversial. Therefore, this study aimed to investigate the clinical benefits of omega-3 FA supplementation, with special attention given to specific subgroups. Methods Randomized controlled trials (RCTs) that compared the effects of omega-3 FA supplementation for CHD vs. a control group and including at least 1,000 patients were eligible for the inclusion in this meta-analysis. The relative risk (RR) of all-cause death, major adverse cardiovascular events (MACEs), cardiovascular death, myocardial infarction (MI), stroke, and revascularization were estimated. We analyzed the association between cardiovascular risk and omega-3 FA supplementation in the total subjects. We focused on the cardiovascular risk compared to omega-3 FA in subgroups with different development stages of CHD, omega-3 FA supplementation application dose, diabetes, and sex. PROSPERO Registration Number: CRD42021282459. Results This meta-analysis included 14 clinical RCTs, including 1,35,291 subjects. Omega-3 FA supplementation reduced the risk of MACE (RR; 0.95; CI: 0.91–0.99; p for heterogeneity 0.27; I2 = 20%; p = 0.03), cardiovascular death (RR; 0.94; CI: 0.89–0.99; p for heterogeneity 0.21; I2 = 25%; p = 0.02), and MI (RR; 0.86; CI: 0.79–0.93; p for heterogeneity 0.28; I2 = 19%; p < 0.01), but had no significant effect on all-cause death, stroke, and revascularization. In the subgroup analysis, omega-3 FA supplementation decreased the incidence of MACE and cardiovascular death in acute patients with MI, the risk of MI and stroke in patients with CHD, and the risk of MI in patients with high-risk CHD. 0.8–1.2 g omega-3 FA supplementation reduced the risk of MACE, cardiovascular death, and MI. It was revealed that gender and diabetes have no significant association between omega-3 FA supplementation and MACE risk. Conclusions Omega-3 FA supplementation had a positive effect in reducing the incidence of MACE, cardiovascular death, MI. Regardless of the stage of CHD, omega-3 FA supplementation can prevent the occurrence of MI. The 0.8–1.2 g omega-3 FA supplementation alleviated CHD risk more effectively than lower or higher doses. Systematic Review Registration identifier CRD42021282459.
+
+Effects of omega-3 fatty acid on major cardiovascular outcomes: A systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Omega-3 fatty acid supplementation can reduce the risk of major cardiovascular events and cardiac death, but has no significant effects on all-cause mortality, myocardial infarction, and stroke.
+
+Abstract:Background: The effects of omega-3 fatty acid on cardiovascular health obtained inconsistent results. A systematic review and meta-analysis were therefore conducted to assess the effects of omega-3 fatty acid supplementation for primary and secondary prevention strategies of major cardiovascular outcomes. Methods: The databases of PubMed, Embase, and the Cochrane library were systematically searched from their inception until September 2020. Relative risks (RRs) with 95% confidence intervals were used to assess effect estimates by using the random-effects model. Results: Twenty-eight randomized controlled trials involving 136,965 individuals were selected for the final meta-analysis. Omega-3 fatty acid was noted to be associated with a lower risk of major cardiovascular events (RR, 0.94; 95% CI, 0.89–1.00; P = .049) and cardiac death (RR, 0.92; 95% CI, 0.85–0.99; P = .022). However, no significant differences was noted between omega-3 fatty acid and the control for the risks of all-cause mortality (RR, 0.97; 95% CI, 0.92–1.03; P = .301), myocardial infarction (RR, 0.90; 95% CI, 0.80–1.01; P = .077), and stroke (RR, 1.02; 95% CI, 0.94–1.11; P = .694). Conclusions: Major cardiovascular events and cardiac death risks could be avoided with the use of omega-3 fatty acid. However, it has no significant effects on the risk of all-cause mortality, myocardial infarction, and stroke.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

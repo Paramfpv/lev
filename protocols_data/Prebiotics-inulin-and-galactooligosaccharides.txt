@@ -1,0 +1,369 @@
+PROTOCOL: Prebiotics (inulin and galactooligosaccharides)
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Abstract:The gut microbiota, a complex ecosystem of microorganisms in the human gastrointestinal tract (GI), plays a crucial role in maintaining metabolic health and influencing disease susceptibility. Dysbiosis, or an imbalance in gut microbiota, has been linked to the development of type 2 diabetes mellitus (T2DM) through mechanisms such as reduced glucose tolerance and increased insulin resistance. A balanced gut microbiota, or eubiosis, is associated with improved glucose metabolism and insulin sensitivity, potentially reducing the risk of diabetes-related complications. Various strategies, including the use of prebiotics like inulin, fructooligosaccharides, galactooligosaccharides, resistant starch, pectic oligosaccharides, polyphenols, β-glucan, and Dendrobium officinale have been shown to improve gut microbial composition and support glycemic control in T2DM patients. These prebiotics can directly impact blood sugar levels while promoting the growth of beneficial bacteria, thus enhancing glycemic control. Studies have shown that T2DM patients often exhibit a decrease in beneficial butyrate-producing bacteria, like Roseburia and Faecalibacterium, and an increase in harmful bacteria, such as Escherichia and Prevotella. This review aims to explore the effects of different prebiotics on T2DM, their impact on gut microbiota composition, and the potential for personalized dietary interventions to optimize diabetes management and improve overall health outcomes.
+DESCRIPTION: Prebiotics, such as inulin and galactooligosaccharides (GOS), support metabolic, immune, and gut health by modulating the gut microbiota, increasing the production of beneficial metabolites, and strengthening the gut barrier. Regular use may contribute to improved metabolic function, reduced inflammation, and enhanced immune resilience.
+
+CONTENT SECTIONS:
+
+Prebiotics (inulin and galactooligosaccharides)
+
+Support for metabolism, immune system, and gut health
+
+Prebiotics, such as inulin and galactooligosaccharides (GOS), support metabolic, immune, and gut health by modulating the gut microbiota, increasing the production of beneficial metabolites, and strengthening the gut barrier. Regular use may contribute to improved metabolic function, reduced inflammation, and enhanced immune resilience.
+
+Level of evidence:Good
+
+Prebiotics act primarily through fermentation in the colon, leading to the formation of short-chain fatty acids (SCFAs), which positively influence energy metabolism and inflammation regulation. They stimulate the growth of beneficial bacteria, such as bifidobacteria and lactobacillus, which in turn support the immune system and gut barrier integrity. Additionally, they may directly activate immune cells through receptors such as TLR4, enhancing the immune response.
+
+Prebiotics such as inulin and galactooligosaccharides are generally well tolerated by most people. However, mild gastrointestinal discomfort may occur, especially at high doses or in individuals with sensitive digestive systems. In newborns and individuals with immature gut barriers, there is a potential risk of increased bacterial translocation, although this effect is usually not long-lasting.
+
+Prebiotic supplementation may not be recommended for individuals with severe gastrointestinal disorders, particularly where there is a strong fiber intolerance or specific intestinal dysfunctions.
+
+Typically 3–10 g daily of inulin or GOS, individually adjusted
+
+Powder, capsules, food additives
+
+First effects after 1–3 weeks of use
+
+Best taken with meals
+
+Start supplementation with small doses, gradually increasing to reduce the risk of gastrointestinal discomfort
+
+Supplementation with gut disorders
+
+Consult a physician in case of inflammatory bowel diseases or severe symptoms
+
+Combining with probiotics
+
+Prebiotics can be combined with probiotics for a synergistic effect on gut microbiota
+
+Observe the body’s reactions and adjust the dose or discontinue supplementation if adverse symptoms occur
+
+Prebiotics, such as inulin and galactooligosaccharides (GOS), have a documented positive effect on metabolism. Key effects include improved fat metabolism, regulation of glucose and insulin levels, and support for beneficial gut flora, which translates into better metabolic health.
+
+Key metabolic effects
+
+Practical application
+
+Prebiotics, such as inulin and galactooligosaccharides (GOS), have a positive effect on the immune system, mainly through modulation of gut microbiota and the production of beneficial metabolites. The most important effects include enhancing immune response, improving gut barrier function, and reducing inflammatory markers.
+
+Clinical effects and studies
+
+Limitations and perspectives
+
+Prebiotics, such as inulin and galactooligosaccharides (GOS), have a proven positive effect on gut health. They support the growth of beneficial bacteria, improve gut barrier function, reduce inflammation, and support the production of short-chain fatty acids, all contributing to better gastrointestinal condition.
+
+Mechanisms of action and benefits
+
+Table: Key effects of inulin and GOS on the gut
+
+Limitations and safety
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:37
+
+Final comment:Prebiotics, such as inulin and galactooligosaccharides, have solid scientific support derived from numerous clinical studies, including systematic reviews and randomized controlled trials. Available data show their beneficial effects on metabolism, the immune system, and gut health, although some effects depend on dose, duration of use, and individual response. Despite strong clinical indications, further studies are needed to more fully define the scope of benefits and optimal supplementation regimens. The overall quality and consistency of results classify the evidence as good, though meta-analyses involving very large samples or long-term population studies are still lacking, which would enable a strong evidence rating.
+
+The prebiotic inulin improves substrate metabolism and promotes short-chain fatty acid production in overweight to obese men.
+
+Number of 
+
+Key takeaways:Ingesting prebiotic inulin improves fat oxidation and promotes short-chain fatty acid production in overweight to obese men, potentially favoring human substrate metabolism.
+
+Harnessing Prebiotics to Improve Type 2 Diabetes Outcomes
+
+Number of 
+
+Key takeaways:Prebiotics can improve gut microbiota composition and support glycemic control in type 2 diabetes patients by promoting beneficial bacteria growth and reducing the risk of diabetes-related complications.
+
+Abstract:The gut microbiota, a complex ecosystem of microorganisms in the human gastrointestinal tract (GI), plays a crucial role in maintaining metabolic health and influencing disease susceptibility. Dysbiosis, or an imbalance in gut microbiota, has been linked to the development of type 2 diabetes mellitus (T2DM) through mechanisms such as reduced glucose tolerance and increased insulin resistance. A balanced gut microbiota, or eubiosis, is associated with improved glucose metabolism and insulin sensitivity, potentially reducing the risk of diabetes-related complications. Various strategies, including the use of prebiotics like inulin, fructooligosaccharides, galactooligosaccharides, resistant starch, pectic oligosaccharides, polyphenols, β-glucan, and Dendrobium officinale have been shown to improve gut microbial composition and support glycemic control in T2DM patients. These prebiotics can directly impact blood sugar levels while promoting the growth of beneficial bacteria, thus enhancing glycemic control. Studies have shown that T2DM patients often exhibit a decrease in beneficial butyrate-producing bacteria, like Roseburia and Faecalibacterium, and an increase in harmful bacteria, such as Escherichia and Prevotella. This review aims to explore the effects of different prebiotics on T2DM, their impact on gut microbiota composition, and the potential for personalized dietary interventions to optimize diabetes management and improve overall health outcomes.
+
+Effects of inulin-type fructans, galacto-oligosaccharides and related synbiotics on inflammatory markers in adult patients with overweight or obesity: A systematic review.
+
+Number of 
+
+Key takeaways:Inulin-type fructans, galacto-oligosaccharides, and related synbiotics may have immunomodulatory effects on inflammatory markers in overweight/obese adults.
+
+Prebiotics, probiotics, and synbiotics affect mineral absorption, bone mineral content, and bone structure.
+
+Number of 
+
+Key takeaways:Prebiotics show the most promising bone-health-promoting potential, with probiotics and synbiotics also showing potential benefits, but more research is needed.
+
+Abstract:Several studies in animals and humans have shown positive effects of nondigestible oligosaccharides (NDO) on mineral absorption and metabolism and bone composition and architecture. These include inulin, oligofructose, fructooligosaccharides, galactooligosaccharides, soybean oligosaccharide, and also resistant starches, sugar alcohols, and difructose anhydride. A positive outcome of dietary prebiotics is promoted by a high dietary calcium content up to a threshold level and an optimum amount and composition of supplemented prebiotics. There might be an optimum composition of fructooligosaccharides with different chain lengths (synergy products). The efficacy of dietary prebiotics depends on chronological age, physiological age, menopausal status, and calcium absorption capacity. There is evidence for an independent probiotic effect on facilitating mineral absorption. Synbiotics, i.e., a combination of probiotics and prebiotics, can induce additional effects. Whether a low content of habitual NDO would augment the effect of dietary prebiotics or synbiotics remains to be studied. The underlying mechanisms are manifold: increased solubility of minerals because of increased bacterial production of short-chain fatty acids, which is promoted by the greater supply of substrate; an enlargement of the absorption surface by promoting proliferation of enterocytes mediated by bacterial fermentation products, predominantly lactate and butyrate; increased expression of calcium-binding proteins; improvement of gut health; degradation of mineral complexing phytic acid; release of bone-modulating factors such as phytoestrogens from foods; stabilization of the intestinal flora and ecology, also in the presence of antibiotics; stabilization of the intestinal mucus; and impact of modulating growth factors such as polyamines. In conclusion, prebiotics are the most promising but also best investigated substances with respect to a bone-health-promoting potential, compared with probiotics and synbiotics. The results are more prominent in animal models, where more studies have been performed, than in human studies, where experimental conditions are more difficult to control.
+
+Galactooligosaccharides: Synthesis, metabolism, bioactivities and food applications
+
+Number of 
+
+Key takeaways:Galactooligosaccharides (GOS) are safe, stable, and effective prebiotics that improve gut microbiota, promote probiotic growth, and enhance the health benefits of food products.
+
+Abstract:Abstract Prebiotics are non-digestible ingredients that exert significant health-promoting effects on hosts. Galactooligosaccharides (GOS) have remarkable prebiotic effects and structural similarity to human milk oligosaccharides. They generally comprise two to eight sugar units, including galactose and glucose, which are synthesized from substrate lactose by microbial β-galactosidase. Enzyme sources from probiotics have received particular interest because of their safety and potential to synthesize specific structures that are particularly metabolized by intestinal probiotics. Owing to advancements in modern analytical techniques, many GOS structures have been identified, which vary in degree of polymerization, glycosidic linkage, and branch location. After intake, GOS adjust gut microbiota which produce short chain fatty acids, and exhibit excellent biological activities. They selectively stimulate the proliferation of probiotics, inhibit the growth and adhesion of pathogenic bacteria, alleviate gastrointestinal, neurological, metabolic and allergic diseases, modulate metabolites production, and adjust ion storage and absorption. Additionally, GOS are safe and stable, with high solubility and clean taste, and thus are widely used as food additives. GOS can improve the appearance, flavor, taste, texture, viscosity, rheological properties, shelf life, and health benefits of food products. This review systemically covers GOS synthesis, structure identifications, metabolism mechanisms, prebiotic bioactivities and wide applications, focusing on recent advances.
+
+Health Effects and Sources of Prebiotic Dietary Fiber
+
+Number of 
+
+Key takeaways:Prebiotic dietary fibers promote digestive health due to their fermentability by gut microbiota, with 8 distinct categories of compounds showing health benefits.
+
+Abstract:Abstract Prebiotic dietary fibers act as carbon sources for primary and secondary fermentation pathways in the colon, and support digestive health in many ways. Fructooligosaccharides, inulin, and galactooligosaccharides are universally agreed-upon prebiotics. The objective of this paper is to summarize the 8 most prominent health benefits of prebiotic dietary fibers that are due to their fermentability by colonic microbiota, as well as summarize the 8 categories of prebiotic dietary fibers that support these health benefits. Although not all categories exhibit similar effects in human studies, all of these categories promote digestive health due to their fermentability. Scientific and regulatory definitions of prebiotics differ greatly, although health benefits of these compounds are uniformly agreed upon to be due to their fermentability by gut microbiota. Scientific evidence suggests that 8 categories of compounds all exhibit health benefits related to their metabolism by colonic taxa.
+
+A mixture of trans-galactooligosaccharides reduces markers of metabolic syndrome and modulates the fecal microbiota and immune function of overweight adults.
+
+Number of 
+
+Key takeaways:B-GOS, a galactooligosaccharide mixture, improves gut microbiota composition, immune response, and reduces metabolic syndrome risk factors in overweight adults.
+
+Abstract:Metabolic syndrome is a set of disorders that increases the risk of developing cardiovascular disease. The gut microbiota is altered toward a less beneficial composition in overweight adults and this change can be accompanied by inflammation. Prebiotics such as galactooligosaccharides can positively modify the gut microbiota and immune system; some may also reduce blood lipids. We assessed the effect of a galactooligosaccharide mixture on markers of metabolic syndrome, gut microbiota, and immune function in 45 overweight adults with ≥3 risk factors associated with metabolic syndrome in a double-blind, randomized, placebo (maltodextrin)-controlled, crossover study (with a 4-wk wash-out period between interventions). Whole blood, saliva, feces, and anthropometric measurements were taken at the beginning, wk 6, and end of each 12-wk intervention period. Predominant groups of fecal bacteria were quantified and full blood count, markers of inflammation and lipid metabolism, insulin, and glucose were measured. B-GOS increased the number of fecal bifidobacteria at the expense of less desirable groups of bacteria. Increases in fecal secretory IgA and decreases in fecal calprotectin, plasma C-reactive protein, insulin, total cholesterol (TC), TG, and the TC:HDL cholesterol ratio were also observed. Administration of B-GOS to overweight adults resulted in positive effects on the composition of the gut microbiota, the immune response, and insulin, TC, and TG concentrations. B-GOS may be a useful candidate for the enhancement of gastrointestinal health, immune function, and the reduction of metabolic syndrome risk factors in overweight adults.
+
+Prebiotic Galactooligosaccharide Metabolism by Probiotic Lactobacilli and Bifidobacteria.
+
+Number of 
+
+Key takeaways:Probiotic Lactobacillus acidophilus NCFM efficiently consumes all GOS oligomers, highlighting the importance of LacL in GOS metabolism in probiotic bifidobacteria and lactobacilli.
+
+Abstract:Galactooligosaccharides (GOS) are bifidogenic and lactogenic prebiotics; however, GOS utilization is strain-dependent. In this study, commercially available bifidobacteria and lactobacilli probiotic strains were evaluated for growth in the presence of GOS. Several bifidobacteria and lactobacilli grew on GOS; however, the specific GOS oligomers utilized for growth differed. A subset of probiotic bifidobacteria and lactobacilli revealed three different GOS utilization profiles delineated by the degrees of polymerization (DP) of GOS: (1) utilization of 2 DP GOS, (2) utilization of ≤3 DP GOS, and (3) utilization of all DP GOS. Specifically, Lactobacillus acidophilus NCFM (LA_NCFM) was found to efficiently consume all GOS oligomers. Extracellular β-galactosidase activity in the cell-free supernatant of LA_NCFM correlated with accumulation of galactose. In a LacL-deficient LA_NCFM strain, GOS utilization was abolished. This is the first report of LacL's role in GOS metabolism in LA_NCFM. In vitro GOS utilization should be considered when GOS are delivered with probiotic bifidobacteria and lactobacilli.
+
+Effect of resistant starch types as a prebiotic
+
+Number of 
+
+Key takeaways:Resistant starch types, such as type II, III, and IV, show potential as prebiotic components due to their resistance to digestion and positive effects on the growth of Bifidobacterium and Lactobacillus.
+
+Abstract:Abstract
+Since the role of intestinal microbiota in metabolism was understood, the importance of dietary components such as fibres and prebiotics, which affect the modulation of microbiota, has been increasing day by day. While all prebiotic components are considered dietary fibre, not every dietary fibre is considered a prebiotic. While fructooligosaccharides, galactooligosaccharides, inulin, and galactans are considered prebiotics, other fermentable carbohydrates are considered candidate prebiotic components based on in vitro and preclinical studies. Resistant starch, one of such carbohydrates, is considered a potential prebiotic component when it is made resistant to digestion naturally or chemically. In this review, both in vitro and in vivo studies in which the prebiotic capacity of type II, type III, and type IV resistant starch isolated from food and produced commercially was assessed were analyzed. According to the results of current studies, certain types of resistant starch are thought to have a high prebiotic capacity, and they may be candidate prebiotic components although positive results have not been achieved in all studies.Key points• Resistant starch is undigested in the small intestine and is fermented in the large intestine.• Resistant starch fermentation positively affects the growth of Bifidobacterium and Lactobacillus.• Resistant starch can be considered a prebiotic ingredient.
+
+Optimization of Mixed Inulin, Fructooligosaccharides, and Galactooligosaccharides as Prebiotics for Stimulation of Probiotics Growth and Function
+
+Number of 
+
+Key takeaways:The optimal prebiotic ratios of inulin, fructooligosaccharides, and galactooligosaccharides effectively stimulate the growth of probiotics, offering potential for functional or colonic foods.
+
+Abstract:Prebiotics have become an important functional food because of their potential for modulating the gut microbiota and metabolic activities. However, different prebiotics can stimulate the growth of different probiotics. The optimization of prebiotics was focused on in this study in order to stimulate the representative probiotics’ growth (Lacticaseibacillus rhamnosus (previously Lactobacillus rhamnosus) and Bifidobacterium animalis subsp. lactis) and their function. The culture medium was supplemented with three prebiotics, including inulin (INU), fructooligosaccharides (FOS), and galactooligosaccharides (GOS). All prebiotics can clearly stimulate the growth of probiotic strains in both monoculture and co-culture. The specific growth rates of L. rhamnosus and B. animalis subsp. lactis were shown in GOS (0.019 h−1) and FOS (0.023 h−1), respectively. The prebiotic index (PI) scores of INU (1.03), FOS (0.86), and GOS (0.84) in co-culture at 48 h were significantly higher than the control (glucose). The mixture of prebiotics to achieve high quality was optimized using the Box–Behnken design. The optimum prebiotic ratios of INU, FOS, and GOS were 1.33, 2.00, and 2.67% w/v, respectively, with the highest stimulated growth of probiotic strains occurring with the highest PI score (1.03) and total short chain fatty acid concentration (85.55 µmol/mL). The suitable ratio of mixed prebiotics will function as a potential ingredient for functional foods or colonic foods.
+
+Distant Site Effects of Ingested Prebiotics
+
+Number of 
+
+Key takeaways:Prebiotics can improve bone strength, neural processes, immune functioning, skin, and serum lipid profile, with potential effects beyond the gastrointestinal system.
+
+Abstract:The gut microbiome is being more widely recognized for its association with positive health outcomes, including those distant to the gastrointestinal system. This has given the ability to maintain and restore microbial homeostasis a new significance. Prebiotic compounds are appealing for this purpose as they are generally food-grade substances only degraded by microbes, such as bifidobacteria and lactobacilli, from which beneficial short-chain fatty acids are produced. Saccharides such as inulin and other fructo-oligosaccharides, galactooligosaccharides, and polydextrose have been widely used to improve gastrointestinal outcomes, but they appear to also influence distant sites. This review examined the effects of prebiotics on bone strength, neural and cognitive processes, immune functioning, skin, and serum lipid profile. The mode of action is in part affected by intestinal permeability and by fermentation products reaching target cells. As the types of prebiotics available diversify, so too will our understanding of the range of microbes able to degrade them, and the extent to which body sites can be impacted by their consumption.
+
+In Vitro Fermentation of Selected Prebiotics and Their Effects on the Composition and Activity of the Adult Gut Microbiota
+
+Number of 
+
+Key takeaways:Beta-glucan from oats shows the most distinct effects on gut microbiota composition and metabolism, suggesting potential health benefits.
+
+Abstract:Recently, the concept of prebiotics has been revisited to expand beyond non-digestible oligosaccharides, and the requirements for selective stimulation were extended to include microbial groups other than, and additional to, bifidobacteria and lactobacilli. Here, the gut microbiota-modulating effects of well-known and novel prebiotics were studied. An in vitro fermentation screening platform (i-screen) was inoculated with adult fecal microbiota, exposed to different dietary fibers that had a range of concentrations (inulin, alpha-linked galacto-oligosaccharides (alpha-GOS), beta-linked GOS, xylo-oligosaccharides (XOS) from corn cobs and high-fiber sugar cane, and beta-glucan from oats), and compared to a positive fructo-oligosaccharide (FOS) control and a negative control (no fiber addition). All dietary fibers displayed prebiotic activity, with beta-glucan showing more distinct effects on the microbial composition and metabolism compared to the other fibers. Beta-glucan induced the growth of Prevotella and Roseburia with a concomitant increase in propionate production. Inulin and both forms of GOS and XOS had a strong bifidogenic effect on the microbial composition. A dose-response effect was observed for butyrate when exposed to beta-glucan and inulin. The findings of this study support the potential for alpha-GOS, XOS, and oat beta-glucan to serve as novel prebiotics, due to their association with the positive shifts in microbiome composition and short-chain fatty acid production that point to potential health benefits.
+
+Prebiotic inulin‐type fructans and galacto‐oligosaccharides: definition, specificity, function, and application in gastrointestinal disorders
+
+Number of 
+
+Key takeaways:Prebiotics show promise at low doses for modulating gut bacteria and reducing symptoms in irritable bowel syndrome, but larger doses may have neutral or negative impact on symptoms.
+
+Abstract:Prebiotics are non‐digestible selectively fermented dietary fibers that specifically promote the growth of one or more bacterial genera in the gastrointestinal tract and thus provide health benefit to the host. The two most investigated prebiotics being the inulin‐type fructans and galacto‐oligosaccharides. Prebiotic specificity is mediated through species‐specific gene clusters within saccharolytic bacteria controlled by signaling sensors for various substrates. Prebiotic health benefits are attributed to immune regulation and bacterial metabolite production. In humans, prebiotic supplementation leads to increased growth of specific gut microbiota (e.g., bifidobacteria), immune modulation, and depending on the bacterial augmentation, short‐chain fatty acid production. Irritable bowel syndrome and Crohn's disease are gastrointestinal disorders associated with reductions in some gut bacteria and greater mucosal inflammation. Prebiotic supplementation studies have shown some promise at low doses for modulation of the gut bacteria and reduction of symptoms in IBS; however, larger doses may have neutral or negative impact on symptoms. Studies in Crohn's disease have not shown benefit to bacterial modulation or inflammatory response with prebiotic supplementation. Dietary restriction of fermentable carbohydrates (low FODMAP diet), which restricts some naturally occurring prebiotics from the diet, has shown efficacy in improving symptoms in irritable bowel syndrome, but it lowers the numbers of some key gut microbiota. Further research is required on the effect of prebiotics in gastrointestinal disorders and, in particular, on their use in conjunction with the low FODMAP diet.
+
+Prebiotics Beyond the Gut: Omics Insights, Artificial Intelligence, and Clinical Trials in Organ-Specific Applications.
+
+Number of 
+
+Key takeaways:Prebiotics have systemic benefits, influencing multiple organ systems and fostering personalized nutrition and precision therapies through microbial modulation and biotechnological innovations.
+
+Abstract:Prebiotics, traditionally linked to gut health, are increasingly recognized for their systemic benefits, influencing multiple organ systems through interactions with the gut microbiota. Compounds like inulin, fructooligosaccharides (FOS), and galactooligosaccharides (GOS) enhance short-chain fatty acid (SCFA) production, benefiting neurocognitive health, cardiovascular function, immune modulation, and skin integrity. Advances in biotechnology, including deep eutectic solvents (DES) for extraction and machine learning (ML) for personalized formulations, have expanded prebiotic applications. Integrating these innovations with “omics” technologies enables precise microbial modulation, fostering personalized nutrition and precision therapies. This review examines organ-specific effects of prebiotics, highlights findings from clinical trials, and explores biotechnological innovations that enhance prebiotic efficacy, laying the groundwork for future personalized therapeutic strategies.
+
+Bacterial metabolism and health‐related effects of galacto‐oligosaccharides and other prebiotics
+
+Number of 
+
+Key takeaways:Prebiotics, particularly inulin and fructooligosaccharides, can promote beneficial gut bacteria growth and provide health benefits, particularly in relation to anti-cancer properties, mineral absorption, lipid metabolism, and anti-inflammatory effects.
+
+Abstract:Most studies involving prebiotic oligosaccharides have been carried out using inulin and its fructo‐oligosaccharide (FOS) derivatives, together with various forms of galacto‐oligosaccharides (GOS). Although many intestinal bacteria are able to grow on these carbohydrates, most investigations have demonstrated that the growth of bifidobacteria, and to a lesser degree lactobacilli, is particularly favoured. Because of their safety, stability, organoleptic properties, resistance to digestion in the upper bowel and fermentability in the colon, as well as their abilities to promote the growth of beneficial bacteria in the gut, these prebiotics are being increasingly incorporated into the Western diet. Inulin‐derived oligosaccharides and GOS are mildly laxative, but can result in flatulence and osmotic diarrhoea if taken in large amounts. However, their effects on large bowel habit are relatively minor. Although the literature dealing with the health significance of prebiotics is not as extensive as that concerning probiotics, considerable evidence has accrued showing that consumption of GOS and FOS can have significant health benefits, particularly in relation to their putative anti‐cancer properties, influence on mineral absorption, lipid metabolism, and anti‐inflammatory and other immune effects such as atopic disease. In many instances, prebiotics seem to be more effective when used as part of a synbiotic combination.
+
+Mechanisms of Action of Prebiotics and Their Effects on Gastro-Intestinal Disorders in Adults
+
+Number of 
+
+Key takeaways:Prebiotics, such as galacto-oligosaccharides and fructans, show potential in modulating intestinal microbiota, potentially benefiting adults with various gastro-intestinal disorders.
+
+Abstract:In recent years, research has focused on the use of dietary fibers and prebiotics, since many of these polysaccharides can be metabolized by intestinal microbiota, leading to the production of short-chain fatty acids. The metabolites of prebiotic fermentation also show anti-inflammatory and immunomodulatory capabilities, suggesting an interesting role in the treatment of several pathological conditions. Galacto-oligosaccharide and short- and long-chain fructans (Fructo-oligosaccharides and inulin) are the most studied prebiotics, even if other dietary compounds seem to show the same features. There is an increasing interest in dietary strategies to modulate microbiota. The aim of this review is to explore the mechanisms of action of prebiotics and their effects on the principal gastro-intestinal disorders in adults, with a special focus on Galacto-oligosaccharides, Fructo-oligosaccharides, lactulose and new emerging substances which currently have evidence of prebiotics effects, such as xilooligosaccharides, soybean oligosaccharides, isomaltooligosaccharides, lactobionic acid, resistant starch and polyphenols.
+
+Dietary calcium phosphate strongly impacts gut microbiome changes elicited by inulin and galacto-oligosaccharides consumption
+
+Number of 
+
+Key takeaways:Inulin and galacto-oligosaccharides both affect gut microbiota similarly, but their effects depend on dietary calcium phosphate levels, highlighting the need for detailed diet information for accurate microbiota analysis.
+
+Abstract:Abstract Background Fructo-oligosaccharides (FOS), inulin, and galacto-oligosaccharides (GOS) are widely recognized prebiotics that profoundly affect the intestinal microbiota, including stimulation of bifidobacteria and lactobacilli, and are reported to elicit several health benefits. The combination of dietary FOS and inulin with calcium phosphate was reported to stimulate commensal Lactobacillus populations and protect the host against pathogenic Enterobacteriaceae, but little is known about the effects of GOS in diets with a different level of calcium phosphate. Methods We investigated the microbiome changes elicited by dietary supplementation with GOS or inulin using diets with high (100 mmol/kg) and low (30 mmol/kg) calcium phosphate levels in adult Wistar rats. Rats were acclimatized to the respective experimental diets for 14 days, after which fecal material was collected, DNA was extracted from fecal material, and the V3‑V4 region of the bacterial 16S rRNA gene was amplified with PCR, followed by microbial composition analysis. In tandem, the organic acid profiles of the fecal material were analyzed. Results Feeding rats non-supplemented (no prebiotic-added) diets revealed that diets rich in calcium phosphate favored members of the Firmicutes and increased fecal lactic, succinic, acetic, propionic, and butyric acid levels. In contrast, relatively low dietary calcium phosphate levels promoted the abundance of mucin degrading genera like Akkermansia and Bacteroides , and resulted in increased fecal propionic acid levels and modest increases in lactic and butyric acid levels. Irrespective of the calcium phosphate levels, supplementation with GOS or inulin strongly stimulated Bifidobacterium , while only high calcium phosphate diets increased the endogenous Faecalibaculum populations. Conclusions Despite the prebiotic’s substantial difference in chemical structure, sugar composition, oligomer size, and the microbial degradation pathway involved in their utilization, inulin and GOS modulated the gut microbiota very similarly, in a manner that strongly depended on the dietary calcium phosphate level. Therefore, our study implies that the collection of detailed diet information including micronutrient balance is necessary to correctly assess diet-driven microbiota analysis.
+
+Nondigestible oligosaccharides exert nonprebiotic effects on intestinal epithelial cells enhancing the immune response via activation of TLR4-NFκB.
+
+Number of 
+
+Key takeaways:Prebiotics, such as fructooligosaccharides, inulin, galactooligosaccharides, and goat's milk oligosaccharides, activate TLR4 in intestinal epithelial cells, potentially influencing their in vivo effects.
+
+Abstract:SCOPE
+Prebiotic effects of non absorbable glucids depend mainly on digestion by the colonic microbiota. Our aim was to assess nonprebiotic, direct effects of 4 prebiotics, namely fructooligosaccharides, inulin, galactooligosaccharides, and goat's milk oligosaccharides on intestinal epithelial cells.
+
+METHODS AND RESULTS
+Prebiotics were tested in intestinal epithelial cell 18 (IEC18), HT29, and Caco-2 cells. Cytokine secretion was measured by ELISA and modulated with pharmacological probes and gene silencing. Prebiotics induced the production of growth-related oncogene, (GROα), monocyte chemoattractant protein 1 (MCP-1), and macrophage inflammatory protein 2 (MIP2) in IEC18 cells, with an efficacy that was 50-80% that of LPS. Prebiotics did not change RANTES expression, which was robustly induced by LPS in IEC18 cells. Cytokine secretion was suppressed by Bay11-7082, an inhibitor of IκB-α phosphorylation. The response was markedly decreased by Myd88 or TLR4 gene knockdown. Prebiotics also elicited cytokine production in HT29 but not in Caco-2 cells, consistent with reduced and vestigial expression of TLR4 in these cell lines, respectively. Prebiotic-induced MCP-1 secretion was reduced also in colonic explants from TLR4 KO mice compared with the controls.
+
+CONCLUSIONS
+We conclude that prebiotics are TLR4 ligands in intestinal epithelial cells and that this may be a relevant mechanism for their in vivo effects.
+
+Comparative study on immunomodulatory and growth enhancing effects of three prebiotics (galactooligosaccharide, fructooligosaccharide and inulin) in common carp (Cyprinus carpio)
+
+Number of 
+
+Key takeaways:GOS prebiotics show the most promising effects on carp growth and immune response, with a significant improvement in growth performance compared to FOS and INL.
+
+Abstract:This study investigated the effects of different prebiotics, including galactooligosaccharide (GOS), fructooligosaccharide (FOS) and inulin (INL), on skin mucosal immune parameters, humoral immune responses as well as performance of common carp (Cyprinus carpio). Two hundred and forty specimens (13.85 ± 0.85 g) were stocked in 12 fibreglass tanks assigned into three treatments and a control group. The experimental diets were formulated to have equal level (2%) of the prebiotics. At the end of the feeding trial, the highest skin mucus lysozyme activities and total immunoglobulin (total Ig) were observed in GOS-fed group (P < 0.05). However, skin mucus protease activity showed no significant difference among different dietary groups (P < 0.05). Blood respiratory burst activity was significantly increased in all prebiotic-fed fish compared to the control group (P < 0.05); the highest activity was observed in GOS treatment. Furthermore, evaluation of humoral immune response revealed that feeding with GOS-supplemented diet significantly increased lysozyme and alternative complement (ACH50) activity as well as total Ig compared to the control and other prebiotic groups. While no significant difference was observed between FOS and INL groups, common carps fed GOS-supplemented displayed improved (P < 0.05) growth performance, including final weight, weight gain, specific growth rate (SGR) and feed conversion ratio (FCR), compared to the control treatment. These results revealed that different prebiotics modulate carp growth and immune response in different manner, and GOS seems to be the most suitable prebiotic.
+
+Improvement of rheological and sensory properties of Lactobacillus helveticus fermented milk by prebiotics
+
+Number of 
+
+Key takeaways:Prebiotics, particularly inulin mixed with Galactooligosaccharides, can improve the rheological properties and sensory quality of Lactobacillus helveticus fermented milk.
+
+The functionality of prebiotics as immunostimulant: Evidences from trials on terrestrial and aquatic animals.
+
+Number of 
+
+Key takeaways:Prebiotics can enhance intestinal immunity in terrestrial and aquatic animals by increasing lysozyme and phagocytic activity, macrophage activation, and stimulating monocyte-derived dendritic cells.
+
+An In Vitro Approach to Study Effects of Prebiotics and Probiotics on the Faecal Microbiota and Selected Immune Parameters Relevant to the Elderly
+
+Number of 
+
+Key takeaways:Prebiotics and probiotics can potentially improve gut health and reduce inflammation in the elderly by targeting specific bacteria and increasing saccharolytic fermentation.
+
+Abstract:The aging process leads to alterations of gut microbiota and modifications to the immune response, such changes may be associated with increased disease risk. Prebiotics and probiotics can modulate microbiome changes induced by aging; however, their effects have not been directly compared. The aim of this study was to use anaerobic batch culture fermenters to assess the impact of various fermentable carbohydrates and microorganisms on the gut microbiota and selected immune markers. Elderly volunteers were used as donors for these experiments to enable relevance to an aging population. The impact of fermentation supernatants on immune markers relevant to the elderly were assessed in vitro. Levels of IL-1β, IL-6, IL-8, IL-10 and TNF-α in peripheral blood mononuclear cell culture supernatants were measured using flow cytometry. Trans-galactooligosaccharides (B-GOS) and inulin both stimulated bifidobacteria compared to other treatments (p<0.05). Fermentation supernatants taken from faecal batch cultures supplemented with B-GOS, inulin, B. bifidum, L. acidophilus and Ba. coagulans inhibited LPS induced TNF-α (p<0.05). IL-10 production, induced by LPS, was enhanced by fermentation supernatants from faecal batch cultures supplemented with B-GOS, inulin, B. bifidum, L. acidophilus, Ba. coagulans and Bac. thetaiotaomicron (p<0.05). To conclude, prebiotics and probiotics could lead to potentially beneficial effects to host health by targeting specific bacterial groups, increasing saccharolytic fermentation and decreasing inflammation associated with aging. Compared to probiotics, prebiotics led to greater microbiota modulation at the genus level within the fermenters.
+
+Exposure to a galactooligosaccharides/inulin prebiotic mix at different developmental time points differentially modulates immune responses in mice.
+
+Number of 
+
+Key takeaways:Prebiotic exposure during both perinatal and postweaning periods enhances immune responses and gut barrier functions in mice.
+
+Abstract:Prebiotics constitute emerging tools to alleviate immune pathologies. This study aimed to evaluate the effect of prebiotic exposure during perinatal and postweaning periods on immune and gut regulations. Mice were fed either a galactooligosaccharides/inulin prebiotic mix-enriched diet or a control diet during the perinatal and/or postweaning periods. Biomarkers related to gut barrier function (SCFA, heat shock proteins, zonula occludens protein-1, and mucin-2) and immune mechanisms (IgA, IgE, IgG1, IgG2a, IL-10, TGF-β, IL-4, IL-17A, and IFN-γ) were analyzed. The milk of dams fed the prebiotic diet was more concentrated in both IgA and TGF-β when prebiotics were introduced during both the perinatal and postweaning periods; IL-10, IgA, and IgG2a were increased in pups; and expression of intestinal markers was more pronounced. Postweaning exposure to prebiotics alone induced higher INF-γ and TGF-β levels, whereas IgA levels fell. Combined exposure periods (perinatal/postweaning) to prebiotics increased tolerance-related immunoglobulins in pups and reinforced gut barrier functions.
+
+Microbiota-independent immunological effects of non-digestible oligosaccharides in the context of inflammatory bowel diseases
+
+Number of 
+
+Key takeaways:Non-digestible oligosaccharides (NDO) show potential as immunomodulators in inflammatory bowel diseases, potentially reducing intestinal inflammation and IBD symptoms.
+
+Abstract:The aim of the present paper is to review the effects of non-digestible oligosaccharides (NDO) on immunity, focusing on their microbiota-independent mechanisms of action, as well as to explore their potential beneficial role in inflammatory bowel diseases (IBD). IBD are chronic, inflammatory conditions of the gastrointestinal tract. Individuals with IBD have an aberrant immune response to commensal microbiota, resulting in extensive mucosal inflammation and increased intestinal permeability. NDO are prebiotic fibres well known for their role in supporting intestinal health through modulation of the gut microbiota. NDO reach the colon intact and are fermented by commensal bacteria, resulting in the production of SCFA with immunomodulatory properties. In disease states characterised by increased gut permeability, prebiotics may also bypass the gut barrier and directly interact with intestinal and systemic immune cells, as demonstrated in patients with IBD and in infants with an immature gut. In vitro models show that fructooligosaccharides, inulin and galactooligosaccharides exert microbiota-independent effects on immunity by binding to toll-like receptors on monocytes, macrophages and intestinal epithelial cells and by modulating cytokine production and immune cell maturation. Moreover, animal models and human supplementation studies demonstrate that some prebiotics, including inulin and lactulose, might reduce intestinal inflammation and IBD symptoms. Although there are convincing preliminary data to support NDO as immunomodulators in the management of IBD, their mechanisms of action are still unclear and larger standardised studies need to be performed using a wider range of prebiotics.
+
+Prebiotics as immunostimulants in aquaculture: a review.
+
+Number of 
+
+Key takeaways:Prebiotics, specifically immunosaccharides, enhance the innate immune system of fish, improving their overall health and resistance to pathogens.
+
+Innate Immune Responses of Skin Mucosa in Common Carp (Cyprinus Carpio) Fed a Diet Supplemented with Galactooligosaccharides
+
+Number of 
+
+Key takeaways:Supplementing common carp with galactooligosaccharides (GOS) in feed enhances innate immune responses in the skin mucosa, increasing defense mechanisms and decreasing inflammation.
+
+Abstract:Simple Summary The skin mucosa in fish is equipped with innate immune mechanisms, which constitute the first line of defense against potentially harmful factors in the aquatic environment. Prebiotics, such as galactooligosaccharides (GOS), mediate modulation of the immune responses. Dietary prebiotics promote the development of intestinal microbiota, which interacts with the immune system. In this study, we analyzed the effects of the GOS prebiotic applied as a feed additive on molecular responses in the skin mucosa of the common carp. The genes analyzed encode various proteins associated with the innate immune response in skin mucosa in fish, such as mucin secretion, antimicrobial peptides, and enzymes. Modulated expression of those genes at the mRNA level regulates the defense mechanisms in the skin mucosa. In this study, supplementation with GOS increased the mRNA level of interferon and lysozyme, which are involved in fighting infection. At the same time, GOS decreased the mRNA level of CRP, which is a marker of inflammation. We conclude that supplementation with GOS modulates innate immune processes in the skin mucosa of common carp. Further studies could be focused on analyzing the effects of GOS on the microbiota composition of the skin mucosa and the mitigating effects against environmental stress. Abstract Galactooligosaccharides (GOS) are well-known immunomodulatory prebiotics. We hypothesize that GOS supplemented in feed modulates innate immune responses in the skin-associated lymphoid tissue (SALT) of common carp. The aim of this study was to determine the impact of GOS on mRNA expression of the immune-related genes in skin mucosa. During the feeding trial, the juvenile fish (bodyweight 180 ± 5 g) were fed two types of diet for 50 days: control and supplemented with 2% GOS. At the end of the trial, a subset of fish was euthanized (n = 8). Skin mucosa was collected, and RNA was extracted. Gene expression analysis was performed with RT-qPCR to determine the mRNA abundance of the genes associated with innate immune responses in SALT, i.e., acute-phase protein (CRP), antimicrobial proteins (His2Av and GGGT5L), cytokines (IL1β, IL4, IL8, IL10, and IFNγ), lectin (CLEC4M), lyzosymes (LyzC and LyzG), mucin (M5ACL), peroxidase (MPO), proteases (CTSB and CTSD), and oxidoreductase (TXNL). The geometric mean of 40s s11 and ACTB was used to normalize the data. Relative quantification of the gene expression was calculated with ∆∆Ct. GOS upregulated INFγ (p ≤ 0.05) and LyzG (p ≤ 0.05), and downregulated CRP (p ≤ 0.01). We conclude that GOS modulates innate immune responses in the skin mucosa of common carp.
+
+Potential Effects of Prebiotics on Gastrointestinal and Immunological Modulation in the Feeding of Healthy Dogs: A Review
+
+Number of 
+
+Key takeaways:Prebiotics in dog feed can improve gut health, immune response, and overall health, with effects varying based on source, concentration, and supplementation period.
+
+Abstract:One of the most studied functional foods in dog feed today is the prebiotic. Prebiotics are known for their modulating effects on the intestinal microbiota, fecal characteristics, and the immune system, which promotes beneficial effects to the host. However, with the diversity of prebiotics in the pet market, there are discussions around which prebiotics to use to stimulate these positive effects. In this case, the objective of this review was to demonstrate the main effects of different prebiotics on the feeding of healthy dogs. Platforms such as Embase, PubMed, and Mendeley were accessed to plot all scientific articles in vivo that reported prebiotics to feed adult or senior dogs. After excluding duplicate articles and without the evaluated criteria, we obtained a total of 36 articles. Our results demonstrated the diversity and concentrations of prebiotics in the feeding of healthy adult and senior dogs. The effects of prebiotics differ according to source, concentration, and length of the supplementation period. Several beneficial effects of different prebiotics have been observed in dogs, such as increased fecal Lactobacilli and Bifidobacteria concentrations and decreased fecal Clostridium perfringens and Escherichia coli concentrations, increased short chain fatty acids concentrations, decreased colonic ammonia absorption, and immunomodulatory effects, such as improved humoral immune response and increased phagocytic index. Galactooligosaccharides, fructooligosaccharides, mannanoligosaccharides, yeast cell wall, inulin, and beta-glucans were the most studied prebiotics, which showed potentially promising effects. This is a review that brings the importance and the modulating effects of prebiotics in the feeding of healthy dogs; the effects help the gastrointestinal tract and the immune system.
+
+Possible actions of inulin as prebiotic polysaccharide: A review
+
+Number of 
+
+Key takeaways:Inulin polysaccharides are prebiotic dietary fibers that reduce caloric intake, improve blood glucose levels, and stimulate immune systems, but may cause gastrointestinal discomfort when consumed in large amounts.
+
+Abstract:This review summarizes the nature, types, and properties of inulin polysaccharides and their applications as prebiotic dietary fibers. Natural food and commercial plant sourcesofinulinandextractionmethodsarepresented.Thephysicochemicalandfunc-tional properties of inulin are summarized. The prebiotic roles of inulin and their mechanisms of action are detailed. Inulin acts as prebiotic dietary fiber with multiple putative health benefits. It reduces caloric intake and contributes to reduced blood glucose and plasma lipid/cholesterol levels when used as sugar and fat replacers. It also stimulates immune systems and protects the colon mucosa against carcinogenesis and inflammation.Inulinalsoaltersthecompositionandpopulationofthegutmicrobiota.It stimulates the growth and activities of health beneficial microorganisms while inhibiting enteropathogenic bacteria. The beneficial microorganisms ferment inulin and pro-duces acids including short-chain fatty acids that lower the pH in the colon and inhibit pathogens. The health beneficial bacteria also produce other metabolites that pos-itively influence human health. The consumption of inulin is however, associated to symptoms of gastrointestinal discomfort, when consumed at higher levels to meet the daily recommendation of dietary fiber. Potential solutions to the limitations are for-warded as future research ideas and policy inputs.
+
+Prebiotic Galactooligosaccharide Supplementation in Adults with Ulcerative Colitis: Exploring the Impact on Peripheral Blood Gene Expression, Gut Microbiota, and Clinical Symptoms
+
+Number of 
+
+Key takeaways:Prebiotic galactooligosaccharide supplementation normalizes stools in adults with ulcerative colitis, but does not lower clinical scores or inflammation, but may improve gut microbiota in less active cases.
+
+Abstract:Prebiotics may promote immune homeostasis and reduce sub-clinical inflammation in humans. This study investigated the effect of prebiotic galactooligosaccharide (GOS) supplementation in colonic inflammation. Seventeen patients with active ulcerative colitis (UC) consumed 2.8 g/d GOS for 6 weeks. At baseline and 6 weeks, gene expression (microarray), fecal calprotectin (ELISA), microbiota (16S rRNA), short-chain fatty acids (SCFAs; gas-liquid chromatography), and clinical outcomes (simple clinical colitis activity index (SCCAI), gastrointestinal symptom rating scale (GSRS), and Bristol stool form scale (BSFS)) were measured. Following prebiotics, clinical scores (SCCAI), fecal calprotectin, SCFAs, and pH were unchanged. Five genes were upregulated and two downregulated. Normal stool proportion (BSFS) increased (49% vs. 70%, p = 0.024), and the incidence (46% vs. 23%, p = 0.016) and severity (0.7 vs. 0.5, p = 0.048) of loose stool (GSRS), along with urgency (SCCAI) scores (1.0 vs. 0.5, p = 0.011), were reduced. In patients with a baseline SCCAI ≤2, prebiotics increased the relative abundance of Bifidobacterium from 1.65% (1.97) to 3.99% (5.37) (p = 0.046) and Christensenellaceae from 0.13% (0.33) to 0.31% (0.76) (p = 0.043). Prebiotics did not lower clinical scores or inflammation but normalized stools. Bifidobacterium and Christensenellaceae proportions only increased in patients with less active diseases, indicating that the prebiotic effect may depend on disease activity. A controlled study is required to validate these observations.
+
+Supplementation With Galactooligosaccharides and Inulin Increases Bacterial Translocation in Artificially Reared Newborn Rats
+
+Number of 
+
+Key takeaways:GOS/inulin supplementation in newborn rats may increase bacterial translocation towards the spleen, potentially impairing intestinal barrier function.
+
+Abstract:Supplementation of formulas with prebiotics enhances the growth of lactate producing bacteria, and fecal lactate, and acetate levels in infants. High concentrations of organic acids in intestinal lumen have, however, been shown to impair the intestinal barrier function. To determine whether stimulating the colonic microbiotal metabolism with prebiotics would impair the neonatal intestinal barrier function, artificially reared rats were fed milk formula with or without a mixture of galactooligosaccharides/inulin (GOS/Inulin, 88/12; 5.6 g/L) from the 7th d of life (d7) until weaning (d20). At d18, GOS/inulin supplementation had increased the concentrations of acetate and lactate in colonic lumen. Although neither ileum-associated microbiota nor colonic permeability (assessed in Ussing chambers), nor the expression of tight junction claudin-2 and claudin-3 mRNA were altered, GOS/inulin supplementation was associated with increased bacterial translocation (BT) toward spleen. None of these effects persisted at d40. We conclude that GOS/inulin supplementation may increase BT in an immature gut. The balance between the potential infectious risk of BT vs. its putative beneficial effect on the maturation of neonatal immune system clearly warrants further study.
+
+Prebiotic Galactooligosaccharides Reduce Adherence of Enteropathogenic Escherichia coli to Tissue Culture Cells
+
+Number of 
+
+Key takeaways:Prebiotic galactooligosaccharides may have antiadhesive activity and directly inhibit the adherence of enteropathogenic Escherichia coli to host epithelial cell surfaces, potentially providing health benefits.
+
+Abstract:ABSTRACT Prebiotic oligosaccharides are thought to provide beneficial effects in the gastrointestinal tract of humans and animals by stimulating growth of selected members of the intestinal microflora. Another means by which prebiotic oligosaccharides may confer health benefits is via their antiadhesive activity. Specifically, these oligosaccharides may directly inhibit infections by enteric pathogens due to their ability to act as structural mimics of the pathogen binding sites that coat the surface of gastrointestinal epithelial cells. In this study, the ability of commercial prebiotics to inhibit attachment of microcolony-forming enteropathogenic Escherichia coli (EPEC) was investigated. The adherence of EPEC strain E2348/69 on HEp-2 and Caco-2 cells, in the presence of fructooligosaccharides, inulin, galactooligosaccharides (GOS), lactulose, and raffinose was determined by cultural enumeration and microscopy. Purified GOS exhibited the greatest adherence inhibition on both HEp-2 and Caco-2 cells, reducing the adherence of EPEC by 65 and 70%, respectively. In addition, the average number of bacteria per microcolony was significantly reduced from 14 to 4 when GOS was present. Adherence inhibition by GOS was dose dependent, reaching a maximum at 16 mg/ml. When GOS was added to adhered EPEC cells, no displacement was observed. The expression of BfpA, a bundle-forming-pilus protein involved in localized adherence, was not affected by GOS, indicating that adherence inhibition was not due to the absence of this adherence factor. In addition, GOS did not affect autoaggregation. These observations suggest that some prebiotic oligosaccharides may have antiadhesive activity and directly inhibit the adherence of pathogens to the host epithelial cell surface.
+
+The Prebiotic Potential of Inulin-Type Fructans: A Systematic Review
+
+Number of 
+
+Key takeaways:Inulin-type fructans (ITF) have a prebiotic effect on intestinal microbiota, promoting beneficial health effects such as improved intestinal barrier function, laxation, insulin sensitivity, decreased triglycerides, and increased satiety.
+
+Abstract:ABSTRACT Inulin-type fructans (ITF), including short-chain fructooligosaccharides (scFOS), oligofructose, and inulin, are commonly used fibers that are widely regarded as prebiotic for their ability to be selectively utilized by the intestinal microbiota to confer a health benefit. However, to our knowledge the literature thus far lacks a thorough discussion of the evidence from human clinical trials for the prebiotic effect of ITF, including beneficial effects on intestinal microbiota composition and intestinal and extraintestinal processes (e.g., glucose homeostasis, lipids, mineral absorption and bone health, appetite and satiety, inflammation and immune function, and body composition). Additionally, there has been a lack of discussion regarding aspects such as the effect of ITF chain length on its intestinal and extraintestinal effects. The overall objective of this systematic review was to summarize the prebiotic potential of ITF based on the results of human clinical trials in healthy adult populations. Evidence from studies included in the current review suggest that ITF have a prebiotic effect on the intestinal microbiota, promoting the abundances of Bifidobacterium, Lactobacillus, and Faecalibacterium prausnitzii. Beneficial health effects reported following ITF intake include improved intestinal barrier function, improved laxation, increased insulin sensitivity, decreased triglycerides and an improved lipid profile, increased absorption of calcium and magnesium, and increased satiety. Although there is some evidence for differing effects of ITF based on chain length, the lack of direct comparisons and detailed descriptions of physicochemical properties limits the ability to draw conclusions from human clinical studies. Future research should focus on elucidating the mechanisms by which the intestinal microbiota mediates or modifies the effects of ITF on human health and the contribution of individual factors such as age and metabolic health to the movement toward personalization of prebiotic applications.
+
+The pleiotropic effects of prebiotic galacto-oligosaccharides on the aging gut
+
+Number of 
+
+Key takeaways:Prebiotic galacto-oligosaccharides (GOS) can improve gut health in aging individuals by promoting changes in microbiome composition and host gene expression, leading to decreased intestinal permeability and increased mucus production.
+
+Abstract:Abstract Background Prebiotic galacto-oligosaccharides (GOS) have an extensively demonstrated beneficial impact on intestinal health. In this study, we determined the impact of GOS diets on hallmarks of gut aging: microbiome dysbiosis, inflammation, and intestinal barrier defects (“leaky gut”). We also evaluated if short-term GOS feeding influenced how the aging gut responded to antibiotic challenges in a mouse model of Clostridioides difficile infection. Finally, we assessed if colonic organoids could reproduce the GOS responder—non-responder phenotypes observed in vivo. Results Old animals had a distinct microbiome characterized by increased ratios of non-saccharolytic versus saccharolytic bacteria and, correspondingly, a lower abundance of β-galactosidases compared to young animals. GOS reduced the overall diversity, increased the abundance of specific saccharolytic bacteria (species of Bacteroides and Lactobacillus ), increased the abundance of β-galactosidases in young and old animals, and increased the non-saccharolytic organisms; however, a robust, homogeneous bifidogenic effect was not observed. GOS reduced age-associated increased intestinal permeability and increased MUC2 expression and mucus thickness in old mice. Clyndamicin reduced the abundance Bifidobacterium while increasing Akkermansia , Clostridium , Coprococcus , Bacillus , Bacteroides , and Ruminococcus in old mice. The antibiotics were more impactful than GOS on modulating serum markers of inflammation. Higher serum levels of IL-17 and IL-6 were observed in control and GOS diets in the antibiotic groups, and within those groups, levels of IL-6 were higher in the GOS groups, regardless of age, and higher in the old compared to young animals in the control diet groups. RTqPCR revealed significantly increased gene expression of TNFα in distal colon tissue of old mice, which was decreased by the GOS diet. Colon transcriptomics analysis of mice fed GOS showed increased expression of genes involved in small-molecule metabolic processes and specifically the respirasome in old animals, which could indicate an increased oxidative metabolism and energetic efficiency. In young mice, GOS induced the expression of binding-related genes. The galectin gene Lgals1 , a β-galactosyl-binding lectin that bridges molecules by their sugar moieties and is an important modulator of the immune response, and the PI3K-Akt and ECM-receptor interaction pathways were also induced in young mice. Stools from mice exhibiting variable bifidogenic response to GOS injected into colon organoids in the presence of prebiotics reproduced the response and non-response phenotypes observed in vivo suggesting that the composition and functionality of the microbiota are the main contributors to the phenotype. Conclusions Dietary GOS modulated homeostasis of the aging gut by promoting changes in microbiome composition and host gene expression, which was translated into decreased intestinal permeability and increased mucus production. Age was a determining factor on how prebiotics impacted the microbiome and expression of intestinal epithelial cells, especially apparent from the induction of galectin-1 in young but not old mice.
+
+Effects of inulin and isomalto-oligosaccharide on diphenoxylate-induced constipation, gastrointestinal motility-related hormones, short-chain fatty acids, and the intestinal flora in rats.
+
+Number of 
+
+Key takeaways:Inulin and isomalto-oligosaccharide improve constipation and alter intestinal microbiota in rats, enhancing gastrointestinal motility and reducing inflammation.
+
+Abstract:The prebiotics inulin (INU) and isomalto-oligosaccharide (IMO) influence intestinal health and immunity, but their effects on constipation are not clearly established. We evaluated the effects of INU and IMO in a rat model of diphenoxylate-induced constipation. Twenty-four male rats were divided into four groups: basal diet (Con), 40 mg kg-1 diphenoxylate (PCon), 20 g kg-1 INU and treated with 40 mg kg-1 diphenoxylate, and 20 g kg-1 IMO and treated with 40 mg kg-1 diphenoxylate. INU and IMO increased the number, weight, and water content of fecal pellets, and decreased the time to the first black stool in rats with constipation. Serum levels of the gastrointestinal motility-related hormones adrenocorticotropic hormone (ACTH), motilin (MTL), and Substance P (SP) were higher and corticosterone (CORT), vasoactive intestinal peptide (VIP), and calcitonin gene-related peptide (CGRP) were lower in rats treated with prebiotics than in untreated rats. Colon tissue levels of MTL and SP were increased, and VIP and CGRP were decreased by prebiotics. Furthermore, in rats with constipation, INU and IMO increased the colonic contents of short-chain fatty acids. The relative abundance of Bacteroidetes was lower in the prebiotics groups than in the Con and PCon groups. Lactobacillus was more abundant in the INU and IMO groups than in PCon rats. Lactobacillus reuteri and Lactobacillus intestinalis were more abundant in the IMO group than in the PCon group (P < 0.01), and L. intestinalis was more abundant in the INU group than in the PCon group (P < 0.01). In summary, INU and IMO improved constipation and altered the intestinal microbiota in a rat model of constipation.
+
+Galactooligosaccharide pretreatment alleviates damage of the intestinal barrier and inflammatory responses in LPS-challenged mice.
+
+Number of 
+
+Key takeaways:Pure GOS can act as protective agents for intestinal health, reducing damage and inflammation caused by lipopolysaccharide in mice.
+
+Abstract:Galactooligosaccharides (GOS) have been identified as beneficial prebiotics for animals and human beings. Most studies have focused on the effect of GOS on the hindgut populated with abundant microbes. However, few research studies have been conducted on the small intestine, and many results are inconsistent due to the purity of GOS, commonly mixed with monosaccharides or lactose. Therefore, pure GOS with definite structures were prepared and used in the present study to evaluate their effects on intestinal barrier function, inflammatory responses and short-chain fatty acids (SCFAs) produced in the colon of mice challenged with lipopolysaccharide (LPS). The results of 1H and 13C nuclear magnetic resonance spectral analyses indicated that the main structures of GOS with a degree of polymerization of 3 (trisaccharide) and 4 (tetrasaccharide) are and , respectively. The results of an in vivo study in mice showed that intragastric administration of 0.5 g per kg BW GOS attenuated intestinal barrier damage and inflammatory responses induced by LPS in the jejunum and ileum, as indicated by increasing villus height and villus-to-crypt ratio, up-regulated intestinal tight junction (ZO-1, occludin, and claudin-1) gene expression, and down-regulated pro-inflammatory cytokines such as IL-1β, IL-6, IFN-γ, and TNF-α gene expression. Nevertheless, the protective effects of GOS on the intestinal barrier are independent of glucagon-like peptide 2. In addition, 0.5 g per kg BW GOS administration promoted the recovery of colonic acetate, propionate, butyrate, and total SCFA production reduced by LPS challenge. The obtained results provide practical evidence that pure GOS can act as protective agents for intestinal health.
+
+Effects of common prebiotics on iron status and production of colonic short-chain fatty acids in anemic rats
+
+Number of 
+
+Key takeaways:GOS and FOS prebiotics slightly improve iron status in anemic rats, while the role of short-chain fatty acids in the colon remains unclear.
+
+Probiotic Bifidobacterium strains and galactooligosaccharides improve intestinal barrier function in obese adults but show no synergism when used together as synbiotics
+
+Number of 
+
+Key takeaways:Probiotic Bifidobacterium strains and galactooligosaccharides improve intestinal barrier function in obese adults, but show no synergistic effects when used together as synbiotics.
+
+Abstract:One way to improve both the ecological performance and functionality of probiotic bacteria is by combining them with a prebiotic in the form of a synbiotic. However, the degree to which such synbiotic formulations improve probiotic strain functionality in humans has not been tested systematically. Our goal was to use a randomized, double-blind, placebo-controlled, parallel-arm clinical trial in obese humans to compare the ecological and physiological impact of the prebiotic galactooligosaccharides (GOS) and the probiotic strains Bifidobacterium adolescentis IVS-1 (autochthonous and selected via in vivo selection) and Bifidobacterium lactis BB-12 (commercial probiotic allochthonous to the human gut) when used on their own or as synbiotic combinations. After 3 weeks of consumption, strain-specific quantitative real-time PCR and 16S rRNA gene sequencing were performed on fecal samples to assess changes in the microbiota. Intestinal permeability was determined by measuring sugar recovery in urine by GC after consumption of a sugar mixture. Serum-based endotoxin exposure was also assessed. IVS-1 reached significantly higher cell numbers in fecal samples than BB-12 (P < 0.01) and, remarkably, its administration induced an increase in total bifidobacteria that was comparable to that of GOS. Although GOS showed a clear bifidogenic effect on the resident gut microbiota, both probiotic strains showed only a non-significant trend of higher fecal cell numbers when administered with GOS. Post-aspirin sucralose:lactulose ratios were reduced in groups IVS-1 (P = 0.050), IVS-1 + GOS (P = 0.022), and GOS (P = 0.010), while sucralose excretion was reduced with BB-12 (P = 0.002) and GOS (P = 0.020), indicating improvements in colonic permeability but no synergistic effects. No changes in markers of endotoxemia were observed. This study demonstrated that 'autochthony' of the probiotic strain has a larger effect on ecological performance than the provision of a prebiotic substrate, likely due to competitive interactions with members of the resident microbiota. Although the synbiotic combinations tested in this study did not demonstrate functional synergism, our findings clearly showed that the pro- and prebiotic components by themselves improved markers of colonic permeability, providing a rational for their use in pathologies with an underlying leakiness of the gut.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

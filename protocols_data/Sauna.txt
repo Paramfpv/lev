@@ -1,0 +1,496 @@
+PROTOCOL: Sauna
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Abstract:Introduction: Sauna bathing as a health-promoting activity has been known to mankind for millennia. Sauna session, which consists of alternate overheating and then rapidly cooling the body, has a beneficial effect on the health of the body confirmed by scientific research. In the last few decades, sauna bathing has become more available due to the growing market of recreational services such as water parks and sauna parks. Regular use of sauna bathing reduces the risk of cardiovascular diseases, musculoskeletal disorders, mental stress, accelerates the process of regeneration after physical exertion, as well as increases resistance to the harmful effects of certain environmental factors. Despite the health benefits known for many years, the physiological mechanisms occurring in the body during sauna sessions still remain unknown. Sauna bathing treatments can be an effective complement to the process of treatment and rehabilitation of patients with cardiovascular diseases, musculoskeletal diseases, respiratory tract diseases, skin diseases and many others. 
+Material and methods: A literature analysis on sauna bathing was carried out within the Pubmed and Google scholar platforms. The following keywords were used in search: sauna bathing, infrared sauna, cardiovascular diseases.  
+Purpose of the work: The aim of the following analysis is to present a historical outline of the use of sauna bathing, the health aspect, risks and the assumptions and indicating an important need for further research into the effects of sauna bathing on the body.
+DESCRIPTION: Sauna is a traditional health-supporting method that brings numerous benefits to the cardiovascular system, improves mental well-being, and aids in post-exercise recovery. Regular sauna use promotes lower blood pressure, improved vascular function, stress reduction, and better sleep quality, which collectively enhance quality of life and reduce the risk of chronic diseases.
+
+CONTENT SECTIONS:
+
+Cardiovascular support and psychophysical recovery
+
+Sauna is a traditional health-supporting method that brings numerous benefits to the cardiovascular system, improves mental well-being, and aids in post-exercise recovery. Regular sauna use promotes lower blood pressure, improved vascular function, stress reduction, and better sleep quality, which collectively enhance quality of life and reduce the risk of chronic diseases.
+
+Level of evidence:Strong
+
+During a sauna session, blood vessels dilate and blood flow increases, improving tissue oxygenation and reducing cardiac workload. Heat activates thermoregulatory mechanisms that help lower blood pressure and improve endothelial function. Simultaneously, the sauna induces neurophysiological responses that lead to stress reduction, increased brain waves associated with relaxation, and improved sleep quality. As a result, sauna acts as a mild stressor that strengthens the body's adaptation and supports psychophysical recovery.
+
+Sauna is generally well tolerated by most healthy individuals, though mild side effects can occur, especially with excessive or improper use. People with certain medical conditions should exercise caution and consult a physician before starting regular sessions.
+
+Sauna use is not recommended or requires caution in individuals with certain conditions and health states where exposure to high temperatures may be dangerous.
+
+Sauna sessions lasting 10–20 minutes, 2–4 times per week
+
+Traditional Finnish sauna, infrared sauna
+
+First benefits visible after a few weeks of regular use
+
+Evening is optimal for improving sleep quality
+
+Gradual increase in session time
+
+Start with shorter sessions (e.g. 5–10 minutes), gradually increasing duration to allow the body to adapt
+
+Drink water before and after the session to prevent dehydration
+
+Do not use the sauna under the influence of alcohol, as it increases the risk of adverse effects
+
+Use sauna sessions regularly to achieve optimal health and recovery benefits
+
+Sauna supports mental health by reducing stress, improving mood, and promoting relaxation. Regular sauna use may lower the risk of mental disorders and enhance quality of life.
+
+Stress reduction and improved well-being
+
+Reduction of depressive and anxiety symptoms
+
+Improved sleep quality and energy
+
+Practical recommendations and limitations
+
+Cardiovascular system
+
+Sauna positively affects the cardiovascular system by lowering blood pressure, improving vessel elasticity, and supporting heart health. Regular sauna use may reduce the risk of cardiovascular diseases in both healthy individuals and those with risk factors.
+
+Lowering blood pressure
+
+Improved vascular elasticity and endothelial function
+
+Improved physical performance and heart support
+
+Reduced risk of hypertension and heart disease
+
+Safety and recommendations
+
+Fatigue and regeneration
+
+Sauna supports body recovery after physical exertion, promotes relaxation, and reduces fatigue, although its effectiveness depends on frequency of use and type of effort. It is not always the most effective method for reducing inflammation or improving performance, especially compared to cold baths.
+
+Muscle and tissue recovery
+
+Oxidative stress and inflammation
+
+Effect on performance and full recovery
+
+Comparison with other recovery methods
+
+Practical recommendations
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:46
+
+Final comment:Sauna is one of the best-researched thermal interventions with well-documented positive effects on the cardiovascular system, supported by numerous meta-analyses, randomized controlled trials (RCTs), and large-scale observational studies involving both healthy populations and individuals with cardiovascular risk factors. These effects include lowering blood pressure, improving endothelial function, and reducing the risk of hypertension and heart disease. Additionally, sauna has a beneficial impact on mental health by reducing stress and symptoms of depression, as confirmed by moderate- and high-quality clinical studies. In the context of post-exercise recovery and improving physiological parameters, the evidence is moderate and preliminary but indicates potential benefits. The risk of adverse effects in healthy individuals is low, provided that dosage guidelines, hydration, and contraindications are followed, as confirmed by clinical studies and expert opinions.
+
+A study on neural changes induced by sauna bathing: Neural basis of the “totonou” state
+
+Number of 
+
+Key takeaways:Sauna bathing induces a more efficient state in the brain, leading to increased theta and alpha brain activity and increased happiness.
+
+Abstract:Saunas are becoming increasingly popular worldwide, being an activity that promotes relaxation and health. Intense feelings of happiness have been reported shortly after enjoying a hot sauna and cold water, what is known in Japan as the “totonou” state. However, no research has investigated what occurs in the brain during the “totonou” state. In the present study, participants underwent a sauna phase, consisting of three sets of alternating hot sauna, cold water, and rest. We elucidated changes in brain activity and mood in the “totonou” state by measuring and comparing brain activity and emotional scales before and after the sauna phase and during the rest phase in each set. We found significant increases in theta and alpha power during rest and after the sauna phase compared to before the sauna phase. Moreover, in an auditory oddball task, the p300 amplitude decreased significantly and MMN amplitude increased significantly after the sauna phase. The increase in MMN indicates higher activation of the pre-attentional auditory process, leading to a decrease in attention-related brain activity P300. Hence, the brain reaches in a more efficient state. Further, the response time in behavioral tasks decreased significantly. In addition, the participants’ subjective responses to the questionnaire showed significant changes in physical relaxation and other indicators after being in the sauna. Finally, we developed an artificial intelligence classifier, obtaining an average accuracy of brain state classification of 88.34%. The results have potential for future application.
+
+Psychological Benefits of Sauna Ceremonies in the Context of Wellness
+
+Number of 
+
+Key takeaways:Sauna ceremonies are an ideal form of relaxation, psychological hygiene, and stress relief, resulting in pleasant and joyful feelings during the ceremony.
+
+Abstract:The health benefits of sauna bathing are described in detail, including the psycho-hygienic effects. The article addresses the psychological benefits of sauna ceremonies in the context of wellness and well-being. The main aim of the study was to analyse the respondents' feelings and experiences of sauna bathing, including sauna ceremonies, and to find out whether it helps them in maintaining their psychological well-being and what they experience during sauna ceremonies. A semi-structured interview method was used. The research sample consisted of 27 respondents who regularly took sauna including sauna ceremony. When asked what respondents found to be the benefits of sauna ceremonies, the most common answers were that it was an ideal form of relaxation, psychological hygiene and a tool for stress relief. During sauna ceremonies they experience feelings of complete relaxation and relief, pleasant and joyful feelings.
+
+The Impact of Sauna on Health
+
+Number of 
+
+Key takeaways:Regular sauna use is associated with improved cardiovascular health, reduced stress, depression, and anxiety levels, and may lower the risk of neurodegenerative diseases like Alzheimer's and dementia.
+
+Abstract:This review examines the health implications of regular sauna use, a tradition deeply rooted in Finnish culture now gaining global interest for its potential health benefits. It consolidates findings from various scientific studies, emphasizing the physiological and health impacts of traditional sauna practices on cardiovascular health, mental well-being, and overall mortality. The review highlights the positive cardiovascular outcomes associated with regular sauna use, such as reduced risks of hypertension, coronary artery disease, and sudden cardiac death, attributing these benefits to improved endothelial function, decreased arterial stiffness, and positive changes in blood pressure. Additionally, sauna bathing is shown to offer mental health benefits by reducing stress, depression, anxiety levels, and possibly lowering the risk of neurodegenerative diseases like Alzheimer's and dementia. Despite the substantial benefits, the review also acknowledges potential risks, especially for individuals with specific health conditions, underscoring the importance of hydration and caution against alcohol consumption before sauna sessions. Conclusively, the evidence supports the integration of sauna bathing into health promotion strategies, with a call for further research to explore the mechanisms underlying its health benefits and to develop guidelines for optimizing these benefits while minimizing risks. Sauna bathing emerges as a promising, non-invasive approach to enhancing overall health and well-being, warranting its consideration in complementary health practices.
+
+The influence of extreme thermal stress on the physiological and psychological characteristics of young women who sporadically use the sauna: practical implications for the safe use of the sauna
+
+Number of 
+
+Key takeaways:Sauna bathing at 80°C is recommended for women who sporadically use the sauna, while exposure to 120°C is not advised due to potential heat exhaustion and heat stress symptoms.
+
+Abstract:Background Many individuals who use the sauna at a temperature of 120°C of higher are not aware of the negative consequences of extreme thermal stress. Despite extensive research into sauna use, the impact of extreme thermal stress on the physiological and psychological characteristics of sauna users have not been examined to date. Aim The aim was to determine the effect of 20 min sauna sessions with a temperature of 80°C and 120°C on the physiological and psychological characteristics of women who sporadically visit the sauna. Methods The study was conducted on 22 full-time female university students. Physical activity (PA) levels were evaluated with the Polish short version of the International Physical Activity Questionnaire (IPAQ). Anthropometric characteristics were measured before the first sauna session by the InBody270 body composition analyzer. Physiological parameters, including heart, energy expenditure, physical effort, and blood pressure (systolic blood pressure – SBP, and diastolic blood pressure – DBP), were assessed indirectly using Polar V800 heart rate monitors and the Omron M6 Comfort blood pressure monitor. The participants’ wellbeing was assessed with the Profile of Mood States (POMS) questionnaire. The presence of significant correlations between heat exhaustion and heat stress variables and syncope during the second sauna session was examined with the use of classification and regression trees (CRT) and the cross-validation technique. Results Twenty-minute sauna sessions with a temperature of 80°C and 120°C induced a significant (p < 0.001) decrease in the values of SBP (excluding the temperature of 120°C), DBP, and body mass, as well as a significant increase in HR and forehead temperature. Exposure to a temperature of 80°C led to a significant (p < 0.001) increase in vigor with a simultaneous decrease in tension, depression, anger, fatigue, and confusion. In turn, sauna bathing at a temperature of 120°C had an opposite effect on the above mood parameters. Vomiting and confusion were the main predictors of syncope that occurred in some of the surveyed women. Conclusion Excessive air temperature can induce symptoms characteristic of heat exhaustion and heat stress nausea, heavy sweating, fast weak or strong HR, high body temperature, and confusion. Therefore, sauna bathing at a temperature of 80°C can be recommended to women who sporadically use the sauna, whereas exposure to a temperature of 120°C is not advised in this group of sauna users. The present findings provide highly valuable inputs for managing wellness and SPA centers.
+
+Is there scientific evidence that sauna bathing enhances the health effects of physical activity? - Review
+
+Number of 
+
+Key takeaways:Sauna bathing enhances the positive effects of physical activity on cardiovascular function in individuals with at least one major cardiovascular risk factor and not professional athletes.
+
+Abstract:Introduction
+Sauna bathing and sport are well-known methods of improving a person's overall health. These activities not only have a positive impact on mental wellbeing, but also have a real effect on improving certain physical parameters such as, for example, blood pressure.
+Aim of the review
+A summary of the information gathered to date on the health effects of sauna bathing and undertaking physical activity.
+Results 
+The results of the studies cited in this article are consistent: sauna enhances the positive effects of physical activity on cardiovascular function among people with at least one major cardiovascular risk factor and who are not professional athletes.
+Conclusions
+Although sauna seems to increase the health effects of physical activity one should be aware of the contraindications to its use. Additionally, it is worth conducting more large scale randomized trials to verify this information.
+
+The multifaceted benefits of passive heat therapies for extending the healthspan: A comprehensive review with a focus on Finnish sauna
+
+Number of 
+
+Key takeaways:Finnish saunas show the most consistent and robust evidence for health benefits, reducing the risk of various diseases and improving mental well-being, sleep, and longevity.
+
+Abstract:ABSTRACT Passive heat therapy is characterized by exposure to a high environmental temperature for a brief period. There are several types of passive heat therapy which include hot tubs, Waon therapy, hydrotherapy, sanarium, steam baths, infrared saunas and Finnish saunas. The most commonly used and widely studied till date are the Finnish saunas, which are characterized by high temperatures (ranging from 80–100°C) and dry air with relative humidity varying from 10–20%. The goal of this review is to provide a summary of the current evidence on the impact of passive heat therapies particularly Finnish saunas on various health outcomes, while acknowledging the potential of these therapies to contribute to the extension of healthspan, based on their demonstrated health benefits and disease prevention capabilities. The Finnish saunas have the most consistent and robust evidence regarding health benefits and they have been shown to decrease the risk of health outcomes such as hypertension, cardiovascular disease, thromboembolism, dementia, and respiratory conditions; may improve the severity of musculoskeletal disorders, COVID-19, headache and flu, while also improving mental well-being, sleep, and longevity. Finnish saunas may also augment the beneficial effects of other protective lifestyle factors such as physical activity. The beneficial effects of passive heat therapies may be linked to their anti-inflammatory, cytoprotective and anti-oxidant properties and synergistic effects on neuroendocrine, circulatory, cardiovascular and immune function. Passive heat therapies, notably Finnish saunas, are emerging as potentially powerful and holistic strategies to promoting health and extending the healthspan in all populations.
+
+Does the Combination of Finnish Sauna Bathing and Other Lifestyle Factors Confer Additional Health Benefits? A Review of the Evidence.
+
+Number of 
+
+Key takeaways:Finnish sauna bathing combined with other lifestyle factors may provide additional health benefits, such as reduced vascular and nonvascular disease incidence and improved disease severity.
+
+Frequent sauna bathing and psychosis: Interrelationship with cardiorespiratory fitness.
+
+Number of 
+
+Key takeaways:Frequent sauna bathing and medium-high cardiorespiratory fitness levels independently decrease psychosis risk, but frequent sauna bathing may be a stronger risk indicator for psychosis than cardiorespiratory fitness.
+
+The Cardiometabolic Health Benefits of Sauna Exposure in Individuals with High-Stress Occupations. A Mechanistic Review
+
+Number of 
+
+Key takeaways:Sauna bathing may be a potential treatment for mitigating cardiometabolic diseases in individuals with high-stress occupations, potentially acting as a hormetic stressor.
+
+Abstract:Components of the metabolic syndrome (i.e., hypertension, insulin resistance, obesity, atherosclerosis) are a leading cause of death in the United States and result in low-grade chronic inflammation, excessive oxidative stress, and the eventual development of cardiometabolic diseases (CMD). High-stress occupations (HSO: firefighters, police, military personnel, first responders, etc.) increase the risk of developing CMD because they expose individuals to chronic and multiple stressors (i.e., sleep deprivation, poor nutrition habits, lack of physical activity, psychological stress). Interestingly, heat exposure and, more specifically, sauna bathing have been shown to improve multiple markers of CMD, potentially acting as hormetic stressors, at the cellular level and in the whole organism. Therefore, sauna bathing might be a practical and alternative intervention for disease prevention for individuals with HSO. The purpose of this review is to detail the mechanisms and pathways involved in the response to both acute and chronic sauna bathing and collectively present sauna bathing as a potential treatment, in addition to current standard of care, for mitigating CMD to both clinicians and individuals serving in HSO.
+
+Positive and negative aspects of sauna bathing – current knowledge status
+
+Number of 
+
+Key takeaways:Sauna bathing has health benefits, but further research is needed to understand its physiological mechanisms and potential risks.
+
+Abstract:Introduction: Sauna bathing as a health-promoting activity has been known to mankind for millennia. Sauna session, which consists of alternate overheating and then rapidly cooling the body, has a beneficial effect on the health of the body confirmed by scientific research. In the last few decades, sauna bathing has become more available due to the growing market of recreational services such as water parks and sauna parks. Regular use of sauna bathing reduces the risk of cardiovascular diseases, musculoskeletal disorders, mental stress, accelerates the process of regeneration after physical exertion, as well as increases resistance to the harmful effects of certain environmental factors. Despite the health benefits known for many years, the physiological mechanisms occurring in the body during sauna sessions still remain unknown. Sauna bathing treatments can be an effective complement to the process of treatment and rehabilitation of patients with cardiovascular diseases, musculoskeletal diseases, respiratory tract diseases, skin diseases and many others. 
+Material and methods: A literature analysis on sauna bathing was carried out within the Pubmed and Google scholar platforms. The following keywords were used in search: sauna bathing, infrared sauna, cardiovascular diseases.  
+Purpose of the work: The aim of the following analysis is to present a historical outline of the use of sauna bathing, the health aspect, risks and the assumptions and indicating an important need for further research into the effects of sauna bathing on the body.
+
+Sauna bathing in northern Sweden: results from the MONICA study 2022
+
+Number of 
+
+Key takeaways:Sauna bathers in northern Sweden report lower hypertension, pain, and improved happiness, energy, and sleep patterns, with positive effects plateauing from 1 to 4 times per month.
+
+Abstract:ABSTRACT Frequent sauna bathing has been associated with a reduced risk of cardiovascular disease and proposed as a mediator for improved health. Therefore, the aim was to describe and compare sauna bathers with non-sauna bathers in northern Sweden based on their demographics, health and life attitudes, and to describe sauna bathers’ sauna habits. Questions on sauna bathing habits were included in the questionnaire for the participants in the Northern Sweden MONICA (multinational monitoring of trends and determinants in cardiovascular disease) study, conducted during spring of 2022, inviting adults 25–74 years living in the two northernmost counties of Sweden (Norr- and Västerbotten), randomly selected from the population register. Of the 1180 participants in MONICA 2022, 971 (82%) answered the question about sauna bathing. Of these, 641 (66%) were defined as sauna bathers. Sauna bathers reported less hypertension diagnosis and self-reported pain. They also reported higher levels of happiness and energy, more satisfying sleep patterns, as well as better general and mental health. Sauna bathers were younger, more often men and found to have a healthier life-profile compared to non-sauna bathers. Additionally, the results suggest that the positive effects associated with sauna bathing plateaued from 1–4 times per month.
+
+Cardiovascular and Other Health Benefits of Sauna Bathing: A Review of the Evidence
+
+Number of 
+
+Key takeaways:Sauna bathing may reduce the risk of vascular diseases, nonvascular conditions, and mortality, as well as improve conditions like arthritis, headaches, and flu.
+
+Sauna Bathing as an Alternative Adjunct Therapy in the Prevention and Treatment of Chronic Health Conditions Including Cardiovascular Disease, Neurodegenerative Disease, Metabolic Disease, and Mental Health Disorders
+
+Number of 
+
+Key takeaways:Sauna bathing is a safe and effective treatment for chronic health conditions like cardiovascular disease, neurodegenerative disease, metabolic disease, and mental health disorders.
+
+Abstract:Sauna bathing is a time-efficient, cost-effective health modality that has the potential to mimic the heat thermogenesis and cardiovascular effects of exercise. In recent years, researchers have been able to measure the benefits of sauna on human performance, endurance, and cardiovascular health. While many studies have investigated sauna use and its effect on athletic performance, fewer studies have investigated the use of sauna as a medical treatment for chronic health conditions. This review compiles the proven effects of sauna on human physiology and investigates its applications in the treatment of patients with chronic disease. Sauna use appears to be safe in most patient populations and is shown to be both tolerable and effective in patient populations with cardiovascular disease and late stages of congestive heart failure. Multiple cardiovascular benefits were demonstrated in the review including improved perfusion in peripheral arterial disease, decreased ventricular arrhythmias, 51% reduced annual cardiovascular mortality and 47% reduced annual risk of developing hypertension in men using the sauna 4-7 times per week. Finnish cohort studies have additionally exhibited reductions in lifetime annual risk of dementia by 66% in men using the sauna 4-7 times per week. It is suggested that increased heat shock protein expression through heat exposure may be responsible for the neuroprotective benefits of lifetime sauna use. Sauna has also displayed benefits in metabolic disease by reducing hemoglobin A1C and aiding heat acclimation in diabetics through improved thermoregulation. In mental health research, sauna use has shown potential in the treatment of depression by improving objective depression scores. Another study exhibited that sauna use was able to increase appetite in patients with severe depression and coexisting appetite suppression. Additionally, in cohort studies sauna is shown to be correlated to reduced annual risk of developing psychosis across the lifespan. By compiling and reviewing the current research on sauna bathing, education and guidance are provided to medical providers regarding the potential use of sauna as a treatment adjunct for patients with various conditions including cardiovascular disease, neurodegenerative disease, metabolic disease, and mental health disorders.
+
+Effects of heat and cold on health, with special reference to Finnish sauna bathing.
+
+Number of 
+
+Key takeaways:Finnish sauna bathing may improve cardiovascular health, reduce blood pressure, and arterial stiffness, and possibly increase angiogenesis, with potential additive effects of heat- and cold-stress adaptations.
+
+Abstract:Environmental stress such as extremely warm or cold temperature is often considered a challenge to human health and body homeostasis. However, the human body can adapt relatively well to heat and cold environments, and recent studies have also elucidated that particularly heat stress might be even highly beneficial for human health. Consequently, the aim of the present brief review is first to discuss general cardiovascular and other responses to acute heat stress, followed by a review of beneficial effects of Finnish sauna bathing on general and cardiovascular health and mortality as well as dementia and Alzheimer's disease risk. Plausible mechanisms included are improved endothelial and microvascular function, reduced blood pressure and arterial stiffness, and possibly increased angiogenesis in humans, which are likely to mediate the health benefits of sauna bathing. In addition to heat exposure with physiological adaptations, cold stress-induced physiological responses and brown fat activation on health are also discussed. This is important to take into consideration, as sauna bathing is frequently associated with cooling periods in cold(er) environments, but their combination remains poorly investigated. We finally propose, therefore, that possible additive effects of heat- and cold-stress-induced adaptations and effects on health would be worthy of further investigation.
+
+The influence of socioeconomic and psychological factors on the popularity of sauna treatment among female university students
+
+Number of 
+
+Key takeaways:Sauna use positively influences female university students' mental well-being and can be implemented as a calming and relaxing method in physical activity and health programs.
+
+Abstract:Background: Little research providing reliable information on the popularity of sauna among university students has been found in Polish and foreign literature. The aim of the study was to assess the influence of socioeconomic and psychological factors on the popularity of sauna among female university students. It was also examined whether sauna use exerted any influence on the students’ well-being. Material/Methods: The research was conducted in 2012 with 550 first-year female students, aged 19-20. The research was carried out with a diagnostic survey method using an anonymous questionnaire. Results: Our findings revealed that the applied socioeconomic factors (permanent place of residence, parents’ educational background and the students’ monthly budget) as well as psychological factors (the evaluation of the sauna during bathing and the following day) significantly affected the frequency of sauna use. The research revealed a significant and positive influence of the sauna use on the students’ well-being (during bathing and the following day). Conclusions: Sauna exerts a positive influence on students’ mental well-being and should be used as a calming and relaxing method which could be implemented in the physical activity as well as health programs. Despite the statistically significant differences, the effects of the factors under investigation were analyzed only within a partial range due to a relatively low level of interest among the students in taking sauna bathing.
+
+Sauna use as a lifestyle practice to extend healthspan
+
+Number of 
+
+Key takeaways:Sauna use, or 'sauna bathing,' is a proven method to extend healthspan by acclimatizing the body to heat and optimizing its response to future exposures, leading to reduced morbidity and mortality.
+
+The Influence of Ambient Temperature Changes on the Indicators of Inflammation and Oxidative Damage in Blood after Submaximal Exercise
+
+Number of 
+
+Key takeaways:Short-term cold water immersion is more effective in reducing inflammation and oxidative damage in blood after submaximal exercise compared to a sauna bath.
+
+Abstract:Physical activity has a positive effect on human health and well-being, but intense exercise can cause adverse changes in the organism, leading to the development of oxidative stress and inflammation. The aim of the study was to determine the effect of short-term cold water immersion (CWI) and a sauna bath as methods of postexercise regeneration on the indicators of inflammation and oxidative damage in the blood of healthy recreational athletes. Forty-five male volunteers divided into two groups: ‘winter swimmers’ who regularly use winter baths (n = 22, average age 43.2 ± 5.9 years) and ‘novices’ who had not used winter baths regularly before (n = 23, mean age 25 ± 4.8 years) participated in the study. The research was divided into two experiments, differing in the method of postexercise regeneration used, CWI (Experiment I) and a sauna bath (Experiment II). During Experiment I, the volunteers were subjected to a 30-min aerobic exercise, combined with a 20-min rest at room temperature (RT-REST) or a 20-min rest at room temperature with an initial 3-min 8 °C water bath (CWI-REST). During the Experiment II, the volunteers were subjected to the same aerobic exercise, followed by a RT-REST or a sauna bath (SAUNA-REST). The blood samples were taken before physical exercise (control), immediately after exercise and 20 min after completion of regeneration. The concentrations of selected indicators of inflammation, including interleukin 1β (IL-1β), interleukin 6 (IL-6), interleukin 8 (IL-8), interleukin 8 (IL-8), interleukin 10 (IL-10), transforming growth factor β1 (TGF-β1) and tumor necrosis factor α (TNF-α), as well as the activity of indicators of oxidative damage: α1-antitrypsin (AAT) and lysosomal enzymes, including arylsulfatase A (ASA), acid phosphatase (AcP) and cathepsin D (CTS D), were determined. CWI seems to be a more effective post-exercise regeneration method to reduce the inflammatory response compared to a sauna bath. A single sauna bath is associated with the risk of proteolytic tissue damage, but disturbances of cellular homeostasis are less pronounced in people who regularly use cold water baths than in those who are not adapted to thermal stress.
+
+Effect of repeated alternative thermal stress on the physiological and body composition characteristics of young women sporadically using sauna
+
+Number of 
+
+Key takeaways:Repeated alternative thermal stress for 72 minutes significantly decreases blood pressure, body fat, and BMI levels in young women, while allowing for longer sauna stays.
+
+Abstract:Aim: The aim of this study was to determine the effect of repeated alternative thermal stress on the physiological parameters of young women sporadically used sauna. Materials and method: Twenty young women (age: 24.2±2.1 years) were exposed to four sauna sessions of 12 minutes each (temperature: 90-91°C; humidity: 14-16 %) with four 6-minute cool-down breaks including 2-minute cold water immersion (temperature: 9-11oC). Physiological characteristics were monitored before and after the 72-minute experiment. Systolic and diastolic blood pressures (systolic - SBP, diastolic - DBP), heart rate (HR), forehead temperature, and body composition were determined on each subject and dependent t-test were performed on each variable. Results: During the 72-minute experiment forehead temperature increased significantly (p<0.001). A significant decrease was observed in DBP (p=0.045), body mass (p<0.001), minerals (p=0.01), body fat mass (p=0.035), BMI (p<0.001), waist to hip ratio (p=0.042), visceral fat level (p=0.004) and obesity degree (p=0.044) during four successive 12-minute sauna sessions. Conclusions: Seventy-two minutes of alternating (hot and cold) repeated thermal stress has a significant effect on significant decrease in the values of DBP, and body composition (body mass, BMI, BFM and minerals) characteristics. Two-minute cold water immersions allow the body to cool down significantly and gives the opportunity to stay in the sauna for longer time. Long stays in the sauna can be used to reduce levels of body fat in the human body.
+
+Acute effects of sauna bathing on cardiovascular function
+
+Number of 
+
+Key takeaways:Sauna bathing for 30 minutes has beneficial effects on arterial stiffness, blood pressure, and some blood-based biomarkers, potentially reducing cardiovascular risk.
+
+The Effects of Repeated Thermal Stress on the Physiological Parameters of Young Physically Active Men Who Regularly Use the Sauna: A Multifactorial Assessment
+
+Number of 
+
+Key takeaways:Long sauna sessions are safe for the health of young, physically active men, with no significant changes in physiological parameters.
+
+Abstract:The aim of this study was to determine the effects of thermal stress (TS) on changes in blood biochemical parameters and fluid electrolyte levels in young adult men with moderate and high levels of physical activity. Thirty men (22.67 ± 2.02 years) were exposed to four 12-min sauna sessions (temperature: 90–91 °C; relative humidity: 14–16%) with four 6-min cool-down breaks. The evaluated variables were anthropometric, physiological, and hematological characteristics. The mean values of HRavg (102.5 bpm) were within the easy effort range, whereas HRpeak (143.3 bpm) values were within the very difficult effort range. A significant increase was noted in pO2 (p < 0.001), total cholesterol (p < 0.008), HDL (p < 0.006) and LDL cholesterol (p < 0.007). Significant decreases were observed in the SBP (by 9.7 mmHg), DBP (by 6.9 mmHg) (p < 0.001), pH (p < 0.001), aHCO3- (p < 0.005), sHCO3- (p < 0.003), BE (ecf) (p < 0.022), BE (B), ctCO2 (for both p < 0.005), glucose (p < 0.001), and LA (p < 0.036). High 72-min TS did not induce significant changes in the physiological parameters of young and physically active men who regularly use the sauna, excluding significant loss of body mass. We can assume that relatively long sauna sessions do not disturb homeostasis and are safe for the health of properly prepared males.
+
+Acute and short-term efficacy of sauna treatment on cardiovascular function: Ameta-analysis.
+
+Number of 
+
+Key takeaways:Sauna treatment improves cardiovascular function and physical activity levels, particularly in patients with low cardiovascular function, suggesting its potential as a promising intervention in cardiovascular nursing.
+
+Abstract:OBJECTIVE
+The role of sauna bathing in cardiovascular function treatment has been increasingly explored, but insufficient attention has been paid to its efficacy. We performed a meta-analysis to provide more evidence for the efficacy of sauna treatment in cardiovascular nursing.
+
+METHODS
+Sixteen peer-reviewed journal articles were screened to summarize the efficacy of the sauna on cardiovascular function. Both acute (0-30 min after the sauna) and short-term (2-4 weeks following the sauna treatment) efficacies were investigated.
+
+RESULTS
+For pooled acute efficacy, body temperature and heart rate significantly (p < 0.001) grew by 0.94°C and 17.86 beats/min, respectively; reductions of 5.55 mmHg (p < 0.001) and 6.50 mmHg (p < 0.001) were also observed in systolic blood pressure and diastole blood pressure, respectively. For combined short-term efficacy, left ventricular ejection fraction (LVEF), 6-min walk distance, and flow-mediated dilation (p < 0.001) increased by 3.27%, 48.11 m, and 1.71%, respectively; greater amelioration in LVEF was observed in participants with lower LVEF. The proportion of patients with New York Heart Association class III and IV decreased by 10.9% and 12.2%, respectively. Systolic blood pressure, diastolic blood pressure, brain natriuretic peptide concentration, left ventricular end-diastolic dimension, cardiothoracic ratio, and left atrial dimension reduced by 5.26 mmHg (p < 0.001), 4.14 mmHg (p < 0.001), 116.66 pg/mL (p < 0.001), 2.79 mm (p < 0.001), 2.628% (p < 0.05), and 1.88 mm (p < 0.05), respectively, while the concentration of norepinephrine in the plasma remained unchanged.
+
+CONCLUSION
+Sauna treatment was found to play a positive role in improving cardiovascular function and physical activity levels, especially in patients with low cardiovascular function. These findings reveal that thermal intervention may be a promising means for cardiovascular nursing.
+
+Sauna exposure leads to improved arterial compliance: Findings from a non-randomised experimental study
+
+Number of 
+
+Key takeaways:Sauna bathing improves arterial compliance and reduces blood pressure, with sustained effects during a 30-minute recovery phase.
+
+Abstract:Background Heat therapy has been suggested to improve cardiovascular function. However, the effects of hot sauna exposure on arterial compliance and the dynamics of blood flow and pressure have not been well documented. Thus, we investigated the short-term effects of sauna bathing on arterial stiffness and haemodynamics. Design The design was an experimental non-randomised study. Methods There were 102 asymptomatic participants (mean age, 51.9 years) who had at least one cardiovascular risk factor. Participants were exposed to a single sauna session (duration: 30 min; temperature: 73℃; humidity: 10–20%). Pulse wave velocity, augmentation index, heart rate, blood pressure, mean arterial pressure, pulse pressure, augmented pressure and left ventricular ejection time were assessed before, immediately after, and 30 min after a single sauna session. Results Sauna bathing led to reductions in pulse wave velocity, blood pressure, mean arterial pressure and left ventricular ejection time. Mean pulse wave velocity value before sauna was 9.8 m/s and decreased to 8.6 m/s immediately after sauna bathing (p < 0.001 for difference), and was 9.0 m/s after the 30-minute recovery period (p < 0.001 for analysis of variance). Systolic blood pressure was 137 mm Hg before sauna bathing, decreasing to 130 mm Hg after sauna (p < 0.001), which remained sustained during the 30-minute recovery phase (p < 0.001 for analysis of variance). After a single sauna session, diastolic blood pressure decreased from 82 to 75 mm Hg, mean arterial pressure from 99.4 to 93.6 mm Hg and left ventricular ejection time from 307 to 278 m/s (p < 0.001 for all differences). Pulse pressure was 42.7 mm Hg before the sauna, 44.9 mm Hg immediately after the sauna, and reduced to 39.3 mm Hg after 30-minutes recovery (p < 0.001 for analysis of variance). Heart rate increased from 65 to 81 beats/min post-sauna (p < 0.001); there were no significant changes for augmented pressure and pulse pressure amplification. Conclusion This study shows that pulse wave velocity, systolic blood pressure, diastolic blood pressure, mean arterial pressure, left ventricular ejection time and diastolic time decreased immediately after a 30-minute sauna session. Decreases in systolic blood pressure and left ventricular ejection time were sustained during the 30-minute recovery phase.
+
+Letter regarding 'Acute and short-term efficacy of sauna treatment on cardiovascular function: a meta-analysis'.
+
+Number of 
+
+Key takeaways:Sauna treatment positively impacts cardiovascular function and physical activity levels, especially in patients with low cardiovascular function.
+
+Abstract:We read the article by Li et al.1 with a great interest, which the research performed a meta-analysis to provide more evidence for the efficacy of sauna treatment in cardiovascular nursing. The conclusion came out from the meta-analysis is that Sauna treatment was found to play a positive role in improving cardiovascular function and physical activity levels, especially in patients with low cardiovascular function. After a detailed study, we would like to suggest a few following points. First, there could be a bias result from the repeated inclusion of studies which have duplicate populations, so that duplicate studies in a same study population should be excluded from the research. Nonetheless, we found that there were two studies in Table 1, the references 28 and 29, might be the repeated articles included which affect the reliability of the results significantly.2,3 The studies in the references...
+
+Heat therapy: Mechanistic underpinnings and applications to cardiovascular health.
+
+Number of 
+
+Key takeaways:Heat therapy, or repeated use of hot baths or saunas, has robust and widespread beneficial effects on cardiovascular health, with molecular mechanisms explaining these benefits.
+
+Abstract:Cardiovascular diseases (CVD) are the leading cause of death worldwide, and novel therapies are drastically needed to prevent or delay the onset of CVD in order to reduce the societal and healthcare burdens associated with these chronic diseases. One such therapy is 'heat therapy', or chronic, repeated use of hot baths or saunas. Although using heat exposure to improve health is not a new concept, it has received renewed attention in recent years as a growing number of studies have demonstrated robust and widespread beneficial effects of heat therapy on cardiovascular health. Here, we review the existing literature, with particular focus on the molecular mechanisms that underscore the cardiovascular benefits of this practice.
+
+The Effect of Heat Therapy on Blood Pressure and Peripheral Vascular Function: A Systematic Review and Meta‐Analysis
+
+Number of 
+
+Key takeaways:Heat therapy, such as sauna exposure, can reduce blood pressure and improve peripheral vascular function in healthy and clinical populations.
+
+Abstract:Lifelong sauna exposure is associated with reduced cardiovascular disease (CVD) risk. Recent studies have investigated the effect of heat therapy (e.g. warm water immersion, Waon therapy or sauna) on markers of cardiovascular health. We aimed to conduct a systematic review with meta‐analysis to determine the effects of heat therapy on blood pressure and indices of vascular function in healthy and clinical populations.
+
+Sauna use as a novel management approach for cardiovascular health and peripheral arterial disease
+
+Number of 
+
+Key takeaways:Heat therapy, particularly sauna bathing, shows potential in alleviating peripheral arterial disease symptoms, improving functional capacity, and reducing cardiovascular and limb events.
+
+Abstract:Introduction Heat therapy (HT), particularly in the form of whole-body sauna bathing, has emerged as a promising intervention for the management of cardiovascular disease (CVD). Passive HT can induce both local and systemic physiological responses, primarily through repeated thermal stress consisting of short-term passive exposure to high temperatures. Such responses closely parallel the physiological adaptations observed during aerobic exercise. Peripheral arterial disease (PAD) poses significant health challenges, impacting millions of individuals worldwide. Supervised exercise is considered a cornerstone therapy for PAD, yet many patients face significant health-related barriers that complicate its broad implementation. Methods We conducted a comprehensive review of the literature to explore the therapeutic implications of various HT practices beyond sauna. The review aimed to evaluate the potential use of these practices as adjunctive management strategies for cardiovascular diseases, particularly in patients with PAD. Results Recent studies have demonstrated the potential role of HT in alleviating PAD symptoms, improving functional capacity, and reducing cardiovascular and limb events. HT practices might be beneficial as adjunctive management strategies, in addition to or as alternatives to exercise, for management of cardiovascular diseases. Discussion This review highlights the potential benefits, underlying mechanisms of action, challenges, and safety considerations associated with HT. We emphasize the importance of exploring HT as a viable option for patients with cardiovascular conditions, particularly those with PAD, who face barriers to traditional exercise regimens.
+
+Is sauna bathing protective of sudden cardiac death? A review of the evidence.
+
+Number of 
+
+Key takeaways:Regular sauna bathing may reduce the risk of sudden cardiac death, with a combination of regular physical activity and sauna baths offering a substantial risk reduction.
+
+Effects of regular sauna bathing in conjunction with exercise on cardiovascular function: a multi-arm, randomized controlled trial
+
+Number of 
+
+Key takeaways:Combining regular exercise with sauna bathing significantly improves cardiorespiratory fitness, lowers systolic blood pressure, and reduces total cholesterol levels in sedentary adults with cardiovascular risk factors.
+
+Abstract:Regular exercise and sauna bathing have each been shown to improve cardiovascular function in clinical populations. However, experimental data on the cardiovascular adaptations to regular exercise in conjunction with sauna bathing in the general population is lacking. Therefore, we compared the effects of exercise and sauna bathing, to regular exercise using a multi-arm randomized controlled trial. Participants (n = 47) aged 49 ± 9 years with low physical activity levels, and at least one traditional CVD risk factor were randomly assigned (1:1:1) to guideline-based regular exercise and 15-minute post-exercise sauna (EXS), guideline-based regular exercise (EXE), or control (CON), for eight weeks. The primary outcomes were blood pressure (BP) and cardiorespiratory fitness (CRF). Secondary outcomes included fat mass, total cholesterol levels, and arterial stiffness. EXE had a greater change in CRF (+6.2 ml/kg/min; 95% CI, +4.2. to +8.3 ml/kg/min) and fat mass, but no differences in BP when compared to CON. EXS displayed greater change in CRF (+2.7 ml/kg/min; 95% CI, +0.2. to +5.3 ml/kg/min), lower systolic BP (-8.0 mmHg; 95% CI, -14.6 to -1.4 mmHg) and lower total cholesterol levels compared to EXE. Regular exercise improved CRF and body composition in sedentary adults with CVD risk factors. However, when combined with exercise, sauna bathing demonstrated a substantially supplementary effect on CRF, systolic BP, and total cholesterol levels. Sauna bathing is a valuable lifestyle tool that complements exercise for improving CRF, and decreasing systolic BP. Future research should focus on the duration, and frequency of exposure to ascertain the dose-response relationship.
+
+The Impact of Sauna Use on the Cardiovascular System in Healthy and Cardiologically Burdened Individuals: A Literature Review
+
+Number of 
+
+Key takeaways:Sauna use and Waon therapy can lower blood pressure, improve vascular function, reduce heart failure symptoms, and improve exercise tolerance in both healthy and cardiovascularly burdened individuals.
+
+Abstract:Abstract 
+Introduction: As a popular way to relax, the sauna is used by many people. The safety of sauna use and the possible benefits of sauna attendance are the subject of scientific research. One of the most studied aspects is the impact and safety assessment of sauna use on people with cardiovascular diseases. In addition to the effects of the traditional Finnish sauna, the effectiveness of Waon therapy, which is a type of dry infrared sauna that was invented for the treatment of people with cardiovascular diseases, was analysed. 
+Aim of the study: Analysis of the available scientific research on the effects of traditional Finnish sauna and infrared sauna (so-called Waon) on the cardiovascular system in healthy people and those with cardiovascular diseases such as heart failure, coronary heart disease, hypertension. 
+Methods: Review of the literature available in PubMed, Google Scholar and Cochrane Library databases by searching with keywords such as ‘sauna’, ‘Finnish bath’, ‘waon’, ‘waon therapy’ ‘heart failure’, “chronic heart failure”, ’hypertension’ , ‘cardiovascular system’. 
+Conclusion: Conventional Finnish sauna and Waon therapy are interventions with proven positive effects on the cardiovascular system in many studies. The results show that these interventions help to lower blood pressure, improve vascular function, increase myocardial perfusion, induce a reduction in symptoms associated with heart failure and improve exercise tolerance in this patient group. Patients with heart failure are a large group that could potentially benefit from the use of sauna and especially Waon therapy, although there are studies showing that sauna can also protect healthy individuals from future hypertension.
+
+Clinically-relevant reductions in oxygen partial pressure as possible contributor to cardiovascular benefits of sauna practice
+
+Number of 
+
+Key takeaways:Sauna practice may provide cardiovascular benefits due to decreased oxygen partial pressure, which may be equivalent to significant elevations above sea level, suggesting it as an alternative to intermittent hypoxic training.
+
+Sauna Bathing and Incident Hypertension: A Prospective Cohort Study
+
+Number of 
+
+Key takeaways:Regular sauna bathing is associated with reduced risk of hypertension, potentially explaining the decreased cardiovascular risk associated with sauna use.
+
+Abstract:BACKGROUND
+Sauna bathing is associated with reduced cardiovascular risk, but the mechanisms underlying this beneficial effect are not entirely understood. We aimed to assess the relationship between sauna bathing and risk of incident hypertension.
+
+METHODS
+Frequency of sauna bathing was ascertained using questionnaires in the Kuopio Ischemic Heart Disease Study, a prospective cohort study conducted in Eastern Finland that comprised a population-based sample of 1,621 men aged 42 to 60 years without hypertension at baseline. The incidence of hypertension was defined as a physician diagnosis of hypertension, systolic blood pressure (SBP) >140 mm Hg, diastolic blood pressure >90 mm Hg, or use of antihypertensive medication.
+
+RESULTS
+During a median follow-up of 24.7 years, 251 incident cases (15.5%) were recorded. In Cox regression analysis adjusted for baseline age, smoking, body mass index, and SBP; compared to participants reporting 1 sauna session per week, the hazard ratio for incident hypertension in participants reporting 2 to 3 sessions and 4 to 7 sessions was 0.76 (95% confidence interval: 0.57-1.02) and 0.54 (0.32-0.91), respectively. The corresponding hazard ratios were similar after further adjustment for glucose, creatinine, alcohol consumption, heart rate, family history of hypertension, socioeconomic status, and cardiorespiratory fitness: 0.83 (95% confidence interval: 0.59-1.18) and 0.53 (0.28-0.98), respectively.
+
+CONCLUSIONS
+Regular sauna bathing is associated with reduced risk of hypertension, which may be a mechanism underlying the decreased cardiovascular risk associated with sauna use. Further epidemiological and experimental studies could help elucidate the effects of sauna bathing on cardiovascular function.
+
+Number of 
+
+Key takeaways:Regular sauna use lowers the risk of cardiovascular disease, improves lung function, and is safe for patients with kidney disease, enhancing overall health and well-being.
+
+Abstract:Sauna use, practiced for thousands of years, has its roots in Finnish culture, where it was considered an essential part of health and hygiene. In recent years, a growing body of scientific research has confirmed the numerous health benefits associated with regular sauna use. This research review focuses on the effects of sauna sessions on the body's health, with particular emphasis on the cardiovascular system, blood pressure, respiratory system and urinary system. Analyses show that regular sauna use contributes to lowering the risk of cardiovascular disease by reducing blood pressure and improving the lipid profile. In addition, sauna has a beneficial effect on lung function, reducing the risk of diseases such as chronic obstructive pulmonary disease and pneumonia. It is also worth noting that sauna baths are safe for patients with kidney disease, as confirmed by research results. These indications underscore the importance of regular sauna sessions as a form of health support, helping to improve quality of life and long-term well-being.
+
+Acute and short-term efficacy of sauna treatment on cardiovascular function: a meta-analysis: reply.
+
+Number of 
+
+Key takeaways:Sauna treatment shows short-term benefits for cardiovascular function, but the evidence is limited and the studies were conducted in Japan.
+
+Abstract:Thanks for suggestions on our article ('Acute and short-term efficacy of sauna treatment on cardiovascular function: a meta-analysis'1,2) from Dr Xie and colleagues. First, according to the points proposed by Xie et al., the references 30 and 31 might be repeated included that have duplicate populations . However, we did not cite the data from the two publications twice or more times in our outcomes. Because there are no exact data (only a histogram) for the level of brain natriuretic peptide (BNP) in reference 31, the data in reference 30 were cited solely in the analysis of BNP in Figure 6a (Ichiki et al., 2017 ).2 Second, Xie and colleagues point out that the studies were all in Japan. From the limited information available in these citations, it could not be fully confirmed that all included in the study were all Japanese because...
+
+Infrared Sauna as Exercise-mimetic? Physiological Responses to Infrared Sauna vs Exercise in Healthy Women: A Randomised Controlled Crossover Trial.
+
+Number of 
+
+Key takeaways:Infrared sauna bathing in healthy women is more influenced by thermoregulatory responses than exercise-mimetic cardiorespiratory or cardiovascular activations.
+
+Sauna as a Therapeutic Option for Cardiovascular Disease
+
+Number of 
+
+Key takeaways:Sauna therapy shows promising results for patients with cardiovascular disease, particularly congestive heart failure, but definitive studies are needed for confirmation.
+
+Abstract:The physiologic effect of the sauna in human beings has been studied extensively, but only recently have there been studies to suggest sauna can be an effective therapeutic modality for patients with cardiovascular disease, especially for those with congestive heart failure. The data reported to date have been promising, but definitive studies are not possible because sauna treatment would be difficult to evaluate in a double-blind, placebo-controlled study.
+
+The Impact of a Sauna on Post-Exercise Recovery
+
+Number of 
+
+Key takeaways:Saunas aid in post-exercise recovery, accelerating tissue regeneration and promoting better performance in athletes by promoting relaxation and calmness.
+
+Abstract:Regeneration of the body after intense exercise is a key element necessary for the proper process of improving performance and achieving better results in strength training.  One of the most important issues in any athlete is the uninterrupted continuation of training and the most optimal regeneration of tissues and the body, which is essential for further improvement of skills and development in a given sport. There are a number of methods to support the repair processes of tissues and help the body fight injuries and micro-injuries that occur during exercise and are an indispensable part of building strength and muscle mass. An example that has recently become very popular in the sports environment is the use of saunas characterized by thermal properties, through which it is possible to influence physiological processes that accelerate the return to form and achieve better results in sports competitions. This form not only helps tissue regeneration, but also relaxes and calms the body, which is stimulated during sports and requires calming afterwards.
+
+The effect of a single Finnish sauna bath after aerobic exercise on the oxidative status in healthy men
+
+Number of 
+
+Key takeaways:A single Finnish sauna bath after 30-minute aerobic exercise effectively reduces oxidative stress in healthy men.
+
+Abstract:Abstract Background. The aim of this study was to determine the effect of Finnish sauna as a regeneration method post-exercise on the oxidant-antioxidant balance in healthy men. Material. 43 men aged 24.0 ± 4.3 years performed a 30-min aerobic exercise on a cycle ergometer and rested for 39 min at a room temperature (Day 1; 20°C) or in a sauna for post-workout recovery (Day 2; 90°C, air humidity 10%). Blood was taken 3 times during both study days: Before the exercise (baseline), 20 and 40 min after the recovery. Methods. The activity of superoxide dismutase (SOD), catalase (CAT) and glutathione peroxidase (GPx) was determined in the subjects’ erythrocytes. The concentration of thiobarbituric acid reactive substances (TBARS) was measured both in plasma (TBARSpl) and in the erythrocytes (TBARSer). Results. A 12.7% increase in the TBARSpl concentration versus the baseline was observed 40 min after the Finnish sauna (p < 0.01). The CAT activity observed 20 and 40 min after the sauna was also found higher by 8.1% and 8.9%, respectively, in comparison with the baseline (p < 0.05). In turn, the TBARSer concentration was lower by 17.5% 40 min after the recovery in the sauna, as compared with the TBARSer concentration 40 min after the recovery at the room temperature (p < 0.05). Conclusions. A single Finnish sauna bath as a source of free radicals per se is able to reduce oxidative stress induced by a 30-min aerobic exercise in healthy men.
+
+The knowledge about using Finnish sauna in post-event recovery among judokas
+
+Number of 
+
+Key takeaways:Finnish saunas can be beneficial for post-event recovery in judo, as they detoxify the body, improve blood oxygen levels, and reduce mental and physical fatigue.
+
+Abstract:Finnish (dry) sauna is one of the most popular methods of biological regeneration. This is a physical procedure used also for hygienic purposes, such as body care and for medical purposes, e.g. body strengthening. A regular use of sauna affects the body in many ways. Thermal treatment in sauna is one of the so called biomedical approaches of biological regeneration, broadly applied, both in motor recreation and competitive sports . The idea of sauna, originating from Finland has been used in many parts of the world. Apart from Scandinavian saunas, the first saunas were built in Pensylvania in 1638. In Europe, the first saunas were built as late as in 1936 on occasion of the Olympic Games in Berlin. Finnish saunas have became popular thanks to the popularization of the social movement which contributed to their development, initially for recreation and next, they became the components of Finnish houses. For Finnish people, sauna is still the basic hygienic and relaxing procedure, affecting the entire human organism . The thermoregulatory mechanism, activated during the “sweat bath” generates a series of responses in the nervous, cardiovascular, endocrine and respiratory systems and causes hormonal, metabolic and electrolyte changes . “Sweat bath” quickly eliminates mental and physical fatigue as it favorably affects the entire body. During a series of procedures, the body is detoxified , because toxins are removed with sweat. After being intensely heated, the body is cooled and during this process blood oxygen level increases and the mind is relaxed. For this reason, sauna is recommended not only for relaxation and rest after physical work, but also in cases of post-injury conditions of the musculoskeletal system; therefore it is often recommended to athletes as a form of biological regeneration . Unfortunately, there are more and more cases of improper use of the sauna, both among athletes and in non-training
+
+Effects of infrared sauna, traditional sauna, and warm water immersion on accelerated exercise recovery and prevention of cell damage: an experimental study
+
+Number of 
+
+Key takeaways:Warm water immersion is more effective for athletes in recovering from exercise and preventing muscle damage, while infrared sauna and traditional sauna are more effective for nonathletes.
+
+Abstract:The objectives of this study were to investigate the effects of single session infrared sauna, traditional sauna, warm water immersion, and passive recovery from fatigue and muscle cell damage in athletes and nonathletes. Eight male badminton athletes and eight male nonathletes participated in this study. The study participants were treated with submaximal physical activity assessed by ergometer, then recovered with different modalities. Each treatment was separated by one week of a resting period through a randomized crossover design. The recovery modalities of infrared sauna (IRS) were 45±2°C, traditional sauna (TRS) 40±2°C, warm water immersion (WWI) 40±2°C, and passive recovery (PAS) for 20 minutes. Blood lactate, creatine kinase, blood glucose, heart rate, body temperature and level of pain were assessed, immediately after physical activity (pre), after recovery (post), and after 40 minutes of sitting (post-40min). Our findings indicated that the WWI and IRS were effective reducing fatigue in athletes and nonathletes. Moreover, PAS and TRS prevented muscle damage in nonathletes after 60 minutes of physical activity. All the thermal modalities decreased the BGL. The least amount of pain reported during the WWI modality, while the PAS modality tended to cause severe pain. Body temperature measurements were not significantly different among the modalities. According to our data, the WWI is more effective at increasing recovery and preventing muscle cell damage in athletes. Moreover, IRS and TRS are more effective for recovery in nonathletes. Further research needs to be conducted with different sports subjects, different types of exercise, different biomarkers, and physical performance tests.
+Keywords: infrared sauna; traditional sauna; warm water immersion; recovery; muscle cell damage
+
+Эффективность влияния сауны на процессы восстановления работоспособности боксёров
+
+Number of 
+
+Key takeaways:Sauna application effectively improves pressure pulse and health status, making it a recommended deoxidizing method for boxers' training programs.
+
+Abstract:A question about the study of influencing and effect of application of sauna on the processes of renewal of capacity of boxers is examined in the article. Positive dynamics of parameters pressure pulse and state of health testify to efficacyy of application of a sauna for regeneration of a working capacity of sportsmen. A sauna as a deoxidiziry means, it is possible to recommend for incorporation in the program of preparation of boxers.
+
+Effects of Postexercise Sauna Bathing on Recovery of Swim Performance.
+
+Number of 
+
+Key takeaways:Postexercise sauna bathing negatively impacts swim performance recovery, with athletes performing worse and feeling more stressed after sauna use compared to a placebo condition.
+
+Abstract:PURPOSE
+Despite indications of positive effects of sauna (SAU) interventions, effects on performance recovery are unknown. The aim of the current study was to investigate acute effects of SAU bathing after an intensive training session on recovery of swim performance.
+
+METHODS
+In total, 20 competitive swimmers and triathletes (3 female and 17 male) with a minimum of 2 y of competition experience (national level or higher) participated in the study. Athletes completed an intensive training session followed by either a SAU bathing intervention or a placebo (PLAC) condition in a randomized order. SAU consisted of 3 × 8 min of SAU bathing at 80-85°C, whereas during PLAC, athletes applied a deidentified, pH-balanced massage oil while passively resting in a seated position. Prior to training, swimmers conducted a 4 × 50-m all-out swim test that was repeated on the following morning. Furthermore, subjective ratings of fatigue and recovery were measured.
+
+RESULTS
+Swimmers performed significantly worse after SAU (4 × 50-m pre-post difference: +1.69 s) than after PLAC (-0.66 s; P = .02), with the most pronounced decrease in the first 50 m (P = .04; +2.7%). Overall performance of 15 athletes deteriorated (+2.6 s). The subjective feeling of stress was significantly higher after SAU than after PLAC (P = .03).
+
+CONCLUSION
+Based on published findings, the smallest substantial change in swimming performance is an increase in time of more than 1.2 s; thus, the observed reductions appear relevant for competitive swimmers. According to the current results, coaches and athletes should be careful with postexercise SAU if high-intensity training and/or competitions are scheduled on the following day.
+
+Clinical Applications and Biological Effects of Sauna Bathing – a Narrative Review
+
+Number of 
+
+Key takeaways:Sauna therapy is a safe and effective medical rehabilitation treatment for various pathologies, improving cardiac activity, endothelial function, and musculoskeletal quality of life without notable side-effects.
+
+Abstract:Background: Regular sauna exposure has been shown to positively influence clinical symptoms in various pathologies. The purpose of this review is to present the evidence accumulated so far in order to evaluate the efficiency, effects, benefits and risks of sauna therapy in the field of various pathologies that require medical rehabilitation. Methods: A literature search was conducted on Publons and PubMed databases from January 2000 onwards. The studies selected for this review included research in humans undergoing repeated sauna sessions with at least one reported health outcome. Results: Constant application of sauna therapy has visible effecta on improving cardiac activity, endothelial function, myocardial perfusion, ventricular arrhythmia. Sauna treatment is a safe proce-dure for patients with cardiovascular, respiratory, musculo-skeletal pathologies, with no notable side-effects. Conclusions: Sauna therapy has proved its effectiveness in medical rehabilitation treatment starting from the musculoskeletal system and skin to the nervous system. In addition, it brings a significant improvement in the quality of life of patients.
+Keywords: sauna bathing; dry sauna; regular sauna exposure; clinical applications sauna; bio-logical effects sauna; quality of life
+
+The Effect of Combination Therapy (Thermal Therapy and Oxymel) on Insulin Resistance and Langerhans Islands in Diabetic Rats
+
+Number of 
+
+Key takeaways:Sauna-oxymel combination therapy effectively induces regeneration of Langerhans Islands in diabetic rats, but its effect on insulin resistance and beta-cell functions remains uncovered due to inadequate ectopic fat accumulation.
+
+Abstract:Background: Although thermal therapy is recently suggested as a safe promising adjuvant therapy for insulin resistance and diabetes, its combination with oxymel has been claimed more effective by Traditional Persian Medicine (TPM). Objectives: This study was to examine the effect of thermal therapy plus oxymel on insulin resistance and Langerhans islands in diabetic rats. Methods: This experimental study was performed in the Experimental Animal Unit of Qom University of Medical Science in Iran in 2018. Sixty-four male rats were divided into 8 groups (using block randomization): four Normal (Nl), Diseased without treatment (D), Oxymel (OXM) and Sauna (Sauna) groups and one major SINA group (oxymel plus sauna) subdivided into four groups of different intervention frequency of 1 (SINA1d), 3 (SINA3d) and 5 days (SINA5d2m) a week for 8 weeks and 5 days a week for 4 weeks (SINA5d1m). Diabetes was induced using a high-fat diet (milk butter) and low-dose streptozotocin. Measurement of serum levels of glucose, insulin, lipid profile, and glycosylated hemoglobin and histological examination of liver, pancreas, heart, and kidney was done at the end of the study. Results: The count of Langerhans Islands significantly increased in the groups of SINA3d (6.25 ± 0.94), (P = 0.05) and SINA5d2m (7 ± 0.36), (P = 0.008) in comparison to the D group (4 ± 0.44), and cell organization became nearly normal, but serum insulin and glucose levels did not change. On the other hand, despite the high-fat diet, lipid profile and histological findings did not support fatty deposition and insulin resistance context. Conclusions: Sauna-oxymel combination (SINA) therapy, which was derived from TPM philosophy to increase systemic and pancreatic blood perfusion, was shown significantly effective in inducing regeneration of Langerhans Islands, but owing to the lack of adequate ectopic fat accumulation, its effect on insulin resistance and beta-cell functions remain uncovered. More suitable studies are needed to approve or disapprove the idea.
+
+The Effect of Medium-Term Sauna-Based Heat Acclimation (MPHA) on Thermophysiological and Plasma Volume Responses to Exercise Performed under Temperate Conditions in Elite Cross-Country Skiers
+
+Number of 
+
+Key takeaways:A series of ten sauna baths moderately decreases physiological strain and modifies plasma volume restoration in elite cross-country skiers under temperate conditions.
+
+Abstract:The influence of a series of ten sauna baths (MPHA) on thermophysiological and selected hematological responses in 14 elite cross-country skiers to a submaximal endurance exercise test performed under thermoneutral environmental conditions was studied. Thermal and physiological variables were measured before and after the exercise test, whereas selected hematological indices were studied before, immediately after, and during recovery after a run, before (T1) and after sauna baths (T2). MPHA did not influence the baseline internal, body, and skin temperatures. There was a decrease in the resting heart rate (HR: p = 0.001) and physiological strain (PSI: p = 0.052) after MPHA and a significant effect of MPHA on systolic blood pressure (p = 0.03), hematological indices, and an exercise effect but no combined effect of treatments and exercise on the tested variables. A positive correlation was reported between PSI and total protein (%ΔTP) in T2 and a negative between plasma volume (%ΔPV) and mean red cellular volume (%ΔMCV) in T1 and T2 in response to exercise and a positive one during recovery. This may suggest that MPHA has a weak influence on body temperatures but causes a moderate decrease in PSI and modifications of plasma volume restoration in response to exercise under temperate conditions in elite athletes.
+
+Acute and short-term efficacy of sauna treatment on cardiovascular function: A meta-analysis.
+
+Number of 
+
+Key takeaways:Sauna treatment improves cardiovascular function and physical activity levels, particularly in patients with low cardiovascular function, suggesting its potential as a promising intervention in cardiovascular nursing.
+
+Abstract:OBJECTIVE
+The role of sauna bathing in cardiovascular function treatment has been increasingly explored, but insufficient attention has been paid to its efficacy. We performed a meta-analysis to provide more evidence for the efficacy of sauna treatment in cardiovascular nursing.
+
+METHODS
+Sixteen peer-reviewed journal articles were screened to summarize the efficacy of the sauna on cardiovascular function. Both acute (0-30 min after the sauna) and short-term (2-4 weeks following the sauna treatment) efficacies were investigated.
+
+RESULTS
+For pooled acute efficacy, body temperature and heart rate significantly (p<0.001) grew by 0.94℃ and 17.86 beats/min, respectively; reductions of 5.55 mmHg (p<0.001) and 6.50 mmHg (p<0.001) were also observed in systolic blood pressure and diastole blood pressure, respectively. For combined short-term efficacy, left ventricular ejection fraction (LVEF), 6-min walk distance, and flow-mediated dilation (p<0.001) increased by 3.27%, 48.11 m, and 1.71%, respectively; greater amelioration in LVEF was observed in participants with lower LVEF. The proportion of patients with New York Heart Association class III and IV decreased by 10.9% and 12.2%, respectively. Systolic blood pressure, diastolic blood pressure, brain natriuretic peptide concentration, left ventricular end-diastolic dimension, cardiothoracic ratio, and left atrial dimension reduced by 5.26 mmHg (p<0.001), 4.14 mmHg (p<0.001), 116.66 pg/mL (p<0.001), 2.79 mm (p<0.001), 2.628% (p<0.05), and 1.88 mm (p<0.05), respectively, while the concentration of norepinephrine in the plasma remained unchanged.
+
+CONCLUSION
+Sauna treatment was found to play a positive role in improving cardiovascular function and physical activity levels, especially in patients with low cardiovascular function. These findings reveal that thermal intervention may be a promising means for cardiovascular nursing.
+
+Accelerated muscle contractility and decreased muscle steadiness following sauna recovery do not induce greater neuromuscular fatigability during sustained submaximal contractions.
+
+Number of 
+
+Key takeaways:Sauna recovery leads to accelerated muscle contractility and decreased muscle steadiness, but does not increase neuromuscular fatigability during sustained submaximal contractions.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

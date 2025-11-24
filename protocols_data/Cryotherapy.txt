@@ -1,0 +1,509 @@
+PROTOCOL: Cryotherapy
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Abstract:The use of cryotherapy, i.e. the application of cold for the treatment of injury or disease, is widespread in sports medicine today. It is an established method when treating acute soft tissue injuries, but there is a discrepancy between the scientific basis for cryotherapy and clinical studies. Various methods such as ice packs, ice towels, ice massage, gel packs, refrigerant gases and inflatable splints can be used. Cold is also used to reduce the recovery time as part of the rehabilitation programme both after acute injuries and in the treatment of chronic injuries. Cryotherapy has also been shown to reduce pain effectively in the post‐operative period after reconstructive surgery of the joints. Both superficial and deep temperature changes depend on the method of application, initial temperature and application time. The physiological and biological effects are due to the reduction in temperature in the various tissues, together with the neuromuscular action and relaxation of the muscles produced by the application of cold. Cold increases the pain threshold, the viscosity and the plastic deformation of the tissues but decreases the motor performance. The application of cold has also been found to decrease the inflammatory reaction in an experimental situation. Cold appears to be effective and harmless and few complications or side‐effects after the use of cold therapy are reported. Prolonged application at very low temperatures should, however, be avoided as this may cause serious side‐effects, such as frost‐bite and nerve injuries. Practical applications, indications and contraindications are discussed.
+DESCRIPTION: Cryotherapy is a therapeutic method that uses cold to reduce pain, fatigue, and inflammation, particularly effective in acute injuries, postoperative rehabilitation, and certain chronic conditions. It helps restore range of motion, improves well-being, and supports physical functioning.
+
+CONTENT SECTIONS:
+
+Pain and fatigue reduction and improvement of musculoskeletal function
+
+Cryotherapy is a therapeutic method that uses cold to reduce pain, fatigue, and inflammation, particularly effective in acute injuries, postoperative rehabilitation, and certain chronic conditions. It helps restore range of motion, improves well-being, and supports physical functioning.
+
+Level of evidence:Good
+
+Cryotherapy works by reducing nerve conduction, decreasing the production of inflammatory mediators, and limiting swelling, resulting in rapid relief from pain and fatigue. It improves muscular circulation and affects the autonomic nervous system, supporting regeneration and enhancing musculoskeletal function. The best results are achieved when cryotherapy is applied within the first hours after injury or in regular treatment series.
+
+Cryotherapy is generally well tolerated, but the use of cold carries certain risks, especially when applied improperly. Mild and transient side effects are possible, and in rare cases, more serious reactions.
+
+Cryotherapy is not recommended for people with certain conditions or health states that may increase the risk of complications or worsen their health status.
+
+Treatments usually last from 2 to 20 minutes, applied locally or systemically, in series or as single sessions depending on indications.
+
+Local cryotherapy (ice, cooling sprays), whole-body cryotherapy (full immersion in cold air or liquid nitrogen).
+
+Pain-relieving and fatigue-reducing effects usually appear immediately and last from several hours to several days.
+
+Best used directly after injury, training, or as part of regular rehabilitation; avoid use immediately before competitions requiring maximal strength and muscle control.
+
+Post-injury first aid protocol
+
+Apply cryotherapy as soon as possible after injury for 10–20 minutes, avoiding direct contact of ice with the skin.
+
+Treatment series in chronic diseases
+
+Perform treatments regularly, e.g., 2–3 times per week for several weeks, to achieve lasting effects.
+
+Skin protection during treatments
+
+Use protective layers or special wraps to avoid frostbite and irritation.
+
+Therapy individualization
+
+Adjust cryotherapy duration and form to the type of injury, health status, and patient tolerance.
+
+Cryotherapy is widely used in the treatment of joint pain and inflammation, and studies confirm its positive impact on joint health. It effectively reduces pain, swelling, and inflammatory symptoms in joints, and improves their mobility. Evidence on its direct effect on bones is limited, but benefits for joints are well documented.
+
+Table: Effects of cryotherapy on joints
+
+Musculoskeletal system
+
+Cryotherapy is widely used in the treatment of injuries and musculoskeletal disorders. Its most well-documented effect is pain reduction and improved range of motion, while its impact on tissue regeneration and long-term musculoskeletal function is less clear.
+
+Main benefits of cryotherapy for the musculoskeletal system
+
+Mechanisms of action and limitations
+
+Clinical applications
+
+Fatigue and regeneration
+
+Cryotherapy, or cold treatment, is increasingly used as a method to support fatigue reduction both in healthy individuals and in various chronic conditions. Studies indicate that cryotherapy can effectively decrease the feeling of fatigue and improve physical functioning and quality of life.
+
+Effect of cryotherapy on fatigue – study overview
+
+Limitations and notes
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:48
+
+Final comment:Cryotherapy is a widely used therapeutic intervention whose effectiveness in reducing pain and fatigue, as well as improving range of motion, has been confirmed in numerous clinical studies, including randomized controlled trials. Meta-analyses and systematic reviews highlight its beneficial effects in acute post-injury conditions, postoperative rehabilitation, and certain chronic illnesses such as fibromyalgia and multiple sclerosis. While there are some limitations regarding the long-term impact of cryotherapy on tissue regeneration and musculoskeletal function, clinical evidence supports its use as an effective symptom-relieving and recovery-supporting method. The risk of adverse effects is low when cryotherapy is used according to guidelines, with appropriate duration and intensity.
+
+Clinical Evolution and Safety of a Cryotherapy - Based Spray for Mild to Moderate Joint and Muscle Pain: A Descriptive Observational Study
+
+Number of 
+
+Key takeaways:Cryotherapy spray effectively reduces pain and improves joint mobility, with immediate and sustained benefits, high patient satisfaction, and a favorable safety profile.
+
+Abstract:Background Cryotherapy, long used for its pain-relieving and anti-inflammatory effects, is widely applied in sports medicine, physiotherapy, and postoperative care. Advances in cryotherapy methods, including the use of topical vapocoolant sprays, offer enhanced pain management and support recovery from musculoskeletal injuries by alleviating pain and reducing swelling in a targeted manner. Hypothesis/Purpose The primary aim was to assess both immediate and sustained pain relief in subjects with mild to moderate musculoskeletal complaints. Study Design Observational cohort study. Methods Fifty-nine participants with mild to moderate musculoskeletal pain participated in a three-week observational study evaluating a cryotherapy spray. Pain and range of motion (ROM) were assessed using the Visual Analogue Scale (VAS) and goniometer measurements at multiple time points, including T-1 (before treatment), T0 (beginning of treatment), T2-min, T5-min, T10-min, T15-min, T30-min, T60-min, T7-days, T14-days, while participants were actively receiving treatment exclusively with the cryotherapy spray, and T21-days (1 week after treatment cessation). Acceptability Test and additional subjective questionnaires evaluated participants analysis of cooling sensation and product tolerance. Data were analyzed using Cumulative Logit Mixed Models (CLMM) and the non-parametric Friedman test for repeated measures. Results The cryotherapy spray significantly reduced pain (VAS) from baseline (p < 0.001, Hedges’ g = -1.90) and improved joint mobility (ROM) with derived scores increasing from 3 (3–4) to 4 (4–4) by Day 21 (p < 0.001). Rapid pain relief was reported by 35% of participants within 10 seconds, with 80% experiencing relief within three minutes. Comfort ratings were consistently high, with 95% of participants expressing satisfaction at Day 0, rising to 99% by Day 14. Global efficacy satisfaction measured by a subjective Likert scale also increased from 75% at baseline to 95% by Day 14. No adverse events were reported. Conclusion This study supports the effectiveness of the cryotherapy spray in reducing pain and improving joint mobility, with both immediate and sustained benefits. High patient satisfaction and a favorable safety profile suggest its potential for clinical use. Further controlled studies could confirm its efficacy in broader populations. Level of Evidence Level 3
+
+SAT0021 STRUCTURAL EFFECTS OF LOCAL CRYOTHERAPY IN RHEUMATOID ARTHRITIS: A STUDY IN ADJUVANT-INDUCED ARTHRITIS
+
+Number of 
+
+Key takeaways:Local cryotherapy significantly reduced arthritis progression and radiological damage in rats with adjuvant-induced arthritis, but its mechanism remains unclear.
+
+Abstract:The control of joint destruction caused by rheumatoid arthritis (RA) is a key issue in the treatment of this disease. Recent evidence showed that radiographic progression of joint damage occur despite a sharp decrease in disease activity and the use of aggressive Disease Modifying Anti-Rheumatic Drug (DMARD) therapies . Whether alternative treatments such as cryotherapy may have beneficial effects on joint destruction at the early stages of the disease remains to be demonstrated, but such strategy would be of interest as it would not interfere with DMARDs treatment.The aim of this study was to evaluate the effect of a 14-days-treatment of local cryotherapy on radiological outcomes in rat adjuvant induced arthritis.Adjuvant-induced arthritis (AIA) was induced in 6-weeks old male Lewis rats by injection ofMycobacterium butyricumin Freund’s incomplete adjuvant at the basis of the tail. A control group received saline. At the onset of arthritis, AIA rats were treated or not by application of cryotherapy on paws using either a cold spray or ice, twice a day for 14 days. Arthritis score and paws skin temperature was daily monitored. At the end of treatment, radiological exam of hind paws was performed and a score taking into account (swelling, osteoporosis, cartilage destruction, bone erosion, bone destruction and new bone formation) was assigned, according to Ackermanet al. Circulating levels of cytokines (IL-6, IL-1β, TNF-α) was measured by Magpix Luminex kit.Compared to untreated AIA, local cryotherapy significantly reduced the progression of arthritis score, whatever the modality (p<0.05), and to the same extent (reduction of arthritis score at day 24 post-immunization: -38% with cold spray, p<0.01, -37% with ice, p<0.01). Radiological score was significantly reduced by both treatments with no difference between the two treatments (-33% with cold spray, p<0.01, -44% with ice, p<0.01). All the items of the radiological score were equally reduced by ice and cold spray except swelling that was significantly reduced only by ice. Interestingly, the use of the cold spray induced a greater decrease in the skin temperature than the ice treatment (18.32 ± 0.07 °C vs 20.46 ± 0.08 °C, p<0.001). Conversely, cryotherapy did not significantly change the level of cytokines. No correlation was found between radiological score and arthritis score or cytokine levels.These data demonstrated that local cryotherapy had positive effects on structural damage in adjuvant-induced arthritis. The mechanisms involved remain now to be determined. These results suggest that local cryotherapy would be an interesting complement to conventional DMARDs in early RA. Ten Klooster, P. M.et al.Radiographic progression can still occur in individual patients with low or moderate disease activity in the current treat-to-target paradigm: real-world data from the Dutch Rheumatoid Arthritis Monitoring (DREAM) registry.Arthritis Res. Ther.21, 237 (2019). Ackerman, N. R.et al.Effects of naproxen on connective tissue changes in the adjuvant arthritic rat.Arthritis Rheum.22, 1365–1374 (1979).Célian Peyronnel: None declared, Valentin Petitcolin: None declared, Perle Totoson: None declared, Hélène Martin: None declared, Frank Verhoeven: None declared, Céline Demougeot Grant/research support from: With an institutional support from Pfizer.
+
+New Applications for Cryotherapy
+
+Number of 
+
+Key takeaways:Cryotherapy can effectively reduce joint pain and inflammation, and modulate collagen and fat cells for various medical applications, including osteoarthritis treatment and diabetes treatment.
+
+Abstract:Cryotherapy, or more commonly known as cold therapy, is the use of low temperatures in medical treatment. The most prominent use of cryotherapy is for cryosurgery where application of very low temperatures is used to ablate diseased tissue (e.g., most commonly in dermatology). Recent research, however, shows that low temperature may modulate collagen fibers beyond the already known effects of extreme cooling on joint pain relieve and inflammation. The goal of this brief review is to outline the known effects of extreme cooling on molecular, fiber and cell physiology and to leverage these properties in various potential medical applications. Specially, we will discuss potential cryotherapies for treatment of osteoarthritis and destruction of fat cells (i.e., cryolipolysis) for treatment of diabetes. Osteoarthritis (OA) is a degenerative disease, where joint pain and stiffness worsen over time. One of the most effective ways to relief joint pain is cooling the joint. Indeed, when evaluating different strategies to externally cool affected joints, it was found that reducing the internal joint temperature by ~ 10°C has beneficial effects in terms of pain reduction and regression in local inflammation. Moreover, collagen, whose deterioration is a major part of OA pathophysiology, regains elasticity after several freeze-thaw cycle. Finally, cartilage cells response to cold by increasing collagen formation and reducing matrix enzyme production, and adipose tissue within the joint that promote OA by supporting inflammation is susceptible to cold temperatures. Obesity is also a devastating disease that contributes to OA. Reduction of the temperature within the joint results in reduced inflammation, renewed collagen synthesis and reduced pain. Similarly, induction of extreme low temperatures in adipose tissue results in adipocytes loss without damage to surrounding tissues. Hence, cryotherapy has applications to modulation of collagen and fat cells for various therapies.
+
+Postoperative Cryotherapy in Joints Other Than the Knee: A Systematic Review of Pain, Edema, Analgesic Use, and Blood Loss in the Shoulder, Hand, Hip, and Ankle Joints
+
+Number of 
+
+Key takeaways:Cryotherapy's effectiveness in postoperative pain reduction varies by joint, with the most consistent benefits in the hip, but increased haloperidol consumption in hip fractures.
+
+Abstract:Background: Cryotherapy has proven effective for pain reduction in the knee joint. However, its efficacy in other joints is less clear. Purpose: To explore the benefits of cryotherapy in joints excluding the knee. Study Design: Systematic review; Level of evidence, 4. Methods: In June 2023, a review of EMBASE, PubMed MEDLINE, PROSPERO, ClinicalTrials.org, and the Cochrane Library was performed following PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) 2020 guidelines. Search terms were “cryotherapy,”“cold application,”“postoperative,” and “postoperative period.” Studies that assessed postoperative cryotherapy in joints excluding the knee were included. Spine, tumor, and pediatric studies were excluded. Outcomes evaluated were postoperative pain status, analgesic use, edema, and blood loss. Results: Out of 6749 studies, 22 studies (1424 patients) were ultimately included. Postoperative pain was evaluated in 20 studies, analgesic consumption in 14 studies, edema in 8 studies, and blood loss in 6 studies. Cryotherapy showed significant benefits in pain reduction in 9 studies, decreased analgesic use in 7 studies, edema reduction in 4 studies, and decreased blood loss in 2 studies. The hip showed the most consistent benefits from cryotherapy, across all studied parameters. However, increased haloperidol consumption was noted in hip fractures. Cryotherapy benefits after wrist surgery (4 studies; 211 patients) varied by procedure. Particularly for carpal tunnel procedures, continuous cryotherapy showed significant reductions in pain, analgesic use, and postoperative edema. For ankle surgeries (4 studies; 301 patients), cryotherapy was beneficial for pain and analgesic consumption, but it was not the optimal edema-resolving method. Benefits in elbow surgery (1 study; 59 patients) were limited to pain and analgesia consumption. For shoulder surgery (6 studies; 311 patients), the evidence was not consistent regarding the benefits of cryotherapy on postoperative pain despite a general trend toward amelioration, with compression cryotherapy and continuous cryotherapy showing the best results. Conclusion: The effectiveness of cryotherapy appeared dependent on the specific surgical context and the protocol used. Pairing cryotherapy with compression led to better outcomes than cryotherapy alone. Special consideration should be given when implementing cryotherapy after hip fractures.
+
+Cryotherapy in inflammatory rheumatic diseases: a systematic review
+
+Number of 
+
+Key takeaways:Cryotherapy significantly reduces pain and disease activity in rheumatoid arthritis patients, potentially reducing corticosteroid and nonsteroidal anti-inflammatory drug doses.
+
+Abstract:The aim of this article was to review current evidence about cryotherapy in inflammatory rheumatic diseases (therapeutic and biological effects). For therapeutic effects, we performed a systematic review (PubMed, EMBASE, Cochrane Library, LILACS databases, unpublished data) and selected studies including non-operated and non-infected arthritic patients treated with local cryotherapy or whole-body cryotherapy. By pooling 6 studies including 257 rheumatoid arthritis (RA) patients, we showed a significant decrease in pain visual analogic scale (mm) and 28-joint disease activity score after chronic cryotherapy in RA patients. For molecular pathways, local cryotherapy induces an intrajoint temperature decrease, which might downregulate several mediators involved in joint inflammation and destruction (cytokines, cartilage-degrading enzymes, proangiogenic factors), but studies in RA are rare. Cryotherapy should be included in RA therapeutic strategies as an adjunct therapy, with potential corticosteroid and nonsteroidal anti-inflammatory drug dose-sparing effects. However, techniques and protocols should be more precisely defined in randomized controlled trials with stronger methodology.
+
+Clinical-like cryotherapy in acute knee arthritis of the knee improves inflammation signs, pain, joint swelling, and motor performance in mice
+
+Number of 
+
+Key takeaways:Clinical-like cryotherapy reduces inflammation, pain, and joint swelling in mice with acute knee arthritis, improving balance and motor coordination.
+
+Abstract:To assess the effects of clinical-like cryotherapy on inflammatory signs (in vivo neutrophil migration, cytokines, and joint inflammation), pain, joint swelling, balance, and motor coordination in mice with knee arthritis. Young C57BL/6 mice were randomly divided into three groups (8 to 10 mice per group): Control group: mice with no intervention; antigen-induced arthritis (AIA) group: mice sensitized and immunized with intra-articular (i.a.) injection of methylated bovine serum albumin (mBSA); and AIA + cryotherapy group: mice sensitized, immunized with i.a. injection of mBSA, and submitted to a clinical-like cryotherapy protocol. After 21 days of sensitization, AIA and AIA + cryotherapy groups received i.a. injection of mBSA (100 μg/joint) to induce joint inflammation, and a clinical-like cryotherapy protocol was applied to AIA + cryotherapy group (crushed ice bag, two cryotherapy sessions of 20 min every two hours). Experimental analysis was conducted in the initial (immediately after i.a. injection of mBSA) and final periods (two hours after the second cryotherapy session). The number of synovial fluid neutrophils, cytokine levels, joint histology, pain, joint swelling, and motor performance were also analyzed. Our results showed that clinical-like cryotherapy in mice with acute knee arthritis reduced inflammatory signs, pain, and joint swelling, and improved balance and motor coordination.
+
+The effects of cryotherapy on athletes' muscle strength, flexibility, and neuromuscular control: A systematic review of the literature.
+
+Number of 
+
+Key takeaways:Cryotherapy shows limited evidence to positively influence muscular strength and neuromuscular control, but does improve joint flexibility in athletes.
+
+Insights into cryotherapy and joint bleeding: cryotherapy and hemophilia
+
+Number of 
+
+Key takeaways:Cryotherapy effectively reduces joint swelling and inflammation, and has a positive effect on controlling joint temperature after experimental hemarthrosis.
+
+Abstract:&NA; There is some controversy over the use of cryotherapy. Low temperatures (Temp) could interfere with coagulation and increase the risk of bleeding. We sought to examine the effect of cryotherapy on joint swelling, temperature, friction, and inflammatory condition after experimental hemarthrosis. The left knee of 23 albino rabbits, 10 in heparin Ice, five in citrate Ice, four in heparin control, and four in citrate control were injected intraarticularly with 1 ml of blood. In total, four animals were considered to be in normal control group. Joint diameter, Temp, and ultrasonography were assessed before the blood injection. One day after the intraarticular blood injection, cryotherapy was applied 4 times per day for 4 consecutive days. Joint diameter and Temp were measured twice a day. After cessation of the protocol, joint diameter and Temp were assessed and sonography performed, animals euthanized, the friction test was performed and the synovial membrane collected, respectively. Joint diameter and Temp were increased after the intraarticular blood injection. Cryotherapy was capable of reducing the swelling and Temp. Ultrasonography findings approved the positive effect of cryotherapy on joint swelling. The proinflammatory tumor necrosis factor (TNF-&agr;) reduced by cryotherapy in both cryotherapy groups but Interleukin 1&bgr; was only reduced in heparin group. Interleukin-4 increased in heparin Ice group that was in comparison with TNF-&agr; reduction. Cryotherapy reduced joint swelling and has a positive effect on controlling joint inflammation and Temp.
+
+Analysis of Wistar Rats Submitted to a Gout Model, Treated with Double Cryotherapy Protocol.
+
+Number of 
+
+Key takeaways:Cryotherapy effectively reduced joint edema and increased grip strength in Wistar rats during an acute gout crisis, without affecting joint disability or motor function.
+
+Abstract:Gout arthritis commonly affects joint regions by deposition of crystals, promoting functional damage mainly during periods of exacerbation. Cryotherapy is a commonly used re
+
+Effects of Cryotherapy Applied at Different Temperatures on Inflammatory Pain During the Acute Phase of Arthritis in Rats.
+
+Number of 
+
+Key takeaways:Cryotherapy at temperatures lower than 10°C can effectively reduce inflammatory pain in acute arthritis, with no significant differences observed between the two temperatures.
+
+Abstract:OBJECTIVE
+The biological mechanisms of cryotherapy for managing acute pain remain unclear. Additionally, it is unknown whether the effectiveness of cryotherapy depends on the applied temperature. This study aimed to clarify the biological effects of cryotherapy and to examine the therapeutic effects of cryotherapy applied at different temperatures in rat.
+
+METHODS
+This was an experimental study using a rat knee joint arthritis model. Thirty-five Wistar rats were randomly divided into arthritis (AR), arthritis with 5 °C cryotherapy (CR-5), arthritis with 10 °C cryotherapy (CR-10), and sham-arthritis (Sham) groups. Arthritis was induced by injecting a mixture of kaolin/carrageenan into the right knee joint. Cryotherapy was applied for 7 days starting the day after injection by immersing the right knee joint in 5 °C or 10 °C water. Joint transverse diameter, pressure pain threshold (PPT), and pain-related behaviors were assessed for 7 days. The number of CD68-positive cells in the knee joint and the expression of calcitonin gene-related peptide (CGRP) in the spinal dorsal horn 8 days after injection were analyzed by immunohistochemical staining.
+
+RESULTS
+Improvements in transverse diameter, PPT, and pain-related behaviors were observed in the CR-5 and CR-10 groups on the 3rd day compared to the AR group. The number of CD68-positive cells and the expression of CGRP in the CR-5 and CR-10 groups were significantly decreased compared to the AR group. There were no significant differences in all results between the CR-5 and CR-10 groups.
+
+CONCLUSIONS
+Cryotherapy can ameliorate inflammatory pain through reduction of synovium and central sensitization. Additionally, the effects of cryotherapy lower than 10 °C are observed independent of applied temperature.
+
+IMPACT
+Cryotherapy may be beneficial as a physical therapy modality for pain and swelling management in the acute phase of inflammation. Translational human study is needed to determine the effective cryotherapy temperature for the inflammatory pain.
+
+Clinical-Like Cryotherapy in Acute Knee Arthritis Protects Neuromuscular Junctions of Quadriceps and Reduces Joint Inflammation in Mice
+
+Number of 
+
+Key takeaways:Clinical-like cryotherapy protects neuromuscular junctions and reduces joint inflammation in mice with acute knee arthritis, potentially benefiting patients.
+
+Abstract:Rheumatoid arthritis is an autoimmune and inflammatory disease that affects synovial joint tissues and skeletal muscle. Clinical-like cryotherapy benefits signs of joint inflammation in knee osteoarthritis after 60 days of anterior cruciate ligament transection surgery. However, it is unknown whether it also benefits acute knee arthritis (e.g., reduces inflammatory process and protects neuromuscular junction and muscle fibers). We aimed to analyze the effects of clinical-like cryotherapy on NMJ and quadriceps muscle fibers in a model of acute knee arthritis. Twenty-four male C57BL/6 mice (20 to 25 g) were randomly allocated into three groups: control (mice with no intervention), antigen-induced arthritis (AIA; mice sensitized and immunized with intra-articular injection of methylated bovine serum albumin ), and AIA+cryotherapy (mice sensitized, immunized with i.a. injection of mBSA, and submitted to a clinical-like cryotherapy protocol). Twenty-one days after sensitization, arthritis was induced in immunized mice via i.a. injection of mBSA (100 μg/joint). Two clinical-like cryotherapy sessions (crushed ice pack for 20 min) were applied two hours apart. The first session was applied immediately after i.a. injection of mBSA. The quadriceps was removed two hours after the second clinical-like cryotherapy session for morphological analysis of muscle fibers (cross-sectional area), frequency distribution of muscle fiber area (%), and NMJ (area, perimeter, and maximum diameter). Gene expressions of mRNA involved in NMJ signaling (γ-nAChR, α1-nAChR, ε-nAChR, Agrin-MusK-Rapsyn, α-dystrobrevin, and utrophin) and atrophy (muscle RING-finger protein-1 and Atrogin-1) pathways were analyzed. Inflammatory signs were assessed in knee joint (swelling, articular surface temperature, and neutrophil migration in synovial fluid). Regarding morphological analysis of muscle fibers, 180 to 270 and >270 μm2 classes were higher in the AIA+cryotherapy than the AIA group. Area, perimeter, and maximum diameter of NMJ also increased in the AIA+cryotherapy compared with the control group. Agrin mRNA expression increased in the AIA+cryotherapy compared with the control and AIA groups. In the atrophy pathway, Atrogin-1 increased compared with the control and AIA groups. The AIA+cryotherapy group reduced knee swelling and neutrophil migration compared with the AIA group. In conclusion, clinical-like cryotherapy increased Agrin expression, contributing to NMJ maintenance and increased Atrogin-1 expression, thus protecting NMJ and muscle fiber. Furthermore, clinical-like cryotherapy reduced inflammatory signs (swelling and neutrophil migration) of acute knee arthritis.
+
+Cryotherapy in sports medicine
+
+Number of 
+
+Key takeaways:Cryotherapy is an effective and safe method for treating injuries and reducing pain in sports medicine, but prolonged use at very low temperatures may cause serious side-effects.
+
+Abstract:The use of cryotherapy, i.e. the application of cold for the treatment of injury or disease, is widespread in sports medicine today. It is an established method when treating acute soft tissue injuries, but there is a discrepancy between the scientific basis for cryotherapy and clinical studies. Various methods such as ice packs, ice towels, ice massage, gel packs, refrigerant gases and inflatable splints can be used. Cold is also used to reduce the recovery time as part of the rehabilitation programme both after acute injuries and in the treatment of chronic injuries. Cryotherapy has also been shown to reduce pain effectively in the post‐operative period after reconstructive surgery of the joints. Both superficial and deep temperature changes depend on the method of application, initial temperature and application time. The physiological and biological effects are due to the reduction in temperature in the various tissues, together with the neuromuscular action and relaxation of the muscles produced by the application of cold. Cold increases the pain threshold, the viscosity and the plastic deformation of the tissues but decreases the motor performance. The application of cold has also been found to decrease the inflammatory reaction in an experimental situation. Cold appears to be effective and harmless and few complications or side‐effects after the use of cold therapy are reported. Prolonged application at very low temperatures should, however, be avoided as this may cause serious side‐effects, such as frost‐bite and nerve injuries. Practical applications, indications and contraindications are discussed.
+
+Orthopaedic Application of Cryotherapy: A Comprehensive Review of the History, Basic Science, Methods, and Clinical Effectiveness.
+
+Number of 
+
+Key takeaways:Cryotherapy can reduce pain and swelling after orthopaedic procedures, but more research is needed to compare it to traditional treatments like bagged ice or ice packs.
+
+Abstract:»
+Cold therapy, also known as cryotherapy, includes the use of bagged ice, ice packs, compressive cryotherapy devices, or whole-body cryotherapy chambers. Cryotherapy is commonly used in postoperative care for both arthroscopic and open orthopaedic procedures.
+
+»
+Cryotherapy is associated with an analgesic effect caused by microvasculature alterations that decrease the production of inflammatory mediators, decrease local edema, disrupt the overall inflammatory response, and reduce nerve conduction velocity.
+
+»
+Postoperative cryotherapy using bagged ice, ice packs, or continuous cryotherapy devices reduced visual analog scale pain scores and analgesic consumption in approximately half of research studies in which these outcomes were compared with no cryotherapy (11 of 25 studies on pain and 11 of 23 studies on opioids). However, an effect was less frequently reported for increasing range of motion (3 of 16) or decreasing swelling (2 of 9).
+
+»
+Continuous cryotherapy devices demonstrated the best outcome in orthopaedic patients after knee arthroscopy procedures, compared with all other procedures and body locations, in terms of showing a significant reduction in pain, swelling, and analgesic consumption and increase in range of motion, compared with bagged ice or ice packs.
+
+»
+There is no consensus as to whether the use of continuous cryotherapy devices leads to superior outcomes when compared with treatment with bagged ice or ice packs. However, complications from cryotherapy, including skin irritation, frostbite, perniosis, and peripheral nerve injuries, can be avoided through patient education and reducing the duration of application.
+
+»
+Future Level-I or II studies are needed to compare both the clinical and cost benefits of continuous cryotherapy devices to bagged ice or ice pack treatment before continuous cryotherapy devices can be recommended as a standard of care in orthopaedic surgery following injury or surgery.
+
+Cryotherapy on postoperative rehabilitation of joint arthroplasty
+
+Number of 
+
+Key takeaways:Cryotherapy effectively reduces blood loss after joint arthroplasty and decreases pain on the second postoperative day without increasing the risk of adverse effects.
+
+Abstract:PurposeThe effectiveness of cryotherapy on joint arthroplasty recovery remains controversial. This systematic review was conducted to assess the effectiveness of cryotherapy in patients after joint arthroplasty.MethodsComprehensive literature searches of several databases including Cochrane Library (2013), MEDLINE (1950–2013), and Embase (1980–2013) were performed. We sought randomised controlled trials that compared the experimental group received any form of cryotherapy with any control group after joint arthroplasty. The main outcomes were postoperative blood loss, adverse events, and pain. Analyses were performed with Revman 5.0. Results were shown as mean differences (MD) and standard deviations or as risk difference and 95 % confidence intervals (CIs).ResultsTen trials comprised 660 total knee arthroplastys and three trials comprised 122 total hip arthroplastys (THAs) met the inclusion criteria. Blood loss was significantly decreased by cryotherapy (MD = −109.68; 95 % CI −210.92 to −8.44; P = 0.03). Cryotherapy did not increase the risk of adverse effect (n.s.). Cryotherapy decreased pain at the second day of postoperative (MD = −1.32; 95 % CI −2.37 to −0.27; P = 0.0003), but did not decreased pain at the first and third day of postoperative (n.s.).ConclusionsCryotherapy appears effective in these selected patients after joint arthroplasty. The benefits of cryotherapy on blood loss after joint arthroplasty were obvious. However, the subgroup analysis indicated that cryotherapy did not decreased blood loss after THA. Cryotherapy did not increase the risk of adverse effect. Cryotherapy decreased pain at the second day of postoperative, but did not decreased pain at the first and third day of postoperative.Level of evidenceII.
+
+Cryotherapy for treating soft tissue injuries in sport medicine: a critical review
+
+Number of 
+
+Key takeaways:Cryotherapy may reduce pain in the first 6 hours after an injury, but its effectiveness beyond 12 hours is uncertain due to animal studies suggesting it may interfere with tissue healing and regeneration.
+
+Abstract:Sports medicine physicians and physiotherapists commonly use cryotherapy (eg, ice application) postinjury to decrease tissue temperature with the objective of reducing pain, limiting secondary injury and inflammation, and supporting healing. However, besides the analgesic effect of cryotherapy, a literature search revealed no evidence from human studies that cryotherapy limits secondary injury or has positive effects on tissue regeneration. Thus, our current understanding of the potential mechanisms and applications of cryotherapy largely relies on the results from animal studies. Importantly, treatment should not aim at obliterating the inflammatory and regeneration processes but instead aim to restore an adapted/normal regulation of these processes to improve function and recovery. However, some animal studies suggest that cryotherapy may delay or impair tissue regeneration. With the translation of laboratory animal studies to human sport medicine being limited by different injury and muscle characteristics, the effect of cryotherapy in patients with musculoskeletal injuries is uncertain. Thus, pending the results of human studies, cryotherapy may be recommended in the first 6 hours following an injury to reduce pain (and possibly haematoma), but it should be used with caution beyond 12 hours postinjury as animal studies suggest it may interfere with tissue healing and regeneration.
+
+Effects of whole body cryotherapy in patients with rheumatoid arthritis considering immune parameters
+
+Number of 
+
+Key takeaways:Whole body cryotherapy and conventional rehabilitation both improve clinical status in rheumatoid arthritis patients, but have no effect on circulating cytokine levels.
+
+Abstract:Objectives Whole body cryotherapy (WBC) is widely used in inflammatory diseases of the joints, including rheumatoid arthritis (RA), but the mechanism(s) of its action is not fully understood. The aim of the study was to compare the effects of WBC and conventional rehabilitation (CR) on the clinical and immune status of RA patients. Material and methods Rheumatoid arthritis patients were classified into 2 groups according to the rehabilitation method used: the study group (CT, n = 25) and control group (CR, n = 25). To measure disease activity, the disease activity score (DAS28) was used, while to assess the morning stiffness and pain intensity, the visual analogue scale (VAS) was applied. Selected laboratory parameters, such as erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) levels, were also determined. The serum concentrations of pro- (interleukin 6 , tumor necrosis factor α , macrophage migration inhibitory factor ) and anti-inflammatory (IL-10) cytokines were measured to assess the patient’s immune status. Results After rehabilitation disease activity (DAS28), morning stiffness and pain intensity (VAS) decreased in both patient groups and no statistically significant differences were observed between them. However, statistically significant improvement in the CRP serum level was observed in the CT group only. No differences were observed in the serum concentrations of tested cytokines either before and after rehabilitation, or between patient groups. Conclusions We report that regardless of the type of therapy, comprehensive rehabilitation improves the patient’s clinical status, but has no effect on the levels of circulating cytokines, such as IL-6, IL-10, TNF-α, and MIF, despite significant reduction of a systemic inflammatory marker (CRP), especially in the CT group.
+
+The influence of circulating cold water cryotherapy with or without intermittent pneumatic compression on shoulder joint position sense (JPS) in recreationally active adults: A randomized crossover trial.
+
+Number of 
+
+Key takeaways:Cryotherapy may increase the risk of injury by reducing nerve conduction velocity, muscle force production, and proprioceptive afferent information in the shoulder joint.
+
+The physiologic basis and clinical applications of cryotherapy and thermotherapy for the pain practitioner.
+
+Number of 
+
+Key takeaways:Cryotherapy reduces tissue metabolism and inflammation, while thermotherapy increases them, both providing significant pain relief with low side-effect profiles.
+
+Abstract:Cryotherapy and thermotherapy are useful adjuncts for the treatment of musculoskeletal injuries. Clinicians treating these conditions should be aware of current research findings regarding these modalities, because their choice of modality may affect the ultimate outcome of the patient being treated. Through a better understanding of these modalities, clinicians can optimize their present treatment strategies. Although cold and hot treatment modalities both decrease pain and muscle spasm, they have opposite effects on tissue metabolism, blood flow, inflammation, edema, and connective tissue extensibility. Cryotherapy decreases these effects while thermotherapy increases them. Continuous low-level cryotherapy and thermotherapy are newer concepts in therapeutic modalities. Both modalities provide significant pain relief with a low side-effect profile. Contrast therapy, which alternates between hot and cold treatment modalities, provides no additional therapeutic benefits compared with cryotherapy or thermotherapy alone. Complications of cryotherapy include nerve damage, frostbite, Raynaud's phenomenon, cold-induced urticaria, and slowed wound healing. With thermotherapy, skin burns may occur, especially in patients with diabetes mellitus, multiple sclerosis, poor circulation, and spinal cord injuries. In individuals with rheumatoid arthritis, deep-heating modalities should be used with caution because increased inflammation may occur. Whirlpool and other types of hydrotherapy have caused infections of the skin, urogenital, and pulmonary systems. Additionally, ultrasound should not be used in patients with joint prostheses.
+
+Whole-body cryotherapy as a treatment for chronic medical conditions?
+
+Number of 
+
+Key takeaways:Whole-body cryotherapy shows potential as an adjuvant therapy for chronic inflammation in conditions like rheumatoid arthritis and obesity, but more randomized controlled trials are needed.
+
+Abstract:INTRODUCTION
+Whole-body cryotherapy (WBC) is a controlled exposure of the whole body to cold to gain health benefits. In recent years, data on potential applications of WBC in multiple clinical settings have emerged.
+
+SOURCES OF DATA
+PubMed, EBSCO and Clinical Key search using keywords including terms 'whole body', 'cryotherapy' and 'cryostimulation'.
+
+AREAS OF AGREEMENT
+WBC could be applied as adjuvant therapy in multiple conditions involving chronic inflammation because of its potent anti-inflammatory effects. Those might include systemic inflammation as in rheumatoid arthritis. In addition, WBC could serve as adjuvant therapy for chronic inflammation in some patients with obesity.
+
+AREAS OF CONTROVERSY
+WBC probably might be applied as an adjuvant treatment in patients with chronic brain disorders including mild cognitive impairment and general anxiety disorder and in patients with depressive episodes and neuroinflammation reduction as in multiple sclerosis. WBC effects in metabolic disorder treatment are yet to be determined. WBC presumably exerts pleiotropic effects and therefore might serve as adjuvant therapy in multi-systemic disorders, including myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS).
+
+GROWING POINTS
+The quality of studies on the effects of WBC in the clinical setting is in general low; hence, randomized controlled trials with adequate sample size and longer follow-up periods are needed.
+
+AREAS ARE TIMELY FOR DEVELOPING RESEARCH
+Further studies should examine the mechanism underlying the clinical efficacy of WBC. Multiple conditions might involve chronic inflammation, which in turn could be a potential target of WBC. Further research on the application of WBC in neurodegenerative disorders, neuropsychiatric disorders and ME/CFS should be conducted.
+
+POS0418 ICE CRYOTHERAPY: A NEW STRATEGY TO REDUCE ARTERIAL INFLAMMATION IN RHEUMATOID ARTHRITIS? A STUDY IN ADJUVANT-INDUCED ARTHRITIS MODEL
+
+Number of 
+
+Key takeaways:Ice cryotherapy effectively reduces arthritis symptoms and improves bone health in rheumatoid arthritis patients, but does not significantly affect vascular inflammation.
+
+Abstract:Rheumatoid arthritis (RA) is characterized by endothelial activation (EA), endothelial dysfunction and vascular inflammation, leading to accelerated atherosclerosis. In the last decade, a renewed interest in cryotherapy - local or whole body - has emerged. Although growing evidence demonstrated that ice cryotherapy reduces not only pain but also disease progression, whether such therapy might blunt disorders of the systemic vasculature is unknown.The aim of our study was to determine the effects of a subchronic treatment with ice cryotherapy on aortic leucocyte infiltration and markers of endothelial activation in the rat adjuvant-induced arthritis (AIA) model.AIA was induced by injection of Mycobacterium butyricum in Freund’s incomplete adjuvant at the base of the tail in 6-week-old male Lewis rats. AIA rats were treated or not with ice applied on paws, from the onset of arthritis to the acute inflammatory stage of the disease, twice a day for 14 days. Arthritis score and paw skin temperature were daily monitored. At the end of the treatment, leucocyte infiltration and the different cell subsets (monocytes/macrophages, neutrophils, CD4+ and CD8+ T cells producing or not IL-17A) were measured in thoracic aorta using flow cytometry. Relative mRNA expression of cytokines/chemokines (IL-6, TNF-α, CXCL-1, MIP-1α (CCL-3), MCP-1 (CCL-2)) and adhesion molecules (ICAM-1, VCAM-1) was analyzed in thoracic aorta by RT-qPCR. X-Ray analysis of hind paws was performed to assign a radiographic score.Treatment with ice cryotherapy, that decreased skin surface temperature from 28.6 ± 0.3°C to 18.5 ± 0.2°C, reduced arthritis score (-36%, p<0.001) and radiographic score (-34%, p<0.05) with a positive effect on osteoporosis, cartilage and bone destruction. These effects were associated with a dramatic decrease in CD4+, CD8+ and Tc17 cell aortic infiltration as compared to untreated AIA. By contrast, ice had no effect on endothelial activation markers except VCAM-1 mRNA expression that was significantly increased (p<0.05). A positive correlation was found between the number of total leucocytes, monocytes/macrophages, CD4+ and CD8+ T cells in aorta and arthritis score.In the model of AIA that reproduces arterial wall inflammation recently characterized in rheumatoid arthritis by PET/CT , local ice cryotherapy exerts not only local beneficial effects on the joints but also systemic benefits on vascular inflammation in large vessels. These results suggest that reduction of vascular comorbidities might be a new output of ice cryotherapy used as an adjunctive therapy in RA.Agca et al. Rheumatology (Oxford) (2021)None declared.
+
+The cold truth: the role of cryotherapy in the treatment of injury and recovery from exercise
+
+Number of 
+
+Key takeaways:Cryotherapy reduces pain and soreness after injury or exercise, but its effectiveness depends on maintaining muscle temperature and applying it within the first few hours of structural damage.
+
+Abstract:Cryotherapy is utilized as a physical intervention in the treatment of injury and exercise recovery. Traditionally, ice is used in the treatment of musculoskeletal injury while cold water immersion or whole-body cryotherapy is used for recovery from exercise. In humans, the primary benefit of traditional cryotherapy is reduced pain following injury or soreness following exercise. Cryotherapy-induced reductions in metabolism, inflammation, and tissue damage have been demonstrated in animal models of muscle injury; however, comparable evidence in humans is lacking. This absence is likely due to the inadequate duration of application of traditional cryotherapy modalities. Traditional cryotherapy application must be repeated to overcome this limitation. Recently, the novel application of cooling with 15 °C phase change material (PCM), has been administered for 3–6 h with success following exercise. Although evidence suggests that chronic use of cryotherapy during resistance training blunts the anabolic training effect, recovery using PCM does not compromise acute adaptation. Therefore, following exercise, cryotherapy is indicated when rapid recovery is required between exercise bouts, as opposed to after routine training. Ultimately, the effectiveness of cryotherapy as a recovery modality is dependent upon its ability to maintain a reduction in muscle temperature and on the timing of treatment with respect to when the injury occurred, or the exercise ceased. Therefore, to limit the proliferation of secondary tissue damage that occurs in the hours after an injury or a strenuous exercise bout, it is imperative that cryotherapy be applied in abundance within the first few hours of structural damage.
+
+Cryotherapy for the Management of Chronic Musculoskeletal Conditions: A Clinical Assessment of Pain and Function
+
+Number of 
+
+Key takeaways:Cold-air cryotherapy effectively reduces pain and improves range of motion in patients with chronic musculoskeletal conditions, making it a promising alternative for pain management.
+
+Abstract:Background: Chronic pain, defined as pain persisting or recurring for more than three months, affects an estimated 13.5% to 47% of the general population, with chronic musculoskeletal pain prevalence ranging from 11.4% to 24%. Given the high and rising prevalence of musculoskeletal pain, driven by demographic trends, there is an urgent need for effective interventions, particularly in rehabilitation care settings.
+
+Materials and Methods: Twenty patients with chronic musculoskeletal conditions participated in a treatment program consisting of 10 cold-air cryotherapy sessions. The effectiveness of the therapy was evaluated by assessing changes in pain, range of motion, and physical function using the Western Ontario and McMaster Universities Arthritis Index (WOMAC) before and after treatment.
+
+Results: All assessed parameters showed statistically significant improvements. Pain, measured using the Visual Analog Scale, decreased by 42.9%, while range of motion increased by 15.23%. The WOMAC questionnaire indicated improvements of 34.68% in pain, 40.26% in stiffness, and 24.87% in physical function.
+
+Conclusions: Cold-air cryotherapy demonstrates potential as an effective treatment for various chronic musculoskeletal conditions. Its efficacy, ease of application, affordability, and transportability make it a promising alternative not only for acute edematous injuries but also for chronic pain management.
+
+Whole-body cryotherapy in orthopaedics: current concepts.
+
+Number of 
+
+Key takeaways:Whole-body cryotherapy shows promise in improving bone health in athletes and providing relief for osteoarthritis and fibromyalgia, but more research is needed to establish standard protocols and understand long-term effects.
+
+Abstract:The use of whole-body cryotherapy (WBC) for musculoskeletal ailments is growing. WBC, involving brief exposure to extremely low temperatures, is increasingly used for its analgesic, anti-inflammatory, and antioxidant effects. The paper examines the physiological impacts of WBC on cardiovascular, musculoskeletal, hematologic, hormonal, and metabolic systems. Specific orthopaedic applications discussed include its role in the management of fractures, osteoarthritis, osteonecrosis of the femoral head, osteomyelitis, adhesive capsulitis, tendinopathies, rheumatic pathologies, chronic pain syndromes, and fibromyalgia. The study also highlights the benefits and drawbacks of WBC, including its potential to improve athletic performance, recovery, mood, and well-being, while noting risks like frostbite and impaired muscle strength. Clinical evidence from various studies is evaluated, revealing a spectrum of outcomes. For instance, WBC shows promise in enhancing bone health in athletes and providing relief in osteoarthritis and fibromyalgia patients. However, evidence for its efficacy in conditions like chronic pain syndromes and osteomyelitis is less robust. The paper underscores the need for further research to establish standardised protocols and understand long-term effects. While WBC offers significant benefits in orthopaedics, understanding its limitations and potential risks is crucial for its safe and effective clinical application.
+
+Effects of an Early Exercise Program with Cryotherapy on Range of Motion, Pain, Swelling, and Gait in Patients with Total Knee Arthroplasty: A Randomized Controlled Trial
+
+Number of 
+
+Key takeaways:An early exercise program with cryotherapy effectively improves range of motion, pain, swelling, and walking in patients undergoing total knee arthroplasty.
+
+Abstract:Background: This study aimed to investigate the effects of cryotherapy on range of motion, pain, swelling, and gait in patients who underwent total knee arthroplasty. Methods: Forty-three patients who underwent TKA (total knee arthroplasty) and met the inclusion criteria were randomly divided into two groups. The experimental (n = 21) and control (n = 22) groups underwent cryotherapy and non-cryotherapy treatments, respectively, six times a week for two weeks, and once each before and after exercise for 3 min. Both groups followed a similar initial rehabilitation exercise program using a continuous passive motion device. Results: The results showed a significant difference in knee flexion range of motion, pain, edema, and 10 MWT comparisons from pre- to post-test (p < 0.001). The above values were also significantly different in the comparison between the two groups (p < 0.05). Conclusions: Therefore, this study confirmed that an initial rehabilitation exercise program accompanied by cryotherapy could be an effective intervention method for range of motion, pain, edema, and walking in patients undergoing total knee arthroplasty.
+
+Effects of cryotherapy combined with therapeutic ultrasound on oxidative stress and tissue damage after musculoskeletal contusion in rats.
+
+Number of 
+
+Key takeaways:Cryotherapy and pulsed ultrasound therapy combined effectively reduced oxidative stress in muscle after musculoskeletal injury, contributing to tissue repair and reduced damage.
+
+The Efficacy of Cryotherapy on Decreasing Swelling: A Critically Appraised Topic
+
+Number of 
+
+Key takeaways:Cryotherapy during rehabilitation does not significantly decrease swelling in patients with musculoskeletal conditions.
+
+Abstract:Context: Swelling is a major consequence of musculoskeletal conditions and can be a barrier to healing. Cryotherapy has been reported to decrease swelling. How effective is cryotherapy in reducing swelling during rehabilitation? Methods: PubMed was searched in June 2022 using the Boolean phrases: Swelling OR edema AND cryotherapy OR ice, Swelling AND injury AND cryotherapy. Included articles were 
+
+Use of Cryotherapy for Managing Chronic Pain: An Evidence-Based Narrative
+
+Number of 
+
+Key takeaways:Cryotherapy shows promise in reducing chronic pain associated with various chronic diseases, offering a low-risk and easy treatment option for carefully selected patients.
+
+Abstract:Cryotherapy has been used to reduce chronic pain for many years due in part to its ease of use, affordability, and simplicity. It can be applied either locally (e.g., ice packs) or non-locally (e.g., partial and whole-body cryotherapy) depending on the location of the pain. To determine the overall effectiveness of cryotherapy at reducing chronic pain by characterizing the currently available evidence supporting the use and effects of cryotherapy on chronic pain associated with chronic diseases. A narrative review of original research studies assessing the efficacy of cryotherapy in alleviating chronic pain. A PubMed database search was performed to find human studies between the years 2000 and 2020 that included the application of cryotherapy in patients with chronic pain associated with chronic diseases. A review of the relevant references was also performed to gather more articles. Data was extracted, summarized into tables, and qualitatively analyzed. Twenty-five studies (22 randomized controlled trials, one prospective analysis, 1 one-group pretest/posttest study, and one case–control study) were included after the literature search. Both local and non-local cryotherapy applications show promise in reducing chronic pain associated with various chronic diseases including those of rheumatic and degenerative origin. Cryotherapy appears to be a safe therapy in carefully selected patients, with only minimal adverse effects reported in the literature. Meta-analysis was not possible given the many differences between studies. Cross-study data homogenization and comparison between studies proved fairly difficult due to the lack of standardized studies, various uses and practice types of cryotherapy, and lack of control groups in some studies. Local and non-local cryotherapy can be low-risk and easy treatment options to add in the management of chronic pain in carefully selected patients. However, long-term effects, a standardized approach, and careful study of other chronic pain syndromes should be considered in future research to further support the use of cryotherapy in the management of chronic pain.
+
+Image-guided Cryotherapy for Musculoskeletal Tumors.
+
+Number of 
+
+Key takeaways:Image-guided cryotherapy is a safe and effective treatment for both benign and malignant musculoskeletal tumors, offering a valid alternative to radiofrequency ablation and a second-line option for painful bone metastases.
+
+Abstract:BACKGROUND
+This article represents a review about the use of image-guided cryotherapy in the treatment of musculoskeletal tumor lesions. Cryotherapy is able to induce a lethal effect on cancer cells through direct and indirect mechanisms. In this manuscript, we combined our experience with that of other authors who have published on this topic in order to provide indications on when to use cryotherapy in musculoskeletal oncology.
+
+DISCUSSION
+Image-Guided percutaneous cryotherapy is a therapeutic method now widely accepted in the treatment of patients with musculoskeletal tumors. It can be used both for palliative treatments of metastatic bone lesions and for the curative treatment of benign bone tumors such as osteoid osteoma or osteoblastoma. In the treatment of bone metastases, cryotherapy plays a major role in alleviating or resolving disease-related pain but it has also been demonstrated that it can have a role in local disease control. In recent years, the use of cryotherapy have also expanded for the treatment of both benign and malignant soft tissue tumors.
+
+CONCLUSION
+Percutaneous cryotherapy can be considered a safe and effective technique in the treatment of benign and malignant musculoskeletal tumors. Cryotherapy can be considered the first option in benign tumor lesions such as osteoid osteoma and a valid alternative to radiofrequency ablation. In the treatment of painful bone metastases, it must be considered secondarily to other standard treatments (radiotherapy, bisphosphonate therapy and chemotherapy) where they are no longer effective in controlling the disease or when they cannot be repeated (for example radiotherapy).
+
+The effect of cryotherapy on pain in patients with total knee replacement surgery: a meta-analysis.
+
+Number of 
+
+Key takeaways:Cryotherapy significantly reduces pain in patients undergoing total knee replacement surgery by 2.9 times compared to those not undergoing cryotherapy.
+
+Abstract:Cryotherapy is used to reduce edema and pain after total knee replacement surgery. This study was conducted as a meta-analysis study to determine the effect of cryotherapy on pain in patients undergoing total knee arthroplasty. The words 'total knee prosthesis,' 'pain,' 'cryotherapy,' 'cold application,' and 'orthopedic surgery' were searched in Turkish and English in scientific articles in the last 20 years from Scopus, Science Direct, Google Scholar, Pubmed databases. As a result of the research, a total of 8.406 studies were identified. Funnel Plot, Rosenthal's Secure N, and Orwin's Secure N methods were used to demonstrate that the meta-analysis study was reliable and valid and to determine publication bias. The sample size of the studies included in the analysis was 1462. The total effect size was 2.929, with a lower bound of 1.641 and an upper bound of 5.223 at a 95% confidence interval. The study determined that patients who underwent cryotherapy in total knee replacement surgery had 2.9 times less pain than patients who did not undergo cryotherapy.
+
+Cryotherapy efficacy and safety as local therapy in surgical treatment of musculoskeletal tumours. A retrospective case series of 143 patients.
+
+Number of 
+
+Key takeaways:Cryotherapy is a safe and effective technique for treating various musculoskeletal tumors as an adjuvant and palliative therapy, particularly in open surgery.
+
+Abstract:Cryotherapy, also called Cryoablation (CA), is a technique that provides a local treatment to various pathological conditions. In Musculoskeletal tumours management, Cryoablation is well accepted and validated as a treatment in palliative cures for metastatic patients. Recently, CA has been proposed also as an alternative to radiofrequency ablation in osteoid osteoma and other benign tumour treatment with promising results. Cryotherapy with argon ice-balls as local adjuvant in open surgery is a tool that can provide enlargement of surgical margins if used properly. There is still not enough evidence supporting use of cryotherapy as local adjuvant in Musculoskeletal open surgery as the series cited above are very small and there is no comparative RCT between local adjuvant therapies including CA. One-hundred-and-eighty-three patients were treated with Cryoablation from 2000 and 2018 in the Musculoskeletal Tumours Surgery Unit of Careggi (Florence) and the University 2nd Clinic of Pisa. In our study group, 38 patients (26.6%) were affected by bone metastasis, 16 patients (11.1%) by aneurismal bone cysts or angiomas, 22 patients (15.4%) by low-grade malignant musculoskeletal tumours, 2 patients (1,4%) by fibromatosis, 63 patients (44.1%) by benign musculoskeletal tumours (principally Giant Cell Tumours-GCT) and 2 patients (1.4%) by Osteosarcomas. In 125 cases (87.4%), CA has been used as an adjuvant therapy, in 12 cases (8.4%) as a percutaneous ablation therapy and in 6 cases (4.2%) as adjuvant to remove tumoral lesions 'en bloc' or as a 'poor technique' for its sterilizing effect on previously resected bones. Mean follow-up was 10 years. Twenty-three patients (16%) were classified as Alive with Disease (AWD) due to local recurrence or tumour progression (14 metastases, 5 low-grade malignant bone tumours, 4 Giant Cell Tumours). Eight patients died due to the disease (6 metastases, 2 osteosarcomas), while 1 died from leukaemia. One-hundred-and-eleven patients (78%) were classified as Continues Disease Free (CDF). All patients reported decrease in pain-related symptoms after surgery and all surgeons reported better control of blood loss. Three cases (2%) of local skin necrosis or wound dehiscence were reported. No local recurrences were reported after fibromatosis ablation. Our results confirm that CA could be considered as a safe and effective technique to treat various conditions as adjuvant and palliative therapy. In particular, in open surgery, cryotherapy as an adjuvant treatment could lead to very low rates of recurrence in locally aggressive tumours like Giant Cell Tumours. These results could be generalized but a better understanding about indications and outcomes can be reached studying CA in specific populations with comparation to other adjuvant techniques.
+
+Cryotherapy: A New Paradigm of Treatment in Endodontics.
+
+Number of 
+
+Key takeaways:Cryotherapy is a simple and inexpensive method for minimizing postoperative pain in endodontics, controlling pulpal hemorrhage, and controlling postsurgical swelling and pain after endodontic surgery.
+
+Efficacy of cryotherapy in the prevention of chemotherapy-induced peripheral neuropathy: A systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:Cryotherapy effectively prevents chemotherapy-induced peripheral neuropathy and improves quality of life for patients undergoing chemotherapy.
+
+Abstract:PurposeThe study investigates cryotherapy's efficacy in mitigating Chemotherapy-induced peripheral neuropathy (CIPN), an adverse effect of chemotherapy that often leads to dosage reduction or treatment discontinuation.MethodThe study was registered with PROSPERO (CRD42023428936). A literature search was conducted using the PubMed, Embase, and Cochrane Library databases. Randomized and nonrandomized controlled trials that investigated the effects of cryotherapy on CIPN were included for systematic review and meta-analysis. The primary outcome for prevention was the incidence of CIPN.ResultsWe identified 17 trials involving 2,851 patients. In total, 11 trials compared the incidence of CIPN between cryotherapy and control groups. Significant differences in the incidence of CIPN at the midpoint and end of chemotherapy were observed, with risk ratios (RRs) of 0.23 (95% confidence interval  = 0.13 to 0.43) and 0.54 (95% CI = 0.33 to 0.88), respectively. Cryotherapy also significantly reduced the incidence of sensory CIPN, with an RR of 0.67 (95% CI = 0.49 to 0.92). Additionally, cryotherapy demonstrated a significant reduction in the incidence of CIPN in patients with gynecological cancers (RR = 0.24, 95% CI = 0.14 to 0.41). Significantly favorable global quality of life scores following chemotherapy (standardized mean difference = 1.43; 95% CI = 0.50 to 2.36) and relieved neuropathic symptoms were found with cryotherapy.ConclusionsCryotherapy demonstrates a pronounced preventive effect against the development of CIPN, providing substantial symptomatic relief and quality of life improvements for patients undergoing chemotherapy. The administration of cryotherapy through the use of frozen gloves and socks, or continuous-flow cooling systems, optimally initiated 15 min prior to and concluded 15 min following chemotherapy, is recommended for achieving maximum therapeutic efficacy.Graphical Abstract
+
+Cryotherapy with carbon dioxide hydrate enhances immediate recovery of muscle function from neuromuscular fatigue
+
+Number of 
+
+Key takeaways:Cryotherapy with carbon dioxide hydrate promotes greater immediate recovery of muscle power from neuromuscular fatigue compared to ice or passive rest.
+
+Abstract:ABSTRACT This study investigated the effect of cryotherapy with carbon dioxide hydrate (CDH) on fatigue recovery of neuromuscular function and muscle blood circulation. Fourteen young males randomly received three types of 20-min recovery interventions (cryotherapy with CDH or normal ice , or quiet sitting at room temperature ) 5 min following a fatiguing task (50 maximal effort isotonic contractions) on three separate days. The isotonic peak power of the knee extensors at 35 min after the fatiguing task in the CDH-condition (95% of baseline) was greater than that in the other conditions (82–89% of baseline; p ≤ 0.031). In addition, at 25 and 35 min after the fatiguing task, the changes in haemoglobin concentration of the knee extensors from before the fatiguing task in the CON-condition (2.5 and 3.0 μmol/L) were different from those in the ICE-condition (−1.4 and −1.3 μmol/L; p ≤ 0.004) but comparable to those in the CDH-condition (1.1 and 0.7 μmol/L; p ≥ 0.060), respectively. These findings suggest that cryotherapy with CDH did not lower the blood volume following the intervention, unlike that with normal ice, and promoted greater immediate recovery of muscle power from neuromuscular fatigue compared with cryotherapy with ice or passive rest.
+
+Combination of whole body cryotherapy with static stretching exercises reduces fatigue and improves functioning of the autonomic nervous system in Chronic Fatigue Syndrome
+
+Number of 
+
+Key takeaways:Cryotherapy combined with static stretching exercises significantly reduces fatigue and improves cognitive functioning in those with Chronic Fatigue Syndrome.
+
+Abstract:Abstract Background The aim of this study was to explore the tolerability and effect of static stretching (SS) and whole body cryotherapy (WBC) upon fatigue, daytime sleepiness, cognitive functioning and objective and subjective autonomic nervous system functioning in those with Chronic Fatigue Syndrome (CFS) compared to a control population. Methods Thirty-two CFS and eighteen healthy controls (HC) participated in 2 weeks of a SS + WBC programme. This programme was composed of five sessions per week, 10 sessions in total. Results A significant decrease in fatigue was noted in the CFS group in response to SS + WBC. Some domains of cognitive functioning (speed of processing visual information and set-shifting) also improved in response to SS + WBC in both CFS and HC groups. Our study has confirmed that WBC is well tolerated by those with CFS and leads to symptomatic improvements associated with changes in cardiovascular and autonomic function. Conclusions Given the preliminary data showing the beneficial effect of cryotherapy, its relative ease of application, good tolerability, and proven safety, therapy with cold exposure appears to be an approach worth attention. Further studies of cryotherapy as a potential treatment in CFS is important in the light of the lack of effective therapeutic options for these common and often disabling symptoms.
+
+Effects of whole-body cryotherapy and static stretching are maintained 4 weeks after treatment in most patients with chronic fatigue syndrome.
+
+Number of 
+
+Key takeaways:Whole-body cryotherapy and static stretching can maintain symptom improvements in chronic fatigue syndrome patients, with some improvements observed up to four weeks post-treatment.
+
+Adaptive changes in muscle activity after cryotherapy treatment: Potential mechanism for improvement the functional state in patients with multiple sclerosis
+
+Number of 
+
+Key takeaways:A series of 20 whole body cryotherapy treatments improves functional state and reduces fatigue in multiple sclerosis patients, potentially due to adaptive changes in bioelectrical muscle activity.
+
+Abstract:BACKGROUND: The available literature lacks data about the influence of whole body cryotherapy (WBC) on muscle activity in patients with sclerosis multiplex (MS). OBJECTIVE: Assessment of the influence of the 20 WBC series on the surface electromyography (sEMG) signal and the relationship between it and the functional state in patients with MS. METHODS: The study group was 114 of MS patients (aged 45.24±11.88yr.,) which 74 of them received 20 of WBC. An assessment was made of: the hand grip (HGS), Timed 25-Foot Walk, Fatigue Severity Scale, sEMG signal from the dominant limb. RESULTS: After a series of 20 WBC: in the rest electromyograms, an increase of extensor carpi radialis (ECR) and a decrease of flexor carpi radialis (FCR) amplitude were demonstrated (non-normalized signal ECR p = 0.0001); significant differences in sEMG rest signals between ECR and FCR have decreased; for voluntary contraction in both assessed antagonistic muscle amplitude was significantly decreased (p = 0.0005; p = 0.0316, p = 0.0185); an increase of HGS (p < 0.001); gait improvement (p = 0.001); decrease fatigue (p = 0.024). No significant changes were observed in the control group. CONCLUSIONS: Series of 20 WBC improves the functional state and reduces fatigue in patients with MS, which may be due to adaptive changes in bioelectrical muscle activity.
+
+Cryotherapy and self-reported fatigue in individuals with multiple sclerosis: A systematic review
+
+Number of 
+
+Key takeaways:Cryotherapy may provide some benefit in decreasing self-reported fatigue in individuals with multiple sclerosis.
+
+Abstract:Abstract Background: Multiple Sclerosis (MS) is a degenerative neurological condition leading to central nervous system demyelination. Research shows that cryotherapy may increase function and decrease the symptoms of MS. Objective: To evaluate the effects of cooling interventions compared to placebo/sham or no treatment on self-reported fatigue in individuals with MS. Methods: The 
+
+Effects of contemporary cryo-compression on post-training performance in elite academy footballers
+
+Number of 
+
+Key takeaways:Cryotherapy (Game Ready®) after a fatiguing training session significantly reduces countermovement jump performance in elite male footballers, but not for passive recovery, but may affect muscle flexibility.
+
+Abstract:Fatigue is a predisposing risk factor for injury commonly investigated in elite football populations. Little evidence advocates the most beneficial recovery strategies including contemporary cooling applications. The aim of the study was to examine immediate effects of the Game Ready® on physiological and biomechanical measures in a population of elite male academy footballers, following a fatiguing training session mid-competitive season. Twenty, elite male footballers took part (180.2 ± 8.7cm, 75.0 ± 11.4kg, 18 ± 0.5years). Following a normal fatiguing training session, players were randomly assigned to receive either cryotherapy (Game Ready®) (20-minutes at medium compression (5–55 mm Hg)) or passive recovery (PAS). Data was collected at match-day+1, immediately post-training and immediately post-intervention. Performance measures included countermovement jump (CMJ), isometric adductor strength (IAS), hamstring flexibility (HF), and skin surface temperature (Tsk). Significant main effects for group for CMJ data following exposure to cooling were displayed (p = < 0.05). Individual group analysis displayed a significant reduction in CMJ performance in the group exposed to cryotherapy (p = < 0.05) immediately post, but not for PAS. No main effects were identified for cryotherapy or PAS group for IAS or HF (p = > 0.05). Tsk reduced significantly (p = < 0.05) in the cryotherapy group, meeting therapeutic Tsk range. Reductions in performance immediately following exposure to pneumatic cryo-compressive devices may negate the justification of this recovery strategy if neuromuscular mechanisms are required in immediate short term. Application of such recovery strategies however are dependent on the type of recovery demand and should be adapted individually to suit the needs of the athlete to optimise readiness to train/play.
+
+Comparison of the Effects of Massage and Cryotherapy on the Knee Extensor Muscles Fatigue and Isokinetic Parameters in Soccer Players
+
+Number of 
+
+Key takeaways:Massage and cryotherapy both increase isokinetic parameters and decrease perceived fatigue, making them more effective than rest for returning to normal state in athletes.
+
+Abstract:Background: Fatigue can cause a significant effect on the mechanics of complex motor skills and reduce physical and mental efficiency. One of the common ways to reduce fatigue is passive recovering or using massage and cryotherapy after exercise. The present study aimed to compare the effects of massage and cryotherapy on muscles fatigue and isokinetic parameters. Methods: This study was conducted on54 healthy athletes aged 20-30 years who were randomly divided into three groups: cooling (ice therapy), massage, and control (resting). Each of the volunteers was evaluated in two sessions. The first session was to familiarize the participants with isokinetic contraction. The second session started with a brief warm up subsequently, using Biodex Isokinetic System Average Peak Torque (APTQ), Average Power (AP), and Total Work (TW) were measured. Then, the fatigue protocol was applied. Afterwards, interventions were performed for 15 minutes. After the intervention, isokinetic parameters were evaluated again. Also, perceived fatigue and Fatigue Index (FI) were recorded before and after the intervention. Results: APTQ, AP, and TW significantlyincreased in massage and cryotherapy groupsafter the intervention, while perceived fatigue and FI decreased significantly in both conditions (P 0.05), but perceived fatigue and FI decreased significantly (P 0.05). Conclusion: Massage and cryotherapy could increase isokinetic parameters and decrease FI and perceived fatigue. Therefore, massage and cryotherapy have been more effective than rest as a strategy to return to normal state and no significant difference was observed between these two groups.
+
+Effect of Novel Cryotherapy Method on Frequency Spectrum of Lower Limb Muscles during Running and Walking
+
+Number of 
+
+Key takeaways:Using cryotherapy after fatigue may improve muscle function during different activities, such as walking and running.
+
+Abstract:Cryotherapy is one of the important factors in changing muscular function. The purpose of the present study was to investigate the effect of using novel cryotherapy method on frequency spectrum of lower limb muscles during running and walking before and after muscular fatigue.This study was quasi-experimental. Ten male novice soccer players volunteered to participate in this study. A wireless electromyography system with 8 pairs of surface electrodes was used to record the electromyography activity before and after muscular fatigue in temperature of 8 and 11 o C during walking and running.  During walking, frequency spectrum of rectus femoris muscle after fatigue at 11 ° C was greater than before fatigue by 16.43% (p=0.047). Frequency spectrum of semi-tendentious muscle after fatigue at 11 ° C was higher than before fatigue by 38.11% (p=0.044). In addition, frequency spectrum of rectus femoris muscle after fatigue at 8 ° C was higher than before fatigue during running by 28.56% (p=0.031).Cryotherapy increased the frequency spectrum at 11 ° C in the semi-tendentious and rectus femoris muscles during walking and increased the frequency spectrum at 8 ° C in the rectus femoris muscle during running. It seems that using cryotherapy after fatigue may improve muscle function during different activities
+
+Effect of whole body cryotherapy interventions on health-related quality of life in fibromyalgia patients: A randomized controlled trial.
+
+Number of 
+
+Key takeaways:Whole body cryotherapy significantly improves health-related quality of life in fibromyalgia patients, with effects lasting at least one month after treatment.
+
+Direct Effect of Local Cryotherapy on Muscle Stimulation, Pain and Strength in Male Office Workers with Lateral Epicondylitis, Non-Randomized Clinical Trial Study
+
+Number of 
+
+Key takeaways:Local cryotherapy reduces pain, increases muscle strength and excitation, and delays muscle fatigue in male office workers with lateral epicondylitis.
+
+Abstract:Background: Local cryotherapy (LC) is one of the physiotherapeutic methods used in the conservative treatment of lateral epicondylitis (LE). The aim of the study was to verify the direct effect of a single LC procedure on the clinical symptoms of lateral epicondylitis enthesopathy (pain, pain free grip, PFG) and its effect on the bioelectrical properties of the wrist extensor muscles at rest, on maximal contraction and isometric contraction during fatigue. Methods: The study group was 28 men (35.4 ± 6.13 years) with confirmed unilateral epicondylitis. The performed procedures included the assessment of pain (visual analogue scale, VAS), PFG and ARMS (root-mean-square amplitude) and mean frequencies (MNF) of the sEMG signal before (T0) and after (T1) LC on the side with enthesopathy (ECRE) and without enthesopathy (ECRN/E). Results: There was an increase in the ARMS values of the signals recorded during rest and MVC from the ECR muscles both with and without enthesopathy (p = 0.0001, p = 0.006), an increased PFG after LC only on the side with LE (p < 0.0001) and decreased pain (p < 0.0001). During isometric fatigue contraction, a higher ARMS on both the ECRE side (p < 0.0001) and the ECRN/E side (p < 0.0001) was observed after LC treatment, and a lower MNF was observed on both the ECRN/E side (p < 0.0001) and the ECRE side (p < 0.0001) after LC. Conclusions: LC reduces the pain and increases PFG and muscle excitation expressed by ARMS and seems to delay muscle fatigue.
+
+Acute cold stress induces transient MuRF1 upregulation in the skeletal muscle of zebrafish.
+
+Number of 
+
+Key takeaways:Acute cold exposure in zebrafish skeletal muscle transiently upregulates MuRF1 protein, potentially contributing to the treatment of trauma or fatigue by promoting protein processing.
+
+Recovery following a marathon: a comparison of cold water immersion, whole body cryotherapy and a placebo control
+
+Number of 
+
+Key takeaways:Whole body cryotherapy has a negative impact on muscle function and perceptions of soreness after a marathon, while cryotherapy is no more effective than a placebo for improving functional recovery or perceptions of training stress.
+
+Abstract:PurposeCryotherapy is an increasingly popular recovery strategy used in an attempt to attenuate the negative impact of strenuous physical activity on subsequent exercise. Therefore, this study aimed to assess the effects of whole body cryotherapy (WBC) and cold water immersion (CWI) on markers of recovery following a marathon.MethodsThirty-one endurance trained males completed a marathon. Participants were randomly assigned to a CWI, WBC or placebo group. Perceptions of muscle soreness, training stress and markers of muscle function were recorded before the marathon and at 24 and 48 h post exercise. Blood samples were taken at baseline, post intervention and 24 and 48 h post intervention to assess inflammation and muscle damage.ResultsWBC had a harmful effect on muscle function compared to CWI post marathon. WBC positively influenced perceptions of training stress compared to CWI. With the exception of C-reactive protein (CRP) at 24 and 48 h, neither cryotherapy intervention positively influenced blood borne markers of inflammation or structural damage compared to placebo.ConclusionThe findings show WBC has a negative impact on muscle function, perceptions of soreness and a number of blood parameters compared to CWI, contradicting the suggestion that WBC may be a superior recovery strategy. Further, cryotherapy is no more effective than a placebo intervention at improving functional recovery or perceptions of training stress following a marathon. These findings lend further evidence to suggest that treatment belief and the placebo effect may be largely responsible for the beneficial effects of cryotherapy on recovery following a marathon.
+
+Effects of Whole-Body Cryotherapy in Comparison with Other Physical Modalities Used with Kinesitherapy in Rheumatoid Arthritis
+
+Number of 
+
+Key takeaways:Whole-body cryotherapy and traditional rehabilitation both improve pain, disease activity, fatigue, and walking time in rheumatoid arthritis patients, but only traditional rehabilitation shows better HAQ results.
+
+Abstract:Whole-body cryotherapy (WBC) has been frequently used to supplement the rehabilitation of patients with rheumatoid arthritis (RA). The aim of this study was to compare the effect of WBC and traditional rehabilitation (TR) on clinical parameters and systemic levels of IL-6, TNF-α in patients with RA. The study group comprised 25 patients who were subjected to WBC (−110°C) and 19 patients who underwent a traditional rehabilitation program. Some clinical variables and levels of interleukin-6 (IL-6) and tumor necrosis factor-α (TNF-α) were used to assess the outcomes. After therapy both groups exhibited similar improvement in pain, disease activity, fatigue, time of walking, and the number of steps over a distance of 50 m. Only significantly better results were observed in HAQ in TR group (p < 0.05). However, similar significant reduction in IL-6 and TNF-α level was observed. The results showed positive effects of a 2-week rehabilitation program for patients with RA regardless of the kind of the applied physical procedure.
+
+The Effect of Cryotherapy on Balance Recovery at Different Moments after Lower Extremity Muscle Fatigue
+
+Number of 
+
+Key takeaways:Cryotherapy improves dynamic balance recovery after lower extremity muscle fatigue, but has no positive effect on static balance recovery.
+
+Abstract:The purpose of this study was to investigate the influence of cryotherapy on the balance ability after lower extremity muscle fatigue. Twelve table tennis players were selected in this research. The static and dynamic balance abilities of the participants at six different moments were collected by a 1000 HZ Kistler force platform and Y balance test system. SPSS19.0 software was used to analyze the results of experimental indicators by selecting two-factor repeated measurement ANOVA. 1) From the moment of 24 h post intervention, the effect of cryotherapy on dynamic balance recovery was significantly better than no cryotherapy. 2) Except for the COP (Center of Pressure) maximum displacement on ML (Medium-Lateral axis) at the moment of 72 h post intervention, the cryotherapy had no positive effect on the recovery of static balance ability. 3) Cryotherapy has a significant negative impact on the COP maximum displacement in ML and AP (Antero-Posterior axis) at the moment of post cryotherapy, which may lead to the decline of static balance ability. It was not recommended to use cryotherapy for balance recovery if the competition was on the same day or within 24 h. However, the cryotherapy was recommended to use if the competition was in the next day or after the next day.
+
+Effects of Cryotherapy Time on Skin Temperature and Joint Position Sense after Exercise-Induced Muscle Fatigue of Knee Joint
+
+Number of 
+
+Key takeaways:Cryotherapy for less than 10 minutes is appropriate to prevent muscle fatigue in sporting events, as it reduces skin temperature and joint position sense.
+
+Abstract:The purpose of this study was to investigate the effect of cryotherapy time on the skin temperature and joint position sense after exercise-induced muscle fatigue of Knee Joint in 20 healthy male adults. The subjects of this study (n=20) participated in three trials, which included an non-cryotherapy, a 5-minute cryotherapy, and a 10-minute cryotherapy. Statistical analysis showed that the temperature of the thigh skin was 32. 54 ± 0 . 87 ℃ in the non-cryotherapy and the absolute error was 13.05 ± 2.98 ° in the knee joint position sense. The skin temperature of the thigh skin was 26.88 ± 2.29 ℃, which was significantly lower than that of the non-cryotherapy. The absolute error of the knee joint position sense was 9.70 ± 2.11 °,which was significantly lower than that of the non-cryotherapy and 10-minute cryotherapy. On the other hand, the skin temperature of the thigh skin was 22.01 ± 1.57 ℃ for 10-minute cryotherapy, and it was significantly lower than the non-cryotherapy and 5-minute cryotherapy. The absolute error of the knee joint position sense was 12.20 ± 3.14 °, which was significantly higher than that of 5-minute cryotherapy. Therefore, it is considered appropriate to apply cryotherapy less than 10 minutes in order to prevent muscle fatigue in sporting events.
+
+Effects of Cryotherapy Time on Skin Temperature and Joint Position Sense after Exercise-Induced Muscle Fatigue of Shoulder Joint in University Baseball Players
+
+Number of 
+
+Key takeaways:Cryotherapy should be applied for less than 10 minutes to prevent a decrease in joint position sense in athletes.
+
+Abstract:The purpose of this study was to investigate the effect of cryotherapy time on the skin temperature and joint position sense after exercise-induced muscle fatigue of Shoulder Joint in 20 university baseball players. The subjects of this study (n=20) participated in three trials, which included an non-cryotherapy, a 5 minutes cryotherapy, and a 10 minutes cryotherapy. Statistical analysis showed that the temperature of the shoulder skin was 34.32 ± 2.53 ℃ in the non-cryotherapy and the absolute error was 10.95 ± 2.65° in the shoulder joint position sense. In the case of 5 minutes cryotherapy, the skin temperature of the shoulder skin was 20.74±2.37 ℃, which was significantly lower than that of non-cryotherapy. The absolute error of the knee joint position sense was 8.50 ± 1.00°, which was significantly lower than that of the non-cryotherapy and 10-minute cryotherapy. On the other hand, the skin temperature of the shoulder skin was 16.11. ± 1.94 ℃ for 10-minute cryotherapy, and it was significantly lower than the non-cryotherapy and 5 minutes cryotherapy. The absolute error of the shoulder joint position sense was 10.05 ± 1.90°, which was significantly higher than that of 5-minute cryotherapy. Therefore, it is considered appropriate to apply cryotherapy less than 10 minutes in order to prevent a decrease in the sense of joint position in sporting events.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

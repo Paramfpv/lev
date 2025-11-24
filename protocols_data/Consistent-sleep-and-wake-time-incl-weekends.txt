@@ -1,0 +1,670 @@
+PROTOCOL: Consistent sleep and wake time (incl. weekends)
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: 
+DESCRIPTION: Regular sleep and wake times are one of the most effective and simplest interventions to support mental health, overall well-being, and body recovery. Maintaining a consistent circadian rhythm improves sleep quality, reduces the risk of depression, anxiety, and mood disorders, and supports repair processes in the body and brain. This strategy is effective across all age groups – including children, adolescents, adults, and the elderly.
+
+CONTENT SECTIONS:
+
+Consistent sleep and wake time (incl. weekends)
+
+Better sleep quality, mental health, and recovery through a regular circadian rhythm
+
+Regular sleep and wake times are one of the most effective and simplest interventions to support mental health, overall well-being, and body recovery. Maintaining a consistent circadian rhythm improves sleep quality, reduces the risk of depression, anxiety, and mood disorders, and supports repair processes in the body and brain. This strategy is effective across all age groups – including children, adolescents, adults, and the elderly.
+
+Level of evidence:Strong
+
+Level of risk:Negligible
+
+Regular sleep hours synchronize the internal biological clock, or circadian rhythm, which affects proper hormone secretion, metabolism, and nervous system functioning. Fixed sleep and wake times optimize repair processes, improve emotional regulation, and support memory. Sleep regularity reduces so-called social jetlag and protects against mood disorders, while improving overall sleep efficiency and tissue recovery.
+
+Level of risk:Negligible
+
+Maintaining regular sleep and wake times is a natural and safe intervention for most people. It is not associated with significant side effects, and any undesirable effects are usually limited to transient discomfort during habit adjustment.
+
+Maintaining regular sleep and wake times is not recommended only in selected clinical cases or situations requiring flexibility in the circadian rhythm. In such cases, medical consultation is advised.
+
+Fixed sleep and wake times, ideally with no more than a 30–60 minute difference throughout the week
+
+Sleep hygiene, structured daily schedule, evening routine
+
+First positive effects visible within a few days to two weeks of consistent practice
+
+Consistent sleep and wake times, ideally aligned with natural circadian rhythm (e.g., sleeping between 10:00 PM and 12:00 AM, waking between 6:00 AM and 8:00 AM)
+
+Physical activity during the day, limited evening caffeine, regular exposure to daylight
+
+Irregular lifestyle, frequent time zone changes, shift work
+
+Set fixed sleep and wake times
+
+Even on weekends and days off, try to go to bed and wake up at the same time – allow a maximum difference of 30–60 minutes.
+
+Establish an evening routine
+
+Create a nightly routine before sleep (e.g., warm shower, reading, calming activities) to signal your body it’s time to rest.
+
+Ensure exposure to natural light
+
+Spend time in daylight during the day – it helps regulate your biological clock. In the evening, reduce blue light exposure (screens).
+
+Avoid naps after 4:00 PM
+
+Long or late naps may disrupt your circadian rhythm and make it harder to fall asleep.
+
+Plan an evening free of caffeine and alcohol
+
+Have your last coffee no later than 6 hours before bedtime, and limit or avoid alcohol in the evening.
+
+Track your sleep and wake times for a few weeks to observe effects and better establish a routine.
+
+Introduce changes gradually
+
+Shift your sleep and wake times by 15–30 minutes every few days if your previous rhythm was very irregular.
+
+Sleep regularity, meaning maintaining consistent sleep and wake times, has a clearly positive impact on sleep quality, mental health, and overall well-being. For adults, children, and the elderly alike, regular sleep reduces the risk of health issues and improves mood and academic performance.
+
+Sleep quality and health
+
+Impact on mood and mental health
+
+Examples of effects of sleep regularity
+
+Regular sleep and wake times are crucial for mental health. A fixed sleep schedule improves mood, reduces the risk of depression, anxiety, and insomnia, and supports overall psychological well-being.
+
+Sleep regularity and mental health
+
+Impact of sleep quality and regularity on well-being
+
+Sleep regularity and symptoms of depression and anxiety – sample effects
+
+Fatigue and regeneration
+
+Regular sleep and wake times are key to body recovery at the cellular, hormonal, and functional levels. Maintaining a steady circadian rhythm supports repair processes and efficient regeneration of tissues, muscles, and cognitive functions.
+
+Regeneration mechanisms and sleep regularity
+
+Impact of variability in sleep and wake times
+
+Summary of effects of sleep regularity on recovery
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:55
+
+Final comment:The impact of consistent sleep and wake times on mental health, body recovery, and sleep quality has been confirmed by numerous high-quality scientific studies, including meta-analyses, systematic reviews, and randomized controlled trials. These studies consistently show a clear relationship between regular sleep patterns and improved sleep quality, mental health, mood, and reduced risk of depression, anxiety, and other disorders. Furthermore, circadian rhythm regularity supports regenerative processes at the cellular and hormonal levels. The studies cover various age groups and populations, with effects observed both in prevention and in the support of treatment for disorders. Based on this, sleep regularity is classified as an intervention with the highest level of scientific evidence.
+
+Sleep timing, sleep consistency, and health in adults: a systematic review.
+
+Number of 
+
+Key takeaways:Early sleep timing and regular sleep patterns with consistent bedtimes and wake-up times are positively associated with health in adults.
+
+Abstract:The objective of this systematic review was to examine the associations between sleep timing (e.g., bedtime/wake-up time, midpoint of sleep), sleep consistency/regularity (e.g., intra-individual variability in sleep duration, social jetlag, catch-up sleep), and health outcomes in adults aged 18 years and older. Four electronic databases were searched in December 2018 for articles 
+
+Bedtime routines in early childhood: prevalence, consistency, and associations with nighttime sleep.
+
+Number of 
+
+Key takeaways:Regular bedtime routines in early childhood are associated with increased nightly sleep minutes and better sleep regulation, particularly for children of mothers who use consistent parenting practices during the day.
+
+Abstract:The ability to transition from wakefulness to sleep is one of the most important tasks in the development of sleep during early childhood. Although establishing regular bedtime routines for children with sleep problems can be clinically effective in reducing the number of signaled night awakenings and increasing amount of sleep, it is unclear whether a regular bedtime routine would be associated with either the frequency of signaled night awakenings or nightly sleep minutes in a nonclinical sample of children. This study examined the role of a regular bedtime routine on the development of sleep regulation and consolidation in a community sample of young children. Adherence to a bedtime routine was concurrently associated with a greater amount of nightly sleep at 36 and 42 months. In addition, adherence to a bedtime routine predicted an increase in nightly sleep minutes over a 6-month period. Finally, this study demonstrated that adherence to a bedtime routine was particularly supportive of developmental gains for children of mothers who used consistent parenting practices during the day.
+
+Sleep physiology, pathophysiology, and sleep hygiene.
+
+Number of 
+
+Key takeaways:Proper sleep hygiene, including achieving 7 to 9 hours of sleep, maintaining a consistent schedule, regular exercise, and avoiding caffeine, alcohol, heavy meals, and light exposure, can improve sleep quality and overall health.
+
+Factors associated with consistent bedtime routines and good sleep outcomes
+
+Number of 
+
+Key takeaways:Consistent bedtime routines improve sleep quality in children by reducing bedtime anxiety and increasing compliance near bedtime.
+
+Abstract:ABSTRACT Bedtime routines have “strong” support for addressing bedtime behavior problems and sleep; however, little research has examined factors associated with bedtime routines and sleep quality. Parents of 155 children ages 3 to 5 were surveyed about their children’s bedtime routines, bedtime anxiety, compliance, and sleep quality. Regression models supported a simple indirect effect of bedtime routine consistency on sleep quality through bedtime anxiety, but not through compliance at bedtime. In a serial model, consistent bedtime routines were related to sleep quality through first bedtime anxiety and then compliance near bedtime. Clinically, results suggest that if parents can alleviate child anxiety around bedtime through routines, compliance around bedtime, and a good night sleep may follow.
+
+Sleep timing, chronotype and social jetlag: Impact on cognitive abilities and psychiatric disorders.
+
+Number of 
+
+Key takeaways:Social jetlag and circadian disruption can negatively impact cognitive performance and may predispose individuals to depression or inattention.
+
+DAILY EVENING ELECTRONIC MEDIA USE, SEDENTARY BEHAVIORS, AND SLEEP IN LATER LIFE
+
+Number of 
+
+Key takeaways:Evening electronic media use and daytime sedentary behaviors negatively impact sleep quality in older adults, but consistent bedtime hours improve sleep quality regardless of these factors.
+
+Abstract:Abstract Sleep complaints and disorders are two of the most common disturbances to health and well-being in later life. This study examined how evening electronic media use and daytime sedentary behaviors affect subsequent sleep hours and perceived sleep quality, and whether consistent sleep hours (i.e., sleep regularity) moderate these associations. Data were drawn from 241 older adults (Mage = 74.02) from the Daily Experiences and Well-being Study who completed ecological momentary assessments and wore an accelerometer for four days on average. A series of conditional fixed-effects models indicated that older adults reported more sleep disturbances on nights following the evening computer use. Sedentary behaviors and evening television viewing were not associated with sleep quantity and quality. Older adults with more consistent hours of bedtime reported better sleep quality regardless of their evening electronic media use and daytime sedentary behaviors, thereby highlighting the importance of sleep regularity in later life.
+
+0174 Patterns of sleep habits and their impact on nighttime sleep quality in college students
+
+Number of 
+
+Key takeaways:College students with extremely late bedtimes and inconsistent sleep duration between schooldays and weekends experience the worst sleep quality, highlighting the need for targeted interventions.
+
+Abstract:Poor sleep quality is common in college student. Unhealthy sleep habits (e.g., delayed bedtime, inconsistent sleep routine between schooldays and weekends) could lead to poor sleep quality, which is associated with poor academic performance, mental and physical health. However, little is known about the patterns of sleep habits in terms of timing and consistency and their impact on nighttime sleep quality in college students.
+ 
+ 
+ 
+ This was a cross-sectional anonymous web-based survey to examine sleep in college students. The Classification and Regression Tree (C&RT) was used to identify distinct patterns based on sleep habits including bedtime and wake-up time (usual, schooldays, and weekends), and consistency of bedtime, wake-up time, and duration between schooldays and weekends. The response variable was nighttime sleep quality measured by the Pittsburgh Sleep Quality Index (PSQI) global score. The imputed PSQI global score was used to minimize missing data.
+ 
+ 
+ 
+ A total of 439 students participated in this survey, with a response rate at 22%. Four distinct clusters were identified. Both Cluster 1 (37.8%) and Cluster 2 (10.9%) included participants who reported a difference in sleep duration between schooldays and weekends < 1.75 hours, with Cluster 1 reporting a usual bedtime before 1:45AM while Cluster 2 after 1:45AM. Both Cluster 3 (3.4%) and Cluster 4 (47.8%) included participants who reported a difference in sleep duration between schooldays and weekends ≥ 1.75 hours, with Cluster 3 reporting school-day wake-up time before 7AM while Cluster 4 after 7AM. Among the four clusters, participants in Cluster 3 (late riser with inconsistent schooldays-weekends duration) had the worst sleep quality (8.95±3.43), followed by Cluster 2 (late sleeper with consistent schooldays-weekends duration, 6.98±2.79) and Cluster 4 (late riser with inconsistent schooldays-weekends duration, 6.83±2.87). Cluster 1 (“early” sleepers with consistent schooldays-weekends duration) had the best sleep quality among all (5.61±2.54).
+ 
+ 
+ 
+ Distinct patterns of sleep timing and consistency can have significant impact on sleep quality, with some habits such as extremely late bedtime and inconsistent sleep duration between schooldays and weekends had the most negative impact. Tailoring interventions targeting these unhealthy sleep habits are needed in promoting sleep in this population.
+ 
+ 
+ 
+ None
+
+Day-to-day variability in sleep parameters and depression risk: a prospective cohort study of training physicians
+
+Number of 
+
+Key takeaways:Increased variability in sleep parameters, along with reduced total sleep time, is associated with increased depressive symptoms in training physicians.
+
+Bedtime regularity predicts positive affect among veterans with posttraumatic stress disorder: an ecological momentary assessment study
+
+Number of 
+
+Key takeaways:Regular bedtime is associated with greater positive affect in veterans with posttraumatic stress disorder, while out-of-bed time variability shows no similar effect.
+
+Abstract:Abstract Background Regularizing bedtime and out-of-bed times is a core component of behavioral treatments for sleep disturbances common among patients with posttraumatic stress disorder (PTSD). Although improvements in subjective sleep complaints often accompany improvements in PTSD symptoms, the underlying mechanism for this relationship remains unclear. Given that night-to-night sleep variability is a predictor of physical and mental well-being, the present study sought to evaluate the effects of bedtime and out-of-bed time variability on daytime affect and explore the optimal window lengths of over which variability is calculated. Methods For about 30 days, male U.S. military veterans with PTSD ( N = 64) in a residential treatment program provided ecological momentary assessment data on their affect and slept on beds equipped with mattress actigraphy. We computed bedtime and out-of-bed time variability indices with varying windows of days. We then constructed multilevel models to account for the nested structure of our data and evaluate the impact of bedtime and out-of-bed time variability on daytime affect. Results More regular bedtime across 6–9 days was associated with greater subsequent positive affect. No similar effects were observed between out-of-bed time variability and affect. Conclusions Multiple facets of sleep have been shown to differently predict daily affect, and bedtime regularity might represent one of such indices associated with positive, but not negative, affect. A better understanding of such differential effects of facets of sleep on affect will help further elucidate the complex and intertwined relationship between sleep and psychopathology. Trial registration The trial retrospectively was registered on the Defense Technical Information Center website: Award # W81XWH-15–2-0005.
+
+Social dimensions impact individual sleep quantity and quality
+
+Number of 
+
+Key takeaways:Societal factors account for 55% of sleep quality variation and 63% of sleep quantity, with increased exercise or daily steps leading to better sleep quality.
+
+1075 The Impact of Operating on the Sleep Consistency of Surgeons: Results from a Pilot Study
+
+Number of 
+
+Key takeaways:Surgeons experience significant changes in wake-up times on operating days, suggesting that they have poor sleep regularity.
+
+Abstract:It is well known that sleep is essential for health, but not as much attention is given towards aspects of sleep like sleep timing or regularity, both of which are important characteristics of sleep quality. In medicine, surgeries may not always be planned. As a result, many surgeons suffer from poor sleep consistency. This study explores surgeons’ sleep habits and compares sleep regularity on operating days to non-operating days.
+ 
+ 
+ 
+ Ten surgeons were recruited from a large midwestern academic center’s Department of Orthopedics. Each surgeon was given an Oura ring for a 14-day period to track their sleep. After the 14-day study period, overall average bedtimes and wake times, and bedtime and wake time regularity were compared for operating and non-operating days. Regularity was calculated by taking the absolute change in bedtime or wake time compared to the previous day. Paired T-tests were used to analyze the data; statistical significance was considered for p-values ≤0.05.
+ 
+ 
+ 
+ Of the 10 surgeons recruited, 7 were residents and 3 were faculty; 4 were female, and 6 were male. Through the 14-day period, a total of 95 (67.9%) of the possible 140 nights were recorded, 41 (43.2%) of which were OR days, and 54 (56.8%) were non-operating days. Average bedtimes (p = 0.185) and regularity (p =0.731) between operating and non-operating days showed no statistically significant difference. However, both average wake-up time (p = 0.024) and regularity (p = 0.006) illustrated statistically significant changes. Furthermore, when comparing the number of days wake-up times changed by more than 1 hour on OR days to non-OR days, a significant difference was appreciated (p = 0.016), while that of bedtime regularity remained insignificant (p = 0.082).
+ 
+ 
+ 
+ The significant changes in wake-up times support the idea that many surgeons have poor sleep regularity. While doctors and research stress the importance of maintaining a robust sleeping schedule to their patients, the structure of our healthcare system complicates surgeon’s ability to maintain regular sleep themselves. Future studies should explore how poor sleep consistency impacts the physiological processes of surgeons and other healthcare workers.
+
+Pathways to adolescents’ health: chronotype, bedtime, sleep quality and mental health
+
+Number of 
+
+Key takeaways:Adolescents' sleep quality and mental health are influenced by chronotype, bedtime, and sleep-related factors, with bedtime playing a partial mediation role.
+
+Abstract:ABSTRACT The strong relationship between sleep and health is defined in the literature. While the need for sleep increases in adolescence with the effect of physiological and hormonal changes, the studies have highlighted the serious sleeping problems of adolescents compared to childhood and adulthood. This study aimed to examine the relationship between chronotype, bedtime, sleep quality and mental health among adolescents. This research was a descriptive-relational study. A total of 1083 students constituted the group of the research. The data were collected through the Morningness-Eveningness Questionnaire (MEQ) and General Health Questionnaire and a questionnaire consisting of some questions about sleep. In the evaluation of data, multiple regression, mediation and path analysis were performed. Age, having problems affecting sleep, difficulties falling asleep, sharing the room with someone else and lack of leisure activities were related to bedtime. It was found that determinants of sleep quality were the variables related to sleep itself. Being a male student, having problems affecting sleep, difficulties falling at sleep, waking up during the night, getting support in the morning for waking up and lack of leisure activities negatively affected mental health. MEQ scale was interpreted as a determinant of sleep time, sleep quality, and mental health level. Although the MEQ score directly affected sleep quality, bedtime had a partial mediation role between MEQ score and sleep quality. Sleep quality had a full mediation role between MEQ score and mental health score. School health workers, especially nurses, should consider chronotype-focused measures to improve adolescents’ sleep quality and psychosocial health.
+
+Bidirectional Associations Between Daily Sleep and Wake Behaviors in Urban American Indian/Alaska Native (AI/AN) Youth.
+
+Number of 
+
+Key takeaways:Urban American Indian/Alaska Native adolescents' sleep and wake behaviors are linked to their mood, with better sleep quality leading to better mood and earlier bedtime and wakeup times promoting physical activity.
+
+0020 Associations between bedtime and waketime variability and sleep outcomes in autistic children
+
+Number of 
+
+Key takeaways:Greater subjective and objective waketime variability are associated with poorer sleep outcomes in autistic children, while bedtime variability may not be related to sleep outcomes.
+
+Abstract:Up to 80% of autistic children experience sleep disturbances. Sleep hygiene guidelines advise patients to maintain consistent bedtimes and waketimes for the purpose of regulating one’s circadian rhythm. However, the relationship between bedtime and waketime variability and sleep outcomes in autistic children is unclear, and so the current study examines these associations.
+ 
+ 
+ 
+ One hundred thirty autistic children (Mage = 8.81 yrs, SD = 1.92 yrs, range = 6-12 yrs, 71% male) completed two weeks of daily sleep diaries with parental assistance and concurrently wore actigraphic wrist watches (Actiwatch-2, Respironics). Rest intervals in Actiware software were set using visual inspection while referencing self-reported bed/waketime. Boundaries of rest intervals were defined as the time when the child first attempted sleep to the time when the child vacated bed. Subjective and objective estimates of bedtime, waketime, total wake time during attempted sleep periods, and total sleep time were obtained. Bayesian multi-level models obtained individual estimates of average variability in bedtime and waketime. Multiple linear regressions were then used to examine associations between subjective and objective bedtime and waketime variability and total wake time and total sleep time, controlling for age and average levels of bed/waketime variability. Models were separated out by subjective/objective sleep outcomes (i.e., subjective waketime variability predicting subjective total sleep time).
+ 
+ 
+ 
+ Greater objective waketime variability was associated with less objective total sleep time (B=-38.80, p<.001, partial eta-squared = .071). Greater subjective waketime variability was associated with longer subjective total wake time (B = 18.58, p=.02, partial eta-squared = .058) and shorter subjective total sleep time (B=-70.60, p<.001, partial eta-squared = 0.227).
+ 
+ 
+ 
+ While results do not possess causal implications, greater subjective and objective waketime variability are associated with poorer sleep outcomes in autistic children. Effect sizes ranged from approximately medium to large. Results suggest that bedtime variability may not be related to sleep outcomes in autistic children. Future studies should examine whether reductions in waketime variability mediate the effect of behavioral insomnia interventions on improved sleep in autistic children.
+ 
+ 
+ 
+ MU Research Board Grant (McCrae, PI); Department of Defense Autism Research Program (McCrae, PI; W81XWH2010399); Thompson Center for Autism and Neurodevelopmental Disorders.
+
+0036 Inconsistent Bedtimes Associated with Unhealthier Body Size in Older Adults
+
+Number of 
+
+Key takeaways:Inconsistent bedtimes in older adults may lead to larger body size, suggesting consistent sleep schedules could promote better health and reduce obstructive sleep apnea rates.
+
+Abstract:A variety of sleep related variables have been shown to impact measures of health, including duration of sleep, consistency of sleep, quality of sleep, and sleep disorders. These can impact respiratory health, metabolic health, immune function, and more. Older adults have been shown to have different sleep schedules, with mostly consistent weeknight and weekend bedtimes and more opportunities to nap. The study investigated which aspects of sleep best predicted body size (averaged standardized body mass index and percent body fat indices).
+ 
+ 
+ 
+ A sample of 304 older adults (55+) participated in surveys and health measures in an urban area in the southeastern United States. Survey data collected were reports of sleep during the last month, including duration at night, nap duration, measures of quality, typical weeknight and weekend bedtime, and reports of possible sleep disorders. Physiological measures, including height, weight, BMI, body fat percentage, blood sugars, blood fats, and fitness tests were conducted. Sleep data were weighted ((5*weeknight+2*weekend)/7) across the week. A hierarchical multiple regression model was run with a standardized average of BMI and body fat percentage with multiple sleep variables as a predictor, controlling for age and socioeconomic status.
+ 
+ 
+ 
+ After controlling for age and socioeconomic status (SES), symptoms of obstructive sleep apnea, night sleep duration, nap duration, difficulty initiating and maintaining sleep, sleep midpoint, duration inconsistencies and midpoint inconsistences were added to the regression. SES and duration inconsistencies were significant predictors, explaining 16% of the variance in body size.
+ 
+ 
+ 
+ Inconsistent bedtimes may be associated with larger body size. Encouraging older adults to have consistent sleep schedules could help preserve health as they age. This may also reduce rates of disorders like obstructive sleep apnea, which are associated with higher BMI, and help promote better overall sleep quality and health. However, these older adults reported fairly consistent sleep midpoint, limiting interpretation of this variable.
+ 
+ 
+ 
+ Psychological Sciences department funding
+
+Association between Chronotype and Sleep Quality among Chinese College Students: The Role of Bedtime Procrastination and Sleep Hygiene Awareness
+
+Number of 
+
+Key takeaways:Evening-type college students experience poorer sleep quality and higher bedtime procrastination, while sleep hygiene awareness can buffer these negative effects and improve sleep hygiene.
+
+Abstract:Chronotype and sleep quality have been shown to play significant roles in influencing people’s physical and mental health. The current study focuses on examining the relationship between chronotype and sleep quality among Chinese college students and exploring the mediating role of bedtime procrastination and the moderating role of sleep hygiene awareness. A sample of 2822 college students (female = 71.4%) aged between 17 and 29 years (M = 19.77, SD = 1.41) were included and completed the measures of the Pittsburgh Sleep Quality Index (PSQI), Morningness–Eveningness Questionnaire (MEQ), Bedtime Procrastination Scale (BPS) and Sleep Hygiene Awareness Scale (SHAS). The results showed that evening-type students reported the lowest sleep quality and highest levels of bedtime procrastination. In contrast, the highest sleep quality and lowest levels of bedtime procrastination were shown by morning-type, exhibiting the neither-type students’ intermediate chronotype. Bedtime procrastination partially mediated the relationship between chronotype and sleep quality. Furthermore, sleep hygiene awareness moderated the direct effect of chronotype on sleep quality and the effect of chronotype in the path from chronotype to bedtime procrastination. Specifically, higher levels of sleep hygiene awareness could buffer the adverse effect of chronotype on self-reported sleep quality but bolstered the negative effect of chronotype on bedtime procrastination. Our results suggest that individuals with an evening preference are inclined to postpone their bedtime and further experience poorer sleep quality at night. Sleep hygiene awareness may serve as a protective factor for poor nocturnal sleep. Overall, the findings highlight the importance of reducing bedtime procrastination and improving sleep hygiene awareness in the interventions designed to help college students to own a better sleep quality, especially for those with evening chronotypes.
+
+Exploring the Role of Circadian Rhythms in Sleep and Recovery: A Review Article
+
+Number of 
+
+Key takeaways:Adhering to circadian rhythms-aligned sleep hygiene, including avoiding large meals, caffeine, and alcohol before bedtime, can improve sleep quality and overall health.
+
+Abstract:Sleep is essential for every living organism. Humans spend about one-third of their lives sleeping. Sleep has been studied extensively, and the role of sleep in psychological, mental, and physical well-being is established to be the best. The rhythm of the brain between wakefulness and sleep is called the circadian rhythm, which is mainly controlled by melatonin and the pineal gland. The imbalance of this rhythm can lead to devastating effects on health. Vigorous workouts close to bedtime can interfere with falling asleep. Meal timing and composition can significantly affect sleep quality. It is advised to avoid large meals, caffeine, and alcohol before bedtime. Heavy meals close to bedtime can lead to poor sleep and hormone disruption. By following these guidelines enumerated in the article, individuals can improve sleep quality and overall health. Sleep cycles, especially rapid eye movement sleep, have a profound influence on mental and physical health. Adhering to recommended sleep practices enhances bodily restoration, fortifies the immune system, and upholds metabolic equilibrium. Sleep hygiene aligned with circadian rhythms is crucial for disease prevention and well-being. Healthcare professionals should prioritize sleep optimization strategies for patient care and public health.
+
+Bedtime negative affect, sleep quality and subjective health in rural China
+
+Number of 
+
+Key takeaways:Bedtime negative affect is a stronger predictor of poorer health than non-bedtime negative affect, and interventions to reduce bedtime negative affect could potentially improve sleep quality and protect against impaired health status.
+
+Abstract:Abstract Background The overall level of negative affect (NeA) has been linked to impaired health. However, whether the diurnal timing of NeA matters and whether the NeA-health relationship is mediated by sleep quality remain unclear. Methods Using a longitudinal dataset (2006, 2009 and 2014 waves) consisting of 1959 participants, we examined the within-person impact of both bedtime NeA and non-bedtime NeA measured by Day Reconstruction Method (DRM) on subjective health measured by Visual Analogue Scale (VAS), and the mediating effect of sleep quality on the NeA-health relationships by fixed effect models. Results Bedtime NeA predicted poorer health, while non-bedtime NeA was unrelated to health. The deleterious impact of bedtime NeA reduced and became non-significant after sleep quality was controlled for. Bedtime NeA also significantly predicted impaired sleep quality. Conclusions Bedtime NeA is a stronger predictor of poorer health than non-bedtime NeA, and the deleterious influence of bedtime NeA on health seems to operate through poor sleep quality. Therefore, interventions to reduce bedtime NeA could potentially improve subsequent sleep quality, thereby protecting people to some extent from impaired health status.
+
+Associations Between Intraindividual Variability in Sleep and Daily Positive Affect
+
+Number of 
+
+Key takeaways:Variations in sleep quality and duration are linked to daily positive affect outcomes, with more variable sleep quality leading to greater fluctuations and higher levels of positive affect.
+
+Abstract:Recent research highlights a variety of negative outcomes associated with intraindividual variability in positive affect (PA) and in sleep. Thus, this study examined the associations of variability in multiple dimensions of sleep (quality, duration, wake after sleep onset, bedtime, rise-time) with mean and variability in PA. For 7 days, morning and evening surveys were collected online from two separate samples: community-based adults (N = 911) and university students (N = 322). Regression analyses revealed that across both samples, people with more variable sleep quality exhibited greater fluctuations in PA throughout the week and, surprisingly, higher levels of PA on average. In the community sample only, individuals with more variable sleep duration had lower and more variable PA. Findings suggest that fluctuations in sleep quality and duration are linked with daily PA outcomes, which is important to consider as technological advances and modern demands make inadequate and irregular sleep increasingly common.
+
+Adolescents’ Digital Nightlife: The Comparative Effects of Day- and Nighttime Smartphone Use on Sleep Quality
+
+Number of 
+
+Key takeaways:Post-bedtime smartphone use negatively impacts adolescents' sleep quality, with lean-forward apps like social media and game apps negatively impacting sleep quality.
+
+Abstract:The smartphone occupies a substantial part of adolescents’ daily life, from the moment they wake up to, for some, well beyond their bedtime. The current study compared the impact of adolescents’ daytime, pre-bedtime, and post-bedtime smartphone use on their sleep quality. In addition, it explored the differential effects of lean-back and lean-forward smartphone apps. We collected data from 155 adolescents across 21 days using smartphone tracking (745,706 app activities) in combination with experience sampling (1,950 sleep quality assessments). We found no significant effects of daytime and pre-bedtime smartphone use on sleep quality, but a negative association of post-bedtime smartphone use with sleep quality (β = −.09). The association between smartphone use and sleep quality varied across app categories: Time spent on lean-forward apps around bedtime, such as social media apps right before (β = −.08) and game apps after bedtime (β = −.23), was associated with lower sleep quality. The use of lean-back apps (i.e., video players) was not associated with sleep quality, neither before nor after bedtime.
+
+Improving sleep quality leads to better mental health: A meta-analysis of randomised controlled trials
+
+Number of 
+
+Key takeaways:Improving sleep quality leads to significant improvements in mental health, including reduced depression, anxiety, and rumination, with greater sleep improvements resulting in better mental health outcomes.
+
+770 Does Improving Sleep Lead to Better Mental Health? A Meta-Analysis of Randomised Controlled Trials
+
+Number of 
+
+Key takeaways:Improving sleep leads to better mental health, particularly for experiences of depression, anxiety, and stress.
+
+Abstract:Sleep and mental health go hand-in-hand; however, the extent to which sleep is causally related to the experience of mental health difficulties is unclear. One way to test whether there is a causal link is to evaluate the extent to which interventions that improve sleep also improve mental health over time.
+ 
+ 
+ 
+ We conducted a systematic review and meta-analysis of 54 randomised controlled trials (N = 6,876) that reported the effects of interventions that successfully improved sleep on overall composite mental health, as well as on six specific mental health difficulties including depression, anxiety, stress, psychosis spectrum experiences, suicidal ideation, and PTSD.
+ 
+ 
+ 
+ Improving sleep had a medium-sized effect on composite mental health (g+ = -0.47), and depression (g+ = -0.54), small-to-medium sized effects on anxiety (g+ = -0.40), and stress (g+ = -0.42), and small effects on positive psychosis spectrum experiences (g+ = -0.26). We also found a significant dose response relationship, in that greater improvements in sleep were associated with greater improvements in composite mental health.
+ 
+ 
+ 
+ Taken together, the findings suggest that sleep is causally related to the experience of mental health difficulties. Improving sleep leads to better mental health, especially for experiences of depression, anxiety, and stress. Future research might profitably consider how interventions that improve sleep be better incorporated into routine mental health care, as well as the possible mechanisms of action that might explain how sleep exerts its effects on mental health.
+ 
+ 
+ 
+ This research was funded by the National Institute for Health Research (NIHR) under its Research for Patient Benefit (RfPB) Programme (Grant Reference Number PB-PG- 0817-20027). The views expressed are those of the author(s) and not necessarily those of the NIHR or the Department of Health and Social Care.
+
+A meta-analysis of longitudinal studies on the interplay between sleep, mental health, and positive well-being in adolescents
+
+Number of 
+
+Key takeaways:Long sleep duration, good sleep quality, and low insomnia symptoms are bidirectionally related to lower internalizing and externalizing symptoms and higher psychological well-being in adolescents.
+
+Sleep health characteristics and positive mental health in Canadian youth: A cross-sectional analysis of the Health Behaviour in School-aged Children study.
+
+Number of 
+
+Key takeaways:Good sleep health, without nighttime insomnia, long sleep duration, or weekend catch-up sleep, is associated with higher odds of positive mental health among Canadian youth in grades 6-10.
+
+SLEEP DEPRIVATION AFFECT ON MENTAL HEALTH
+
+Number of 
+
+Key takeaways:Poor sleep negatively impacts mental health and well-being, leading to conditions like depression, anxiety, type2 diabetes, and depression.
+
+Abstract:Sleep plays a crucial role in mental and physical health and in development and maintenance of different health related problems. According to survey it is believed thirty three percentages of people suffer from sleep which indirectly effect mental health and well-being and Psychiatric conditions like depression, anxiety, type2 diabetes and depression. Poor sleep makes it more difficult for coping up to minor stress and daily hassles can turn in to major form of frustration. Sleep has an important restorative function in ‘recharging’ the brain at the end of each day, just like we need to charge a mobile phone battery after prolonged use. Maintaining a regular sleep-wake cycle allows the natural rhythm of the body to be reset every day and therefore optimizes brain functioning. Sleep is as important to our health as eating, drinking and breathing. It allows our bodies to repair themselves and our brains to group together our memories and process information
+
+Positive affect and sleep: A systematic review.
+
+Number of 
+
+Key takeaways:Positive affect is associated with better sleep in healthy populations, but more rigorous research is needed to confirm its beneficial impact on sleep outcomes in clinical populations.
+
+The impact of sleep quality on mental health in working Australians: A quasi-experimental approach.
+
+Number of 
+
+Key takeaways:High job demand negatively affects sleep quality and subsequently impacts mental health in working Australians.
+
+Perils of the nighttime: Impact of behavioral timing and preference on mental health in 73,888 community-dwelling adults
+
+Number of 
+
+Key takeaways:Start sleeping before 1AM to age healthily, despite chronobiological preferences.
+
+0018 Perils of the nighttime: impact of behavioral timing and preference on mental and physical health
+
+Number of 
+
+Key takeaways:Going to sleep early, regardless of natural proclivity and circadian misalignment, is associated with better mental and physical health.
+
+Abstract:Both chronotype and the actual timing of sleep have been associated with mental and physical health outcomes. While these often align, life often intervenes and causes a misalignment between desired and actual timing of sleep. The impact of such a misalignment has not been well investigated.
+ 
+ 
+ 
+ Community-dwelling (n=73,888) adults participating in the UK Biobank were monitored with wrist actigraphy for one week. Timing of behavioral patterns was derived from calculation of L5 (onset of lowest five hours of activity) and parsed into quartiles (Q1: early, Q2-3: intermediate, Q4: late). Chronotype was determined by a single question and parsed into quartiles (Q1: morning-type, Q2-3: intermediate, Q4: evening-type). Mental (mental, behavioral, and neurodevelopmental disorders, generalized anxiety disorder, depression) and physical (including metabolic disorder, diabetes, obesity, hypertension, circulatory disorder, digestive disorder, respiratory disorder, all-cause cancer) health status was determined with ICD-10 codes. Prevalence and likelihood (odds ratios) of disorders were calculated and adjusted for common demographic variables (sex, age, body mass index, material deprivation) and sleep duration.
+ 
+ 
+ 
+ As compared to morning-type individuals who went to sleep early (aligned), morning-type individuals who went to sleep late (misaligned) had increased likelihood of both mental (OR=1.52±0.06, p< 0.001) and physical (OR=1.45±0.03, p< 0.001) health disorders. As compared to evening-type individuals who went to sleep late (aligned), evening-type individuals who went to sleep early (aligned) had decreased likelihood of both mental (OR=0.85±0.06, p=0.002) and physical (OR=0.66±0.03, p< 0.001) health disorders.
+ 
+ 
+ 
+ Going to sleep early, irrespective of natural proclivity and potential circadian misalignment, is associated with better mental and physical health.
+ 
+ 
+ 
+ Mental Illness Research Education and Clinical Center, Department of Veterans Affairs
+
+THE IMPACT OF SLEEP ON PHYSICAL AND MENTAL HEALTH: IMPORTANCE OF HEALTHY SLEEP HABITS.
+
+Number of 
+
+Key takeaways:Healthy sleep habits, including regular, high-quality sleep and a consistent sleep schedule, are crucial for maintaining mental and physical well-being.
+
+Abstract:Sleep is an important part of health, and when you go to sleep, how long you sleep, and how well you sleep all have a big impact on your health. Sleep may be required for regulating the body's metabolism, feelings, function, memory storage, brain recovery, and learning. Because of how important these processes are, sleep should be seen as just as important to health as what you eat and how much you exercise. Adults' sleep generally gets shorter and less restful, their sleep starts later and is more broken up, they have more sleep problems, and their rest-activity rhythms get weaker. In addition to receiving enough sleep (quality), healthy sleep habits also include maintaining a consistent sleep schedule. Ninety male college students with varying sleep schedules were analyzed for their physical and emotional well-being. By using factor analysis to categorize individuals' sleeping patterns across three dimensions regularity, quality, and quantity. We were able to develop sleep-habit measures. Clustering identified four distinct patterns of sleep behavior: good sleep was defined by regular, high-quality sleep despite being of comparatively brief duration; long sleep was predictable, fairly lengthy, but of minimal quality; short sleep was of excellent quality despite being short and irregular; and poor sleep was erratic, low-quality, and relatively long. The excellent sleepers also had reduced diastolic and systolic and a smaller means waist measurement. In addition, the poor sleepers had the lowest average MCS scores of all of the study groups. Poor sleepers also had the lowest mean scores on the Subjective Depression Scale (SDS). Issues involving glucose or lipid absorption were also more common in the short-term and long poor-sleep categories. Without restful sleep and a regular bedtime routine, it is impossible to maintain excellent mental and physical wellness, even if time and sleep are maintained constantly. Therefore, to produce suitable sleep recommendations for enhanced mental and physical health, we evaluated not only the quantity of sleep but also its consistency and high quality.
+
+Sleep loss and emotion: A systematic review and meta-analysis of over 50 years of experimental research.
+
+Number of 
+
+Key takeaways:Sleep loss reduces positive emotions, increases anxiety symptoms, and blunts emotional arousal, with mixed results depending on the type of sleep loss.
+
+Abstract:In a largely sleep-deprived society, quantifying the effects of sleep loss on emotion is critical for promoting psychological health. This preregistered systematic review and meta-analysis quantified the effects of various forms of sleep loss on multiple aspects of emotional experiences. Eligible studies used experimental reductions of sleep via total sleep deprivation, partial sleep restriction, or sleep fragmentation in healthy populations to examine effects on positive affect, negative affect, general mood disturbances, emotional reactivity, anxiety symptoms, and/or depressive symptoms. In total, 1,338 effect sizes across 154 studies were included (N = 5,717; participant age range = 7-79 years). Random effects models were conducted, and all forms of sleep loss resulted in reduced positive affect (standardized mean difference = -0.27 to -1.14), increased anxiety symptoms (SMD = 0.57-0.63), and blunted arousal in response to emotional stimuli (SMD = -0.20 to -0.53). Findings for negative affect, reports of emotional valence in response to emotional stimuli, and depressive symptoms were mixed and depended on the type of sleep loss. Nonlinear effects for the amount of sleep loss as well as differences based on the stage of sleep restricted (i.e., rapid eye movement sleep or slow-wave sleep) were also detected. This study represents the most comprehensive quantitative synthesis of experimental sleep and emotion research to date and provides strong evidence that periods of extended wakefulness, shortened sleep duration, and/or nighttime awakenings adversely influence human emotional functioning. Findings provide an integrative foundation for future research on sleep and emotion and elucidate the precise ways that inadequate sleep may impact our daytime emotional lives. (PsycInfo Database Record (c) 2023 APA, all rights reserved).
+
+Irregular sleep is linked to poorer mental health: A pooled analysis of eight studies.
+
+Number of 
+
+Key takeaways:More inconsistent sleep duration and timing may be linked to poorer mental health, with higher sleep efficiency and duration being associated with fewer anxiety and insomnia symptoms.
+
+Asymmetrical Effects of Sleep and Emotions in Daily Life
+
+Number of 
+
+Key takeaways:Good sleep can improve waking emotions and mitigate the impact of stressful experiences, but does not amplify responses to positive events of the day.
+
+Abstract:Abstract Sleep is an important process that can influence and be influenced by daily events and emotions. We examined the bidirectional relationships between sleep, daily events, and emotions with a daily diary method completed by 181 mothers ( M age = 41.91, SD = 5.06). They answered morning and evening questionnaires for 1 week at three different points in time separated by nine months each, 21 days in total. Measures of sleep quality and emotional experiences each morning were assessed, and they reported on their best and worst experience of the day, peak emotional responses to these events, and affect in the evening. Sleep behavior, including total sleep time and sleep efficiency, was objectively quantified using wrist actigraphy. Multilevel modeling analyses showed that longer sleep duration and better subjective quality predicted greater positive emotions and lower negative emotions upon waking, and lower levels of peak perceived stressfulness, but not peak positivity ratings. Daily experiences did not predict sleep duration. Conversely, negative affect in the evening and greater peak perceived stressfulness during the day predicted worse sleep quality that night, whereas positive affect and positive events were not related to sleep. Although correlational, these findings suggest that good sleep can improve waking affect and help mitigate the impact of stressful experiences but does not amplify responses to the positive events of the day. In turn, daily perceived stress reactivity impairs sleep quality. These novel findings show stronger bidirectional relationships between sleep with daily stress, than sleep with daily positivity.
+
+Impact of working hours on sleep and mental health.
+
+Number of 
+
+Key takeaways:Longer working hours are associated with poorer mental health, increased anxiety and depression symptoms, and worse sleep quality.
+
+Abstract:Background
+The number of hours people are required to work has a pervasive influence on both physical and mental health. Excessive working hours can also negatively affect sleep quality. The impact at work of mental health problems can have serious consequences for individuals' as well as for organizations' productivity.
+
+Aims
+To evaluate differences in sleep quality and anxiety and depression symptoms between longer working hours group (LWHG) and regular working hours group (RWHG). To examine factors influencing weekly working hours, sleep quality and anxiety and depressive symptoms.
+
+Methods
+Participants were divided into two groups, RWHG and LWHG, based on working hours, with a cut-off of 48 h per week. We used the Hospital Anxiety and Depression Scale (HADS) to assess anxiety and depression symptoms and the Pittsburgh Sleep Quality Index (PSQI) to measure the quality and patterns of sleep.
+
+Results
+The response rate was 23%. Among the 429 study participants, those in the LWHG group (n = 256, 53%) had significantly more depressive and anxiety symptoms and worse sleep quality than those in RWHG (n = 223, 47%). Working time was significantly positively correlated with higher corporate position and HADS scores. Moreover, HADS scores were positively correlated with PSQI scores and negatively correlated with age.
+
+Conclusions
+This study suggests that longer working hours are associated with poorer mental health status and increasing levels of anxiety and depression symptoms. There was a positive correlation between these symptoms and sleep disturbances.
+
+The effects of insufficient sleep and adequate sleep on cognitive function in healthy adults.
+
+Number of 
+
+Key takeaways:Consistent, stable sleep of at least 7 hours/night improves working memory and response inhibition in healthy adults, while insufficient sleep shows no significant improvement.
+
+Later School Start Time: The Impact of Sleep on Academic Performance and Health in the Adolescent Population
+
+Number of 
+
+Key takeaways:Late school start times negatively impact sleep quality and quantity in adolescents, leading to decreased learning ability and compromised daytime functioning.
+
+Abstract:The crucial role of sleep in physical and mental health is well known, especially during the developmental period. In recent years, there has been a growing interest in examining the relationship between sleep patterns and school performance in adolescents. At this stage of life, several environmental and biological factors may affect both circadian and homeostatic regulation of sleep. A large part of this population does not experience adequate sleep, leading to chronic sleep restriction and/or disrupted sleep–wake cycles. Studies investigating the effects of different sleep–wake schedules on academic achievement showed that impaired sleep quality and quantity are associated with decreased learning ability and compromised daytime functioning. This review focuses on the most recent studies that evaluated the effects of modified school start time on sleep patterns and related outcomes. Moreover, based on the available empirical evidence, we intend to propose a direction for future studies targeted to implement prevention or treatment programs by modifying sleep timing.
+
+Tissue regeneration: Impact of sleep on stem cell regenerative capacity.
+
+Number of 
+
+Key takeaways:Sleep promotes stem cell regeneration in various tissues, potentially enhancing the efficacy and timing of surgical procedures.
+
+0008 Wake Onset Variability Effect on Functional Connectivity in the Default Mode Network
+
+Number of 
+
+Key takeaways:Increased wake onset variability (WOV) may improve attentional control through stronger top-down suppression of the default mode network (DMN), regardless of sleep duration.
+
+Abstract:Decoupling patterns of sleep and wake from underlying circadian oscillations is associated with poor sleep health. While this has been studied with respect to shift work, it is unclear if minor variations in normative sleep/wake patterns affect the restoration of cognitive function during sleep intervals while controlling for total sleep time. It is commonplace to adhere to a fixed sleep/wake schedule, however, this practice does not account for day-to-day variations in physiological need for sleep. We examined the relationship between sleep-interval variability and fMRI resting state functional connectivity while controlling for sleep duration.
+ 
+ 
+ 
+ Participants (n=21; 13 female; Age=23.3, SD=4.7) wore an actigraph for 7 days followed by a daytime functional magnetic resonance imaging (fMRI) session. Sleep/wake onset variability was measured from double-rated actigraphy data and cross referenced with sleep journals. Functional connectivity analysis and preprocessing of fMRI images were conducted in the CONN toolbox (SPM12). Seed-based functional connectivity maps were estimated using BOLD activity of the posterior parietal cortex node of the default mode network (DMN) as the seed region. Functional connectivity strength was represented by Fisher-transformed bivariate correlation coefficients from a weighted GLM, modeling the association between the seed and other brain regions.
+ 
+ 
+ 
+ Wake onset variability (WOV) predicted functional connectivity of the DMN (controlling for age, gender, and sleep duration). WOV was significantly associated (Pthreshold <.005 ; Pfwe <.05) with a higher degree of anticorrelation between the posterior parietal node of the DMN and several regions of the frontoparietal network (FPN): Right superior frontal gyrus, Right mid-frontal gyrus, and Right frontal pole, as well as the occipital cortex and cerebellum. In contrast, sleep onset variability showed no significant changes in functional connectivity within these areas.
+ 
+ 
+ 
+ Greater WOV was associated with stronger inverse connectivity between the DMN and FPN. This suggests that increased WOV may improve attentional control through greater top-down suppression of the DMN. We speculate that WOV is representative of sleep satiety, resulting in voluntary arousal from sleep, rather than enforced arousal. These results suggest that sleep timing affects attentional control irrespective of duration.
+ 
+ 
+ 
+ USAMRAA: W81XWH1910074
+
+Sleep is more than rest for plasticity in the human cortex.
+
+Number of 
+
+Key takeaways:Sleep-specific brain activity restores performance in the primary visual cortex by actively refining cortical plasticity, compared to passive and active waking.
+
+Abstract:Sleep promotes adaptation of behavior and underlying neural plasticity in comparison to active wakefulness. However, the contribution of its two main characteristics, sleep-specific brain activity and reduced stimulus interference, remains unclear. We tested healthy humans on a texture discrimination task, a proxy for neural plasticity in primary visual cortex, in the morning and retested them in the afternoon after a period of daytime sleep, passive waking with maximally reduced interference, or active waking. Sleep restored performance in direct comparison to both passive and active waking, in which deterioration of performance across repeated within-day testing has been linked to synaptic saturation in the primary visual cortex. No difference between passive and active waking was observed. Control experiments indicated that deterioration across wakefulness was retinotopically specific to the trained visual field and not due to unspecific performance differences. The restorative effect of sleep correlated with time spent in NREM sleep and with electroencephalographic slow wave energy, which is thought to reflect renormalization of synaptic strength. The results indicate that sleep is more than a state of reduced stimulus interference, but that sleep-specific brain activity restores performance by actively refining cortical plasticity.
+
+Sleep's impact on emotional recognition memory: A meta-analysis of whole-night, nap, and REM sleep effects.
+
+Number of 
+
+Key takeaways:Sleep does not generally enhance visual recognition memory for emotional stimuli, but specific sleep stages may preferentially enhance consolidation of emotional and neutral material.
+
+Sleep and muscle recovery – Current concepts and empirical evidence
+
+Number of 
+
+Key takeaways:Sleep is crucial for muscle recovery and regeneration, but current research suggests that muscle protein synthetic response after resistance exercise is more time-dependent than state-dependent.
+
+Abstract:Generally, sleep is thought of as a state of rest that helps to recover the body and brain from the physical and cognitive activities during wakefulness. The main characteristics of sleep in contrast to wakefulness support this idea: a barely present motor activity and a very low reactivity to both internal and external stimuli. The long-term atonic state of skeletal muscles is taken as an indication that important restorative processes on the musculoskeletal system take place during sleep – and the state of unconsciousness as well as inadequate responsiveness suggests that the central nervous system pauses to engage in important synaptic plasticity processes. About 40 years ago, therefore, in sleep research, the idea was that especially NREM sleep fosters synthetic processes of growth and repair in the body, and REM sleep was believed to be directed towards increases in synthetic processes within the brain, including the consolidation of memory (Horne, 1979).
+The opinion that SWS is mainly for body restitution was encouraged by the observation that after falling asleep during the early night period, human growth hormone (hGH) is present in relatively large amounts in the plasma (Born et al., 1988). Additionally, it was shown that after high loads of physical activity during the day, in the following night the percentage of SWS increased (Shapiro et al., 1981). Moreover, sleep deprivation seems to weaken muscle recovery by increasing protein breakdown, which adversely affects protein synthesis and promotes muscle atrophy (Dattilo et al., 2011, 2012). Muscle recovery would potentially be impaired because this process is strongly regulated by the anabolic and catabolic hormones mentioned above, which are strongly influenced by sleep. On the other hand, the heart muscle and the diaphragm (the main muscle for respiratory activity) prove that the vital contractile elements of a muscle maintain their function without rest over the lifespan. And if they did, it seems more likely to be the motor unit of the supporting and target muscles as a whole (including the reflex pathways) that needs rest (Fitts, 2008). Furthermore, the muscle protein synthetic response following resistance exercise seems rather time-dependent than state-dependent, e.g. amino acids are taken up in skeletal muscle tissue within hours independent of being awake or asleep (McGlory et al., 2017). However, the aforementioned release of hGH during the early hours of sleep and the results from sleep deprivation studies point in the direction that some regeneration processes are dependent on sleep, and most likely on SWS (Dattilo et al., 2011).
+The proposed hypothesis that bodily recovery and regeneration are sleep-dependent is widely used, but often lacks extensive supportive experimental evidence. In this presentation we will discuss the current concepts of muscle recovery during sleep and review the studies in that field.
+References
+Born, J., Muth, S., & Fehm, H. L. (1988). The significance of sleep onset and slow wave sleep for nocturnal release of growth hormone (GH) and cortisol. Psychoneuroendocrinology, 13(3), 233–243. 
+Dattilo, M., Antunes, H. K., Medeiros, A., Mônico-Neto, M., Souza, H. de S. Á., Lee, K. S., Tufik, S., & de Mello, M. T. (2012). Paradoxical sleep deprivation induces muscle atrophy. Muscle & Nerve, 45(3), 431–433. 
+Dattilo, M., Antunes, H. K., Medeiros, A., Mônico Neto, M., Souza, H. S., Tufik, S., & de Mello, M. T. (2011). Sleep and muscle recovery: endocrinological and molecular basis for a new and promising hypothesis. Medical Hypotheses, 77(2), 220–222. 
+Fitts, R. H. (2008). The cross-bridge cycle and skeletal muscle fatigue. Journal of Applied Physiology, 104(2), 551–558. 
+Horne, J. A. (1979). Restitution and human sleep: A critical review. Physiological Psychology, 7(2), 115–125.
+McGlory, C., Devries, M. C., & Phillips, S. M. (2017). Skeletal muscle and resistance exercise training; the role of protein synthesis in recovery and remodeling. Journal of Applied Physiology, 122(3), 541–548. 
+Shapiro, C. M., Bortz, R., Mitchell, D., Bartel, P., & Jooste, P. (1981). Slow-wave sleep: A recovery period after exercise. Science 214(4526), 1253–1254. 
+
+Chronic sleep curtailment, even without extended (>16-h) wakefulness, degrades human vigilance performance
+
+Number of 
+
+Key takeaways:Chronic short sleep duration impairs neurobehavioral performance and self-assessment of alertness, even without extended wakefulness.
+
+Abstract:Significance Millions of individuals obtain insufficient sleep on a daily basis, which leads to impaired performance. Whether these decrements are caused by short sleep duration or extended wakefulness is unknown. In this study, healthy volunteers were randomized into either a chronically sleep-restricted or control protocol while living on a 20-h “day,” thus enabling short sleep without extended wakefulness. We demonstrate that chronic insufficient sleep, even without extended wakefulness, leads to neurobehavioral performance decrements at all times of the day, even when the circadian system is promoting arousal. These findings have implications for the understanding of basic physiology, the substantial population who chronically obtains insufficient sleep, and all of us who depend on sleep-restricted individuals working in safety-sensitive occupations. Millions of individuals routinely remain awake for more than 18 h daily, which causes performance decrements. It is unknown if these functional impairments are the result of that extended wakefulness or from the associated shortened sleep durations. We therefore examined changes in objective reaction time performance and subjective alertness in a 32-d inpatient protocol in which participants were scheduled to wakefulness durations below 16 h while on a 20-h “day,” with randomization into standard sleep:wake ratio (1:2) or chronic sleep restriction (CSR) ratio (1:3.3) conditions. This protocol allowed determination of the contribution of sleep deficiency independent of extended wakefulness, since individual episodes of wakefulness in the CSR condition were only 15.33 h in duration (less than the usual 16 h of wakefulness in a 24-h day) and sleep episodes were 4.67 h in duration each cycle. We found that chronic short sleep duration, even without extended wakefulness, doubled neurobehavioral reaction time performance and increased lapses of attention fivefold, yet did not uniformly decrease self-reported alertness. Further, these impairments in neurobehavioral performance were worsened during the circadian night and were not recovered during the circadian day, indicating that the deleterious effect from the homeostatic buildup of CSR is expressed even during the circadian promotion of daytime arousal. These findings reveal a fundamental aspect of human biology: Chronic insufficient sleep duration equivalent to 5.6 h of sleep opportunity per 24 h impairs neurobehavioral performance and self-assessment of alertness, even without extended wakefulness.
+
+Mindfulness meditation for insomnia: A meta-analysis of randomized controlled trials.
+
+Number of 
+
+Key takeaways:Mindfulness meditation may mildly improve sleep parameters in patients with insomnia and can serve as an auxiliary treatment to medication for sleep complaints.
+
+Restorative Effects of Daytime Naps on Inhibitory Control: A Neuroimaging Study Following Sleep Deprivation
+
+Number of 
+
+Key takeaways:A 30-minute daytime nap can partially restore cognitive performance and inhibitory control after sleep deprivation by enhancing positive brain activation and increasing negative activation in default mode networks.
+
+Abstract:Background Sleep deprivation is known to impair cognitive performance, particularly inhibitory control, which is crucial for goal-directed behavior. While extended recovery sleep is the ideal solution, the fast-paced demands of modern life often make this impractical. Brief daytime naps have emerged as a potential countermeasure, but the neural mechanisms underlying their restorative effects remain underexplored. Objective This study aimed to investigate the effects of a 30-minute daytime nap on brain activation patterns and cognitive performance following sleep deprivation. We used task-based functional magnetic resonance imaging (fMRI) to examine how naps modulate brain regions involved in inhibitory control. Methods Forty-five participants completed a dual-choice Oddball task under three conditions: Resting Wakefulness (RW), Sleep Deprivation (SD), and Post-Nap (Nap). Reaction times (RT), accuracy, and brain activation patterns were measured and analyzed across these states. Task-related brain activation was examined using fMRI, focusing on regions involved in the frontoparietal and default mode networks (DMN). Results Sleep deprivation significantly impaired inhibitory control, as reflected by slower RTs and reduced accuracy. A 30-minute nap partially restored cognitive performance, with RTs and accuracy showing intermediate improvement between RW and SD. Neuroimaging data revealed that the nap restored positive activation in the prefrontal cortex, occipital lobes, and middle frontal regions, which had been significantly reduced during SD. Furthermore, the nap enhanced negative activation in the middle temporal gyrus and cingulate gyrus, regions associated with the DMN, reducing cognitive interference from irrelevant stimuli. Conclusion Daytime naps significantly mitigate the cognitive deficits induced by SD through two primary mechanisms: (1) enhancing positive activation in task-relevant brain regions and (2) increasing negative activation in areas involved in the DMN. These findings provide novel insights into the neural basis of nap-induced cognitive recovery, underscoring the value of naps as an effective intervention to restore inhibitory control following SD.
+
+Waking up is the hardest thing I do all day: Sleep inertia and sleep drunkenness.
+
+Number of 
+
+Key takeaways:Sleep inertia and sleep drunkenness can cause confusion and sleepiness upon awakening, with potential treatment options for hypersomnolence disorders and mood disorders.
+
+Sleep–wake-driven and circadian contributions to daily rhythms in gene expression and chromatin accessibility in the murine cortex
+
+Number of 
+
+Key takeaways:Short-term sleep deprivation in mice has long-term effects on gene expression and chromatin accessibility, impacting the molecular circadian clock and highlighting the importance of sleep-wake distribution for diurnal rhythmicity and circadian processes.
+
+Abstract:Significance When and how long we sleep is determined by the time of day and how long we have been awake, which are tracked molecularly by a circadian and a sleep–wake-driven process, respectively. We measured the long-term consequences of a short-term sleep deprivation on gene expression and regulation in the mouse brain, and used mathematical models to determine the relative contributions of the circadian and sleep–wake-driven processes. We find that many genes, including most of the genes that constitute the molecular circadian clock, are perturbed by sleep deprivation long after the mice ceased showing behavioral signs of sleep loss. Our results have implications for human health, given the high prevalence of insufficient and poor-quality sleep in our contemporary society. The timing and duration of sleep results from the interaction between a homeostatic sleep–wake-driven process and a periodic circadian process, and involves changes in gene regulation and expression. Unraveling the contributions of both processes and their interaction to transcriptional and epigenomic regulatory dynamics requires sampling over time under conditions of unperturbed and perturbed sleep. We profiled mRNA expression and chromatin accessibility in the cerebral cortex of mice over a 3-d period, including a 6-h sleep deprivation (SD) on day 2. We used mathematical modeling to integrate time series of mRNA expression data with sleep–wake history, which established that a large proportion of rhythmic genes are governed by the homeostatic process with varying degrees of interaction with the circadian process, sometimes working in opposition. Remarkably, SD caused long-term effects on gene-expression dynamics, outlasting phenotypic recovery, most strikingly illustrated by a damped oscillation of most core clock genes, including Arntl/Bmal1, suggesting that enforced wakefulness directly impacts the molecular clock machinery. Chromatin accessibility proved highly plastic and dynamically affected by SD. Dynamics in distal regions, rather than promoters, correlated with mRNA expression, implying that changes in expression result from constitutively accessible promoters under the influence of enhancers or repressors. Serum response factor (SRF) was predicted as a transcriptional regulator driving immediate response, suggesting that SRF activity mirrors the build-up and release of sleep pressure. Our results demonstrate that a single, short SD has long-term aftereffects at the genomic regulatory level and highlights the importance of the sleep–wake distribution to diurnal rhythmicity and circadian processes.
+
+Parallel recovery of consciousness and sleep in acute traumatic brain injury
+
+Number of 
+
+Key takeaways:When the brain has not sufficiently recovered a certain level of consciousness, it is also unable to generate a 24-hour sleep-wake cycle and consolidated nighttime sleep in hospitalized patients with acute traumatic brain injury.
+
+Abstract:Objective: To investigate whether the progressive recuperation of consciousness was associated with the reconsolidation of sleep and wake states in hospitalized patients with acute traumatic brain injury (TBI). Methods: This study comprised 30 hospitalized patients (age 29.1 ± 13.5 years) in the acute phase of moderate or severe TBI. Testing started 21.0 ± 13.7 days postinjury. Consciousness level and cognitive functioning were assessed daily with the Rancho Los Amigos scale of cognitive functioning (RLA). Sleep and wake cycle characteristics were estimated with continuous wrist actigraphy. Mixed model analyses were performed on 233 days with the RLA (fixed effect) and sleep-wake variables (random effects). Linear contrast analyses were performed in order to verify if consolidation of the sleep and wake states improved linearly with increasing RLA score. Results: Associations were found between scores on the consciousness/cognitive functioning scale and measures of sleep-wake cycle consolidation (p < 0.001), nighttime sleep duration (p = 0.018), and nighttime fragmentation index (p < 0.001). These associations showed strong linear relationships (p < 0.01 for all), revealing that consciousness and cognition improved in parallel with sleep-wake quality. Consolidated 24-hour sleep-wake cycle occurred when patients were able to give context-appropriate, goal-directed responses. Conclusions: Our results showed that when the brain has not sufficiently recovered a certain level of consciousness, it is also unable to generate a 24-hour sleep-wake cycle and consolidated nighttime sleep. This study contributes to elucidating the pathophysiology of severe sleep-wake cycle alterations in the acute phase of moderate to severe TBI.
+
+Why Does Sleep Slow-Wave Activity Increase After Extended Wake? Assessing the Effects of Increased Cortical Firing During Wake and Sleep
+
+Number of 
+
+Key takeaways:Sleep slow-wave activity increases after extended wake, but high sustained firing alone is unlikely to account for the increase in slow-wave activity after sleep deprivation.
+
+Abstract:During non-rapid eye movement (NREM) sleep, cortical neurons alternate between ON periods of firing and OFF periods of silence. This bi-stability, which is largely synchronous across neurons, is reflected in the EEG as slow waves. Slow-wave activity (SWA) increases with wake duration and declines homeostatically during sleep, but the underlying mechanisms remain unclear. One possibility is neuronal “fatigue”: high, sustained firing in wake would force neurons to recover with more frequent and longer OFF periods during sleep. Another possibility is net synaptic potentiation during wake: stronger coupling among neurons would lead to greater synchrony and therefore higher SWA. Here, we obtained a comparable increase in sustained firing (6 h) in cortex by: (1) keeping mice awake by exposure to novel objects to promote plasticity and (2) optogenetically activating a local population of cortical neurons at wake-like levels during sleep. Sleep after extended wake led to increased SWA, higher synchrony, and more time spent OFF, with a positive correlation between SWA, synchrony, and OFF periods. Moreover, time spent OFF was correlated with cortical firing during prior wake. After local optogenetic stimulation, SWA and cortical synchrony decreased locally, time spent OFF did not change, and local SWA was not correlated with either measure. Moreover, laser-induced cortical firing was not correlated with time spent OFF afterward. Overall, these results suggest that high sustained firing per se may not be the primary determinant of SWA increases observed after extended wake. SIGNIFICANCE STATEMENT A long-standing hypothesis is that neurons fire less during slow-wave sleep to recover from the “fatigue” accrued during wake, when overall synaptic activity is higher than in sleep. This idea, however, has rarely been tested and other factors, namely increased cortical synchrony, could explain why sleep slow-wave activity (SWA) is higher after extended wake. We forced neurons in the mouse cortex to fire at high levels for 6 h in 2 different conditions: during active wake with exploration and during sleep. We find that neurons need more time OFF only after sustained firing in wake, suggesting that fatigue due to sustained firing alone is unlikely to account for the increase in SWA that follows sleep deprivation.
+
+Regeneration Plate 3.0 – Improvement and Maintenance of Intestinal Health by Reduction of Oxidative Stress and Inflammation
+
+Number of 
+
+Key takeaways:The Regeneration Plate 3.0, placed under the bed during sleep, effectively reduces oxidative stress and inflammation, potentially improving intestinal health and overall well-being.
+
+Abstract:Background: Sleep is an integral biological necessity and is understood to possess recuperative and regenerative properties. Sleep deprivation has been associated with diseases and an increase in morbidity and mortality. Several recent studies have suggested a strong relation between insufficient sleep and gastrointestinal diseases, especially when triggered by inflammatory processes. Accordingly to these findings it has been reported that sleep deprivation in both humans and experimental animals causes a progressive increase in circulating white blood cells, mainly neutrophils as well as an increase in various circulating proinflammatory molecules. Experimental: Against this background we used cultured intestinal epithelial cells to investigate the positive impact of a specially designed device, Regeneration Plate 3.0, which is positioned under the bed during sleep and is stated to improve systemic health on the cellular level by reducing oxidative stress which acts on the body. The plate produces a vital field with a frequency pool containing all important regeneration frequencies within a radius of 90 cm. The body's own energy field only resonates with those frequencies that are required for an optimal supply of energy to the cells. The field strength of the vital field is adjusted in such a way that the energy system cannot be over-energized. In addition, we also used an in vitro model with inflammation-mediating cells (= functional neutrophils) to examine whether the Regeneration Plate 3.0 might be able to reduce the generation of reactive oxygen radicals during an inflammatory process. Results: The results demonstrate that the Regeneration Plate 3.0 was able to reduce oxidative stress acting on intestinal epithelial cells. After 24 hours, the percentage of surviving cells after exposure to 2 mM hydrogen peroxide and the Regeneration Plate 3.0 for 8 hours was 27.7 ± 5.7%, while the viability of the untreated control cells was 14.7 ± 2.9% (mean values ± standard deviations). The difference between both experimental groups was statistically highly significant at the p ≤ 0.01 level. Moreover, the generation of superoxide anion radicals by functional neutrophils was reduced by nearly 50% in comparison to untreated control cells. Again, the difference between both groups was statistically highly significant at the p ≤ 0.01 level. Conclusions: Both beneficial effects of the Regeneration Plate 3.0 shown in the present in vitro study can act on the body during sleep and might enhance not only intestinal health, but also systemic health and well-being.
+
+Cerebral blood flow changes after a day of wake, sleep, and sleep deprivation
+
+Number of 
+
+Key takeaways:Cerebral blood flow increases from morning to evening and decreases after a night of sleep, with effects most prominent in the hippocampus, amygdala, thalamus, and occipital and sensorimotor cortices.
+
+Effects of long sleep time and irregular sleep–wake rhythm on cognitive function in older people
+
+Number of 
+
+Key takeaways:Long sleep time and irregular sleep-wake rhythms can negatively impact executive function and working memory in older adults.
+
+Sleep deprivation induces delayed regeneration of olfactory sensory neurons following injury
+
+Number of 
+
+Key takeaways:Sleep deprivation delays olfactory sensory neuron regeneration after injury, potentially due to the biological activity of NQO1.
+
+Abstract:The circadian system, which is essential for the alignment of sleep/wake cycles, modulates adult neurogenesis. The olfactory epithelium (OE) has the ability to generate new neurons throughout life. Loss of olfactory sensory neurons (OSNs) as a result of injury to the OE triggers the generation of new OSNs, which are incorporated into olfactory circuits to restore olfactory sensory perception. This regenerative potential means that it is likely that the OE is substantially affected by sleep deprivation (SD), although how this may occur remains unclear. The aim of this study is to address how SD affects the process of OSN regeneration following OE injury. Mice were subjected to SD for 2 weeks, which induced changes in circadian activity. This condition resulted in decreased activity during the night-time and increased activity during the daytime, and induced no histological changes in the OE. However, when subjected to SD during the regeneration process after OE injury, a significant decrease in the number of mature OSNs in the dorsomedial area of the OE, which is the only area containing neurons expressing NQO1 (quinone dehydrogenase 1), was observed compared to the NQO1-negative OE. Furthermore, a significant decrease in proliferating basal cells was observed in the NQO1-positive OE compared to the NQO1-negative OE, but no increase in apoptotic OSNs was observed. These results indicate that SD accompanied by disturbed circadian activity could induce structurally negative effects on OSN regeneration, preferentially in the dorsomedial area of the OE, and that this area-specific regeneration delay might involve the biological activity of NQO1.
+
+0053 Circadian Regulation in the Social Brain: How Sleep Deprivation Compromises Empathy
+
+Number of 
+
+Key takeaways:Sleep deprivation negatively impacts our ability to empathize, as it negatively impacts our perceptions of another's mental state and affects our ability to empathize with others.
+
+Abstract:The interaction between the circadian clock and sleep drive generates a rhythm of deterioration and recovery in cognition over wake and sleep, respectively. In modern society, our sleep is often disrupted due to long and unsociable work hours. Emerging evidence suggests that this negatively impacts our social interactions, but the physiological mechanisms remain unclear. Our perceptions of other people’s mental states dominate interpersonal interactions, and profoundly impact our lives. This study examined how sleep deprivation impacts our perceptions of another’s mental state (a cognitive domain known as Theory of Mind: ToM).
+ 
+ 
+ 
+ 21 young healthy adults completed the study (11 females: mean age +/-SD =22.09 +/- 3.59, 10 males: mean age +/- SD =23 + 4.13). Over a 12-hour overnight wakefulness period, we examined changes in ToM every two hours with the Reading in the Mind’s Eye (RMIE) task. It consists of 36 images, each a pair of eyes representing an emotion, categorized as Easy or Difficult and as positive, negative, and neutral (valence). We measured accuracy based on a 4-forced alternative response. Subjective sleepiness was measured every two hours with the Karolinska Sleepiness Scale (KSS).
+ 
+ 
+ 
+ Our analysis revealed a significant effect of wakefulness on accuracy (p < 0.0001), such that it declined precipitously 4 hours into the protocol (coinciding with midnight). Accuracy was significantly better (p< 0.01) for Easy stimuli than on Difficult stimuli, but accuracy on both declined significantly with wakefulness. A similar result was seen with valence (p< 0.0001), with Positive stimuli (74.5% +/- 1.8%) showing a better accuracy (mean +/- 1SE) than negative (57.4% +/- 1.9%) and neutral (58.2% +/- 1.7%) ones. But accuracy on all three declined with wakefulness (Positive: 84% -72.4%; Negative:61.2% - 58.5; Neutral: 64.2% - 59.9%). Sleepiness increased significantly overnight (p< 0.0001). Furthermore, there was a significant correlation (correlation: 0.5; Fisher’s z test: p = 0.03) between the change sleepiness and RMIE task accuracy.
+ 
+ 
+ 
+ These findings are one of first descriptions of the circadian and sleep regulation in Theory of Mind, our ability to empathize. They have significant scientific and clinical implications.
+ 
+ 
+ 
+ British Academy/Leverhume Small Research Grant to Nayantara Santhi.
+
+0065 Determining the Impact of Extended Wakefulness on Memory Retention
+
+Number of 
+
+Key takeaways:Extended wakefulness, without sleep, negatively impacts memory recall, with the rate of forgetting increasing rapidly within the first hour and gradually decreasing over time.
+
+Abstract:It has been well-established that the rate of forgetting slows if learning is followed by a period of sleep versus wake. Although several studies compared rates of retention for material learned before sleep or sleep loss, none have explicitly examined how extended wake, without intervening sleep, impacts the rate at which information is forgotten. To explore this further, we investigated the effects of sleep deprivation on memory retention over extended wakefulness in dayshift (DS) versus nightshift (NS) participants.
+ 
+ 
+ 
+ N=22 adult shift workers (DS: n=17 and NS: n=5; aged 38.3±8.9 years; 12 females) participated in a 36-hr in-laboratory study. They adhered to their habitual wake time (DS: 5:50am; NS: 1:15pm) at home and arrived at the laboratory at 8:00am (DS)/8:00pm (NS). After a 2-hr acclimation period, participants followed a 24-hr constant routine protocol, which included continuous wakefulness. During the study, participants completed a memory task requiring the memorization of 20 nouns, ranging from 4-6 letters. The words were each individually presented on a computer screen for 10 sec. Recall sessions occurred immediately (session 1; 1+ hrs awake), 1 hr (session 2; 2+ hrs awake) and 24 hrs (session 3; 25+ hrs awake) post-memorization. The variable of interest is the proportion of words correct.
+ 
+ 
+ 
+ A mixed-effects ANOVA, with fixed effects of session (1-3), shift (day vs. night), and their interaction, controlling for age, and a random intercept for participants, showed a significant main effect of session on the proportion of words correct (F=36.65, p< 0.001). Overall, the proportion of correctly recalled words decreased across sessions, with performance decreasing 12.5% from immediate to 1-hr, 18.8% from 1-hr to 24-hr, and 29.0% overall from immediate to 24-hr. Shift type and age did not significantly affect performance (p>0.05).
+ 
+ 
+ 
+ The outcomes of this study replicated previous findings demonstrating the degradation of memory recall under the influence of sleep deprivation. The pattern of performance aligns with the conventional forgetting curve, in which forgetting occurs rapidly soon after learning, typically within the first hour, with the rate gradually decreasing over time. Future research will examine if continuous wakefulness exacerbated this memory decline.
+ 
+ 
+ 
+ CARE Fund FY22-POP-02; HSSA; ARO W911NF2210223
+
+A fixed single meal in the subjective day prevents free-running of the human sleep-wake cycle but not of the circadian pacemaker under temporal isolation.
+
+Number of 
+
+Key takeaways:A fixed single meal per day can prevent the sleep-wake cycle from free-running for at least 8 days under temporal isolation, but not the circadian pacemaker.
+
+Abstract:Effects of a fixed single meal per day were examined on the circadian pacemaker and sleep-wake cycle in subjects under temporal isolation. When the time of single meal was allowed to take at any time of day (Ad-lib meal), the sleep-wake cycle as well as the circadian rhythms in plasma melatonin, cortisol and core body temperature were significantly phase-delayed in 8 days. On the other hand, when the time of meal was fixed at 1800 h in local time (RF meal), the phase-shift of sleep-wake cycle was not significant, while those of the circadian rhythms were significant. The differential effects of a fixed single meal schedule were confirmed in most individual subjects. There was no evidence for the prefeeding increase in plasma cortisol and leptin levels under the fixed single meal schedule. The plasma ghrelin level was apparently high before meal in both Ad-lib and RF meal groups, which was, however, likely sculptured by a non-specific prandial drop and gradual increase after meal intake. Single meal augmented the prandial increase of plasma insulin levels by 4-5 times. These findings indicate that a single meal at fixed time of day during the subjective day failed to prevent the human circadian pacemaker but prevented the sleep-wake cycle to free-run at least 8 days under temporal isolation, suggesting that meal time was a potent non-photic time cue for the human sleep-wake cycle.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

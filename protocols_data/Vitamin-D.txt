@@ -1,0 +1,507 @@
+PROTOCOL: Vitamin D
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: 
+DESCRIPTION: Vitamin D is a key hormone involved in the regulation of immunity, neuron development and protection, and mood modulation. Maintaining adequate levels prevents deficiencies that lead to increased susceptibility to infections, autoimmune diseases, and neurodegenerative disorders. Vitamin D supplementation may also alleviate symptoms of depression and improve cognitive function in individuals with documented deficiency.
+
+CONTENT SECTIONS:
+
+Support for immunity, brain function, and mental health
+
+Vitamin D is a key hormone involved in the regulation of immunity, neuron development and protection, and mood modulation. Maintaining adequate levels prevents deficiencies that lead to increased susceptibility to infections, autoimmune diseases, and neurodegenerative disorders. Vitamin D supplementation may also alleviate symptoms of depression and improve cognitive function in individuals with documented deficiency.
+
+Level of evidence:Good
+
+Vitamin D binds to the VDR receptor in immune cells and neurons, modulating the expression of genes related to the production of antibacterial proteins and neurotrophins such as BDNF. It stimulates the synthesis of cathelicidin and β-defensins, regulates calcium channels in neurons, and enhances antioxidant mechanisms, protecting nerve cells from oxidative stress and apoptosis. Simultaneously, it limits excessive activation of Th1/Th17 lymphocytes and promotes the development of regulatory T cells, reducing inflammation and supporting immune homeostasis.
+
+Vitamin D supplementation is generally well tolerated by most individuals, but long-term use of high doses carries a risk of hypercalcemia, leading to nausea, muscle weakness, kidney stones, and cardiac arrhythmias.
+
+Vitamin D supplementation is not recommended for individuals with hypersensitivity to the substance, primary or secondary hypercalcemia, and certain granulomatous diseases.
+
+800–2000 IU daily; in case of documented deficiency, a loading dose of 50,000 IU once a week for 8 weeks
+
+Capsules, drops, emulsions, or liquid forms
+
+Initial changes in 25(OH)D levels visible after 4–8 weeks of regular supplementation
+
+Best taken with a fat-rich meal, in the morning or after breakfast
+
+In case of documented deficiency, use 50,000 IU of vitamin D once a week for 6–8 weeks, then switch to a maintenance dose.
+
+Regularly monitor 25(OH)D levels every 3–6 months, adjusting the dose based on results.
+
+Take vitamin D with meals containing fats for better absorption.
+
+Monitor additional calcium sources to prevent hypercalcemia.
+
+When combined with reasonable sun exposure and a balanced diet, supplementation enhances health benefits.
+
+Vitamin D supports the immune system by enhancing innate and adaptive immunity and regulating the inflammatory response. Its deficiency is associated with increased risk of infections and autoimmune diseases.
+
+Mechanisms of action on the immune system
+
+Impact on diseases and infections
+
+Summary of selected effects of vitamin D on immunity
+
+Vitamin D may support mental health, especially in individuals with deficiency or mental disorders, although effects in the general population are less pronounced.
+
+Impact on depression and anxiety
+
+Other aspects of mental health
+
+Summary of selected study results
+
+Vitamin D supports brain development, protection, and performance, and its deficiency is linked to increased risk of neurodegenerative disorders and cognitive decline.
+
+Mechanisms of vitamin D action in the brain
+
+Impact on cognitive function and disease risk
+
+Summary of selected study results
+
+Limitations and uncertainties
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:57
+
+Final comment:Available studies include numerous meta-analyses and randomized controlled trials describing the beneficial effects of vitamin D supplementation on immune function, mood improvement in individuals with depression, and a mild effect on cognitive performance, particularly in groups with documented deficiency. Despite some heterogeneity in results and differences in dosing protocols, the consensus of clinical outcomes indicates moderately certain benefits in humans.
+
+Vitamin D and Immune Regulation: Antibacterial, Antiviral, Anti‐Inflammatory
+
+Number of 
+
+Key takeaways:Vitamin D regulates immune function by promoting antimicrobial proteins, combating intracellular pathogens, and suppressing inflammatory T cells, potentially improving immune health.
+
+Abstract:Regulation of immune function continues to be one of the most well‐recognized extraskeletal actions of vitamin D. This stemmed initially from the discovery that antigen presenting cells such as macrophages could actively metabolize precursor 25‐hydroxyvitamin D (25D) to active 1,25‐dihydroxyvitamin D (1,25D). Parallel observation that activated cells from the immune system expressed the intracellular vitamin D receptor (VDR) for 1,25D suggested a potential role for vitamin D as a localized endogenous modulator of immune function. Subsequent studies have expanded our understanding of how vitamin D exerts effects on both the innate and adaptive arms of the immune system. At an innate level, intracrine synthesis of 1,25D by macrophages and dendritic cells stimulates expression of antimicrobial proteins such as cathelicidin, as well as lowering intracellular iron concentrations via suppression of hepcidin. By potently enhancing autophagy, 1,25D may also play an important role in combatting intracellular pathogens such as M. tuberculosis and viral infections. Local synthesis of 1,25D by macrophages and dendritic cells also appears to play a pivotal role in mediating T‐cell responses to vitamin D, leading to suppression of inflammatory T helper (Th)1 and Th17 cells, and concomitant induction of immunotolerogenic T‐regulatory responses. The aim of this review is to provide an update on our current understanding of these prominent immune actions of vitamin D, as well as highlighting new, less well‐recognized immune effects of vitamin D. The review also aims to place this mechanistic basis for the link between vitamin D and immunity with studies in vivo that have explored a role for vitamin D supplementation as a strategy for improved immune health. This has gained prominence in recent months with the global coronavirus disease 2019 health crisis and highlights important new objectives for future studies of vitamin D and immune function. © 2020 The Authors. JBMR Plus published by Wiley Periodicals LLC on behalf of American Society for Bone and Mineral Research.
+
+Vitamin D’s Effect on Immune Function
+
+Number of 
+
+Key takeaways:Vitamin D deficiency is linked to adverse outcomes, emphasizing the importance of avoiding it, especially in early life.
+
+Abstract:Ever since its discovery by Windhaus, the importance of the active metabolite of vitamin D (1,25-dihydroxyvitamin D3; 1,25-(OH)2D3) has been ever expanding. In this review, the attention is shifted towards the importance of the extra-skeletal effects of vitamin D, with special emphasis on the immune system. The first hint of the significant role of vitamin D on the immune system was made by the discovery of the presence of the vitamin D receptor on almost all cells of the immune system. In vitro, the overwhelming effect of supra-physiological doses of vitamin D on the individual components of the immune system is very clear. Despite these promising pre-clinical results, the translation of the in vitro observations to solid clinical effects has mostly failed. Nevertheless, the evidence of a link between vitamin D deficiency and adverse outcomes is overwhelming and clearly points towards avoidance of vitamin D deficiency especially in early life.
+
+The Effects of Vitamin D on Immune System and Inflammatory Diseases
+
+Number of 
+
+Key takeaways:Vitamin D deficiency is associated with an increased incidence or aggravation of infectious diseases and inflammatory autoimmune diseases, but its impact on treatment and prevention remains controversial.
+
+Abstract:Immune cells, including dendritic cells, macrophages, and T and B cells, express the vitamin D receptor and 1α-hydroxylase. In vitro studies have shown that 1,25-dihydroxyvitamin D, the active form of vitamin D, has an anti-inflammatory effect. Recent epidemiological evidence has indicated a significant association between vitamin D deficiency and an increased incidence, or aggravation, of infectious diseases and inflammatory autoimmune diseases, such as rheumatoid arthritis, systemic lupus erythematosus, and multiple sclerosis. However, the impact of vitamin D on treatment and prevention, particularly in infectious diseases such as the 2019 coronavirus disease (COVID-19), remains controversial. Here, we review recent evidence associated with the relationship between vitamin D and inflammatory diseases and describe the underlying immunomodulatory effect of vitamin D.
+
+An Update on the Effects of Vitamin D on the Immune System and Autoimmune Diseases
+
+Number of 
+
+Key takeaways:Optimal vitamin D intake and sunlight exposure are crucial for optimal immune system function and preventing immune-related diseases like psoriasis, type 1 diabetes, multiple sclerosis, and autoimmune diseases.
+
+Abstract:Vitamin D intervenes in calcium and phosphate metabolism and bone homeostasis. Experimental studies have shown that 1,25-dihydroxyvitamin D (calcitriol) generates immunologic activities on the innate and adaptive immune system and endothelial membrane stability. Low levels of serum 25-hydroxyvitamin D (25(OH)D) are associated with an increased risk of developing immune-related diseases such as psoriasis, type 1 diabetes, multiple sclerosis, and autoimmune diseases. Various clinical trials describe the efficacy of supplementation of vitamin D and its metabolites for treating these diseases that result in variable outcomes. Different disease outcomes are observed in treatment with vitamin D as high inter-individual difference is present with complex gene expression in human peripheral blood mononuclear cells. However, it is still not fully known what level of serum 25(OH)D is needed. The current recommendation is to increase vitamin D intake and have enough sunlight exposure to have serum 25(OH)D at a level of 30 ng/mL (75 nmol/L) and better at 40–60 ng/mL (100–150 nmol/L) to obtain the optimal health benefits of vitamin D.
+
+Vitamin D: Nutrient, Hormone, and Immunomodulator
+
+Number of 
+
+Key takeaways:Vitamin D plays a critical role in maintaining a healthy immune system, suppressing autoimmunity and reducing inflammation in chronic conditions like diabetes, asthma, and rheumatoid arthritis.
+
+Abstract:The classical functions of vitamin D are to regulate calcium-phosphorus homeostasis and control bone metabolism. However, vitamin D deficiency has been reported in several chronic conditions associated with increased inflammation and deregulation of the immune system, such as diabetes, asthma, and rheumatoid arthritis. These observations, together with experimental studies, suggest a critical role for vitamin D in the modulation of immune function. This leads to the hypothesis of a disease-specific alteration of vitamin D metabolism and reinforces the role of vitamin D in maintaining a healthy immune system. Two key observations validate this important non-classical action of vitamin D: first, vitamin D receptor (VDR) is expressed by the majority of immune cells, including B and T lymphocytes, monocytes, macrophages, and dendritic cells; second, there is an active vitamin D metabolism by immune cells that is able to locally convert 25(OH)D3 into 1,25(OH)2D3, its active form. Vitamin D and VDR signaling together have a suppressive role on autoimmunity and an anti-inflammatory effect, promoting dendritic cell and regulatory T-cell differentiation and reducing T helper Th 17 cell response and inflammatory cytokines secretion. This review summarizes experimental data and clinical observations on the potential immunomodulating properties of vitamin D.
+
+Vitamin D: Effect on Haematopoiesis and Immune System and Clinical Applications
+
+Number of 
+
+Key takeaways:Vitamin D has potential as a treatment for hematologic malignancies and in regulating immune response after transplantation.
+
+Abstract:Vitamin D is a steroid-like hormone which acts by binding to vitamin D receptor (VDR). It plays a main role in the calcium homeostasis and metabolism. In addition, vitamin D display other important effects called “non-classical actions.” Among them, vitamin D regulates immune cells function and hematopoietic cells differentiation and proliferation. Based on these effects, it is currently being evaluated for the treatment of hematologic malignancies. In addition, vitamin D levels have been correlated with patients’ outcome after allogeneic stem cell transplantation, where it might regulate immune response and, accordingly, might influence the risk of graft-versus-host disease. Here, we present recent advances regarding its clinical applications both in the treatment of hematologic malignancies and in the transplant setting.
+
+Immunologic Effects of Vitamin D on Human Health and Disease
+
+Number of 
+
+Key takeaways:Optimal vitamin D intake and sensible sunlight exposure can maintain optimal immune system function and reduce the risk of immune-related diseases.
+
+Abstract:Vitamin D is responsible for regulation of calcium and phosphate metabolism and maintaining a healthy mineralized skeleton. It is also known as an immunomodulatory hormone. Experimental studies have shown that 1,25-dihydroxyvitamin D, the active form of vitamin D, exerts immunologic activities on multiple components of the innate and adaptive immune system as well as endothelial membrane stability. Association between low levels of serum 25-hydroxyvitamin D and increased risk of developing several immune-related diseases and disorders, including psoriasis, type 1 diabetes, multiple sclerosis, rheumatoid arthritis, tuberculosis, sepsis, respiratory infection, and COVID-19, has been observed. Accordingly, a number of clinical trials aiming to determine the efficacy of administration of vitamin D and its metabolites for treatment of these diseases have been conducted with variable outcomes. Interestingly, recent evidence suggests that some individuals might benefit from vitamin D more or less than others as high inter-individual difference in broad gene expression in human peripheral blood mononuclear cells in response to vitamin D supplementation has been observed. Although it is still debatable what level of serum 25-hydroxyvitamin D is optimal, it is advisable to increase vitamin D intake and have sensible sunlight exposure to maintain serum 25-hydroxyvitamin D at least 30 ng/mL (75 nmol/L), and preferably at 40–60 ng/mL (100–150 nmol/L) to achieve the optimal overall health benefits of vitamin D.
+
+Vitamin D Regulation of Immune Function
+
+Number of 
+
+Key takeaways:Vitamin D deficiency can increase the risk of SARS-CoV2 infection, and supplementing early in the course of the infection can promote an effective immune response.
+
+Abstract:Abstract Purpose of Review To review the mechanisms by which vitamin D and its metabolites regulate the immune system to facilitate the ability of the body to prevent and/or treat SARS-CoV2 and other respiratory infections and encourage further research into the role that vitamin D supplementation plays in preventing/treating such infections. Recent Findings Vitamin D deficiency is associated with an increased risk of SARS-CoV2 and other respiratory infections. Clinical trials in general demonstrate that correction of vitamin D deficiency reduces the risk of hospitalization, ICU admission, and death from SARS-CoV2 infection. The airway epithelium and alveolar macrophages express the enzyme, CYP27B1, that produces the active metabolite of vitamin D, 1,25(OH) 2 D, and the vitamin D receptor, VDR. Vitamin D and its metabolites promote the innate immune response, which provides the first line of defense against viral and bacterial infections while restricting the adaptive immune response, which if unchecked promotes the inflammatory response leading to the acute respiratory distress syndrome and death. Summary The rationale for treating vitamin D deficiency to reduce the risk of SARS-CoV2 infection and supplementing patients with vitamin D early in the course of SARS-CoV2 infection rests primarily on the ability of vitamin D metabolites to promote an effective immune response to the infection.
+
+Immune Modulatory Effects of Vitamin D on Herpesvirus Infections
+
+Number of 
+
+Key takeaways:Vitamin D regulates the immune response, potentially reducing the risk of herpesvirus infections by increasing anti-inflammatory cytokines and decreasing proinflammatory cytokines.
+
+Abstract:In addition to its classical role in calcium and phosphate metabolism regulation, vitamin D also has an important impact on immunity modulation. Vitamin D regulates the immune response, shifting from a proinflammatory state to a more tolerogenic one by increasing the release of anti-inflammatory cytokines while downregulating proinflammatory cytokines. Thus, low levels of vitamin D have been associated with an increased risk of developing autoimmune diseases like multiple sclerosis and type 1 diabetes. Furthermore, this prohormone also enhances the release of well-known antimicrobial peptides, like cathelicidin LL-37 and β-defensins; therefore, it has been proposed that vitamin D serum levels might be related to the risk of well-known pathogen infections, including herpesviruses. These are a group of widely spread viral pathogens that can cause severe encephalitis or tumors like Kaposi’s sarcoma and Burkitt lymphoma. However, there is no consensus on the minimum levels of vitamin D or the recommended daily dose, making it difficult to establish a possible association between these two factors. This narrative non-systematic review will analyze the mechanisms by which vitamin D regulates the immune system and recent studies about whether there is an association between vitamin D serum levels and herpesvirus infections.
+
+Modulation of inflammatory and immune responses by vitamin D.
+
+Number of 
+
+Key takeaways:Vitamin D may have potential benefits in controlling immune and inflammatory conditions, but further in vivo and clinical studies are needed to confirm these benefits.
+
+Vitamin D and the Immune System
+
+Number of 
+
+Key takeaways:Vitamin D plays a role in regulating immune cells, potentially offering potential as a treatment for immune-mediated diseases, but its potential hypercalcemic effect may limit its clinical use due to calcium status.
+
+Abstract:Evidence of the role of vitamin D in the regulation of T and B cells, macrophages, dendritic cells, and keratinocytes continues to accumulate and provides a link between vitamin D and many autoimmune diseases, including Crohn’s disease, juvenile diabetes mellitus, multiple sclerosis, asthma, and rheumatoid arthritis. Considering the influence of vitamin D on the immune system, it may have potential as a treatment for immune-mediated diseases, even if additional research is required to better quantify dosage. But the biggest obstacle to its clinical use is its potent hypercalcemic effect. The calcium status of the host may influence the effect of vitamin D on immunity.
+
+Vitamin D and Immune Function
+
+Number of 
+
+Key takeaways:Vitamin D enhances immune function and promotes tolerance, particularly in the context of autoimmunity.
+
+Abstract:Vitamin D metabolizing enzymes and vitamin D receptors are present in many cell types including various immune cells such as antigen-presenting-cells, T cells, B cells and monocytes. In vitro data show that, in addition to modulating innate immune cells, vitamin D also promotes a more tolerogenic immunological status. In vivo data from animals and from human vitamin D supplementation studies have shown beneficial effects of vitamin D on immune function, in particular in the context of autoimmunity. In this review, currently available data are summarized to give an overview of the effects of vitamin D on the immune system in general and on the regulation of inflammatory responses, as well as regulatory mechanisms connected to autoimmune diseases particularly in type 1 diabetes mellitus.
+
+Immune Modulatory Effects of Vitamin D on Viral Infections
+
+Number of 
+
+Key takeaways:Vitamin D deficiency increases susceptibility to viral infections and the risk of recurrent infections, with potential benefits beyond bone and calcium homeostasis.
+
+Abstract:Viral infections have been a cause of mortality for several centuries and continue to endanger the lives of many, specifically of the younger population. Vitamin D has long been recognized as a crucial element to the skeletal system in the human body. Recent evidence has indicated that vitamin D also plays an essential role in the immune response against viral infections and suggested that vitamin D deficiency increases susceptibility to viral infections as well as the risk of recurrent infections. For instance, low serum vitamin D levels were linked to increased occurrence of high burdens viral diseases such as hepatitis, influenza, Covid-19, and AIDS. As immune cells in infected patients are responsive to the ameliorative effects of vitamin D, the beneficial effects of supplementing vitamin D-deficient individuals with an infectious disease may extend beyond the impact on bone and calcium homeostasis. Even though numerous studies have highlighted the effect of vitamin D on the immune cells, vitamin D’s antiviral mechanism has not been fully established. This paper reviews the recent mechanisms by which vitamin D regulates the immune system, both innate and adaptive systems, and reflects on the link between serum vitamin D levels and viral infections.
+
+Effects of vitamin D on the peripheral adaptive immune system: a review.
+
+Number of 
+
+Key takeaways:Vitamin D positively influences the adaptive immune system, potentially promoting immune homeostasis and potentially aiding in the treatment of autoimmune diseases.
+
+Vitamin D endocrinology on the cross-road between immunity and metabolism
+
+Number of 
+
+Key takeaways:Vitamin D has multifactorial effects on immune cells, influencing metabolic pathways and potentially playing a role in inflammation and autoimmunity.
+
+Vitamin D, exercise, and immune health in athletes: A narrative review
+
+Number of 
+
+Key takeaways:Vitamin D plays a crucial role in immune health, and overexercising can increase inflammation and decrease immune surveillance, potentially increasing vulnerability to diseases.
+
+Abstract:Vitamin D exerts important extra-skeletal effects, exhibiting an exquisite immune regulatory ability, affecting both innate and adaptive immune responses through the modulation of immunocyte function and signaling. Remarkably, the immune function of working skeletal muscle, which is fully recognized to behave as a secretory organ with immune capacity, is under the tight control of vitamin D as well. Vitamin D status, meaning hormone sufficiency or insufficiency, can push toward strengthening/stabilization or decline of immune surveillance, with important consequences for health. This aspect is particularly relevant when considering the athletic population: while exercising is, nowadays, the recommended approach to maintain health and counteract inflammatory processes, “too much” exercise, often experienced by athletes, can increase inflammation, decrease immune surveillance, and expose them to a higher risk of diseases. When overexercise intersects with hypovitaminosis D, the overall effects on the immune system might converge into immune depression and higher vulnerability to diseases. This paper aims to provide an overview of how vitamin D shapes human immune responses, acting on the immune system and skeletal muscle cells; some aspects of exercise-related immune modifications are addressed, focusing on athletes. The crossroad where vitamin D and exercise meet can profile whole-body immune response and health. Graphical Abstract
+
+Vitamin D Effects on the Immune System from Periconception through Pregnancy
+
+Number of 
+
+Key takeaways:Vitamin D plays a crucial role in modulating the immune system during periconception and pregnancy, potentially impacting reproductive outcomes and causing recurrent implantation failure and pregnancy loss.
+
+Abstract:Vitamin D is a well-known secosteroid and guardian of bone health and calcium homeostasis. Studies on its role in immunomodulatory functions have expanded its field in recent years. In addition to its impact on human physiology, vitamin D influences the differentiation and proliferation of immune system modulators, interleukin expression and antimicrobial responses. Furthermore, it has been shown that vitamin D is synthesized in female reproductive tissues and, by modulating the immune system, affects the periconception period and reproductive outcomes. B cells, T cells, macrophages and dendritic cells can all synthesize active vitamin D and are involved in processes which occur from fertilization, implantation and maintenance of pregnancy. Components of vitamin D synthesis are expressed in the ovary, decidua, endometrium and placenta. An inadequate vitamin D level has been associated with recurrent implantation failure and pregnancy loss and is associated with pregnancy-related disorders like preeclampsia. This paper reviews the most important data on immunomodulatory vitamin D effects in relation to the immune system from periconception to pregnancy and provides an insight into the possible consequences of vitamin D deficiency before and during pregnancy.
+
+Emerging role of vitamin D in autoimmune diseases: An update on evidence and therapeutic implications.
+
+Number of 
+
+Key takeaways:Vitamin D has an inverse association with the development of several autoimmune diseases, such as SLE, thyrotoxicosis, type 1 diabetes, MS, and iridocyclitis.
+
+Vitamin D regulates microbiome-dependent cancer immunity
+
+Number of 
+
+Key takeaways:Vitamin D levels influence gut bacteria composition, which in turn improves cancer immunity and immunotherapy success in mice and humans.
+
+Abstract:A role for vitamin D in immune modulation and in cancer has been suggested. In this work, we report that mice with increased availability of vitamin D display greater immune-dependent resistance to transplantable cancers and augmented responses to checkpoint blockade immunotherapies. Similarly, in humans, vitamin D–induced genes correlate with improved responses to immune checkpoint inhibitor treatment as well as with immunity to cancer and increased overall survival. In mice, resistance is attributable to the activity of vitamin D on intestinal epithelial cells, which alters microbiome composition in favor of Bacteroides fragilis, which positively regulates cancer immunity. Our findings indicate a previously unappreciated connection between vitamin D, microbial commensal communities, and immune responses to cancer. Collectively, they highlight vitamin D levels as a potential determinant of cancer immunity and immunotherapy success. Editor’s summary The gut microbiome has been shown to modulate the response of cancer patients to therapy, but precisely how microbiota affect anticancer immunity is still being elucidated. Giampazolias et al. report that vitamin D bioavailability in mice influences the composition of the gut microbiome (see the Perspective by Franco and McCoy). After dietary manipulation, vitamin D levels were observed to affect gut bacteria, which in turn improved cancer immunotherapy and antitumor immunity. In humans, low vitamin D levels were correlated with tumor development, and gene signatures of vitamin D activity were associated with improved patient responses to immunotherapy. These findings highlight the connection between vitamin D and the immune system through gut bacteria and may have applications for improving cancer therapies. —Priscilla N. Kelly
+
+The effects of vitamin D supplementation on mental health, and biomarkers of inflammation and oxidative stress in patients with psychiatric disorders: A systematic review and meta-analysis of randomized controlled trials
+
+Number of 
+
+Key takeaways:Vitamin D supplementation improves mental health and reduces inflammation in patients with psychiatric disorders, but does not affect other biomarkers of inflammation and oxidative stress.
+
+Potential Role of Vitamin D for the Management of Depression and Anxiety
+
+Number of 
+
+Key takeaways:Vitamin D supplementation may help reduce symptoms of depression and anxiety, but further studies are needed to better understand its role on mood/affect modulation.
+
+Abstract:Vitamin D, a fat-soluble vitamin, plays a role not only in calcium and phosphate homeostasis but also in several other functions, including cell growth and neuromuscular and immune function. The deficiency of vitamin D is highly prevalent throughout the world and has been suggested to be associated with an enhanced risk of major depressive disorder (MDD) and anxiety disorders. Therefore, vitamin D supplementation has been investigated for the prevention and treatment of these disorders. This review presents preclinical and clinical evidence of the effects of vitamin D supplementation in these disorders. Although preclinical studies provide limited evidence on the possible mechanisms underlying the beneficial effects of vitamin D for the management of these disorders, most of the clinical studies have indicated that vitamin D supplementation is associated with the reduction of symptoms of depression and anxiety, particularly when the supplementation was carried out in individuals with an MDD diagnosis (of the 13 studies in which MDD diagnosis was established, 12 had positive results with vitamin supplementation). However, some heterogeneity in the outcomes was observed and might be associated with an absence of overt psychiatric symptoms in several studies, genetic polymorphisms that alter vitamin D metabolism and bioavailability, differences in the supplementation regimen (monotherapy, adjunctive therapy, or large bolus dosing), and levels of 25-hydroxyvitamin D_3 (25(OH)D) at baseline (individuals with low vitamin D status may respond better) and attained after supplementation. Additionally, factors such as sex, age, and symptom severity also need to be further explored in relation to the effects of vitamin D. Therefore, although vitamin D may hold significant potential for mental health, further preclinical and clinical studies are clearly necessary to better understand its role on mood/affect modulation.
+
+Vitamin D and mental health in children and adolescents
+
+Number of 
+
+Key takeaways:Vitamin D may play a role in mental disorders in children and adolescents, but randomized controlled trials in children and adolescents are needed to confirm its potential as a complementary therapeutic option.
+
+Abstract:While vitamin D is known to be relevant for bone health, evidence has recently accumulated for an impact on mental health. To identify the potential benefits and limitations of vitamin D for mental health, an understanding of the physiology of vitamin D, the cut-off values for vitamin D deficiency and the current status of therapeutic trials is paramount. Results of a systematic PUBMED search highlight the association of vitamin D levels and mental health conditions. Here, we focus on children and adolescents studies as well as randomized controlled trials on depression in adults. 41 child and adolescent studies were identified including only 1 randomized controlled and 7 non-controlled supplementation trials. Overall, results from 25 cross-sectional studies as well as from 8 longitudinal studies suggest a role of vitamin D in the pathogenesis of mental disorders in childhood and adolescence. Findings from supplementation trials seem to support this hypothesis. However, randomized controlled trials in adults revealed conflicting results. Randomized controlled trials in childhood and adolescents are urgently needed to support the potential of vitamin D as a complementary therapeutic option in mental disorders. Study designs should consider methodological challenges, e.g., hypovitaminosis D at baseline, appropriate supplementation doses, sufficient intervention periods, an adequate power, clinically validated diagnostic instruments, and homogenous, well-defined risk groups.
+
+Association between Vitamin D Supplementation and Mental Health in Healthy Adults: A Systematic Review
+
+Number of 
+
+Key takeaways:Vitamin D supplementation does not show strong evidence for a positive effect on mental health in healthy adults, except for depression.
+
+Abstract:Vitamin D is considered to be a crucial factor that influences symptoms of depression, negative emotions, and quality of life, but to date, no systematic review has been conducted with regard to its effect on other domains of mental health. The aim of the study was to evaluate the influence of vitamin D supplementation on mental health in healthy adults. The systematic review was registered in the PROSPERO database (CRD42020155779) and performed according to the PRISMA guidelines. The literature search was conducted in PubMed and Web of Science databases and included intervention studies published until October 2019. The human studies were included if the supplementation regimen involved the administration of a specified dosage of vitamin D to an adult sample. A total of 7613 records were screened and assessed independently by two researchers, based on their title, abstract, and full text sequentially. Finally, 14 studies were included, and their risk of bias was assessed using the Newcastle–Ottawa Scale (NOS). The studies were included if they presented the results of various doses of vitamin D, compared the supplementation results with the placebo effect, compared the outcome with no supplementation, or observed effect of specific dose applied. The assessed mental health outcomes mainly included depressive symptoms, or depression, well-being, quality of life, mood, general mental component, and anxiety, but single studies also included other parameters such as distress, impression of improvement, and fear of falling and flourishing. The results of the majority of studies did not confirm a positive influence of vitamin D supplementation. None of the high-quality studies (assessed using NOS), which evaluated outcomes other than depression, supported the hypothesis that vitamin D supplementation effectively ameliorates mental health issues, while they present conflicting evidence for depression. Some studies indicated that supplementation should be combined with physical activity to provide effective results, and that supplementation is less effective than vitamin D supply from food sources. The included studies were conducted in diverse populations and followed various doses and intervals of administration, so the results may be incomparable, which should be considered as a limitation. The conducted systematic review did not provide strong evidence for a positive effect of vitamin D supplementation on mental health in healthy adults.
+
+Effects of vitamin D supplementation on depression and some involved neurotransmitters.
+
+Number of 
+
+Key takeaways:Vitamin D supplementation significantly improved depression severity in patients with mild to moderate depression, but its anti-depressive effect is not mediated by the measured neurotransmitters.
+
+Effects of vitamin D on mood and sleep in the healthy population: Interpretations from the serotonergic pathway.
+
+Number of 
+
+Key takeaways:Increasing vitamin D levels may improve mood and sleep in healthy individuals, but mixed results were found in studies based on the serotonergic pathway.
+
+The Influence of Vitamin D Intake and Status on Mental Health in Children: A Systematic Review
+
+Number of 
+
+Key takeaways:Vitamin D intake in a balanced diet or supplementation may positively influence mental health in children.
+
+Abstract:A potential role of vitamin D in some components of mental health is currently suggested, but the analyses are conducted mainly for adults, while for young individuals mental health is especially important, due to its lifelong effects. The aim of the study was to analyze the association between vitamin D intake or status and mental health in children within a systematic review of literature, including both intervention and observational studies. The literature search was conducted according to the PRISMA guidelines and it covered peer-reviewed studies included in databases of PubMed and Web of Science until October 2019. The studies presenting either vitamin D intake, or vitamin D status in human subjects were allowed (excluding subjects with intellectual disabilities, eating disorders and neurological disorders), while for mental health the various methods of assessment and wide scope of factors were included. The bias was assessed using the Newcastle–Ottawa Scale (NOS). The review was registered in the PROSPERO database (CRD42020155779). A number of 7613 studies after duplicate removing were extracted by two independent researchers, followed by screening and assessment for eligibility, conducted by two independent researchers in two steps (based on title and abstract). Afterwards, the full texts were obtained and after reviewing, a number of 24 studies were included. The synthetic description of the results was prepared, structured around exposure (vitamin D supplementation/status) and outcome (components of mental health). The included studies were conducted either in groups of healthy individuals, or individuals with mental health problems, and they assessed following issues: behavior problems, violence behaviors, anxiety, depressive symptoms/depression, aggressive disorder, psychotic features, bipolar disorder, obsessive compulsive disorder, suicidal incident, as well as general patterns, as follows: mental health, level of distress, quality of life, well-being, mood, sleep patterns. The vast majority of assessed studies, including the most prominent ones (based on the NOS score) supported potential positive influence of vitamin D on mental health in children. As a limitation of the analysis, it should be indicated that studies conducted so far presented various studied groups, outcomes and psychological measures, so more studies are necessary to facilitate comparisons and deepen the observations. Nevertheless, vitamin D intake within a properly balanced diet or as a supplementation, except for a safe sun exposure, should be indicated as an element supporting mental health in children, so it should be recommended to meet the required 25(OH)cholecalciferol blood level in order to prevent or alleviate mental health problems.
+
+Influence of Vitamin D Supplementation on Mental Health in Diabetic Patients: A Systematic Review
+
+Number of 
+
+Key takeaways:Vitamin D supplementation positively influences mental health in diabetic patients, particularly for anxiety and depression, but only when combined with mindfulness training.
+
+Abstract:Diabetes is associated with a number of mental health consequences, including enhanced risk of depression and anxiety, as well as decreased quality of life, and vitamin D deficiency is considered to be one of the factors that influence these outcomes in diabetic patients. The aim of the present study was to conduct a systematic review of the literature presenting the data regarding the influence of vitamin D supplementation on mental health in diabetic adults. This study was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines and registered in the International Prospective Register of Systematic Reviews (PROSPERO) database (Registration number CRD42020155779). A systematic search of the PubMed and Web of Science databases was performed, and the intervention studies published until September 2021 were included in the review. The human studies were included if an adult sample of diabetic individuals received vitamin D supplementation during the intervention and its effect on any mental health aspect was assessed, but studies presenting the influence of combined supplementation of multiple nutrients were excluded. After removing duplicate records, a total of 8514 publications were screened and assessed independently by two researchers, based on their title, abstract, and full text. Finally, six studies were included in the current systematic review, and the risk of bias was evaluated using the Newcastle–Ottawa Scale (NOS). The included studies analyzed the influence of a specific dose of vitamin D, or different doses of vitamin D, or compared the results of supplementation with a specific dose of vitamin D against the placebo group. The supplementation was performed for at least 12 weeks. The mental health outcomes analyzed in these studies included health-related quality of life, depression, anxiety, stress, and general mental health status of adult diabetic patients. The results of the majority of the studies confirmed the positive influence of vitamin D supplementation on the mental health of diabetic individuals. Those studies that analyzed the influence of vitamin D supplementation on depression and anxiety established the beneficial effect of the vitamin. In some studies, the influence of vitamin D supplementation on the health-related quality of life was not considered unless combined with mindfulness training. However, it must be emphasized that different dosage regimens and intervention periods were followed in the reviewed studies, and only a small number of studies were randomized against placebo, which should be considered as a limitation of the present study. The findings of the conducted systematic review demonstrated the positive influence of vitamin D supplementation on the mental health of diabetic patients, which was proved for anxiety and depression, but in the case of health-related quality of life, the positive effect was observed only when the intervention included mindfulness training. These outcomes suggest that supplementation should be recommended to improve the vitamin D status and the mental health of patients in this group.
+
+The effects of vitamin D levels on physical, mental health, and sleep quality in adults: a comprehensive investigation
+
+Number of 
+
+Key takeaways:Higher vitamin D levels are strongly linked to improved physical and mental health, with a significant negative correlation to sleep quality in adults.
+
+Abstract:Background Vitamin D, essential hormone for endocrine, autocrine, and paracrine functions. A billion people are deficient globally which contributing to numerous health issues. This study explores the link between vitamin D levels and sleep quality, impacting mental and physical health in adults. Methods This prospective cross-sectional study was conducted at Nims Hospital, Jaipur, involving 484 adults’ participants. Blood samples were collected for serum 25(OH) D measurements. Data were gathered using the SF-36 and ISI questionnaires to assess health and sleep quality. Results Higher vitamin D levels were strongly linked to better physical health, including physical function (r = 0.642, p < 0.001), general health (r = 0.560, p < 0.001), and PCS score (r = 0.441, p < 0.001). Vitamin D also positively impacted social functioning (r = 0.096, p = 0.035) and was negatively related to ISI scores (r = −0.112, p = 0.014). Conclusion The study highlights a strong link between higher vitamin D levels and improved physical and mental health, with significant negative correlation to ISI scores. This underscores the importance of adequate vitamin D for overall well-being. The findings call for urgent measures to address vitamin D deficiency and further research into its health impacts.
+
+Effect of Vitamin D Supplementation on Depression in Adults: A Systematic Review of Randomized Controlled Trials (RCTs)
+
+Number of 
+
+Key takeaways:Vitamin D supplementation shows a mixed positive and negative effect on depression, with only four medium-risk randomized controlled trials supporting its effectiveness.
+
+Abstract:Vitamin D is a nutrient potentially beneficial in the treatment of depression. The study aimed to carry out a systematic review of the studies assessing the influence of vitamin D supplementation on depression within Randomized Controlled Trials (RCTs). The systematic review was prepared on the basis of the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, and was registered in the International Prospective Register of Systematic Reviews (PROSPERO) database (CRD42020155779). The peer-reviewed studies available within PubMed or Web of Science databases until September 2021 were taken into account. The number of screened records was 8514, and 8 records were included. Two independent researchers conducted screening, including, reporting, and risk of bias assessment using the revised Cochrane risk-of-bias tool for randomized trials. The included studies presented a population of patients with major depressive disorders or general depression, as well as bipolar depression or postpartum depression. The majority of included studies were conducted for 8 weeks or 12 weeks, while one study was conducted for 6 months. Within the large number of included studies, a daily dose of 1500 IU, 1600 IU, or 2800 IU was applied, while within some studies, a vitamin D dose of 50,000 IU was applied weekly or biweekly. Among applied psychological measures of depression, there were various tools. In spite of the fact that the majority of included studies (five studies) supported the positive effect of vitamin D supplementation for the psychological measure of depression, for three studies the positive influence was not supported. A medium risk of bias was indicated for six studies, while a high risk of bias was defined for only two studies, due to deviations from the intended interventions and in measurement of the outcome, as well as for one study, also arising from the randomization process and due to missing outcome data. Based on conducted assessment, it should be emphasized that there are only four studies supporting the positive influence of vitamin D supplementation for the psychological measure of depression of the medium risk of bias, while two studies of a medium risk of bias did not support it. Taking this into account, the conducted systematic review is not a strong confirmation of the effectiveness of vitamin D supplementation in the treatment of depression.
+
+The effect of vitamin D on mental health – literature analysis
+
+Number of 
+
+Key takeaways:Vitamin D supplementation can significantly reduce depression levels, anxiety, and psychoses in humans, with benefits observed in various age groups and stages of life.
+
+Abstract:Introduction: Many 
+
+Vitamin D Supplementation and Mental Health in Multiple Sclerosis Patients: A Systematic Review
+
+Number of 
+
+Key takeaways:Vitamin D supplementation may have a positive effect on mental health in multiple sclerosis patients, improving quality of life and potentially reducing depression/depressive symptoms.
+
+Abstract:Vitamin D has a promising role in multiple sclerosis (MS) management, and it has been found to be beneficial for patients’ mental health, which is reduced in MS patients. The aim of the present study was to conduct a systematic review of the literature to assess the influence of vitamin D supplementation on mental health in MS patients. The systematic review was registered in the PROSPERO database (CRD42020155779) and it was conducted on the basis of the PRISMA guidelines. The search procedure was conducted using PubMed and Web of Science databases and it included studies published up until September 2021. Six studies were included in the systematic review. The risk of bias was analyzed using the Newcastle–Ottawa Scale (NOS). Within the included studies, there were two studies randomized against placebo and four other prospective studies. The studies presented vitamin D interventions randomized against placebo or not randomized, while supplementation was applied for various durations—from 4 weeks to 12 months, or the studies compared patients who applied vitamin D supplementation and those who did not apply it and verified the effect of the supplementation after a number of years. The mental health outcomes that were assessed included quality of life, depression/depressive symptoms, and fatigue as an additional element. The majority of studies supported the positive influence of vitamin D on the mental health of MS patients, including the study characterized as having the highest quality (randomized against placebo with the highest NOS score). All the studies that assessed the quality of life indicated the positive influence of vitamin D while the studies that did not find a positive influence of vitamin D were conducted for depression/depressive symptoms. In spite of the fact that only a small number of studies have been conducted so far, and only two studies were randomized against a placebo, some conclusions may be formulated. The systematic review allowed us to conclude that there may be a positive effect of vitamin D supplementation in MS patients, which was stated in all of the studies analyzing quality of life, as well as in one study analyzing depressive symptoms. Considering that vitamin D deficiency is common in MS patients, and the potential positive influence of supplementation on the quality of life, supplementation should be applied at least in doses that cover the recommended intake.
+
+Severe Vitamin D Deficiency—A Possible Cause of Resistance to Treatment in Psychiatric Pathology
+
+Number of 
+
+Key takeaways:Vitamin D deficiency has significant implications for mental health, affecting mood and behavior, and potentially contributing to treatment resistance in psychiatric disorders.
+
+Abstract:In the last few years, vitamin D functions have been studied progressively, and along with their main role in regulating calcium homeostasis, the potential function in the nervous system and the link between different psychiatric disorders and vitamin D deficiency have been revealed. The discovery of vitamin D receptors in multiple brain structures, like the hippocampus, led to the hypothesis that vitamin D deficiency could be responsible for treatment resistance in psychiatric diseases. The aim of this study was to analyze the current knowledge in the literature regarding vitamin D deficiency among individuals afflicted with psychiatric disorders and assess the potential therapeutic benefits of vitamin D supplementation. A systematic search was conducted on the PubMed database for articles published in the last five years (2016–2022) in English, focusing on human subjects. Results show that vitamin D deficiency has implications for numerous psychiatric disorders, affecting mood and behavior through its influence on neurotransmitter release, neurotrophic factors, and neuroprotection. It also plays a role in modulating inflammation, which is often elevated in psychiatric disorders. In conclusion, vitamin D deficiency is prevalent and has far-reaching implications for mental health. This review underscores the importance of exploring the therapeutic potential of vitamin D supplementation in individuals with psychiatric disorders and highlights the need for further research in this complex field.
+
+Vitamin D and probiotic co-supplementation affects mental health, hormonal, inflammatory and oxidative stress parameters in women with polycystic ovary syndrome
+
+Number of 
+
+Key takeaways:Co-administration of vitamin D and probiotics for 12 weeks improves mental health, reduces testosterone and hirsutism, and enhances antioxidant capacity in women with PCOS.
+
+Abstract:The aim of this study was to determine the effect of vitamin D and probiotic co-administration on mental health, hormonal, inflammatory and oxidative stress parameters in women with polycystic ovary syndrome (PCOS). This randomized, double-blinded, placebo-controlled clinical trial was carried out on 60 subjects, aged 18–40 years old. Subjects were randomly allocated to take either 50,000 IU vitamin D every 2 weeks plus 8 × 109 CFU/day probiotic (n = 30) or placebo (n = 30) for 12 weeks. Vitamin D and probiotic co-supplementation, compared with the placebo, significantly improved beck depression inventory , general health questionnaire scores (β − 0.93; 95% CI, − 1.78, − 0.08; P = 0.03) and depression, anxiety and stress scale scores (β − 0.90; 95% CI, − 1.67, − 0.13; P = 0.02). Vitamin D and probiotic co-supplementation was associated with a significant reduction in total testosterone (β − 0.19 ng/mL; 95% CI, − 0.28, − 0.10; P < 0.001), hirsutism (β − 0.95; 95% CI, − 1.39, − 0.51; P < 0.001), high-sensitivity C-reactive protein (hs-CRP) (β − 0.67 mg/L; 95% CI, − 0.97, − 0.38; P < 0.001) and malondialdehyde (MDA) levels (β − 0.25 μmol/L; 95% CI, − 0.40, − 0.10; P = 0.001), and a significant increase in total antioxidant capacity (TAC) (β 82.81 mmol/L; 95% CI, 42.86, 122.75; P < 0.001) and total glutathione (GSH) levels (β 40.42 μmol/L; 95% CI, 4.69, 76.19; P = 0.02), compared with the placebo. Overall, the co-administration of vitamin D and probiotic for 12 weeks to women with PCOS had beneficial effects on mental health parameters, serum total testosterone, hirsutism, hs-CRP, plasma TAC, GSH and MDA levels. This study was retrospectively registered in the Iranian website ( ) for registration of clinical trials ( IRCT20170513033941N37 ).
+
+Effects of Vitamin D Supplementation on Cognitive Outcomes: A Systematic Review and Meta-Analysis.
+
+Number of 
+
+Key takeaways:Vitamin D supplementation has a small but significant positive effect on global cognition in adults, with stronger effects in vulnerable populations and those with baseline vitamin D deficiency.
+
+Abstract:Clinical studies examining the effects of vitamin D on cognition have reported inconsistent results. To date, no comprehensive study has examined this effect on the basis of sample characteristics or intervention model–related factors. This systematic review and meta-analysis of randomized controlled trials investigated the effects of vitamin D supplementation on global cognitive function and specific cognitive domains. This review was preregistered in the PROSPERO database (CRD42021249908) and comprised 24 trials enrolling 7557 participants (mean age: 65.21 years; 78.54% women). The meta-analysis revealed that vitamin D significantly influenced global cognition (Hedges’ g = 0.128, p = .008) but not specific cognitive domains. A subgroup analysis indicated that the effect size of vitamin D was stronger for vulnerable populations (Hedges’ g = 0.414) and those with baseline vitamin D deficiency (Hedges’ g = 0.480). On the basis of subgroup analyses in studies without biological flaws (Hedges’ g = 0.549), we suggest that an intervention model should correct baseline vitamin D deficiency. Our results indicate that vitamin D supplementation has a small but significant positive effect on cognition in adults.
+
+Effectiveness of Vitamin D on Neurological and Mental Disorders
+
+Number of 
+
+Key takeaways:Vitamin D supplementation may benefit a range of mental health and neurological disorders, with the therapeutic potential varying by specific disorder.
+
+Abstract:(1) Background: Mental disorders are conditions that affect a person’s cognition, mood, and behaviour, such as depression, anxiety, bipolar disorder, and schizophrenia. In contrast, neurological disorders are diseases of the brain, spinal cord, and nerves. Such disorders include strokes, epilepsy, Alzheimer’s, and Parkinson’s. Both mental and neurological disorders pose significant global health challenges, impacting hundreds of millions worldwide. Research suggests that certain vitamins, including vitamin D, may influence the incidence and severity of these disorders; (2) Methods: This systematic review examined the potential effects of vitamin D supplementation on various mental and neurological disorders. Evidence was gathered from databases like PubMed, Cochrane, and Google Scholar, including multiple randomized controlled trials comparing vitamin D supplementation to placebo or no treatment for conditions like depression, bipolar disorder, epilepsy, schizophrenia, and neuroinflammation; (3) Results: The findings strongly indicate that vitamin D supplementation may benefit a range of mental health and neurological disorders. The magnitude of the beneficial impact varied by specific disorder, but the overall pattern strongly supports the therapeutic potential of vitamin D on these disorders; (4) Conclusions: This review provides valuable insight into the role vitamin D may play in the management of critical brain-related health issues.
+
+The effects of vitamin D and probiotic co-supplementation on mental health parameters and metabolic status in type 2 diabetic patients with coronary heart disease: A randomized, double-blind, placebo-controlled trial
+
+Number of 
+
+Key takeaways:Vitamin D and probiotic co-supplementation improves mental health, reduces insulin levels, and improves HDL-cholesterol levels in type 2 diabetic patients with coronary heart disease.
+
+Supplementation of Vitamin D and Mental Health in Adults with Respiratory System Diseases: A Systematic Review of Randomized Controlled Trials
+
+Number of 
+
+Key takeaways:Vitamin D supplementation shows a positive influence on mental health in adults with respiratory system diseases, but the review lacks strong confirmation of its beneficial effect on mental health.
+
+Abstract:Vitamin D is indicated to be beneficial for the prevention and treatment of both respiratory health and mental health problems, while mental health issues are a common consequence of diseases of the respiratory system. The aim of the presented systematic review was to gather available evidence regarding the influence of the supplementation of vitamin D on mental health in adults with respiratory system diseases obtained within randomized controlled trials (RCTs). The systematic review was conducted on the basis of the PubMed and Web of Science databases in agreement with the guidelines of Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA), while being registered within the database of the International Prospective Register of Systematic Reviews (PROSPERO) (CRD42020155779). A total of 8514 studies published before September 2021 were screened and 5 RCTs were included, which were assessed using the revised Cochrane risk-of-bias tool for randomized trials. Screening, inclusion, reporting, and assessment were conducted by two researchers independently. The studies focused on the assessment of patients with chronic obstructive pulmonary disease, but also increased susceptibility to respiratory tract infections, pulmonary tuberculosis, and bronchial asthma. The studies were conducted for various periods of time—from 2 months to a year—while the dose of vitamin D applied was also diverse—from 4000 IU applied daily, to 100,000 IU applied weekly, or monthly. The psychological measures applied within the studies allowed the assessment, mainly, of quality of life, but also well-being, and depression. For the majority of studies, some concerns regarding risk of bias were defined, resulting from the randomization process and selection of reported results; however, for one study, the risk was even defined as high. Within the included studies, three studies confirmed a beneficial effect of vitamin D (including those with a high risk of bias), but two studies did not confirm it. Taking into account the evidence gathered, in spite of a positive influence of vitamin D on mental health in individuals with increased susceptibility to respiratory tract infections and bronchial asthma, the conducted systematic review is not a strong confirmation of the beneficial effect of the supplementation of vitamin D on mental health in adults with respiratory system diseases.
+
+Role of Vitamin D in Preventing and Treating Selected Extraskeletal Diseases—An Umbrella Review
+
+Number of 
+
+Key takeaways:Vitamin D may have beneficial effects on respiratory tract, autoimmune, neuro-degenerative, and mental diseases, but more high-quality RCTs are needed to confirm these findings.
+
+Abstract:Evidence is accumulating that vitamin D may have beneficial effects on respiratory tract, autoimmune, neuro-degenerative, and mental diseases. The present umbrella review of systematic reviews (SRs) of cohort studies and randomised controlled trials (RCTs), plus single Mendelian randomisation studies aims to update current knowledge on the potential role of vitamin D in preventing and treating these extraskeletal diseases. Altogether, 73 SRs were identified. Observational data on primary prevention suggest an inverse association between vitamin D status and the risk of acute respiratory tract infections (ARI), dementia and cognitive decline, and depression, whereas studies regarding asthma, multiple sclerosis (MS), and type 1 diabetes mellitus (T1DM) are scarce. SRs of RCTs support observational data only for the risk of ARI. No respective RCTs are available for the prevention of chronic obstructive pulmonary disease (COPD), MS, and T1DM. SRs of RCTs indicate beneficial therapeutic effects in vitamin D-deficient patients with asthma and COPD, while effects on major depression and T1DM need to be further elucidated. Mendelian randomisation studies do not consistently support the results of SRs. Since several limitations of the included SRs and existing RCTs do not permit definitive conclusions regarding vitamin D and the selected diseases, further high-quality RCTs are warranted.
+
+Vitamin D Supplementation and Mental Health in Inflammatory Bowel Diseases and Irritable Bowel Syndrome Patients: A Systematic Review
+
+Number of 
+
+Key takeaways:Vitamin D supplementation has a positive effect on mental health in adults with inflammatory bowel diseases and irritable bowel syndrome, improving anxiety and depression.
+
+Abstract:Inflammatory bowel diseases (IBDs) and irritable bowel syndrome (IBS) are associated with decreased quality of life and mental health problems. Among various approaches to supportive therapy that aims to improve mental health in affected individuals, vitamin D supplementation is considered to be an effective method which may also be beneficial in alleviating the symptoms during the course of IBDs and IBS. The aim of the present study was to conduct a systematic review of the literature presenting the data regarding the influence of vitamin D supplementation on mental health in adults with inflammatory and functional bowel diseases, including IBDs and IBS. This study was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines and registered in the International Prospective Register of Systematic Reviews (PROSPERO) database (Registration number CRD42020155779). A systematic search of the PubMed and Web of Science databases was performed, and the intervention studies published until September 2021 were included. The human studies eligible to be included in the review should have described any intervention involving vitamin D as a supplement in a group of adult patients suffering from IBDs and/or IBS and should have assessed any component of mental health, but studies presenting the effects of combined supplementation of multiple nutrients were excluded. After eliminating the duplicates, a total of 8514 records were screened and assessed independently by two researchers. Further evaluation was carried out on the basis of title, abstract, and full text. Finally, 10 studies (four for IBDs and six for IBS) were selected for the current systematic review, and their quality was assessed using the Newcastle–Ottawa Scale (NOS). The studies analyzed the influence of various doses of vitamin D on bowel diseases, compared the results of vitamin D supplementation with placebo, or administered specific doses of vitamin D to obtain the required level in the blood. Supplementation was performed for at least 6 weeks. The analyzed mental health outcomes mainly included disease-specific quality of life/quality of life, anxiety, and depression. The majority of studies (including high-quality ones) confirmed the positive effect of vitamin D supplementation on the mental health of IBD and IBS patients, which was proven by all research works evaluating anxiety and depression and by the majority of research works evaluating quality of life. Although the studies followed different dosage regimens and supplementation protocols, the positive influence of vitamin D on mental health was found to be consistent. The number of studies on patients suffering from ulcerative colitis and the availability of trials randomized against the placebo group was low in the current review, which is considered to be a limitation of the present study and could also reflect the final outcome of the analysis. The conducted systematic review established the positive effect of vitamin D supplementation on the mental health of IBD and IBS patients, but this result requires further investigation, particularly in relation to other mental health outcomes.
+
+Vitamin D: Brain and Behavior
+
+Number of 
+
+Key takeaways:Vitamin D plays a crucial role in brain development and shaping behavior, with evidence linking deficiency to neurodevelopmental disorders and certain degenerative conditions.
+
+Abstract:It has been 20 years since we first proposed vitamin D as a “possible” neurosteroid.(1) Our work over the last two decades, particularly results from our cellular and animal models, has confirmed the numerous ways in which vitamin D differentiates the developing brain. As a result, vitamin D can now confidently take its place among all other steroids known to regulate brain development.(2) Others have concentrated on the possible neuroprotective functions of vitamin D in adult brains. Here these data are integrated, and possible mechanisms outlined for the various roles vitamin D appears to play in both developing and mature brains and how such actions shape behavior. There is now also good evidence linking gestational and/or neonatal vitamin D deficiency with an increased risk of neurodevelopmental disorders, such as schizophrenia and autism, and adult vitamin D deficiency with certain degenerative conditions. In this mini‐review, the focus is on what we have learned over these past 20 years regarding the genomic and nongenomic actions of vitamin D in shaping brain development, neurophysiology, and behavior in animal models. © 2020 The Author. JBMR Plus published by Wiley Periodicals LLC on behalf of American Society for Bone and Mineral Research.
+
+Vitamin D and the brain: Genomic and non-genomic actions
+
+Number of 
+
+Key takeaways:Vitamin D plays a crucial role in brain development, neurotransmission, neuroprotection, and immunomodulation, with both genomic and non-genomic actions in the brain.
+
+Vitamin D and the Central Nervous System: Causative and Preventative Mechanisms in Brain Disorders
+
+Number of 
+
+Key takeaways:Vitamin D deficiency is associated with various neurological and psychiatric conditions, but its neuroprotective actions may offer a potential solution in psychiatry and neurology.
+
+Abstract:Twenty of the last one hundred years of vitamin D research have involved investigations of the brain as a target organ for this hormone. Our group was one of the first to investigate brain outcomes resulting from primarily restricting dietary vitamin D during brain development. With the advent of new molecular and neurochemical techniques in neuroscience, there has been increasing interest in the potential neuroprotective actions of vitamin D in response to a variety of adverse exposures and how this hormone could affect brain development and function. Rather than provide an exhaustive summary of this data and a listing of neurological or psychiatric conditions that vitamin D deficiency has been associated with, here, we provide an update on the actions of this vitamin in the brain and cellular processes vitamin D may be targeting in psychiatry and neurology.
+
+Protective effects of vitamin D on neurophysiologic alterations in brain aging: role of brain-derived neurotrophic factor (BDNF)
+
+Number of 
+
+Key takeaways:Vitamin D supplementation can counteract age-related brain dysfunction by enhancing brain BDNF levels and cholinergic function.
+
+Abstract:ABSTRACT Background/aim: Vitamin D has been hypothesized to be main regulator of the aging rate, alongside evidences support its role in neuroprotection. However, data about the protective role of vitamin D against neurophysiologic alterations associated with brain aging is limited. This study investigated the possible protective effects that vitamin D has on brain-derived neurotrophic factor (BDNF), cholinergic function, oxidative stress and apoptosis in aging rat brain. Methods: Male Wister albino rats aged 5 months (young), 12 months (middle aged) and 24 months (old) (n = 20 each) were used. Each age group subdivided to either vitamin D3 supplementation (500 IU/kg/day orally for 5 weeks) or no supplementation (control) group (n = 10 each). Serum 25-hydroxyvitamin D , brain BDNF and malondialdehyde levels and activities of acetylcholinesterase (AChE), antioxidant enzymes (glutathione reductase, glutathione peroxidase and superoxide dismutase) and caspase-3 were quantified. Results: Vitamin D supplementation significantly mitigated the observed aging-related reduction in brain BDNF level and activities of AChE and antioxidant enzymes and elevation in malondialdehyde level and caspase-3 activity compared to control groups. Brain BDNF level correlated positively with serum 25(OH) D level and brain AChE activity and negatively with brain malondialdehyde level and caspase-3 activity in supplemented groups. Conclusion: Restoring vitamin D levels may, therefore, represent a useful strategy for healthy brain aging. Augmenting brain BDNF seems to be a key mechanism through which vitamin D counteracts age-related brain dysfunction.
+
+Vitamin D and the brain.
+
+Number of 
+
+Key takeaways:Vitamin D may play a crucial role in brain development and function, potentially playing a role in neurological and neuropsychiatric disorders.
+
+Vitamin D and Neurological Diseases: An Endocrine View
+
+Number of 
+
+Key takeaways:Optimal vitamin D levels are crucial for brain development, function, and protection against neurological diseases, including Alzheimer's and Parkinson's diseases.
+
+Abstract:Vitamin D system comprises hormone precursors, active metabolites, carriers, enzymes, and receptors involved in genomic and non-genomic effects. In addition to classical bone-related effects, this system has also been shown to activate multiple molecular mediators and elicit many physiological functions. In vitro and in vivo studies have, in fact, increasingly focused on the “non-calcemic” actions of vitamin D, which are associated with the maintenance of glucose homeostasis, cardiovascular morbidity, autoimmunity, inflammation, and cancer. In parallel, growing evidence has recognized that a multimodal association links vitamin D system to brain development, functions and diseases. With vitamin D deficiency reaching epidemic proportions worldwide, there is now concern that optimal levels of vitamin D in the bloodstream are also necessary to preserve the neurological development and protect the adult brain. The aim of this review is to highlight the relationship between vitamin D and neurological diseases.
+
+The effects of vitamin D on brain development and adult brain function
+
+Number of 
+
+Key takeaways:Vitamin D plays a crucial role in brain development and function, with deficiencies linked to neuropsychiatric disorders and adverse outcomes like Parkinson's disease, Alzheimer's disease, depression, and cognitive decline.
+
+Vitamin D as a neurosteroid affecting the developing and adult brain.
+
+Number of 
+
+Key takeaways:Optimal vitamin D levels are crucial for healthy brain function and may help prevent neuropsychiatric disorders and neurodegenerative diseases.
+
+Abstract:Vitamin D deficiency is prevalent throughout the world, and growing evidence supports a requirement for optimal vitamin D levels for the healthy developing and adult brain. Vitamin D has important roles in proliferation and differentiation, calcium signaling within the brain, and neurotrophic and neuroprotective actions; it may also alter neurotransmission and synaptic plasticity. Recent experimental studies highlight the impact that vitamin D deficiency has on brain function in health and disease. In addition, results from recent animal studies suggest that vitamin D deficiency during adulthood may exacerbate underlying brain disorders and/or worsen recovery from brain stressors. An increasing number of epidemiological studies indicate that vitamin D deficiency is associated with a wide range of neuropsychiatric disorders and neurodegenerative diseases. Vitamin D supplementation is readily available and affordable, and this review highlights the need for further research.
+
+Vitamin D and brain health: an observational and Mendelian randomization study
+
+Number of 
+
+Key takeaways:Low vitamin D status is associated with neuroimaging outcomes and increased risk of dementia and stroke, with a threshold effect on dementia being 54% higher at 25 nmol/L compared to 50 nmol/L.
+
+Abstract:ABSTRACT Background Higher vitamin D status has been suggested to have beneficial effects on the brain. Objectives To investigate the association between 25-hydroxyvitamin D , neuroimaging features, and the risk of dementia and stroke. Methods We used prospective data from the UK Biobank (37–73 y at baseline) to examine the association between 25(OH)D concentrations with neuroimaging outcomes (N = 33,523) and the risk of dementia and stroke (N = 427,690; 3414 and 5339 incident cases, respectively). Observational analyses were adjusted for age, sex, ethnicity, month, center, and socioeconomic, lifestyle, sun behavior, and illness-related factors. Nonlinear Mendelian randomization (MR) analyses were used to test for underlying causality for neuroimaging outcomes (N = 23,901) and dementia and stroke (N = 294,514; 2399 and 3760 cases, respectively). Results Associations between 25(OH)D and total, gray matter, white matter, and hippocampal volumes were nonlinear, with lower volumes both for low and high concentrations (adjusted P-nonlinear ≤ 0.04). 25(OH)D had an inverse association with white matter hyperintensity volume . Vitamin D deficiency was associated with an increased risk of dementia and stroke, with the strongest associations for those with 25(OH)D <25 nmol/L (compared with 50–75.9 nmol/L; adjusted HR: 1.79; 95% CI: 1.57, 2.04 and HR: 1.40; 95% CI: 1.26, 1.56, respectively). Nonlinear MR analyses confirmed the threshold effect of 25(OH)D on dementia, with the risk predicted to be 54% (95% CI: 1.21, 1.96) higher for participants at 25 nmol/L compared with 50 nmol/L. 25(OH)D was not associated with neuroimaging outcomes or the risk of stroke in MR analyses. Potential impact fraction suggests 17% (95% CI: 7.22, 30.58) of dementia could be prevented by increasing 25(OH)D to 50 nmol/L. Conclusions Low vitamin D status was associated with neuroimaging outcomes and the risks of dementia and stroke even after extensive covariate adjustment. MR analyses support a causal effect of vitamin D deficiency on dementia but not on stroke risk.
+
+Vitamin D and the nervous system
+
+Number of 
+
+Key takeaways:Vitamin D contributes to brain activity and connectivity, but its potential role in neurological diseases remains unclear.
+
+Abstract:ABSTRACT Objective: to summarise the activities that Vitamin D (VD) carries out in the brain and to clarify the potential role of VD in neurological diseases. Methods: a literature research has been performed in Pubmed using the following keywords: ‘Vitamin D’, ‘nervous system’, ‘brain’. Results: the studies reviewed show that VD contributes to cerebral activity in both embryonic and adult brain, helping the connectivity of neural circuits responsible for locomotor, emotional and reward-dependent behavior. Low VD serum levels have been found in patients affected by Alzheimer Disease, Parkinson Disease, Multiple Sclerosis, Autism Spectrum Disorders, Sleep Disorders and Schizophrenia. Discussion: findings are controversial and should be interpreted with caution, since most of the studies performed have observational study set and few interventional studies are available, producing conflicting results. Overall, it can be stated that the potential role of Vitamin D in neurological diseases is mostly unclear and further randomised controlled trials are needed to understand better whether Vitamin D supplementation treatment can be useful in brain disorders.
+
+Vitamin D in dementia prevention
+
+Number of 
+
+Key takeaways:Maintaining sufficient vitamin D levels in older adults may slow, prevent, or improve neurocognitive decline and protect against Alzheimer's disease.
+
+Abstract:Beyond effects on bone health, vitamin D exerts effects on a variety of target organs, including the brain. The discussion herein presents the state of the art in research on the neurological role of vitamin D and clinical implications among older adults, including implications for dementia onset and progression. Some of the neurosteroid actions of vitamin D include regulation of calcium homeostasis, clearance of amyloid‐β peptide, antioxidant and anti‐inflammatory effects, and possible protection against the neurodegenerative mechanisms associated with Alzheimer's disease (AD). The correction of age‐related hypovitaminosis D and cognitive decline has been reported by various cross‐sectional and longitudinal studies reporting associations of lower vitamin D concentrations with brain changes and poorer cognition, specifically with respect to executive dysfunction. Epidemiological studies have consistently shown an association between inadequate dietary intake of vitamin D and cognitive disorders, including greater AD risk. Although there have not been any randomized placebo‐controlled trials conducted to examine the effectiveness of vitamin D supplementation to prevent AD, several nonrandomized controlled studies have found that older adults experienced cognitive improvements after 1–15 months of vitamin D supplementation. Therefore, it appears crucial to maintain vitamin D concentrations at sufficiently high levels in order to slow, prevent, or improve neurocognitive decline.
+
+Vitamin D exerts neuroprotection via SIRT1/nrf-2/ NF-kB signaling pathways against D-galactose-induced memory impairment in adult mice
+
+Number of 
+
+Key takeaways:Vitamin D improves memory and reduces oxidative stress in adult mice with Alzheimer's disease, making it a potential drug candidate for neurodegenerative diseases.
+
+Vitamin D prevents cognitive decline and enhances hippocampal synaptic function in aging rats
+
+Number of 
+
+Key takeaways:Higher vitamin D levels in aging rats can prevent cognitive decline and enhance hippocampal synaptic function, suggesting a link between vitamin D and healthy brain aging.
+
+Abstract:Significance Higher blood levels of vitamin D are associated with better health outcomes. Vitamin D deficiency, however, is common among the elderly. Despite targets in the brain, little is known about how vitamin D affects cognitive function. In aging rodents, we modeled human serum vitamin D levels ranging from deficient to sufficient and tested whether increasing dietary vitamin D could maintain or improve cognitive function. Treatment was initiated at middle age, when markers of aging emerge, and maintained for ∼6 mo. Compared with low- or normal-dietary vitamin D groups, only aging rats on higher vitamin D could perform a complex memory task and had blood levels considered in the optimal range. These results suggest that vitamin D may improve the likelihood of healthy cognitive aging. Vitamin D is an important calcium-regulating hormone with diverse functions in numerous tissues, including the brain. Increasing evidence suggests that vitamin D may play a role in maintaining cognitive function and that vitamin D deficiency may accelerate age-related cognitive decline. Using aging rodents, we attempted to model the range of human serum vitamin D levels, from deficient to sufficient, to test whether vitamin D could preserve or improve cognitive function with aging. For 5–6 mo, middle-aged F344 rats were fed diets containing low, medium (typical amount), or high (100, 1,000, or 10,000 international units/kg diet, respectively) vitamin D3, and hippocampal-dependent learning and memory were then tested in the Morris water maze. Rats on high vitamin D achieved the highest blood levels (in the sufficient range) and significantly outperformed low and medium groups on maze reversal, a particularly challenging task that detects more subtle changes in memory. In addition to calcium-related processes, hippocampal gene expression microarrays identified pathways pertaining to synaptic transmission, cell communication, and G protein function as being up-regulated with high vitamin D. Basal synaptic transmission also was enhanced, corroborating observed effects on gene expression and learning and memory. Our studies demonstrate a causal relationship between vitamin D status and cognitive function, and they suggest that vitamin D-mediated changes in hippocampal gene expression may improve the likelihood of successful brain aging.
+
+Does high dose vitamin D supplementation enhance cognition?: A randomized trial in healthy adults
+
+Number of 
+
+Key takeaways:High dose vitamin D3 supplementation improves nonverbal (visual) memory in healthy adults, but not verbal memory or other cognitive domains.
+
+Molecular insights into the pathogenic impact of vitamin D deficiency in neurological disorders.
+
+Number of 
+
+Key takeaways:Vitamin D deficiency plays a crucial role in the pathogenesis of neurological disorders, such as Alzheimer's, Parkinson's, epilepsy, and multiple sclerosis, and understanding its role can help manage deficient individuals.
+
+Impact of vitamin D on neurocognitive function in dementia, depression, schizophrenia and ADHD.
+
+Number of 
+
+Key takeaways:Vitamin D deficiency may impact cognitive symptoms in dementia, mood disorders, schizophrenia, and ADHD, but further research is needed to confirm this association.
+
+Abstract:Vitamin D deficiency has been estimated to affect roughly 30% to 50% of the global population and thus labeled as a silent pandemic. In addition to its role in skeletal and calcium homeostasis, vitamin D has been implicated in brain functioning across both preclinical research and human populations studies. These findings have also been extended to various neurodevelopmental and neuropsychiatric conditions. Furthermore, these individuals tend to display diminishing cognition symptoms. In this regard, this review is dedicated to address the relationship between vitamin D and dementia, mood disorders, and the various neuropsychological disorders of psychosis. The review takes both preclinical and clinical studies into consideration. While there are many literature suggesting the critical role of vitamins in cognition on the above said diseases, it is still premature to unequivocally postulate the role of vitamin D on cognitive symptoms. Further research is necessary to establish this association, including the need to increase the ecological validity of animal models, delineating the core cognitive symptoms associated with the disorders, and establishing the optimal source of vitamin D consumption.
+
+Vitamin D Improves Neurogenesis and Cognition in a Mouse Model of Alzheimer’s Disease
+
+Number of 
+
+Key takeaways:Vitamin D supplementation improves neurogenesis and cognition in a male Alzheimer's disease mouse model, with effects varying by stage and gender.
+
+Abstract:The impairment of hippocampal neurogenesis at the early stages of Alzheimer's disease (AD) is believed to support early cognitive decline. Converging studies sustain the idea that vitamin D might be linked to the pathophysiology of AD and to hippocampal neurogenesis. Nothing being known about the effects of vitamin D on hippocampal neurogenesis in AD, we assessed them in a mouse model of AD. In a previous study, we observed that dietary vitamin D supplementation in female AD-like mice reduced cognitive decline only when delivered during the symptomatic phase. With these data in hand, we wondered whether the consequences of vitamin D administration on hippocampal neurogenesis are stage-dependent. Male wild-type and transgenic AD-like mice (5XFAD model) were fed with a diet containing either no vitamin D (0VD) or a normal dose of vitamin D (NVD) or a high dose of vitamin D (HVD), from month 1 to month 6 (preventive arm) or from month 4 to month 9 (curative arm). Working memory was assessed using the Y-maze, while amyloid burden, astrocytosis, and neurogenesis were quantified using immunohistochemistry. In parallel, the effects of vitamin D on proliferation and differentiation were assayed on primary cultures of murine neural progenitor cells. Improved working memory and neurogenesis were observed when high vitamin D supplementation was administered during the early phases of the disease, while a normal dose of vitamin D increased neurogenesis during the late phases. Conversely, an early hypovitaminosis D increased the number of amyloid plaques in AD mice while a late hypovitaminosis D impaired neurogenesis in AD and WT mice. The observed in vivo vitamin D-associated increased neurogenesis was partially substantiated by an augmented in vitro proliferation but not an increased differentiation of neural progenitors into neurons. Finally, a sexual dimorphism was observed. Vitamin D supplementation improved the working memory of males and females, when delivered during the pre-symptomatic and symptomatic phases, respectively. Our study establishes that (i) neurogenesis is improved by vitamin D in a male mouse model of AD, in a time-dependent manner, and (ii) cognition is enhanced in a gender-associated way. Additional pre-clinical studies are required to further understand the gender- and time-specific mechanisms of action of vitamin D in AD. This may lead to an adaptation of vitamin D supplementation in relation to patient's gender and age as well as to the stage of the disease.
+
+Vitamin D Deficiency Does Not Affect Cognition and Neurogenesis in Adult C57Bl/6 Mice
+
+Number of 
+
+Key takeaways:Vitamin D deficiency and supplementation do not affect brain growth, neurogenesis, or cognitive processes in adult mice over a 6-week period.
+
+Abstract:Vitamin D deficiency is a global problem. Vitamin D, the vitamin D receptor, and its enzymes are found throughout neuronal, ependymal, and glial cells in the brain and are implicated in certain processes and mechanisms in the brain. To investigate the processes affected by vitamin D deficiency in adults, we studied vitamin D deficient, control, and supplemented diets over 6 weeks in male and female C57Bl/6 mice. The effect of the vitamin D diets on proliferation in the neurogenic niches, changes in glial cells, as well as on memory, locomotion, and anxiety-like behavior, was investigated. Six weeks on a deficient diet was adequate time to reach deficiency. However, vitamin D deficiency and supplementation did not affect proliferation, neurogenesis, or astrocyte changes, and this was reflected on behavioral measures. Supplementation only affected microglia in the dentate gyrus of female mice. Indicating that vitamin D deficiency and supplementation do not affect these processes over a 6-week period.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

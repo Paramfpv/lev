@@ -1,0 +1,575 @@
+PROTOCOL: Vitamin B
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Abstract:This systematic review investigates the role of vitamin supplementation on nerve regeneration, a vital process to restore nerve structure and function after injury, focusing on the clinical potential of vitamins B, D and E in supporting repair in central and peripheral nervous systems. Traumatic injuries, chronic diseases, and degenerative conditions are common conditions that can disturb the natural repair capacity of neurons. This review follows PRISMA guidelines, which included a thorough search of the literature using electronic databases such as PubMed, Elsevier and Cochrane databases that focused on human subjects with neuropathic disorders. Nine studies were subsequently included in this review. The risk of bias was identified using a variety of tools chosen based on the study design. A total of 313 participants were involved, with 63 reporting sensory changes following post-operative inferior alveolar nerve (IAN) damage, 33 participants were diagnosed with neuropathy, 40 post-surgery nuclear cataract patients, 27 had vitamin B deficiency, 60 experienced rheumatoid arthritis and neuropathic pain and 30 had Friedreich’s ataxia. The results indicated that vitamins B, D and E have different mechanisms to support the recovery process of neurons after injury. B vitamins (B1, B6 and B12) enhance nerve cell metabolism and myelin formation, while vitamin D supports neuroprotection and repair by regulating the transcription process of growth factors and several neurotropic proteins, and also has anti-inflammatory effects, and vitamin E mitigates oxidative stress, protecting nerve cells and promoting structural integrity during repair. Despite the promising results, this review highlights the current clinical guidelines predominantly recommend only vitamin B12 for neuropathy management, indicating a need for further research into the therapeutic potential of other vitamins and diseases before its application on the clinical setting.
+HIGHLIGHTS
+
+While research has shown that certain nutrients are important for nerve health, limited evidence supports the idea that taking a multivitamin can significantly accelerate nerve regeneration. This review provided a clinical aspect of vitamin supplementation in nerve regeneration, both in the central and peripheral nervous systems.
+Vitamins B, D and E have been proven to have benefits in nerve regeneration, through their ability to enhance nerve cell metabolism and myelination, support neuroprotection and repair by activating growth factor pathways and anti-inflammatory effects, also mitigate oxidative stress, protect nerve cells and promote structural integrity during repair.
+Although no side effects were observed in individual studies, excessive vitamin intake can potentially be harmful. Therefore, optimal dosages to support nerve regeneration need to be established through consensus.
+
+GRAPHICAL ABSTRACT
+DESCRIPTION: B vitamins play a key role in cellular metabolism, nervous system regeneration, and maintenance of proper brain function. Supplementation with B-complex supports energy processes, aids tissue repair, and may protect against cognitive impairment in individuals with deficiencies. The strongest effects are observed with vitamin B12 supplementation and when supplementing the entire B-complex in cases of increased demand or deficiency.
+
+CONTENT SECTIONS:
+
+Support for regeneration, metabolism, and brain function
+
+B vitamins play a key role in cellular metabolism, nervous system regeneration, and maintenance of proper brain function. Supplementation with B-complex supports energy processes, aids tissue repair, and may protect against cognitive impairment in individuals with deficiencies. The strongest effects are observed with vitamin B12 supplementation and when supplementing the entire B-complex in cases of increased demand or deficiency.
+
+Level of evidence:Good
+
+Level of risk:Negligible
+
+B vitamins act as cofactors for numerous enzymes involved in energy production, DNA synthesis, and metabolism of amino acids, fats, and carbohydrates. B1, B6, and B12 support neural cell metabolism and their regeneration, while B9 and B12 are involved in methylation processes critical for nervous system health. Supplementing with B vitamins positively influences energy metabolism and may reduce homocysteine levels, which is protective for the brain and cardiovascular system.
+
+Level of risk:Negligible
+
+B vitamins are generally well tolerated and safe when taken in recommended doses. Side effect risks primarily arise from long-term, excessive intake of specific vitamins or in certain population groups.
+
+B vitamin supplementation is not recommended in some conditions or requires caution. It should be considered individually in the presence of comorbidities.
+
+Most commonly used doses: 1–2x RDA (Recommended Daily Allowance), in deficiencies and special demand states as per medical advice. Typical doses: B12: 250–500 µg/day, B6: 2–25 mg/day.
+
+Available forms: tablets, capsules, liquids, injectable preparations (B12, B6)
+
+Initial effects may be observed within a few days to weeks of supplementation, depending on deficiency severity
+
+Best taken in the morning or with a meal (some B-complex preparations may have mild stimulating effects)
+
+B vitamins work best as a complex (B-complex), and can be combined with magnesium, vitamin C, and zinc
+
+Avoid with high alcohol intake; do not combine high doses of individual B vitamins without medical indication
+
+Choosing a Supplement
+
+When supplementing, choose full-spectrum B-complex products with appropriate doses of B12 and B6 – preferably in methylated forms (e.g., methylcobalamin).
+
+Prophylactic Supplementation
+
+Individuals on plant-based diets or with malabsorption issues should regularly supplement vitamin B12.
+
+With long-term supplementation, monitor levels of B12, B6, and homocysteine in blood – especially in older adults.
+
+Common deficiency symptoms include: chronic fatigue, mood disturbances, limb numbness, concentration difficulties, angular stomatitis.
+
+Avoid exceeding recommended doses without medical consultation, especially when taking other medications or with chronic diseases.
+
+Fatigue and regeneration
+
+B vitamins, especially B1, B6, and B12, have proven positive effects on regenerative processes, particularly for the nervous system and tissue healing. Vitamin B12 shows the strongest regenerative effects, but benefits are also observed with supplementation of the entire B-complex.
+
+Muscle and other tissue regeneration
+
+Periodontal and bone regeneration
+
+B vitamins play a crucial role in human metabolism. They are essential for the proper course of many metabolic processes, including energy production, DNA synthesis, and metabolism of amino acids, fats, and carbohydrates. Their deficiency may lead to metabolic and health disturbances.
+
+Mechanisms of B vitamins in metabolism
+
+Practical effects and benefits
+
+B vitamins play a key role in brain function, supporting energy production, neurotransmitter synthesis, and protection against oxidative stress. Their deficiencies can negatively affect brain health, and supplementation brings benefits especially to those with deficiencies or increased risk of cognitive disorders.
+
+Mechanisms and importance for the brain
+
+Effects of supplementation – what do studies show?
+
+Limitations and conclusions
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:58
+
+Final comment:The evaluation of the effectiveness of B vitamin supplementation in the context of regeneration, metabolism, and brain function is primarily based on numerous randomized controlled trials (RCTs) and several meta-analyses conducted in adult and elderly populations. There are also many systematic reviews and expert articles emphasizing the importance of B vitamins, particularly B1, B6, and B12, for nervous system regeneration, proper metabolism, and cognitive support. The strongest effects are observed in individuals with deficiencies and in states of increased demand, such as after injuries or in neurodegenerative diseases. In healthy individuals without deficiencies, the impact of supplementation on cognitive function and overall regeneration is limited. Studies have not shown serious side effects with standard vitamin supplementation, and the risk of toxicity is minimal and mainly arises with chronic, excessive intake beyond recommended doses. The available evidence is consistent and of high quality, though it does not always allow clear conclusions regarding long-term benefits for all populations.
+
+The Role of Neurotropic B Vitamins in Nerve Regeneration
+
+Number of 
+
+Key takeaways:Neurotropic B vitamins thiamine, pyridoxine, and cobalamin play crucial roles in maintaining nerve viability and promoting regeneration after nerve damage.
+
+Abstract:Damage and regeneration naturally occur in the peripheral nervous system. The neurotropic B vitamins thiamine (B1), pyridoxine (B6), and cobalamin (B12) are key players, which maintain the neuronal viability in different ways. Firstly, they constantly protect nerves against damaging environmental influences. While vitamin B1 acts as a site-directed antioxidant, vitamin B6 balances nerve metabolism, and vitamin B12 maintains myelin sheaths. However, nerve injury occurs at times, because of an imbalance between protective factors and accumulating stress and noxae. This will result in the so-called Wallerian degeneration process. The presence of vitamins B1, B6, and B12 paves the way out to the following important regeneration by supporting the development of new cell structures. Furthermore, vitamin B1 facilitates the usage of carbohydrates for energy production, whereas vitamin B12 promotes nerve cell survival and remyelination. Absence of these vitamins will favor permanent nerve degeneration and pain, eventually leading to peripheral neuropathy.
+
+Vitamins Supplementation for Nerve Regeneration: A Systematic Review of Clinical Evidence
+
+Number of 
+
+Key takeaways:Vitamins B, D, and E can support nerve regeneration by enhancing metabolism, supporting neuroprotection, and promoting structural integrity during repair.
+
+Abstract:This systematic review investigates the role of vitamin supplementation on nerve regeneration, a vital process to restore nerve structure and function after injury, focusing on the clinical potential of vitamins B, D and E in supporting repair in central and peripheral nervous systems. Traumatic injuries, chronic diseases, and degenerative conditions are common conditions that can disturb the natural repair capacity of neurons. This review follows PRISMA guidelines, which included a thorough search of the literature using electronic databases such as PubMed, Elsevier and Cochrane databases that focused on human subjects with neuropathic disorders. Nine studies were subsequently included in this review. The risk of bias was identified using a variety of tools chosen based on the study design. A total of 313 participants were involved, with 63 reporting sensory changes following post-operative inferior alveolar nerve (IAN) damage, 33 participants were diagnosed with neuropathy, 40 post-surgery nuclear cataract patients, 27 had vitamin B deficiency, 60 experienced rheumatoid arthritis and neuropathic pain and 30 had Friedreich’s ataxia. The results indicated that vitamins B, D and E have different mechanisms to support the recovery process of neurons after injury. B vitamins (B1, B6 and B12) enhance nerve cell metabolism and myelin formation, while vitamin D supports neuroprotection and repair by regulating the transcription process of growth factors and several neurotropic proteins, and also has anti-inflammatory effects, and vitamin E mitigates oxidative stress, protecting nerve cells and promoting structural integrity during repair. Despite the promising results, this review highlights the current clinical guidelines predominantly recommend only vitamin B12 for neuropathy management, indicating a need for further research into the therapeutic potential of other vitamins and diseases before its application on the clinical setting.
+HIGHLIGHTS
+
+While research has shown that certain nutrients are important for nerve health, limited evidence supports the idea that taking a multivitamin can significantly accelerate nerve regeneration. This review provided a clinical aspect of vitamin supplementation in nerve regeneration, both in the central and peripheral nervous systems.
+Vitamins B, D and E have been proven to have benefits in nerve regeneration, through their ability to enhance nerve cell metabolism and myelination, support neuroprotection and repair by activating growth factor pathways and anti-inflammatory effects, also mitigate oxidative stress, protect nerve cells and promote structural integrity during repair.
+Although no side effects were observed in individual studies, excessive vitamin intake can potentially be harmful. Therefore, optimal dosages to support nerve regeneration need to be established through consensus.
+
+GRAPHICAL ABSTRACT
+
+Vitamin B12 is a limiting factor for induced cellular plasticity and tissue repair
+
+Number of 
+
+Key takeaways:Vitamin B12 supplementation improves the efficiency of in vivo reprogramming and tissue repair, enhancing tissue regeneration and rejuvenation.
+
+Vitamin B12 Enhances Nerve Repair and Improves Functional Recovery After Traumatic Brain Injury by Inhibiting ER Stress-Induced Neuron Injury
+
+Number of 
+
+Key takeaways:Vitamin B12 treatment improves neurological functional recovery after traumatic brain injury by promoting axon regeneration and inhibiting ER stress-induced neuron injury.
+
+Abstract:Traumatic brain injury (TBI) is one of the most common causes of neurological damage in young human populations. Vitamin B12 has been reported to promote axon growth of neuronal cells after peripheral nerve injury, which is currently used for the treatment of peripheral nerve damage in the clinical trial. Thus, we hypothesized that TBI can be attenuated by vitaminB12 treatment through its beneficial role on axon regeneration after nerve injury. To confirm it, the biological function of vitaminB12 was characterized using hematoxylin and eosin (H&E) staining, Luxol fast blue (LFB) staining, western blot analysis, and immunohistochemistry staining. The results showed that the neurological functional recovery was improved in the VitaminB12-treated group after TBI, which may be due to downregulation of the endoplasmic reticulum stress-related apoptosis signaling pathway. Moreover, the microtubule stabilization, remyelination and myelin reparation were rescued by vitamin B12, which was consistent with the treatment of 4-phenylbutyric acid (4-PBA), an endoplasmic reticulum stress inhibitor. The study suggests that vitamin B12 may be useful as a novel neuroprotective drug for TBI.
+
+Effect of Vitamin B Complex Treatment on Macrophages to Schwann Cells Association during Neuroinflammation after Peripheral Nerve Injury
+
+Number of 
+
+Key takeaways:Vitamin B complex treatment promotes macrophage polarization and Schwann cell maturation, potentially aiding in nerve regeneration after peripheral nerve injury.
+
+Abstract:Peripheral nerve injury (PNI) triggers a complex multi-cellular response involving the injured neurons, Schwann cells (SCs), and immune cells, often resulting in poor functional recovery. The aim of this study was to investigate the effects of the treatment with vitamin B (B1, B2, B3, B5, B6, and B12) complex on the interaction between macrophages and SCs during the recovery period after PNI. Transection of the motor branch of the femoral nerve followed by reconstruction by termino-terminal anastomosis was used as an experimental model. Isolated nerves from the sham (S), operated (O), and operated groups treated with the B vitamins (OT group) were used for immunofluorescence analysis. The obtained data indicated that PNI modulates interactions between macrophages and SCs in a time-dependent manner. The treatment with B vitamins complex promoted the M1-to M2-macrophage polarization and accelerated the transition from the non-myelin to myelin-forming SCs, an indicative of SCs maturation. The effect of B vitamins complex on both cell types was accompanied with an increase in macrophage/SC interactions, all of which correlated with the regeneration of the injured nerve. Clearly, the capacity of B vitamins to modulate macrophages-SCs interaction may be promising for the treatment of PNI.
+
+Enhancing nerve regeneration in infraorbital nerve injury rat model: effects of vitamin B complex and photobiomodulation.
+
+Number of 
+
+Key takeaways:Vitamin B complex and photobiomodulation can accelerate nerve regeneration in a rat model of infraorbital nerve injury, potentially benefiting patients with facial nerve injuries.
+
+Abstract:Orofacial nerve injuries may result in temporary or long-term loss of sensory function and decreased quality of life in patients. B vitamins are required for DNA synthesis and the repair and maintenance of phospholipids. In particular, vitamins B1, B6, and B12 are essential for neuronal function. Deficiency in vitamin B complex (VBC) has been linked to increased oxidative stress, inflammation and demyelination. Photobiomodulation (PBM) has antioxidant activity and is neuroprotective. In addition, a growing literature attests to the positive effects of PBM on nerve repair. To assess the effect of PBM and VBC on regenerative process we evaluated the expression of brain-derived neurotrophic factor (BDNF), nerve growth factor (NGF), myelin basic protein (MBP), laminin and neurofilaments (NFs) using Western blotting to identify regenerative pattern after chronic constriction injury of the infraorbital nerve (CCI IoN) treated by PBM, VBC or its combination. After CCI IoN, the rats were divided into six groups naive, sham, injured (CCI IoN), treated with photobiomodulation (904 nm, 6.23 J/cm^2, CCI IoN + PBM), treated with VBC (containing B1, B6 and B12) 5 times, CCI IoN + VBC) and treated with PBM and VBC (CCI IoN + VBC + PBM). The treatments could revert low expression of BDNF, MBP and laminin. Also reverted the higher expression of neurofilaments and enhanced expression of NGF. PBM and VBC could accelerate injured infraorbital nerve repair in rats through reducing the expression of neurofilaments, increasing the expression of BDNF, laminin and MBP and overexpressing NGF. These data support the notion that the use of PBM and VBC may help in the treatment of nerve injuries. This finding has potential clinical applications.
+
+Vitamins B therapy in Regeneration of Peripheral Neuropathy Associated with Lipid Profile
+
+Number of 
+
+Key takeaways:Vitamin B12 is better for accelerating peripheral nerve regeneration than other vitamin B therapies, without significant changes in serum lipid profile.
+
+Abstract:Objective: To investigate the role of serum lipid profile during the regeneration of experimental crush peripheral nerve injury to rats. Besides, to investigate which type of vitamin B therapy is better to accelerate the regeneration processes.Methods: Seventy-five male albino rats male, aged between 10 to 12 weeks were equally divided into 5 treated groups: B1, B6, B12, Tri-B complex and normal saline. Rats of therapeutic groups were administered according to the grouping and lasted to 45 consecutive days, and every 5 rats were sacrificed by euthanizing at 15th, 30th and 45th days. At dissection, sciatic nerve samples are taken from the site of crushed lesion and immersed in fixed formaldehyde 10%. 05 to 7 µm thick paraffin sections were stained by H&E and blood sample for lipid profile analysis.Results: The result showed no significant differences in serum lipid profile between therapeutic groups and control was found. Histological changes were shown on 15th days as, diffuse degeneration of the myelinated fibers with a marked vacuolization of some nerve fiber, numerous atrophic disoriented fibers with a large number of mononuclear phagocytes infiltration and degenerative debris. On 45th days there is a clear normal orientation of collagen fiber with very little debris and no vacuolization of the nerve. Morphometric measurements showed the myelin sheath thickness was increased significantly on the 30th and 45th days as compared with the control group. The result showed vitamin B12 is better in acceleration to nerve regeneration B12 groups showed better regenerative rate among other groups.Conclusion: no changes in serum lipid profile on experimental animals during regeneration processes. Vitamin B12 is better for enhancing the regenerative process.
+
+Effects of vitamin B12 in culture medium for calcified nodule formation by rat dental pulp cells
+
+Number of 
+
+Key takeaways:Vitamin B12 effectively promotes calcified nodule formation in rat dental pulp cells, making it a useful osteoinductive factor for mesenchymal stem cells.
+
+Can vitamins improve periodontal wound healing/regeneration?
+
+Number of 
+
+Key takeaways:Vitamins, especially A, B, E, and CoQ10, may improve periodontal wound healing and regeneration when used as an adjunct to surgical or nonsurgical periodontal therapy.
+
+Abstract:Periodontitis is a complex inflammatory disorder of the tooth supporting structures, associated with microbial dysbiosis, and linked to a number if systemic conditions. Untreated it can result in an irreversible damage to the periodontal structures and eventually teeth loss. Regeneration of the lost periodontium requires an orchestration of a number of biological events on cellular and molecular level. In this context, a set of vitamins have been advocated, relying their beneficial physiological effects, to endorse the biological regenerative events of the periodontium on cellular and molecular levels. The aim of the present article is to elaborate on the question whether or not vitamins improve wound healing/regeneration, summarizing the current evidence from in vitro, animal and clinical studies, thereby shedding light on the knowledge gap in this field and highlighting future research needs. Although the present review demonstrates the current heterogeneity in the available evidence and knowledge gaps, findings suggest that vitamins, especially A, B, E, and CoQ10 , as well as vitamin combinations, could exert positive attributes on the periodontal outcomes in adjunct to surgical or nonsurgical periodontal therapy.
+
+The Regenerative Role of Vitamins B1, B6, B12 in Treatment of Peripheral Neuropathy
+
+Number of 
+
+Key takeaways:Vitamin B12 is the most effective in regenerating peripheral nerve damage, followed by vitamin B1, and B6, with B6 showing the least effect.
+
+Abstract:The peripheral neuropathy is one of the common complications of various types of diseases, trauma and vitamins deficiency. Till now the C.N.S has no ability to regeneration, while peripheral nervous systems can be regenerate following trauma or disease, So many medication had been used to relieve neurological pain or to regenerate the peripheral nerve. One of the most commonly drugs used is vitamins B. However which one of vitamins B is more effective in regeneration of nerve damage is still obscure. Aim of study: Study the effect of various types of vitamins B on regeneration of damage nerve through morphometrical and histological study. Materials and methods: 60 albino rats had been conducted in this study. Each rat exposed to sciatic crush injury. Those animals had been divided into 4 groups, group A consider as a control experimental group, group B received vitamin B1, group C received vitamin B6, while the last group treated with vitamin B12. Each rat examined macroscopically and histologically. Result: The results obtained illustrated regeneration of all groups treated with various types of Vitamins B. However the degree of regeneration had been differed according to the type of vitamin B. Vitamin B12 treated animals revealed best regeneration, followed by B1 treated animals and the least effect could be observed in animals treated with B6. Conclusion: This variable response to regenerative role of vitamins B could be attributed to the mechanism of action of each types of vitamins B.
+
+Vitamin B9 derivatives as carriers of bioactive cations for musculoskeletal regeneration applications: Synthesis, characterization and biological evaluation.
+
+Number of 
+
+Key takeaways:Novel vitamin B9 derivatives bearing divalent cations (ZnFO, MgFO, and MnFO) show potential for musculoskeletal regeneration applications by modulating mRNA profiles and increasing matrix mineralization.
+
+Therapeutic Potential of Vitamin B Complex in Peripheral Nerve Injury Recovery: An Experimental Rat Model Study
+
+Number of 
+
+Key takeaways:Vitamin B treatment significantly improves nerve healing and function in peripheral nerve injuries by enhancing conduction, reducing fibrosis, and promoting myelination.
+
+Abstract:Objectives: Vitamin B complexes are frequently used in clinical practice for peripheral nerve trauma. However, there is a lack of scientific data on their effectiveness. This study aims to investigate the impact of the vitamin B complex on nerve recovery in a rat model of peripheral nerve paralysis. Materials and Methods: Sixty male Wistar Albino rats were divided into six groups. Models of nerve injury, including blunt trauma, nerve incision, and autograft, were performed on all rats approximately 1 cm distal to the sciatic notch. B-complex vitamins were injected intraperitoneally at 0.2 mL/day to the treatment groups. The control groups were given 0.2 mL/day saline. After 1 month, the study was terminated, electromyography (EMG) was performed to measure the conduction velocity, and nerve tissue was taken from the repair line. The sciatic function indexes (SFIs) were calculated and analyzed. The histopathological samples were stained with hematoxylin and eosin and Toluidine blue and examined with a light microscope. Pathologically, myelination, fibrosis, edema, and mast cell densities in the nervous tissue were evaluated. Results: The vitamin B treatment groups demonstrated significant improvements in SFI compared to the control groups, indicating functional improvement in nerve damage (p < 0.05). In the nerve graft group, the vitamin B group showed a shorter latency, higher velocity, and larger peak-to-peak compared to the controls (p < 0.05). In the nerve transection group, the vitamin B group had better latency, velocity, and peak-to-peak values than the controls (p < 0.05). In the crush injury group, the vitamin B group exhibited an improved latency, velocity, and peak-to-peak compared to the controls (p < 0.05). Better myelination, less fibrosis, edema, and mast cells were also in the vitamin B group (p < 0.05). Conclusions: Vitamin B treatment significantly improves nerve healing and function in peripheral nerve injuries. It enhances nerve conduction, reduces fibrosis, and promotes myelination, indicating its therapeutic potential in nerve regeneration.
+
+Vitamin B6 Regulates Muscle Satellite Cell Function: A Novel Possible Role of Vitamin B6 in Muscle Regeneration
+
+Number of 
+
+Key takeaways:Vitamin B6 may play a role in muscle regeneration by regulating satellite cell function and preventing apoptosis in muscle stem cells.
+
+Abstract:So far, there is scarce information on potential roles of vitamin B6 (B6) in muscle regeneration. Thus, we examined if B6 has any effects on satellite cells (SCs), the muscle stem cells crucial for muscle regeneration.
+ 
+ 
+ 
+ Male ICR mice were divided into two groups receiving a B6 deficient level diet (1 mg pyridoxine (PN) HCl/kg diet) or a B6 supplement level diet (35 mg PN HCl) for 6 weeks (n = 6/group). Single fibers were isolated from EDL muscles and cultured in plating medium at 37°C, for 0 or 48 hr. Then, fixed fibers were co-immunostained for Pax7 and MyoD. Without culturing (0 hr), SCs are in quiescent state and stained positive with Pax7 +. Following 48 hr of culture, SCs will be activated and enter cell cycle for proliferation (stained positive with MyoD + Pax7+), commitment to differentiation (stained positive with MyoD+), or self-renew (stained positive with Pax7+).
+ 
+ 
+ 
+ Without culturing (0 hr), the number of SCs on single fibers isolated from the muscles of the B6-deficient mice was lower than that in the B6-supplement mice (4.0 vs. 7.2 Pax7 + nuclei/fiber, P < 0.01), suggesting that B6 deficiency possibly induced a decline in the quiescent population of SCs. At 48 hr of culture, as compared to the B6-supplement mice, the B6-deficient mice showed the lower number of MyoD + Pax7 + clusters (3.7 vs. 8.1 clusters/fiber, P < 0.01) and the lower number of Pax7 + nuclei (P < 0.01), but no effects on the number of MyoD + nuclei. This suggested that B6 deficiency might affect the self-renewal function of SCs, while had less effects on proliferation and differentiation. Next, we hypothesized that the adverse effects of B6 deficiency on SCs is reversible, since the plating medium contained normal levels of B6. To test this hypothesis, single fibers isolated from the muscles of the B6-deficient mice were cultured in the medium contained with or without B6. As a result, the number of MyoD + Pax7 + clusters on single fibers in the culture without B6 was lower than that with B6 (2.6 vs. 3.7 clusters/fiber, P < 0.05), indicating that SCs cultured without B6 barely proliferated and possibly underwent apoptosis.
+ 
+ 
+ 
+ B6 may play a role in proliferation and apoptosis prevention of SCs. This study is the first to show the effects of B6 on SC function and will pave the way for new research on the role of B6 in muscle regeneration in the future.
+ 
+ 
+ 
+ None.
+
+Salvianolic acid B enhances tissue repair and regeneration by regulating immune cell migration and Caveolin-1-mediated blastema formation in zebrafish.
+
+Number of 
+
+Key takeaways:Salvianolic acid B promotes tissue repair and regeneration in zebrafish by regulating immune cell migration and Caveolin-1-mediated blastema formation, contributing to the advancement of regenerative medicine research.
+
+Restrictions and supplementations effects of vitamins B6, B9 and B12 on growth, vasculogenesis and senescence of BG01V human embryonic stem cell derived embryoid bodies
+
+Number of 
+
+Key takeaways:Restrictions of vitamins B6, B9, and B12 can negatively impact growth, vasculogenesis, and senescence in human embryonic stem cell-derived embryoid bodies, but adequate supplementation can potentially reverse these effects.
+
+The Role of Vitamin D in Skeletal Muscle Repair and Regeneration in Animal Models and Humans: A Systematic Review
+
+Number of 
+
+Key takeaways:Vitamin D plays a crucial role in skeletal muscle function, structural integrity, and regeneration, potentially offering therapeutic benefits for patients with musculoskeletal diseases and post-operative recovery.
+
+Abstract:Vitamin D deficiency, prevalent worldwide, is linked to muscle weakness, sarcopenia, and falls. Muscle regeneration is a vital process that allows for skeletal muscle tissue maintenance and repair after injury. PubMed and Web of Science were used to search for studies published prior to May 2023. We assessed eligible studies that discussed the relationship between vitamin D, muscle regeneration in this review. Overall, the literature reports strong associations between vitamin D and skeletal myocyte size, and muscle regeneration. In vitro studies in skeletal muscle cells derived from mice and humans showed vitamin D played a role in regulating myoblast growth, size, and gene expression. Animal studies, primarily in mice, demonstrate vitamin D’s positive effects on skeletal muscle function, such as improved grip strength and endurance. These studies encompass vitamin D diet research, genetically modified models, and disease-related mouse models. Relatively few studies looked at muscle function after injury, but these also support a role for vitamin D in muscle recovery. The human studies have also reported that vitamin D deficiency decreases muscle grip strength and gait speed, especially in the elderly population. Finally, human studies reported the benefits of vitamin D supplementation and achieving optimal serum vitamin D levels in muscle recovery after eccentric exercise and surgery. However, there were no benefits in rotator cuff injury studies, suggesting that repair mechanisms for muscle/ligament tears may be less reliant on vitamin D. In summary, vitamin D plays a crucial role in skeletal muscle function, structural integrity, and regeneration, potentially offering therapeutic benefits to patients with musculoskeletal diseases and in post-operative recovery.
+
+Effects of vitamin K2 administration on guided bone regeneration in diabetic rats.
+
+Number of 
+
+Key takeaways:Vitamin K2 administration in guided bone regeneration for diabetic rats favorably impacts bone healing in critical-size defects, offering an adjunctive strategy for bone regeneration.
+
+Abstract:AIM
+The present study aimed to investigate the histomorphometric and immunohistochemical impacts of vitamin K2 on guided bone regeneration (GBR) in calvarial critical-size defects (CSDs) in diabetic rats.
+
+METHODS
+A total of 30 rats were used in this study, comprising 12 non-diabetic (control) rats and 18 with streptozotocin-nicotinamide-induced experimental Diabetes mellitus (DM). In all rats, two calvarial CSDs were created: one defect was left empty (E), the other was treated with bovine-derived bone graft and collagen-based resorbable membrane (GM). Study groups were as follows: control rats administered saline (n = 6, C-E and C-GM groups) or vitamin K2 (n = 6, CK-E and CK-GM groups) and diabetic rats administered saline (n = 6, DM-E and DM-GM groups) or vitamin K2 (n = 6, DMK-E and DMK-GM groups). After 4 weeks of saline or vitamin K2 administration, the rats were euthanized. Bone defect healing and new bone formation were assessed histomorphometrically, and osteocalcin and osteopontin levels were examined immunohistochemically.
+
+RESULTS
+Percentage of new bone formation was greater in CK-GM vs. CK-E and in DMK-GM vs. DMK-E . Bone defect healing scores were higher in CK-GM vs. CK-E and in DMK-GM vs. DMK-E . Osteocalcin expression levels were elevated in CK-GM vs. CK-E, in DMK-GM vs. DMK-E . Vitamin K2 enhanced osteocalcin expression levels in DMK-E vs. DM-E and in DMK-GM vs. DM-GM . Osteopontin expression was enhanced in defects treated with GM vs. E defects .
+
+CONCLUSION
+The research findings suggest that administering vitamin K2 in GBR for rats with DM favorably impacts bone healing in CSDs, presenting an adjunctive strategy for bone regeneration.
+
+Effect of Vitamin D on Bone Regeneration: A Review
+
+Number of 
+
+Key takeaways:Vitamin D positively influences bone regeneration, but more research is needed to find the most effective mode of administration and dose needed for optimal results.
+
+Abstract:Background and Objectives: Vitamin D (Vit. D) is known for its role in the skeletal system. Vit. D deficiency is also widely researched for its effects on the healing of fractures, bone defects, and osseointegration of implants. In the literature, there are studies that investigated the effects of dietary supplementation with Vit. D to reduce Vit. D deficiency, but increasing the serum level of this vitamin takes time. Therefore, an attempt has been made to combat the effect of Vit. D deficiency through topical applications. The aim of this article was to conduct a review of the existing bibliographic data that investigate the effect of Vit. D on bone regeneration. Materials and Methods: In order to carry out this review, an electronic search was made in several databases and the articles found were selected and analyzed. Results: The in vitro studies’ results demonstrated that Vit. D has a high therapeutic potential by enhancing the differentiation of stem cells in osteoblasts. Human and animal studies were conducting using various methods, but most of them revealed that Vit. D has a positive influence on the process of bone regeneration. Conclusions: The overall results of the research showed that, indeed, Vit. D is beneficial for bone regeneration; however, most of the studies imply that a thorough research is still needed for finding the most effective mode of administration and the dose needed in order to achieve the desired effect.
+
+Supplements of vitamins B9 and B12 affect hepatic and mammary gland gene expression profiles in lactating dairy cows
+
+Number of 
+
+Key takeaways:Vitamin supplements B9 and B12 in early-lactating dairy cows promote liver regeneration and reduce lipid catabolism, potentially increasing milk and milk component yields without affecting feed intake.
+
+Abstract:A combined supplement of vitamins B9 and B12 was reported to increase milk and milk component yields of dairy cows without effect on feed intake. The present study was undertaken to verify whether this supplementation positively modifies the pathways involved in milk and milk component synthesis. Thus, by studying the transcriptome activity in these tissues, the effect of supplements of both vitamins on the metabolism of both liver and mammary gland, was investigated. For this study, 24 multiparous Holstein dairy cows were assigned to 6 blocks of 4 animals each according to previous 305-day milk production. Within each block, cows were randomly assigned to weekly intramuscular injections of 5 mL of either saline 0.9 % NaCl, 320 mg of vitamin B9, 10 mg of vitamin B12 or a combination of both vitamins (B9 + B12). The experimental period began 3 weeks before the expected calving date and lasted 9 weeks of lactation. Liver and mammary biopsies were performed on lactating dairy cows 64 ± 3 days after calving. Samples from both tissues were analyzed by microarray and qPCR to identify genes differentially expressed in hepatic and mammary tissues. Microarray analysis identified 47 genes in hepatic tissue and 16 genes in the mammary gland whose expression was modified by the vitamin supplements. Gene ontology (GO) categorizes genes in non-overlapping domains of molecular biology. Panther is one of the online GO resources used for gene function classification. It classifies the 63 genes according to Molecular Function, Biological Process and Protein Class. Most of the biological processes modulated by the vitamin supplements were associated to developmental process, protein metabolic process, transport and response to inflammation. In the liver, most of the genes modulated by the vitamin treatments involved protein metabolic process while developmental process appeared to be more affected by the treatments in mammary gland. Out of 25 genes analysed by qPCR, 7 were validated. The results indicate that several metabolic processes were modulated by the supplementation of vitamins in early-lactating dairy cows. In addition, the results suggest that the vitamin supplements promoted liver regeneration and reduced catabolism of lipids in early lactation.
+
+Vitamin D Promotes Skeletal Muscle Regeneration and Mitochondrial Health
+
+Number of 
+
+Key takeaways:Vitamin D may play a crucial role in muscle regeneration after injury by promoting mitochondrial health and mitigating reactive oxygen species production.
+
+Abstract:Vitamin D is an essential nutrient for the maintenance of skeletal muscle and bone health. The vitamin D receptor (VDR) is present in muscle, as is CYP27B1, the enzyme that hydroxylates 25(OH)D to its active form, 1,25(OH)D. Furthermore, mounting evidence suggests that vitamin D may play an important role during muscle damage and regeneration. Muscle damage is characterized by compromised muscle fiber architecture, disruption of contractile protein integrity, and mitochondrial dysfunction. Muscle regeneration is a complex process that involves restoration of mitochondrial function and activation of satellite cells (SC), the resident skeletal muscle stem cells. VDR expression is strongly upregulated following injury, particularly in central nuclei and SCs in animal models of muscle injury. Mechanistic studies provide some insight into the possible role of vitamin D activity in injured muscle. In vitro and in vivo rodent studies show that vitamin D mitigates reactive oxygen species (ROS) production, augments antioxidant capacity, and prevents oxidative stress, a common antagonist in muscle damage. Additionally, VDR knockdown results in decreased mitochondrial oxidative capacity and ATP production, suggesting that vitamin D is crucial for mitochondrial oxidative phosphorylation capacity; an important driver of muscle regeneration. Vitamin D regulation of mitochondrial health may also have implications for SC activity and self-renewal capacity, which could further affect muscle regeneration. However, the optimal timing, form and dose of vitamin D, as well as the mechanism by which vitamin D contributes to maintenance and restoration of muscle strength following injury, have not been determined. More research is needed to determine mechanistic action of 1,25(OH)D on mitochondria and SCs, as well as how this action manifests following muscle injury in vivo. Moreover, standardization in vitamin D sufficiency cut-points, time-course study of the efficacy of vitamin D administration, and comparison of multiple analogs of vitamin D are necessary to elucidate the potential of vitamin D as a significant contributor to muscle regeneration following injury. Here we will review the contribution of vitamin D to skeletal muscle regeneration following injury.
+
+B Vitamins and One-Carbon Metabolism: Implications in Human Health and Disease
+
+Number of 
+
+Key takeaways:B vitamins play a crucial role in maintaining one-carbon metabolism, which can lead to developmental defects, cognitive impairment, and increased mortality, with therapies targeting this metabolism being explored for immune disorders and cancer treatment.
+
+Abstract:Vitamins B9 (folate) and B12 are essential water-soluble vitamins that play a crucial role in the maintenance of one-carbon metabolism: a set of interconnected biochemical pathways driven by folate and methionine to generate methyl groups for use in DNA synthesis, amino acid homeostasis, antioxidant generation, and epigenetic regulation. Dietary deficiencies in B9 and B12, or genetic polymorphisms that influence the activity of enzymes involved in the folate or methionine cycles, are known to cause developmental defects, impair cognitive function, or block normal blood production. Nutritional deficiencies have historically been treated with dietary supplementation or high-dose parenteral administration that can reverse symptoms in the majority of cases. Elevated levels of these vitamins have more recently been shown to correlate with immune dysfunction, cancer, and increased mortality. Therapies that specifically target one-carbon metabolism are therefore currently being explored for the treatment of immune disorders and cancer. In this review, we will highlight recent studies aimed at elucidating the role of folate, B12, and methionine in one-carbon metabolism during normal cellular processes and in the context of disease progression.
+
+The Effect of a High-Dose Vitamin B Multivitamin Supplement on the Relationship between Brain Metabolism and Blood Biomarkers of Oxidative Stress: A Randomized Control Trial
+
+Number of 
+
+Key takeaways:High-dose B-group vitamin supplementation effectively reduces oxidative stress and inflammation, potentially promoting myelination, cellular metabolism, and energy storage.
+
+Abstract:A diet rich in B-group vitamins is essential for optimal body and brain function, and insufficient amounts of such vitamins have been associated with higher levels of neural inflammation and oxidative stress, as marked by increased blood plasma homocysteine. Neural biomarkers of oxidative stress quantified through proton magnetic spectroscopy (1H-MRS) are not well understood, and the relationship between such neural and blood biomarkers is seldom studied. The current study addresses this gap by investigating the direct effect of 6-month high-dose B-group vitamin supplementation on neural and blood biomarkers of metabolism. Using a randomized, double-blind, placebo-controlled design, 32 healthy adults (20 female, 12 male) aged 30–65 years underwent blood tests (vitamin B6, vitamin B12, folate, and homocysteine levels) and 1H-MRS of the posterior cingulate cortex (PCC) and dorsolateral prefrontal cortex (DLPFC) before and after supplementation. Results confirmed the supplement was effective in increasing vitamin B6 and vitamin B12 levels and reducing homocysteine, whereas there was no change in folate levels. There were significant relationships between vitamin B6 and N-acetylaspartate (NAA), choline, and creatine, as well as between vitamin B12 and creatine (ps < 0.05), whereas NAA in the PCC increased, albeit not significantly (p > 0.05). Together these data provide preliminary evidence for the efficacy of high-dose B-group supplementation in reducing oxidative stress and inflammation through increasing oxidative metabolism. It may also promote myelination, cellular metabolism, and energy storage.
+
+Beneficial effects on host energy metabolism of short-chain fatty acids and vitamins produced by commensal and probiotic bacteria
+
+Number of 
+
+Key takeaways:Producing B group vitamins and short-chain fatty acids by commensal and probiotic bacteria can improve host energy metabolism by optimizing ATP production from foods or fermentation of certain fibers in the gastrointestinal tract.
+
+Abstract:The aim of this review is to summarize the effect in host energy metabolism of the production of B group vitamins and short chain fatty acids (SCFA) by commensal, food-grade and probiotic bacteria, which are also actors of the mammalian nutrition. The mechanisms of how these microbial end products, produced by these bacterial strains, act on energy metabolism will be discussed. We will show that these vitamins and SCFA producing bacteria could be used as tools to recover energy intakes by either optimizing ATP production from foods or by the fermentation of certain fibers in the gastrointestinal tract (GIT). Original data are also presented in this work where SCFA (acetate, butyrate and propionate) and B group vitamins (riboflavin, folate and thiamine) production was determined for selected probiotic bacteria.
+
+Vitamin B12 Metabolism: A Network of Multi-Protein Mediated Processes
+
+Number of 
+
+Key takeaways:Vitamin B12 metabolism involves a complex network of proteins, with potential consequences for neurological and cardiovascular diseases.
+
+Abstract:The water-soluble vitamin, vitamin B12, also known as cobalamin, plays a crucial role in cellular metabolism, particularly in DNA synthesis, methylation, and mitochondrial functionality. Its deficiency can lead to hematological and neurological disorders; however, the manifestation of these clinical outcomes is relatively late. It leads to difficulties in the early diagnosis of vitamin B12 deficiency. A prolonged lack of vitamin B12 may have severe consequences including increased morbidity to neurological and cardiovascular diseases. Beyond inadequate dietary intake, vitamin B12 deficiency might be caused by insufficient bioavailability, blood transport disruptions, or impaired cellular uptake and metabolism. Despite nearly 70 years of knowledge since the isolation and characterization of this vitamin, there are still gaps in understanding its metabolic pathways. Thus, this review aims to compile current knowledge about the crucial proteins necessary to efficiently accumulate and process vitamin B12 in humans, presenting these systems as a multi-protein network. The epidemiological consequences, diagnosis, and treatment of vitamin B12 deficiency are also highlighted. We also discuss clinical warnings of vitamin B12 deficiency based on the ongoing test of specific moonlighting proteins engaged in vitamin B12 metabolic pathways.
+
+Intermediate role of gut microbiota in vitamin B nutrition and its influences on human health
+
+Number of 
+
+Key takeaways:Gut microbiota play a crucial role in vitamin B nutrition and human health, affecting vitamin B absorption and affecting the composition and function of gut microbiota.
+
+Abstract:Vitamin B consists of a group of water-soluble micronutrients that are mainly derived from the daily diet. They serve as cofactors, mediating multiple metabolic pathways in humans. As an integrated part of human health, gut microbiota could produce, consume, and even compete for vitamin B with the host. The interplay between gut microbiota and the host might be a crucial factor affecting the absorbing processes of vitamin B. On the other hand, vitamin B supplementation or deficiency might impact the growth of specific bacteria, resulting in changes in the composition and function of gut microbiota. Together, the interplay between vitamin B and gut microbiota might systemically contribute to human health. In this review, we summarized the interactions between vitamin B and gut microbiota and tried to reveal the underlying mechanism so that we can have a better understanding of its role in human health.
+
+Vitamin B6 and Its Role in Cell Metabolism and Physiology
+
+Number of 
+
+Key takeaways:Vitamin B6 plays a crucial role in cellular metabolism and physiology, with new insights revealing its synthesized and controlled processes in cells, and its potential applications in human health, pathogen resistance, and abiotic stress tolerance.
+
+Abstract:Vitamin B6 is one of the most central molecules in cells of living organisms. It is a critical co-factor for a diverse range of biochemical reactions that regulate basic cellular metabolism, which impact overall physiology. In the last several years, major progress has been accomplished on various aspects of vitamin B6 biology. Consequently, this review goes beyond the classical role of vitamin B6 as a cofactor to highlight new structural and regulatory information that further defines how the vitamin is synthesized and controlled in the cell. We also discuss broader applications of the vitamin related to human health, pathogen resistance, and abiotic stress tolerance. Overall, the information assembled shall provide helpful insight on top of what is currently known about the vitamin, along with addressing currently open questions in the field to highlight possible approaches vitamin B6 research may take in the future.
+
+Vitamin B6 in Health and Disease
+
+Number of 
+
+Key takeaways:Vitamin B6 plays a crucial role in metabolism, cellular signaling, and aging, and its deficiency may be associated with various diseases like diabetes, heart disease, cancer, and COVID-19.
+
+Abstract:Vitamin B6 is a fascinating molecule involved in the vast majority of changes in the human body because it is a coenzyme involved in over 150 biochemical reactions. It is active in the metabolism of carbohydrates, lipids, amino acids, and nucleic acids, and participates in cellular signaling. It is an antioxidant and a compound with the ability to lower the advanced glycation end products (AGE) level. In this review, we briefly summarize its involvement in biochemical pathways and consider whether its deficiency may be associated with various diseases such as diabetes, heart disease, cancer, or the prognosis of COVID-19.
+
+B Vitamins and Their Role in Immune Regulation and Cancer
+
+Number of 
+
+Key takeaways:B vitamins play a crucial role in immune cell regulation, but their beneficial or detrimental effects on inflammation and cancer development remain unclear due to the complexity of their essential functions.
+
+Abstract:B group vitamins represent essential micronutrients for myriad metabolic and regulatory processes required for human health, serving as cofactors used by hundreds of enzymes that carry out essential functions such as energy metabolism, DNA and protein synthesis and other critical functions. B vitamins and their corresponding vitamers are universally essential for all cellular life forms, from bacteria to humans. Humans are unable to synthesize most B vitamins and are therefore dependent on their diet for these essential micronutrients. More recently, another source of B vitamins has been identified which is derived from portions of the 1013 bacterial cells inhabiting the gastrointestinal tract. Here we review the expanding literature examining the relationship between B vitamins and the immune system and diverse cancers. Evidence of B vitamin’s role in immune cell regulation has accumulated in recent years and may help to clarify the disparate findings of numerous studies attempting to link B vitamins to cancer development. Much work remains to be carried out to fully clarify these relationships as the complexity of B vitamins’ essential functions complicates an unequivocal assessment of their beneficial or detrimental effects in inflammation and cancers.
+
+B Vitamins and the Brain: Mechanisms, Dose and Efficacy—A Review
+
+Number of 
+
+Key takeaways:Adequate levels of all eight B-vitamins are essential for optimal physiological and neurological functioning, and addressing deficiencies in these vitamins, rather than just homocysteine metabolism, is crucial for brain health.
+
+Abstract:The B-vitamins comprise a group of eight water soluble vitamins that perform essential, closely inter-related roles in cellular functioning, acting as co-enzymes in a vast array of catabolic and anabolic enzymatic reactions. Their collective effects are particularly prevalent to numerous aspects of brain function, including energy production, DNA/RNA synthesis/repair, genomic and non-genomic methylation, and the synthesis of numerous neurochemicals and signaling molecules. However, human epidemiological and controlled trial investigations, and the resultant scientific commentary, have focused almost exclusively on the small sub-set of vitamins (B9/B12/B6) that are the most prominent (but not the exclusive) B-vitamins involved in homocysteine metabolism. Scant regard has been paid to the other B vitamins. This review describes the closely inter-related functions of the eight B-vitamins and marshals evidence suggesting that adequate levels of all members of this group of micronutrients are essential for optimal physiological and neurological functioning. Furthermore, evidence from human research clearly shows both that a significant proportion of the populations of developed countries suffer from deficiencies or insufficiencies in one or more of this group of vitamins, and that, in the absence of an optimal diet, administration of the entire B-vitamin group, rather than a small sub-set, at doses greatly in excess of the current governmental recommendations, would be a rational approach for preserving brain health.
+
+Simplifying the B Complex: How Vitamins B6 and B9 Modulate One Carbon Metabolism in Cancer and Beyond
+
+Number of 
+
+Key takeaways:Vitamins B6 and B9 play crucial roles in one carbon metabolism, which may help personalized medicine and provide next-generation therapeutics in cancer and other human diseases.
+
+Abstract:Vitamin B micronutrients are essential regulators of one carbon metabolism that ensures human health. Vitamin B9, or folate, lies at the heart of the folate cycle and converges with the methionine cycle to complete the one carbon pathway. Additionally, vitamin B6 contributes by orchestrating the flux of one carbon cycling. Dysregulation of vitamin B contributes to altered biochemical signaling that manifests in a spectrum of human diseases. This review presents an analysis of the past, present, and future work, highlighting the interplay between folate and vitamin B6 in one carbon metabolism. Emerging insights include advances in metabolomic-based mass spectrometry and the use of live-cell metabolic labeling. Cancer is used as a focal point to dissect vitamin crosstalk and highlight new insights into the roles of folate and vitamin B6 in metabolic control. This collection of vitamin-based research detailing the trends of one carbon metabolism in human disease exemplifies how the future of personalized medicine could unfold using this new base of knowledge and ultimately provide next-generation therapeutics.
+
+Metabolism of Dietary and Microbial Vitamin B Family in the Regulation of Host Immunity
+
+Number of 
+
+Key takeaways:Intestinal microbiota composition and function significantly affect host B vitamin usage and host immunity, as they play a crucial role in regulating immune responses.
+
+Abstract:Vitamins are micronutrients that have physiological effects on various biological responses, including host immunity. Therefore, vitamin deficiency leads to increased risk of developing infectious, allergic, and inflammatory diseases. Since B vitamins are synthesized by plants, yeasts, and bacteria, but not by mammals, mammals must acquire B vitamins from dietary or microbial sources, such as the intestinal microbiota. Similarly, some intestinal bacteria are unable to synthesize B vitamins and must acquire them from the host diet or from other intestinal bacteria for their growth and survival. This suggests that the composition and function of the intestinal microbiota may affect host B vitamin usage and, by extension, host immunity. Here, we review the immunological functions of B vitamins and their metabolism by intestinal bacteria with respect to the control of host immunity.
+
+Recent Advances on the Role of B Vitamins in Cancer Prevention and Progression
+
+Number of 
+
+Key takeaways:Excessive intake of specific B vitamins may contribute to cancer progression and interfere with therapy, highlighting the need for further research on optimal B vitamin intake for cancer prevention and therapy.
+
+Abstract:Water-soluble B vitamins, mainly obtained through dietary intake of fruits, vegetables, grains, and dairy products, act as co-factors in various biochemical processes, including DNA synthesis, repair, methylation, and energy metabolism. These vitamins include B1 (Thiamine), B2 (Riboflavin), B3 (Niacin), B5 (Pantothenic Acid), B6 (Pyridoxine), B7 (Biotin), B9 (Folate), and B12 (Cobalamin). Recent studies have shown that besides their fundamental physiological roles, B vitamins influence oncogenic metabolic pathways, including glycolysis (Warburg effect), mitochondrial function, and nucleotide biosynthesis. Although deficiencies in these vitamins are associated with several complications, emerging evidence suggests that excessive intake of specific B vitamins may also contribute to cancer progression and interfere with therapy due to impaired metabolic and genetic functions. This review discusses the tumor-suppressive and tumor-progressive roles of B vitamins in cancer. It also explores the recent evidence on a comprehensive understanding of the relationship between B vitamin metabolism and cancer progression and underscores the need for further research to determine the optimal balance of B vitamin intake for cancer prevention and therapy.
+
+B Vitamins and Their Roles in Gut Health
+
+Number of 
+
+Key takeaways:B vitamins play crucial roles in gut health, influencing microbiota growth and proliferation, and affecting intestinal morphology, inflammation, and disorders.
+
+Abstract:B vitamins act as coenzymes in a myriad of cellular reactions. These include energy production, methyl donor generation, neurotransmitter synthesis, and immune functions. Due to the ubiquitous roles of these vitamins, their deficiencies significantly affect the host’s metabolism. Recently, novel roles of B vitamins in the homeostasis of gut microbial ecology and intestinal health continue to be unravelled. This review focuses on the functional roles and biosynthesis of B vitamins and how these vitamins influence the growth and proliferation of the gut microbiota. We have identified the gut bacteria that can produce vitamins, and their biosynthetic mechanisms are presented. The effects of B vitamin deficiencies on intestinal morphology, inflammation, and its effects on intestinal disorders are also discussed.
+
+B Vitamins: Functions and Uses in Medicine.
+
+Number of 
+
+Key takeaways:B vitamins play a crucial role in energy production, neurotransmitter synthesis, and cellular metabolism, with deficiencies linked to various neurologic disorders and pathological states.
+
+Abstract:B vitamins are a group of 8 water-soluble vitamins. The body does not store them, so they need to be replaced daily. B vitamins are found in animal proteins, dairy products, leafy green vegetables, and beans. Overall, their function can generally be divided into catabolic metabolism, leading to energy production, and anabolic metabolism, resulting in bioactive molecules. They are critical cofactors for axonal transport, synthesis of neurotransmitters, and many cellular metabolic pathways. B vitamins are cofactors for many essential enzymes involved in the biosynthesis of RNA and DNA. B vitamin deficiencies have been considered as etiological factors in the development of various neurologic disorders and a broad spectrum of pathological states. Reductions in food intake and absorption efficiency in some populations, including the geriatric population, may warrant attention to their dietary B vitamin levels. Most B vitamins are generally safe even at intake levels reached with fortified food or supplements.
+
+Unveiling of dietary and gut-microbiota derived B vitamins: Metabolism patterns and their synergistic functions in gut-brain homeostasis
+
+Number of 
+
+Key takeaways:B vitamins, which are essential for gut homeostasis, are shared among gut bacteria and play a role in brain energy metabolism, potentially affecting neurological functions.
+
+Abstract:Abstract Nutrition-gut cross-talk holds a vital position in sustaining intestinal function, and micronutrient metabolism has emerged as the foremost metabolic pathway to preserve gut homeostasis. Among micronutrients, B vitamins have evolved prior to DNA/RNA and are known for their vital roles for major evolutionary transitions in extant organisms. Despite their universal requirement and critical role, not all the three domains of life are endowed with a natural ability for de novo B vitamins synthesis. The human gut microbiome constitutes prototrophs and auxotroph which are entirely dependent on dietary intake and gut microbial production of B vitamins. The syntrophic metabolism involving cross-feeding of B vitamins and community-wide exchange between commensal bacteria elicit important changes in the diversity and composition of the human gut microbiome. Hereto, we discuss the B-vitamins sharing among prototrophic and auxotrophic gut bacteria, their absorption in small intestine and transport in distal gut, functional role in relation to the gut homeostasis and symptoms linked to their deficiency. We also briefly explore their potential involvement as psychobiotics in brain energetic metabolism (kynurenines/tryptophan pathway) for neurological functions and highlight their deficiency related malfunctioning. Graphic abstract
+
+Combined biotin, folic acid, and vitamin B12 supplementation given during the transition period to dairy cows: Part I. Effects on lactation performance, energy and protein metabolism, and hormones.
+
+Number of 
+
+Key takeaways:Biotin, folic acid, and vitamin B12 supplementation during the transition period improved lactation performance and energy metabolism in dairy cows, but increasing biotin supply did not enhance these effects.
+
+Abstract:Biotin (B8), folates (B9), and vitamin B12 (B12) are involved and interrelated in several metabolic reactions related to energy and protein metabolism. We hypothesized that a low supply of one of the latter vitamins during the transition period would impair metabolic status. The purpose of this study was to evaluate the effect of B8 supplementation on the response of lactation performance and selected energy and protein metabolites and hormones to a combined supplementation of B9 and B12 given to periparturient dairy cows, from d -21 to 21 relative to calving. A total of 32 multiparous Holstein cows housed in tie stalls were randomly assigned, according to their previous 305-d milk yield, to 8 incomplete blocks of 4 treatments: (1) a 2-mL weekly i.m. injection of saline (0.9% NaCl; B8-/B9B12-); (2) 20 mg/d of dietary B8 (unprotected from ruminal degradation) and 2-mL weekly i.m. injection of 0.9% NaCl (B8+/B9B12-); (3) 2.6 g/d of dietary B9 (unprotected) and 2-mL weekly i.m. injection of 10 mg of B12 (B8-/B9B12+); and (4) 20 mg/d of dietary B8, 2.6 g/d of dietary B9, and weekly i.m. injection of 10 mg of B12 (B8+/B9B12+) in a 2 × 2 factorial arrangement. Milk yield and dry matter intake were obtained daily and milk components weekly. Blood samples were taken weekly from d -21 to calving and 3 times per week from calving to 21 d following parturition. Prepartum plasma concentrations of glucose, insulin, nonesterified fatty acids (NEFA), β-hydroxybutyrate (BHB), and adiponectin were unaffected by treatments. Biotin, B9, and B12 supplements increased their respective concentrations in plasma and milk. Cows fed the B8 supplement tended to have lower dry matter intake, but only cows in B8+/B9B12- had greater plasma concentrations of NEFA compared with B8-/B9B12-. Milk and total solid yields were greater by 13.5 and 13.9%, respectively, for B8-/B9B12+ compared with B8-/B9B12- , but these effects were suppressed when combined with the B8 supplement. Cows in the B8-/B9B12+ group had decreased plasma insulin and tended to have increased NEFA concentrations, but postpartum plasma concentrations of glucose, BHB, leptin, and adiponectin were not affected. These cows also mobilized more body fat reserves, as suggested by a tendency to increased plasma NEFA and more milk total solids compared with B8-/B9B12- cows. However, plasma concentrations of BHB and adiponectin were similar among treatments. This suggests that the B9 and B12 supplements enhanced efficiency of energy metabolism in early lactation cows. Folic acid and B12 supplementation increased postpartum plasma Cys and homocysteine concentrations but did not affect plasma Met concentration, suggesting an upregulation of the transsulfuration pathway. In summary, our results showed that, under the current experimental conditions, increasing B8 supply did not improve responses to the B9 and B12 supplementation.
+
+B-vitamins and one-carbon metabolism during pregnancy: health impacts and challenges.
+
+Number of 
+
+Key takeaways:B-vitamins play a crucial role in preventing hypertensive disorders during pregnancy and have potential benefits for offspring neurodevelopment and cognitive performance in childhood.
+
+Abstract:Folate, vitamin B12, vitamin B6 and riboflavin interact by functioning as cofactors within one-carbon metabolism (OCM), a network of interrelated cellular pathways essential for numerous biological processes, including the biosynthesis of DNA, amino acid interconversions and methylation reactions. The pathways of OCM are influenced by endocrine signals and genetic polymorphisms and are particularly responsive to relevant B-vitamin intakes. Physiological changes in healthy pregnancy, leading to a steady decline in B-vitamin status, add another layer of complexity to the regulation of OCM. Although significant advances have been made to improve our understanding of these pregnancy-related changes, no specific reference ranges yet exist for B-vitamin biomarkers in pregnancy to support normal fetal growth without depleting maternal stores. The lack of pregnancy-related criteria for adequacy of B-vitamin status is in turn a major limitation in identifying pregnant women most at risk of B-vitamin deficiency. Another challenge is that the evidence is very limited to provide a basis for establishing pregnancy-specific dietary recommendations for B-vitamins to support successful pregnancy outcomes. In terms of preventing adverse outcomes, periconceptional folic acid supplementation has a proven role, established more than 30 years ago, in protecting against neural tube defect-affected pregnancies and this has been the major focus of public health policy worldwide. This review evaluates the emerging evidence for the less well recognised role of B-vitamins in preventing hypertensive disorders in pregnancy and the intergenerational effects of B-vitamins on offspring neurodevelopment and cognitive performance during childhood. We also consider the underlying biological mechanisms.
+
+Effects of dietary supplementation of different levels of vitamin B12 on the liver metabolism of laying hens.
+
+Number of 
+
+Key takeaways:Vitamin B12 supplementation at 25 g/kg in laying hens' diets increases egg yolk vitamin B12 concentration and impacts vitamin B6 metabolism, while 100 g/kg increases egg yolk and liver vitamin B12 concentrations and impacts lipid, nucleic acid, and amino acid metabolic pathways.
+
+Abstract:BACKGROUND
+Vitamin B12 plays an important role in the lipid, protein, carbohydrate, and nucleic acid metabolism. We investigated the effect of supplementing layer's diets with different vitamin B12 levels on the the liver metabolism using a LC-MS-based metabolomic approach to observe and analyze wide-target metabolomics in the liver.
+
+RESULTS
+We assigned hens into three groups, namely blank control group without vitamin B12 diet (BCG), normal control group with 25 μg/kg vitamin B12 (NCG), and vitamin B12 supplement group I with 100 μg/kg vitamin (VBSG I). The VBSG I group layers had higher (P < 0.05) vitamin B12 concentration than those from other groups. The egg yolk vitamin B12 concentration increased (P < 0.01) with the increasing vitamin B12 dietary supplemental level. Between the NCG versus (vs.) BCG, VBSG I vs. BCG, and VBSG I vs. NCG groups, eleven, twenty and eleven metabolites were significantly changed, respectively. The KEGG pathway of vitamin B6 metabolism was significantly impacted in the NCG layers than those from BCG; seven and five pathways were significantly impacted in the VBSG I layers than those from BCG and NCG，including pyrimidine metabolism, vitamin B6 metabolism, glycerophospholipid metabolism, etc. CONCLUSION: We concluded that 25 μg/kg of vitamin B12 supplementation in corn-soybean meal-based layer diet increased the egg yolk vitamin B12 concentration and impacted the vitamin B6 metabolic pathway, and 100 μg/kg of it increased the egg yolk and liver vitamin B12 concentrations and impacted vitamin B6 , lipid, nucleic acid, and amino acid metabolic pathways. This article is protected by copyright. All rights reserved.
+
+Role of Vitamin B12 and Folate in Metabolic Syndrome
+
+Number of 
+
+Key takeaways:Vitamin B12 and folate supplementation has a significant positive impact on metabolic syndrome, which should be considered in designing new treatment protocols.
+
+Abstract:Metabolic syndrome (MS) is a collection of pathological metabolic conditions that includes insulin resistance, central or abdominal obesity, dyslipidemia, and hypertension. It affects large populations worldwide, and its prevalence is rising exponentially. There is no specific mechanism that leads to the development of MS. Proposed hypotheses range from visceral adiposity being a key factor to an increase in very-low-density lipoprotein and fatty acid synthesis as the primary cause of MS. Numerous pharmaceutical therapies are widely available in the market for the treatment of the individual components of MS. The relationship between MS and vitamin B complex supplementation, specifically folic acid and vitamin B12, has been a subject of investigation worldwide, with several trials reporting a positive impact with vitamin supplementation on MS. In this study, an all-language literature search was conducted on Medline, Cochrane, Embase, and Google Scholar till September 2021. The following search strings and Medical Subject Headings (MeSH) terms were used: “Vitamin B12,” “Folate,” “Metabolic Syndrome,” and “Insulin Resistance.” We explored the literature on MS for its epidemiology, pathophysiology, newer treatment options, with a special focus on the effectiveness of supplementation with vitamins B9 and B12. According to the literature, vitamin B12 and folate supplementation, along with a host of novel therapies, has a considerable positive impact on MS. These findings must be kept in mind while designing newer treatment protocols in the future.
+
+Metabolic vitamin B12 deficiency: a missed opportunity to prevent dementia and stroke.
+
+Number of 
+
+Key takeaways:Metabolic vitamin B12 deficiency is common and often undiagnosed, contributing to cognitive decline and stroke in older people, and treatment with oral B12 supplements can help prevent these conditions.
+
+Cognitive decline: A vitamin B perspective.
+
+Number of 
+
+Key takeaways:Vitamin B supplementation may improve memory and slow brain atrophy, potentially reducing the onset of dementia and Alzheimer's disease.
+
+Emerging roles for folate and related B-vitamins in brain health across the lifecycle
+
+Number of 
+
+Key takeaways:Folate and related B-vitamins are essential for brain health across all age groups, with potential mechanisms including nutrient-nutrient interactions and fetal programming.
+
+Abstract:Nutrition plays a fundamental role in supporting the structural and functional development of the human brain from conception, throughout early infancy and extending into later life. A growing body of evidence suggests that folate and the metabolically related B-vitamins are essential for brain health across all age groups, owing to their specific roles in C1 metabolism and particularly in the production of S-adenosylmethionine, a universal methyl donor essential for the production of neurotransmitters. Emerging, though not entirely consistent, evidence suggests that maternal folate status throughout pregnancy may influence neurodevelopment and behaviour of the offspring. Furthermore optimal B-vitamin status is associated with better cognitive health in ageing. Of note, a recent clinical trial provided evidence that supplementation with folic acid and related B-vitamins over a 2-year-period reduced global and regional brain atrophy, as measured by MRI scan in older adults. In terms of potential mechanisms, the effects of these B-vitamins on cognitive health may be independent or may be mediated by nutrient–nutrient and/or relevant gene–nutrient interactions. Furthermore, a new area of research suggests that the in utero environment influences health in later life. Folate, an important cofactor in C1 metabolism, is indirectly involved in DNA methylation, which in turn is considered to be one of the epigenetic mechanisms that may underlie fetal programming and brain development. The present review will explore the evidence that supports a role for folate and the related B-vitamins in brain health across the lifecycle, and potential mechanisms to explain such effects.
+
+Effect of Vitamin B Supplementation on Cognitive Function in the Elderly: A Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:B-vitamin supplementation shows no clear cognitive benefit in lowering homocysteine levels in older adults with or without cognitive impairment.
+
+Abstract:BackgroundVitamin B deficiency and elevated total plasma homocysteine have been associated with cognitive impairment and dementia in later life, although it is unknown if treatment with these vitamins improves cognitive outcomes.ObjectivesThe objectives of this study were to examine the efficacy of treatment with vitamin B_12, vitamin B_6, or folic acid in slowing cognitive decline amongst older adults with and without cognitive impairment.MethodsWe summarized findings from previous systematic reviews of clinical trials and performed a new systematic review and meta-analysis of 31 English-language, randomized placebo-controlled trials of B-vitamin supplementation of individuals with and without existing cognitive impairment.ResultsPrevious reviews have generally reported no effect of B vitamins on cognitive function in older adults with or without cognitive impairment at study entry, although these vitamins effectively lowered total plasma homocysteine levels in participants. Ten randomized placebo-controlled trials of 1925 participants with pre-existing cognitive impairment and 21 trials of 15,104 participants without cognitive impairment have been completed to date but these generally confirmed findings from previous reviews with the exception of two trials that showed a modest but clinically uncertain benefit for vitamins in people with elevated plasma homocysteine. B-vitamin supplementation did not show an improvement in Mini-Mental State Examination scores for individuals with (mean difference 0.16, 95% confidence interval − 0.18 to 0.51) and without (mean difference 0.04, 95% confidence interval − 0.10 to 0.18) cognitive impairment compared to placebo.ConclusionsRaised total plasma homocysteine is associated with an increased risk of cognitive impairment and dementia, although available evidence from randomized controlled trials shows no obvious cognitive benefit of lowering homocysteine using B vitamins. Existing trials vary greatly in the type of supplementation, population sampled, study quality, and duration of treatment, thereby making it difficult to draw firm conclusions from existing data. Findings should therefore be viewed in the context of the limitations of the available data and the lack of evidence of effect should not necessarily be interpreted as evidence of no effect.
+
+B vitamins and the aging brain.
+
+Number of 
+
+Key takeaways:Inadequate B vitamin status in the elderly may contribute to cognitive impairment and dementia, highlighting the need for safe ways to improve vitamin B status without exposing individuals to undue risk.
+
+Abstract:Deficiencies of the vitamins folate, B(12) , and B(6) are associated with neurological and psychological dysfunction and with congenital defects. In the elderly, cognitive impairment and incident dementia may be related to the high prevalence of inadequate B vitamin status and to elevations of plasma homocysteine. Plausible mechanisms include homocysteine neurotoxicity, vasotoxicity, and impaired S-adenosylmethionine-dependent methylation reactions vital to central nervous system function. In light of this, it is imperative to find safe ways of improving vitamin B status in the elderly without exposing some individuals to undue risk.
+
+B vitamins, homocysteine, and neurocognitive function in the elderly.
+
+Number of 
+
+Key takeaways:Inadequate B vitamin status in the elderly may contribute to loss of cognitive function and Alzheimer's disease, potentially causing impairment of methylation reactions and hyperhomocysteinemia.
+
+Abstract:Evidence of the importance of the B vitamins folic acid, vitamin B-12, and vitamin B-6 for the well-being and normal function of the brain derives from data showing neurologic and psychologic dysfunction in vitamin deficiency states and in cases of congenital defects of one-carbon metabolism. The status of these vitamins is frequently inadequate in the elderly and recent studies have shown associations between loss of cognitive function or Alzheimer disease and inadequate B vitamin status. The question that arises is whether these B vitamin inadequacies contribute to such brain malfunctions or result from aging and disease. From a theoretical standpoint, these inadequacies could give rise to impairment of methylation reactions that are crucial to the health of brain tissue. In addition or perhaps instead, these inadequacies could result in hyperhomocysteinemia, a recently identified risk factor for occlusive vascular disease, stroke, and thrombosis, any of which may result in brain ischemia. Advances in the understanding of this putative relation between inadequate vitamin status and loss of cognitive function in the elderly are likely to be slow and may depend on the outcomes of both prospective studies and longitudinal studies in which nutritional intervention is provided before cognitive decline occurs.
+
+Vitamin B12-folic acid supplementation improves memory by altering mitochondrial dynamics, dendritic arborization, and neurodegeneration in old and amnesic male mice.
+
+Number of 
+
+Key takeaways:Vitamin B12-folic acid supplementation improves memory in old and amnesic mice by enhancing mitochondrial dynamics, neuronal health, and reducing neurodegeneration.
+
+Vitamin B-12 and Cognition in Children.
+
+Number of 
+
+Key takeaways:Vitamin B-12 deficiency in children is linked to impaired cognitive development, but no studies have examined the effects of vitamin B-12 supplementation on cognitive outcomes.
+
+Abstract:Vitamin B-12 is essential for brain development, neural myelination, and cognitive function. Inadequate vitamin B-12 status during pregnancy and early childhood has been associated with adverse child health outcomes, including impaired cognitive development. However, the underlying mechanisms have not been elucidated. This review was conducted to examine the evidence that links vitamin B-12 and cognition in children. The search strategy resulted in 17 studies: 3 cross-sectional, 1 case-control, and 12 cohort studies, and 1 randomized trial. Cognitive processes assessed included attention, memory, and perception. Developmental outcomes, academic performance, and intelligence quotient were also considered. Despite the high prevalence of vitamin B-12 insufficiency and associated risk of adverse cognitive outcomes in children, to our knowledge, no studies to date have been conducted to examine the effects of vitamin B-12 supplementation on cognition in children. The role of vitamin B-12 in the etiology of child cognitive outcomes needs to be elucidated to inform public health interventions.
+
+The preventive efficacy of vitamin B supplements on the cognitive decline of elderly adults: a systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Vitamin B supplements may delay or maintain cognitive decline in elderly adults, suggesting they should be considered as a preventive medication for mild cognitive impairment patients or elderly adults without cognitive impairment.
+
+Abstract:Abstract Background The irreversibility of cognitive impairment of Alzheimer’s disease (AD) prompts that preventing or delaying the onset of AD should be a public health priority. Vitamin B supplements can lower the serum homocysteine (Hcy) level, but whether it can prevent cognitive decline or not remains unclear. We aimed to evaluate the preventive efficacy of vitamin B supplements on the cognitive decline of elderly adults. Methods We searched PubMed, Embase, The Cochrane Central Register of Controlled Trials (CENTRAL), Web of Science, Scopus, Science Direct, PsycINFO from inception to December 1, 2019, and then updated the retrieved results on June 1, 2020. The randomized controlled trials (RCTs) which evaluated the efficacy of vitamin B in mild cognitive impairment (MCI) patients or elderly adults without cognitive impairment were selected. Standardized mean difference (SMD) or mean difference (MD) as well as their 95 % confidence interval (CI) were calculated by performing random effects models or fixed effects models. Results A total of 21 RCTs involving 7571 participants were included for meta-analysis. The forest plots showed that there is significant effect in global cognitive function (15 RCTs, SMD: 0.36; 95 % CI: 0.18 to 0.54, P &lt; 0.01) and Hcy (11 RCTs, MD: -4.59; 95 %CI: -5.51 to -3.67, P &lt; 0.01), but there is no effect in information processing speed (10 RCTs, SMD: 0.06; 95 % CI: -0.12 to 0.25, P = 0.49), episodic memory (15 RCTs, SMD: 0.10; 95 % CI: -0.04 to 0.25, P = 0.16), executive function (11 RCTs, SMD: -0.21; 95 % CI: -0.49 to 0.06, P = 0.13). The value of effect size and heterogeneity did not vary apparently when excluding the low-quality studies, so we could believe that the results of meta-analysis were robust. Conclusions Vitamin B supplements might delay or maintain the cognitive decline of elderly adults. We can recommend that the vitamin B supplements should be considered as a preventive medication to MCI patients or elderly adults without cognitive impairment. More well-designed RCTs with large sample sizes were required to clarify the preventive efficacy in the future.
+
+Efficacy of Vitamin B Supplementation on Cognition in Elderly Patients With Cognitive-Related Diseases
+
+Number of 
+
+Key takeaways:Vitamin B supplementation effectively reduces serum homocysteine levels in elderly patients with cognitive-related diseases, but its impact on cognitive improvement remains unclear.
+
+Abstract:Increase in serum homocysteine is shown to be a potential risk factor for cognitive impairment. Evidence suggests that vitamin B supplementation may reduce cognitive decline by lowering the homocysteine levels. The current meta-analysis evaluated the efficacy of folic acid along with vitamin B12 and/or B6 in lowering homocysteine, thereby attenuating cognitive decline in elderly patients with Alzheimer disease or dementia. Randomized controlled trials (RCTs) comparing the efficacy of folate and B vitamin supplementation in patients with cognitive decline secondary to Alzheimer disease or dementia were identified using the keywords, “homocysteine, hyper-homocysteinemia, B vitamin, vitamin B6, B12, folic acid, cognitive, Alzheimer’s disease, and dementia.” The outcome measures analyzed were the Mini-Mental State Examination (MMSE) score and serum homocysteine. Of the 77 studies identified, 4 RCTs were included in the current meta-analysis. The baseline characteristics, age, and gender distribution of patients among the 2 groups (supplement vs placebo) were comparable. The results reveal that the intervention group achieved significantly greater reduction in homocysteine levels than the control (pooled difference in means = −3.625, 95% confidence interval = −5.642 to −1.608, P < .001). However, no significant difference in MMSE (pooled difference in means = 0.027, 95% CI = −0.518 to 0.573, P = 0.921) was observed between the groups. Taken together, vitamin B supplementation was effective in reducing serum homocysteine levels. However, it did not translate into cognitive improvement, indicating that the existing data on vitamin B-induced improvement in cognition by lowering homocysteine levels are conflicting.
+
+Anti-inflammatory effects of B vitamins protect against tau hyperphosphorylation and cognitive impairment induced by 1,2 diacetyl benzene: An in vitro and in silico study.
+
+Number of 
+
+Key takeaways:B vitamins B1, B2, and B3 show anti-inflammatory properties and protect against cognitive impairment induced by 1,2 diacetyl benzene, potentially through inhibiting NF-B activation.
+
+The Effects of Vitamin B in Depression.
+
+Number of 
+
+Key takeaways:Vitamin B deficiencies contribute to the complexity of depressive symptoms by affecting neuronal function and affecting memory, cognitive impairment, and dementia.
+
+Abstract:Vitamins are dietary components which are necessary for life. They play a major role in health and their deficiency may be linked to symptoms of psychiatric disorders. B vitamins are required for proper functioning of the methylation cycle, monoamine oxidase production, DNA synthesis and the repair and maintenance of phospholipids. Vitamin B deficiency could influence memory function, cognitive impairment and dementia. In particular, vitamins B1, B3, B6, B9 and B12 are essential for neuronal function and deficiencies have been linked to depression. We discuss the causes of depression and the neurochemical pathways in depression. In particular, we provide evidence that vitamin B contributes to the complexity of depressive symptoms.
+
+Effects of vitamin B-12 supplementation on neurologic and cognitive function in older people: a randomized controlled trial
+
+Number of 
+
+Key takeaways:Vitamin B-12 supplementation does not improve neurologic or cognitive function in older adults with moderate deficiency, in the absence of anemia and neurologic and cognitive signs or symptoms.
+
+Abstract:Background: Moderate vitamin B-12 deficiency is relatively common in older people. However, there is little robust evidence on the effect of vitamin B-12 supplementation on neurologic and cognitive outcomes in later life. Objective: We investigated whether vitamin B-12 supplementation benefits neurologic and cognitive function in moderately vitamin B-12–deficient older people. Design: We conducted a double-blind, randomized, placebo-controlled trial in 7 general practices in South East England, United Kingdom. Study participants were aged ≥75 y and had moderate vitamin B-12 deficiency (serum vitamin B-12 concentrations: 107–210 pmol/L) in the absence of anemia and received 1 mg crystalline vitamin B-12 or a matching placebo as a daily oral tablet for 12 mo. Peripheral motor and sensory nerve conduction, central motor conduction, a clinical neurologic examination, and cognitive function were assessed before and after treatment. Results: A total of 201 participants were enrolled in the trial, and 191 subjects provided outcome data. Compared with baseline, allocation to vitamin B-12 was associated with a 177% increase in serum concentration of vitamin B-12 (641 compared with 231 pmol/L), a 331% increase in serum holotranscobalamin (240 compared with 56 pmol/L), and 17% lower serum homocysteine (14.2 compared with 17.1 μmol/L). In intention-to-treat analysis of covariance models, with adjustment for baseline neurologic function, there was no evidence of an effect of supplementation on the primary outcome of the posterior tibial compound muscle action potential amplitude at 12 mo (mean difference: −0.2 mV; 95% CI: –0.8, 0.3 mV). There was also no evidence of an effect on any secondary peripheral nerve or central motor function outcome, or on cognitive function or clinical examination. Conclusion: Results of the trial do not support the hypothesis that the correction of moderate vitamin B-12 deficiency, in the absence of anemia and of neurologic and cognitive signs or symptoms, has beneficial effects on neurologic or cognitive function in later life. This trial was registered at as ISRCTN54195799.
+
+B Vitamin Supplementation Slows Cognitive Decline in Mild Cognitive Impairment Patients with Frontal Lobe Atrophy
+
+Number of 
+
+Key takeaways:B vitamin supplementation may slow cognitive decline in mild cognitive impairment patients with left frontal lobe atrophy.
+
+Abstract:Background: The effects of B vitamins on mild cognitive impairment (MCI) patients’ cognition have been mixed, suggesting the existence of moderating factors. Objective: A post hoc analysis of a negative B vitamin trial was performed to examine the potential modulating effect of regional brain atrophy on the cognitive response to B vitamins in MCI patients. Methods: In the 24-month randomized trial, 279 MCI outpatients took 500μ#x03BC;g methylcobalamin and 400μ#x03BC;g folic acid once per day or placebo tablets once per day. Sixty-four aspirin users were excluded from analysis as aspirin use has been found to have significant negative interaction effects. Subjects were followed up at months 12 and 24. The primary cognitive outcome was clinical dementia rating scale sum of boxes (CDR_SOB). In a subgroup of 83 subjects, MRI brain scans were performed at baseline to estimate regional brain atrophy ratios. Results: Among the trial subjects who had MRI data, B vitamin supplementation had no significant effect on CDR_SOB, despite having significant homocysteine lowering effects. The atrophy ratio of the left frontal lobe significantly moderated the effect of B vitamin supplementation on CDR_SOB, after adjusting for confounders, in that B vitamin supplementation was associated with lower CDR_SOB scores (i.e., better cognitive function) at the 24th month among those patients with above median atrophy ratios, but not among those with lower atrophy ratios, in the left frontal lobe. Conclusion: B vitamins may be more effective in slowing down cognitive decline in MCI patients with atrophy in the left frontal lobe.
+
+Effects of Vitamin B12 Supplementation on Cognitive Function, Depressive Symptoms, and Fatigue: A Systematic Review, Meta-Analysis, and Meta-Regression
+
+Number of 
+
+Key takeaways:Vitamin B12 supplementation is likely ineffective for improving cognitive function and depressive symptoms in patients without advanced neurological disorders.
+
+Abstract:Vitamin B12 is often used to improve cognitive function, depressive symptoms, and fatigue. In most cases, such complaints are not associated with overt vitamin B12 deficiency or advanced neurological disorders and the effectiveness of vitamin B12 supplementation in such cases is uncertain. The aim of this systematic review and meta-analysis of randomized controlled trials (RCTs) is to assess the effects of vitamin B12 alone (B12 alone), in addition to vitamin B12 and folic acid with or without vitamin B6 (B complex) on cognitive function, depressive symptoms, and idiopathic fatigue in patients without advanced neurological disorders or overt vitamin B12 deficiency. Medline, Embase, PsycInfo, Cochrane Library, and Scopus were searched. A total of 16 RCTs with 6276 participants were included. Regarding cognitive function outcomes, we found no evidence for an effect of B12 alone or B complex supplementation on any subdomain of cognitive function outcomes. Further, meta-regression showed no significant associations of treatment effects with any of the potential predictors. We also found no overall effect of vitamin supplementation on measures of depression. Further, only one study reported effects on idiopathic fatigue, and therefore, no analysis was possible. Vitamin B12 supplementation is likely ineffective for improving cognitive function and depressive symptoms in patients without advanced neurological disorders.
+
+Vitamin B—Can it prevent cognitive decline? A systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Oral vitamin B supplementation showed no overall evidence to prevent cognitive decline in cognitively unimpaired individuals, with some isolated significant effects possibly due to methodological issues.
+
+Abstract:Abstract Background Development of cognitive decline represents substantial issues in today’s society, steadily gaining importance with increasing life expectancy. One potential approach to preventing cognitive decline is to lower homocysteine by administering vitamin B. In this systematic review and meta-analysis, we address this topic and investigate whether oral supplementation of vitamin B can successfully prevent cognitive decline in cognitively unimpaired individuals. Methods A computerized systematic literature search was conducted using the electronic databases PubMed, Embase, and the Cochrane Library. Eligibility criteria included oral supplementation with vitamin B (B 1 , B 6 , folic acid, and B 12 ) and the absence of cognitive impairment. A meta-analysis was conducted with “global cognition” as the primary outcome of this review. Secondary outcomes were changes in cognitive function in other cognitive domains reported in the included studies. Risk of bias was assessed according to the Cochrane Risk of Bias tool and the GRADE approach to establish the overall certainty of the evidence. Results The meta-analysis did not yield a significant overall effect of supplementation with vitamin B on cognitive function ( Z = 0.87; p = 0.39; SMD, 0.02; 95% CI, − 0.034, 0.08). A sensitivity analysis focusing on specific risk factors did not alter this result. Some studies reported isolated significant effects of the intervention on secondary outcomes. However, these findings were outnumbered by the number of cognitive tests that did not yield significant effects. Discussion We found no overall evidence that oral vitamin B supplementation prevented cognitive decline. The isolated significant effects that were reported could be attributed to methodological issues. The results of this review do not provide evidence that population groups with certain risk factors would profit more from the intervention than others. Our findings do not apply to forms of administration other than oral supplementation nor do they offer information regarding the treatment of cognitively impaired individuals via the administration of vitamin B. Systematic review registration PROSPERO CRD42017071692
+
+B Vitamins Prevent Iron-Associated Brain Atrophy and Domain-Specific Effects of Iron, Copper, Aluminum, and Silicon on Cognition in Mild Cognitive Impairment
+
+Number of 
+
+Key takeaways:B vitamins prevent iron-associated brain atrophy and reduce domain-specific associations between metals and cognition in mild cognitive impairment, suggesting cognitive impairment is independent of brain atrophy.
+
+Abstract:Background: Metals, silicon, and homocysteine are linked to Alzheimer’s disease. B vitamin therapy lowers homocysteine and slows brain atrophy and cognitive decline in mild cognitive impairment (MCI). Objective: Examine metals and silicon as predictors of cognition/brain atrophy in MCI, their interaction with homocysteine and cysteine, and how B vitamins affect these relationships. Methods: MCI participants (n = 266, 77.6-year-old, 60.7% female) in VITACOG trial were randomized to receive daily folic acid (0.8 mg)/vitamin B12 (0.5 mg)/vitamin B6 (20 mg) (n = 133) or placebo for two years. At baseline and end-of-study, cranial MRIs were obtained from 168 participants, cognition was analyzed by neuropsychological tests, and serum iron, copper, arsenic, aluminum, and silicon quantified by inductively-coupled plasma mass spectrometry in 196 participants. Data were analyzed by bivariate and multiple regression. Results: Baseline iron, cysteine, and homocysteine were significantly associated with brain atrophy rate. Homocysteine effects on brain atrophy rate were modified by iron and cysteine. At baseline, iron, copper, aluminum, and silicon were significantly associated with one or more domains of cognition: semantic memory, verbal episodic memory, attention/processing speed, and executive function. At end-of-study, baseline iron, copper, aluminum, and silicon predicted cognition in at least one domain: semantic memory, verbal episodic memory, visuospatial episodic memory, attention/processing speed, and global cognition in the placebo but not the B vitamin group. Conclusion: Disparate effects of serum iron, copper, aluminum, silicon, and homocysteine on cognition and brain atrophy in MCI suggest that cognitive impairment is independent of brain atrophy. These factors showed domain-specific associations with cognition, which were abrogated by B vitamin therapy.
+
+A Systematic Review and Meta-Analysis of B Vitamin Supplementation on Depressive Symptoms, Anxiety, and Stress: Effects on Healthy and ‘At-Risk’ Individuals
+
+Number of 
+
+Key takeaways:B vitamin supplementation benefits stress in healthy and at-risk populations, but does not significantly impact depressive symptoms or anxiety.
+
+Abstract:A systematic review and meta-analysis was undertaken to examine and quantify the effects of B vitamin supplementation on mood in both healthy and ‘at-risk’ populations. A systematic search identified all available randomised controlled trials (RCTs) of daily supplementation with ≥3 B group vitamins with an intervention period of at least four weeks. Random effects models for a standardized mean difference were used to test for overall effect. Heterogeneity was tested using the I2 statistic. Eighteen articles (16 trials, 2015 participants) were included, of which 12 were eligible for meta-analysis. Eleven of the 18 articles reported a positive effect for B vitamins over a placebo for overall mood or a facet of mood. Of the eight studies in ‘at-risk’ cohorts, five found a significant benefit to mood. Regarding individual facets of mood, B vitamin supplementation benefited stress (n = 958, SMD = 0.23, 95% CI = 0.02, 0.45, p = 0.03). A benefit to depressive symptoms did not reach significance (n = 568, SMD = 0.15, 95% CI = −0.01, 0.32, p = 0.07), and there was no effect on anxiety (n = 562, SMD = 0.03, 95% CI = −0.13, 0.20, p = 0.71). The review provides evidence for the benefit of B vitamin supplementation in healthy and at-risk populations for stress, but not for depressive symptoms or anxiety. B vitamin supplementation may particularly benefit populations who are at risk due to (1) poor nutrient status or (2) poor mood status.
+
+Vitamin B6 alleviates chronic sleep deprivation-induced hippocampal ferroptosis through CBS/GSH/GPX4 pathway.
+
+Number of 
+
+Key takeaways:Vitamin B6 alleviates chronic sleep deprivation-induced hippocampal ferroptosis by enhancing cystathionine beta-synthase expression in the transsulfuration pathway.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

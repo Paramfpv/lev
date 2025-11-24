@@ -1,0 +1,529 @@
+PROTOCOL: Stem cell therapy (msc)
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Stem cell therapy is an innovative method aimed at supporting the body's repair and regenerative processes. Research suggests its potential efficacy in regenerating cartilage, bone, skin, liver, and nerves; however, clinical evidence remains limited, and its safety and long-term effects are not conclusively confirmed. The therapy is mainly used within clinical trials and is not a standard treatment for most conditions.
+RISK LEVEL: Potential risk
+HARM LEVEL: 
+DESCRIPTION: Stem cell therapy is an innovative method aimed at supporting the body's repair and regenerative processes. Research suggests its potential efficacy in regenerating cartilage, bone, skin, liver, and nerves; however, clinical evidence remains limited, and its safety and long-term effects are not conclusively confirmed. The therapy is mainly used within clinical trials and is not a standard treatment for most conditions.
+
+CONTENT SECTIONS:
+
+Stem cell therapy (msc)
+
+Tissue, bone, and organ regeneration – a future therapy with limited confirmation
+
+Stem cell therapy is an innovative method aimed at supporting the body's repair and regenerative processes. Research suggests its potential efficacy in regenerating cartilage, bone, skin, liver, and nerves; however, clinical evidence remains limited, and its safety and long-term effects are not conclusively confirmed. The therapy is mainly used within clinical trials and is not a standard treatment for most conditions.
+
+Level of evidence:Preliminary
+
+Level of risk:Elevated
+
+Stem cells, particularly mesenchymal (MSCs), have the ability to differentiate into specialized cells and secrete trophic factors that stimulate tissue repair. The mechanisms of action include both direct reconstruction of damaged structures through differentiation and strong paracrine effects – such as modulating immune responses, reducing inflammation, and stimulating angiogenesis. Contemporary approaches also involve the use of macromolecules and exosomes secreted by the cells, which can transmit repair signals to target cells. Despite promising effects in preclinical and pilot studies, this therapy requires further large-scale clinical trials to confirm its effectiveness and safety.
+
+Level of risk:Elevated
+
+Stem cell therapy, especially when used outside strict clinical protocols, may involve significant risk of complications. This risk is higher with experimental and unregulated commercial applications.
+
+Stem cell therapy is not recommended for individuals with increased risk of complications and in certain patient groups.
+
+No established, official protocols – the dose and method of administration depend on the research protocol; most often a single or repeated intravenous or local infusion.
+
+Stem cells isolated from adipose tissue, bone marrow, umbilical cord blood, or fetal tissues; exosome preparations also available.
+
+Initial effects – if present – are usually observed within a few weeks to several months after administration; full benefits are not always predictable.
+
+No clinical relevance – administration usually takes place during a procedure in hospital or clinical settings.
+
+Therapy available only within clinical trials or in a few specialized centers; commercial offers without medical supervision are discouraged.
+
+Use only in clinical trials
+
+Currently, the only safe and acceptable setting for stem cell therapy use is certified clinical trials conducted by experienced centers.
+
+Choose a verified cell source
+
+Cell material should originate solely from verified, certified sources – this minimizes the risk of complications and contamination.
+
+Be cautious with cancer and immunosuppression
+
+In cases of cancer, reduced immunity, or autoimmune diseases, the risk of complications and adverse effects increases significantly.
+
+Monitor effects and report side effects
+
+Patients should remain under long-term observation and report any adverse symptoms following therapy.
+
+Avoid unregulated commercial offers
+
+Numerous complication cases following so-called cell tourism highlight the need to avoid unverified commercial clinics offering therapy without regulatory approval.
+
+Fatigue and regeneration
+
+Stem cell therapy exhibits broad regenerative effects – accelerating repair and renewal of various tissues, supporting organ regeneration, reducing complications, and improving overall body condition after injuries and diseases.
+
+Bone and tooth regeneration
+
+Soft tissue and skin regeneration
+
+Effects on the nervous system
+
+Liver regeneration and metabolic function support
+
+Heart muscle regeneration
+
+General regeneration and fatigue reduction
+
+Stem cell therapy is being intensively studied as a modern method supporting treatment of joint and bone diseases, particularly in the context of degenerative disorders such as osteoarthritis and osteoporosis.
+
+Joints and osteoarthritis
+
+Bones and osteoporosis
+
+Safety and limitations
+
+Stem cell therapy is being intensively researched as an alternative to liver transplantation and shows a positive effect on liver function and patient survival in liver diseases.
+
+Efficacy of stem cell therapy
+
+Key clinical observations
+
+Limitations and future
+
+Scientific data and sources
+
+Level of evidencePreliminary
+
+Number of included studies:58
+
+Final comment:The current level of evidence regarding the effectiveness of stem cell therapy in tissue regeneration, treatment of degenerative diseases of the joints, liver, and other applications remains preliminary. Most available studies are early randomized clinical trials, preclinical animal studies, and systematic reviews characterized by high heterogeneity and limited quality. There is a lack of large-scale, independent studies on broad populations and long-term data. In clinical practice, stem cell therapy is not considered a standard treatment, and its use outside of research protocols carries significant risks of complications, including immune reactions, ectopic tissue formation, or tumorigenesis. Reports of severe complications following unregulated commercial therapies further raise caution. The therapy should only be used within clinical trials and under strict specialist supervision.
+
+Trophic Effects of Mesenchymal Stem Cells in Tissue Regeneration.
+
+Number of 
+
+Key takeaways:Mesenchymal stem cells (MSCs) promote tissue regeneration by secreting trophic factors, which stimulate neighboring cells to repair damaged tissues and potentially replace the classical paradigm of MSC differentiation and cell replacement.
+
+Abstract:Mesenchymal stem cells (MSCs) are considered to hold great therapeutic value for cell-based therapy and for tissue regeneration in particular. Recent evidence indicates that the main underlying mechanism for MSCs' beneficial effects in tissue regeneration is based on their capability to produce a large variety of bioactive trophic factors that stimulate neighboring parenchymal cells to start repairing damaged tissues. These new findings could potentially replace the classical paradigm of MSC differentiation and cell replacement. These bioactive factors have diverse actions like modulating the local immune system, enhancing angiogenesis, preventing cell apoptosis, and stimulating survival, proliferation, and differentiation of resident tissue specific cells. Therefore, MSCs are referred to as conductors of tissue repair and regeneration by secreting trophic mediators. In this review article, we have summarized the studies that focused on the trophic effects of MSC within the context of tissue regeneration. We will also highlight the various underlying mechanisms used by MSCs to act as trophic mediators. Besides the secretion of growth factors, we discuss two additional mechanisms that are likely to mediate MSC's beneficial effects in tissue regeneration, namely the production of extracellular vesicles and the formation of membrane nanotubes, which can both connect different cells and transfer a variety of trophic factors varying from proteins to mRNAs and miRNAs. Furthermore, we postulate that apoptosis of the MSCs is an integral part of the trophic effect during tissue repair.
+
+Stem cell therapies for periodontal tissue regeneration: a network meta-analysis of preclinical studies
+
+Number of 
+
+Key takeaways:PDLSCs and BMSCs are the most effective stem cells for periodontal tissue regeneration, with no statistical significance between them.
+
+Abstract:Abstract Background Periodontal tissue regeneration (PTR) is the ultimate goal of periodontal therapy. Currently, stem cell therapy is considered a promising strategy for achieving PTR. However, there is still no conclusive comparison that distinguishes clear hierarchies among different kinds of stem cells. Methods A systematic review and network meta-analysis (NMA) was performed using MEDLINE (via PubMed), EMBASE, and Web of Science up to February 2020. Preclinical studies assessing five types of stem cells for PTR were included; the five types of stem cells included periodontal ligament-derived stem cells (PDLSCs), bone marrow-derived stem cells (BMSCs), adipose tissue-derived stem cells (ADSCs), dental pulp-derived stem cells (DPSCs), and gingival-derived stem cells (GMSCs). The primary outcomes were three histological indicators with continuous variables: newly formed alveolar bone (NB), newly formed cementum (NC), and newly formed periodontal ligament (NPDL). We performed pairwise meta-analyses using a random-effects model and then performed a random-effects NMA using a multivariate meta-analysis model. Results Sixty preclinical studies assessing five different stem cell-based therapies were identified. The NMA showed that in terms of NB, PDLSCs (standardized mean difference 1.87, 95% credible interval 1.24 to 2.51), BMSCs (1.88, 1.17 to 2.59), and DPSCs (1.69, 0.64 to 2.75) were statistically more efficacious than cell carriers (CCs). In addition, PDLSCs were superior to GMSCs (1.49, 0.04 to 2.94). For NC, PDLSCs (2.18, 1.48 to 2.87), BMSCs (2.11, 1.28 to 2.94), and ADSCs (1.55, 0.18 to 2.91) were superior to CCs. For NPDL, PDLSCs (1.69, 0.92 to 2.47) and BMSCs (1.41, 0.56 to 2.26) were more efficacious than CCs, and PDLSCs (1.26, 0.11 to 2.42) were superior to GMSCs. The results of treatment hierarchies also demonstrated that the two highest-ranked interventions were PDLSCs and BMSCs. Conclusion PDLSCs and BMSCs were the most effective and well-documented stem cells for PTR among the five kinds of stem cells evaluated in this study, and there was no statistical significance between them. To translate the stem cell therapies for PTR successfully in the clinic, future studies should utilize robust experimental designs and reports.
+
+Stem cell therapy and gene transfer for regeneration
+
+Number of 
+
+Key takeaways:Adult stem and progenitor cells show promise in tissue regeneration due to their advantages over embryonic stem cells, enhancing stem cell potency, altering organ property, and accelerating regeneration.
+
+Stem Cell Transplantation for Peripheral Nerve Regeneration: Current Options and Opportunities
+
+Number of 
+
+Key takeaways:Stem cell transplantation offers an alternative cell-based therapy for peripheral nerve regeneration, with potential benefits including Schwann cell differentiation, neurotrophic factors, and axonal growth and remyelination.
+
+Abstract:Peripheral nerve regeneration is a complicated process highlighted by Wallerian degeneration, axonal sprouting, and remyelination. Schwann cells play an integral role in multiple facets of nerve regeneration but obtaining Schwann cells for cell-based therapy is limited by the invasive nature of harvesting and donor site morbidity. Stem cell transplantation for peripheral nerve regeneration offers an alternative cell-based therapy with several regenerative benefits. Stem cells have the potential to differentiate into Schwann-like cells that recruit macrophages for removal of cellular debris. They also can secrete neurotrophic factors to promote axonal growth, and remyelination. Currently, various types of stem cell sources are being investigated for their application to peripheral nerve regeneration. This review highlights studies involving the stem cell types, the mechanisms of their action, methods of delivery to the injury site, and relevant pre-clinical or clinical data. The purpose of this article is to review the current point of view on the application of stem cell based strategy for peripheral nerve regeneration.
+
+Stem cell-based therapy for human diseases
+
+Number of 
+
+Key takeaways:Stem cell-based therapy, using human pluripotent stem cells and multipotent mesenchymal stem cells, shows promise in treating various human diseases, including neurological disorders, pulmonary dysfunctions, metabolic disorders, reproductive disorders, and skin burns.
+
+Cell therapy trials for heart regeneration — lessons learned and future directions
+
+Number of 
+
+Key takeaways:Cell therapy shows promise for heart regeneration in chronic cardiomyopathy patients, but more research is needed to optimize cell survival and activation of host-associated repair pathways.
+
+Stem cell paracrine effect and delivery strategies for spinal cord injury regeneration.
+
+Number of 
+
+Key takeaways:Stem cell therapy shows promise in spinal cord injury regeneration through paracrine mechanisms, not just cell replacement.
+
+Stem cell therapy in liver regeneration: Focus on mesenchymal stem cells and induced pluripotent stem cells.
+
+Number of 
+
+Key takeaways:Mesenchymal stem cells and induced pluripotent stem cells show promise in liver regeneration, with potential for precision medicine and individualized treatment in the near future.
+
+Stem cell paracrine actions and tissue regeneration.
+
+Number of 
+
+Key takeaways:Stem cells' beneficial effects extend beyond cell restoration, with their paracrine actions modulating the environment, potentially enhancing tissue regeneration and cancer therapies.
+
+Abstract:Stem cells have emerged as a key element of regenerative medicine therapies due to their inherent ability to differentiate into a variety of cell phenotypes, thereby providing numerous potential cell therapies to treat an array of degenerative diseases and traumatic injuries. A recent paradigm shift has emerged suggesting that the beneficial effects of stem cells may not be restricted to cell restoration alone, but also due to their transient paracrine actions. Stem cells can secrete potent combinations of trophic factors that modulate the molecular composition of the environment to evoke responses from resident cells. Based on this new insight, current research directions include efforts to elucidate, augment and harness stem cell paracrine mechanisms for tissue regeneration. This article discusses the existing studies on stem/progenitor cell trophic factor production, implications for tissue regeneration and cancer therapies, and development of novel strategies to use stem cell paracrine delivery for regenerative medicine.
+
+Tissue repair and regeneration with endogenous stem cells
+
+Number of 
+
+Key takeaways:Endogenous stem cells can be used for tissue repair and regeneration, with potential for improved applications using natural and synthetic biomaterials.
+
+Engineering stem cells to produce exosomes with enhanced bone regeneration effects: an alternative strategy for gene therapy
+
+Number of 
+
+Key takeaways:Engineering stem cells to produce exosomes with enhanced bone regeneration effects may offer an alternative strategy for gene therapy.
+
+Abstract:Exosomes derived from stem cells have been widely studied for promoting regeneration and reconstruction of multiple tissues as 'cell-free' therapies. However, the applications of exosomes have been hindered by limited sources and insufficient therapeutic potency.
+
+Adult Stem Cells for Bone Regeneration and Repair
+
+Number of 
+
+Key takeaways:Adult stem cells, when combined with biomaterials and growth factors, can effectively and rapidly improve bone regeneration and repair in regenerative medicine.
+
+Abstract:The regeneration of bone fractures, resulting from trauma, osteoporosis or tumors, is a major problem in our super-aging society. Bone regeneration is one of the main topics of concern in regenerative medicine. In recent years, stem cells have been employed in regenerative medicine with interesting results due to their self-renewal and differentiation capacity. Moreover, stem cells are able to secrete bioactive molecules and regulate the behavior of other cells in different host tissues. Bone regeneration process may improve effectively and rapidly when stem cells are used. To this purpose, stem cells are often employed with biomaterials/scaffolds and growth factors to accelerate bone healing at the fracture site. Briefly, this review will describe bone structure and the osteogenic differentiation of stem cells. In addition, the role of mesenchymal stem cells for bone repair/regrowth in the tissue engineering field and their recent progress in clinical applications will be discussed.
+
+Challenges in identifying the best source of stem cells for cardiac regeneration therapy
+
+Number of 
+
+Key takeaways:Identifying the best stem cell type for cardiac regeneration therapy is crucial for effective use in real-world scenarios, with potential benefits from various cell types and experimental variables.
+
+Abstract:Abstract The overall clinical cardiac regeneration experience suggests that stem cell therapy can be safely performed, but it also underlines the need for reproducible results for their effective use in a real-world scenario. One of the significant challenges is the identification and selection of the best suited stem cell type for regeneration therapy. Bone marrow mononuclear cells, bone marrow-derived mesenchymal stem cells, resident or endogenous cardiac stem cells, endothelial progenitor cells and induced pluripotent stem cells are some of the stem cell types which have been extensively tested for their ability to regenerate the lost myocardium. While most of these cell types are being evaluated in clinical trials for their safety and efficacy, results show significant heterogeneity in terms of efficacy. The enthusiasm surrounding regenerative medicine in the heart has been dampened by the reports of poor survival, proliferation, engraftment, and differentiation of the transplanted cells. Therefore, the primary challenge is to create clearcut evidence on what actually drives the improvement of cardiac function after the administration of stem cells. In this review, we provide an overview of different types of stem cells currently being considered for cardiac regeneration and discuss why associated factors such as practicality and difficulty in cell collection should also be considered when selecting the stem cells for transplantation. Next, we discuss how the experimental variables (type of disease, marker-based selection and use of different isolation techniques) can influence the study outcome. Finally, we provide an outline of the molecular and genetic approaches to increase the functional ability of stem cells before and after transplantation.
+
+Cardiac stem cell therapy and the promise of heart regeneration.
+
+Number of 
+
+Key takeaways:Cardiac stem cell therapy shows promise for heart regeneration, but resolving critical controversies in experimental cardiac regeneration is crucial for achieving true clinical efficacy.
+
+Stem cell-based bone and dental regeneration: a view of microenvironmental modulation
+
+Number of 
+
+Key takeaways:Targeting diseased microenvironments with strategies like extracellular vesicles shows promise in improving the efficacy of mesenchymal stem cell-based bone and dental regeneration.
+
+Current advances in stem cell-based therapies for hair regeneration.
+
+Number of 
+
+Key takeaways:Stem cell-based therapies, particularly those based on stem cell-derived conditioned medium, show promising potential for hair regeneration in nonscarring alopecia.
+
+Application of stem cells in regeneration medicine
+
+Number of 
+
+Key takeaways:Stem cells and their exosomes can effectively aid in skin and bone regeneration, but improved bioavailability through nanoformulations is needed for optimal use.
+
+Abstract:Abstract Regeneration is a complex process affected by many elements independent or combined, including inflammation, proliferation, and tissue remodeling. Stem cells is a class of primitive cells with the potentiality of differentiation, regenerate with self‐replication, multidirectional differentiation, and immunomodulatory functions. Stem cells and their cytokines not only inextricably linked to the regeneration of ectodermal and skin tissues, but also can be used for the treatment of a variety of chronic wounds. Stem cells can produce exosomes in a paracrine manner. Stem cell exosomes play an important role in tissue regeneration, repair, and accelerated wound healing, the biological properties of which are similar with stem cells, while stem cell exosomes are safer and more effective. Skin and bone tissues are critical organs in the body, which are essential for sustaining life activities. The weak repairing ability leads a pronounced impact on the quality of life of patients, which could be alleviated by stem cell exosomes treatment. However, there are obstacles that stem cells and stem cells exosomes trough skin for improved bioavailability. This paper summarizes the applications and mechanisms of stem cells and stem cells exosomes for skin and bone healing. We also propose new ways of utilizing stem cells and their exosomes through different nanoformulations, liposomes and nanoliposomes, polymer micelles, microspheres, hydrogels, and scaffold microneedles, to improve their use in tissue healing and regeneration.
+
+Role and application of stem cells in dental regeneration: A comprehensive overview
+
+Number of 
+
+Key takeaways:Dental stem cells show promise in tissue regeneration due to their accessibility, plasticity, and high proliferative ability, making them a promising candidate for tissue replacement therapies and tissue engineering.
+
+Abstract:Recently, a growing attention has been observed toward potential advantages of stem cell (SC)-based therapies in regenerative treatments. Mesenchymal stem/stromal cells (MSCs) are now considered excellent candidates for tissue replacement therapies and tissue engineering. Autologous MSCs importantly contribute to the state-of-the-art clinical strategies for SC-based alveolar bone regeneration. The donor cells and immune cells play a prominent role in determining the clinical success of MSCs therapy. In line with the promising future that stem cell therapy has shown for tissue engineering applications, dental stem cells have also attracted the attention of the relevant researchers in recent years. The current literature review aims to survey the variety and extension of SC-application in tissue-regenerative dentistry. In this regard, the relevant English written literature was searched using keywords: “tissue engineering”, “stem cells”, “dental stem cells”, and “dentistry strategies”. According to the available database, SCs application has become increasingly widespread because of its accessibility, plasticity, and high proliferative ability. Among the growing recognized niches and tissues containing higher SCs, dental tissues are evidenced to be rich sources of MSCs. According to the literature, dental SCs are mostly present in the dental pulp, periodontal ligament, and dental follicle tissues. In this regard, the present review has described the recent findings on the potential of dental stem cells to be used in tissue regeneration.
+
+Insight into the Role of Dental Pulp Stem Cells in Regenerative Therapy
+
+Number of 
+
+Key takeaways:Dental pulp stem cells show potential for tissue regeneration and regenerative medicine due to their high growth capacity, multipotency, and immunomodulatory effects.
+
+Abstract:Mesenchymal stem cells (MSCs) have the capacity for self-renewal and multilineage differentiation potential, and are considered a promising cell population for cell-based therapy and tissue regeneration. MSCs are isolated from various organs including dental pulp, which originates from cranial neural crest-derived ectomesenchyme. Recently, dental pulp stem cells (DPSCs) and stem cells from human exfoliated deciduous teeth (SHEDs) have been isolated from dental pulp tissue of adult permanent teeth and deciduous teeth, respectively. Because of their MSC-like characteristics such as high growth capacity, multipotency, expression of MSC-related markers, and immunomodulatory effects, they are suggested to be an important cell source for tissue regeneration. Here, we review the features of these cells, their potential to regenerate damaged tissues, and the recently acquired understanding of their potential for clinical application in regenerative medicine.
+
+Therapeutic potential of dental stem cells
+
+Number of 
+
+Key takeaways:Dental stem cells show high potential for regenerative medicine and tissue engineering therapy, offering low-risk solutions for bone reconstruction and organ replacement.
+
+Abstract:Stem cell biology has become an important field in regenerative medicine and tissue engineering therapy since the discovery and characterization of mesenchymal stem cells. Stem cell populations have also been isolated from human dental tissues, including dental pulp stem cells, stem cells from human exfoliated deciduous teeth, stem cells from apical papilla, dental follicle progenitor cells, and periodontal ligament stem cells. Dental stem cells are relatively easily obtainable and exhibit high plasticity and multipotential capabilities. The dental stem cells represent a gold standard for neural-crest-derived bone reconstruction in humans and can be used for the repair of body defects in low-risk autologous therapeutic strategies. The bioengineering technologies developed for tooth regeneration will make substantial contributions to understand the developmental process and will encourage future organ replacement by regenerative therapies in a wide variety of organs such as the liver, kidney, and heart. The concept of developing tooth banking and preservation of dental stem cells is promising. Further research in the area has the potential to herald a new dawn in effective treatment of notoriously difficult diseases which could prove highly beneficial to mankind in the long run.
+
+Intra-articular Mesenchymal Stem Cell Therapy for the Human Joint: A Systematic Review
+
+Number of 
+
+Key takeaways:Intra-articular mesenchymal stem cell therapy is safe and generally positive for treating osteoarthritis and chondral defects in all joints, but overall quality of literature limits firm conclusions on efficacy.
+
+Abstract:Background: Stem cell therapy is emerging as a potential treatment of osteoarthritis (OA) and chondral defects (CDs). However, there is a great deal of heterogeneity in the literature. The indications for stem cell use, the ideal tissue 
+
+Mesenchymal stem cell-based therapy of osteoarthritis: Current knowledge and future perspectives.
+
+Number of 
+
+Key takeaways:Mesenchymal stem cells show potential in promoting cartilage regeneration and attenuating joint inflammation in osteoarthritis treatment.
+
+Mesenchymal stem cell–derived extracellular vesicles in joint diseases: Therapeutic effects and underlying mechanisms
+
+Number of 
+
+Key takeaways:MSC-derived extracellular vesicles show high therapeutic efficacy in tissue repair and regeneration for joint diseases, with potential for clinical translation.
+
+Human Amniotic Mesenchymal Stem Cells Promote Endogenous Bone Regeneration
+
+Number of 
+
+Key takeaways:Human amniotic mesenchymal stem cells (hAMSCs) show potential in promoting bone regeneration for joint diseases and bone defects, with more studies needed to confirm their clinical application.
+
+Abstract:Bone regeneration has become a research hotspot and therapeutic target in the field of bone and joint medicine. Stem cell-based therapy aims to promote endogenous regeneration and improves therapeutic effects and side-effects of traditional reconstruction of significant bone defects and disorders. Human amniotic mesenchymal stem cells (hAMSCs) are seed cells with superior paracrine functions on immune-regulation, anti-inflammation, and vascularized tissue regeneration. The present review summarized the source and characteristics of hAMSCs and analyzed their roles in tissue regeneration. Next, the therapeutic effects and mechanisms of hAMSCs in promoting bone regeneration of joint diseases and bone defects. Finally, the clinical application of hAMSCs from current clinical trials was analyzed. Although more studies are needed to confirm that hAMSC-based therapy to treat bone diseases, the clinical application prospect of the approach is worth investigating.
+
+Prospect of Stem Cell Therapy and Regenerative Medicine in Osteoporosis
+
+Number of 
+
+Key takeaways:Stem cell-based therapies, particularly mesenchymal stem cells, show potential in restoring bone tissue and preventing osteoporotic fractures in osteoporotic patients.
+
+Abstract:The field of cell therapy and regenerative medicine can hold the promise of restoring normal tissues structure and function. Additionally, the main targets of stem cell-based therapies are chronic diseases and lifelong disabilities without definite cures such as osteoporosis. Osteoporosis as one of the important causes of morbidity in older men and post-menopausal women is characterized by reduced bone quantity or skeletal tissue atrophy that leads to an increased risk of osteoporotic fractures. The common therapeutic methods for osteoporosis only can prevent the loss of bone mass and recover the bone partially. Nevertheless, stem cell-based therapy is considered as a new approach to regenerate the bone tissue. Herein, mesenchymal stem cells as pivotal candidates for regenerative medicine purposes especially bone regeneration are the most common type of cells with anti-inflammatory, immune-privileged potential, and less ethical concerns than other types of stem cells which are investigated in osteoporosis. Based on several findings, the mesenchymal stem cells effectiveness near to a great extent depends on their secretory function. Indeed, they can be involved in the establishment of normal bone remodeling via initiation of specific molecular signaling pathways. Accordingly, the aim herein was to review the effects of stem cell-based therapies in osteoporosis.
+
+Human osteoarthritic articular cartilage stem cells suppress osteoclasts and improve subchondral bone remodeling in experimental knee osteoarthritis partially by releasing TNFAIP3
+
+Number of 
+
+Key takeaways:Human osteoarthritic articular cartilage stem cells improve subchondral bone remodeling in osteoarthritic rats by suppressing osteoclasts and releasing TNFAIP3 in a diseased microenvironment responsive manner.
+
+Abstract:Abstract Background Though articular cartilage stem cell (ACSC)-based therapies have been demonstrated to be a promising option in the treatment of diseased joints, the wide variety of cell isolation, the unknown therapeutic targets, and the incomplete understanding of the interactions of ACSCs with diseased microenvironments have limited the applications of ACSCs. Methods In this study, the human ACSCs have been isolated from osteoarthritic articular cartilage by advantage of selection of anatomical location, the migratory property of the cells, and the combination of traumatic injury, mechanical stimuli and enzymatic digestion. The protective effects of ACSC infusion into osteoarthritis (OA) rat knees on osteochondral tissues were evaluated using micro-CT and pathological analyses. Moreover, the regulation of ACSCs on osteoarthritic osteoclasts and the underlying mechanisms in vivo and in vitro were explored by RNA-sequencing, pathological analyses and functional gain and loss experiments. The one-way ANOVA was used in multiple group data analysis. Results The ACSCs showed typical stem cell-like characteristics including colony formation and committed osteo-chondrogenic capacity. In addition, intra-articular injection into knee joints yielded significant improvement on the abnormal subchondral bone remodeling of osteoarthritic rats. Bioinformatic and functional analysis showed that ACSCs suppressed osteoarthritic osteoclasts formation, and inflammatory joint microenvironment augmented the inhibitory effects. Further explorations demonstrated that ACSC-derived tumor necrosis factor alpha-induced protein 3 (TNFAIP3) remarkably contributed to the inhibition on osteoarhtritic osteoclasts and the improvement of abnormal subchondral bone remodeling. Conclusion In summary, we have reported an easy and reproducible human ACSC isolation strategy and revealed their effects on subchondral bone remodeling in OA rats by releasing TNFAIP3 and suppressing osteoclasts in a diseased microenvironment responsive manner. Graphical abstract
+
+Mesenchymal stem cell-based therapy for osteoporotic bones: Effects of the interaction between cells from healthy and osteoporotic rats on osteoblast differentiation and bone repair.
+
+Number of 
+
+Key takeaways:Interaction between healthy and osteoporotic mesenchymal stem cells can partially recover osteogenic potential and effectively induce bone formation in osteoporotic rats.
+
+Connection between Mesenchymal Stem Cells Therapy and Osteoclasts in Osteoarthritis
+
+Number of 
+
+Key takeaways:Mesenchymal stem cells show promising results in treating osteoarthritis, but further studies are needed to confirm their potential as a therapeutic tool for osteoclasts and their consequences on the osteoarthritic joint.
+
+Abstract:The use of mesenchymal stem cells constitutes a promising therapeutic approach, as it has shown beneficial effects in different pathologies. Numerous in vitro, pre-clinical, and, to a lesser extent, clinical trials have been published for osteoarthritis. Osteoarthritis is a type of arthritis that affects diarthritic joints in which the most common and studied effect is cartilage degradation. Nowadays, it is known that osteoarthritis is a disease with a very powerful inflammatory component that affects the subchondral bone and the rest of the tissues that make up the joint. This inflammatory component may induce the differentiation of osteoclasts, the bone-resorbing cells. Subchondral bone degradation has been suggested as a key process in the pathogenesis of osteoarthritis. However, very few published studies directly focus on the activity of mesenchymal stem cells on osteoclasts, contrary to what happens with other cell types of the joint, such as chondrocytes, synoviocytes, and osteoblasts. In this review, we try to gather the published bibliography in relation to the effects of mesenchymal stem cells on osteoclastogenesis. Although we find promising results, we point out the need for further studies that can support mesenchymal stem cells as a therapeutic tool for osteoclasts and their consequences on the osteoarthritic joint.
+
+Stem cell-based therapies for temporomandibular joint osteoarthritis and regeneration of cartilage/osteochondral defects: A systematic review of preclinical experiments.
+
+Number of 
+
+Key takeaways:Stem cell-based therapies show promising potential in treating Temporomandibular Joint Osteoarthritis and regenerating cartilage and osteochondral defects in the TMJ.
+
+Therapeutic application of mesenchymal stem cells in bone and joint diseases
+
+Number of 
+
+Key takeaways:Mesenchymal stem cells show promising potential in treating common bone and joint diseases, such as osteoarthritis, rheumatoid arthritis, osteoporosis, and osteogenesis imperfecta.
+
+Abstract:Mesenchymal stem cells (MSCs), the non-hematopoietic progenitor cells, are multi-potent stem cells from a variety of tissues with the capability of self-renewal, proliferation, differentiation into multi-lineage cell types, as well as anti-inflammatory and immunomodulatory. These properties make MSCs an ideal source of cell therapy in bone and joint diseases. This review describes the advances of animal study and preliminary clinical application in the past few years, related to MSC-based cell therapy in the common bone and joint diseases, including osteoarthritis, rheumatoid arthritis, osteoporosis, osteonecrosis of the femoral head and osteogenesis imperfecta. It highlights the promising prospect of MSC in clinical application of bone and joint diseases.
+
+Role of mesenchymal stem cells in osteoarthritis treatment
+
+Number of 
+
+Key takeaways:Mesenchymal stem cells show potential in treating osteoarthritis and other joint and bone diseases, but further investigations are needed for more effective treatments.
+
+Recent Developments in Clinical Applications of Mesenchymal Stem Cells in the Treatment of Rheumatoid Arthritis and Osteoarthritis
+
+Number of 
+
+Key takeaways:Mesenchymal stem cell therapies show promising results in improving joint function, pain level, and quality of life for osteoarthritis and rheumatoid arthritis patients, but further research is needed.
+
+Abstract:Mesenchymal stem cell (MSC) therapies have been used as cell-based treatments for decades, owing to their anti-inflammatory, immunomodulatory, and regenerative properties. With high expectations, many ongoing clinical trials are investigating the safety and efficacy of MSC therapies to treat arthritic diseases. Studies on osteoarthritis (OA) have shown positive clinical outcomes, with improved joint function, pain level, and quality of life. In addition, few clinical MSC trials conducted on rheumatoid arthritis (RA) patients have also displayed some optimistic outlook. The largely positive outcomes in clinical trials without severe side effects establish MSCs as promising tools for arthritis treatment. However, further research is required to investigate its applicability in clinical settings. This review discusses the most recent advances in clinical studies on MSC therapies for OA and RA.
+
+Autologous Adipose-Derived Mesenchymal Stem Cells Combined with Shockwave Therapy Synergistically Ameliorates the Osteoarthritic Pathological Factors in Knee Joint
+
+Number of 
+
+Key takeaways:Autologous adipose-derived mesenchymal stem cells combined with shockwave therapy effectively improve osteoarthritic joint symptoms by increasing bone volume, trabecular thickness, and trabecular number.
+
+Abstract:Adipose-derived mesenchymal stem cells (ADSCs) and shockwave (SW) therapy have been shown to exert a chondroprotective effect for osteoarthritis (OA). The results of this study demonstrated that autologous ADSCs had dose-dependent and synergistic effects with SW therapy (0.25 mJ/mm2 with 800 impulses) in OA rat knee joint. Autologous, high-dose 2 × 106 ADSCs (ADSC2 group) combined with SW therapy significantly increased the bone volume, trabecular thickness, and trabecular number among in the treatment groups. ADSC2 combined with SW therapy significantly reduced the synovitis score and OARSI score in comparison with other treatments. In the analysis of inflammation-induced extracellular matrix factors of the articular cartilage in OA, the results displayed that ADSC2 combined with SW therapy had a greater than other treatments in terms of reducing tumor necrosis factor-inducible gene (TSG)-6 and proteoglycan (PRG)-4, in addition to increasing tissue inhibitor matrix metalloproteinase (TIMP)-1 and type II collagen. Furthermore, ADSC2 combined with SW therapy significantly reduced the expression of inflammation-induced bone morphogenetic protein (BMP)-2 and BMP-6. Therefore, the results demonstrated that ADSC2 combined with SW therapy had a synergistic effect to ameliorate osteoarthritic pathological factors in OA joints.
+
+Transforming growth factor-β family and stem cell-derived exosome therapeutic treatment in osteoarthritis (Review)
+
+Number of 
+
+Key takeaways:Targeting TGF-3 and stem cell-derived exosomes may offer an effective and safe alternative treatment for osteoarthritis, potentially replacing joint replacement surgery.
+
+Abstract:Osteoarthritis (OA), although extensively researched, still lacks an effective and safe treatment. The only current treatment option available for advanced OA is joint replacement surgery. This surgery may pose the risks of persistent pain, surgical complications and limited implant lifespan. Transforming growth factor (TGF)-β has a crucial role in multiple cellular processes such as cell proliferation. Any deterioration in TGF-β signaling pathways can have an immense impact on OA. Owing to the crucial role of TGF-β in cartilage homeostasis, targeting it could be an alternative therapeutic approach. Additionally, stem cell-based therapy has recently emerged as an effective treatment strategy that could replace surgery. A number of recent findings suggest that the tissue regeneration effect of stem cells is attributed to the paracrine secretion of anti-inflammatory and chondroprotective mediators or trophic factors, particularly nanosized extracellular vesicles (i.e., exosomes). Literature searches were performed in the MEDLINE, EMBASE, Cochrane Library and PubMed electronic database for relevant articles published before September 2021. Multiple investigators have confirmed TGF-β3 as a promising candidate which has the chondrogenic potential to repair articular cartilage degeneration. Combining TGF-β3 with bone morphogenetic proteins-6, which has synergistic effect on chondrogenesis, with an efficient platform such as exosomes, which themselves possess a chondroprotective function, offers an innovative and more efficient approach to treat injured cartilage. In addition, multiple findings stating the role of exosomes in chondroprotection has also verified a similar fact showing exosomes may be a more favorable choice than the source itself. In the present review, the importance of TGF-β family in OA and the possibility of therapeutic treatment using stem cell-derived exosomes are described.
+
+Mapping the Knowledge Landscape of and Emerging Future Trends in Stem Cell Therapy for Osteoarthritis: A Bibliometric Analysis of the Literature From 1998 to 2024
+
+Number of 
+
+Key takeaways:Stem cell transplantation and exosome therapy are emerging as key research trends in osteoarthritis treatment, with China, the University of California system, Sekiya I, and Osteoarthritis and Cartilage as key hotspots.
+
+Abstract:Objective The purpose of this study was to conduct a bibliometric analysis of the literature on stem cell therapy for osteoarthritis (OA) to visualize recent developments, identify hot spots, and determine trends in the field. Background OA is a chronic disease that affects the joints and their surrounding tissues, leading to progressive damage to the articular cartilage and ultimately to the subchondral bone and the surrounding synovial structures. OA is a disabling disease with an increasing incidence and prevalence in the general population. Modulation of immunity and inflammation and improvement of cell survival and differentiation through multidirectional differentiation of stem cells is a potential strategy for the treatment of OA. Methods We searched for publications on “stem cell therapy for osteoarthritis” in the Web of Science (WOS) core collection database from 1998–2024 and summarized the results, including year of publication, country, institution, author, and collaborative network generated using VOSviewer and Citespace. In addition, research trends were identified. Finally, we summarized the hot topics and identified future research trends. Results This study ultimately included 2341 valid papers, with a trend toward a gradual increase in the number of publications over time. The country, institution, author, and journal with the highest number of publications and citations were China, the University of California system, Sekiya I, and Osteoarthritis and Cartilage, respectively. High-frequency keyword clusters included cell therapy, stem cells, tissue engineering, and extracellular vesicles. Conclusion Through visualization and analysis, we elucidated the trends and research hotspots in the field over the past five years. The analysis revealed that stem cell transplantation and exosome therapy for OA may be the focus of future research. This study lays the foundation for future research and clinical work on stem cell therapy in this field.
+
+Native joint-resident mesenchymal stem cells for cartilage repair in osteoarthritis
+
+Number of 
+
+Key takeaways:Joint-resident mesenchymal stem cells play a key role in adult cartilage repair and represent important targets for manipulation in osteoarthritis treatment.
+
+Biomimetic Composite Scaffolds to Manipulate Stem Cells for Aiding Rheumatoid Arthritis Management
+
+Number of 
+
+Key takeaways:The biomimetic composite scaffolds, consisting of 3D printed porous metal scaffolds and soft polysaccharide hydrogels, effectively improve rheumatoid arthritis management by promoting bone regeneration and cartilage remodeling.
+
+Abstract:Stem cell transplantation is a promising alternative therapy for rheumatoid arthritis (RA) patients, with the potential to suppress autoimmune inﬂammation and prevent joint damage. However, widespread application of RA therapy based on stem cell transplantation is limited due to poor migration, local retention, and uncontrolled differentiation of stem cells. Here, inspired by the dynamic construction of bone matrix, a structurally and functionally optimized scaffold for loading bone marrow stem cells (BMSCs) is designed to aid RA management. The composite scaffolds consist of stiff 3D printing porous metal scaffolds (3DPMS) and soft multifunctional polysaccharide hydrogels, wherein 3DPMS meet the requirements for large‐scale bone defects caused by RA. Attractively, the fabricated hydrogels on the composite scaffold are self‐healable, injectable, biocompatible, and biodegradable, which endow the resultant scaffold many aspects mimicking the extracellular matrix (ECM). After encapsulation of BMSCs, hydrogels are administered into the inner pores of 3DPMS, abbreviated as BMSCs@3DPMS/hydrogels. In this study, BMSCs@3DPMS/hydrogels have a good effect on improving RA, such as remodeling of knee joint articular cartilage, inhibition of inﬂammatory cytokines, and promotion of subchondral bone regeneration. Besides RA, the innovative scaffolds may also serve as an ideal biomaterial for other bone regenerative therapies in various orthopedic diseases.
+
+Mesenchymal Stem Cells‐Involved Strategies for Rheumatoid Arthritis Therapy
+
+Number of 
+
+Key takeaways:Mesenchymal stem cells show potential in rheumatoid arthritis therapy by suppressing inflammation and promoting tissue regeneration, offering a promising alternative to traditional treatments.
+
+Abstract:Rheumatoid arthritis (RA) is a systemic autoimmune disease characterized by chronic inflammation of the joints and bone destruction. Because of systemic administration and poor targeting, traditional anti‐rheumatic drugs have unsatisfactory treatment efficacy and strong side effects, including myelosuppression, liver or kidney function damage, and malignant tumors. Consequently, mesenchymal stem cells (MSCs)‐involved therapy is proposed for RA therapy as a benefit of their immunosuppressive and tissue‐repairing effects. This review summarizes the progress of MSCs‐involved RA therapy through suppressing inflammation and promoting tissue regeneration and predicts their potential clinical application.
+
+BMP-2 Genome-Edited Human MSCs Protect against Cartilage Degeneration via Suppression of IL-34 in Collagen-Induced Arthritis
+
+Number of 
+
+Key takeaways:BMP-2 genome-editing in mesenchymal stem cells may enhance their therapeutic potential for treating cartilage degeneration in arthritic joints by suppressing IL-34 and promoting bone healing.
+
+Abstract:Even though the regenerative potential of mesenchymal stem cells (MSCs) has been extensively studied, there is a debate regarding their minimal therapeutic properties. Bone morphogenetic proteins (BMP) are involved in cartilage metabolism, chondrogenesis, and bone healing. In this study, we aimed to analyze the role of genome-edited BMP-2 overexpressing amniotic mesenchymal stem cells (AMMs) in a mouse model of collagen-induced arthritis (CIA). The BMP-2 gene was synthesized and inserted into AMMs using transcription activator-like effector nucleases (TALENs), and BMP-2-overexpressing AMMs (AMM/B) were sorted and characterized using quantitative reverse transcription polymerase chain reaction (qRT-PCR). The co-culture of AMM/B with tumor necrosis factor (TNF)-α-treated synovial fibroblasts significantly decreased the levels of interleukin (IL)-34. The therapeutic properties of AMM/B were evaluated using the CIA mouse model. The injection of AMM/B attenuated CIA progression and inhibited T helper (Th)17 cell activation in CIA mice. In addition, the AMM/B injection increased proteoglycan expression in cartilage and decreased the infiltration of inflammatory cells and factors, including IL-1β, TNF-α, cyclooxygenase (COX)-2, and Nuclear factor kappa B (NF-kB) in the joint tissues. Therefore, editing the BMP-2 genome in MSCs might be an alternative strategy to enhance their therapeutic potential for treating cartilage degeneration in arthritic joints.
+
+Safety of intra-articular cell-therapy with culture-expanded stem cells in humans: a systematic literature review.
+
+Number of 
+
+Key takeaways:Intra-articular treatment with cultured stem cells in joints appears to be safe, with potential side effects related to increased pain and swelling.
+
+Mesenchymal stem cell-based cell-free strategies: safe and effective treatments for liver injury
+
+Number of 
+
+Key takeaways:Mesenchymal stem cell-based cell-free strategies show promise in promoting liver regeneration and repairing liver injury, potentially reducing the need for liver transplantation and reducing wait time for patients.
+
+Abstract:Abstract Various hepatoxic factors, such as viruses, drugs, lipid deposition, and autoimmune responses, induce acute or chronic liver injury, and 3.5% of all worldwide deaths result from liver cirrhosis, liver failure, or hepatocellular carcinoma. Liver transplantation is currently limited by few liver donors, expensive surgical costs, and severe immune rejection. Cell therapy, including hepatocyte transplantation and stem cell transplantation, has recently become an attractive option to reduce the overall need for liver transplantation and reduce the wait time for patients. Recent studies showed that mesenchymal stem cell (MSC) administration was a promising therapeutic approach for promoting liver regeneration and repairing liver injury by the migration of cells into liver sites, hepatogenic differentiation, immunoregulation, and paracrine mechanisms. MSCs secrete a large number of molecules into the extracellular space, and soluble proteins, free nucleic acids, lipids, and extracellular vesicles (EVs) effectively repair tissue injury in response to fluctuations in physiological states or pathological conditions. Cell-free-based therapies avoid the potential tumorigenicity, rejection of cells, emboli formation, undesired differentiation, and infection transmission of MSC transplantation. In this review, we focus on the potential mechanisms of MSC-based cell-free strategies for attenuating liver injury in various liver diseases. Secretome-mediated paracrine effects participate in the regulation of the hepatic immune microenvironment and promotion of hepatic epithelial repair. We look forward to completely reversing liver injury through an MSC-based cell-free strategy in regenerative medicine in the near future.
+
+Therapeutic effect and safety of stem cell therapy for chronic liver disease: a systematic review and meta-analysis of randomized controlled trials
+
+Number of 
+
+Key takeaways:Stem cell therapy is a safe and effective treatment for chronic liver disease, with a short-term survival benefit for patients with acute-on-chronic liver failure, and single injection administration via the hepatic artery is superior.
+
+Abstract:Abstract Background Stem cell therapy is becoming an emerging therapeutic option for chronic liver disease (CLD). However, whether stem cell therapy is more effective than conventional treatment remains questionable. We performed a large-scale meta-analysis of randomized controlled trials (RCTs) to evaluate the therapeutic effects and safety of stem cell therapy for CLD. Methods We systematically searched MEDLINE, EMBASE, the Cochrane Central Register of Controlled Trials (CENTRAL), and ClinicalTrials.gov databases for the period from inception through March 16, 2020. Primary outcomes were all-cause mortality and adverse events related to stem cell therapy. Secondary outcomes included the model for end-stage liver disease score, total bilirubin, albumin, alanine aminotransferase, prothrombin activity, and international normalized ratio. The standardized mean difference (SMD) and odds ratio (OR) with 95% confidence interval (CI) were calculated using a random-effects model. Results Twenty-four RCTs were included and the majority of these studies showed a high risk of bias. The meta-analysis indicated that compared with conventional treatment, stem cell therapy was associated with improved survival and liver function including the model of end-stage liver disease score, total bilirubin, and albumin levels. However, it had no obvious beneficial effects on alanine aminotransferase level, prothrombin activity, and international normalized ratio. Subgroup analyses showed stem cell therapy conferred a short-term survival benefit for patients with acute-on-chronic liver failure (ACLF), a single injection was more effective than multiple injections, hepatic arterial infusion was more effective than intravenous infusion, and bone marrow-derived stem cells were more effective than those derived from the umbilical cord. Thirteen trials reported adverse events related to stem cell therapy, but no serious adverse events were reported. Conclusions Stem cell therapy is a safe and effective therapeutic option for CLD, while patients with ACLF benefit the most in terms of improved short-term survival. A single injection administration of bone marrow-derived stem cells via the hepatic artery has superior therapeutic effects.
+
+A comprehensive meta-analysis of stem cell therapy for liver failure: Assessing treatment efficacy and modality.
+
+Number of 
+
+Key takeaways:Stem cell therapy significantly improves survival and clinical outcomes in liver failure patients, with allogeneic MSCs and deep vessel plus single injection administration showing superior benefits.
+
+Efficacy and safety of mesenchymal stem cell therapy in liver cirrhosis: a systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Mesenchymal stem cell therapy is effective and safe in improving liver function and reducing complications in liver cirrhosis patients without severe adverse effects.
+
+Abstract:Abstract Aim Although the efficacy and safety of mesenchymal stem cell therapy for liver cirrhosis have been demonstrated in several studies. Clinical cases of mesenchymal stem cell therapy for patients with liver cirrhosis are limited and these studies lack the consistency of treatment effects. This article aimed to systematically investigate the efficacy and safety of mesenchymal stem cells in the treatment of liver cirrhosis. Method The data source included PubMed/Medline, Web of Science, EMBASE, and Cochrane Library, from inception to May 2023. Literature was screened by the PICOS principle, followed by literature quality evaluation to assess the risk of bias. Finally, the data from each study's outcome indicators were extracted for a combined analysis. Outcome indicators of the assessment included liver functions and adverse events. Statistical analysis was performed using Review Manager 5.4. Results A total of 11 clinical trials met the selection criteria. The pooled analysis' findings demonstrated that both primary and secondary indicators had improved. Compared to the control group, infusion of mesenchymal stem cells significantly increased ALB levels in 2 weeks, 1 month, 3 months, and 6 months, and significantly decreased MELD score in 1 month, 2 months, and 6 months, according to a subgroup analysis using a random-effects model. Additionally, the hepatic arterial injection favored improvements in MELD score and ALB levels. Importantly, none of the included studies indicated any severe adverse effects. Conclusion The results showed that mesenchymal stem cell was effective and safe in the treatment of liver cirrhosis, improving liver function (such as a decrease in MELD score and an increase in ALB levels) in patients with liver cirrhosis and exerting protective effects on complications of liver cirrhosis and the incidence of hepatocellular carcinoma. Although the results of the subgroup analysis were informative for the selection of mesenchymal stem cells for clinical treatment, a large number of high-quality randomized controlled trials validations are still needed.
+
+Progress in stem cell‐based therapy for liver disease
+
+Number of 
+
+Key takeaways:Stem cell-based therapy shows potential for treating liver disease, with potential benefits for patients with acute and chronic liver failure.
+
+Abstract:Liver transplantation has been accepted as a useful therapeutic approach for patients with end‐stage liver disease. However, the mismatch between the great demand for liver transplants and the number of available donor organs underscores the urgent need for alternative therapeutic strategies for patients with acute and chronic liver failure. The rapidly growing knowledge on stem cell biology has opened new avenues toward stem cell‐based therapy for liver disease. As stem cells have capacity for high proliferation and multipotent differentiation, the characteristics of stem cells fit the cell therapy. Several types of cells have been investigated as possible 
+
+Mesenchymal stem cell therapy for liver disease: full of chances and challenges
+
+Number of 
+
+Key takeaways:Mesenchymal stem cell therapy shows promise for treating end-stage liver disease, but more research is needed to determine suitable diseases and standardize preparation and engraftment processes.
+
+Abstract:Abstract Liver disease is a major health problem that endangers human health worldwide. Currently, whole organ allograft transplantation is the gold standard for the treatment of end-stage liver disease. A shortage of suitable organs, high costs and surgical complications limit the application of liver transplantation. Mesenchymal stem cell therapy has been considered as a promising alternative approach for end-stage liver disease. Some clinical trials have confirmed the effectiveness of MSC therapy for liver disease, but its application has not been promoted and approved. There are still many issues that should be solved prior to using MSC therapy in clinical applications. The types of liver disease that are most suitable for MSC application should be determined, and the preparation and engraftment of MSCs should be standardized. These may be bottlenecks that limit the use of MSCs. We investigated 22 completed and several ongoing clinical trials to discuss these questions from a clinical perspective. We also discussed the important mechanisms by which MSCs play a therapeutic role in liver disease. Finally, we also proposed novel prospective approaches that can improve the therapeutic effect of MSCs.
+
+Bioreactor-based stem cell therapy for liver fibrosis
+
+Number of 
+
+Key takeaways:Bioreactor-based stem cell therapy effectively alleviates liver fibrosis in a rat model, offering a promising new strategy for 'cell-free' stem cell therapy.
+
+Abstract:Stem cell therapy, achieved using mesenchymal stem cells (MSCs), has been highlighted for the treatment of liver fibrosis. Infusion into the circulatory system is a traditional application of MSCs; however, this approach is limited by phenotypic drift, stem cell senescence, and vascular embolism. Maintaining the therapeutic phenotype of MSCs while avoiding adverse infusion-related reactions is the key to developing next-generation stem cell therapy technologies. Here, we propose a bioreactor-based MSCs therapy to avoid cell infusion. In this scheme, 5% liver fibrosis serum was used to induce the therapeutic phenotype of MSCs, and a fluid bioreactor carrying a co-culture system of hepatocytes and MSCs was constructed to produce the therapeutic medium. In a rat model of liver fibrosis, the therapeutic medium derived from the bioreactor significantly alleviated liver fibrosis. Therapeutic mechanisms include immune regulation, inhibition of hepatic stellate cell activation, establishment of hepatocyte homeostasis, and recovery of liver stem cell subsets. Overall, the bioreactor-based stem cell therapy (scheme) described here represents a promising new strategy for the treatment of liver fibrosis and will be beneficial for the development of ‘cell-free’ stem cell therapy.
+
+Historical Perspectives and Advances in Mesenchymal Stem Cell Research for the Treatment of Liver Diseases.
+
+Number of 
+
+Key takeaways:Mesenchymal stem cells show potential in liver regeneration, but require improved differentiation, immune reactivity, and tumorigenic potential for successful therapeutic applications.
+
+Abstract:Liver transplantation is the only effective therapy for patients with decompensated cirrhosis and fulminant liver failure. However, due to a shortage of donor livers and complications associated with immune suppression, there is an urgent need for new therapeutic strategies for patients with end-stage liver diseases. Given their unique function in self-renewal and differentiation potential, stem cells might be used to regenerate damaged liver tissue. Recent studies have shown that stem cell-based therapies can improve liver function in a mouse model of hepatic failure. Moreover, acellular liver scaffolds seeded with hepatocytes produced functional bioengineered livers for organ transplantation in preclinical studies. The therapeutic potential of stem cells or their differentiated progenies will depend on their capacity to differentiate into mature and functional cell types after transplantation. It will also be important to devise methods to overcome their genomic instability, immune reactivity, and tumorigenic potential. We review directions and advances in the use of mesenchymal stem cells and their derived hepatocytes for liver regeneration. We also discuss the potential applications of hepatocytes derived from human pluripotent stem cells and challenges to using these cells in treating end-stage liver disease.
+
+Efficacy of stem cell therapy in patients with chronic liver disease: an umbrella review of systematic reviews
+
+Number of 
+
+Key takeaways:Stem cell therapy shows potential in improving survival rates and certain liver function markers in chronic liver disease patients.
+
+Abstract:Background: Stem cell therapy offers promising benefits like modulating immune responses, reducing inflammation, and aiding liver regeneration. This umbrella review seeks to compile evidence from systematic reviews to assess the efficacy of stem cell therapy for improving liver function and survival rates in chronic liver disease patients. Methods: We searched electronic databases up to February 15, 2024. The selection process focused on systematic reviews comparing stem cell therapy with standard care or a placebo. The primary outcomes evaluated were changes in liver enzymes, the Model for End-Stage Liver Disease score, and survival rates. Nested Knowledge software was utilized for screening and data extraction. All statistical analyses were performed using R software, version 4.3. Results: Our umbrella review included 28 systematic reviews. The meta-analysis showcased a notable improvement in survival rates with a pooled relative risk of 1.487 [95% confidence interval (CI): 1.281–1.727). In nonrandomized studies, albumin levels exhibited a standardized mean difference (SMD) of 0.786 (95% CI: 0.368–1.204), indicating positive therapeutic effects. For alanine aminotransferase, the meta-analysis revealed a decrease in levels with an SMD of −0.499 (95% CI: −0.834 to −0.164), and for aspartate aminotransferase, an overall SMD of −0.362 (95% CI: −0.659 to −0.066) was observed, suggesting hepatoprotective effects. No significant changes were observed in total bilirubin levels and Model for End-Stage Liver Disease scores in randomized controlled trials. Conclusion: Stem cell therapy exhibits potential as a novel treatment for chronic liver diseases, as it has demonstrated improvements in survival rates and certain liver function markers. More high-quality randomized controlled trials are needed in the future to fully ascertain the efficacy of stem cell therapy in this patient population.
+
+Adult stem cell transplantation combined with conventional therapy for the treatment of end-stage liver disease: a systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Combining adult stem cell transplantation with conventional medicine significantly improved liver function in end-stage liver disease patients, but this effect gradually decreased over time.
+
+Abstract:Abstract End-stage liver disease (ESLD) is characterized by the deterioration of liver function and a subsequent high mortality rate. Studies have investigated the use of adult stem cells to treat ESLD. Here, a systematic review and meta-analysis was conducted to determine the efficacy of a combination therapy with adult stem cell transplantation and traditional medicine for treating ESLD. Four databases—including PubMed, Web of Science, Embase, and Cochrane Library—were investigated for studies 
+
+Granulocyte colony-stimulating factor and autologous CD133-positive stem-cell therapy in liver cirrhosis (REALISTIC): an open-label, randomised, controlled phase 2 trial
+
+Number of 
+
+Key takeaways:G-CSF and CD133-positive stem-cell therapy is safe and effective in treating liver cirrhosis, as demonstrated in a phase 2 trial.
+
+Stem Cell Therapies for Treatment of Liver Disease
+
+Number of 
+
+Key takeaways:Stem cell therapy shows promise for treating liver diseases, but efficient differentiation and production protocols must be developed and safety demonstrated before it can be applied to clinical practice.
+
+Abstract:Cell therapy is an emerging form of treatment for several liver diseases, but is limited by the availability of donor livers. Stem cells hold promise as an alternative to the use of primary hepatocytes. We performed an exhaustive review of the literature, with a focus on the latest studies involving the use of stem cells for the treatment of liver disease. Stem cells can be harvested from a number of sources, or can be generated from somatic cells to create induced pluripotent stem cells (iPSCs). Different cell lines have been used experimentally to support liver function and treat inherited metabolic disorders, acute liver failure, cirrhosis, liver cancer, and small-for-size liver transplantations. Cell-based therapeutics may involve gene therapy, cell transplantation, bioartificial liver devices, or bioengineered organs. Research in this field is still very active. Stem cell therapy may, in the future, be used as a bridge to either liver transplantation or endogenous liver regeneration, but efficient differentiation and production protocols must be developed and safety must be demonstrated before it can be applied to clinical practice.
+
+Stem Cell Therapy for Liver Diseases: Current Perspectives.
+
+Number of 
+
+Key takeaways:Stem cell therapy shows promise for advanced liver diseases, but further validation is needed for safety and effectiveness, with novel strategies like preconditioning and organoids addressing limitations.
+
+Abstract:Stem cell therapy offers a promising avenue for advanced liver disease cases as an alternative to liver transplantation. Clinical studies are underway to explore the potential of stem cells from various sources in treating different liver diseases. However, due to the variability among current studies, further validation is needed to ensure the safety and effectiveness of stem cell therapy. To establish a strong foundation for optimal stem cell therapy applications, selection of suitable stem cell sources, standardization of transplantation protocols, and patient criteria are vital. This review comprehensively examines existing literature on stem cell sources, transplantation methods, and patient selection. Additionally, we discuss novel strategies, including stem cell preconditioning, cell-free therapy, genetic modification of stem cells, and the use of liver organoids, addressing the limitations of current stem cell therapies. Nevertheless, these innovative approaches require further validation.
+
+Cell therapy for end-stage liver disease: Current state and clinical challenge
+
+Number of 
+
+Key takeaways:Cell therapy, particularly mesenchymal stem cell therapy, shows promise in restoring liver function and alleviating liver injury in patients with end-stage liver disease.
+
+Abstract:Abstract Liver disease involves a complex interplay of pathological processes, including inflammation, hepatocyte necrosis, and fibrosis. End-stage liver disease (ESLD), such as liver failure and decompensated cirrhosis, has a high mortality rate, and liver transplantation is the only effective treatment. However, to overcome problems such as the shortage of donor livers and complications related to immunosuppression, there is an urgent need for new treatment strategies that need to be developed for patients with ESLD. For instance, hepatocytes derived from donor livers or stem cells can be engrafted and multiplied in the liver, substituting the host hepatocytes and rebuilding the liver parenchyma. Stem cell therapy, especially mesenchymal stem cell therapy, has been widely proved to restore liver function and alleviate liver injury in patients with severe liver disease, which has contributed to the clinical application of cell therapy. In this review, we discussed the types of cells used to treat ESLD and their therapeutic mechanisms. We also summarized the progress of clinical trials around the world and provided a perspective on cell therapy.
+
+Stem Cell-Based Therapies for Liver Diseases: An Overview and Update
+
+Number of 
+
+Key takeaways:Stem cell-based therapy shows promise for treating end-stage liver disease, potentially alleviating the need for liver transplantation in the future.
+
+Abstract:BACKGROUND:Liver disease is one of the top causes of death globally. Although liver transplantation is a very effective treatment strategy, the shortage of available donor organs, waiting list mortality, and high costs of surgery remain huge problems. Stem cells are undifferentiated cells that can differentiate into a variety of cell types. Scientists are exploring the possibilities of generating hepatocytes from stem cells as an alternative for the treatment of liver diseases.METHODS:In this review, we summarized the updated researches in the field of stem cell-based therapies for liver diseases as well as the current challenges and future expectations for a successful cell-based liver therapy.RESULTS:Several cell types have been investigated for liver regeneration, such as embryonic stem cells, induced pluripotent stem cells, liver stem cells, mesenchymal stem cells, and hematopoietic stem cells. In vitro and in vivo studies have demonstrated that stem cells are promising cell 
+
+Isolation, culture, and delivery considerations for the use of mesenchymal stem cells in potential therapies for acute liver failure
+
+Number of 
+
+Key takeaways:Mesenchymal stem cell therapy shows potential in treating acute liver failure due to its easy acquisition, strong proliferation ability, multipotent differentiation, low immunogenicity, and anti-inflammatory and antifibrotic effects.
+
+Abstract:Acute liver failure (ALF) is a high-mortality syndrome for which liver transplantation is considered the only effective treatment option. A shortage of donor organs, high costs and surgical complications associated with immune rejection constrain the therapeutic effects of liver transplantation. Recently, mesenchymal stem cell (MSC) therapy was recognized as an alternative strategy for liver transplantation. Bone marrow mesenchymal stem cells (BMSCs) have been used in clinical trials of several liver diseases due to their ease of acquisition, strong proliferation ability, multipotent differentiation, homing to the lesion site, low immunogenicity and anti-inflammatory and antifibrotic effects. In this review, we comprehensively summarized the harvest and culture expansion strategies for BMSCs, the development of animal models of ALF of different aetiologies, the critical mechanisms of BMSC therapy for ALF and the challenge of clinical application.
+
+Mesenchymal Stem Cell Therapy in Acute Liver Failure
+
+Number of 
+
+Key takeaways:Mesenchymal stem cells show potential in treating acute liver failure, but further study and optimization are needed for optimal application and transplantation.
+
+Abstract:Acute liver failure (ALF) is a severe liver disease syndrome with rapid deterioration and high mortality. Liver transplantation is the most effective treatment, but the lack of donor livers and the high cost of transplantation limit its broad application. In recent years, there has been no breakthrough in the treatment of ALF, and the application of stem cells in the treatment of ALF is a crucial research field. Mesenchymal stem cells (MSCs) are widely used in disease treatment research due to their abundant sources, low immunogenicity, and no ethical restrictions. Although MSCs are effective for treating ALF, the application of MSCs to ALF needs to be further studied and optimized. In this review, we discuss the potential mechanisms of MSCs therapy for ALF, summarize some methods to enhance the efficacy of MSCs, and explore optimal approaches for MSC transplantation.
+
+Role of immunotherapies and stem cell therapy in the management of liver cancer: A comprehensive review.
+
+Number of 
+
+Key takeaways:Immunotherapy and stem cell therapy show promising outcomes in treating liver cancer, offering new hope for patients.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

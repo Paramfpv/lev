@@ -1,0 +1,510 @@
+PROTOCOL: Loneliness
+
+IMPACT: Loneliness - Negative impact on health and longevity | Longevity Protocols
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Loneliness is a significant risk factor for many chronic diseases, including heart disease, stroke, depression, and dementia. Loneliness not only increases the risk of illness, but also worsens quality of life, leading to a decline in both mental and physical health. Studies show that loneliness is linked to chronic stress, emotional disorders, and impaired cognitive function, which affect both life span and quality. Interventions that reduce loneliness can improve health and contribute to better quality of life.
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Loneliness is a significant risk factor for many chronic diseases, including heart disease, stroke, depression, and dementia. Loneliness not only increases the risk of illness, but also worsens quality of life, leading to a decline in both mental and physical health. Studies show that loneliness is linked to chronic stress, emotional disorders, and impaired cognitive function, which affect both life span and quality. Interventions that reduce loneliness can improve health and contribute to better quality of life.
+
+CONTENT SECTIONS:
+
+Negative impact on health and longevity
+
+Loneliness is a significant risk factor for many chronic diseases, including heart disease, stroke, depression, and dementia. Loneliness not only increases the risk of illness, but also worsens quality of life, leading to a decline in both mental and physical health. Studies show that loneliness is linked to chronic stress, emotional disorders, and impaired cognitive function, which affect both life span and quality. Interventions that reduce loneliness can improve health and contribute to better quality of life.
+
+Level of evidence:Strong
+
+Loneliness leads to chronic stress, which causes changes in the functioning of the hormonal and nervous systems, affecting cardiovascular health, metabolism, and mental health. It increases the activity of the HPA axis (hypothalamic-pituitary-adrenal), leading to disturbances in cortisol levels and chronic inflammation, which damages organs and systems. Prolonged loneliness worsens cognitive function and increases the risk of developing neurodegenerative diseases, such as dementia or Alzheimer's disease.
+
+Loneliness has a well-documented negative impact on both mental and physical health. Numerous epidemiological studies indicate its strong effect on the development of cardiovascular disease, depression, dementia, and general decline in quality of life. Loneliness leads to chronic stress, which negatively affects the hormonal and nervous systems, worsening physical health. People experiencing loneliness have a higher risk of many chronic diseases and lower life expectancy.
+
+The scale of the loneliness problem is enormous, and its health consequences are widely documented in population studies. The issue affects people of all ages, especially those living alone or with limited social support. Loneliness is one of the main risk factors for many chronic diseases and can lead to premature death. These challenges are becoming increasingly important in the context of aging societies and the growing number of elderly people.
+
+Increase social support
+
+Make sure to regularly connect with family, friends, or support groups. Building strong social bonds can help reduce the feeling of loneliness.
+
+Engage in social activities
+
+Getting involved in volunteering, clubs, or interest groups can help build new relationships and provide a sense of satisfaction and connection with others.
+
+Cognitive-behavioral therapy (CBT) can help deal with negative thoughts and emotions related to loneliness. It's worth finding a specialist who can help work through these difficulties.
+
+Regular physical activity
+
+Physical exercise improves not only physical condition but also has a positive effect on mental health, reducing symptoms of depression and anxiety that often accompany loneliness.
+
+Setting regular times for activities such as walking, reading, or cooking can help overcome a sense of emptiness and provide a sense of control.
+
+Be open to new acquaintances
+
+Look for opportunities to meet new people, for example through courses, workshops, or local events. Opening up to others can lead to valuable relationships.
+
+Loneliness has a clearly negative effect on mental health. People experiencing loneliness are more prone to depression, anxiety, suicidal thoughts, and other mental problems. The higher the level of loneliness, the greater the risk of developing mental disorders and general deterioration in well-being.
+
+The impact of loneliness on mental health
+
+Additional observations
+
+Cardiovascular system
+
+Loneliness has a clearly negative impact on the cardiovascular system. People experiencing loneliness are more at risk of developing heart disease, strokes, and higher mortality from cardiovascular causes, regardless of other risk factors.
+
+Table: Loneliness and risk of cardiovascular diseases
+
+Loneliness has a clearly negative effect on the brain and cognitive functions. It is associated with changes in the structure and functioning of the brain, impaired cognitive abilities, and an increased risk of developing dementia.
+
+Changes in brain structure and function
+
+Impact on cognitive functions and risk of dementia
+
+Mechanisms and emotional consequences
+
+Table: Main effects of loneliness on the brain and cognitive functions
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:50
+
+Final comment:The evidence regarding the impact of loneliness on health is strong, based on numerous epidemiological studies, meta-analyses, and clinical trials. Loneliness is associated with negative health effects in various areas: mental health, cardiovascular health, cognitive function, and risk of dementia. Biological mechanisms, such as chronic stress and changes in brain structure, support these associations. This evidence is consistent and unequivocal, making it a strong support in science.
+
+Loneliness in the general population: prevalence, determinants and relations to mental health
+
+Number of 
+
+Key takeaways:Loneliness is a significant health issue for 10.5% of the population, linked to increased risks of depression, anxiety, suicidal ideation, and increased health behaviors and healthcare utilization.
+
+Abstract:While loneliness has been regarded as a risk to mental and physical health, there is a lack of current community data covering a broad age range. This study used a large and representative German adult sample to investigate loneliness. Baseline data of the Gutenberg Health Study (GHS) collected between April 2007 and April 2012 (N = 15,010; 35–74 years), were analyzed. Recruitment for the community-based, prospective, observational cohort study was performed in equal strata for gender, residence and age decades. Measures were provided by self-report and interview. Loneliness was used as a predictor for distress (depression, generalized anxiety, and suicidal ideation) in logistic regression analyses adjusting for sociodemographic variables and mental distress. A total of 10.5% of participants reported some degree of loneliness (4.9% slight, 3.9% moderate and 1.7% severely distressed by loneliness). Loneliness declined across age groups. Loneliness was stronger in women, in participants without a partner, and in those living alone and without children. Controlling for demographic variables and other sources of distress loneliness was associated with depression (OR = 1.91), generalized anxiety (OR = 1.21) and suicidal ideation (OR = 1.35). Lonely participants also smoked more and visited physicians more frequently. The findings support the view that loneliness poses a significant health problem for a sizeable part of the population with increased risks in terms of distress (depression, anxiety), suicidal ideation, health behavior and health care utilization.
+
+Loneliness and the onset of new mental health problems in the general population
+
+Number of 
+
+Key takeaways:Loneliness is associated with the onset of depression and other common mental health problems in the general population.
+
+Abstract:Abstract Purpose Loneliness is associated with poor health including premature mortality. There are cross-sectional associations with depression, anxiety, psychosis, and other mental health outcomes. However, it is not known whether loneliness is causally linked with the new onset of mental health problems in the general population. Longitudinal studies are key to understanding this relationship. We synthesized evidence from longitudinal studies investigating the relationship between loneliness and new onset of mental health problems, in the general population. Method We systematically searched six electronic databases, unpublished sources, and hand-searched references, up to August 2021. We conducted a meta-analysis of eight independent cohorts and narrative synthesis of the remaining studies. Results We included 32 studies, of which the majority focused on depression. Our narrative synthesis found most studies show loneliness at baseline which is associated with the subsequent new onset of depression. The few studies on anxiety and self-harm also showed a positive association. Our meta-analysis found a pooled adjusted odds ratio of 2.33 (95% CI 1.62–3.34) for risk of new onset depression in adults who were often lonely compared with people who were not often lonely. This should be interpreted with caution given evidence of heterogeneity. Conclusion Loneliness is a public mental health issue. There is growing evidence it is associated with the onset of depression and other common mental health problems. Future studies should explore its impact across the age range and in more diverse populations, look beyond depression, and explore the mechanisms involved with a view to better informing appropriate interventions.
+
+Loneliness and mental health in children and adolescents with pre-existing mental health problems: A rapid systematic review.
+
+Number of 
+
+Key takeaways:Loneliness is associated with depression and anxiety in children and young people with pre-existing mental health conditions, and interventions to address loneliness may help prevent exacerbation of these issues.
+
+Abstract:OBJECTIVES
+Periods of social isolation are associated with loneliness in children and young people, and loneliness is associated with poor mental and physical health. Children and young people with pre-existing mental health difficulties may be prone to loneliness. Containment of COVID-19 has necessitated widespread social isolation, with unprecedented school closures and restrictions imposed on social interactions. This rapid review aimed to establish what is known about the relationship between loneliness and mental health problems in children and young people with pre-existing mental health problems.
+
+METHODS
+We sought to identify all primary research that examined the cross-sectional and longitudinal associations between loneliness/perceived social isolation and mental health in children and young people with pre-existing mental health problems. We also aimed to identify effective interventions that reduce the adverse impact of loneliness. A rapid systematic search was conducted using MEDLINE, PsycINFO, and Web of Science.
+
+RESULTS
+Of 4,531 papers screened, 15 included children and young people with pre-existing mental health conditions. These 15 studies included 1,536 children and young people aged between 6 and 23 years with social phobia, anxiety and/or depression, and neurodevelopmental disorders. Loneliness was associated with anxiety and depression both cross-sectionally and prospectively in children and young people with mental health problems and neurodevelopmental conditions. We found preliminary evidence that psychological treatments can help to reduce feelings of loneliness in this population.
+
+CONCLUSIONS
+Loneliness is associated with depression and anxiety in children and young people with pre-existing mental health conditions, and this relationship may be bidirectional. Existing interventions to address loneliness and/or mental health difficulties in other contexts may be applied to this population, although they may need adaptation and testing in younger children and adolescents.
+
+PRACTITIONER POINTS
+Loneliness is common in children and young people, and during periods of enforced social isolation such as during COVID-19, children and young people report high levels of loneliness (or increased rates of loneliness). The review showed that loneliness is associated, both cross-sectionally and prospectively, in children and young people with mental health problems and also in children and young people with neurodevelopmental conditions, such as autism spectrum disorder. Thus, loneliness is a possible risk factor of which mental health providers should be aware. Maintaining social contact both by direct and by indirect means, especially through the Internet, could be important in mitigating loneliness. Interventions to address loneliness should be further developed and tested to help children and young people with pre-existing mental health problems who are lonely by preventing exacerbation of their mental health difficulties, in particular anxiety and depression.
+
+Associations between loneliness and perceived social support and outcomes of mental health problems: a systematic review
+
+Number of 
+
+Key takeaways:Poorer perceived social support and greater loneliness predict worse outcomes in depression, with potential implications for other mental health disorders.
+
+Abstract:The adverse effects of loneliness and of poor perceived social support on physical health and mortality are established, but no systematic synthesis is available of their relationship with the outcomes of mental health problems over time. In this systematic review, we aim to examine the evidence on whether loneliness and closely related concepts predict poor outcomes among adults with mental health problems. We searched six databases and reference lists for longitudinal quantitative studies that examined the relationship between baseline measures of loneliness and poor perceived social support and outcomes at follow up. Thirty-four eligible papers were retrieved. Due to heterogeneity among included studies in clinical populations, predictor measures and outcomes, a narrative synthesis was conducted. We found substantial evidence from prospective studies that people with depression who perceive their social support as poorer have worse outcomes in terms of symptoms, recovery and social functioning. Loneliness has been investigated much less than perceived social support, but there is some evidence that greater loneliness predicts poorer depression outcome. There is also some preliminary evidence of associations between perceived social support and outcomes in schizophrenia, bipolar disorder and anxiety disorders. Loneliness and quality of social support in depression are potential targets for development and testing of interventions, while for other conditions further evidence is needed regarding relationships with outcomes.
+
+The effect of loneliness on depression: A meta-analysis
+
+Number of 
+
+Key takeaways:Loneliness has a moderately significant effect on depression, with no moderator variables found in this meta-analysis.
+
+Abstract:Background: Negative emotions, which have a common, chronic and recurrent structure, play a vital role in the development and maintenance of psychopathology. In this study, loneliness as a negative emotion was considered to be a predisposing factor in depression. Aim: The aim of this meta-analysis is to determine the effect of loneliness on depression. Method: Initially, a literature scan was performed and all related literature was pooled together (n = 531). Based on scales determined by the researchers, it was decided to include 88 studies in the analysis. This study obtained a sampling group of 40,068 individuals. Results: The results of using a random effects model for analysis showed that loneliness had a moderately significant effect on depression. None of the variables of study sampling group, type of publication and publication year were found to be moderator variables. Conclusion: According to the results of the research, loneliness may be said to be a significant variable affecting depression. The findings obtained are discussed in light of the literature.
+
+Factors Associated With Loneliness: An Umbrella Review Of Observational Studies.
+
+Number of 
+
+Key takeaways:Loneliness is highly suggestively associated with adverse mental and physical health outcomes, including dementia, paranoia, psychotic symptoms, suicide attempts, and depressive symptoms.
+
+Brain-body interactions underlying the association of loneliness with mental and physical health
+
+Number of 
+
+Key takeaways:Loneliness negatively impacts mental and physical health, with potential underlying mechanisms for interventions to mitigate the cycle of biopsychosocial morbidity.
+
+The Impact of Loneliness on Depression, Mental Health Days, and Physical Health
+
+Number of 
+
+Key takeaways:Loneliness is a strong predictor of depression and poor mental and physical health, with interventions addressing social isolation potentially improving population health outcomes.
+
+Abstract:Background: Loneliness is a significant public health concern and a well-established social determinant of health, affecting both mental and physical well-being. It has been linked to an increased risk of depression, anxiety, cardiovascular disease, and premature mortality. Despite growing awareness, loneliness remains an underrecognized and undertreated factor influencing population health. Objective: This study examines the impact of loneliness on the likelihood of being diagnosed with depression, as well as its association with self-reported poor mental and physical health days. Methods: Data were analyzed from the Behavioral Risk Factor Surveillance System (BRFSS) (2016-2023). The primary exposure was self-reported loneliness, captured through the question, 'How often do you feel lonely?' with responses ranging from 'Always' to 'Never.' Main outcomes included depression diagnosis, poor mental health days, and poor physical health days. Covariates included age, race, gender, marital status, education, employment, state, year, metropolitan status, and language spoken at home. Inverse Probability Weighting (IPW) was used to estimate the Average Treatment Effect (ATE), accounting for confounders and state and year fixed effects. Sampling weights ensured national representativeness, and robust standard errors accounted for clustering by state. Results: Among 47,026 participants, 82.4% reported experiencing some degree of loneliness, with 6.2% feeling 'Always' lonely, 8.3% feeling 'Usually' lonely, 37.9% feeling 'Sometimes' lonely, and 29.9% feeling 'Rarely' lonely. In contrast, 17.7% of participants reported 'Never' feeling lonely. For further analysis, 2,609 individuals who reported feeling lonely were matched with 2,609 individuals who reported 'Never' feeling lonely', forming a balanced comparison group. The 'Always Lonely' population was predominantly White (64.5%) and female (55.0%), with the majority aged 45-64 years. Loneliness was significantly associated with an increased likelihood of depression diagnosis, with a 39.3% percentage-point increase for those reporting Always lonely (ATE = 0.39, 95% CI: 0.34-0.44, p < 0.001). Loneliness was also associated with a 10.9-day increase in poor mental health days (ATE = 10.9, 95% CI: 9.8-11.9, p < 0.001) and a 5.0 day increase in poor physical health days (ATE = 5.0, 95% CI: 3.8-6.1, p < 0.001). Conclusions: Loneliness is a strong predictor of depression and poor mental and physical health. Interventions addressing social isolation could mitigate the negative health impacts associated with loneliness, improving population health outcomes.
+
+High prevalence and adverse health effects of loneliness in community-dwelling adults across the lifespan: role of wisdom as a protective factor
+
+Number of 
+
+Key takeaways:Loneliness is highly prevalent and negatively impacts mental and physical health, with wisdom acting as a protective factor.
+
+Abstract:ABSTRACT Objectives: This study of loneliness across adult lifespan examined its associations with sociodemographics, mental health (positive and negative psychological states and traits), subjective cognitive complaints, and physical functioning. Design: Analysis of cross-sectional data Participants: 340 community-dwelling adults in San Diego, California, mean age 62 (SD = 18) years, range 27–101 years, who participated in three community-based studies. Measurements: Loneliness measures included UCLA Loneliness Scale Version 3 (UCLA-3), 4-item Patient-Reported Outcomes Measurement Information System (PROMIS) Social Isolation Scale, and a single-item measure from the Center for Epidemiologic Studies Depression (CESD) scale. Other measures included the San Diego Wisdom Scale (SD-WISE) and Medical Outcomes Survey- Short form 36. Results: Seventy-six percent of subjects had moderate-high levels of loneliness on UCLA-3, using standardized cut-points. Loneliness was correlated with worse mental health and inversely with positive psychological states/traits. Even moderate severity of loneliness was associated with worse mental and physical functioning. Loneliness severity and age had a complex relationship, with increased loneliness in the late-20s, mid-50s, and late-80s. There were no sex differences in loneliness prevalence, severity, and age relationships. The best-fit multiple regression model accounted for 45% of the variance in UCLA-3 scores, and three factors emerged with small-medium effect sizes: wisdom, living alone and mental well-being. Conclusions: The alarmingly high prevalence of loneliness and its association with worse health-related measures underscore major challenges for society. The non-linear age-loneliness severity relationship deserves further study. The strong negative association of wisdom with loneliness highlights the potentially critical role of wisdom as a target for psychosocial/behavioral interventions to reduce loneliness. Building a wiser society may help us develop a more connected, less lonely, and happier society.
+
+Loneliness is adversely associated with physical and mental health and lifestyle factors: Results from a Swiss national survey
+
+Number of 
+
+Key takeaways:Loneliness is associated with poorer physical and mental health and unhealthy lifestyle, with age being a moderating factor, but not sex, in Swiss adults.
+
+Abstract:Introduction Loneliness is a common, emotionally distressing experience and is associated with adverse physical and mental health and an unhealthy lifestyle. Nevertheless, little is known about the prevalence of loneliness in different age groups in Switzerland. Furthermore, the existing evidence about age and gender as potential effect modifiers of the associations between loneliness, physical and mental health and lifestyle characteristics warrants further investigation. Thus, the aim of the study was to examine the prevalence of loneliness among adults in Switzerland and to assess the associations of loneliness with several physical and mental health and behavioral factors, as well as to assess the modifying effect of sex and age. Methods Data from 20,007 participants of the cross-sectional population-based Swiss Health Survey 2012 (SHS) were analyzed. Logistic regression analyses were used to assess associations of loneliness with physical and mental health or lifestyle characteristics (e.g. diabetes, depression, physical activity). Wald tests were used to test for interactions. Results Loneliness was distributed in a slight U-shaped form from 15 to 75+ year olds, with 64.1% of participants who had never felt lonely. Lonely individuals were more often affected by physical and mental health problems, such as self-reported chronic diseases (Odds ratio 1.41, 95% confidence interval 1.30–1.54), high cholesterol levels (OR 1.31, 95% CI 1.18–1.45), diabetes (OR 1.40, 95% CI 1.16–1.67), moderate and high psychological distress (OR 3.74, 95% CI 3.37–4.16), depression (OR 2.78, 95% CI 2.22–3.48) and impaired self-perceived health (OR 1.94, 95% CI 1.74–2.16). Loneliness was significantly associated with most lifestyle factors (e.g. smoking; OR 1.13, 95% 1.05–1.23). Age, but not sex, moderated loneliness’ association with several variables. Conclusion Loneliness is associated with poorer physical and mental health and unhealthy lifestyle, modified by age, but not by sex. Our findings illustrate the importance of considering loneliness for physical and mental health and lifestyle factors, not only in older and younger, but also in middle-aged adults. Longitudinal studies are needed in Switzerland to elucidate the causal relationships of these associations.
+
+Stress and perceived social isolation (loneliness).
+
+Number of 
+
+Key takeaways:Stress plays a co-causal or prodromal role in loneliness, suggesting early medical and psychological stress treatment should be combined for incipient and clinical loneliness.
+
+Loneliness over time: The crucial role of social anxiety.
+
+Number of 
+
+Key takeaways:Loneliness can predict future mental health symptoms, with social anxiety being the key predictor of future loneliness.
+
+Abstract:Loneliness is known to be associated with multiple adverse physical outcomes, including higher mortality and morbidity risk. However, the impact of loneliness on mental health is less well researched, with most studies assessing how loneliness relates to depressive symptoms alone. We hypothesized that 2 mental health symptoms that relate to the fear of others-social anxiety and paranoia-would contribute to loneliness. We examined how loneliness relates to social anxiety, paranoia, and depression symptoms in a general community sample aged 18-87 years old (N = 1,010). We administered online measures over 3 time points across a 6-month period. In a cross-lagged structural equation model controlling for trait levels and prior states, our results indicated that earlier loneliness positively predicted future states of social anxiety, paranoia, and depression. However, in the same model, earlier social anxiety was the only predictor of future loneliness. These results suggest that loneliness may be a potential antecedent to emerging mental health symptoms and that identifying and treating co-occurring social anxiety symptoms may reduce the severity of loneliness. (PsycINFO Database Record
+
+Loneliness and Mental Health: The Mediating Effect of Perceived Social Support
+
+Number of 
+
+Key takeaways:Loneliness negatively impacts mental health, with social support partially mediating the relationship between loneliness and anxiety, depression, and somatic symptoms, but not somatic symptom disorder.
+
+Abstract:Social connectedness is a fundamental human need. The Evolutionary Theory of Loneliness (ETL) predicts that a lack of social connectedness has long-term mental and physical health consequences. Social support is a potential mechanism through which loneliness influences health. The present cross-sectional study examined the relationship between loneliness and mental health, and the mediating effects of social support in a Dutch adult sample (N = 187, age 20 to 70). The health variables included in the study are anxiety, depression, somatic symptoms as measured by the SCL-90, and the DSM-5 diagnosis somatic symptom disorder. The results indicated that social support partially mediated the relationship between loneliness and anxiety, depression, and somatic symptoms. These results indicate that social support partially explains the relationship between loneliness and physical and mental health issues. The relationship between loneliness and being diagnosed with somatic symptom disorder was not mediated by social support. This suggests that the mechanisms through which loneliness relates to either somatic symptoms or somatic symptom disorder are different.
+
+Breaking the vicious cycle: The interplay between loneliness, metabolic illness, and mental health
+
+Number of 
+
+Key takeaways:Loneliness contributes to mental and metabolic health disorders by acting as a chronic stressor, leading to neuroendocrine dysregulation and potentially causing mitochondrial dysfunction.
+
+Abstract:Loneliness, or perceived social isolation, is a leading predictor of all-cause mortality and is increasingly considered a public health epidemic afflicting significant portions of the general population. Chronic loneliness is itself associated with two of the most pressing public health epidemics currently facing the globe: the rise of mental illness and metabolic health disorders. Here, we highlight the epidemiological associations between loneliness and mental and metabolic health disorders and argue that loneliness contributes to the etiology of these conditions by acting as a chronic stressor that leads to neuroendocrine dysregulation and downstream immunometabolic consequences that manifest in disease. Specifically, we describe how loneliness can lead to overactivation of the hypothalamic-pituitary-adrenal axis and ultimately cause mitochondrial dysfunction, which is implicated in mental and metabolic disease. These conditions can, in turn, lead to further social isolation and propel a vicious cycle of chronic illness. Finally, we outline interventions and policy recommendations that can reduce loneliness at both the individual and community levels. Given its role in the etiology of the most prevalent chronic diseases of our time, focusing resources on alleviating loneliness is a vitally important and cost-effective public health strategy.
+
+Risk factors for loneliness: A literature review
+
+Number of 
+
+Key takeaways:Loneliness is primarily predicted by the quantity and quality of social relationships, with marital status, living arrangements, and personal social network characteristics being the strongest predictors.
+
+Neurobiology of loneliness: a systematic review
+
+Number of 
+
+Key takeaways:Loneliness is linked to altered brain structure and function in specific regions, with overlap in regions involved in loneliness and compassion.
+
+Loneliness and acute stress reactivity: A systematic review of psychophysiological studies.
+
+Number of 
+
+Key takeaways:Loneliness is linked to increased blood pressure and inflammatory reactivity to acute stress, potentially impacting health through stress reactivity.
+
+Abstract:Physiological reactivity to acute stress has been proposed as a potential biological mechanism by which loneliness may lead to negative health outcomes such as cardiovascular disease. This review was conducted to investigate the association between loneliness and physiological responses to acute stress. A series of electronic databases were systematically searched (PsycARTICLES, PsycINFO, Medline, CINAHL Plus, EBSCOhost, PubMed, SCOPUS, Web of Science, Science Direct) for relevant studies, published up to October 2016. Eleven studies were included in the review. Overall, the majority of studies reported positive associations between loneliness and acute stress responses, such that higher levels of loneliness were predictive of exaggerated physiological reactions. However, in a few studies, loneliness was also linked with decreased stress responses for particular physiological outcomes, indicating the possible existence of blunted relationships. There was no clear pattern suggesting any sex- or stressor-based differences in these associations. The available evidence supports a link between loneliness and atypical physiological reactivity to acute stress. A key finding of this review was that greater levels of loneliness are associated with exaggerated blood pressure and inflammatory reactivity to acute stress. However, there was some indication that loneliness may also be related to blunted cardiac, cortisol, and immune responses. Overall, this suggests that stress reactivity could be one of the biological mechanisms through which loneliness impacts upon health.
+
+Understanding loneliness in the twenty-first century: an update on correlates, risk factors, and potential solutions
+
+Number of 
+
+Key takeaways:A new conceptual model of loneliness reveals the interplay between demographic, health, and socio-environmental factors, and recommends advancing our scientific understanding and tailoring solutions based on individual life circumstances and preferences.
+
+Abstract:PurposeLoneliness is increasingly recognised as the next critical public health issue. A plausible reason for this concern may be related to emerging societal trends affecting the way we relate, communicate, and function in our social environment. In 2006, a prominent review of the clinical significance of loneliness was 
+
+The effect of fear of missing out on mental health: differences in different solitude behaviors
+
+Number of 
+
+Key takeaways:Fear of missing out negatively impacts mental health, with social avoidance and loneliness acting as mediators, while positive solitude and eccentricity do not.
+
+Abstract:Depression, anxiety, and stress are the main issues that affect the mental health of individuals. Solitude behavior, fear of missing out, and mental health are all closely related. This study was intended to investigate the relationship between solitude behavior, fear of missing out, and mental health. Short Form of Solitude Behavior Scale, Fear of Missing Out scale, and Depression Anxiety Stress Scale-21 were employed in this study to investigate 616 college students. The collected data were analyzed using SPSS 26.0 for basic data organization, and Mplus 8.3 was used to complete the analysis of the mediation model. (1) Positive solitude was positively associated with eccentricity and negatively related to loneliness; social avoidance positively correlated with eccentricity and loneliness. (2) Social avoidance and loneliness affected mental health through the mediating effect of fear of missing out, whereas positive solitude and eccentricity did not affect mental health through fear of missing out. Moreover, the results still held in the model with depression, anxiety, and stress as dependent variables. The roles of different solitude behavior in the relationship between fear of missing out and mental health differed. Social avoidance and loneliness as not self-determined solitude could activate the fear of missing out, which could affect mental health.
+
+Association of loneliness with all-cause mortality: A meta-analysis
+
+Number of 
+
+Key takeaways:Loneliness is a risk factor for all-cause mortality, with a slightly stronger effect in men than in women, and its impact is independent of depression.
+
+Abstract:Introduction Loneliness has social and health implications. The aim of this article is to evaluate the association of loneliness with all-cause mortality. Methods Pubmed, PsycINFO, CINAHL and Scopus databases were searched through June 2016 for published articles that measured loneliness and mortality. The main characteristics and the effect size values of each article were extracted. Moreover, an evaluation of the quality of the articles included was also carried out. A meta-analysis was performed firstly with all the included articles and secondly separating by gender, using a random effects model. Results A total of 35 articles involving 77220 participants were included in the systematic review. Loneliness is a risk factor for all-cause mortality for both genders together, and for women and men separately. Conclusions Loneliness shows a harmful effect for all-cause mortality and this effect is slightly stronger in men than in women. Moreover, the impact of loneliness was independent from the quality evaluation of each article and the effect of depression.
+
+Loneliness, Social Isolation, and Cardiovascular Health
+
+Number of 
+
+Key takeaways:Loneliness and social isolation are risk factors for cardiovascular disease, with increased peripheral vascular resistance and elevated blood pressure in lonely individuals.
+
+Abstract:Abstract Significance: Social and demographic changes have led to an increased prevalence of loneliness and social isolation in modern society. Recent Advances: Population-based studies have demonstrated that both objective social isolation and the perception of social isolation (loneliness) are correlated with a higher risk of mortality and that both are clearly risk factors for cardiovascular disease (CVD). Lonely individuals have increased peripheral vascular resistance and elevated blood pressure. Socially isolated animals develop more atherosclerosis than those housed in groups. Critical Issues: Molecular mechanisms responsible for the increased cardiovascular risk are poorly understood. In recent reports, loneliness and social stress were associated with activation of the hypothalamic–pituitary–adrenocortical axis and the sympathetic nervous system. Repeated and chronic social stress leads to glucocorticoid resistance, enhanced myelopoiesis, upregulated proinflammatory gene expression, and oxidative stress. However, the causal role of these mechanisms in the development of loneliness-associated CVD remains unclear. Future Directions: Elucidation of the molecular mechanisms of how CVD is induced by loneliness and social isolation requires additional studies. Understanding of the pathomechanisms is essential for the development of therapeutic strategies to prevent the detrimental effects of social stress on health. Antioxid. Redox Signal. 28, 837–851.
+
+Loneliness and Risk for Cardiovascular Disease: Mechanisms and Future Directions
+
+Number of 
+
+Key takeaways:Loneliness is linked to increased risk of cardiovascular disease and early mortality, potentially through health-related behaviors, biological mechanisms, and psychological factors.
+
+Abstract:Abstract Purpose of review In this review, we synthesise recent research on the association between loneliness and cardiovascular disease (CVD). We present evidence for mechanisms underlying this association and propose directions for future research. Recent findings Loneliness is related to increased risk of early mortality and CVD comparable to other well-established risk factors such as obesity or smoking. Summary Loneliness has been linked to higher rates of incident CVD, poorer CVD patient outcomes, and early mortality from CVD. Loneliness likely affects risk for these outcomes via health-related behaviours (e.g. physical inactivity and smoking), biological mechanisms (e.g. inflammation, stress reactivity), and psychological factors (e.g. depression) to indirectly damage health.
+
+Loneliness, social isolation and risk of cardiovascular disease in the English Longitudinal Study of Ageing
+
+Number of 
+
+Key takeaways:Loneliness is associated with an increased risk of developing coronary heart disease and stroke, independent of traditional cardiovascular disease risk factors.
+
+Abstract:Background There is increasing evidence of an association between social relationships and morbidity in general, and cardiovascular disease in particular. However, recent syntheses of the evidence raise two important questions: is it the perceived quality or the more objective quantity of relationships that matters most; and what are the implications of changes in relationships over time? In this study, we investigate the cumulative effects of loneliness and social isolation on incident cardiovascular disease. Design A secondary analysis of prospective follow-up data from the English Longitudinal Study of Ageing (ELSA). Methods To assess the association between social isolation or loneliness and incident cardiovascular disease, lagged values of exposure to loneliness and isolation were treated as time-varying variables in discrete time survival models controlling for potential confounders and established cardiovascular disease risk factors. Results A total of 5397 men and women aged over 50 years were followed up for new fatal and non-fatal diagnoses of heart disease and stroke between 2004 and 2010. Over a mean follow-up period of 5.4 years, 571 new cardiovascular events were recorded. We found that loneliness was associated with an increased risk of cardiovascular disease (odds ratio 1.27, 95% confidence interval 1.01–1.57). Social isolation, meanwhile, was not associated with disease incidence. There was no evidence of a cumulative effect over time of social relationships on cardiovascular disease risk. Conclusions Loneliness is associated with an increased risk of developing coronary heart disease and stroke, independently of traditional cardiovascular disease risk factors. Our findings suggest that primary prevention strategies targeting loneliness could help to prevent cardiovascular disease.
+
+Effects of Objective and Perceived Social Isolation on Cardiovascular and Brain Health: A Scientific Statement From the American Heart Association
+
+Number of 
+
+Key takeaways:Social isolation and loneliness are common risk factors for worse cardiovascular and brain health, with consistent associations to coronary heart disease and stroke mortality.
+
+Abstract:Background Social isolation, the relative absence of or infrequency of contact with different types of social relationships, and loneliness (perceived isolation) are associated with adverse health outcomes. Objective To review observational and intervention research that examines the impact of social isolation and loneliness on cardiovascular and brain health and discuss proposed mechanisms for observed associations. Methods We conducted a systematic scoping review of available research. We searched 4 databases, PubMed, PsycInfo, Cumulative Index of Nursing and Allied Health, and Scopus. Findings Evidence is most consistent for a direct association between social isolation, loneliness, and coronary heart disease and stroke mortality. However, data on the association between social isolation and loneliness with heart failure, dementia, and cognitive impairment are sparse and less robust. Few studies have empirically tested mediating pathways between social isolation, loneliness, and cardiovascular and brain health outcomes using appropriate methods for explanatory analyses. Notably, the effect estimates are small, and there may be unmeasured confounders of the associations. Research in groups that may be at higher risk or more vulnerable to the effects of social isolation is limited. We did not find any intervention studies that sought to reduce the adverse impact of social isolation or loneliness on cardiovascular or brain health outcomes. Conclusions Social isolation and loneliness are common and appear to be independent risk factors for worse cardiovascular and brain health; however, consistency of the associations varies by outcome. There is a need to develop, implement, and test interventions to improve cardiovascular and brain health for individuals who are socially isolated or lonely.
+
+Social Isolation, Loneliness, and Cardiovascular Mortality: The Role of Health Care System Interventions.
+
+Number of 
+
+Key takeaways:Social isolation and loneliness are strongly linked to cardiovascular morbidity and mortality, requiring urgent action and strict policies to address this issue.
+
+Abstract:Purpose of ReviewThe world is proliferating rapidly, with science and technology advancing at an incredible rate. These advances have, however, ushered in an age with a rise in social isolation (SI) and loneliness. SI is an objective term that refers to lacking social contact or support. On the other hand, loneliness is subjective and refers to feeling alone or isolated. These concepts are rapidly gaining prominence mainly due to their negative impact on the physical and psychological health of the population, mainly through behavioural modifications that encompass substance abuse, decreased physical activity and unhealthy food habits, and poor sleep hygiene. This review summarizes the pathophysiology, evaluates the evidence behind impact of SI on cardiovascular mortality, and interventions to overcome SI.Recent FindingsThrough proposed mechanisms, such as activation of the sympathetic nervous system and the hypothalamic-pituitary-adrenal axis, both SI and loneliness have strong evidence linking them to cardiovascular morbidity and mortality. A systematic review and meta-analysis of 90 prospective cohort studies including 2,205,199 individuals reported that SI was independent predictor of cardiovascular mortality with a point estimate of 1.34 (95% confidence interval:1.25–1.44).SummaryThe evidence so far is compelling and necessitates urgent action with the implementation of strict policies to tackle this issue. As healthcare professionals, it becomes even more critical to remain vigilant, recognize this insidious pandemic, and take appropriate action.
+
+Longitudinal associations between loneliness, social isolation and cardiovascular events
+
+Number of 
+
+Key takeaways:Loneliness is strongly associated with an increased risk of cardiovascular events, making it a psychosocial risk factor for cardiovascular prevention.
+
+Abstract:Objective This study aimed to examine the association between loneliness, social isolation and cardiovascular disease (CVD), looking at both self-reported CVD diagnosis and CVD-related hospital admissions. Methods Data were derived from the English Longitudinal Study of Ageing linked with administrative hospital records and mortality registry data. The analytical sample size was 5850 for the analysis of self-reported CVD and 4587 of CVD derived from hospital records, with a follow-up up to 9.6 years. Data were analysed using survival analysis, accounting for competing risks events. Results The mean age was 64 years (SD 8.3). About 44%–45% were men. Within the follow-up, 17% participants reported having newly diagnosed CVD and 16% had a CVD-related hospital admission. We found that loneliness was associated with an increased risk of CVD events independent of potential confounders and risk factors. The hazard of people with the highest level of loneliness was about 30% higher for onset CVD diagnosis (HR: 1.05, 95% CI: 1.01 to 1.09) and 48% higher for CVD-related hospital admissions (HR: 1.08, 95% CI: 1.03 to 1.14), compared with the least lonely. There was little evidence that social isolation was independently associated with the risk of either CVD diagnosis or admission. Conclusions Our findings provided strong evidence for the relationship between loneliness and cardiovascular events. Loneliness should be considered as a psychosocial risk factor for CVD in both research and interventions for cardiovascular prevention.
+
+Effects of Chronic and State Loneliness on Heart Rate Variability in Women.
+
+Number of 
+
+Key takeaways:Chronic loneliness in women leads to altered parasympathetic function, affecting resting heart rate variability and reactivity to cognitive challenges, potentially impacting cardiovascular health.
+
+Abstract:BACKGROUND
+Loneliness, the subjective experience of social isolation, represents one of the largest risk factors for physical illness and early death in humans. However, the mechanisms by which loneliness leads to adverse health outcomes are not well understood.
+
+PURPOSE
+In this study, we examined altered parasympathetic nervous system function as a potential pathway by which chronic loneliness and state loneliness may 'get under the skin' to impact cardiovascular physiology.
+
+METHODS
+In a controlled laboratory setting, vagally mediated resting heart rate variability (HRV), HRV reactivity to an induction of state loneliness, and HRV reactivity to a cognitive challenge task were assessed in a sample of 316 healthy women (18-28 years).
+
+RESULTS
+Greater chronic loneliness in women predicted lower resting HRV, an independent risk factor for cardiovascular disease and all-cause mortality, after controlling for demographic, psychosocial, and health behavior covariates. Furthermore, women higher in chronic loneliness experienced significantly larger increases in HRV to state loneliness and reported significantly higher levels of negative affect immediately following state loneliness, compared with their less chronically lonely counterparts. Chronic loneliness also predicted blunted HRV reactivity-a maladaptive physiological response-to cognitive challenge.
+
+CONCLUSIONS
+The current findings provide evidence that chronic loneliness is associated with altered parasympathetic function (both resting HRV and HRV reactivity) in women, and that the immediate experience of state loneliness is linked to a proximate increase in HRV among chronically lonely women. Results are discussed in terms of implications for cardiovascular health and the evolutionary functions of loneliness.
+
+Loneliness, Social Isolation, and Living Alone Associations With Mortality Risk in Individuals Living With Cardiovascular Disease: A Systematic Review, Meta-Analysis, and Meta-Regression
+
+Number of 
+
+Key takeaways:Loneliness, social isolation, and living alone are associated with increased mortality risk in individuals with established cardiovascular disease.
+
+Abstract:ABSTRACT Objective This study aimed to conduct a systematic review and meta-analysis of associations between loneliness, social isolation, and living alone and risk of mortality among individuals with established cardiovascular disease. Methods Five electronic databases were searched (MEDLINE , PsycINFO, EMBASE, PubMed, and SCOPUS) from inception to November 25, 2021. In all, 35 studies were included in a narrative synthesis and, where appropriate, a meta-analytic evaluation using a random-effects model. Results Living alone was associated with increased risk of all-cause mortality (k = 15, n = 80,243, hazard ratio = 1.48, 95% confidence interval = 1.20–1.83, I2 = 83%), and meta-regressions found that the effects were stronger in studies from Europe and with longer follow-up. However, there was evidence of publication bias. Social isolation was associated with increased risk of all-cause mortality, measured both as a dichotomous variable (k = 3, n = 2648, HR = 1.46, 95% CI = 1.08–2.04, I2 = 31%) and as a continuous variable (k = 5, n = 2388, HR = 1.11, 95% CI = 1.02–1.24, I2 = 51%). Meta-analysis was not feasible for loneliness as exposure, but narrative synthesis of four studies suggested a tentative association between loneliness and increased risk of all-cause mortality. Conclusions Supporting public health concerns, our review finds that loneliness, social isolation, and living alone are associated with premature mortality among individuals with established cardiovascular disease. However, evidence of publication bias and large methodological differences across studies point to the need for more rigorous research.
+
+A systematic review and meta-analysis of 90 cohort studies of social isolation, loneliness and mortality
+
+Number of 
+
+Key takeaways:Social isolation and loneliness are significantly associated with increased risk of all-cause and cancer mortality, with greater impact in individuals with cardiovascular disease or breast cancer.
+
+Loneliness mediates the association between trait social anxiety and cardiovascular reactivity to acute psychological stress.
+
+Number of 
+
+Key takeaways:Loneliness mediates the association between trait social anxiety and reduced cardiovascular reactivity to acute psychological stress, potentially leading to adverse health outcomes.
+
+Loneliness, Social Isolation, and Chronic Disease Outcomes.
+
+Number of 
+
+Key takeaways:Loneliness and social isolation are independently associated with cardiovascular disease and type 2 diabetes, with their effects being fully explained by baseline psychological and behavioral factors.
+
+Abstract:BACKGROUND
+Research suggests that loneliness and social isolation (SI) are serious public health concerns. However, our knowledge of the associations of loneliness and SI with specific chronic diseases is limited.
+
+PURPOSE
+The present prospective cohort study investigated (a) the longitudinal associations of loneliness and SI with four chronic diseases (cardiovascular disease , chronic obstructive pulmonary disease , diabetes mellitus Type 2 , and cancer), (b) the synergistic association of loneliness and SI with chronic disease, and (c) baseline psychological and behavioral explanatory factors.
+
+METHODS
+Self-reported data from the 2013 Danish 'How are you?' survey (N = 24,687) were combined with individual-level data from the National Danish Patient Registry on diagnoses in a 5 year follow-up period (2013-2018).
+
+RESULTS
+Cox proportional hazard regression analyses showed that loneliness and SI were independently associated with CVD (loneliness: adjusted hazard ratio (AHR) = 1.20, 95% confidence interval ; SI: AHR = 1.23, 95% CI ) and T2D (loneliness: AHR =1.90, 95% CI ; SI: AHR = 1.59, 95% CI ). No significant associations were found between loneliness or SI and COPD and cancer, respectively. Likewise, loneliness and SI did not demonstrate a synergistic effect on chronic disease. Multiple mediation analysis indicated that loneliness and SI had an indirect effect on CVD and T2D through both baseline psychological and behavioral factors.
+
+CONCLUSION
+Loneliness and SI were independently associated with a diagnosis of CVD and T2D within a 5 year follow-up period. The associations of loneliness and SI with CVD and T2D were fully explained by baseline psychological and behavioral factors.
+
+Loneliness in everyday life: cardiovascular activity, psychosocial context, and health behaviors.
+
+Number of 
+
+Key takeaways:Loneliness predicts higher total peripheral resistance and lower cardiac output during a normal day, but does not affect daily activities or health behaviors, but increases stress appraisals and poorer social interactions.
+
+Abstract:Prior lab research revealed higher basal total peripheral resistance (TPR) and lower cardiac output (CO) in lonely than in nonlonely young adults. In this study, experience sampling was used to obtain ambulatory blood pressure; impedance cardiography: and reports of activities, appraisals, interactions, and health behaviors. Results confirmed that loneliness predicted higher TPR and lower CO during a normal day. Loneliness did not predict differences in time spent alone, daily activities, or health behaviors but did predict higher stress appraisals and poorer social interactions. Independent of loneliness, interaction quality contributed to TPR. Loneliness differences were not mediated by depressed affect or neuroticism. Social support mediated loneliness differences in stress and threat. Concomitants of loneliness were comparable for men and women.
+
+Loneliness and Health: Potential Mechanisms
+
+Number of 
+
+Key takeaways:Loneliness may negatively impact cardiovascular activation and sleep quality, while health behaviors and cortisol regulation require more sensitive measures and larger sample sizes for clearer conclusions.
+
+Abstract:Objective Two studies using cross-sectional designs explored four possible mechanisms by which loneliness may have deleterious effects on health: health behaviors, cardiovascular activation, cortisol levels, and sleep. Methods In Study 1, we assessed autonomic activity, salivary cortisol levels, sleep quality, and health behaviors in 89 undergraduate students selected based on pretests to be among the top or bottom quintile in feelings of loneliness. In Study 2, we assessed blood pressure, heart rate, salivary cortisol levels, sleep quality, and health behaviors in 25 older adults whose loneliness was assessed at the time of testing at their residence. Results Total peripheral resistance was higher in lonely than nonlonely participants, whereas cardiac contractility, heart rate, and cardiac output were higher in nonlonely than lonely participants. Lonely individuals also reported poorer sleep than nonlonely individuals. Study 2 indicated greater age-related increases in blood pressure and poorer sleep quality in lonely than nonlonely older adults. Mean salivary cortisol levels and health behaviors did not differ between groups in either study. Conclusions Results point to two potentially orthogonal predisease mechanisms that warrant special attention: cardiovascular activation and sleep dysfunction. Health behavior and cortisol regulation, however, may require more sensitive measures and large sample sizes to discern their roles in loneliness and health.
+
+Loneliness is associated with diminished heart rate variability reactivity to acute social stress in younger adults
+
+Number of 
+
+Key takeaways:Loneliness is associated with decreased heart rate variability reactivity to social stress, potentially impacting cardiovascular health in younger adults.
+
+Joint association of loneliness and traditional risk factor control and incident cardiovascular disease in diabetes patients.
+
+Number of 
+
+Key takeaways:Loneliness, but not social isolation, is associated with a higher risk of cardiovascular disease in diabetes patients, with an additive interaction with the degree of risk factor control.
+
+Abstract:AIMS
+To investigate the prospective associations of the loneliness and social isolation scales with cardiovascular disease (CVD) risk in diabetes patients and compare the relative importance of loneliness and social isolation with traditional risk factors. Also, the interactions of loneliness or isolation with the degree of risk factor control in relation to CVD risk were evaluated.
+
+METHODS AND RESULTS
+A total of 18 509 participants diagnosed with diabetes from the UK Biobank were included. A two-item scale and a three-item scale were used to assess loneliness and isolation levels, respectively. The degree of risk factor control was defined as numbers of glycated hemoglobin (HbA1c), blood pressure (BP), low-density lipoprotein cholesterol (LDL-C), smoking, and kidney condition controlled within the target range. During a mean follow-up of 10.7 years, 3247 total CVD incidents were documented, including 2771 coronary heart disease and 701 strokes. In the fully adjusted model, compared with participants with the lowest loneliness score (zero), hazard ratios (95% confidence interval) for CVD were 1.11 (1.02 and 1.20) and 1.26 (1.11 and 1.42) for participants with a loneliness scale of 1 and 2, respectively (P-trend < 0.001). No significant associations were observed for social isolation. Loneliness ranked higher in relative strength for predicting CVD than the lifestyle risk factors in diabetes patients. A significant additive interaction between loneliness and the degree of risk factor control on the risk of CVD was observed (P for additive interaction = 0.005).
+
+CONCLUSION
+Among diabetes patients, loneliness, but not social isolation scale, is associated with a higher risk of CVD and shows an additive interaction with the degree of risk factor control.
+
+The Link between Loneliness, Social Isolation, and Cardiovascular Disease
+
+Number of 
+
+Key takeaways:Loneliness and social isolation are significant risk factors for cardiovascular disease, affecting physiological processes like inflammation, immune function, and sympathetic nervous system activation.
+
+Abstract:Introduction: Cardiovascular disease (CVD) is a major cause of morbidity and mortality worldwide. Loneliness, a subjective feeling of social isolation, and social isolation, an objective lack of social connections, contribute to social vulnerability and physical frailty. Psychological factors and social support play important roles in CVD, affecting health behaviors and physiological mechanisms. This review aims to provide an understanding of how loneliness and social isolation impact CVD. Methods: A literature review was conducted to identify relevant studies investigating the association between loneliness, social isolation, and cardiovascular disease. Results: The findings indicate that social isolation and loneliness are significant risk factors for CVD, independent of other risk factors. The prevalence of loneliness has increased in modern society, affecting individuals of all ages. Loneliness and social isolation influence physiological processes such as activating the HPA axis, causing inflammation and alterations in immune function, and activating the sympathetic nervous system. These effects contribute to an increased risk of CVD, including elevated blood pressure, hypertension, atherosclerosis, and potential cardiac autonomic dysregulation. Conclusion: Loneliness and social isolation pose significant risks for cardiovascular disease (CVD), influencing physiological processes such as inflammation, immune function, and sympathetic nervous system activation. Understanding these relationships is crucial for developing effective strategies to prevent and manage CVD, emphasizing the importance of interventions targeting both psychological and physiological aspects of social well-being. 
+Keywords: Loneliness, Social Isolation, Cardiovascular Disease
+
+Loneliness and Cognitive Function in Older Adults Without Dementia: A Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:Loneliness is associated with subtle impairments in multiple cognitive domains in older adults screened for dementia.
+
+Abstract:Background: Loneliness has been highlighted as a risk factor for dementia. However, the nature of the relationship between loneliness and cognitive function prior to onset of dementia is unclear. Objective: The aim of this systematic review and meta-analysis was to examine the relationship between loneliness and cognitive function in samples screened for dementia at study commencement. Methods: Five electronic databases (PubMed, PsycNET, Web of Science, EBSCOhost, Scopus) were searched from inception to August 31, 2021. A narrative review and random-effects meta-analysis were conducted on studies meeting search criteria. PROSPERO registration number: CRD42020155539. Results: The sixteen studies that met inclusion criteria involved 30,267 individuals, with mean age ranging from 63.0 to 84.9 years. Studies varied in dementia screening criteria, measurement of loneliness and cognitive function, and statistical modeling approach. The narrative review indicated that loneliness was associated with poorer global cognition, episodic memory, working memory, visuospatial function, processing speed, and semantic verbal fluency. Results of the meta-analysis indicated that loneliness was negatively associated with global cognitive function (overall r = –0.08; 95% CI = –0.14, –0.02; n = 6). Due to lack of sufficient data and heterogeneity between studies, we were unable to explore associations with other cognitive domains or longitudinal associations. Conclusion: Loneliness is associated with subtle impairment across multiple cognitive domains in older adults who were screened for dementia. Better characterization of this relationship will provide important information about how loneliness contributes to the clinical and pathological sequalae of AD and be informative for risk reduction and early detection strategies.
+
+The default network of the human brain is associated with perceived social isolation
+
+Number of 
+
+Key takeaways:The default network of the brain is associated with perceived social isolation, potentially supporting mentalizing, reminiscence, and imagination to fill the social void.
+
+Loneliness and cognitive function in the older adult: a systematic review
+
+Number of 
+
+Key takeaways:Greater loneliness is associated with lower cognitive function in older adults, but further research is needed to determine causality and underlying mechanisms.
+
+Abstract:ABSTRACT Background: Loneliness is a significant concern among the elderly, particularly in societies with rapid growth in aging populations. Loneliness may influence cognitive function, but the exact nature of the association between loneliness and cognitive function is poorly understood. The purpose of this systematic review was to synthesize current findings on the association between loneliness and cognitive function in older adults. Method: A comprehensive, electronic review of the literature was performed. Criteria for inclusion were original quantitative or qualitative research, report written in English, human participants with a mean age ≥ 60 years, and 
+
+The lonely brain: Aligning theories of loneliness with data from neuroimaging studies
+
+Number of 
+
+Key takeaways:Loneliness increases attention and sensitivity to social threats, potentially promoting self-preservation and social reconnection.
+
+Abstract:Although loneliness is an unpleasant subjective experience associated with negative consequences, decades of research suggest loneliness is accompanied by adaptive cognitive changes that promote self-preservation and attempts for social reconnection. This review summarizes theoretical accounts that elaborate how loneliness alters attention and social information processing, then reviews whether findings from functional magnetic resonance imaging (fMRI) studies align with these hypothesized effects. We first examined the hypothesis that loneliness should increase general attention to monitor for potential environmental threats. Findings from resting-state studies suggested that loneliness corresponds to greater baseline activity in attention-related regions. Next, we examined the hypothesis that loneliness heightens sensitivity to the social world to protect against social threats and motivate reconnection. Here, studies showed sensitivity toward negative social information increased, whereas sensitivity toward positive social information was stimulus dependent (e.g., strangers, close others). Finally, we examined the hypothesis that loneliness enhances mentalizing to better predict social situations. Although many studies support this hypothesis, the research here is limited. However, studies do find that lonely individuals show idiosyncratic processing of the self and others. To conclude, we lay out future directions addressing some shortcomings of current fMRI studies of loneliness, and provide additional avenues to expand our knowledge of the 'lonely brain.'
+
+Association of Loneliness With 10-Year Dementia Risk and Early Markers of Vulnerability for Neurocognitive Decline
+
+Number of 
+
+Key takeaways:Loneliness is associated with an increased 10-year dementia risk and worse neurocognitive markers of Alzheimer's disease and related dementia vulnerability.
+
+Abstract:Background and Objectives Loneliness is common, and its prevalence is rising. The relationship of loneliness with subsequent dementia and the early preclinical course of Alzheimer disease and related dementia (ADRD) remains unclear. Thus, the primary objective of this study was to determine the association of loneliness with 10-year all-cause dementia risk and early cognitive and neuroanatomic imaging markers of ADRD vulnerability. Methods This was a retrospective analysis of prospectively collected data from the population-based Framingham Study cohorts (September 9, 1948–December 31, 2018). Eligible participants had loneliness assessed and were dementia-free at baseline. Loneliness was recorded with the Center for Epidemiologic Studies Depression Scale, defined conservatively as feeling lonely ≥3 days in the past week. The main outcomes were incident dementia over a 10-year period, cognition, and MRI brain volumes and white matter injury. Results Of 2,308 participants (mean age 73 years, 56% women) who met eligibility in the dementia sample, 14% (329 of 2,308) developed dementia and 6% (144 of 2,308) were lonely. Lonely (versus not lonely) adults had higher 10-year dementia risk (age-, sex-, and education-adjusted hazard ratio 1.54, 95% CI 1.06–2.24). Lonely participants <80 years of age without APOE ε4 alleles had a 3-fold greater risk (adjusted hazard ratio 3.03, 95% CI, 1.63–5.62). Among 1,875 persons without dementia who met eligibility in the cognition sample (mean age 62 years, 54% women), loneliness associated with poorer executive function, lower total cerebral volume, and greater white matter injury. Discussion Over 10 years of close clinical dementia surveillance in this cohort study, loneliness was associated with increased dementia risk; this tripled in adults whose baseline risk would otherwise be relatively low on the basis of age and genetic risk, representing a majority of the US population. Loneliness was also associated with worse neurocognitive markers of ADRD vulnerability, suggesting an early pathogenic role. These findings may have important clinical and public health implications given observed loneliness trends. Classification of Evidence This study provides Class I evidence that loneliness increases the 10-year risk of developing dementia.
+
+Neurobiology of Loneliness, Isolation, and Loss: Integrating Human and Animal Perspectives
+
+Number of 
+
+Key takeaways:Loneliness and social isolation in humans and animals are linked to dysfunction in brain regions regulating motivation and stress responsiveness, with similar physiological symptoms and neurochemical regulators.
+
+Abstract:In social species such as humans, non-human primates, and even many rodent species, social interaction and the maintenance of social bonds are necessary for mental and physical health and wellbeing. In humans, perceived isolation, or loneliness, is not only characterized by physical isolation from peers or loved ones, but also involves negative perceptions about social interactions and connectedness that reinforce the feelings of isolation and anxiety. As a complex behavioral state, it is no surprise that loneliness and isolation are associated with dysfunction within the ventral striatum and the limbic system – brain regions that regulate motivation and stress responsiveness, respectively. Accompanying these neural changes are physiological symptoms such as increased plasma and urinary cortisol levels and an increase in stress responsivity. Although studies using animal models are not perfectly analogous to the uniquely human state of loneliness, studies on the effects of social isolation in animals have observed similar physiological symptoms such as increased corticosterone, the rodent analog to human cortisol, and also display altered motivation, increased stress responsiveness, and dysregulation of the mesocortical dopamine and limbic systems. This review will discuss behavioral and neuropsychological components of loneliness in humans, social isolation in rodent models, and the neurochemical regulators of these behavioral phenotypes with a neuroanatomical focus on the corticostriatal and limbic systems. We will also discuss social loss as a unique form of social isolation, and the consequences of bond disruption on stress-related behavior and neurophysiology.
+
+Does loneliness contribute to mild cognitive impairment and dementia? A systematic review and meta-analysis of longitudinal studies
+
+Number of 
+
+Key takeaways:Loneliness is positively associated with increased risk of dementia, but limited evidence suggests a potential effect on mild cognitive impairment.
+
+Structural Brain Correlates of Loneliness among Older Adults
+
+Number of 
+
+Key takeaways:Higher loneliness in older adults is associated with smaller gray matter volumes in brain regions involved in cognitive processing and emotional regulation.
+
+The positive and negative emotion functions related to loneliness: a systematic review of behavioural and neuroimaging studies
+
+Number of 
+
+Key takeaways:Loneliness is negatively correlated with general positive emotions and positively correlated with general negative emotions, with a bivalence model supporting this relationship.
+
+Abstract:Abstract Loneliness is associated with high prevalences of major psychiatric illnesses such as major depression. However, the underlying emotional mechanisms of loneliness remained unclear. We hypothesized that loneliness originates from both decreases in positive emotional processing and increases in negative emotion processing. To test this, we conducted a systematic review of 29 previous studies (total participants n = 19 560, mean age = 37.16 years, female proportion = 59.7%), including 18 studies that included questionnaire measures of emotions only, and 11 studies that examined the brain correlates of emotions. The main findings were that loneliness was negatively correlated with general positive emotions and positively correlated with general negative emotions. Furthermore, limited evidence indicates loneliness exhibited negative and positive correlations with the brain positive (e.g. the striatum) and negative (e.g. insula) emotion systems, respectively, but the sign of correlation was not entirely consistent. Additionally, loneliness was associated with the structure and function of the brain emotion regulation systems, particularly the prefrontal cortex, but the direction of this relationship remained ambiguous. We concluded that the existing evidence supported a bivalence model of loneliness, but several critical gaps existed that could be addressed by future studies that include adolescent and middle-aged samples, use both questionnaire and task measures of emotions, distinguish between general emotion and social emotion as well as between positive and negative emotion regulation, and adopt a longitudinal design that allows us to ascertain the causal relationships between loneliness and emotion dysfunction. Our findings provide new insights into the underlying emotion mechanisms of loneliness that can inform interventions for lonely individuals.
+
+Loneliness and Risk of Dementia.
+
+Number of 
+
+Key takeaways:Loneliness is associated with a 40% increased risk of dementia, regardless of social isolation and other risk factors.
+
+Abstract:Objective
+The present study tests whether loneliness is associated with risk of dementia in the largest sample to date and further examines whether the association is independent of social isolation, a related but independent component of social integration, and whether it varies by demographic factors and genetic vulnerability.
+
+Method
+Participants from the Health and Retirement Study (N = 12,030) reported on their loneliness, social isolation, and had information on clinical, behavioral, and genetic risk factors. Cognitive status was assessed at baseline and every 2 years over a 10-year follow-up with the modified Telephone Interview for Cognitive Status (TICSm). A TICSm score of 6 or less was indicative of dementia.
+
+Results
+Cox proportional hazards regression indicated that loneliness was associated with a 40% increased risk of dementia. This association held controlling for social isolation, and clinical, behavioral, and genetic risk factors. The association was similar across gender, race, ethnicity, education, and genetic risk.
+
+Discussion
+Loneliness is associated with increased risk of dementia. It is one modifiable factor that can be intervened on to reduce dementia risk.
+
+Meta-analytic evidence for the cognitive control model of loneliness in emotion processing
+
+Number of 
+
+Key takeaways:Loneliness up-regulates cognitive control networks, leading to affective dysregulation by exhausting cognitive resources and regulating attention biases to social rewards and cues.
+
+Solitude as an Approach to Affective Self-Regulation
+
+Number of 
+
+Key takeaways:Solitude generally decreases high-arousal affects, leading to relaxation and reduced stress when individuals actively choose to be alone.
+
+Abstract:In this research, we showed that solitude generally has a deactivation effect on people’s affective experiences, decreasing both positive and negative high-arousal affects. In Study 1, we found that the deactivation effect occurred when people were alone, but not when they were with another person. Study 2 showed that this deactivation effect did not depend on whether or not the person was engaged in an activity such as reading when alone. In Study 3, high-arousal positive affect did not drop in a solitude condition in which participants specifically engaged in positive thinking or when they actively chose what to think about. Finally, in Study 4, we found that solitude could lead to relaxation and reduced stress when individuals actively chose to be alone. This research thus shed light on solitude effects in the past literature, and on people’s experiences when alone and the different factors that moderate these effects.
+
+Loneliness Matters: A Theoretical and Empirical Review of Consequences and Mechanisms
+
+Number of 
+
+Key takeaways:Loneliness negatively impacts physical and mental health, and interventions should consider its social and behavioral effects to effectively reduce its consequences.
+
+Abstract:As a social species, humans rely on a safe, secure social surround to survive and thrive. Perceptions of social isolation, or loneliness, increase vigilance for threat and heighten feelings of vulnerability while also raising the desire to reconnect. Implicit hypervigilance for social threat alters psychological processes that influence physiological functioning, diminish sleep quality, and increase morbidity and mortality. The purpose of this paper is to review the features and consequences of loneliness within a comprehensive theoretical framework that informs interventions to reduce loneliness. We review physical and mental health consequences of loneliness, mechanisms for its effects, and effectiveness of extant interventions. Features of a loneliness regulatory loop are employed to explain cognitive, behavioral, and physiological consequences of loneliness and to discuss interventions to reduce loneliness. Loneliness is not simply being alone. Interventions to reduce loneliness and its health consequences may need to take into account its attentional, confirmatory, and memorial biases as well as its social and behavioral effects.
+
+Loneliness in Psychosis: A Meta-analytical Review
+
+Number of 
+
+Key takeaways:Loneliness has a significant positive relationship with psychotic symptoms, which should be considered in clinical practice and treatment provision for those with psychotic disorders.
+
+Abstract:Loneliness may be related to psychotic symptoms but a comprehensive synthesis of the literature in this area is lacking. The primary aim of the current study is to provide a systematic review and meta-analysis of the association between loneliness and psychotic symptoms in people with psychosis. A search of electronic databases was conducted (PsychINFO, MEDLINE, EMBASE, and Web of Science). A random effects meta-analysis was used to compute a pooled estimate of the correlation between loneliness and psychotic symptoms. Study and outcome quality were assessed using adapted versions of the Agency for Healthcare Research and Quality (AHRQ) tool and GRADE approach, respectively. Thirteen studies were included, providing data from 15 647 participants. A moderate association between psychosis and loneliness was observed (k = 13, N = 15 647, r = .32, 95% CI 0.20, 0.44; I2 = 97.56%; moderate quality evidence). Whether loneliness was assessed by a single-item or a more comprehensive measure had no moderating effect on the estimate. Results indicate that there is a significant positive relationship between loneliness and psychosis. Further studies are needed to determine the causal status of this relationship, but this robust finding should be considered in clinical practice and treatment provision for those with psychotic disorders.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

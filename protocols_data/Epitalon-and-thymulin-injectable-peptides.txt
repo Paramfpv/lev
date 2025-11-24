@@ -1,0 +1,415 @@
+PROTOCOL: Epitalon and thymulin (injectable peptides)
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Epitalon and thymulin are peptides administered in the form of injections, which exhibit potential neuroprotective, anti-inflammatory, and immunomodulatory properties. Preclinical studies suggest their beneficial effects on nerve cells, immune system balance, and slowing the development of certain cancers. Both peptides are the subject of intensive research, but currently, there is a lack of conclusive clinical evidence confirming their effectiveness in humans.
+RISK LEVEL: Potential risk
+HARM LEVEL: Abstract:Epitalon, also known as Epithalon or Epithalone, is a tetrapeptide, Ala-Glu-Asp-Gly (AEDG), which was synthesized based on the amino acids composition of Epithalamin, a bovine pineal gland extract, prior to its discovery in pineal gland polypeptide complex solution. During the last 25 years, this compound has been extensively studied using in vitro, in vivo, and in silico methods. The results of these studies indicate significant geroprotective and neuroendocrine effects of Epitalone, resulting from its antioxidant, neuro-protective, and antimutagenic effects, originating from both specific and nonspecific mechanisms. Although it has been demonstrated that Epitalon exerts, among other effects, a direct influence on melatonin synthesis, alters the mRNA levels of interleukin-2, modulates the mitogenic activity of murine thymocytes, and enhances the activity of various enzymes, including AChE, BuChE, and telomerase, it remains uncertain whether these are the sole mechanisms of action of this compound. Moreover, despite the considerable volume of research on the biological and pharmacodynamic characteristics of Epitalon, the quantity of physico-chemical and structural investigations of this peptide remains quite limited. This review aims to conclude the most important findings from such studies, thus presenting the current state of knowledge on Epitalon.
+DESCRIPTION: Epitalon and thymulin are peptides administered in the form of injections, which exhibit potential neuroprotective, anti-inflammatory, and immunomodulatory properties. Preclinical studies suggest their beneficial effects on nerve cells, immune system balance, and slowing the development of certain cancers. Both peptides are the subject of intensive research, but currently, there is a lack of conclusive clinical evidence confirming their effectiveness in humans.
+
+CONTENT SECTIONS:
+
+Epitalon and thymulin (injectable peptides)
+
+Potential brain protection, immune regulation, and cancer prevention
+
+Epitalon and thymulin are peptides administered in the form of injections, which exhibit potential neuroprotective, anti-inflammatory, and immunomodulatory properties. Preclinical studies suggest their beneficial effects on nerve cells, immune system balance, and slowing the development of certain cancers. Both peptides are the subject of intensive research, but currently, there is a lack of conclusive clinical evidence confirming their effectiveness in humans.
+
+Level of evidence:Preliminary
+
+Level of risk:Elevated
+
+Epitalon acts by influencing the expression of genes associated with longevity, regulating antioxidant enzyme activity, and modulating melatonin secretion, which may translate into neuroprotection and potential slowing of aging processes. Thymulin acts mainly as an immunomodulator: it regulates the maturation and activity of T lymphocytes, reduces inflammation, and supports the regeneration of the immune system. Both peptides may also affect cytokine expression and reduce inflammatory processes, and Epitalon additionally shows anti-cancer effects in animal studies.
+
+Level of risk:Elevated
+
+Epitalon and thymulin are generally well tolerated in animal studies, where no serious toxic effects have been observed. However, there is a lack of extensive clinical studies in humans, so the risk of unknown adverse effects, especially with prolonged use or in sensitive populations, cannot be completely ruled out.
+
+The use of Epitalon and thymulin is not recommended in individuals with certain conditions or in specific clinical states, due to the lack of safety studies in these populations.
+
+No standardized protocols; in preclinical studies, doses from micrograms to several milligrams per day were used, most often by subcutaneous or intramuscular injection.
+
+Injection solution (ampoules or vials with powder for solution preparation)
+
+Effects observed in animal studies usually after several days to several weeks of therapy
+
+Time of administration
+
+No clear recommendations; injections were most often administered in the morning or early hours
+
+What not to combine with
+
+Do not use simultaneously with other strong immunomodulators without medical supervision
+
+Peptides with research substance status; not approved for routine use in humans outside of clinical trials
+
+Use only under medical supervision
+
+Due to the lack of clinical studies, it is recommended to consider the use of peptides only within scientific research or under the supervision of an experienced specialist.
+
+Caution in individuals with immune disorders
+
+Peptides may modulate immune response; individuals with immune disorders should exercise particular caution.
+
+No recommendations for children and pregnant women
+
+Do not use in children, pregnant, and breastfeeding women due to lack of safety data.
+
+Reporting adverse effects
+
+In case of any alarming symptoms during the use of peptides, immediate consultation with a doctor is necessary.
+
+Choosing a reliable source of the preparation
+
+Research preparations should come from a reputable, certified source – avoid products of unknown origin or without documentation.
+
+Epitalon and thymulin exhibit potential neuroprotective and anti-inflammatory effects in preclinical models. These effects may support brain health by protecting neurons, reducing inflammation, and improving cognitive function; however, most evidence comes from animal and cell studies.
+
+Neuroprotection and neurogenesis
+
+Anti-inflammatory action
+
+Impact on behavior and cognitive function
+
+Thymulin exhibits strong immunomodulatory and anti-inflammatory activity, supporting the homeostasis and regeneration of the immune system. Evidence for a direct effect of Epitalon on immunity is limited and less conclusive.
+
+Anti-inflammatory action
+
+Regulation of immune cells
+
+Effect on the blood-brain barrier and chronic diseases
+
+Epitalon shows anti-cancer activity in animal models, reducing the development and progression of tumors. Evidence for a direct effect of thymulin on cancer prevention is limited and indirect.
+
+Epitalon's effect on tumor development
+
+Mechanisms of Epitalon's action
+
+Thymulin and cancer prevention
+
+Scientific data and sources
+
+Level of evidencePreliminary
+
+Number of included studies:42
+
+Final comment:Epitalon and thymulin are peptides with promising neuroprotective, immunomodulatory, and anti-cancer potential, but most available data come from animal studies and in vitro models. Research on thymulin shows somewhat better-documented anti-inflammatory and immune-regulating effects, while for Epitalon, reports predominantly focus on antioxidant and anti-cancer activity. However, there is a lack of large, randomized clinical trials in humans, so the current level of evidence should be considered preliminary. Further, well-designed clinical studies are needed to confirm the efficacy and safety of both peptides in clinical practice.
+
+Overview of Epitalon—Highly Bioactive Pineal Tetrapeptide with Promising Properties
+
+Number of 
+
+Key takeaways:Epitalon shows significant geroprotective and neuroendocrine effects, with potential mechanisms including antioxidant, neuro-protective, and antimutagenic effects.
+
+Abstract:Epitalon, also known as Epithalon or Epithalone, is a tetrapeptide, Ala-Glu-Asp-Gly (AEDG), which was synthesized based on the amino acids composition of Epithalamin, a bovine pineal gland extract, prior to its discovery in pineal gland polypeptide complex solution. During the last 25 years, this compound has been extensively studied using in vitro, in vivo, and in silico methods. The results of these studies indicate significant geroprotective and neuroendocrine effects of Epitalone, resulting from its antioxidant, neuro-protective, and antimutagenic effects, originating from both specific and nonspecific mechanisms. Although it has been demonstrated that Epitalon exerts, among other effects, a direct influence on melatonin synthesis, alters the mRNA levels of interleukin-2, modulates the mitogenic activity of murine thymocytes, and enhances the activity of various enzymes, including AChE, BuChE, and telomerase, it remains uncertain whether these are the sole mechanisms of action of this compound. Moreover, despite the considerable volume of research on the biological and pharmacodynamic characteristics of Epitalon, the quantity of physico-chemical and structural investigations of this peptide remains quite limited. This review aims to conclude the most important findings from such studies, thus presenting the current state of knowledge on Epitalon.
+
+AEDG Peptide (Epitalon) Stimulates Gene Expression and Protein Synthesis during Neurogenesis: Possible Epigenetic Mechanism
+
+Number of 
+
+Key takeaways:AEDG peptide stimulates neuronal differentiation gene expression and protein synthesis in human stem cells, potentially through epigenetic mechanisms.
+
+Abstract:It was shown that AEDG peptide (Ala-Glu-Asp-Gly, Epitalon) regulates the function of the pineal gland, the retina, and the brain. AEDG peptide increases longevity in animals and decreases experimental cancerogenesis. AEDG peptide induces neuronal cell differentiation in retinal and human periodontal ligament stem cells. The aim of the study was to investigate the influence of AEDG peptide on neurogenic differentiation gene expression and protein synthesis in human gingival mesenchymal stem cells, and to suggest the basis for the epigenetic mechanism of this process. AEDG peptide increased the synthesis of neurogenic differentiation markers: Nestin, GAP43, β Tubulin III, Doublecortin in hGMSCs. AEDG peptide increased Nestin, GAP43, β Tubulin III and Doublecortin mRNA expression by 1.6–1.8 times in hGMSCs. Molecular modelling method showed, that AEDG peptide preferably binds with H1/6 and H1/3 histones in His-Pro-Ser-Tyr-Met-Ala-His-Pro-Ala-Arg-Lys and Tyr-Arg-Lys-Thr-Gln sites, which interact with DNA. These results correspond to previous experimental data. AEDG peptide and histones H1/3, H1/6 binding may be one of the mechanisms which provides an increase of Nestin, GAP43, β Tubulin III, and Doublecortin neuronal differentiation gene transcription. AEDG peptide can epigenetically regulate neuronal differentiation gene expression and protein synthesis in human stem cells.
+
+Protective effect of exogenous peroxiredoxin 6 and thymic peptide thymulin on BBB conditions in an experimental model of multiple sclerosis.
+
+Number of 
+
+Key takeaways:Thymulin and peroxiredoxin 6 improve blood-brain barrier conditions and restore symptoms in mice with experimental multiple sclerosis, offering potential treatment strategies for multiple sclerosis.
+
+CNS effects of peripherally administered brain peptides.
+
+Number of 
+
+Key takeaways:Peripherally administered brain peptides can have multiple and independent CNS effects, including changes in behavior, and may play a role in diagnosing and treating mental and neurological disorders.
+
+Thymulin, free or bound to PBCA nanoparticles, protects mice against chronic septic inflammation
+
+Number of 
+
+Key takeaways:Thymulin, free or bound to nanoparticles, effectively suppresses chronic septic inflammation in mice, with nanoparticle-bound thymulin being more effective in several aspects.
+
+Abstract:In the present work, we aimed to study the effects of free and polybutylcyanoacrylate nanoparticle-bound thymulin on immune cell activity in mice with chronic inflammation. NF-κB, MAPK, and PKC-θ signaling pathway activity was assessed, alongside Hsp72, Hsp90-α, and TLR4 expression and levels of apoptosis. In addition, plasma cytokines and blood and brain melatonin and serotonin levels were measured. In mice treated with gradually raised doses of lipopolysaccharide, significant increases in the activity of the signaling pathways tested, heat-shock protein and TLR4 expression, lymphocyte apoptosis, and plasma proinflammatory cytokine levels were noted. Moreover, we observed significantly heightened serotonin concentrations in the plasma and especially the brains of mice with inflammation. In contrast, melatonin levels were reduced in the tissues examined, particularly so in the brain. Treatment of these mice with thymulin alleviated fever, reduced apoptosis, increased splenic cell number, and decreased cytokine production, Hsp72, Hsp90, and TLR4 expression, and the activity of the signaling pathways examined. In addition, thymulin partially restored brain and blood serotonin and melatonin levels. Thus, thymulin suppressed the proinflammatory response in LPS-treated mice, indicating the potential of thymulin co-therapy in the treatment of sepsis. Nanoparticle-bound thymulin was more effective in several respects.
+
+Basic Science and Pathogenesis.
+
+Number of 
+
+Key takeaways:Thymulin administration may be a promising therapeutic approach for restoring behavioral and molecular changes in a sAD rat model, warranting further study in sAD studies.
+
+Abstract:BACKGROUND
+Sporadic Alzheimer's Disease (sAD) is the most prevalent progressive neurodegenerative disease worldwide, without a cure. We propose to investigate therapies that contribute to the current state of this problem using a model of sAD in rats based on a single intracerebroventricular (icv) injection of streptozotocin (STZ). In this sense, thymulin (originally known as serum thymic factor, FTS), a thymic peptide, emerges as a potential therapeutic agent due to its proven anti-inflammatory effects. Since the cerebral hippocampus (hc) is one of the key vulnerable areas in sAD, our study focuses on the analysis of this region.
+
+METHOD
+We used an adenoviral vector (RAd-FTS) for systemic thymulin overexpression via intramuscular (IM) injections. Animals were divided into 3 groups (n = 8): SHAM, STZ and STZ+FTS. Rats received bilateral icv injections of artificial cerebrospinal fluid (SHAM) or STZ (STZ and STZ+FTS groups) (3 mg/kg). At weeks 1 and 6 post-STZ, STZ+FTS animals received IM injections of RAd-FTS. Prior to sacrifices (week 13), behavioural tests were performed to evaluate species-typical, exploratory, anxious and depressive behaviours, and recognition memory. At the tissue level, immunohistochemical staining for immature neurons, microglia and astrocytes were performed.
+
+RESULT
+A significant deterioration in all assessed behaviours was observed in the STZ group. However, the STZ+FTS group did not show significant differences compared to the SHAM group in species-typical, exploratory, anxious, and depressive behaviours. Moreover, it restored the recognition memory that was impaired in STZ animals. At the tissue level, systemic expression of FTS did not ameliorate the impact of STZ on immature neurons but showed an effect on microglia and astrocytes in the hc.
+
+CONCLUSION
+We explored a minimally invasive therapeutic strategy that allowed us to fully or partially reverse behavioural and molecular changes in our animals with sAD. Therefore, our results are encouraging and suggest that thymulin administration may be a promising therapeutic approach, warranting consideration in sAD studies.
+
+Thymulin related peptide attenuates inflammation in the brain induced by intracerebroventricular endotoxin injection
+
+Number of 
+
+Key takeaways:PAT, a potent anti-inflammatory and analgesic peptide, may have potential therapeutic use for treating neurodegenerative conditions induced by silent or overt inflammation.
+
+The Thymus–Neuroendocrine Axis
+
+Number of 
+
+Key takeaways:Thymulin has potential therapeutic applications, including anti-inflammatory properties in the brain and preventing endocrine and metabolic alterations in thymus-deficient animals.
+
+Abstract:Thymulin is a thymic hormone exclusively produced by the thymic epithelial cells. It consists of a nonapeptide component coupled to the ion zinc, which confers biological activity to the molecule. After its discovery in the early 1970s, thymulin was characterized as a thymic hormone involved in several aspects of intrathymic and extrathymic T cell differentiation. Subsequently, it was demonstrated that thymulin production and secretion is strongly influenced by the neuroendocrine system. Conversely, a growing core of information, to be reviewed here, points to thymulin as a hypophysotropic peptide. In recent years, interest has arisen in the potential use of thymulin as a therapeutic agent. Thymulin was shown to possess anti‐inflammatory and analgesic properties in the brain. Furthermore, an adenoviral vector harboring a synthetic gene for thymulin, stereotaxically injected in the rat brain, achieved a much longer expression than the adenovirally mediated expression in the brain of other genes, thus suggesting that an anti‐inflammatory activity of thymulin prevents the immune system from destroying virus‐transduced brain cells. Other studies suggest that thymulin gene therapy may also be a suitable therapeutic strategy to prevent some of the endocrine and metabolic alterations that typically appear in thymus‐deficient animal models. The present article briefly reviews the literature on the physiology, molecular biology, and therapeutic potential of thymulin.
+
+Role of Thymulin or Its Analogue as a New Analgesic Molecule
+
+Number of 
+
+Key takeaways:Thymulin and its analogue PAT show potential as analgesic and anti-inflammatory drugs, with potential therapeutic uses in treating pain and inflammation in the central nervous system.
+
+Abstract:Abstract:  The thymic peptide thymulin is known for its immunomodulatory role. However, several recent reports have indicated that thymulin is capable of interacting directly and/or indirectly with the nervous system. One of the first lines of evidence of this interaction was obtained in a series of experiments showing the hyperalgesic actions of this peptide. We demonstrated that, at low doses (ng), local (intraplantar) or systemic (intraperitoneal) injections of thymulin resulted in hyperalgesia with an increase in proinflammatory mediators, and that this peptide could act directly on the afferent nerve terminals through prostaglandin‐E2 (PGE2)‐dependent mechanisms, thus forming a neuroimmune loop involving capsaicin‐sensitive primary afferent fibers. In further experiments, systemic injections of relatively high doses (1–25 μg) of thymulin or of an analogue peptide (PAT) deprived of hyperalgesic effect, have been shown to reduce the inflammatory pain and the upregulated levels of cytokines induced by endotoxin (ET) injection. In addition, PAT treatment appeared to alleviate the sickness behavior (motor behavior and fever) induced by systemic inflammation. These effects could be attributed, at least partly, to the downregulation of proinflammatory mediators. Furthermore, when compared with the effects of other anti‐inflammatory drugs, PAT exerted equal or even stronger analgesic effects, and at much lower concentrations. Subsequent experiments were designed to examine the effects of intracerebroventricular (i.c.v.) injections of thymulin on cerebral inflammation induced by i.c.v. injection of ET. Pretreatment with thymulin reduced, in a dose‐dependant manner, the ET‐induced hyperalgesia, and exerted differential effects on the upregulated levels of cytokines in different areas of the brain, suggesting a neuroprotective role for thymulin in the central nervous system (CNS). Preliminary results demonstrate that thymulin inhibits in the hippocampus the ET‐induced nuclear activation of NF‐κB, the transcription factor required for the expression of proinflammatory cytokines genes. Although the mechanism of action of these molecules is not totally elucidated, our results indicate a possible therapeutic use of thymulin or PAT as analgesic and anti‐inflammatory drugs.
+
+Neurochemical study of the mechanism of action of thymus peptides in emotional stress
+
+Number of 
+
+Key takeaways:Thymus hormones and peptides reduce emotional stress and improve adaptation under stressful conditions in rats, with a positive effect on serotonin balance in the hypothalamus and frontal cortex.
+
+Abstract:A comparative study of the effect of the thymus hormone thymulin and thymus peptides (thymosin fraction 5) on the content of monoamines and their metabolites in the frontal cortex, striatum, adjacent nucleus, hypothalamus, hippocampus of the brain of Wistar rats, by high performance liquid chromatography, was performed. The hormone and peptides of the thymus were found to reduce emotional stress during functional impairment ofthe avoidance reaction and improved adaptation under stressful conditions in rats, which indicates the anti-stress effect of thymus hormones. The positive effect of the hormone and peptides of the thymus were manifested in a change in the balance of serotonin and norepinephrine in favor of the former in the hypothalamus and frontal cortex.
+
+Thymulin reverses inflammatory hyperalgesia and modulates the increased concentration of proinflammatory cytokines induced by i.c.v. endotoxin injection
+
+Number of 
+
+Key takeaways:Thymulin pretreatment before endotoxin injection reduces pain and modulates proinflammatory cytokine levels in the brain, suggesting a neuroprotective role for this hormone in the CNS.
+
+Gene therapy for long-term restoration of circulating thymulin in thymectomized mice and rats
+
+Number of 
+
+Key takeaways:RAd-metFTS gene therapy effectively restores thymulin levels in thymectomized mice and rats, offering potential for chronic brain inflammation treatment.
+
+Intraperitoneal injection of the pancreatic peptide amylin potently reduces behavioral impairment and brain amyloid pathology in murine models of Alzheimer's disease
+
+Number of 
+
+Key takeaways:Amylin and pramlintide injections significantly improve learning and memory in Alzheimer's disease mice, suggesting potential new treatments and diagnostic avenues for the disease.
+
+Peripheral and mesencephalic transfer of a synthetic gene for the thymic peptide thymulin
+
+Number of 
+
+Key takeaways:RAd-FTS is a suitable biotechnological tool for assessing peripheral and central thymulin gene therapy in animal models of nigral dopaminergic neurodegeneration induced by pro-inflammatory agents.
+
+Thymulin treatment attenuates inflammatory pain by modulating spinal cellular and molecular signaling pathways
+
+Number of 
+
+Key takeaways:Thymulin treatment reduces inflammatory pain and paw edema in rats by inhibiting spinal microglia and central inflammatory mediators, with potential therapeutic implications for inflammatory pain management.
+
+Modulation of inflammatory response in mice with severe autoimmune disease by thymic peptide thymulin and an inhibitor of NF-kappaB signalling.
+
+Number of 
+
+Key takeaways:Thymic peptide thymulin and an inhibitor of NF-kappaB signaling both reduce disease severity and increase mouse life span in severe experimental autoimmune encephalomyelitis.
+
+Neuroendocrine control of thymic hormonal production. I. Prolactin stimulates in vivo and in vitro the production of thymulin by human and murine thymic epithelial cells.
+
+Number of 
+
+Key takeaways:Prolactin stimulates thymic hormone production and cell proliferation in both human and mouse thymic epithelial cells, indicating a direct role of the pituitary gland in thymic hormone regulation.
+
+Abstract:The thymic epithelium is responsible for the secretion of thymic peptides, which intervene in some steps of intra- and extrathymic T cell differentiation. Recent data suggest that thymic hormone secretion is modulated by the neuroendocrine network, comprising thyroid, adrenals, and gonads. However, the role of the pituitary gland in this regulation is still poorly understood. In the present paper we studied the in vivo and in vitro influences of PRL on the secretion of thymulin, one of the chemically defined thymic hormones, by thymic epithelial cells (TEC). When injected daily (20-100 micrograms/20 g) in young or old C57BL/6 mice, PRL induced a specific increase in thymulin synthesis and secretion, respectively, measured by the number of thymulin-producing cells in the thymus and the peripheral levels of the hormone. This stimulation was dose dependent and reversible after the end of treatment. Similar findings have been made in animals with pituitary dwarfism, known to have low levels of circulating thymulin. This stimulatory effect was also observed in primary cultures of human and mouse TEC when PRL (10(-7) to 10(-8) M) was applied to culture supernatants, thus suggesting that PRL could act directly on TEC. In addition, we induced in vivo experimental hypoprolactinemia, treating mice with bromocriptine, a dopamine receptor agonist that inhibits pituitary PRL secretion. Bromocriptine treatment (100-200 micrograms/20 g) yielded a significant decrease in thymulin secretion that could be reversed by coincident treatment with PRL. In the light of previous observations that bovine GH can also increase thymulin production in aged dogs, we performed a series of experiments in vitro to evaluate whether GH has a direct effect on TEC. We observed that only human GH preparations that are known to have a PRL-like effect were efficient in stimulating thymulin biosynthesis and release into the culture supernatants. The effects of PRL on TEC were not restricted to thymic hormone production. We observed that TEC proliferation, as well as the numbers of a TEC subset defined by the expression of cytokeratins 3 and 10, could also be increased by PRL treatment. All these findings show that the pituitary gland directly affects TEC in terms of cytoskeletal and secretory protein expression as well as cell cycle.
+
+Inhibitory effect of peptide Epitalon on colon carcinogenesis induced by 1,2-dimethylhydrazine in rats.
+
+Number of 
+
+Key takeaways:Epitalon peptide effectively inhibits chemically induced colon carcinogenesis in rats, with smaller tumors and reduced incidence of tumors in the colon.
+
+A new adenovector system for implementing thymulin gene therapy for inflammatory disorders
+
+Number of 
+
+Key takeaways:Our two-adenovector system effectively implements short and long-term anti-inflammatory thymulin gene therapy in animal models of acute or chronic inflammation.
+
+Thymulin, A Thymic Peptide, Prevents the Overproduction of Pro-Inflammatory Cytokines and Heat Shock Protein Hsp70 in Inflammation-Bearing Mice
+
+Number of 
+
+Key takeaways:Thymulin, a synthetic thymic peptide, effectively prevents the accumulation of pro-inflammatory cytokines and heat shock protein Hsp70 in inflammation-bearing mice, suggesting potential clinical applications.
+
+Abstract:The effects of synthetic analogue of peptide hormone thymulin, which is normally produced by thymic epithelial cells, on immune cells activity and blood cytokine profile had been studied in male NMRI mice with acute inflammation induced by injection of lipopolysaccharide from gram-negative bacteria (LPS, 250 μg/100 g of body weight). Inflammation induced by LPS resulted in accumulation of several plasma pro-inflammatory cytokines, IL-1β, IL-2, IL-6, TNF-α, interferon-γ, and also IL-10, anti-inflammatory cytokine. Thymulin previously injected in dose of 15 μg/100 g body weight, prevented the accumulation of proinflammatory cytokines in plasma. Thymulin also prevented LPS-induced up-regulation of production of several cytokines by spleen lymphocytes and peritoneal macrophages. Added in vitro, thymulin decreased the peak of TNF-α production in macrophages cultivated with LPS. In addition, thymulin lowered the peak of Hsp70 production induced by LPS treatment. The results indicate that thymulin having significant anti-inflammatory effect may be promising in clinical application.
+
+Role of thymic peptides as transmitters between the neuroendocrine and immune systems.
+
+Number of 
+
+Key takeaways:Thymic peptides play a crucial role in regulating immune and neuroendocrine systems, and also serve as an interface between the immune, endocrine, and nervous systems.
+
+Abstract:Thymic peptides, a heterogenous family of polypeptidic hormones synthesized within the thymus, not only exert important regulatory effects within both the immune and neuroendocrine systems but are also themselves subject to control by hormones derived from the hypothalamic-pituitary-adrenal axis (HPA) and other endocrine glands. Regarding thymic hormonal function, thymulin production is up-regulated by several hormones, including prolactin, growth hormone and thyroid hormones. Other aspects of the physiology of thymic epithelial cells can also be modulated by hormones and neuropeptides, particularly cytokeratin expression, cell growth and production of extracellular matrix proteins, thus characterizing the pleiotrophic action of these molecules on the thymic epithelium. Conversely, thymic-derived peptides also regulate hormone release from the HPA axis and may act directly on target endocrine glands of this axis, modulating gonadal tissues. In addition, it has recently been shown that thymulin can modulate some peripheral nervous sensory functions, including those related to sensitivity to pain. According to the dose given, thymulin induces or reduces hyperalgesia related to both mechanical and thermal nociceptors and thus represents an important interface between the immune, endocrine and nervous systems.
+
+Thymus peptides regulate activity of RAW 264.7 macrophage cells: inhibitory analysis and a role of signal cascades
+
+Number of 
+
+Key takeaways:Thymic peptides thymulin and thymopentin effectively reduce inflammation by regulating innate immune cells and signaling cascades, potentially offering potential new therapies.
+
+Abstract:Objectives: The aim of this study was to reveal T-lymphocyte-independent mechanisms of thymic peptide-mediated immunomodulation. Methods: The effects of two thymic peptides— thymulin and thymopentin were studied in cultured RAW 264.7 macrophages (lipopolysaccharide-stimulated or unstimulated) by measuring cytokine production and signal protein levels. Results: Both peptides increased proinflammatory cytokine secretion by unstimulated RAW 264.7 macrophages and these effects were blocked by the NF-κB cascade inhibitor, stress-activated protein kinase (SAPK)/JNK cascade inhibitor and, to a lesser extent, Toll-like 4 receptor activity inhibitor. In macrophages stimulated by bacterial lipopolysaccharide, peptides alone did not affect cytokine secretion, but significantly enhanced effects of each of the inhibitors. Thymopentin increased activation of both NF-κB and SAPK/JNK cascades in unstimulated macrophages, while thymulin significantly decreased activation of the SAPK/JNK but not NF-κB cascade in LPS-stimulated macrophages. Thymulin and thymopentin increased production of the heat shock protein HSP72 both in LPS-stimulated and unstimulated cells. Conclusions: Thymulin and thymopentin are effective anti-inflammatory modulators with direct actions on innate immune cells; the effects involve multiple signal cascades, including NF-κB and SAPK/JNK pathways. Since signaling cascades are now considered to be targets for new therapies, thymic peptides may be prospective modulators of signaling cascades, acting alone or in combination with other agents.
+
+Thymulin and peroxiredoxin 6 have protective effects against streptozotocin-induced type 1 diabetes in mice
+
+Number of 
+
+Key takeaways:Thymulin and peroxiredoxin 6 show protective effects against streptozotocin-induced type 1 diabetes in mice, potentially serving as anti-inflammatory treatments for COVID-19 in diabetic patients.
+
+Abstract:Protective effects of peroxiredoxin 6 (PRDX6) in RIN-m5F β-cells and of thymulin in mice with alloxan-induced diabetes were recently reported. The present work was aimed at studying the efficiency of thymulin and PRDX6 in a type 1 diabetes mellitus model induced by streptozotocin in mice. Effects of prolonged treatment with PRDX6 or thymic peptide thymulin on diabetes development were evaluated. We assessed the effects of the drugs on the physiological status of diabetic mice by measuring blood glucose, body weight, and cell counts in several organs, as well as effects of thymulin and PRDX6 on the immune status of diabetic mice measuring concentrations of pro-inflammatory cytokines in blood plasma (TNF-α, interleukin-5 and 17, and interferon-γ), activity of NF-κB and JNK pathways, and Hsp90α expression in immune cells. Both thymulin and PRDX6 reduced the physiological impairments in diabetic mice at various levels. Thymulin and PRDX6 provide beneficial effects in the model of diabetes via very different mechanisms. Taken together, the results of our study indicated that the thymic peptide and the antioxidant enzyme have anti-inflammatory functions. As increasing evidences show diabetes mellitus as a distinct comorbidity leading to acute respiratory distress syndrome and increased mortality in patients with COVID-19 having cytokine storm, thymulin, and PRDX6 might serve as a supporting anti-inflammatory treatment in the therapy of COVID 19 in diabetic patients.
+
+Precursors of thymic peptides as stress sensors
+
+Number of 
+
+Key takeaways:Thymic hormone precursors act as stress sensors, linking somatic cells to immune and neuroendocrine systems, potentially leading to new therapeutic regimes.
+
+Abstract:ABSTRACT Introduction A large volume of data indicates that the known thymic hormones, thymulin, thymopoietin, thymosin-α, thymosin-β, and thymic humoral factor-y2, exhibit different spectra of activities. Although large in volume, available data are rather fragmented, resulting in a lack of understanding of the role played by thymic hormones in immune homeostasis. Area covered Existing data compartmentalizes the effect of thymic peptides into 2 categories: influence on immune cells and interconnection with neuroendocrine systems. The current study draws attention to a third aspect of the thymic peptide effect that has not been clarified yet, wherein ubiquitous and highly abundant intranuclear precursors of so called ‘thymic peptides’ play a fundamental role in all somatic cells. Expert opinion Our analysis indicated that, under certain stress-related conditions, these precursors are cleaved to form immunologically active peptides that rapidly leave the nucleus and intracellular spaces, to send ‘distress signals’ to the immune system, thereby acting as stress sensors. We propose that these peptides may form a link between somatic cells and immune as well as neuroendocrine systems. This model may provide a better understanding of the mechanisms underlying immune homeostasis, leading thereby to the development of new therapeutic regimes utilizing the characteristics of thymic peptides.
+
+In vitro lymphocyte-differentiating effects of thymulin (Zn-FTS) on lymphocyte subpopulations of severely malnourished children.
+
+Number of 
+
+Key takeaways:Thymulin effectively reduces immature T lymphocytes and increases mature T lymphocytes in severely malnourished children, improving their immune response.
+
+Abstract:This work investigates how thymic dysfunction contributes to the depression of cell-mediated immunity in protein-energy malnutrition (PEM). In Bolivian children hospitalized for severe PEM, the size of the thymus was measured by echography, and the lymphocyte subpopulations were detected by using monoclonal antibodies. These data were compared with those obtained from healthy control subjects. Regardless of the clinical form of PEM, our results show a high degree of T lymphocyte immaturity in severely malnourished children, which correlates with a severe involution of the thymus. Before in vitro incubation with thymulin, this significant increase in the percentage of circulating immature T lymphocytes was concomitant with a decrease in mature T lymphocytes and a slight increase in cytotoxic T subpopulations. After in vitro incubation with thymulin, immature T lymphocytes decreased and mature T lymphocytes increased.
+
+Immunomodulatory potential of thymulin-Zn(2+) in the alveolar epithelium: amelioration of endotoxin-induced cytokine release and partial amplification of a cytoprotective IL-10-sensitive pathway.
+
+Number of 
+
+Key takeaways:Thymulin acts as a novel dual immunoregulator by enhancing anti-inflammatory responses and depressing inflammation, with its effect amplified by cationic zinc in fetal alveolar epithelial cells.
+
+Abstract:The immunomodulatory potential of thymulin in the perinatal epithelium is not well characterized. In an in vitro model of fetal alveolar type II epithelial cells, we investigated the exhibition of an anti-inflammatory activity of this peptide hormone. Thymulin selectively ameliorated, in a dose-dependent manner, the endotoxin-induced release of IL-1 beta (IC(50) = 657 ng. ml(-1)), but showed no inhibitory effect on IL-6 and TNF-alpha. Zinc, an anti-inflammatory antioxidant, which is required for the biological activity of thymulin, reduced the secretion of IL-1 beta (IC(50) = 62 microM), TNF-alpha (IC(50) = 1000 microM), and, to a lesser extent, IL-6. This cation (100 microM) amplified the effect of thymulin on IL-1 beta and TNF-alpha (IC(50) < 0.1 ng. ml(-1)), but not on IL-6. Analysis of whether thymulin is up-regulating a counterpart anti-inflammatory signaling loop revealed the involvement of an IL-10-sensitive pathway. These results indicate that thymulin acts as a novel dual immunoregulator by enhancing an anti-inflammatory cytoprotective response and depressing an inflammatory signal, an effect synergistically amplified, in part, by cationic zinc.
+
+Thymic peptides restrain the inflammatory response in mice with experimental autoimmune encephalomyelitis.
+
+Number of 
+
+Key takeaways:Thymic peptides thymulin and thymopentin significantly reduce disease severity in mice with experimental autoimmune encephalomyelitis, with thymulin showing a longer-lasting effect.
+
+Regulation of Cytokine Production in Aging Mice
+
+Number of 
+
+Key takeaways:Injecting synthetic thymic peptides into aging mice can increase T-cell functions and cytokine production, potentially improving immune responses.
+
+Abstract:The thymus plays a central role in the development and maintenance of immunity and tolerance, as it provides the microenvironment for T-cell maturation and selection.' The intrathymic differentiation results mainly from cell-to-cell interactions between T-cell precursors and accessory (epithelial and dendritic) cells. Moreover, the thymus apparently secretes several hormone-like products that influence T-cell differentiation.'.3 Several extracts have been prepared from the thymus and their chemical characterization has led to the identification of the active peptides, some of which have been sequenced and synthesized.'-l? The synthetic peptides more extensively investigated are: thymosin a,, (28 aa), thymopentin (5 aa), thymulin (9 aa), whose activity is strictly dependent on the presence of zinc, and thymic humoral factor (THF)-y2 (8 aa). These synthetic peptides differ in amino acid sequence and biologic properties.I3 In our previous studies, we demonstrated that injection of thymosin a', thymopentin, or THF-y2 into aging mice can increase T-cell functions when spleen cells were tested in vitro for T helper cell activity, proliferative responses to T-cell mitogens, cytokine production, and expression of cytokine receptors. The effect of injected synthetic thymic peptides on T helper cell activity increased with an increase in the injected dose, but the efficiencies of THF-y2 and thymopentin were 400-fold and 8fold greater than that of thymosin aI, respectively." More recently, we investigated the production of cytokines, namely, interleukin2 (IL-2) and IL-4, by mitogen-stimulated spleen cells from aging mice when cultured with THF-y2 or a recombinant murine cytokine (IL-lp, IL-2, IL-3, IL-4, or IFN-y). Briefly, 4 x lo5 spleen cells from aging (C57BW10 x DBN2)Fl mice were stimulated in culture with mitogens (concanavalin A, 0.5 p.g/well and phorbol myristate acetate, 4 ng/well) alone or with mitogens and THF-y2 or a given cytokine in various concentrations. Each culture was set up in triplicate, in a final volume of 200 p.1. Spleen cell proliferation was assessed as follows. After 18 hours of incubation, cells in culture were seeded by centrifugation, and the supernatants were collected and substituted with medium containing tritiated thymidine (0.5 p. Ci/20 p.1, spec. act. 1.739 GBq/mmol). Four hours later, cultures were sacrificed with an automated cell harvester. Radioactivity was expressed as cpm/culture.
+
+Review of Thymic Peptides and Hormones: From Their Properties to Clinical Application
+
+Number of 
+
+Key takeaways:Thymic peptides and hormones have diverse therapeutic applications, including defense, immunomodulation, and tissue regeneration, with no side effects.
+
+Abstract:Abstract Background The thymus is the main lymphoid organ that regulates the functions of the immune system, protecting against pathogens, tumors, antigens, and mediators of tissue damage. It produces a family of hormone-like peptides that can modulate physiological processes such as stimulation or suppression of immune responses, angiogenesis, and wound healing. Objective This review aims to comprehensively characterize the properties of thymic peptides and their clinical applications. Methodology This article discusses the structure, biological properties, mechanism of action, and therapeutic applications of the most important thymic hormones (thymosin alpha 1, thymosin beta-4, thymulin, and thymopoietin), as well as preparations that are purified thymic extracts. Results Thymic peptides and extracts act in multiple manners on the immune system: they stimulate the differentiation and maturation of T cells, regulate the activity of natural killer cells and dendritic cells, and induce the release of proinflammatory cytokines, and their immunomodulatory effects have been confirmed in numerous clinical studies. An important feature of thymus preparations is their therapeutic safety—even long-term use does not cause side effects. Conclusions A wide range of therapeutic uses, i.e., from defensive and immunomodulatory tasks to participation in tissue regeneration processes, has led to the use of thymic peptides in the treatment of neoplastic diseases, viral infections, autoimmune diseases or immunodeficiencies. Further investigation of the mechanisms of action of thymic peptides may contribute to the discovery of new therapeutic targets.
+
+Extrathymic production of thymulin induced by oxidative stress, heat shock, apoptosis, or necrosis
+
+Number of 
+
+Key takeaways:Thymulin is produced by non-thymic cells during stress, with SPATS2L potentially being a potential precursor.
+
+Abstract:Thymic peptides are immune regulators produced mainly in the thymus. However, thymic peptides such as thymosin-α and thymopoietin have precursors widely expressed outside the thymus, localized in cell nuclei, and involved in vital nuclear functions. In stress-related conditions, they can relocalize. We hypothesized that another thymic peptide, thymulin, could be similarly produced by non-thymic cells during stress and have a precursor therein. Non-thymic cells, including macrophages and fibroblasts, were exposed to oxidative stress, heat, apoptosis, or necrosis. Extracellular thymulin was identified in media of both cell types 2 h after exposure to stress or lethal signals. Therefore, thymulin is released by non-thymic cells. To examine possible thymulin precursors in non-thymic cells, macrophage lysates were analyzed by western blotting. Bands stained with anti-thymulin antibody were detected in two locations, approximately 60 kDa and 10 kDa, which may be a possible precursor and intermediate. All of the exposures except for heat were effective for induction of the 10 kDa protein. BLAST search using thymulin sequence identified SPATS2L, an intranucleolar stress-response protein with molecular weight of 62 kDa, containing thymulin-like sequence. Comparisons of blots stained with anti-thymulin and anti-SPATS2L antibodies indicate that SPATS2L may be a possible candidate for the precursor of thymulin.
+
+Effect of the synthetic pineal peptide epitalon on spontaneous carcinogenesis in female C3H/He mice.
+
+Number of 
+
+Key takeaways:Epitalon treatment effectively reduces spontaneous tumor growth and prevents metastases in female mice, with no toxic effects observed.
+
+Abstract:The potential preventive effect of the synthetic pineal peptide Epitalon (Ala-Glu-Asp-Gly) on spontaneous tumorigenesis in mice was studied. One-year-old female C3H/He mice were kept for 6.5 months under standard conditions. Epitalon was injected at a dose of 0.1 microg, 5 times a week. Long-term exposure to Epitalon in small doses did not show any toxic effect. Treatment with Epitalon decreased the number of tumor-bearing mice with malignant tumors and prevented the development of metastases. Spontaneous tumors of the reproductive organs (mammary glands and ovaries) were predominant in both groups of mice (control and experimental). The mammary gland tumors were different variants of invasive ductal carcinomas. In the ovaries, granulosa-cell tumors were found. Tumors were in the minority in other organs and had benign characteristics. In control mice, metastases were found in 3 out of 9 tumor-bearing mice, all of them being from tumors of the reproductive organs. Treatment with Epitalon slowed down the development of metastases from spontaneous tumors, and no metastases were found in the experimental mice. These data highlight the antimetastatic effect of Epitalon as part of its oncostatic properties.
+
+Peptide‐based therapeutic cancer vaccine: Current trends in clinical application
+
+Number of 
+
+Key takeaways:Peptide-based therapeutic cancer vaccines show significant clinical benefits when combined with other therapies, offering a promising treatment option for cancer immunotherapy.
+
+Abstract:The peptide‐based therapeutic cancer vaccines have attracted enormous attention in recent years as one of the effective treatments of tumour immunotherapy. Most of peptide‐based vaccines are based on epitope peptides stimulating CD8+ T cells or CD4+ T helper cells to target tumour‐associated antigens (TAAs) or tumour‐specific antigens (TSAs). Some adjuvants and nanomaterials have been exploited to optimize the efficiency of immune response of the epitope peptide to improve its clinical application. At present, numerous peptide‐based therapeutic cancer vaccines have been developed and achieved significant clinical benefits. Similarly, the combination of peptide‐based vaccines and other therapies has demonstrated a superior efficacy in improving anti‐cancer activity. We delve deeper into the choices of targets, design and screening of epitope peptides, clinical efficacy and adverse events of peptide‐based vaccines, and strategies combination of peptide‐based therapeutic cancer vaccines and other therapies. The review will provide a detailed overview and basis for future clinical application of peptide‐based therapeutic cancer vaccines.
+
+Development of Peptide-Based Vaccines for Cancer
+
+Number of 
+
+Key takeaways:Peptide-based cancer vaccines show promise, but optimal antigen targets, adjuvants, and immunization regimens need to be optimized for clinical safety and effectiveness.
+
+Abstract:Peptides cancer vaccines are designed based on the epitope peptides that can elicit humoral and cellular immune responses targeting tumor-associated antigens (TAAs) or tumor-specific antigens (TSAs). In order to develop a clinically safe and more effective vaccine for the future, several issues need to be addressed, and these include the selection of optimal antigen targets, adjuvants, and immunization regimens. Another emerging approach involves the use of personalized peptide-based vaccines based on neoantigens to enhance antitumor response. Rationally designed combinatorial therapy is currently being investigated with chemotherapeutic drugs or immune checkpoint inhibitor therapies to improve the efficacy. This review discusses an overview of the development of peptide-based vaccines, the role of adjuvants, and the delivery systems for peptide vaccines as well as combinatorial therapy as potential anticancer strategies.
+
+Inhibitory effect of the peptide epitalon on the development of spontaneous mammary tumors in HER‐2/neu transgenic mice
+
+Number of 
+
+Key takeaways:Epitalon inhibits spontaneous mammary tumor development in HER-2/neu mice, potentially due to a downregulation of HER-2/neu gene expression in mammary adenocarcinoma.
+
+Abstract:Female FVB/N HER‐2/neu transgenic mice from the age of 2 months were subcutaneously injected with saline, the peptide Epitalon® (Ala‐Glu‐Asp‐Gly) or with the peptide Vilon® (Lys‐Glu) in a single dose of 1 μg/mouse for 5 consecutive days every month. Epitalon treatment reduced the cumulative number and the maximum size of tumors (p < 0.05). Furthermore, the number of mice bearing 1 mammary tumor was increased, whereas the number of mice bearing 2 or more mammary tumors was reduced in Epitalon‐treated in comparison to saline‐treated animals (p < 0.05). The size but not the number of lung metastases was reduced in Epitalon‐treated compared to saline‐treated mice (p < 0.05). The treatment with Vilon produced significant negative effects when compared to the control group, with an increased incidence of mammary cancer development (p < 0.05), a shorter mean latent period of tumors (p < 0.05) and an increased cumulative number of tumors (p < 0.05). A 3.7‐fold reduction in the expression of HER‐2/neu mRNA was found in mammary tumors from HER‐2/neu transgenic mice treated with Epitalon compared to control animals. The expression of mRNA for HER‐2/neu was also partially reduced in Vilon‐treated mice, but it remained significantly higher in Vilon‐ than in Epitalon‐treated animals (1.9‐fold increase). The data demonstrate the inhibitory effect of Epitalon in the development of spontaneous mammary tumors in HER‐2/neu mice, suggesting that a downregulation of HER‐2/neu gene expression in mammary adenocarcinoma may be responsible, at least in part, for the antitumor effect of the peptide. © 2002 Wiley‐Liss, Inc.
+
+Peptide-based vaccine for cancer therapies
+
+Number of 
+
+Key takeaways:Peptide-based cancer vaccines show promise in preclinical studies, but their limited efficacy in clinical trials is due to factors such as specific target antigen identification, limited immunogenicity, and the highly immunosuppressive tumor microenvironment.
+
+Abstract:Different strategies based on peptides are available for cancer treatment, in particular to counter-act the progression of tumor growth and disease relapse. In the last decade, in the context of therapeutic strategies against cancer, peptide-based vaccines have been evaluated in different tumor models. The peptides selected for cancer vaccine development can be classified in two main type: tumor-associated antigens (TAAs) and tumor-specific antigens (TSAs), which are captured, internalized, processed and presented by antigen-presenting cells (APCs) to cell-mediated immunity. Peptides loaded onto MHC class I are recognized by a specific TCR of CD8+ T cells, which are activated to exert their cytotoxic activity against tumor cells presenting the same peptide-MHC-I complex. This process is defined as active immunotherapy as the host’s immune system is either de novo activated or restimulated to mount an effective, tumor-specific immune reaction that may ultimately lead to tu-mor regression. However, while the preclinical data have frequently shown encouraging results, therapeutic cancer vaccines clinical trials, including those based on peptides have not provided satisfactory data to date. The limited efficacy of peptide-based cancer vaccines is the consequence of several factors, including the identification of specific target tumor antigens, the limited immunogenicity of peptides and the highly immunosuppressive tumor microenvironment (TME). An effective cancer vaccine can be developed only by addressing all such different aspects. The present review describes the state of the art for each of such factors.
+
+Thymus-derived hormonal and cellular control of cancer
+
+Number of 
+
+Key takeaways:Thymus-derived hormones and cytokines can influence cancer treatment outcomes by regulating immune cells and influencing tumor cell biology.
+
+Abstract:The thymus gland is a central lymphoid organ in which developing T cell precursors, known as thymocytes, undergo differentiation into distinct type of mature T cells, ultimately migrating to the periphery where they exert specialized effector functions and orchestrate the immune responses against tumor cells, pathogens and self-antigens. The mechanisms supporting intrathymic T cell differentiation are pleiotropically regulated by thymic peptide hormones and cytokines produced by stromal cells in the thymic microenvironment and developing thymocytes. Interestingly, in the same way as T cells, thymic hormones (herein exemplified by thymosin, thymulin and thymopoietin), can circulate to impact immune cells and other cellular components in the periphery. Evidence on how thymic function influences tumor cell biology and response of patients with cancer to therapies remains unsatisfactory, although there has been some improvement in the knowledge provided by recent studies. Herein, we summarize research progression in the field of thymus-mediated immunoendocrine control of cancer, providing insights into how manipulation of the thymic microenvironment can influence treatment outcomes, including clinical responses and adverse effects of therapies. We review data obtained from clinical and preclinical cancer research to evidence the complexity of immunoendocrine interactions underpinning anti-tumor immunity.
+
+Epitalon and colon carcinogenesis in rats: proliferative activity and apoptosis in colon tumors and mucosa.
+
+Number of 
+
+Key takeaways:Epitalon effectively inhibits colon carcinogenesis in rats when treated throughout the experiment, promoting lymphoid infiltration and stromal growth.
+
+Abstract:The effect of the synthetic pineal peptide Epitalon (Ala-Glu-Asp-Gly) on proliferative activity in colon tumors, and in mucosal epithelial cells adjacent to and located far from tumors was studied in rats. To evaluate the effect of Epitalon on different stages of carcinogenesis, different treatment regimens were used: during the tumor initiation stage, during the tumor-promotion stage, or during the entire process of tumor development. Eighty 2-month-old male LIO rats were exposed weekly to five subcutaneous injections of 1,2-dimethylhydrazine (DMH) at a single dose of 21 mg/kg body weight. Rats were divided into four groups. Control rats (group 1) received saline at a dose of 0.1 ml during the entire experiment. Rats in group 2 were treated with Epitalon at a dose of 1 micro g, five times a week, for 6 months, from the first injection of DMH till the end of the experiment. Rats in group 3 were treated with Epitalon after termination of the carcinogen injections. Rats in group 4 were treated with Epitalon only during the period of DMH exposure (for the first 5 weeks of the experiment). DMH induced proliferation of the secretory epithelium, and this phenomenon was accompanied by a decrease in the size of the stromal area and the area of lymph infiltration in colon tumors and in the colon mucosa adjacent to the tumors (group 1). Epitalon attenuated this effect, especially when the treatment was continued throughout the experiment (group 2). It increased the stromal areas, as well as that of lymphoid infiltration in the colon mucosa adjacent to the tumors. The intensity of lymphoid infiltration was activated in both the colon mucosa adjacent to a tumor and in the tumor. Mitotic activity of tumor cells was significantly inhibited by Epitalon when the treatment was given throughout the experiment (group 2). In parallel, a high level of apoptosis was seen in the same group. Thus, the strongest inhibitory effect of Epitalon on carcinogenesis in the colon mucosa was manifested when the treatment was continued throughout the experiment.
+
+Peptides as cancer vaccines.
+
+Number of 
+
+Key takeaways:Peptide cancer vaccines are a safe, well-tolerated immunotherapy that stimulate tumor-reactive T cells, but their clinical efficacy lags behind other immunotherapies like immune checkpoint blockade.
+
+The intrapleural administration with thymic peptides in malignant pleural effusion: A clusteredsystematicreview and meta-analysis.
+
+Number of 
+
+Key takeaways:Thymic peptides combined with oxaliplatin significantly improve clinical responses, antitumor immunity, and overall survival in malignant pleural effusion from lung cancer.
+
+Regulating cancer associated fibroblasts with losartan-loaded injectable peptide hydrogel to potentiate chemotherapy in inhibiting growth and lung metastasis of triple negative breast cancer.
+
+Number of 
+
+Key takeaways:Injectable peptide hydrogels can effectively inhibit cancer-associated fibroblasts and enhance chemotherapy in triple negative breast cancer treatment.
+
+Clinical efficacy and safety of synthetic thymic peptides with chemotherapy for non-small cell lung cancer in China: A systematic review and meta-analysis of 27 randomized controlled trials following the PRISMA guidelines.
+
+Number of 
+
+Key takeaways:Synthetic thymic peptides, particularly thymosin 1, combined with chemotherapy significantly improve patient quality of life and survival rates in non-small cell lung cancer.
+
+Peptides Regulating Proliferative Activity and Inflammatory Pathways in the Monocyte/Macrophage THP-1 Cell Line
+
+Number of 
+
+Key takeaways:The Khavinson Peptides® act as natural inducers of TNF tolerance in monocytes and act as anti-inflammatory molecules on macrophages during inflammatory and microbial-mediated activity.
+
+Abstract:This study evaluates the effects of five different peptides, the Epitalon® tetrapeptide, the Vilon® dipeptide, the Thymogen® dipeptide, the Thymalin® peptide complex, and the Chonluten® tripeptide, as regulators of inflammatory and proliferative processes in the human monocytic THP-1, which is a human leukemia monocytic cell line capable of differentiating into macrophages by PMA in vitro. These peptides (Khavinson Peptides®), characterized by Prof. Khavinson from 1973 onwards, were initially isolated from animal tissues and found to be organ specific. We tested the capacity of the five peptides to influence cell cultures in vitro by incubating THP-1 cells with peptides at certain concentrations known for being effective on recipient cells in culture. We found that all five peptides can modulate key proliferative patterns, increasing tyrosine phosphorylation of mitogen-activated cytoplasmic kinases. In addition, the Chonluten tripeptide, derived from bronchial epithelial cells, inhibited in vitro tumor necrosis factor (TNF) production of monocytes exposed to pro-inflammatory bacterial lipopolysaccharide (LPS). The low TNF release by monocytes is linked to a documented mechanism of TNF tolerance, promoting attenuation of inflammatory action. Therefore, all peptides inhibited the expression of TNF and pro-inflammatory IL-6 cytokine stimulated by LPS on terminally differentiated THP-1 cells. Lastly, by incubating the THP1 cells, treated with the peptides, on a layer of activated endothelial cells (HUVECs activated by LPS), we observed a reduction in cell adhesion, a typical pro-inflammatory mechanism. Overall, the results suggest that the Khavinson Peptides® cooperate as natural inducers of TNF tolerance in monocyte, and act on macrophages as anti-inflammatory molecules during inflammatory and microbial-mediated activity.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

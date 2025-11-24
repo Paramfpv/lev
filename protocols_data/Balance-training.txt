@@ -1,0 +1,415 @@
+PROTOCOL: Balance training
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: 
+DESCRIPTION: Balance training supports the musculoskeletal system by improving stability and functionality in daily activities. Regular exercises reduce the risk of falls, correct muscle imbalances, and increase movement efficiency. Benefits include better mobility, reduced pain in patients with joint diseases, and improved athletic performance.
+
+CONTENT SECTIONS:
+
+Enhancing balance and postural control
+
+Balance training supports the musculoskeletal system by improving stability and functionality in daily activities. Regular exercises reduce the risk of falls, correct muscle imbalances, and increase movement efficiency. Benefits include better mobility, reduced pain in patients with joint diseases, and improved athletic performance.
+
+Level of evidence:Strong
+
+Level of risk:Negligible
+
+By performing controlled tasks on unstable surfaces, training activates deep muscles and proprioceptive receptors, which strengthens stabilizing reflexes. Neuromuscular adaptations increase the precision and speed of reactions to balance disturbances. Repetition of movements leads to long-term strengthening of neuromuscular connections and improved coordination.
+
+Level of risk:Negligible
+
+Balance training is generally well tolerated, but it may cause temporary musculoskeletal discomfort and dizziness if performed with improper technique.
+
+Balance training is not recommended for people with certain orthopedic, neurological, or vestibular conditions without specialist supervision.
+
+2–3 sessions per week
+
+20–30 minutes per session
+
+Exercises on unstable surfaces (BOSU, ball, balance board)
+
+First effects after 4–6 weeks of regular exercise
+
+Preferably in the morning or immediately after strength training
+
+Difficulty progression
+
+Increase instability by reducing the support surface and gradually closing your eyes.
+
+Combining with strength training
+
+Perform balance exercises after your strength session to improve proprioception and stability.
+
+Exercise near a wall or with a partner for support, especially at the beginning.
+
+Stick to your schedule – consistency is key to maintaining effects.
+
+Musculoskeletal system
+
+Regular balance training improves postural control, functionality, and stability of the musculoskeletal system, supports muscle strength, and reduces muscle imbalance.
+
+Mechanisms and limitations
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:40
+
+Final comment:Strong evidence results from the presence of numerous meta-analyses of randomized controlled trials and systematic reviews, which include a total number of participants in the thousands. The results are consistent across different populations (healthy individuals, athletes, orthopedic patients), and the effect sizes (standardized mean differences) are often large, confirming the real and repeatable impact of balance training on improving postural control, functionality, and muscle strength.
+
+Balance training for neuromuscular control and performance enhancement: a systematic review.
+
+Number of 
+
+Key takeaways:Balance training can improve postural and neuromuscular control, but more research is needed to confirm its effectiveness in athletic performance and neuromuscular control.
+
+Abstract:OBJECTIVE
+As a result of inconsistencies in reported findings, controversy exists regarding the effectiveness of balance training for improving functional performance and neuromuscular control. Thus, its practical benefit in athletic training remains inconclusive. Our objective was to evaluate the effectiveness of training interventions in enhancing neuromuscular control and functional performance.
+
+DATA SOURCES
+Two independent reviewers performed a literature search in Cochrane Bone, Joint and Muscle Trauma Group Register and Cochrane Controlled Trials Register, MEDLINE, EMBASE, PEDro (Physiotherapy Evidence Database), and SCOPUS.
+
+STUDY SELECTION
+Randomized controlled trials and controlled trials without randomization with healthy and physically active participants aged up to 40 years old were considered for inclusion. Outcomes of interest were postural control, muscle strength, agility, jump performance, sprint performance, muscle reflex activity, rate of force development, reaction time, and electromyography.
+
+DATA EXTRACTION
+Data of interest were methodologic assessment, training intervention, outcome, timing of the outcome assessment, and results. Standardized mean differences and 95% confidence intervals were calculated when data were sufficient.
+
+DATA SYNTHESIS
+In total, 20 randomized clinical trials met the inclusion criteria. Balance training was effective in improving postural sway and functional balance when compared with untrained control participants. Larger effect sizes were shown for training programs of longer duration. Although controversial findings were reported for jumping performance, agility, and neuromuscular control, there are indications for the effectiveness of balance training in these outcomes. When compared with plyometric or strength training, conflicting results or no effects of balance training were reported for strength improvements and changes in sprint performance.
+
+CONCLUSIONS
+We conclude that balance training can be effective for postural and neuromuscular control improvements. However, as a result of the low methodologic quality and training differences, further research is strongly recommended.
+
+Beyond physiology: Acute effects of side-alternating whole-body vibration on well-being, flexibility, balance, and cognition using a light and portable platform A randomized controlled trial
+
+Number of 
+
+Key takeaways:One SS-WBV training session significantly improves musculoskeletal well-being, flexibility, balance, and cognition, making it a practical and portable method to prevent slips, trips, and falls at work.
+
+Abstract:A good body-balance helps to prevent slips, trips and falls. New body-balance interventions must be explored, because effective methods to implement daily training are sparse. The purpose of the current study was to investigate acute effects of side-alternating whole-body vibration (SS-WBV) training on musculoskeletal well-being, flexibility, body balance, and cognition. In this randomized controlled trial, participants were randomly allocated into a verum (8.5 Hz, SS-WBV, N = 28) or sham (6 Hz, SS-WBV, N = 27) condition. The training consisted of three SS-WBV series that lasted one-minute each with two one-minute breaks in between. During the SS-WBV series, participants stood in the middle of the platform with slightly bent knees. During the breaks in between, participants could loosen up. Flexibility (modified fingertip-to-floor method), balance (modified Star Excursion Balance Test), and cognitive interference (Stroop Color Word Test) were tested before and after the exercise. Also, musculoskeletal well-being, muscle relaxation, sense of flexibility, sense of balance, and surefootedness were assessed in a questionnaire before and after the exercise. Musculoskeletal well-being was significantly increased only after verum. Also, muscle relaxation was significantly higher only after verum. The Flexibility-Test showed significant improvement after both conditions. Accordingly, sense of flexibility was significantly increased after both conditions. The Balance-Test showed significant improvement after verum, and after sham. Accordingly, increased sense of balance was significant after both conditions. However, surefootedness was significantly higher only after verum. The Stroop-Test showed significant improvement only after verum. The current study shows that one SS-WBV training session increases musculoskeletal well-being, flexibility, body balance and cognition. The abundance of improvements on a light and portable platform has great influence on the practicability of training in daily life, aiming to prevent slip trips and falls at work.
+
+The Effect of Balance Training on Functional Outcomes in Patients with Knee Osteoarthritis: A Systematic Review
+
+Number of 
+
+Key takeaways:Balance exercises significantly improve balance and functionality in knee osteoarthritis patients, but their effect on muscle strength remains unclear due to limited research.
+
+Abstract:Background: Knee osteoarthritis (OA) is a common musculoskeletal disorder that is associated with balance impairment. Recent studies have used balance exercises for improvement of balance and functional performance among knee OA patients. The purpose of this study was analyzing the effects of balance training in patients with knee OA. Methods: This review included clinical trials in which the effect of balance training on functional measures was assessed compared to other physiotherapy interventions or control groups in patients with knee OA. To this aim, Electronic databases (PubMed, SCOPUS, EMBASE, PEDro, CINAHL, and WOS) were searched from 1 January 1990 to 30 June 2021. Two independent reviewers selected the studies, extracted the data, and assessed the quality of the studies. Results: Fifteen articles of clinical trials were eligible to include in this review. Most studies used patient-reported outcome measures, and some studies used performance-based functional outcome measures for the evaluation of functional outcomes. The findings of studies showed that physical function in knee OA patients could have clinical improvements significantly after receiving balance training. However, studies assessing the effect of balance training on muscle strength of the quadriceps and the hamstring had conflicting results. Also, the finding of studies showed that more significant improvement in postural stability and balance in the balance training group rather than the control group. Conclusion: The results of the current systematic review demonstrate balance exercises significantly improve balance and functionality in knee OA patients. However, the effect of balance training on muscle strength was not clearly revealed due to few studies.
+
+Gain in Strength and Muscular Balance After Balance Training
+
+Number of 
+
+Key takeaways:Balance training effectively improves muscular strength and helps equalize muscular imbalances, unlike strength training alone.
+
+Abstract:The isolated effect of balance training on muscle strength of the flexors and extensors of the knee, without accompanying strength training, has not been addressed in the past. Effects of a balance training program alone were compared to a strength training program. Balance and strength training were performed by 15 persons each for 6 weeks including 12 training units of 25 min. Balance training was performed on instability training devices such as rolling board, mini trampoline and large rubber ball. The 15 persons of the strength training group trained on machines for leg curls and on leg presses for 25 min per unit. Measurements for balance were performed with one-leg balance on a narrow edge and a tilting stabilometer for 30 s; maximum isometric strength was measured using an isokinetic device for each leg separately. The muscular balance between dominant and non-dominant leg was calculated. Strength gain was similar for the flexors and extensors in both groups. One-leg balance improved after balance training (P< 0.01) with a 100% increase over the strength training group (P < 0.05) and the stabilometer test for each person in the balance (P < 0.01), but not in the strength training group. In the balance group the initial difference between right and left diminished. The results indicate balance training to be effective for gain in muscular strength, and secondly, in contrast to strength training, equalisation of muscular imbalances may be achieved after balance training.
+
+Dynamic Balance Training Improves Physical Function in Individuals With Knee Osteoarthritis: A Pilot Randomized Controlled Trial.
+
+Number of 
+
+Key takeaways:A 10-week dynamic balance training program significantly improved self-reported knee pain, physical function, and fear of movement in individuals with knee osteoarthritis, but did not affect dynamic balance as measured by the Community Balance and Mobility Scale.
+
+Effects of balance training on functionality, ankle instability, and dynamic balance outcomes in people with chronic ankle instability: Systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Balance training significantly improves functionality, instability, and dynamic balance in people with chronic ankle instability, with greater benefits for functionality compared to strength training.
+
+Abstract:Aim: To identify the effects of balance and strength training on function, ankle instability and dynamic balance in people with chronic ankle instability. Method: The search was conducted on randomized controlled trials that investigated the effects of balance training or strength training in people with chronic ankle instability compared to a control group. Therefore, a systematic electronic search was performed until April 2021 in Pubmed/MEDLINE, Cochrane, and Embase databases. Moreover, an additional search was further performed checking the reference lists of the selected articles. The main outcomes were ankle instability, functionality, and dynamic balance. Finally, a qualitative and quantitative synthesis was performed. Results: Fifteen randomized controlled trials with 457 volunteers were included. Compared to regular exercise, balance training demonstrated to be more effective in terms of improving functionality (0.81 (0.48, 1.14)), ankle instability (0.77 (0.27, 1.26)), and dynamic balance (0.83 (0.57, 1.10)) outcomes. However, when compared to strength training, the effectiveness of balance training was only greater in terms of the functionality outcome (0.49 (0.06, 0.92)), since no differences were found for instability (0.43 (0.00, 0.85)) and dynamic balance (0.21 (−0.15, 0.58)). Conclusions: Based on fair-to-high quality evidence, balance training significantly improves functionality, instability, and dynamic balance outcomes in people with chronic ankle instability Moreover, results of the comparison between balance training versus strength training suggest that the former achieves greater benefits for functionality, but not for instability and dynamic balance. Systematic review registration number: CRD42021224179.
+
+Effects of Balance Training on Physical Fitness in Youth and Young Athletes: A Narrative Review
+
+Number of 
+
+Key takeaways:Balance training improves postural control and can enhance other physical fitness measures in youth and young athletes, such as muscle strength and jump performance.
+
+Abstract:Balance training (BT) is a wellestablished training type in many sports and is used to improve postural control. There is evidence that performance enhancements after BT can even translate to other physical fitness measures such as muscle strength and jump performance. Accordingly, this narrative review summarizes the effects of BT on balance performance in youth/young athletes and describes how acute and chronic BT-specific adaptations translate to other physical fitness outcomes. In addition, recent findings on sequencing effects of balance and strength training will be reported. Finally, established doseresponse relationships with BT in youth will be presented together with a progression sequence.
+
+A systematic review and meta-analysis of balance training in patients with chronic ankle instability
+
+Number of 
+
+Key takeaways:Balance training significantly improves daily activity capability, motor function, and dynamic balance in patients with chronic ankle instability, with a more pronounced impact on functional scale scores.
+
+Abstract:Abstract Background Chronic ankle instability (CAI) is a common yet serious problem for elder patients. This meta-analysis aimed to evaluate the effects of balance training for CAI, to provide evidence for the clinical treatment, and care of CAI patients. Methods Two investigators searched PubMed, EMBASE, Science Direct, Web of Science, Cochrane Library, China National Knowledge Infrastructure, Wanfang, and Weipu Databases up to May 20, 2023, for randomized controlled trials (RCTs) on the effects of balance training for CAI. The mean difference (MD) with 95% confidence intervals (95%CIs) was calculated for each outcome with a fixed or random effect model. Review Manager 5.3 software was used for meta-analysis. Results Nine RCTs involving 341 patients were included. Meta-analysis results showed that compared with blank controls, balanced training treatment of CAI could significantly improve the score of CAI , SEBT-PM , SEBT-PL , and FAAM Sports . Compared with strength training, balance training treatment of CAI improved the score of CAIT , FAAM-ADL . Conclusion The analysis outcomes indicate that balance training enhances daily activity capability, motor function, and dynamic balance to different extents. Additionally, when comparing the results of balance training and strength training, no significant difference was observed between the two methods in improving the dynamic stability of CAI patients. However, it is noteworthy that balance training exhibits a more pronounced impact on enhancing functional scale scores.
+
+Balance training benefits chronic ankle instability with generalized joint hypermobility: a prospective cohort study
+
+Number of 
+
+Key takeaways:Balance training is an effective treatment for chronic ankle instability in patients with generalized joint hypermobility, improving postural stability and muscle strength.
+
+Abstract:Balance training is the first choice of treatment for chronic ankle instability (CAI). However, there is a lack of research on the effects of balance training in CAI with generalized joint hypermobility (GJH). This study is to compare the outcomes of balance training in CAI patients with and without GJH.Forty CAI patients were assigned into the GJH group (Beighton ≥ 4, 20) and non-GJH group (Beighton < 4, 20) and they received same 3-month supervised balance training. Repeated measure ANOVA and independent t test were used to analyze self-reported questionnaires (Foot and ankle ability measure, FAAM), the number of patients experiencing ankle sprain, isokinetic muscle strength and postural control tests (Star excursion balance test, SEBT and Balance errors system, BES) before training, post-training immediately, and post-training 3 months, respectively.At baseline, no differences were found between groups with except for GJH group having poorer SEBT in the posteromedial direction (83.6 ± 10.1 vs 92.8 ± 12.3, %) and in the posterolateral direction (84.7 ± 11.7 vs 95.7 ± 8.7, %). Following the balance training, GJH group demonstrated lower re-sprain ratio (immediately after training, 11.1% vs 23.5%, 3 month after training, 16.7% vs 29.4%) than non-GJH group, as well as greater FAAM-S score, plantarflexion strength and dorsiflexion strength at post-training immediately and 3 months, and both groups improved similarly in the FAAM-A score, muscle strength and balance control (SEBT in the posterior-lateral and posterior-medial directions, and BES scores) compared with baseline.CAI patients with GJH gained equally even better postural stability and muscle strength after the balance training than the non-GJH patients. Balance training could still be an effective treatment for CAI patients with GJH before considering surgery.ChiCTR1900023999, June 21st, 2019.
+
+Balance Training Programs in Athletes – a Systematic Review
+
+Number of 
+
+Key takeaways:An efficient balance training protocol for athletes should last 8 weeks, consisting of two training sessions per week, and last 45 minutes.
+
+Abstract:Abstract It has become almost routine practice to incorporate balance exercises into training programs for athletes from different sports. However, the type of training that is most efficient remains unclear, as well as the frequency, intensity and duration of the exercise that would be most beneficial have not yet been determined. The following review is based on papers that were found through computerized searches of PubMed and SportDiscus from 2000 to 2016. Articles related to balance training, testing, and injury prevention in young healthy athletes were considered. Based on a Boolean search strategy the independent researchers performed a literature review. A total of 2395 articles were evaluated, yet only 50 studies met the inclusion criteria. In most of the reviewed articles, balance training has proven to be an effective tool for the improvement of postural control. It is difficult to establish one model of training that would be appropriate for each sport discipline, including its characteristics and demands. The main aim of this review was to identify a training protocol based on most commonly used interventions that led to improvements in balance. Our choice was specifically established on the assessment of the effects of balance training on postural control and injury prevention as well as balance training methods. The analyses including papers in which training protocols demonstrated positive effects on balance performance suggest that an efficient training protocol should last for 8 weeks, with a frequency of two training sessions per week, and a single training session of 45 min. This standard was established based on 36 reviewed studies.
+
+Specificity of Balance Training in Healthy Individuals: A Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:Balance training in healthy individuals can improve performance in trained balance tasks, but may have minor or no effects on non-trained tasks.
+
+Abstract:BackgroundIt has become common practice to incorporate balance tasks into the training program for athletes who want to improve performance and prevent injuries, in rehabilitation programs, and in fall prevention programs for the elderly. However, it is still unclear whether incorporating balance tasks into a training program increases performance only in these specific tasks or if it affects balance in a more general way.ObjectivesThe objective of this systematic literature review and meta-analysis was to determine to what extent the training of balance tasks can improve performance in non-trained balance tasks.Data SourcesA systematic literature search was performed in the online databases EMBASE, PubMed, SPORTDiscus and Web of Science. Articles related to balance training and testing in healthy populations published between January 1985 and March 2015 were considered.Study Eligibility CriteriaA total of 3093 articles were systematically evaluated. Randomized controlled trials were included that (i) used only balance tasks during the training, (ii) used at least two balance tests before and after training, and (iii) tested performance in the trained balance tasks and at least one non-trained balance task. Six studies with a total of 102 subjects met these criteria and were included into the meta-analysis.Study Appraisal and Synthesis MethodsThe quality of the studies was evaluated by means of the Physiotherapy Evidence Database (PEDro) scale. A random effect model was used to calculate the between-subject standardized mean differences (SMD_bs) in order to quantify the effect of balance training on various kinds of balance measures relative to controls. The tested balance tasks in each study were classified into tasks that had been trained and tasks that had not been trained. For further analyses, the non-trained balance tasks were subdivided into tasks with similar or non-similar body position and similar or non-similar balance perturbation direction compared to the trained task.ResultsThe effect of balance training on the performance of the trained balance tasks reached an SMD_bs of 0.79 , indicating a high effect in favor for the trained task, with no notable heterogeneity (I
+^2 = 0 %). The SMD_bs in non-trained categories reached values between −0.07 (95 % CI −0.53 to 0.38) and 0.18 (95 % CI −0.27 to 0.64), with non-notable to moderate heterogeneity (I
+^2 = 0–32 %), indicating no effect of the balance training on the respective non-trained balance tasks.LimitationsWith six studies, the number of studies included in this meta-analysis is rather low. It remains unclear how the limited number of studies with considerable methodological diversity affects the outcome of the SMD calculations and thus the general outcome of the meta-analysis.ConclusionIn healthy populations, balance training can improve the performance in trained tasks, but may have only minor or no effects on non-trained tasks. Consequently, therapists and coaches should identify exactly those tasks that need improvement, and use these tasks in the training program and as a part of the test battery that evaluates the efficacy of the training program. Generic balance tasks—such as one-leg stance—may have little value as overall balance measures or when assessing the efficacy of specific training interventions.
+
+EFFECTS OF BALANCE TRAINING ON SELECTED SKILLS
+
+Number of 
+
+Key takeaways:A 4-week balance training program improved performance in selected sport-related activities and postural control measures, but its impact on general functional enhancement remains unclear.
+
+Abstract:The purpose of this study was to determine the effect of a 4-week balance training program on specified functional tasks. Thirty-six subjects (age = 22.7 ± 2.10 years; height = 168.30 ± 9.55 cm; weight = 71.15 ± 16.40 kg) were randomly placed into control (C; n = 19) and experimental groups (Tx; n = 17). The Tx group trained using a commercially available balance training device (BOSU). Postural limits (displacement and sway) and functional task (time on ball, shuttle run, and vertical jump) were assessed during a pretest (T1), a posttest (T2), and 2 weeks posttraining (T3). Multivariate repeated measures analysis (a = 0.05) revealed significant differences in time on ball, shuttle run, total sway, and fore/aft displacement after the exercise intervention (T2). T3 assessment revealed that total sway and time on ball remained controlled; however, no other measures were retained. Balance training improved performance of selected sport-related activities and postural control measures, although it is unclear whether the effect of training would transfer to general functional enhancement.
+
+Effects of Balance Training on Balance Performance in Healthy Older Adults: A Systematic Review and Meta-analysis
+
+Number of 
+
+Key takeaways:Balance training effectively improves static/dynamic steady-state, proactive, and reactive balance in healthy older adults, with optimal results from 11-12 weeks of training, three sessions per week.
+
+Abstract:The effects of balance training (BT) in older adults on proxies of postural control and mobility are well documented in the literature. However, evidence-based dose–response relationships in BT modalities (i.e., training period, training frequency, training volume) have not yet been established in healthy older adults. The objectives of this systematic literature review and meta-analysis are to quantify BT intervention effects and to additionally characterize dose–response relationships of BT modalities (e.g., training period, training frequency) through the analysis of randomized controlled trials (RCTs) that could maximize improvements in balance performance in healthy community-dwelling older adults. A computerized systematic literature search was performed in the electronic databases PubMed and Web of Science from January 1985 up to January 2015 to capture all articles related to BT in healthy old community-dwelling adults. A systematic approach was used to evaluate the 345 articles identified for initial review. Only RCTs were included if they investigated BT in healthy community-dwelling adults aged ≥65 years and tested at least one behavioral balance performance outcome (e.g., center of pressure displacements during single-leg stance). In total, 23 studies met the inclusionary criteria for review. Weighted mean standardized mean differences between subjects (SMDbs) of the intervention-induced adaptations in balance performance were calculated using a random-effects model and tested for an overall intervention effect relative to passive controls. The included studies were coded for the following criteria: training modalities (i.e., training period, training frequency, training volume) and balance outcomes . Heterogeneity between studies was assessed using I 2 and Chi2-statistics. The methodological quality of each study was tested by means of the Physiotherapy Evidence Database (PEDro) Scale. Weighted mean SMDbs showed that BT is an effective means to improve static steady-state (mean SMDbs = 0.51), dynamic steady-state (mean SMDbs = 0.44), proactive (mean SMDbs = 1.73), and reactive balance (mean SMDbs = 1.01) as well as the performance in balance test batteries (mean SMDbs = 1.52) in healthy older adults. Our analyses regarding dose–response relationships in BT revealed that a training period of 11–12 weeks (mean SMDbs= 1.26), a frequency of three training sessions per week (mean SMDbs= 1.20), a total number of 36–40 training sessions (mean SMDbs = 1.39), a duration of a single training session of 31–45 min (mean SMDbs = 1.19), and a total duration of 91–120 min of BT per week (mean SMDbs = 1.93) of the applied training modalities is most effective in improving overall balance performance. However, it has to be noted that effect sizes for the respective training modalities were computed independently (i.e., modality specific). Because of the small number of studies that reported detailed information on training volume (i.e., number of exercises per training session, number of sets and/or repetitions per exercise, duration of single-balance exercises) dose–response relationships were not computed for these parameters. The present findings have to be interpreted with caution because we indirectly compared dose–response relationships across studies using SMDbs and not in a single controlled study as it is difficult to separate the impact of a single training modality (e.g., training frequency) from that of the others. Moreover, the quality of the included studies was rather limited with a mean PEDro score of 5 and the heterogeneity between studies was considerable (i.e., I 2 = 76–92 %). Our detailed analyses revealed that BT is an effective means to improve proxies of static/dynamic steady-state, proactive, and reactive balance as well as performance in balance test batteries in healthy older adults. Furthermore, we were able to establish effective BT modalities to improve balance performance in healthy older adults. Thus, practitioners and therapists are advised to consult the identified dose–response relationships of this systematic literature review and meta-analysis. However, further research of high methodologic quality is needed to determine (1) dose–response relationships of BT in terms of detailed information on training volume (e.g., number of exercises per training session) and (2) a feasible and effective method to regulate training intensity in BT.
+
+The effects of balance training on physical fitness and skill-related performance in basketball players: a systematic review
+
+Number of 
+
+Key takeaways:Balance training significantly improves physical fitness and skill-related performance in basketball players, but optimal training parameters require further research.
+
+Abstract:Existing evidence suggests that balance training (BT) has a positive impact on physical fitness and sports performance. However, its specific effects on basketball players have not been extensively studied. Therefore, this systematic review aims to analyze the influence of BT on the physical fitness and skill-related performance of basketball players. A thorough search was conducted across four databases (Web of Science, Scopus, PubMed, and EBSCOhost) for studies published until August 24, 2024, using keywords related to BT and basketball. The quality of the included studies was assessed using the 'Qualsyst' tool. Thirteen studies involving 373 participants were included, focusing on BT interventions lasting a minimum of four weeks. These studies demonstrated that BT led to significant enhancements in balance, power, agility, stability, and basketball skill-related performance. Nevertheless, certain assessments such as the balance error scoring system, triple hop distance, 30-second maximal performance jump, single-leg triple hop, Y reactive agility, and maneuver running tests did not show significant improvements. BT proves to be a valuable intervention for improving physical fitness and skill-related performance among basketball players. However, the variability in training methods highlights the need for further research to determine the optimal BT parameters, including training volume, intensity, and duration. Additionally, future studies should explore how factors such as gender, age, and playing level influence the effectiveness of BT in basketball players.
+
+Evidence Supporting Balance Training in Healthy Individuals: A Systemic Review
+
+Number of 
+
+Key takeaways:Balance training programs, performed at least 10 minutes per day, 3 days per week, for 4 weeks, can improve balance ability in healthy individuals.
+
+Abstract:DiStefano, LJ, Clark, MA, and Padua, DA. Evidence supporting balance training in healthy individuals: a brief review. J Strength Cond Res 23(9): 2718-2731, 2009-Balance is considered a risk factor for several injuries and consequently a focus of many strengthening, injury prevention, and rehabilitation programs. There are several studies that have evaluated the ability of balance training to improve balance ability in a healthy population with no general consensus. We conducted a systematic review to evaluate the body of evidence regarding the effectiveness of balance training on improving various forms of balance ability in a healthy population. Three electronic databases and the reference lists of selected articles were searched. Studies were included that evaluated balance ability before and after healthy subjects performed a multisession balance training program. Two individuals reviewed all articles and agreed upon the selection criteria. Sixteen articles were selected, abstracted, and reviewed. Means and measures of variability were recorded to calculate effect sizes, and study quality was assessed using the PEDro instrument. There is strong evidence to suggest that balance training can improve static balance ability on stable and unstable surfaces, as well as dynamic balance ability. Elite athletes have the potential to improve static balance on an unstable surface and dynamic balance ability, but a ceiling effect appears to occur with stable balance ability on a stable surface. Balance training programs performed at least 10 minutes per day, 3 days per week, for 4 weeks that incorporate various methods of balance training appear to improve balance ability. Types of balance training included the use of tilt boards, unstable surfaces, and dynamic body movements while maintaining a static stance.
+
+Effects of Balance Exercise Interventions on Balance-Related Performance in People With Multiple Sclerosis: A Systematic Review and a Meta-Analysis of Randomized Controlled Trials
+
+Number of 
+
+Key takeaways:Balance training interventions for people with multiple sclerosis improve balance composite scores and mobility tests, but not stepping or gait speed outcomes.
+
+Abstract:Background Balance training covers a range of different modalities and complexity levels for people with multiple sclerosis (MS). When evaluating the effects of balance training across different kinds of interventions, determination of the specific intervention content that predict effects are needed. Objective To investigate the effects of balance training on gait and dynamic balance outcomes. Methods Four databases were systematically searched. Randomized controlled trials involving people with MS (Expanded Disability Status Scale score ≤7.5) where at least 50% of the intervention targeted balance control were included. Interventions were categorized based on training types. Risk-of-bias was assessed using the Tool for the Assessment of Study Quality and Reporting in Exercise (TESTEX). Results A total of 18 included studies involved 902 people with MS (EDSS range from 0 to 7.5). Interventions evaluated with a balance composite score or a mobility test showed a moderate effect size (ES = 0.46 ; p < .01) and a small overall ES (ES = 0.19 ; p = .04), respectively, across different training types. Stepping and gait speed outcomes showed no effect. Cognitive dual-task training showed a significant effect (ES = 0.81 ) on subgroup level, when evaluated with a mobility outcome measure. The median TESTEX score on study quality and reporting was 11 (maximum score = 15). Conclusions Improvements of balance were found across interventions when measured by balance composite scores and mobility tests, but not when measured by stepping or gait speed outcomes. Large training volume was positively associated with effect on balance. A definition of intensity in balance training is needed for evaluation of its impact on the effect of balance interventions.
+
+Effects and Dose–Response Relationship of Balance Training on Balance Performance in Youth: A Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:Balance training improves balance performance in healthy youth, with training intensity potentially being a major factor, but current methods for assessing training intensity need improvement.
+
+Abstract:BackgroundEffects and dose–response relationships of balance training on measures of balance are well-documented for healthy young and old adults. However, this has not been systematically studied in youth.ObjectivesThe objectives of this systematic review and meta-analysis were to quantify effects of balance training (BT) on measures of static and dynamic balance in healthy children and adolescents. Additionally, dose–response relations for BT modalities (e.g. training period, frequency, volume) were quantified through the analysis of controlled trials.Data 
+
+Exercise-induced neuroplasticity: Balance training increases cortical thickness in visual and vestibular cortical regions
+
+Number of 
+
+Key takeaways:Balance training induces neuroplasticity in brain regions associated with visual and vestibular self-motion perception, potentially improving spatial orienting and memory.
+
+The effects of balance training on cognitive function in persons with multiple sclerosis: A systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:Balance training may effectively improve overall and specific cognitive function in individuals with multiple sclerosis, with exercise doses of at least 120 minutes per week and a total duration of 720 minutes or more being significant moderators for greater cognitive improvement.
+
+Balance training improves memory and spatial cognition in healthy adults
+
+Number of 
+
+Key takeaways:Balance training improves memory and spatial cognition in healthy adults, without affecting cardiorespiratory fitness.
+
+Content and effects of balance training in people with diabetic peripheral neuropathy – a systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Balance training appears to improve balance outcomes in people with diabetic peripheral neuropathy, but more high-quality studies are needed to confirm this.
+
+Abstract:ABSTRACT Background Diabetic Peripheral Neuropathy (DPN) impairs balance due to sensory loss, proprioceptive deficits, muscle weakness, altered gait, and delayed reflexes. Targeted aerobic and balance training seem promising to mitigate these issues. However, the exact content of a recommended training regime is yet to be determined. Objective To delineate and synthesise balance training content and efficacy for people with DPN. Methods The literature search was conducted on PubMed and Embase in accordance with the PRISMA-checklist. Last search was performed on April 29, 2024. Inclusion criteria were established using the PICO-framework. Methodological quality was assessed using the TESTEX Scale. Meta-analyses were exclusively applied to studies featuring a passive control group. Results A total of 2007 articles were identified. Twelve studies were included in the qualitative synthesis. Seven studies were included in the meta-analyses. Two studies were of high quality. Most studies reported the frequency, session time, duration, and setting of balance training, while none reported the intensity. The meta-analyses showed a standardized mean difference in favor of balance training compared to passive control for One-Legged Stance (openeyes) (0.89), One-Legged Stance (closed eyes) (1.48), Postural sway (−0.71), Timed Up and Go(−0.94), and Berg Balance Scale (2.26), respectively. Conclusion Studies are few and generally of low methodological quality. The content of balance training interventions is minimally described, especially concerning the applied intensity. However, balance training does seem to improve balance outcomes in people with DPN, but given the methodological limitations, interpretation must be cautious.
+
+Spinal and supraspinal adaptations associated with balance training and their functional relevance
+
+Number of 
+
+Key takeaways:Balance training improves motor performance, prevents injuries, and enhances postural control in elderly individuals, with neurophysiological adaptations influencing motor behavior.
+
+Abstract:Traditionally, balance training has been used to rehabilitate ankle injuries and postural deficits. Prospective studies have shown preventive effects with respect to ankle and knee joint injuries. Presently, balance training is not only applied for rehabilitation and prevention but also for improving motor performance, especially muscle power. The recent application of noninvasive electrophysiological and brain imaging techniques revealed insights into the central control of posture and the adaptations induced by balance training. This information is important for our understanding of the basic control and adaptation mechanisms and to conceptualize appropriate training programmes for athletes, elderly people and patients. The present review presents neurophysiological adaptations induced by balance training and their influence on motor behaviour. It emphasizes the plasticity of the sensorimotor system, particularly the spinal and supraspinal structures. The relevance of balance training is highlighted with respect to athletic performance, postural control within elderly people as well as injury prevention and rehabilitation.
+
+Balance Performance and Training Among Female Athletes
+
+Number of 
+
+Key takeaways:Balance training programs may help improve athletic performance and prevent muscle-skin injuries in female athletes.
+
+Abstract:ABSTRACT INCREASING BALANCE STABILITY DURING HIGH-INTENSITY ATHLETIC PERFORMANCE HAS BEEN SHOWN TO BE CRITICAL IN SPORT PERFORMANCE. PREVIOUS RESEARCH SHOWS THAT BALANCE TRAINING PROGRAMS MAY BE BENEFICIAL IN REHABILITATION AND PREVENTION OF MUSCULOSKELETAL INJURIES. THERE ARE SEVERAL WAYS TO TEST BALANCE PERFORMANCE AND IMPLEMENT BALANCE TRAINING. HOWEVER, WITH GREATER INCIDENCE OF MUSCULOSKELETAL INJURIES IN WOMEN AND WITH MODEST CONCLUSIVE LITERATURE IN FEMALE ATHLETES' BALANCE ASSESSMENT AND TRAINING, THERE IS A NEED FOR EASY UNDERSTANDING AND APPLICATION OF THESE CONCEPTS. THEREFORE, THIS ARTICLE PROVIDES COACHES AND PRACTITIONERS WITH A SHORT REVIEW OF THE LITERATURE ON BALANCE IN FEMALE ATHLETES.
+
+Balance Training Reduces Postural Sway and Improves Sport-specific Performance in Visually Impaired Cross-Country Skiers.
+
+Number of 
+
+Key takeaways:Balance training improves postural stability and sport-specific performance in visually impaired cross-country skiers, suggesting it should be part of their training routine.
+
+Abstract:Kurz, A, Lauber, B, Franke, S, and Leukel, C. Balance training reduces postural sway and improves sport-specific performance in visually impaired cross-country skiers. J Strength Cond Res XX(X): 000-000, 2018-Balance training is highly effective in reducing sport injuries and causes improvements in postural stability and rapid force production. So far, the positive effects of balance training have been described for healthy athletes. In the present experiments, we questioned whether athletes with disabilities of the visual system can also benefit from balance training. Fourteen visually impaired cross-country skiers participated in this randomized controlled study. The intervention group (N = 7) completed 8 sessions of balance training over a period of 4 weeks (2 times per week), whereas a waiting control group (N = 7) received no training during that time. After training, postural sway was significantly reduced in the intervention group but not in the waiting control group. In addition, sport-specific performance, which was assessed by a standardized Cooper's 12-minute test on roller skis or rollerblades, increased in the intervention group. The change in postural sway from the premeasurement to the postmeasurement correlated with the change in sport-specific performance in all participants. Our results indicate that balance training is useful for improving postural stability and sport-specific performance in visually impaired cross-country skiers. We propose that balance training should therefore be implemented as part of the training routine in athletes with disabilities of the visual system.
+
+Balance training improves postural balance, gait, and functional strength in adolescents with intellectual disabilities: Single-blinded, randomized clinical trial.
+
+Number of 
+
+Key takeaways:Balance training for adolescents with intellectual disabilities may improve postural balance and functional strength compared to a control group.
+
+Single Leg Balance Training: A Systematic Review
+
+Number of 
+
+Key takeaways:Single leg balance training effectively improves balance performance in healthy individuals, with gains generalizing to untrained tasks and cross-education between legs.
+
+Abstract:Single leg balance training promotes significant increments in balance control, but previous reviews on balance control have not analyzed this form of balance training. Accordingly, we aimed to review the single leg balance training literature to better understand the effects of applying this training to healthy individuals. We searched five databases—PubMed, EMBASE, Scopus, Lilacs, and Scielo—with the following inclusion criteria: (a) peer-reviewed articles published in English; (b) analysis of adult participants who had no musculoskeletal injuries or diseases that might impair balance control; and (c) use of methods containing at least a pre-test, exclusive single leg balance training, and a post-test assessment. We included 13 articles meeting these criteria and found that single leg balance training protocols were effective in inducing balance control gains in either single- or multiple-session training and with or without progression of difficulty. Balance control gains were achieved with different amounts of training, ranging from a single short session of 10 minutes to multiple sessions totaling as much as 390 min of unipedal balance time. Generalization of balance gains to untrained tasks and cross-education between legs from single leg balance training were consistent across studies. We concluded that single leg balance training can be used in various contexts to improve balance performance in healthy individuals. These results extend knowledge of expected outcomes from this form of training and aid single leg balance exercise prescription regarding volume, frequency, and potential progressions.
+
+Effect of concurrent and multi-component training on balance, fear of falling, and muscle strength in older adults: a review
+
+Number of 
+
+Key takeaways:Multicomponent exercise programs, rather than concurrent training, are more effective in improving balance, fear of falling, and muscle strength in older adults.
+
+Abstract:BackgroundThere is impairment in maintaining balance while doing activities of daily living in aging individuals due to deterioration in the sensory, cognitive, and musculoskeletal systems. The positive effects of aerobic and resistance exercise in older people have already been established. Nowadays, researchers are stressing over the importance of multicomponent exercise programs where a combination of exercises like aerobic, resistance, and balance and coordination exercises, etc., was used.PurposeThe present review summarizes the effects of concurrent exercise training (aerobic + resistance) and multicomponent exercise programs on balance, fear of falling, and muscle strength in older adults.MethodsMEDLINE (accessed by PubMed) and Web of Science (Web of Science Core Collection) were searched using a combination of keywords.ResultsThe result in a majority of the included studies showed positive improvement in balance, fear of fall, and strength of muscles. Improvement in muscle strength is more evident when subjected to resistance exercise training alone than concurrent training.ConclusionsMulticomponent exercise training program when compared with concurrent training is more effective in improving balance, fear of fall, and muscle strength in older adults.
+
+Dose-Response Relationships of Balance Training in Healthy Young Adults: A Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:Balance training, with a training period of 11-12 weeks, three or six sessions per week, and a session duration of 11-15 minutes, effectively improves steady-state balance in healthy young adults.
+
+Abstract:BackgroundBalance training (BT) has been used for the promotion of balance and sports-related skills as well as for prevention and rehabilitation of lower extremity sport injuries. However, evidence-based dose-response relationships in BT parameters have not yet been established.ObjectiveThe objective of this systematic literature review and meta-analysis was to determine dose-response relationships in BT parameters that lead to improvements in balance in young healthy adults with different training status.Data 
+
+The Effect of Balance Training on Balance Performance in Individuals Poststroke: A Systematic Review
+
+Number of 
+
+Key takeaways:Balance training exercises can improve balance performance in individuals with moderately severe stroke, with a focus on intensive training for 2 to 3 times per week.
+
+Abstract:Background and Purpose: Stroke is a leading cause of long-term disability, and impaired balance after stroke is strongly associated with future function and recovery. Until recently there has been limited evidence to support the use of balance training to improve balance performance in this population. Information about the optimum exercise dosage has also been lacking. This review evaluated recent evidence related to the effect of balance training on balance performance among individuals poststroke across the continuum of recovery. On the basis of this evidence, we also provide recommendations for exercise prescription in such programs. Methods: A systematic search was performed on literature 
+
+Effect of intrinsic foot muscles training on foot function and dynamic postural balance: A systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Intrinsic foot muscle training improves biomechanical effects on the medial longitudinal arch and dynamic postural balance, making it an important training method for sports enthusiasts.
+
+Abstract:This systematic review aimed to analyse the effects of intrinsic foot muscle (IFM) training on foot function and dynamic postural balance. Keywords related to IFM training were used to search four databases (PubMed, CINAHL, SPORTDiscus and Web of Science databases.) for relevant studies published between January 2011 and February 2021. The methodological quality of the intervention studies was assessed independently by two reviewers by using the modified Downs and Black quality index. Publication bias was also assessed on the basis of funnel plots. This study was registered in PROSPERO (CRD42021232984). Sixteen studies met the inclusion criteria (10 with high quality and 6 with moderate quality). Numerous biomechanical variables were evaluated after IFM training intervention. These variables included IFM characteristics, medial longitudinal arch morphology and dynamic postural balance. This systematic review demonstrated that IFM training can exert positive biomechanical effects on the medial longitudinal arch, improve dynamic postural balance and act as an important training method for sports enthusiasts. Future studies should optimise standardised IFM training methods in accordance with the demands of different sports.
+
+The Effect of Balance Training on Physical Motor Functions TO 11-12 Year Old Female Football Players
+
+Number of 
+
+Key takeaways:Balance training significantly improves physical motor function and balance in young female footballers aged 11-12 years, highlighting its importance in motor development and injury prevention.
+
+Abstract:The aim of this study was to investigate the effect of balance training on the physical motor function of adolescent female football players. Thirty female football players aged 11-12 years were selected from Ausheng Football Club as the study subjects, and they were divided into a test group and a control group of 15 each using experimental testing and mathematical statistics methods. The experimental group received balance training intervention for a period of 5 weeks while the control group did not receive any intervention. The Y-Balance test and FMS test were used as assessment indicators to evaluate the balance and body movement function of the athletes respectively. Differences in performance between the two groups before and after training were compared and the relationship between balance ability and physical motor function was analyzed by methods such as paired samples t-test and independent samples t-test. The results showed that compared with the control group, the experimental group showed significant improvement in all balance indicators, especially in medial back and overall balance. In addition, the experimental group showed significant improvement in hurdle stride, linear lunge, and rotational stability indicators. The overall motor function of the experimental group improved significantly as assessed by the Functional Movement Screen (FMS), which indicated that the balance training was very effective. The Y-balance test further confirmed that the experimental group showed a substantial improvement in balance, while the control group showed little change. In addition, the results of the Y-balance test showed a moderate positive correlation with the results of the FMS test, suggesting a relationship between balance and functional movement. These findings emphasize the positive impact of balance training on the physical motor function of young female footballers, demonstrating the importance of balance training in motor development and injury prevention.
+
+Effects of exercise training programs on balance of blind children and adolescents: A systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:Exercise training programs positively affect static and dynamic balance in blind children and adolescents.
+
+Effects of A Single Balance Training Session on Neural Excitability in Individuals With Chronic Ankle Instability.
+
+Number of 
+
+Key takeaways:A single session of balance training improves spinal reflex modulation and corticospinal excitability in individuals with chronic ankle instability, leading to improved balance performance.
+
+Abstract:CONTEXT
+Individuals with chronic ankle instability (CAI) demonstrate reduced spinal reflex modulation and corticospinal excitability of the soleus, which may contribute to decreased balance performance.
+
+OBJECTIVE
+To determine the effects of a single session of balance training on Spinal-reflexive excitability modulation and corticospinal excitability in those with CAI.
+
+DESIGN
+Randomized controlled trials.
+
+SETTING
+Research laboratory.
+
+PARTICIPANTS
+Thirty participants with CAI were randomly assigned to the balance training (BAL) or control (CON) group.
+
+MAIN OUTCOME MEASURES
+Modulation of soleus spinal-reflexive excitability was measured by calculating relative change in normalized Hoffmann reflexes (ratio of the H-reflex to the M-wave) from prone to single-leg standing. Corticospinal excitability was assessed during single-leg stance using transcranial magnetic stimulation, outcomes of which included active motor threshold (AMT), motor evoked potential, and cortical silent period (CSP). Balance performance was measured with center of pressure velocity in anterior to posterior and medial to lateral directions. Separate 2 × 2 repeated-measures analyses of variance were employed to determine the effect of group (BAL and CON) and time (baseline and posttraining) on each dependent variable.
+
+RESULTS
+There were significant group by time interactions in the modulation of soleus spinal-reflexive excitability (F1,27 = 4.763, P = .04); CSP at 100% AMT (F1,27 = 4.727, P = .04); and CSP at 120% AMT (F1,27 = 16.057, P < .01). A large effect size suggests increased modulation of spinal-reflexive excitability (d = 0.81 ) of the soleus in BAL compared with CON at posttest, while CSP at 100% (d = 0.95 ) and 120% AMT (d = 1.10 ) was reduced in BAL when compared with CON at posttest.
+
+CONCLUSION
+After a single session of balance training, individuals with CAI initiated increases in spinal reflex modulation and corticospinal excitability of the soleus. Thus, individuals with CAI who undergo balance training exhibit positive neural adaptations that are linked to improvements in balance performance.
+
+Balance Training for Improving Equilibrium in Patients with Chronic Ankle Instability: A Literature Review
+
+Number of 
+
+Key takeaways:Balance training effectively improves dynamic and static balance, gait patterns, functional improvement, and postural control in individuals with chronic ankle instability.
+
+Abstract:Introduction: Balance training refers to a type of exercise or physical activity that focuses on improving an individual’s ability to maintain stability and equilibrium. For those with recurrent balance problems, balance training is a specific method to increase stability and decrease the chance of falls or injury. Aim: To find out the effectiveness of balance training among individuals with chronic ankle instability. Materials and Methods: A literature review with a total of nine randomised controlled trial and one cohort study were included which emphasised on balance training and addressed the treatment of chronic ankle instability. Electronic searches were performed through databases PubMed, Google scholar and Cochrane library were used to acquire the relevant studies from the last 10 years from 2014 to 2024. The keywords like “Balance training”, “Chronic ankle instability”, ‘Equilibrium’ and ‘Posture’ were used. An impartial selection, evaluation and data extraction procedure were carried out by the reviewer. Results: Balance training through physical therapy involved specific treatment plans which aimed at strengthening areas of weakness that led to balance and coordination issues and proven significant results for the management of the chronic ankle instability. Conclusion: Balance training was better treatment for the improvement in the dynamic as well as static balance, gait patterns, functional improvement and postural control in the individuals having chronic ankle instability.
+
+Stochastic Resonance Training Improves Balance and Musculoskeletal Well-Being in Office Workers: A Controlled Preventive Intervention Study
+
+Number of 
+
+Key takeaways:Stochastic resonance whole-body vibration (SR-WBV) exercises significantly improve balance, musculoskeletal well-being, and muscle relaxation in office workers, potentially reducing the risk of falls.
+
+Abstract:Sixty-two office workers in a Swiss federal department were randomly assigned to a training and a control group. While the training group was instructed to complete 3 stochastic resonance whole-body vibration (SR-WBV) exercises every week for 4 weeks, the control group received no treatment. During this time all participants answered a daily questionnaire concerning their surefootedness, sense of balance, musculoskeletal well-being, and muscle relaxation. Before and after the 4-week SR-WBV intervention, balance was tested with a single-leg stance on a foam mat of the Balance Error Scoring System (BESS) using a SwayStar™-System measuring Total Angle Area (TotAngArea) and Total Velocity Area (TotVelArea). Multilevel results highlighted a significant increase over time for surefootedness and sense of balance (t = 2.491, p = .016), as well as for musculoskeletal well-being and muscle relaxation (t = 2.538, p = .014) in the training group but not in the control group. Balance tests showed improvement of balance in the training group (TotAngArea: Z = 2.550, p = .011; TotVelArea: Z = 3.334, p = .001) but not in the control group. SR-WBV exercise indicated a high compliance during this study (3.87±0.45 trainings per week) underlining its benefits for the working context. Especially office workers who spend most of their time in sitting position could profit from SR-WBV exercise to improve balance and reduce the risk of falls.
+
+Effectiveness of balance training on pain and functional outcomes in knee osteoarthritis: A systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Balance training significantly reduced knee pain and improved functional outcomes measured with the Timed Up and Go test, but no difference was observed in the Western Ontario and McMaster Universities Arthritis Index.
+
+Abstract:Background: Knee osteoarthritis (OA) is a musculoskeletal disorder that causes pain and increasing loss of function, resulting in reduced proprioceptive accuracy and balance. Therefore, the goal of this systematic review and meta-analysis is to evaluate the effectiveness of balance training on pain and functional outcomes in knee OA. Methods: “PubMed”, “Scopus”, “Web of Science”, “Cochrane”, and “Physiotherapy Evidence Database” were searched for studies conducted between January 2000 and December 2021. Randomized controlled trials (RCTs) that investigated the effectiveness of balance training in knee OA, as well as its effects on pain and functional outcome measures, were included. Conference abstracts, case reports, observational studies, and clinical commentaries were not included. Meta-analysis was conducted for the common outcomes, i.e., Visual Analog Scale (VAS), The Timed Up and Go (TUG), Western Ontario and McMaster Universities Arthritis Index (WOMAC). The PEDro scale was used to determine the quality of the included studies. Results: This review includes 22 RCTs of which 17 articles were included for meta-analysis. The included articles had 1456 participants. The meta-analysis showed improvement in the VAS scores in the experimental group compared to the control group and for the WOMAC scores the heterogeneity ( I 2) was 81% with a mean difference of -0.02 . The TUG score was analyzed, the I 2 was 95% with a mean difference of -1.71 for the intervention against the control group. Conclusions: Balance training significantly reduced knee pain and improved functional outcomes measured with TUG. However, there was no difference observed in WOMAC. Although due to the heterogeneity of the included articles the treatment impact may be overestimated. Registration: The current systematic review was registered in PROSPERO on 7th October 2021 (registration number CRD42021276674).
+
+The Effect of Progressive Dynamic Balance Training on Physical Function, The Ability to Balance and Quality of Life Among Elderly Women Who Underwent a Total Knee Arthroplasty: A Double-Blind Randomized Control Trial
+
+Number of 
+
+Key takeaways:Progressive dynamic balance training with physical therapy significantly improves physical function, balance ability, and quality of life in elderly women who underwent total knee arthroplasty.
+
+Abstract:Total knee arthroplasty (TKA) is used to treat end-stage osteoarthritis. However, this surgical procedure affects the mechanical receptor function and impairs the ability to balance. Dynamic balance training has been reported to improve stability and self-confidence and safely yield increased physical activity. This study aimed to investigate the effect of dynamic balance training on physical function, the ability to balance and quality of life among patients who underwent TKA. Thirty-eight participants were assigned to either the progressive dynamic balance training (PDBT) with physical therapy group (n = 19) or the control group (n = 19). The experimental group undertook a dynamic balance program with physical therapy for 30 minutes per day, five times per week for six weeks, while the control group undertook physical therapy only. A continuous passive motion exercise was performed for 20 minutes after training by both groups. The outcomes were evaluated using the Western Ontario and McMaster Universities (WOMAC) Osteoarthritis Index, pain pressure threshold (PPT), range of motion (ROM), Knee Outcome Survey-Activities of Daily Living (KOS-ADLS), Multifunction Force Measuring Plate, timed up and go (TUG) test and Short-Form Health Survey 36 (SF-36). Physical function (WOMAC Osteoarthritis Index, ROM and KOS-ADLS score) and the ability to balance (TUG test score, confidence ellipse area, path length and average velocity) significantly improved (p < 0.05) in the experimental group compared with the control group. In contrast, the physical component summary score for the SF-36 regarding quality of life significantly improved (p < 0.05); however, the mental component summary score for the SF-36 and PPT did not significantly differ between the groups. Therefore, we suggest that PDBT with physical therapy has positive effects on physical function, the ability to balance and quality of life among patients who underwent TKA.
+
+EFFECTS OF BALANCE TRAINING ON BALANCE AND FALL EFFICACY IN PATIENTS WITH OSTEOPOROSIS: A SYSTEMATIC REVIEW AND META-ANALYSIS WITH TRIAL SEQUENTIAL ANALYSIS
+
+Number of 
+
+Key takeaways:Balance training can effectively improve balance ability and reduce fear of falling in patients with osteoporosis.
+
+Abstract:Objective To appraise research evidence on the effects of balance training on balance and fall efficacy in patients with osteoporosis. Methods Six electronic databases were searched from inception of the database to 1 August 2022, with no language restrictions, and randomized controlled trials of balance training in patients with osteoporosis were included in this meta-analysis. Two authors independently screened and reviewed the articles and assessed the methodological quality using the Cochrane risk-of-bias tools. Trial sequential analysis was conducted. Results A total of 10 randomized controlled trials with 684 patients were included. Three of the studies that were included had low risk of bias, 5 had moderate risk of bias, and 2 had high risk of bias. A meta-analysis demonstrated that balance training improves dynamic balance measured using the Timed Up and Go Test (mean difference (MD) = –1.86, 95% CI (–2.69, –1.02), Z = 4.38, p < 0.0001) and the Berg Balance Scale (MD = 5.31, 95% CI (0.65, 9.96), Z = 2.23, p < 0.03), static balance measured using One-Leg Standing Time (MD = 4.10, 95% CI (2.19, 6.01), Z = 4.21, p < 0.0001), and fall efficacy measured using the Falls Efficacy Scale International (MD = –4.60, 95% CI (–6.33, –2.87), Z = 5.20, p < 0.00001) were also significantly improved. Trial sequential analysis showed reliable evidence of the effects of balance training on dynamic and static balance improvement. The conclusions of this review are supported by the statistical and clinical significance of all outcomes in the meta-analysis, based on the advised minimal clinically significant differences and minimum detectable changes. Conclusion Balance training may be effective in improving balance ability and reducing fear of falling in patients with osteoporosis. LAY ABSTRACT Insufficient balance will limit activities and impair physical and mental capabilities, which will increase the risk of falling and reduce quality of life. The study evidence on the effects of balance training in people with osteoporosis is summarized in this paper. The investigations identified 10 related studies that tested the effects of balance training. The data from these trials shows that balancing training can decrease patients’ fear of falling and improve their balancing abilities. For patients and therapists hoping to enhance the effectiveness of rehabilitation, these findings are crucial.
+
+Effects of Plyometric Jump Training on Balance Performance in Healthy Participants: A Systematic Review With Meta-Analysis
+
+Number of 
+
+Key takeaways:Plyometric jump training (PJT) shows small improvements in overall balance performance in healthy participants when compared to specific active controls.
+
+Abstract:Background: Postural balance represents a fundamental movement skill for the successful performance of everyday and sport-related activities. There is ample evidence on the effectiveness of balance training on balance performance in athletic and non-athletic population. However, less is known on potential transfer effects of other training types, such as plyometric jump training (PJT) on measures of balance. Given that PJT is a highly dynamic exercise mode with various forms of jump-landing tasks, high levels of postural control are needed to successfully perform PJT exercises. Accordingly, PJT has the potential to not only improve measures of muscle strength and power but also balance. Objective: To systematically review and synthetize evidence from randomized and non-randomized controlled trials regarding the effects of PJT on measures of balance in apparently healthy participants. Methods: Systematic literature searches were performed in the electronic databases PubMed, Web of Science, and SCOPUS. A PICOS approach was applied to define inclusion criteria, (i) apparently healthy participants, with no restrictions on their fitness level, sex, or age, (ii) a PJT program, (iii) active controls (any sport-related activity) or specific active controls (a specific exercise type such as balance training), (iv) assessment of dynamic, static balance pre- and post-PJT, (v) randomized controlled trials and controlled trials. The methodological quality of studies was assessed using the Physiotherapy Evidence Database (PEDro) scale. This meta-analysis was computed using the inverse variance random-effects model. The significance level was set at p <0.05. Results: The initial search retrieved 8,251 plus 23 records identified through other 
+
+Effect of Wii Fit© Exercise on Balance of Older Adults with Neurocognitive Disorders: A Meta-Analysis
+
+Number of 
+
+Key takeaways:Wii Fit exercise training has a positive effect on balance in older adults with neurocognitive disorders, but further research with sufficient power is needed to confirm its effectiveness.
+
+Abstract:Background: Exercise is beneficial to maintain balance. Wii Fit©, a video game-based exercise, offers an enjoyable way to exercise and is feasible for older adults with neurocognitive disorders (NCD). Objective: To evaluate the effects of Wii Fit© exercise training on the balance of older adults with NCD. Methods: Systematic review and meta-analysis of randomized control trials using Cochrane collaboration tools. The participants were older adults (60 years and over) with NCD. Balance was measured with Berg Balance Scale (BBS) and Timed Up and Go (TUG). Two reviewers independently searched, selected, extracted data, assessed risk of biases, and determined the quality of evidence. Outcomes were evaluated using Grading of Recommendations Assessment, Development, and Evaluation (GRADE). A meta-analysis was performed. Results: The literature search identified 522 
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

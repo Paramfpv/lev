@@ -1,0 +1,551 @@
+PROTOCOL: Meditation
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Abstract:Mental health is an important part of a person's life besides physical, spiritual and financial well being. It is believed that a healthy mind is major 
+DESCRIPTION: Meditation is a practice involving conscious focus of attention, which shows multidimensional benefits for mental health, well-being, and cognitive performance. Numerous studies confirm that regular meditation reduces stress, anxiety, and depression, improves sleep quality, and supports cognitive abilities and emotional balance.
+
+CONTENT SECTIONS:
+
+Improved mental health, sleep quality, and cognitive function
+
+Meditation is a practice involving conscious focus of attention, which shows multidimensional benefits for mental health, well-being, and cognitive performance. Numerous studies confirm that regular meditation reduces stress, anxiety, and depression, improves sleep quality, and supports cognitive abilities and emotional balance.
+
+Level of evidence:Good
+
+Level of risk:Negligible
+
+Meditation influences brain function through regulation of the nervous system, reduction of cortisol levels, and enhancement of neural plasticity. It stimulates areas responsible for attention, memory, and emotional control, and promotes beneficial structural changes in the brain. Regular practice leads to reduced stress reactivity, improved emotional regulation, and increased well-being and focus.
+
+Level of risk:Negligible
+
+Meditation is generally well tolerated by most individuals and rarely causes serious side effects. Adverse effects mainly occur during intense or prolonged practice, or in people with preexisting mental disorders.
+
+Meditation is not recommended for people with acute psychotic disorders or severe depression without therapeutic support.
+
+Typically 10–30 minutes daily; benefits confirmed with regular practice several times a week
+
+Mindfulness meditation, mantra meditation, yoga, tai chi, qigong, guided meditations, mobile apps
+
+Initial benefits may appear after a few sessions; greatest improvements observed after several weeks to months of regular practice
+
+Most commonly practiced in the morning or evening, but can be adapted to individual preferences
+
+Breathing exercises, physical activity, relaxation techniques, good sleep hygiene
+
+What not to combine with
+
+No significant contraindications, but individuals with serious mental health conditions should consult a therapist
+
+Start with short sessions
+
+For beginners, 5–10 minute sessions are recommended, gradually increasing duration with comfort.
+
+Best results are achieved through daily or frequent practice, even with short sessions.
+
+Try different techniques
+
+Experiment with different forms of meditation to find what suits you best (e.g., mindfulness, mantra, guided).
+
+Integrate meditation into daily routine
+
+Set a consistent time each day – such as after waking up or before going to sleep – for meditation.
+
+Don’t get discouraged by initial difficulties with focus – results come with consistent practice.
+
+For mental health issues – practice under supervision
+
+Individuals with diagnosed mental health conditions should introduce meditation in consultation with a therapist or doctor.
+
+Meditation is extensively studied as a method for supporting mental health. Numerous studies show that regular meditation practice positively impacts mental well-being by reducing symptoms of stress, anxiety, and depression, and improving overall mood.
+
+Key mental health benefits of meditation
+
+Mechanisms and factors influencing effectiveness
+
+Meditation is widely studied for its impact on sleep quality. Numerous studies show that meditation – particularly mindfulness, yoga, tai chi, and qigong – can improve sleep quality, especially in people with sleep disorders or older adults.
+
+Effectiveness of meditation on sleep
+
+Limitations and considerations
+
+Meditation shows positive effects on the brain, confirmed by numerous scientific studies. Regular meditation practice can enhance cognitive functions, support mental health, and lead to beneficial structural and functional changes in the brain.
+
+Structural and functional brain changes
+
+Impact on cognitive function and mental health
+
+Examples of meditation’s effects on the brain and cognition
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:52
+
+Final comment:Evidence supporting the effectiveness of meditation in improving mental health, sleep quality, and cognitive function is well-documented in numerous meta-analyses, systematic reviews, and randomized controlled trials (RCTs). Benefits are consistent across different groups – including healthy individuals, people with mental health disorders, and older adults. The most strongly supported effects include reductions in stress, anxiety, and depression, improvements in subjective sleep quality, and moderate enhancements in cognitive functions. These effects apply to mindfulness techniques as well as other forms of meditation (e.g., yoga, tai chi, qigong). However, many studies exhibit methodological limitations, small sample sizes, and heterogeneous interventions, preventing classification as the highest level of evidence. Nonetheless, there is no doubt about the generally beneficial, though moderate, effects in studied populations.
+
+Impact Of Meditation On Mental Health And Well-Being
+
+Number of 
+
+Key takeaways:Meditation practices positively impact mental health and well-being, reducing symptoms of mental health disorders and improving psychological well-being.
+
+Abstract:With a growing interest in meditation as a means of enhancing overall well-being, it is essential to understand the effects of meditation on mental health outcomes. The review reveals consistent findings indicating that meditation practices have a positive impact on mental health and well-being. Cross-sectional studies demonstrate that individuals who engage in regular meditation exhibit lower levels of anxiety, depression, and perceived stress. Controlled studies, including randomized controlled trials, provide stronger evidence, showing that meditation interventions effectively reduce symptoms of mental health disorders and improve psychological well-being. Intervention studies further highlight the benefits of meditation practices in improving attention, cognitive functioning, emotional regulation, and overall subjective well-being. The findings suggest that meditation practices can be valuable tools for promoting mental health and well-being. It highlights the potential of meditation as an effective approach for reducing symptoms of mental health disorders, enhancing psychological well-being, and improving overall quality of life. However, there are areas in need of further research, such as understanding the underlying mechanisms of action, determining optimal dosage and duration of meditation practice, and exploring the long-term effects of meditation.
+
+The effect of a short mindfulness meditation practice on positive mental health: Self-transcendence as a mediating process
+
+Number of 
+
+Key takeaways:Short mindfulness meditation practices, such as body scan or breath meditation, increase positive emotions and self-transcendence, leading to improved well-being and inner peace.
+
+Abstract:In two randomized controlled trials, we tested the effect of two attentional mindfulness meditation practices on positive mental health. We hypothesized that attentional meditation would increase various positive emotions (gratitude, interest, hope, pride, elevation, and awe) via three processes induced by mindfulness (body awareness, meta-awareness, and self-transcendence) and that positive self-transcendent emotions would in turn increase positive mental health (well-being and inner peace). This hypothesis was tested in two randomized online experiments. Participants were assigned to either a body scan meditation, a breath meditation, or a condition in which they listened to a story (active control). Various positive emotions, mindfulness-induced processes, and well-being/inner peace were assessed with self-reports. Experiment 1 (n = 166) revealed that practicing a 21-min body scan or breath meditation significantly increased positive emotions (in particular, elevation, gratitude, and pride) and that self-transcendence significantly mediated that effect. Experiment 2 (n = 127) replicated these findings in regard to positive emotions with a shorter, 11-min practice and revealed that two self-transcendent positive emotions (elevation and gratitude), but not pride—a more self-centered positive emotion—significantly mediated the effect of attentional meditation practice on well-being and inner peace. The implications of these results are discussed.
+
+The Impact of Morning Meditation and Sleep Quality on Affective and Health Outcomes in Healthcare Workers
+
+Number of 
+
+Key takeaways:Morning meditation improves mental health and vitality in healthcare workers, with poor sleep quality affecting this relationship.
+
+Abstract:Background: Health is a critical factor influencing key workplace outcomes, including job attitudes, behaviors, and performance. This study investigated the role of daily micro-breaks, specifically morning meditation practices, and positive affective experiences (i.e., positive affect) at work in predicting health-related outcomes, namely vitality and mental health. Using a non-experimental design, this study tested a moderated mediation model in which sleep quality moderates the relationship between morning meditation and positive affect, which, in turn, predicts end-of-the-day health-related outcomes. Methodology: Data were collected twice a day from 44 healthcare employees over five consecutive workdays using a daily survey approach. Key Results: Multilevel modeling analyses revealed that morning meditation was significantly associated with increased positive affect and improved health indicators at the end of the workday. Moreover, sleep quality moderated the relationship between morning meditation and positive affect, such that the conditional indirect effect of meditation on end-of-day mental health and vitality via positive affect was significant when sleep quality from the preceding night was poor. Conclusions: These findings underscore the interactive effect of prior-night sleep quality and morning meditation on affective and health-related outcomes by the end of the day. By identifying sleep quality as a key boundary condition, we contribute to a more nuanced understanding of when meditation is most beneficial. Our findings have significant implications for both research and practice, particularly in high-stress environments such as healthcare, where optimizing employee well-being is crucial for both individual and organizational performance.
+
+Self-compassion, meaning in life, and experiential avoidance explain the relationship between meditation and positive mental health outcomes.
+
+Number of 
+
+Key takeaways:Meditation positively impacts mental health through increased self-compassion, meaning in life, and reduced experiential avoidance.
+
+Abstract:OBJECTIVE
+Despite consistent evidence for the beneficial effects of meditation on mental health, little is known about the mechanisms that make mindfulness meditation effective.
+
+METHOD
+The levels of mental health, self-compassion, presence of meaning in life, and experiential avoidance of meditators (n = 414) and nonmeditators (n = 414) were measured and compared. Bootstrap-based structural equation modeling (SEM) modeling analyses were used to test multiple-step multiple-mediator models.
+
+RESULTS
+Meditation was positively associated with mental health, although the regularity of practice was an influential element to be considered. Significant indirect effects of meditation on mental health through self-compassion, meaning in life, and experiential avoidance were found. SEM models were able to account for 58% of the variance in mental health scores.
+
+CONCLUSIONS
+Self-compassion, presence of meaning in life, and reduced experiential avoidance may be active components of healthy meditation practices. Identifying the mechanisms involved in effective meditation practices has relevant implications for well-being and mental health-promoting interventions.
+
+Mantra meditation for mental health in the general population: A systematic review
+
+Number of 
+
+Key takeaways:Mantra meditation may have minimal to moderate beneficial effects on mental health in general populations, but more high-quality studies are needed to confirm these findings.
+
+Individual differences in meditation interventions: A meta‐analytic study
+
+Number of 
+
+Key takeaways:Meditation interventions affect individuals differently, with higher levels of psychopathology or depression leading to worse mental health outcomes, while higher levels of interpersonal variables, motivation, medical conditions, and mindfulness show positive outcomes.
+
+Abstract:Objectives Meditation interventions typically show small to moderate effects on health and well‐being, but we know little about how these effects vary across individuals. This meta‐analytic study investigates the relationship between baseline participant characteristics and the outcomes of meditation. Methods A systematic search yielded 51 eligible studies with 7782 participants. A combination of subgroup analyses and meta‐regression based on the random‐effects model were used. Results We found that a higher baseline level of psychopathology or depression was associated with deterioration in mental health after a meditation intervention. On the other hand, participants with higher scores on interpersonal variables, motivation, medical conditions, and mindfulness showed higher levels of positive meditation outcomes. Higher well‐being and stress were simultaneously associated with moderate increases in negative and positive meditation outcomes. Participant demographics, psychological traits, self‐concept, and length of meditation practice did not significantly influence the response to meditation. Conclusions Overall, we found that meditation interventions affect participants differently, and identified some of the individual characteristics that should be considered when using meditation interventions.
+
+The neuroscience of mindfulness meditation
+
+Number of 
+
+Key takeaways:Mindfulness meditation improves physical and mental health, but the underlying neural mechanisms remain unclear.
+
+Impact of Mindfulness Meditation on Mental Health
+
+Number of 
+
+Key takeaways:Mindfulness meditation positively impacts mental health by reducing stress, anxiety, and improving concentration, making it useful in clinical settings.
+
+Abstract:Mindfulness-based practices are the effective way to reduce stress, Anxiety and improve concentration. Mindfulness is a new mind-body based approach to help people to change the way of thinking and their thoughts. Recently Majority of research has focused on clinical studies to major the effectiveness of Mindfulness-Based Intervention.  This paper gives the information about how mindfulness meditation effects positively on mental health as well as useful in clinical settings.
+
+Psychological Effects of Meditation for Healthy Practitioners: an Update
+
+Number of 
+
+Key takeaways:Meditation has a moderate positive effect on relationship issues, intelligence, and self-concept, with stronger effects observed in experienced practitioners and longer training durations.
+
+Abstract:In recent years, interest in the effects of meditation has increased considerably, which might have had an impact on the outcomes as well as on the methods used. The present meta-analysis summarizes the effects of meditation for healthy practitioners for the years 2011 to 2015, thereby complementing a previous summary that covered the four decades before. We found a global effect size for studies with conventional controls of \( \overset{-}{r} \) = .27 (n = 54), comparable to the earlier analysis, as well as a smaller but apparently stable effect of \( \overset{-}{r} \) = .17 when meditation groups were compared to active controls (n = 16 studies). As in the previous summary, results were strongest for relationship issues and relatively strong for measures of intelligence and the self-concept, but effects were markedly smaller for negative emotions and anxiety. Also, in contrast to the previous analysis, meditation experience and length of meditation training correlated positively with the strength of meditation effects. Unfortunately, most studies still appear to have been conducted without sufficient theoretical background, and dependent measures seem largely to have been chosen ad hoc. We emphasize that meditation research will only make real progress if more effort is spent on developing precise theories and measurement devices.
+
+Impact of Meditation on Mental Health
+
+Number of 
+
+Key takeaways:Meditation positively impacts mental health in college students, with a 't' value of 0.01 significant at the 0.01 level.
+
+Abstract:The aim of this study was the determined of the effect of Meditation on Mental Health. For this purpose 50 college going students were selected with purposive sampling selection method from Beed District. The purposive sampling method was used. Pretest Posttest research design was used. Present study was measured the impact of Meditation on Mental Health. Descriptive statistics Mean and S.D. and‘t’ test was applied for the results. Mental Health Inventory was administered on college students. ‘t’ value is significant at 0.01 level. The results showed that Meditation treatment positive effect on Mental Health.
+
+Meditation and Positive Mental Health
+
+Number of 
+
+Key takeaways:Meditation improves mental health by reducing stress, anxiety, and enhancing psychological development, leading to improved physical and emotional well-being.
+
+Abstract:Mental health is an important part of a person's life besides physical, spiritual and financial well being. It is believed that a healthy mind is major 
+
+Effect of Dynamic Meditation on Mental Health
+
+Number of 
+
+Key takeaways:Dynamic meditation training effectively improves mental health, particularly in terms of personality integration, autonomy, and environmental mastery.
+
+Abstract:Although traditional meditation has been found to be effective in improving physical and mental health of subjects, there was a paucity of research of the effect of active or dynamic meditation on these variables. Therefore, the present study was aimed at studying the effect of dynamic meditation on mental health of the subjects. Total sample of the present study comprised 60 subjects, 30 each in experimental and control group. Subjects in experimental group were given 21-day training in dynamic meditation. Mental health of the experimental and control group subjects was measured in pre- and post-condition with the help of Mental Health Inventory developed by Jagadish and Srivastava (Mental Health inventory, Manovaigyanik Parikshan Sansthan, Varanasi, 1983). Obtained data were analyzed with the help of ANCOVA. In post-condition, experimental group scored better than control group on integration of personality, autonomy and environmental mastery. Effect sizes of dynamic meditation on these dimensions of mental health were large. However, experimental group and control group did not differ significantly on positive self-evaluation, perception of reality and group-oriented attitude dimensions of mental health in post-condition. Overall, dynamic meditation training was effective in improving mental health of the subjects.
+
+MEDITATION AS A PATHWAY TO OPTIMAL HEALTH: INSIGHTS INTO ITS MULTIFACETED IMPACTS
+
+Number of 
+
+Key takeaways:Meditation positively impacts physical, mental, and social wellbeing by relieving stress, enhancing immunity, and promoting emotional competencies.
+
+Abstract:The impact of meditation on human well-being is positive in several ways. It is an ancient practice used by the people to gain the wellbeing. The meditation can make a human life better, improving their physical health, mental health, psychological health and spiritual health. The aim of the present study to review the impact of meditation on physical, mental and social wellbeing. The study on this has been done my many psychiatrists and psychologists which tell the different aspects of the effect of meditation and use these techniques to heal the clients by using as a as therapy. In physical wellbeing viewpoint, it helps to relieve from stress, chronic pain, improvement on sleep quality, enhancement the immunity power and other physiological aspects. In mental wellbeing viewpoint, it helps to promote and increase the emotional competencies, reduce the symptoms of anxiety and depression, sharpen the cognitive abilities of human wellbeing. In social wellbeing viewpoint, it helps to strengthens the interpersonal communication in the society, promoting empathy, compassion and social interactions. In conclusion, it develops mindfulness, improves will power, locus of control, focus, ability to concentrate for a long time period, creates awareness and many more. It helps an individual to make healthy balance between body and mind.
+
+The Effects of Meditation, Yoga, and Mindfulness on Depression, Anxiety, and Stress in Tertiary Education Students: A Meta-Analysis
+
+Number of 
+
+Key takeaways:Meditation, yoga, and mindfulness show moderate effects on reducing depression, anxiety, and stress in tertiary education students, but results should be interpreted with caution due to poor study quality.
+
+Abstract:Background: Meditation, yoga, and mindfulness are popular interventions at universities and tertiary education institutes to improve mental health. However, the effects on depression, anxiety, and stress are unclear. This study assessed the effectiveness of meditation, yoga, and mindfulness on symptoms of depression, anxiety, and stress in tertiary education students. Methods: We searched Cochrane Central Register of Controlled Trials (CENTRAL), PubMed, PsycINFO and identified 11,936 articles. After retrieving 181 papers for full-text screening, 24 randomized controlled trials were included in the qualitative analysis. We conducted a random-effects meta-analysis amongst 23 studies with 1,373 participants. Results: At post-test, after exclusion of outliers, effect sizes for depression, g = 0.42 (95% CI: 0.16–0.69), anxiety g = 0.46 (95% CI: 0.34–0.59), stress g = 0.42 (95% CI: 0.27–0.57) were moderate. Heterogeneity was low (I2 = 6%). When compared to active control, the effect decreased to g = 0.13 (95% CI: −0.18–0.43). No RCT reported on safety, only two studies reported on academic achievement, most studies had a high risk of bias. Conclusions: Most studies were of poor quality and results should be interpreted with caution. Overall moderate effects were found which decreased substantially when interventions were compared to active control. It is unclear whether meditation, yoga or mindfulness affect academic achievement or affect have any negative side effects.
+
+Meditation Programs for Psychological Stress and Well-being: A Systematic Review and Meta-analysis
+
+Number of 
+
+Key takeaways:Meditation programs can moderately reduce negative dimensions of psychological stress, but more robust studies are needed to determine their effects on positive mental health and stress-related behaviors.
+
+Why could meditation practice help promote mental health and well-being in aging?
+
+Number of 
+
+Key takeaways:Meditation practice may help preserve brain structure and function in aging populations, potentially reducing the risk of Alzheimer's disease and promoting mental health and well-being.
+
+Abstract:Psycho-affective states or traits such as stress, depression, anxiety and neuroticism are known to affect sleep, cognition and mental health and well-being in aging populations and to be associated with increased risk for Alzheimer's disease (AD). Mental training for stress reduction and emotional and attentional regulation through meditation practice might help reduce these adverse factors. So far, studies on the impact of meditation practice on brain and cognition in aging are scarce and have limitations but the findings are encouraging, showing a positive effect of meditation training on cognition, especially on attention and memory, and on brain structure and function especially in frontal and limbic structures and insula. In line with this, we showed in a pilot study that gray matter volume and/or glucose metabolism was higher in six older adult expert meditators compared to 67 age-matched controls in the prefrontal, anterior and posterior cingulate cortex, insula and temporo-parietal junction. These preliminary findings are important in the context of reserve and brain maintenance as they suggest that long-term meditation practice might help preserve brain structure and function from progressive age-related decline. Further studies are needed to confirm these results with larger samples and in randomized controlled trials and to investigate the mechanisms underlying these meditation-related effects. The European Commission-funded project Silver Santé Study will address these challenges by studying 316 older adults including 30 expert meditators and 286 meditation-naïve participants (either cognitively normal or with subjective cognitive decline). Two randomized controlled trials will be conducted to assess the effects of 2-month and 18-month meditation, English learning or health education training programs (versus a passive control) on behavioral, sleep, blood sampling and neuroimaging measures. This European research initiative illustrates the progressive awareness of the benefit of such non-pharmacological approaches in the prevention of dementia and the relevance of taking into account the psycho-affective dimension in endeavoring to improve mental health and well-being of older adults.
+
+The Impact of Yoga and Meditation on Mental and Physical Well-being
+
+Number of 
+
+Key takeaways:Meditation and yoga significantly improve mental and physical well-being, affecting physiological aspects like heart rate, blood pressure, metabolic rate, cortical activity, and skin resistance.
+
+Abstract:Background: Meditation that has been a practice for millennia in the present era has gained immense popularity as a stress-coping tool and overall health management and improvement method. Research significantly supports meditation efficacy, revealing beneficial brain and biological changes, leading to improved mental and physical well-being. Methods: Based on an extensive review of scholarly literature about Stress, anxiety, depression mental and physical wellbeing, the present paper has been composed to through light on the impact of meditation on Physical and mental wellbeing. Result: This paper aims to offer a comprehensive overview of the current research on the relationship between meditation and health. Conclusion: The discussion in this article revolves around the impact of meditation on various aspects of the human physiology, specifically heart rate, blood pressure, metabolic rate, cortical activity, and skin resistance. The effects of meditation on human mental health, including relaxation, systematic desensitization, retrieval of repressed memories, perception, memory, stress, depression, anxiety, sleep disturbances, and relaxation, are also examined. The text addresses the major conceptual issues that require serious attention from researchers in this area for future research.
+
+Does it matter how meditation feels? An experience sampling study.
+
+Number of 
+
+Key takeaways:Meditation apps can improve psychological distress, with increased positive affect and decreased negative affect during practice being stronger predictors of distress improvements.
+
+Abstract:OBJECTIVE
+Meditation apps are the most widely used mental health apps. The precise mechanisms underlying their effects remain unclear. In particular, the degree to which affect experienced during meditation is associated with outcomes has not been established.
+
+METHOD
+We used the meditation app arm of a recently completed randomized controlled trial comparing a self-guided meditation app (Healthy Minds Program) to a waitlist control. Predominantly distressed public school employees (n = 243, 80.9% with clinically elevated depression and/or anxiety) reported positive and negative affect during meditation practice. Data were analyzed using two-level multivariate latent growth curve models (observations nested within participants) that simultaneously attended to both positive and negative affect. We examined whether positive and negative affect during meditation changed over time and whether these changes were associated with changes in psychological distress (parent trial's preregistered primary outcome) at posttest or 3-month follow-up.
+
+RESULTS
+On average, participants reported decreased negative affect but no change in positive affect during meditation over time. Increased positive affect and decreased negative affect during meditation were associated with improvements in distress at posttest and follow-up. Change in positive affect was a stronger predictor of distress at follow-up than change in negative affect.
+
+CONCLUSIONS
+Despite notions embedded within mainstream mindfulness meditation training that deemphasize the importance of the affective experience of practice (i.e., nonjudgmental awareness of present moment experience, regardless of valence), results indicate that these experiences contain signals associated with outcomes. Monitoring affect during meditation may be worthwhile to guide intervention delivery (i.e., measurement-based care, precision medicine). (PsycInfo Database Record (c) 2024 APA, all rights reserved).
+
+Meditation: Evidence Map of Systematic Reviews
+
+Number of 
+
+Key takeaways:Meditation has generally positive effects on mental health, vitality, and well-being, with the largest number of studies focusing on mental health and quality of life.
+
+Abstract:Study Basis: This evidence map presents a summary of studies that addressed the effects of meditation on various clinical and health conditions. Meditation is a contemplative practice that has been used for the promotion of health, and the treatment of different conditions. Method: The study is based on the search of four electronic databases for the period 1994-November 2019 and includes systematic reviews, meta-analyses, meta-syntheses, and integrative reviews. 3iE evidence gap map was the methodology of choice, and AMSTAR 2 was used for the analyses. Tableau was used to graphically display the confidence level, number of reviews, health outcomes, and intervention effects. Results: This map encompasses 191 studies, with Mindfulness being the key word that retrieved the highest number of results. Several meditation techniques were evaluated in different contexts, and the confidence levels of 22 studies were high, 84 were moderate, and 82 were low. Two 2 meta-syntheses and 1 integrative review were also included. Most of the studies reported positive effects and a beneficial potential of the practice of meditation. Health outcomes were divided into five groups out of which mental health and vitality, and well-being and quality of life stood out with the largest number of studies. Conclusions: Meditation has been applied in different areas. This Evidence Map intends to be an easy visual tool to access valuable evidence-based information on this complementary therapy for patients, health professionals, and managers.
+
+Alteration of faecal microbiota balance related to long-term deep meditation
+
+Number of 
+
+Key takeaways:Long-term Tibetan Buddhist meditation positively impacts physical and mental health by altering gut microbiota composition, reducing anxiety, depression, and cardiovascular disease risk, and enhancing immune function.
+
+Abstract:Background Advancements in research have confirmed that gut microbiota can influence health through the microbiota–gut–brain axis. Meditation, as an inner mental exercise, can positively impact the regulation of an individual’s physical and mental health. However, few studies have comprehensively investigated faecal microbiota following long-term (several years) deep meditation. Therefore, we propose that long-term meditation may regulate gut microbiota homeostasis and, in turn, affect physical and mental health. Aims To investigate the effects of long-term deep meditation on the gut microbiome structure. Methods To examine the intestinal flora, 16S rRNA gene sequencing was performed on faecal samples of 56 Tibetan Buddhist monks and neighbouring residents. Based on the sequencing data, linear discriminant analysis effect size (LEfSe) was employed to identify differential intestinal microbial communities between the two groups. Phylogenetic Investigation of Communities by Reconstruction of Unobserved States (PICRUSt) analysis was used to predict the function of faecal microbiota. In addition, we evaluated biochemical indices in the plasma. Results The α-diversity indices of the meditation and control groups differed significantly. At the genus level, Prevotella and Bacteroides were significantly enriched in the meditation group. According to the LEfSe analysis, two beneficial bacterial genera (Megamonas and Faecalibacterium) were significantly enriched in the meditation group. Functional predictive analysis further showed that several pathways—including glycan biosynthesis, metabolism and lipopolysaccharide biosynthesis—were significantly enriched in the meditation group. Moreover, plasma levels of clinical risk factors were significantly decreased in the meditation group, including total cholesterol and apolipoprotein B. Conclusions Long-term traditional Tibetan Buddhist meditation may positively impact physical and mental health. We confirmed that the gut microbiota composition differed between the monks and control subjects. The microbiota enriched in monks was associated with a reduced risk of anxiety, depression and cardiovascular disease and could enhance immune function. Overall, these results suggest that meditation plays a positive role in psychosomatic conditions and well-being.
+
+The effect of mindfulness meditation on sleep quality: a systematic review and meta‐analysis of randomized controlled trials
+
+Number of 
+
+Key takeaways:Mindfulness meditation may improve sleep quality in some sleep disturbed individuals, but more research is needed.
+
+Abstract:There is a growing interest in the effectiveness of mindfulness meditation for sleep disturbed populations. Our study sought to evaluate the effect of mindfulness meditation interventions on sleep quality. To assess for relative efficacy, comparator groups were restricted to specific active controls (such as evidenced‐based sleep treatments) and nonspecific active controls (such as time/attention‐matched interventions to control for placebo effects), which were analyzed separately. From 3303 total records, 18 trials with 1654 participants were included. We determined the strength of evidence using four domains (risk of bias, directness of outcome measures, consistency of results, and precision of results). At posttreatment and follow‐up, there was low strength of evidence that mindfulness meditation interventions had no effect on sleep quality compared with specific active controls (ES 0.03 (95% CI –0.43 to 0.49)) and (ES –0.14 (95% CI –0.62 to 0.34)), respectively. Additionally, there was moderate strength of evidence that mindfulness meditation interventions significantly improved sleep quality compared with nonspecific active controls at postintervention (ES 0.33 (95% CI 0.17–0.48)) and at follow‐up (ES 0.54 (95% CI 0.24–0.84)). These preliminary findings suggest that mindfulness meditation may be effective in treating some aspects of sleep disturbance. Further research is warranted.
+
+The Effect of Meditation-Based Mind-Body Interventions on Older Adults with Poor Sleep Quality: A Meta-Analysis of Randomized Controlled Trials
+
+Number of 
+
+Key takeaways:Meditation-based mind-body interventions significantly improved sleep quality and reduced depression and anxiety in older adults with poor sleep quality.
+
+Abstract:ABSTRACT Aims and objective This study aims to evaluate the effect of meditation-based mind-body interventions (MBIs) (Mindfulness, Tai Chi, Yoga, and Qigong) for older adults with poor sleep quality. Background Poor sleep quality exerts negative impact on life quality of old adults. The meditation-based mind-body interventions, with merits of simplicity, practicality, accessibility, and widespread dissemination, have been widely used to improve sleep in the older adults. However, the effects of MBIs on sleep quality of old adults are largely unknown. Method A comprehensive systematic review and meta-analysis were carried out following the PRISMA-P guidelines. Embase, PubMed, CINAHL, PsycINFO, Cochrane Library, Web of Science, and CNKI databases were searched to gather randomized controlled trials (RCTs) on the effects of MBIs on older adults with poor sleep quality. Study quality was evaluated by the Cochrane Risk of Bias tool. Results This study included 11 randomized controlled trials (with 1,052 participants) published between 2008 and 2023. Compared to the control group, there was a significant improvement in sleep quality (SMD= -0.66, 95%CI , P<0.00001), depression (SMD=-1.60, 95% CI , P=0.005), and anxiety (SMD= -1.46, 95% CI , P=0.026) for older adults with poor sleep quality. However, there was no statistically significant difference in the treatment effect for stress (SMD= -4.45, 95% CI , P=0.196). Conclusion Meditation-based mind-body interventions significantly improved the sleep quality of older adults with poor sleep quality. Nevertheless, more evidence is needed to support this. Registration The protocol for this study was registered with PROSPERO (CRD42023445082). PROSPERO registration number CRD42023445082.
+
+Mindfulness meditation for insomnia: A meta-analysis of randomized controlled trials.
+
+Number of 
+
+Key takeaways:Mindfulness meditation may mildly improve sleep parameters in patients with insomnia and can serve as an auxiliary treatment to medication for sleep complaints.
+
+The effect of meditative movement on sleep quality: A systematic review.
+
+Number of 
+
+Key takeaways:Meditative movements, such as tai chi, qi gong, and yoga, can improve sleep quality and overall quality of life, but more rigorous research is needed to confirm their efficacy.
+
+The Effects of Morning vs. Evening Mindfulness Meditation on Sleep, Anxiety, and Decentering: A Pilot Analysis
+
+Number of 
+
+Key takeaways:Mindfulness meditation, whether done in the morning or evening, can improve psychological well-being and decrease anxiety, but does not significantly change sleep parameters or sleep efficiency.
+
+Abstract:According to the CDC, most children and about 1 in 3 adults in the United States fail to reach their age group recommended quantity of sleep. Recently, non‐pharmacological sleep aids, such as meditation, have gained popularity. However, to our knowledge there is no research data that compares sleep metrics or psychological well‐being between those that meditate in the morning vs. in the evening. This study aims to investigate the potential circadian‐dependent effects of meditation timing and how it may influence metrics of sleep and psychological well‐being. We hypothesized that those who meditate just before sleep would have improved sleep parameters and self‐reported feelings of psychological well‐being when compared to those that meditate in the morning. Sixteen college students participated in the study, eight who meditated in the morning (5M; 3F) after waking and eight who meditated in the evening (4M; 4F) just before going to sleep. Participants were asked to wear an Actiwatch Spectrum PRO to evaluate physical activity and sleep throughout the recording periods. The first phase of the protocol consisted of a 4‐day (Monday‐Thursday) baseline recording period where total sleep time (TST) and sleep efficiency measures were recorded. Participants were instructed to not meditate during the baseline period. During the 4‐day intervention period which occurred the following week (Monday‐Thursday), participants were randomized to a 24‐minute pre‐sleep or morning mindfulness meditation intervention from the app Insight Timer. At the conclusion of both baseline and intervention time periods (on Friday of each respective week), participants were instructed to complete a state‐trait anxiety inventory (STAI), a Five Facts of Mindfulness Questionnaire, and a Decentering Questionnaire. Means were considered to be significantly different when p<0.05. The acute meditation protocols did not significantly change TST from baseline in the morning (6.7±0.2 vs. 6.8±0.2 hours) or evening (6.9±0.3 vs. 7.2±0.2 hours) meditators. Likewise, sleep efficiency was not significantly changed in either group. However, there was a significant decrease in both state and trait anxiety (baseline vs. treatment, p<0.02 for both), and a significant increase in the five facets of mindfulness and ability to decenter (baseline vs. treatment, p<0.01 for both). Our preliminary results suggest that acute meditation can help to improve several measures of psychological well‐being whether it is done in the morning or evening. Further investigation within our own study and from others may help to better understand whether evening meditation can offer specific sleep benefits.
+
+Meditation and sleep quality: integrative review
+
+Number of 
+
+Key takeaways:Meditation improves sleep quality and reduces sleep-related problems, with positive effects on attention, perception, and reaction time.
+
+Abstract:To review the available scientific content regarding the relationship between meditation and sleep quality PubMed, Scopus and Web of Science databases were searched with the keywords “meditation”, “sleep” and “sleep disorder”. Articles were considered if 
+
+0862 Effect of meditation and relaxation on physiological markers of stress and sleep
+
+Number of 
+
+Key takeaways:Meditation and relaxation techniques can improve deep sleep and reduce heart rate and breathing rate, benefiting peri- and post-menopausal women with early-life physical abuse trauma.
+
+Abstract:Both breathing based meditation (interoceptive) and relaxation by improving blood circulation using heat and massage (exteroceptive) are known to reduce physiological stress. In this study, we determined the effect of stress-reduction on sleep. Our main population of interest was peri- and post- menopausal women who may develop sleep disorders correlated with early-life physical abuse.
+ 
+ 
+ 
+ 20 adults (15 peri- and post-menopausal females), 13 with high risk of sleep apnea (determined by Berlin questionnaire, age mean±SEM, 54±3 years, waist-by-neck 2.6±0.07, BMI 26±1 kg/m2, Insomnia Severity Index (ISI) Scale 5.71±1.23, Generalized Anxiety (GAD-7) Score 5.33±1.22, Early Trauma Inventory Self-Report Short Form (ETISR-SF)physical 3±0.17. Dreem3 headband was used to get breathing rate (BR), sleep efficiency, sleep staging. Plethysmography was used to obtain mean and nadir oxygen saturation %, heart rate (HR), oxygen desaturation (4%) event index (ODI). BMI, age, waist/neck were recorded. Baseline sleep measures were compared against sleep after administration of 10 minutes rest, 10 minutes relaxation and 10 minutes of Ujjayi pranayama with repeats of 4 in-, 4 hold-, 6 out- breaths. ETISR-physical was correlated with all measures. Paired t-tests were conducted on sleep measures at baseline and after meditation/relaxation. One-sample t-tests were conducted on average % changes during meditation/relaxation compared to rest.
+ 
+ 
+ 
+ Early-life physical trauma correlated positively with BR during REM sleep (Pearson R= 0.68). Deep sleep significantly (p=0.04) increased by 5% on the sleep after meditation/relaxation. Both meditation and relaxation techniques significantly (p< 0.01) lowered HR by 1.5% and 4.5%, and BR by 20% and 15% respectively during Ujjayi pranayama and relaxation. We observed significant increase (p< 0.05) in oxygen saturation with the Ujjayi pranayama by 0.3%.
+ 
+ 
+ 
+ Early-life physical abuse was correlated with faster breathing during REM sleep validating existing literature. Both HR and BR were reduced during meditation and relaxation techniques, thus validating their stress-reduction effects. % of deep sleep improved on the night when meditation/relaxation session was administered. Mind-body practices could improve deep sleep if practiced regularly even in peri- and post-menopausal women having early-life physical abuse trauma.
+ 
+ 
+ 
+ Sleep Research Society (SRS) Small Research Grant 2022.
+
+Mindfulness meditation and improvement in sleep quality and daytime impairment among older adults with sleep disturbances: a randomized clinical trial.
+
+Number of 
+
+Key takeaways:Mindfulness meditation significantly improves sleep quality and reduces daytime impairment in older adults with sleep disturbances, more effectively than sleep hygiene education.
+
+Abstract:IMPORTANCE
+Sleep disturbances are most prevalent among older adults and often go untreated. Treatment options for sleep disturbances remain limited, and there is a need for community-accessible programs that can improve sleep.
+
+OBJECTIVE
+To determine the efficacy of a mind-body medicine intervention, called mindfulness meditation, to promote sleep quality in older adults with moderate sleep disturbances.
+
+DESIGN, SETTING, AND PARTICIPANTS
+Randomized clinical trial with 2 parallel groups conducted from January 1 to December 31, 2012, at a medical research center among an older adult sample (mean age, 66.3 years) with moderate sleep disturbances (Pittsburgh Sleep Quality Index >5).
+
+INTERVENTIONS
+A standardized mindful awareness practices (MAPs) intervention (n = 24) or a sleep hygiene education (SHE) intervention (n = 25) was randomized to participants, who received a 6-week intervention (2 hours per week) with assigned homework.
+
+MAIN OUTCOMES AND MEASURES
+The study was powered to detect between-group differences in moderate sleep disturbance measured via the PSQI at postintervention. Secondary outcomes pertained to sleep-related daytime impairment and included validated measures of insomnia symptoms, depression, anxiety, stress, and fatigue, as well as inflammatory signaling via nuclear factor (NF)-κB.
+
+RESULTS
+Using an intent-to-treat analysis, participants in the MAPs group showed significant improvement relative to those in the SHE group on the PSQI. With the MAPs intervention, the mean (SD) PSQIs were 10.2 (1.7) at baseline and 7.4 (1.9) at postintervention. With the SHE intervention, the mean (SD) PSQIs were 10.2 (1.8) at baseline and 9.1 (2.0) at postintervention. The between-group mean difference was 1.8 (95% CI, 0.6-2.9), with an effect size of 0.89. The MAPs group showed significant improvement relative to the SHE group on secondary health outcomes of insomnia symptoms, depression symptoms, fatigue interference, and fatigue severity (P < .05 for all). Between-group differences were not observed for anxiety, stress, or NF-κB, although NF-κB concentrations significantly declined over time in both groups (P < .05).
+
+CONCLUSIONS AND RELEVANCE
+The use of a community-accessible MAPs intervention resulted in improvements in sleep quality at immediate postintervention, which was superior to a highly structured SHE intervention. Formalized mindfulness-based interventions have clinical importance by possibly serving to remediate sleep problems among older adults in the short term, and this effect appears to carry over into reducing sleep-related daytime impairment that has implications for quality of life.
+
+TRIAL REGISTRATION
+clinicaltrials.gov Identifier: NCT01534338.
+
+The effects of different meditation exercises on sleep quality in older people: a network meta-analysis
+
+Number of 
+
+Key takeaways:Qigong, Yoga, and Tai Chi significantly improve sleep disorders in older people, with Qigong having the best effect followed by Yoga.
+
+Abstract:BackgroundChronic sleep loss or sleep disorders is a public health problem affecting older people and cause many health problems. We aim to estimate the effects of different meditation exercises on relieving and improvement of sleep disorders in older people using the pairwise and network meta-analyses.MethodsRandomized controlled trials, which were published in English and reported on meditation exercises for sleep disorders in the older people, were retrieved from PubMed and EMBASE up to May 2018. Publication bias of the included studies were assessed by the Cochrane Collaboration recommendations. Network meta-analysis was performed by ADDIS, and all test models used random-effects model. Pooled effect sizes were presented with weighted mean differences (WMDs) and 95% confidence interval (CI).ResultsA total of ten studies were included in our research. Pairwise comparisons indicated that Qigong could significantly improve the quality of sleep in older people with sleep disorders compared with Activities (WMD = − 4.28, 95% CI − 5.75 to − 2.81). In addition, there were significant differences in Education vs. Usual care (WMD = 2.60, 95% CI 1.03–4.17) and Tai Chi vs. Activities (WMD = − 1.05, 95% CI − 1.73 to − 0.38). With great consistence and convergence, network meta-analysis showed that there was a significant difference in Qigong vs. Activities (WMD = − 4.23, 95% CI − 8.31 to − 0.21). Moreover, Qigong showed a best outcome in relieving sleep disorders, followed by Yoga.ConclusionsQigong, Yoga, and Tai Chi improved sleep disorders in the older people, and Qigong intervention had the best effect followed by Yoga. A long-term clinical verification should be needed in the future.
+
+Effectiveness of a short Yoga Nidra meditation on stress, sleep, and well-being in a large and diverse sample
+
+Number of 
+
+Key takeaways:A short Yoga Nidra meditation, lasting 11 minutes, can positively influence stress, sleep, and well-being in a diverse population.
+
+Abstract:Abstract Previous studies have shown that meditation-based interventions can have a significant impact on stress and well-being in various populations. To further extend these findings, an 11-min Yoga Nidra meditation that may especially be integrated in a busy daily schedule by people who can only afford short time for breaks was adapted and analyzed in an experimental online study design. The effects of this short meditation on stress, sleep, well-being and mindfulness were examined for the first time. The meditation was provided as audio file and carried out during a period of 30 days by the participants of the meditation group. A Structural Equation Model (SEM) was used to analyze the data with Full Information Maximum Likelihood (FIML) in order to cope with missing data. As expected, the meditation group ( N = 341) showed lower stress, higher well-being and improved sleep quality after the intervention (very small to small effect sizes) compared with a waitlist control group ( N = 430). It turned out that the meditation had a stronger impact on the reduction of negative affect than on the increase of positive affect and also a stronger effect on affective components of well-being. Mindfulness, as a core element of the meditation, increased during the study within the meditation group. All effects remained stable at follow-up six weeks later. Overall, a large, heterogeneous sample showed that already a very short dose of meditation can positively influence stress, sleep, and well-being. Future research should consider biological markers as well as active control groups.
+
+Meditation and Its Regulatory Role on Sleep
+
+Number of 
+
+Key takeaways:Meditation practices influence brain functions and self-regulate sleep, promoting relaxation and improved sleep quality.
+
+Abstract:Intense meditation practices help to achieve a harmony between body and mind. Meditation practices influence brain functions, induce various intrinsic neural plasticity events, modulate autonomic, metabolic, endocrine, and immune functions and thus mediate global regulatory changes in various behavioral states including sleep. This brief review focuses on the effect of meditation as a self regulatory phenomenon on sleep.
+
+Effects of mindfulness-based stress reduction on sleep quality and mental health for insomnia patients: A meta-analysis.
+
+Number of 
+
+Key takeaways:Mindfulness-based stress reduction (MBSR) significantly improves sleep quality and mental health in insomnia patients.
+
+Meditation acutely improves psychomotor vigilance, and may decrease sleep need
+
+Number of 
+
+Key takeaways:Meditation improves short-term psychomotor vigilance in novice meditators and may decrease total sleep time in long-term experienced meditators.
+
+Abstract:Abstract Background A number of benefits from meditation have been claimed by those who practice various traditions, but few have been well tested in scientifically controlled studies. Among these claims are improved performance and decreased sleep need. Therefore, in these studies we assess whether meditation leads to an immediate performance improvement on a well validated psychomotor vigilance task (PVT), and second, whether longer bouts of meditation may alter sleep need. Methods The primary study assessed PVT reaction times before and after 40 minute periods of mediation, nap, or a control activity using a within subject cross-over design. This study utilized novice meditators who were current university students (n = 10). Novice meditators completed 40 minutes of meditation, nap, or control activities on six different days (two separate days for each condition), plus one night of total sleep deprivation on a different night, followed by 40 minutes of meditation. A second study examined sleep times in long term experienced meditators (n = 7) vs. non-meditators (n = 23). Experienced meditators and controls were age and sex matched and living in the Delhi region of India at the time of the study. Both groups continued their normal activities while monitoring their sleep and meditation times. Results Novice meditators were tested on the PVT before each activity, 10 minutes after each activity and one hour later. All ten novice meditators improved their PVT reaction times immediately following periods of meditation, and all but one got worse immediately following naps. Sleep deprivation produced a slower baseline reaction time (RT) on the PVT that still improved significantly following a period of meditation. In experiments with long-term experienced meditators, sleep duration was measured using both sleep journals and actigraphy. Sleep duration in these subjects was lower than control non-meditators and general population norms, with no apparent decrements in PVT scores. Conclusions These results suggest that meditation provides at least a short-term performance improvement even in novice meditators. In long term meditators, multiple hours spent in meditation are associated with a significant decrease in total sleep time when compared with age and sex matched controls who did not meditate. Whether meditation can actually replace a portion of sleep or pay-off sleep debt is under further investigation.
+
+Effect of virtual reality meditation on sleep quality of intensive care unit patients: A randomised controlled trial.
+
+Number of 
+
+Key takeaways:Virtual reality meditation positively affects the sleep quality of intensive care unit patients, promoting shorter awake times, longer deep sleep, and higher sleep efficiency.
+
+Stress as the Missing Link Between Mindfulness, Sleep Quality, and Well-being: a Cross-sectional Study
+
+Number of 
+
+Key takeaways:Mindfulness reduces stress, which mediates the positive relationship between mindfulness, sleep quality, and well-being, rather than sleep quality itself.
+
+Abstract:ObjectivesThere is ample evidence that mindfulness contributes to psychological well-being. There is also evidence that mindfulness can improve sleep, and previous research has suggested that the positive effects of mindfulness on well-being may depend on its capacity to decrease sleep disturbances. However, it is possible that a third factor that is affected by mindfulness may in turn affect both sleep quality and well-being. Given the well-known protective effects of mindfulness on stress and the influence of stress on both sleep disturbance and well-being, stress represents a strong candidate for such a mediational role.MethodsWe collected cross-sectional data on mindfulness, stress, sleep disturbance, and well-being in a sample of adults taken from the general population, and then we applied structural equation modeling to analyze the relationships between a set of latent variables.ResultsOur results confirm that mindfulness is negatively related to stress and this effect fully mediates the positive relationship between mindfulness and both sleep quality and well-being. Furthermore, our results show that if the effect of stress is taken into account, sleep quality does not mediate the influence of mindfulness on well-being and in fact does not relate to well-being at all.ConclusionsOur study points to the central role of stress reduction in explaining the beneficial effects of mindfulness on both behavioral and psychological variables.
+
+A mindfulness meditation mobile app improves depression and anxiety in adults with sleep disturbance: Analysis from a randomized controlled trial.
+
+Number of 
+
+Key takeaways:A meditation app can improve depression and anxiety in adults with sleep disturbance, primarily by reducing pre-sleep arousal.
+
+Be present now, sleep well later: Mindfulness promotes sleep health via emotion regulation.
+
+Number of 
+
+Key takeaways:Mindfulness promotes employee sleep health by reducing rumination and negative affect, but not positive affect, with both trait and state mindfulness showing comparable benefits.
+
+Abstract:OBJECTIVE
+Despite the popularity of mindfulness in research and interventions, information is missing about how and why mindfulness may benefit employee sleep health. Drawing from emotion regulation theory, we evaluate affective rumination, negative affect, and positive affect as potential mechanisms. We also explore differential effects of trait and state attentional mindfulness on both subjective (e.g., quality and sufficiency) and actigraphy-measured aspects (e.g., duration and wake after sleep onset) of sleep health.
+
+METHOD
+Ecological momentary assessment and sleep actigraphy data were collected across two independent samples of health care workers (N1 = 60, N2 = 84). Ecological momentary assessment was also used to collect daily information on state mindfulness, affect, and rumination.
+
+RESULTS
+Our results support rumination and, to a less consistent extent, negative affect as mediators of the association between mindfulness and sleep health but not positive affect. Trait and state mindfulness demonstrate comparable benefits for employee sleep health, but these benefits largely emerge for subjective sleep dimensions than actigraphy-measured.
+
+CONCLUSIONS
+These findings support emotion regulation as a sound theoretical framework for sleep and mindfulness research and may support more informed workplace mindfulness interventions. (PsycInfo Database Record (c) 2024 APA, all rights reserved).
+
+Positive affect and sleep: A systematic review.
+
+Number of 
+
+Key takeaways:Positive affect is associated with better sleep in healthy populations, but more rigorous research is needed to confirm its beneficial impact on sleep outcomes in clinical populations.
+
+Does Meditation Enhance Cognition and Brain Plasticity?
+
+Number of 
+
+Key takeaways:Meditation may preserve cognition and brain plasticity, potentially preventing dementia and reducing the risk of cerebrovascular disease and age-related neurodegeneration.
+
+Abstract:Meditation practices have various health benefits including the possibility of preserving cognition and preventing dementia. While the mechanisms remain investigational, studies show that meditation may affect multiple pathways that could play a role in brain aging and mental fitness. For example, meditation may reduce stress‐induced cortisol secretion and this could have neuroprotective effects potentially via elevating levels of brain derived neurotrophic factor (BDNF). Meditation may also potentially have beneficial effects on lipid profiles and lower oxidative stress, both of which could in turn reduce the risk for cerebrovascular disease and age‐related neurodegeneration. Further, meditation may potentially strengthen neuronal circuits and enhance cognitive reserve capacity. These are the theoretical bases for how meditation might enhance longevity and optimal health. Evidence to support a neuroprotective effect comes from cognitive, electroencephalogram (EEG), and structural neuroimaging studies. In one cross‐sectional study, meditation practitioners were found to have a lower age‐related decline in thickness of specific cortical regions. However, the enthusiasm must be balanced by the inconsistency and preliminary nature of existing studies as well as the fact that meditation comprises a heterogeneous group of practices. Key future challenges include the isolation of a potential common element in the different meditation modalities, replication of existing findings in larger randomized trials, determining the correct “dose,” studying whether findings from expert practitioners are generalizable to a wider population, and better control of the confounding genetic, dietary and lifestyle influences.
+
+Decoding meditation mechanisms underlying brain preservation and psycho-affective health in older expert meditators and older meditation-naive participants
+
+Number of 
+
+Key takeaways:Meditation in aging leads to brain changes that decrease negative psycho-affective factors and increase positive ones through specific mechanisms.
+
+Effect of Meditation on Cognitive Functions in Context of Aging and Neurodegenerative Diseases
+
+Number of 
+
+Key takeaways:Meditation techniques show a positive effect on attention, memory, verbal fluency, and cognitive flexibility in older people and those with neurodegenerative diseases.
+
+Abstract:Effect of different meditation practices on various aspects of mental and physical health is receiving growing attention. The present paper reviews evidence on the effects of several mediation practices on cognitive functions in the context of aging and neurodegenerative diseases. The effect of meditation in this area is still poorly explored. Seven studies were detected through the databases search, which explores the effect of meditation on attention, memory, executive functions, and other miscellaneous measures of cognition in a sample of older people and people suffering from neurodegenerative diseases. Overall, reviewed studies suggested a positive effect of meditation techniques, particularly in the area of attention, as well as memory, verbal fluency, and cognitive flexibility. These findings are discussed in the context of MRI studies suggesting structural correlates of the effects. Meditation can be a potentially suitable non-pharmacological intervention aimed at the prevention of cognitive decline in the elderly. However, the conclusions of these studies are limited by their methodological flaws and differences of various types of meditation techniques. Further research in this direction could help to verify the validity of the findings and clarify the problematic aspects.
+
+The impact of meditation on sustained attention in nonclinical population: An extensive review
+
+Number of 
+
+Key takeaways:Meditation, including focussed attention and open monitoring, positively impacts sustained attention in non-clinical populations, with regular practice leading to superior cognitive benefits.
+
+The potential effects of meditation on age‐related cognitive decline: a systematic review
+
+Number of 
+
+Key takeaways:Meditation interventions for older adults are feasible and may counter age-related cognitive decline, but more research is needed.
+
+Abstract:With a rapidly aging society it becomes increasingly important to counter normal age‐related decline in cognitive functioning. Growing evidence suggests that cognitive training programs may have the potential to counteract this decline. On the basis of a growing body of research that shows that meditation has positive effects on cognition in younger and middle‐aged adults, meditation may be able to offset normal age‐related cognitive decline or even enhance cognitive function in older adults. In this paper, we review studies investigating the effects of meditation on age‐related cognitive decline. We searched the Web of Science (1900 to present), PsycINFO (1597 to present), MEDLINE (1950 to present), and CABI (1910 to present) to identify original studies investigating the effects of meditation on cognition and cognitive decline in the context of aging. Twelve studies were included in the review, six of which were randomized controlled trials. Studies involved a wide variety of meditation techniques and reported preliminary positive effects on attention, memory, executive function, processing speed, and general cognition. However, most studies had a high risk of bias and small sample sizes. Reported dropout rates were low and compliance rates high. We conclude that meditation interventions for older adults are feasible, and preliminary evidence suggests that meditation can offset age‐related cognitive decline.
+
+Alterations in Brain and Immune Function Produced by Mindfulness Meditation
+
+Number of 
+
+Key takeaways:Mindfulness meditation, a short 8-week program, positively affects brain and immune function, suggesting potential benefits for mental and physical health.
+
+Abstract:Objective: The underlying changes in biological processes that are associated with reported changes in mental and physical health in response to meditation have not been systematically explored. We performed a randomized, controlled study on the effects on brain and immune function of a well‐known and widely used 8‐week clinical training program in mindfulness meditation applied in a work environment with healthy employees. Methods: We measured brain electrical activity before and immediately after, and then 4 months after an 8‐week training program in mindfulness meditation. Twenty‐five subjects were tested in the meditation group. A wait‐list control group (N = 16) was tested at the same points in time as the meditators. At the end of the 8‐week period, subjects in both groups were vaccinated with influenza vaccine. Results: We report for the first time significant increases in left‐sided anterior activation, a pattern previously associated with positive affect, in the meditators compared with the nonmeditators. We also found significant increases in antibody titers to influenza vaccine among subjects in the meditation compared with those in the wait‐list control group. Finally, the magnitude of increase in left‐sided activation predicted the magnitude of antibody titer rise to the vaccine. Conclusions: These findings demonstrate that a short program in mindfulness meditation produces demonstrable effects on brain and immune function. These findings suggest that meditation may change brain and immune function in positive ways and underscore the need for additional research.
+
+Brain Over Mind, Mind Over Brain: Cognitive Strategies for Regulating Brain Activity
+
+Number of 
+
+Key takeaways:Meditation positively affects brain structure, processing speed, mood, and immune function, potentially benefiting mental health issues like Alzheimer's, epilepsy, Parkinson's, migraines, chronic pain, and anxiety.
+
+Abstract:Research and results: This study examines how meditation affects the brain utilizing fMRI, EEG-fMRI, machine learning, AI, molecular profiling, optogenetics, animal models, and clinical trials. It examines how meditation affects brain oscillations, connection patterns, and neurofeedback mechanisms and its therapeutic potential in Alzheimer's, epilepsy, Parkinson's, migraines, chronic pain, and mental health issues. Meditation increases brain structure, gray matter density, cortical thickness, and information processing speed. Meditation affects neurotransmitters, hormones, and the autonomic nervous system, regulating mood, attention, immunological function, and inflammation. Focus, emotion regulation, empathy, communal bonding, reduced inflammation, enhanced productivity, and illness mitigation are also discussed in meditation. Aim: This study endeavors to inform mental health patients and healthcare providers about the benefits of meditation as a therapy for mental diseases. Methods and tools: A professional psychologist who self-healed from schizophrenia found that meditation may help. Personal experience and literature evaluation inform the research, which includes peer-reviewed papers and empirical research. Psychology ethics provide anonymity and informed consent in the study. The data confirm meditation's therapeutic and mental health effects. Conclusion: The study advances meditation science and lays the groundwork for mental health clinical trials.
+
+Biological mechanism study of meditation and its application in mental disorders
+
+Number of 
+
+Key takeaways:Meditation positively impacts brain structure and function, and has been shown to be effective in treating mental disorders like major depressive disorders and substance-related disorders.
+
+Abstract:In recent years, research on meditation as an important alternative therapy has developed rapidly and been widely applied in clinical medicine. Mechanism studies of meditation have also developed progressively, showing that meditation has great impact on brain structure and function, and epigenetic and telomere regulation. In line with this, the application of meditation has gradually been expanded to mental illness, most often applied for major depressive disorders and substance-related and addictive disorders. The focus of this paper is to illustrate the biological mechanisms of meditation and its application in mental disorders.
+
+The effect of meditation on brain structure: cortical thickness mapping and diffusion tensor imaging.
+
+Number of 
+
+Key takeaways:Long-term meditators show structural differences in both gray and white matter in their brains, with greater thickness in frontal and temporal regions and thinner thickness in posterior regions.
+
+Abstract:A convergent line of neuroscientific evidence suggests that meditation alters the functional and structural plasticity of distributed neural processes underlying attention and emotion. The purpose of this study was to examine the brain structural differences between a well-matched sample of long-term meditators and controls. We employed whole-brain cortical thickness analysis based on magnetic resonance imaging, and diffusion tensor imaging to quantify white matter integrity in the brains of 46 experienced meditators compared with 46 matched meditation-naïve volunteers. Meditators, compared with controls, showed significantly greater cortical thickness in the anterior regions of the brain, located in frontal and temporal areas, including the medial prefrontal cortex, superior frontal cortex, temporal pole and the middle and interior temporal cortices. Significantly thinner cortical thickness was found in the posterior regions of the brain, located in the parietal and occipital areas, including the postcentral cortex, inferior parietal cortex, middle occipital cortex and posterior cingulate cortex. Moreover, in the region adjacent to the medial prefrontal cortex, both higher fractional anisotropy values and greater cortical thickness were observed. Our findings suggest that long-term meditators have structural differences in both gray and white matter.
+
+The psychological effects of meditation: a meta-analysis.
+
+Number of 
+
+Key takeaways:Meditation has medium-sized effects on emotionality and relationship issues, with weaker effects on attention and cognitive measures.
+
+Abstract:In this meta-analysis, we give a comprehensive overview of the effects of meditation on psychological variables that can be extracted from empirical studies, concentrating on the effects of meditation on nonclinical groups of adult meditators. Mostly because of methodological problems, almost ¾ of an initially identified 595 studies had to be excluded. Most studies appear to have been conducted without sufficient theoretical background. To put the results into perspective, we briefly summarize the major theoretical approaches from both East and West. The 163 studies that allowed the calculation of effect sizes exhibited medium average effects (r = .28 for all studies and r = .27 for the n = 125 studies from reviewed journals), which cannot be explained by mere relaxation or cognitive restructuring effects. In general, results were strongest (medium to large) for changes in emotionality and relationship issues, less strong (about medium) for measures of attention, and weakest (small to medium) for more cognitive measures. However, specific findings varied across different approaches to meditation (transcendental meditation, mindfulness meditation, and other meditation techniques). Surprisingly, meditation experience only partially covaried with long-term impact on the variables examined. In general, the dependent variables used cover only some of the content areas about which predictions can be made from already existing theories about meditation; still, such predictions lack precision at present. We conclude that to arrive at a comprehensive understanding of why and how meditation works, emphasis should be placed on the development of more precise theories and measurement devices.
+
+EEG changes induced by meditative practices: State and trait effects in healthy subjects and in patients with epilepsy.
+
+Number of 
+
+Key takeaways:Meditation can alter brain activity and potentially improve psychological functioning and seizure frequency in patients with epilepsy.
+
+Comparison of the Effect of Religious Meditation on the Brain
+
+Number of 
+
+Key takeaways:Religious meditation reduces stress symptoms, improves physical health, and boosts immunity to disease, while also decreasing beta waves in the brain.
+
+Abstract:This article compares the effects of religious meditation on the brain. Meditation is recommended as a way to strengthen physical and psychological health. It has many positive benefits, from reducing stress symptoms to relieving physical problems such as headaches and even boosting immunity to disease. The general difference between meditating and not meditating is that when meditating, our brain stops processing the fast and active information it is constantly doing. Our brains begin to show a decrease in beta waves; Waves that indicate information processing operations in the brain. Religious meditation and its effect on the brain Meditation of Arabic words is from the root of rival and its 
+
+Effects of Savoring Meditation on Positive Emotions and Pain-Related Brain Function: A Mechanistic Randomized Controlled Trial in People With Rheumatoid Arthritis.
+
+Number of 
+
+Key takeaways:Savoring Meditation is a positive emotion-enhancing intervention that reduces pain intensity and engages neural and subjective emotional targets in patients with chronic pain.
+
+Spreading positive change: Societal benefits of meditation
+
+Number of 
+
+Key takeaways:Meditation-induced changes can spread through social networks, positively influencing others through prosocial actions, improved cognitive functioning, and increased positive affect.
+
+Abstract:Research over the past decades has revealed a variety of beneficial effects of meditation training. These beneficial effects span the levels of health and well-being, cognition, emotion, and social behavior. Around the same time, sociologists have shown that traits and outcomes on the individual level have the potential to spread in communities over three or more degrees. This means, for example, that changes can spread from one person to the next, and on to yet another person. Here, we propose that meditation-induced changes may likewise spread through the social networks of meditation practitioners. Such spreading may happen by positively influencing others through prosocial actions, improved cognitive functioning, and increased positive affect. Positive affective states and their underlying physiological correlates may also be shared in the literal sense. We argue that the spreading of positive meditation effects could provide the basis for collective responses to some of the urgent challenges we face in our current time and society and call for future meditation research to examine the phenomenon.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

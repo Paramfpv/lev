@@ -1,0 +1,515 @@
+PROTOCOL: High-intensity interval training (hiit)
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: 
+DESCRIPTION: High-Intensity Interval Training (HIIT) is an effective and time-efficient method for improving health across multiple domains. It positively affects the cardiovascular, metabolic, and mental health systems. Through intense, short training sessions, HIIT promotes fat reduction, enhances insulin sensitivity, boosts aerobic capacity, and reduces symptoms of depression and anxiety.
+
+CONTENT SECTIONS:
+
+High-intensity interval training (hiit)
+
+Improved performance, metabolism, and mental health
+
+High-Intensity Interval Training (HIIT) is an effective and time-efficient method for improving health across multiple domains. It positively affects the cardiovascular, metabolic, and mental health systems. Through intense, short training sessions, HIIT promotes fat reduction, enhances insulin sensitivity, boosts aerobic capacity, and reduces symptoms of depression and anxiety.
+
+Level of evidence:Strong
+
+HIIT involves alternating short periods of very intense physical effort with periods of active recovery or rest. This form of training stimulates metabolic and cardiovascular adaptations, increases fat burning efficiency, and improves heart and blood vessel function. Additionally, the high intensity promotes the release of neurotransmitters and hormones that enhance mood and reduce stress and anxiety.
+
+High-Intensity Interval Training is generally well tolerated by most individuals, including those with chronic diseases. However, mild side effects may occur, especially in cases of inadequate physical preparation or overly intense exercise.
+
+HIIT is not recommended for individuals with serious cardiovascular conditions without prior medical consultation, or for those with medical contraindications to intense physical activity.
+
+Typically 2–4 sessions per week, each lasting 10–30 minutes, with high-intensity intervals lasting 15–60 seconds.
+
+Running, cycling, strength exercises, jumping, and other activities that allow for intense effort.
+
+First noticeable effects after 3–4 weeks of regular practice.
+
+Best combined with other training or done during active hours of the day, e.g., morning or afternoon.
+
+Gradual increase in intensity
+
+Start with shorter intervals and lower intensity, gradually increasing the load and session duration.
+
+Use different types of activities to engage various muscle groups and avoid monotony.
+
+Ensure rest days and proper warm-up and stretching to prevent injury.
+
+Individuals with chronic conditions should consult a doctor before starting HIIT.
+
+High-Intensity Interval Training (HIIT) significantly supports metabolic health – improving fat burning, insulin sensitivity, lipid profile, and glycemic control. These benefits apply to both healthy individuals and those with metabolic disorders, and HIIT's effects are often comparable to or better than moderate training.
+
+Metabolic effects of HIIT
+
+Time efficiency and versatility
+
+Cardiovascular system
+
+High-Intensity Interval Training (HIIT) significantly improves cardiovascular health – increasing cardiorespiratory fitness, lowering blood pressure, enhancing vascular and heart function, and positively affecting lipid profile. These effects are observed in both healthy individuals and those with heart disease, overweight, or obesity. HIIT is safe when protocols are appropriately matched to the participant's abilities.
+
+Key cardiovascular benefits of HIIT
+
+HIIT vs. moderate-intensity continuous training (MICT)
+
+Summary of HIIT cardiovascular effects
+
+High-Intensity Interval Training (HIIT) clearly improves mental health: it reduces symptoms of depression, anxiety, and stress while enhancing overall well-being and quality of life. The effects apply to both healthy individuals and those with mental disorders. HIIT is as effective or more effective than moderate training, while being more time-efficient.
+
+Main mental health benefits of HIIT
+
+Practical observations and conclusions
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:53
+
+Final comment:High-Intensity Interval Training (HIIT) has broad and strong scientific support confirming its effectiveness in various populations, including healthy individuals, those with cardiovascular and metabolic diseases, as well as mental health disorders. The evidence comes from numerous randomized controlled trials, meta-analyses, and systematic reviews that consistently demonstrate the benefits of HIIT, such as improved aerobic capacity, heart function, lipid profile, glycemic control, weight loss, and positive effects on mental health. These studies are well-designed and confirm the intervention’s effectiveness across different age groups and health conditions. Additionally, HIIT is considered safe and well-tolerated, as confirmed by research involving patients with chronic diseases and older adults.
+
+Narrative Review of High-Intensity Interval Training: Positive Impacts on Cardiovascular Health and Disease Prevention
+
+Number of 
+
+Key takeaways:HIIT is an effective and safe exercise modality for improving cardiovascular health, metabolic indicators, mental health, and quality of life in high-risk populations.
+
+Abstract:Background: High-intensity interval training (HIIT) has gained recognition for its positive impacts on cardiovascular (CV) health, metabolic outcomes, mental health, and quality of life (QoL). This narrative review aims to comprehensively evaluate the efficacy of HIIT in enhancing CV health and preventing CV disease (CVD). Methods: A comprehensive search of PubMed identified 257 articles, of which 39 studies met predefined inclusion and exclusion criteria for quality assessment. Key metrics evaluated included blood pressure, vascular function, lipid profiles, body composition, and CRF. Results: HIIT significantly improved vascular function, evidenced by reductions in systolic and diastolic blood pressure and enhanced flow-mediated dilation. Improvements in cardiac function were observed through increased cardiac output and heart rate variability. Additionally, HIIT positively influenced lipid profiles, decreasing low-density lipoprotein and triglycerides while increasing high-density lipoprotein. Significant reductions in body fat and improvements in VO2peak were noted, contributing to enhanced CRF. HIIT also positively impacted mental health and QoL, reducing anxiety and depressive symptoms. Importantly, HIIT was safely and effectively applied to high-risk populations—individuals with obesity, metabolic syndrome, CVD, and cancer survivors—with a low incidence of adverse effects. Conclusions: This review highlights HIIT as an effective and safe exercise modality for improving CV health, metabolic indicators, mental health, and QoL. Future research should focus on developing tailored HIIT protocols to optimize adherence and efficacy across diverse populations, considering variations in age, sex, health status, and underlying medical conditions.
+
+Impact of high-intensity interval training on cardiorespiratory fitness, body composition, physical fitness, and metabolic parameters in older adults: A meta-analysis of randomized controlled trials
+
+Number of 
+
+Key takeaways:HIIT improves cardiorespiratory fitness, physical fitness, and metabolic parameters in older adults, potentially slowing down sarcopenia and maintaining aerobic fitness.
+
+Comparative effect of high intensity interval training and moderate intensity continuous training on metabolic improvements and regulation of Cidea and Cidec in obese C57BL/6 mice
+
+Number of 
+
+Key takeaways:HIIT is superior to MICT in improving metabolic dysfunction, likely through the downregulation of Cidea and Cidec, promoting lipolysis in obese mice.
+
+Abstract:Obesity is a chronic disease associated with increased risk of cardiovascular disease, diabetes, metabolic dysfunction associated steatotic liver disease and certain cancers. High intensity interval training (HIIT) and moderate intensity continuous training (MICT) are effective in preventing and managing obesity. However, the comparative effects of these modalities on metabolic disorders need to be better mechanistically explored. This study aimed to comprehensively assess the effects of MICT and HIIT on key metabolic organs and underlying mechanisms. C57BL/6 mice were randomized to receive either a chow diet or high fat diet for 12 weeks, followed by random assignment of high-fat-fed mice to no exercise, MICT or HIIT groups for additional 5 weeks. At the end, both HIIT and MICT significantly alleviated high-fat-induced weight gain and lipids disorder and impaired liver function. HIIT was more effective in enhancing insulin sensitivity, ameliorating hepatic steatosis, reducing adipocyte hypertrophy. Additionally, HIIT restored the high-fat-induced downregulation of Cidea, Cidec and Atgl in inguinal white adipose tissue and liver. Furthermore, HIIT resulted in upregulation of interleukin 6 (Il-6) in skeletal muscle. The exogenous addition of Il-6 to primary white adipocytes significantly downregulated Cidec, and up-regulated Atgl expression. In conclusion, HIIT is superior to MICT in improving metabolic dysfunction, likely mediated through Il-6-induced downregulation of Cidea and Cidec, thereby promoting lipolysis.
+
+High-intensity interval training for cardiometabolic health in adults with metabolic syndrome: a systematic review and meta-analysis of randomised controlled trials
+
+Number of 
+
+Key takeaways:HIIT effectively improves cardiometabolic health in individuals with metabolic syndrome, with low-volume HIIT being a viable alternative to traditional aerobic exercise.
+
+Abstract:Objective To assess the effectiveness of high-intensity interval training (HIIT) compared with traditional moderate-intensity continuous training (MICT) and/or non-exercise control (CON) for modification of metabolic syndrome (MetS) components and other cardiometabolic health outcomes in individuals with MetS. Design Systematic review and meta-analysis Data 
+
+High-intensity interval training: a review of its impact on glucose control and cardiometabolic health
+
+Number of 
+
+Key takeaways:HIIT shows potential in improving glucose control and cardiovascular function in individuals with common metabolic diseases, but more research is needed to confirm its safety and effectiveness in clinical populations.
+
+Abstract:Exercise plays a central role in the management and treatment of common metabolic diseases, but modern society presents many barriers to exercise. Over the past decade there has been considerable interest surrounding high-intensity interval training (HIIT), with advocates claiming it can induce health benefits of similar, if not superior magnitude to moderate-intensity continuous exercise, despite reduced time commitment. As the safety of HIIT becomes clearer, focus has shifted away from using HIIT in healthy individuals towards using this form of training in clinical populations. The continued growth of metabolic disease and reduced physical activity presents a global health challenge and effective therapies are urgently required. The aim of this review is to explore whether the acclaim surrounding HIIT is justified by examining the effect of HIIT on glucose control, its ability to affect cardiovascular function and the underlying mechanisms of the changes observed in those with common metabolic diseases. It also explores translation of the research into clinical practice.
+
+Effect of high-intensity interval training on clinical parameters in patients with metabolic dysfunction–associated steatotic liver disease: a systematic review and meta-analysis of randomized controlled trials
+
+Number of 
+
+Key takeaways:HIIT significantly reduces intrahepatic lipids, BMI, ALT, and AST levels in patients with metabolic dysfunction-associated steatotic liver disease.
+
+Abstract:High-intensity interval training (HIIT) has potential health benefits in the treatment of many chronic diseases. However, the efficacy of HIIT in patients with metabolic dysfunction-associated steatotic liver disease (MASLD) remains unclear. This systematic review and meta-analysis aimed to assess the impact of HIIT on intrahepatic lipids (IHLs) , liver enzymes, and metabolic profiles in individuals with MASLD. All randomized-controlled trials (RCT) that evaluated and compared the effects of HIIT on clinical parameters in patients with MASLD were searched using the PubMed, EMBASE, WOS, and Cochrane databases. Data analysis and integration were performed using RevMan 5.3 (Cochrane Collaboration, Copenhagen, Denmark) and Stata version 18 software (StataCorp LLC, College Station, Texas, USA), and outcomes were assessed using the standardized mean difference (SMD). Our results showed that compared with other types of exercise or no exercise, HIIT could reduce the levels of IHL , BMI (SMD: -0.31, 95% CI: -0.62 to -0.01, P = 0.04), alanine aminotransferase (ALT) (SMD: -0.61, 95% CI: -0.95 to -0.26, P = 0.0006), and aspartate aminotransaminase (AST) (SMD: -0.43, 95% CI: -0.81 to -0.05, P = 0.03) in patients with MASLD. In addition, subgroup analyses showed that HIIT had a positive impact on clinical indicators in patients with MASLD with an intervention duration of less than equal to 8 weeks. This study supports the idea that HIIT can significantly reduce IHL, BMI, ALT, and AST levels, and further studies are needed to assess the long-term adherence and treatment effects of HIIT.
+
+The effect of high-intensity interval training (HIIT) on cardiopulmonary and metabolic function
+
+Number of 
+
+Key takeaways:HIIT improves cardiorespiratory fitness and heart rate variability in athletes, but not hemoglobin levels, after an eight-week program.
+
+Abstract:Aims: The study aims to test the effectiveness High-Intensity Interval Training a control group involved in their ordinary training session. Experimental groups underwent 8 weeks of high-intensity cycle ergometer interval training. Pre and two post-test between four weeks of the test included the above parameters. Results: The finding shows that there is a significant difference in the effect of high-intensity interval training on the (VO2 max) and Heart Rate Variability (HRV) on the pre-test and post-test of Kedah Under 17 Footballers but no significant difference in the effect of high-intensity interval training on the Hemoglobin level (HB). Apart from that, there is also analysis showing that the control group (S) had only improved at a minimum level over the training period while the (H) group had shown good improvement while the (HE) group had portrayed excellent improvement throughout training and testing. Impact: The study is to help the country improve the performance of athletes, this study is expected to inspire and spark ideas in the country's sports activists, especially coaches and national athletes. Conclusions: The eight-week HIIT program improved cardiorespiratory fitness and hematological variables in all participants. Future research would be useful to further investigate the physiological changes resulting from HIIT programs.
+
+The effects of high‐intensity interval training on glucose regulation and insulin resistance: a meta‐analysis
+
+Number of 
+
+Key takeaways:HIIT effectively improves metabolic health, particularly in individuals at risk of or with type 2 diabetes, by reducing insulin resistance, HbA1c, and body weight.
+
+Abstract:The aim of this meta‐analysis was to quantify the effects of high‐intensity interval training (HIIT) on markers of glucose regulation and insulin resistance compared with control conditions (CON) or continuous training (CT). Databases were searched for HIIT interventions based upon the inclusion criteria: training ≥2 weeks, adult participants and outcome measurements that included insulin resistance, fasting glucose, HbA1c or fasting insulin. Dual interventions and participants with type 1 diabetes were excluded. Fifty studies were included. There was a reduction in insulin resistance following HIIT compared with both CON and CT (HIIT vs. CON: standardized mean difference  = −0.49, confidence intervals −0.87 to −0.12, P = 0.009; CT: SMD = −0.35, −0.68 to −0.02, P = 0.036). Compared with CON, HbA1c decreased by 0.19% (−0.36 to −0.03, P = 0.021) and body weight decreased by 1.3 kg (−1.9 to −0.7, P < 0.001). There were no statistically significant differences between groups in other outcomes overall. However, participants at risk of or with type 2 diabetes experienced reductions in fasting glucose (−0.92 mmol L−1, −1.22 to −0.62, P < 0.001) compared with CON. HIIT appears effective at improving metabolic health, particularly in those at risk of or with type 2 diabetes. Larger randomized controlled trials of longer duration than those included in this meta‐analysis are required to confirm these results.
+
+Effects of high-intensity interval training (HIIT) and sprint interval training (SIT) on fat oxidation during exercise: a systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:HIIT and SIT improve fat oxidation during exercise, with larger effects for longer training regimens and individuals with overweight/obesity, potentially enhancing metabolic health and managing obesity.
+
+Abstract:Objective To investigate the effects of high-intensity interval training (HIIT) and sprint interval training (SIT) on fat oxidation during exercise (FatOx) and how they compare with the effects of moderate-intensity continuous training (MICT). Design Systematic review and meta-analysis. Data sources Academic Search Ultimate, CINAHL, Networked Digital Library of Theses and Dissertations, Open Access Theses and Dissertations, OpenDissertations, PubMed/MEDLINE, Scopus, SPORTDiscus and Web of Science. Eligibility criteria for selecting studies Studies using a between-group design, involving adult participants who were not trained athletes, and evaluating effects of HIIT or SIT on FatOx (vs no exercise or MICT) were included. Results Eighteen studies of fair-to-good quality were included; nine comparing HIIT or SIT with no exercise and eleven comparing HIIT or SIT with MICT. A significant pooled effect of these types of interval training on FatOx was found (mean difference in g/min (MD)=0.08; 95% confidence interval (CI) 0.04 to 0.12; p<0.001). Significant effects were found for exercise regimens lasting ≥4 weeks, and they increased with every additional week of training (β=0.01; 95% CI 0.00 to 0.02; p=0.003). HIIT and/or SIT were slightly more effective than MICT (MD=0.03; 95% CI 0.01 to 0.05; p=0.005). The effects on FatOx were larger among individuals with overweight/obesity. Conclusion Engaging in HIIT or SIT can improve FatOx, with larger effects expected for longer training regimens and individuals with overweight/obesity. While some effects seem small, they may be important in holistic approaches to enhance metabolic health and manage obesity.
+
+Metabolic effects of high-intensity interval training and essential amino acids
+
+Number of 
+
+Key takeaways:HIIT promotes positive changes in cardiorespiratory fitness and resting substrate metabolism in overweight/obese adults, but adding essential amino acids does not significantly enhance these effects.
+
+Abstract:High-intensity interval training (HIIT) promotes positive cardiometabolic and body composition changes. Essential amino acids (EAA) may support changes associated with HIIT, but evaluation of potential synergistic effects is lacking. The purpose of this study was to compare independent and combined effects of HIIT and EAA on total body composition and metabolism in men and women considered overweight/obese; an exploratory aim was to evaluate the modulatory effects of sex. Sixty-six healthy adults (50% female; Age: 36.7 ± 6.0 years; BMI: 32.0 ± 4.2 kg/m^2) completed 8 weeks of: (1) HIIT, 2 days/weeks; (2) EAA supplementation, 3.6 g twice daily; (3) HIIT + EAA; or (4) control. Body composition, resting metabolic rate (RMR), substrate metabolism (respiratory exchange ratio; RER), and cardiorespiratory fitness were measured at baseline, 4 weeks, and 8 weeks; cardiometabolic blood markers were measured at baseline and 8 weeks. Differences between groups were assessed by linear mixed models covaried for baseline values, followed by 95% confidence intervals (CI) on adjusted mean change scores. There were no significant changes in body composition (p > 0.05) for any group. Changes in RER, but not RMR, occurred with HIIT (mean change; : − 0.04; ) and EAA (− 0.03; ) after 8 weeks. Cardiorespiratory fitness increased following 8 weeks of HIIT (+ 5.1 ml/kg/min ) and HIIT + EAA (+ 4.1 ml/kg/min ). Changes with HIIT + EAA were not significantly different from HIIT. There were no changes in cardiometabolic markers (p > 0.05) and no sex interaction (p > 0.05). HIIT is efficacious for promoting positive changes in cardiorespiratory fitness and resting substrate metabolism in adults considered overweight/obese. Addition of EAA did not significantly enhance HIIT-induced adaptations. ClinicalTrials.gov ID#NCT04080102.
+
+A Meta-Analysis of High-Intensity Interval Training on Glycolipid Metabolism in Children With Metabolic Disorders
+
+Number of 
+
+Key takeaways:HIIT improves glycolipid metabolism in children with metabolic disorders, with work/rest time ratio and training intensity affecting the intervention effects.
+
+Abstract:Objective Metabolic disorders are common among children and adolescents with obesity and are associated with insulin resistance, hyperlipidemia, hypertension, and other cardiovascular risk factors. High-intensity interval training (HIIT) is a time-efficient method to improve cardiometabolic health. We performed a meta-analysis to determine the effects of HIIT on glycolipid metabolism in children with metabolic disorders. Methods Meta-analyses were conducted to determine the effect of HIIT on glycolipid metabolism markers. Subgroup analysis with potential moderators was explored . Results Eighteen trials involving 538 participants were included. HIIT showed positive effects on glycolipid metabolism, such as triglyceride (TG), total cholesterol (TC), low-density lipoprotein cholesterol (LDL-C), high-density lipoprotein cholesterol (HDL-C), blood glucose (BG), blood insulin (BI), and homeostasis model assessment (HOMA)-IR, when compared to the non-training control group (CON); in addition to BG (p = 0.257), the combined results of other indicators have high heterogeneity (p = 0.000). HIIT showed no superior effects when compared to moderate-intensity training (MIT). Subgroup analysis demonstrated that HIIT protocol with a WRR of 1:1 was superior to MIT for reducing TG and LDL-C and used %maximal aerobic speed (MAS) as the exercise intensity was superior to MIT for reducing TG. HIIT protocol used %heart rate (HR) as the exercise intensity was superior to MIT for increasing HDL-C, decreasing BI, and HOMA-IR. Conclusion HIIT improved glycolipid metabolism in children with metabolic disorders. WRR and training intensity can affect the intervention effects of HIIT. Systematic Review Registration 
+
+Effects of high-intensity intermittent exercise on glucose and lipid metabolism in type 2 diabetes patients: a systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:HIIT improves glucose and lipid metabolism in type 2 diabetes patients, particularly in HbA1c, TC, TG, and HDL levels.
+
+Abstract:Objective To evaluate the effects of high-intensity interval training (HIIT) on glycolipid metabolism among type 2 diabetes patients. Methods HIIT is consistent with an exercise program (65%-90%VO2max or 75%-95% HRmax; exercise cycle≥2 weeks; frequency ≥ 2 times/week). A meta-analysis was conducted utilizing the random effects model to synthesize the data. Results A total of 22 RCT studies with 1034 diabetic patients were included. Compared to moderate-intensity aerobic exercise or conventional controls, HIIT yields noteworthy effects on FBG (MD: -0.55; 95% CI: -0.85- -0.25, Hedges’ g =0.98), 2h-PG (MD: -0.36; 95% CI: -0.57- -0.14, Hedges’ g =1.05), FINS (MD: -0.41; 95% CI: -0.79- -0.03, Hedges’ g =1.07), HbA1c (MD: -0.60; 95% CI: -0.84- -0.36, Hedges’ g =2.69), TC (MD: -0.58; 95% CI: -0.80- -0.36, Hedges’ g =2.36), TG (MD: -0.50; 95% CI: -0.86- -0.14, Hedges’ g =1.50), HDL (MD: 0.62; 95% CI: 0.29–0.95, Hedges’ g =1.19) and LDL (MD: -0.31; 95% CI: -0.56- -0.08, Hedges’ g =0.91), all of the above p<0.01. Conclusions HIIT has been shown to improve glucose and lipid metabolism in patients with type 2 diabetes, especially in HbA1c, TC, TG, and HDL. For patients between the ages of 40 and 60 with less than 5 years of disease, exercise programs of moderate to longer duration or moderate to high intensity will produce more favorable results.
+
+Effects of high-intensity interval and continuous moderate aerobic training on fitness and health markers of older adults: A systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:HIIT and MICT both improve cardiorespiratory fitness and health in older adults, with HIIT showing higher gains in controlled trials.
+
+Greater effects of high- compared with moderate-intensity interval training on cardio-metabolic variables, blood leptin concentration and ratings of perceived exertion in obese adolescent females
+
+Number of 
+
+Key takeaways:High-intensity interval training (HIIT) shows greater positive effects on cardio-metabolic variables, blood leptin concentration, and perceived exertion in obese adolescent females compared to moderate-intensity interval training (MIIT).
+
+Abstract:This study examined the effects of high- vs. moderate-intensity interval training on cardiovascular fitness, leptin levels and ratings of perceived exertion (RPE) in obese female adolescents. Forty-seven participants were randomly assigned to one of three groups receiving either a 1:1 ratio of 15 s of effort comprising moderate-intensity interval training (MIIT at 80% maximal aerobic speed: MAS) or high-intensity interval training (HIIT at 100% MAS), with matched 15 s recovery at 50% MAS, thrice weekly, or a no-training control group. The HIIT and MIIT groups showed improved (p < 0.05) body mass (BM), BMI Z-score, and percentage of body fat (%BF). Only the HIIT group showed decreased waist circumference (WC) (p = 0.017). The effect of exercise on maximal oxygen uptake (VO2max) was significant (p = 0.019, ES = 0.48 and p = 0.010, ES = 0.57, HIIT and MIIT, respectively). The decrease of rate-pressure product (RPP) (p < 0.05, ES = 0.53 and ES = 0.46, HIIT and MIIT, respectively) followed the positive changes in resting heart rate and blood pressures. Blood glucose, insulin level and the homeostasis model assessment index for insulin decreased (p < 0.05) in both training groups. Significant decreases occurred in blood leptin (p = 0.021, ES = 0.67 and p = 0.011, ES = 0.73) and in RPE (p = 0.001, ES = 0.76 and p = 0.017, ES = 0.57) in HIIT and MIIT, respectively. In the post-intervention period, blood leptin was strongly associated with %BF (p < 0.001) and VO2max (p < 0.01) in the HIIT and MIIT groups, respectively, while RPE was strongly associated with BM (p < 0.01) in the HIIT group. The results suggest that high-intensity interval training may produce more positive effects on health determinants in comparison with the same training mode at a moderate intensity.
+
+The impact of high‐intensity interval training on inflammatory markers in metabolic disorders: A meta‐analysis
+
+Number of 
+
+Key takeaways:HIIT effectively reduces inflammatory markers and adipo-cytokines in individuals with metabolic disorders compared to control conditions or moderate-intensity continuous training.
+
+Abstract:High‐intensity interval training (HIIT) is considered a time‐efficient strategy to improve metabolic health. We performed a systematic meta‐analysis to assess the effects of HIIT on inflammatory markers and adipo‐cytokines compared with control conditions (CON) or moderate‐intensity continuous training (MICT) in individuals with metabolic disorders.
+
+The Combined Effects of High-Intensity Interval Exercise Training and Dietary Supplementation on Reduction of Body Fat in Adults with Overweight and Obesity: A Systematic Review
+
+Number of 
+
+Key takeaways:HIIT alone effectively reduces body fat and improves metabolic health, while combining it with dietary supplements enhances these effects.
+
+Abstract:Excessive body fat is associated with various comorbidities including cardiovascular disease, type 2 diabetes mellitus and certain types of cancer. The search for effective, relatively easy to maintain body-fat reduction interventions has been ongoing. We aimed to review the current literature to assess the effectiveness of high-intensity interval training with and without dietary supplementation on body fat loss, concentration of markers of metabolic health and aerobic capacity of adults with overweight and obesity. Seventy full-text articles were assessed to determine their eligibility and thirteen were included in the review. The methodology of this systematic review was developed according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Almost all studies (93%) demonstrated effectiveness of high-intensity interval training of various protocols in reducing body fat, improving metabolic health and aerobic capacity of adults with overweight and obesity. These effects were enhanced by an addition of a dietary supplement, such as green tea or ginger or other. Although combining HIIT with dietary supplementation seem to improve body composition, metabolic health and aerobic capacity in adults with overweight and obesity in some instances to a greater extent than HIIT alone, it does not seem to be necessary to combine these two interventions.
+
+The Effects of Concurrent Training Combining Both Resistance Exercise and High-Intensity Interval Training or Moderate-Intensity Continuous Training on Metabolic Syndrome
+
+Number of 
+
+Key takeaways:Both resistance training combined with high-intensity interval training (RT+HIIT) and moderate-intensity continuous training (RT+MICT) improve metabolic outcomes in individuals with metabolic syndrome.
+
+Abstract:To date, there are several knowledge gaps on how to properly prescribe concurrent training to achieve the best dose-response, especially regarding the optimal intensity or volume of the aerobic component. Thus, the objective of this study is to analyze the effects of different aerobic exercise modes and intensities on metabolic outcomes in participants with metabolic syndrome (MetS). Thirty-nine men and women (67.0 ± 6.7 years) volunteered to a 12-weeks exercise intervention (3 week–1, 50 min/session) and were randomly assigned to one of three groups: (a) RT plus MICT (RT+MICT) (2 males; 11 females); (b) RT plus HIIT (RT+HIIT) (4 males; 9 females); and (c) control group (CON) – without formal exercise (4 males; 9 females). Intensity was established between 60 and 70% of maximum heart rate (HRmax) in RT+MICT and ranged from 55–65% to 80–90% HRmax in the RT+HIIT group. Dependent outcomes included morphological, metabolic and hemodynamic variables. Both training groups improved waist circumference (RT+MICT: P = 0.019; RT+HIIT: P = 0.003), but not body weight, fat mass or fat-free mass (P ≥ 0.114). RT+HIIT group improved fasting glucose (P = 0.014), low density lipoprotein , insulin (P = 0.034) and homeostatic model assessment (P = 0.028). RT+MICT group reduced triglycerides (P = 0.053). Both exercise interventions did not change high sensitivity C-reactive protein, glycated hemoglobin, high density lipoprotein and total cholesterol, systolic, diastolic or mean arterial blood pressure (P ≥ 0.05). The CON group reduced the LDL (P = 0.031). This trial suggests that short-term exercise mode and intensity may differently impact the metabolic profile of individuals with MetS. Further, our data suggests that both concurrent trainings promote important cardiometabolic gains, particularly in the RT+HIIT. Nonetheless, due to the small-to-moderate effect size and the short-term intervention length, our data suggests that the intervention length also has an important modulating role in these benefits in older adults with MetS. Therefore, more research is needed to confirm our results using longer exercise interventions and larger groups.
+
+Comparative effects of high-intensity interval training and moderate-intensity continuous training on weight and metabolic health in college students with obesity
+
+Number of 
+
+Key takeaways:HIIT is more effective than MICT in reducing body fat percentage and improving biochemical markers in college students with obesity.
+
+Moderate-intensity exercise and high-intensity interval training affect insulin sensitivity similarly in obese adults.
+
+Number of 
+
+Key takeaways:HIIT and MICT both improve insulin sensitivity and induce similar long-term metabolic adaptations in obese adults, with the insulin-sensitizing effects mediated by the most recent exercise session.
+
+Abstract:OBJECTIVE
+We compared the effects of high-intensity interval training (HIIT) and moderate-intensity continuous training (MICT) on insulin sensitivity and other important metabolic adaptations in adults with obesity.
+
+METHODS
+Thirty-one inactive adults with obesity (age: 31±6 years, BMI: 33±3 kg/m2) completed 12 weeks (4 sessions/week) of either HIIT (10x1-minute at 90%HRmax, 1-minute active recovery; n=16) or MICT (45 minutes at 70%HRmax; n=15). To assess the direct effects of exercise independent of weight/fat loss, participants were required to maintain body mass.
+
+RESULTS
+Training increased peak oxygen uptake by ~10% in both HIIT and MICT (p<0.0001), and body weight/fat mass were unchanged. Peripheral insulin sensitivity (hyperinsulinemic-euglycemic clamp) was ~20% greater the day after the final exercise session compared to Pre-Training (p<0.01), with no difference between HIIT and MICT. When trained participants abstained from exercise for 4 days, insulin sensitivity returned to Pre-Training levels in both groups. HIIT and MICT also induced similar increases in abundance of many skeletal muscle proteins involved in mitochondrial respiration and lipid and carbohydrate metabolism. Training-induced alterations in muscle lipid profile were also similar between groups.
+
+CONCLUSION
+Despite large differences in training intensity and exercise time, 12 weeks of HIIT and MICT induce similar acute improvements in peripheral insulin sensitivity the day after exercise, and similar longer-term metabolic adaptations in skeletal muscle in adults with obesity. These findings support the notion that the insulin-sensitizing effects of both HIIT and MICT are mediated by factors stemming from the most recent exercise session(s) rather than adaptations that accrue with training.
+
+Moderate-intensity constant or high-intensity interval training? Metabolic effects on candidates to undergo bariatric surgery.
+
+Number of 
+
+Key takeaways:Both moderate-intensity constant (MICT) and high-intensity interval training (HIIT) programs improve metabolic effects in bariatric surgery candidates, but exercise intensity should be considered when preparing these patients.
+
+The Effects of High-Intensity Interval Training on Cardiovascular Health
+
+Number of 
+
+Key takeaways:HIIT significantly improves cardiovascular health in a shorter timeframe, but long-term benefits may be compromised by insufficient training intensity and potential safety risks for individuals with high cardiovascular risk.
+
+Abstract:Cardiovascular disease remains the leading global health threat, with its incidence and mortality rates persistently rising, particularly under modern lifestyles characterized by unhealthy habits and sedentary behaviors. Traditional moderate-intensity continuous training (MICT) faces challenges in widespread adherence due to its time-consuming nature, prompting the need to explore more efficient exercise interventions. This study compares the differences between high-intensity interval training (HIIT) and MICT, analyzing their respective impacts on cardiovascular health, underlying mechanisms, and applicability. The findings demonstrate that HIIT, through its alternating pattern of short-duration high-intensity exercise and active recovery, achieves significant improvements in maximal oxygen uptake (VO max), endothelial function, blood pressure, and lipid profiles within a shorter timeframe, with efficacy comparable to or even superior to MICT. However, the long-term benefits of HIIT may be compromised by insufficient maintenance of training intensity, and it poses potential safety risks for individuals with high cardiovascular risk. In contrast, MICT exhibits higher safety and suitability for chronic patients and elderly populations, though its effects require prolonged adherence to manifest. This study highlights HIIT's time-efficiency advantages and limitations, emphasizing the importance of personalized program design to optimize exercise intervention strategies. It also identifies future research priorities, including the standardization of HIIT protocols and investigation of long-term outcomes, to facilitate its evidence-based integration into daily life.
+
+High-Intensity Interval Training for Cardiometabolic Disease Prevention
+
+Number of 
+
+Key takeaways:HIIT can improve insulin sensitivity, blood pressure, and body composition in adults, especially those with overweight and obesity, comparable to moderate-intensity continuous training.
+
+Abstract:Purpose The 2018 Physical Activity Guidelines Advisory Committee systematically searched existing literature reviews to assess the relationship between high-intensity interval training (HIIT) and reduction in cardiometabolic disease risk. Methods Duplicate independent screenings of 260 articles identified from PubMed®, Cochrane Library, and CINAHL databases yielded suitable data from one systematic review and two meta-analyses. Search terms included a combination of “high intensity” “physical activity/exercise” and “interval training” and outcome-specific terms. The quality of the included reviews was assessed using a tailored version of the AMSTARExBP report on quality. Exposure Subcommittee members graded scientific evidence strength based on a five-criteria rubric and assigned one of four grades: strong, moderate, limited, or not assignable. Results Moderate evidence indicates that HIIT can improve insulin sensitivity, blood pressure, and body composition in adults with group mean ages ranging from ~20 to ~77 yr. These HIIT-induced improvements in cardiometabolic disease risk factors are comparable with those resulting from moderate-intensity continuous training, and they are more likely to occur in adults at higher risk of cardiovascular disease and diabetes than in healthy adults. Moderate evidence also indicates that adults with overweight or obesity classification are more responsive than adults with normal weight to HIIT-related improvements in insulin sensitivity, blood pressure, and body composition. Insufficient evidence was available to determine whether a dose–response relationship exists between the quantity of HIIT performed and several risk factors for cardiovascular disease and diabetes, or whether the effects of HIIT on cardiometabolic disease risk factors are influenced by age, sex, race/ethnicity, or socioeconomic status. Conclusions HIIT by adults, especially those with overweight and obesity classification, can improve insulin sensitivity, blood pressure, and body composition, comparable with those resulting from moderate-intensity continuous training.
+
+Effects of high-intensity interval training on cardiometabolic health: a systematic review and meta-analysis of intervention studies
+
+Number of 
+
+Key takeaways:High-intensity interval training (HIIT) can improve VO2 max and some cardiometabolic risk factors in overweight/obese populations, with no significant effects on insulin, lipid profile, or inflammation markers.
+
+Abstract:The current review clarifies the cardiometabolic health effects of high-intensity interval training (HIIT) in adults. A systematic search (PubMed) examining HIIT and cardiometabolic health markers was completed on 15 October 2015. Sixty-five intervention studies were included for review and the methodological quality of included studies was assessed using the Downs and Black score. Studies were classified by intervention duration and body mass index classification. Outcomes with at least 5 effect sizes were synthesised using a random-effects meta-analysis of the standardised mean difference (SMD) in cardiometabolic health markers (baseline to postintervention) using Review Manager 5.3. Short-term (ST) HIIT (<12 weeks) significantly improved maximal oxygen uptake (VO2 max; SMD 0.74, 95% CI 0.36 to 1.12; p<0.001), diastolic blood pressure (DBP; SMD −0.52, 95% CI −0.89 to −0.16; p<0.01) and fasting glucose (SMD −0.35, 95% CI −0.62 to −0.09; p<0.01) in overweight/obese populations. Long-term (LT) HIIT (≥12 weeks) significantly improved waist circumference (SMD −0.20, 95% CI −0.38 to −0.01; p<0.05), % body fat (SMD −0.40, 95% CI −0.74 to −0.06; p<0.05), VO2 max (SMD 1.20, 95% CI 0.57 to 1.83; p<0.001), resting heart rate (SMD −0.33, 95% CI −0.56 to −0.09; p<0.01), systolic blood pressure (SMD −0.35, 95% CI −0.60 to −0.09; p<0.01) and DBP (SMD −0.38, 95% CI −0.65 to −0.10; p<0.01) in overweight/obese populations. HIIT demonstrated no effect on insulin, lipid profile, C reactive protein or interleukin 6 in overweight/obese populations. In normal weight populations, ST-HIIT and LT-HIIT significantly improved VO2 max, but no other significant effects were observed. Current evidence suggests that ST-HIIT and LT-HIIT can increase VO2 max and improve some cardiometabolic risk factors in overweight/obese populations.
+
+Low‐volume high‐intensity interval training for cardiometabolic health
+
+Number of 
+
+Key takeaways:Low-volume HIIT can provide similar cardiorespiratory fitness, glucose control, blood pressure, and cardiac function improvements as traditional aerobic exercise, while requiring less time commitment and lower energy expenditure.
+
+Abstract:High‐intensity interval training (HIIT) is characterised by short bouts of high‐intensity submaximal exercise interspersed with rest periods. Low‐volume HIIT, typically involving less than 15 min of high‐intensity exercise per session, is being increasingly investigated in healthy and clinical populations due to its time‐efficient nature and purported health benefits. The findings from recent trials suggest that low‐volume HIIT can induce similar, and at times greater, improvements in cardiorespiratory fitness, glucose control, blood pressure, and cardiac function when compared to more traditional forms of aerobic exercise training including high‐volume HIIT and moderate intensity continuous training, despite requiring less time commitment and lower energy expenditure. Although further studies are required to elucidate the precise mechanisms of action, metabolic improvements appear to be driven, in part, by enhanced mitochondrial function and insulin sensitivity, whereas certain cardiovascular improvements are linked to increased left ventricular function as well as greater central and peripheral arterial compliance. Beyond the purported health benefits, low‐volume HIIT appears to be safe and well‐tolerated in adults, with high rates of reported exercise adherence and low adverse effects.
+
+Effect of high-intensity interval training and moderate-intensity continuous training on cardiovascular risk factors in adolescents: Systematic review and meta-analysis of randomized controlled trials
+
+Number of 
+
+Key takeaways:HIIT is better than MICT for improving cardiovascular health in adolescents, with better effects on body weight, BMI, fat mass, systolic blood pressure, diastolic blood pressure, maximal oxygen uptake, triglyceride, total cholesterol, LDL, HDL, glucose, and insulin
+
+EFFECT OF HIGH INTENSITY INTERVAL TRAINING ON THE CARDIOVASCULAR SYSTEM AND CARDIAC ANTI-AGING
+
+Number of 
+
+Key takeaways:High-intensity interval training (HIIT) may have a positive correlation with the cardiovascular system and cardiac anti-aging.
+
+Abstract:Abstract 
+  
+There are several risk factors leading to the development and progression of CVD, but one of the most prominent is a sedentary lifestyle. A healthy lifestyle can be characterized by both obesity and consistently low levels of physical activity. Lifestyle interventions that aim to increase physical activity and decrease obesity are attractive therapeutic methods to combat most non-congenital types of CVD. Aging is the another major risk factor for cardiovascular diseases (CVD), which are the leading cause of death in the United States. Epidemiological studies clearly show that aging itself is the major risk factor for cardiovascular and cerebrovascular diseases. Most of the research efforts on prevention of these diseases have ignored the mechanisms underlying cardiac and vascular effects of aging, and have focused, instead, on the development of interventions that target conventional cardiovascular risk factors. High-intensity interval training (HIIT) is frequently used in sports training. The effects on cardiorespiratory and muscle systems have led scientists to consider its application in the field of cardiovascular diseases. HIIT is defined as high intensity exercise for a defined period of time interspersed with rest periods (moderate light intensity or complete rest). This literature review was conducted to determine the correlation between high intensity interval training with the cardiovascular system and cardiac anti-aging. 
+  
+Keywords: Cardiac anti-aging, cardiovascular system, cardiovascular disease, high intensity interval training.
+
+Effects of High-Intensity Interval vs. Moderate-Intensity Continuous Training on Cardiac Rehabilitation in Patients With Cardiovascular Disease: A Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:HIIT is safer and more effective than MICT for improving cardiorespiratory fitness in patients with cardiovascular disease, with medium-interval HIIT 3 times/week for more than 12 weeks showing the largest improvement.
+
+Abstract:Background Studies have shown that high-intensity interval training (HIIT) is superior to moderate-intensity continuous training (MICT) for increasing peak oxygen uptake (VO2peak) and reducing cardiovascular disease (CVD) and mortality. To our knowledge, previously 
+
+High-intensity interval training improves respiratory and cardiovascular adjustments before and after initiation of exercise
+
+Number of 
+
+Key takeaways:HIIT at 95% maximal work rate improves cardiorespiratory adjustments, leading to improved exercise performance during high-intensity exercise and before and after exercise.
+
+Abstract:Purpose: High-intensity interval training (HIIT) may induce training-specific physiological adaptations such as improved respiratory and cardiovascular adjustments before and after the onset of high-intensity exercise, leading to improved exercise performance during high-intensity exercise. The present study investigated the effects of HIIT on time-dependent cardiorespiratory adjustment during maximal exercise and before and after initiation of high-intensity exercise, as well as on maximal exercise performance. Methods: 21 healthy male college students were randomly assigned to HIIT group (n = 11) or control group (n = 10). HIIT group performed training on a cycle ergometer once a week for 8 weeks. The training consisted of three bouts of exercise at 95% maximal work rate (WRmax) until exhaustion. Before and after the HIIT program, dynamic cardiorespiratory function was investigated by ramp and step exercise tests, and HIIT-induced cardiac morphological changes were assessed using echocardiography. Results: HIIT significantly improved not only maximal oxygen uptake and minute ventilation, but also maximal heart rate (HR), systolic blood pressure (SBP), and time to exhaustion in both exercise tests (p < 0.05). Time-dependent increases in minute ventilation (VE) and HR before and at the start of exercise were significantly enhanced after HIIT. During high-intensity exercise, there was a strong correlation between percent change (from before to after HIIT program) in time to exhaustion and percent change in HRmax (r = 0.932, p < 0.001). Furthermore, HIIT-induced cardiac morphological changes such as ventricular wall hypertrophy was observed (p < 0.001). Conclusion: We have demonstrated that HIIT at 95% WRmax induces training-specific adaptations such as improved cardiorespiratory adjustments, not only during maximal exercise but also before and after the onset of high-intensity exercise, improvement of exercise performance mainly associated with circulatory systems.
+
+The Effects of High Intensive Interval Training (HIIT) on Brain-Derived Neurotrophic Factor (BDNF) and Cardiovascular Health: A Review
+
+Number of 
+
+Key takeaways:HIIT programs may improve cardiovascular health in healthy individuals, but further scientific research is needed to determine their effectiveness in producing physiological adaptations to exercise.
+
+Abstract:High-intensity interval training (HIIT) programs have lately gained popularity because they produce beneficial adaptations for both inactive and athletes, as well as positive health and performance benefits and time efficiency. Therefore, it was purposed to review scientific research results about the effects of HIIT programs on BDNF and cardiovascular health. Although there are research findings suggesting that HIIT may be an effective strategy for promoting elevation of BDNF concentrations, current research seems to be rather limited and inconclusive. It can be thought that exercise intensity is a factor affecting BDNF activation. In healthy people, there seems to be a positive linear relationship between exercise intensity and BDNF levels of acute exercise. However, further experimental studies are needed to elucidate the effect of HIIT on BDNF in humans with metabolic or cardiovascular diseases. However, it can be suggested that high intensity can be an significant achievement factor to design an effective exercise programs and the HIIT methodology has a critical importance for improving cardiovascular function, particularly in healthy individuals. In conclusion, while existing studies show that high-intensity interval training (HIIT) programs can improve cardiovascular health in some populations, further scientific research is needed to determine the efficiency of this strategy in producing physiological adaptation to exercise.
+
+Cardiorespiratory Fitness Benefits of High-Intensity Interval Training After Stroke: A Randomized Controlled Trial
+
+Number of 
+
+Key takeaways:Short-interval HIIT may be an effective alternative to moderate-intensity continuous training for improving cardiorespiratory fitness after stroke.
+
+Abstract:BACKGROUND: Limited evidence supports the effects of short-interval high-intensity interval training (HIIT) for improving cardiorespiratory fitness (V̇O2peak) after stroke. We aimed to compare the effects of 12 weeks of short-interval HIIT versus moderate-intensity continuous training (MICT) on V̇O2peak, cardiovascular risk factors, and mobility outcomes among individuals ≥6 months poststroke. METHODS: This study was a multi-site, 12-week randomized controlled trial (NCT03614585) with an 8-week follow-up. Participants were randomized into 3 d/wk of HIIT (10×1 minute 80%–100% heart rate reserve interspersed with 1 minute 30% heart rate reserve ) or MICT (20–30 minutes 40%–60% heart rate reserve). Secondary outcomes of the trial, including V̇O2peak, cardiovascular risk factors (carotid-femoral pulse wave velocity, blood pressure, and waist-hip ratio), and mobility (6-minute walk test, 10 m gait speed), were reported. Linear mixed model analyses with a group×study time point interaction evaluated between-group differences. RESULTS: Of the 305 potential participants, 82 consented (mean age 64.9 years, 32 females , 1.8 years poststroke) and were randomized to HIIT (n=42, mean baseline V̇O2peak 17.3 mL/kg·min) or MICT (n=40, mean baseline V̇O2peak 17.2 mL/kg·min). Participants attended 82% of visits (n=2417/2952). No adverse events occurred during the study period. A significant group×study time point interaction was found (χ2=8.46; P=0.015) for V̇O2peak at 12 weeks (mean difference, 1.81 ; P=0.004) whereby the HIIT group had greater gains in V̇O2peak (∆3.52 mL/kg·min ; P<0.001) compared with the MICT group (∆1.71 mL/kg·min ; P=0.001). There was no between-group difference in V̇O2peak (mean difference, 1.08 ; P=0.11) at 8-week follow-up. No group×study time point interactions were found for cardiovascular risk factors or mobility outcomes. CONCLUSIONS: Short-interval HIIT may be an effective alternative to MICT for improving V̇O2peak at 12 weeks postintervention. REGISTRATION: 
+
+Acute effects of resistance-type and cycling-type high-intensity interval training on arterial stiffness, cardiac autonomic modulation and cardiac biomarkers
+
+Number of 
+
+Key takeaways:Resistance-type high-intensity interval training (R-HIIT) effectively reduces arterial stiffness in healthy young men, while both C-HIIT and R-HIIT improve cardiac autonomic modulation and biomarkers.
+
+Abstract:Abstract Background High-intensity interval training (HIIT) has been shown to enhance cardiovascular health. However, there is a lack of research investigating the specific cardiovascular effects of different HIIT training modes. Therefore, this study aimed to compare the acute effects of cycling-type high intensity interval training (C-HIIT) and resistance-type high intensity interval training (R-HIIT) on arterial stiffness, cardiac autonomic modulation, and cardiac biomarkers in healthy young men. Methods This is a cross-over randomized trial. Eleven healthy active young men took part in both C-HIIT and R-HIIT. Cardio-ankle vascular index (CAVI), heart rate variability (HRV), and systolic blood pressure (SBP) were measured before, immediately and 30 min after the exercise in C-HIIT and R-HIIT. Meanwhile, blood samples for cardiac troponin-T (cTnT) and amino-terminal pro-B-type natriuretic peptide (NT-proBNP) were assessed using ELISA before, 5min and 35min after exercise. Results There was a significant time × group interaction effect ( P = 0.019, η p 2 = 0.182) and time main effect for ⊿CAVI ( P &lt; 0.001, η p 2 = 0.729), and R-HIIT resulted in a more significant reduction in ⊿CAVI compared to C-HIIT (− 0.60 ± 0.30, P = 0.043, d = 0.924) immediately after exercise. There was a significant time main effect was observed for SBP ( P = 0.001, η p 2 = 0.304). A significant time main effect for lnHF ( P &lt; 0.001, η p 2 = 0.782), lnRMSSD ( P &lt; 0.001, η p 2 = 0.693), and LF/HF ( P = 0.001, η p 2 = 0.302) of HRV was observed. A significant time main effect was observed for cTnT ( P = 0.023, η p 2 = 0.193) and NT-proBNP ( P = 0.001, η p 2 = 0.334) of cardiac biomarkers. Conclusion R-HIIT and C-HIIT elicited similar acute responses in cardiac autonomic modulation and cardiac biomarkers. However, R-HIIT was more effective in reducing arterial stiffness in healthy young men. Furthermore, the increase in cardiac biomarkers induced by both C-HIIT and R-HIIT was reversible. Trial registration The study was prospectively registered on 22 February 2022 at with identification number ChiCTR2200056897.
+
+Comparing the Effect of Moderate-Intensity Versus High-Intensity Interval Training Exercise on Global Longitudinal Strain (GLS) in Cardiovascular Patients: Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:High-intensity interval training (HIIT) has a greater effect on improving global longitudinal strain (GLS) in cardiovascular patients compared to moderate-intensity interval training (MIIT).
+
+Abstract:Left ventricular global longitudinal strain (LVGLS) is a highly sensitive echocardiographic biomarker that detects signs of myocardial dysfunction. It has been proven that exercise-based cardiac rehabilitation (CR) improves LV-GLS but whether high-intensity interval training (HIIT) is more efficient than moderate-intensity interval training (MIIT) to improve LV-GLS as cardiac deformation index in cardiovascular patients is debatable. In the current systematic review and meta-analysis, different digital databases including PubMed, Scopus, Web of Science (ISI), and Google Scholar were searched systematically with no time restriction to answer the abovementioned question. Studies were included that reported GLS as the outcome in CVD subjects before and after enrolling in HIIT and/or MITT. A random effects model was used for meta-analysis. Eleven sets of results from nine articles—two of which had two sets of results—were included. The result of the sensitivity test to check the publication bias was not significant either for MIIT (p=0.211) or for HIIT (p=0.238). Our findings showed that GLS was improved significantly after both MIIT (−1.72. ) and HIIT (−1.86 ) in CVD patients; however, the effect of HIIT was greater than MIIT. Subgroup analysis results showed that baseline disease and duration of exercises do not influence the effect of training on GLS. More studies are needed to confirm the conclusion.
+
+Effects of High Intensity Interval Training versus Sprint Interval Training on Cardiac Autonomic Modulation in Healthy Women
+
+Number of 
+
+Key takeaways:High-intensity interval training (HIIT) has better results on cardiac autonomic modulation in healthy women compared to sprint interval training (SIT).
+
+Abstract:Background: For the prevention of cardiovascular diseases, the practice of physical exercises is an effective strategy in improving or maintaining cardiorespiratory health; however, a lack of time is a barrier to access and interval training appears as possible facilitator. This study aims to compare the effects of two interval training protocols on cardiac autonomic modulation in healthy women. Methods: we conducted a randomized clinical trial with 43 women with a mean age of 29.96 ± 6.25 years, allocated into two groups; high-intensity interval training (HIIT) consisting of four four-minute high-intensity sprints interspersed with three minutes of active recovery and the Sprint interval training (SIT) with four 30-s sprints all-out, interspersed with four minutes of recovery (active or passive). Results: the HIIT group presented better results for the patterns without variation (0V) variables (p = 0.022); Shannon entropy (p = 0.004) Conditional Entropy (p = 0.025). However, there was a significant group effect for some variables, Oxygen Volume (VO2) (p = 0.004), Square root of the mean quadratic differences between the adjacent normal R-R intervals (p = 0.002) and standard deviation of all normal R-R intervals recorded in a time interval (p = 0.003), demonstrating an improvement independent of the protocol. Conclusion: we conclude that eight weeks of interval training were able to produce positive effects on cardiac autonomic modulation in healthy women, with better results for HIIT in this population.
+
+High-intensity interval training in cardiac rehabilitation (HIIT or MISS UK): A multi-centre randomised controlled trial.
+
+Number of 
+
+Key takeaways:Low-volume HIIT is a safe and effective alternative to moderate intensity steady-state exercise for improving cardiorespiratory fitness in stable coronary artery disease patients.
+
+Abstract:BACKGROUND
+There is a lack of international consensus regarding the prescription of high-intensity interval exercise training (HIIT) for people with coronary artery disease (CAD) attending cardiac rehabilitation (CR).
+
+AIM
+To assess the clinical effectiveness and safety of low-volume HIIT compared with moderate intensity steady-state (MISS) exercise training for people with CAD.
+
+METHODS
+We conducted a multi-centre RCT, recruiting 382 patients from 6 outpatient CR centres. Participants were randomised to twice-weekly HIIT (n = 187) or MISS (n = 195) for 8 weeks. HIIT consisted of 10 × 1-minute intervals of vigorous exercise (>85% maximum capacity) interspersed with 1-minute periods of recovery. MISS was 20-40 minutes of moderate intensity continuous exercise (60-80% maximum capacity). The primary outcome was the change in cardiorespiratory fitness (peak oxygen uptake, VO2 peak) at 8-week follow-up. Secondary outcomes included cardiovascular disease risk markers, cardiac structure and function, adverse events, and health-related quality of life.
+
+RESULTS
+At 8 weeks, VO2  peak improved more with HIIT (2.37 mL.kg-1.min-1; SD, 3.11) compared with MISS (1.32 mL.kg-1.min-1; SD, 2.66). After adjusting for age, sex and study site, the difference between arms was 1.04 mL.kg-1.min-1 (95% CI, 0.38 to 1.69; p = 0.002). Only 1 serious adverse event was possibly related to HIIT.
+
+CONCLUSIONS
+In stable CAD, low-volume HIIT improved cardiorespiratory fitness more than MISS by a clinically meaningful margin. Low-volume HIIT is a safe, well tolerated, and clinically effective intervention that produces short-term improvement in cardiorespiratory fitness. It should be considered by all CR programmes as an adjunct or alternative to MISS.
+
+TRIAL REGISTRATION
+ClinicalTrials.gov: NCT02784873. 
+
+The effect of high Intensity interval training versus moderate intensity continuous training on arterial stiffness and 24h blood pressure responses: A systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:HIIT is more effective than MICT in reducing night-time diastolic blood pressure and shows a near-significant greater reduction in daytime blood pressure, with no significant difference in arterial stiffness.
+
+The effect of low-volume high-intensity interval training on cardiovascular health outcomes in type 2 diabetes: A randomised controlled trial.
+
+Number of 
+
+Key takeaways:Low-volume HIIT improves central arterial stiffness and cardiovascular health in inactive individuals with obesity and type 2 diabetes.
+
+High-intensity interval training versus moderate-intensity continuous training on patient quality of life in cardiovascular disease: a systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:HIIT and MICT both improve quality of life and mental health in patients with cardiovascular disease, but HIIT is more effective for improving self-perceived physiological functioning and social function.
+
+An integrative review of the effects of high-intensity interval training on the autonomic nervous system
+
+Number of 
+
+Key takeaways:HIIT shows potential in modulating the Autonomic Nervous System, enhancing cardiovascular function and overall health, but future research should address study design and methodology limitations.
+
+Experimental research of impact on psychological state for adolescents with high-intensity interval training intervention
+
+Number of 
+
+Key takeaways:HIIT effectively reduces anxiety and depression in adolescents, while increasing self-esteem, making it a viable school-based intervention for mental health promotion.
+
+Abstract:Rising social pressures have exacerbated adolescent mental health challenges, evidenced by increasing prevalence of anxiety, depression, and related disorders. High-intensity interval training (HIIT), characterized by short bursts of intense exercise interspersed with recovery periods, has emerged as a time-efficient intervention for psychological well-being. This study quantitatively evaluated the efficacy of HIIT in improving adolescent mental health using the Multidimensional Scale of Adolescent Psychological State (MSAPS), which assesses seven domains: self-esteem, energy, tension, anger, depression, fatigue, and confusion.A randomized controlled trial was conducted with 60 adolescents (aged 14–18 years) from Handan City Sports School. Participants were equally divided into an experimental group (HIIT intervention) and a control group (moderate-intensity continuous training). The HIIT protocol involved heart rate zones of 172 ±10 bpm, while the control group trained at 132 ± 10 bpm. Both interventions lasted 8 weeks. Pre- and post-intervention psychological assessments were performed using MSAPS, with statistical analyses employing paired t-tests for within-group comparisons and ANCOVA for between-group effects.The HIIT group demonstrated significant reductions in negative affect: tension (Δ = 2.1, p = 0.002), depression (Δ = 1.5, p = 0.008), and anger (Δ = 1.9, p = 0.001), alongside a substantial increase in self-esteem (Δ = 1.7, p = 0.004). The control group showed modest improvements in tension (Δ = 0.9, p = 0.03) and depression (Δ = 0.6, p = 0.04), but effects were weaker and non-significant for anger and self-esteem. Between-group analyses revealed HIIT’s superiority in tension (Δ = 1.8, p = 0.00) and depression (Δ = 0.8, p = 0.017) compared to continuous training.HIIT’s dual mechanism—stimulating endorphin/dopamine release and enhancing physical efficacy—likely underpins its psychological benefits. The findings support HIIT as a viable school-based intervention for mitigating anxiety/depression and boosting self-esteem in adolescents. These results provide empirical groundwork for integrating HIIT into physical education curricula and mental health promotion strategies, offering a practical alternative to traditional exercise modalities.
+
+Review of High-Intensity Interval Training for Cognitive and Mental Health in Youth
+
+Number of 
+
+Key takeaways:HIIT participation may improve cognitive function and mental health in children and adolescents.
+
+Abstract:Supplemental digital content is available in the text. ABSTRACT Purpose High-intensity interval training (HIIT) has emerged as a time-efficient strategy to improve children’s and adolescents’ health-related fitness in comparison to traditional training methods. However, little is known regarding the effects on cognitive function and mental health. Therefore, the aim of this systematic review was to evaluate the effect of HIIT on cognitive function (basic information processing, executive function) and mental health (well-being, ill-being) outcomes for children and adolescents. Methods A systematic search was conducted, and studies were eligible if they 1) included a HIIT protocol, 2) examined cognitive function or mental health outcomes, and 3) examined children or adolescents (5–18 yr). Separate meta-analyses were conducted for acute and chronic studies, with potential moderators (i.e., study duration, risk of bias, participant age, cognitive demand, and study population) also explored. Results A total of 22 studies were included in the review. In acute studies, small to moderate effects were found for executive function (standardized mean difference , 0.50, 95% confidence interval , 0.03–0.98; P = 0.038) and affect (SMD, 0.33; 95% CI, 0.05–0.62; P = 0.020), respectively. For chronic studies, small significant effects were found for executive function (SMD, 0.31; 95% CI, 0.15–0.76, P < 0.001), well-being (SMD, 0.22; 95% CI, 0.02–0.41; P = 0.029), and ill-being (SMD, −0.35; 95% CI, −0.68 to −0.03; P = 0.035). Conclusions Our review provides preliminary review evidence suggesting that participation in HIIT can improve cognitive function and mental health in children and adolescents. Because of the small number of studies and large heterogeneity, more high-quality research is needed to confirm these findings.
+
+The impact of high-intensity interval training on anxiety: a scoping review
+
+Number of 
+
+Key takeaways:HIIT significantly improves anxiety symptoms when tailored to individual baseline characteristics and training parameters, with potential for significant mental health benefits.
+
+Abstract:Background In recent years, high-intensity interval training (HIIT) has gained significant attention due to its efficient use of time. Studies have shown that engaging in regular physical activity can effectively reduce symptoms of anxiety. Given the potential side effects and limitations associated with pharmacological treatments for anxiety disorders, there is a growing interest in exploring non-pharmacological interventions. HIIT, as an alternative approach, offers a promising avenue for managing anxiety without relying on medication. However, the specific efficacy and applicability of HIIT for individuals diagnosed with anxiety disorders have not been systematically summarized in the literature. This scoping review aims to explore the effectiveness of HIIT as an intervention for improving anxiety symptoms, as well as its range of applicability, by synthesizing existing research. Methods A scoping review methodology was employed to search databases including PubMed, Web of Science, EMbase, and the Cochrane Library. Studies were selected based on predefined criteria: randomized controlled trials (RCTs), cohort studies, and quasi-experimental designs focusing on the improvement of anxiety, using HIIT as the primary intervention. Exclusion criteria included studies with mixed interventions or populations with comorbid conditions. Two independent evaluators screened titles, abstracts, and full texts, extracted data using a pre-tested form, and resolved discrepancies through discussion to ensure consistency and accuracy. Results A total of 541 articles were identified, of which 16 met the inclusion criteria for this review. The samples comprised various populations, including healthy subjects, overweight males, prostate cancer patients, etc. Twelve studies indicated that HIIT significantly improves anxiety symptoms, especially for individuals with lower baseline anxiety. The effect was less pronounced in those with higher baseline anxiety. Additionally, the studies suggest that variations in training protocols—such as frequency, intensity, and duration—may influence the extent to which HIIT improves anxiety symptoms. Conclusions This study underscores the potential of High-Intensity Interval Training (HIIT) as an effective intervention for reducing anxiety symptoms, especially when tailored to individual baseline characteristics. Variations in training parameters such as frequency, intensity, and duration are critical factors in optimizing HIIT’s effectiveness for mental health benefits.HIIT shows promise as a valuable tool for managing anxiety, with the potential to significantly improve mental health outcomes when implemented with careful consideration of individual differences and protocol variations. This study provides a foundation for refining HIIT protocols and expanding their applicability across diverse populations.
+
+High-Intensity Interval Training for Cognitive and Mental Health in Adolescents.
+
+Number of 
+
+Key takeaways:High-intensity interval training (HIIT) during school hours may improve cognitive and mental health in adolescents, with small to moderate benefits observed in executive function and psychological well-being.
+
+Abstract:PURPOSE
+Emerging literature suggests that physical activity and fitness may have a positive effect on cognitive and mental health in adolescents. The purpose of the current study was to evaluate the efficacy of two high-intensity interval training (HIIT) protocols for improving cognitive and mental health outcomes (executive function, psychological well-being, psychological distress, and physical self-concept) in adolescents.
+
+METHODS
+Participants (n = 65; mean age = 15.8 ± 0.6 yr) were randomized to three conditions: aerobic exercise program (AEP; n = 21), resistance and aerobic program (RAP; n = 22), and control (n = 22). HIIT sessions (8-10 min per session) were delivered during physical education lessons or at lunchtime three times per week for 8 wk. Assessments were conducted at baseline and immediately postintervention to detect changes in executive function (trail making test), psychological well-being, psychological distress, and physical self-description by researchers blinded to treatment allocation. Intervention effects were examined using linear mixed models. Cohen's d effect sizes and clinical inference were also calculated.
+
+RESULTS
+While results were not significant, small improvements in executive function (mean change (95% CI) -6.69 (-22.03, 8.64), d = -0.32) and psychological well-being (mean change (95% CI) 2.81 (-2.06, 7.68), d = 0.34) were evident in the AEP group; and moderate improvements in executive function (mean change (95% CI) -10.73 (-26.22, 4.76), d = -0.51), and small improvements in well-being (mean change (95% CI) 2.96 (-1.82, 7.75), d = 0.36) and perceived appearance (mean change (95% CI) 0.32 (-0.25, 0.86), d = 0.35), were observed for the RAP group. Mean feeling state scores improved from preworkout to postworkout in both HIIT conditions, with significant results for the AEP (P = 0.001).
+
+CONCLUSIONS
+This study highlights the potential of embedding HIIT within the school day for improving cognitive and mental health among adolescents.
+
+Can high-intensity interval training improve mental health outcomes in the general population and those with physical illnesses? A systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:HIIT can improve mental well-being, reduce depression severity, and lower perceived stress in both healthy individuals and those with physical illnesses.
+
+Abstract:Objective High-intensity interval training (HIIT) is a safe and feasible form of exercise. The aim of this meta-analysis was to investigate the mental health effects of HIIT, in healthy populations and those with physical illnesses, and to compare the mental health effects to non-active controls and other forms of exercise. Design Random effects meta-analyses were undertaken for randomised controlled trials (RCTs) comparing HIIT with non-active and/or active (exercise) control conditions for the following coprimary outcomes: mental well-being, symptoms of depression, anxiety and psychological stress. Positive and negative affect, distress and sleep outcomes were summarised narratively. Data 
+
+Psychological Adaptations to High-Intensity Interval Training in Overweight and Obese Adults: A Topical Review
+
+Number of 
+
+Key takeaways:HIIT can significantly improve mental health-related indices in overweight and obese adults, with improvements equal to or greater than those observed for moderate-intensity continuous training.
+
+Abstract:Regular exercise has been reported as a fundamental piece of the management and treatment puzzle of obesity, playing a vital role in numerous psychological indicators. However, it is unclear whether high-intensity interval training (HIIT) can improve critical psychological health markers such as adherence, exercise enjoyment, affective responses, health-related quality of life, anxiety, and depression in overweight and obese adults. The purpose of this topical review was to catalogue studies investigating the psychological responses to HIIT in order to identify what psychological outcomes have been assessed, the research methods used, and the results. The inclusion/exclusion criteria were met by 25 published articles investigating either a traditional, single-component (84%) or a hybrid-type, multi-component (16%) HIIT protocol and involving 930 participants with overweight/obesity. The present topical review on HIIT-induced psychological adaptations shows that this popular exercise mode, but also demanding for the masses, can meaningfully increase the vast majority of the selected mental health-related indices. These improvements seem to be equal if not greater than those observed for moderate-intensity continuous training in overweight and obese adults. However, further research is needed in this area, focusing on the potential mechanisms behind positive alterations in various psychological health parameters through larger samples and high-quality randomized controlled trials.
+
+Can high intensity interval training improve health outcomes among people with mental illness? A systematic review and preliminary meta-analysis of intervention studies across a range of mental illnesses.
+
+Number of 
+
+Key takeaways:HIIT may improve various physical and mental health outcomes in people with mental illnesses, but more high-quality research is needed to confirm these findings.
+
+High Intensity Interval training (HIIT) for people with severe mental illness: A systematic review & meta-analysis of intervention studies– considering diverse approaches for mental and physical recovery
+
+Number of 
+
+Key takeaways:HIIT is a feasible and effective exercise for people with severe mental illness, improving cardiorespiratory fitness and depression more than traditional moderate intensity continuous training.
+
+T147. CAN HIGH INTENSITY INTERVAL TRAINING (HIIT) IMPROVE PHYSICAL AND MENTAL HEALTH OUTCOMES? A META-REVIEW OF THE GLOBAL BENEFITS OF HIIT AND FOCUSED SYSTEMATIC REVIEW OF THE EFFECTS OF HIIT IN MENTAL DISORDERS
+
+Number of 
+
+Key takeaways:HIIT may improve physical and mental health outcomes in both healthy individuals and those with mental illnesses, including schizophrenia.
+
+Abstract:Abstract Background High intensity interval training (HIIT) has been shown to improve physical and mental health in healthy individuals and those with physical illnesses, such as cardiovascular and cardiometabolic diseases. Initial work has shown that HIIT may have similar benefits in people experiencing mental illnesses including schizophrenia. Thus, it has been proposed that HIIT may be a promising exercise intervention that has the potential to target the poor health of those with mental illnesses. Despite the rapid interest in HIIT, there is a lack of clarity in the totality of the evidence for which outcomes and under what regimes HIIT is effective and safe, both in populations with and without mental illnesses. Methods A review of the literature was undertaken, comprising a) a meta-review investigating HIIT in all populations and all health outcomes to identify the global health benefits of HIIT; b) a traditional systematic review of all individual interventions of HIIT in all mental disorders (including schizophrenia), to see specifically what has been done in mental health populations. Firstly, major databases were searched for systematic reviews (with/without meta-analyses) of randomised & non-randomised trials that compared HIIT to a control in any human population. Findings were summarised narratively. Secondly, major databases were searched for intervention studies investigating HIIT among people with mental illnesses. Findings were summarised narratively, and a preliminary meta-analysis was undertaken. Results Regarding our first search, 33 systematic reviews (including 25 meta-analyses) were retrieved encompassing healthy subjects and people with physical health complications. Evidence suggested HIIT improved cardiorespiratory fitness (21/23, 91% systematic reviews), arterial compliance and vascular function (3/5, 60% systematic reviews), cardiac function (2/3, 67%), muscle mass (2/3, 67%), quality of life (2/4, 50%) exercise capacity (2/3, 67%) and inflammatory markers (3/5, 60% reviews), versus control. Improvements in muscular structure, anxiety and depression, and blood pressure were seen, compared to pre-training. Additionally, no acute injuries were reported, and mean adherence rates surpassed 80% in most systematic reviews. Regarding our second search, 12 intervention studies, (including 7 RCTs), were included encompassing Major Depressive Disorder, Schizophrenia-Spectrum Disorders, Bipolar Disorder, Substance Use Disorder, Panic Disorder and ADHD. Evidence suggested HIIT improved cardiorespiratory fitness (5/8 intervention studies, 63%), anthropometric variables (3/4, 75%), mental health outcomes (9/12, 75%), cardiovascular fitness (5/9, 56%), physical fitness (1/1, 100%) and motor skills (1/1, 100%), compare to pre-training. The preliminary meta-analysis of pre-post changes found HIIT increased High-Density-Lipoprotein (SMD:0.373 , p=0.0002) and possibly reduced general psychopathology (SMD:-1.58 , p=0.08) in people with schizophrenia-spectrum disorders. HIIT reduced depression severity (Standardised mean difference (SMD):-1.36 , p<0.0001) and possibly improved VO2max (SMD:0.18 , p=0.08) in people with depression. No acute injuries were reported, mean adherence to HIIT sessions ranged from 64–94%, and dropout ranged from 0–50%. Discussion HIIT appears to be associated with multiple benefits in healthy subjects and people with physical health complications. HIIT may also improve a range of physical and mental health outcomes among people with mental illnesses including schizophrenia. Nonetheless, high-quality well-powered trials are needed to reaffirm these findings.
+
+The effects of high intensity interval training on quality of life: a systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:HIIT significantly improves physical, mental, and overall quality of life in both clinical and non-clinical populations, offering a time-efficient exercise option.
+
+Abstract:Abstract Aim This study aimed to ascertain the impact of high intensity interval training (HIIT) on physical, mental, and overall quality of life (QoL) through a comprehensive systematic review and meta-analysis. Subject and methods A systematic search for relevant trials was performed via PubMed, the Cochrane Library and Web of science as well as the manual screening of prior meta-analyses and their respective reference lists (PROSPERO reference: CRD42022326576). Adult controlled trials investigating the effects of a &gt;2-week HIIT intervention with an eligible non-intervention control group were considered. As the primary outcome, studies were required to include at least one measure of physical and/or mental and/or overall QoL, on any validated QoL domain, pre and post intervention. Results Twenty-two studies with twenty-four effect sizes were included; seventeen comparing HIIT and overall QoL, fourteen comparing HIIT and physical QoL and thirteen studies comparing HIIT and mental QoL. There was a statistically significant improvement in physical (SMD= 0.405, 95% CI: 0.110- 0.700, p= 0.007), mental (SMD= 0.473, 95% CI: 0.043 –0.902, p=0.031) and overall QoL (SMD= 0.554, 95% CI 0.210-0.898, p=0.002) following a program of HIIT. Secondary analysis of 5 studies comparing HIIT against moderate intensity continuous training demonstrated no significant difference in improvement between the two modes (SMD= -0.094, CI= -0.506-0.318, p=0.655). Conclusion Engaging in HIIT produces statistically significant improvements in physical, mental, and overall quality of life in clinical and non-clinical populations at a small to moderate effect size. Furthermore, HIIT appears as effective as MICT in improving overall QoL, offering a more time-efficient exercise option.
+
+The effects of high-intensity interval training, Nordic walking and moderate-to-vigorous intensity continuous training on functional capacity, depression and quality of life in patients with coronary artery disease enrolled in cardiac rehabilitation: A randomized controlled trial (CRX study).
+
+Number of 
+
+Key takeaways:Nordic walking (NW) is superior to high-intensity interval training (HIIT) and moderate-to-vigorous intensity continuous training (MICT) in improving functional capacity for coronary artery disease patients.
+
+Affective Responses to High Intensity Interval Training Relative to Moderate Intensity Continuous Training
+
+Number of 
+
+Key takeaways:HIIT may result in lower positive affect and more physical exhaustion during physical activity compared to MICT, but does not impact enjoyment, tranquility, positive engagement, and revitalization.
+
+Abstract:Background: Although physical activity (PA) among adults is associated with health benefits, only one-third of young adults meet PA recommendations. Examining if the type of PA has an impact on individuals&rsquo; psychological responses may impact future interventions and PA rates among young adults. Aims: This study examined affective and other psychological responses to a class of high intensity interval training (HIIT) or moderate intensity continuous training (MICT). Methods: Participants (n = 41) were active 18&ndash;25-year-old college students randomized to participate in HIIT or MICT. HIIT was higher intensity and included more breaks from PA relative to MICT. Both classes were 30-minutes that included a warm-up and cool down. Psychological factors included affect, enjoyment, and exercise-feeling. Results and Conclusions: Participants in the HIIT condition reported lower positive affect and higher physical exhaustion during PA than the MICT condition. However, there was no effect of group assignment on enjoyment, tranquility, positive engagement, and revitalization. This study provides some evidence that HIIT may result in lower levels of positive affect and more exhaustion during PA; however, HIIT does not appear to impact enjoyment. Future studies should examine affect in HIIT relative to MICT through the lens of dual-mode theory over a multi-week intervention. Additionally, HIIT is often discussed as requiring less time relative to traditional workouts while experiencing similar positive health benefits, so future studies should examine affect during HIIT vs. MICT in shorter classes.
+
+Can high-intensity interval training improve physical and mental health outcomes? A meta-review of 33 systematic reviews across the lifespan
+
+Number of 
+
+Key takeaways:HIIT is associated with multiple benefits, including improved cardiorespiratory fitness, glycemic control, and reduced anxiety and depression, while maintaining safety and adherence across various populations.
+
+Abstract:ABSTRACT High-intensity-interval-training (HIIT) has been suggested to have beneficial effects in multiple populations across individual systematic reviews, although there is a lack of clarity in the totality of the evidence whether HIIT is effective and safe across different populations and outcomes. The aim of this meta-review was to establish the benefits, safety and adherence of HIIT interventions across all populations from systematic reviews and meta-analyses. Major databases were searched for systematic reviews (with/without meta-analyses) of randomised & non-randomised trials that compared HIIT to a control. Thirty-three systematic reviews (including 25 meta-analyses) were retrieved encompassing healthy subjects and people with physical health complications. Evidence suggested HIIT improved cardiorespiratory fitness, anthropometric measures, blood glucose and glycaemic control, arterial compliance and vascular function, cardiac function, heart rate, some inflammatory markers, exercise capacity and muscle mass, versus non-active controls. Compared to active controls, HIIT improved cardiorespiratory fitness, some inflammatory markers and muscle structure. Improvements in anxiety and depression were seen compared to pre-training. Additionally, no acute injuries were reported, and mean adherence rates surpassed 80% in most systematic reviews. Thus, HIIT is associated with multiple benefits. Further large-scale high-quality studies are needed to reaffirm and expand these findings. Abbreviations: ACSM: American College of Sports Medicine; BMI: Body Mass Index; BNP: Brain Natriuretic Peptide; BP: Blood Pressure; CAD: Coronary Artery Disease; CHD: Coronary Heart Disease; COPD: Chronic Obstructive Pulmonary Disease; CRP: c- reactive Protein; CVD: Cardiovascular Disease; DBP: Diastolic Blood Pressure; ES: Effect Size; FAS: Reduced Fatty Acid Synthase; FATP-1: Reduced Fatty Acid Transport Protein 1; FMD: Flow Mediated Dilation; Hs-CRP: High-sensitivity c- reactive Protein; HDL: High Density Lipoprotein; HIIT: High-Intensity Interval Training; HOMA: Homoeostatic Model Assessment; HR: Heart Rate; HTx: Heart Transplant Recipients; IL-6: Interleukin-6; LDL: Low Density Lipoprotein; LV: Left Ventricular; LVEF: Left Ventricular Ejection Fraction; MD: Mean Difference; MetS: Metabolic Syndrome; MPO: Myeloperoxidase; MICT: Moderate-Intensity Continuous Training; NO: Nitric Oxide; NRCT: Non-Randomised Controlled Trial; PA: Physical Activity; PAI-1: Plasminogen-activator-inhibitor-1; QoL: Quality of Life; RCT: Randomised Controlled Trial; RoB: Risk of Bias; RPP: Rate Pressure Product; RT: Resistance Training; SBP: Systolic Blood Pressure; SD: Standardised Difference; SMD: Standardised Mean Difference; TAU: Treatment-As-Usual; T2DM: Type 2 Diabetes Mellitus; TC: Total Cholesterol; TG: Triglycerides; TNF-alfa: Tumour Necrosis Factor alpha; UMD: Unstandardised Mean Difference; WC: Waist Circumference; WHR: Waist-to-Hip Ratio; WMD: Weighted Mean Difference Key points: HIIT may improve cardiorespiratory fitness, cardiovascular function, anthropometric variables, exercise capacity, muscular structure and function, and anxiety and depression severity in healthy individuals and those with physical health disorders. Additionally, HIIT appears to be safe and does not seem to be associated with acute injuries or serious cardiovascular events.
+
+The effects of high-intensity interval training on cognitive performance: a systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:HIIT significantly enhances cognitive performance, particularly in information processing, executive function, and memory, with benefits persisting over time.
+
+A Perspective on High-Intensity Interval Training for Performance and Health
+
+Number of 
+
+Key takeaways:HIIT can enhance athletic performance and improve cardiorespiratory fitness in insufficiently active individuals, but optimal intensity distribution and prescription for endurance athletes remain unclear.
+
+Abstract:Interval training is a simple concept that refers to repeated bouts of relatively hard work interspersed with recovery periods of easier work or rest. The method has been used by high-level athletes for over a century to improve performance in endurance-type sports and events such as middle- and long-distance running. The concept of interval training to improve health, including in a rehabilitative context or when practiced by individuals who are relatively inactive or deconditioned, has also been advanced for decades. An important issue that affects the interpretation and application of interval training is the lack of standardized terminology. This particularly relates to the classification of intensity. There is no common definition of the term “high-intensity interval training” (HIIT) despite its widespread use. We contend that in a performance context, HIIT can be characterized as intermittent exercise bouts performed above the heavy-intensity domain. This categorization of HIIT is primarily encompassed by the severe-intensity domain. It is demarcated by indicators that principally include the critical power or critical speed, or other indices, including the second lactate threshold, maximal lactate steady state, or lactate turnpoint. In a health context, we contend that HIIT can be characterized as intermittent exercise bouts performed above moderate intensity. This categorization of HIIT is primarily encompassed by the classification of vigorous intensity. It is demarcated by various indicators related to perceived exertion, oxygen uptake, or heart rate as defined in authoritative public health and exercise prescription guidelines. A particularly intense variant of HIIT commonly termed “sprint interval training” can be distinguished as repeated bouts performed with near-maximal to “all out” effort. This characterization coincides with the highest intensity classification identified in training zone models or exercise prescription guidelines, including the extreme-intensity domain, anaerobic speed reserve, or near-maximal to maximal intensity classification. HIIT is considered an essential training component for the enhancement of athletic performance, but the optimal intensity distribution and specific HIIT prescription for endurance athletes is unclear. HIIT is also a viable method to improve cardiorespiratory fitness and other health-related indices in people who are insufficiently active, including those with cardiometabolic diseases. Research is needed to clarify responses to different HIIT strategies using robust study designs that employ best practices. We offer a perspective on the topic of HIIT for performance and health, including a conceptual framework that builds on the work of others and outlines how the method can be defined and operationalized within each context.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

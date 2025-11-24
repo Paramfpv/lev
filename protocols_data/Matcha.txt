@@ -1,0 +1,361 @@
+PROTOCOL: Matcha
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: 
+DESCRIPTION: Matcha is powdered green tea rich in antioxidants, L-theanine, caffeine, and catechins. Regular consumption may support weight control, lipid profile, and insulin sensitivity, as well as reduce chronic inflammation. Studies also indicate moderate benefits for improving attention and cognitive function.
+
+CONTENT SECTIONS:
+
+Metabolism Regulation, Cognitive Support, and Liver Protection
+
+Matcha is powdered green tea rich in antioxidants, L-theanine, caffeine, and catechins. Regular consumption may support weight control, lipid profile, and insulin sensitivity, as well as reduce chronic inflammation. Studies also indicate moderate benefits for improving attention and cognitive function.
+
+Level of evidence:Good
+
+L-theanine and caffeine work synergistically to improve alertness and stress resilience. Catechins and polyphenols exhibit strong antioxidant and anti-inflammatory properties, supporting fat metabolism and glycemic regulation. Bioactive compounds modulate gut microbiota and hepatic metabolic pathways, promoting protection against fatty liver and liver damage.
+
+Matcha is well tolerated by most people, but its consumption may be associated with mild side effects.
+
+Matcha is not recommended for certain groups due to its high caffeine content and possible interactions.
+
+3–5 g of matcha daily (about 1–2 teaspoons)
+
+Powder for drinks, capsules
+
+First effects after 1–2 weeks of regular consumption
+
+In the morning or 30 minutes before a workout
+
+With hot water or plant-based milk for better absorption
+
+For the first 5 days, take 5 g of matcha twice daily, then switch to a maintenance dose of 3 g
+
+Matcha before training
+
+Consume matcha 30 minutes before exercise to enhance fat oxidation
+
+Replace one daily coffee with matcha to reduce caloric intake and provide antioxidants
+
+Choose ceremonial-grade matcha labeled as organic
+
+Matcha, or powdered green tea, has a beneficial effect on metabolism, particularly on weight control, lipid profile, and glucose tolerance. These effects result from its antioxidant and anti-inflammatory properties as well as its influence on gut microbiota and regulation of metabolic pathways.
+
+Impact on body weight and lipid profile
+
+Glucose metabolism regulation
+
+Impact on microbiota and inflammation
+
+Thanks to its high content of L-theanine, caffeine, catechins, and vitamin K, matcha may positively influence cognitive functions, attention, and stress resilience. The best documented effects are seen in older adults and under stress conditions, although they are moderate.
+
+Impact on attention, cognitive function, and mood
+
+Matcha may have a positive impact on liver health, especially in the context of metabolic diseases and fatty liver, through improved liver function, reduced inflammation, and support for fat metabolism. The best effects have been observed in animal studies.
+
+Impact on fatty liver, inflammation, and liver metabolism
+
+Limitations and ambiguities
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:36
+
+Final comment:Available studies include both controlled human clinical trials with limited sample sizes and multiple animal model experiments, which together provide moderate support for matcha's effectiveness in regulating metabolism, cognitive function, and liver protection. However, there is a lack of large, long-term clinical trials confirming the durability and scope of effects in humans.
+
+Matcha green tea targets the gut–liver axis to alleviate obesity and metabolic disorders induced by a high-fat diet
+
+Number of 
+
+Key takeaways:Matcha green tea effectively mitigates obesity and related metabolic disorders by regulating gut-liver axis homeostasis in a high-fat diet-induced obese mouse model.
+
+Abstract:Obesity induced by a high-fat diet (HFD) is an increasing global health problem, leading to many metabolic syndromes. As the emerging food additive rich in tea polyphenols, theanine, caffeine, and so on, matcha green tea has gained more and more popularity for its outstanding potential in ameliorating metabolic disorders. This study investigated the composition and antioxidant activity of matcha green tea and further explored its effects on gut–liver axis homeostasis in an HFD-induced obese mouse model. Male (7–8 weeks old) C57BL/6J mice were divided into four groups with the following dietary supplementation for 8 weeks: a normal chow diet (NCD), a normal chow diet+1.0% matcha (NCM), a high-fat diet (HFD), and a high-fat diet+1.0% matcha (HFM). The results demonstrated that matcha green tea ameliorated the development of obesity, lipid accumulation, and hepatic steatosis induced by HFD. Subsequently, dietary matcha supplementation restored the alterations in fecal bile acid profile and gut microbial composition. Meanwhile, the levels of mRNA expression in hepatocytes demonstrated that matcha intervention made significant regulatory on the multiple metabolic pathways of hosts involved in glucose, lipid, and bile acid metabolism. These findings present new evidence for matcha green tea as an effective nutritional strategy to mitigate obesity and relevant metabolic disorders through the gut–liver axis.
+
+Matcha and exercise synergy: Elucidating mechanisms and central signaling pathways modulating glycolipid metabolism in high‐fat diet‐induced obese mice
+
+Number of 
+
+Key takeaways:Matcha green tea combined with voluntary exercise significantly mitigates obesity-related glycolipid metabolism abnormalities and increases antioxidant enzymes in obese mice.
+
+Abstract:Matcha green tea, renowned for its rich composition of catechin, theanine, caffeine, and fiber‐bound polyphenols, distinguishes itself with heightened bioavailability and promising potential in addressing obesity and metabolic disorders. Our comprehensive analysis delved into matcha's components and antioxidant activity. Employing a multi‐omics approach, we explored the synergistic effects of matcha combined with voluntary exercise, focusing on anti‐obesity outcomes in high‐fat diet mice. Our findings revealed that matcha co‐exercise significantly mitigates glycolipid metabolism abnormalities, increasing serum antioxidant enzymes. This combination notably influences peripheral metabolism, especially amino acids and their metabolisms. Moreover, the observed activation of the BMP‐SMAD signaling in the hypothalamus implies a central regulatory role mediating matcha co‐exercise effects. Collectively, these findings underscore matcha's potential as a robust adjunct in mitigating obesity through antioxidant and metabolic regulation, supporting its use as a promising supplement to enhance exercise benefits in combating obesity.
+
+Matcha alleviates obesity by modulating gut microbiota and its metabolites
+
+Number of 
+
+Key takeaways:Matcha reduces obesity by modulating gut microbiota and metabolites, potentially by reducing the abundance of obesity-promoting bacteria and promoting obesity-alleviating bacteria.
+
+Matcha Green Tea Alleviates Non-Alcoholic Fatty Liver Disease in High-Fat Diet-Induced Obese Mice by Regulating Lipid Metabolism and Inflammatory Responses
+
+Number of 
+
+Key takeaways:Matcha green tea supplementation effectively prevents non-alcoholic fatty liver disease in high-fat diet-induced obese mice by regulating lipid metabolism and inflammatory responses.
+
+Abstract:Lately, matcha green tea has gained popularity as a beverage and food additive. It has proved to be effective in preventing obesity and related metabolic syndromes. However, the underlying mechanisms of its control effects against non-alcoholic fatty liver disease (NAFLD) are complicated and remain elusive. In the present study, we performed an in vivo experiment using male C57BL/6 mice fed with a high-fat diet and simultaneously treated with matcha for six weeks. Serum biochemical parameters, histological changes, lipid accumulation, inflammatory cytokines, and relevant indicators were examined. Dietary supplementation of matcha effectively prevented excessive accumulation of visceral and hepatic lipid, elevated blood glucose, dyslipidemia, abnormal liver function, and steatosis hepatitis. RNA sequencing analyses of differentially expressed genes in liver samples indicated that matcha treatment decreased the activity of lipid droplet-associated proteins and increased the activity of cytochrome P450 enzymes, suggesting improved metabolic capacity and liver function. The current study provided evidence for new dietary strategies based on matcha supplementation to ameliorate lipotoxicity-induced obesity and NALFD.
+
+The therapeutic potential of matcha tea: A critical review on human and animal studies
+
+Number of 
+
+Key takeaways:Matcha tea may improve cognitive function, cardio-metabolic health, and potentially reduce breast cancer cell proliferation.
+
+The effects of the aqueous extract and residue of Matcha on the antioxidant status and lipid and glucose levels in mice fed a high-fat diet.
+
+Number of 
+
+Key takeaways:Matcha reduces blood glucose levels, improves lipid metabolism, and reduces oxidative stress in mice fed a high-fat diet, with the water-insoluble part playing a key role in suppressing diet-induced high levels of lipid and glucose.
+
+Abstract:Matcha is a kind of powdered green tea produced by grinding with a stone mill. In the present study, the preventive effects of the aqueous extract (water-soluble) and residue (water-insoluble) of Matcha on the antioxidant status and lipid and glucose levels in mice fed a high-fat diet were investigated. Mice were fed seven different experimental diets for 4 weeks: a normal diet control (NC), a high-fat diet (HF), a high-fat diet with 0.025% Matcha (MLD), a high-fat diet with 0.05% Matcha (MMD), a high-fat diet with 0.075% Matcha (MHD), a high-fat diet with 0.05% Matcha aqueous extracts (ME), and a high-fat diet with 0.05% Matcha residues (MR). It was found that serum total cholesterol (TC) and triglyceride (TG) levels of the MHD group were significantly decreased compared to those of the HF group. Furthermore, in the MHD group, the level of high-density lipoprotein-cholesterol (HDL-C) was elevated, on the contrary the level of low-density lipoprotein-cholesterol (LDL-C) was suppressed. Moreover, Matcha could significantly lower the blood glucose levels, and improve the superoxide dismutase (SOD) activity and malondialdehyde (MAD) contents both in serum and liver; besides, the serum GSH-Px activity indicated that the oxidative stress caused by HF could be reversed by administration of Matcha. These findings suggest that Matcha has beneficial effects through the suppression of the blood glucose (BG) accumulation and promotion of the lipid metabolism and antioxidant activities. Moreover, the water-insoluble part of Matcha is suggested to play an important role in the suppression of diet-induced high levels of lipid and glucose.
+
+Matcha green tea prevents obesity-induced hypothalamic inflammation via suppressing the JAK2/STAT3 signaling pathway.
+
+Number of 
+
+Key takeaways:Matcha green tea prevents obesity-induced hypothalamic inflammation by suppressing the JAK2/STAT3 signaling pathway.
+
+Abstract:Obesity is an increasingly severe global health problem, leading to chronic inflammation and metabolic disorders in both peripheral tissues and the central nervous system. Matcha is a powdered green tea, and it is very popular in recent years as a beverage and food additive. Matcha green tea has been reported to have outstanding potential in regulating obesity-related metabolic syndrome. However, there are few studies on the regulation mechanism of matcha green tea on the central nervous system. In this study, we established a high-fat diet-induced obese mouse model. The results showed that dietary supplementation with matcha could effectively inhibit the weight gain, fat accumulation, glycemia and lipidemia increase, and excessive activation of microglia in the arcuate nucleus of the hypothalamus. Furthermore, we used different concentrations (100%, 80%, 60%, 40%, and 20%, v/v) of ethanol solution to prepare matcha ethanol extracts, and investigated their effects on palmitic acid-induced inflammation of microglial BV-2 cells. The results showed that matcha ethanol extracts could significantly reduce the release of inflammatory cytokines and the expression and phosphorylation of JAK2 and STAT3.
+
+Effects of three-week intake of Matcha green tea powder on heart rate variability metrics
+
+Number of 
+
+Key takeaways:Matcha green tea improves heart rate variability during supine rest in young adult healthy females, suggesting a relaxing effect, but does not affect metabolic responses during supine rest or exercise.
+
+Abstract:Introduction: Compared to other green teas, higher intake of multiple phytochemicals is achieved with Matcha green tea consumption. Green tea consumption is known to have metabolic effects but is also consumed for supposed calming effects. The aim of the present study was to examine the effects of encapsulated Matcha green tea on heart rate variability metrics during supine rest, as well as on physiological and metabolic responses during both supine rest and moderate-intensity exercise. Methods: Healthy females (n=8, age: 22±3 yrs, body mass: 68±11 kg, height: 162±5 cm) volunteered. The study employed a placebo-controlled, randomised cross-over design. Time-domain heart rate variability metrics during supine rest (n=5) and physiological and metabolic responses using indirect calorimetry techniques during supine rest and 60-min of moderate-intensity (~ 4-METs) treadmill walking (speed: 4.4±0.5 km·h-1) were measured following 3 weeks of 3 g·day-1 of Matcha green tea or placebo. Results: During supine rest with Matcha green tea, all participants had lower heart rates by 13±7% (P=0.01, d= -1.45), higher mean beat-to-beat RR intervals by 16±9% (P=0.03, d=1.25), higher SDNN by 44±32% (P=0.01, d=0.76) and higher pNN50 by 139±139% (P<0.01, d=1.28). Matcha green tea had no effects on the physiological and metabolic responses during supine rest and moderate-intensity treadmill walking (e.g. respiratory exchange ratio, placebo: 0.78±0.04; Matcha: 0.78±0.03, P=0.87). Fat oxidation during supine rest was correlated (r=0.75, P<0.01) with the moderate-intensity walking induced fat oxidation. Conclusions: In young adult healthy females, Matcha green tea beneficially effects heart rate variability metrics during supine rest indicating an alteration in parasympathetic nervous activity and therefore suggestive of a relaxing effect. Matcha green tea did not change the metabolic responses during supine rest and exercise possibly due to the low respiratory exchange ratio in the female cohort. Future work should address the effectiveness of Matcha green tea during conditions of psychological stress.Keywords: Matcha green tea, heart rate variability, rest, walking, substrate oxidation
+
+Three Weeks Daily Intake of Matcha Green Tea Powder Affects Substrate Oxidation during Moderate-Intensity Exercise in Females
+
+Number of 
+
+Key takeaways:Three weeks daily intake of Matcha green tea powder enhances fat oxidation during moderate-intensity exercise in adult females, regardless of body composition.
+
+Abstract:Abstract Artificial green tea extracts may enhance exercise-induced fat oxidation. Natural Matcha green tea consumption involves the ingestion of the powdered green tea leaves. We examined the effects of three weeks daily intake of Matcha green tea powder on substrate oxidation during moderate-intensity exercise in females. Females with a regular menstrual cycle (n  = 12, age: 28 ± 10 yr, body mass: 69 ± 17 kg, height: 163 ± 6 cm) volunteered to complete an incremental walking test to determine the individual moderate exercise intensity (four metabolic equivalent) for the subsequent 30-min treadmill walk. The study had a randomized placebo-controlled cross-over design with participants tested between day 9 and 11 of the menstrual cycle (follicular phase). Participants consumed 3x1 gram capsules of Matcha premium grade, (OMGTea Ltd, UK) per day for three weeks, with the final dose (1 gram) two hours before the 30-min walk (walking speed: 5.8 ± 0.4 km·h−1). Matcha had no effect on physiological responses (e.g. heart rate, placebo: 127 ± 14; Matcha: 124 ± 14 beats·min−1, p  = 0.154), but resulted in lower respiratory exchange ratio (placebo: 0.872 ± 0.040; Matcha: 0.839 ± 0.035) (p  = 0.033), higher fat oxidation by 35 ± 47% (placebo: 0.21 ± 0.08; Matcha: 0.26 ± 0.06 g·min−1) (p  = 0.034), and lower carbohydrate oxidation (placebo: 0.75 ± 0.21; Matcha: 0.60 ± 0.18 g·min−1) (p = 0.048) during the 30-min moderate-intensity walk. Energy expenditure was similar for both conditions. There was no significant correlation between body fat % and the absolute or relative change in Matcha-induced fat oxidation during exercise. Continuous intake of Matcha green tea effects exercise-induced metabolic responses by enhancing fat oxidation during moderate-intensity exercise in adult females, seemingly independent of body composition.
+
+Matcha Green Tea Drinks Enhance Fat Oxidation During Brisk Walking in Females.
+
+Number of 
+
+Key takeaways:Matcha green tea drinks can enhance fat oxidation during brisk walking in females, but the metabolic effects should not be overstated for weight loss programs.
+
+Abstract:Intake of the catechin epigallocatechin gallate and caffeine has been shown to enhance exercise-induced fat oxidation. Matcha green tea powder contains catechins and caffeine and is consumed as a drink. We examined the effect of Matcha green tea drinks on metabolic, physiological, and perceived intensity responses during brisk walking. A total of 13 females (age: 27 ± 8 years, body mass: 65 ± 7 kg, height: 166 ± 6 cm) volunteered to participate in the study. Resting metabolic equivalent (1-MET) was measured using Douglas bags (1-MET: 3.4 ± 0.3 ml·kg-1·min-1). Participants completed an incremental walking protocol to establish the relationship between walking speed and oxygen uptake and individualize the walking speed at 5- or 6-MET. A randomized, crossover design was used with participants tested between Days 9 and 11 of the menstrual cycle (follicular phase). Participants consumed three drinks (each drink made with 1 g of Matcha premium grade; OMGTea Ltd., Brighton, UK) the day before and one drink 2 hr before the 30-min walk at 5- (n = 10) or 6-MET (walking speed: 5.8 ± 0.4 km/hr) with responses measured at 8-10, 18-20, and 28-30 min. Matcha had no effect on physiological and perceived intensity responses. Matcha resulted in lower respiratory exchange ratio (control: 0.84 ± 0.04; Matcha: 0.82 ± 0.04; p < .01) and enhanced fat oxidation during a 30-min brisk walk (control: 0.31 ± 0.10; Matcha: 0.35 ± 0.11 g/min; p < .01). Matcha green tea drinking can enhance exercise-induced fat oxidation in females. However, when regular brisk walking with 30-min bouts is being undertaken as part of a weight loss program, the metabolic effects of Matcha should not be overstated.
+
+Potential Anti-Obesity Effects of Matcha Tea in Rats Fed on a High Fat Diet
+
+Number of 
+
+Key takeaways:Matcha tea, when fed 6%, significantly reduces obesity in obese rats by improving lipid profiles, glucose levels, liver, and kidney functioning.
+
+Abstract:Matcha is a kind of powdered green tea produced by grinding with a stone mill. Lately, Matcha green tea has gained popularity as a beverage and food additive. It has proved to be effective in preventing obesity and related metabolic syndromes. The primary goal of this study is to determine the efficacy of Match tea in reducing obesity in obese rats. In this investigation, thirty male albino rats weighing 140g±5g were divided into five groups, each with six rats. To induce obesity in rats, a high fat diet (20 % animal fat) was fed to them. The study also measured glucose levels, liver functions {Alanine amino transferase (GPT) & Aspartate amino transferase (GOT)}, total cholesterol, triglycerides, high-density lipoprotein, low-density lipoprotein, very low-density lipoprotein, atherogenic index and kidney functions (urea, uric acid, and creatinine). The results showed that the obese group had reduced glucose levels, liver functions, and kidney functions when they were fed 6 % Matcha tea, with significant differences. Matcha tea had the lowest cholesterol and triglyceride levels, as well as the lowest low-density lipoprotein, very low-density lipoprotein and atherogenic index values, with significant differences. The group fed 6 % Matcha tea had the highest high-density lipoprotein levels. The lowest levels were found in the group fed 2% Matcha tea, with a significant difference. Obese rats given 6%Match tea powder demonstrated superior lipid profiles, glucose levels, liver and kidney functioning.
+
+An exploratory to analysis the effects of the dirrerent roles of mathca on lipid metabolism and intestinal flora regulation between normal and diabetic mice fed a high-fat diet
+
+Number of 
+
+Key takeaways:Matcha improves lipid metabolism and intestinal flora balance in both normal and diabetic mice fed a high-fat diet, offering potential for functional food development.
+
+Abstract:Fast food is becoming increasing popular as a social phenomenon, and it usually contains high fat contents. Matcha is one versatile tea, and its application in food brings lots of new consumers. Herein, a high-fat diet containing matcha was prepared, and in this study we investigated the effects of such a diet on lipid metabolism and intestinal flora of normal and diabetic mice. Results showed that diabetes had significant weight loss, hyperphagia, hyperlipidemia and intestinal flora disturbance, with particularly significantly increased Alistipes, Prevotella, Helicobacter, Acetatifactor and Bacteroides, and decreased Alloprevotella, Lactobacillus, Allobaculum and Akkermansia. In diabetes, matcha decreased serum triglyceride and LDL-C, increased HDL-C, reversed those bacteria trends besides Alistipes, Prevotella and Akkermansia. In normal mice, matcha decreased serum LDL-C, increased Parabacteroides, Bacteroidales_unclassified, Erysipelotrichaceae_unclassified and Barnesiella, Lachnospiraceae_unclassified, and decreased Helicobacter and Clostridium XlVa. Most importantly, matcha increased Porphyromonadaceae_unclassified, Lactobacillus, Alloprevotella, Prevotella and Allobaculum; and decreased Bacteroides and Enterobacteriaceae_unclassified in diabetes, however these changed bacteria in normal mice showed an opposite trend from diabetes. Intestinal flora balance is vital important to host, matcha helps to improve the balance of lipid metabolism and intestinal flora according to different character of host, and is a valuable addition to develop functional food.
+
+No Adverse Effects of Matcha Green Tea Powder on Metabolic and Physiological Responses during Running: 3261 Board #166 June 2 2
+
+Number of 
+
+Key takeaways:Short-duration intake of Matcha green tea powder had no adverse effects on metabolic and physiological responses during submaximal intensity running.
+
+Abstract:Matcha is powder made from green tea leaves that had restricted light exposure to enhance composition. Consumption of the powder in Matcha green tea drinks ensures substantially higher intake of catechins and caffeine than normally brewed green tea. Green tea effects are commonly examined with epigallocatechin gallate (EGCG) or green tea extract with evidence to support enhanced fat oxidation and increased endurance performance. The metabolic and physiologic responses of short-duration intake of Matcha green tea powder during exercise are not known. PURPOSE: To examine the metabolic and physiological responses of Matcha green tea powder during submaximal treadmill running. METHODS: Twelve male recreational runners (mean±SD, age: 31±9 years, height: 185±9 cm, body mass: 79±11 kg, maximum oxygen uptake (VO2max): 55±6 mLkg-1min-1) completed a 40-minute treadmill run at 55% of the running speed at VO2max, i.e. running at 10.0±0.8 kmh-1. In the Matcha condition, participants were supplemented with 3x3 capsules on the day before and 3 capsules one hour before exercise in a fasted state. Each capsule contains 77 mg total catechins of which 37.5 mg EGCG and 12 mg caffeine. Expired air, heart rate and rating of perceived exertion (RPE) were collected at 10-minute intervals and analysed with two-way repeated measures and Bonferroni post hoc testing. Significance was accepted at p<0.05. RESULTS: There was no condition effect of Matcha green tea powder at any time point on minute ventilation, oxygen consumption, fat oxidation, carbohydrate oxidation, heart rate and RPE. For example, fat oxidation values and heart rates during 9-10 min, 19-20 min, 29-30 min and 39-40 min were 0.63±18, 0.65±0.24, 0.71±0.17, 0.80±0.24 g·min-1 and 0.63±0.22, 0.67±0.26, 0.67±0.22, 0.73±0.24 g·min-1, and 139±13, 145±14, 148±14, 150±14 beats·min-1 and 140±13, 144±13, 147±13, 150±13 beats·min-1, for the control and Matcha condition, respectively. CONCLUSION: Short-duration intake of Matcha green tea powder had no adverse effects on metabolic and physiological responses during submaximal intensity running. Future studies should address whether there is an effect of long-duration intake of Matcha green tea on metabolic and physiological responses and exercise performance. Matcha capsules were provided by OMGTEA Ltd, United Kingdom.
+
+Health Benefits and Chemical Composition of Matcha Green Tea: A Review
+
+Number of 
+
+Key takeaways:Regular consumption of matcha green tea may positively impact both physical and mental health due to its high content of antioxidant and anti-inflammatory substances.
+
+Abstract:Japanese matcha is a type of powdered green tea, grown in a traditional way. Shading of the plants during the growth period enhances the processes of synthesis and accumulation of biologically active compounds, including theanine, caffeine, chlorophyll and various types of catechins. Green tea contains four main catechins, i.e., (−)-epicatechin (EC), (−)-epicatechin-3-gallate (ECG), (−)-epigallocatechin (EGC) and (−)-epigallocatechin-3-gallate (EGCG), of which the latter is the most active and abundant and matcha is their best condensed source. Due to its unique chemical composition and prized flavour, which sets it apart from other tea beverages, it is considered the highest quality tea. Its health-promoting properties are attributed to the high content of antioxidant and anti-inflammatory substances. Studies confirming the high antioxidant potential of tea beverages claim that it originates from the considerable content of catechins, a type of phenolic compound with beneficial effects on human health. Due to its potential for preventing many diseases and supporting cognitive function, regular consumption of matcha may have a positive effect on both physical and mental health. The aim of this review was to compile the health benefits of matcha tea. It is the first such review to be undertaken, and presents its main bioactive compounds in a systematic manner.
+
+A review on matcha: Chemical composition, health benefits, with insights on its quality control by applying chemometrics and multi-omics.
+
+Number of 
+
+Key takeaways:Matcha's quality and health benefits are mainly influenced by its micro-nutrients and antioxidative phytochemicals, with climate, cultivar, maturity, grinding process, and brewing temperature playing key roles.
+
+Exploring the Health Benefits of Matcha: A Comprehensive Review
+
+Number of 
+
+Key takeaways:Matcha green tea shows potential health benefits, including anticancer properties, enhanced cognitive function, improved cardio-metabolic health, and modulating gut microbiome, but further randomized controlled trials are needed to confirm its effects on human health.
+
+Abstract:Introduction: Matcha, a finely powdered form of green tea, has recently gained global popularity due to its vibrant green color, distinctive taste, and versatile applications in various food products. Despite its promising nutritional profile, matcha has not received significant attention in the academic community compared to traditional green tea. 
+Purpose of work: The primary objective of this review is to provide a comprehensive overview of the current understanding of matcha's biological properties and its potential health benefits. 
+Methods and materials: A review of the literature available in the PubMed database and Google Scholar, the 
+following keywords were searched: "matcha", “catechin", "EGCG", “cognitive function”, “green tea” 
+State of knowledge: Existing studies have demonstrated that matcha exhibits anticancer properties, enhances cognitive function, improves cardio-metabolic health, and modulates the gut microbiome. Moreover, matcha is known for its anti-inflammatory and antioxidant properties. 
+Summary: This review summarizes the latest research findings on matcha green tea and its potential health benefits. While animal studies have shown promising results, our knowledge of matcha's effects on human health remains limited. Further randomized controlled trials are necessary to fully elucidate its potential health-promoting effects. Therefore, we advocate for continued research into matcha's properties and its integration into dietary practices to promote overall health and well-being.
+
+Matcha green tea beverage moderates fatigue and supports resistance training-induced adaptation
+
+Number of 
+
+Key takeaways:Daily intake of matcha green tea beverages may help in muscle adaptation to training, reducing fatigue and modulating stress responses and gut microbiota composition.
+
+Abstract:Abstract Background Resistance training adaptively increases muscle strength and mass, contributing to athletic performance and health promotion. Dietary intervention with natural foods provides nutrients that help accelerate muscle adaptation to training. Matcha green tea contains several bioactive factors such as antioxidants, amino acids, and dietary fibers; however, its effect on muscle adaptation is unclear. In this study, we aimed to investigate the effects of matcha beverage intake on muscle adaptation to resistance training. Methods Healthy, untrained men were randomized into placebo and matcha groups. Participants consumed either a matcha beverage containing 1.5 g of matcha green tea powder or a placebo beverage twice a day and engaged in resistance training programs for 8 (trial 1) or 12 weeks (trial 2). Results In trial 1, maximum leg strength after training tended to increase more in the matcha group than that in the placebo group. In the matcha group, subjective fatigue after exercise at 1 week of training was lower than that in the placebo group. Gut microbe analysis showed that the abundance of five genera changed after matcha intake. The change in Ruminococcus , Butyricimonas , and Oscillospira compositions positively correlated with the change in maximum strength. In trial 2, the change in skeletal muscle mass in response to training was larger in the matcha group. In addition, the salivary cortisol level was lower in the matcha group than that in the placebo group. Conclusion Daily intake of matcha green tea beverages may help in muscle adaptation to training, with modulations in stress and fatigue responses and microbiota composition.
+
+Effects of Daily Matcha and Caffeine Intake on Mild Acute Psychological Stress-Related Cognitive Function in Middle-Aged and Older Adults: A Randomized Placebo-Controlled Study
+
+Number of 
+
+Key takeaways:Daily matcha and caffeine intake improves attention and work performance in middle-aged and older adults experiencing psychological stress compared to caffeine alone.
+
+Abstract:Matcha, a type of green tea, has a higher amino acid content than other types of tea. We previously examined the ability of matcha to improve cognitive function in older adults and determined that continuous matcha intake improves attention and executive function. This study aimed to compare the effects of matcha and caffeine and clarify the differences between these effects. The study was registered at the University Hospital Medical Information Network (UMIN000036578). The effect of single and continuous intake was compared, and the usefulness of continuous intake was evaluated under the stress condition. The Uchida–Kraepelin test (UKT) was used to induce mild acute stress, and the Cognitrax was used to evaluate cognitive function. A single dose of caffeine improved attentional function during or after stress loading. The reduced reaction time in the Cognitrax, observed following a single dose of matcha, was likely due to caffeine. The matcha group showed an increase in the amount of work after continuous intake, whereas the caffeine group only showed an increase in the amount of work for the UKT after a single dose. Ingesting matcha with caffeine improves both attention and work performance when suffering from psychological stress compared with caffeine alone.
+
+The Effect of Matcha Ingestion on Medicine Students in Al-Madina Al-Munawara
+
+Number of 
+
+Key takeaways:Regular Matcha consumption positively impacts mood, reduces stress levels, and enhances overall well-being among medicine students in Al-Madina Al-Munawara.
+
+Abstract:: Background: Matcha, a powdered form of green tea, is acclaimed for its high antioxidant content and numerous potential health benefits. This study aims to investigate the effects of regular Matcha consumption on mood, stress levels, and overall well-being among medicine students in Al-Madina Al-Munawara. Objective: To evaluate the impact of daily Matcha ingestion on mood enhancement, stress reduction, and overall well-being among medicine students in Al-Madina Al-Munawara. Methods: A study involving 200 medical students from Al-Madina Al-Munawara analyzed changes in mood, stress levels, and overall well-being after daily Matcha consumption. Data was collected through a structured questionnaire, focusing on demographics, consumption patterns, perceived effects, and academic performance. Statistical significance was determined at p < 0.05. Results: The analysis of the questionnaires revealed significant improvements in mood among participants who consumed Matcha. Specifically, there was an increase in reported calmness and happiness, and a reduction in anxiety levels (p < 0.05). Additionally, participants noted a significant decrease in perceived stress levels and an overall enhancement in their sense of well-being (p < 0.05). No adverse effects were reported by the participants throughout the study period. Conclusion: Regular consumption of Matcha has a positive impact on mood, reduces stress levels, and enhances overall well-being among medicine students in Al-Madina Al-Munawara. These findings suggest that incorporating Matcha into the daily diet may offer mental health benefits for students. Further research is needed to confirm these results and to explore the long-term effects and underlying mechanisms of Matcha's benefits.
+
+Matcha consumption maintains attentional function following a mild acute psychological stress without affecting a feeling of fatigue: A randomized placebo-controlled study in young adults.
+
+Number of 
+
+Key takeaways:Matcha consumption maintains attentional function in young adults after mild acute psychological stress, potentially improving cognitive function during or after stress conditions.
+
+An intervention study on the effect of matcha tea, in drink and snack bar formats, on mood and cognitive performance.
+
+Number of 
+
+Key takeaways:Matcha tea, in drink format, can slightly improve attention speed and episodic secondary memory, but has no significant effect on mood.
+
+Effect of matcha green tea on cognitive functions and sleep quality in older adults with cognitive decline: A randomized controlled study over 12 months
+
+Number of 
+
+Key takeaways:Regular consumption of matcha green tea may improve emotional perception and sleep quality in older adults with mild cognitive decline.
+
+Abstract:Objective Lifestyle habits after middle age significantly impact the maintenance of cognitive function in older adults. Nutritional intake is closely related to lifestyle habits; therefore, nutrition is a pivotal factor in the prevention of dementia in the preclinical stages. Matcha green tea powder (matcha), which contains epigallocatechin gallate, theanine, and caffeine, has beneficial effects on cognitive function and mood. We conducted a randomized, double-blind, placebo-controlled clinical study over 12 months to examine the effect of matcha on cognitive function and sleep quality. Methods Ninety-nine participants, including 64 with subjective cognitive decline and 35 with mild cognitive impairment were randomized, with 49 receiving 2 g of matcha and 50 receiving a placebo daily. Participants were stratified based on two factors: age at baseline and APOE genotype. Changes in cognitive function and sleep quality were analyzed using a mixed-effects model. Results Matcha consumption led to significant improvements in social acuity score (difference; -1.39, 95% confidence interval; -2.78, 0.002) (P = 0.028) as evaluated by the perception of facial emotions in cognitive function. The primary outcomes, that is, Montreal Cognitive Assessment and Alzheimer’s Disease Cooperative Study Activity of Daily Living scores, showed no significant changes with matcha intervention. Meanwhile, Pittsburgh Sleep Quality Index scores indicated a trend toward improvement with a difference of 0.86 (95% confidence interval; -0.002, 1.71) (P = 0.088) between the groups in changes from baseline to 12 months. Conclusions The present study suggests regular consumption of matcha could improve emotional perception and sleep quality in older adults with mild cognitive decline. Given the widespread availability and cultural acceptance of matcha green tea, incorporating it into the daily routine may offer a simple yet effective strategy for cognitive enhancement and dementia prevention.
+
+Matcha Tea Powder’s Antidepressant-like Effect through the Activation of the Dopaminergic System in Mice Is Dependent on Social Isolation Stress
+
+Number of 
+
+Key takeaways:Matcha tea powder's antidepressant-like effect in mice depends on social isolation stress, with its activation of the dopaminergic system affecting mental states.
+
+Abstract:Matcha tea powder is believed to have various physiological benefits; however, its detailed mechanism of action has been poorly understood. Here, we investigated whether the mental state of mice, due to social isolation stress, affects the antidepressant-like effect of Matcha tea powder by using the tail suspension test. Oral administration of Matcha tea powder reduced the duration of immobility in the stress-susceptible C57BL/6J strain, but not in BALB/c strain. In C57BL/6J mice, SCH23390, a dopamine D1 receptor blocker, prevented Matcha tea powder from exerting its antidepressant-like effect. Matcha tea powder also increased the number of c-Fos-positive cells in the prefrontal cortex (PFC) region and the nucleus accumbens (NAc) region in C57BL/6J mice, but not in BALB/c mice. In contrast, Matcha tea powder did not change the number of c-Fos-positive cells in the ventral tegmental area (VTA) region. Notably, C57BL/6J mice with a shorter immobility time had a higher number of c-Fos-positive cells in the PFC, NAc, and VTA regions. However, no such correlation was observed in the stress-tolerant BALB/c mice. These results suggest that Matcha tea powder exerts an antidepressant-like effect through the activation of the dopaminergic system including the PFC-NAc-VTA circuit and that mental states are important factors affecting the physiological benefits of Matcha tea powder.
+
+Powdered Green Tea (Matcha) Attenuates the Cognitive Dysfunction via the Regulation of Systemic Inflammation in Chronic PM2.5-Exposed BALB/c Mice
+
+Number of 
+
+Key takeaways:Powdered green tea (matcha) improves cognitive dysfunction in PM2.5-exposed mice by regulating systemic inflammation and enhancing memory function.
+
+Abstract:This study was conducted to evaluate the anti-amnesic effect of the aqueous extract of powdered green tea (matcha) (EM) in particulate matter (PM)2.5-induced systemic inflammation in BALB/c mice. EM ameliorated spatial learning and memory function, short-term memory function, and long-term learning and memory function in PM2.5-induced mice. EM protected against antioxidant deficit in pulmonary, dermal, and cerebral tissues. In addition, EM improved the cholinergic system through the regulation of acetylcholine (ACh) levels and acetylcholinesterase (AChE) activity in brain tissue, and it protected mitochondrial dysfunction by regulating the production of reactive oxygen species (ROS), mitochondrial membrane potential (MMP) and ATP contents in brain tissue. EM attenuated systemic inflammation and apoptotic signaling in pulmonary, dermal, olfactory bulb, and hippocampal tissues. Moreover, EM suppressed neuronal cytotoxicity and cholinergic dysfunction in hippocampal tissue. This study suggests that EM might be a potential substance to improve PM2.5-induced cognitive dysfunction via the regulation of systemic inflammation.
+
+The Effects of Matcha and Decaffeinated Matcha on Learning, Memory and Proteomics of Hippocampus in Senescence-Accelerated (SAMP8) Mice
+
+Number of 
+
+Key takeaways:Matcha and decaffeinated matcha may reduce aging and cognitive impairment by regulating protein expression in the hippocampus of senescence-accelerated mice.
+
+Abstract:Although the benefits of the consumption of green tea and its components, including catechins and theanine, regarding aging, memory impairment and age-related cognitive decline have been investigated in senescence-accelerated prone mice (SAMP8), studies that simultaneously measured the kinds of proteins that vary in their expression due to the administration of green tea and its extracts were not found. In this study, the effect of dietary and decaffeinated matcha on protein expression in the hippocampus of SAMP 8 was examined comprehensively, mainly using proteomics. Although improvements in memory and the hair appearance of the back coat were limited upon administering the samples, the following regulations were observed in some of the proteins involved in neuron degeneration, Parkinson’s and Alzheimer’s diseases, synapse transmission and nerve cell plasticity, antioxidation, glutamate transport and metabolism, GABA (γ-amino butyric acid) formation and transport and excitatory amino acid transporters: proteins downregulated upon sample intake (p < 0.05): brain acid-soluble protein 1, microtubule-associated protein tau, synapsin-2, sodium- and chloride-dependent GABA transporter; proteins that tended to decrease upon sample intake (0.05 < p < 0.10): Parkinson’s disease (autosomal recessive and early-onset) 7 and synapsin-1; proteins upregulated upon sample intake (p > 0.95): glutathione S-transferase Mu 1, tubulin alpha-1A chain, dynamin-2, calcium/calmodulin-dependent protein kinase type II subunit gamma and tyrosine 3-monooxygenase/tyrosine 5-monooxygenase activation protein epsilon polypeptide; proteins that tended to increase upon sample intake (0.95 > p > 0.90): glutathione S-transferase Mu7 and soluble carrier family 1 (glial high-affinity glutamate transporter); proteins that tended to decrease: sodium- and chloride-dependent GABA transporter 3. These results indicate that matcha and decaffeinated matcha could reduce aging and cognitive impairment by regulating the expression of these proteins. Furthermore, these proteins could be used as markers for the evaluation of food and its available components for reducing aging and cognitive impairment.
+
+Effects of Matcha Green Tea Powder on Cognitive Functions of Community-Dwelling Elderly Individuals
+
+Number of 
+
+Key takeaways:Daily supplementation of Matcha Green Tea Powder has protective effects against cognitive decline in community-dwelling elderly women.
+
+Abstract:Matcha Green Tea Powder contains a variety of active ingredients beneficial to health, such as tea catechins, lutein and vitamin K. It is also known that these ingredients confer benefits upon cognitive functions of elderly people. Therefore, we aimed to investigate the relationship between a daily supplementation of Matcha and the change in cognitive functions of community-dwelling elderly people. A randomized, double-blind, placebo-controlled 12-week trial was performed. Sixty-one participants were recruited and randomly assigned to receive test drink containing 3 g powder from fresh Matcha or placebo powder per day. Changes in cognitive function were assessed utilizing a psychometric test battery. Daily food intake was assessed by a Brief-type Self-administered Diet History Questionnaire (BDHQ). In the gender-specific analysis, a significant cognitive enhancement was observed in the Montreal Cognitive Assessment (MoCA) score in the active group of women. In dietary analysis, we found a significant inverse correlation between consumption of vitamin K in daily diet, excluding test drinks, and change in MoCA. The present study suggests that daily supplementation of Matcha Green Tea Powder has protective effects against cognitive decline in community-dwelling elderly women.
+
+Effect of Green Tea Phytochemicals on Mood and Cognition.
+
+Number of 
+
+Key takeaways:L-theanine and caffeine in green tea improve sustained attention, memory, and suppression of distraction, while L-theanine reduces caffeine-induced arousal and promotes relaxation.
+
+Abstract:BACKGROUND
+Green tea is traditionally known to induce mental clarity, cognitive function, physical activation and relaxation. Recently, a special green tea, matcha tea, is rapidly gaining popularity throughout the world and is frequently referred to as a mood- and brain food. Matcha tea consumption leads to much higher intake of green tea phytochemicals compared to regular green tea. Previous research on tea constituents caffeine, L-theanine, and epigallocatechin gallate (EGCG) repeatedly demonstrated benefits on mood and cognitive performance. These effects were observed when these phytochemicals were consumed separately and in combination.
+
+METHODS
+A review was conducted on 49 human intervention studies to summarize the research on acute psychoactive effects of caffeine, L-theanine, and EGCG on different dimensions of mood and cognitive performance.
+
+CONCLUSION
+Caffeine was found to mainly improve performance on demanding long-duration cognitive tasks and self-reported alertness, arousal, and vigor. Significant effects already occurred at low doses of 40 mg. L-theanine alone improved self-reported relaxation, tension, and calmness starting at 200 mg. L-theanine and caffeine combined were found to particularly improve performance in attention-switching tasks and alertness, but to a lesser extent than caffeine alone. No conclusive evidence relating to effects induced by EGCG could be given since the amount of intervention studies was limited. These studies provided reliable evidence showing that L-theanine and caffeine have clear beneficial effects on sustained attention, memory, and suppression of distraction. Moreover, L-theanine was found to lead to relaxation by reducing caffeine induced arousal.
+
+Effect of Matcha green tea on cognitive functions and sleep quality in elderly adults with cognitive decline: a randomized controlled study over 12 months
+
+Number of 
+
+Key takeaways:Matcha green tea may improve cognitive functions and sleep quality in elderly adults with cognitive decline, potentially aiding in dementia prevention.
+
+Abstract:Nutrition is a pivotal factor in the prevention of dementia. Matcha green tea powder, which contains L‐theanine, caffeine, and epigallocatechin gallate, has the beneficial effects of each constituent on cognitive functions and mood. However, no long‐term clinical study has yet been performed to evaluate the effect of Matcha on psychological functions. Here, we performed a randomized, double‐blinded, placebo‐controlled, clinical study, conducted over 12 months, to investigate the effect of Matcha on cognitive functions and sleep quality. Furthermore, the relationship between blood and neuroimaging biomarkers and the effect of Matcha was investigated.
+
+Matcha Does Not Affect Electroencephalography during Sleep but May Enhance Mental Well-Being: A Randomized Placebo-Controlled Clinical Trial
+
+Number of 
+
+Key takeaways:Matcha consumption may improve subjective sleep quality and emotional stability, despite no significant changes in objective sleep parameters.
+
+Abstract:Although theanine in matcha improves sleep quality and cognitive function, the caffeine in green tea is thought to worsen sleep quality. Therefore, this study investigated the factors behind the observed improvements in subjective sleep quality in matcha. A placebo-controlled randomized double-blind parallel-group study was conducted on healthy Japanese men and women aged 27–64 years. After 4 weeks of consuming 2.7 g of matcha daily (containing 50.3 mg theanine, 301.4 mg catechins, and 71.5 mg caffeine), no significant differences were observed between the control and matcha groups on total sleep time, sleep latency, wake after sleep onset, or sleep efficiency measured by electroencephalography (EEG). However, the sleep questionnaire Oguri–Shirakawa–Azumi Sleep Inventory, the Middle-age and Aged version (OSA-MA), administered immediately after waking showed a trend toward increased satisfaction with sleep time (p < 0.1), and EEG measurements indicated significantly shortened wake-up times after waking with matcha intake (p < 0.05). The Beck Depression Inventory-II scores also tended to decrease (p < 0.1). The continuous intake of matcha may offer improved subjective sleep quality and emotional stability despite not offering significant changes in objective sleep parameters.
+
+Matcha and Its Components Control Angiogenic Potential.
+
+Number of 
+
+Key takeaways:Matcha and its components vitamin K1 and lutein can protect against capillary aging in the brain, potentially enhancing brain function.
+
+Abstract:The brain needs the appropriate capillary networks to maintain normal brain function. Since previous studies showed age-related decrease in the cortical capillaries, it is suggested that protection against capillary aging is critical for maintaining brain function. Epidemiological studies have indicated that brain functions were protected from age-related decline by the long-term consumption of matcha. However, whether matcha has protective effects on capillary aging has not been studied yet. In this study, we utilized Flt1-DsR mice that expressed a red fluorescent protein in vascular endothelial cells to visualize cortical capillaries clearly. We found that cortical capillary density decreased in aging Flt1-DsR mice. Our results of the aortic ring assay and tube formation assay revealed that matcha and its components vitamin K1 and lutein, which are abundant in matcha powder, enhanced the angiogenic potential. Moreover, we evaluated the effect of long-term ingestion of matcha on mouse cortical capillary aging by using imaging experiments. The capillary density of the Flt1-DsR mice, which were fed matcha-containing food, indicated the protective effects of matcha ingestion on capillary aging in a limited cortical layer. These results suggest that biological regulation of matcha and its components affect the angiogenic potential, which is related to the prevention of capillary aging.
+
+Stress-Reducing Function of Matcha Green Tea in Animal Experiments and Clinical Trials
+
+Number of 
+
+Key takeaways:Matcha green tea has a stress-reducing effect when its caffeine and EGCG ratios are less than two, with anxiety significantly lower in test-matcha groups compared to placebo-matcha groups.
+
+Abstract:Theanine, a major amino acid in green tea, exhibits a stress-reducing effect in mice and humans. Matcha, which is essentially theanine-rich powdered green tea, is abundant in caffeine. Caffeine has a strong antagonistic effect against theanine. The stress-reducing effect of matcha was examined with an animal experiment and a clinical trial. The stress-reducing effect of matcha marketed in Japan and abroad was assessed based on its composition. The stress-reducing effect of matcha in mice was evaluated as suppressed adrenal hypertrophy using territorially-based loaded stress. High contents of theanine and arginine in matcha exhibited a high stress-reducing effect. However, an effective stress-reducing outcome was only possible when the molar ratio of caffeine and epigallocatechin gallate (EGCG) to theanine and arginine was less than two. Participants (n = 39) consumed test-matcha, which was expected to have a stress-reducing effect, or placebo-matcha, where no effect was expected. Anxiety, a reaction to stress, was significantly lower in the test-matcha group than in the placebo group. To predict mental function of each matcha, both the quantity of theanine and the ratios of caffeine, EGCG, and arginine against theanine need to be verified.
+
+Effect of Matcha Tea on Fatty Liver in Experimental Rats
+
+Number of 
+
+Key takeaways:Matcha tea's high antioxidant content contributes to fat reduction in fatty liver rats, suggesting it may be beneficial for individuals with fatty liver disease.
+
+Abstract:Fatty liver disease is characterized by a progressive pattern of intrahepatic fat accumulation that can lead to hepatocellular lipotoxicity. This study aims to show the effect of matcha tea aqueous extract on fatty liver in male rats. Forty adult male Wistar albino rats, weighing (511051g) were randomly divided into four groups (51 rats each) as follows: Group (1): Comprised of normal rats as negative control group (-). Group (2): Comprised of rats that received oral administration of matcha tea aqueous extract (011 mg/kg/day). Group (3): Comprised of rats injected with Oxytetracycline (521 mg/kg body weight of rat for three consecutive days) as a control positive group (+). Group (4): Comprise of Oxytetracycline-induced fatty liver rats that were treated with oral matcha tea aqueous extract (011 mg/kg/day) for six weeks. At the end of the experiment, rats were sacrificed and serum was collected for biochemical analyses. Results revealed that the administration of Oxytetracycline in the positive control group revealed a significant reduction in body weight gain. Also, matcha tea aqueous extract showed a significant reduction of total cholesterol, triglycerides, LDL-c, VLDL-c, glucose and liver functions (ALT, AST, ALP, GGT, LDH and Bilirubin) besides a rise in HDL-c, proteins, albumin and globulin compared to the positive control group. In conclusion, matcha tea exhibits a high content of antioxidants that contribute to fat reduction in fatty liver rats. So, this study recommends that the consumption of matcha tea may be beneficial for individuals who suffer from fatty liver disease.
+
+Effects of Different Green Tea Extracts on Chronic Alcohol Induced-Fatty Liver Disease by Ameliorating Oxidative Stress and Inflammation in Mice
+
+Number of 
+
+Key takeaways:Selenium-Enriched Chaoqing Green Tea, Xihu Longjing Tea, Taiping Houkui Tea, and Selenium-Enriched Matcha Tea show the strongest preventive effects on alcohol-induced fatty liver disease in mice.
+
+Abstract:Alcoholic fatty liver disease (AFLD) is a common chronic liver disease and has become a critical global public health problem. Green tea is a popular drink worldwide and contains several bioactive compounds. Different green teas could contain diverse compounds and possess distinct bioactivities. In the present study, the effects of 10 green teas on chronic alcohol induced-fatty liver disease in mice were explored and compared. The results showed that several green teas significantly reduced triacylglycerol levels in serum and liver as well as the aminotransferase activities in mice at a dose of 200 mg/kg, suggesting that they possess hepatoprotective effects. Moreover, several green teas remarkably decreased the expression of cytochrome P450 2E1, the levels of malondialdehyde and 4-hydroxynonenoic acid, and the contents of proinflammatory cytokines, indicating that they could alleviate oxidation damage and inflammation induced by chronic alcohol exposure. In addition, Seven Star Matcha Tea and Selenium-Enriched Matcha Tea could increase glutathione level. Furthermore, the main phytochemical components in green teas were determined and quantified by high-performance liquid chromatography, and the correlation analysis showed that gallic acid, gallocatechin, catechin, chlorogenic acid, and epigallocatechin gallate might at least partially contribute to protective effects on AFLD. In conclusion, Selenium-Enriched Chaoqing Green Tea, Xihu Longjing Tea, Taiping Houkui Tea, and Selenium-Enriched Matcha Tea showed the strongest preventive effects on AFLD. This research also provides the public with new insights about the effects of different green teas on AFLD.
+
+Assessing the Influence of Matcha Green Tea Extract on NF-κB/MAPK Signaling Pathway Activation in Rats: A Study on Irradiation-Induced Acute Hepatic Inflammatory Response
+
+Number of 
+
+Key takeaways:Matcha green tea extract can effectively reduce radiation-induced liver damage, making radiation therapy more effective and safe for cancer patients.
+
+Matcha Green Tea Powder does not Prevent Diet‐Induced Arteriosclerosis in New Zealand White Rabbits Due to Impaired Reverse Cholesterol Transport
+
+Number of 
+
+Key takeaways:Long-term matcha green tea treatment in hypercholesterolemic rabbits leads to impaired reverse cholesterol transport, increased vascular stiffness, and increased susceptibility for atherosclerotic lesion development.
+
+Abstract:Introduction Green tea is associated with decreased risk for cardiovascular disease and stroke. Matcha is a special kind of powdered green tea known for its use in the Japanese tea ceremony. Due to its influence on lipoprotein parameters, it has been postulated to exert antiatherogenic effects. This study investigates whether it modulates the high‐density lipoprotein (HDL) function and thereby influences the atherogenic process in an animal model with a strong influence on humans' situation. Methods and Results After a pretreatment phase based on a standard diet, 10 female New Zealand White (NZW) rabbits are fed a high‐fat diet for 20 weeks. The treatment group is additionally administered 1% matcha during the whole experiment. Long‐term matcha treatment leads to lowered HDL cholesterol, impaired cholesterol transport manifested by reduced in vitro cholesterol efflux capacity, reduced cholesteryl ester transfer protein (CETP)‐mediated cholesterol ester (CE) transfer between HDL and triglyceride‐rich particles, and reduced macrophage‐specific in vivo transfer, where ian increased absorption of cholesterol in the liver but a decreased secretion into bile is observed. Pulse wave velocity, assessed by nuclear magnetic resonance, is increased in matcha‐treated animals, and a similar trend is observed for atherosclerotic lesion formation. Conclusion Long‐term matcha green tea treatment of hypercholesterolemic rabbits cause impaired reverse cholesterol transport and increased vascular stiffness, and susceptibility for atherosclerotic lesion development.
+
+Antioxidant Properties and Nutritional Composition of Matcha Green Tea
+
+Number of 
+
+Key takeaways:Matcha green tea has high antioxidant properties, with the highest levels found in infusions prepared at 90 °C and from the daily Matcha.
+
+Abstract:Matcha green tea (Camellia sinensis), which originates from Japan, is commonly considered as particularly beneficial to health. A large content of polyphenols, amino acids (mainly tannins) and caffeine potentially increase the antioxidant properties of the drink. The aim of the study was to determine the antioxidant potential and the content of substances with an antioxidant effect—vitamin C, total polyphenol content including flavonoids—in infusions made from Traditional Matcha (from the first and second harvests) and Daily Matcha (from the second and third harvests) at different temperatures. The infusions were made by pouring 100 mL of distilled water once at various temperatures (25 °C, 70 °C, 80 °C and 90 °C) over 1.75 g of the plant material. Matcha tea is characterized by a high level of antioxidant substances (flavonoids 1968.8 mg/L; polyphenols 1765.1 mg/L; vitamin C 44.8 mg/L) as well as antioxidant potential (41.2% DPPH (10× dilution); 6129.5 µM Fe(II)/dm3 FRAP). The concentration of these compounds depends on the time at which the plant material was harvested as well as on the temperature of water used to prepare the infusions. For most parameters, the highest values were observed in infusions prepared at 90 °C and from the daily Matcha.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

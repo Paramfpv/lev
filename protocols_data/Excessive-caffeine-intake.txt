@@ -1,0 +1,381 @@
+PROTOCOL: Excessive caffeine intake
+
+IMPACT: Excessive caffeine intake - Risk of Impaired Sleep and Negative Impact on Mental Health | Longevity Protocols
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Excessive caffeine intake - Risk of Impaired Sleep and Negative Impact on Mental Health | Longevity Protocols
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Chronic and high consumption of coffee or caffeine is associated with reduced sleep quality and duration, as well as increased risk of anxiety, stress, and depressive symptoms, especially in sensitive individuals. These effects intensify with dosage and the timing of caffeine intake, particularly in the afternoon and evening hours.
+
+CONTENT SECTIONS:
+
+Excessive caffeine intake
+
+Risk of Impaired Sleep and Negative Impact on Mental Health
+
+Chronic and high consumption of coffee or caffeine is associated with reduced sleep quality and duration, as well as increased risk of anxiety, stress, and depressive symptoms, especially in sensitive individuals. These effects intensify with dosage and the timing of caffeine intake, particularly in the afternoon and evening hours.
+
+Level of evidence:Good
+
+Caffeine works by blocking adenosine receptors in the brain, which leads to increased alertness and stimulation. This mechanism, especially at high doses or with late intake, disrupts the natural sleep rhythm, prolongs the time needed to fall asleep, reduces deep sleep, and worsens the subjective quality of sleep. Additionally, high caffeine intake can intensify symptoms of anxiety, agitation, and stress, particularly in those with higher sensitivity or genetic predispositions.
+
+Excessive coffee and caffeine consumption is a widely documented risk factor for sleep and mental health. Chronic intake of high doses of caffeine leads to decreased sleep quality, reduced deep sleep, prolonged sleep latency, and may exacerbate symptoms of anxiety and stress, especially in susceptible individuals. These effects accumulate with regular exceeding of recommended doses (e.g., >400 mg caffeine/day) and with intake in the afternoon and evening.
+
+Excessive consumption of coffee and caffeine is a common phenomenon in industrialized populations, especially among young adults, students, and shift workers. It is estimated that a significant proportion of adults exceed recommended daily caffeine intake limits, which translates to sleep disturbances, increased risk of mental health issues, and decreased well-being.
+
+Monitor total caffeine intake
+
+Sum up all sources of caffeine (coffee, tea, energy drinks, chocolate, supplements) and do not exceed 300–400 mg per day, especially if you are sensitive to its effects.
+
+Limit caffeine intake in the afternoon
+
+Avoid coffee and other caffeinated drinks at least 8–10 hours before planned sleep to minimize negative impact on sleep.
+
+Pay attention to symptoms such as anxiety, tremors, trouble falling asleep, or irritability – these may indicate excess caffeine.
+
+Implement gradual reduction
+
+If you drink a lot of coffee, reduce the amount gradually to avoid withdrawal symptoms (headache, fatigue, irritability).
+
+Replace coffee with other beverages
+
+Choose decaffeinated or herbal drinks in the afternoon and evening to improve sleep quality and well-being.
+
+Excessive consumption of coffee or caffeine clearly worsens sleep quality and duration. Frequent or high intake shortens sleep time, lowers efficiency, prolongs falling asleep, and worsens subjective sleep quality. The effects are especially strong with caffeine consumption in the second half of the day.
+
+Main effects of excessive caffeine consumption on sleep
+
+Individual differences
+
+Excessive consumption of coffee and caffeine may negatively affect mental health, increasing the risk of anxiety, stress, and depression, especially in sensitive individuals or those consuming more than 400 mg of caffeine per day. However, moderate coffee intake may have a protective effect against depression.
+
+Effects of excessive consumption on mental health
+
+Moderate intake and mental health
+
+Table: Caffeine intake and mental health
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:39
+
+Final comment:Excessive consumption of coffee and caffeine has a well-documented negative impact on sleep quality and duration, as confirmed by meta-analyses, systematic reviews, and randomized clinical trials. For mental health (anxiety, stress, depression), the level of evidence is slightly lower, as most studies are observational and the effects depend on individual tolerance, dosage, and predisposition. Meta-analyses indicate that high caffeine intake increases the risk of anxiety and depressive symptoms, though moderate intake may have a protective effect. Harm increases especially with intake above 400 mg per day and in sensitive individuals. Summing both areas, the overall level of evidence should be classified as good, due to solid, though not always unequivocal, data for mental health and very strong evidence for sleep disturbances.
+
+Coffee, caffeine, and sleep: A systematic review of epidemiological studies and randomized controlled trials.
+
+Number of 
+
+Key takeaways:Coffee and caffeine can negatively impact sleep quality, with older adults and individuals with certain genetic factors being more sensitive to sleep disruption.
+
+The effect of caffeine on subsequent sleep: A systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:Caffeine consumption should be limited to 8.8 hours before bedtime to avoid reducing total sleep time and 7% sleep efficiency, and to avoid increasing light sleep duration and decreasing deep sleep duration.
+
+Caffeine Consumption and Sleep Quality in Australian Adults
+
+Number of 
+
+Key takeaways:Higher caffeine consumption is associated with shorter sleep duration and poorer sleep quality in Australian adults.
+
+Abstract:Caffeine is commonly consumed to help offset fatigue, however, it can have several negative effects on sleep quality and quantity. The aim of this study was to determine the relationship between caffeine consumption and sleep quality in adults using a newly validated caffeine food frequency questionnaire (C-FFQ). In this cross sectional study, 80 adults (M ± SD: 38.9 ± 19.3 years) attended the University of South Australia to complete a C-FFQ and the Pittsburgh Sleep Quality Index (PSQI). Caffeine consumption remained stable across age groups while the source of caffeine varied. Higher total caffeine consumption was associated with decreased time in bed, as an estimate of sleep time (r = −0.229, p = 0.041), but other PSQI variables were not. Participants who reported poor sleep (PSQI global score ≥ 5) consumed 192.1 ± 122.5 mg (M ± SD) of caffeine which was significantly more than those who reported good sleep quality (PSQI global score < 5; 125.2 ± 62.6 mg; p = 0.008). The C-FFQ was found to be a quick but detailed way to collect population based caffeine consumption data. The data suggests that shorter sleep is associated with greater caffeine consumption, and that consumption is greater in adults with reduced sleep quality.
+
+Association between Caffeinated Beverages Consumption and Sleep Quality of Urban Workers
+
+Number of 
+
+Key takeaways:Frequent consumption of caffeinated beverages is associated with poor sleep quality among urban workers.
+
+Abstract:Background: The stimulatory effects of caffeine contribute to poor sleep quality. However, the relationship between caffeinated beverages and sleep quality, considering frequency or types of caffeinated beverages, were not extensively studied.Methods: Data were collected from 160 urban workers (75 men aged 20–69 years; with an average age of 41.8±12.3 years) using a structured, self-administered online questionnaire. Sleep quality, time, satisfaction; types and frequency of caffeinated beverages (number of cups per week; Q1: 0 cup, Q4: 14 or more cups per week), demographics, and health behaviors were asked. Sleep quality were evaluated using the Korean version of the Pittsburgh Sleep Quality Index (PSQI-K). Multiple regression analysis was conducted on the association between the frequency of caffeinated beverages consumption and sleep quality.Results: The most frequently consumed beverages were unsweetened coffee (22.8%) and the most common time for caffeine was between 12 pm to 5 pm (58.2%). The average sleep quality score based on the PSQI-K was 6.0±2.0 overall, 5.3±1.6 in Q1, and 6.6±2.2 in Q4 (frequent caffeinated beverage drinkers), indicating poorer sleep quality in Q4 (P=0.022). In Q1, 13.3% rated their sleep quality as ‘very good,’ while in Q4, only 2.5% gave the same rating. Poor sleep quality was significantly associated with the frequency of caffeinated beverages per week (β=0.232, P=0.004) and self-reported stress level (β=0.256, P=0.002).Conclusions: Frequent consumption of caffeinated beverages appears to be associated with poor sleep quality among urban workers. While reducing caffeine intake may contribute to improvements in sleep quality as a health promoting behavior, this hypothesis requires validation through future studies employing personalized intervention approaches.
+
+Caffeine Consumption, Sleep Quality and Anxiety Among College Students
+
+Number of 
+
+Key takeaways:Increased caffeine consumption is associated with higher sleep disturbances and increased feelings of anxiety among college students.
+
+The Association between Caffeine Consumption from Coffee and Tea and Sleep Health in Male and Female Older Adults: A Cross-Sectional Study
+
+Number of 
+
+Key takeaways:Caffeine consumption is associated with better sleep health in older females, but not in older males, possibly due to different motivations for discontinuing consumption.
+
+Abstract:Poor sleep health is common in older adults and is associated with negative health outcomes. However, the relationship between caffeine consumption and sleep health at an older age is poorly understood. This study investigated the association between caffeine consumption and sleep health in community-dwelling older males and females in The Netherlands. Cross-sectional analyses were performed using data from 1256 participants aged 61–101 years from the Longitudinal Ageing Study Amsterdam. Self-reported questions assessed sleep disturbances (including sleep latency, continuity, and early awakening), sleep duration, and perceived sleep quality. Caffeine consumption was determined with questions about frequency, quantity, and type of coffee and tea consumption. Logistic and linear regression models were used, controlling for potential confounders, and interaction by sex and age was tested. Caffeine consumption showed significant interactions with sex (p < 0.005) in association with sleep health outcomes. Older females who abstained from caffeine consumption reported more sleep disturbances (β = 0.64 ) and had greater odds of short sleep duration (<7 h/day) (OR = 2.26 ) compared to those who consumed caffeine. No associations were observed for long sleep duration (>8 h/day) and perceived sleep quality. No associations were observed in older males. Caffeine abstinence was associated with more sleep disturbances and short sleep duration in older females, but not in males. The observed association in older females may reflect reverse causation, suggesting that females may have different motivations for discontinuing caffeine consumption than males.
+
+Regular Caffeine Intake Delays REM Sleep Promotion and Attenuates Sleep Quality in Healthy Men
+
+Number of 
+
+Key takeaways:Regular daytime caffeine intake delays circadian REM sleep promotion and worsens sleep quality in men, leading to difficulties in waking up and increased tiredness upon waking.
+
+Abstract:Acute caffeine intake can attenuate homeostatic sleep pressure and worsen sleep quality. Caffeine intake—particularly in high doses and close to bedtime—may also affect circadian-regulated rapid eye movement (REM) sleep promotion, an important determinant of subjective sleep quality. However, it is not known whether such changes persist under chronic caffeine consumption during daytime. Twenty male caffeine consumers (26.4 ± 4 years old, habitual caffeine intake 478.1 ± 102.8 mg/day) participated in a double-blind crossover study. Each volunteer completed a caffeine (3 × 150 mg caffeine daily for 10 days), a withdrawal (3 × 150 mg caffeine for 8 days then placebo), and a placebo condition. After 10 days of controlled intake and a fixed sleep-wake cycle, we recorded electroencephalography for 8 h starting 5 h after habitual bedtime (i.e., start on average at 04:22 h which is around the peak of circadian REM sleep promotion). A 60-min evening nap preceded each sleep episode and reduced high sleep pressure levels. While total sleep time and sleep architecture did not significantly differ between the three conditions, REM sleep latency was longer after daily caffeine intake compared with both placebo and withdrawal. Moreover, the accumulation of REM sleep proportion was delayed, and volunteers reported more difficulties with awakening after sleep and feeling more tired upon wake-up in the caffeine condition compared with placebo. Our data indicate that besides acute intake, also regular daytime caffeine intake affects REM sleep regulation in men, such that it delays circadian REM sleep promotion when compared with placebo. Moreover, the observed caffeine-induced deterioration in the quality of awakening may suggest a potential motive to reinstate caffeine intake after sleep.
+
+Higher caffeine consumption is associated with insufficient sleep time in Brazilian adults (CUME study)
+
+Number of 
+
+Key takeaways:Higher caffeine consumption is associated with a 19% higher prevalence of insufficient sleep in Brazilian adults, with coffee, dark chocolate, milk chocolate, and diet soda being the main contributors.
+
+Abstract:Abstract We aimed to evaluate the association between caffeine intake and sleep time in Brazilian adults. This cross-sectional study was conducted with 6,356 participants from the Cohort of Universities of Minas Gerais (CUME Study). Data was collected through an online self-report questionnaire. Of the total, 31.9% of the participants had insufficient sleep. Women were found to sleep less than men (64.1 vs. 35.9%; p < 0.001), as well as being more likely to consume higher doses of caffeine (55.2%, p < 0.001). Coffee (35.7%), dark chocolate (25.2%), milk chocolate (15.2%), and diet soda (11.0%) were the foods that more contributed to caffeine intake. Individuals in the highest quartile of caffeine intake (87.0 − 572.0 mg/day) had a 19% higher prevalence of insufficient sleep compared with the lowest quartile (PR: 1.19; 95%CI: 1.08 − 1.31). Future studies are needed to investigate the genetic and hormonal factors involved in the interindividual response in this population.
+
+The effects of coffee consumption on sleep and melatonin secretion.
+
+Number of 
+
+Key takeaways:Drinking regular caffeinated coffee decreases sleep quantity and quality, and decreases melatonin secretion, affecting sleep synchronization.
+
+Dose and timing effects of caffeine on subsequent sleep: a randomized clinical crossover trial
+
+Number of 
+
+Key takeaways:A 100 mg dose of caffeine can be consumed up to 4 hours before bedtime, but 400 mg may negatively impact sleep when consumed within 12 hours of bedtime, with the adverse influence increasing closer to bedtime.
+
+Abstract:Abstract Study Objectives To investigate the effect of a typical dose of caffeine and a high dose of caffeine consumed in the morning, afternoon, and evening on subsequent sleep. Methods Using a placebo-controlled, double-blind, randomized crossover design, 23 males (25.3 ± 5.0 years) with a moderate habitual caffeine intake (<300 mg∙day−1) completed seven conditions: placebo, and 100 and 400 mg of caffeine consumed 12, 8, and 4 hours prior to bedtime, with a 48-hour washout. In-home partial polysomnography and sleep diaries were used to assess sleep. Linear mixed models estimated the effect of each condition. Results No significant effect on objective or subjective sleep occurred with the 100 mg dose of caffeine compared with the placebo (p > .05), but significant effects occurred with the 400 mg dose (p < .05). Significant delays in sleep initiation and alterations to sleep architecture were observed when 400 mg was consumed within 12 hours of bedtime (p < .05), and significantly greater sleep fragmentation occurred when 400 mg was consumed within 8 hours of bedtime (p < .05). Additionally, perceived sleep quality was significantly reduced when 400 mg was consumed 4 hours prior to bedtime (−34.02%, p = .006) but not at 8 or 12 hours. Conclusions A 100 mg dose of caffeine can be consumed up to 4 hours prior to bedtime, but 400 mg may negatively impact sleep when consumed as one dose within 12 hours of bedtime, with the adverse influence on sleep increasing the closer consumption occurs to bedtime. The discrepancy between objective and subjective sleep quality suggests that individuals may have difficulty accurately perceiving the influence of caffeine on sleep quality. Clinical trial registration Australian and New Zealand Clinical Trials Registry, registration number: ACTRN12621001625864, 
+
+The impact of daily caffeine intake on nighttime sleep in young adult men
+
+Number of 
+
+Key takeaways:Daily caffeine intake in the morning and afternoon does not significantly impair nighttime sleep structure or subjective sleep quality in healthy young adult men who regularly consume caffeine.
+
+Does Beverage Consumption Affect Sleep Quality?
+
+Number of 
+
+Key takeaways:Less consumption of caffeinated and stimulant beverages, as well as coffee without cream, can improve sleep quality.
+
+Abstract:: Sleep quality is important due to affects many physiological functions in the body. Recently, it has been considered that an increase in beverage consumption may lead to some negative effects on sleep quality. The aim of this study was to evaluate the effect of beverage consumption on sleep quality. 254 individuals, consisting of 181 females and 73 males, included in the study. The questionnaire including demographic characteristics, anthropometrical measurements, questions about physical activity, beverage consumption form, Pittsburgh Sleep Quality Index conducted by face-to-face method. The mean Pittsburgh Sleep Quality score was 5.81±3.36. It was determined that 55.5% of the participants (n=141) n had good sleep quality. Even though the amount of caffeine intake from beverages, consumption number of the caffeinated and stimulant beverages have a negative impact on sleep quality, the level of this impact is low (P<0.05) (r=0.15, 0.15, 0.14). The consumption of coffee without cream deteriorates sleep quality 4.8 times, while ayran (drinkable yogurt, buttermilk) deteriorates sleep quality 2.6 times. It is considered that the lessening in the consumption of ayran, coffee without cream, caffeinated beverages and stimulant beverages could improve quality.
+
+Coffee Consumption And Mental Well-Being : Exploring Sleep , Anxiety And Depression
+
+Number of 
+
+Key takeaways:Moderate coffee consumption may have positive effects on mental health, while excessive consumption may negatively impact sleep cycles and anxiety.
+
+Abstract:The stimulant effects of caffeine on the central nervous system and its possible impacts on mental health make it a popular psychoactive drug. Using the Depression, Anxiety, and Stress Scale (DASS-1), this study examines the connections between coffee intake, anxiety, depression, and sleep quality. 110
+people who usually drank coffee and ranged in age from 17 to 53 were polled. Significant differences between genders were found in the research; women reported worse sleep, more anxiety, and more severe depression symptoms than men. Caffeine has been shown to increase alertness, but too much of it can
+interfere with sleep cycles and make anxiety and sadness worse, especially in sensitive people. The results highlight how caffeine has multifaceted effects that vary depending on a person's sensitivity, intake habits, and genetic makeup. While excessive coffee drinking has been related to negative impacts, particularly among vulnerable groups, moderate coffee consumption may have some positive effects on mental health. These findings underline the necessity of individualized caffeine intake recommendations as well as more studies to examine caffeine's function in managing mental health issues and its potential
+as a therapeutic adjunct.
+
+Effects of Caffeine Intake on Self-Administered Sleeping Quality and Wearable Monitoring of Sleep in a Cohort of Young Healthy Adults
+
+Number of 
+
+Key takeaways:Caffeine consumption before bedtime negatively impacts subjective sleep perception in young, healthy adults, but wearable sleep data shows no significant sleep deterioration.
+
+Abstract:Background/Objective: Chronic sleep deprivation can lead to adverse health effects and therefore represents a public health burden While caffeine is a widely used stimulant, the relationship between caffeine consumption and sleep remains uncertain. Moreover, many studies might be subject to methodological bias, as invasive sleep measurements may themselves serve as confounders. The aim of the SleepSmart study was to assess the impact of caffeine consumption through coffee and energy drinks, utilizing both smartwatch data and questionnaire responses. Methods: The SleepSmart study is an observational cohort study conducted at LMU Hospital Munich, Germany, from July 2024 to January 2025. The study investigated two intervention groups: (1) coffee and (2) energy drink consumption. Each intervention lasted 1 week, with days 1 to 3 serving as a reference period (water consumption to adjust for increased fluid intake) and days 4 to 6 serving as the intervention period (consumption of an equivalent of 240 mg of caffeine per day, 3 h before bedtime). Data was collected through self-administered questionnaires and wearable devices. The primary endpoint was sleep duration. Objective measures of sleep (duration of light/deep sleep, duration of wake phases, heart rate) and self-assed quality of sleep (Pittsburgh Sleep Quality Index) served as secondary endpoints. Results: For the primary endpoint, we did not find a significant difference in average sleep duration (baseline 6.7, coffee 6.9, energy drink 6.7, p-value 0.183). Similarly, secondary endpoints related to sleep measures showed no significant changes in the duration of light/deep sleep (coffee : 242.2, reference coffee 255.7 I energy drink: 237.5, reference energy drink 261.3), time awake (coffee 22.7, refC 23.4 I energy drink 21.3, refE 18.9), time to fall asleep/wake up (coffee 4.2, refC 4.0 I energy drink 4.4, refE 2.7), or average heart rate (coffee 62.2, refC 62.1 I energy drink 62.6, refE 62.3)—neither between the two intervention groups nor compared to the reference period. However, self-assessed sleep quality revealed a decrease in perceived sleep quality, with reports of poor sleep increasing by 8% after coffee consumption (rather bad/very bad sleeping quality: 29.7%) and 20% after energy drink consumption (46.6%), compared to baseline data (21.6%). Conclusions: The SleepSmart study introduces wearable sleep tracking as an innovative, low-interference method for objectively recording sleep data. While wearable data did not indicate significant sleep deterioration in the group of young, healthy adults, caffeine appeared to negatively impact the subjective perception of sleep in the study cohort.
+
+The effects of caffeinated products on sleep and functioning in the military population: A focused review
+
+Number of 
+
+Key takeaways:Caffeine and energy drink consumption in military personnel may improve cognitive and behavioral outcomes during sleep deprivation, but excessive use may have adverse consequences.
+
+Caffeine intake, chronotype, and student sleep quality at Polytechnic of Leiria
+
+Number of 
+
+Key takeaways:Students at Polytechnic of Leiria have poor sleep quality, with an intermediate chronotype and those who consume coffee and chocolate drinks having poor sleep quality.
+
+Abstract:Abstract Introduction Higher education students ingest very high doses of caffeine, on average twice the recommended safe dose. This excessive consumption can become problematic, ultimately affecting sleep quality and, consequently, academic performance. The aim of this work is to describe caffeine consumption, sleep quality and to characterize the chronotype and academic performance of students at Polytechnic of Leiria. Methods An online self-completion questionnaire was developed, consisting of several instruments: The Caffeine Consumption Questionnaire; Horne and Ostberg morningness-eveningness Questionnaire; Pittsburgh Sleep Quality Index (PSQI), to describe caffeine consumption, characterize chronotype and assess sleep quality, respectively. The mean, standard deviation, minimum and maximum values were calculated for the quantitative variables. Absolute and relative frequencies were calculated for the qualitative variables. Parametric tests were used to compare groups; when this was not possible, non-parametric tests were used. P < 0.05 was considered statistically significant. Results Of the 261 students (mean age: 23.26 ± 6.60 years), 64.2% had poor sleep quality and 45.3% reported an afternoon chronotype. It was found that men consumed more coffee and energy drinks than women, although women consumed more caffeine-containing food products. The average academic score was 14.56 ± 1.61. There was a statistically significant association (p < 0.01) between the afternoon chronotype and poor sleep quality and between the consumption of coffee and chocolate drinks and poor sleep quality. Conclusions Students at Polytechnic of Leiria tend to have poor sleep quality and an intermediate chronotype. Those with an afternoon chronotype or who drink coffee and chocolate drinks have poor sleep quality. Key messages • Accurately assessing the situation is essential for crafting suitable solutions. • Higher students should adjust their coffee consumption to achieve better sleep quality.
+
+Caffeine Intake Alters Recovery Sleep after Sleep Deprivation
+
+Number of 
+
+Key takeaways:Acute caffeine intake during sleep deprivation negatively affects recovery sleep duration and quality, with a potential impact on night-shift workers' caffeine intake.
+
+Abstract:Background: Caffeine is a well-known psychostimulant reputed to alleviate the deleterious effects of sleep deprivation. Nevertheless, caffeine can alter sleep duration and quality, particularly during recovery sleep. We evaluated the effects of acute caffeine intake on the duration and quality of recovery sleep following total sleep deprivation (TSD), taking into account daily caffeine consumption. Methods: Forty-one participants performed a double-blind, crossover TSD protocol (38 h of continuous wakefulness) with acute caffeine or placebo. Caffeine (2.5 mg/kg) or placebo was administered twice during continuous wakefulness (last treatment 6.5 h before bedtime for the recovery night). Polysomnographic measurements were recorded using a connected headband. Results: TSD was associated with a rebound in total sleep time (TST) on the recovery night (+110.2 ± 23.2 min, p < 0.001). Caffeine intake decreased this recovery TST (−30.2 ± 8.2 min p = 0.02) and the N3 sleep stage duration (−35.6 ± 23.2 min, p < 0.01). Caffeine intake altered recovery sleep continuity (increased number of long awakenings), stability (higher stage transition frequency), and organization (less time spent in complete sleep cycle) and decreased the delta power spectral density during NREM sleep. On the recovery night, habitual daily caffeine consumption was negatively correlated with TST in caffeine and placebo conditions and positively correlated with wake after sleep onset (WASO) duration and with the frequency of long (>2 min) awakenings in the caffeine condition only. Conclusions: Acute caffeine intake during TSD affects nighttime recovery sleep, with an interaction with daily consumption. These results may influence advice on caffeine intake for night-shift workers. (NCT03859882).
+
+Effects of acute caffeine consumption following sleep loss on cognitive, physical, occupational and driving performance: A systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Acute caffeine consumption improves cognitive, physical, occupational, and driving performance in sleep-deprived individuals, counteracting the impairments caused by sleep loss.
+
+The effect of coffee and black tea consumption on sleep bruxism intensity based on polysomnographic examination
+
+Number of 
+
+Key takeaways:Habitual coffee consumption is associated with increased sleep bruxism intensity, while black tea intake does not affect sleep architecture or bruxism intensity.
+
+Caffeine-Induced Sleep Restriction Alters the Gut Microbiome and Fecal Metabolic Profiles in Mice
+
+Number of 
+
+Key takeaways:Chronic caffeine-induced sleep restriction alters gut microbiome diversity and composition, potentially contributing to or exacerbating diseases through unhealthy lifestyle choices.
+
+Abstract:Insufficient sleep is becoming increasingly common and contributes to many health issues. To combat sleepiness, caffeine is consumed daily worldwide. Thus, caffeine consumption and sleep restriction often occur in succession. The gut microbiome can be rapidly affected by either one’s sleep status or caffeine intake, whereas the synergistic effects of a persistent caffeine-induced sleep restriction remain unclear. In this study, we investigated the impact of a chronic caffeine-induced sleep restriction on the gut microbiome and its metabolic profiles in mice. Our results revealed that the proportion of Firmicutes and Bacteroidetes was not altered, while the abundance of Proteobacteria and Actinobacteria was significantly decreased. In addition, the content of the lipids was abundant and significantly increased. A pathway analysis of the differential metabolites suggested that numerous metabolic pathways were affected, and the glycerophospholipid metabolism was most significantly altered. Combined analysis revealed that the metabolism was significantly affected by variations in the abundance and function of the intestinal microorganisms and was closely relevant to Proteobacteria and Actinobacteria. In conclusion, a long-term caffeine-induced sleep restriction affected the diversity and composition of the intestinal microbiota in mice, and substantially altered the metabolic profiles of the gut microbiome. This may represent a novel mechanism by which an unhealthy lifestyle such as mistimed coffee breaks lead to or exacerbates disease.
+
+Caffeine Consumption, Psychological Distress, and Insomnia in a Cohort of Individuals with Depression.
+
+Number of 
+
+Key takeaways:Higher caffeine consumption is associated with higher levels of psychological distress, but not insomnia, in individuals with a history of depression.
+
+Abstract:Introduction
+Caffeine is a widely consumed psychoactive compound that can cause anxiety and sleep difficulties, in part due to genetic variation. We investigated the association between caffeine consumption, psychological distress, and sleep difficulties in a genetically informative cohort of individuals with a history of depression.
+
+Methods
+Survey data and genetic information were sourced from the Australian Genetics of Depression Study (AGDS ). Associations between caffeine consumption and symptoms of distress and sleep disturbance, as well as 9 genetic variants associated with caffeine consumption behaviour, were assessed using linear regression.
+
+Results
+The highest consumers of caffeine reported higher psychological distress measured by the Kessler 10 scale (β = 1.21, SE = 0.25, p = 1.4 × 10-6) compared to the lowest consumers. Consumption was associated with 2 genetic variants with effect sizes ∼0.35 additional caffeinated drinks/day between opposite homozygotes (p < 0.005). A deletion near MMS22L/POU3F2 was associated with 10% increased odds of reporting caffeine susceptibility (OR = 1.1 per deletion , p = 0.002).
+
+Conclusions
+Higher rates of caffeine consumption were associated with higher levels of psychological distress, but not insomnia, in individuals with a history of depression. While the direction of causality is unclear, caffeine consumption may be a modifiable factor to reduce distress in individuals susceptible to mental health problems. Some of the previous findings of common variant associations with caffeine consumption and susceptibility were replicated.
+
+Mental Health, Sleep, and Caffeine Intake Among Shift Workers in a Nationally Representative Sample of the Korean Adult Population
+
+Number of 
+
+Key takeaways:Increased caffeine intake is associated with longer work hours and stress, but its impact on suicidal ideation is influenced by occupational factors.
+
+Abstract:Background: Caffeine, a widely consumed stimulant, affects sleep and mental health. Shift work disrupts the circadian rhythm and has been associated with various mental health issues, such as depression, anxiety, and suicidal ideation. Objective: This study explored the associations between caffeine consumption, sleep duration, and mental health outcomes, particularly suicidal ideation, among shift workers in Korea. Methods: Data from the 6th Korea National Health and Nutrition Examination Survey (2013, 2015), which comprised 4723 adults aged 19 and older, were analyzed. Participants were categorized into groups based on average daily coffee consumption and work patterns. Multiple logistic regression analyses were conducted to determine the impact of caffeine consumption and work patterns on mental health outcomes. Results: Participants worked longer hours, reported higher perceived stress levels, and slightly decreased sleep duration as daily coffee consumption increased. However, no significant differences were observed in depression or suicidal ideation across the coffee consumption groups. Logistic regression analysis indicated a trend towards higher suicidal ideation risk with increased coffee intake, particularly among those who consumed three or more cups per day (OR 5.67, 95% CI 1.82–17.59). Conclusion: This study suggests a complex relationship between caffeine consumption, work patterns, and mental health outcomes. Although caffeine intake is associated with increased work hours and stress, its impact on suicidal ideation is influenced by occupational factors.
+
+Coffee, tea, caffeine and risk of depression: A systematic review and dose-response meta-analysis of observational studies.
+
+Number of 
+
+Key takeaways:Higher coffee consumption is associated with a reduced risk of depression, while tea and caffeine consumption show a partial protective effect.
+
+Abstract:SCOPE
+The aim of the study was to systematically review and analyze results from observational studies on coffee, caffeine, and tea consumption and association or risk of depression.
+
+METHODS AND RESULTS
+Embase and PubMed databases were searched from inception to June 2015 for observational studies reporting the odds ratios or relative risks (RRs) and 95% confidence intervals (CI) of depression by coffee/tea/caffeine consumption. Random effects models, subgroup analyses, and dose-response analyses were performed. Twelve studies with 23 datasets were included in the meta-analysis, accounting for a total of 346 913 individuals and 8146 cases of depression. Compared to individuals with lower coffee consumption, those with higher intakes had pooled RR of depression of 0.76 (95% CI: 0.64, 0.91). Dose-response effect suggests a nonlinear J-shaped relation between coffee consumption and risk of depression with a peak of protective effect for 400 mL/day. A borderline nonsignificant association between tea consumption and risk of depression was found (RR 0.70, 95% CI: 0.48, 1.01), while significant results were found only for analysis of prospective studies regarding caffeine consumption (RR = 0.84, 95% CI: 0.75, 0.93).
+
+CONCLUSION
+This study suggests a protective effect of coffee and, partially, of tea and caffeine on risk of depression.
+
+Excessive caffeine use and its consequence on mental illness: a cross-sectional study in Indonesia
+
+Number of 
+
+Key takeaways:Excessive caffeine consumption is associated with increased rates of depression, anxiety, and stress in Aceh, Indonesia.
+
+Abstract:Coffee is one of the most popular beverages globally. People often drink coffee for its caffeine content and its stimulating effects. However, excessive coffee consumption, like any other dietary or behavioral excess, can negatively affect physical and mental health. This study investigates the association between excessive coffee use and mental problems. A cross-sectional study was conducted among 392 respondents in Aceh, Indonesia. Excessive coffee use was measured using a questionnaire, while mental illness was screened using DASS-21. Other sociodemographic variables were also examined and treated as possible predictors. The prevalence of excessive coffee use (>400 mg per day) was 15.6%. The prevalence of depression was 23.2%, anxiety was 40.8%, and stress was 12.8%. The amount of caffeine consumption was correlated with depression (rs = 0.11, p = 0.01), anxiety (rs = 0.13, p = 0.001), and stress (rs = 0.14, p = 0.001), indicating that as the amount of coffee consumption increased, the score of mental problem also increased. The study established a noteworthy correlation between caffeine intake and mental health, suggesting that as coffee consumption increased, so did the scores for depression, anxiety, and stress. These findings underscore the importance of considering coffee consumption habits and their potential impact on mental well-being in clinical and public health contexts.
+
+Association between dietary caffeine, coffee, and tea consumption and depressive symptoms in adults: A systematic review and dose-response meta-analysis of observational studies
+
+Number of 
+
+Key takeaways:Coffee and dietary caffeine intake may have a protective effect against depression, while no evidence suggests a link between tea consumption and reduced depressive symptoms.
+
+Abstract:Background Recent studies have reported an association between dietary caffeine intake (coffee and tea) and the presence of depressive symptoms. However, the findings are not conclusive. Purpose This study aimed to examine the correlation between the consumption of dietary caffeine (coffee and tea) and the presence of depressive symptoms in adults. Methods PubMed and Scopus databases were searched until December 2021. Two investigators analyzed data from identified studies and rated the quality of the evidence using the GRADE approach. Using the random-effects models, we estimated the relative risks (RRs) and 95% confidence intervals (CIs). We also modeled the dose-response associations through a one-stage, weighted mixed-effects meta-analysis. Results A total of 29 eligible studies included a total of 422,586 participants. On comparing the highest with the lowest category in cohort studies, we identified an inverse association between the intake of coffee and depressive symptoms (RR: 0.89, 95%CI: 0.82–0.95; I2 = 63.7%, GRADE = low). There was a 4% reduction in the risk of depression associated with an increase in coffee intake of 240 ml/day (RR: 0.96, 95%CI: 0.95, 0.98; I2 = 22.7%). By comparing the highest category with the lowest category in cohort studies, we discovered that caffeine intake was inversely associated with depressive symptoms (RR: 0.86, 95%CI: 0.79, 0.93; I2 = 0.0%, GRADE = moderate). Based on our data analysis, no correlation exists between tea consumption and depressive symptoms. Conclusion According to our findings, coffee and dietary caffeine may have a protective effect against the development of depression. However, no evidence suggesting a link between tea consumption and reduced depressive symptoms has been found. Therefore, further longitudinal studies are needed to substantiate the causal relationship between coffee, tea, and caffeine and the risk of depression.
+
+The association between coffee consumption and risk of incident depression and anxiety: Exploring the benefits of moderate intake
+
+Number of 
+
+Key takeaways:Moderate coffee consumption (2-3 cups per day) is associated with a lower risk of developing depression and anxiety, regardless of coffee subtype or additive.
+
+Association of Depression and Anxiety with Consumption of Caffeine-Containing Beverages in University Students of Lahore, Pakistan
+
+Number of 
+
+Key takeaways:Excessive consumption of caffeine-containing beverages is significantly associated with higher levels of depression and anxiety among university students in Lahore, Pakistan.
+
+Abstract:Background: The prevalence of depression and anxiety among university students worldwide is a growing concern. Concurrently, caffeine consumption has increased, attributed to perceived benefits. While moderate caffeine intake might offer protective effects, excessive consumption has been linked to anxiety and depression. Although studies have explored this relationship globally, research specific to Pakistan remains limited.
+Objective: This study aimed to evaluate the impact of excessive caffeine consumption on the levels of anxiety and depression among university students in Lahore, Pakistan.
+Methods: A cross-sectional observational study was conducted over eight weeks from June 20th to August 15th, 2023, among 324 university students in Lahore, Pakistan. Participants were selected through convenient sampling from both medical and non-medical universities. Data were collected using a validated questionnaire, which included sections on socio-demographic information, academic history, mental health history, and caffeine intake. The Patient Health Questionnaire-9 (PHQ-9) and the Generalized Anxiety Disorder-7 (GAD-7) scales were used to assess depression and anxiety, respectively. Ethical approval was obtained from the Research and Ethics Committee of Gulab Devi Institute of Pharmacy (REC/GDIP/23/DCP/16). Statistical analysis was performed using SPSS Version 25, with Pearson's correlation coefficient employed to evaluate the relationship between caffeine consumption and mental health outcomes.
+Results: Of the 324 participants, 238 were female (73.5%) and 86 were male (26.5%). The majority were in their fifth year or higher (52.5%). Tea was the primary source of caffeine (75.9%), followed by coffee (22.8%) and energy drinks (17.9%). Significant positive correlations were found between caffeine consumption and PHQ-9 scores (r = .216, p < .001) as well as GAD-7 scores (r = .258, p < .001).
+Conclusion: Excessive consumption of caffeine-containing beverages is significantly associated with higher levels of depression and anxiety among university students in Lahore. These findings highlight the need for awareness and preventive measures to mitigate the mental health risks associated with high caffeine intake in this population.
+
+Caffeine Consumption and Depression, Anxiety, and Stress Levels Among University Students in Medina: A Cross-Sectional Study
+
+Number of 
+
+Key takeaways:Daily caffeine consumption is not significantly associated with the severity of depression, anxiety, and stress levels among university students.
+
+Abstract:Introduction Caffeine is a psychoactive stimulant frequently found in coffee, tea, energy drinks, and some medications. Various mental health challenges, including stress, anxiety, and depression, commonly affect college students. Moreover, an individual's mental and physical health can be significantly impacted by stress, anxiety, and depression. However, the impact of caffeine on mental health, particularly its association with depressive and anxiety symptoms, remains inconclusive. Thus, this study aimed to evaluate the amount of caffeine consumed by university students and its association with depression, anxiety, and stress levels. Material and method This cross-sectional study was performed on Taibah University students in Medina from both health-related and non-health-related colleges. We used a self-administrated questionnaire composed of four sections: the informed consent section; sociodemographic information; the Depression, Anxiety, and Stress Scale (DASS-21), which assessed the depression, anxiety, and stress levels; and a caffeine-measuring questionnaire, which reported daily caffeine intake in milligrams per day. Result This cross-sectional study examined a 520 convenience sample of Taibah University students with an age range from 17 to 29 years. The majority of the participants were single (95.2%), most of them were female (73.8%), and slightly more than half (51.5%) were recruited from health-related colleges. According to the study's DASS-21 score results, 45.8% of the students had extremely severe stress, 61% had extremely severe anxiety, and 51% had extremely severe depression. The most frequently reported sources of daily caffeine among the participants were Arabic coffee (69.6%), specialty coffee (57.5%), black tea (56.3%), cola (48.7%), and regular coffee (48.5%). The overall daily amount of consumed caffeine ranged from zero to 4276.7 mg/oz. However, no significant association was found between the severity of the DASS-21 score and the daily consumption of caffeine among Taibah University students. Conclusion Our study shows no significant association between the severity of depression, anxiety, and stress and daily caffeine consumption among university students. This proves the opposite of the theory that high levels of caffeine consumption can be correlated to high levels of depression, stress, and anxiety.
+
+Habitual coffee drinkers display a distinct pattern of brain functional connectivity
+
+Number of 
+
+Key takeaways:Higher consumption of coffee and caffeinated products impacts brain functional connectivity at rest, potentially affecting emotionality, alertness, and readiness to action.
+
+The Association between High-Caffeine Drink Consumption and Anxiety in Korean Adolescents
+
+Number of 
+
+Key takeaways:High caffeine consumption increases anxiety levels in South Korean adolescents, regardless of sex or socioeconomic factors.
+
+Abstract:Background: As excessive caffeine intake may be associated with anxiety disorders, one of the most prevalent mental illnesses among adolescents globally, this study investigated the association between high caffeine consumption and anxiety in a nationally representative sample of South Korean adolescents. Methods: 46,873 participants from the Korea Youth Risk Behavior Web-based Survey (KYRBS) 2022 were included. The Generalized Anxiety Disorder-7 (GAD-7) questionnaire was used to evaluate anxiety symptoms. Survey questions determined the number of times each participant consumed high-caffeine drinks per week. The chi-square test was used to investigate and compare the general characteristics of the study population, and a modified Poisson regression was used to analyze the relationship. Results: Both male and female participants reporting excessive high-caffeine drink consumption exhibited higher anxiety levels (adjusted prevalence ratio : 1.19, 95% confidence interval : 1.08–1.31 in males; aPR: 1.14, CI: 1.05–1.23 in females). This association remained statistically significant in subgroup analyses, particularly among high school students and those with a shorter sleep duration. The relationship between high-caffeine drink consumption and anxiety strengthened with increasing anxiety levels. Additionally, there was a dose-dependent relationship between the prevalence of anxiety and high-caffeine drinks. Conclusion: High caffeine consumption increases anxiety in South Korean adolescents. This association proved consistent regardless of sex or other socioeconomic factors.
+
+Impact Of Coffeine Consumption on Sleep Quality and Mental Health Of Collage Student
+
+Number of 
+
+Key takeaways:High caffeine consumption in college students is associated with decreased sleep quality and increased symptoms of anxiety and depression.
+
+Abstract:This study aims to analyze the impact of caffeine consumption on sleep quality and mental health of students. Caffeine consumption has become a common habit among college students, especially to combat fatigue and increase alertness when facing high academic demands. However, excessive caffeine consumption can risk impairing sleep quality and contributing to mental health problems such as anxiety and depression. This study uses a quantitative approach with a cross-sectional survey design, involving 230 students as randomly selected respondents from various universities in Indonesia. Data were collected through questionnaires that measured caffeine consumption frequency, sleep quality using the Pittsburgh Sleep Quality Index (PSQI), and anxiety and depression levels using Generalized Anxiety Disorder (GAD-7) and Patient Health Questionnaire-9 (PHQ-9). The results of the analysis showed that high caffeine consumption was associated with decreased sleep quality and increased symptoms of anxiety and depression in college students. The study suggests the need for better management of caffeine consumption among college students to support better physical and mental health.
+
+Coffea plant (Caffeine): Examining its Impact on Physical and Mental Health
+
+Number of 
+
+Key takeaways:Caffeine consumption has both positive and negative effects on health, and moderation is crucial for maintaining overall well-being.
+
+Abstract:This research delves into the extensive use of caffeine across various consumables like foods, drinks, medications, and supplements. Caffeine's influence on the central nervous system renders it a popular substance globally. The study aims to elucidate how caffeine impacts health and overall well-being. It examines both the physical and mental repercussions of caffeine consumption, highlighting its advantages, risks, and individual differences in sensitivity. Moreover, the research investigates how caffeine affects diverse aspects such as sleep, mood, cognition, and physical performance, both positively and negatively. Notably, it also scrutinizes the association between caffeine intake and health conditions like heart disease, bone health, and mental well-being. The research promotes responsible caffeine consumption by advocating for moderation and understanding one's tolerance levels. It underscores the significance of comprehending caffeine's effects to enable informed decisions among consumers, healthcare providers, and policymakers. Emphasizing the prevalence of caffeine consumption, the study underscores the necessity of recognizing its impact on various bodily systems, including the cardiovascular, respiratory, endocrine, and neurological systems. While coffee, a common source of caffeine, offers health benefits, it's crucial to acknowledge caffeine as a chemical compound capable of influencing our nervous and other bodily systems. Excessive consumption of caffeine can pose detrimental effects on health. In essence, this research aims to raise awareness regarding the advantages and disadvantages associated with caffeine consumption. As the most widely consumed psychoactive substance globally, understanding caffeine's effects is imperative for maintaining overall well-being. Many individuals kickstart their day with coffee, unaware of both the positive and negative effects of caffeine.
+
+Change in Caffeine Consumption after Pandemic (CCAP-Study) among University Students: A Cross-Sectional Study from Italy
+
+Number of 
+
+Key takeaways:During the pandemic, about a quarter of university students increased their consumption of caffeine-based products, leading to higher anxiety levels and poor sleep quality.
+
+Abstract:(1) Background: The lockdown, imposed to limit the pandemic evolution, impacted the social habits and lifestyle of inhabitants also from many countries other than Italy. Caffeine consumption could be a useful option to improve mood, as the lockdown strongly affected mental health, particularly increasing anxiety and sleep disorders. (2) Methods: It was a cross-sectional study aimed to evaluate the change in caffeine consumption after the pandemic period in a sample of Italian University students. It investigated coffee and products containing caffeine consumption, the anxiety level by State Trait Anxiety Inventory (STAI) and sleep quality with the Insomnia Severity Index (ISS). (3) Results: A total of 404 participants were enrolled in the study. During the lockdown period, 23% of subjects consumed more coffee compared to the pre-pandemic period. Daily coffee consumption also changed after the lockdown period compared to the pre-pandemic period, with 36.1% of subjects that increased their consumption. Comparing other caffeine-based products, energizing supplement consumption showed a greater increase after the lockdown period than energy drinks. Regarding anxiety, subjects who reported increased coffee consumption reported higher STAI scores and ISS. (4) Conclusions: About a quarter of university students increased their consumption of caffeine-based products after the pandemic, reporting higher levels of anxiety and poor sleep quality.
+
+Caffeine addiction and mental health of employees in an organization in Bangkok
+
+Number of 
+
+Key takeaways:Heavy caffeine consumption can lead to caffeine addiction, affecting sleep quality and mental health in employees, despite aiming for efficient work and productivity.
+
+Abstract:Background: Heavy caffeine consumption is the cause of caffeine addiction that might affect sleep quality and mental health. However, people, especially employees in various companies, may want to gain daily energy for efficient work and productivity by drinking high number of caffeinated beverages such as coffee.
+
+DOES CAFFEINE INTAKE INFLUENCE MENTAL HEALTH OF MEDICAL STUDENTS?
+
+Number of 
+
+Key takeaways:Caffeine consumption does not influence mental health among medical students, with anxiety being the most prominent issue.
+
+Abstract:Caffeine (1,3,7-trimethylxanthine) consumption among students is known to increase alertness and energy, as well as to alleviate stress. There has been an increase of caffeine consumption amongst young adults. Currently, there are no studies regarding caffeine consumption and its influence on mental health among Malaysians. We aimed to determine the relationship of caffeine consumption with depression, anxiety and stress among medical students. A cross sectional study was conducted among medical students in the Faculty of Medicine, Universiti Kebangsaan Malaysia. Data were collected via an online survey using two questionnaires, namely the semi-quantitative Food Frequency Questionnaires on Caffeine Intake and Depression, Anxiety and Stress Scale (DASS-21). A total of 262 medical students completed the survey. The prevalence of depression, anxiety and stress was 9.2%, 16.8% and 1.1%, respectively. Majority of students (98.5%) consumed caffeine from coffee, tea, soft drinks, energy drinks and chocolate drinks/food. The median daily caffeine consumption among consumers was 67.98 (25th,75th percentile: 24.83, 139.71) mg/day. There was a significant association between race and anxiety (p=0.038) in which the Malay students had the highest prevalence (21.1%), followed by Indian (16.1%), other races (15.4%) and Chinese students (3.8%). Caffeine consumption did not influence mental health of medical students in this study. Anxiety is the most prominent mental health problem among them. We recommend a programme tailored to medical students in recognising symptoms of mental health problems so that early intervention can be carried out.
+
+Effects of Coffee Consumption on the Psychological Wellbeing of Undergraduate Students during Online Learning
+
+Number of 
+
+Key takeaways:High coffee consumption is directly proportional to age and is associated with social dysfunction in undergraduate students during online learning.
+
+Abstract:This study evaluates undergraduate students' coffee consumption levels and investigates how it affects their psychological well-being during online learning. Caffeine is a psychostimulant that boosts body energy levels, and coffee is its primary medium in beverages, so it is popular among students due to their need for help studying, especially during online classes. However, caffeine also has adverse effects. The researchers gathered data from a sample of 100 college students through a digital survey that aimed to know their level of coffee consumption and general mental health status using the GHQ-12 questionnaire. The GHQ-12 generates social dysfunction, anxiety and depression, and loss of confidence. The data obtained from the respondents were analyzed using descriptive and inferential statistics, and measurements of this study have determined that age and social dysfunction are associated with coffee consumption. It was concluded that age is directly proportional to coffee consumption, and students with high social dysfunction tend to consume a high amount of coffee. The researchers recommend that educational institutions must hold seminars for their students to discuss this awareness and encourage dosage limits of coffee to students.
+
+Effect of Caffeine Consumption on the Risk for Neurological and Psychiatric Disorders: Sex Differences in Human
+
+Number of 
+
+Key takeaways:Caffeine consumption may be a risk or protective factor for neurological and psychiatric disorders, with sex differences potentially influencing the development of sex-specific caffeine therapies.
+
+Abstract:Caffeine occurs naturally in various foods, such as coffee, tea, and cocoa, and it has been used safely as a mild stimulant for a long time. However, excessive caffeine consumption (1~1.5 g/day) can cause caffeine poisoning (caffeinism), which includes symptoms such as anxiety, agitation, insomnia, and gastrointestinal disorders. Recently, there has been increasing interest in the effect of caffeine consumption as a protective factor or risk factor for neurological and psychiatric disorders. Currently, the importance of personalized medicine is being emphasized, and research on sex/gender differences needs to be conducted. Our review focuses on the effect of caffeine consumption on several neurological and psychiatric disorders with respect to sex differences to provide a better understanding of caffeine use as a risk or protective factor for those disorders. The findings may help establish new strategies for developing sex-specific caffeine therapies.
+
+Impact of caffeine and coffee on our health
+
+Number of 
+
+Key takeaways:Coffee consumption may have beneficial effects on health, with stimulatory effects on the central nervous system and positive effects on long-term memory.
+
+Effects of caffeine on human behavior.
+
+Number of 
+
+Key takeaways:Moderate caffeine consumption generally has positive effects on behavior, but excessive consumption can lead to negative effects, especially in sensitive individuals.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

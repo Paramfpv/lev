@@ -1,0 +1,385 @@
+PROTOCOL: Metformin
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: 
+DESCRIPTION: Metformin is the first-line treatment for type 2 diabetes with a proven beneficial effect on glycemic control, body weight, and lipid profile. It acts in multiple ways, improving insulin sensitivity, supporting healthy metabolism, and reducing the risk of cardiovascular complications in individuals with diabetes and metabolic syndrome.
+
+CONTENT SECTIONS:
+
+Metabolic improvement and heart protection in people with type 2 diabetes
+
+Metformin is the first-line treatment for type 2 diabetes with a proven beneficial effect on glycemic control, body weight, and lipid profile. It acts in multiple ways, improving insulin sensitivity, supporting healthy metabolism, and reducing the risk of cardiovascular complications in individuals with diabetes and metabolic syndrome.
+
+Level of evidence:Strong
+
+Metformin primarily inhibits glucose production in the liver and increases glucose uptake by peripheral tissues, which leads to improved insulin sensitivity and lower blood sugar levels. Additionally, it positively affects gut microbiota composition and reduces inflammation, contributing to better metabolism and reduced risk of cardiovascular complications. These effects are best documented in people with type 2 diabetes.
+
+Metformin is generally well tolerated but may cause mild to moderate gastrointestinal side effects. The risk of serious complications, such as lactic acidosis, mainly occurs in people with kidney, liver, or advanced heart failure.
+
+Metformin is not recommended in certain conditions and states that increase the risk of serious adverse effects.
+
+Typical starting dose is 500–850 mg once or twice daily; the maximum daily dose is usually 2000–2550 mg, taken in divided doses
+
+Standard tablets or extended-release (XR/PR), less commonly oral liquid
+
+Initial glycemic effects visible within a few days, full metabolic effect – after 2–4 weeks of regular use
+
+Best taken during or after meals to reduce the risk of gastrointestinal discomfort
+
+Laboratory monitoring
+
+Periodic assessment of kidney function (eGFR), vitamin B12 levels, and liver parameters is recommended during therapy
+
+Gradual dose escalation
+
+To minimize gastrointestinal side effects, it is recommended to start with a low dose and gradually increase it every 1–2 weeks.
+
+Taking metformin during or immediately after a meal reduces the risk of gastrointestinal symptoms.
+
+Extended-release tablets
+
+For those poorly tolerating the standard formulation, switching to an extended-release version (XR/PR) may be considered, as it is gentler on the stomach.
+
+Monitoring vitamin B12 deficiency
+
+During long-term metformin therapy, periodic measurement of vitamin B12 levels is advisable, especially in those showing deficiency symptoms.
+
+Alcohol consumption during metformin therapy increases the risk of lactic acidosis – limiting or avoiding alcohol is recommended.
+
+Need to discontinue the drug
+
+In the case of acute illnesses, dehydration, planned surgical procedures, or contrast imaging, temporary discontinuation of metformin may be necessary – always follow medical advice.
+
+Metformin has a beneficial effect on metabolism by improving insulin sensitivity, lowering blood glucose levels, and promoting the reduction of body weight and fat tissue.
+
+Mechanisms of metabolic action
+
+Effects confirmed by research
+
+Cardiovascular system
+
+Metformin improves cardiovascular outcomes, especially in people with type 2 diabetes and heart disease. The drug reduces mortality and the risk of cardiac complications through its beneficial effects on blood vessels and heart metabolism.
+
+Clinical effects and cardiovascular risk
+
+Summary of clinical studies
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:39
+
+Final comment:Metformin is one of the most thoroughly studied antidiabetic medications in the world. Its effectiveness in treating type 2 diabetes and improving metabolic parameters has been confirmed in numerous meta-analyses and large randomized clinical trials involving thousands of patients. High-quality scientific evidence clearly demonstrates benefits in lowering glucose levels, improving insulin sensitivity, and reducing the risk of cardiovascular complications in people with type 2 diabetes. The collected data includes both long-term clinical trials and systematic reviews, and the consistency of results along with the broad scope of research make the level of evidence regarding metformin's efficacy exceptionally high.
+
+Metformin and Systemic Metabolism.
+
+Number of 
+
+Key takeaways:Metformin improves blood sugar levels and insulin sensitivity by suppressing hepatic glucose production and enhancing glucose utilization in extrahepatic tissues.
+
+The mechanisms of action of metformin
+
+Number of 
+
+Key takeaways:Metformin improves glucose metabolism and diabetes-related complications through multiple mechanisms, including reducing hepatic glucose production and a key role for the gut.
+
+Abstract:Metformin is a widely-used drug that results in clear benefits in relation to glucose metabolism and diabetes-related complications. The mechanisms underlying these benefits are complex and still not fully understood. Physiologically, metformin has been shown to reduce hepatic glucose production, yet not all of its effects can be explained by this mechanism and there is increasing evidence of a key role for the gut. At the molecular level the findings vary depending on the doses of metformin used and duration of treatment, with clear differences between acute and chronic administration. Metformin has been shown to act via both AMP-activated protein kinase (AMPK)-dependent and AMPK-independent mechanisms; by inhibition of mitochondrial respiration but also perhaps by inhibition of mitochondrial glycerophosphate dehydrogenase, and a mechanism involving the lysosome. In the last 10 years, we have moved from a simple picture, that metformin improves glycaemia by acting on the liver via AMPK activation, to a much more complex picture reflecting its multiple modes of action. More work is required to truly understand how this drug works in its target population: individuals with type 2 diabetes.
+
+Metabolic Action of Metformin
+
+Number of 
+
+Key takeaways:Metformin effectively suppresses hepatic glucose production, improves insulin sensitivity, and alters gut microbiota composition, maintaining intestinal barrier integrity, and reducing inflammation in type 2 diabetes patients.
+
+Abstract:Metformin, a cheap and safe biguanide derivative, due to its ability to influence metabolism, is widely used as a first-line drug for type 2 diabetes (T2DM) treatment. Therefore, the aim of this review was to present the updated biochemical and molecular effects exerted by the drug. It has been well explored that metformin suppresses hepatic glucose production in both AMPK-independent and AMPK-dependent manners. Substantial scientific evidence also revealed that its action is related to decreased secretion of lipids from intestinal epithelial cells, as well as strengthened oxidation of fatty acids in adipose tissue and muscles. It was recognized that metformin’s supra-therapeutic doses suppress mitochondrial respiration in intestinal epithelial cells, whereas its therapeutic doses elevate cellular respiration in the liver. The drug is also suggested to improve systemic insulin sensitivity as a result of alteration in gut microbiota composition, maintenance of intestinal barrier integrity, and alleviation of low-grade inflammation.
+
+Beneficial effects of metformin on energy metabolism and visceral fat volume through a possible mechanism of fatty acid oxidation in human subjects and rats
+
+Number of 
+
+Key takeaways:Metformin reduces visceral fat in both humans and rats through a shift in fuel resources to fat oxidation and upregulation of adaptive thermogenesis, independent of its anorexigenic effect.
+
+Abstract:Objective Metformin is known to have a beneficial effect on body weight and body composition, although the precise mechanism has not been elucidated yet. The aim of this study is to investigate the effects of metformin on energy metabolism and anthropometric factors in both human subjects and rats. Methods In human studies, metformin (1500mg/day) was administered to 23 healthy subjects and 18 patients with type 2 diabetes for 2 weeks. Metabolic parameters and energy metabolism were measured during a meal tolerance test in the morning before and after the treatment of metformin. In animal studies, 13 weeks old SD rats were fed 25–26 g of standard chow only during 12-hours dark phase with either treated by metformin (2.5mg/ml in drinking water) or not for 2 weeks, and metabolic parameters, anthropometric factors and energy metabolism together with expressions related to fat oxidation and adaptive thermogenesis were measured either in fasting or post-prandial state at 15 weeks old. Results Post-prandial plasma lactate concentration was significantly increased after the metformin treatment in both healthy subjects and diabetic patients. Although energy expenditure (EE) did not change, baseline respiratory quotient (RQ) was significantly decreased and post-prandial RQ was significantly increased vice versa following the metformin treatment in both groups. By the administration of metformin to SD rats for 2 weeks, plasma levels of lactate and pyruvate were significantly increased in both fasting and post-prandial states. RQ during a fasting state was significantly decreased in metformin-treated rats compared to controls with no effect on EE. Metformin treatment brought about a significant reduction of visceral fat mass compared to controls accompanied by an up-regulation of fat oxidation-related enzyme in the liver, UCP-1 in the brown adipose tissue and UCP-3 in the skeletal muscle. Conclusion From the results obtained, beneficial effects of metformin on visceral fat reduction has been demonstrated probably through a mechanism for a potential shift of fuel resource into fat oxidation and an upregulation of adaptive thermogenesis independent of an anorexigenic effect of this drug.
+
+Anti-Obesity Effects of Metformin: A Scoping Review Evaluating the Feasibility of Brown Adipose Tissue as a Therapeutic Target
+
+Number of 
+
+Key takeaways:Metformin can reduce body weight, enhance insulin sensitivity, and improve glucose metabolism by promoting brown adipose tissue thermogenic activity in preclinical obesity models.
+
+Abstract:Brown adipose tissue (BAT) is increasingly recognized as the major therapeutic target to promote energy expenditure and ameliorate diverse metabolic complications. There is a general interest in understanding the pleiotropic effects of metformin against metabolic complications. Major electronic databases and search engines such as PubMed/MEDLINE, Google Scholar, and the Cochrane library were used to retrieve and critically discuss evidence reporting on the impact of metformin on regulating BAT thermogenic activity to ameliorate complications linked with obesity. The summarized evidence suggests that metformin can reduce body weight, enhance insulin sensitivity, and improve glucose metabolism by promoting BAT thermogenic activity in preclinical models of obesity. Notably, this anti-diabetic agent can affect the expression of major thermogenic transcriptional factors such as uncoupling protein 1 (UCP1), nuclear respiratory factor 1 (NRF1), and peroxisome-proliferator-activated receptor gamma coactivator 1-alpha (PGC1-α) to improve BAT mitochondrial function and promote energy expenditure. Interestingly, vital molecular markers involved in glucose metabolism and energy regulation such as AMP-activated protein kinase (AMPK) and fibroblast growth factor 21 (FGF21) are similarly upregulated by metformin treatment in preclinical models of obesity. The current review also discusses the clinical relevance of BAT and thermogenesis as therapeutic targets. This review explored critical components including effective dosage and appropriate intervention period, consistent with the beneficial effects of metformin against obesity-associated complications.
+
+Metformin: A Review of Potential Mechanism and Therapeutic Utility Beyond Diabetes
+
+Number of 
+
+Key takeaways:Metformin has diverse therapeutic benefits beyond diabetes management, including antihyperglycemic effects, anticancer effects, and potential neuroprotective roles in various cancers and aging.
+
+Abstract:Abstract Metformin has been designated as one of the most crucial first-line therapeutic agents in the management of type 2 diabetes mellitus. Primarily being an antihyperglycemic agent, metformin also has a plethora of pleiotropic effects on various systems and processes. It acts majorly by activating AMPK (Adenosine Monophosphate-Activated Protein Kinase) in the cells and reducing glucose output from the liver. It also decreases advanced glycation end products and reactive oxygen species production in the endothelium apart from regulating the glucose and lipid metabolism in the cardiomyocytes, hence minimizing the cardiovascular risks. Its anticancer, antiproliferative and apoptosis-inducing effects on malignant cells might prove instrumental in the malignancy of organs like the breast, kidney, brain, ovary, lung, and endometrium. Preclinical studies have also shown some evidence of metformin’s neuroprotective role in Parkinson’s disease, Alzheimer’s disease, multiple sclerosis and Huntington’s disease. Metformin exerts its pleiotropic effects through varied pathways of intracellular signalling and exact mechanism in the majority of them remains yet to be clearly defined. This article has extensively reviewed the therapeutic benefits of metformin and the details of its mechanism for a molecule of boon in various conditions like diabetes, prediabetes, obesity, polycystic ovarian disease, metabolic derangement in HIV, various cancers and aging.
+
+Metabolic effects of metformin in non-insulin-dependent diabetes mellitus.
+
+Number of 
+
+Key takeaways:Metformin reduces hepatic glucose output and induces weight loss in obese patients with non-insulin-dependent diabetes mellitus by inhibiting gluconeogenesis.
+
+Abstract:BACKGROUND
+The metabolic effects and mechanism of action of metformin are still poorly understood, despite the fact that it has been used to treat patients with non-insulin-dependent diabetes mellitus (NIDDM) for more than 30 years.
+
+METHODS
+In 10 obese patients with NIDDM, we used a combination of isotope dilution, indirect calorimetry, bioimpedance, and tissue-balance techniques to assess the effects of metformin on systemic lactate, glucose, and free-fatty-acid turnover; lactate oxidation and the conversion of lactate to glucose; skeletal-muscle glucose and lactate metabolism; body composition; and energy expenditure before and after four months of treatment.
+
+RESULTS
+Metformin treatment decreased the mean (+/- SD) glycosylated hemoglobin value from 13.2 +/- 2.2 percent to 10.5 +/- 1.6 percent (P < 0.001) and reduced fasting plasma glucose concentrations from 220 +/- 41 to 155 +/- 28 mg per deciliter (12.2 +/- 0.7 to 8.6 +/- 0.5 mmol per liter) (P < 0.001). Although resting energy expenditure did not change, the patients lost 2.7 +/- 1.3 kg of weight (P < 0.001), 88 percent of which was adipose tissue. The mean (+/- SE) rate of plasma glucose turnover (hepatic glucose output and systemic glucose disposal) decreased from 2.8 +/- 0.2 to 2.0 +/- 0.2 mg per kilogram of body weight per minute (15.3 +/- 0.9 to 10.8 +/- 0.9 mumol per kilogram per minute) (P < 0.001), as a result of a decrease in hepatic glucose output; systemic glucose clearance did not change. The rate of conversion of lactate to glucose (gluconeogenesis) decreased by 37 percent (P < 0.001), whereas lactate oxidation increased by 25 percent (P < 0.001). There were no changes in the plasma lactate concentration, plasma lactate turnover, muscle lactate release, plasma free-fatty-acid turnover, or uptake of glucose by muscle.
+
+CONCLUSIONS
+Metformin acts primarily by decreasing hepatic glucose output, largely by inhibiting gluconeogenesis. It also seems to induce weight loss, preferentially involving adipose tissue.
+
+Adipokines as a therapeutic target by metformin to improve metabolic function: A systematic review of randomized controlled trials.
+
+Number of 
+
+Key takeaways:Metformin improves metabolic function in individuals with metabolic syndrome by lowering blood glucose, promoting weight loss, reducing insulin resistance, and reducing inflammation through the upregulation of adiponectin and suppression of leptin and resistin.
+
+Effect of Metformin on Metabolic Improvement and Gut Microbiota
+
+Number of 
+
+Key takeaways:Metformin treatment improves metabolic markers and influences gut microbiota composition, influencing metabolic pathways in mice on a high-fat-diet.
+
+Abstract:ABSTRACT Metformin is commonly used as the first line of medication for the treatment of metabolic syndromes, such as obesity and type 2 diabetes (T2D). Recently, metformin-induced changes in the gut microbiota have been reported; however, the relationship between metformin treatment and the gut microbiota remains unclear. In this study, the composition of the gut microbiota was investigated using a mouse model of high-fat-diet (HFD)-induced obesity with and without metformin treatment. As expected, metformin treatment improved markers of metabolic disorders, including serum glucose levels, body weight, and total cholesterol levels. Moreover, Akkermansia muciniphila (12.44% ± 5.26%) and Clostridium cocleatum (0.10% ± 0.09%) abundances increased significantly after metformin treatment of mice on the HFD. The relative abundance of A. muciniphila in the fecal microbiota was also found to increase in brain heart infusion (BHI) medium supplemented with metformin in vitro. In addition to the changes in the microbiota associated with metformin treatment, when other influences were controlled for, a total of 18 KEGG metabolic pathways (including those for sphingolipid and fatty acid metabolism) were significantly upregulated in the gut microbiota during metformin treatment of mice on an HFD. Our results demonstrate that the gut microbiota and their metabolic pathways are influenced by metformin treatment.
+
+Metabolic effects of metformin on glucose and lactate metabolism in noninsulin-dependent diabetes mellitus.
+
+Number of 
+
+Key takeaways:Metformin effectively lowers plasma glucose levels in noninsulin-dependent diabetes mellitus patients, but its effect on hepatic glucose production and lactate metabolism remains unclear.
+
+Abstract:Metformin is a biguanide that has been shown to effectively lower plasma glucose levels in subjects with noninsulin-dependent diabetes mellitus (NIDDM). However, its mechanism of action remains unknown. Studies that have examined the effect of metformin on hepatic glucose production (HGP) and muscle glucose utilization in NIDDM have yielded conflicting results, and little information is available about the action of metformin on lactate turnover and gluconeogenesis from lactate in humans. We studied 20 NIDDM subjects and 8 nondiabetic controls in a randomized, double blind, placebo-controlled trial to determine the effect of 15 weeks of treatment with metformin or placebo on glucose and lactate metabolism. Before and after treatment, all participants received a 7-h infusion of glucose and lactate in combination with indirect calorimetry and estimation of lactate central vein specific activity. A euglycemic insulin clamp (20 mU/m2.min) was performed during the last 3 h of the tracer infusions. The study design allowed us to evaluate the effects of metformin vs. placebo treatment on glycemic control, plasma lipid profile, HGP, insulin-mediated glucose uptake, oxidative and nonoxidative glucose metabolism, and lactate turnover. Metformin treatment significantly reduced fasting plasma glucose (196 +/- 18 vs. 152 +/- 12 mg/dL; P < 0.01), hemoglobin A1 (12.5 +/- 0.6 vs. 9.2 +/- 0.3%; P < 0.01), and plasma triglyceride and low density lipoprotein cholesterol concentrations. When diabetics were compared to nondiabetic controls, basal HGP was higher (12.9 +/- 1.0 vs. 9.8 +/- 1.2 mumol/kg.min; P < 0.01) despite the presence of fasting hyperinsulinemia and insulin-mediated total body glucose disposal (10.9 +/- 0.9 vs. 20.2 +/- 3.3 mumol/kg.min; P < 0.01) was decreased. Metformin significantly reduced fasting HGP (from 12.9 +/- 0.7 to 11.0 +/- 0.5 mumol/kg.min; P < 0.01), but did not enhance total body glucose disposal during insulin stimulation (10.9 +/- 0.9 vs. 11.0 +/- 0.5 mumol/kg.min; P = NS). Neither oxidative nor nonoxidative glucose disposal was improved by metformin treatment. The fasting plasma lactate concentration (1.1 +/- 0.1 vs. 0.6 +/- 0.1 mmol/L) and lactate turnover (14.0 +/- 0.8 vs. 10.3 +/- 0.6 mumol/kg.min) were significantly increased in diabetics and strongly correlated (r = 0.68; P < 0.001). The percent gluconeogenesis derived from lactate was similar in diabetic and control subjects (17 +/- 2% vs. 15 +/- 2%; P = NS), but the estimated rate of gluconeogenesis from lactate was increased in the diabetic group (P < 0.01). Despite the significant reduction in HGP after metformin treatment, the percentage of gluconeogenesis from lactate and the rate of lactate-derived gluconeogenesis were unchanged from baseline. Basal lactate turnover (15.4 +/- 1.4 vs. 14.8 +/- 1.4 mumol/kg.min) and lactate oxidation (7.9 +/- 0.7 vs. 8.1 +/- 0.9 mumol/ kg.min) as well as total lactate turnover and lactate oxidation during the insulin clamp were similar before and after metformin treatment. There were no changes in any of the above metabolic parameters in the placebo-treated group. In poorly controlled NIDDM subjects, the primary mechanism by which metformin improves glycemic control is related to the suppression of accelerated basal HGP, and this most likely is secondary to an inhibition of hepatic glycogenolysis. Metformin has no effect on the rate of lactate turnover or gluconeogenesis from lactate in either the basal or insulin-stimulated states.
+
+The function, mechanisms, and clinical applications of metformin: potential drug, unlimited potentials
+
+Number of 
+
+Key takeaways:Metformin has multiple beneficial effects beyond diabetes treatment, including anti-cancer, anti-aging, brain repair, cardiovascular protection, gastrointestinal regulation, hair growth, and thyroid nodules.
+
+Abstract:Metformin has been used clinically for more than 60 years. As time goes by, more and more miraculous effects of metformin beyond the clinic have been discovered and discussed. In addition to the clinically approved hypoglycemic effect, it also has a positive metabolic regulation effect on the human body that cannot be ignored. Such as anti-cancer, anti-aging, brain repair, cardiovascular protection, gastrointestinal regulation, hair growth and inhibition of thyroid nodules, and other nonclinical effects. Metformin affects almost the entire body in the situation taking it over a long period, and the preventive effects of metformin in addition to treating diabetes are also beginning to be recommended in some guidelines. This review is mainly composed of four parts: the development history of metformin, the progress of clinical efficacy, the nonclinical efficacy of metformin, and the consideration and prospect of its application.
+
+Effect of metformin versus placebo on metabolic factors in the MA.32 randomized breast cancer trial
+
+Number of 
+
+Key takeaways:Metformin significantly improves weight and metabolic factors in non-diabetic breast cancer patients, with no significant differences based on rs11212617 allele status.
+
+Cellular and Molecular Mechanisms of Metformin Action
+
+Number of 
+
+Key takeaways:Metformin's glucose-lowering effect in type 2 diabetes is primarily due to its inhibition of hepatic gluconeogenesis, with recent studies suggesting a redox-dependent mechanism at clinically relevant concentrations.
+
+Abstract:Abstract Metformin is a first-line therapy for the treatment of type 2 diabetes, due to its robust glucose-lowering effects, well-established safety profile, and relatively low cost. While metformin has been shown to have pleotropic effects on glucose metabolism, there is a general consensus that the major glucose-lowering effect in patients with type 2 diabetes is mostly mediated through inhibition of hepatic gluconeogenesis. However, despite decades of research, the mechanism by which metformin inhibits this process is still highly debated. A key reason for these discrepant effects is likely due to the inconsistency in dosage of metformin across studies. Widely studied mechanisms of action, such as complex I inhibition leading to AMPK activation, have only been observed in the context of supra-pharmacological (>1 mM) metformin concentrations, which do not occur in the clinical setting. Thus, these mechanisms have been challenged in recent years and new mechanisms have been proposed. Based on the observation that metformin alters cellular redox balance, a redox-dependent mechanism of action has been described by several groups. Recent studies have shown that clinically relevant (50-100 μM) concentrations of metformin inhibit hepatic gluconeogenesis in a substrate-selective manner both in vitro and in vivo, supporting a redox-dependent mechanism of metformin action. Here, we review the current literature regarding metformin’s cellular and molecular mechanisms of action.
+
+Effects of exercise, metformin and their combination on glucose metabolism in individuals with abnormal glycaemic control: a systematic review and network meta-analysis
+
+Number of 
+
+Key takeaways:Exercise and metformin improve glucose metabolism in individuals with prediabetes and type 2 diabetes mellitus, with exercise being more effective in prediabetes and metformin being more effective in patients with T2DM.
+
+Abstract:Objective To compare the efficacy of exercise, metformin and their combination on glucose metabolism in individuals with abnormal glycaemic control. Design Systematic review and network meta-analysis. Data sources Embase, Web of Science, PubMed/MEDLINE and SPORTDiscus. Eligibility criteria Randomised controlled trials involving exercise, metformin or their combined treatments in individuals with prediabetes or type 2 diabetes mellitus (T2DM) were included. Outcomes included haemoglobin A1c (HbA1c), 2-hour glucose during oral glucose tolerance test, fasting glucose, fasting insulin and homeostasis model assessment of insulin resistance (HOMA-IR). Results 407 articles with 410 randomised controlled trials (n=33 802) were included. In prediabetes, the exercise showed greater efficacy than metformin on HbA1c levels (mean difference −0.16%, 95% CI (−0.23 to −0.09) vs −0.10%, 95% CI (−0.21 to 0.02)), 2-hour glucose (−0.68 mmol/L, 95% CI (−0.97 to −0.39) vs 0.01 mmol/L, 95% CI (−0.38 to 0.41)) and HOMA-IR (−0.54, 95% CI (−0.71 to −0.36) vs −0.23, 95% CI (−0.55 to 0.10)), while the efficacy on fasting glucose was comparable (−0.26 mmol/L, 95% CI (−0.32 to −0.19) vs −0.33 mmol/L, 95% CI (−0.45 to −0.21)). In T2DM, metformin was more efficacious than exercise on HbA1c (−0.88%, 95% CI (−1.07 to −0.69) vs −0.48%, 95% CI (−0.58 to −0.38)), 2-hour glucose (−2.55 mmol/L, 95% CI (−3.24 to −1.86) vs −0.97 mmol/L, 95% CI (−1.52 to −0.42)) and fasting glucose (−1.52 mmol/L, 95% CI (−1.73 to −1.31) vs −0.85 mmol/L, 95% CI (−0.96 to −0.74)); exercise+metformin also showed greater efficacy in improving HbA1c (−1.23%, 95% CI (−2.41 to –0.05)) and fasting glucose (−2.02 mmol/L, 95% CI (−3.31 to –0.74)) than each treatment alone. However, the efficacies were modified by exercise modality and metformin dosage. Conclusion Exercise, metformin and their combination are efficacious in improving glucose metabolism in both prediabetes and T2DM. The efficacy of exercise appears to be superior to metformin in prediabetes, but metformin appears to be superior to exercise in patients with T2DM. PROSPERO registration number CRD42023400622.
+
+The effect of metformin on body mass index and metabolic parameters in non-diabetic HIV-positive patients: a meta-analysis
+
+Number of 
+
+Key takeaways:Metformin improves metabolic parameters in HIV-positive patients, but may not be suitable for everyone, especially those not overweight.
+
+Abstract:We sought to evaluate the effetc of metformin on body mass index (BMI) and metabolic parameters in HIV-positive patients. We performed a comprehensive search through five major indexing databases, using keywords (“metformin” OR “dimethylguanylguanidine” OR “biguanide” OR “Glucophage”) AND (“HIV” OR “human immunodeficiency virus” OR “AIDS” OR “Acquired immunodeficiency syndrome”), and all possible combinations until January 15, 2021. We measured standardized mean differences (SMD) and 95% confidence intervals (CI) for each outcome. We finally included 12 RCTs (577 participants, 274 in the metformin group and 303 in the comparators). Metformin did not significantly change BMI index compared to various comparators. Metformin generally improve LDL levels (SMD = 0.29, 95% CI: − 1.00 1.57, P = 0.01), HDL levels (SMD = − 0.15, 95% CI: − 0.72 0.41, P = 0.001), triglycerides values (SMD = 0.46, 95% CI: − 0.36 1.27, P < 0.00001), fasting glucose (SMD = − 0.82, 95% CI: − 1.80 0.15, P < 0.00001), insulin 120 min (SMD = − 0.82, 95% CI: − 1.59–0.04, P = 0.02), and glucose 120 min (SMD = − 1.24, 95% CI: − 2.57 0.10, P < 0.0001), but worsened total cholesterol values (SMD = 1.24, 95% CI: − 0.98 3.46, P = 0.0001). Metformin is safe for weight loss in obese people; however, this drug may not be suitable for everyone, especially those who are not overweight. Nevertheless the body of evidences may suggest that metformin had promising impacts on metabolic parameters in patients with both HIV, it is still unknown that such surrogate changes will translate to long-standing clinical advantages.
+
+Metabolic Effects of Metformin in the Failing Heart
+
+Number of 
+
+Key takeaways:Metformin may reduce heart failure incidence and mortality by improving myocardial energy metabolism and regulating lipid and glucose metabolism.
+
+Abstract:Accumulating evidence shows that metformin is an insulin-sensitizing antidiabetic drug widely used in the treatment of type 2 diabetes mellitus (T2DM), which can exert favorable effects on cardiovascular risk and may be safely used in patients with heart failure (HF), and even able to reduce the incidence of HF and to reduce HF mortality. In failing hearts, metformin improves myocardial energy metabolic status through the activation of AMP (adenosine monophosphate)-activated protein kinase (AMPK) and the regulation of lipid and glucose metabolism. By increasing nitric oxide (NO) bioavailability, limiting interstitial fibrosis, reducing the deposition of advanced glycation end-products (AGEs), and inhibiting myocardial cell apoptosis metformin reduces cardiac remodeling and hypertrophy, and thereby preserves left ventricular systolic and diastolic functions. While a lot of preclinical and clinical studies showed the cardiovascular safety of metformin therapy in diabetic patients and HF, to confirm observed benefits, the specific large-scale trials configured for HF development in diabetic patients as a primary endpoints are necessary.
+
+Metformin and cancer hallmarks: shedding new lights on therapeutic repurposing
+
+Number of 
+
+Key takeaways:Metformin reduces cancer risk and mortality in diabetes patients, with potential applications in cancer therapeutics due to its safety, tolerability, and cost-effectiveness.
+
+Abstract:Metformin is a well-known anti-diabetic drug that has been repurposed for several emerging applications, including as an anti-cancer agent. It boasts the distinct advantages of an excellent safety and tolerability profile and high cost-effectiveness at less than one US dollar per daily dose. Epidemiological evidence reveals that metformin reduces the risk of cancer and decreases cancer-related mortality in patients with diabetes; however, the exact mechanisms are not well understood. Energy metabolism may be central to the mechanism of action. Based on altering whole-body energy metabolism or cellular state, metformin's modes of action can be divided into two broad, non-mutually exclusive categories: "direct effects", which induce a direct effect on cancer cells, independent of blood glucose and insulin levels, and "indirect effects" that arise from systemic metabolic changes depending on blood glucose and insulin levels. In this review, we summarize an updated account of the current knowledge on metformin antitumor action, elaborate on the underlying mechanisms in terms of the hallmarks of cancer, and propose potential applications for repurposing metformin for cancer therapeutics.
+
+Metformin: an old drug against old age and associated morbidities.
+
+Number of 
+
+Key takeaways:Metformin has shown potential in reducing aging-related morbidities, including obesity, metabolic syndrome, cardiovascular disease, cancer, cognitive decline, and mortality, beyond its role in treating type 2 diabetes.
+
+Metformin action over gut microbiota is related to weight and glycemic control in gestational diabetes mellitus: A randomized trial.
+
+Number of 
+
+Key takeaways:Metformin improves glycemic control and weight control in gestational diabetes mellitus patients, with changes in gut microbiota composition potentially mediating its clinical effects.
+
+Survival benefit of metformin use according to cancer diagnosis in diabetic patients with metabolic syndrome
+
+Number of 
+
+Key takeaways:Metformin use is associated with a survival benefit in type 2 diabetes patients with metabolic syndrome and cancer, depending on the presence of cancer.
+
+Effect of metformin on all-cause and cardiovascular mortality in patients with coronary artery diseases: a systematic review and an updated meta-analysis
+
+Number of 
+
+Key takeaways:Metformin reduces cardiovascular mortality, all-cause mortality, and cardiovascular events in patients with coronary artery disease, with a better effect than sulfonylureas.
+
+Abstract:Metformin is the most widely prescribed drug to lower glucose and has a definitive effect on the cardiovascular system. The goal of this systematic review and meta-analysis is to assess the effects of metformin on mortality and cardiac function among patients with coronary artery disease (CAD). Relevant studies reported before October 2018 was retrieved from databases including PubMed, EMBASE, Cochrane Library and Web of Science. Hazard ratio (HR) was calculated to evaluate the all-cause mortality, cardiovascular mortality and incidence of cardiovascular events (CV events), to figure out the level of left ventricular ejection fraction (LVEF), creatine kinase MB (CK-MB), type B natriuretic peptide (BNP) and to compare the average level of low density lipoprotein (LDL). In this meta-analysis were included 40 studies comprising 1,066,408 patients. The cardiovascular mortality, all-cause mortality and incidence of CV events were lowered to adjusted HR (aHR) = 0.81, aHR = 0.67 and aHR = 0. 83 respectively after the patients with CAD were given metformin. Subgroup analysis showed that metformin reduced all-cause mortality in myocardial infarction (MI) (aHR = 0.79) and heart failure (HF) patients (aHR = 0.84), the incidence of CV events in HF (aHR = 0.83) and type II diabetes mellitus (T2DM) patients (aHR = 0.83), but had no significant effect on MI (aHR = 0.87) and non-T2DM patients (aHR = 0.92). Metformin is superior to sulphonylurea (aHR = 0.81) in effects on lowering the incidence of CV events and in effects on patients who don't use medication. The CK-MB level in the metformin group was lower than that in the control group standard mean difference (SMD) = − 0.11). There was no significant evidence that metformin altered LVEF (MD = 2.91), BNP (MD = − 0.02) and LDL (MD = − 0.08). Metformin reduces cardiovascular mortality, all-cause mortality and CV events in CAD patients. For MI patients and CAD patients without T2DM, metformin has no significant effect of reducing the incidence of CV events. Metformin has a better effect of reducing the incidence of CV events than sulfonylureas.
+
+Metformin effects on the heart and the cardiovascular system: A review of experimental and clinical data.
+
+Number of 
+
+Key takeaways:Metformin has a protective effect against coronary events and heart failure progression, making it a central pillar of diabetes therapy.
+
+Impact of metformin on cardiovascular disease: a meta-analysis of randomised trials among people with type 2 diabetes
+
+Number of 
+
+Key takeaways:Metformin shows mixed results in reducing cardiovascular disease risk in people with type 2 diabetes, with limited evidence and no definitive placebo-controlled trial.
+
+Abstract:Metformin is the most-prescribed oral medication to lower blood glucose worldwide. Yet previous systematic reviews have raised doubts about its effectiveness in reducing risk of cardiovascular disease, the most costly complication of type 2 diabetes. We aimed to systematically identify and pool randomised trials reporting cardiovascular outcomes in which the effect of metformin was 'isolated' through comparison to diet, lifestyle or placebo.We performed an electronic literature search of MEDLINE, EMBASE and the Cochrane Library. We also manually screened the reference lists of previous meta-analyses of trials of metformin identified through a MEDLINE search. We included randomised controlled trials of adults with type 2 diabetes comparing any dose and preparation of oral metformin with no intervention, placebo or a lifestyle intervention and reporting mortality or a cardiovascular outcome.We included ten articles reporting 13 trials (including a total of 2079 individuals with type 2 diabetes allocated to metformin and a similar number to comparison groups) of which only four compared metformin with placebo and collected data on cardiovascular outcomes. Participants were mainly white, aged ≤65 years, overweight/obese and with poor glycaemic control. Summary estimates were based on a small number of events: 416 myocardial infarctions/ischaemic heart disease events in seven studies and 111 strokes in four studies. The UK Prospective Diabetes Study (UKPDS) contributed the majority of data to the summary estimates, with weights ranging from 52.3% for myocardial infarction to 70.5% for stroke. All outcomes, with the exception of stroke, favoured metformin, with limited heterogeneity between studies, but none achieved statistical significance. Effect sizes (Mantel-Haenszel RR) were: all-cause mortality 0.96 (95% CI 0.84, 1.09); cardiovascular death 0.97 (95% CI 0.80, 1.16); myocardial infarction 0.89 (95% CI 0.75, 1.06); stroke 1.04 (95% CI 0.73, 1.48); and peripheral vascular disease 0.81 (95% CI 0.50, 1.31).There remains uncertainty about whether metformin reduces risk of cardiovascular disease among patients with type 2 diabetes, for whom it is the recommended first-line drug. Although this is mainly due to absence of evidence, it is unlikely that a definitive placebo-controlled cardiovascular endpoint trial among people with diabetes will be forthcoming. Alternative approaches to reduce the uncertainty include the use of electronic health records in long-term pragmatic evaluations, inclusion of metformin in factorial trials, publication of cardiovascular outcome data from adverse event reporting in trials of metformin and a cardiovascular endpoint trial of metformin among people without diabetes.
+
+Repurposing Metformin for Cardiovascular Disease.
+
+Number of 
+
+Key takeaways:Metformin shows potential in reducing cardiovascular disease mortality and morbidity, with potential benefits beyond its role in diabetes management.
+
+Abstract:Although introduced for use as a diabetic medication in 1957, metformin remains the cornerstone of diabetic drug management in patients with type 2 diabetes mellitus (T2D). Its widespread use has largely been underpinned by the United Kingdom Prospective Diabetes Study that reported lower cardiovascular mortality and morbidity in patients treated with metformin in comparison with alternative glucose-lowering drugs, despite similar glycemic control. A recent meta-analysis suggests that the cardiovascular effects of metformin could be smaller than that reported by United Kingdom Prospective Diabetes Study; however, this should be interpreted with caution because there has only been a small number of randomized controlled trials.1 Although patients who have cardiovascular disease (CVD) with T2D comorbidity are likely to benefit most from metformin, indications of cardiovascular benefit over other diabetes treatments has driven interest in repurposing metformin to treat CVD, irrespective of diabetes status.
+
+Identified before the era of target-driven drug discovery programs, metformin’s cellular mechanism is poorly established. The most likely cellular effect underlying antihyperglycemic responses is the inhibition of mitochondrial enzymes, including complex I. Mitochondrial suppression by metformin activates AMP-activated protein kinase; however, AMP-activated protein kinase–independent targets also contribute to effects on glycemia, and, in addition, benefits of the drug in CVD may also be exerted by mechanisms distinct from its metabolic actions. In our recent work, for example, we have been …
+
+Mechanisms of action of metformin with special reference to cardiovascular protection
+
+Number of 
+
+Key takeaways:Metformin provides cardiovascular protection for type 2 diabetes patients through reduced blood glucose, weight loss, improved haemostatic function, reduced inflammation, and inhibition of atherosclerosis processes.
+
+Abstract:Management guidelines continue to identify metformin as initial pharmacologic antidiabetic therapy of choice for people with type 2 diabetes without contraindications, despite recent randomized trials that have demonstrated significant improvements in cardiovascular outcomes with newer classes of antidiabetic therapies. The purpose of this review is to summarize the current state of knowledge of metformin's therapeutic actions on blood glucose and cardiovascular clinical evidence and to consider the mechanisms that underlie them. The effects of metformin on glycaemia occur mainly in the liver, but metformin‐stimulated glucose disposal by the gut has emerged as an increasingly import site of action of metformin. Additionally, metformin induces increased secretion of GLP‐1 from intestinal L‐cells. Clinical cardiovascular protection with metformin is supported by three randomized outcomes trials (in newly diagnosed and late stage insulin‐treated type 2 diabetes patients) and a wealth of observational data. Initial evidence suggests that cotreatment with metformin may enhance the impact of newer incretin‐based therapies on cardiovascular outcomes, an important observation as metformin can be combined with any other antidiabetic agent. Multiple potential mechanisms support the concept of cardiovascular protection with metformin beyond those provided by reduced blood glucose, including weight loss, improvements in haemostatic function, reduced inflammation, and oxidative stress, and inhibition of key steps in the process of atherosclerosis. Accordingly, metformin remains well placed to support improvements in cardiovascular outcomes, from diagnosis and throughout the course of type 2 diabetes, even in this new age of improved outcomes in type 2 diabetes.
+
+Metformin in cardiovascular diabetology: a focused review of its impact on endothelial function
+
+Number of 
+
+Key takeaways:Metformin improves endothelial dysfunction in diabetes patients, potentially reducing cardiovascular complications and improving overall health.
+
+Abstract:As a first-line treatment for diabetes, the insulin-sensitizing biguanide, metformin, regulates glucose levels and positively affects cardiovascular function in patients with diabetes and cardiovascular complications. Endothelial dysfunction (ED) represents the primary pathological change of multiple vascular diseases, because it causes decreased arterial plasticity, increased vascular resistance, reduced tissue perfusion and atherosclerosis. Caused by “biochemical injury”, ED is also an independent predictor of cardiovascular events. Accumulating evidence shows that metformin improves ED through liver kinase B1 (LKB1)/5'-adenosine monophosphat-activated protein kinase (AMPK) and AMPK-independent targets, including nuclear factor-kappa B (NF-κB), phosphatidylinositol 3 kinase-protein kinase B (PI3K-Akt), endothelial nitric oxide synthase (eNOS), sirtuin 1 (SIRT1), forkhead box O1 (FOXO1), krüppel-like factor 4 (KLF4) and krüppel-like factor 2 (KLF2). Evaluating the effects of metformin on endothelial cell functions would facilitate our understanding of the therapeutic potential of metformin in cardiovascular diabetology (including diabetes and its cardiovascular complications). This article reviews the physiological and pathological functions of endothelial cells and the intact endothelium, reviews the latest research of metformin in the treatment of diabetes and related cardiovascular complications, and focuses on the mechanism of action of metformin in regulating endothelial cell functions.
+
+Metformin and the heart: Update on mechanisms of cardiovascular protection with special reference to comorbid type 2 diabetes and heart failure.
+
+Number of 
+
+Key takeaways:Metformin shows potential cardioprotective effects in patients with type 2 diabetes and heart failure, but newer antidiabetic therapies may be more effective.
+
+Metformin: evidence from preclinical and clinical studies for potential novel applications in cardiovascular disease
+
+Number of 
+
+Key takeaways:Metformin may have some cardiovascular benefits in patients with and without diabetes, but larger randomized trials are needed to confirm these findings.
+
+Abstract:ABSTRACT Introduction For a long time, metformin has been the first-line treatment for glycemic control in type 2 diabetes; however, the results of recent cardiovascular outcome trials of sodium-glucose co-transporter 2 inhibitors and glucagon-like peptide 1 receptor agonists have caused many to question metformin’s position in the guidelines. Although there are several plausible mechanisms by which metformin might have beneficial cardiovascular effects, for example, its anti-inflammatory effects and metabolic properties, and numerous observational data suggesting improved cardiovascular outcomes with metformin use, the main randomized clinical trial data for metformin was published over 20 years ago. Nevertheless, the overwhelming majority of participants in contemporary type 2 diabetes trials were prescribed metformin. Areas covered In this review, we will summarize the potential mechanisms of cardiovascular benefit with metformin, before discussing clinical data in individuals with or without diabetes. Expert opinion Metformin may have some cardiovascular benefit in patients with and without diabetes, however the majority of clinical trials were small and are before the use SGLT2 inhibitors and GLP1-RAs. Larger contemporary randomized trials, with metformin evaluating its cardiovascular benefit are warranted.
+
+Cardioprotective Effects of Metformin
+
+Number of 
+
+Key takeaways:Metformin has cardioprotective effects beyond glycemic control, promoting myocyte viability and reducing infarct size and improving survival rates after myocardial infarction.
+
+Abstract:Abstract: Metformin, routinely used as first-line drug in the treatment of type 2 diabetes, has been shown to have cardioprotective effects beyond its glycemic control. These have been attributed to increases in Akt concentrations and activation of protein kinases in the RISK pathways, which prevent the mPTP from opening and rupturing it and therefore, protects myocyte viability. In myocardial infarction and subsequent reperfusion, metformin activation of AMPK promotes glycolysis and keeps the mPTP closed. Given as a preconditioning and/or postconditioning agent, metformin has been shown to decrease infarct size and improve survival rates after myocardial infarction. Metformin has further been reported to restore depleted PGC-1&agr; levels and improve mitochondrial biogenesis by increasing phosphorylation of eNOSser1177, which produces NO and leads to reduced vascular inflammation and myocardial injury after ischemia. There is strong evidence suggesting that metformin improves cardiovascular outcomes by influencing metabolic signal transduction pathways. There are growing calls for metformin use to be expanded off-label beyond the traditional glycemic control. We review experimental evidence for metformin's impact on cardiovascular disease and its underlying molecular mechanisms of action and also discuss why significant gains made in experimental conditions have not translated into significant therapeutic applications.
+
+Cardiovascular risk following metformin treatment in patients with type 2 diabetes mellitus: results from meta-analysis.
+
+Number of 
+
+Key takeaways:Metformin treatment significantly decreases cardiovascular risk in patients with type 2 diabetes mellitus, both in terms of mortality and incidence.
+
+Protective effects of metformin in various cardiovascular diseases: Clinical evidence and AMPK‐dependent mechanisms
+
+Number of 
+
+Key takeaways:Metformin can lower the incidence of cardiovascular events in both diabetic and non-diabetic patients, with potential AMPK-dependent mechanisms.
+
+Abstract:Metformin, a well‐known AMPK agonist, has been widely used as the first‐line drug for treating type 2 diabetes. There had been a significant concern regarding the use of metformin in people with cardiovascular diseases (CVDs) due to its potential lactic acidosis side effect. Currently growing clinical and preclinical evidence indicates that metformin can lower the incidence of cardiovascular events in diabetic patients or even non‐diabetic patients beyond its hypoglycaemic effects. The underlying mechanisms of cardiovascular benefits of metformin largely involve the cellular energy sensor, AMPK, of which activation corrects endothelial dysfunction, reduces oxidative stress and improves inflammatory response. In this minireview, we summarized the clinical evidence of metformin benefits in several widely studied cardiovascular diseases, such as atherosclerosis, ischaemic/reperfusion injury and arrhythmia, both in patients with or without diabetes. Meanwhile, we highlighted the potential AMPK‐dependent mechanisms in in vitro and/or in vivo models.
+
+Cardiovascular and metabolic effects of metformin in patients with type 1 diabetes (REMOVAL): a double-blind, randomised, placebo-controlled trial.
+
+Number of 
+
+Key takeaways:Metformin does not improve glycemic control in adults with long-standing type 1 diabetes, but may play a wider role in cardiovascular risk management.
+
+Metformin and N-terminal pro B-type natriuretic peptide in type 2 diabetes patients, a post-hoc analysis of a randomized controlled trial
+
+Number of 
+
+Key takeaways:Metformin does not affect NT-proBNP levels in type 2 diabetes patients, suggesting its potential cardioprotective effects are not influenced by changes in cardiac pressures or volumes.
+
+Abstract:Background Beyond antihyperglycemic effects, metformin may improve cardiovascular outcomes. Patients with type 2 diabetes often have an elevated plasma level of N-terminal pro B-type as a marker of (sub) clinical cardiovascular disease. We studied whether metformin was associated with a reduction in the serum level of N-terminal pro B-type natriuretic peptide (NT-proBNP) in these patients. Methods In the HOME trial 390 insulin-treated patients with type 2 diabetes were randomized to 850 mg metformin or placebo three times daily. Plasma samples were drawn at baseline, 4, 17, 30, 43 and 52 months. In a post-hoc analysis we analyzed the change in NT-proBNP in both groups. We used a longitudinal mixed model analysis adjusting for age, sex and prior cardiovascular disease. In a secondary analysis we assessed a possible immediate treatment effect post baseline. Results Metformin did not affect NT-proBNP levels over time in the primary analysis (-1% ). In the secondary analysis there was also no sustained time independent immediate treatment effect (initial increase of 17% followed by yearly decrease of -4% ). Conclusions Metformin as compared to placebo did not affect NT-proBNP plasma levels in this 4.3-year placebo-controlled trial. Potential cardioprotective effects of metformin cannot be explained by changes in cardiac pressures or volumes to the extent reflected by NT-proBNP.
+
+Effects of Long-term Metformin and Lifestyle Interventions on Cardiovascular Events in the Diabetes Prevention Program and Its Outcome Study
+
+Number of 
+
+Key takeaways:Neither metformin nor lifestyle interventions reduced major cardiovascular events over a 21-year follow-up in the Diabetes Prevention Program Outcomes Study.
+
+Abstract:Background: Lifestyle intervention and metformin have been shown to prevent diabetes; however, their efficacy in preventing cardiovascular disease associated with the development of diabetes is unclear. We examined whether these interventions reduced the incidence of major cardiovascular events over a 21-year median follow-up of participants in the DPP trial (Diabetes Prevention Program) and DPPOS (Diabetes Prevention Program Outcomes Study). Methods: During DPP, 3234 participants with impaired glucose tolerance were randomly assigned to metformin 850 mg twice daily, intensive lifestyle or placebo, and followed for 3 years. During the next 18-year average follow-up in DPPOS, all participants were offered a less intensive group lifestyle intervention, and unmasked metformin was continued in the metformin group. The primary outcome was the first occurrence of nonfatal myocardial infarction, stroke, or cardiovascular death adjudicated by standard criteria. An extended cardiovascular outcome included the primary outcome or hospitalization for heart failure or unstable angina, coronary or peripheral revascularization, coronary heart disease diagnosed by angiography, or silent myocardial infarction by ECG. ECGs and cardiovascular risk factors were measured annually. Results: Neither metformin nor lifestyle intervention reduced the primary outcome: metformin versus placebo hazard ratio 1.03 (95% CI, 0.78–1.37; P = 0.81) and lifestyle versus placebo hazard ratio 1.14 (95% CI, 0.87–1.50; P = 0.34). Risk factor adjustment did not change these results. No effect of either intervention was seen on the extended cardiovascular outcome. Conclusions: Neither metformin nor lifestyle reduced major cardiovascular events in DPPOS over 21 years despite long-term prevention of diabetes. Provision of group lifestyle intervention to all, extensive out-of-study use of statin and antihypertensive agents, and reduction in the use of study metformin together with out-of-study metformin use over time may have diluted the effects of the interventions. Registration: 
+
+Association of Metformin with the Mortality and Incidence of Cardiovascular Events in Patients with Pre-existing Cardiovascular Diseases
+
+Number of 
+
+Key takeaways:Metformin use is associated with a reduction in all-cause mortality, cardiovascular mortality, coronary revascularization, and heart failure in patients with pre-existing cardiovascular diseases, but not in the incidence of myocardial infarction, angina, or stroke.
+
+Abstract:IntroductionWhether metformin reduces all-cause cardiovascular mortality and the incidence of cardiovascular events in patients with pre-existing cardiovascular diseases (CVD) remains inconclusive. Some randomised controlled trials (RCTs) and cohort studies have shown that metformin is associated with an increased risk of mortality and cardiovascular events.MethodsWe conducted a pooling synthesis to assess the effects of metformin in all-cause cardiovascular mortality and incidence of cardiovascular events in patients with CVD. Studies 
+
+Cardioprotection by Metformin: Beneficial Effects Beyond Glucose Reduction
+
+Number of 
+
+Key takeaways:Metformin has cardioprotective properties beyond glucose reduction, potentially improving heart health and reducing the risk of reinfarction and all-cause mortality in patients with coronary artery disease and congestive heart failure.
+
+Abstract:Metformin is a biguanide that is widely used as an insulin-sparing agent to treat diabetes. When compared with the general population, diabetics are twice as likely to die from fatal myocardial infarction and congestive heart failure (CHF). There has been a significant concern regarding the use of metformin in patients with CHF because of their higher tendency to develop lactic acidosis. However, large epidemiological trials have reported better cardiovascular prognosis with metformin compared to other glucose-lowering agents among diabetics. Additionally, metformin has reduced the risk of reinfarction and all-cause mortality in patients with coronary artery disease and CHF, respectively. The protection against cardiovascular diseases appears to be independent of the anti-hyperglycemic effects of metformin. These effects are mediated through an increase in 5′ adenosine monophosphate-activated protein kinase (AMPK) phosphorylation and by increased phosphorylation of endothelial nitric oxide synthase (eNOS) in cardiomyocytes with an increased production of nitric oxide (NO). Metformin preconditions the heart against ischemia-reperfusion injury and may improve myocardial remodeling after an ischemic insult. The preponderance of evidence currently suggests that metformin is safe in patients with CHF, prompting the Food and Drug Administration to remove CHF as a contraindication from the package insert of all generic metformin preparations. In this narrative, along with a limited meta-analysis of available studies, we have reviewed the pleiotropic (non-glucose-lowering) effects of metformin that potentially contribute to its cardioprotective properties. Additionally, we have reviewed issues surrounding the safety of metformin in patients with cardiac diseases.
+
+Metformin Protects Cardiovascular Health in People With Diabetes
+
+Number of 
+
+Key takeaways:Metformin has a protective effect on cardiovascular health in patients with diabetes, particularly in those who are young, married, and drink alcohol.
+
+Abstract:Background Metformin is the most commonly used drug for patients with diabetes, but there is still some controversy about whether it has a protective effect on cardiovascular health. We therefore used the National Health and Nutritional Examination Survey (NHANES) database to analyze the impact of metformin use on cardiovascular health in patients with diabetes. Methods We extracted the demographic data and laboratory test results of all people with diabetes in the NHANES database from January 2017 to March 2020. The outcomes were seven indicators of cardiovascular health from the American Heart Association, each was scored as 0, 1, and 2 to represent poor, moderate, and ideal health statuses, respectively. The scores for the indicators (excluding diet and glycemic status) were summed, and the sum score was then considered to indicate unhealthy (0–5) or healthy (>5). Multivariate logistic regression analysis was used, and subgroup analyses were performed by age, alcohol consumption, education, and marital status. Results This study included 1,356 patients with diabetes, among which 606 were taking metformin. After adjusting for all included variables, oral metformin in patients with diabetes had a protective effect on the cardiovascular health of patients (OR = 0.724, 95% CI = 0.573–0.913, P = 0.007). Subgroup analysis indicated that metformin protects the cardiovascular health of people with diabetes more clearly in those who are young (OR = 0.655, 95% CI = 0.481–0.892, P = 0.007), married (OR = 0.633, 95% CI = 0.463–0.863, P = 0.003), and drink alcohol (OR = 0.742, 95% CI = 0.581–0.946, P = 0.016). Conclusion This study found that metformin has a protective effect on the cardiovascular health of patients with diabetes. The study findings support the general applicability of metformin.
+
+Gastrointestinal Mechanisms Underlying the Cardiovascular Effect of Metformin
+
+Number of 
+
+Key takeaways:Metformin's cardiovascular benefits are influenced by its gastrointestinal effects, which play a crucial role in lowering blood glucose levels and mitigating cardiovascular risk.
+
+Abstract:Metformin, the most widely prescribed drug therapy for type 2 diabetes, has pleiotropic benefits, in addition to its capacity to lower elevated blood glucose levels, including mitigation of cardiovascular risk. The mechanisms underlying the latter remain unclear. Mechanistic studies have, hitherto, focused on the direct effects of metformin on the heart and vasculature. It is now appreciated that effects in the gastrointestinal tract are important to glucose-lowering by metformin. Gastrointestinal actions of metformin also have major implications for cardiovascular function. This review summarizes the gastrointestinal mechanisms underlying the action of metformin and their potential relevance to cardiovascular benefits.
+
+Association of metformin monotherapy or combined therapy with cardiovascular risks in patients with type 2 diabetes mellitus
+
+Number of 
+
+Key takeaways:Metformin combined with another hypoglycemic drug may increase the risk of all-cause and cardiovascular mortality in type 2 diabetes patients.
+
+Abstract:Abstract Background Metformin is a first-line drug in type 2 diabetes mellitus (T2DM) treatment, yet whether metformin may increase all-cause or cardiovascular mortality of T2DM patients remains inconclusive. Methods We searched PubMed and Embase for data extracted from inception to July 14, 2020, with a registration in PROSPERO (CRD42020177283). This study included randomized controlled trials (RCT) assessing the cardiovascular effects of metformin for T2DM. This study is followed by PRISMA and Cochrane guideline. Risk ratio (RR) with 95% CI was pooled across trials by a random-effects model. Primary outcomes include all-cause mortality and cardiovascular mortality. Results We identified 29 studies that randomly assigned patients with 371 all-cause and 227 cardiovascular death events. Compared with untreated T2DM patients, metformin-treated patients was not associated with lower risk of all-cause mortality (RR: 0.98; 95%CI: 0.69–1.38; P = 0.90), cardiovascular mortality (RR: 1.13; 95% CI: 0.60, 2.15; P = 0.70), macrovascular events (RR: 0.87; 95%CI: 0.70–1.07; P = 0.19), heart failure (RR: 1.02; 95% CI:0.61–1.71; P = 0.95), and microvascular events (RR: 0.78; 95% CI:0.54–1.13; P = 0.19). Combination of metformin with another hypoglycemic drug was associated with higher risk of all-cause mortality (RR: 1.49; 95% CI: 1.02, 2.16) and cardiovascular mortality (RR: 2.21; 95% CI: 1.22, 4.00) compared with hypoglycemic drug regimens with no metformin. Conclusion The combination of metformin treatment may impose higher risk in all-cause and cardiovascular mortality. This finding, at least in part, shows no evidence for benefits of metformin in combination in terms of all-cause/cardiovascular mortality and cardiovascular events for T2DM. However, the conclusion shall be explained cautiously considering the limitations from UK Prospective Diabetes Study (UKPDS).
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

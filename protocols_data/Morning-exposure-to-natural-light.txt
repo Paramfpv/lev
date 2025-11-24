@@ -1,0 +1,415 @@
+PROTOCOL: Morning exposure to natural light
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Abstract:In the acute phase following a stroke, circadian rhythmicity is often disrupted, which undermines sleep, produces fatigue, and impedes recovery. Studies have reported post-stroke sleep architecture abnormalities, as well as acute sleep disorders which can range between extremes of clinically significant insomnia to hypersomnia, with sleep complaints sometimes persisting for months or years. Morning blue light exposure as an early, non-pharmacologic intervention targeted for strengthening circadian rhythmicity could provide acute relief and prevent disordered sleep from becoming chronic following stroke.
+ 
+ 
+ 
+ A randomized, single-blind, parallel group, placebo-controlled pilot study compared daily morning exposure to blue light or red light (placebo) for improving daytime sleepiness, fatigue, nocturnal sleep, and cognition in patients receiving inpatient rehabilitation for acute stroke. N=43 patients with disordered sleep secondary to first episode stroke (n=34 ischemic, n=9 hemorrhagic; ages 66.2±14.1y) were randomized to receive 25min of morning blue or red light for 5 or more days depending on inpatient rehabilitation length of stay (blue n=21, red n=22). At baseline and study discharge, daytime sleepiness was measured with the Karolinska Sleepiness Scale and Wits Pictorial Sleepiness Scale, fatigue with a visual analogue scale, and cognitive function with the Rey Auditory Verbal Learning Test and Trail Making Test (TMT). Actigraphy measured sleep continuously throughout participation with nighttime sleep defined as 21:00–05:59. Effect sizes per outcome were used to estimate sample sizes for larger follow-up studies.
+ 
+ 
+ 
+ Participants with blue light exposure experienced significant improvements in daytime sleepiness, fatigue, and auditory verbal learning (all p<.05) relative to red light exposure. There was a trend toward a greater mean duration of nighttime sleep (p=.076) and fewer awakenings after sleep onset (p=.092) in the blue light compared to red light group. Although change in TMT and nocturnal sleep parameters did not reach statistical significance, effect sizes favored blue-light exposure, ranging from .38–.57.
+ 
+ 
+ 
+ Morning blue light exposure for 5 or more days led to greater improvements in daytime sleepiness, fatigue, and cognitive outcomes than red light exposure after acute stroke. Effect sizes suggest a larger study is warranted to confirm generalizability of pilot findings.
+ 
+ 
+ 
+ Empire Health Foundation
+DESCRIPTION: Morning exposure to natural light positively influences sleep quality, mood, and circadian rhythm. Regular exposure to bright light during the first hours of the day helps individuals fall asleep faster, reduces the risk of depression, and improves overall well-being. Effects are confirmed in children, adults, the elderly, and clinical populations.
+
+CONTENT SECTIONS:
+
+Morning exposure to natural light
+
+Improving Sleep Quality and Mental Health Through Morning Light Exposure
+
+Morning exposure to natural light positively influences sleep quality, mood, and circadian rhythm. Regular exposure to bright light during the first hours of the day helps individuals fall asleep faster, reduces the risk of depression, and improves overall well-being. Effects are confirmed in children, adults, the elderly, and clinical populations.
+
+Level of evidence:Strong
+
+Level of risk:Negligible
+
+Natural morning light synchronizes the internal biological clock (circadian rhythm), influencing the production of melatonin and cortisol, which facilitates falling asleep, improves sleep quality and mood. Morning light acts as a time cue for the body, supporting a regular sleep-wake cycle. It also affects energy levels, alertness, and mental performance throughout the day.
+
+Level of risk:Negligible
+
+Morning exposure to natural light is generally very well tolerated by most individuals. No serious side effects have been reported in healthy people. Some individuals may experience very mild, transient effects.
+
+This intervention is not recommended for individuals with certain medical conditions or extreme sensitivity to light. In such cases, the decision to use it should be made on an individual basis.
+
+Recommended exposure: at least 20–40 minutes of daylight (preferably outdoors) within the first 1–2 hours after waking up.
+
+Natural daylight; alternatively, bright artificial light (light therapy lamp > 2500 lux).
+
+Improvements in sleep and mood often visible after just a few days of regular exposure.
+
+Best in the morning, as early as possible after waking up, for at least 20–40 minutes.
+
+With outdoor physical activity and sleep hygiene for synergistic effects.
+
+What Not to Combine With
+
+With intense exposure to bright light in the evening (may impair sleep).
+
+A daily walk outdoors for 20–40 minutes after waking up is the simplest way to ensure an adequate light dose.
+
+Exposure Through a Window
+
+When you can’t go outside, stay near a large window or in a bright room during the first hour of the day.
+
+Avoiding Light in the Evening
+
+Limit exposure to bright light (especially screens) in the evening to avoid disturbing sleep rhythms.
+
+Using a Light Therapy Lamp
+
+During autumn and winter or with limited access to daylight, use a light therapy lamp (minimum 2500–10000 lux), directing the light toward the eyes in the morning for about 20–30 minutes.
+
+Consistent Exposure Time
+
+Try to maintain a consistent light exposure routine at the same time each day—your body will adapt more quickly.
+
+Use skin protection (e.g., sunscreen) in strong sunlight, especially if exposure exceeds 30–40 minutes.
+
+Combine with Morning Activity
+
+Combine light exposure with light morning activity, such as exercise, to enhance effects on mood and circadian rhythm.
+
+Morning exposure to natural light clearly supports sleep quality, facilitates falling asleep, and helps maintain a healthy circadian rhythm. These effects are confirmed across various age groups and populations.
+
+Key Effects of Morning Light Exposure
+
+Morning exposure to natural light clearly supports mental health. Regular morning contact with natural light improves mood, reduces symptoms of depression and anxiety, and supports healthy circadian rhythm and sleep quality.
+
+Key Benefits of Morning Natural Light Exposure
+
+Limitations and Recommendations
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:38
+
+Final comment:The effectiveness of morning exposure to natural light in improving sleep quality, regulating circadian rhythms, and supporting mental health is confirmed by numerous randomized controlled trials, experimental studies, and systematic reviews across various populations. Scientific evidence demonstrates consistency of effects—both in healthy individuals and special populations such as the elderly, athletes, children, and people with mood disorders. The mechanisms of action are well understood and include synchronization of the biological clock and regulation of neurotransmitters, including melatonin and cortisol. This intervention is widely recommended by medical and scientific organizations as an effective and safe method of supporting sleep health and psychological well-being.
+
+The impact of daytime light exposures on sleep and mood in office workers
+
+Number of 
+
+Key takeaways:High levels of circadian-effective light in office workers' personal spaces improve sleep quality, reduce depression, and improve mood.
+
+The bright and dark side of blue-enriched light on sleep and activity in older adults.
+
+Number of 
+
+Key takeaways:Morning blue-enriched light improves rest-activity rhythm stability and decreases sleep fragmentation in older adults, while evening light exposure increases sleep latency and lowers sleep efficiency.
+
+Abstract:Low indoor light in urban housing can disrupt health and wellbeing, especially in older adults who experience reduced light sensitivity and sleep/circadian disruptions with natural aging. While controlled studies suggest that enhancing indoor lighting may alleviate the negative effects of reduced light sensitivity, evidence for this to be effective in the real world is lacking. This study investigates the effects of two light conditions on actigraphic rest-activity rhythms and subjective sleep in healthy older adults (≥ 60 years) living at home. Two photon-matched lights were compared; a control white light (4000 K) and a blue-enriched white light (17000 K) at two different intensities (300-450 lx and 1100-1200 lx respectively). Participants (n = 36, 25 female) completed an 11-week randomized, cross-over study, comprising 1 week of baseline, 3 weeks of self-administered light exposure (2 h in the morning and 2 h in the evening), and 2 weeks of washout for each light condition. Participants completed sleep diaries, wore a wrist actigraph and a light sensor necklace, and collected urine to measure 6-sulphatoxymelatonin. Longer duration of morning blue-enriched light significantly improved rest-activity rhythm stability and decreased sleep fragmentation. More time spent above 2500 lx increased actigraphy amplitude, daytime activity, and advanced bedtime. Evening light exposure, however, increased sleep latency and lowered sleep efficiency. Our findings show morning blue-enriched light is beneficial whereas evening light should be avoided. Optimal timing of self-administered light interventions thus may offer a promising strategy to improve sleep and rest-activity rhythms in older adults in real-world settings.
+
+Higher Levels of Morning and Daytime Light Exposure Associated with Positive Sleep Indices in Professional Team Sport Athletes
+
+Number of 
+
+Key takeaways:Higher morning and daytime light exposure is associated with improved sleep quality and longer sleep duration in professional team sport athletes.
+
+Abstract:Objective Light exposure techniques have been recommended to combat sleep issues caused by disruption to circadian regularity in the athletic population, although studies are lacking. Methods A total of 17 professional male Australian Football athletes (age ± SD: 22 ± 3 years) wore a wrist actigraph to measure sleep parameters, and a wearable light sensor to measure melanopic equivalent daylight illuminance (mEDI, in lux) for 14 days. Participants completed three sleep questionnaires at the end of the data collection period and completed well-being surveys 6 times. The Sleep Regularity Index (SRI) for each player was also calculated from actigraphy data. Light exposure data were organised into three different timeframes: morning (wake time + 2 hours), daytime (end of morning to 6 pm), and evening (2 hours leading up to bedtime) for analysis. Repeated measures correlation was conducted for objective sleep measures and mEDI values per timeframe. Pearson’s correlation was conducted on subjective sleep measures and well-being measures against mEDI values per timeframe. Results Higher morning light was associated with significantly (p < 0.001) greater total sleep time (r = 0.31). Higher daytime light exposure was associated with higher subjective sleep quality (r = 0.48, p < 0.05). Higher evening light exposure was associated with higher Athlete Sleep Screening Questionnaire (ASSQ) global scores (r = 0.52, p < 0.05). There were no other significant correlations between light exposure and sleep or well-being measures (p > 0.05). Conclusion Higher morning and daylight exposure levels were associated with various positive objective and subjective sleep measures in professional team sport athletes, supporting the need for education on optimising light exposure to improve circadian function, sleep, and health.
+
+Shine light on sleep: Morning bright light improves nocturnal sleep and next morning alertness among college students
+
+Number of 
+
+Key takeaways:Morning bright light exposure improves sleep efficiency, reduces fragmentation, and decreases morning sleepiness for college students working in office environments.
+
+Abstract:The relationship between daytime light, especially morning light and sleep, has not been well documented. People who work in an office spend most of their time indoors and thus have less access to high‐level daylight. The current study employed a field intervention approach to investigate whether exposure to 1.5 h of bright electric light in the early morning for 1 workweek would benefit sleep among students who spent most of their time in an office at the university. Twelve students (24.92 ± 1.78 years) underwent a 2 workday baseline measurement and two inconsecutive 5 workday interventions (with 1 week washout) with morning bright light and regular office light (1000 lx, 6500 K vs. 300 lx, 4000 K, at eye level). The sleep outcomes were recorded with actigraphy and a sleep diary. In addition, self‐ratings of daytime sleepiness, mood, mental fatigue, perceived effort, and next morning sleepiness were measured each workday. The results showed that exposure to morning bright light versus regular office light yielded a higher sleep efficiency (83.82% ± 1.60 vs. 80.35% ± 1.57, p = 0.02), a smaller fragmentation index (15.26% ± 1.31 vs. 17.18% ± 1.28, p = 0.05), and a shorter time in bed (7.12 ± 0.13 vs. 7.51 ± 0.12, p = 0.03). Meanwhile, an earlier sleep onset time, shorter sleep latency, and lower morning sleepiness were observed after a 5 workday morning bright light intervention compared with the baseline (ps <0.05), no such benefit was found for self‐ratings (ps >0.05). These findings support existing evidence that morning bright light could function as an enhancer of sleep and alertness for office occupants.
+
+A systematic review of the amount and timing of light in association with objective and subjective sleep outcomes in community‐dwelling adults
+
+Number of 
+
+Key takeaways:Bright light exposure (>1000 lux) in the morning improves sleep outcomes, while bright evening light exposure worsens self-reported sleep in community-dwelling adults.
+
+Does sunlight exposure predict next-night sleep? A daily diary study among U.S. adults
+
+Number of 
+
+Key takeaways:Morning sunlight exposure predicts better next-night sleep quality, potentially due to regulating circadian rhythms and influencing melatonin production.
+
+Abstract:Poor sleep is becoming increasingly prevalent and is associated with adverse health outcomes. Sunlight exposure may improve sleep by regulating circadian rhythms, increasing vitamin D, and influencing melatonin production. However, research on the sunlight-sleep association is limited, especially outside of cross-sectional designs. This study examined associations between daily self-reported sunlight exposure and next-night sleep quality in 103 adults for up to 70 days. The timing of sunlight exposure predicted next-night sleep quality. Specifically, morning sunlight exposure, relative to no sunlight, predicted better sleep quality based on responses to the brief Pittsburg Sleep Quality Index. Duration of sunlight exposure was generally not associated with sleep quality. Morning sunlight may regulate circadian rhythms, subsequently improving sleep. Findings have potential implications for sleep interventions and daylight savings time policies. Future research should test whether morning sunlight exposure can enhance the effectiveness of sleep interventions.
+
+The optimization effects of daytime light exposure on sleep and its mechanisms
+
+Number of 
+
+Key takeaways:Higher daytime light exposure positively predicts nighttime sleep quality, with factors like light level, spectrum, timing, and pattern influencing the effect.
+
+Abstract:: As a dominant Zeitgeber, ambient light can regulate sleep-wake patterns in humans. Exposure to higher light levels or more light exposure during the daytime, especially during the morning, positively predict nighttime sleep quality, but this effect is mediated by the light parameters (e.g., light level or spectrum), timing factors (e.g., time of day and duration), and light pattern. On the one hand, light can indirectly influence the sleep-wake cycle by regulating individuals’ circadian rhythms through the suprachiasmatic nucleus (SCN). On the other hand, light can directly affect sleep through the projection of melanopsin expressed by intrinsically photosensitive retinal ganglion cells (ipRGCs) to sleep- and wakefulness-related brain regions. However, there is still no clear consensus on whether light can affect sleep via regulation of sleep homeostatic process, which was another process driven the sleep-wake cycle. Future research should pay more attention on how to create “Human centric lighting” for those who work in the absence of daylight or need personal light to support their mental and physical requirement.
+
+EFFECTS OF OUTDOOR NATURAL LIGHT EXPOSURE ON SLEEP QUALITY IN THE ELDERLY
+
+Number of 
+
+Key takeaways:Exposure to natural light outdoors for 40 minutes in the morning improves sleep quality in elderly residents.
+
+Abstract:Materials and Method: In order to contribute to our current understanding of the subject, a study was conducted in a long-term care facility in Istanbul, Turkey. Participating elderly residents (N = 39) were exposed to natural light outdoors (> 10,000 lx) for 40 minutes in the morning on 17–21 June and 1–5 July 2019, and they were asked to report on their sleep quality by completing various questionnaires throughout the study.
+
+1003 Daily Morning Blue Light Exposure for Alertness and Sleep Following Stroke
+
+Number of 
+
+Key takeaways:Morning blue light exposure for 5 or more days led to greater improvements in daytime sleepiness, fatigue, and cognitive outcomes than red light exposure after acute stroke.
+
+Abstract:In the acute phase following a stroke, circadian rhythmicity is often disrupted, which undermines sleep, produces fatigue, and impedes recovery. Studies have reported post-stroke sleep architecture abnormalities, as well as acute sleep disorders which can range between extremes of clinically significant insomnia to hypersomnia, with sleep complaints sometimes persisting for months or years. Morning blue light exposure as an early, non-pharmacologic intervention targeted for strengthening circadian rhythmicity could provide acute relief and prevent disordered sleep from becoming chronic following stroke.
+ 
+ 
+ 
+ A randomized, single-blind, parallel group, placebo-controlled pilot study compared daily morning exposure to blue light or red light (placebo) for improving daytime sleepiness, fatigue, nocturnal sleep, and cognition in patients receiving inpatient rehabilitation for acute stroke. N=43 patients with disordered sleep secondary to first episode stroke (n=34 ischemic, n=9 hemorrhagic; ages 66.2±14.1y) were randomized to receive 25min of morning blue or red light for 5 or more days depending on inpatient rehabilitation length of stay (blue n=21, red n=22). At baseline and study discharge, daytime sleepiness was measured with the Karolinska Sleepiness Scale and Wits Pictorial Sleepiness Scale, fatigue with a visual analogue scale, and cognitive function with the Rey Auditory Verbal Learning Test and Trail Making Test (TMT). Actigraphy measured sleep continuously throughout participation with nighttime sleep defined as 21:00–05:59. Effect sizes per outcome were used to estimate sample sizes for larger follow-up studies.
+ 
+ 
+ 
+ Participants with blue light exposure experienced significant improvements in daytime sleepiness, fatigue, and auditory verbal learning (all p<.05) relative to red light exposure. There was a trend toward a greater mean duration of nighttime sleep (p=.076) and fewer awakenings after sleep onset (p=.092) in the blue light compared to red light group. Although change in TMT and nocturnal sleep parameters did not reach statistical significance, effect sizes favored blue-light exposure, ranging from .38–.57.
+ 
+ 
+ 
+ Morning blue light exposure for 5 or more days led to greater improvements in daytime sleepiness, fatigue, and cognitive outcomes than red light exposure after acute stroke. Effect sizes suggest a larger study is warranted to confirm generalizability of pilot findings.
+ 
+ 
+ 
+ Empire Health Foundation
+
+Time spent in outdoor light is associated with mood, sleep, and circadian rhythm-related outcomes: A cross-sectional and longitudinal study in over 400,000 UK Biobank participants.
+
+Number of 
+
+Key takeaways:Low daytime light exposure is an environmental risk factor for mood, sleep, and circadian-related outcomes.
+
+Effect of the Combined Use of Morning Blue-Enriched Lighting and Night Blue-Suppressed Lighting (MENS) on Sleep Quality
+
+Number of 
+
+Key takeaways:The combined use of morning blue-enriched and night blue-suppressed lighting (MENS) significantly improves sleep quality, with 480-nm blue light effectively reducing sleep latency.
+
+Abstract:Objectives: Previous studies have shown that exposure to blue-enriched light in the morning or blue-suppressed light in the evening may positively affect sleep. In this study, we aimed to investigate the effect of combination of morning blue-enriched and night blue-suppressed lighting (MENS) on sleep quality. Methods: Thirty workers were recruited. After one-week baseline evaluation, the participants were randomly assigned to either an experimental or a control group. Both were exposed to light in the morning and evening for two weeks. The experimental group used a lighting device emitting 480-nm wavelength maximized light in the morning and minimized light in the evening, while the control group used 450-nm wavelength light in the same way. The final evaluation was conducted using questionnaires and sleep diaries. Results: Both groups showed statistically significant improvements in seven out of nine sleep quality measures (p<0.05). The experimental group showed improvement in sleep latency and sleep fragmentation compared to that in the control group (p=0.017). The control group showed improvement in wake after sleep onset. The ratio of participants who showed improvement and transitioned from abnormal to normal values was significantly higher in the experimental group for sleep latency (p=0.046) and in the control group for fatigue (p=0.012). Conclusions: The findings suggest that the use of MENS significantly improves sleep quality. Although the difference in the improvement effect between different wavelengths of blue light was not substantial, the use of 480-nm blue light appears to be effective in reducing sleep latency.
+
+Associations of light exposure patterns with sleep among Dutch children: The ABCD cohort study
+
+Number of 
+
+Key takeaways:Children can influence their sleep quality by influencing their light exposure patterns during day and night.
+
+Abstract:Light exposure affects the circadian system and consequently can affect sleep quality. Only few studies examined this relationship in children. We evaluated associations between light exposure patterns and sleep metrics in children. We measured the sleep parameters of 247 Dutch children, aged between 11 and 13 years and recruited from the ABCD cohort, using actigraphy and sleep records for 7 consecutive nights. Personal light exposures were measured with a light meter during the whole day and night. We applied generalized mixed‐effects regression models, adjusted for possible confounders, to evaluate the associations of light exposure patterns on sleep duration, sleep efficiency and sleep‐onset delay. In the models mutually adjusted for potential confounders, we found the amount of hours between the first time of bright light in the morning and going to sleep and the duration of bright light to be significantly associated with decreased sleep duration (in min; β: −2.02 , β: −8.39 , respectively) and with shorter sleep‐onset delay (odds ratio: 0.88 , odds ratio: 0.40 , respectively). Increased light intensities at night were associated with decreased sleep duration (T2 β: −8.54 , T3 β: −14.83 ), while increased light intensities before going to bed were associated with prolonged sleep onset (odds ratio: 4.02 ). These findings further suggest that children may be able to influence their sleep quality by influencing the light exposure patterns during day and night.
+
+Effect of daily light exposure on sleep in polar regions: A meta‐analysis
+
+Number of 
+
+Key takeaways:Summer light negatively affects sleep in polar populations, while moderate natural light may be better than conventional light for delayed sleep.
+
+Abstract:Although studies have shown that light affects sleep in polar populations, the sample size of most studies is small. This meta‐analysis provides the first systematic review of the effects of summer glare, spring and fall moderate daylight, and artificial lighting on general sleep problems (sleep duration, efficiency, and delay). This analysis included 18 studies involving 986 participants. We calculated the random effect size via an evidence‐based meta‐analysis that analysed the effect of bright/auxiliary light on sleep and the effect of three different types of light on sleep compared with conventional light. There was no significant correlation between specific light types and sleep duration. Intense summer light has a negative effect on sleep time and efficiency. Moderate, natural light in spring and autumn effectively delayed sleep but could not improve sleep efficiency. For artificial fill light, neither blue light nor enhanced white light has been found to have a significant effect. In summary, summer light has a detrimental effect on sleep in polar populations, and moderate natural light may be superior to conventional light. However, specific strategies to improve sleep and artificial lighting in polar populations must be explored further.
+
+Long‐term cumulative light exposure from the natural environment and sleep: A cohort study
+
+Number of 
+
+Key takeaways:Long-term cumulative light exposure from natural sources is associated with shorter sleep duration, more sleep problems, and a preference for eveningness, while a slowly increasing exposure pattern is associated with fewer sleep problems.
+
+Abstract:We analysed (A) the association of short‐term as well as long‐term cumulative exposure to natural light, and (B) the association of detailed temporal patterns of natural light exposure history with three indicators of sleep: sleep duration, sleep problems, and diurnal preference. Data (N = 1,962; 55% women; mean age 41.4 years) were from the prospective Young Finns Study, which we linked to daily meteorological data on each participant’s neighbourhood natural light exposure using residential postal codes. Sleep outcomes were self‐reported in 2011. We first examined associations of the sleep outcomes with cumulative light exposure of 5‐year, 2‐year, 1‐year, and 2‐month periods prior to the sleep assessment using linear and Poisson regression models adjusting for potential confounders. We then used a data‐driven time series approach to detect clusters of participants with different light exposure histories and assessed the associations of these clusters with the sleep outcomes using linear and Poisson regression analyses. A greater cumulative light exposure over ≥1 year was associated with a shorter sleep duration (β = −0.10, 95% confidence interval −0.15 to −0.04), more sleep problems (incident rate ratio 1.04, 95% CI 1.0–1.07) and diurnal preference towards eveningness (β = −0.09, 95% CI −0.14 to −0.03). The data‐driven exposure pattern of “slowly increasing” light exposure was associated with fewer overall sleep problems (IRR 0.93, 95% CI 0.88–0.98) compared to a “recently declining” light exposure group representing the “average‐exposure” group. These findings suggest that living in an area with relatively more intense light exposure for a longer period of time influences sleep.
+
+Associations between real‐life light exposure patterns and sleep behaviour in adolescents
+
+Number of 
+
+Key takeaways:Less light exposure during the day is associated with later sleep onset and shorter sleep duration in adolescents, even when controlling for chronotype.
+
+Abstract:One of the most striking changes in the regulation of sleep–wake behaviour during adolescence is circadian phase delay. Light exposure synchronises circadian rhythms, impacting sleep regulation, however, the influence of real‐life light exposure on sleep variations remains less clear. We aimed to describe the sleep and light exposure patterns of high school students with comparable schedules and socio‐economic backgrounds, and to evaluate whether there was any association between them, considering chronotype. We analysed five school days and two free days of actigraphy records, from 35 adolescents (24 female, mean age: 16.23 ± 0.60). The sample was described using the Sleep Regularity Index (SRI), chronotype (actigraphy MSFsc), and self‐reported diurnal preference (Morning/Evening Scale). Regression models were constructed to assess the impact of light exposure (daytime and nighttime) on subsequent sleep episodes; and to confirm whether the associations could be an indirect consequence of chronotype. Despite following similar routines, the SRI varied considerably (48.25 to 88.28). There was compatibility between the actigraphy proxy for chronotype and the self‐reported diurnal preference, extracted using the circadian rhythm scale for adolescents. Less light exposure during the day was associated with later sleep onset and shorter sleep duration. An increase of 100 lux in average daytime light exposure advance of 8.08 minutes in sleep onset and 7.16 min in sleep offset. When the regressions were controlled for chronotype, these associations persisted. These findings facilitate discussions regarding the behavioural aspect of the impact of real‐life light exposure on sleep and its potential as a target for interventions aiming to enhance adolescents’ sleep quality.
+
+Effects of pre-bedtime blue-light exposure on ratio of deep sleep in healthy young men.
+
+Number of 
+
+Key takeaways:Pre-bedtime blue-light exposure significantly reduces the ratio of deep sleep in healthy young men, negatively affecting sleep quality.
+
+The effects of different bedroom light environments in the evening on adolescents
+
+Number of 
+
+Key takeaways:Exposure to low CCT light before bedtime improves sleep quality, reduces next-morning sleepiness, and slightly decreases fatigue in adolescents compared to high CCT light.
+
+0928 The Self-Reported Practice of Light Exposure Recommendations in the Morning, Daytime, Evening, and Nighttime
+
+Number of 
+
+Key takeaways:Self-reported practice of light recommendations is poor for both morning and evening light exposure, suggesting the need for sleep and circadian health campaigns to emphasize the importance of bright light in the morning and dimmed light before bedtime.
+
+Abstract:While it is well known that ocular light strongly entrains the central circadian clock, there has been a lack of evidence-based recommendations for daytime, evening, and nighttime light exposure for healthy adults. Recently, an expert consensus report with recommendations for light exposure has been published. Although the general population is likely not yet acquainted with these recommendations, we examined the self-reported practice of daily and nightly light exposure based on these published guidelines.
+ 
+ 
+ 
+ Online survey data were collected from 168 participants through convenience sampling (age range: 25-80, mean age: 58.9 + 12.6 years, 55% female). The practice of expert, consensus-based light recommendations was assessed with 4 items on an 8-point frequency scale ranging from “Never” to “Every day of the week”. The scale covered 1) indoor daytime light recommendations, 2) indoor evening light recommendations, 3) nighttime light recommendations for the sleep environment, and 4) an additional morning-specific question.
+ 
+ 
+ 
+ Within the first hour after waking up, the majority of respondents (53%) reported never receiving exposure to at least 15 minutes of sunlight or simulated bright light, with only 16% reporting exposure every day of the week. Throughout the daytime, 54% of respondents reported receiving consistent natural indoor light or sunlight every day of the week, and 8% reported never receiving any. During the evening, 47% of respondents reported never dimming lights and avoiding bright light starting at least 3 hours before bedtime. However, 24% reported avoiding bright light sources before bedtime every day of the week. While sleeping, nearly 80% of respondents reported keeping their bedroom as dark as possible, no brighter than natural moonlight, every day of the week, with only 10% reporting never doing so.
+ 
+ 
+ 
+ Self-reported practice of recently published light recommendations was poor for both morning and evening light exposure. These findings suggest that sleep and circadian health campaigns should focus on the importance of bright light in the morning upon awakening, and of dimmed light in the late evening before bedtime.
+ 
+ 
+ 
+ SleepScore Labs
+
+Evening ambient light exposure can reduce circadian phase advances to morning light independent of sleep deprivation
+
+Number of 
+
+Key takeaways:Exposure to additional evening ambient light, often associated with short sleep episodes, can significantly reduce circadian phase advances to morning light, potentially increasing the risk for circadian misalignment.
+
+Abstract:Short sleep/dark durations are common in modern society. We investigated if exposure to additional evening ambient light, often associated with later bedtimes and short sleep, reduces circadian phase advances to morning bright light. Twelve healthy subjects participated in two conditions that differed in the distribution of sleep before exposure to morning bright light. Subjects had a consolidated 9‐h night time sleep opportunity, or a 3‐h daytime nap followed by a 6‐h night time sleep opportunity, each before morning bright light. Eight of the 12 subjects obtained similar amounts of sleep in both conditions, and yet still showed significant reductions in phase advances with 6‐h nights (1.7 versus 0.7 h, P < 0.05). These results suggest that the exposure to additional evening ambient light often associated with short sleep episodes can significantly reduce phase advances to morning light, and may therefore increase the risk for circadian misalignment.
+
+Light exposure during sleep impairs cardiometabolic function
+
+Number of 
+
+Key takeaways:Moderate light exposure during sleep increases nighttime heart rate, decreases heart rate variability, and increases next-morning insulin resistance in healthy adults.
+
+Abstract:Significance Ambient nighttime light exposure is implicated as a risk factor for adverse health outcomes, including cardiometabolic disease. However, the effects of nighttime light exposure during sleep on cardiometabolic outcomes and the related mechanisms are unclear. This laboratory study shows that, in healthy adults, one night of moderate (100 lx) light exposure during sleep increases nighttime heart rate, decreases heart rate variability (higher sympathovagal balance), and increases next-morning insulin resistance when compared to sleep in a dimly lit (<3 lx) environment. Moreover, a positive relationship between higher sympathovagal balance and insulin levels suggests that sympathetic activation may play a role in the observed light-induced changes in insulin sensitivity.
+
+Intense illumination in the morning hours improved mood and alertness but not mental performance.
+
+Number of 
+
+Key takeaways:Intense early morning illumination improves mood and alertness but negatively affects sustained attention and serum melatonin levels.
+
+The natural context of wellbeing: Ecological momentary assessment of the influence of nature and daylight on affect and stress for individuals with depression levels varying from none to clinical
+
+Number of 
+
+Key takeaways:Nature and daylight exposure positively influence affect and stress levels, with stronger effects for those in higher need of restoration.
+
+462 Depression Moderates Independent Effects of Daily Natural Light Exposure and Activity on Daily Mood
+
+Number of 
+
+Key takeaways:Daily natural light exposure and activity independently increase positive mood, especially for individuals with high anhedonia symptoms.
+
+Abstract:OBJECTIVES/GOALS: Ambulatory methods are useful tools to study physical and mental health in everyday life. While many studies show daily activity improves mood, the effects of daily light exposure on mood remain unknown. This study evaluated the effects of daily natural light exposure and activity on daily mood and evaluate whether depression moderate effects. METHODS/STUDY POPULATION: 82 adults with lifetime major depression disorder (25 current) and 49 healthy controls were recruited from the greater Chicago community (N = 131, 62% female, age M = 30.15, SD = 9.94). At baseline, participants completed the Inventory of Depression and Anxiety Symptoms to measure depression symptoms of anhedonia, or loss of pleasure. Positive and negative affect were then measured 3x daily for 14-days via self-report using smartphones while light exposure and activity were continuously recorded from a wrist-worn actigraphy device. Following prior studies, daily natural light exposure was measured as the total number of white light samples greater than 1000 lux each day. Multilevel models were used to separate within-person (daily level) from between-person (subject level) effects. RESULTS/ANTICIPATED RESULTS: Results revealed daily within-person activity (p < .001) and natural light exposure duration (p = .035) were independently associated with increased positive affect. Effects were significantly moderated by baseline anhedonia symptoms (3-way interaction: p = .004). Natural light exposure duration only increased positive affect on lower activity days for high anhedonia and higher activity days for low anhedonia (ps < .018). Significant results remained controlling for between-person light and activity, time of year, age, sex, negative affect, and baseline general depression symptoms. Compared to one’s own daily averages, daily activity and natural light exposure may be independent pathways to boost positive affect, especially for individuals with high anhedonia symptoms. DISCUSSION/SIGNIFICANCE: Results suggest daily natural light exposure may be an accessible, low-cost alternative to independently increase positive affect in depression on days when activity is low. Translational applications are discussed focusing on transdiagnostic implications for physical and mental health conditions that disrupt mood and limit activity.
+
+Natural Light in Interior Architecture: Enhancing Mental Health
+
+Number of 
+
+Key takeaways:Natural light in interior architecture significantly enhances mood, reduces stress, and improves cognitive performance, with strategies like large windows, skylights, atriums, and reflective surfaces maximizing daylight exposure.
+
+Abstract:This study aims to explore the influence of natural light in interior architecture on mental health, highlighting architectural strategies that optimize daylight exposure to enhance psychological well-being. A scientific narrative review method was employed, analyzing scholarly articles published between 2015 and 2025 from databases such as Scopus, Web of Science, and ScienceDirect. The selection criteria focused on studies related to natural light in architectural design and its psychological effects, using thematic analysis to synthesize key findings on the relationship between daylight exposure and mental health. The review reveals that natural light significantly enhances mood, reduces stress, and improves cognitive performance by regulating circadian rhythms and promoting visual comfort. Architectural strategies such as large windows, skylights, atriums, and reflective surfaces are effective in maximizing daylight exposure. The findings highlight that natural light contributes to mental well-being in various settings, including workplaces, educational institutions, healthcare facilities, and residential spaces, underscoring its importance in human-centric architectural design. Integrating natural light into architectural design is essential for creating environments that support mental health. Thoughtful spatial design that prioritizes daylight exposure enhances well-being, cognitive function, and emotional resilience, making it a critical consideration in contemporary architecture.
+
+Circadian rhythm disruption and mental health
+
+Number of 
+
+Key takeaways:Disrupted circadian rhythms, caused by factors like night shifts and jet lag, are strongly associated with mood disorders, and improving these rhythms may enhance mental health.
+
+Awakening effects of blue-enriched morning light exposure on university students’ physiological and subjective responses
+
+Number of 
+
+Key takeaways:Blue-enriched LED light exposure in mornings improves alertness, mood, and visual comfort in university students, potentially counteracting morning drowsiness and dozing off in class.
+
+The effect of the colour temperature of morning light exposure on wellbeing
+
+Number of 
+
+Key takeaways:8500k morning light exposure positively affects mood and alertness, but does not provide as high a physical comfort as 5000k and 18000k lighting conditions.
+
+Abstract:This study investigates whether changing the colour temperature of indoor lighting can help improve the health of healthy adults’ emotions in life. Some studies have confirmed the effects of night-time lighting on alertness and sleepiness, but the jury is still out on what parameter range of light is used in the morning to have a lasting effect on mood changes. This study (N=16) investigated the effect of correlated colour temperature (CCT: 2500k, 5000k, 8500k, 18000k, 500lx) on individuals exposed to specific light sources for one hour in the morning. The scores are based on two levels psychological experience and physical performance. PANAS was used to perform mood scores as a psychological level of monitoring. The study found that except for the positive change of emotional PA-P under the condition of 8500k light in the morning, the results of other light parameters showed no noticeable activation effect. It can be seen from the score of PANAS-P that with the increase in colour temperature, PANAS-P has a positive effect. However, it will not improve because of the continuous increase in colour temperature. It will reach a relative peak at around 8500k, but because there is no more detailed classification of lighting parameters, it is impossible to get a precise change interval. Furthermore, a correlation between tympanic temperature and alertness was also found. 2500k light can make people feel sleepy, but there is a slight increase in tympanic temperature. This contradicts the claim that body temperature decreases during sleep. The guess might be that the body is not completely dormant, so the visually warm low colour temperature may affect the body. The data results for both PA-P and PAN were less positive for participants at 2500k. In addition, at the level of physical changes, although the 8500k lighting parameters have a relatively positive impact on mood, the changes in tympanic temperature are not as stable as those under the other three sets of lighting parameters. A strong correlation was also found between tympanic temperature and KSS score under the four different light parameters, confirming that core body temperature and sleepiness level interacted with each other. Therefore, it is questionable whether universal lighting solutions are suitable for the use of lower CCT in daily life. temperature. The objective results show that the 8500k lighting parameter surprisingly positively affects mood and alertness. However, the physical comfort under this lighting parameter is not as high as the 5000k lighting condition and the 18000k lighting condition, as can be seen from the values for mood and alertness; these factors were not continuously optimised as the lighting parameters continued to increase. In the current data, 8500k has the most positive impact on the human body's comprehensive factors, but the threshold range has not been determined.
+
+Why We Need More Nature at Work: Effects of Natural Elements and Sunlight on Employee Mental Health and Work Attitudes
+
+Number of 
+
+Key takeaways:More natural elements and sunlight exposure at work positively impacts job satisfaction and organizational commitment, while reducing depressed mood and anxiety.
+
+Abstract:This study investigated the effects of natural elements and direct and indirect sunlight exposure on employee mental health and work attitudes. We recruited participants via an online panel from the United States and India, and analyzed data from 444 employees. Natural elements and sunlight exposure related positively to job satisfaction and organizational commitment, and negatively to depressed mood and anxiety. Direct sunlight was a dominant predictor of anxiety; indirect sunlight was a dominant predictor of depressed mood, job satisfaction, and organizational commitment. Natural elements buffered the relationship between role stressors and job satisfaction, depressed mood, and anxiety. We also found that depressed mood partially mediated the relationship between natural elements and job satisfaction. We discuss scientific and policy implications of these findings.
+
+Effects of Illuminance and Correlated Color Temperature on Daytime Cognitive Performance, Subjective Mood, and Alertness in Healthy Adults
+
+Number of 
+
+Key takeaways:Bright light exposure reduces sleepiness and boosts mood, while low "cool" lighting causes the least positive mood and slows responses in cognitive tasks.
+
+Abstract:This study investigated the impact of indoor illuminance and correlated color temperature (CCT) on healthy adults’ cognitive performance, subjective mood, and alertness during daytime office hours and differences in time-of-day effects. A 2(illuminance) × 2(CCT) × 2(morning vs. afternoon) mixed design (N = 60) was employed. Participants felt less sleepy in the bright light exposure. The low “cool” lighting induced the least positive mood. The effects of illuminance and CCT on subjective feelings were not time-of-day dependent. The results demonstrated the slowest responses in inhibition, working memory, and recognition of facial expression tasks in the low “warm” lighting. The effect on long-term memory was most pronounced under the high “cool” light exposure, but only in the afternoon for recognition of neutral words. The findings suggest that future research on good indoor lighting should consider illuminance levels and CCT as well as other variables to optimize lighting effects during regular daytime hours.
+
+Influence of External Natural Environment Including Sunshine Exposure on Public Mental Health: A Systematic Review
+
+Number of 
+
+Key takeaways:Exposure to sunlight, spending time in green spaces, and moderate physical activity positively impact people's mental health, including depression, anxiety, and stress states.
+
+Abstract:The COVID-19 pandemic has been raging around the world and public health measures such as lockdowns have forced people to go out less often, reducing sunlight exposure time, green space use, and physical activity. It is well known that exercise has a positive impact on mental health, but the impact of external environmental factors such as sunlight exposure and green space use on mental health has not been systematically reviewed. In this review, we categorized the major factors that may affect people’s mental health into (1) external environmental factors such as exposure to sunlight and green spaces, (2) internal life factors such as physical activity and lifestyle, and (3) mixed external and internal factors, and systematically examined the relationship between each factor and people’s mental health. The results showed that exposure to sunlight, spending leisure time in green spaces, and physical activity each had a positive impact on people’s mental health, including depression, anxiety, and stress states. Specifically, moderate physical activity in an external environment with sunlight exposure or green space was found to be an important factor. The study found that exposure to the natural environment through sunbathing and exercise is important for people’s mental health.
+
+Beneficial effects of daytime high-intensity light exposure on daily rhythms, metabolic state and affect
+
+Number of 
+
+Key takeaways:Daily morning exposure to 3000 lux full spectrum electric light improves circadian rhythms, metabolic state, and well-being in sand rats.
+
+“Shedding Light on Light”: A Review on the Effects on Mental Health of Exposure to Optical Radiation
+
+Number of 
+
+Key takeaways:Optical radiation plays a crucial role in human health and well-being, with potential benefits for treating psychiatric conditions like depression and anxiety through light therapy.
+
+Abstract:In relation to human health and functioning, light, or more specifically optical radiation, plays many roles, beyond allowing vision. These may be summarized as: regulation of circadian rhythms; consequences of direct exposure to the skin; and more indirect effects on well-being and functioning, also related to lifestyle and contact with natural and urban environments. Impact on mental health is relevant for any of these specifications and supports a clinical use of this knowledge for the treatment of psychiatric conditions, such as depression or anxiety, somatic symptom disorder, and others, with reference to light therapy in particular. The scope of this narrative review is to provide a summary of recent findings and evidence on the regulating functions of light on human beings’ biology, with a specific focus on mental health, its prevention and care.
+
+The effects of light in children: A systematic review
+
+Number of 
+
+Key takeaways:Increased light exposure during the daytime in children (0-12 years old) is associated with beneficial effects on social-emotional, cognitive, and physical health outcomes.
+
+Number of 
+
+Key takeaways:Curtailing blue light exposure at night and maximizing it in the morning can improve health and well-being by optimizing circadian rhythms and reducing risks for obesity, depression, and other issues.
+
+Abstract:One feature of modern life that may have negative consequences for our health is exposure to light levels that are not aligned with the solar days. This book reviews the scientific literature on the role of appropriately timed light exposure and concludes that it seems prudent to curtail exposure to blue light during the night and maximize exposure to blue light during the morning. Circadian rhythms require short wavelength (blue) light early during the day to optimize their temporal regulation. Experiencing light at night or insufficient light during the day can lead to a host of problems such as obesity, major depression, bipolar depressive disorder, seasonal affective disorder, sleep disorders, common problems with learning and memory, Alzheimer’s disease and other forms of dementia, sundowning syndrome, cancer, heart disease, hypertension, heart attacks, and strokes. Even sustained exposure to the equivalent of a child’s night light can impact everything from how well our brains function every day to how well our bodies recover from injury. Lack of bright light during the day can compromise mood, accelerate cancer growth, and impair cognition. This book introduces the importance of light and circadian rhythms and examines the role of light and body weight; the relationship between appropriately timed light exposure and mood; the role of light on sleep; the interaction among light exposure, cognition, and memory; and the importance of appropriate exposure to light to reduce risk for cancer and cardiovascular disease. Finally, it describes strategies to reduce disruptions to circadian rhythms to improve health and well-being.
+
+How Light Affects Circadian Rhythm and Mood Regulation
+
+Number of 
+
+Key takeaways:Nocturnal light exposure can induce depression-like behaviors and disrupt circadian rhythms, highlighting the importance of considering circadian rhythms in understanding environmental factors on mental health.
+
+Abstract:Light is full of the world and illuminates our lives, and scientists believe that light must play a crucial role in affecting humans either positively or negatively including circadian functions and emotion-related behaviors. Through experiments, researchers have revealed the fact that light can affect humans significantly and the principles behind phenomena of light influencing humans both physically and mentally. This essay focuses on how light works in humans’ circadian rhythm and mood regulation, and how exactly nocturnal light exposure induces depression-like behaviors. Many research results indicate that natural light can help reset circadian rhythm of humans when the normal circadian rhythm is disturbed by trans meridian travel or working during night. Thus, scientific time of light exposure helps to relieve jet-lag symptoms and allows people to have a healthier mental and physical state. Studies by Fernandez D C et al. and An K. et al. are included in this essay to demonstrate the effects of light on mood. Fernandez D C et al. experimentally confirm that PHb (perihabenular nucleus) is necessary in the circuit of light affecting mood through ipRGC which is the only receptor of light input to influence circadian functions of the brain. Subsequently, An K. et al. conducted a series of experiments on mice to investigate the role of a subcortical pathway regulated by circadian rhythms in modulating mood-related behaviors resulted from nighttime light exposure in mice. The findings provide insights into the mechanisms underlying the impact of nocturnal light on mood regulation and highlight the importance of considering circadian rhythms in understanding the effects of environmental factors on mental health. Overall, these studies allow more scientists to think about how to employ light as therapy as well as development of new anti-depressants based on the research of the ipRGC circuit.
+
+Artificial light at night and risk of mental disorders: A systematic review.
+
+Number of 
+
+Key takeaways:Artificial light at night is moderately associated with an increased risk of depressive disorders, but more robust evidence is needed.
+
+The effects of intermittent light during the evening on sleepiness, sleep electroencephalographic spectral power and performance the next morning
+
+Number of 
+
+Key takeaways:Intermittent light exposure during the evening decreases sleepiness and increases vitality, but has minimal impact on mood and cognitive functioning the next morning.
+
+Abstract:Most studies on the effects of light exposure have been conducted with continuous light. The present study investigated the effects of intermittent light exposure on sleepiness, mood, electroencephalographic activity during sleep and performance the next morning. Fifteen volunteers were scheduled to come to the sleep laboratory to experience different lighting conditions: intermittent bright light, continuous bright light and continuous dim light. Subjective sleepiness and mood were assessed during light exposure, with electroencephalographic recording during sleep. After waking the next morning, participants filled out questionnaires and went through two cognitive tasks. The results revealed significantly lower ratings of sleepiness after intermittent light exposure, which is not different from the ratings in the continuous bright light condition, and an increase in vitality during later part of the evening and more beta activity during the first 90 minutes of sleep in the intermittent light condition, in comparison with the continuous dim light condition. However, both intermittent and continuous bright light exposure showed no difference from the continuous dim light condition in subjects' mood and cognitive functioning the next morning. The data indicated intermittent light during evening decreased sleepiness, had only minimal impact on mood in the evening, increased beta electroencephalographic activity during sleep, but had no significant influence on cognitive functioning the next morning.
+
+Association of outdoor artificial light at night with mental health among China adults: a prospective ecology study
+
+Number of 
+
+Key takeaways:Exposure to brighter artificial light at night is associated with worse mental health among Chinese adults, suggesting that environmental policies reducing artificial light could improve mental health.
+
+Abstract:Multiple environmental changes are related to mental disorders. However, research on the association between artificial light at night (ALAN) and mental health in China is limited, particularly at the national level. We used a “difference-in-differences” design and logistic regression to explore the relationship between ALAN changes and scores on self-assessed mental health. Participants were drawn from the China Family Panel Studies of adults in 2012 and 2018. The final analysis was based on 21,036 adults from 25 provinces throughout China. The brighter the ALAN, the worse was the mental health, and this connection was unaffected by particulate matter 2.5 (PM_2.5) or temperature. ALAN sensitivity may differ among populations. Our findings suggest that exposure to brighter ALAN is associated significantly with worse mental health among Chinese adults. Environmental policies that reduce ALAN could improve the mental health of the Chinese public.Graphical abstract
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

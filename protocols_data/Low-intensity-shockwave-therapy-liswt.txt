@@ -1,0 +1,537 @@
+PROTOCOL: Low-intensity shockwave therapy (liswt)
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: In the case of orthopedic conditions, effects may be enhanced when combined with physical rehabilitation; in ED treatment, it can be combined with pharmacotherapy (e.g., PDE5 inhibitors).
+DESCRIPTION: Low-intensity shockwave therapy (LiSWT, ESWT) is a non-invasive method used in the treatment of erectile dysfunction and musculoskeletal disorders. The mechanism of action is based on stimulating regenerative processes, improving blood flow, and relieving pain. The most thoroughly studied efficacy is in the treatment of vascular-related erectile dysfunction and in selected tendinopathies and orthopedic conditions.
+
+CONTENT SECTIONS:
+
+Low-intensity shockwave therapy (liswt)
+
+Improvement of Erectile Function and Musculoskeletal Tissue Regeneration
+
+Low-intensity shockwave therapy (LiSWT, ESWT) is a non-invasive method used in the treatment of erectile dysfunction and musculoskeletal disorders. The mechanism of action is based on stimulating regenerative processes, improving blood flow, and relieving pain. The most thoroughly studied efficacy is in the treatment of vascular-related erectile dysfunction and in selected tendinopathies and orthopedic conditions.
+
+Level of evidence:Good
+
+Shockwaves generate micro-injuries in tissues, which stimulate the body's natural repair mechanisms, including the production of growth factors, angiogenesis, and cell proliferation. In the case of erectile dysfunction, they improve blood flow to the penis and regenerate muscle and vascular tissue. In orthopedic disorders, they lead to reduced inflammation, resorption of calcium deposits, accelerated healing, and improved motor function.
+
+Low-intensity shockwave therapy is well tolerated by most patients. Complications and side effects are rare, and if they occur, they are usually mild and transient.
+
+LiSWT/ESWT therapy is not recommended in certain cases and for selected patient groups where the risk of adverse effects is higher.
+
+Most commonly used protocols involve 3–12 sessions, 1–2 times per week; the number of impulses and energy are individually selected according to clinical indications.
+
+The procedure is performed using a specialized device that generates shockwaves – a contact probe is applied to the skin.
+
+Initial effects are visible after a few weeks; the full therapeutic effect often occurs 1–3 months after completing the series.
+
+There are no specific recommendations regarding the time of day – the procedure is performed on an outpatient basis, at any time.
+
+In the case of orthopedic conditions, effects may be enhanced when combined with physical rehabilitation; in ED treatment, it can be combined with pharmacotherapy (e.g., PDE5 inhibitors).
+
+What not to combine with
+
+It is not recommended to perform the procedure during an acute infection or simultaneously with other invasive procedures in the same area.
+
+Choosing a specialist
+
+The procedure should be performed by a qualified physician or physiotherapist with experience in shockwave therapy.
+
+Preparation for the procedure
+
+No special preparation is required; it is recommended to avoid using topical pain relievers before the procedure.
+
+Evaluation of effects
+
+Improvement may be gradual – it is worth keeping a symptom diary and regularly consulting with a doctor.
+
+Adjusting the protocol
+
+The number of sessions and energy should be individually tailored to the condition and the patient’s tolerance.
+
+It is advisable to continue recommended exercises (e.g., rehabilitation, pelvic floor muscle training) after completing the treatment series.
+
+After the procedure, there are no contraindications to daily activities, but the skin should be monitored and intense massage of the treated area avoided for a few days.
+
+Low-intensity shockwave therapy (LiSWT) is increasingly used as a non-invasive method supporting the treatment of men’s health problems, especially erectile dysfunction.
+
+Efficacy in treating erectile dysfunction
+
+Other uses and mechanisms
+
+Summary of clinical results
+
+Musculoskeletal system
+
+Shockwave therapy (LiSWT, ESWT) is widely used in the treatment of various musculoskeletal disorders, supporting tissue regeneration and reducing pain.
+
+Summary of imaging studies
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:27
+
+Final comment:Most published clinical studies and meta-analyses concern the actual impact of low-intensity shockwave therapy on the musculoskeletal system and male sexual function, mainly in the context of erectile dysfunction and the treatment of tendinopathies and other orthopedic conditions. Systematic reviews and randomized controlled trials indicate a statistically significant, moderate improvement in function compared to placebo, both in the treatment of erectile dysfunction and selected orthopedic conditions. The effects persist for at least 12 months, although they may diminish over a longer period. Existing studies mainly concern adult populations with well-characterized groups and a sufficient number of participants. Treatment effectiveness is highest in the first year after therapy, and most reports also indicate a very favorable safety profile. Regarding other applications, such as chronic pain therapy, sexual dysfunction in women, or lower urinary tract symptoms, data are less numerous and require further research, but the mechanisms of action are consistent with the effects observed in the main indications. The evidence is therefore good, but not numerous enough to be considered strong.
+
+EVALUATION OF THE SYNERGISTIC EFFECTS OF LOW-INTENSITY SHOCKWAVE THERAPY AND PLATELET-RICH PLASMA IN TREATING ERECTILE DYSFUNCTION
+
+Number of 
+
+Key takeaways:Low-intensity shockwave therapy (LiSWT) and platelet-rich plasma (PRP) both significantly improve erectile function in men with erectile dysfunction and are well-tolerated treatments.
+
+Abstract:As treatment options for erectile dysfunction (ED) expand, there is a shift toward therapies that address underlying causes to enhance overall erectile function. Autologous platelet-rich plasma (PRP) and low-intensity shockwave therapy (LiSWT) are promising approaches aimed at restoring function by targeting these root causes. This study evaluates the combined efficacy and safety of PRP and LiSWT in treating ED.
+ 
+ 
+ 
+ In this prospective study, 50 men with ED were randomly assigned to two groups. Group 1 (G1) received six sessions of LiSWT using the Duolith device, 1000 shockwaves to the distal penis, 1000 to the base of the penis and 500 to each crura, 0.25 mJ/mm2, 3 Hz). Group 2 (G2) received the same LiSWT protocol plus PRP injections during the final session. PRP was prepared from 30 mL of venous blood, yielding 2x5mL injections administered into each crura, followed by a 10-minute penile constriction loop application. Outcomes were measured using the 5-item International Index of Erectile Function (IIEF-5) at baseline, 3, and 6 months after treatment, alongside monitoring for side effects.
+ 
+ 
+ 
+ Both groups demonstrated significant increases in mean IIEF-5 scores at 3 and 6 months post-treatment (p < 0.05; p < 0.001). Comparative analysis showed no significant difference between the groups at these follow-ups (p > 0.05). Mild bruising occurred in three cases in G2, while no adverse effects were reported in G1.
+ 
+ 
+ 
+ LiSWT, with or without PRP, significantly improves erectile function in men with ED and is well tolerated. Although the combination therapy with PRP offered no statistical advantage over LiSWT alone in this study, both approaches show promise as effective, safe treatments. Additional research is needed to investigate the long-term benefits of combining these regenerative therapies and to determine optimal protocols for the number and dosage of PRP injections.
+ 
+ 
+ 
+ The authors have no conflicts of interest to declare.
+
+(360) Low-Intensity Shockwave Therapy (LiSWT) Appears to Show Improvement in Erectile Function at 1 Month Compared to SHAM in Men with Erectile Dysfunction
+
+Number of 
+
+Key takeaways:LiSWT shows improvement in SHIM scores at one-month post-treatment for men with erectile dysfunction compared to sham treatment, but no significant differences in EHS change scores were observed between treatment arms.
+
+Abstract:Restorative therapies such as Low-intensity Shockwave Lithotripsy (LiSWT) for erectile dysfunction (ED) have generated substantial interest. Despite growing popularity, a paucity of data exists to confirm efficacy in reversing underlying pathophysiologies of ED.
+ 
+ 
+ 
+ We evaluated the efficacy of the Storz® Duolith™ to determine whether active versus sham treatment is superior for treatment of ED.
+ 
+ 
+ 
+ We performed a two-arm stratified, single-blinded, randomized controlled clinical trial. Inclusion/exclusion criteria are listed in table 1. A total of 31 patients were enrolled, with 15 randomized to the sham group and 16 to the treatment group. Patients underwent LiSWT with the Duolith™ device delivered twice weekly for 3 weeks, comprising 3000 shockwaves at 0.1 mJ/mm2 delivered to the distal penis, base of penis, and crura. Outcomes included absolute change in IIEF/SHIM score and change in EHS score. Changes in SHIM scores were compared between the treatment arms using Student’s t-test, while changes in EHS scores were compared using Wilcoxon rank-sum test.
+ 
+ 
+ 
+ Demographic and baseline clinical characteristics were similar between arms. At one-month post-treatment, SHIM scores improved by 3.4 points in the LiSWT arm while no improvement was seen in the sham arm (-3.4 vs. 0.7, p=0.014). This corresponded to a 42.1% improvement in the LiSWT arm and a 0.1% decline in the sham arm. No significant differences were observed in EHS change scores between treatment arms. No adverse outcomes were reported.
+ 
+ 
+ 
+ The present interim analysis shows improvement in SHIM scores in men undergoing LiSWT for ED. Additional recruitment and follow-up is in ongoing to further demonstrate efficacy and sustainability of LiSWT in the treatment of ED.
+ 
+ 
+ 
+ No
+
+Low-Intensity Shock Wave Therapy in Sexual Medicine-Clinical Recommendations from the European Society of Sexual Medicine (ESSM).
+
+Number of 
+
+Key takeaways:Low-intensity shockwave therapy (LISWT) is a safe and well-tolerated procedure, but its efficacy for treating erectile dysfunction is doubtful and requires further investigation.
+
+(060) DOES THE TYPE OF SHOCKWAVE GENERATOR MATTER? A SYSTEMATIC REVIEW AND BAYESIAN NETWORK META-ANALYSIS ASSESSING RANDOMIZED SHAM CONTROLLED TRIALS USING FOCUSED SHOCKWAVE LITHOTRIPSY FOR MODERATE ERECTILE DYSFUNCTION
+
+Number of 
+
+Key takeaways:Electromagnetic shockwave generators show the greatest improvement in erectile function for men with moderate erectile dysfunction, while piezoelectric generators show no significant improvement at 1 or 3-6 months.
+
+Abstract:Focused low-intensity shockwave therapy (LiSWT) has been demonstrated to improve erectile function in some randomized controlled trials (RCTs). However, significant heterogeneity exists when comparing RCTs for LiSWT as shockwaves can be generated via three methods: electromagnetic, electrohydraulic, and piezoelectric generators. No study has directly assessed whether the type of LiSWT generator impacts clinical outcomes for erectile dysfunction.
+ 
+ 
+ 
+ The objective of this study is to perform a network meta-analysis to compare the effect of different LiSWT generators on change in IIEF scores for men with moderate erectile dysfunction.
+ 
+ 
+ 
+ A systematic review of MEDLINE, EMBASE, Cochrane Library, and ClinicalTrials.gov was performed for randomized sham-controlled trials from database inception through June 2024. Studies were included if they evaluated changes in international index of erectile function (IIEF) scores in men with moderate erectile dysfunction (baseline IIEF-5: 8-11 or baseline IIEF-EF: 11-16) at either 1 month or at 3-6 months follow-up. Studies were not included if they assessed erectile dysfunction after prostatectomy. The analysis was limited to studies with a baseline of moderate erectile dysfunction as this is the most studied population and limits heterogeneity by focusing on a single severity cohort. Randomized sham-controlled trial data for piezoelectric, electromagnetic, and electrohydraulic LiSWT devices were pooled via network meta-analysis with random effect modeling.
+ 
+ 
+ 
+ A total of 16 RCTs were identified with 1036 men included. 6 studies report changes in IIEF scores only at 1 month, 3 studies at both 1 month and 3-6 months, and 7 studies only at 3-6 months. After 1 month, the mean difference from baseline between treatment and sham group found that electrohydraulic had the greatest improvement in IIEF score (mean difference between treatment and sham therapy from baseline: 5.19, 95% Confidence Interval 2.08-8.29, number of studies = 5), while electromagnetic also had significant improvement from baseline when comparing treatment versus sham (MD: 3.72, 95% CI 3.36-4.07, n = 2), piezoelectric did not significantly improve IIEF scores when comparing treatment vs sham (MD: 0.34, 95% CI -4.72-5.39, n = 2) (Fig. 1). After 3-6 month, the mean difference from baseline between the treatment and sham group for electromagnetic was significant (MD: 5.15, 95% CI 3.90-6.40, n = 5) while piezoelectric generators did not see an improvement between therapy and sham from baseline (MD: 2.08, 95% CI -1.28-5.43, n = 4). Only 1 study assessed electrohydraulic generators at the 3-6 month interval (MD: 3.68, 95% CI 3.07-4.29).
+ 
+ 
+ 
+ Piezoelectric generators for LiSWT do not significantly improve IIEF scores at 1 or 3-6 months for men with moderate erectile function while electromagnetic generators appear to have significant improvement in IIEF scores in this same population at both 1 and 3-6 months. While electrohydraulic appears to significantly improve IIEF scores at 1 month, more studies are needed to assess the long-term impact of these LiSWT generators on erectile function.
+ 
+ 
+ 
+ No.
+
+Early outcomes of short‐course low intensity shockwave therapy (LiSWT) for erectile dysfunction: A prospective, randomized, double‐blinded, sham‐controlled study in Malaysia
+
+Number of 
+
+Key takeaways:Short-course low-intensity shockwave therapy (LiSWT) is a well-tolerated treatment with modest improvements in erectile function and hardness for patients with vasculogenic erectile dysfunction.
+
+Abstract:Low‐intensity shockwave therapy (LiSWT) has emerged as a promising non‐invasive treatment modality for erectile dysfunction (ED) yet the well‐designed randomized clinical trials are still lacking to prove its claimed benefits. A randomized, prospective, double‐blinded sham‐controlled study was conducted to evaluate the effectiveness and safety profile of short course LiSWT on vasculogenic ED patients. The International Index of Erectile Function‐5 (IIEF‐5) and Erection Hardness Score (EHS) questionnaires were used for evaluation. Patients underwent weekly sessions for 4 weeks and were re‐assessed at 1, 3 and 6 months post therapy. Fifty one patients were recruited and randomized into sham and treatment arms. The mean IIEF‐5 scores were significantly improved in the treatment arm compared to worsening of scores in the sham arm after 1 month (14.1 vs. 9.3 p < 0.001), 3 months (14.9 vs. 8.6, p < 0.001) and 6 months (14.2 vs. 7.9, p < 0.001) post treatment. A significant improvement of EHS was demonstrated at 1 month (2.4 vs. 1.8, p = 0.001, 3 months 2.7 vs. 1.7, p < 0.001) and 6 months (2.7 vs. 1.6, p < 0.001) in the treatment arm compared to sham arm. The success rate based on IIEF score increment more than five points was 26% in treatment arm and 0% in sham arm. Improvement in EHS score ≥3 in the treatment versus sham arm was 63% and 4%, respectively. There was no adverse effect reported. This 4‐week LiSWT protocol reflects better treatment compliance, and it prevents further deterioration of erectile function among this cohort of patients. This study proves that LiSWT is a well‐tolerated treatment with modest improvements in erectile function and hardness, among patients with vasculogenic ED.
+
+Low-intensity shock wave therapy for the treatment of vasculogenic erectile dysfunction: a narrative review of technical considerations and treatment outcomes
+
+Number of 
+
+Key takeaways:Low-intensity shock wave therapy (LiSWT) shows promise in improving erectile function in men with vasculogenic erectile dysfunction, but more research is needed before considering it as standard of care.
+
+Abstract:Erectile dysfunction (ED) impacts a significant portion of the aging male population. Standard treatments such as oral medications, intracavernosal injections, intraurethral suppositories, vacuum erection aids, and penile prosthesis placement have stood the test of time. Recently, there has been a growing interest in the concept of regenerative medicine with the goal of restoring or renewing functional tissue. Low intensity shock wave therapy (LiSWT) is one example of a regenerative therapy. A strong body of basic science data suggests that shockwaves, when applied to local tissue, will encourage blood vessel and nerve regeneration. Clinical evidence supports the use of LiSWT to treat conditions ranging from ischemic heart disease, musculoskeletal injuries, and even chronic non-healing wounds. LiSWT is also being used to treat male sexual dysfunction conditions such as Peyronie’s Disease and ED. The first studied application of LiSWT for ED was published in 2010. Since then multiple randomized, sham-controlled trials have sought to evaluate outcomes for this novel therapy in men with vasculogenic ED. Additionally, several meta-analyses are available with pooled data suggesting that LiSWT results in a significantly greater improvement in erectile function relative to sham-control. Despite these promising findings, the current body of literature is marred by significant heterogeneity relating to treatment protocols, patient populations, and follow-up duration. Further work is necessary to determine optimal device technologies, patient characteristics, and treatment duration prior to considering LiSWT as standard of care for men with ED.
+
+Randomized trial of low intensity shockwave therapy for erectile dysfunction utilizing grayscale ultrasound for analysis of erectile tissue homogeneity/inhomogeneity
+
+Number of 
+
+Key takeaways:Low intensity shockwave therapy (LiSWT) is a safe and effective treatment for erectile dysfunction, improving blood flow and connective tissue activation in penile tissue, and also improving lower urinary tract symptoms.
+
+Abstract:Background Electrohydraulic shockwave devices have been Food and Drug Administration-cleared for improved blood flow and connective tissue activation and have been used to treat erectile dysfunction (ED). In this study, the main focus was to evaluate improvement in erectile tissue quality after low intensity shockwave therapy (LiSWT). Methods A single-blind, sham-controlled, randomized, prospective study, was performed in men with ED naïve to shockwave or radial ballistic pressure wave therapy. Participants were randomized 1:2 to simulated (sham) or active LiSWT treatment. After simulated treatments, participants in the Sham Arm were converted to active LiSWT, while participants initially in the Active Treatment Arm received no further treatment. Assessments were performed at baseline and two follow-up visits. Subjective parameters of erectile function (EF) were assessed by total and EF domain scores of the International Index of Erectile Function (IIEF) and sexual encounter profile (SEP). Objective parameters of penile erection were measurements of hypoechoic areas in images obtained by grayscale ultrasound (GUS) with high resolution 15.4 MHz probe and cavernosal artery peak systolic velocity (PSV) and end diastolic velocity (EDV) by color duplex Doppler ultrasound (DUS). Outcome measures for erectile and urinary function were also obtained. Results Simulated LiSWT did not significantly change any assessment parameter. Sham Arm participants who converted to active LiSWT had significantly increased mean IIEF total (P=0.02) and IIEF-EF scores that approached statistical significance (P=0.06), relative to baseline. Similarly, at the end of the study, Active Treatment Arm participants had significantly increased mean IIEF total (P=0.02) and IIEF-EF scores that approached statistical significance (P=0.07), relative to baseline. Additionally, at the end of the study, SEP3 success rates (erection lasting long enough for successful intercourse) approached statistical significance when Sham Arm participants were converted to active LiSWT (P=0.08) and reached statistical significance in the Active Treatment Arm (P=0.049). GUS assessments by visual grading were significantly correlated to IIEF-EF score (P=0.002) and were significantly increased relative to baseline in the Active Treatment Arm at follow-up Assessment 1 (P=0.03) and Assessment 2 (P=0.04). The greatest reduction in hypoechoic area after LiSWT occurred in the proximal penile shaft. EDV was also significantly reduced in the Active Treatment Arm at follow-up Assessment 1 (P=0.04) and Assessment 2 (P=0.04). LiSWT also resulted in improved prostate symptom scores, approaching significance in the Active Treatment Arm (P=0.055) with no changes in prostate-specific antigen. Treatment-related adverse events were limited and transient. Conclusions In this prospective trial, LiSWT was safe and efficacious for erectile symptoms using GUS imaging as a novel, non-invasive method to assess improvements in corporal veno-occlusive function. Improved veno-occlusion and reduced hypoechoic area demonstrated by GUS imaging suggest that LiSWT decreases connective tissue content in penile erectile tissue. Lower urinary tract symptoms also improved with LiSWT. Trial Registration NCT06600893 on clinicaltrials.gov.
+
+Is low-intensity shockwave therapy for erectile dysfunction a durable treatment option?—long-term outcomes of a randomized sham-controlled trial
+
+Number of 
+
+Key takeaways:Low-intensity shockwave therapy (LiSWT) provides sustained long-term improvement in erectile function for men with erectile dysfunction, with a peak treatment effect at 1 year and a decline between 2 and 3 years.
+
+Abstract:Background Low-intensity shockwave therapy (LiSWT) is an emerging non-invasive and restorative therapy for erectile dysfunction (ED) with demonstrated efficacy and few adverse events. Although LiSWT has been shown to improve erectile function amongst men with ED, few studies have examined its long-term durability. We present the long-term results of a randomized controlled trial (RCT) assessing erectile function after LiSWT. Methods A total of 30 patients with baseline ED seen at the University of Virginia were randomized to LiSWT or sham treatment. Patients in the sham group crossed over at 1 month and were unblinded. After initial trial completion, patients enrolled in the long-term outcome study were considered one combined cohort. Patients were treated twice weekly for 3 consecutive weeks with a Storz® Duolith™ device delivering 3,000 shockwaves at 0.1 mJ/mm2 to the distal penis, the base of the penis, and the crura. Primary outcomes were changes in Sexual Health Inventory for Men (SHIM) and Erection Hardness Score (EHS) from baseline (3 months pre-treatment) up to 36 months post-treatment. Changes in SHIM and EHS scores were evaluated using linear mixed effects models. Patient satisfaction was assessed with the Erectile Dysfunction Inventory of Treatment Satisfaction (EDITS) index. Results The mean baseline SHIM score was 10.8±0.94. At 12-, 24-, and 36-month assessment following treatment, the mean SHIM scores were 15.6±1.27 (P<0.001), 15.0±1.14 (P<0.001), and 12.2±1.43 (P=0.31). The mean baseline EHS score was 1.87±0.17. At 12-, 24-, and 36-month assessment following treatment, the mean EHSs were 2.70±0.24 (P<0.001), 2.66±0.21 (P<0.001), and 2.29±0.26 (P=0.10). The median EDITS score was 48.9 (22.7, 74.4), indicating moderate satisfaction with LiSWT. There were no adverse events recorded. Conclusions Our analysis demonstrates sustained long-term improvement in erectile function after LiSWT for a heterogeneous cohort. While limited by population size, the results suggest durable improvement in erectile function for the first 2 years with a peak treatment effect at 1 year. Treatment effect appears to decline between 2 and 3 years. Clinical Trial Registration ClinicalTrials.gov, NCT04434352.
+
+(249) LOW INTENSITY SHOCKWAVE THERAPY FOR ERECTILE DYSFUNCTION: A SHAM-CONTROLLED TRIAL CONCOMITANTLY EXAMINING LOWER URINARY TRACT SYMPTOMS AND PROSTATE SPECIFIC ANTIGEN
+
+Number of 
+
+Key takeaways:Low intensity shockwave therapy (LiSWT) improves prostate symptoms and quality of life in men with erectile dysfunction, without affecting prostate specific antigen (PSA).
+
+Abstract:There is a high association between ED and LUTS/BPH, with a well-established cross talk between the two conditions, however, there are no reports, to the best of our knowledge, examining the changes in lower urinary tract symptoms/benign prostatic hyperplasia (LUTS/BPH) symptoms after LiSWT treatment for ED. Perineal LiSWT to treat LUTS/BPH symptoms in men poorly responsive to medical therapy resulted in statistically significant improvements in International Prostate Symptom Score (IPPS) and Quality of Life Due to Urinary Symptoms (QOL) sustained at 3 months (Zhang et al). In addition, there are no reports, to the best of our knowledge, examining changes in PSA blood test values after LiSWT treatment for ED; however in a population of men with chronic pelvic pain syndrome treated with perineal LiSWT, there were no statistically significant differences in prostate specific antigen (PSA) between the LiSWT and placebo group at the 4 week follow-up. (Kim et al).
+ 
+ 
+ 
+ To review the secondary outcome measures of urinary function and PSA in a randomized sham-controlled trial of LiSWT of men with ED.
+ 
+ 
+ 
+ A single-blind, sham-controlled, randomized, prospective study in men with ED naïve to shockwave and radial ballistic pressure wave therapy was performed. Participants meeting inclusion/exclusion criteria were randomized to one of two treatment arms and assigned to active or sham, 2:1, within each arm. The primary outcome measures addressed changes from baseline in various objective ED parameters. Secondary outcome measures included IPPS and QOL for urinary function, and PSA. Data from each treatment arm were analyzed by two-way repeated measures ANOVA with Geisser–Greenhouse correction. Follow-up pairwise comparisons to baseline were performed using Dunnett’s multiple comparison test. In participants with one on-treatment assessment, missing data due to early discontinuation from the study were imputed by the “last observation carried forward” method.
+ 
+ 
+ 
+ In this study population of men with ED, the baseline IPSS score was high, consistent with symptoms of LUTS/BPH. For both Sham Treatment Arms, there was no improvement in IPSS score. There was, however, a consistent decrease in IPSS scores when sham treatment patients were converted to active treatment in Arms 1 and 2 but these did not reach statistical significance. For participants initially randomized to Active Treatment, IPSS scores consistently decreased after LiSWT with reductions of 1.75 and 2.0 points, respectively, in Arms 1 and 2 at Assessment 2 (Fig. 1). Concerning QOL scores related to urinary function, a majority of participants experienced a high value at baseline (Fig. 1). This either stayed the same or improved at Assessment 1. PSA levels remained stable throughout the study with no significant increases in any treatment arm (Fig. 2).
+ 
+ 
+ 
+ There are limited data on LiSWT trials for ED concomitantly investigating LUTS/BPH. In our study, improved IPSS and QOL measures occurred, possibly related to LiSWT-induced prostate smooth muscle relaxation, without any change in PSA. Clinical trials using LiSWT for ED should consider utilizing LUTS/BPH outcome measures to better understand mechanisms of improved erectile/urinary function.
+ 
+ 
+ 
+ Any of the 
+
+Variations in Low Intensity Shockwave Treatment Protocols for Erectile Dysfunction: A Review of the Literature and Guide to Offering Treatment
+
+Number of 
+
+Key takeaways:Low-intensity shockwave therapy (LiSWT) for erectile dysfunction shows low risk and potential improvements in IIEF scores, but there is no agreed upon optimal treatment protocol.
+
+Abstract:Low-intensity shockwave therapy (LiSWT) for erectile dysfunction (ED) continues to gain popularity in both clinical practice and the academic literature. The majority of trials and meta-analysis studies have shown LiSWT to be low risk with a trend toward positive improvements in International Index of Erectile Function (IIEF) scores. However, there is still debate over the clinical utility of LiSWT and there is no agreed upon optimal treatment protocol. In this review article we summarize published meta-analysis studies of LiSWT for ED, and review the treatment protocols from randomized sham-control trials published in the last 10 years. We found the most common device settings were an energy of 0.09 mJ/mm2 and a frequency of 5 Hz. Shock number and location varied, but the most common protocol was 1,500 shocks per session, with 900 shocks to the penis (shaft, base, or hilum) and 600 shocks to the proximal corpora/crura. Protocols ranged from 4 to 12 treatment sessions. We also describe our institutional experience with LiSWT, including patient counseling and treatment protocol.
+
+Low intensity extracorporeal shockwave therapy for erectile dysfunction: a study in an Indian population.
+
+Number of 
+
+Key takeaways:Low intensity extracorporeal shockwave therapy (LISWT) effectively improves erectile function in Indian men with vasculogenic ED who were prior responders to PDE5i therapy, offering a promising new therapeutic option.
+
+Abstract:INTRODUCTION
+Erectile dysfunction (ED) has been shown to be associated with a number of physical conditions and affects not only physical but also psychosocial health. Currently oral, on-demand phosphodiesterase type 5 inhibitors (PDE5i) are preferred first line treatment. Though effective, these drugs have limitations and are associated with significant non-compliance, side effects and do not reverse the underlying pathology. Non-invasive low intensity shockwave therapy (LISWT) has been shown to significantly improve erectile function in men previously PDE5i dependent. We describe our experience and results with this therapy in an Indian population of men with ED. This study assessed the efficacy of low intensity extracorporeal shockwave therapy (LI-ESWT) on Indian men with organic ED who had previously responded to PDE5i.
+
+MATERIALS AND METHODS
+All the patients underwent a 1 month PDE5i washout period. Men were randomized to receive either 12 sessions of LI-ESWT (n = 95) or placebo/sham therapy (n = 40). Before the first treatment, erectile function and penile hemodynamics were assessed to substantiate a vascular etiology for the ED. Outcomes were assessed using Erection Hardness Score (EHS), International Index of Erectile Function-Erectile Function Domain (IIEF-EF domain) and Clinical Global Impression of Change (CGIC) scores at 1, 3, 6, 9 and 12 months post-treatment.
+
+RESULTS
+We found a significant increase in the EHS and IIEF-EF Domain scores from visit 1 to follow up 5 (12 months) in the treated group compared to the placebo group. By 1 month after treatment there were highly significant differences between the LI-ESWT and placebo groups (p < 0.0001). Out of 60 men in the LI-ESWT group who completed the study, 47 (78%) men at FU1 and 43 (71%) at FU5 who were initially unable to achieve spontaneous erections hard enough for penetration (EHS ≤ 2) were able to do so (EHS ≥ 3) compared to none in the placebo group. The treatment was well tolerated and none of the men experienced treatment related discomfort or reported any adverse effects from the treatment.
+
+CONCLUSIONS
+In this double-blind, placebo-controlled study, LI-ESWT demonstrated a positive long term clinical effect with improvement in erectile function of Indian men with vasculogenic ED who were prior responders to PDE5i therapy. The efficacy and tolerability of this treatment, coupled with its long term benefits and rehabilitative characteristics, make it an attractive new therapeutic option for men with vasculogenic erectile dysfunction.
+
+(129) Interim Analysis of a Sham-Controlled Randomized, Prospective Study Using Low Intensity Shockwave Therapy (LiSWT) for Improvement of Erectile Function
+
+Number of 
+
+Key takeaways:Low intensity shockwave therapy (LiSWT) significantly improves erectile function in men with ED, with greater improvements in the proximal penis compared to sham treatment.
+
+Abstract:The Urogold 100 MTS™ electrohydraulic shockwave device is FDA cleared for improved blood flow and connective tissue activation; retrospective studies in ED patients have shown positive outcome.
+ 
+ 
+ 
+ To perform an interim analysis of sham and active treatment changes in primary outcome measures of grayscale ultrasound and DUS.
+ 
+ 
+ 
+ A single-blind, sham-controlled, randomized, prospective study in men with ED naïve to acoustic wave therapy was performed. Those meeting inclusion/exclusion were randomized to one of two treatment arms and assigned to active or sham, 2:1 within each arm. Arm 1 consisted of three treatments of 5000 shocks every three weeks, 4 Hz, 0.12 mJ/mm2; arm 2 consisted of 5000, 3000 and 3000 shocks, 4 Hz, 0.12 mJ/mm2; weeks one, two and three respectively, three weeks without treatment, then repeat treatments every three weeks. First follow-up was 20 weeks after initial treatment; DUS and grayscale imaging using a 15.4 MHz probe were repeated under pharmacologic erection 3-4/4 hardness. Post-treatment grayscale percent hypoechoic regions within the corpora cavernosa were assessed: none (0), mild (1), moderate (2) and severe (3) and compared to baseline. Post-treatment EDV and PSV were compared to baseline. Upon completion subjects were unblinded. Subjects assigned to sham were crossed over to the opposite arm for active treatment. Subjects initially in active treatment underwent a second follow-up 32 weeks after initial treatment. Data from each treatment arm were analyzed by two-way repeated measures ANOVA with Geisser-Greenhouse correction. Follow-up pairwise comparisons to baseline were performed using Dunnett’s multiple comparison test. In subjects with one on-treatment assessment, missing data due to early discontinuation from the study were imputed by the “last observation carried forward” method.
+ 
+ 
+ 
+ Powered for 60 subjects, recruitment was stopped due to COVID after randomizing 36 subjects (22 active, 14 sham). The proximal penis exhibited greatest improvement (decreased heterogeneity score) on grayscale. The number of subjects with improved erectile tissue grayscale ratings in the proximal region was consistently higher in active treatment versus sham groups (Arm 1 = 88.9% vs. 11.1%; Arm 2 = 40.0% vs. 20.0%, respectively). Sham subjects rolled over to active LiSWT also had improved grayscale ratings (Arm 1 = 33.3% vs. 11.1%; Arm 2 = 40.0% vs. 20.0%). Change in heterogeneity was statistically significant for the proximal region in active treatment Arm 1 at both Week 20 (p=0.005) and Week 32 (p=0.001). (Fig 1) Mean IIEF-EF scores were nominally higher in subjects in active treatment with improved grayscale ratings versus those with no improvement on grayscale. Concerning penile blood flow, improvement after LiSWT greater numbers of patients had higher PSV or lower EDV relative to baseline; greater numbers of patients had no worsening in blood flow parameters. Decrease in EDV reached statistical significance in active treatment Arm 2 at Week 32 (p=0.003). Adverse events were transient.
+ 
+ 
+ 
+ Flaccid penile LiSWT appears to be safe and efficacious for treating ED based on statistically significant changes between sham and active treatments in primary outcome measures grayscale ultrasound and DUS.
+ 
+ 
+ 
+ Any of the 
+
+Twelve-Month Efficacy and Safety of Low-Intensity Shockwave Therapy for Erectile Dysfunction in Patients Who Do Not Respond to Phosphodiesterase Type 5 Inhibitors
+
+Number of 
+
+Key takeaways:Low-intensity shockwave therapy (LISWT) is effective and safe in 60% of patients with erectile dysfunction unresponsive to PDE5i treatment, maintaining efficacy for 12 months in most patients.
+
+(214) A REVIEW OF BASIC SCIENCE STUDIES SUPPORTING LOW INTENSITY SHOCKWAVE THERAPY AS A DISEASE MODIFYING TREATMENT FOR VASCULOGENIC ERECTILE DYSFUNCTION
+
+Number of 
+
+Key takeaways:Low intensity shockwave therapy (LiSWT) improves erectile function in various animal models of erectile dysfunction by addressing the underlying vascular pathophysiology and increasing mesenchymal stem cell density.
+
+Abstract:Low intensity shockwave therapy (LiSWT) for ED attempts to address the underlying vascular pathophysiology of poor cavernosal tissue expandability and reduced cavernosal arterial inflow, unlike ED symptomatic treatments (PDE5 inhibitors, vasoactive agent self-injections) that aim to maximize smooth muscle relaxation. LiSWT induces mechanotransduction expansion/contraction effects on erectile tissue cells. The mechanotransduction mechanical stimuli are then converted into biochemical signal activation in these erectile tissue cells. The activations of biochemical signals in erectile tissue cells acts to increase the density of endogenous mesenchymal stem cells, increase downstream cavernosal smooth muscle synthesis and increase the release of vasodilating factors such as nitric oxide.
+ 
+ 
+ 
+ To review contemporary basic science studies delineating the biochemical changes induced by LiSWT through mechanotransduction for disease modification of vascular pathology causing ED.
+ 
+ 
+ 
+ Pubmed and Google Scholar were searched between January 2024 and May 2024 for articles containing the following keywords individually and in combination: LiSWT and animal models of ED, mechanotransduction, mesenchymal progenitor/penile stem cells, cavernosal smooth muscle synthesis, vasodilating factors, angioneogenesis, and nitric oxide.
+ 
+ 
+ 
+ A total of 22 articles were reviewed, with a focus on animal models of ED. LiSWT to the penis induces mechanotransduction and resultant biochemical changes in the erectile tissue cells of animal models of ED. LiSWT to the penis was found to improve erectile function in streptozotocin-induced and Goto-Kakizaki diabetic rats, obesity rats, spontaneously hypertensive rats, bilateral cavernous nerve injury and internal pudendal bundle ligation rats, and naturally aged Wistar rats. LiSWT significantly increased endogenous mesenchymal stem cell density, cavernosal neuronal nitric oxide synthase expression, and cavernosal smooth muscle content in treated versus untreated diabetic rats (Qiu et al). LiSWT in diabetic rats showed increased cavernosal α-smooth muscle actin concentration; and nitric oxide and guanosine 3',5'-cyclic monophosphate levels mediating vasodilation significantly increased in cavernosal smooth muscle (Shin et al). LiSWT differentiated penile progenitor cells into smooth muscle through activation of the Wnt/b-catenin signaling pathway (Peng et al). LiSWT increased cavernosal smooth muscle content and improved cavernosal smooth muscle/collagen ratio in 12-week-old Zucker fatty rats compared to controls (Ruan et al) and in spontaneous hypertensive rats (Assaly et al). LiSWT had an anti-fibrotic effect in streptozotocin-induced diabetic rats (Lei et al).
+ 
+ 
+ 
+ A review of basic science studies reveal that the mechanism of action of LiSWT for ED appears related, in part, to mechanotransduction. In the penis, mechanotransduction is the shockwave energy-induced contraction and expansion of cavernosal erectile tissue inducing biologic changes including increases in endogenous mesenchymal stem cell density. It is hypothesized that these progenitor stem cells differentiate into various downstream cells, including cavernosal smooth muscle and endothelial cells, resulting in improved veno-occlusive function and vasodilation respectively in the corpora cavernosa. LiSWT for ED is a disease modifying strategy that addresses the underlying vascular pathophysiology of ED. Future studies should address use of LiSWT for ED in combination with symptomatic ED treatments, such as PDE5 inhibitors and penile self-injection therapy, as both strategies maximize conservative, non-operative ED management.
+ 
+ 
+ 
+ Any of the 
+
+(152) Energy Absorption Simulation During Low Intensity Shockwave Therapy
+
+Number of 
+
+Key takeaways:Low intensity shockwave therapy (LiSWT) for erectile dysfunction is more effective when performed in the erect state using a symmetric reflector due to increased intracavernosal pressure and tissue volume.
+
+Abstract:Low intensity shockwave therapy (LiSWT) has been used to treat erectile dysfunction since 2010 by inducing mechanotransduction. The greater the shockwave energy absorbed in cavernosal erectile tissue, the greater the opportunity for mechanotransduction regenerative mechanisms to occur and improve erectile function. Effectiveness of LiSWT depends, in part, on applied energy (mJ/mm2) and number of applications (total shocks). Although intensity of LiSWT energy cannot be arbitrarily increased due to side effects, energy absorption may be improved by performing treatment to an erect vs flaccid penis. Intracavernosal pressure and penile volume are both determinants of velocity of the energy wave in tissue and therefore absorption of shockwave energy in tissue. Intracavernosal penile pressure when erect (100 mmHg) is 16-fold higher than flaccid (6 mmHg), and blood volume when erect (142.6 cm3) is >2 times more than flaccid (62.18 cm3), therefore LiSWT in the erect state with larger blood-filled lacunar spaces should be associated with greater shockwave energy absorption. Use of a symmetry-matched secondary reflector can further increase the energy absorption of each applied shockwave by reflecting the wave back.
+ 
+ 
+ 
+ The aim of this study was to perform a simulation of energy absorption during LiSWT with a reflector in both the flaccid and erect penis.
+ 
+ 
+ 
+ This energy model used the MTS UroGold electrohydraulic shockwave device . When sound waves pass through an interface between 2 media with different impedances, sound propagation can be significantly altered. If impedances of the media are different, part of the sound energy is reflected into the incident medium; the rest of the sound energy is transferred to the second medium. Sound propagation in tissue can be illustrated via computer simulation by mathematically calculating the damping and deflection of the sound wave by different tissue structures. Finite Element Method (FEM) simulation models are particularly suitable for the mathematical description of complex processes of shockwave propagation, such as in the flaccid and erect penis. Based on results, a “prediction” of propagation of LiSWT in tissue is possible. This patient-specific procedure is based on consideration of individual anatomical structures: corporal lacunar spaces and physical-acoustic laws. For FEM modeling of LiSWT propagation, program systems ANSYS, MATLAB and PZFLEX/ONSCALE were used.
+ 
+ 
+ 
+ Using the FEM calculation model of the simulation analyses, the shockwave pulse is applied at the bottom edge of the model (Fig 1). It propagates through the erect (Fig 2a) and flaccid (Fig 2b) states, with the most energy absorption in the erect penis, shown in red. The effect of increased penile pressure on energy absorption with a constant volume is shown in Fig 3.
+ 
+ 
+ 
+ More energy is absorbed in cavernosal tissue during erection than in the flaccid state, with a further increase in absorption with use of a symmetric reflector. This provides greater opportunity for beneficial mechanotransduction regenerative mechanism due, in part, to increased intracavernosal pressure and tissue volume with larger blood-filled lacunar spaces during erection. LiSWT to treat erectile dysfunction should be more effective when performed in the erect state utilizing a reflector.
+ 
+ 
+ 
+ Any of the 
+
+(181) LOW INTENSITY SHOCKWAVE THERAPY FOR ERECTILE DYSFUNCTION: A SHAM-CONTROLLED RANDOMIZED TRIAL
+
+Number of 
+
+Key takeaways:Low intensity shockwave therapy (LiSWT) is a safe and effective treatment for treating erection dysfunction in men, with no significant adverse events observed in this sham-controlled trial.
+
+Abstract:A sham-controlled, randomized prospective trial in men with ED was performed using an electrohydraulic shockwave device (Softwave/Urogold, TRT).
+ 
+ 
+ 
+ In this single-blind study performed in men with ED, participants were randomized 2:1 to active low intensity shockwave therapy (LiSWT) (4 Hz, 0.12 mJ/mm2) or sham. Arm 1 consisted of 3 treatments of 5000 shocks every 3 weeks. Arm 2 consisted of 5000, 3000, 3000 shocks during weeks 1, 2, 3, respectively, followed by an identical cycle of treatment 3 weeks later. Doppler ultrasound/grayscale was performed at weeks 20 and 32. Participants completing sham treatment crossed over to LiSWT. Post-treatment end diastolic velocity (EDV) and peak systolic velocity (PSV) were measured, and visual grading scores used to assess hypoechoic regions in the corpora cavernosa. Data were analyzed by 2-way repeated measures ANOVA with Geisser-Greenhouse correction. Pairwise comparisons were performed to baseline using Dunnett’s multiple comparison test. Missing data were imputed by “last observation carried forward”.
+ 
+ 
+ 
+ 36 participants (22 active, 14 sham) were randomized. Sham treatments showed no significant changes. Visual grading scores in the proximal region were consistently higher with active LiSWT vs sham (Arm 1 = 88.9% vs. 11.1%; Arm 2 = 40.0% vs. 20.0%, respectively), statistically significant in Arm 1 at weeks 20 (p=0.005) and 32 (p=0.001). Sham participants also had improved grayscale ratings after LiSWT (Arm 1 = 33.3% vs. 11.1%; Arm 2 = 40.0% vs. 20.0%). After LiSWT, greater numbers of patients had higher PSV, lower EDV, or no worsening relative to baseline. Decrease in EDV was statistically significant in active treatment Arm 2 at Week 32 (p=0.003). Adverse events were transient.
+ 
+ 
+ 
+ Statistically significant changes from baseline between sham and active treatments in primary outcome measures with no adverse events support safety and efficacy of LiSWT for treating ED.
+ 
+ 
+ 
+ No conflicts of interest.
+
+MP79-11 A SHAM-CONTROLLED RANDOMIZED TRIAL OF LOW INTENSITY SHOCKWAVE THERAPY FOR ERECTILE DYSFUNCTION
+
+Number of 
+
+Key takeaways:Low intensity shockwave therapy (LiSWT) shows potential in improving blood flow and connective tissue activation in men with erectile dysfunction.
+
+Abstract:INTRODUCTION AND OBJECTIVE: We performed a shamcontrolled, randomized prospective trial in men with ED using an electrohydraulic shockwave device FDA cleared for connective tissue activation and improved blood flow. METHOD(S): This single-blind study was performed in men with ED naive to acoustic wave and shockwave therapy. Patients were randomized to treatment and assigned to active low intensity shockwave therapy (LiSWT) (4 Hz, 0.12 mJ/mm2) or sham treatment, 2:1. Arm 1 consisted of 3 treatments of 5000 shocks every 3 weeks. Arm 2 consisted of 5000, 3000, and 3000 shocks during weeks 1, 2, and 3, respectively, followed by an identical cycle of treatment 3 weeks later. Doppler ultrasound and grayscale imaging with a 15.4 MHz probe were performed under pharmacologic erection at weeks 20 and 32. Subjects completing sham treatment were unblinded and crossed over to the opposite arm for active treatment. Post-treatment end diastolic velocity (EDV) and peak systolic velocity (PSV) were measured, and visual grading scores were used to assess extent of hypoechoic regions in the corpora cavernosa. Data were analyzed by 2-way repeated measures ANOVA with Geisser-Greenhouse correction. Pairwise comparisons were performed to baseline used Dunnett's multiple comparison test. Missing data were imputed by 'last observation carried forward'. RESULT(S): Although powered for 60, recruitment was limited due to COVID and 36 subjects (22 active, 14 sham) were randomized. Sham treatments showed no significant changes in outcome measures. The number of subjects with improved visual grading scores in the proximal region was consistently higher in active LiSWT vs sham (Arm 1=88.9% vs. 11.1%;Arm 2=40.0% vs. 20.0%, respectively) with statistical significance in Arm 1 at weeks 20 (p=0.005) and 32 (p=0.001). Sham subjects rolled over to active LiSWT also had improved grayscale ratings (Arm 1=33.3% vs. 11.1%;Arm 2=40.0% vs. 20.0%). After LiSWT, greater numbers of patients had higher PSV, lower EDV, or no worsening of blood flow parameters relative to baseline. Decrease in EDV was statistically significant in active treatment Arm 2 at Week 32 (p=0.003). Mean IIEF-EF scores were nominally higher in subjects in active treatment who had improved visual grading scores vs those with no improvement. Adverse events were transient. CONCLUSION(S): Flaccid penile LiSWT appears to be safe and efficacious for treating ED based on statistically significant changes from baseline between sham and active treatments in primary outcome measures.
+
+(124) RANDOMIZED CONTROLLED TRIAL FOR USE OF LOW INTENSITY SHOCKWAVE FOR PATIENTS WITH DYSPAREUNIA
+
+Number of 
+
+Key takeaways:LiSWT combined with typical physical therapy may improve sexual functions in patients with dyspareunia after 1 month of treatment.
+
+Abstract:Dyspareunia is reported to have a significant effect on mental and physical health, and on quality of life in women with prevalence rates between 3-18% of the population worldwide. Prior research has shown physical therapy to be an effective treatment resulting in decreased pain with vaginal penetration. Low intensity shockwave therapy (LiSWT) has been investigated male pelvic health conditions such as chronic prostatitis, erectile dysfunction (ED) and male chronic pain. Research in female pelvic pain, more specifically, in dyspareunia is lacking.
+ 
+ 
+ 
+ The purpose of this study is to determine the effectiveness of LiSWT in people with dyspareunia.
+ 
+ 
+ 
+ A single-blind randomized controlled trial with randomized placebo phase design is being conducted at 4 private practice, outpatient physical therapy clinics across the U.S. We aim to recruit 60 participants. Inclusion criteria: Primary diagnosis of dyspareunia, cisgender female or have natal vaginal tissue, aged 21-65 years old, has not started hormone therapy within the past 2 weeks, has not received pelvic floor physical therapy within the past 4 weeks and are able to participate consistently 1 time per week for 4 weeks of treatment. Participants received individualized physical therapy treatment with or without active LiSWT 1 time per week for 4 weeks with follow-up at 3 months. Active LiSWT consisted of 500-1500 shocks, 2.5-4.0 Hz, and 4-8 energy. Participants initially randomized into the sham group were eligible to receive active shockwave following the 4 weeks of individualized physical therapy with sham shockwave. Primary outcome measures were Female Sexual Function Index (FSFI) and Beck Depression Inventory (BDI) scores. Data analyzed by ANCOVA to account for baseline measurements.
+ 
+ 
+ 
+ The study is currently ongoing. Preliminary analysis of 17 participants with completed data at baseline, 1 month, and 3 months (active = 8, sham =9) was conducted. ANCOVA for FSFI scores showed significant main effect for Group (P < .01) with the active group having higher scores compared to the sham group at 1 month (P = .03). There were no significant differences in BDI (P = .59) or penetration pain (P = .42).
+ 
+ 
+ 
+ At this time the data would suggest that LiSWT plus typical physical therapy increases FSFI scores after 1 month of treatment compared to typical physical therapy alone. It is unclear if the addition of active shockwave to the sham group accounts for no difference between groups at 3 months. The current results indicate shockwave may be a useful adjunct to typical physical therapy in improving sexual functions in patients with dyspareunia.
+ 
+ 
+ 
+ Yes, this is sponsored by industry/sponsor: Softwave Tissue Regeneration Technologies, LLC.
+ Clarification: Industry funding only - investigator initiated and executed study.
+ Any of the 
+
+(053) Low Intensity Shockwave Therapy in Patients with Vulvas with Sexual Dysfunction
+
+Number of 
+
+Key takeaways:Low intensity shockwave therapy (LiSWT) is a non-hormonal, non-surgical treatment option for individuals with vulvas with various sexual dysfunctions, reducing or eliminating symptoms in 68% of cases.
+
+Abstract:High intensity shockwave treatment has been used for kidney stone lithotripsy since the 1980’s; such devices generate an energy flux density (EFD) of approximately 0.9 mJ/mm2. Low intensity shockwave therapy (LiSWT) devices generate approximately one tenth of that EFD, 0.05 – 0.13 mJ/mm2. LiSWT was first used in sexual medicine in 2010 to treat erectile dysfunction (ED). In 2019 we began utilizing LiSWT for patients with vulvas with various sexual dysfunctions (SD).
+ 
+ 
+ 
+ To review our clinical uses of LiSWT as a non-hormonal, non-surgical treatment option for individuals with vulvas with various complaints of SD.
+ 
+ 
+ 
+ We have performed 324 total LiSWT treatment sessions, 1 to 17 total treatments per person, in 77 individuals with vulvas with SD; EFD (0.05 – 0.13 mJ/mm2), shocks (1800 – 4000/treatment), Hz 3, membrane pressure 1. The specific device used in our clinic, Softwave (TRT), is considered non-significant risk for human use by the FDA and cleared for pain amelioration, connective tissue activation, wound healing, and improved blood flow. This device has a parabolic reflective surface. For each underwater spark-gap discharge that generates a shockwave, there actually two shockwaves delivered: a primary unfocused shockwave and a secondary reflected focused shockwave. Each energy wave induces a variety of biologic reactions in tissues resulting from the mechanotransduction contraction/expansion forces produced.
+ 
+ 
+ 
+ To date we have identified 4 clinical uses for LiSWT in our patients with vulvas (mean age 39 ± 21 years). Individuals with hormonally-mediated vestibulodynia (n = 12) or entrance dyspareunia associated with genitourinary syndrome of menopause (n = 13) have received a total of 61 (mean 5) and 64 (mean 5) vestibular treatment sessions, respectively. Positive outcomes from a sham-controlled randomized trial have been published for vestibulodynia. Our positive clinical experience in 60% (15/25) mirrors their data. This is especially important because not everyone is willing or able to undergo hormone treatment. Individuals with genito-pelvic dysesthesia from sacral radiculopathy (n = 22) have received 109 (mean 5) treatments directed to their lumbo-sacral region. These patients were either not candidates for spine surgery or continued to experience mild symptoms after spine surgery. LiSWT decreased or eliminated dysesthesia symptoms in 68% (15/22); a key predictor of success was the activation of radiculopathy symptoms (e.g. feet burning) during treatment. Finally, individuals who underwent LiSWT pre-operatively to reduce opioid use after complete vestibulectomy (n = 30) have received 90 (mean 3) vestibular treatments with a 65% reduction in opioid use with such prophylactic treatment. We have observed no serious and 2 transient adverse events, mild discomfort that resolved within several hours.
+ 
+ 
+ 
+ For individuals with vulvas with varying complaints of SD, LiSWT is a safe and effective non-hormonal, non-surgical treatment strategy. More research with LiSWT in this population is needed. A potential new clinical use for LiSWT is to manage stress/urge urinary incontinence (SUI) in a non-invasive, non-pharmacologic strategy.
+ 
+ 
+ 
+ No
+
+(098) LOW INTENSITY SHOCKWAVE THERAPY FOR WOMEN WITH SEXUAL DYSFUNCTION
+
+Number of 
+
+Key takeaways:LiSWT is associated with improved sexual health symptoms in women with vulvas with sexual dysfunction, ranging from 54% to 75%, without significant side effects.
+
+Abstract:Low intensity shockwave therapy (LiSWT) has been used to treat sexual dysfunction by inducing genital tissue mechanotransduction. Mechanotransduction is the ability of a cell to actively convert contraction/expansion mechanical stimuli induced by exposure to the shockwave energy into biochemical signals with physiological effects including synthesis of nitic oxide, upregulation of vascular endothelial growth factors, recruitment of endothelial progenitor cells, vasodilation, and expression of tumor necrosis factor alpha mRNA with anti-inflammatory activity. The greater the shockwave energy absorbed in genital tissues, the greater the opportunity for mechanotransduction physiologic effects to occur and improve sexual function. Therefore, effectiveness of LiSWT depends, in part, on applied energy (mJ/mm2) and number of applications (total shocks). In 2019, our sexual medicine clinic began utilizing the SoftWave (Urogold 100™) LiSWT device, FDA cleared for pain amelioration, connective tissue activation, wound healing, and improved blood flow, to treat individuals with vulvas with sexual dysfunction.
+ 
+ 
+ 
+ To review the various sexual health concerns in individuals with vulvas effectively treated by LiSWT.
+ 
+ 
+ 
+ A chart review was performed of individuals with vulvas with various sexual dysfunctions, including genital pain and genito-pelvic dysesthesia (GPD), who received LiSWT between April 2019 and June 2023. In general, 2400 shocks were applied at energy flux density 0.05-0.08 mJ/mm2, Hz = 3, membrane pressure = 1. The Patient Global Impression of Improvement (PGI-I) was used to assess post-LiSWT outcome; improvement was positive if the post-LiSWT PGI-I ranged from 1-3.
+ 
+ 
+ 
+ 189 women, mean age 32 (range 18–67) years, with sexual dysfunction underwent LiSWT treatments in the 38 months. 18 women with neuroproliferative vestibulodynia (NPV) who underwent vestibulectomy received 3-6 post-operative vestibular LiSWT to reduce post-operative pain and improve wound healing; 83% reported improved PGI-I. 24 patients with hormone-mediated vestibulodynia who elected not to use hormone treatment, underwent vestibular LiSWT; 54% reported improved PGI-I. 25 menopausal patients with persistent symptoms of Genito-Urinary Syndrome of Menopause (GSM) received multiple vestibular LiSWT treatments; 64% improved PGI-I, including reduction of urinary incontinence. 36 women with PGAD/GPD from lumbosacral annular tear-and/or Tarlov cyst-induced sacral radiculopathy who were not candidates for minimally invasive spine surgery or continued to have symptoms after recovering from spine surgery, underwent multiple treatments of lumbosacral spine LiSWT; 58% reported improved PGI-I. 86 patients with neuroproliferative vestibulodynia (NPV) underwent 2-3 pre-operative sessions of vestibular LiSWT immediately prior to complete subepithelial vestibulectomy surgery; they used significantly fewer opioids post-op than those without pre-operative LiSWT based on historical data prior to 2019. All patients received multiple LiSWT sessions to maximize mechanotransduction effects on genital tissues. There were no significant adverse events noted with LiSWT use.
+ 
+ 
+ 
+ Multiple LiSWT sessions are utilized in individuals with vulvas with sexual dysfunction to maximize mechanotransduction. LiSWT is associated with improved sexual health symptoms ranging from 54% - 75%, not associated with any side effects. More research is needed regarding the role of LiSWT for management of various sexual dysfunctions.
+ 
+ 
+ 
+ Any of the 
+
+The effects of shockwave therapy on musculoskeletal conditions based on changes in imaging: a systematic review and meta-analysis with meta-regression
+
+Number of 
+
+Key takeaways:Shockwave therapy reduces the size of musculoskeletal lesions, potentially reflecting changes in underlying pathophysiological processes, but dosage parameters are not significant predictors of imaging outcomes.
+
+Abstract:Abstract Background Shockwave therapy (SWT) is a commonly used intervention for a number of musculoskeletal conditions with varying clinical outcomes. However, the capacity of SWT to influence pathophysiological processes and the morphology of affected tissues remains unclear. The objective of the current review is to evaluate changes in imaging outcomes of musculoskeletal conditions following SWT. Methods A comprehensive search of Medline, Embase, Cochrane Controlled Trials Register, CINAHL and SportDiscus was conducted from inception to October 2018. Prospective clinical trials evaluating the effectiveness of SWT based on changes in imaging outcomes were eligible for inclusion. Articles were evaluated independently for risk of bias using the Cochrane Risk of Bias list and the Methodological Index for Non-Randomized Studies. Random-effects meta-analysis and meta-regression with a priori determined covariates was conducted for each condition to determine potential predictors of SWT effects. Results Sixty-three studies were included, with data from 27 studies available for effect size pooling. Meta-analyses and meta-regression on imaging outcomes were performed for rotator cuff calcific tendinitis ( n = 11), plantar fasciitis ( n = 7) and osteonecrosis of the femoral head ( n = 9). There was an overall reduction in the size of measured lesion following SWT (MD 8.44 mm (95%CI 4.30, 12.57), p &lt; 0.001) for calcium deposit diameter, (MD 0.92 mm (95%CI 0.03, 1.81), p = 0.04) for plantar fascia thickness and (MD 4.84% (95%CI -0.06, 9.75), p = 0.05) for lesion size in femoral head osteonecrosis. Meta-regression showed no influence of SWT dosage parameters, however, baseline lesion size was an independent predictor for changes in imaging outcomes. Conclusions SWT altered the morphology of musculoskeletal conditions, potentially reflecting changes in underlying pathophysiological processes. The parameters of SWT dosage are not significant predictors of changes in imaging outcomes. Lack of adequate reporting of imaging outcomes limited the conclusions that could be drawn from the current review. Registration number: PROSPERO CRD42018091140.
+
+Extracorporeal shockwave therapy in musculoskeletal disorders
+
+Number of 
+
+Key takeaways:Extracorporeal shockwave therapy (ESWT) is a promising non-invasive treatment for various musculoskeletal disorders, with a success rate of 65% to 91% and low complications.
+
+Abstract:The sources of shockwave generation include electrohydraulic, electromagnetic and piezoelectric principles. Electrohydraulic shockwaves are high-energy acoustic waves generated under water explosion with high voltage electrode. Shockwave in urology (lithotripsy) is primarily used to disintegrate urolithiasis, whereas shockwave in orthopedics (orthotripsy) is not used to disintegrate tissues, rather to induce tissue repair and regeneration. The application of extracorporeal shockwave therapy (ESWT) in musculoskeletal disorders has been around for more than a decade and is primarily used in the treatment of sports related over-use tendinopathies such as proximal plantar fasciitis of the heel, lateral epicondylitis of the elbow, calcific or non-calcific tendonitis of the shoulder and patellar tendinopathy etc. The success rate ranged from 65% to 91%, and the complications were low and negligible. ESWT is also utilized in the treatment of non-union of long bone fracture, avascular necrosis of femoral head, chronic diabetic and non-diabetic ulcers and ischemic heart disease. The vast majority of the published papers showed positive and beneficial effects. FDA (USA) first approved ESWT for the treatment of proximal plantar fasciitis in 2000 and lateral epicondylitis in 2002. ESWT is a novel non-invasive therapeutic modality without surgery or surgical risks, and the clinical application of ESWT steadily increases over the years. This article reviews the current status of ESWT in musculoskeletal disorders.
+
+Extracorporeal shock wave therapy mechanisms in musculoskeletal regenerative medicine.
+
+Number of 
+
+Key takeaways:Extracorporeal shockwave therapy (ESWT) effectively treats musculoskeletal disorders by promoting tissue regeneration, pain relief, and improved functional outcomes.
+
+Effect of Shockwave Treatment for Management of Upper and Lower Extremity Musculoskeletal Conditions: A Narrative Review
+
+Number of 
+
+Key takeaways:Shockwave therapy (ESWT) is a generally well-tolerated treatment strategy for various musculoskeletal conditions, with rare complications.
+
+(011) Using Pre-Operative Low Intensity Vestibular Shockwave Therapy Reduces Opioid Use Post-Vestibulectomy
+
+Number of 
+
+Key takeaways:Pre-operative low intensity shockwave therapy (LISWT) significantly reduces opioid use in women undergoing complete vestibulectomy compared to no shockwave treatment.
+
+Abstract:Surgeons performing complete vestibulectomy for neuro-proliferative vestibulodynia need to consider two competing post-operative interests: accomplishing acute pain relief in the early postoperative period; reducing risks of persistent post-operative opioid use. Data support that measures to decrease overall post-operative opioid use will decrease future opioid-related adverse events including opioid abuse and addiction. Sexual medicine providers are thus motivated to identify strategies such as pre-operative low intensity shockwave therapy (LISWT) to decrease opioid use in these vestibulectomy patients. To date, only one study has been published assessing the effect of pre-operative LISWT on surgical outcome. Dumfarth at al reported in a prospective randomized study that pre-operative LISWT significantly improved lower extremity wound healing compared to controls in patients undergoing vein harvesting for coronary artery bypass graft surgery. While Dumfarth et al did not directly assess post-operative pain, pre-operative LISWT was associated with statistically significantly increased satisfactory healing, reduced disturbance of healing and reduced minor skin infections, all consistent with less post-operative pain. It was hypothesized that pre-operative LISWT improved wound healing via enhanced blood supply and angiogenesis through expression of vascular endothelial growth factor (VEGF) and nitric oxide synthesis, and via anti-inflammatory action downregulating necrosis factor B activation thereby lowering inflammatory cytokines.
+ 
+ 
+ 
+ We wished to see if pre-operative LISWT would reduce opioid use in women undergoing complete vestibulectomy. The objective of this study was to compare the use of opioids following vestibulectomy when LISWT with Urogold 100™ MTS was applied just prior to surgery versus no shockwave. LISWT is a non-invasive, non-pharmacologic, non-surgical treatment strategy with low morbidity that is FDA-cleared for pain amelioration in the US as non-significant risk in humans, Urogold 100™MTS provides unfocused electrohydraulic shockwaves with a unique parabolic reflector.
+ 
+ 
+ 
+ Patients scheduled for surgery were required to present to the hospital 4 days before surgery for a COVID-19 test. On that day and each subsequent day until surgery, based on the patient’s availability, the patient presented to the office for approximately 2400 shocks to the vestibule. This is a descriptive study of the patients’ post-operative experiences with pain.
+ 
+ 
+ 
+ To date 4 women have undergone LISWT just prior to surgery. At the time of surgery Exparel was delivered to the site, allowing them 24-36 hours of anesthesia to the area so they could travel home easily. Patients were prescribed Percocet to be take every 4 hours as needed. Post-op patients routinely use this opioid 4-6 times a day for multiple days, causing constipation among the many side effects. The women who underwent LISWT immediately prior to surgery have experienced decreased levels of pain post-operatively such that they are using ½ tab of Percocet at bedtime or twice a day, thus decreasing opioid use with all of its potential side effects.
+ 
+ 
+ 
+ Performing LISWT using Urogold 100™MTS may reduce the need for opioid medications after total vestibulectomy with vaginal advancement flap as it may mediate pain after the surgical procedure.
+ 
+ 
+ 
+ No.
+
+Systematic Review of Complementary and Alternative Veterinary Medicine in Sport and Companion Animals: Extracorporeal Shockwave Therapy
+
+Number of 
+
+Key takeaways:Extracorporeal shockwave therapy (ECSWT) has limited scientific evidence for its clinical effects in horses, dogs, and cats, but shows promise for short-term pain relief, ligament ailments, and osteoarthritis.
+
+Abstract:Simple Summary Extracorporeal shockwave therapy (ECSWT) is widely used in sport and companion animals to treat disorders affecting muscles, joints, and bones. Using a shockwave generator, a probe is applied to the skin over the affected area. Typically, there are one to three treatment sessions at 1- to 3-week intervals. The scientific basis for the treatment has been queried. This systematic review evaluated the scientific literature on shockwave therapy used in horses, dogs, and cats. The review revealed that only weak scientific evidence exists for favourable effects in conditions affecting bones, ligaments, tendons, and muscles in horses and dogs. No scientific article on the use of shockwave therapy in cats was available. Reasons for the weak scientific evidence were that studies were few, most involved only a small number of animals, many had methodological problems, or, when favourable results were reported, they were not replicated in independent studies. Thus, in sport and companion animals, the scientific evidence for the clinical effects of ECSWT in horses, dogs, and cats is limited. For a few indications, notably short-term pain relief, ligament ailments, and osteoarthritis, some results appear promising, warranting further exploration in high-quality studies. Abstract Background: Extracorporeal shockwave therapy (ECSWT) is increasingly used to treat different types of musculoskeletal conditions in sport and companion animals. To explore the scientific basis for the treatment, we conducted a systematic review of the literature on ECSWT used in horses, dogs, and cats. Methods: Relevant articles 
+
+A systematic review of the long-term efficacy of low-intensity shockwave therapy for vasculogenic erectile dysfunction
+
+Number of 
+
+Key takeaways:Low-intensity shockwave therapy (LISWT) shows benefits in vasculogenic erectile dysfunction at 6 months, but long-term efficacy remains unclear.
+
+Abstract:To look at the evidence base for LISWT as a treatment modality for vasculogenic erectile dysfunction, focusing on the long-term outcomes at over 6 months following treatment. A systematic literature search was conducted utilising MEDLINE and Scopus databases from 2010 to September 2018 by two independent reviewers. Outcome measures extracted for long-term efficacy included International Index of Erectile Function scores and Erection Hardness Scores. Subgroup analysis for LISWT effectiveness included age, PDE5i responsiveness, presence of vascular co-morbidities and smoking status. The search identified eleven studies, representing a total of 799 patients. Nine studies found a significant improvement in erectile function after LISWT at 6-month follow-up (median IIEF-EF improvement in 5.3 at 6 months). However, of five studies assessing erectile function at 12 months; two identified a plateauing of results, with three a deterioration (IIEF-EF score changes of − 2 to 0.1 from 6 months). Erectile function did, however, remain above baseline results in all of these studies. Subgroup analysis revealed increasing age to reduce the response to LISWT treatment. Whilst ED severity, PDE5i responsiveness and co-morbidities potentially influence effectiveness, results are still inconsistent. LISWT may be a safe and acceptable potential ED treatment with demonstrated benefits at 6 months. There is some question regarding efficacy deterioration beyond this, but there is still a demonstrated benefit seen even at 12 months post treatment. However, quality of evidence remains low with larger multiinstitutional studies required, standardising confounders such as shockwave administration and oral medication use.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

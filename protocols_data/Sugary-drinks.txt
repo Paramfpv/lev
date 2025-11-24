@@ -1,0 +1,559 @@
+PROTOCOL: Sugary drinks
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Sugary drinks - Increased Risk of Metabolic and Cardiovascular Diseases | Longevity Protocols
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Sweetened beverages, especially those sweetened with sugar, are one of the main risk factors for developing many chronic diseases such as obesity, type 2 diabetes, metabolic syndrome, and cardiovascular diseases. Regular consumption of these beverages has a clearly documented negative impact on health, contributing to an increased risk of death related to these conditions.
+
+CONTENT SECTIONS:
+
+Increased Risk of Metabolic and Cardiovascular Diseases
+
+Sweetened beverages, especially those sweetened with sugar, are one of the main risk factors for developing many chronic diseases such as obesity, type 2 diabetes, metabolic syndrome, and cardiovascular diseases. Regular consumption of these beverages has a clearly documented negative impact on health, contributing to an increased risk of death related to these conditions.
+
+Level of evidence:Strong
+
+Sweetened beverages provide large amounts of simple sugars, which rapidly raise blood glucose levels. As a result, the risk of insulin resistance and the development of type 2 diabetes increases. Additionally, consumption of these beverages contributes to overweight and obesity, as well as disturbances in fat metabolism, leading to the development of cardiovascular diseases. Chronic consumption of these beverages can also lead to inflammation, which further worsens metabolic health.
+
+The harmfulness of regular consumption of sweetened beverages is well documented and confirmed by numerous epidemiological studies and meta-analyses. Consumption of these beverages contributes to the development of obesity, insulin resistance, type 2 diabetes, and cardiovascular diseases. Even moderate intake of sweetened beverages is associated with an increased risk of chronic diseases and premature death.
+
+Sweetened beverages are widely consumed around the world, and their consumption constitutes a significant public health problem. The rise in the consumption of these drinks is particularly concerning in the context of increasing numbers of people with obesity, type 2 diabetes, and cardiovascular diseases. There is a strong correlation between frequent consumption of sweetened beverages and an increase in the incidence of these diseases, especially in developed countries.
+
+Replace sweetened beverages with water
+
+Water is the healthiest option—it not only contains no calories but also supports digestive and cleansing processes in the body. If you find it difficult to give up sweetened beverages, start gradually replacing them with water.
+
+Choose non-caloric drinks
+
+Drinks with low-calorie sweeteners may be a better alternative to sugar-sweetened beverages. Remember that while they are less caloric, their intake should still be limited.
+
+Increase fruit and vegetable intake
+
+If you crave something sweet, try reaching for fruit instead of drinks. Fruits contain natural sugars that are healthier, plus they provide vitamins and fiber.
+
+Reduce portions of sweetened drinks
+
+Instead of drinking large amounts of sweetened beverages, try limiting your intake to one portion a day. Reducing consumption can significantly improve metabolic health.
+
+Consider the long-term effect
+
+Think about the long-term consequences of consuming sweetened beverages, especially in the context of chronic diseases such as obesity, diabetes, or cardiovascular diseases. Small dietary changes can lead to major health benefits in the future.
+
+Cardiovascular system
+
+Sweetened beverages, both with sugar and artificial sweeteners, are strongly associated with an increased risk of cardiovascular diseases. Regular consumption negatively affects the cardiovascular system, increasing the risk of heart attack, stroke, hypertension, and cardiovascular mortality.
+
+Sweetened beverages, especially sugar-sweetened beverages (SSB), are widely studied for their impact on body composition. Regular consumption promotes weight gain, increased body fat, and a higher risk of overweight and obesity in both children and adults.
+
+Impact on body weight and fat tissue
+
+Mechanisms and metabolic effects
+
+Summary of studies (selected results)
+
+Sweetened beverages, especially sugar-sweetened beverages (SSB), have a clearly negative impact on metabolism. Regular consumption increases the risk of obesity, insulin resistance, type 2 diabetes, metabolic syndrome, and other metabolic disorders.
+
+Impact of sweetened beverages on metabolism
+
+Table: Effects of sweetened beverages on selected metabolic parameters
+
+Non-caloric sweeteners
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:47
+
+Final comment:The consumption of sweetened beverages, especially those sweetened with sugar, is strongly associated with many negative health effects, including obesity, type 2 diabetes, metabolic syndrome, and cardiovascular diseases. Numerous epidemiological studies, meta-analyses, and randomized controlled trials (RCTs) provide strong evidence that regular consumption of sweetened beverages significantly increases the risk of these diseases. Studies show that this effect is significant for both sugar-sweetened beverages and beverages sweetened with artificial sweeteners. Therefore, the level of evidence for this intervention can be considered strong.
+
+Sugar‐Sweetened Soft Drink Consumption Acutely Modifies Cardiovascular Control in Healthy Adults
+
+Number of 
+
+Key takeaways:Sugar-sweetened soft drinks acutely alter cardiovascular control in healthy adults, potentially increasing the risk of cardiometabolic diseases.
+
+Abstract:Long‐term consumption of sugar‐sweetened soft drinks is associated with an increased prevalence of cardiometabolic diseases. Previous reports demonstrate that consuming a bolus of fructose‐sweetened water acutely increases blood pressure variability (BPV) and decreases spontaneous cardiovagal baroreflex sensitivity (cBRS) and heart rate variability (HRV). If caffeinated soft drinks containing high levels of fructose elicit similar responses is unknown.
+
+Sugary drinks, artificially sweetened beverages and cardiovascular disease in NutriNet-Santé cohort
+
+Number of 
+
+Key takeaways:Higher consumption of sugary drinks and artificially sweetened beverages is associated with a higher risk of cardiovascular disease, suggesting they may not be a healthy substitute for sugary drinks.
+
+Abstract:Sugary drinks consumption has increased worldwide in recent years and evidence demonstrating their detrimental impact on cardio-metabolic health is accumulating. Artificially sweetened beverages (ASB) are marketed as a healthier alternative, but their cardio-metabolic impact is being debated in the scientific community. This study aimed to investigate the relationships between the consumption of ASB, sugary drinks and the risk of first incident cardiovascular disease (CVD) in a large prospective cohort.
+ 
+ 
+ 
+ The French NutriNet-Santé cohort was launched in 2009. Every 6 months participants are asked to fill 3 validated web-based 24-hour dietary records. All major health events reported by participants were validated based on their medical records by a committee of physicians. Data were also linked to national health insurance system and to the French national cause of specific mortality registry. For each type of beverage, 3 categories were defined as follows: non-consumers, low consumers and high consumers (separated by sex-specific median among consumers). Multi-adjusted Cox proportional hazard models with age as the primary time scale were performed.
+ 
+ 
+ 
+ A total of 104,761 participants were included. During follow-up (2009-2019), 1,379 first incident cases of CVD occurred. Compared to non-consumers, higher consumers of sugary drinks had a higher risk of overall CVD (HR = 1.21, 95% CI 1.04 to 1.40, Ptrend=0.009). Higher consumers of ASB had also a significantly higher risk of CVD (HR = 1.30, 95% CI 1.00 to 1.71, Ptrend =0.04).
+ 
+ 
+ 
+ Both sugary drinks and ASB were similarly associated with CVD risk. The health effects of non-nutritive sweeteners is currently being debated based on contrasted epidemiological results. Mechanistic data suggests metabolic effects through gut microbiota perturbation and body weight gain. To imply a causal link, they need replication in other large-scale prospective cohort as well as further mechanistic investigations.
+ 
+ 
+ 
+ Higher consumption of sugary drinks and ASB was associated with higher risk of CVD, suggesting that ASB might not be a healthy substitute for sugary drinks when considering cardiovascular health. These data provide additional arguments to feed the current debate on taxes, labeling and regulation of sugary and artificially sweetened beverages.
+
+High consumption of artificially sweetened beverages and associated risk of cardiovascular events: A systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:High consumption of artificially sweetened beverages is significantly associated with increased risk of all-cause mortality, cardiovascular disease, and stroke.
+
+Sugar Sweetened and Artificially Sweetened Beverages Consumption and Risk of Cardiovascular Health.
+
+Number of 
+
+Key takeaways:Increasing consumption of sugar-sweetened and artificially sweetened beverages may increase the risk of developing cardiovascular complications and mortality.
+
+Sugar-Sweetened Beverages and Cardiometabolic Health: An Update of the Evidence
+
+Number of 
+
+Key takeaways:Sugar-sweetened beverages are strongly associated with weight gain, type 2 diabetes, and coronary heart disease risk, emphasizing the need to reduce their intake for improved cardiometabolic health.
+
+Abstract:Sugar-sweetened beverages (SSBs) have little nutritional value and a robust body of evidence has linked the intake of SSBs to weight gain and risk of type 2 diabetes (T2D), cardiovascular disease (CVD), and some cancers. Metabolic Syndrome (MetSyn) is a clustering of risk factors that precedes the development of T2D and CVD; however, evidence linking SSBs to MetSyn is not clear. To make informed recommendations about SSBs, new evidence needs to be considered against existing literature. This review provides an update on the evidence linking SSBs and cardiometabolic outcomes including MetSyn. Findings from prospective cohort studies support a strong positive association between SSBs and weight gain and risk of T2D and coronary heart disease (CHD), independent of adiposity. Associations with MetSyn are less consistent, and there appears to be a sex difference with stroke with greater risk in women. Findings from short-term trials on metabolic risk factors provide mechanistic support for associations with T2D and CHD. Conclusive evidence from cohort studies and trials on risk factors support an etiologic role of SSB in relation to weight gain and risk of T2D and CHD. Continued efforts to reduce intake of SSB should be encouraged to improve the cardiometabolic health of individuals and populations.
+
+Associations between sweetened beverage consumption, degenerative valvular heart disease, and related events: a prospective study from UK Biobank.
+
+Number of 
+
+Key takeaways:Lower consumption of sugar-sweetened and artificially sweetened beverages may reduce the risk of degenerative valvular heart disease and related events.
+
+Abstract:AIMS
+There are no effective medications to prevent the onset of degenerative valvular heart disease (VHD). Sweetened beverage consumption may contribute to the development of VHD by affecting metabolic disorders, systemic inflammation, and calcification processes. This study aimed to prospectively assess the association between sweetened beverage consumption and the risk of degenerative VHD.
+
+METHODS AND RESULTS
+This prospective study included 167,801 participants from the UK Biobank who completed at least one dietary questionnaire. During a median follow-up of 14.53 years, 1,464 cases of aortic valve stenosis (AS) events, 584 cases of aortic valve regurgitation (AR) events, and 1,744 cases of mitral valve regurgitation (MR) events were recorded. Compared with non-consumers, participants consuming more than one drink per day of artificially sweetened beverages (ASBs) had a higher risk of AS (HR: 1.36, 95% CI: 1.10-1.68), AR (HR: 1.42, 95% CI: 1.02-2.00), MR (HR: 1.35, 95% CI: 1.10-1.64). Similarly, the consumption of more than one drink of sugar-sweetened beverages (SSBs) was associated with an increased incidence of MR (HR: 1.47, 95% CI: 1.22-1.77). In contrast, no significant association was observed between the consumption of natural juices (NJs) and VHD risk. Results for VHD-related interventions, deaths, or cardiovascular events were largely consistent. Substituting SSBs or ASBs per day with NJs was associated with a reduced risk of MR (HR: 0.83, 95% CI: 0.72-0.94) events or AS (HR: 0.81, 95% CI: 0.69-0.94) events, respectively.
+
+CONCLUSIONS
+Lower consumption of SSBs or ASBs may reduce the risk of degenerative VHD and VHD-related events.
+
+Intake of Sugar-Sweetened and Low-Calorie Sweetened Beverages and Risk of Cardiovascular Disease: A Meta-Analysis and Systematic Review
+
+Number of 
+
+Key takeaways:Habitual consumption of sugar-sweetened beverages is associated with a higher risk of cardiovascular disease morbidity and mortality, while low-calorie sweetened beverages also have a higher risk.
+
+Abstract:ABSTRACT The long-term associations between the consumption of sugar-sweetened beverages (SSBs) and low-calorie sweetened beverages (LCSBs) with cardiovascular diseases (CVDs) remains inconsistent. To synthesize the evidence, we conducted a meta-analysis of prospective cohort studies 
+
+Sugar‐Sweetened Beverage Intake and Cardiovascular Disease Risk in the California Teachers Study
+
+Number of 
+
+Key takeaways:Consuming 1 serving per day of sugar-sweetened beverages is associated with an increased risk of cardiovascular disease, revascularization, and stroke in women.
+
+Abstract:Background Sugar‐sweetened beverage (SSB) consumption has been associated with cardiometabolic risk. However, the association between total and type of SSB intake and incident cardiovascular disease (CVD) end points such as myocardial infarction, stroke, and revascularization is limited. Methods and Results We examined the prospective association of baseline SSB consumption with incident CVD in 106 178 women free from CVD and diabetes mellitus in the CTS (California Teachers Study), a cohort of female teachers and administrators, followed since 1995. SSBs were defined as caloric soft drinks, sweetened bottled waters or teas, and fruit drinks, and derived from a self‐administered food frequency questionnaire. CVD end points were based on annual linkage with statewide inpatient hospitalization records. Cox proportional hazards models were used to assess the association between SSB consumption and incident CVD. A total of 8848 CVD incident cases were documented over 20 years of follow‐up. After adjusting for potential confounders, we observed higher hazard ratios (HRs) for CVD (HR, 1.19; 95% CI, 1.06–1.34), revascularization (HR, 1.26; 95% CI, 1.04–1.54]), and stroke (HR, 1.21; 95% CI, 1.04–1.41) in women who consumed ≥1 serving per day of SSBs compared with rare/never consumers. We also observed a higher risk of CVD in women who consumed ≥1 serving per day of fruit drinks (HR, 1.42; 95% CI, 1.00–2.01 ) and caloric soft drinks (HR, 1.23; 95% CI, 1.05–1.44 ), compared with rare/never consumers. Conclusions Consuming ≥1 serving per day of SSB was associated with CVD, revascularization, and stroke. SSB intake might be a modifiable dietary target to reduce risk of CVD among women.
+
+Sweetened beverage consumption and risk of cardiovascular mortality: A systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:High consumption of sugar-sweetened and artificially-sweetened beverages is associated with an increased risk of cardiovascular mortality.
+
+Consumption of sugar sweetened beverages, artificially sweetened beverages and fruit juices and risk of type 2 diabetes, hypertension, cardiovascular disease, and mortality: A meta-analysis
+
+Number of 
+
+Key takeaways:Higher consumption of sugar-sweetened and artificially sweetened beverages increases the risk of cardiometabolic diseases and mortality, while fruit juice intake is linked to a higher risk of type 2 diabetes.
+
+Abstract:Introduction Sugar-sweetened beverage (SSB) intake is associated with an increased risk of cardiometabolic diseases. However, evidence regarding associations of artificially sweetened beverages (ASBs) and fruit juices with cardiometabolic diseases is mixed. In this study, we aimed to investigate the association between the SSB, ASB and fruit juice consumption with the incidence of cardiometabolic conditions and mortality. Methods Relevant prospective studies were identified by searching PubMed, Web of Science, Embase, and Cochrane Library until December 2022 without language restrictions. The pooled relative risk (RR) and 95% confidence intervals (CIs) were estimated for the association of SSBs, ASBs, and fruit juices with the risk of type 2 diabetes (T2D), cardiovascular disease (CVD), and mortality by using random-effect models. Results A total of 72 articles were included in this meta-analysis study. Significantly positive associations were observed between the consumption of individual beverages and T2D risk (RR: 1.27; 95% CI: 1.17, 1.38 for SSBs; RR: 1.32; 95% CI: 1.11, 1.56 for ASBs; and RR:0.98; 95% CI: 0.93, 1.03 for fruit juices). Moreover, our findings showed that intakes of SSBs and ASBs were significantly associated with risk of hypertension, stroke, and all-cause mortality (RR ranging from 1.08 to 1.54; all p < 0.05). A dose-response meta-analysis showed monotonic associations between SSB intake and hypertension, T2D, coronary heart disease (CHD), stroke and mortality, and the linear association was only significant between ASB consumption and hypertension risk. Higher SSB and ASB consumptions were associated with a greater risk of developing cardiometabolic diseases and mortality. Fruit juice intake was associated with a higher risk of T2D. Conclusion Therefore, our findings suggest that neither ASBs nor fruit juices could be considered as healthier beverages alternative to SSBs for achieving improved health. Systematic Review Registration: , identifier .
+
+Sugar- and Artificially Sweetened Beverages Consumption Linked to Type 2 Diabetes, Cardiovascular Diseases, and All-Cause Mortality: A Systematic Review and Dose-Response Meta-Analysis of Prospective Cohort Studies
+
+Number of 
+
+Key takeaways:Increased consumption of sugar- and artificially sweetened beverages is associated with an increased risk of type 2 diabetes, cardiovascular diseases, and all-cause mortality.
+
+Abstract:Although studies have examined the association between habitual consumption of sugar- (SSBs) and artificially sweetened beverages (ASBs) and health outcomes, the results are inconclusive. Here, we conducted a dose-response meta-analysis of prospective cohort studies in order to summarize the relationship between SSBs and ASBs consumption and risk of type 2 diabetes (T2D), cardiovascular diseases (CVDs), and all-cause mortality. All relevant articles were systematically searched in PubMed, Embase, and Ovid databases until 20 June 2020. Thirty-four studies met the inclusion criteria and were eligible for analysis. Summary relative risks (RRs) and 95% confidence intervals (95% CI) were estimated using random effects or fixed-effects model for highest versus lowest intake categories, as well as for linear and non-linear relationships. With each additional SSB and ASB serving per day, the risk increased by 27% (RR: 1.27, 95%CI: 1.15–1.41, I2 = 80.8%) and 13% (95%CI: 1.03–1.25, I2 = 78.7%) for T2D, 9% (RR: 1.09, 95%CI: 1.07–1.12, I2 = 42.7%) and 8% (RR: 1.08, 95%CI: 1.04–1.11, I2 = 45.5%) for CVDs, and 10% (RR: 1.10, 95%CI: 0.97–1.26, I2 = 86.3%) and 7% (RR: 1.07, 95%CI: 0.91–1.25, I2 = 76.9%) for all-cause mortality. Linear relationships were found for SSBs with T2D and CVDs. Non-linear relationships were found for ASBs with T2D, CVDs, and all-cause mortality and for SSBs with all-cause mortality. The findings from the current meta-analysis indicate that increased consumption of SSBs and ASBs is associated with the risk of T2D, CVDs, and all-cause mortality.
+
+Artificially Sweetened Beverages and Health Outcomes: An Umbrella Review
+
+Number of 
+
+Key takeaways:Artificially sweetened beverages are associated with a higher risk of obesity, type 2 diabetes, all-cause mortality, hypertension, and cardiovascular disease incidence.
+
+Added Sugar, Sugar-Sweetened Beverages, and Artificially Sweetened Beverages and Risk of Cardiovascular Disease: Findings from the Women’s Health Initiative and a Network Meta-Analysis of Prospective Studies
+
+Number of 
+
+Key takeaways:A diet with added sugar intake ≥15% and consuming ≥1 serving of sugar-sweetened or artificially sweetened beverages may be associated with a higher risk of cardiovascular disease.
+
+Abstract:Much remains unknown about the role of added sugar in relation to cardiovascular disease (CVD) and the relative contributions of sugar-sweetened beverages (SSB) or artificially sweetened beverages (ASB) to CVD risk. Among the 109,034 women who participated in Women’s Health Initiative, we assessed average intakes of added sugar, SSB and ASB, and conducted Cox regression to estimate the hazard ratios (HRs) and their 95% confidence intervals for CVD risk. The consistency of findings was compared to a network meta-analysis of all available cohorts. During an average of 17.4 years of follow-up, 11,597 cases of total CVD (nonfatal myocardial infarction, coronary heart disease (CHD) death, stroke, coronary revascularization, and/or incident heart failure) were confirmed. Added sugar as % energy intake daily (%EAS) at ≥15.0% was positively associated with total CVD (HR = 1.08 ) and CHD (HR = 1.20 ). There was also a higher risk of total CVD associated with ≥1 serving of SSB intake per day (HR = 1.29 ), CHD (1.35 ), and total stroke (1.30 ). Similarly, ASB intake was associated with an increased risk of CVD (1.14 ) and stroke (1.24 ). According to the network meta-analysis, there was a large amount of heterogeneity across studies, showing no consistent pattern implicating added sugar, ASB, or SSB in CVD outcomes. A diet containing %EAS ≥15.0% and consuming ≥1 serving of SSB or ASB may be associated with a higher CVD incidence. The relative contribution of added sugar, SSB, and ASB to CVD risk warrants further investigation.
+
+Sugar-sweetened beverage consumption, weight gain, and risk of type 2 diabetes and cardiovascular diseases in Asia: a systematic review.
+
+Number of 
+
+Key takeaways:High sugar-sweetened beverage consumption is associated with weight gain, increased risk of type 2 diabetes, and possibly certain cardiovascular diseases in Asian populations.
+
+Abstract:CONTEXT
+The prevalence of type 2 diabetes mellitus (T2DM) and cardiovascular diseases (CVDs) is increasing in Asia and several countries are adopting preventive policies to reduce consumption of sugar-sweetened beverages (SSBs). However, evidence on the relation between SSB consumption and cardiometabolic health in Asian populations has not been summarized.
+
+OBJECTIVE
+In this systematic review, the associations between consumption of SSBs and cardiometabolic outcomes, including obesity, T2DM, and CVD, are examined in Asian populations.
+
+DATA SOURCES
+The PubMed, Scopus, and Web of Science databases, and gray literature were searched up to October, 2020 to identify relevant articles.
+
+DATA EXTRACTION
+Two investigators independently extracted data from included studies.
+
+DATA ANALYSIS
+When sufficient studies were available, a random-effects meta-analysis was used to calculate the pooled estimates (expressed as risk ratio and 95% confidence interval ). Heterogeneity was tested and quantified using the Cochrane Q test and I2 statistic, respectively.
+
+RESULTS
+Of the 17 studies included, 8 provided results about measures of adiposity (3 on weight change, 4 on body mass index (BMI), 2 on percent body fat, and 1 on abdominal obesity), 6 reported results about T2DM, and 3 reported on different CVD outcomes. High SSB consumption was significantly associated with greater weight gain and with a higher risk of selected CVD outcomes as compared with low consumption. In the meta-analysis, high SSB consumption was associated with greater T2DM risk before (RR, 1.51; 95%CI, 1.15-1.98 for highest vs lowest category; I2 = 76%) and after (RR, 1.38; 95%CI, 1.09-1.73; I2 = 56%) adjustment for BMI.
+
+CONCLUSIONS
+These findings suggest that high SSB consumption is directly associated with weight gain, risk of T2DM, and, possibly, selected CVD outcomes in Asian populations. Public health strategies to reduce SSB consumption in Asian countries are warranted.
+
+SYSTEMATIC REVIEW REGISTRATION
+PROSPERO registration no. CRD42019129456.Keywords: adiposity. cardiovascular disease, Asia, sugar-sweetened beverages, type 2 diabetes.
+
+Sweetened beverage consumption and risk of coronary heart disease in women.
+
+Number of 
+
+Key takeaways:Regular consumption of sugar-sweetened beverages is associated with a higher risk of coronary heart disease in women, even after accounting for other unhealthful lifestyle or dietary factors.
+
+Abstract:BACKGROUND
+Previous studies have linked full-calorie sugar-sweetened beverages (SSBs) with greater weight gain and an increased risk of type 2 diabetes.
+
+OBJECTIVE
+We prospectively examined the association between consumption of SSBs and the risk of coronary heart disease (CHD) in women.
+
+DESIGN
+Women (n = 88,520) from the Nurses' Health Study aged 34-59 y, without previously diagnosed coronary heart disease (CHD), stroke, or diabetes in 1980, were followed from 1980 to 2004. Consumption of SSBs was derived from 7 repeated food-frequency questionnaires administered between 1980 and 2002. Relative risks (RRs) for CHD were calculated by using Cox proportional hazards models and adjusted for known cardiovascular disease risk factors.
+
+RESULTS
+During 24 y of follow-up, we ascertained 3105 incident cases of CHD (nonfatal myocardial infarction and fatal CHD). After standard and dietary risk factors were adjusted for, the RRs (and 95% CIs) of CHD according to categories of cumulative average of SSB consumption (<1/mo, 1-4/mo, 2-6/wk, 1/d, and > or =2 servings/d) were 1.0, 0.96 (0.87, 1.06), 1.04 (0.95, 1.14), 1.23 (1.06, 1.43), and 1.35 (1.07, 1.69) (P for trend < 0.001). Additional adjustment for body mass index, energy intake, and incident diabetes attenuated the associations, but they remained significant. Artificially sweetened beverages were not associated with CHD.
+
+CONCLUSION
+Regular consumption of SSBs is associated with a higher risk of CHD in women, even after other unhealthful lifestyle or dietary factors are accounted for.
+
+Sugar- or artificially-sweetened beverage consumption, physical activity, and risk of cardiovascular disease in adults: a prospective cohort study.
+
+Number of 
+
+Key takeaways:Higher sugar-sweetened beverage intake is associated with increased cardiovascular disease risk, regardless of physical activity levels.
+
+Fructose and Risk of Cardiometabolic Disease
+
+Number of 
+
+Key takeaways:Consumption of sugar-sweetened beverages is linked to increased risks of cardiovascular disease, obesity, and metabolic syndrome, as well as gout and non-alcoholic fatty liver disease.
+
+Abstract:Fructose and glucose in soft drinks and fruit drinks account for just under 50 % of added sugars. Soft drinks intake has risen five-fold between 1950 and 2000, and this increase in intake of simple sugars has raised health concerns. The risks of cardiovascular disease, obesity and the metabolic syndrome have all been related to consumption of sugar-sweetened beverages in several, but not all meta-analyses. Fructose and sugar-sweetened beverages have also been related to the risk of gout in men, and to non-alcoholic fatty liver disease. Studies show that the calories in sugar-sweetened beverages do not produce an adequate reduction in the intake of other foods, leading to increased caloric intake. Plasma triglycerides are increased by sugar-sweetened beverages, and this increase appears to be due to fructose, rather than to glucose in sugar. Several 10-week to 26-week randomized trials of sugar-containing soft drinks show increases in triglycerides, body weight, and visceral adipose tissue; there were also increases in muscle fat and liver fat, which might lead to non-alcoholic-fatty liver disease.
+
+Sugar-Sweetened Beverages and Adverse Human Health Outcomes: An Umbrella Review of Meta-Analyses of Observational Studies.
+
+Number of 
+
+Key takeaways:Greater sugar-sweetened beverage consumption is linked to increased risks of depression, cardiovascular disease, nephrolithiasis, type 2 diabetes, and higher uric acid levels.
+
+Abstract:Our aim was to conduct an umbrella review of evidence from meta-analyses of observational studies investigating the link between sugar-sweetened beverage consumption and human health outcomes. Using predefined evidence classification criteria, we evaluated evidence from 47 meta-analyses encompassing 22,055,269 individuals. Overall, 79% of these analyses indicated direct associations between greater sugar-sweetened beverage consumption and higher risks of adverse health outcomes. Convincing evidence (class I) supported direct associations between sugar-sweetened beverage consumption and risks of depression, cardiovascular disease, nephrolithiasis, type 2 diabetes mellitus, and higher uric acid concentrations. Highly suggestive evidence (class II) supported associations with risks of nonalcoholic fatty liver disease and dental caries. Out of the remaining 40 meta-analyses, 29 were graded as suggestive or weak in the strength of evidence (classes III and IV), and 11 showed no evidence (class V). These findings inform and provide support for population-based and public health strategies aimed at reducing sugary drink consumption for improved health.
+
+Long-Term Consumption of Sugar-Sweetened and Artificially Sweetened Beverages and Risk of Mortality in US Adults
+
+Number of 
+
+Key takeaways:Long-term consumption of sugar-sweetened beverages is associated with a higher risk of total mortality, primarily due to cardiovascular disease, while high intake levels of artificially sweetened beverages are associated with total and CVD mortality in women.
+
+Abstract:Background: Whether consumption of sugar-sweetened beverages (SSBs) or artificially sweetened beverages (ASBs) is associated with risk of mortality is of public health interest. Methods: We examined associations between consumption of SSBs and ASBs with risk of total and cause-specific mortality among 37 716 men from the Health Professional’s Follow-up study (from 1986 to 2014) and 80 647 women from the Nurses’ Health study (from 1980 to 2014) who were free from chronic diseases at baseline. Cox proportional hazards regression was used to estimate hazard ratios and 95% confidence intervals. Results: We documented 36 436 deaths (7896 cardiovascular disease and 12 380 cancer deaths) during 3 415 564 person-years of follow-up. After adjusting for major diet and lifestyle factors, consumption of SSBs was associated with a higher risk of total mortality; pooled hazard ratios (95% confidence intervals) across categories (<1/mo, 1–4/mo, 2–6/week, 1-<2/d, and ≥2/d) were 1.00 (reference), 1.01 (0.98, 1.04), 1.06 (1.03, 1.09), 1.14 (1.09, 1.19), and 1.21 (1.13, 1.28; P trend <0.0001). The association was observed for CVD mortality (hazard ratio comparing extreme categories was 1.31 , P trend <0.0001) and cancer mortality (1.16 , P trend =0.0004). ASBs were associated with total and CVD mortality in the highest intake category only; pooled hazard ratios (95% confidence interval) across categories were 1.00 (reference), 0.96 (0.93, 0.99), 0.97 (0.95, 1.00), 0.98 (0.94, 1.03), and 1.04 (1.02, 1.12; P trend = 0.01) for total mortality and 1.00 (reference), 0.93 (0.87, 1.00), 0.95 (0.89, 1.00), 1.02 (0.94, 1.12), and 1.13 (1.02, 1.25; P trend = 0.02) for CVD mortality. In cohort-specific analysis, ASBs were associated with mortality in NHS (Nurses’ Health Study) but not in HPFS (Health Professionals Follow-up Study) (P interaction, 0.01). ASBs were not associated with cancer mortality in either cohort. Conclusions: Consumption of SSBs was positively associated with mortality primarily through CVD mortality and showed a graded association with dose. The positive association between high intake levels of ASBs and total and CVD mortality observed among women requires further confirmation.
+
+OUP accepted manuscript
+
+Number of 
+
+Key takeaways:Sugar-sweetened beverages and unhealthy foods in childhood may increase BMI, body fat, or odds of overweight/obesity, while artificially sweetened beverages and 100% fruit juice make little or no difference.
+
+Abstract:This WHO-commissioned review contributed to the update of complementary feeding recommendations, synthesizing evidence on effects of unhealthy food and beverage consumption in children on overweight and obesity. We searched PubMed (Medline), Cochrane CENTRAL, and Embase for articles, irrespective of language or geography. Inclusion criteria were: 1) randomized controlled trials (RCTs), non-RCTs, cohort studies, and pre/post studies with control; 2) participants aged ≤10.9 y at exposure; 3) studies reporting greater consumption of unhealthy foods/beverages compared with no or low consumption; 4) studies assessing anthropometric and/or body composition; and 5) publication date ≥1971. Unhealthy foods and beverages were defined using nutrient- and food-based approaches. Risk of bias was assessed using the ROBINS-I (risk of bias in nonrandomized studies of interventions version I) and RoB2 tools for nonrandomized and randomized studies, respectively. Narrative synthesis was complemented by meta-analyses where appropriate. Certainty of evidence was assessed using Grading of Recommendations Assessment, Development, and Evaluation. Of 26,542 identified citations, 60 studies from 71 articles were included. Most studies were observational (59/60), and no included studies were from low-income countries. The evidence base was low quality, as assessed by ROBINS-I and RoB2 tools. Evidence synthesis was limited by the different interventions and comparators across studies. Evidence indicated that consumption of sugar-sweetened beverages (SSBs) and unhealthy foods in childhood may increase BMI/BMI z-score, percentage body fat, or odds of overweight/obesity (low certainty of evidence). Artificially sweetened beverages and 100% fruit juice consumption make little/no difference to BMI, percentage body fat, or overweight/obesity outcomes (low certainty of evidence). Meta-analyses of a subset of studies indicated a positive association between SSB intake and percentage body fat, but no association with change in BMI and BMI z-score. High-quality epidemiological studies that are designed to assess the effects of unhealthy food consumption during childhood on risk of overweight/obesity are needed to contribute to a more robust evidence base upon which to design policy recommendations. This protocol was registered at as CRD42020218109.
+
+Three-Month Daily Consumption of Sugar-Sweetened Beverages Affects the Liver, Adipose Tissue, and Glucose Metabolism
+
+Number of 
+
+Key takeaways:Daily consumption of sugar-sweetened beverages for 3 months leads to metabolic impairment, weight gain, and may contribute to the development of metabolic diseases.
+
+Abstract:Background Growing evidence suggests links between sugar-sweetened beverages (SSBs) and metabolic disorders. We investigated the effects of SSBs commonly consumed by adolescents and their relationships to glucose metabolism and fatty liver. Methods We treated 7-week old male C57BL/6 mice with water (control) or one of three different SSBs, carbonated soda (Coca-Cola), sweetened milk coffee (Maxwell), or chocolate-added cocoa (Choco-Latte), for 13 weeks (n=10 in each group). Half of the animals were fed a regular chow diet and the other half a high-fat diet (40% fat). Body composition and biochemical variables were investigated at the end of treatment. Histology of the liver and adipose tissue, as well as molecular signaling related to glucose and lipid metabolism, were also evaluated. Results During the 13-week treatment, mice treated with chocolate-added cocoa or sweetened milk coffee showed significantly greater increases in body weight compared with controls, especially when fed a high-fat diet. Fasting glucose level was higher in the three SSB-treated groups compared with the control group. Lipid droplets in the liver, fat cell size, and number of CD68-positive cells in adipose tissue were greater in the SSB-treated groups than in the control group. SSB treatments increased the expression of genes related to inflammatory processes in the liver and adipose tissue. Phosphorylation of AKT and glycogen synthase kinase in muscle was significantly reduced in SSB-treated groups. Conclusion Daily consumption of SSBs over 3 months lead to metabolic impairment and weight gain and may contribute to development of metabolic diseases.
+
+Changes in Sugar Sweetened Beverage Intake Are Associated with Changes in Body Composition in Mexican Adolescents: Findings from the ELEMENT Cohort
+
+Number of 
+
+Key takeaways:Increased sugar-sweetened beverage intake in Mexican adolescents is associated with increased body fat percentage and waist circumference, but not BMI, over two years.
+
+Abstract:Changes in consumption of sugar sweetened beverage (SSBs) have been associated with increased body mass index (BMI), but little work has evaluated the effect on waist circumference (WC) and body fat percentage during adolescence, a period characterized by rapid growth and change in dietary behaviors. We examined the relationship of changes in SSB intake and changes in adiposity over two years in 464 Mexican adolescents. Food frequency questionnaires were used to sum intake of regular soda, coffee with sugar, tea with sugar, sweetened water with fruit, chocolate milk, corn atole, and a sweetened probiotic milk beverage. Linear regression models were used to estimate the associations of changes in SSBs with changes in BMI, body fat percentage, and WC, adjusting for sex, socioeconomic status, screen time, physical activity, age, and change in age. Adolescents who increased their daily SSB intake by >2 serving had a −2.72% higher body fat percentage (95% CI: 0.61, 4.82); a 1–2 serving increase was associated with a 2.49 cm increase (95% CI: 0.21, 4.76) in WC compared with those with no change in intake. Within an adolescent sample, changes in SSB intake were related to concomitant changes in body fat percentage and WC, but not BMI.
+
+Effects of Sugar‐Sweetened, Artificially Sweetened, and Unsweetened Beverages on Cardiometabolic Risk Factors, Body Composition, and Sweet Taste Preference: A Randomized Controlled Trial
+
+Number of 
+
+Key takeaways:Replacing sugar-sweetened beverages with noncaloric options for 12 months did not affect cholesterol ratios, but reduced body weight in those with central adiposity, with unsweetened beverages showing the most favorable effect on sweet taste preference.
+
+Abstract:Background A 2018 American Heart Association science advisory indicated that, pending further research, artificially sweetened beverages (ASBs) may be an appropriate initial replacement for sugar‐sweetened beverages (SSBs) during transition to unsweetened beverages (USBs). Methods and Results We randomly assigned 203 adults (121 males, 82 females; 91.6% retention), who habitually consumed SSBs, to 3 groups and delivered free SSBs, ASBs, or USBs to their homes for 12 months. Outcomes included serum triglyceride to high‐density lipoprotein cholesterol ratio (primary), body weight, and sweet taste preference (experimental assessment, 0%–18% sucrose solutions). Change in serum triglyceride to high‐density lipoprotein cholesterol ratio was not different between groups. Although overall change in weight also was not different between groups, we found effect modification (P=0.006) by central adiposity. Among participants in the highest tertile of baseline trunk fat but not other tertiles, weight gain was greater (P=0.002) for the SSB (4.4±1.0 kg, estimate±SE) compared with ASB (0.5±0.9 kg) or USB (−0.2±0.9 kg) group. Both sweetness threshold (–1.0±0.2% m/v; P=0.005) and favorite concentration (–2.3±0.4% m/v; P<0.0001) decreased in the USB group; neither changed in the SSB group. In the ASB group, sweetness threshold did not change, and favorite concentration decreased (–1.1±0.5% m/v; P=0.02). Pairwise comparison between the ASB and USB groups indicated a difference in sweetness threshold (P=0.015). Conclusions Replacing SSBs with noncaloric beverages for 12 months did not affect serum triglyceride to high‐density lipoprotein cholesterol ratio. Among individuals with central adiposity, replacing SSBs with either ASBs or USBs lowered body weight. However, USBs may have the most favorable effect on sweet taste preference. Registration 
+
+Sucrose-sweetened beverages increase fat storage in the liver, muscle, and visceral fat depot: a 6-mo randomized intervention study.
+
+Number of 
+
+Key takeaways:Daily intake of sucrose-sweetened soft drinks for 6 months increases ectopic fat accumulation and lipids, likely enhancing the risk of cardiovascular and metabolic diseases.
+
+Abstract:BACKGROUND
+The consumption of sucrose-sweetened soft drinks (SSSDs) has been associated with obesity, the metabolic syndrome, and cardiovascular disorders in observational and short-term intervention studies. Too few long-term intervention studies in humans have examined the effects of soft drinks.
+
+OBJECTIVE
+We compared the effects of SSSDs with those of isocaloric milk and a noncaloric soft drink on changes in total fat mass and ectopic fat deposition (in liver and muscle tissue).
+
+DESIGN
+Overweight subjects (n = 47) were randomly assigned to 4 different test drinks (1 L/d for 6 mo): SSSD (regular cola), isocaloric semiskim milk, aspartame-sweetened diet cola, and water. The amount of intrahepatic fat and intramyocellular fat was measured with (1)H-magnetic resonance spectroscopy. Other endpoints were fat mass, fat distribution (dual-energy X-ray absorptiometry and magnetic resonance imaging), and metabolic risk factors.
+
+RESULTS
+The relative changes between baseline and the end of 6-mo intervention were significantly higher in the regular cola group than in the 3 other groups for liver fat (132-143%, sex-adjusted mean; P < 0.01), skeletal muscle fat (117-221%; P < 0.05), visceral fat (24-31%; P < 0.05), blood triglycerides (32%; P < 0.01), and total cholesterol (11%; P < 0.01). Total fat mass was not significantly different between the 4 beverage groups. Milk and diet cola reduced systolic blood pressure by 10-15% compared with regular cola (P < 0.05). Otherwise, diet cola had effects similar to those of water.
+
+CONCLUSION
+Daily intake of SSSDs for 6 mo increases ectopic fat accumulation and lipids compared with milk, diet cola, and water. Thus, daily intake of SSSDs is likely to enhance the risk of cardiovascular and metabolic diseases. This trial is registered at clinicaltrials.gov as NCT00777647.
+
+Sugar-sweetened beverage consumption and weight gain in children and adults: a systematic review and meta-analysis of prospective cohort studies and randomized controlled trials.
+
+Number of 
+
+Key takeaways:Sugar-sweetened beverage consumption promotes higher BMI and body weight in both children and adults, emphasizing the need for dietary guidance and public policy strategies to limit intake.
+
+Relation of Change or Substitution of Low- and No-Calorie Sweetened Beverages With Cardiometabolic Outcomes: A Systematic Review and Meta-analysis of Prospective Cohort Studies
+
+Number of 
+
+Key takeaways:Low- and no-calorie sweetened beverages (LNCSB) may not cause cardiometabolic harm and could provide benefits when substituting sugar-sweetened beverages, similar to water.
+
+Abstract:BACKGROUND Adverse associations of low- and no-calorie sweetened beverages (LNCSB) with cardiometabolic outcomes in observational studies may be explained by reverse causality and residual confounding. PURPOSE To address these limitations we used change analyses of repeated measures of intake and substitution analyses to synthesize the association of LNCSB with cardiometabolic outcomes. DATA SOURCES MEDLINE, Embase, and the Cochrane Library were searched up to 10 June 2021 for prospective cohort studies with ≥1 year of follow-up duration in adults. STUDY SELECTION Outcomes included changes in clinical measures of adiposity, risk of overweight/obesity, metabolic syndrome, type 2 diabetes (T2D), cardiovascular disease, and total mortality. DATA EXTRACTION Two independent reviewers extracted data, assessed study quality, and assessed certainty of evidence using GRADE. Data were pooled with a random-effects model and expressed as mean difference (MD) or risk ratio (RR) and 95% CI. DATA SYNTHESIS A total of 14 cohorts (416,830 participants) met the eligibility criteria. Increase in LNCSB intake was associated with lower weight (5 cohorts, 130,020 participants; MD −0.008 kg/year ). Substitution of LNCSB for sugar-sweetened beverages (SSB) was associated with lower weight (three cohorts, 165,579 participants; MD, −0.12 kg/y) and lower incidence of obesity (OB) (one cohort, 15,765 participants; RR 0.88 ), coronary heart disease (six cohorts, 233,676 participants; 0.89 ), cardiovascular disease mortality (one cohort, 118,363 participants; 0.95 ), and total mortality (one cohort, 118,363 participants; 0.96 ) with no adverse associations across other outcomes. Substitution of water for SSB showed lower weight (three cohorts, 165,579 participants; MD −0.10 kg/year ), lower waist circumference (one cohort, 173 participants; −2.71 cm/year ) and percent body fat (one cohort, 173 participants; −1.51% per year ), and lower incidence of OB (one cohort, 15,765 participants; RR 0.85 ) and T2D (three cohorts, 281,855 participants; 0.96 ). Substitution of LNCSB for water showed no adverse associations. LIMITATIONS The evidence was low to very low certainty owing to downgrades for imprecision, indirectness, and/or inconsistency. CONCLUSIONS LNCSB were not associated with cardiometabolic harm in analyses that model the exposure as change or substitutions. The available evidence provides some indication that LNCSB in their intended substitution for SSB may be associated with cardiometabolic benefit, comparable with the standard of care, water.
+
+Sugar-Sweetened Beverages and Weight Gain in Children and Adults: A Systematic Review from 2013 to 2015 and a Comparison with Previous Studies
+
+Number of 
+
+Key takeaways:Sugar-sweetened beverage consumption is positively associated with obesity in both children and adults, highlighting the need for public health policies to reduce consumption and promote healthy alternatives like water.
+
+Abstract:Objective: Partly inconsistent findings from previous reviews have fueled discussions on the impact of sugar-sweetened beverages (SSBs) on obesity development. The aim was to systematically review the recent evidence in children and adults. Methods: Data were retrieved from the databases MEDLINE, EMBASE, and Cochrane library for the period January 2013 to October 2015. A systematic review of prospective cohort studies and randomized controlled trials (RCTs) relating SSBs to weight measures was conducted. Results: 30 publications met the inclusion criteria. Prospective cohort studies (96%; n = 26) showed a positive association between consumption of SSBs and weight/BMI in adults and children (n = 242,352), and only one cohort study in children showed no association. Findings from three RCTs in children demonstrated that SSB consumption had an effect on BMI/BMI z-score. The one RCT in adults showed no significant effect of the intervention. 63% of the studies were of good, 30% of medium quality, and none was funded by industry. Conclusion: Recent evidence suggests that SSB consumption is positively associated with or has an effect on obesity indices in children and adults. By combining the already published evidence with the new one, we conclude that public health policies should aim to reduce the consumption of SSBs and encourage healthy alternatives such as water.
+
+Sugar-sweetened beverages and weight gain in children and adults: a systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:Sugar-sweetened beverage consumption promotes weight gain in both children and adults, with reduced consumption leading to reduced BMI gain and weight loss in overweight children.
+
+Abstract:BACKGROUND
+The relation between sugar-sweetened beverages (SSBs) and body weight remains controversial.
+
+OBJECTIVE
+We conducted a systematic review and meta-analysis to summarize the evidence in children and adults.
+
+DESIGN
+We searched PubMed, EMBASE, and Cochrane databases through March 2013 for prospective cohort studies and randomized controlled trials (RCTs) that evaluated the SSB-weight relation. Separate meta-analyses were conducted in children and adults and for cohorts and RCTs by using random- and fixed-effects models.
+
+RESULTS
+Thirty-two original articles were included in our meta-analyses: 20 in children (15 cohort studies, n = 25,745; 5 trials, n = 2772) and 12 in adults (7 cohort studies, n = 174,252; 5 trials, n = 292). In cohort studies, one daily serving increment of SSBs was associated with a 0.06 (95% CI: 0.02, 0.10) and 0.05 (95% CI: 0.03, 0.07)-unit increase in BMI in children and 0.22 kg (95% CI: 0.09, 0.34 kg) and 0.12 kg (95% CI: 0.10, 0.14 kg) weight gain in adults over 1 y in random- and fixed-effects models, respectively. RCTs in children showed reductions in BMI gain when SSBs were reduced , whereas RCTs in adults showed increases in body weight when SSBs were added (random and fixed effects: 0.85 kg; 95% CI: 0.50, 1.20 kg). Sensitivity analyses of RCTs in children showed more pronounced benefits in preventing weight gain in SSB substitution trials (compared with school-based educational programs) and among overweight children (compared with normal-weight children).
+
+CONCLUSION
+Our systematic review and meta-analysis of prospective cohort studies and RCTs provides evidence that SSB consumption promotes weight gain in children and adults.
+
+Sugar-sweetened soft drinks and obesity: a systematic review of the evidence from observational studies and interventions
+
+Number of 
+
+Key takeaways:Sugar-sweetened soft drinks may have a small but significant effect on obesity, particularly in susceptible individuals or at high intake levels, but methodological weaknesses and lack of good-quality interventions hinder definitive conclusions.
+
+Abstract:Sugar-sweetened soft drinks (SSD) are a special target of many obesity-prevention strategies, yet critical reviews tend to be more cautious regarding the aetiological role of SSD in promoting excess body weight. Since ongoing evaluation of this issue is important, the present systematic review re-examined the evidence from epidemiological studies and interventions, up to July 2008. Database searches of Medline, Cochrane reviews, Google scholar and a hand search of cross-references identified forty-four original studies (twenty-three cross-sectional, seventeen prospective and four intervention) in adults and children, as well as six reviews. These were critically examined for methodology, results and interpretation. Approximately half the cross-sectional and prospective studies found a statistically significant association between SSD consumption and BMI, weight, adiposity or weight gain in at least one subgroup. The totality of evidence is dominated by American studies where SSD consumption tends to be higher and formulations different. Most studies suggest that the effect of SSD is small except in susceptible individuals or at high levels of intake. Methodological weaknesses mean that many studies cannot detect whether soft drinks or other aspects of diet and lifestyle have contributed to excess body weight. Progress in reaching a definitive conclusion on the role of SSD in obesity is hampered by the paucity of good-quality interventions which reliably monitor diet and lifestyle and adequately report effect sizes. Of the three long-term (>6 months) interventions, one reported a decrease in obesity prevalence but no change in mean BMI and two found a significant impact only among children already overweight at baseline. Of the six reviews, two concluded that the evidence was strong, one that an association was probable, while three described it as inconclusive, equivocal or near zero. Reasons for some discrepancies are presented.
+
+Sugar-Sweetened Beverage Consumption in Relation to Obesity and Metabolic Syndrome among Korean Adults: A Cross-Sectional Study from the 2012–2016 Korean National Health and Nutrition Examination Survey (KNHANES)
+
+Number of 
+
+Key takeaways:Increased consumption of sugar-sweetened beverages is closely linked to a higher prevalence of obesity and metabolic syndrome in the Korean population.
+
+Abstract:It is well known that the consumption of sugar-sweetened beverages (SSBs) increases the risk of developing obesity and metabolic syndrome (MetS). However, there are not many studies investigating the link between SSBs and increased incidences of diseases in the Asian population, and in particular, in Korea. We explored the association of SSB consumption with the risk of developing obesity and MetS among Korean adults (12,112 participants from the 2012–2016 Korean National Health and Nutrition Examination Survey). We calculated the total SSB consumption frequency by counting each beverage item, including soda beverages, fruit juices, and sweetened rice drinks. Obesity was defined as a body mass index ≥25 kg/m2, and MetS was defined using the National Cholesterol Education Program, Adult Treatment Panel III. A survey logistic regression analyses was conducted to examine the association of SSB consumption with obesity and MetS, adjusting for related confounders such as age, energy intake, household income, education, alcohol drinking, smoking status, and physical activity. The SSB consumption was positively associated with an increased risk of the prevalence for obesity (Odd ratio (OR): 1.60; 95% confidence interval (CI): 1.23–2.09; p for trend = 0.0009) and MetS (OR: 1.61; 95% CI: 1.20–2.16; p for trend = 0.0003) among women. In men, SSB consumption only contributed to a higher prevalence of obesity (OR: 1.38; 95% CI: 1.11–1.72; p for trend = 0.0041). In conclusion, increased consumption of SSBs was closely linked with a higher prevalence of obesity and MetS in the Korean population.
+
+Intake of sugar-sweetened beverages and weight gain: a systematic review.
+
+Number of 
+
+Key takeaways:Greater consumption of sugar-sweetened beverages is associated with weight gain and obesity in both children and adults.
+
+Abstract:Consumption of sugar-sweetened beverages (SSBs), particularly carbonated soft drinks, may be a key contributor to the epidemic of overweight and obesity, by virtue of these beverages' high added sugar content, low satiety, and incomplete compensation for total energy. Whether an association exists between SSB intake and weight gain is unclear. We searched English-language MEDLINE publications from 1966 through May 2005 for cross-sectional, prospective cohort, and experimental studies of the relation between SSBs and the risk of weight gain (ie, overweight, obesity, or both). Thirty publications (15 cross-sectional, 10 prospective, and 5 experimental) were selected on the basis of relevance and quality of design and methods. Findings from large cross-sectional studies, in conjunction with those from well-powered prospective cohort studies with long periods of follow-up, show a positive association between greater intakes of SSBs and weight gain and obesity in both children and adults. Findings from short-term feeding trials in adults also support an induction of positive energy balance and weight gain by intake of sugar-sweetened sodas, but these trials are few. A school-based intervention found significantly less soft-drink consumption and prevalence of obese and overweight children in the intervention group than in control subjects after 12 mo, and a recent 25-week randomized controlled trial in adolescents found further evidence linking SSB intake to body weight. The weight of epidemiologic and experimental evidence indicates that a greater consumption of SSBs is associated with weight gain and obesity. Although more research is needed, sufficient evidence exists for public health strategies to discourage consumption of sugary drinks as part of a healthy lifestyle.
+
+Sugar and low/no-calorie-sweetened beverage consumption and associations with body weight and waist circumference changes in five European cohort studies: the SWEET project
+
+Number of 
+
+Key takeaways:Sugar-sweetened beverage consumption has weak positive associations with weight and waist changes, while low/no-calorie sweetened beverage consumption is associated with weight change only, with no clear associations observed for theoretical substitutions.
+
+Abstract:Results of prospective studies investigating associations between low/no-calorie sweeteners (LNCS) and body weight-related outcomes are inconclusive. We conducted dose-response and theoretical replacement individual patient data meta-analyses using harmonised prospective data to evaluate associations between sugar-sweetened beverage (SSB) consumption, low/no-calorie sweetened beverage (LNCB) consumption, and changes in body weight and waist circumference.Individual participant data were obtained from five European studies, i.e., Lifelines Cohort Study, NQplus study, Alpha Omega Cohort, Predimed-Plus study, and Feel4diabetes study, including 82,719 adults aged 18-89 with follow-up between 1 and 9 years. Consumption of SSB and LNCB was assessed using food-frequency questionnaires. Multiple regression analyses adjusting for major confounders and including substitution models were conducted to quantify associations in individual cohorts; random-effects meta-analyses were performed to pool individual estimates.Overall, pooled results showed weak adverse associations between SSB consumption and changes in body weight (+ 0.02 kg/y, 95%CI 0.00; 0.04) and waist circumference (+ 0.03 cm/y, 95%CI 0.01; 0.05). LNCB consumption was associated with higher weight gain (+ 0.06 kg/y, 95%CI 0.04; 0.08) but not with waist circumference. No clear associations were observed for any theoretical replacements, i.e., LNCB or water for SSB or water for LNCB.In conclusion, this analysis of five European studies found a weak positive association between SSB consumption and weight and waist change, whilst LNCB consumption was associated with weight change only. Theoretical substitutions did not show any clear association. Thus, the benefit of LNCBs as an alternative to SSBs remains unclear.
+
+Sugar-Sweetened Beverages and Risk of Metabolic Syndrome and Type 2 Diabetes
+
+Number of 
+
+Key takeaways:Higher consumption of sugar-sweetened beverages is associated with an increased risk of developing metabolic syndrome and type 2 diabetes, in addition to weight gain.
+
+Abstract:OBJECTIVE Consumption of sugar-sweetened beverages (SSBs), which include soft drinks, fruit drinks, iced tea, and energy and vitamin water drinks has risen across the globe. Regular consumption of SSBs has been associated with weight gain and risk of overweight and obesity, but the role of SSBs in the development of related chronic metabolic diseases, such as metabolic syndrome and type 2 diabetes, has not been quantitatively reviewed. RESEARCH DESIGN AND METHODS We searched the MEDLINE database up to May 2010 for prospective cohort studies of SSB intake and risk of metabolic syndrome and type 2 diabetes. We identified 11 studies (three for metabolic syndrome and eight for type 2 diabetes) for inclusion in a random-effects meta-analysis comparing SSB intake in the highest to lowest quantiles in relation to risk of metabolic syndrome and type 2 diabetes. RESULTS Based on data from these studies, including 310,819 participants and 15,043 cases of type 2 diabetes, individuals in the highest quantile of SSB intake (most often 1–2 servings/day) had a 26% greater risk of developing type 2 diabetes than those in the lowest quantile (none or <1 serving/month) (relative risk 1.26 ). Among studies evaluating metabolic syndrome, including 19,431 participants and 5,803 cases, the pooled RR was 1.20 . CONCLUSIONS In addition to weight gain, higher consumption of SSBs is associated with development of metabolic syndrome and type 2 diabetes. These data provide empirical evidence that intake of SSBs should be limited to reduce obesity-related risk of chronic metabolic diseases.
+
+Low to moderate sugar-sweetened beverage consumption impairs glucose and lipid metabolism and promotes inflammation in healthy young men: a randomized controlled trial.
+
+Number of 
+
+Key takeaways:Low to moderate consumption of sugar-sweetened beverages can negatively impact cardiovascular risk markers, such as LDL particles, fasting glucose, and inflammation, in healthy young men within just 3 weeks.
+
+Abstract:BACKGROUND
+Sugar-sweetened beverages (SSBs) have unfavorable effects on glucose and lipid metabolism if consumed in high quantities by obese subjects, but the effect of lower doses in normal-weight subjects is less clear.
+
+OBJECTIVE
+The aim was to investigate the effects of SSBs consumed in small to moderate quantities for 3 wk on LDL particle distribution and on other parameters of glucose and lipid metabolism as well as on inflammatory markers in healthy young men.
+
+DESIGN
+Twenty-nine subjects were studied in a prospective, randomized, controlled crossover trial. Six 3-wk interventions were assigned in random order as follows: 600 mL SSBs containing 1)40 g fructose/d , 2) 80 g fructose/d , 3) 40 g glucose/d , 4) 80 g glucose/d , 5) 80 g sucrose/d , or 6) dietary advice to consume low amounts of fructose. Outcome parameters were measured at baseline and after each intervention.
+
+RESULTS
+LDL particle size was reduced after HF by -0.51 nm (95% CI: -0.19, -0.82 nm) and after HS by -0.43 nm (95% CI: -0.12, -0.74; P < 0.05 for both). Similarly, a more atherogenic LDL subclass distribution was seen when fructose-containing SSBs were consumed (MF, HF, and HS: P < 0.05). Fasting glucose and high-sensitivity C-reactive protein (hs-CRP) increased significantly after all interventions (by 4-9% and 60-109%, respectively; P < 0.05); leptin increased during interventions with SSBs containing glucose only (MG and HG: P < 0.05).
+
+CONCLUSION
+The present data show potentially harmful effects of low to moderate consumption of SSBs on markers of cardiovascular risk such as LDL particles, fasting glucose, and hs-CRP within just 3 wk in healthy young men, which is of particular significance for young consumers. This trial was registered at clinicaltrials.gov as NCT01021969.
+
+Sugar-sweetened beverages and health: where does the evidence stand?
+
+Number of 
+
+Key takeaways:Regular consumption of sugar-sweetened beverages is associated with weight gain, inflammation, insulin resistance, and other health issues.
+
+Abstract:See corresponding article on page 1340. 
+ 
+The relation between sugar-sweetened beverages (SSBs), obesity, and related health outcomes has increasingly attracted public and scientific interest. Since the late 1970s, intake of SSBs has increased more than 2-fold (1), and currently they are now the primary source of added sugar in the US diet (2). On average, SSBs contain 140–150 kcal and 35–37.5 g sugar per 12-oz serving. The prevailing mechanisms linking SSB intake to weight gain are low satiety of liquid calories and incomplete compensatory reduction in energy intake at subsequent meals, leading to an increase in total energy intake (3). SSBs also induce independent metabolic effects through their contribution to a high dietary glycemic load, leading to inflammation, insulin resistance, and impaired β cell function (3, 4). In addition, regular consumption of SSBs is associated with high blood pressure and accumulation of visceral adipose tissue and dyslipidemia through increased hepatic de novo lipogenesis. 
+ 
+Numerous epidemiologic studies have examined the relations between SSBs, obesity, and related cardiometabolic diseases. Whereas most studies have found positive associations, some have yielded inconsistent results, sparking controversy in the field. In general, associations are strongest and most consistent in large prospective cohort studies with long durations of follow-up and repeated measures of intake that capture long-term dietary patterns. Studies that do not adjust for the potential mediating effect of total energy intake in analyses tend to yield stronger associations; adjustment for total energy is equivalent to removing any effect of SSBs on body weight that occurs through energy intake and may thus attenuate the association (5). Furthermore, studies funded by the food industry tend to report significantly weaker associations than do non–industry-funded studies (6). 
+ 
+A number of reviews have been conducted to summarize the current evidence in an effort to guide clinicians, public health experts, and policymakers. However, individual reviews may be prone to bias and may vary in terms of quality. For these reasons, rigorous evaluation of published reviews can be useful for guiding public health decisions, especially for controversial topics with far-reaching implications. 
+ 
+In this issue of the Journal, Weed et al (7) conducted a systematic review to assess the methodologic quality of reviews or meta-analyses published in the past decade that examined the relation between SSB and health outcomes. However, rather than shedding more light on this pressing public health issue, the report obscured important relations between SSB consumption and harmful health consequences. 
+ 
+To assess study quality, Weed et al used the Assessment of Multiple Systematic Reviews (AMSTAR) tool to assess the quality of the studies. AMSTAR is a validated scoring system based on 11 questions specifically designed to evaluate the methodologic quality of systematic reviews (8). Systematic reviews, which include meta-analyses, use a comprehensive and criterion-based selection of relevant evidence with methods clearly stated and reproducible by others, an appraisal of validity, and an objective or quantitative summary of the evidence. In contrast, narrative reviews (including position statements by professional organizations), often written by experts in the field, are usually broader in scope but do not necessarily state criteria relevant to assessing the methodologic quality of systematic reviews (9). For example, narrative reviews typically do not include a comprehensive literature search strategy, detailed tabulation of study characteristics, data extraction methods, or an assessment of publication bias. For this reason, some studies that use AMSTAR for quality appraisal of systematic reviews have excluded narrative reviews (10). 
+ 
+The maximum AMSTAR score a review can receive is 11 (11 for meta-analyses and 10 for systematic reviews), with scores of 0–4 indicating low quality, 5–8 moderate quality, and 9–11 high quality (9). Overall, 17 reviews of obesity, diabetes, metabolic syndrome, and coronary heart disease were included in the report and found to be of moderate to low quality on the basis of AMSTAR scoring (mean = 4.4, median = 4, range 1–8.5) (7). Of the 17 reviews, 7 were narrative and thus did not possess many of the components relevant to the AMSTAR score. By applying the AMSTAR instrument equally to narrative and systematic reviews, the authors underestimated the quality of the reviews on SSBs and health, leading to a spurious conclusion. Not surprisingly, the studies that used a systematic or meta-analysis approach received high scores, whereas the nonsystematic narrative reviews received low scores. By lumping these 2 types of studies together, the authors created a distorted view of the state of the literature on SSBs and health outcomes. 
+ 
+In addition, although the authors indicated that AMSTAR scores did not improve with year of publication or overall conclusion, older reviews are superseded as new evidence accumulates, most of which has been published in the past several years and which forms the basis of multiple health recommendations and policy initiatives (11). Thus, older reviews may be methodologically sound but irrelevant given newer data. 
+ 
+Other methodologic concerns also raise doubts about the validity of Weed et al's analysis. For example, the meta-analysis of SSBs and BMI in children and adolescents by Forshee et al (12), which was supported by the beverage industry, was one of the few reviews to receive an AMSTAR score ≥7, despite having gross errors that fundamentally changed the findings (5). In addition, Weed et al misreported the results from the meta-analysis by Malik et al (13) by stating that only extreme categories of SSB intake were analyzed, when in actuality a dose-response analysis that used data from all categories was included. A systematic review of reviews, like the individual reviews themselves, should be of sufficiently high quality and methodologic rigor so that reliable conclusions can be drawn. 
+ 
+Although more research is needed, the weight of the evidence based on previous systematic reviews and meta-analyses of prospective studies shows clear and consistent associations between SSBs and obesity and related cardiometabolic diseases. This evidence is also supported by findings from mechanistic and experimental studies. Systematic reviews have been widely used to summarize the best available evidence for clinical and public health policy and decision making. Statements from the American Heart Association, the American Academy of Pediatrics, and the US 2010 Dietary Guidelines technical review committee (14) all call for reductions in intake of SSBs to prevent obesity and improve health. These recommendations are based on previous systematic reviews and meta-analyses. Despite attempts from the beverage industry to obfuscate the issue by funding biased analyses and reviews, and by providing misleading information to consumers, many regulatory strategies to reduce intake of SSBs are already in place (11). Some states are considering taxation (11) as a means of reducing SSB intake and as a method of offsetting some of the high health care costs attributed to regular consumption of these beverages. These measures have a great potential to reduce SSB consumption and their adverse health consequences.
+
+Sugar- and Artificially-Sweetened Beverages and Cancer Mortality in a Large U.S. Prospective Cohort
+
+Number of 
+
+Key takeaways:Sugar-sweetened beverages may increase the risk of obesity-related cancers indirectly through excess body fatness, while artificially-sweetened beverages may increase the risk of colorectal and kidney cancer mortality independently of obesity.
+
+Abstract:Abstract Objectives Consumption of sugar-sweetened beverages (SSB) may be related to risk of cancer mortality independent of, or indirectly through, its established association with increased body mass, but evidence is inconsistent. We evaluated the association of both SSBs and artificially-sweetened beverages (ASB) with mortality from all cancers combined, BMI-related cancers combined, and 22 individual cancers, with and without adjustment for BMI, among U.S. men and women. Methods In 1982,934,777 cancer-free participants in the Cancer Prevention Study-II cohort completed questionnaires including information on usual SSB and ASB consumption. Causes of death were identified through 2016. Multivariable Cox proportional hazards regression models were used to examine associations of both beverage types with cancer mortality. Results During follow-up, 135,093 CPS-II participants died from cancer. Consumption of ≥2 SSB drinks/day vs never was associated with obesity-related cancers combined (HR = 1.05, 95% CI 1.01–1.08, ptrend = 0.057), which became null when BMI was included in statistical models. SSBs were associated with increased risks of colorectal (HR = 1.09, 95% CI, 1.02–1.17, ptrend = 0.011), and kidney (HR = 1.17, 95% CI 1.03–1.34, ptrend = 0.06) cancer mortality, even after BMI adjustment, although for kidney cancer the association remained statistically significant only in continuous models. A positive association of ASB consumption with risk of obesity-related cancers combined (HR = 1.05, 95% CI 1.01–1.08, ptrend = .001) became null after controlling for BMI; however, an increased risk of pancreatic cancer remained after BMI adjustment (HR = 1.16, 95% CI 1.07–1.26, ptrend < 0.0001). Conclusions SSB consumption may increase risk of obesity-related cancers indirectly through excess body fatness, and of colorectal and kidney cancer mortality independent of obesity. Increased risk of obesity-related cancers with greater ASB intake prior to adjustment for body fatness may reflect confounding by BMI, as ASBs are not considered convincingly related to weight gain. An association of ASB consumption and increased risk of pancreatic cancer deserves further study. Funding Sources The American Cancer Society funds the creation, maintenance, and updating of the Cancer Prevention Study-II cohort.
+
+Sugar-Sweetened Beverages and Metabolic Risk in Children and Adolescents with Obesity: A Narrative Review
+
+Number of 
+
+Key takeaways:Limiting sugar-sweetened beverage consumption in children and adolescents can help prevent obesity and related metabolic risks.
+
+Abstract:Sugar-sweetened beverages (SSBs) are major contributors of free sugars to the diet. A strong relationship between SSB intake and weight gain is described. Methods: we performed a narrative review to present an overview of the role of SSBs as a pivotal contributor in the development of obesity and metabolism-related complications. Results: different factors influence SSB consumption in children, including economic variables, individual attributes and behaviors to environmental factors, parent features and parents’ behaviors. Data suggest that SSB intake has a negative effect on weight and obesity-related diseases. The leading mechanism linking SSB intake to the risk of gaining weight is decreased satiety and incomplete compensatory reduction in energy intake at meals following ingestion of liquid calories. Additionally, the effects of SSBs on gut microbiota and on eating behaviors were also reported. An association between SSB intake, weight gain and cardiometabolic risks is evident. Consumption of SSBs had a significant impact on the prevalence of obesity and related metabolic risks, including insulin resistance, type 2 diabetes, hypertension and metabolic syndrome. Conclusions: Limiting consumption of SSBs and increasing knowledge of the effect of SSBs on early metabolic and cardiovascular disorders will be useful in developing strategies to counteract the problem and to prevent obesity and related complications.Key future research areas for which further studies are needed include investigating the long-term effects of SSBs on health outcomes as well as analyzing the health effects of sugar consumed in solid compared to liquid forms and further elucidating the biological mechanisms of sugar addiction and energy compensation.
+
+Impact of dietary sucralose and sucrose-sweetened water intake on lipid and glucose metabolism in male mice
+
+Number of 
+
+Key takeaways:Daily drinking of sucralose within the ADI dose has a much lower impact on glucose and lipid homeostasis compared to sucrose-sweetened water in male mice.
+
+Abstract:AimsOverconsumption of sugar-sweetened beverages (SSBs) is associated with an increased risk of metabolic disorders, including obesity and diabetes. However, accumulating evidence also suggests the potential negative impact of consuming nonnutritive sweeteners (NNSs) on weight and glycaemic control. The metabolic effects of sucralose, the most widely used NNS, remain controversial. This study aimed to compare the impact of intake of dietary sucralose (acceptable daily intake dose, ADI dose) and sucrose-sweetened water (at the same sweetness level) on lipid and glucose metabolism in male mice.Materials and methodsSucralose (0.1 mg/mL) or sucrose (60 mg/mL) was added to the drinking water of 8-week-old male C57BL/6 mice for 16 weeks, followed by oral glucose and intraperitoneal insulin tolerance tests, and measurements of bone mineral density, plasma lipids, and hormones. After the mice were sacrificed, the duodenum and ileum were used for examination of sweet taste receptors (STRs) and glucose transporters.ResultsA significant increase in fat mass was observed in the sucrose group of mice after 16 weeks of sweetened water drinking. Sucrose consumption also led to increased levels of plasma LDL, insulin, lipid deposition in the liver, and increased glucose intolerance in mice. Compared with the sucrose group, mice consuming sucralose showed much lower fat accumulation, hyperlipidaemia, liver steatosis, and glucose intolerance. In addition, the daily dose of sucralose only had a moderate effect on T1R2/3 in the intestine, without affecting glucose transporters and plasma insulin levels.ConclusionCompared with mice consuming sucrose-sweetened water, daily drinking of sucralose within the ADI dose had a much lower impact on glucose and lipid homeostasis.
+
+The Effect of Non-Nutritive Sweetened Beverages on Postprandial Glycemic and Endocrine Responses: A Systematic Review and Network Meta-Analysis
+
+Number of 
+
+Key takeaways:Non-nutritive sweetened beverages have no significant effect on postprandial glucose and endocrine responses, while sugar-sweetened beverages increase these responses.
+
+Abstract:Background: There has been an emerging concern that non-nutritive sweeteners (NNS) can increase the risk of cardiometabolic disease. Much of the attention has focused on acute metabolic and endocrine responses to NNS. To examine whether these mechanisms are operational under real-world scenarios, we conducted a systematic review and network meta-analysis of acute trials comparing the effects of non-nutritive sweetened beverages (NNS beverages) with water and sugar-sweetened beverages (SSBs) in humans. Methods: MEDLINE, EMBASE, and The Cochrane Library were searched through to January 15, 2022. We included acute, single-exposure, randomized, and non-randomized, clinical trials in humans, regardless of health status. Three patterns of intake were examined: (1) uncoupling interventions, where NNS beverages were consumed alone without added energy or nutrients; (2) coupling interventions, where NNS beverages were consumed together with added energy and nutrients as carbohydrates; and (3) delayed coupling interventions, where NNS beverages were consumed as a preload prior to added energy and nutrients as carbohydrates. The primary outcome was a 2 h incremental area under the curve (iAUC) for blood glucose concentration. Secondary outcomes included 2 h iAUC for insulin, glucagon-like peptide 1 (GLP-1), gastric inhibitory polypeptide (GIP), peptide YY (PYY), ghrelin, leptin, and glucagon concentrations. Network meta-analysis and confidence in the network meta-analysis (CINeMA) were conducted in R-studio and CINeMA, respectively. Results: Thirty-six trials involving 472 predominantly healthy participants were included. Trials examined a variety of single NNS (acesulfame potassium, aspartame, cyclamate, saccharin, stevia, and sucralose) and NNS blends (acesulfame potassium + aspartame, acesulfame potassium + sucralose, acesulfame potassium + aspartame + cyclamate, and acesulfame potassium + aspartame + sucralose), along with matched water/unsweetened controls and SSBs sweetened with various caloric sugars (glucose, sucrose, and fructose). In uncoupling interventions, NNS beverages (single or blends) had no effect on postprandial glucose, insulin, GLP-1, GIP, PYY, ghrelin, and glucagon responses similar to water controls (generally, low to moderate confidence), whereas SSBs sweetened with caloric sugars (glucose and sucrose) increased postprandial glucose, insulin, GLP-1, and GIP responses with no differences in postprandial ghrelin and glucagon responses (generally, low to moderate confidence). In coupling and delayed coupling interventions, NNS beverages had no postprandial glucose and endocrine effects similar to controls (generally, low to moderate confidence). Conclusions: The available evidence suggests that NNS beverages sweetened with single or blends of NNS have no acute metabolic and endocrine effects, similar to water. These findings provide support for NNS beverages as an alternative replacement strategy for SSBs in the acute postprandial setting.
+
+Long-term metabolic effects of non-nutritive sweeteners
+
+Number of 
+
+Key takeaways:Long-term consumption of commonly used non-nutritive sweeteners does not cause adverse metabolic effects, with Reb M showing a mild improvement in metabolic abnormalities.
+
+Dietary Sugar and Body Weight: Have We Reached a Crisis in the Epidemic of Obesity and Diabetes?
+
+Number of 
+
+Key takeaways:Reducing intake of sugar-sweetened beverages is associated with less weight gain and reduced risk of diabetes, metabolic syndrome, and cardiovascular disease.
+
+Abstract:Sugar-sweetened drinks have been associated with several health problems. In the point narrative as presented below, we provide our opinion and review of the data to date that we need to reconsider consumption of dietary sugar based on the growing concern of obesity and type 2 diabetes. In the counterpoint narrative following our contribution, Drs. Kahn and Sievenpiper provide a defense and suggest that dietary sugar is not the culprit. Data from the National Health and Nutrition Examination Survey and U.S. Department of Agriculture dietary surveys along with commercial Homescan data on household purchases were used to understand changes in sugar and fructose consumption. Meta-analyses and randomized clinical trials were used to evaluate outcomes of beverage and fructose intake. About 75% of all foods and beverages contain added sugar in a large array of forms. Consumption of soft drinks has increased fivefold since 1950. Meta-analyses suggest that consumption of sugar-sweetened beverages (SSBs) is related to the risk of diabetes, the metabolic syndrome, and cardiovascular disease. Drinking two 16-ounce SSBs per day for 6 months induced features of the metabolic syndrome and fatty liver. Randomized controlled trials in children and adults lasting 6 months to 2 years have shown that lowering the intake of soft drinks reduced weight gain. Recent studies suggest a gene-SSB potential relationship. Consumption of calorie-sweetened beverages has continued to increase and plays a role in the epidemic of obesity, the metabolic syndrome, and fatty liver disease. Reducing intake of soft drinks is associated with less weight gain.
+
+Sugar-sweetened beverages, low/no-calorie beverages, fruit juices intake and risks of metabolic syndrome in adults: The SWEET project.
+
+Number of 
+
+Key takeaways:Sugar-sweetened beverage intake is associated with a higher risk of metabolic syndrome, while fruit juice intake shows a J-shaped association with MetS, while low/no-calorie beverages show inconsistent results.
+
+Short-Term Consumption of Sucralose with, but Not without, Carbohydrate Impairs Neural and Metabolic Sensitivity to Sugar in Humans.
+
+Number of 
+
+Key takeaways:Short-term consumption of sucralose-sweetened beverages with a carbohydrate impairs glucose metabolism and decreases brain sensitivity to sweet taste, suggesting dysregulation of gut-brain control of glucose metabolism.
+
+Habitual intakes of sugar-sweetened beverages associated with gut microbiota-related metabolites and metabolic health outcomes in young Chinese adults.
+
+Number of 
+
+Key takeaways:Habitual intake of sugar-sweetened beverages is associated with increased obesity-related markers and blood lipids, with gut microbiota-related metabolites playing a key role in these associations.
+
+Consumption of sugar-sweetened soft drinks and risk of metabolic syndrome and its components: results of the ELSA-Brasil study (2008–2010 and 2012–2014)
+
+Number of 
+
+Key takeaways:Higher sugar-sweetened soft drink consumption is associated with a higher risk of metabolic syndrome, high fasting glucose, and high blood pressure, while moderate consumption increases the risk of high waist circumference in Brazilian adults.
+
+Abstract:AimTo estimate the association between consumption of sugar-sweetened soft drinks and unsweetened fruit juice with metabolic syndrome (MetS) and its components in participants of the Brazilian Longitudinal Adult Health Study (ELSA-Brasil) after 4 years of follow-up.MethodsWe used data from ELSA-Brasil cohort (N = 15,105). The sample consisted of 6,124 civil servants free of the MetS at baseline (35 to 74 years, both sexes). The consumption of sugar-sweetened soft drinks and unsweetened fruit juice was estimated by a food frequency questionnaire previously validated. The outcome was MetS and its components (Joint Interim Statement criteria). To test the association between beverage consumption at baseline (2008–2010) and MetS and its components at follow-up (2012–2014), we used Poisson regression models with robust variance adjusting for potential confounders.ResultsAfter 4-year follow-up, the higher consumption of sugar-sweetened soft drinks (≥ 1 serving/day = 250 mL/day) increased the relative risk of MetS (RR = 1.22; 95% CI 1.04–1.45), high fasting glucose (RR = 1.23; 95% CI 1.01–1.48), and high blood pressure (RR = 1.23; 95% CI 1.00–1.54). Moderate consumption of this beverage (0.4 to < 1 serving/day) increased the relative risk of high waist circumference (WC) (RR = 1.21; 95% CI 1.02–1.42). After adjustment for confounding variables, the consumption of unsweetened fruit juice was not associated with the MetS and its components.ConclusionHigher sugar-sweetened soft drinks consumption was associated with a higher risk relative of MetS, high fasting glucose, and high blood pressure, while moderate consumption of this beverage increased the relative risk of high WC in Brazilian adults.
+
+Frequent Consumption of Sugar- and Artificially Sweetened Beverages and Natural and Bottled Fruit Juices Is Associated with an Increased Risk of Metabolic Syndrome in a Mediterranean Population at High Cardiovascular Disease Risk.
+
+Number of 
+
+Key takeaways:Frequent consumption of sugar-sweetened and artificially sweetened beverages and fruit juices is associated with an increased risk of metabolic syndrome in middle-aged and elderly individuals at high risk of cardiovascular disease.
+
+Abstract:BACKGROUND
+The relation between the consumption of sweetened beverages and metabolic syndrome (MetS) is controversial.
+
+OBJECTIVE
+This analysis evaluated the associations between intakes of sugar-sweetened beverages (SSBs), artificially sweetened beverages, and natural and bottled fruit juices and the incidence of MetS in elderly individuals at high risk of cardiovascular disease (CVD) and without MetS at baseline.
+
+METHODS
+We prospectively examined 1868 participants free of MetS at baseline from the PREDIMED (PREvención con DIeta MEDiterránea) study. MetS was defined by using the updated harmonized criteria of the International Diabetes Federation, the American Heart Association, and National Heart, Lung, and Blood Institute. Energy and nutrient intakes were evaluated at baseline and then yearly by using a validated 137-item food-frequency questionnaire. Multivariable-adjusted HRs for MetS and its components were estimated from mean intakes during follow-up. We compared the 2 highest consumption categories (1-5 and >5 servings/wk) with the lowest category (<1 serving/wk).
+
+RESULTS
+A total of 930 incident cases of MetS were documented during a median follow-up of 3.24 y. When we compared consumption of >5 servings/wk with consumption of <1 serving/wk, multivariable HRs (95% CIs) for MetS incidence were 1.43 (1.00, 2.15), 1.74 (1.26, 2.41), 1.30 (1.00, 1.69), and 1.14 (1.04, 1.65) for SSBs, artificially sweetened beverages, natural fruit juices, and bottled fruit juices, respectively.
+
+CONCLUSIONS
+The occasional consumption of SSBs and artificially sweetened beverages (1-5 servings/wk) was not associated with the incidence of MetS in middle-aged and elderly individuals at high risk of CVD. The consumption of >5 servings/wk of all of the types of beverages analyzed was associated with an increased risk of MetS and some of its components. However, for SSBs and bottled fruit juices these associations must be interpreted with caution because of the low frequency of consumption in this population. This trial was registered at clinicaltrials.gov as ISRCTN35739639.
+
+Association between Sugar-Sweetened Beverage Consumption and the Risk of the Metabolic Syndrome: A Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:Consumption of sugar-sweetened beverages is positively associated with an increased risk of metabolic syndrome.
+
+Abstract:(1) Background: The increasing occurrence of the metabolic syndrome (MetS) is largely related to harmful food habits. Among them, the consumption of sugar-sweetened beverages (SSBs) is noteworthy. However, to our knowledge, there are not enough high-quality methodological studies summarizing the association between the intake of SSBs and the MetS. Therefore, the aim of this study is to examine the existing 
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

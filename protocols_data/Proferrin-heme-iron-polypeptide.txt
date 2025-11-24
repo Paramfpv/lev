@@ -1,0 +1,213 @@
+PROTOCOL: Proferrin (heme iron polypeptide)
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: 
+DESCRIPTION: Proferrin is a heme iron polypeptide with high bioavailability, intended for supplementation in individuals with iron deficiency. The supplement improves hemoglobin and ferritin levels, supporting the release and distribution of oxygen to tissues. Regular use of Proferrin can accelerate the replenishment of iron stores and increase physical performance.
+
+CONTENT SECTIONS:
+
+Proferrin (heme iron polypeptide)
+
+Support for oxygen transport and energy production
+
+Proferrin is a heme iron polypeptide with high bioavailability, intended for supplementation in individuals with iron deficiency. The supplement improves hemoglobin and ferritin levels, supporting the release and distribution of oxygen to tissues. Regular use of Proferrin can accelerate the replenishment of iron stores and increase physical performance.
+
+Level of evidence:Good
+
+The supplied heme iron is absorbed through specific HCP-1 receptors in the intestine, bypassing typical competition mechanisms with other dietary components. Once absorbed, heme enters the pool of heme-like forms, where it is used for the synthesis of hemoglobin and iron-sulfur clusters in the mitochondria. As a result, the efficiency of the respiratory chain and ATP production increases, translating into better cellular energetics. Therefore, Proferrin supports both oxygen transport and mitochondrial functions.
+
+Proferrin is well tolerated by most individuals; mild gastrointestinal symptoms may occasionally occur.
+
+Proferrin supplementation is not recommended in individuals with excessive iron storage or allergies to animal-derived proteins.
+
+1 tablet twice daily for 3–6 months, then 1 tablet daily as maintenance dose
+
+Tablets containing heme iron polypeptide
+
+Initial effects after 2–4 weeks, full restoration of iron stores after approximately 3 months
+
+Morning and evening, regardless of meals
+
+Vitamin C for better absorption
+
+Take with vitamin C (e.g., 500 mg daily) to enhance iron bioavailability
+
+Do not combine with coffee, tea, or foods rich in oxalates within 1–2 hours of intake
+
+Monitoring parameters
+
+Check hemoglobin and ferritin levels every 1–2 months to assess therapy effectiveness
+
+Folic acid supplementation
+
+Consider additional folate supplementation in pregnant women and during increased demand
+
+Proferrin, a heme iron polypeptide, supports metabolism by improving oxygen transport, mitochondrial functions, and regulating energy production, especially in states of iron deficiency.
+
+Oxygen transport and cellular respiration
+
+Mitochondrial functions
+
+Regulation of energy metabolism
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:20
+
+Final comment:The assessment is based on the presence of several randomized controlled trials conducted in dialysis patients and pregnant women, which showed significant benefits of Proferrin supplementation in improving iron parameters and hemoglobin levels. Although the results are consistent and come from clinical studies, their number and sample sizes are limited, and there is a lack of broad meta-analyses, placing the level of evidence at a good level.
+
+Molecular Mechanisms of Iron and Heme Metabolism.
+
+Number of 
+
+Key takeaways:Iron and heme metabolism are tightly regulated, essential for various biological functions, but toxic in excess, requiring close monitoring and research.
+
+Abstract:An abundant metal in the human body, iron is essential for key biological pathways including oxygen transport, DNA metabolism, and mitochondrial function. Most iron is bound to heme but it can also be incorporated into iron-sulfur clusters or bind directly to proteins. Iron's capacity to cycle between Fe2+ and Fe3+ contributes to its biological utility but also renders it toxic in excess. Heme is an iron-containing tetrapyrrole essential for diverse biological functions including gas transport and sensing, oxidative metabolism, and xenobiotic detoxification. Like iron, heme is essential yet toxic in excess. As such, both iron and heme homeostasis are tightly regulated. Here we discuss molecular and physiologic aspects of iron and heme metabolism. We focus on dietary absorption; cellular import; utilization; and export, recycling, and elimination, emphasizing studies published in recent years. We end with a discussion on current challenges and needs in the field of iron and heme biology. Expected final online publication date for the Annual Review of Nutrition, Volume 42 is August 2022. Please see for revised estimates.
+
+On Iron Metabolism and Its Regulation
+
+Number of 
+
+Key takeaways:Cellular and systemic iron regulation involves key mechanisms and players, with hepcidin playing a key role in controlling iron release from cells into the blood.
+
+Abstract:Iron is a critical metal for several vital biological processes. Most of the body’s iron is bound to hemoglobin in erythrocytes. Iron from senescent red blood cells is recycled by macrophages in the spleen, liver and bone marrow. Dietary iron is taken up by the divalent metal transporter 1 (DMT1) in enterocytes and transported to portal blood via ferroportin (FPN), where it is bound to transferrin and taken up by hepatocytes, macrophages and bone marrow cells via transferrin receptor 1 (TfR1). While most of the physiologically active iron is bound hemoglobin, the major storage of most iron occurs in the liver in a ferritin-bound fashion. In response to an increased iron load, hepatocytes secrete the peptide hormone hepcidin, which binds to and induces internalization and degradation of the iron transporter FPN, thus controlling the amount of iron released from the cells into the blood. This review summarizes the key mechanisms and players involved in cellular and systemic iron regulation.
+
+Macrophages and Iron Metabolism.
+
+Number of 
+
+Key takeaways:Macrophages play a central role in regulating iron metabolism, ensuring essential iron availability while preventing its cytotoxic effects.
+
+Iron supplementation regulates the progression of high fat diet induced obesity and hepatic steatosis via mitochondrial signaling pathways
+
+Number of 
+
+Key takeaways:Iron supplementation reduces obesity and hepatic lipid accumulation in mice by regulating mitochondrial signaling pathways and promoting energy metabolism.
+
+Rationale and design of the oral HEMe iron polypeptide Against Treatment with Oral Controlled Release Iron Tablets trial for the correction of anaemia in peritoneal dialysis patients (HEMATOCRIT trial)
+
+Number of 
+
+Key takeaways:Oral heme iron polypeptide (HIP) administration may be more effective than conventional oral iron supplementation in enhancing iron stores in erythropoietic stimulatory agent-treated peritoneal dialysis patients.
+
+Abstract:Abstract Background The main hypothesis of this study is that oral heme iron polypeptide (HIP; Proferrin ® ES) administration will more effectively augment iron stores in erythropoietic stimulatory agent (ESA)-treated peritoneal dialysis (PD) patients than conventional oral iron supplementation (Ferrogradumet ® ). Methods Inclusion criteria are peritoneal dialysis patients treated with darbepoietin alpha (DPO; Aranesp ® , Amgen) for ≥ 1 month. Patients will be randomized 1:1 to receive either slow-release ferrous sulphate (1 tablet twice daily; control) or HIP (1 tablet twice daily) for a period of 6 months. The study will follow an open-label design but outcome assessors will be blinded to study treatment. During the 6-month study period, haemoglobin levels will be measured monthly and iron studies (including transferring saturation measurements) will be performed bi-monthly. The primary outcome measure will be the difference in TSAT levels between the 2 groups at the end of the 6 month study period, adjusted for baseline values using analysis of covariance (ANCOVA). Secondary outcome measures will include serum ferritin concentration, haemoglobin level, DPO dosage, Key's index (DPO dosage divided by haemoglobin concentration), and occurrence of adverse events (especially gastrointestinal adverse events). Discussion This investigator-initiated multicentre study has been designed to provide evidence to help nephrologists and their peritoneal dialysis patients determine whether HIP administration more effectively augments iron stores in ESP-treated PD patients than conventional oral iron supplementation. Trial Registration Australia New Zealand Clinical Trials Registry number ACTRN12609000432213.
+
+DMT1 and iron transport
+
+Number of 
+
+Key takeaways:DMT1 plays a crucial role in iron metabolism and cell-type specificity, with its expression regulated by iron levels to maintain iron homeostasis.
+
+A Recap of Heme Metabolism towards Understanding Protoporphyrin IX Selectivity in Cancer Cells
+
+Number of 
+
+Key takeaways:Protoporphyrin IX selectively accumulates in cancer cells due to a boost in anabolism and a drop in catabolism, but the exact mechanism remains unclear.
+
+Abstract:Mitochondria are essential organelles of mammalian cells, often emphasized for their function in energy production, iron metabolism and apoptosis as well as heme synthesis. The heme is an iron-loaded porphyrin behaving as a prosthetic group by its interactions with a wide variety of proteins. These complexes are termed hemoproteins and are usually vital to the whole cell comportment, such as the proteins hemoglobin, myoglobin or cytochromes, but also enzymes such as catalase and peroxidases. The building block of porphyrins is the 5-aminolevulinic acid, whose exogenous administration is able to stimulate the entire heme biosynthesis route. In neoplastic cells, this methodology repeatedly demonstrated an accumulation of the ultimate heme precursor, the fluorescent protoporphyrin IX photosensitizer, rather than in healthy tissues. While manifold players have been proposed, numerous discrepancies between research studies still dispute the mechanisms underlying this selective phenomenon that yet requires intensive investigations. In particular, we wonder what are the respective involvements of enzymes and transporters in protoporphyrin IX accretion. Is this mainly due to a boost in protoporphyrin IX anabolism along with a drop of its catabolism, or are its transporters deregulated? Additionally, can we truly expect to find a universal model to explain this selectivity? In this report, we aim to provide our peers with an overview of the currently known mitochondrial heme metabolism and approaches that could explain, at least partly, the mechanism of protoporphyrin IX selectivity towards cancer cells.
+
+SLC46A1 contributes to hepatic iron metabolism by importing heme in hepatocytes.
+
+Number of 
+
+Key takeaways:SLC46A1 regulates iron metabolism in the liver through a folate-independent manner, providing a new clue to link heme or iron overload with folate deficiency diseases.
+
+Metabolic-scale gene activation screens identify SLCO2B1 as a heme transporter that enhances cellular iron availability.
+
+Number of 
+
+Key takeaways:SLCO2B1 is a membrane carrier that increases intracellular iron and enables proliferation under iron restriction, bypassing the essentiality of the transferrin receptor.
+
+The heme synthesis-export system regulates the tricarboxylic acid cycle flux and oxidative phosphorylation.
+
+Number of 
+
+Key takeaways:The heme synthesis-export system regulates the tricarboxylic acid cycle flux and oxidative metabolism, explaining why both processes are enhanced in cells with high-energy demand.
+
+Heme in pathophysiology: a matter of scavenging, metabolism and trafficking across cell membranes
+
+Number of 
+
+Key takeaways:Controlling intracellular heme levels is crucial to counteract heme-induced oxidative stress and protect against membrane injury and apoptosis.
+
+Abstract:Heme (iron-protoporphyrin IX) is an essential co-factor involved in multiple biological processes: oxygen transport and storage, electron transfer, drug and steroid metabolism, signal transduction, and micro RNA processing. However, excess free-heme is highly toxic due to its ability to promote oxidative stress and lipid peroxidation, thus leading to membrane injury and, ultimately, apoptosis. Thus, heme metabolism needs to be finely regulated. Intracellular heme amount is controlled at multiple levels: synthesis, utilization by hemoproteins, degradation and both intracellular and intercellular trafficking. This review focuses on recent findings highlighting the importance of controlling intracellular heme levels to counteract heme-induced oxidative stress. The contributions of heme scavenging from the extracellular environment, heme synthesis and incorporation into hemoproteins, heme catabolism and heme transport in maintaining adequate intracellular heme content are discussed. Particular attention is put on the recently described mechanisms of heme trafficking through the plasma membrane mediated by specific heme importers and exporters. Finally, the involvement of genes orchestrating heme metabolism in several pathological conditions is illustrated and new therapeutic approaches aimed at controlling heme metabolism are discussed.
+
+Heme iron to correct Iron deficiency anemia with pregnancy
+
+Number of 
+
+Key takeaways:HIP (Proferrin®-ES) is a safe, tolerable, and effective oral iron preparation for treating iron deficiency anemia during pregnancy, increasing hemoglobin and replacing depleted iron stores.
+
+Abstract:Objectives: This study designed to evaluate the efficacy and tolerability of heme iron polypeptide (HIP) in treatment of iron deficiency anemia during pregnancy. Methods: 150 pregnant women with hemoglobin <10 gm/dl due to iron deficiency included in this study and treated with HIP for correction of iron deficiency anemia during pregnancy. Treatment efficacy checked by comparing the pre-treatment values of hemoglobin, serum ferritin, reticulocytes, mean corpuscular volume (MCV) and mean corpuscular hemoglobin (MCH) by the 3-months` post-treatment values. Results: The mean pre-treatment hemoglobin significantly increased from 8.8 ± 3.7 to 11.4 ± 3.04 gm/dl and the mean pretreatment ferritin level significantly increased from 15.6 ± 6.3 to 118.4 ± 4.6 ug/l 3-months` after Proferrin treatment. In addition; the mean pre-treatment RBCs MCV significantly increased from 72.6 ± 5.2 to 92.1 ± 3.8 FL, and the mean -treatment RBCs MCH significantly increased from 24.5 ± 8.1 to 25.8 ± 6.6 pg 3-months` after Proferrin treatment. While, the mean pre-treatment reticulocytes count significantly decreased from 3.4 ± 4.2 to 1.2 ± 3.3 106/mm3 3-months` after Proferrin treatment. Conclusion: HIP is safe, tolerable, effective, oral iron preparation to treat iron deficiency anemia with pregnancy; it increases the hemoglobin and replaces the depleted iron store. Correspondence to: Ibrahim A. Abdelazim, Ahmadi Hospital, KOC, Ahmadi, Kuwait, Tel: +965-66551300; E-mail: dr.ibrahimanwar@gmail.com Received: June 02, 2017; Accepted: June 22, 2017; 
+
+Heme oxygenase-1 increases intracellular iron storage and suppresses inflammatory response of macrophages by inhibiting M1 polarization.
+
+Number of 
+
+Key takeaways:HO-1 regulates iron metabolism, suppresses inflammation, and inhibits macrophage M1 polarization, enhancing macrophage migration and function.
+
+Abstract:Heme oxygenase-1 (HO-1) catalyzes the first and rate-limiting enzymatic step of heme degradation, producing carbon monoxide, biliverdin and free iron. Most iron is derived from aged erythrocytes by the decomposition of heme, which happened mainly in macrophages. However, the role of HO-1 on iron metabolism and function of macrophage is unclear. The present study investigated the effect of HO-1 on iron metabolism in macrophages, and explored the role of HO-1 on inflammatory response, polarization and migration of macrophages. HO-1 inducer Hemin or HO-1 inhibitor zinc protoporphyrin (ZnPP) was intravenously injected to C57BL/6 J mice every 4 days for 28 days. We found that HO-1 was mainly located in the cytoplasm of splenic macrophages of mice. Activation of HO-1 by Hemin significantly increased iron deposition in the spleen, upregulated the gene expression of ferritin and ferroportin, and downregulated gene expression of divalent metal transporter 1 (DMT1) and hepcidin. Induced HO-1 by Hemin treatment increased intracellular iron levels of macrophages, slowed down the absorption of extracellular iron and accelerated the excretion of intracellular iron. In addition, activation of HO-1 significantly decreased the expression of pro-inflammatory cytokines including interleukin (IL)-6, IL-1β and inducible nitric oxide synthase (iNOS), but increased the expression of anti-inflammatory cytokines such as IL-10. Furthermore, activation of HO-1 inhibited macrophages to M1-type polarization, and increased the migration rate of macrophages. This study demonstrated that HO-1 was able to regulate iron metabolism, exert anti-inflammatory effects, and inhibit macrophages polarization to M1 type.
+
+Heme, iron, and the mitochondrial decay of ageing
+
+Number of 
+
+Key takeaways:Heme metabolism may be altered in age-related disorders, such as Alzheimer's disease, and may play a role in iron deficiency.
+
+Cellular Iron Metabolism and Regulation.
+
+Number of 
+
+Key takeaways:Cellular iron metabolism and regulation are tightly regulated to maintain optimal iron concentration in the human body, with hepcidin and iron regulatory proteins playing key roles in this process.
+
+Abstract:Iron is an essential trace element in the human body, but excess iron is toxic as it contributes to oxidative damage. To keep iron concentration within the optimal physiologic range, iron metabolism at the cellular level and the whole systemic level are tightly regulated. Balance of iron homeostasis depends on the expression levels and activities of iron carriers, iron transporters, and iron regulatory and storage proteins. Divalent metal transporter 1 (DMT1) at the apical membrane of intestinal enterocyte brings in non-heme iron from the diet, whereas ferroportin 1 (FPN1) at the basal membrane exports iron into the circulation. Plasma transferrin (Tf) then carries iron to various tissues and cells. After binding to transferrin receptor 1 (TfR1), the complex is endocytosed into the cell, where iron enters the cytoplasm via DMT1 on the endosomal membrane. Free iron is either utilized in metabolic processes, such as synthesis of hemoglobin and Fe–S cluster, or sequestered in the cytosolic ferritin, serving as a cellular iron store. Excess iron can be exported from the cell via FPN1. The liver-derived peptide hepcidin plays a major regulatory role in controlling FPN1 level in the enterocyte, and thus controls the whole-body iron absorption. Inside the cells, iron regulatory proteins (IRPs) modulate the expressions of DMT1, TfR1, ferritin, and FPN1 via binding to the iron-responsive element (IRE) in their mRNAs. Both the release of hepcidin and the IRP–IRE interaction are coordinated with the fluctuation of the cellular iron level. Therefore, an adequate and steady iron supplement is warranted for the utilization of cells around the body. Investigations on the molecular mechanisms of cellular iron metabolism and regulation could advance the fields of iron physiology and pathophysiology.
+
+Signal-sensing triggers the shutdown of HemKR, regulating heme and iron metabolism in the spirochete Leptospira biflexa
+
+Number of 
+
+Key takeaways:HemKR in Leptospira biflexa spirochetes senses abundance of porphyrin metabolites and controls heme homeostasis, potentially allowing it to tolerate iron deficiency during infection.
+
+Abstract:Heme and iron metabolic pathways are highly intertwined, both compounds being essential for key biological processes, yet becoming toxic if overabundant. Their concentrations are exquisitely regulated, including via dedicated two-component systems (TCSs) that sense signals and regulate adaptive responses. HemKR is a TCS present in both saprophytic and pathogenic Leptospira species, involved in the control of heme metabolism. However, the molecular means by which HemKR is switched on/off in a signal-dependent way, are still unknown. Moreover, a comprehensive list of HemKR-regulated genes, potentially overlapped with iron-responsive targets, is also missing. Using the saprophytic species Leptospira biflexa as a model, we now show that 5-aminolevulinic acid (ALA) triggers the shutdown of the HemKR pathway in live cells, and does so by stimulating the phosphatase activity of HemK towards phosphorylated HemR. Phospho~HemR dephosphorylation leads to differential expression of multiple genes, including of heme metabolism and transport systems. Besides the heme-biosynthetic genes hemA and the catabolic hmuO, which we had previously reported as phospho~HemR targets, we now extend the regulon identifying additional genes. Finally, we discover that HemR inactivation brings about an iron-deficit tolerant phenotype, synergistically with iron-responsive signaling systems. Future studies with pathogenic Leptospira will be able to confirm whether such tolerance to iron deprivation is conserved among Leptospira spp., in which case HemKR could play a vital role during infection where available iron is scarce. In sum, HemKR responds to abundance of porphyrin metabolites by shutting down and controlling heme homeostasis, while also contributing to integrate the regulation of heme and iron metabolism in the L. biflexa spirochete model.
+
+Like iron in the blood of the people: the requirement for heme trafficking in iron metabolism
+
+Number of 
+
+Key takeaways:Heme trafficking is crucial for iron metabolism and supports various physiological events, questioning the current dogma that heme is not mobilized from one cell or tissue to another.
+
+Abstract:Heme is an iron-containing porphyrin ring that serves as a prosthetic group in proteins that function in diverse metabolic pathways. Heme is also a major source of bioavailable iron in the human diet. While the synthesis of heme has been well-characterized, the pathways for heme trafficking remain poorly understood. It is likely that heme transport across membranes is highly regulated, as free heme is toxic to cells. This review outlines the requirement for heme delivery to various subcellular compartments as well as possible mechanisms for the mobilization of heme to these compartments. We also discuss how these trafficking pathways might function during physiological events involving inter- and intra-cellular mobilization of heme, including erythropoiesis, erythrophagocytosis, heme absorption in the gut, as well as heme transport pathways supporting embryonic development. Lastly, we aim to question the current dogma that heme, in toto, is not mobilized from one cell or tissue to another, outlining the evidence for these pathways and drawing parallels to other well-accepted paradigms for copper, iron, and cholesterol homeostasis.
+
+Iron Metabolism in the Disorders of Heme Biosynthesis
+
+Number of 
+
+Key takeaways:Iron metabolism plays a complex role in inherited conditions like porphyrias and congenital sideroblastic anemias, with iron-dependent signals playing a central role in erythropoiesis and heme biosynthesis.
+
+Abstract:Given its remarkable property to easily switch between different oxidative states, iron is essential in countless cellular functions which involve redox reactions. At the same time, uncontrolled interactions between iron and its surrounding milieu may be damaging to cells and tissues. Heme—the iron-chelated form of protoporphyrin IX—is a macrocyclic tetrapyrrole and a coordination complex for diatomic gases, accurately engineered by evolution to exploit the catalytic, oxygen-binding, and oxidoreductive properties of iron while minimizing its damaging effects on tissues. The majority of the body production of heme is ultimately incorporated into hemoglobin within mature erythrocytes; thus, regulation of heme biosynthesis by iron is central in erythropoiesis. Additionally, heme is a cofactor in several metabolic pathways, which can be modulated by iron-dependent signals as well. Impairment in some steps of the pathway of heme biosynthesis is the main pathogenetic mechanism of two groups of diseases collectively known as porphyrias and congenital sideroblastic anemias. In porphyrias, according to the specific enzyme involved, heme precursors accumulate up to the enzyme stop in disease-specific patterns and organs. Therefore, different porphyrias manifest themselves under strikingly different clinical pictures. In congenital sideroblastic anemias, instead, an altered utilization of mitochondrial iron by erythroid precursors leads to mitochondrial iron overload and an accumulation of ring sideroblasts in the bone marrow. In line with the complexity of the processes involved, the role of iron in these conditions is then multifarious. This review aims to summarise the most important lines of evidence concerning the interplay between iron and heme metabolism, as well as the clinical and experimental aspects of the role of iron in inherited conditions of altered heme biosynthesis.
+
+The Multifaceted Role of Heme in Cancer
+
+Number of 
+
+Key takeaways:Heme plays a crucial role in cancer initiation and progression, influencing tumor cell metabolism, energy production, and interactions with the microenvironment.
+
+Abstract:Heme, an iron-containing porphyrin, is of vital importance for cells due to its involvement in several biological processes, including oxygen transport, energy production and drug metabolism. Besides these vital functions, heme also bears toxic properties and, therefore, the amount of heme inside the cells must be tightly regulated. Similarly, heme intake from dietary sources is strictly controlled to meet body requirements. The multifaceted nature of heme renders it a best candidate molecule exploited/controlled by tumor cells in order to modulate their energetic metabolism, to interact with the microenvironment and to sustain proliferation and survival. The present review summarizes the literature on heme and cancer, emphasizing the importance to consider heme as a prominent player in different aspects of tumor onset and progression.
+
+Heme iron polypeptide (proferrin®-ES) versus iron saccharate complex (ferrosac) for treatment of iron deficiency anemia during pregnancy
+
+Number of 
+
+Key takeaways:HIP (Proferrin®-ES) is an effective, safe, and well-tolerable oral iron preparation for treating iron deficiency during pregnancy, increasing hemoglobin and replacing depleted iron store.
+
+Abstract:Objectives: Anemia is one of the world's leading causes of considerable perinatal morbidity and mortality. This study designed to compare the efficacy and safety of Heme iron polypeptide (Proferrin®-ES) versus iron saccharate complex (Ferrosac) in treatment of iron deficiency anemia during pregnancy. Methods: Two hundred and sixty (260) pregnant women with hemoglobin level below 10 gm/dl due to iron deficiency anemia were included in this study and randomized to receive either; intravenous Iron Saccharate (IV group) or oral Proferrin®-ES (PO group) for correction of iron deficiency anemia during pregnancy. Treatment efficacy checked by comparing pre-treatment values of hemoglobin, serum ferritin, mean corpuscular volume (MCV), mean corpuscular hemoglobin (MCH) and reticulocytes count by the 3-months` post-treatment values. Results: The 3-months` post-treatment hemoglobin level increased compared to the pre-treatment level without any significant difference between the two studied groups (from 8.5 ± 3.5 to 11.3 ± 1.3 gm/dl in PO group and from 8.7 ± 2.5 to 11.7 ± 0.9 gm/dl in IV group). In addition; the 3-months` post-treatment ferritin level, increased compared to the pre-treatment level without any significant difference between the two studied groups (from 19.4 ± 4.9 to 118.8 ± 7.1 ug/l in PO group and from 15.3 ± 5.6 to 122.3 ± 6.4 ug/l in IV group). 1.6% (2/124) of the studied women developed gastrointestinal intolerance and upset with oral Proferrin®-ES (insignificant difference and excluded from the study) and no other side effects recorded with oral Proferrin®-ES. Conclusion: HIP (Proferrin®-ES) is an effective, safe, well tolerable oral iron preparation as well as intravenous iron saccharate complex for treatment of iron deficiency during pregnancy; it increases the hemoglobin and replaces the depleted iron store.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

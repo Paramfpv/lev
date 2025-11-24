@@ -1,0 +1,393 @@
+PROTOCOL: No screens before bedtime
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Abstract:Abstract Aims Pre-bedtime screen use among adolescents is highly prevalent and fast-paced, often involving multiple devices, and frequent switching between activities, which is presumed to be harmful to sleep. The aim of this study was to determine how objectively-measured evening screen time influenced sleep in young adolescents. Methods BED was a repeated-measures observational study in 85 healthy adolescents (11-14.9 years). Objective screen time data were captured over four non-consecutive nights using video cameras from two hours before bedtime until the adolescent attempted sleep (shuteye time) and coded using a reliable protocol (κ ≥ 0.8). Sleep outcomes (sleep timing, total sleep time, and WASO) were measured objectively via wrist-worn AX3 accelerometers. Screen use was related to sleep on a night-by-night basis using a mixed-effects regression model, which considered participant as a random effect and adjusted for weekends. Results Screen time in the two hours before bed had little effect on sleep that night. However, once in bed, screen time delayed sleep onset by 35 (95% CI: 20, 50) minutes compared to nights without screen use. Interactive screen use reduced TST more than passive screen use (9 compared with 4 minutes for every 10 minutes of use, but time since last screen use did not impact any measure of sleep health examined. Conclusion Improved methodology shows that screen time may impair sleep once in bed, especially if interactive. Current sleep hygiene recommendations to restrict all screen time before bed seem neither achievable nor appropriate within this age group.
+DESCRIPTION: Limiting screen use in the evening hours, especially in bed and just before sleep, is an effective and safe intervention that supports better sleep, concentration, and mental health. Studies show that even small changes in evening screen habits can bring measurable benefits for sleep, recovery, and overall well-being.
+
+CONTENT SECTIONS:
+
+No screens before bedtime
+
+Improvement in sleep quality, cognitive function, and mental health
+
+Limiting screen use in the evening hours, especially in bed and just before sleep, is an effective and safe intervention that supports better sleep, concentration, and mental health. Studies show that even small changes in evening screen habits can bring measurable benefits for sleep, recovery, and overall well-being.
+
+Level of evidence:Strong
+
+Level of risk:Negligible
+
+Reducing exposure to blue light and psychologically stimulating content before bedtime supports the natural circadian rhythm, facilitates falling asleep, and increases sleep duration. This allows for better recovery of the nervous system, improved memory consolidation, and better cognitive functioning during the day. Additionally, reducing screen use in the evening lowers psychological arousal, reduces symptoms of anxiety and stress, and positively affects mental health.
+
+Level of risk:Negligible
+
+Limiting screen use before bedtime is an intervention virtually free of risk for most individuals. However, implementing this practice may involve initial discomfort due to habits or difficulties in changing evening routines.
+
+This intervention is not recommended only in specific situations when evening device use is essential for work or therapy, or in cases where introducing limitations could lead to serious family conflicts or worsening of mental health issues (e.g., social isolation).
+
+Best results: complete avoidance of screens in bed and for at least 1 hour before sleep
+
+Applies to all types of screens: smartphones, computers, tablets, TVs, consoles
+
+First effects visible after just a few days of regular use
+
+Limit screen use in the last hour before sleep, especially after 9:00 PM
+
+Evening rituals without screens
+
+Instead of using devices, engage in calm activities: reading a book, meditating, talking, or taking a warm bath.
+
+Turn off notifications and use 'do not disturb' mode
+
+Set your phone and other devices to night mode or turn off notifications so they don't distract you before sleep.
+
+Limit device use in bed
+
+Avoid using any screens once in bed – this includes the so-called 'last check of messages'.
+
+Create an evening 'offline window'
+
+Designate a regular time at home, e.g., 60–90 minutes before sleep, when the whole family refrains from using screens.
+
+Alternatives to evening screen time for children
+
+Offer children board games, coloring books, conversations, or reading – this makes it easier to implement the change and reduces resistance.
+
+Limiting screen use before sleep has a clearly positive effect on sleep – it improves duration and quality, and helps with falling asleep, especially in children, adolescents, and adults. The greatest benefits are observed when screen use is limited in bed and right before falling asleep.
+
+Effects of screens on sleep
+
+Intervention effectiveness
+
+Table: Impact of limiting screens before sleep on sleep
+
+Limiting screen use before sleep may have a positive impact on mental health, mainly by improving sleep quality and reducing emotional symptoms. Recent studies suggest that reducing evening screen time improves psychological well-being, reduces emotional difficulties, and enhances social interactions.
+
+Impact of limiting screens before sleep on mental health
+
+Limiting screen use before sleep has a clearly positive effect on the brain, mainly through improved sleep quality, which translates into better cognitive functioning, concentration, and mental health. Avoiding screens in the evening improves sleep and daytime alertness, supporting brain health.
+
+Effects of screens on sleep and brain functions
+
+Benefits of limiting screens before sleep
+
+Recommendations and summary
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:37
+
+Final comment:Repeated results from randomized controlled trials (RCTs), meta-analyses, and high-quality systematic reviews clearly indicate that reducing screen use before bedtime leads to improved sleep duration and quality, as well as earlier sleep onset in children, adolescents, and adults. These effects are consistent across different populations and confirmed by both subjective and objective measurement methods (e.g., actigraphy). A beneficial impact on cognitive functions, mental health, and daytime alertness has also been observed. There is no reliable evidence indicating significant health risks associated with this intervention, confirming its high effectiveness and safety.
+
+Screen Use at Bedtime and Sleep Duration and Quality Among Youths.
+
+Number of 
+
+Key takeaways:Screen time before bed is associated with impaired sleep in youths, particularly when it involves interactive or multitasking activities.
+
+Abstract:Importance
+Although questionnaire-based cross-sectional research suggests that screen time before bed correlates with poor sleep, self-reported data seem unlikely to capture the complexity of modern screen use, requiring objective night-by-night measures to advance this field.
+
+Objective
+To examine whether evening screen time is associated with sleep duration and quality that night in youths.
+
+Design, Setting, and Participants
+This repeated-measures cohort study was performed from March to December 2021 in participant homes in Dunedin, New Zealand. Participants included healthy youths aged 11 to 14.9 years. Data were analyzed from October to November 2023.
+
+Exposure
+Objectively measured screen time, captured using wearable or stationary video cameras from 2 hours before bedtime until the first time the youth attempted sleep (shut-eye time) over 4 nonconsecutive nights. Video data were coded using a reliable protocol (κ = 0.92) to quantify device (8 options ) and activity (10 options ) type.
+
+Main Outcomes and Measures
+Sleep duration and quality were measured objectively via wrist-worn accelerometers. The association of screen use with sleep measures was analyzed on a night-by-night basis using mixed-effects regression models including participant as a random effect and adjusted for weekends.
+
+Results
+Of the 79 participants (47 male; mean age, 12.9 years), all but 1 had screen time before bed. Screen use in the 2 hours before bed had no association with most measures of sleep health that night (eg, mean difference in total sleep time, 0 minutes for every 10 minutes more total screen time). All types of screen time were associated with delayed sleep onset but particularly interactive screen use (mean difference, 10 minutes; 95% CI, 4 to 16 minutes for every additional 10 minutes of interactive screen time). Every 10 minutes of additional screen time in bed was associated with shorter total sleep time (mean difference, -3 minutes; 95% CI, -6 to -1 minute). The mean difference in total sleep time was -9 minutes (95% CI, -16 to -2 minutes) for every 10 minutes of interactive screen use and -4 minutes (95% CI, -7 to 0 minutes) for passive screen use. In particular, gaming (mean difference, -17 minutes; 95% CI, -28 to -7 minutes for every 10 minutes of gaming) and multitasking (mean difference, -35 minutes; 95% CI, -67 to -4 minutes on nights with vs without multitasking) were associated with less total sleep time.
+
+Conclusions and Relevance
+In this repeated-measures cohort study, use of an objective method showed that screen time once in bed was associated with impairment of sleep, especially when screen time was interactive or involved multitasking. These findings suggest that current sleep hygiene recommendations to restrict all screen time before bed seem neither achievable nor appropriate.
+
+Electronic Screen Use and Sleep Duration and Timing in Adults
+
+Number of 
+
+Key takeaways:Electronic screen use before bed is associated with decreased sleep duration and worse sleep quality in adults, especially among those with a later chronotype.
+
+Abstract:Key Points Question Is use of an electronic screen before bed associated with sleep outcomes in adults? Findings In this cross-sectional analysis of 122 058 participants in the American Cancer Society Cancer Prevention Study–3, screen use was associated with decreased sleep duration and worse self-reported sleep quality. These associations were more pronounced in participants with a later chronotype. Meaning These findings expand on the literature surrounding screen use and poorer sleep outcomes by confirming the associations among an adult population, especially among those with a later chronotype.
+
+Reducing the use of screen electronic devices in the evening is associated with improved sleep and daytime vigilance in adolescents.
+
+Number of 
+
+Key takeaways:Restricting screen use in the evening improves sleep duration and daytime vigilance in adolescents, potentially benefiting their daytime functioning and health.
+
+Abstract:The use of screen electronic devices in the evening negatively affects sleep. Yet, sleep is known to be essential for brain maturation and a key factor for good academic performance, and thus is particularly critical during childhood and adolescence. Although previous studies reported associations between screen time and sleep impairment, their causal relationship in adolescents remains unclear. Using actigraphy and daily questionnaires in a large sample of students (12 to 19 years old), we assessed screen time in the evening and sleep habits over 1 month. This included a 2 week baseline phase, followed by a 40 min sleep education workshop and a 2 week interventional phase, in which participants were asked to stop using screen devices after 9 pm during school nights. During the interventional phase, we found that the reduction of screen time after 9 pm correlated with earlier sleep onset time and increased total sleep duration. The latter led to improved daytime vigilance. These findings provide evidence that restricting screen use in the evening represents a valid and promising approach for improving sleep duration in adolescents, with potential implications for daytime functioning and health.
+
+O002 Sleepy teens and the use of screens: A repeated measures analysis examining the relationship between pre-bedtime screen use and sleep
+
+Number of 
+
+Key takeaways:Screen time before bed may impair sleep in young adolescents, especially if interactive.
+
+Abstract:Abstract Aims Pre-bedtime screen use among adolescents is highly prevalent and fast-paced, often involving multiple devices, and frequent switching between activities, which is presumed to be harmful to sleep. The aim of this study was to determine how objectively-measured evening screen time influenced sleep in young adolescents. Methods BED was a repeated-measures observational study in 85 healthy adolescents (11-14.9 years). Objective screen time data were captured over four non-consecutive nights using video cameras from two hours before bedtime until the adolescent attempted sleep (shuteye time) and coded using a reliable protocol (κ ≥ 0.8). Sleep outcomes (sleep timing, total sleep time, and WASO) were measured objectively via wrist-worn AX3 accelerometers. Screen use was related to sleep on a night-by-night basis using a mixed-effects regression model, which considered participant as a random effect and adjusted for weekends. Results Screen time in the two hours before bed had little effect on sleep that night. However, once in bed, screen time delayed sleep onset by 35 (95% CI: 20, 50) minutes compared to nights without screen use. Interactive screen use reduced TST more than passive screen use (9 compared with 4 minutes for every 10 minutes of use, but time since last screen use did not impact any measure of sleep health examined. Conclusion Improved methodology shows that screen time may impair sleep once in bed, especially if interactive. Current sleep hygiene recommendations to restrict all screen time before bed seem neither achievable nor appropriate within this age group.
+
+Screen time and sleep among school-aged children and adolescents: a systematic literature review.
+
+Number of 
+
+Key takeaways:Screen time is negatively associated with sleep outcomes in 90% of studies, primarily shortened duration and delayed timing, in school-aged children and adolescents.
+
+How and when screens are used: comparing different screen activities and sleep in Norwegian university students
+
+Number of 
+
+Key takeaways:Increased screen time in bed is linked to poorer sleep, regardless of activity type, with social media use having the lowest odds of insomnia and longer sleep duration.
+
+Abstract:Introduction Screen use in bed has become a widespread habit, particularly among young people. This behavior has been associated with poor sleep, with some studies indicating that social media use may be especially detrimental. However, there is a scarcity of research directly comparing the relationship between various screen activities and sleep, and most existing studies focus on adolescents rather than young adults. This study aims to explore the relationship between screen use in bed and sleep among students, specifically comparing social media use to other screen-based activities. Methods This study utilized data from the cross-sectional Students’ Health and Wellbeing Study of 2022 and included n=45,202 participants aged 18-28 years. Regression analyses were used to assess the relationship between screen time in bed and sleep, comparing social media use with other activities. Results A one-hour increase of screen time after going to bed was associated with 59% higher odds of having symptoms of insomnia and a reduction in sleep duration of 24 minutes. The associations between screen time and sleep outcomes did not differ for social media use versus other activities. Independent of screen time, participants who exclusively used social media had lower odds of insomnia and longer sleep duration compared to those engaging in other activities or a mix of activities. Discussion The present study found that increased screen time in bed is linked to poorer sleep, across activity type. Future research should refine classifications, assess specific content, and employ experimental approaches to determine causal mechanisms.
+
+Digital Media and Sleep in Childhood and Adolescence
+
+Number of 
+
+Key takeaways:Screen-based media consumption negatively impacts sleep health in children and adolescents, primarily through delayed bedtimes and reduced total sleep duration.
+
+Abstract:Given the pervasive use of screen-based media and the high prevalence of insufficient sleep among American youth and teenagers, this brief report summarizes the literature on electronic media and sleep and provides research recommendations. Recent systematic reviews of the literature reveal that the vast majority of studies find an adverse association between screen-based media consumption and sleep health, primarily via delayed bedtimes and reduced total sleep duration. The underlying mechanisms of these associations likely include the following: (1) time displacement (ie, time spent on screens replaces time spent sleeping and other activities); (2) psychological stimulation based on media content; and (3) the effects of light emitted from devices on circadian timing, sleep physiology, and alertness. Much of our current understanding of these processes, however, is limited by cross-sectional, observational, and self-reported data. Further experimental and observational research is needed to elucidate how the digital revolution is altering sleep and circadian rhythms across development (infancy to adulthood) as pathways to poor health, learning, and safety outcomes (eg, obesity, depression, risk-taking).
+
+Interventions to control children's screen use and their effect on sleep: A systematic review and meta‐analysis
+
+Number of 
+
+Key takeaways:Interventions targeting children's screen use can lead to small improvements in screen time and sleep duration, but it's unclear if reduced screen time directly improves sleep due to limited studies.
+
+Abstract:Prolonged viewing of screen‐based media is associated with poor sleep in children. Previous systematic reviews have analysed the effectiveness of interventions that aim to limit children's screen use; however, none have evaluated its effect on sleep. The aim of this systematic review was to evaluate the effect of interventions that incorporate strategies to control children's screen use on screen use and sleep. The databases Pubmed, Embase, Eric, Scopus and PsycInfo were searched during October 2017 and updated in February 2019 for experimental studies with a control that assessed interventions to control screen use in children aged 2–14 years and reported both screen use and sleep outcomes. From 3,872 initial records, 11 studies (six randomized control , four cluster RCT and one cluster, quasi‐experimental) were eligible for inclusion. A total of 4,656 children aged 2–13 years were included in the studies. The mean reduction in screen time was 0.56 hr (33 min)/day (95% confidence interval , 0.92, 0.20) and the mean sleep duration increased by 0.19 hr (11 min)/day (95% CI, 0.05, 0.33). Bedtime was advanced by 0.16 hr (10 min) on weekdays and by 1.0 hr at the weekend. Subgroup analyses indicated stronger intervention effects for interventions of shorter duration (<3 months), which specifically targeted screen use or sleep, and those with direct participant contact. In conclusion, small improvements in screen time and sleep duration can be achieved in children. It is not possible to determine if a reduction in screen time directly improves sleep, due to the limited number of studies, the presence of co‐interventions, issues with studies' methodological quality and heterogeneity.
+
+Sleep and circadian hygiene practices association with sleep quality among Brazilian adults
+
+Number of 
+
+Key takeaways:Regular morning exercise, avoiding heavy meals close to bedtime, caffeine, smoking, and evening screen exposure, promotes better sleep quality and prevents sleep-related issues.
+
+The impact of screen use on sleep health across the lifespan: A National Sleep Foundation consensus statement.
+
+Number of 
+
+Key takeaways:Screen use impairs sleep health in children and adolescents, with prebedtime content impairing it, and behavioral strategies and interventions may help reduce these negative effects.
+
+Night-time screen-based media device use and adolescents' sleep and health-related quality of life.
+
+Number of 
+
+Key takeaways:Night-time screen-based media device use is associated with poor sleep outcomes and worse health-related quality of life in adolescents, with stronger effects in dark rooms.
+
+Bedtime screen use behaviors and sleep outcomes: Findings from the Adolescent Brain Cognitive Development (ABCD) Study.
+
+Number of 
+
+Key takeaways:Bedtime screen use behaviors, such as having a television in the bedroom and leaving phones on, are associated with sleep disturbances in early adolescents.
+
+Prebedtime Screen Use in Adolescents: A Survey of Habits, Barriers, and Perceived Acceptability of Potential Interventions.
+
+Number of 
+
+Key takeaways:Adolescents can improve sleep quality by reducing in-bed use of portable devices and addressing barriers to reducing screen time.
+
+When and what: A longitudinal study on the role of screen time and activities in adolescent sleep.
+
+Number of 
+
+Key takeaways:Electronic screen time negatively impacts adolescent sleep quality, with daytime TV viewing and social media use negatively affecting sleep, while nighttime shopping and working/studying positively influence it.
+
+Use of digital screens by adolescents and association on sleep quality: a systematic review.
+
+Number of 
+
+Key takeaways:Excessive use of digital screens, particularly mobile phones before bedtime, is associated with worse and shorter sleep quality in adolescents.
+
+Abstract:This study aimed to analyze the influence of digital screen use on adolescents' quality of sleep. This systematic review was recorded on PROSPERO (CRD42020203403) and conducted according to PRISMA guidelines. Studies covering adolescents from 10 to 19 years were included without language or publication restrictions which answered the following guiding question: "Does the use of digital screen influence adolescents' quality sleep?". Article search included the following databases: (MEDLINE/PubMed), LILACS, SciELO, Scopus, EMBASE, Web of Science, IBECS, Cochrane Library, ClinicalTrials.gov, and Open Gray. The following descriptors were used: "Sleep Quality", "Screen Time", and "Adolescent". The Newcastle-Ottawa Scale (NOS) assessed the methodological quality of the cohort studies, and a modified NOS was used to assess the cross-sectional ones. In total, 2,268 articles were retrieved, of which 2,059 were selected for title and abstract reading, after duplicates were deleted. After this stage, 47 articles were selected for full reading, resulting in the 23 articles which compose this review. Excessive use of digital screens was associated with worse and shorter sleep, showing, as its main consequences, night awakenings, long sleep latency, and daytime sleepiness. The use of mobile phones before bedtime was associated with poor quality of sleep among adolescents. Our evaluation of the methodological quality of the chosen studies found seven to be poor and 16, moderate.
+
+Do both timing and duration of screen use affect sleep patterns in adolescents?
+
+Number of 
+
+Key takeaways:Both duration and timing of screen use negatively impact sleep and daytime functioning in adolescents, with more than 2 hours of evening use and all night-time use to be avoided.
+
+Abstract:Background Sleep duration has declined in adolescents over the last 30 years and screen use has been identified as a risk factor. Studies have examined the duration of screen use and screen-based activities but have not differentiated between evening and night-time use. Methods Cross sectional questionnaire survey of adolescents recruited in schools. Sleep habits on school nights and weekends, symptoms of insomnia and daytime repercussions were recorded using an online questionnaire administered in the classroom setting. Sleep deprivation (<7 hours in bed /night), school night sleep restriction (≥2 hours difference in sleep duration on school nights vs weekends), excessive sleepiness (score >6 on a visual analogue scale), duration of screen use and timing of screen use (evening vs after bedtime) were determined. Results 2513 students (53.4% female, median age 15 years) were included. 20% were sleep deprived and 41% sleep restricted. A clear dose effect relationship in a model controlling for age, sex, school level and sociodemographic class was seen with all levels of night-time screen use on sleep deprivation and sleep restriction (>2 hours use sleep deprivation OR 5.23. sleep restriction OR 2.05) and > 2 hours evening use (>2 hours use sleep deprivation OR 2.72 sleep restriction OR 1.69) but not moderate evening use. All night-time use and > 2 hours evening use increased the risk of insomnia, non refreshing sleep, and affected daytime function (daytime sleepiness, lack of energy and irritability). Conclusions Both duration of screen use and timing are associated with adverse effects on sleep and daytime functioning in adolescents. More than 2 hours evening use and all night-time use should be avoided.
+
+From dusk to dawn: examining how adolescents engage with digital media using objective measures of screen time in a repeated measures study
+
+Number of 
+
+Key takeaways:Adolescents frequently engage with screens before bed and throughout the night, despite recommendations to restrict screen time before sleep, using devices like televisions, phones, and multitasking.
+
+Abstract:Abstract Background Although evening screen time is thought to impair subsequent sleep, current measures are limited to questionnaires which seem unlikely to accurately assess screen time in youth. Given the ubiquitous nature of digital devices, improving measurement of screen time is required before related health effects can be appropriately determined. The aim of this study was to objectively quantify screen time before sleep using video camera footage. Methods This repeated-measures observational study in healthy adolescents (11–14 years) from Dunedin, New Zealand measured screen time on four evenings over one week in the home environment from March-December 2021. Wearable and stationary PatrolEyes video cameras captured screen time from two hours before bedtime until sleep and manually coded for device type (phone, tablet, laptop computer, desktop computer, handheld gaming console, gaming console, television and other) and screen activity (watching, listening, reading, educational/creative, browsing, communication, social media, video gaming, multitasking) using a reliable coding schedule (κ ≥ 0.8). Descriptive findings are reported. Findings Among the 83 participants (mean 12.3 years, 42% female, 52% New Zealand European, 37% Māori ), 82 used screens in the two hours before bed on 308 of 344 (90%) nights for a mean of 54.4 min (SD 25.5). Televisions (median 37 min, 56% of nights), phones (19 min, 64% nights), and multitasking using multiple devices (19 min, 48% nights) were most commonly used (&gt; 75% of adolescents). Once in bed but before trying to sleep, 58% of adolescents engaged in screen time for 17 (26.3) minutes on 36% of nights. The most common screen activities were watching (32.5%), social media (26.5%) and communication (20.5%). Even after attempting sleep, 32.5% of participants used screens for 8.0 min (median) on 16% of nights, mostly listening on phones. Conclusions Objective video cameras offer detailed insight into evening screen habits, capturing frequency, content, and duration. Youth frequently engage with screens before bed and throughout the night on a range of activities, despite recommendations to restrict screen time prior to sleep. Trial registration Australian New Zealand Clinical Trials Registry (anzctr.org.au), AACTRN12621000193875, Registered 23 February 2021, .
+
+Screen use before bedtime: Consequences for nighttime sleep in young children.
+
+Number of 
+
+Key takeaways:Greater screen use before bedtime in 30-month-old children is associated with more parent-reported sleep problems and shorter and more variable nighttime sleep.
+
+Psychosocial determinants of healthy sleep habits in adults with type 1 and type 2 diabetes
+
+Number of 
+
+Key takeaways:Psychosocial factors, such as perceived behavioral control and age, influence screen use in bed and sleep regularity in adults with type 1 and type 2 diabetes.
+
+Abstract:ABSTRACT Background: Many adults with type 1 (T1D) and type 2 diabetes (T2D) have inadequate sleep increasing their risk of hyperglycemia and developing complications. The objective was to identify psychosocial determinants of healthy sleep habits (HSH) among adults with T1D and T2D. Methods: The two HSH were: avoiding screen use in bed and having sleep regularity. Adults (≥18 years) with T1D and T2D were invited to complete an anonymous online survey. The questionnaires were based on the Reasoned Action Approach and formative qualitative research previously conducted in 56 adults with T1D and T2D. Habit was included as an additional variable for screen use in bed. Results: In total, 320 adults with diabetes (T1D: 39%; T2D: 61%) completed the questionnaires (screen use in bed: 174; sleep timing: 146). Close to 75% of participants reported screen use in bed and close to 90% reported sleep timing variability in the last month. Perceived behavioral control (PBC) to avoid screen use in bed (β = −0.4486, p < 0.0001), habit of using screens in bed (β = 0.4002; p < 0.0001), and age (β = −0.0202; p = 0.0086) were determinants of screen use in bed, and this model explained 71% of the variance. PBC for sleep regularity (β = −0.2909; p = 0.0004) and being female (β = 0.5057; p = 0.0069) were determinants of sleep timing variability, and this model explained 28% of the variance. The most important beliefs associated with each HSH were identified to obtain information to design targeted interventions. Conclusions: Few adults with diabetes have HSH. Screen use in bed was strongly influenced by habit and the results suggest that both HSH are not easy to adopt among adults with diabetes. Younger adults with diabetes should be prioritized for screen use in bed, while females with diabetes should be prioritized for sleep timing variability. Adults with diabetes should have access to behavior change interventions to encourage them to adopt HSH.
+
+Screen use before sleep and emotional problems among adolescents: Preliminary evidence of mediating effect of chronotype and social jetlag.
+
+Number of 
+
+Key takeaways:Screen use before sleep in adolescents is linked to increased emotional problems, with chronotype and social jetlag acting as mediating factors.
+
+The associations between screen time and mental health in adolescents: a systematic review
+
+Number of 
+
+Key takeaways:Excessive screen time in adolescents is associated with mental health problems, particularly in girls and with increased risk for depression.
+
+Abstract:Abstract Background Adolescents have extensive use of screens and, they have common complains related to mental health. Here a systematic review was done to understand the association between screen time and adolescent’s mental health. Method This review was conducted in compliance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses – PRISMA. An update search was performed in January 2023 with the following keywords: “screen time,“ “adolescent,“ and “mental health” on PubMed, PsycINFO and Scopus databases. Results 50 articles were included, most have found associations between screen exposure and mental health in adolescents. The most used device by adolescents was the smartphone and the use on weekdays was associated with diminished mental well-being. Social media use was negatively associated with mental well-being and, in girls, associated at higher risk for depression. Conclusion Excessive screen time in adolescents seems associated with mental health problems. Given the profusion and disparity of the results, additional studies are needed to clarify elements such as the screen content or the interaction of adolescents with different screen devices. Systematic review registration: PROSPERO CRD42022302817.
+
+Screen Media Use and Mental Health of Children and Adolescents
+
+Number of 
+
+Key takeaways:Reducing leisure-time screen media use improves children and adolescents' mental health, particularly reducing internalizing behavioral issues and enhancing positive social interactions.
+
+Abstract:Key Points Question Does reducing leisure-time screen media use improve mental health among children and adolescents? Findings In this prespecified secondary analysis of a randomized clinical trial including 89 families (181 children and adolescents), reducing screen media use had an overall positive effect on children’s and adolescents’ behavioral difficulties. The most noticeable benefits associated with reduced screen media use was a decrease in internalizing behavioral issues and enhanced positive social interactions. Meaning The findings provide evidence for a causal link between a short-term reduction in screen media use during leisure and improvements in children’s and adolescents’ psychological symptoms.
+
+The relationship between screen time and mental health in young people: A systematic review of longitudinal studies.
+
+Number of 
+
+Key takeaways:Increased screen time in young people has a small to very small impact on the prevalence of depressive symptoms, but no clear relationship exists with other internalizing mental health symptoms.
+
+The associations between sedentary behaviour and mental health among adolescents: a systematic review
+
+Number of 
+
+Key takeaways:Sedentary behavior, including excessive screen time, is strongly associated with poorer mental health in adolescents, with gender differences.
+
+Abstract:With technological developments and modernised sedentary lifestyles has come an increase in diseases associated with inactivity such as obesity and other non-communicable diseases. Emerging evidence suggests that time spent sedentary may also interact with mental health. This systematic review examined the associations between sedentary behaviour and mental health problems among adolescents. This systematic review followed Preferred Reporting Items for Systematic Reviews and Meta-Analyses, and applied a quality assessment tool for quantitative studies to identity best available evidence. Following stringent search strategy of the databases; Cumulative Index to Nursing and Allied Health Literature, Global Health, Health 
+
+Screening Student Behavior: Exploring the Impact of Daily Screen Time on Sleep Quality, Mental Distress, and Academic Performance in Students
+
+Number of 
+
+Key takeaways:Increased daily screen time is linked to poorer sleep quality, increased mental distress, and reduced academic performance in students, particularly in urban populations and those using screens for recreation.
+
+Abstract:The pervasive influence of technology, particularly screen usage, on daily routines and its implications for sleep quality, mental health, academic performance, and physical activity has become an increasing area of concern. Objective: To evaluate the daily screen time of students from different fields of study and to assess its association with demographic variables, sleep quality, psychological symptoms, physical activity, and academic performance. Methods: This study was performed at Isra University, Hyderabad from February 2024 to August 2024, with 152 participants. Data on demographics, sleep quality (PSQI), mental distress (DASS-42), academic performance, and screen time were collected after informed consent. Statistical analysis, conducted using SPSS version 25.0, determined correlations between daily screen time, PSQI, and DAS scores. Results: The participants had a mean age of 20.59 ± 2.16 years, with most residing in urban areas (87.5%) and being day scholars (74.34%). Average daily screen time was 5.85 ± 1.14 hours, significantly higher among those with GPAs below 2.5 and low physical activity levels (p<0.05). Mean scores for depression, anxiety, stress, and PSQI were 13.34 ± 12.01, 11.17 ± 9.41, 15.32 ± 11.09, and 6.45 ± 3.48, respectively. Screen time positively correlated with depression (r = 0.81, p<0.01), anxiety (r = 0.78, p<0.01), stress (r = 0.83, p<0.01), and PSQI (r = 0.75, p<0.01). Conclusion: Increased screen time was linked to poorer sleep quality, elevated mental distress, and reduced academic performance, particularly in urban populations and individuals using screens for recreation.
+
+An umbrella review of the benefits and risks associated with youths’ interactions with electronic screens
+
+Number of 
+
+Key takeaways:Electronic screen use in children and adolescents has mixed effects on education and health, with small negative associations like social media linked to depression.
+
+Associations between sleep duration and positive mental health screens during adolescent preventive visits in primary care.
+
+Number of 
+
+Key takeaways:Low sleep duration in adolescents is associated with a higher likelihood of positive mental health screens, particularly for depression.
+
+Sleep, screen time and behaviour problems in preschool children: an actigraphy study
+
+Number of 
+
+Key takeaways:Increased screen exposure and decreased sleep duration in preschool children may be particularly detrimental to their mental health.
+
+Abstract:Inadequate sleep and excessive exposure to media screens have both been linked to poorer mental health in youth. However, the ways in which these interact to predict behaviour problems have yet to be examined using objective sleep measurement. The lack of objective evidence for these relationships in young children has recently been defined by the World Health Organization (2019) as a gap in the field. We thus aimed to test the interacting effects of screen exposure and objectively measured sleep on behaviour problems in the preschool age. A total of 145 children aged 3-to-6-years participated in this cross-sectional study. Sleep was assessed objectively using actigraphy for 1-week, and subjectively using parent-reported daily sleep diaries. Parents reported the child’s daily duration of screen exposure, and completed the Strengths and Difficulties Questionnaire. Results showed that actigraphic sleep duration, timing and efficiency were associated with screen exposure. The link between screen time and behaviour problems was moderated by sleep duration, as it was significant only for children with sleep duration of 9.88 h or less per night. Sleep duration also moderated the relation between screen time and externalizing—but not internalizing—problems. Hence, the combination of increased screen exposure and decreased sleep duration may be particularly adverse for child mental health. While these key relationships should be further examined in longitudinal and experimental investigations, our findings shed light on their complexity, underscoring the importance of the moderating role of sleep.
+
+Effects of Excessive Screen Time on Neurodevelopment, Learning, Memory, Mental Health, and Neurodegeneration: a Scoping Review
+
+Number of 
+
+Key takeaways:Excessive screen time is associated with negative outcomes such as lowered self-esteem, increased mental health issues, addictions, slowed learning, and an increased risk of premature cognitive decline.
+
+Abstract:Evidence suggests that chronic sensory stimulation via excessive exposure to screen time may affect brain development in negative ways. Excessive smartphone use may increase the risk of cognitive, behavioral, and emotional disorders in adolescents and young adults that also has the potential to increase the risk of early onset dementia in late adulthood. This scoping review assessed theoretical and empirical evidence for the relationships between excessive screen time and (i) neurodevelopment, (ii) learning and memory, (iii) mental health, (iv) substance use disorders, and (v) neurodegeneration. Using Halas et al.’s (BMJ Open, 5(1), 1–6; 2015) five-stage scoping review methodology, we systematically identified articles meeting the following inclusion criteria: published in English between January 1999–July 2019; human or animal subjects; primary and secondary sources including original research, systematic reviews, meta-analyses, scoping reviews, and narrative reviews. Primary search terms focused on “smartphone,” “mental health,” “substance use,” “neurodevelopment,” and “neurodegeneration”; secondary search terms focused on “social media,” “anxiety,” “cannabis,” and “dementia”. We analyzed 44 articles across 16 countries in this review. Each article corresponded to one of four research questions investigating screen time and mental health (n = 13), mental health and substance use (n = 8), chronic stress and development (n = 14), and chronic stress and neurodegeneration (n = 9). Overall increased screen time is associated with negative outcomes such as lowered self-esteem, increased incidence and severity of mental health issues and addictions, slowed learning and acquisition, and an increased risk of premature cognitive decline. Future directions to better inform public policy should expand research methodologies and explore the prolonged effects of excessive screen time on cognition and mental health in diverse populations and contexts.
+
+The Associations Between Screen Time and Mental Health in Adults: A Systematic Review
+
+Number of 
+
+Key takeaways:Excessive screen time in adults is associated with depression, anxiety, stress, burnout, and lower well-being, with TV use being worse than computer or mobile device use.
+
+Abstract:Screen time, represented by the daily time spent using digital technology on any screen devices, has been increasing. This review sought to expand understanding of the associations between screen time and mental health in adults. The systematic review was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses - PRISMA and registered in Prospero under number CRD42022335373. Defined according to the PICO strategy (acronym for P: population/patients; I: intervention/exposure; C: comparison/control; O: outcome), a search was conducted in January 2023 with the following keywords: “screen time”, “adults” and “mental health” combined with the AND operator in PubMed, PsycInfo and Scopus databases. 1,695 articles were identified, and 90 papers were read in full, of which 32 were included in this review. There were 19 studies conducted before the COVID-19 Pandemic and 13 studies conducted in the context of the COVID-19 pandemic. Most studies found associations between excessive screen exposure and impact on aspects of mental health in adults. Before the pandemic, high screen times were associated with depression, anxiety, stress, burnout, and lower well-being. Watching TV was worse for mental health than computer or mobile device use. Replacing non-work time in a recent retirement with screen time is worse for mental health than replacing it with sleep or physical activity. Recreational screen time was associated with depression and screen time for schoolwork was not. During the pandemic, messaging app usage was associated with decreased feelings of loneliness. Screens and social media were associated risk of depression, anxiety, loneliness and Fear of Missing Out-FoMO. For in college adults, before and during the pandemic, depression and anxiety were associated with screen use, especially for leisure. In addition to the time spent on screens, the type of device with which we interact and the use of various devices simultaneously may be associated with mental health problems. Always-on mobile devices can increase interruptions to activities, weaken time management, and decrease the quality of time spent with children.
+
+Impact of screen time during COVID-19 on eating habits, physical activity, sleep, and depression symptoms: A cross-sectional study in Indian adolescents
+
+Number of 
+
+Key takeaways:High prevalence of excess screen time during COVID-19 in Indian adolescents led to poor eating habits, physical activity levels, and sleep quality.
+
+Abstract:Objective This study attempted to address the limited knowledge regarding the impact of screen time . More than half (52.5%) reported PSQI >5 indicating poor sleep quality and 8.6% scored ≥ 3 on PHQ-2 to suggest a risk of depression. A higher ST was associated with lower PA and increased sleep problems and a greater screen addiction was inversely associated with the eating habit, PA, and sleep-related variables. Conclusion The study draws attention to a high prevalence of excess ST and its impact on eating habits, PA levels, and sleep quality in Indian adolescents during the COVID-19 pandemic. Targeted health promotion interventions that encourage judicious use of screens for education and entertainment and emphasize the adverse health effects of excess ST are required.
+
+Increased Screen Time as a Cause of Declining Physical, Psychological Health, and Sleep Patterns: A Literary Review
+
+Number of 
+
+Key takeaways:Increased screen time can negatively impact physical and mental health, leading to increased stress, anxiety, and poor sleep patterns in both children and adults.
+
+Abstract:Dependency on digital devices resulting in an ever-increasing daily screen time has subsequently also been the cause of several adverse effects on physical and mental or psychological health. Constant exposure to devices like smartphones, personal computers, and television can severely affect mental health- increase stress and anxiety, for example, and cause various sleep issues in both children as well as adults. Risk factors for obesity and cardiovascular disorders, including hypertension, poor regulation of stress, low HDL cholesterol, and insulin resistance are among the physical health repercussions we see. The psychological health effects comprise suicidal tendencies and symptoms of depression which are associated with digital device dependency, screen-time-induced poor sleep quality, and content-influenced negativity. Oftentimes it can cause the induction of a state of hyper-arousal, increase stress hormones, desynchronize the body clock or the circadian cycle, alter brain chemistry and create a drag on mental energy and development. With a focus on brain development in children and detrimental effects in both adults and children, this research article goes on to explore the various aspects of screen addiction and excessive screen exposure.
+
+The hazards of excessive screen time: Impacts on physical health, mental health, and overall well-being
+
+Number of 
+
+Key takeaways:Excessive screen time can negatively impact physical health, mental health, and overall well-being, requiring limitation and incorporating physical activity and face-to-face interaction into daily routines.
+
+Abstract:Excessive screen time is a growing concern in modern society, with the proliferation of digital devices contributing to increased sedentary behavior and potential hazards to physical health, mental health, and overall well-being. This article explores the potential health and mood deterioration caused by excess screen time. In particular, the article examines how excessive screen time can affect physical health, mental health, and overall well-being. The physical hazards of excess screen time include eye strain, neck and shoulder pain, and back pain. Mental health hazards include increased levels of depression, anxiety, and other mood disorders. Overall well-being can also be impacted by excessive screen time, particularly when it comes to social relationships and cognitive development. The article concludes by recommending the limitation of screen time, particularly for young people, and the incorporation of physical activity and face-to-face interaction into daily routines.
+
+Brain health consequences of digital technology use
+
+Number of 
+
+Key takeaways:Frequent digital technology use can both negatively impact and positively impact brain function and behavior, with potential harmful effects including attention-deficit symptoms and social isolation.
+
+Abstract:Emerging scientific evidence indicates that frequent digital technology use has a significant impact—both negative and positive—on brain function and behavior. Potential harmful effects of extensive screen time and technology use include heightened attention-deficit symptoms, impaired emotional and social intelligence, technology addiction, social isolation, impaired brain development, and disrupted sleep. However, various apps, videogames, and other online tools may benefit brain health. Functional imaging scans show that internet-naive older adults who learn to search online show significant increases in brain neural activity during simulated internet searches. Certain computer programs and videogames may improve memory, multitasking skills, fluid intelligence, and other cognitive abilities. Some apps and digital tools offer mental health interventions providing self-management, monitoring, skills training, and other interventions that may improve mood and behavior. Additional research on the positive and negative brain health effects of technology is needed to elucidate mechanisms and underlying causal relationships.
+
+Merging the Biological and Cognitive Processes of Sleep and Screens
+
+Number of 
+
+Key takeaways:Merging biological and cognitive research on screen use is crucial to fully understand both positive and negative aspects of screen use before bedtime.
+
+Abstract:Screens are a permanent feature of life today and we have reached an interesting juncture with different research agendas investigating the biological and cognitive aspects of screen use separately. This review argues that it is timely and indeed essential that we bring together these research areas to fully understand both positive and negative aspects of screen use. More recent work is starting to take a more cohesive approach to understanding how device use pre-bedtime can impact our sleep by including both light and content in their experimental protocols which is a welcome development leading to a more nuanced understanding of both biological and cognitive processes. We call for an open and collaborative approach to gain momentum in this direction of acknowledging both biological and cognitive factors enabling us to understand the relative impacts of both whilst using screens with regard to both light and content.
+
+Prospective association of screen time with binge-eating disorder among adolescents in the United States: The mediating role of depression.
+
+Number of 
+
+Key takeaways:Higher screen time in US adolescents is linked to binge-eating disorder, partially mediated by increased depression symptoms.
+
+Abstract:OBJECTIVE
+Screen time has been reported to be associated with binge-eating disorder (BED) among adolescents in the US; however, potential mediators remain unclear. This study aimed to evaluate depression symptoms as a mediator of the prospective association between screen time and BED.
+
+METHOD
+We utilized data from 9465 children (aged 9-11 years at baseline) from the Adolescent Brain Cognitive Development (ABCD) study (2016-2021). A generalized structural equation model was used to examine the prospective association between average daily screen time at baseline and BED at year 2, adjusting for baseline BED diagnosis, and other potential covariates (e.g., age, sex, and income). Mediation was examined using bias-corrected (BC) 95% confidence intervals for the indirect effect of baseline screen time on year 2 BED through depression symptoms (change from baseline to year 1).
+
+RESULTS
+One hundred and one participants (42.7% male, 49.4% racial/ethnic minority) met the criteria for BED in year 2. Participants were 9.9 years of age on average at baseline, 51.3% identified as male, and 43.1% identified as a racial/ethnic minority. Adjusting for covariates, screen time was prospectively associated with BED (OR = 1.09, 95% CI , p = .005). Depression symptoms (B = .19, BC 95% CI ) partially mediated (9.2%) the prospective association between screen time and BED.
+
+DISCUSSION
+Among US adolescents, higher baseline screen time was prospectively associated with BED diagnosis at year 2, and this relationship was partially mediated by increased depression symptoms. Preventive approaches targeting high screen use may have utility for reducing BED risk among adolescents.
+
+PUBLIC SIGNIFICANCE
+Among U.S. adolescents, higher screen time was prospectively associated with the incidence of BED. This association was partially mediated by the change in depressive symptoms. Preventive approaches targeting high screen use may have utility for reducing BED risk among adolescents.
+
+Digital dementia in the internet generation: excessive screen time during brain development will increase the risk of Alzheimer's disease and related dementias in adulthood.
+
+Number of 
+
+Key takeaways:Excessive screen time during brain development increases the risk of cognitive impairments and early onset dementia in adulthood, potentially leading to a 4-to-6-fold increase in Alzheimer's disease rates by 2060.
+
+Abstract:Converging evidence from biopsychosocial research in humans and animals demonstrates that chronic sensory stimulation (via excessive screen exposure) affects brain development increasing the risk of cognitive, emotional, and behavioural disorders in adolescents and young adults. Emerging evidence suggests that some of these effects are similar to those seen in adults with symptoms of mild cognitive impairment (MCI) in the early stages of dementia, including impaired concentration, orientation, acquisition of recent memories (anterograde amnesia), recall of past memories (retrograde amnesia), social functioning, and self-care. Excessive screen time is known to alter gray matter and white volumes in the brain, increase the risk of mental disorders, and impair acquisition of memories and learning which are known risk factors for dementia. Chronic sensory overstimulation (i.e., excessive screen time) during brain development increases the risk of accelerated neurodegeneration in adulthood (i.e., amnesia, early onset dementia). This relationship is affected by several mediating/moderating factors (e.g., IQ decline, learning impairments and mental illness). We hypothesize that excessive screen exposure during critical periods of development in Generation Z will lead to mild cognitive impairments in early to middle adulthood resulting in substantially increased rates of early onset dementia in later adulthood. We predict that from 2060 to 2100, the rates of Alzheimer's disease and related dementias (ADRD) will increase significantly, far above the Centres for Disease Control (CDC) projected estimates of a two-fold increase, to upwards of a four-to-six-fold increase. The CDC estimates are based entirely on factors related to the age, sex, race and ethnicity of individuals born before 1950 who did not have access to mobile digital technology during critical periods of brain development. Compared to previous generations, the average 17-19-year-old spends approximately 6 hours a day on mobile digital devices (MDD) (smartphones, tablets, and laptop computers) whereas individuals born before 1950 at the same age spent zero. Our estimates include the documented effects of excessive screen time on individuals born after 1980, Millennials and Generation Z, who will be the majority of individuals ≥65 years old. An estimated 4-to-6-fold increase in rates of ADRD post-2060 will result in widespread societal and economic distress and the complete collapse of already overburdened healthcare systems in developed countries. Preventative measures must be set in place immediately including investments and interventions in public education, social policy, laws, and healthcare.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

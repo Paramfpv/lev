@@ -1,0 +1,538 @@
+PROTOCOL: Chronic emotion suppression
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Chronic emotion suppression - One of the main emotion regulation strategies linked to the risk of depression, anxiety disorders, and health problems | Longevity Protocols
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Chronic emotional suppression is the habitual restraint from expressing and experiencing emotions, both negative and positive. This emotion regulation strategy, especially common in Western cultures, is strongly linked to poorer mental health and social relationships, as well as increased risk of somatic diseases, particularly cardiovascular diseases.
+
+CONTENT SECTIONS:
+
+Chronic emotion suppression
+
+One of the main emotion regulation strategies linked to the risk of depression, anxiety disorders, and health problems
+
+Chronic emotional suppression is the habitual restraint from expressing and experiencing emotions, both negative and positive. This emotion regulation strategy, especially common in Western cultures, is strongly linked to poorer mental health and social relationships, as well as increased risk of somatic diseases, particularly cardiovascular diseases.
+
+Level of evidence:Strong
+
+Emotional suppression involves consciously or automatically restricting the expression and experience of one’s feelings. This causes chronic activation of the sympathetic nervous system, increased stress levels, and impaired emotional adaptation. In the long term, it leads to worsened mood, decreased well-being, problems in relationships, and increased risk of psychosomatic diseases.
+
+Chronic emotional suppression is considered a highly harmful emotion regulation strategy, as confirmed by numerous clinical studies, systematic reviews, and meta-analyses. Suppressing emotions leads to:
+
+The problem of chronic emotional suppression is widespread at the population level and significantly contributes to the global burden of mental and physical health. The most important data include:
+
+Identify situations in which you suppress emotions
+
+Pay attention to typical circumstances and relationships in which you tend to hold back emotions. Awareness is the first step toward change.
+
+Develop healthier emotion regulation strategies
+
+Practice expressing emotions in safe environments (e.g., keep a feelings journal, use acceptance and mindfulness techniques, learn emotional communication).
+
+Talk about emotions with trusted people, a therapist, or in support groups. Sharing emotions together builds a sense of connection and safety.
+
+Work on accepting emotions
+
+Practice accepting your feelings without judging or automatically suppressing them. Allow yourself to experience both positive and negative emotions.
+
+Consider professional help
+
+If suppressing emotions negatively affects your mental health or relationships, seek support from a psychotherapist – there are effective therapies aimed at improving emotion regulation.
+
+Chronic emotional suppression leads to significant deterioration of mental health – it increases the risk of depression and anxiety, lowers well-being and life satisfaction, and weakens social relationships.
+
+Impact on mental health
+
+Impact on social relationships
+
+Factors modifying the effects of suppression
+
+Cardiovascular system
+
+Chronic emotional suppression negatively affects the cardiovascular system, increasing stress reactivity, blood pressure, and the risk of developing heart diseases.
+
+Physiological mechanisms and effects
+
+Long-term health effects
+
+Uncertainties and need for further research
+
+Cardiovascular system
+
+Chronic emotional suppression increases the risk of cardiovascular problems, raising blood pressure, heart rate, and overall cardiovascular reactivity during stress.
+
+Physiological mechanisms and effects
+
+Long-term health effects
+
+Uncertainties and need for further research
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:55
+
+Final comment:The level of scientific evidence regarding the negative impact of chronic emotional suppression on both mental and physical health is very high. There are numerous meta-analyses, systematic reviews, randomized controlled trials, and large observational studies in both general and clinical populations. The results of these works clearly indicate that emotional suppression is associated with a significantly increased risk of depression, anxiety, reduced mental well-being, as well as disturbances in social relationships and social functioning. Additionally, suppressing emotions leads to increased cardiovascular reactivity to stress, higher blood pressure, and, in the long term, to a higher risk of heart disease and metabolic complications. These effects are consistently observed in high-quality studies from various countries and populations, and the impact of emotion suppression has been demonstrated both in healthy populations and high-risk groups. These studies include cross-sectional, longitudinal, and experimental analyses, making the level of evidence very strong and consistent.
+
+Habitual Expressive Suppression of Positive, but not Negative, Emotions Consistently Predicts Lower Well-being across Two Culturally Distinct Regions.
+
+Number of 
+
+Key takeaways:Habitual expressive suppression of positive emotions predicts lower well-being across two culturally distinct regions (Taiwan and the US).
+
+Abstract:Habitual expressive suppression (i.e., a tendency to inhibit the outward display of one's emotions; hereafter suppression) is often conceptualized as a maladaptive emotion regulation strategy. Yet, is this equally true for suppression of positive and of negative emotions? Across three studies and seven samples (total N > 1300 people) collected in two culturally distinct regions (i.e., Taiwan and the US), we examined the separability and distinct well-being effects of suppressing positive vs. negative emotions. Results consistently showed that (a) people suppressed their positive (vs. negative) emotions less, (b) the construct of suppression of positive (vs. negative) emotions was conceptually farther away from that of suppression of emotions in general, (c) suppression of positive and of negative emotions were only moderately correlated, and (d) only suppression of positive, but not negative, emotions, predicted lower well-being. An internal meta-analysis (k = 52 effect sizes) showed that these associations were robust to the inclusion of age, gender, and region as covariates. Future research may further probe the respective links between suppression of positive and of negative emotions and well-being across more cultural regions and across the life-span.
+
+Cause or symptom? A longitudinal test of bidirectional relationships between emotion regulation strategies and mental health symptoms.
+
+Number of 
+
+Key takeaways:Emotional suppression is both symptomatic and predictive of psychological distress, while cognitive reappraisal shows no relationship with mental health symptoms.
+
+Abstract:Previous work has generally conceptualized emotion regulation as contributing to mental health outcomes, and not vice versa. The present study challenges this assumption by using a prospective design to investigate the directionality of underlying relationships between emotion regulation and mental health in the context of a major population-level stressor. We surveyed a large nationally representative sample of adults (18-91 years, N = 704) at three 1-month intervals across the acute lockdown phase of the COVID-19 pandemic in Australia, using standardized measures of depression and anxiety symptoms. At each time point, we also measured the use of two emotion regulation strategies-cognitive reappraisal and emotional suppression-previously associated with adaptive and maladaptive mental health outcomes, respectively. We found cognitive reappraisal was unrelated to mental health symptoms. In contrast, greater emotional suppression was robustly associated with higher symptom levels for both depression and anxiety. Longitudinal analyses revealed this association reflected bidirectional relationships. Higher symptoms of depression and anxiety each predicted greater subsequent use of emotional suppression, and greater use of emotional suppression predicted higher subsequent symptoms. This bidirectionality suggests emotional suppression is both symptomatic and predictive of psychological distress. The lack of a relationship for cognitive reappraisal is discussed with respect to the pandemic context and evidence that high stress might reduce people's ability to use this strategy effectively. Given the strong emphasis on reappraisal in clinical practice, there is a critical need to understand for whom, what and when this strategy is helpful. (PsycInfo Database Record (c) 2021 APA, all rights reserved).
+
+Perceived emotion suppression and culture: Effects on psychological well-being.
+
+Number of 
+
+Key takeaways:Perceived emotion suppression leads to lower life satisfaction in both Americans and Chinese individuals, with low self-esteem being a key factor.
+
+Abstract:Whether the negative effects of emotion suppression on psychological well-being are applicable cross-culturally is a long-debated topic. The present study attempted to shed light on this debate, focusing on the effects of perceived emotion suppression and examining the psychological processes leading from perceived emotion suppression to lower psychological well-being. We used a scale manipulation to lead 196 American and 213 Chinese participants to perceive themselves as having suppressed their emotions to a greater or lesser extent and then measured their life satisfaction. As expected, both the American and Chinese participants reported lower life satisfaction in the high-suppression condition than in the low-suppression condition; this negative effect was mediated by positive affect and moderated by self-esteem. Specifically, perceived high emotion suppression decreased positive affect, which in turn led to lower well-being. This effect was observed only for those with low self-esteem, but the patterns and mechanisms were consistent cross-culturally.
+
+Effect of Vachik Dharaniya Vega on Mental Health
+
+Number of 
+
+Key takeaways:Suppressing verbal expression can lead to emotional distress and psychological disturbances, highlighting the importance of mindful communication and emotional expression for mental well-being.
+
+Abstract:Vachik Dharaniya Vega, the suppression of verbal expression, holds significant importance in the context of mental health as described in Ayurvedic literature. This concept refers to the conscious or unconscious restraint of speech, which can lead to emotional distress and psychological disturbances. Ayurveda emphasizes the natural flow of Vega (urges) for maintaining physical, emotional, and mental balance. Suppressing verbal expression, whether due to social, cultural, or personal reasons, creates an internal conflict that may manifest as stress, anxiety, frustration, and emotional imbalance. Psychologically, suppression of speech can limit one's ability to express thoughts and feelings, fostering negative emotions such as anger, resentment, and sadness. Over time, this emotional bottling can contribute to various mental health disorders, such as depression and heightened anxiety. Additionally, chronic suppression of speech can disrupt social relationships and communication, leading to feelings of isolation, low self-esteem, and lack of self-worth. Ayurveda suggests that unexpressed emotions disrupt the flow of Prana (life energy), which affects mental clarity, emotional regulation, and overall well-being. Therapeutic interventions in Ayurveda aim at promoting free and healthy expression through counseling, emotional management, and practices like Pranayama and meditation. By addressing the root cause of Vachik Dharaniya Vega, Ayurveda seeks to restore mental harmony and enhance emotional resilience, contributing to overall mental wellness. This article explores the relationship between suppressed verbal expression and its impact on mental health, drawing insights from Ayurvedic principles and modern psychological perspectives to emphasize the importance of mindful communication and emotional expression for mental well-being.
+
+Suppression and Expression as Distinct Emotion-Regulation Processes in Daily Interactions: Longitudinal and Meta-Analyses
+
+Number of 
+
+Key takeaways:Emotional suppression in daily interactions leads to personal well-being issues, while emotional expression benefits interpersonal relationships and increases self-esteem over time.
+
+Abstract:Emotional suppression and expression both occur frequently in daily social interactions, yet research examining these emotion regulation processes simultaneously in naturalistic contexts remains limited. Although theory and research tend to reflect an implicit assumption that suppression and expression represent opposite sides of the same construct, they are likely to occur independently and exert different influences on intrapersonal and interpersonal experiences. In 4 experience-sampling and longitudinal studies, we assessed the personal and interpersonal consequences of daily emotional suppression and expression within romantic and close relationships. Mixed-model analyses revealed that suppression and expression consistently predicted independent and distinct outcomes across the studies. When individuals suppressed their emotions, they experienced more intrapersonal costs such as greater depressed mood, greater fatigue, lower self-esteem, and lower life satisfaction. Interpersonally, they also felt less acceptance from others, more distancing by others, and less relationship satisfaction. Greater suppression in daily life also predicted increases in depressive symptoms and reductions in relationship satisfaction 3 months later. In contrast, when individuals were more emotionally expressive during daily interactions, they experienced interpersonal benefits such as greater acceptance from others, greater relatedness and relationship satisfaction, and less distancing by others. Greater emotional expression in daily life also predicted increases in self-esteem and relationship satisfaction across time. Meta-analyses of the 4 studies confirmed the reliability and significance of these relationships; |r’s| = .12–.33. These studies demonstrate that suppression and expression are distinct processes used to manage emotions within social relationships and operate differently in shaping personal well-being and relationship functioning.
+
+Emotion Regulation, Mental Health, and Social Wellbeing in a Young Adolescent Sample: A Concurrent and Longitudinal Investigation
+
+Number of 
+
+Key takeaways:Greater use of reappraisal may protect against negative social effects of poorer mental health in young adolescents, while suppression use is linked to poorer mental and social wellbeing.
+
+Abstract:Previous research has established that the ability to manage emotions effectively is critical to healthy psychological and social development in adolescents. However, less research has considered the relationships between specific emotion regulation (ER) strategies, such as reappraisal and suppression, and social wellbeing in this age group. The current study investigated the concurrent and longitudinal relationships between 2 ER strategies (reappraisal and suppression) and social outcomes (peer victimization, friendship satisfaction, and family satisfaction) in young adolescents. Analyses also controlled for mental health (anxiety and depression). Given likely gender differences in these variables, key analyses were conducted in parallel for males and females. There were 232 Australian adolescents who completed measures in Grade 7 (Age Mean = 11.97, SD = .35; 64% female) and a year later in Grade 8. Zero-order correlations indicated an inverse relationship between suppression use and social wellbeing variables, although a number of these associations were no longer significant when controlling for mental health. There was limited evidence that reappraisal was uniquely related to social outcomes. However, interaction effects suggested that greater use of reappraisal might have provided some protection against the negative social effects of poorer mental health. Poorer mental and social wellbeing also appeared to be related to ER strategy use, particularly greater suppression use. The findings suggest that ER strategy use, mental health, and social outcomes all play important and interrelated roles in adolescent wellbeing.
+
+Suppression and Expression of Emotion in Social and Interpersonal Outcomes: A Meta-Analysis
+
+Number of 
+
+Key takeaways:Greater emotion suppression is associated with poorer social wellbeing, while expression of positive and general emotions improves outcomes, while anger expression may worsen social outcomes.
+
+Abstract:Emotion expression is critical for the communication of important social information, such as emotional states and behavioral intentions. However, people tend to vary in their level of emotional expression. This meta-analysis investigated the relationships between levels of emotion expression and suppression, and social and interpersonal outcomes. PsycINFO databases, as well as reference lists were searched. Forty-three papers from a total of 3,200 papers met inclusion criteria, allowing for 105 effect sizes to be calculated. Meta-analyses revealed that greater suppression of emotion was significantly associated with poorer social wellbeing, including more negative first impressions, lower social support, lower social satisfaction and quality, and poorer romantic relationship quality. Furthermore, the expression of positive and general/nonspecific emotion was related to better social outcomes, while the expression of anger was associated with poorer social wellbeing. Expression of negative emotion generally was also associated with poorer social outcomes, although this effect size was very small and consisted of mixed results. These findings highlight the importance of considering the role that regulation of emotional expression can play in the development of social dysfunction and interpersonal problems.
+
+Improving mental health by training the suppression of unwanted thoughts
+
+Number of 
+
+Key takeaways:Training thought suppression can improve mental health by reducing anxiety, negative affect, and depression, with lasting benefits up to 3 months.
+
+Abstract:Anxiety, posttraumatic stress, and depression markedly increased worldwide during the COVID-19 pandemic. People with these conditions experience distressing intrusive thoughts, yet conventional therapies often urge them to avoid suppressing their thoughts because intrusions might rebound in intensity and frequency, worsening the disorders. In contrast, we hypothesized that training thought suppression would improve mental health. One hundred and twenty adults from 16 countries underwent 3 days of online training to suppress either fearful or neutral thoughts. No paradoxical increases in fears occurred. Instead, suppression reduced memory for suppressed fears and rendered them less vivid and anxiety provoking. After training, participants reported less anxiety, negative affect, and depression with the latter benefit persisting at 3 months. Participants high in trait anxiety and pandemic-related posttraumatic stress gained the largest and most durable mental health benefits. These findings challenge century-old wisdom that suppressing thoughts is maladaptive, offering an accessible approach to improving mental health.
+
+Relation between Emotion Regulation and Mental Health: A Meta-Analysis Review
+
+Number of 
+
+Key takeaways:Emotion regulation strategies, such as cognitive reappraisal and expressive suppression, positively impact mental health, with cultural factors playing a moderating role.
+
+Abstract:This meta-analysis examined the relationship between emotion regulation strategies (cognitive reappraisal, expressive suppression) and mental health (measured by life-satisfaction, positive affect, depression, anxiety, and negative affect). 48 studies, which included 51 independent samples, 157 effect sizes, and 21,150 participants, met the inclusion criteria. The results showed that cognitive reappraisal was correlated significantly and positively with positive indicators of mental health (r=.26) and negatively with negative indicators of mental health (r=–.20). Expressive suppression was correlated negatively with positive indicators of mental health (r=–.12), and positively with negative indicators of mental health (r=.15). Expressive suppression was correlated positively with positive indicators of mental health within the category of samples with Western cultural values (r=–.11) but not the category with Eastern cultural values. Moreover, the correlation of expressive suppression and negative indicators of mental health was stronger in the Western cultural values category (r=.19) than in the Eastern cultural values category (r=.06). Therefore, it is necessary for follow-up studies about emotion regulation and mental health to consider some moderator variable like the culture.
+
+Emotional Suppression and Hypervigilance in Military Caregivers: Relationship to Negative and Positive Affect
+
+Number of 
+
+Key takeaways:Military caregivers with high emotional suppression and vigilance are more likely to experience emotional distress and less likely to have positive affect.
+
+Abstract:Objective: To investigate the relationship of 2 health-related quality-of-life (QOL) item banks (Emotional Suppression and Caregiver Vigilance), developed for caregivers of service members/veterans with traumatic brain injury (TBI), to caregivers' positive and negative affect. Setting: Community. Participants: One hundred sixty-five caregivers of service members/veterans with TBI. Design: Retrospective database analysis. Main Measures: TBI-CareQOL Emotional Suppression; TBI-CareQOL Caregiver Vigilance; measures of negative (Patient-Reported Outcomes Measurement Information System Depression, PROMIS Anger, TBI-CareQOL Caregiver-Specific Anxiety, National Institutes of Health Toolbox Perceived Stress, GAD-7) and positive affect (Neuro-QOL Positive Affect and Well-being, NIHTB Self-efficacy, NIHTB General Life Satisfaction, Family Resilience Scale for Veterans, TBI-QOL Resilience). Results: When considered separately, linear regression showed that higher levels of Emotional Suppression and greater Caregiver Vigilance were individually associated with more negative affect and less positive affect. When considered together, the pattern of findings was generally consistent for both Emotional Suppression and Caregiver Vigilance with regard to negative affect and for Emotional Suppression with regard to positive affect. However, when considered together, Caregiver Vigilance was no longer related to positive affect. Conclusions: Caregivers with high emotional suppression and/or vigilance are more likely to show emotional distress and less likely to have positive affect than caregivers with lower levels of emotional suppression and vigilance. A combination of education and individual counseling targeting coping with negative emotions and TBI-related problems may be beneficial.
+
+Childhood adversity and emotion regulation strategies as predictors of psychological stress and mental health in American Indian adults during the COVID-19 pandemic.
+
+Number of 
+
+Key takeaways:Childhood adversity and expressive suppression, a maladaptive emotion regulation strategy, interactively predicted changes in psychological stress and symptoms of depression in American Indian adults during the COVID-19 pandemic.
+
+Abstract:Life events, such as the Coronavirus disease 2019 (COVID-19) pandemic, elicit increases in psychological stress and symptoms of anxiety and depression. In turn, these outcomes have negative implications for mental health. Emotion regulation strategies and prior adversity may moderate the degree to which life events affect outcomes that are linked to mental health. The purpose of the current study was to evaluate whether childhood adversity and emotion regulation strategy use interactively informed changes in outcomes linked to mental health following the onset of the pandemic in American Indian (AI) adults. AI adults (N = 210) reported levels of childhood adversity, emotion regulation strategy use, symptoms of anxiety and depression, and psychological stress 1 month prior to the onset of the COVID-19 pandemic. One month following the declaration of the pandemic, they reported on their stress, symptoms of anxiety and depression once again. The interaction between expressive suppression and childhood adversity predicted changes in psychological stress and symptoms of depression (B = .26, t(198) = 4.43 p < .001, R² change = .06) and (B = .23 t(199) = 4.14, p < .001, R² change = .05) respectively. The findings indicate that expressive suppression may be a maladaptive emotion regulation strategy for AI adults who experienced high levels of childhood adversity. This work represents a first step in understanding the role of emotion regulation strategy use in predicting mental health-relevant outcomes in the context of a life event, in a community that is disproportionately affected by chronic mental health conditions. (PsycInfo Database Record (c) 2022 APA, all rights reserved).
+
+Emotion suppression and acute physiological responses to stress in healthy populations: a quantitative review of experimental and correlational investigations
+
+Number of 
+
+Key takeaways:Emotion suppression may exacerbate stress-induced physiological arousal, with effects varying depending on the methodological assessment of suppression.
+
+Abstract:ABSTRACT Emotion suppression may be linked to poor health outcomes through elevated stress-related physiology. The current meta-analyses investigate the magnitude of the association between suppression and physiological responses to active psychological stress tasks administered in the laboratory. Relevant articles were identified through Medline, PsychINFO, PubMed, and ProQuest. Studies were eligible if they (a) used a sample of healthy, human subjects; (b) assessed physiology during a resting baseline and active psychological stress task; and (c) measured self-report or experimentally manipulated suppression. Twenty-four studies were identified and grouped within two separate random effects meta-analyses based on study methodology, namely, manipulated suppression (k = 12) and/or self-report (k = 14). Experimentally manipulated suppression was associated with greater physiological stress reactivity compared to controls (Hg = 0.20, 95% CI ), primarily driven by cardiac, hemodynamic, and neuroendocrine parameters. Self-report trait suppression was not associated with overall physiological stress reactivity but was associated with greater neuroendocrine reactivity (r = 0.08, 95% CI ). Significant moderator variables were identified (i.e., type/duration of stress task, nature of control instructions, type of physiology, and gender). This review suggests that suppression may exacerbate stress-induced physiological arousal; however, this may differ based upon the chosen methodological assessment of suppression.
+
+Coping, negative affectivity, and the work environment: additive and interactive predictors of mental health.
+
+Number of 
+
+Key takeaways:Direct coping and negative affectivity moderate the effects of work stress on mental health, while suppression negatively impacts it, with gender differences and higher negative affectivity influencing reactivity.
+
+Abstract:The present study tested the hypothesis that direct coping would moderate relations between work stress and mental health outcome, whereas suppression (a form of emotion-focused coping) would show an overall effect on outcome. Data on coping, perceived work demand and support, and affective symptoms were obtained from trainee teachers (N = 157). The results supported the hypothesis. Gender differences also were observed; men reported more use of suppression than did women. In addition, negative affectivity (NA) was examined as a confounding variable and as an index of reactivity in stress-outcome relations. NA acted to inflate associations between work perceptions and affective symptoms, but it was also a significant moderator variable; high NA subjects showed greater reactivity to work demand than did low NA subjects.
+
+Exploring the Links between Physical Activity, Emotional Regulation, and Mental Well-Being in Jordanian University Students
+
+Number of 
+
+Key takeaways:Increased physical activity and emotional expression suppression are independently associated with improved mental well-being in Jordanian university students.
+
+Abstract:Background: University students face multiple stressors that negatively impact their mental well-being. Effective emotional regulation and physical activity are crucial for mood management and overall health. This study explored the connection between physical activity, emotional regulation, and mental health symptoms (depression, anxiety, and stress) in Jordanian university students. Methods: A cross-sectional online survey involved 416 students (146 male and 270 female) from Jordanian universities. The survey covered demographics, physical activity (International Physical Activity Questionnaire), emotional regulation strategies (Emotion Regulation Questionnaire), and mental health symptoms (Depression Anxiety Stress Scales). Pearson’s correlations examined relationships, and ANOVA compared differences in ‘low’, ‘medium’, and ‘high’ physical activity groups. Results: Greater use of expressive suppression was correlated with increased anxiety symptom severity (p = 0.029). Although physical activity levels were not significantly related to emotional regulation, the ‘high’ physical activity group reported lower depression (p < 0.001) and anxiety symptom severity (p < 0.001) than the ‘low’ and ‘medium’ groups. Conclusions: Increased physical activity and emotional expression suppression are independently associated with improved mental well-being in Jordanian university students. This study underscores the importance of integrating physical activity and emotional expression strategies to support student well-being.
+
+Suppression Benefits Boys in Taiwan: The Relation between Gender, Emotional Regulation Strategy, and Mental Health
+
+Number of 
+
+Key takeaways:Reappraisal buffers male Taiwanese adolescents from the negative effects of suppression on negative emotions and internalizing problems, while suppression benefits female adolescents.
+
+Abstract:Emotion regulation (ER) strategies have a clear impact on mental health outcomes. In 2 studies (N = 695, N = 433) we investigated gender differences in the use of 2 ER strategies (reappraisal and suppression) to handle parent-child conflict in Taiwanese adolescents. We also identified the implications of these differences for some negative emotions (self-blame and resentment) and internalizing problems (psychosomatic symptoms and social withdrawal). Results of the correlation analyses in both studies indicated that reappraisal and suppression ER strategies are positively correlated only in male Taiwanese adolescents. Hierarchical regression analyses in the second study confirmed that reappraisal buffers male but not female adolescents against the negative effects of suppression on the arousal of negative affect and internalizing problems.
+
+Employees’ Age Moderates Relationships of Emotional Suppression With Health and Well-Being
+
+Number of 
+
+Key takeaways:Emotional suppression is more effective for older workers in reducing physical strain and improving affective well-being, making it a potential strategy for maintaining health and well-being.
+
+Abstract:Emotional suppression has been found to be negatively associated with individuals’ health and well-being. However, most studies on emotional suppression were conducted among younger adults in laboratory settings. Considering the increased aging of the current workforce, it is important to examine the effect of emotional suppression on older workers’ health and well-being. The present study examined age differences in relationships of emotional suppression with physical strain and job-related affective well-being. Physical strain and affective well-being were assessed one month following the assessment of emotion regulation in a group of 340 Chinese workers (Sample 1) and in another group of 280 Chinese workers (Sample 2). Results from both samples found that the habitual use of emotional suppression was negatively related to physical strain among older workers but not among younger workers. Results from Sample 1, but not Sample 2, revealed that the habitual use of emotional suppression was positively related to affective well-being among older workers but not among younger workers. Exploratory analyses found only 1 out of the 4 interaction effects between age and cognitive reappraisal such that cognitive reappraisal was positively related to affective well-being among older workers but not among younger workers. Findings contribute to the aging and emotion regulation literature by discovering an age-related increase in the effectiveness of emotional suppression in relation to employees’ physical strain and affective well-being. Habitual use of emotional suppression may become more effective for older workers, and thus it is a potential strategy for them to maintain health and well-being.
+
+Emotion regulation in response to discrimination: Exploring the role of self-control and impression management emotion-regulation goals
+
+Number of 
+
+Key takeaways:Black and Latine individuals with lower self-control are more likely to use expressive suppression in response to discrimination, which is linked to adverse mental health outcomes.
+
+Usage of Emotion Suppression and Its Relationship with Mental Health
+
+Number of 
+
+Key takeaways:Emotion suppression is related to mental health, especially in close relationships with parents and close friends.
+
+Abstract:Objective: To investigate how Chinese use emotion suppression as a regulatory strategy and to explore the relationship of emotion suppression and mental health.Methods: 265 participants were asked to report their habitual usage of emotion suppression and mental health related data.Results: ①The usage of emotion suppression was less frequently in close relationship(e.g.,parents and close friends) than in distant relationship(e.g.,teacher or supervisor,classmates or colleagues).Emotion suppression was more used in front of higher 
+
+Emotional Suppression and Psychological Well-Being in Marriage: The Role of Regulatory Focus and Spousal Behavior
+
+Number of 
+
+Key takeaways:Emotional suppression in marriage is linked to greater satisfaction for prevention-focused individuals when perceived as similarly suppressive by their spouses, and less suppression for promotion-focused individuals when perceived as similarly suppressive by their spouses.
+
+Abstract:Emotional suppression has been considered a critical factor in determining one’s mental health and psychological well-being in intimate relationships such as marriage. The present study aimed to delineate the nuanced association between emotional suppression and psychological well-being in marriage by considering two critical factors: (a) individual differences in motivational orientation and (b) the perceived level of a partner’s emotional suppression. A set of two online survey studies were conducted on a large sample of married participants. The participants were asked to indicate (a) their own level of emotional suppression, (b) the perceived level of their spouse’s emotional suppression, (c) relationship motivation, and (d) satisfaction with marital life. The results consistently indicated that for prevention-focused individuals being emotionally suppressive was associated with greater marital satisfaction, but only for those who perceived their spouses as also emotionally suppressive. Conversely, for promotion-focused individuals, being less emotionally suppressive was associated with greater marital satisfaction, but again, only for those who perceived their spouses as also being less emotionally suppressive. These findings provide insights into research on emotion regulation and self-regulatory strategies in influencing psychological well-being and mental health in an intimate relationship.
+
+Is Emotional Suppression Always Bad? A Matter of Flexibility and Gender Differences
+
+Number of 
+
+Key takeaways:Emotional suppression is associated with psychological distress in women, but flexibility in using emotion regulation strategies is crucial for psychological well-being and reducing aggression.
+
+Abstract:Although emotional suppression has usually been considered to be associated to psychopathological symptoms and aggression, different studies yielded controversial findings and highlighted possible gender differences in these relationships. In an attempt to cast light on this issue, we administered to a sample of 380 community-dwelling individuals the Emotion Regulation Questionnaire, the Aggression Questionnaire and the Symptom CheckList-90-Revised. Gender differences (favoring women) emerged on the habitual use of cognitive reappraisal and expressive suppression. Interestingly, associations of emotional suppression were only significant among females, and mainly regarded psychological distress. In an attempt to test whether the flexibility in the use of emotion regulation strategies was more important for psychological well-being, we tested interaction effects between reappraisal and suppression on psychopathological diseases and aggression measures. Significant interaction effects were found among men and only on aggressive measures. Such results confirmed gender differences in emotion regulation and the relevance of flexibility in the use of emotional regulation strategies as part of adaptive emotional functioning.
+
+Emotional Stress in Cardiac and Vascular Diseases.
+
+Number of 
+
+Key takeaways:Emotional stress, characterized by increased symptoms of depression, anxiety, and/or mental stress, is a newly recognized risk and prognosticator for several cardiovascular diseases, impacting outcomes and healthcare utilization.
+
+Abstract:INTRODUCTION/OBJECTIVE
+Emotional, mental, or psychological distress, defined as increased symptoms of depression, anxiety, and/or stress, is common in patients with chronic diseases, such as cardiovascular (CV) disease (CVD).
+
+METHODS
+Literature was reviewed regarding data from studies and meta-analyses examining the impact of emotional stress on the occurrence and outcome of several CVDs (coronary disease, heart failure, hypertension, arrhythmias, stroke). These influences' pathophysiology and clinical spectrum are detailed, tabulated, and pictorially illustrated.
+
+RESULTS
+This type of stress is a newly recognized risk and prognosticator for CVD including coronary artery disease, heart failure, hypertension, cardiac arrhythmias, and stroke, independently of conventional risk factors. It can impact CV outcomes, and also affect health care utilization, with more patient visits to health care facilities. The biological systems activated by mental stress comprise the sympathetic nervous system (SNS), the renin-angiotensin system (RAS), and the hypothalamic- pituitary-adrenal (HPA) axis, while several other biological processes are disrupted, such as endothelial function, inflammatory responses, oxidative stress, mitochondrial function and the function of the amygdala which is the central nervous system processing center of emotions and emotional reactions.
+
+CONCLUSION
+Emotional stress that aggravates symptoms of depression, anxiety, and/or perceived mental stress is common in patients with chronic diseases, such as CVD. It is a newly recognized risk and prognosticator for several CVDs. It can influence CV outcomes, and also affect health care utilization. The biological systems activated by mental stress comprise the SNS, the RAS, and the HPA axis, while several other biological processes are disrupted.
+
+Mental stress and human cardiovascular disease
+
+Number of 
+
+Key takeaways:Mental stress can trigger sudden heart attacks and contribute to chronic conditions like atherosclerosis and hypertension, with the sympathetic nervous system acting as a mediator.
+
+Emotions & Heart:Exploring the Impact of Negative Emotions on Cardiovascular Health.
+
+Number of 
+
+Key takeaways:Negative emotions can increase vulnerability to cardiovascular diseases, emphasizing the need for targeted lifestyle interventions and clinical strategies to mitigate their adverse effects.
+
+Emotion suppression affects cardiovascular responses to initial and subsequent laboratory stressors.
+
+Number of 
+
+Key takeaways:Effortful suppression of negative emotions has immediate and delayed consequences for stress-induced cardiovascular reactivity.
+
+Abstract:OBJECTIVE
+The study of anger suppression and risk for cardiovascular disease has relied predominately on inspection of correlations between trait anger-in and cardiovascular risk factors and disease. This approach tells us little about whether inhibitory processes have anything to do with outcomes, and cannot speak to whether suppression of anger per se affects cardiovascular parameters. Drawing on the broader emotion regulation literature, we examined the effects of experimentally induced anger and general negative emotion in the context of expressive and experiential suppression on cardiovascular responses to initial and subsequent laboratory stressors.
+
+DESIGN
+Of all participants, 201 healthy participants were randomly assigned to one of six conditions formed by crossing emotion (anxiety, anger) and suppression (experiential, expressive, control) conditions.
+
+METHODS
+Participants completed a mental arithmetic task with anxiety or anger induction under their respective suppression manipulation instructions, and subsequently were exposed to a cold pressor task. Systolic blood pressure (SBP), diastolic blood pressure, and heart rate values were obtained for each experimental epoch.
+
+RESULTS
+More robust SBP responses to the initial stressor were evidenced for those in the expressive versus the control condition. In response to the subsequent stressor, those in the experiential suppression condition showed the most pronounced SBP responses, suggesting pronounced delayed effects of this type of suppression. Effects of suppression on SBP reactivity were indistinguishable across anxiety and anger conditions.
+
+CONCLUSION
+Effortful suppression of negative emotion has immediate and delayed consequences for stress-induced cardiovascular reactivity. Theoretical and clinical significance of these findings are discussed.
+
+Examining the association between habitual emotion regulation strategies and cardiovascular stress reactivity across three studies
+
+Number of 
+
+Key takeaways:Habitual emotion regulation strategies, such as cognitive reappraisal and expressive suppression, show no significant association with cardiovascular stress responses or self-reported perceived stress.
+
+Cardiovascular responses of embarrassment and effects of emotional suppression in a social setting.
+
+Number of 
+
+Key takeaways:Embarrassment increases blood pressure and suppressing emotions in social situations leads to increased blood pressure, while heart rate remains unchanged.
+
+Abstract:The cardiovascular effects of embarrassment and of attempts to suppress embarrassment were examined. In 2 studies, embarrassment was associated with substantial increases in systolic and diastolic blood pressure, which monotonically increased over a 2-minute embarrassment period. In contrast, heart rate (HR) rose significantly during the 1st minute of embarrassment but returned to baseline levels during the 2nd minute. This pattern of reactivity may be distinctive. The effects of trying to suppress emotion in an interpersonal situation were also tested. Relative to the no-suppression group, suppression participants showed greater blood pressure during embarrassment and during posttask recovery. Suppression did not significantly affect HR. Possible mechanisms for these results, including passive coping, are discussed. Nonverbal behavior was also examined.
+
+Individual differences in emotion regulation and cardiovascular responding to stress.
+
+Number of 
+
+Key takeaways:Individual differences in emotion regulation lead to different cardiovascular responses to stress, with emotional valence of the stressor playing a role.
+
+Abstract:Instructed use of reappraisal to regulate stress in the laboratory is typically associated with a more adaptive cardiovascular response to stress, indexed by either (a) lower cardiovascular reactivity (CVR; e.g., lower blood pressure) or (b) a challenge-oriented response profile (i.e., greater cardiac output paired with lower total peripheral resistance). In contrast, instructed use of suppression is associated with exaggerated CVR (e.g., greater heart rate, blood pressure). Despite this, few studies have examined if the habitual use of these strategies are related to cardiovascular responding during stress. The current study examined the relationship between cardiovascular responses to acute stress and individual differences in emotion regulation style: trait reappraisal, suppression, and emotion regulation difficulties. Forty-eight participants (25 women, 23 men) completed a standardized laboratory stress paradigm incorporating a 20-minute acclimatization period, a 10-minute baseline, and two 5-minute speech tasks separated by a 10-minute intertask rest period. The emotional valence of the speech task was examined as a potential moderating factor; participants spoke about a block of negative-emotion words and a block of neutral-emotion words. Cardiovascular parameters were measured using the Finometer Pro. Greater habitual use of suppression was associated with exaggerated blood pressure responding to both tasks. However, only in response to the negative-emotion task was greater use of reappraisal associated with a challenge-oriented cardiovascular response. The findings suggest that individual differences in emotion regulation translate to differing patterns of CVR to stress, but the emotional valence of the stressor may play a role. (PsycInfo Database Record (c) 2021 APA, all rights reserved).
+
+Differences in Emotion Expression, Suppression, and Cardiovascular Consequences Between Black and White Americans in the Midlife in the United States (MIDUS) Study
+
+Number of 
+
+Key takeaways:Black Americans engage in expressive suppression more frequently than White Americans, which is linked to higher cardiovascular risk.
+
+Abstract:Objective Recent theoretical work suggests that the expression of emotions may differ among Black and White Americans, such that Black Americans engage more frequently in expressive suppression to regulate emotions and avoid conflict. Prior work has linked expressive suppression usage with increases in cardiovascular disease risk, suggesting that racialized differences in expressive suppression usage may be one mechanism by which racism “gets under the skin” and creates health disparities. Method To examine racialized differences in expressive suppression and blood pressure (a measure of cardiovascular disease risk), we used self-report and facial electromyography (fEMG) data from two cohorts of Black and White Americans from the Midlife in the United States (MIDUS) longitudinal study (MIDUS 2, n = 271, 34.7% Black, collected from 2004 to 2009; MIDUS Refresher 1, n = 114, 31.6% Black, collected from 2012 to 2016; total N = 385, 33.9% Black). Results Black Americans reported engaging in expressive suppression more frequently than White Americans (t(260.95) = 2.18, p = .002) and showed less corrugator fEMG activity during negative images (t(969) = 2.38, pFDR = .026). Less corrugator activity during negative images was associated with higher systolic blood pressure only for Black Americans (b = −4.63, t(375) = 2.67, p = .008). Conclusion Overall, results are consistent with theoretical accounts that Black Americans engage more frequently in expressive suppression, which in turn is related to higher cardiovascular risk. Additional research is needed to further test this claim, particularly in real-world contexts and self-reports of in-the-moment usage of expressive suppression.
+
+Cardiovascular costs of emotion suppression cross ethnic lines.
+
+Number of 
+
+Key takeaways:Emotion suppression leads to increased cardiovascular activation across ethnic backgrounds, regardless of the individual's emotional experience.
+
+The impact of emotion regulation on cardiovascular, neuroendocrine and psychological stress responses
+
+Number of 
+
+Key takeaways:Emotion regulation, specifically cognitive reappraisal, improves cardiovascular, neuroendocrine, and psychological stress responses, with habitual reappraisers showing stronger recovery and enhanced positive affect.
+
+Social Stratification and Risk for Cardiovascular Disease: Examination of Emotional Suppression as a Pathway to Risk
+
+Number of 
+
+Key takeaways:Higher socioeconomic status is associated with lower emotional suppression, which may contribute to cardiovascular risk through disruption of affect and social relationships rather than direct physiological pathways.
+
+Abstract:This article examines whether emotional suppression is associated with socioeconomic position (SEP) in a community sample of Black and White men, and whether emotional suppression may help explain the aggregation of multiple biopsychosocial risk factors for cardiovascular disease at lower SEP (social support, depression, cardiovascular stress reactivity). Aim 1 tests whether multiple indicators of SEP show a consistent graded association with self-reported trait suppression, and whether suppression mediates associations between SEP and perceived social support and depressive affect. Aim 2 tests whether suppression during a laboratory anger recall task mediates associations between SEP and cardiovascular reactivity to the task. All measures of higher SEP were associated with lower suppression. Findings in this racially diverse sample of adult men suggest that socioeconomic disparities in emotional suppression may be more likely to confer cardiovascular risk through disruption of affect and social relationships, than through direct and immediate physiological pathways.
+
+Cardiovascular correlates of emotional expression and suppression: do content and gender context matter?
+
+Number of 
+
+Key takeaways:Emotional expression and suppression impact cardiovascular responses differently depending on the context and content of the expression, with same-sex dyads showing challenge reactivity and opposite-sex dyads experiencing threat reactivity.
+
+Abstract:Three studies examined cardiovascular (CV) responses during emotional expression with empathically responsive strangers. Study 1 demonstrated that self-relevant emotional expression fostered CV reactivity consistent with challenge. Study 2 manipulated content of discussion by assigning participants to 1 of 4 conditions: emotional, nonemotional, emotional suppression, nonemotional suppression. In same-sex dyads. emotional expression elicited CV challenge reactivity whereas emotional suppression evoked CV threat reactivity, both compared with appropriate control groups. In opposite-sex dyads, however, emotional expression engendered CV threat. Because same- and opposite-sex disclosures differed, Study 3 controlled the content of emotional expression while manipulating gender context. Results confirmed findings from the first 2 studies, indicating that both context and content of emotional expression influenced CV effects. Findings are discussed within a theoretical challenge and threat perspective.
+
+The Effect of Emotional Regulation Training on Reappraisal and Suppression Emotional Experiences of Cardiovascular Patients
+
+Number of 
+
+Key takeaways:Emotion regulation training effectively improves cardiovascular disease by increasing reappraisal strategies and reducing suppression strategies in patients.
+
+Abstract:Introduction: Considering the results of various studies on the role of emotional experiences in cardiovascular disease, it seems that emotional regulation can be an important factor in the occurrence or exacerbation of these diseases. The purpose of this study is to investigate the effect of emotional regulation training on reappraisal and suppression the emotional experiences of cardiovascular patients. Materials and Methods: The present study is a semi-experimental project with pretest and post-test with control group. The statistical population of the study included all cardiovascular patients in Kermanshah in 2018, of which 30 were selected as participants by available sampling method and were randomly selected in two groups of experiments and controls (15 people in each group). The emotion regulation intervention for the experimental group was performed in 8 sessions of ninety minutes, while the control group did not receive any intervention during this period. An emotional adjustment questionnaire (ERQ) was used to collect information. Multivariate analysis of covariance was used to analyze the data. Results: Data analysis showed that there was a significant difference between the mean post-test scores of the experimental and control groups (P <0.05); this means that emotion regulation training increased the reappraisal strategy and reduced the suppression strategy of the experimental group compared to the control group. Conclusion: The results of the present study showed that emotion regulation training can serve as an effective intervention by increasing the reappraisal strategy and reducing the suppression strategy of emotional experiences to improve cardiovascular disease. *Corresponding 
+
+Emotion regulation moderates the association between chronic stress and cardiovascular disease risk in humans: a cross-sectional study
+
+Number of 
+
+Key takeaways:Effective emotion regulation can reduce the negative effects of chronic stress on the body, potentially reducing cardiovascular disease risk.
+
+Abstract:Abstract Chronic stress is a risk factor for incident cardiovascular (CV) disease. Emotion regulation is the ability to modulate one’s state or behavior in response to a given situation or stressor, and may mitigate the effect of chronic stress on CV disease risk. Data from a cohort of 754 community-dwelling young to middle-aged adults who were assessed between 2007 and 2012 on stress, emotion regulation, and CV risk measures were used to test the hypothesis that emotion regulation mitigates the effect of chronic stress on CV risk. Emotion regulation was measured using the Difficulties in Emotion Regulation Scale (DERS). We created a composite stress score using data from the Cumulative Adversity Interview and the Perceived Stress Scale. Our outcomes included blood pressure, body mass index, and insulin resistance separately and combined into a composite CV risk score. Covariates included age, sex, race, years of education, and smoking status. We used multivariable logistic regression to evaluate associations between stress measures and CV risk among participants and the impact of emotion regulation (DERS scores) on this association. We found that composite stress interacted significantly with the DERS score to affect CV risk (p = .007). A median split of the DERS scores indicated that CV risk was associated with the composite stress score in the fully adjusted model (ß = 0.206; p = .005) among participants with low emotion regulation, but not among those with high emotion regulation (ß = 0.048; p = .59). Chronic stress was associated with CV risk only among participants with poor emotion regulation. Emotion regulation is a teachable skill, and may play a role in preventing CV disease. Lay summary Emotion regulation is the ability to modify one’s reaction to a negative or stressful event, and is a teachable skill. Effective emotion regulation dampens the negative effect of chronic stress on the body, which may reduce risk for cardiovascular disease.
+
+Positive Emotions Speed Recovery from the Cardiovascular Sequelae of Negative Emotions.
+
+Number of 
+
+Key takeaways:Positive emotions, such as contentment and amusement, can speed up recovery from the cardiovascular sequelae of negative emotions.
+
+Abstract:Two studies tested the hypothesis that certain positive emotions speed recovery from the cardiovascular sequelae of negative emotions. In Study 1, 60 subjects (Ss) viewed an initial fear-eliciting film, and were randomly assigned to view a secondary film that elicited: (a) contentment; (b) amusement; (c) neutrality; or (d) sadness. Compared to Ss who viewed the neutral and sad secondary films, those who viewed the positive films exhibited more rapid returns to pre-film levels of cardiovascular activation. In Study 2, 72 Ss viewed a film known to elicit sadness. Fifty Ss spontaneously smiled at least once while viewing this film. Compared to Ss who did not smile, those who smiled exhibited more rapid returns to pre-film levels of cardiovascular activation. We discuss these findings in terms of emotion theory and possible health-promoting functions of positive emotions.
+
+PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN Richards, Gross / COMPOSURE AT ANY COST? Composure at Any Cost? The Cognitive Consequences of Emotion Suppression
+
+Number of 
+
+Key takeaways:Emotion suppression can impair memory and increase cardiovascular activation, suggesting it is a cognitively demanding form of self-regulation.
+
+Abstract:We frequently try to appear less emotional than we really are, such as when we are angry with our spouse at a dinner party, disgusted by a boss’s sexist comments during a meeting, or amused by a friend’s embarrassing faux pas in public. Attempts at emotion suppression doubtless have social benefits. However, suppression may do more than change how we look: It also may change how we think. Two studies tested the hypothesis that emotion suppression has cognitive consequences. Study 1 showed that suppression impaired incidental memory for information presented during the suppression period. Study 2 replicated this finding and further showed that suppression increased cardiovascular activation. Mediational analyses indicated that physiological and cognitive effects were independent. Overall, findings suggest that emotion suppression is a cognitively demanding form of self-regulation.
+
+Emotion regulation and immune functioning during grief: testing the role of expressive suppression and cognitive reappraisal in inflammation among recently bereaved spouses.
+
+Number of 
+
+Key takeaways:Bereaved spouses who use expressive suppression as an emotion regulation strategy tend to have increased inflammation, suggesting interventions targeting affect may improve immune system related health outcomes.
+
+Abstract:OBJECTIVE
+Losing a spouse is a distressing life event that can negatively impact both mental and physical health. Stress-induced health consequences often include increased risk for cardiovascular disease (CVD) and altered immune system functioning marked by increased inflammation. Here, we sought to identify individual difference factors that co-vary with problematic inflammatory outcomes.
+
+METHOD
+We measured recently bereaved spouses' (N=99) propensity to use emotion regulation strategies and peripheral inflammation-as measured by levels of pro-inflammatory cytokines following ex vivo stimulation of peripheral leukocytes with T cell agonists. Specifically, we measured participants' use of cognitive reappraisal, an adaptive emotion regulation strategy in many contexts, and expressive suppression, a less adaptive emotion regulation strategy that involves actively inhibiting emotions after already experiencing them.
+
+RESULTS
+Bereaved spouses who self-reported frequently using expressive suppression as an emotion regulation strategy tended to have a more pronounced inflammatory response, as indexed by higher levels of a composite cytokine index consisting of interleukin (IL) 17A, IL-2, IL-6, TNF- α, and IFN- γ, b = .042, as well as tumor necrosis factor alpha (TNF-α), b = .083, and interferon gamma (IFN-γ), b = .098, when analyzed individually. Notably, these associations were observed in both unadjusted and adjusted models, with the latter including known covariates of inflammation and other potential confounding variables.
+
+CONCLUSIONS
+These findings suggest that bereaved spouses' use of emotion regulation strategies is associated with altered immune functioning, and such a link may be an important biological pathway by which interventions targeting affect may improve immune system related health outcomes.
+
+The Cardiovascular Conundrum in Ethnic and Sexual Minorities: A Potential Biomarker of Constant Coping With Discrimination
+
+Number of 
+
+Key takeaways:The Cardiovascular Conundrum pattern is found in ethnic and sexual minorities, potentially reflecting chronic stress and dysfunctional emotion regulation strategies.
+
+Abstract:Background: A paradoxical profile of greater elevated sympathetic vasoconstriction (increased total peripheral resistance, TPR) and increased vagally-mediated heart rate variability (HRV) -the so-called Cardiovascular Conundrum- has been reported in African Americans (AAs) both at rest and in response to orthostasis. Whereas some 
+
+Emotion Regulation as a Pathway Connecting Early Life Adversity and Inflammation in Adulthood: a Conceptual Framework
+
+Number of 
+
+Key takeaways:Emotion regulation strategies can impact vulnerability or resilience to inflammation in adults with early life adversity, with maladaptive strategies increasing vulnerability and adaptive strategies reducing inflammation.
+
+Abstract:Chronic inflammation is implicated in a variety of diseases (e.g., cardiovascular disease and cancer). Much evidence suggests that early life adversity (ELA), such as maltreatment or neglect, can increase risk for inflammation in adulthood. ELA may program proinflammatory activity via its effects on brain areas involved in emotion regulation. Of multiple emotion regulation strategies, some are considered maladaptive (e.g., expressive suppression), while others are generally adaptive (e.g., cognitive reappraisal). We propose a conceptual framework for how emotion regulation tendencies may affect vulnerability or resilience to inflammation in adults who experienced adversity in childhood and/or adolescence. In support of this framework, we summarize evidence for the relationships between emotion dysregulation and higher inflammation (i.e., vulnerability), as well as between cognitive reappraisal and lower inflammation (i.e., resilience), in healthy adults with a history of ELA. Plausible neurobiological, physiological, psychosocial, and ELA-specific factors, as well as interventions, contributing to these associations are discussed. Strengths and limitations of the extant research, in addition to ideas for future directions, are presented.
+
+Immediate and long-term effects of emotional suppression in aging: A functional magnetic resonance imaging investigation.
+
+Number of 
+
+Key takeaways:Emotional suppression is effective in regulating immediate emotional responses in both younger and older adults, but reduces long-term memory in younger adults.
+
+Abstract:Available evidence suggests enhanced spontaneous emotion regulation in healthy aging, but the effects of specific strategies and the associated age-related neural mechanisms remain unclear. In this study, younger and older participants rated the emotional content of negative and neutral images, after explicit instructions or implicit priming to engage emotional suppression as an emotion regulation strategy, while functional magnetic resonance imaging (fMRI) data were recorded. Participants' memory for the images was also tested 1 week later. Behaviorally, younger and older adults were similarly successful in using explicit suppression to inhibit immediate emotional responses. However, this was associated with reduced long-term memory only for younger adults. fMRI data showed dissociable activity in the lateral prefrontal cortex (PFC) coupled with similar activity in the amygdala in younger and older adults after the engagement of emotional suppression. Results also identified a lateral-to-medial shift in the functional connectivity of the PFC in aging, linked to the engagement of explicit suppression. Regarding memory, younger adults uniquely showed bilateral modulation of encoding-related activity in the hippocampus (HC), as well as a left-lateralized decrease of the HC-PFC functional connectivity after explicit emotional suppression. This is consistent with diminished involvement of typical mechanisms associated with emotional memory because of successful engagement of explicit suppression in younger adults. Taken together, these findings identified similar and differential effects of suppression on immediate emotional responses and long-term memory for emotional information, in younger and older adults, and provide insights into the neural mechanisms by which younger and older adults adaptively cope with emotional challenges. (PsycInfo Database Record (c) 2020 APA, all rights reserved).
+
+Emotion regulation in social anxiety and depression: a systematic review of expressive suppression and cognitive reappraisal.
+
+Number of 
+
+Key takeaways:Impaired expressive suppression and cognitive reappraisal strategies contribute to the co-occurrence of social anxiety disorder and major depressive disorder.
+
+Parallel Regulation of Memory and Emotion Supports the Suppression of Intrusive Memories
+
+Number of 
+
+Key takeaways:Suppressing intrusive memories effectively reduces emotional responses to them, with a shared prefrontal cortex mechanism regulating both mnemonic and emotional content.
+
+Abstract:Intrusive memories often take the form of distressing images that emerge into a person's awareness, unbidden. A fundamental goal of clinical neuroscience is to understand the mechanisms allowing people to control these memory intrusions and reduce their emotional impact. Mnemonic control engages a right frontoparietal network that interrupts episodic retrieval by modulating hippocampal activity; less is known, however, about how this mechanism contributes to affect regulation. Here we report evidence in humans (males and females) that stopping episodic retrieval to suppress an unpleasant image triggers parallel inhibition of mnemonic and emotional content. Using fMRI, we found that regulation of both mnemonic and emotional content was driven by a shared frontoparietal inhibitory network and was predicted by a common profile of medial temporal lobe downregulation involving the anterior hippocampus and the amygdala. Critically, effective connectivity analysis confirmed that reduced amygdala activity was not merely an indirect consequence of hippocampal suppression; rather, both the hippocampus and the amygdala were targeted by a top-down inhibitory control signal originating from the dorsolateral prefrontal cortex. This negative coupling was greater when unwanted memories intruded into awareness and needed to be purged. Together, these findings support the broad principle that retrieval suppression is achieved by regulating hippocampal processes in tandem with domain-specific brain regions involved in reinstating specific content, in an activity-dependent fashion. SIGNIFICANCE STATEMENT Upsetting events sometimes trigger intrusive images that cause distress and that may contribute to psychiatric disorders. People often respond to intrusions by suppressing their retrieval, excluding them from awareness. Here we examined whether suppressing aversive images might also alter emotional responses to them, and the mechanisms underlying such changes. We found that the better people were at suppressing intrusions, the more it reduced their emotional responses to suppressed images. These dual effects on memory and emotion originated from a common right prefrontal cortical mechanism that downregulated the hippocampus and amygdala in parallel. Thus, suppressing intrusions affected emotional content. Importantly, participants who did not suppress intrusions well showed increased negative affect, suggesting that suppression deficits render people vulnerable to psychiatric disorders.
+
+Neural correlates of emotion acceptance vs worry or suppression in generalized anxiety disorder
+
+Number of 
+
+Key takeaways:Emotion acceptance in generalized anxiety disorder (GAD) leads to lower distress ratings and increased brain activity compared to worry and suppression.
+
+Abstract:Abstract Recent emotion dysregulation models of generalized anxiety disorder (GAD) propose chronic worry in GAD functions as a maladaptive attempt to regulate anxiety related to uncertain or unpredictable outcomes. Emotion acceptance is an adaptive emotion regulation strategy increasingly incorporated into newer cognitive behavioral therapy (CBT) approaches to GAD to counter chronic worry. The current study explores the mechanisms of emotion acceptance as an alternate emotion regulation strategy to worry or emotion suppression using functional magnetic resonance imaging. Twenty-one female participants diagnosed with GAD followed counterbalanced instructions to regulate responses to personally relevant worry statements by engaging in either emotion acceptance, worry or emotion suppression. Emotion acceptance resulted in lower ratings of distress than worry and was associated with increased dorsal anterior cingulate cortex (dACC) activation and increased ventrolateral prefrontal cortex (VLPFC)-amygdala functional connectivity. In contrast, worry showed significantly greater distress ratings than acceptance or suppression and was associated with increased precuneus, VLPFC, amygdala and hippocampal activation. Suppression did not significantly differ from acceptance in distress ratings or amygdala recruitment, but resulted in significantly greater insula and VLPFC activation and decreased VLPFC-amygdala functional connectivity. Emotion acceptance closely aligned with activation and connectivity patterns reported in studies of contextual extinction learning and mindful awareness.
+
+Suppress to feel and remember less: Neural correlates of explicit and implicit emotional suppression on perception and memory
+
+Number of 
+
+Key takeaways:Explicit and implicit emotional suppression both reduce immediate emotional experience and long-term memory, with explicit suppression affecting amygdala activity and affecting memory predictions.
+
+Effects of childhood poverty and chronic stress on emotion regulatory brain function in adulthood
+
+Number of 
+
+Key takeaways:Childhood poverty and chronic stress exposure are linked to reduced prefrontal cortex activity and failure to suppress amygdala activation in adulthood, affecting emotion regulation.
+
+Abstract:Significance Childhood poverty has been linked to emotion dysregulation, which is further associated with negative physical and psychological health in adulthood. The current study provides evidence of prospective associations between childhood poverty and adult neural activity during effortful attempts to regulate negative emotion. Adults with lower family income at age 9 exhibited reduced ventrolateral and dorsolateral prefrontal cortex activity and failure to suppress amygdala activation at age 24. Chronic stressor exposure across childhood mediated the relations between family income at age 9 and prefrontal cortex activity. The concurrent adult income, on the other hand, was not associated with neural activity. The information on the developmental timing of poverty effects and neural mechanisms may inform early interventions aimed at reducing health disparities. Childhood poverty has pervasive negative physical and psychological health sequelae in adulthood. Exposure to chronic stressors may be one underlying mechanism for childhood poverty−health relations by influencing emotion regulatory systems. Animal work and human cross-sectional studies both suggest that chronic stressor exposure is associated with amygdala and prefrontal cortex regions important for emotion regulation. In this longitudinal functional magnetic resonance imaging study of 49 participants, we examined associations between childhood poverty at age 9 and adult neural circuitry activation during emotion regulation at age 24. To test developmental timing, concurrent, adult income was included as a covariate. Adults with lower family income at age 9 exhibited reduced ventrolateral and dorsolateral prefrontal cortex activity and failure to suppress amygdala activation during effortful regulation of negative emotion at age 24. In contrast to childhood income, concurrent adult income was not associated with neural activity during emotion regulation. Furthermore, chronic stressor exposure across childhood (at age 9, 13, and 17) mediated the relations between family income at age 9 and ventrolateral and dorsolateral prefrontal cortex activity at age 24. The findings demonstrate the significance of childhood chronic stress exposures in predicting neural outcomes during emotion regulation in adults who grew up in poverty.
+
+Neural substrates for voluntary suppression of negative affect: A functional magnetic resonance imaging study
+
+Number of 
+
+Key takeaways:Voluntary suppression of negative emotions involves enhanced activation of prefrontal cortex and attenuation of limbic areas in the brain.
+
+Memory consolidation reconfigures neural pathways involved in the suppression of emotional memories
+
+Number of 
+
+Key takeaways:Overnight consolidation of emotional memories leads to increased resistance to suppression, with higher prefrontal engagement and a shift from hippocampal-dependent representational patterns to distributed neocortical patterns.
+
+Behavioral Inhibition and Activation Systems, and Emotional Regulation in Individuals With Chronic Musculoskeletal Pain
+
+Number of 
+
+Key takeaways:Higher BIS activation in individuals with chronic pain is associated with greater expressive suppression, but the BAS may have weak or inconsistent associations with emotional regulation strategies.
+
+Abstract:Gray's Reinforcement Sensitivity Theory postulates two distinct neurophysiological systems that underlie thoughts, emotions, and behavior: the Behavioral Inhibition System (BIS) and the Behavioral Approach System (BAS). Preliminary research suggests that both systems may play relevant roles in the adjustment of individuals with chronic pain. However, there is a lack of research on the extent to which emotional regulation (i.e., cognitive reappraisal and expressive suppression) mediates the associations between BIS and BAS activation and emotional responses in individuals with chronic pain. The aim of this study was to test a model of the associations between the BIS and BAS, cognitive reappraisal and expressive suppression, and positive and negative affect in individuals with chronic musculoskeletal pain. In total, 516 participants were interviewed. Structural Equation Modeling was used to estimate the associations between variables. The empirical model showed a good fit to the data (χ2/df = 1.95; RMSEA = 0.04; GFI = 0.99; AGFI = 0.98; CFI = 0.99). The hypothesized model received partial support. The BIS was associated with cognitive reappraisal and expressive suppression; cognitive reappraisal was associated with negative and positive affect; expressive suppression was positively associated with affect; and the BAS was not associated with the emotional regulation strategies assessed. However, the BIS and BAS were both directly associated with negative and positive affect. The results suggest that individuals with chronic pain with higher BIS activation appear to use greater expressive suppression. Cognitive reappraisal strongly mediated the BIS-negative affect association. The results also suggest that BAS activation may have a weak or inconsistent association with emotional regulation approaches in individuals with chronic pain. These data provide new and relevant information on the potential role of the BIS and BAS as predictors of psychological functioning in individuals with chronic pain. They suggest that the BIS-BAS model of chronic pain may need to be modified to take into account the potential negative effects of BAS activation. The findings suggest that treatments for emotional regulation could potentially reduce the negative impact of chronic pain via BIS.
+
+Wanting to eat matters: Negative affect and emotional eating were associated with impaired memory suppression of food cues
+
+Number of 
+
+Key takeaways:Negative affect and emotional eating are associated with impaired memory suppression of palatable food cues, leading to increased wanting for food items previously suppressed but remembered later.
+
+Neural circuitry underlying voluntary suppression of sadness
+
+Number of 
+
+Key takeaways:The right DLPFC and right OFC are key components of a neural circuit involved in voluntary suppression of sadness, which plays a key role in emotional self-regulation.
+
+Emotional suppression in chronic fatigue syndrome: Experimental study.
+
+Number of 
+
+Key takeaways:Chronic fatigue syndrome (CFS) patients exhibit lower emotional expression than healthy controls, despite higher distress and autonomic arousal, potentially impacting their ability to access social support during stress.
+
+Abstract:OBJECTIVE
+Emotional processing differences in chronic fatigue syndrome (CFS) have been reported but have rarely been investigated experimentally. This study used self-report, observer ratings, and electrodermal responses to test hypotheses about emotion suppression and autonomic reactivity.
+
+METHODS
+Eighty adults with CFS and 80 healthy controls (HC) watched a distressing film clip. Half of each group were instructed to suppress their emotions and half were told to express their feelings as they wished. Their reactions were filmed and rated by independent observers. Electrodermal activity (skin conductance response) was used as a measure of sympathetic nervous system arousal.
+
+RESULTS
+CFS participants reported higher anxiety and sadness than the HC, both before and after the film. However, observers rated the CFS group as having lower emotional expression than HC in both emotional suppression and expression choice conditions. Beliefs about the unacceptability of negative emotions were associated with greater self-reported suppression. Electrodermal responses were greater in the CFS group than HC participants. Higher skin conductance responses were associated with larger posttask increases in fatigue in the CFS participants but not in the HC.
+
+CONCLUSIONS
+CFS participants had lower observer-rated emotional expression than HC, despite greater distress and higher autonomic arousal. This may have implications for their ability to access social support at times of stress. As the degree of autonomic arousal was associated with short-term increases in fatigue in the CFS participants, this requires further investigation as a contributory factor for this condition. (PsycINFO Database Record
+
+The consequences of effortful emotion regulation when processing distressing material: A comparison of suppression and acceptance
+
+Number of 
+
+Key takeaways:Emotion suppression can lead to ongoing down-regulation of emotion and memory, while acceptance may elevate subsequent emotionality when processing distressing material.
+
+Relations between emotion regulation strategies and affect in daily life: A systematic review and meta-analysis of studies using ecological momentary assessments
+
+Number of 
+
+Key takeaways:Emotion regulation strategies, such as rumination and suppression, have significant effects on daily life affective experiences, with positive affect promoting reappraisal and negative affect causing rumination and suppression.
+
+Chronic Inhibition of Aggressive Behavior Induces Behavioral Change in Mice
+
+Number of 
+
+Key takeaways:Chronic inhibition of aggressive behavior in mice leads to weight loss and reduced immobility time, but does not affect activity, anxiety-like behavior, muscle strength, or temperature sensitivity.
+
+Abstract:Suppression of anger is more common than its expression among Asian individuals. Emotional suppression is considered an unhealthy emotional regulation. Most studies on emotional suppression have concluded that suppression adversely affects social outcomes, with approximately 5% of the world's population suffering from emotional disorders. However, anger suppression has not received academic attention, and details of the effects of chronic anger suppression on the central nervous system remain unclear. In this study, we performed the resident–intruder test to investigate the effect of chronic suppression of aggressive behavior in mice using a behavioral test battery and to clarify whether suppression of this aggressive behavior is stressful for mice. Mice chronically inhibited aggressive behavior and lost weight. Mice with inhibited aggressive behavior showed a reduced percentage of immobility time during the tail suspension test as well as no changes in activity, anxiety-like behavior, muscle strength, or temperature sensitivity. This study provides scientific evidence for the effects of chronic aggressive behavior inhibition on the body and central nervous system.
+
+Keep it to yourself? Parent emotion suppression influences physiological linkage and interaction behavior.
+
+Number of 
+
+Key takeaways:Parental emotion suppression impacts parent-child stress transmission and compromises interaction quality, potentially impacting children's social-emotional development.
+
+Abstract:Parents can influence children's emotional responses through direct and subtle behavior. In this study we examined how parents' acute stress responses might be transmitted to their 7- to 11-year-old children and how parental emotional suppression would affect parents' and children's physiological responses and behavior. Parents and their children (N = 214; Ndyads = 107; 47% fathers) completed a laboratory visit where we initially separated the parents and children and subjected the parent to a standardized laboratory stressor that reliably activates the body's primary stress systems. Before reuniting with their children, parents were randomly assigned to either suppress their affective state-hide their emotions from their child-or to act naturally (control condition). Once reunited, parents and children completed a conflict conversation and two interaction tasks together. We measured their sympathetic nervous system (SNS) responses and observed interaction behavior. We obtained three key findings: (a) suppressing mothers' SNS responses influenced their child's SNS responses; (b) suppressing fathers' SNS responses were influenced by their child's SNS responses; and (c) dyads with suppressing parents appeared less warm and less engaged during interaction than control dyads. These findings reveal that parents' emotion regulation efforts impact parent-child stress transmission and compromise interaction quality. Discussion focuses on short-term and long-term consequences of parental emotion regulation and children's social-emotional development. (PsycInfo Database Record (c) 2020 APA, all rights reserved).
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

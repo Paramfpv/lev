@@ -1,0 +1,513 @@
+PROTOCOL: Chronic dehydration
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Chronic dehydration - A state of chronic fluid deficiency increasing the risk of cardiovascular, metabolic diseases, and cognitive impairment | Longevity Protocols
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Chronic dehydration means a prolonged water deficiency in the body, resulting from insufficient fluid intake or excessive loss. This condition often develops silently, and its effects may manifest gradually, leading to an increased risk of serious health disorders. Particularly at risk are the elderly, children, and individuals who perform intense physical work or stay in high temperatures.
+
+CONTENT SECTIONS:
+
+A state of chronic fluid deficiency increasing the risk of cardiovascular, metabolic diseases, and cognitive impairment
+
+Chronic dehydration means a prolonged water deficiency in the body, resulting from insufficient fluid intake or excessive loss. This condition often develops silently, and its effects may manifest gradually, leading to an increased risk of serious health disorders. Particularly at risk are the elderly, children, and individuals who perform intense physical work or stay in high temperatures.
+
+Level of evidence:Strong
+
+Chronic dehydration leads to changes in water-electrolyte balance, blood thickening, and activation of the hormonal system (vasopressin, renin-angiotensin-aldosterone system). This results in increased blood viscosity, intensified inflammation, and disturbances in cellular metabolism. Prolonged fluid deficiency can lead to impaired function of the heart, kidneys, nervous system, and cognitive dysfunction. Particularly dangerous are cyclical episodes of dehydration, which further strain organs and increase the risk of chronic diseases.
+
+Chronic dehydration is associated with many negative health consequences, confirmed by epidemiological studies, population analyses, and systematic reviews. This condition increases the risk of hypertension, stroke, heart disease, metabolic disorders, chronic kidney disease, and cognitive impairment. Long-term fluid deficiency may also accelerate the aging process of body systems and worsen outcomes in chronic diseases.
+
+The scale of the chronic dehydration problem is global and affects both developed and developing countries. Inadequate hydration is especially prevalent among the elderly, children, manual workers, athletes, and chronically ill people. Lack of regular water-drinking habits and replacing water with sugary drinks further exacerbates the problem.
+
+Monitor your fluid intake
+
+Observe your drinking habits daily. Drink water regularly, not just when you feel thirsty. Increase fluid intake during physical activity, heat, or illness.
+
+Avoid sugary drinks and alcohol
+
+Replace sugary drinks and alcohol with water – these beverages can exacerbate dehydration or negatively affect water-electrolyte balance.
+
+Pay attention to signs of dehydration
+
+Dry mouth, dark urine, headaches, fatigue, or dizziness may indicate fluid deficiency. Respond quickly to these body signals.
+
+Take care of hydration for vulnerable individuals
+
+Elderly people, children, chronically ill individuals, and people working in high temperatures particularly require support in regular fluid intake.
+
+Establish a water-drinking routine
+
+Set daily times to drink water, e.g., after waking up, with each meal, before and after physical activity.
+
+Chronic dehydration negatively affects the brain through structural changes and cognitive impairment. Even mild or moderate dehydration can reduce attention, memory, and executive function, and these effects intensify as dehydration progresses.
+
+Structural changes in the brain
+
+Impact on cognitive functions and well-being
+
+Long-term effects and risk groups
+
+Cardiovascular system
+
+Chronic dehydration negatively affects the cardiovascular system – increasing the risk of hypertension, stroke, coronary heart disease, and other cardiometabolic problems. These associations have been shown mainly in population studies, although mechanisms and the degree of risk require further analysis.
+
+Blood pressure and vascular health
+
+Vascular function and circulation regulation
+
+Physical effort and cardiac performance
+
+Limitations and uncertainties
+
+Chronic dehydration negatively affects metabolism – leading to intensified catabolic processes, changing the way the body uses energy, and increasing the risk of metabolic syndrome and metabolic disorders.
+
+Increased catabolism and muscle breakdown
+
+Change in energy substrate preference
+
+Impact on brain and organ metabolism
+
+Association with metabolic syndrome and insulin resistance risk
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:52
+
+Final comment:Evidence for the harmfulness of chronic dehydration comes from numerous epidemiological studies, systematic reviews, and randomized interventional trials. The results of these studies indicate a significant association between chronic fluid deficiency and an increased risk of hypertension, stroke, metabolic syndrome, chronic kidney disease, and impaired cognitive function. These effects concern both the general population and particularly vulnerable groups such as the elderly, children, and people working in high temperatures. The link between dehydration and negative health outcomes is confirmed by both observational and experimental studies. Although not all mechanisms are fully understood, the consistency of results, their reproducibility, and the diversity of studied populations justify rating the level of evidence as strong.
+
+Dehydration affects brain structure and function in healthy adolescents
+
+Number of 
+
+Key takeaways:Dehydration in healthy adolescents leads to increased brain activity and inefficient use of brain metabolic resources, potentially impacting executive functions like planning and visuospatial processing.
+
+Abstract:It was recently observed that dehydration causes shrinkage of brain tissue and an associated increase in ventricular volume. Negative effects of dehydration on cognitive performance have been shown in some but not all studies, and it has also been reported that an increased perceived effort may be required following dehydration. However, the effects of dehydration on brain function are unknown. We investigated this question using functional magnetic resonance imaging (fMRI) in 10 healthy adolescents (mean age = 16.8, five females). Each subject completed a thermal exercise protocol and nonthermal exercise control condition in a cross‐over repeated measures design. Subjects lost more weight via perspiration in the thermal exercise versus the control condition (P < 0.0001), and lateral ventricle enlargement correlated with the reduction in body mass (r = 0.77, P = 0.01). Dehydration following the thermal exercise protocol led to a significantly stronger increase in fronto‐parietal blood‐oxygen‐level‐dependent (BOLD) response during an executive function task (Tower of London) than the control condition, whereas cerebral perfusion during rest was not affected. The increase in BOLD response after dehydration was not paralleled by a change in cognitive performance, suggesting an inefficient use of brain metabolic activity following dehydration. This pattern indicates that participants exerted a higher level of neuronal activity in order to achieve the same performance level. Given the limited availability of brain metabolic resources, these findings suggest that prolonged states of reduced water intake may adversely impact executive functions such as planning and visuo‐spatial processing. Hum Brain Mapp, 2010. © 2010 Wiley‐Liss, Inc.
+
+Dehydration Impairs Cognitive Performance: A Meta-analysis
+
+Number of 
+
+Key takeaways:Dehydration impairs cognitive performance, especially in attention, executive function, and motor coordination tasks, when body mass loss exceeds 2%.
+
+Abstract:Dehydration (DEH) is believed to impair cognitive performance but which domains are affected and at what magnitude of body mass loss (BML) remains unclear. Purpose To conduct systematic literature review and meta-analysis to determine the effect size (ES) of DEH on cognitive performance and influence of experimental design factors (e.g., DEH > 2% BML). Methods Thirty-three studies were identified, providing 280 ES estimates from 413 subjects with DEH ranging from 1% to 6% BML. Outcome variables (accuracy, reaction time), cognitive domains, and methods to induce DEH varied. Effect sizes were calculated using standardized mean differences and multivariate meta-analysis. Results Impairment of cognitive performance (all domains/outcomes) with DEH was small but significant (ES = −0.21; 95% confidence interval : −0.31 to −0.11; P < 0.0001) with significant heterogeneity (Q(279) = 696.0, P < 0.0001; I2 = 37.6%). Tasks of executive function (ES = −0.24; 95% CI: −0.37 to −0.12), attention (ES = −0.52; 95% CI: −0.66 to −0.37), and motor coordination (ES = −0.40 to 95% CI: −0.63 to −0.17) were significantly impaired (P ⩽ 0.01) after DEH, and attention/motor coordination was different (P < 0.001) from reaction time specific tasks (ES = −0.10; 95% CI: −0.23 to 0.02). Body mass loss was associated with the ES for cognitive impairment (P = 0.04); consequently, impairment was greater (P = 0.04) for studies reporting >2% BML (ES = −0.28; 95% CI: −0.41 to −0.16) compared with ⩽2%; (ES = −0.14; 95% CI: −0.27 to 0.00). Conclusions Despite variability among studies, DEH impairs cognitive performance, particularly for tasks involving attention, executive function, and motor coordination when water deficits exceed 2% BML.
+
+Water Deprivation Induces Neurovascular and Cognitive Dysfunction through Vasopressin-Induced Oxidative Stress
+
+Number of 
+
+Key takeaways:Dehydration alters cerebral circulation and cognitive function through vasopressin-induced oxidative stress, potentially increasing brain susceptibility to cerebral ischemia.
+
+Investigating Structural Brain Changes of Dehydration Using Voxel-Based Morphometry
+
+Number of 
+
+Key takeaways:Dehydration can lead to significant decreases in gray matter and white matter volume in various brain regions, and increases in cerebrospinal fluid volume, potentially confounding morphometric brain studies.
+
+Abstract:Dehydration can affect the volume of brain structures, which might imply a confound in volumetric and morphometric studies of normal or diseased brain. Six young, healthy volunteers were repeatedly investigated using three-dimensional T 1-weighted magnetic resonance imaging during states of normal hydration, hyperhydration, and dehydration to assess volume changes in gray matter (GM), white matter (WM), and cerebrospinal fluid (CSF). The datasets were analyzed using voxel-based morphometry (VBM), a widely used voxel-wise statistical analysis tool, FreeSurfer, a fully automated volumetric segmentation measure, and SIENAr a longitudinal brain-change detection algorithm. A significant decrease of GM and WM volume associated with dehydration was found in various brain regions, most prominently, in temporal and sub-gyral parietal areas, in the left inferior orbito-frontal region, and in the extra-nuclear region. Moreover, we found consistent increases in CSF, that is, an expansion of the ventricular system affecting both lateral ventricles, the third, and the fourth ventricle. Similar degrees of shrinkage in WM volume and increase of the ventricular system have been reported in studies of mild cognitive impairment or Alzheime s disease during disease progression. Based on these findings, a potential confound in GM and WM or ventricular volume studies due to the subjects’ hydration state cannot be excluded and should be appropriately addressed in morphometric studies of the brain.
+
+The Neurological Consequences of Dehydration
+
+Number of 
+
+Key takeaways:Dehydration can lead to brain shrinkage, disruption of normal neuronal activity, and attention lapses, all of which can be prevented by drinking water.
+
+Abstract:Abstract: This article aims to explain and elaborate on the vast consequences that dehydration can have on the human brain. Deeply impactful problems, such as shrinkage of the brain, disruption of normal neuronal activity and attention lapses can be prevented by engaging in an activity that is perhaps arguably one of the most important for the survival of a human body: Drinking water. An adversely impacting shift is observed in the normal paradigm of activities of the human brain when the body is deprived of a sufficient amount of consumed water. Most of the problems that arise due to dehydration are observed as a series of small events, which come together to have chronic issues. In this article, the Science and the Statistics of such problems are comprehensively discussed, along with how there is much more to dehydration than meets the eye.
+
+Dehydration and rehydration affect brain regional density and homogeneity among young male adults, determined via magnetic resonance imaging: A pilot self-control trial
+
+Number of 
+
+Key takeaways:Rehydration increases brain gray matter and white matter density and improves brain regional homogeneity, while dehydration increases cerebrospinal fluid density and decreases brain regional homogeneity in young male adults.
+
+Abstract:The effects of dehydration and rehydration on brain regional density and homogeneity are unknown and have been infrequently studied. In this pilot self-control study, twelve participants aged 18-25 years were recruited and the brain was scanned using magnetic resonance imaging for three tests under different hydration statuses. In three tests, urine osmolality was determined to assess hydration status. Test 1 was conducted after 12 h of overnight fasting. Test 2 was conducted in a dehydration state induced by 36 h of water deprivation. Test 3 was conducted in a rehydration state, which was induced by 1.5 L of purified water supplementation. Compared with test 1, participants under the dehydration state in test 2 had higher cerebrospinal fluid density (p < 0.001). Compared with test 2, participants under the rehydration state in test 3 showed an extensive increase in gray matter density in widespread brain regions, mainly involving the left middle temporal gyrus, cuneus, right thalamus, left rolandic opercula, Brodmann area 39, right precentral, left postcentral gyrus, and cingulate gyrus (p < 0.001); a higher white matter density in the temporal lobe, sub-lobar, and sub-gyral areas; and a lower cerebrospinal fluid density (p < 0.001). The multimodal, multiscale neuroimaging marker of the human brain connection—the regional homogeneity (ReHo) index—was used for evaluating the connectivity of nodes in the brain. Compared with test 1, participants in test 2 had a lower ReHo value in the right amygdala, left occiput median, right lingual, opercula part of right inferior frontal gyrus, and right precuneus (p < 0.01). Compared with test 2, participants in test 3 had a higher ReHo value in the right amygdala, right lingual, opercula part of the right inferior frontal gyrus, and right precuneus (p < 0.01). Dehydration state increased cerebrospinal fluid density, decreased brain regional homogeneity. Rehydration state increased brain gray matter and white matter density widespreadly, and increased brain regional homogeneity.
+
+Effects of Dehydration on Brain Functioning: A Life-Span Perspective
+
+Number of 
+
+Key takeaways:Dehydration impairs cognition and mood in vulnerable populations, such as children and elderly adults, with greater detrimental effects in vulnerable age groups.
+
+Abstract:Background: In the last 10 years, there has been an increase in the publication of literature dealing with the effects of mild dehydration on cognition in healthy adults. Fewer studies, leading to less consistent data, involved other age groups. Summary: In healthy young adults refraining from drinking or participating in dehydration protocols, it was found that mild dehydration had no impact on performance, whereas the mood was widely impaired. Several studies have also been conducted in young children either as observational studies or as interventional studies. Nevertheless, methodological differences in (de)hydration monitoring, in cognitive assessments, and in the age/brain maturation of study participants, often resulted in contradictory findings regarding the cognitive functions impacted by (de)hydration. Although not consistent, these data showed that not only mood but also performance tend to be impaired by dehydration in children. Even if older adults are likely to be more vulnerable to dehydration than younger adults, very few studies have been conducted in this regard in this population. The results show that, like it is in children, cognition tends to be impaired when the elderly are dehydrated. Taken together, these studies suggest that dehydration has greater detrimental effects in vulnerable populations. Recent imaging data suggest that the brain of children and elderly adults may have fewer resources to manage the effects of dehydration. Consequently, cognitive tasks may be more demanding for younger and older brains and performance more likely to be impaired in these populations, in comparison to young healthy subjects who have greater and more efficient resources.
+
+Dehydration and Cognitive Performance
+
+Number of 
+
+Key takeaways:Dehydration can negatively impact cognitive performance, affecting physical, visuomotor, psychomotor, and cognitive performance when 2% or more of body weight is lost due to water restriction, heat, and/or physical exertion.
+
+Abstract:Human neuropsychology investigates brain-behavior relationships, using objective tools (neurological tests) to tie the biological and behavior aspects together. The use of neuropsychological assessment tools in assessing potential effects of dehydration is a natural progression of the scientific pursuit to understand the physical and mental ramifications of dehydration. It has long been known that dehydration negatively affects physical performance. Examining the effects of hydration status on cognitive function is a relatively new area of research, resulting in part from our increased understanding of hydration's impact on physical performance and advances in the discipline of cognitive neuropsychology. The available research in this area, albeit sparse, indicates that decrements in physical, visuomotor, psychomotor, and cognitive performance can occur when 2% or more of body weight is lost due to water restriction, heat, and/or physical exertion. Additional research is needed, especially studies designed to reduce, if not remove, the limitations of studies conducted to date.
+
+Effect of dehydration on cognitive functions
+
+Number of 
+
+Key takeaways:Dehydration negatively impacts cognitive functions, particularly concentration, memory, learning, and executive functions, with age groups at risk.
+
+Abstract:Introduction and objective. Water is one of the substances that ensure proper functioning of the brain. Dehydration leads to water loss which, in turn, contributes to a number of adverse changes taking place in the body. Dehydration has been shown to have negative effects on health, including cognitive decline. The aim of this article is to present current data on the effect of dehydration on selected cognitive functions and to emphasize the importance of adequate fluid consumption in selected age groups. Brief description of the state of knowledge . The results of research published to date show that a significant proportion of the population is in a state of mild dehydration. Analysis of the relationship between dehydration and cognitive functions showed a negative effect in the case of body water loss higher than 2%, regardless of age. A negative effect of dehydration was confirmed primarily on concentration, memory and learning, as well as on selected executive functions. In groups at risk cognitive deterioration may occur much earlier. Based on the analysis of research, age groups may be distinguished that are particularly at risk of insufficient water intake and, therefore, are more liable to dehydration. These groups mainly include infants and young children, as well as the elderly and the sick. Summary. Dehydration exerts a significant impact on cognitive functions; however, this relationship has not yet been fully described. Further research is needed in this area to assess the scale of the potential risk and to formulate more specific recommendations for hydration from the aspect of cognitive functions.
+
+Association of dehydration with development of dementia among non‐demented geriatric outpatients
+
+Number of 
+
+Key takeaways:Chronic dehydration is associated with the development of dementia in non-demented geriatric outpatients.
+
+Abstract:Dehydration is common in older people. It often causes poorer health outcomes, such as frailty, ischemic stroke, and higher mortality rates. Dehydration can be classified as acute or chronic. Chronic dehydration is caused mainly by long-term inadequate fluid intake, and is often overlooked because it is typically asymptomatic. In a previous study, we observed the cross-sectional association between chronic dehydration and dementia in nursing home residents. On the one hand, dementia may increase the risk of dehydration owing to insufficient fluid intake, decreased physical function, dysphagia, comorbidities, and polypharmacy. On the other, dehydration may lead to lower cognitive function because lower hydration status has been found to be related to decreased attention and processing speed. Thus the involvement of dehydration in the onset of dementia should be considered. However, most previous studies have been cross-sectional in design, and no proven causal relationship has been established. Early diagnosis before the development of dementia is required in an aging society, and if dehydration is a risk for the development of dementia, intervention in dehydration may be an option to prevent dementia. Therefore, we attempted to examine whether dehydration is associated with the development of dementia in a longitudinal study. We retrospectively collected data of cognitive function on geriatric outpatients from medical charts between January 2015 and December 2019. The study protocol was approved by the Ethics Committee of Nagoya University Graduate School of Medicine (2020-0441). Participants without dementia at the first assessment, and those who were evaluated 1 year later (365 120 days) were included in this study. The Mini-Mental State Examination (MMSE), Alzheimer’s Disease Assessment Scale (ADAS), Digit Symbol Substitution Test (DSST), and Trail Making Test (TMT) parts A and B were performed for cognitive assessment, and the Geriatric Depression Scale (GDS)-15 as a routineassessment of depression. Periventricular hyperintensity (PVH) and deep white matter hyperintensity (DSWH) were examined by magnetic resonance imaging (MRI). Dementia was diagnosed based on DSM-V. Serum osmolarity was calculated by the following formula: Serum Osmolarity (mOsm/kg) = 1.86 (Na + K) + 1.15 glucose (mmol/L) + urea (mmol/L) + 14, and more than 300 mOsm/kg was defined as dehydration. Participants who did not have a blood test within 30 days of the first assessment, or those who had missing values in the above formula, were excluded from the analysis (there was no significant difference in background characteristics between the excluded and included participants). The background characteristics were divided into two groups: euhydration or dehydration. The t-test (for continuous variables) and χ-test (for categorical variables) were used to compare these characteristics. Multivariate logistic regression analysis was performed to determine if dehydration was associated with development of dementia after adjusting for confounders. Background characteristics are shown in Table 1. Of the 99 participants, 33 (33.3%) were classified as belonging to the dehydration group. The dehydration group had lower eGFR, and higher GDS-15, TMT-A, and TMT-B scores than the euhydration group. During the observation period, 21 (21.2%) had development of dementia (Alzheimer’s type, 18; vascular dementia, 1; dementia of Lewy body type, 1; frontotemporal dementia, 1), but the rate of incident dementia was the same in the two groups (21.2%). Multivariate logistic regression analysis also showed that dehydration was not associated with the development to dementia adjusting for age, sex (odds ratio 1.10; 95% CI, 0.39–3.14; P = 0.85), or adjusting for age, sex, eGFR, GDS-15, TMT-A (odds ratio 0.85; 95% CI, 0.25–2.91; P = 0.79). The current study did not show an association of dehydration with development of dementia in geriatric outpatients. One study suggested a hydromolecular hypothesis, namely that protein misfolding and aggregation under the condition of low interstitial fluid might cause cognitive dysfunction. A previous study showed that higher serum osmolarity was cross-sectionally associated with lower Digit Symbol Substitution Test (DSST) scores, and
+
+Autonomic adaptations mediate the effect of hydration on brain functioning and mood: Evidence from two randomized controlled trials
+
+Number of 
+
+Key takeaways:Minor dehydration (<1% body weight loss) negatively impacts brain function, mood, and cardiovascular health, leading to reduced heart rate variability, increased anxiety, and greater perceived effort.
+
+Effect of Chronic Hypernatremic Dehydration and Rapid Rehydration on Brain Carbohydrate, Energy, and Amino Acid Metabolism in Weanling Mice
+
+Number of 
+
+Key takeaways:Chronic hypernatremic dehydration in mice leads to increased brain amino acid content, reduced cerebral metabolic rate, and rapid rehydration can cause metabolic perturbations similar to those in humans with chronic hypernatremic dehydration.
+
+Abstract:Abstract: This is a study of the effects of chronic hypernatremic dehydration and rehydration on carbohydrate, energy, and amino acid metabolism in the brains of weanling mice. Chronic hypernatremic dehydration induced by 4 days of water deprivation and salt loading was associated with severe weight loss (no other observed clinical effects), increased brain Na+ levels, and a decreased brain water content. Changes in the concentrations of brain glucose, glycolytic and citric acid cycle metabolic intermediates, and phosphocreatine were compatible with reduced cerebral metabolic rate. In adaptation to chronic hypernatremia, there was a significant increase in the content of the measured brain amino acids. Rapid rehydration over a 4‐h period with 2.5% dextrose in water returned plasma Na+ levels and brain Na+ and water contents to normal. After rehydration, metabolites were altered in a manner consistent with increased fluxes through the glycolytic pathway and citric acid cycle; the brain glycogen content almost tripled. Brain taurine and glutamine levels were not lowered by rehydration, and the total content of the measured amino acids in brain was still significantly higher than in controls. We speculate that these metabolic perturbations may relate to the development of cerebral edema and seizures or coma following rapid rehydration of humans with chronic hypernatremic dehydration.
+
+Dehydration Impairs Physical Growth and Cognitive Development in Young Mice
+
+Number of 
+
+Key takeaways:Dehydration impairs physical growth and cognitive development in young mice, highlighting the importance of water as a vital nutrient for optimal growth and development during infancy and childhood.
+
+Abstract:Infancy and childhood are periods of physical and cognitive development that are vulnerable to disruption by dehydration; however, the effects of dehydration on cognitive development during the periods have not yet been fully elucidated. Thus, the present study used a murine model to examine the effects of sustained dehydration on physical growth and cognitive development. Three-week-old C57BL/6J mice were provided either ad libitum (control group) or time-limited (15 min/day; dehydration group) access to water for 4 weeks. Physical growth was examined via a dual-energy X-ray absorptiometry whole-body scan, and cognitive development was assessed using the Barnes maze test. RNA-sequencing and qPCR analyses were carried out to assess the hippocampal transcriptome and the expression of key neurotrophic factors, respectively. These analyses showed that dehydrated mice exhibited a reduced body mass and tail length, and they spent four times longer completing the Barnes maze test than control mice. Moreover, dehydration significantly dysregulated long-term potentiation signaling and specifically decreased hippocampal brain-derived neurotrophic factor (Bdnf) expression. Collectively, these data confirm dehydration inhibits physical growth and suggest that it impairs cognitive development by altering the hippocampal transcriptional network in young mice; thus, they highlight the importance of water as a vital nutrient for optimal growth and development during infancy and childhood.
+
+The Effects of Hydration Status on Cognitive Performances among Young Adults in Hebei, China: A Randomized Controlled Trial (RCT)
+
+Number of 
+
+Key takeaways:Dehydration negatively impacts cognitive performance and brain function, while water supplementation improves these outcomes in young adults.
+
+Abstract:Background: Dehydration may affect cognitive performances as water accounts for 75% of brain mass. The purpose of this study is to investigate the effects of dehydration and water supplementation on cognitive performances, and to explore the changes of brain structures and functions using MRI. Methods and Analysis: A double-blinded randomized controlled trial has been designed and will be implemented among 64 college students aged 18–23 years from Baoding, China. Subjects will be asked to restrict water for 36 h. The first morning urine will be collected and urine osmolality measured. The fasting blood samples will be collected and osmolality and copeptin will be measured. Three MRI sequences, including fMRI, ASL and 3D BRAVO will be taken to observe the changes of whole brain volume, ventricular volume, BOLD response and the cortex thickness. Cognitive performances and mood will be performed with software and questionnaires, respectively. Subjects in the water supplementation groups 1, 2, 3 will drink 200, 500 and 1000 mL of water, respectively, while subjects in the no water supplementation group will not drink any water. After 90 min, urine and blood samples, MRI scans, cognitive performances and mood will be performed. One-way ANOVA will be used to study the differences among groups. Ethics and Dissemination: The study protocol has been approved by the Peking University Institutional Review Committee. Ethical approval project identification code is IRB00001052-16071. Results will be published according to the CONSORT statement and will be reported in peer-reviewed journals.
+
+The relationship between dehydration and etiologic subtypes of major neurocognitive disorder in older patients.
+
+Number of 
+
+Key takeaways:Dehydration is slightly associated with major neurocognitive disorder (dementia) in older adults, but is also common in those without cognitive disorders.
+
+Abstract:PurposeStudies investigating associations between etiologic subtypes of major neurocognitive disorder (MND) and dehydration frequency are lacking. The aim of this study was to investigate the prevalence and risk factors of dehydration among older adults with and without MND (dementia), and across different etiologic subtypes of MND.MethodsThis cross-sectional study included adults aged ≥ 65 years old from one geriatric outpatient clinic. Dehydration was defined as a calculated plasma osmolarity of > 295 mOsm/L.Clinical characteristics and measures of comprehensive geriatric assessments of patients with dehydration and normohydration were compared. MND was diagnosed according to the Diagnostic and Statistical Manual of Mental Disorders—Fifth Edition criteria. The underlying etiologic subtypes were determined by specific diagnostic criteria.ResultsOf the 1377 patients 72% were female, the mean age was 80 ± 8 years, and 575 had dementia. Dehydration was more common in patients with dementia than those without dementia (58% vs. 53%, p = 0.044). The prevelance of dehydration was 57%, 62%, 54%, 57% and 68% in Alzheimer’s disease, Parkinson’s disease dementia, fronto-temporal dementia, dementia with Lewy bodies, and vascular dementia, respectively (p ≥ 0.05). MND was associated with dehydration (OR 1.26, 95% CI 1.01–1.57; p = 0.037) after adjustment for age and sex. In multivariable analysis, among patients with dementia, hypertension, DM, CKD, and dysphagia were more common while mean Mini-Mental State Examination score was lower in those who had dehydration versus no dehydration in older patients with dementia (p < 0.05).ConclusionDehydration is slightly associated with the presence of MND independent of age and sex. However, dehydration is also quite common in older patients without cognitive disorders. Therefore, hydration status should be monitored in older adults irrespective of neurocognitive status. Hypertension, DM, CKD, dysphagia and severity of cognitive dysfunction were associated with dehydration in patients with dementia. The prevalence of dehydration is highest in patients with vascular dementia.
+
+Effects of acute dehydration on brain morphology in healthy humans
+
+Number of 
+
+Key takeaways:Acute dehydration leads to ventricular expansion in healthy humans, with automated voxelwise analysis methods being more sensitive to regional brain volume changes over time.
+
+Abstract:Dehydration can affect brain structure which has important implications for human health. In this study, we measured regional changes in brain structure following acute dehydration. Healthy volunteers received a structural MRI scan before and after an intensive 90‐min thermal‐exercise dehydration protocol. We used two techniques to determine changes in brain structure: a manual point counting technique using MEASURE, and a fully automated voxelwise analysis using SIENA. After the exercise regime, participants lost (2.2% ± 0.5%) of their body mass. Using SIENA, we detected expansion of the ventricular system with the largest change occurring in the left lateral ventricle (P = 0.001 corrected for multiple comparisons) but no change in total brain volume (P = 0.13). Using manual point counting, we could not detect any change in ventricular or brain volume, but there was a significant correlation between loss in body mass and third ventricular volume increase (r = 0.79, P = 0.03). These results show ventricular expansion occurs following acute dehydration, and suggest that automated longitudinal voxelwise analysis methods such as SIENA are more sensitive to regional changes in brain volume over time compared with a manual point counting technique. Hum Brain Mapp 2009. © 2007 Wiley‐Liss, Inc.
+
+Impact of mild dehydration on wellness and on exercise performance
+
+Number of 
+
+Key takeaways:Mild dehydration impairs cognitive function, alertness, and concentration, and negatively impacts exercise performance, but muscle strength remains unaffected.
+
+Effects of Dehydration and Rehydration on Cognitive Performance and Mood among Male College Students in Cangzhou, China: A Self-Controlled Trial
+
+Number of 
+
+Key takeaways:Dehydration negatively affects cognitive performance and mood, while rehydration improves fatigue, mood disturbance, short-term memory, attention, and reaction time.
+
+Abstract:Water accounts for 75% of brain mass. Associations may exist between hydration and cognitive performance. The objective of this study was to investigate the effects of dehydration and rehydration on cognitive performance and mood. In this self-control trial, 12 men were recruited from a medical college in Cangzhou, China. After 12 h of overnight fasting, the participants took baseline tests at 8:00 AM on day 2. First morning urine and blood osmolality were analyzed to determine hydration state. Height, weight, and blood pressure were measured following standardized procedures. A visual analog scale for the subjective sensation of thirst was applied, and a profile of mood states questionnaire was applied. Tests were conducted for cognitive performance, including a test of digit span forward and backward, digit-symbol substitutions, dose-work, and stroop effects. Participants were required not to drink water for 36 h but were given three meals on day 3. On day 4, the same indexes were tested as a baseline test. At 8:30 AM, participants drank 1500 mL of purified water over 15 min. After a 1 h interval, the same measurements were performed. Compared with baseline test results, during the dehydration test, participants had lower scores of vigor (11.9 vs. 8.8, %, p = 0.007) and esteem-related affect (8.2 vs. 5.7, %, p = 0.006), lower total scores of digit span (14.3 vs. 13.3, %, p = 0.004), and higher error rates for dose-work (0.01 vs. 0.16, %, p = 0.005). Compared with the dehydration test scores, rehydration test scores showed that fatigue (4.3 vs. 2.1, %, p = 0.005) and total mood disturbance (TMD) (99.0 vs. 90.2, %, p = 0.008) improved, and scores of forward, backward, and total digit span increased (7.7 vs. 8.6, p = 0.014; 5.7 vs. 1.2, p = 0.019; 13.3 vs. 15.4, p = 0.001). Increases were also noted in correct number of digit symbol substitutions, reading speed, and mental work ability (70.8 vs. 75.4, p < 0.001; 339.3 vs. 486.4, n/min, p < 0.001; 356.1 vs. 450.2, p < 0.001), and reaction time decreased (30.2 vs. 28.7, s, p = 0.002). As a conclusion, dehydration had negative effects on vigor, esteem-related affect, short-term memory, and attention. Rehydration after water supplementation alleviated fatigue and improved TMD, short-term memory, attention, and reaction.
+
+Does acute dehydration affect the neuromuscular function in healthy adults? - A systematic review.
+
+Number of 
+
+Key takeaways:Acute dehydration reduces maximal strength during slow-speed isokinetic contractions and fatigue resistance in healthy adults, with effects occurring at the peripheral level within the muscle.
+
+Abstract:The effects of acute dehydration on neuromuscular function have been studied. However, whether the mechanisms underpinning such function are central or peripheral is still being determined, and the results are inconsistent. This systematic review aims to elucidate the influence of acute dehydration on neuromuscular function, including a novel aspect of investigating the central and peripheral neuromuscular mechanisms. Three databases were used for the article search: PubMed, Web of Science, and Scopus. Studies were included if they had objective measurements of dehydration, muscle performance, and electromyography data or transcranial magnetic stimulation or peripheral nerve stimulation measurements with healthy individuals aged 18-65y. Twenty-three articles met the eligibility criteria. The studies exhibited considerable heterogeneity in the methods used to induce and quantify dehydration. Despite being inconsistent, the literature shows some evidence that acute dehydration does not affect maximal strength during isometric or moderate-speed isokinetic contractions. Conversely, acute dehydration significantly reduces maximal strength during slow-speed isokinetic contractions and fatigue resistance in response to endurance tasks. The studies report that dehydration does not affect the motor cortical output or spinal circuity. The effects occur at the peripheral level within the muscle. PROSPERO identification code: CRD42022372217.
+
+Dysregulation of the fluid homeostasis system by aging
+
+Number of 
+
+Key takeaways:Aging in mice leads to chronic dehydration due to a defect in sensing and producing vasopressin, but does not impair the thirst circuit.
+
+Abstract:Chronic dehydration is a leading cause of morbidity for the elderly, but how aging alters the fluid homeostasis system is not well understood. Here, we used a combination of physiologic, behavioral and circuit analyses to characterize how fluid balance is affected by aging in mice. We found that old mice have a primary defect in sensing and producing the anti-diuretic hormone vasopressin, which results in chronic dehydration. Recordings and manipulations of the thirst circuitry revealed that old mice retain the ability to sense systemic cues of dehydration but are impaired in detecting presystemic, likely oropharyngeal, cues generated during eating and drinking, resulting in disorganized drinking behavior on short timescales. Surprisingly, old mice had increased drinking and motivation after 24-hour water deprivation, indicating that aging does not result in a general impairment in the thirst circuit. These findings reveal how a homeostatic system undergoes coordinated changes during aging.
+
+Abstract P3131: Aquaglyceroporin Expression In Resistance-sized Arteries
+
+Number of 
+
+Key takeaways:Mice adjust to water intake changes differently short- and long-term, with glycerol-permeable aquaglyceroporins potentially increasing vascular smooth muscle cell glycerol-uptake as an energy source during water duress.
+
+Abstract:Due to its importance in maintaining homeostasis of many physiological processes in the body, including the cardiovascular system, it’s crucial that humans consume water, to replace any loss that occurs through urine, sweat, feces, and expelled air. Unfortunately, a significant proportion of the global population either does not have a safe drinking water source or consistent access to water throughout the year and with water scarcity projected to only impact more people in the future, it’s important to understand what is the effect of water deprivation on the human body. Once the body loses a greater amount of water than it’s able to intake it enters the process of dehydration, resulting in a body water deficit, known as hypohydration. Even mild dehydration can affect an individual's mental and physical well-being, with an association between chronic dehydration and adverse cardiovascular outcomes, including hypertension, stroke, and coronary heart disease (CHD). While the majority of research is focused on acute dehydration, chronic low water intake, also termed underhydration, is also associated with adverse health outcomes. However, the effect of acute and chronic reductions in water intake on the function of resistance-sized arteries, and particularly vascular smooth muscle cells (VSMCs), that regulate systemic blood pressure, is poorly understood. Aquaporins (AQPs) are membrane proteins primarily responsible for facilitating water movement across cells in tissues and organs,
+ ,
+ with the aquaglyceroporin (AQP3, AQP7, AQP9-10), subfamily also exhibiting permeability to glycerol, and other small solutes. Previous studies have identified AQP7 expression in endothelial cells (ECs) and the heart, where it is proposed to enable the uptake of glycerol as a cardiac energy substrate, however, its function in VSMCs is unclear. Preliminary data demonstrate that in mice the expression of glycerol-permeable aquaglyceroporins, AQP7 and AQP9, are elevated in mesenteric arteries by 48 hours of water deprivation and 28 days of reduced water intake, respectively. Mesenteric artery glycerol content is higher in mice dehydrated for 48 hours compared to 0-hr controls. Male mice administered 10% glycerol
+ ad libitum
+ with water have elevated mesenteric artery AQP7 expression when compared to 0-hr controls. In female mice, ovariectomy (OVX) attenuates increased AQP7 expression in 48-hr dehydrated females, with, 17β-estradiol treatment restoring dehydrated-mediated elevations in expression. These findings suggest that mice adjust to alterations in water intake differently short- and long-term, and suggest a potential mechanism for increasing VSMC glycerol-uptake as an energy source during water duress.
+
+Dehydration reduces cardiac output and increases systemic and cutaneous vascular resistance during exercise.
+
+Number of 
+
+Key takeaways:Dehydration during prolonged exercise in heat leads to reduced cardiac output, increased systemic and cutaneous vascular resistance, and a slight decline in mean arterial pressure.
+
+Abstract:This investigation determined the manner in which the cardiovascular system copes with the dehydration-induced reductions in cardiac output (Q) during prolonged exercise in the heat. On two separate occasions, seven endurance-trained subjects (maximal O2 consumption 4.70 +/- 0.41 l/min) cycled in the heat (35 degrees C) for 2 h, beginning at 62 +/- 2% maximal O2 consumption. During exercise, they randomly received either 0.2 liter of fluid and became dehydrated by 4.9 +/- 0.2% of their body weight or 3.6 +/- 0.4 liter of fluid and replaced 95% of fluid losses . During the 10- to 120-min period of EU, Q, mean arterial pressure (MAP), systemic vascular resistance (SVR), cutaneous vascular resistance (CVR), and plasma catecholamines did not change while esophageal temperature stabilized at 38.0 +/- 0.1 degrees C. Conversely, after 120 min of DE, Q and MAP were reduced 18 +/- 3 and 5 +/- 2%, respectively, compared with EU (P < 0.05). This was associated with a significantly higher SVR (17 +/- 6%) and plasma norepinephrine concentration (50 +/- 19%, P < 0.05). In addition, CVR was also significantly higher (126 +/- 16 vs. 102 +/- 6% of 20-min value; P < 0.05) during DE despite a 1.2 +/- 0.1 degrees C greater esophageal temperature (P < 0.05). In conclusion, significant reductions in Q are accompanied by significant increases in SVR and plasma norepinephrine and a slight although significant decline in MAP. The cutaneous circulation participates in this systemic vasoconstriction as indicated by increases in CVR despite significant hyperthermia.
+
+The Effect of Acute and Chronic Hydration Changes on Vascular Aquaporin Expression
+
+Number of 
+
+Key takeaways:Dehydration and chronic reduced water intake in mice lead to differential responses in aquaglyceroporin expression in resistance-sized arteries, potentially increasing glycerol uptake as an energy source during water scarcity.
+
+Abstract:Introduction: The human body's homeostatic balance, particularly within cardiovascular function, relies heavily on adequate water intake to replenish losses from urine, sweat, feces, and respiration. The pressing issue is that a significant segment of the global populace lacks access to safe drinking water or faces inconsistent availability, a situation that is expected to worsen, heightening the urgency to understand water deprivation's physiological impacts. Dehydration, or hypohydration, manifests when water loss exceeds intake, with even minor instances compromising mental and physical health and correlating with detrimental cardiovascular consequences like hypertension, stroke, and coronary heart disease. While most research is focused on acute dehydration, chronic insuffcient water consumption, also known as underhydration, is also associated with similar negative effects on health. Despite this, the influence of acute and chronic water intake reduction on resistance-sized arteries and vascular smooth muscle cells (VSMCs), crucial in blood pressure regulation, remains inadequately explored. Aquaporins (AQPs) are membrane proteins facilitating cellular water transport, while the aquaglyceroporins (AQP3, AQP7, AQP9-10) subfamily also allows glycerol and other small solutes to permeate, are implicated in this process. While AQP7 function has been studied previously in the cardiovascular system, particularly its role in cardiac glycerol uptake, little is known regarding its function in systemic arteries that regulate blood pressure. Study Objective: The objective of this study is to understand the effects of dehydration and chronic reduced water intake on the expression of aquaglyceroporins, as well as resistance-sized arterial function, particularly in VSMCs, which are crucial for regulating systemic blood pressure. Hypothesis: The hypothesis is that dehydration will result in an elevation of the expression of glycerol-permeable aquaporins (AQP7 and AQP9) in resistance-sized artery VSMCs, elevating cellular glycerol content. Methodology: The study involves either inducing dehydration in C57BL/6J and AQP9−/− mice through water deprivation for 48 hours or restricting water intake for 28 days to investigate the expression of aquaporins (AQPs) in mesenteric arteries. In addition, the effects of glycerol supplementation (7 days ad libitum) and estrogen were also determined on AQP7 expression in male and ovariectomized female mice, respectively. Changes in message and protein expression were determined by RT-qPCR and Simple Western, respectively. Data: The data includes plasma osmolarity and glycerol concentration after 48 hours of dehydration, in C57BL/6J and AQP9−/− mice. Aquaglyceroporin expression levels were determined in mesenteric arteries following periods of dehydration, reduced water intake, and glycerol supplementation, in C57BL/6J and AQP9−/− mice. Summary of Results: Preliminary results indicate that water deprivation for 48 hours increases the expression of AQP7 in mouse mesenteric arteries, compared to controls, whereas 28 days of reduced water intake results in an elevation in AQP9 expression. Glycerol supplementation for 7 days, also results in elevated AQP7 expression levels, whereas, in contrast, AQP7 expression is not elevated in mesenteric arteries isolated from ovariectomized females. mice, with a concurrent increase in mesenteric artery glycerol content. AQP9−/− mice have higher plasma glycerol levels compared to controls, however, dehydration-mediated elevation in AQP7 expression is not attenuated by AQP9 KO. Conclusions: The study concludes that mice exhibit differential responses to short-term and long-term alterations in water intake, with changes in the expression of aquaglyceroporins in resistance-sized arteries, potentially increasing glycerol uptake into VSMCs providing an energy source during periods of water scarcity. This work was supported by American Heart Association AIREA grant number 947620. This is the full abstract presented at the American Physiology Summit 2024 meeting and is only available in HTML format. There are no additional versions or additional content available for this abstract. Physiology was not involved in the peer review process.
+
+The effects of hydration status on cardiovascular system: a review
+
+Number of 
+
+Key takeaways:High intake of water may reduce the risk of cardiovascular diseases, but more research is needed to confirm these associations.
+
+Abstract:Fluid balance is essential for life. Some studies have shown an association between high intake of water and a low risk of cardiovascular diseases. However, the evidence is insufficient or inconsistent to draw substantial conclusions. The author's objective was to review previous studies addressing the influence of drinking water and hydration status on the cardiovascular system. The PubMed and Google Scholar databases were searched using relevant terms. Animal and human studies in the English language which were highly relevant to the topic were selected and summarized. Drinking about half a liter of water rapidly raises sympathetic activity as much as classic sympathetic stimuli such as caffeine and increases plasma norepinephrine leading to peripheral vasoconstriction. However, cardiac vagal tone enhancement with water ingestion buffers the pressor effects of sympathetic activation. Dehydration leads to mild hypernatremia which gradually causes changes such as increased blood viscosity, hemoconcentration, inflammatory signals, platelet activation and aggregation, adhesive properties of endothelial cells, thrombogenesis, and so on, all of which are harmful to the cardiovascular system. Overhydration can result in water intoxication and increase coagulability. Both dehydration and overhydration are associated with several adverse effects on the cardiovascular system. However, the data regarding how much water can reduce the risk of heart disease is limited and the results are also controversial. More research is needed to confirm the observed associations between hydration status and cardiovascular diseases.
+
+The prevalence of chronic dehydration and associated with cardiometabolic risks among agriculture and aquaculture workers
+
+Number of 
+
+Key takeaways:Chronic dehydration is prevalent in Taiwanese agriculture and aquaculture workers, and is significantly associated with cardiometabolic risks and unhealthy lifestyles.
+
+Abstract:Background Chronic dehydration is associated with complications and mortality in acute ischemic stroke patients. Prior literature indicates that farmers and fishery workers are commonly affected by cardiometabolic diseases and there is a need for early prevention of stroke. This study explores the prevalence of dehydration and the association of cardiometabolic risk profiles in agricultural and aquaculture workers. Methods We conducted a community-based, cross-sectional study of agriculture and aquaculture workers in Yunlin County of Taiwan between August 1 and December 31, 2021. Data on demographic characteristics and health-related lifestyles were collected through one-on-one interviews using a questionnaire. The threshold for dehydration is defined as serum osmolality ≥295 mOsm/kg, and physiological biomarkers were collected from a collaborating hospital. Multivariable logistic regression analyses adjusted for demographic characteristics were performed to investigate the association between dehydration levels, cardiometabolic risks, and health-related behaviors. Results A total of 962 Taiwanese agriculture and aquaculture workers who were predominantly women (65%) with a mean age of 64 years (SD = 13.8) were enrolled. The findings showed a high prevalence of dehydration (36%), metabolic syndrome (44.5%), abnormal waist circumference (64.4%), and abnormal blood pressure (68.5%). Multivariate logistic regression demonstrated that dehydration was significantly associated with metabolic syndrome (p < 0.001), 10-year stroke risk prediction (p < 0.001), and an unhealthy lifestyle (p < 0.001). Conclusion The prevalence of chronic dehydration was higher in Taiwanese agriculture and aquaculture workers, which was significantly associated with cardiometabolic risks and unhealthy lifestyles.
+
+Dehydration reduces stroke volume and cardiac output during exercise because of impaired cardiac filling and venous return, not left ventricular function
+
+Number of 
+
+Key takeaways:Dehydration during exercise reduces stroke volume and cardiac output due to impaired cardiac filling and venous return, not intrinsic systolic or diastolic LV function.
+
+Abstract:Dehydration accrued during intense prolonged whole‐body exercise in the heat compromises peripheral blood flow and cardiac output ( Q˙ ). A markedly reduced stroke volume (SV) is a key feature of the dehydration‐induced cardiovascular strain, but whether the lower output of the heart is mediated by peripheral or cardiac factors remains unknown. Therefore, we repeatedly quantified left ventricular (LV) volumes, LV mechanics (LV twist, a marker of systolic muscle function, and LV untwisting rate, an independent marker of LV muscle relaxation), left intra‐ventricular pressure gradients, blood volume and peripheral blood flow during 2 hr of cycling in the heat with and without dehydration (DEH: 4.0 ± 0.2% body mass loss and EUH: euhydration control, respectively) in eight participants (three females and five males). While brachial and carotid blood flow, blood volume, SV, LV end‐diastolic volume (LVEDV), cardiac filling time, systemic vascular conductance and Q˙ were reduced in DEH compared to EUH after 2 hr, LV twist and untwisting rate tended to be higher (p = .09 and .06, respectively) and intra‐ventricular pressure gradients were not different between the two conditions (p = .22). Furthermore, LVEDV in DEH correlated strongly with blood volume (r = .995, p < .01), head and forearms beat volume (r = .98, p < .05), and diastolic LV filling time (r = .98, p < .05). These findings suggest that the decline in SV underpinning the blunted Q˙ with exercise‐induced dehydration is caused by compromised LV filling and venous return, but not intrinsic systolic or diastolic LV function.
+
+Dehydration markedly impairs cardiovascular function in hyperthermic endurance athletes during exercise.
+
+Number of 
+
+Key takeaways:Superimposing dehydration on hyperthermia during exercise in the heat significantly impairs cardiovascular function, making dehydrated athletes less able to cope with hyperthermia.
+
+Abstract:We identified the cardiovascular stress encountered by superimposing dehydration on hyperthermia during exercise in the heat and the mechanisms contributing to the dehydration-mediated stroke volume (SV) reduction. Fifteen endurance-trained cyclists exercised in the heat for 100-120 min and either became dehydrated by 4% body weight or remained euhydrated by drinking fluids. Measurements were made after they continued exercise at 71% VO2max for 30 min while 1) euhydrated with an esophageal temperature (T(es)) of 38.1-38.3 degrees C (control); 2) euhydrated and hyperthermic (39.3 degrees C); 3) dehydrated and hyperthermic with skin temperature (T(sk)) of 34 degrees C; 4) dehydrated with T(es) of 38.1 degrees C and T(sk) of 21 degrees C; and 5) condition 4 followed by restored blood volume. Compared with control, hyperthermia (1 degrees C T(es) increase) and dehydration (4% body weight loss) each separately lowered SV 7-8% (11 +/- 3 ml/beat; P < 0.05) and increased heart rate sufficiently to prevent significant declines in cardiac output. However, when dehydration was superimposed on hyperthermia, the reductions in SV were significantly (P < 0.05) greater (26 +/- 3 ml/beat), and cardiac output declined 13% (2.8 +/- 0.3 l/min). Furthermore, mean arterial pressure declined 5 +/- 2%, and systemic vascular resistance increased 10 +/- 3% (both P < 0.05). When hyperthermia was prevented, all of the decline in SV with dehydration was due to reduced blood volume (approximately 200 ml). These results demonstrate that the superimposition of dehydration on hyperthermia during exercise in the heat causes an inability to maintain cardiac output and blood pressure that makes the dehydrated athlete less able to cope with hyperthermia.
+
+Free‐living, continuous hypo‐hydration, and cardiovascular response to exercise in a heated environment
+
+Number of 
+
+Key takeaways:Chronic dehydration alters weight, blood, and urine markers of hydration, and heart rate response during exercise, with resting cardiovascular health playing a role in heat dissipation.
+
+Abstract:Chronic dehydration (DEH) and heat stress combined with poor cardiovascular (CV) health may influence physiological responses to exercise. We examined the effects of free‐living induced hypo‐hydration on physiological responses to exercise in a heated environment and whether resting CV health is related to these changes. Participants (N = 16, 20.6 ± 1.2 years) were randomized to 3 days of voluntary fluid restriction (DEH) or intake (hydration ) followed by an exercise bout. CV health was assessed by flow‐mediated dilation (FMD), pulse wave analysis, and heart rate variability (HRV). HYD was assessed by weight, urine color, and specific gravity (USG). Exercise trials were conducted in a heated environment (30.3 ± 0.8°C, 27.4 ± 7.4% RH) on a cycle ergometer for 30 min. Heart rate (HR), weighted skin (Tsk) and mean body temperature (Tb) and skin blood flow (SBF) were assessed during exercise. Pre‐exercise weight (P < 0.005), urine color, and USG (P < 0.001) were different in between trials. HR was greater in DEH (153 ± 26 bpm) versus HYD (144 ± 23 bpm, P = 0.02) after exercise. No group differences were found, but a time interaction P < 0.001) for all temperature responses and time‐by‐trial interaction for Tre (P < 0.01) and Tsk (P < 0.001) was observed. Greater changes in Tre (P = 0.02) and Tsk (P < 0.01) were associated with increased FMD. Free‐living, continuous DEH alters weight, blood, and urine markers of HYD as well as HR response during exercise. Resting CV health was related to increased change in Tre and Tsk, suggesting CV health plays a role in the mechanism of heat dissipation when DEH even in college‐age men and women.
+
+Influence of graded dehydration on hyperthermia and cardiovascular drift during exercise.
+
+Number of 
+
+Key takeaways:The increase in core temperature, heart rate, and decline in stroke volume during exercise are proportional to the amount of dehydration experienced.
+
+Abstract:This investigation determined the effect of different rates of dehydration, induced by ingesting different volumes of fluid during prolonged exercise, on hyperthermia, heart rate (HR), and stroke volume (SV). On four different occasions, eight endurance-trained cyclists cycled at a power output equal to 62-67% maximal O2 consumption for 2 h in a warm environment (33 degrees C dry bulb, 50% relative humidity, wind speed 2.5 m/s). During exercise, they randomly received no fluid (NF) or ingested a small (SF), moderate (MF), or large (LF) volume of fluid that replaced 20 +/- 1, 48 +/- 1, and 81 +/- 2%, respectively, of the fluid lost in sweat during exercise. The protocol resulted in graded magnitudes of dehydration as body weight declined 4.2 +/- 0.1, 3.4 +/- 0.1, 2.3 +/- 0.1, and 1.1 +/- 0.1%, respectively, during NF, SF, MF, and LF. After 2 h of exercise, esophageal temperature (Tes), HR, and SV were significantly different among the four trials (P < 0.05), with the exception of NF and SF. The magnitude of dehydration accrued after 2 h of exercise in the four trials was linearly related with the increase in Tes (r = 0.98, P < 0.02), the increase in HR (r = 0.99, P < 0.01), and the decline in SV (r = 0.99, P < 0.01). LF attenuated hyperthermia, apparently because of higher skin blood flow, inasmuch as forearm blood flow was 20-22% higher than during SF and NF at 105 min (P < 0.05). There were no differences in sweat rate among the four trials. In each subject, the increase in Tes from 20 to 120 min of exercise was highly correlated to the increase in serum osmolality (r = 0.81-0.98, P < 0.02-0.19) and the increase in serum sodium concentration (r = 0.87-0.99, P < 0.01-0.13) from 5 to 120 min of exercise. In summary, the magnitude of increase in core temperature and HR and the decline in SV are graded in proportion to the amount of dehydration accrued during exercise.
+
+New Insights Into the Impact of Dehydration on Blood Flow and Metabolism During Exercise.
+
+Number of 
+
+Key takeaways:Dehydration during exercise impairs regional blood flow and metabolism, with the greatest strain seen when approaching cardiovascular and aerobic capacities.
+
+Abstract:Exercise-induced dehydration can lead to impaired perfusion to multiple regional tissues and organs. We propose that the impact of dehydration on regional blood flow and metabolism is dependent on the extent of the cardiovascular demand imposed by exercise, with the greatest physiological strain seen when approaching cardiovascular and aerobic capacities.
+
+PS 05-47 THE FLUID OVERLOAD ASSESSED BY BIOIMPEDANCE ANALYSIS IS SIGNIFICANTLY ASSOCIATED WITH NOT ONLY ARTERIAL STIFFNESS BUT ALSO VASCULAR CALCIFICATION IN PATIENTS WITH HYPERTENSION
+
+Number of 
+
+Key takeaways:Overhydration is significantly associated with increased cardiovascular risk in hypertensive patients, with increased risk of coronary calcium score, carotid intima-media thickness, and pulse-wave velocity.
+
+Abstract:Objective: The overhydration (OH) is independently associated with vascular dysfunction and established risk factors for cardiovascular morbidity and mortality in chronic kidney disease patients. However, the effect of OH on the cardiovascular risks in hypertensive patients with relatively preserved renal function was not fully investigated. The aim of this study is to elucidate the relationship between OH and the cardiovascular surrogates in hypertensive patients. Design and Method: Hypertensive (n = 295) and pre-hypertensive with the family history of cardiovascular events (n = 96) patients from the Cardiovascular and Metabolic Disease Etiology Research Center–High Risk Cohort (CMERC-HI, NCT02003781) are eligible in present study. Fluid status was measured by bioimpedance analysis and OH was defined by using the ratio of extracellular water to total body water (ECW/TBW, OH group: ECW/TBW ≥ 0.39). Results: OH more frequently observed in hypertensive patients than pre-hypertensive patients as a control group (202 vs. 9 , P < 0.001). The mean age of the study subjects with hypertension was 60.0 ± 11.8, and 159 (59.3%) patients were male. Coronary calcium score (CCS, 79 vs. 18 , P < 0.001), carotid intima-media thickness (CIMT, 0.79 ± 0.18 vs. 0.75 ± 0.15 mm, P = 0.038), and pulse-wave velocity (PWV, 1628 ± 341 vs. 1483 ± 269 cm/sec, P < 0.001) were significantly higher in OH group compared to the non-OH group. The ECW/TBW was positively correlated to 24-hr daytime and nighttime pulse pressure (day: r = 0.123, P = 0.034; night: r = 0.205, P < 0.001), PWV (r = 0.290, P < 0.001), and CCS (r = 0.198, P = 0.001). Meanwhile, 24-hr diastolic blood pressure (all day , daytime , and nighttime ), hemoglobin (r = −0.431, P < 0.001), and serum albumin (r = −0.184, P = 0.002) showed a negative correlation with ECW/TBW. Conclusions: Hypertensive patients were much prevalent OH than pre-hypertensive patients. Even though in hypertensive patients with normal renal function, OH is significantly associated with the surrogates of cardiovascular risks. Present study suggests that the strict control of OH could be more helpful to reduce the cardiovascular risks in these individuals.
+
+Antidiuretic hormone and serum osmolarity physiology and related outcomes: What is old, what is new and what is unknown?
+
+Number of 
+
+Key takeaways:Elevated osmolarity, AVP, copeptin, and dehydration are associated with worse outcomes in chronic kidney disease, diabetes, and heart failure, and fluid intake may affect these relationships.
+
+Abstract:CONTEXT
+Although the physiology of sodium, water and arginine vasopressin (AVP), also known as antidiuretic hormone (ADH), has long been known, accumulating data suggest that this system operates as a more complex network than previously thought.
+
+EVIDENCE ACQUISITION
+English-language basic science and clinical studies of AVP and osmolarity on the development of kidney and cardiovascular disease and overall outcomes.
+
+EVIDENCE SYNTHESIS
+Apart from osmoreceptors and hypovolemia, AVP secretion is modified by novel factors such as tongue acid-sensing taste receptor cells and brain median preoptic nucleus neurons. Moreover, pharyngeal, esophageal, and/or gastric sensors and gut microbiota modulate AVP secretion. Evidence is accumulating that increased osmolarity, AVP, copeptin and dehydration are all associated with worse outcomes in chronic disease states such as chronic kidney disease (CKD), diabetes and heart failure. On the basis of these pathophysiological relationships, an AVP receptor 2 blocker is now licensed for CKD related to polycystic kidney disease.
+
+CONCLUSION
+From a therapeutic perspective, fluid intake may be associated with increased AVP secretion if it is driven by loss of urine concentration capacity or with suppressed AVP if it is driven by voluntary fluid intake. In the current review we summarized the literature on the relationship between elevated osmolarity, AVP, copeptin and dehydration with renal and cardiovascular outcomes and underlying classical and novel pathophysiologic pathways. We also review recent unexpected and contrasting findings regarding AVP physiology in an attempt to explain and understand some of these relationships.
+
+Current Hydration Habits: The Disregarded Factor for the Development of Renal and Cardiometabolic Diseases
+
+Number of 
+
+Key takeaways:Improper hydration habits, such as underhydration and sugar-sweetened beverage consumption, are a risk factor for chronic kidney and cardiovascular diseases.
+
+Abstract:Improper hydration habits are commonly disregarded as a risk factor for the development of chronic diseases. Consuming an intake of water below recommendations (underhydration) in addition to the substitution of sugar-sweetened beverages (SSB) for water are habits deeply ingrained in several countries. This behavior is due to voluntary and involuntary dehydration; and because young children are exposed to SSB, the preference for a sweet taste is profoundly implanted in the brain. Underhydration and SSB intake lead to mild hyperosmolarity, which stimulates biologic processes, such as the stimulation of vasopressin and the polyol-fructose pathway, which restore osmolarity to normal but at the expense of the continued activation of these biological systems. Unfortunately, chronic activation of the vasopressin and polyol-fructose pathways has been shown to mediate many diseases, such as obesity, diabetes, metabolic syndrome, chronic kidney disease, and cardiovascular disease. It is therefore urgent that we encourage educational and promotional campaigns that promote the evaluation of personal hydration status, a greater intake of potable water, and a reduction or complete halting of the drinking of SSB.
+
+Hydration and Disease
+
+Number of 
+
+Key takeaways:Good hydration status may improve treatment outcomes for various diseases, including urinary tract infections, constipation, hypertension, and various broncho-pulmonary disorders.
+
+Abstract:Many diseases have multifactorial origins. There is increasing evidence that mild dehydration plays a role in the development of various morbidities. In this review, effects of hydration status on acute and chronic diseases are depicted (excluding the acute effects of mild dehydration on exercise performance, wellness, cognitive function, and mental performance) and categorized according to four categories of evidence (I–IV). Avoidance of a high fluid intake as a precautionary measure may be indicated in patients with cardiovascular disorders, pronounced chronic renal failure (III), hypoalbuminemia, endocrinopathies, or in tumor patients with cisplatin therapy (IIb) and menace of water intoxication. Acute systemic mild hypohydration or dehydration may be a pathogenic factor in oligohydramnios (IIa), prolonged labor (IIa), cystic fibrosis (III), hypertonic dehydration (III), and renal toxicity of xenobiotica (Ib). Maintaining good hydration status has been shown to positively affect urolithiasis (Ib) and may be beneficial in treating urinary tract infection (IIb), constipation (III), hypertension (III), venous thromboembolism (III), fatal coronary heart disease (III), stroke (III), dental disease (IV), hyperosmolar hyperglycemic diabetic ketoacidosis (IIb), gallstone disease (III), mitral valve prolapse (IIb), and glaucoma (III). Local mild hypohydration or dehydration may play a critical role in the pathogenesis of several broncho-pulmonary disorders like exercise asthma (IIb) or cystic fibrosis (Ib). In bladder and colon cancers, the evidence on hydration status’ effects is inconsistent.
+
+Dehydration in older people: A systematic review of the effects of dehydration on health outcomes, healthcare costs and cognitive performance.
+
+Number of 
+
+Key takeaways:Dehydration in older adults is linked to increased mortality, poorer health outcomes, and increased healthcare costs, with some evidence linking it to poorer cognitive performance.
+
+A Comprehensive Review to Determine the Effect of Dehydration on Various Health Conditions
+
+Number of 
+
+Key takeaways:Dehydration can have complex effects on various health parameters, including exercise tolerance, cardiovascular health, cognitive function, and musculoskeletal function.
+
+Abstract:Introduction: The effects of dehydration on medical ailments have significant relevance to physiotherapy, as it impacts multiple facets of patient care including pain management, joint health, muscular function, recuperation, and cognitive function. To enhance patient results and promote overall well-being, physiotherapists need to incorporate considerations of hydration status into their therapy approach. Dehydration is the state in which the body loses more fluid than it takes in, which throws off electrolyte balance and impairs biological processes. Aim: To review the imbalance which may cause minor to severe health consequences depending on the level of dehydration and personal variables. Materials and Methods: Commencing with PubMed, and Google Scholar, the 
+
+Chronic Dehydration in Nursing Home Residents
+
+Number of 
+
+Key takeaways:Chronic dehydration in nursing home residents is associated with dementia and higher BMI, but not with inferior vena cava or IVC-CI, suggesting a need for strategies to prevent dehydration.
+
+Abstract:Chronic dehydration mainly occurs due to insufficient fluid intake over a lengthy period of time, and nursing home residents are thought to be at high risk for chronic dehydration. However, few studies have investigated chronic dehydration, and new diagnostic methods are needed. Therefore, in this study, we aimed to identify risk factors for chronic dehydration by measuring serum osmolality in nursing home residents and also to evaluate whether examining the inferior vena cava (IVC) and determining the IVC collapsibility index (IVC-CI) by ultrasound can be helpful in the diagnosis of chronic dehydration. A total of 108 Japanese nursing home residents aged ≥65 years were recruited. IVC measurement was performed using a portable handheld ultrasound device. Fifteen residents (16.9%) were classified as having chronic dehydration (serum osmolality ≥295 mOsm/kg). Multivariate logistic regression analysis showed that chronic dehydration was associated with dementia (odds ratio (OR), 6.290; 95% confidential interval (CI), 1.270–31.154) and higher BMI (OR, 1.471; 95% CI, 1.105–1.958) but not with IVC or IVC-CI. Cognitive function and body weight of residents should be considered when establishing a strategy for preventing chronic dehydration in nursing homes.
+
+Mechanisms by Which Dehydration May Lead to Chronic Kidney Disease
+
+Number of 
+
+Key takeaways:Mild dehydration may be a risk factor in the progression of chronic kidney diseases, and increasing hydration may help prevent CKD.
+
+Abstract:Dehydration, a condition that characterizes excessive loss of body water, is well known to be associated with acute renal dysfunction; however, it has largely been considered reversible and to be associated with no long-term effects on the kidney. Recently, an epidemic of chronic kidney disease has emerged in Central America in which the major risk factor seems to be recurrent heat-associated dehydration. This has led to studies investigating whether recurrent dehydration may lead to permanent kidney damage. Three major potential mechanisms have been identified, including the effects of vasopressin on the kidney, the activation of the aldose reductase-fructokinase pathway, and the effects of chronic hyperuricemia. The discovery of these pathways has also led to the recognition that mild dehydration may be a risk factor in progression of all types of chronic kidney diseases. Furthermore, there is some evidence that increasing hydration, particularly with water, may actually prevent CKD. Thus, a whole new area of investigation is developing that focuses on the role of water and osmolarity and their influence on kidney function and health.
+
+Effects of dehydration during cycling on skeletal muscle metabolism in females.
+
+Number of 
+
+Key takeaways:Progressive dehydration during cycling significantly increases heart rate, core temperature, and muscle glycogenolysis, with these changes already apparent in the first hour of exercise.
+
+Abstract:INTRODUCTION
+This study investigated the effects of progressive dehydration on the time course of changes to whole body substrate oxidation and skeletal muscle metabolism during 120 min of cycling in hydrated females.
+
+METHODS
+Subjects (n = 9) cycled for 120 min at approximately 65% VO(2peak) on two occasions: with no fluid (DEH) and with fluid (HYD) replacement to match sweat losses. Venous blood samples were taken at rest and every 20 min and muscle biopsies taken at 0, 60, and 120 min of exercise.
+
+RESULTS
+DEH subjects lost 0.9% body mass from 0 to 60 min and 1.1% from 60 to 120 min (2.0% total). HR and core temperature (Tc) were significantly greater from 30 to 120 min, plasma volume (Pvol) loss from 40 to 120 min, and RPE from 60 to 120 min in the DEH trial. There were no differences in VO(2) or sweat loss between trials. RER (HYD, 0.85 ± 0.01, vs. DEH, 0.87 ± 0.01) and total CHO oxidation (175 ± 17 vs. 191 ± 17 g) were higher in the DEH trial. Blood (La) was significantly higher in the DEH trial, with no change in plasma free fatty acid and epinephrine concentrations. Muscle glycogenolysis was 31% greater in the DEH trial (252 ± 49 vs. 330 ± 33 mmol.kg(-1) dry muscle), and muscle (La) was also higher at 60 min.
+
+CONCLUSION
+Progressive dehydration significantly increased HR, Tc, RPE, Pvol loss, whole body CHO oxidation, and muscle glycogenolysis, and these changes were already apparent in the first hour of exercise when body mass losses were ≤ 1%. The increased muscle glycogenolysis with DEH appeared to be due to increased core and muscle temperature, secondary to less efficient movement of heat from the core to the periphery.
+
+Water deprivation induces a systemic pro-catabolic state that differentially affects oxidative and glycolytic skeletal muscles in male mice.
+
+Number of 
+
+Key takeaways:Short-term water deprivation in male mice leads to a pro-catabolic state, depleting protein content in skeletal muscles, but skeletal muscle may respond differently based on its phenotype and adapt for a limited time.
+
+Abstract:Dehydration, characterized by the loss of total body water and/or electrolytes due to diseases or inadequate fluid intake, is prevalent globally but often underestimated. Its contribution to long-term chronic diseases and sarcopenia is recognized, yet the mechanisms involved in systemic and muscle protein metabolism during dehydration remain unclear. This study investigated metabolic adaptations in a 36-hour water deprivation (WD) model of mice. Male C57BL/6 mice underwent 36-h WD or pair-feeding at rest, with assessments of motor skills along with biochemical, and metabolic parameters. Dehydration was confirmed by hypernatremia, body mass loss, hyporexia, and increased activity of vasopressinergic and oxytocinergic neurons compared to controls. These results were associated with liver mass loss, decreased glycaemia, and increased cholesterolemia. Additionally, increased VO2 and a decreased respiratory exchange ratio indicated reduced carbohydrate consumption and potentially increased protein use during dehydration. Thus, skeletal muscle protein metabolism was evaluated due to its high protein content. In the oxidative muscles of the WD group, total and proteasomal proteolysis increased, which was associated with decreased Akt-mediated intracellular signaling. Interestingly, there was an increase in fiber cross-sectional area, likely due to higher muscle water content caused by increased intracellular osmolality induced by protein catabolism products. Conversely, no changes were observed in protein turnover or water content in glycolytic muscles. These findings suggest that short-term WD imposes a pro-catabolic state, depleting protein content in skeletal muscle. However, skeletal muscle may respond differently to dehydration based on its phenotype and might adapt for a limited time.
+
+Challenges of linking chronic dehydration and fluid consumption to health outcomes.
+
+Number of 
+
+Key takeaways:Increased water intake may reduce caloric intake for some individuals with obesity and type 2 diabetes, but more research is needed to confirm these findings.
+
+Abstract:The purpose of this article is to review the effects of chronic mild dehydration and fluid consumption on specific health outcomes including obesity. The electronic databases PubMed and Google Scholar were searched for relevant literature 
+
+The Effect of Acute Hypohydration on Indicators of Glycemic Regulation, Appetite, Metabolism and Stress: A Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:Acute hypohydration increases markers of catabolism but has a negligible effect on glycemic regulation, appetite, anabolism, and stress.
+
+Abstract:Evidence synthesizing the effects of acute body water losses on various markers of glycemic regulation, appetite, metabolism, and stress is lacking. Thus, the purpose of this review was to summarize the response of various hormonal changes involved in these physiologic functions to dehydration. A comprehensive literature search for peer-reviewed research in the databases PubMed, Scopus, CINAHL, and SportDiscus was conducted. Studies were included if they contained samples of adults (>18 years) and experimentally induced dehydration as measured by acute body mass loss. Twenty-one articles were eligible for inclusion. Findings suggested cortisol is significantly elevated with hypohydration (standard mean difference = 1.12, 95% CI , p < 0.0001). Testosterone was significantly lower in studies where hypohydration was accompanied by caloric restriction (SMD= −1.04, 95% CI , p = 0.02), however, there were no changes in testosterone in studies examining hypohydration alone (SMD = −0.17, 95% CI , p = 0.30). Insulin and ghrelin were unaffected by acute total body water losses. Acute hypohydration increases markers of catabolism but has a negligible effect on markers of glycemic regulation, appetite, anabolism and stress. Given the brevity of existing research, further research is needed to determine the impact of hydration on glucagon, leptin, peptide YY and the subsequent outcomes relevant to both health and performance.
+
+Alterations of local cerebral glucose utilization during chronic dehydration in rats
+
+Number of 
+
+Key takeaways:Chronic severe dehydration in rats stimulates metabolic activity in some brain structures, but many regions experience depressed metabolism.
+
+Age and sex influence the response in lipid metabolism of dehydrated Wistar rats
+
+Number of 
+
+Key takeaways:Dehydration in old rats leads to alterations in lipid metabolism, with females showing more lipolysis products and sexual dimorphism in hormonal responses.
+
+The Effects of Dehydration on Metabolic and Neuromuscular Functionality during Cycling
+
+Number of 
+
+Key takeaways:Dehydration during cycling increases heart rate and lowers neuromuscular activation, leading to decreased performance and increased fatigue.
+
+Abstract:This study aimed to determine the effects of dehydration on metabolic and neuromuscular functionality performance during a cycling exercise. Ten male subjects (age 23.4 ± 2.7 years; body weight 74.6 ± 10.4 kg; height 177.3 ± 4.6 cm) cycled at 65% VO2max for 60 min followed by a time-to-trial (TT) at 95% VO2max, in two different conditions: dehydration (DEH) and hydration (HYD). The bioelectrical impedance vector analysis (BIVA) and body weight measurements were performed to assess body fluid changes. Heart rate (HR), energy cost, minute ventilation, oxygen uptake, and metabolic power were evaluated during the experiments. In addition, neuromuscular activity of the vastus medialis and biceps femoris muscles were assessed by surface electromyography. After exercise induced dehydration, the bioimpedance vector significantly lengthens along the major axis of the BIVA graph, in conformity with the body weight change (−2%), that indicates a fluid loss. Metabolic and neuromuscular parameters significantly increased during TT at 95% VO2max with respect to constant workload at 65% of VO2max. Dehydration during a one-hour cycling test and subsequent TT caused a significant increase in HR, while neuromuscular function showed a lower muscle activation in dehydration conditions on both constant workload and on TT. Furthermore, a significant difference between HYD and DEH for TT duration was found.
+
+Dehydration affects cerebral blood flow but not its metabolic rate for oxygen during maximal exercise in trained humans
+
+Number of 
+
+Key takeaways:Dehydration impairs cerebral blood flow during high exercise intensities, but does not compromise the cerebral metabolic rate for oxygen in trained males.
+
+Abstract:Dehydration accrued during exercise in the heat challenges systemic and locomotor muscle blood flow, but its impact on cerebral blood flow (CBF) and metabolism remains unknown. This study assessed whether dehydration compromises CBF and the cerebral metabolic rate for oxygen (CMRO2) during incremental exercise to exhaustion in trained males. Dehydration induced an early reduction in CBF during progressive exercise, but increased O2 extraction secured CMRO2. In all hydration conditions declining CBF at high exercise intensities was correlated to decreasing arterial carbon dioxide tension and increasing jugular venous plasma noradrenaline. These results suggest that dehydration impairs CBF at high exercise intensities, but this circulatory strain on the human brain does not compromise CMRO2.
+
+Increased Hydration Can Be Associated with Weight Loss
+
+Number of 
+
+Key takeaways:Increased hydration can lead to weight loss and reduce the risk factors for obesity and type 2 diabetes.
+
+Abstract:This mini-review develops the hypothesis that increased hydration leads to body weight loss, mainly through a decrease in feeding, and a loss of fat, through increased lipolysis. The publications cited come from animal, mainly rodent, studies where manipulations of the central and/or the peripheral renin–angiotensin system lead to an increased drinking response and a decrease in body weight. This hypothesis derives from a broader association between chronic hypohydration (extracellular dehydration) and raised levels of the hormone angiotensin II (AngII) associated with many chronic diseases, such as obesity, diabetes, cancer, and cardiovascular disease. Proposed mechanisms to explain these effects involve an increase in metabolism due to hydration expanding cell volume. The results of these animal studies often can be applied to the humans. Human studies are consistent with this hypothesis for weight loss and for reducing the risk factors in the development of obesity and type 2 diabetes.
+
+THIRSTY FOR FRUCTOSE: Arginine Vasopressin, Fructose, and the Pathogenesis of Metabolic and Renal Disease
+
+Number of 
+
+Key takeaways:High fructose consumption and inadequate hydration can worsen metabolic syndrome symptoms and increase the risk of chronic kidney disease.
+
+Abstract:We review the pathways by which arginine vasopressin (AVP) and hydration influence the sequelae of the metabolic syndrome induced by high fructose consumption. AVP and inadequate hydration have been shown to worsen the severity of two phenotypes associated with metabolic syndrome induced by high fructose intake–enhanced lipogenesis and insulin resistance. These findings have implications for those who frequently consume sweeteners such as high fructose corn syrup (HFCS). Patients with metabolic syndrome are at higher risk for microalbuminuria and/or chronic kidney disease; however, it is difficult to discriminate the detrimental renal effects of the metabolic syndrome from those of hypertension, impaired glucose metabolism, and obesity. It is not surprising the prevalence of chronic renal insufficiency is growing hand in hand with obesity, insulin resistance, and metabolic syndrome in those who consume large amounts of fructose. Higher AVP levels and low hydration status worsen the renal insufficiency found in patients with metabolic syndrome. This inter-relationship has public health consequences, especially among underserved populations who perform physical labor in environments that place them at risk for dehydration. MesoAmerican endemic nephropathy is a type of chronic kidney disease highly prevalent in hot ambient climates from southwest Mexico through Latin America. There is growing evidence that this public health crisis is being spurred by greater fructose consumption in the face of dehydration and increased dehydration-dependent vasopressin secretion. Work is needed at unraveling the mechanism(s) by which fructose consumption and increased AVP levels can worsen the renal disease associated with components of the metabolic syndrome.
+
+Diabetes Mellitus and Fluid Imbalance: The Need for Adequate Hydration.
+
+Number of 
+
+Key takeaways:Adequate hydration is crucial for diabetic patients to prevent dehydration and electrolyte imbalances, which can be managed through adequate fluid intake and appropriate electrolyte composition.
+
+Abstract:The effect of hydration in modulating metabolic disease risk is a comparatively recent concept. Diabetic patients are at increased risk of dehydration due to osmotic diuresis. Undiagnosed or undertreated hyperglycemia may lead to electrolyte imbalance and elevated renal burden of glucose excretion, which may alter fluid reabsorption in the kidney. Also, the presence of one or more contributory factors, such as inadequate fluid intake, strenuous exercise, high temperatures, alcohol consumption, diarrhea, acute illnesses, fever, nausea, and vomiting, may put diabetic patients at increased risk of dehydration and electrolyte imbalance. Certain antidiabetic agents used by diabetic patients may cause fluid retention/deficits and/or electrolyte abnormalities in a few patients. Thus, drinking ample amounts of water and fluids with appropriate electrolyte composition is important to prevent dehydration. Successful management of dehydration in patients with diabetes is an unmet need and can best be accomplished by maintaining adequate hydration status.
+
+The Potential of Dehydrated Geniotrigona thoracica Stingless Bee Honey against Metabolic Syndrome in Rats Induced by a High-Carbohydrate, High-Fat Diet
+
+Number of 
+
+Key takeaways:Dehydrated Geniotrigona thoracica stingless bee honey shows potential as a preventive agent for metabolic syndrome, while raw stingless bee honey has more pronounced anti-MS effects in this study.
+
+Abstract:Background/Objectives: Metabolic syndrome (MS) is diagnosed when at least three out of five key risk factors are present: obesity, high blood pressure, insulin resistance, high triglycerides (TG) and low high-density lipoprotein (HDL). MS is often associated with chronic low-grade inflammation. Recent studies have shown that raw stingless bee honey (SBH) can alleviate MS risk factors. However, the high moisture content in raw SBH predisposes it to fermentation, which can degrade its quality. Therefore, dehydrating SBH is necessary to prevent the fermentation process. This study aimed to compare the effects of dehydrated (DeGT) and raw (RGT) SBH from Geniotrigona thoracica species on high-carbohydrate, high-fat diet (HCHF)-induced MS in rats. Methods: Twenty-four male Wistar rats were divided into four groups: control (C), HCHF-induced MS without treatment (MS), HCHF-induced MS treated with DeGT (MS+DeGT) and HCHF-induced MS treated with RGT (MS+RGT). Group C received standard rat chow, while the other groups were fed with HCHF diet for 16 weeks. In the final eight weeks, two HCHF-induced groups received their respective SBH treatments. Results: Both DeGT and RGT treatments reduced energy intake, fat mass, high blood pressure, inflammatory (tumour necrosis factor-alpha (TNF-α)) and obesity (the leptin/adiponectin (L/A) ratio, corticosterone, 11 beta-hydroxysteroid dehydrogenase type-1 (11βHSD1)) markers, as well as prevented histomorphometry changes (prevented adipocyte hypertrophy, increased the Bowman’s space area and glomerular atrophy). Additionally, DeGT increased serum HDL levels, while RGT reduced serum TG, leptin and other inflammatory markers (interleukin-6 (IL-6) and interleukin-1 beta (IL-1β)), as well as hepatosteatosis. Conclusions: While DeGT demonstrates potential as a preventive agent for MS, RGT exhibited more pronounced anti-MS effects in this study.
+
+Rehydration with soft drink-like beverages exacerbates dehydration and worsens dehydration-associated renal injury.
+
+Number of 
+
+Key takeaways:Rehydration with soft drinks worsens dehydration and exacerbates dehydration-associated renal damage, while stevia water has opposite effects.
+
+Abstract:Recurrent dehydration, such as commonly occurs with manual labor in tropical environments, has been recently shown to result in chronic kidney injury, likely through the effects of hyperosmolarity to activate both vasopressin and aldose reductase-fructokinase pathways. The observation that the latter pathway can be directly engaged by simple sugars (glucose and fructose) leads to the hypothesis that soft drinks (which contain these sugars) might worsen rather than benefit dehydration associated kidney disease. Recurrent dehydration was induced in rats by exposure to heat (36°C) for 1 h/24 h followed by access for 2 h to plain water (W), a 11% fructose-glucose solution (FG, same composition as typical soft drinks), or water sweetened with noncaloric stevia (ST). After 4 wk plasma and urine samples were collected, and kidneys were examined for oxidative stress, inflammation, and injury. Recurrent heat-induced dehydration with ad libitum water repletion resulted in plasma and urinary hyperosmolarity with stimulation of the vasopressin (copeptin) levels and resulted in mild tubular injury and renal oxidative stress. Rehydration with 11% FG solution, despite larger total fluid intake, resulted in greater dehydration (higher osmolarity and copeptin levels) and worse renal injury, with activation of aldose reductase and fructokinase, whereas rehydration with stevia water had opposite effects. In animals that are dehydrated, rehydration acutely with soft drinks worsens dehydration and exacerbates dehydration associated renal damage. These studies emphasize the danger of drinking soft drink-like beverages as an attempt to rehydrate following dehydration.
+
+Need for a consensus definition of chronic dehydration: A scoping review.
+
+Number of 
+
+Key takeaways:A consensus definition of chronic dehydration is needed to improve recognition and research efforts in older adults.
+
+Abstract:Dehydration is common in older adults and impacts their clinical outcomes. Chronic dehydration is especially important as it has been under-recognized. This scoping review aimed to summarize the available definitions of chronic dehydration to identify gaps between each definition and discuss future research needs. Four databases (Pubmed, CINAHL, Cochrane Library, Science Direct) were systematically searched for peer-reviewed articles that clearly described the definition of chronic dehydration published from inception to June 8th, 2023. Two researchers reviewed the articles independently, and any disagreement was solved upon discussion. We identified five articles with a wide range of subjects from children to older adults. Chronic dehydration was defined as a state of persistently elevated blood urea levels; weight loss ≥ 1% as a result of fluid loss; a ratio of blood urea nitrogen to creatinine > 20; serum osmolarity ≥ 295 mOsm/kg; and a dehydrated state lasting 72 hours or longer. The definition varied among studies, indicating the need to establish an international consensus on the definition of chronic dehydration.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

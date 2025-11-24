@@ -1,0 +1,576 @@
+PROTOCOL: Insufficient veggie and fiber intake
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Insufficient veggie and fiber intake - Insufficient consumption of vegetables and fiber as a key risk factor | Longevity Protocols
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: A deficiency of vegetables and fiber in the diet promotes the development of many chronic diseases, including cancers, intestinal disorders, and cardiovascular diseases. The lack of these nutrients leads to gut dysbiosis, chronic inflammation, and deterioration of metabolic parameters. Regularly including vegetables and fiber in the diet is essential for maintaining health and preventing disease.
+
+CONTENT SECTIONS:
+
+Insufficient veggie and fiber intake
+
+Insufficient consumption of vegetables and fiber as a key risk factor
+
+A deficiency of vegetables and fiber in the diet promotes the development of many chronic diseases, including cancers, intestinal disorders, and cardiovascular diseases. The lack of these nutrients leads to gut dysbiosis, chronic inflammation, and deterioration of metabolic parameters. Regularly including vegetables and fiber in the diet is essential for maintaining health and preventing disease.
+
+Level of evidence:Strong
+
+Lack of fiber causes slower intestinal transit, decreased stool volume, and increased risk of constipation and mucosal irritation. Insufficient substrates for the microbiota lead to dysbiosis, growth of pro-inflammatory bacteria, and reduced production of short-chain fatty acids. These changes intensify inflammation, disrupt gut barrier function, and promote the development of atherosclerosis and insulin resistance.
+
+Insufficient consumption of vegetables and fiber is associated with numerous adverse health consequences, confirmed by extensive epidemiological studies and meta-analyses. The lack of these components increases the risk of cardiovascular diseases, cancers, intestinal disorders, and inflammatory conditions.
+
+The problem of insufficient consumption of vegetables and fiber affects a significant portion of the global population, contributing to thousands of deaths and millions of disability-adjusted life years (DALYs) each year.
+
+Add vegetables to every meal
+
+Plan your plate so that half of it is filled with vegetables—raw, cooked, or stewed.
+
+Choose whole grain products
+
+Replace white bread, pasta, and rice with their whole grain counterparts to increase daily fiber intake.
+
+Add beans, lentils, or chickpeas to soups, salads, and one-pot dishes at least 2–3 times a week.
+
+Start your day with fruit and nuts
+
+For breakfast, choose oatmeal with fruit or yogurt with added nuts and seeds.
+
+Gradually increase fiber intake
+
+Introduce changes step by step, drink plenty of water, and observe your body's response to avoid digestive discomfort.
+
+Insufficient consumption of vegetables and fiber increases the risk of developing many cancers; regular intake of these components has a protective effect, especially in preventing colorectal and rectal cancer.
+
+Impact on cancer risk
+
+Impact of vegetables and fruits
+
+Mortality and prognosis
+
+Insufficient consumption of vegetables and fiber leads to impaired bowel function, gut microbiota dysbiosis, and increased risk of inflammatory bowel diseases and other gastrointestinal disorders.
+
+Bowel function regulation
+
+Risk of inflammatory bowel diseases
+
+Protection against cancer and other diseases
+
+Cardiovascular system
+
+Insufficient consumption of vegetables and fiber clearly increases the risk of cardiovascular diseases, including heart attack, stroke, and hypertension.
+
+Risk of heart disease and stroke
+
+Negative impact on risk factors
+
+Protective mechanisms
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:55
+
+Final comment:The impact of insufficient vegetable and fiber intake is confirmed by numerous meta-analyses, large prospective studies, and randomized controlled trials, which have shown consistent, statistically significant associations with the risk of colorectal cancer, cardiovascular diseases, intestinal disorders, and inflammatory conditions. The effects are observed in diverse populations, demonstrating high reliability and repeatability of results.
+
+Use of Dietary Fibers in Reducing the Risk of Several Cancer Types: An Umbrella Review
+
+Number of 
+
+Key takeaways:A high intake of dietary fiber is associated with a reduced risk of several types of cancer, with different protective effects on different cancers.
+
+Abstract:(1) Background: Numerous meta-analyses have shown that a high intake of dietary fiber plays a protective role in preventing the development of various types of cancer. However, previous studies have been limited by focusing on a single type of dietary fiber and variations in outcome measures, which may not be effectively applied to provide dietary guidance for the general population. (2) Object: We summarized the meta-analysis of dietary fiber and cancer, and provided references for residents to prevent cancer. (3) Methods: Systematic search of relevant meta-analyses on the association between dietary fiber and cancer occurrence in PubMed, Web of Science and other databases was conducted from the time of database construction to February 2023. The method logical and evidence quality assessments were performed by applying the criteria in the “A Measurement Tool to Assess Systematic Reviews-2” (AMSTAR2) scale and the World Cancer Research Fund/American Institute for Cancer Research (WCRF/AICR) Expert Report, respectively. (4) Results: Our analysis included 11 meta-analyses, and the AMSTAR 2 assessment revealed that the overall methodological quality was suboptimal, with two key items lacking sufficient information. Nonetheless, our findings indicate that a high intake of dietary fiber is associated with a reduced risk of several types of cancer, including esophageal, gastric, colon, rectal, colorectal adenoma, breast, endometrial, ovarian, renal cell, prostate, and pancreatic cancers. The majority of these associations were supported by a “probable” level of evidence. (5) Conclusions: Dietary fiber intake has different protective effects on different cancers.
+
+Burden of cancer attributable to insufficient vegetable, fruit and dietary fiber consumption in Japan in 2015.
+
+Number of 
+
+Key takeaways:Insufficient consumption of vegetables, fruit, and dietary fiber contributed to 0.2%, 0.1%, and 0.9% of all cancer incidence and mortality in Japan in 2015.
+
+Abstract:Consumption of vegetables, fruit and dietary fiber is closely associated with cancer incidence and mortality in the population, especially under conditions of insufficient consumption. We estimated the fraction of cancer incidence and mortality in 2015 attributable to insufficient consumption of vegetables, fruit and dietary fiber in the Japanese population. Consumption of vegetables, fruit and dietary fiber in grams per day, by sex and age group, is available for 2005 from the Japanese National Health and Nutrition Survey. Optimal consumption of vegetables and fruits for this study was assumed to be over 350g and 100g/day, respectively. Optimal consumption of dietary fiber was defined by age group according to the Dietary Reference consumption for Japanese. Population attributable fractions (PAFs) were estimated for each sex and age group according to a standard formula, and aggregated to obtain the PAF among total cancer incidence and mortality. Insufficient consumption of vegetables, fruit, and dietary fiber contributed 0.2%, 0.1% and 1.0% of all cancer incidence, and 0.2%, 0.1% and 0.9% of cancer mortality, respectively. The results of this study may provide useful evidence in reducing the cancer burden attributable to insufficient consumption of vegetables, fruit and dietary fiber in Japan.
+
+High and low dietary fiber consumption and cancer risk: a comprehensive umbrella review with meta-meta-analysis involving meta-analyses of observational epidemiological studies
+
+Number of 
+
+Key takeaways:Higher dietary fiber consumption is associated with a 22% lower cancer risk and a 17% lower cancer mortality, suggesting that a high-fiber diet may help prevent and manage cancer.
+
+Abstract:Abstract It is a well-known fact that dietary fiber is recognized as one of the essential components of a healthy diet. The aim of this paper was to investigate the impact of dietary fiber on the incidence and mortality of various types of cancer, the current evidence in this field, and the biases of this evidence using the meta-meta-analysis method. We identified meta-analyses that particularly focused on the association between dietary fiber consumption and the risk/mortality of cancer. A structured and comprehensive computer literature search was undertaken in the electronic databases PubMed/Medline, Web of Science (WoS), and Scopus. The search yielded a total of 25 papers and 28 reports. In the pooled analysis, higher dietary fiber consumption was associated with a 22% lower cancer risk (OR = 0.78, 95% CI: 0.74-0.83, p < 0.001) and a 17% lower mortality (RR = 0.83, 95% CI: 0.78-0.90, p < 0.001). In the secondary meta-meta-analysis, it was observed that there was an inverse association between dietary fiber intake and digestive tract cancers (OR = 0.68, 95% CI: 0.62-0.76) and breast cancer (OR = 0.92, 95% CI: 0.90-0.94). Taken together, this paper suggests that promoting a high-fiber diet may be an effective strategy for the prevention and management of cancer.
+
+Review of the role of dietary fiber in the prevention of colorectal cancer
+
+Number of 
+
+Key takeaways:High dietary fiber intake, particularly from fruits, vegetables, and whole grains, is associated with a reduced colorectal cancer risk.
+
+Abstract:Colorectal cancer (CRC) is one of the most prevalent types of cancers, whose etiology has been highly related to diet. High intake of dietary fiber has been found to favor the reduction of CRC risk, as deduced from a lot of studies. The aim of this review is to explore the role of fiber in CRC chemoprevention and to provide insight into the mechanisms underlying the reduced risk of this neoplasia associated with the consumption of fiber. In this work, the authors describe the state of the literature regarding the association between intake and CRC risk through presenting data from epidemiological investigations, clinical intervention studies, and molecular mechanisms. Data were assembled from studies like the European Prospective Investigation into Cancer and Nutrition (EPIC) and fiber supplementation studies to assess the role of dietary fiber on CRC. The analysis indicated that dietary fiber intake, particularly from fruit, vegetable, and whole grain sources, is inversely related to CRC risk. Most studies, such as meta-analyses and large cohort studies, presented the significantly reduced CRC incidence of the highest intake of fiber. The favorable benefits of fiber are attributed to various modes of mechanisms, including the modulation of gut microbiota, bile acid metabolism, and a reduction in oxidative stress. Dietary fiber might play a vital role in this regard and lower the risk of CRC through its effects on different biological pathways. Promotion of dietary fiber intake could be a key strategy for the prevention of CRC, especially via a balanced diet rich in fruits, vegetables, and whole grains. Public health initiatives that aim at increasing fiber intake should start early in life to prevent not only metabolic but also neoplastic diseases more influenced by dietary factors. However, fiber supplementation appears promising, although further large-scale studies will be required to establish its definite role in CRC chemoprevention.
+
+Fruit, vegetable, and fiber intake in relation to cancer risk: findings from the European Prospective Investigation into Cancer and Nutrition (EPIC).
+
+Number of 
+
+Key takeaways:Intake of fruit, vegetables, and fiber is associated with reduced risk of certain cancers, while no significant associations were found for other cancer sites.
+
+Abstract:Fruit, vegetables, and certain components of plant foods, such as fiber, have long been thought to protect against cancer. The European Prospective Investigation into Cancer and Nutrition (EPIC) is a prospective cohort that includes >500,000 participants from 10 European countries and has made a substantial contribution to knowledge in this research area. The purpose of this article is to summarize the findings published thus far from the EPIC study on the associations between fruit, vegetable, or fiber consumption and the risk of cancer at 14 different sites. The risk of cancers of the upper gastrointestinal tract was inversely associated with fruit intake but was not associated with vegetable intake. The risk of colorectal cancer was inversely associated with intakes of total fruit and vegetables and total fiber, and the risk of liver cancer was also inversely associated with the intake of total fiber. The risk of cancer of the lung was inversely associated with fruit intake but was not associated with vegetable intake; this association with fruit intake was restricted to smokers and might be influenced by residual confounding due to smoking. There was a borderline inverse association of fiber intake with breast cancer risk. For the other 9 cancer sites studied (stomach, biliary tract, pancreas, cervix, endometrium, prostate, kidney, bladder, and lymphoma) there were no reported significant associations of risk with intakes of total fruit, vegetables, or fiber.
+
+Genome-wide interaction study of dietary intake of fibre, fruits, and vegetables with risk of colorectal cancer
+
+Number of 
+
+Key takeaways:Two genetic variants, Rs4730274 and Rs1620977, modify the association between fiber and fruit intake and colorectal cancer risk.
+
+Dietary intake of total vegetable, fruit, cereal, soluble and insoluble fiber and risk of all-cause, cardiovascular, and cancer mortality: systematic review and dose–response meta-analysis of prospective cohort studies
+
+Number of 
+
+Key takeaways:Higher dietary fiber intake, including different types and food sources, is associated with lower risk of mortality from all-cause, cardiovascular, and cancer.
+
+Abstract:Objectives To conduct a systematic review and meta-analysis of prospective cohort studies to investigate the association between total, vegetable, fruit, cereal, soluble and insoluble fiber intake and risk of all causes, cardiovascular disease (CVD), and cancer mortality and quantitatively assess the dose–response relation. Methods Eligible studies were identified by searching PubMed, Embase and Web of science before August 2023. Random effects models were used to calculate summary relative risk (RR) and 95% confidence intervals (CI) and restricted cubic splines to model the linear/non-linear association. Results The summary RR for all-cause, CVD and cancer mortality of dietary fiber was 0.90 (95% CI: 0.86,0.93), 0.87 (0.84,0.91), 0.91 (0.88,0.93), respectively. Significant association was observed for all-cause and CVD mortality with fruit, vegetable cereal and soluble fiber intake and cancer mortality with cereal fiber intake. No significant association was found for insoluble fiber, vegetable or fruit fiber intake and cancer mortality. Dose-response analysis showed a significant non-linear relation of dietary fiber intake with all-cause mortality, and linear relation for others. Conclusions Higher dietary fiber including different type and food 
+
+Is dietary fibre truly protective against colon cancer? A systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Dietary fiber intake may play a protective role in reducing colon cancer risk, but more research is needed to confirm this finding.
+
+Abstract:Abstract Colorectal cancer is the third most common cancer worldwide. Growing evidence shows that about 47% of cases of colorectal cancer can be prevented by a healthy lifestyle. We performed a systematic review and meta-analysis aimed to evaluate the association between dietary fibre intake and the risk of colon cancer. We performed a structured computer search on PubMed, including epidemiological studies reporting results of dietary fibre intake and risk of colon cancer in women or men. We compared subjects exposed to the highest versus the lowest consumption. The search strategy identified 376 papers. After screening, 25 datasets were included in our meta-analysis. Results suggest a protective role of dietary fibre intake on colon cancer risk ES = 0.74 (95% CI = 0.67–0.82), p value = .000, but, moderate statistical heterogeneity (χ2 = 42.73, p value = .011) was found. Due to the high mortality of colorectal cancer, it is important to identify effective preventive measures, especially those of a healthy lifestyle, such as a healthy diet.
+
+Co-consumption of Vegetables and Fruit, Whole Grains, and Fiber Reduces the Cancer Risk of Red and Processed Meat in a Large Prospective Cohort of Adults from Alberta’s Tomorrow Project
+
+Number of 
+
+Key takeaways:High intake of vegetables and fruit with low processed meat intake reduces the cancer risk and accelerated time-to-cancer occurrence in adults.
+
+Abstract:We examined whether co-consumption of red and processed meat with key foods items and food constituents recommended for cancer prevention (vegetables and fruit, whole grains, and fiber) mitigates cancer incidence. In a prospective cohort of 26,218 adults aged 35–69 years at baseline, dietary intake was collected through 124-item past-year food frequency questionnaire. Incidence of all-cause and 15 cancers previously linked to red and processed meat intake was obtained through data linkage with a cancer registry (average follow-up 13.5 years). Competing risk Cox Proportional Hazard models estimated cancer risk and Accelerated Failure Time models estimated time-to-cancer occurrence for different combinations of intake levels while considering mortality from vital statistics and established confounders. Co-consumption of low vegetables and fruit intake with high processed meat was associated with higher incidence of all-cause and 15 cancers (men: HR = 1.85, 1.91; women: HR = 1.44, 1.49) and accelerated time-to-cancer occurrence (men: 6.5 and 7.1 years and women: 5.6 and 6.3 years, respectively), compared to high vegetables and fruit with low processed meat intake. Less pronounced and less consistent associations were observed for whole grains and fiber and for red meat. The findings provide initial evidence toward refining existing cancer prevention recommendations to optimize the intake and combination of foods in the general adult population.
+
+Dietary fibre intake is associated with reduced risk of lung cancer: a Japan public health centre-based prospective study (JPHC).
+
+Number of 
+
+Key takeaways:High intake of total dietary fiber and dietary fiber from vegetables may reduce lung cancer risk in men, but similar associations did not appear in women.
+
+Abstract:BACKGROUND
+Several epidemiological studies have been conducted to draw consistent conclusions regarding the effect of dietary fibre on lung diseases and lung cancer. However, the effect of dietary fibre on the incidence of lung cancer remains unclear in an Asian population.
+
+METHODS
+We investigated the association between the intake of total dietary fibre and dietary fibre from different food sources and lung cancer incidence in a Japan public health centre-based prospective study (JPHC). A total of 73 405 participants (33 012 men and 40 393 women) aged 45-74 years were eligible for our study. Cox proportional hazards models were used to calculate hazard ratios (HRs) and 95% confidence intervals (CIs).
+
+RESULTS
+During a median follow-up of 18.0 years, 1546 (1042 men and 504 women) newly diagnosed cases of lung cancer were ascertained. In the multivariable models, total dietary fibre intake was inversely associated with lung cancer risk in men, the HRs Q5 vs Q1 (95% CI) were 0.77 (0.62 to 0.94), P-trend = 0.020. Dietary fibre intake from vegetables was protectively associated with lung cancer risk in men . However, no such association was observed in women.
+
+CONCLUSIONS
+In men, a high intake of total dietary fibre may have preventive benefits for lung cancer incidence: dietary fibre intake from vegetables was associated with a lower incidence of lung cancer. However, similar associations did not appear in women. Further investigations are required to confirm the association between dietary fibre and lung cancer risk in women.
+
+Dietary fiber as a wide pillar of colorectal cancer prevention and adjuvant therapy
+
+Number of 
+
+Key takeaways:Dietary fiber intake from fruits and vegetables can help lower the incidence of colorectal cancer and may serve as an adjuvant therapy.
+
+Abstract:Abstract Colorectal cancer is the third most incident and second most lethal type of cancer worldwide. Lifestyle and dietary patterns are the key factors for higher disease development risk. The dietary fiber intake from fruits and vegetables, mainly formed by food hydrocolloids, can help to lower the incidence of this type of neoplasia. Different food polysaccharides have applications in anti-tumoral therapy, such as coadjuvant to mainstream drugs, carriage-like properties, or direct influence on tumoral cells. Some classes include inulin, β-glucans, pectins, fucoidans, alginates, mucilages, and gums. Therefore, it is fundamental to discuss colorectal cancer mechanisms and the roles played by different polysaccharides in intestinal health. Genetic, environmental, and immunological modulation of mutated pathways regarding colorectal cancer has been explored before. Microbial diversity, byproduct formation (primarily short-chain fatty acids), inflammatory profile control, and tumoral mutated pathways regulation are thoroughly explored mechanisms by which dietary fiber sources influence a healthy gut ambiance.
+
+Vegetable and Fruit Consumption and Prognosis Among Cancer Survivors: A Systematic Review and Meta-Analysis of Cohort Studies
+
+Number of 
+
+Key takeaways:High vegetable and fruit intake before diagnosis is associated with reduced overall mortality in head and neck and ovarian cancer survivors, suggesting a potential need for increased consumption recommendations.
+
+Abstract:ABSTRACT The number of cancer survivors is growing rapidly worldwide, especially long-term survivors. Although a healthy diet with a high vegetable and fruit consumption is a key factor in primary cancer prevention, there is a lack of specific dietary recommendations for cancer survivors, except in the case of breast cancer . We have therefore carried out a systematic review and meta-analysis of cohort studies reporting on the associations between vegetable and fruit intake with cancer recurrence and mortality and all-cause mortality in cancer patients. After a comprehensive search of PubMed and Scopus databases, the results of 28 selected articles were analyzed. A high vegetable intake before diagnosis was inversely associated with overall mortality in survivors of head and neck (HR: 0.75; 95% CI: 0.65, 0.87) and ovarian cancer (HR: 0.78; 95% CI: 0.66, 0.91). In ovarian cancer patients, prediagnosis fruit intake was also inversely associated with all-cause mortality (HR: 0.82; 95% CI: 0.70, 0.96). The evidence was insufficient for survivors of other cancers, although these associations generally tended to be protective. Therefore, more studies are needed to clarify the association between vegetable and fruit consumption and the prognosis of these different types of cancer. To date, the general recommendation to consume ≥5 servings of vegetables and fruit per day (∼400 g/d) could underestimate the needs of cancer survivors, particularly those with ovarian tumors, in which the recommendation could increase to ∼600 g/d (i.e., 300 g/d of vegetables and 300 g/d of fruit).
+
+The Role of Diet, Alcohol, BMI, and Physical Activity in Cancer Mortality: Summary Findings of the EPIC Study
+
+Number of 
+
+Key takeaways:Dietary factors like raw vegetable intake, fiber, and Mediterranean diets, along with physical activity and healthy lifestyle recommendations, can reduce cancer mortality risk.
+
+Abstract:Evidence on the impact of diet, alcohol, body-mass index (BMI), and physical activity on mortality due to cancer and other cancer-related outcomes is still scarce. Herein, we reviewed the contribution of the European Prospective Investigation into Cancer and Nutrition (EPIC) study to the current state of the art on the role of these factors in cancer mortality. We identified 45 studies using a rapid systematic review methodology. Dietary factors associated with reduced cancer mortality included raw vegetable intake; dietary fiber intake; the Mediterranean diet; other dietary scores; other diet patterns including low meat eaters, vegetarians/vegans, or fish eaters; dietary intake (or biomarkers) of some vitamins (e.g., vitamin D, vitamin K2, or Vitamin C); and intake of lignans. Physical activity and following healthy lifestyle recommendations also reduced cancer mortality risk. In contrast, dietary factors associated with higher cancer mortality risk included poor diet quality, consumption of alcohol and soft drinks including juice, and, to a lesser extent, intake of some fatty acids. Excess weight and obesity also increased the risk of cancer mortality. The EPIC study holds valuable information on diet and lifestyle factors and offers a unique opportunity to identify key diet-related factors for cancer mortality prevention.
+
+Cancer incidence attributable to insufficient fruit and vegetable consumption in Alberta in 2012.
+
+Number of 
+
+Key takeaways:Insufficient fruit and vegetable consumption is responsible for nearly 2% of cancer cases in Alberta in 2012, emphasizing the importance of meeting cancer prevention guidelines.
+
+Abstract:BACKGROUND
+Sufficient fruit and vegetable consumption (≥ 5 servings/d) has been associated with a probable decreased risk for cancers of the oral cavity, pharynx, larynx, esophagus, stomach and lung (fruit only). The purpose of this study was to estimate the proportion and absolute number of cancer cases in Alberta in 2012 that were attributable to insufficient fruit and vegetable consumption.
+
+METHODS
+The numbers and proportions of cancers attributable to insufficient fruit and vegetable consumption were estimated using the population attributable risk. Relative risks were obtained from international collaborative panels and peer-reviewed literature. Prevalence data for insufficient fruit and vegetable consumption in Alberta were obtained from the Canadian Community Health Survey (2003, 2004, 2005, 2007/08). Age-, site- and sex-specific cancer incidence data for 2012 were obtained from the Alberta Cancer Registry.
+
+RESULTS
+The proportion of men consuming 5 or more servings of fruits and vegetables per day ranged from 25.9%-30.4% across age groups; the range among women was 46.8%-51.5% across age groups. The proportion of cancers attributable to insufficient fruit and vegetable consumption in Alberta was highest for esophageal cancer (40.0%) and lowest for lung cancer (3.3%). Overall, 290 cancer cases (1.8%) in Alberta in 2012 were attributable to insufficient fruit and vegetable consumption.
+
+INTERPRETATION
+Almost 2% of cancers in Alberta can be attributed to insufficient fruit and vegetable consumption. A diet rich in fruits and vegetables has benefits for the prevention of cancer and other chronic diseases; thus, increasing the proportion of Albertans who meet cancer prevention guidelines for fruit and vegetable consumption is a priority.
+
+Cancer incidence attributable to insufficient fibre consumption in Alberta in 2012.
+
+Number of 
+
+Key takeaways:Insufficient fiber consumption accounted for 6.0% of colorectal cancers in Alberta in 2012, and increasing fiber consumption could potentially reduce the future burden of colorectal cancer in the province.
+
+Abstract:BACKGROUND
+Insufficient fibre consumption has been associated with a increased risk of colorectal cancer. The purpose of this study was to estimate the proportion and absolute number of cancers in Alberta that could be attributed to insufficient fibre consumption in 2012.
+
+METHODS
+The number and proportion of colorectal cancers in Alberta attributable to insufficient fibre consumption were estimated using the population attributable risk. Relative risks were obtained from the World Cancer Research Fund's 2011 Continuous Update Project on colorectal cancer, and the prevalence of insufficient fibre consumption (< 23 g/d) was estimated using dietary data from Alberta's Tomorrow Project. Age- and sex-specific colorectal cancer incidence data for 2012 were obtained from the Alberta Cancer Registry.
+
+RESULTS
+Between 66% and 67% of men and between 73% and 78% of women reported a diet with insufficient fibre consumption. Population attributable risk estimates for colorectal cancer were marginally higher in men, ranging from 6.3% to 6.8% across age groups, whereas in women they ranged from 5.0% to 5.5%. Overall, 6.0% of colorectal cancers or 0.7% of all cancers in Alberta in 2012 were estimated to be attributable to insufficient fibre consumption.
+
+INTERPRETATION
+Insufficient fibre consumption accounted for 6.0% of colorectal cancers in Alberta in 2012. Increasing fibre consumption in Alberta has the potential to reduce to the future burden of colorectal cancer in the province.
+
+Fiber Intake and Survival After Colorectal Cancer Diagnosis
+
+Number of 
+
+Key takeaways:Higher fiber intake after a nonmetastatic colorectal cancer diagnosis is associated with lower mortality rates.
+
+Abstract:Importance Although high dietary fiber intake has been associated with a lower risk of colorectal cancer (CRC), it remains unknown whether fiber benefits CRC survivors. Objective To assess the association of postdiagnostic fiber intake with mortality. Design, Setting, and Participants A total of 1575 health care professionals with stage I to III CRC were evaluated in 2 prospective cohorts, Nurses’ Health Study and Health Professionals Follow-up Study. Colorectal cancer–specific and overall mortality were determined after adjusting for other potential predictors for cancer survival. The study was conducted from December 23, 2016, to August 23, 2017. Exposures Consumption of total fiber and different sources of fiber and whole grains assessed by a validated food frequency questionnaire between 6 months and 4 years after CRC diagnosis. Main Outcomes and Measures Hazard ratios (HRs) and 95% CIs of CRC-specific and overall mortality after adjusting for other potential predictors for cancer survival. Results Of the 1575 participants, 963 (61.1%) were women; mean (SD) age was 68.6 (8.9) years. During a median of 8 years of follow-up, 773 deaths were documented, including 174 from CRC. High intake of total fiber after diagnosis was associated with lower mortality. The multivariable HR per each 5-g increment in intake per day was 0.78 (95% CI, 0.65-0.93; P = .006) for CRC-specific mortality and 0.86 (95% CI, 0.79-0.93; P < .001) for all-cause mortality. Patients who increased their fiber intake after diagnosis from levels before diagnosis had a lower mortality, and each 5-g/d increase in intake was associated with 18% lower CRC-specific mortality (95% CI, 7%-28%; P = .002) and 14% lower all-cause mortality (95% CI, 8%-19%; P < .001). According to the source of fiber, cereal fiber was associated with lower CRC-specific mortality (HR per 5-g/d increment, 0.67; 95% CI, 0.50-0.90; P = .007) and all-cause mortality (HR, 0.78; 95% CI, 0.68-0.90; P < .001); vegetable fiber was associated with lower all-cause mortality (HR, 0.83; 95% CI, 0.72-0.96; P = .009) but not CRC-specific mortality (HR, 0.82; 95% CI, 0.60-1.13; P = .22); no association was found for fruit fiber. Whole grain intake was associated with lower CRC-specific mortality (HR per 20-g/d increment, 0.72; 95% CI, 0.59-0.88; P = .002), and this beneficial association was attenuated after adjusting for fiber intake (HR, 0.77; 95% CI, 0.62-0.96; P = .02). Conclusions and Relevance Higher fiber intake after the diagnosis of nonmetastatic CRC is associated with lower CRC-specific and overall mortality. Increasing fiber consumption after diagnosis may confer additional benefits to patients with CRC.
+
+Fruit, vegetables, dietary fiber, and risk of colorectal cancer.
+
+Number of 
+
+Key takeaways:Very low fruit and vegetable consumption is associated with a higher risk of colorectal cancer, while relatively high cereal fiber consumption does not appear to lower the risk.
+
+Abstract:BACKGROUND
+Several recent large prospective cohort studies have failed to demonstrate the presumed protective effect of fruit, vegetable, and dietary fiber consumption on colorectal cancer risk. To further explore this issue, we have examined these associations in a population that consumes relatively low amounts of fruit and vegetables and high amounts of cereals.
+
+METHODS
+We examined data obtained from a food-frequency questionnaire used in a population-based prospective mammography screening study of women in central Sweden. Women with colorectal cancer diagnosed through December 31, 1998, were identified by linkage to regional cancer registries. Cox proportional hazards models were used to estimate relative risks. All statistical tests were two-sided.
+
+RESULTS
+During an average 9.6 years of follow-up of 61 463 women, we observed 460 incident cases of colorectal cancer (291 colon cancers, 159 rectal cancers, and 10 cancers at both sites). In the entire study population, total fruit and vegetable consumption was inversely associated with colorectal cancer risk. Subanalyses showed that this association was due largely to fruit consumption. The association was stronger, however, and the dose-response effect was more evident among individuals who consumed the lowest amounts of fruit and vegetables. Individuals who consumed less than 1.5 servings of fruit and vegetables per day had a relative risk for developing colorectal cancer of 1.65 (95% confidence interval = 1.23 to 2.20; P(trend) =.001) compared with individuals who consumed more than 2.5 servings. We observed no association between colorectal cancer risk and the consumption of cereal fiber, even at amounts substantially greater than previously examined, or of non-cereal fiber.
+
+CONCLUSIONS
+Individuals who consume very low amounts of fruit and vegetables have the greatest risk of colorectal cancer. Relatively high consumption of cereal fiber does not appear to lower the risk of colorectal cancer.
+
+Effects of dietary fiber on human health
+
+Number of 
+
+Key takeaways:Dietary fiber, found in fruits, vegetables, grains, and cereals, reduces the risk of obesity, diabetes, cancer, and intestinal diseases by improving water holding capacity, water swelling capacity, oil holding capacity, and cholesterol adsorption capacity.
+
+Therapeutic Benefits and Dietary Restrictions of Fiber Intake: A State of the Art Review
+
+Number of 
+
+Key takeaways:High-fiber foods, such as fruits, vegetables, and whole grains, provide numerous health benefits and reduce the risk of disease, but excessive fiber intake may cause diarrhea, dehydration, and bowel obstruction.
+
+Abstract:Throughout history, malnutrition and deficiency diseases have been a problem for our planet’s population. A balanced diet significantly influences everyone’s health, and fiber intake appears to play a more important role than previously thought. The natural dietary fibers are a category of carbohydrates in the constitution of plants that are not completely digested in the human intestine. High-fiber foods, such as fruits, vegetables and whole grains, have consistently been highly beneficial to health and effectively reduced the risk of disease. Although the mode of action of dietary fiber in the consumer body is not fully understood, nutritionists and health professionals unanimously recognize the therapeutic benefits. This paper presents the fiber consumption in different countries, the metabolism of fiber and the range of health benefits associated with fiber intake. In addition, the influence of fiber intake on the intestinal microbiome, metabolic diseases (obesity and diabetes), neurological aspects, cardiovascular diseases, autoimmune diseases and cancer prevention are discussed. Finally, dietary restrictions and excess fiber are addressed, which can cause episodes of diarrhea and dehydration and increase the likelihood of bloating and flatulence or even bowel obstruction. However, extensive studies are needed regarding the composition and required amount of fiber in relation to the metabolism of saprotrophic microorganisms from the enteral level and the benefits of the various pathologies with which they can be correlated.
+
+Dietary fiber intake and risk of hormonal receptor-defined breast cancer in the European Prospective Investigation into Cancer and Nutrition study.
+
+Number of 
+
+Key takeaways:Higher intake of dietary fiber, particularly from vegetables, may slightly reduce the risk of breast cancer, regardless of menopausal status.
+
+Abstract:BACKGROUND
+Limited scientific evidence has characterized the association between dietary fiber intake and risk of breast cancer (BC) by menopausal status and hormone receptor expression in tumors.
+
+OBJECTIVE
+We investigated the relation between total dietary fiber and its main food sources (vegetables, fruit, cereals, and legumes) and BC risk by using data from the European Prospective Investigation into Cancer and Nutrition (EPIC).
+
+DESIGN
+A total of 11,576 invasive BC cases in 334,849 EPIC women mostly aged 35-70 y at baseline were identified over a median follow-up of 11.5 y. Dietary fiber was estimated from country-specific dietary questionnaires. Multivariable Cox proportional hazards regression models were used to quantify the association between dietary variables and BC risk with energy adjustment by using the residual method. Subgroup analyses were performed by menopausal status and estrogen receptor (ER) and progesterone receptor (PR) expression in tumors.
+
+RESULTS
+BC risk was inversely associated with intakes of total dietary fiber and fiber from vegetables (0.90; 0.84, 0.96; P-trend < 0.01) but not with fiber from fruit, cereals, or legumes. Overall, associations were homogeneous by menopausal status and ER and PR expression in tumors. For vegetable fiber, stronger associations were observed for estrogen receptor-negative and progesterone receptor-negative (HR(Q5-Q1):0.74; 95% CI: 0.59, 0.93; P-trend = 0.01) than for estrogen receptor-positive and progesterone receptor-positive tumors (0.92: 0.81, 1.03; P-trend = 0.05), with P-heterogeneity = 0.09.
+
+CONCLUSION
+Diets rich in dietary fiber and, particularly, fiber from vegetables may be associated with a small reduction in risk of BC, independently of menopausal status.
+
+An In Vitro Study on the Effects of Selected Natural Dietary Fiber from Salad Vegetables for Lowering Intestinal Glucose and Lipid Absorption.
+
+Number of 
+
+Key takeaways:Natural dietary fiber from salad vegetables can reduce intestinal glucose and lipid absorption, potentially benefiting human health.
+
+Abstract:BACKGROUND
+Salad vegetables are good sources of dietary fiber and are becoming increasingly popular among consumers. Therefore, these plants have the potential to be developed as functional foods.
+
+OBJECTIVE
+Using an in vitro model, this study investigated the physical properties and intestinal glucose and lipid absorption capacities of dry dietary fiber from vegetables typically consumed in salads (types of lettuce, including red oak, red coral, green oak, butterhead, and cos).
+
+METHOD
+Fiber was prepared from each type of lettuce using an enzymatic method and then characterized. Physical properties, including solubility and water-binding, swelling, cation-exchange, and oil-binding capacities, and antihyperglycemic and antihypercholesterolemic effects of fiber were investigated.
+
+RESULTS
+The hydration capacity of total dietary fiber and insoluble fiber from the majority of sources was significantly different from that of cellulose. Adsorption and diffusion of glucose were directly proportional to incubation time, and the diffusion rate was significantly lower in the treatments containing fiber compared to the cellulose control. Fiber from these vegetables also inhibited amylase and alpha-glucosidase activities. Moreover, fiber from all sources exhibited significantly higher sodium cholate and cholesterol-binding capacity compared to cellulose, and also retarded pancreatic cholesterol esterase activity in a concentration-dependent manner.
+
+CONCLUSION
+This study demonstrates that natural dietary fiber from salad vegetables can reduce glucose and lipid absorption and breakdown rates, thus preventing increases in postprandial blood glucose and cholesterol levels, which can be beneficial to human health.
+
+Association of Dietary Fiber, Fruit, and Vegetable Consumption with Risk of Inflammatory Bowel Disease: A Systematic Review and Meta-Analysis.
+
+Number of 
+
+Key takeaways:Higher dietary intake of fruit and vegetables is associated with a reduced risk of inflammatory bowel disease, while dietary fiber intake is linked to a reduced risk of Crohn's disease.
+
+Abstract:No previous investigation has summarized findings from prospective cohort studies on the association between dietary intake of fiber, fruit, and vegetables and risk of inflammatory bowel disease (IBD). Dietary fiber and its major 
+
+Effects of a diet based on inulin-rich vegetables on gut health and nutritional behavior in healthy humans
+
+Number of 
+
+Key takeaways:A diet based on inulin-rich vegetables improves gut health, satiety, and food-related behavior, while reducing gastrointestinal symptoms.
+
+Abstract:ABSTRACT Background Inulin-type fructans (ITFs) are a type of fermentable dietary fiber that can confer beneficial health effects through changes in the gut microbiota. However, their effect on gut sensitivity and nutritional behavior is a matter of debate. Objective We evaluated the impact of consuming ITF-rich vegetables daily on gut microbiota, gastro-intestinal symptoms, and food-related behavior in healthy individuals. Methods A single group-design trial was conducted in 26 healthy individuals. During 2 wk, the participants were instructed to adhere to a controlled diet based on ITF-rich vegetables (providing a mean intake of 15 g ITF/d). Three test days were organized: before and after the nutritional intervention and 3 wk after returning to their usual diet. We assessed nutrient intake, food-related behavior, fecal microbiota composition, microbial fermentation, and gastrointestinal symptoms. Results The major microbial modifications during the intervention were an increased proportion of the Bifidobacterium genus, a decreased level of unclassified Clostridiales, and a tendency to decrease Oxalobacteraceae. These changes were reversed 3 wk after the intervention. The volunteers showed greater satiety, a reduced desire to eat sweet, salty, and fatty food, and a trend to increase hedonic attitudes towards some inulin-rich vegetables. Only flatulence episodes were reported during the dietary intervention, whereas intestinal discomfort, inversely associated with Clostridium cluster IV and Ruminococcus callidus, was improved at the end of the intervention. Conclusions A higher consumption of ITF-rich vegetables allows a substantial increase in well-tolerated dietary fiber, which may in turn improve food-related behavior. Moreover, it leads to beneficial modifications of the gut microbiota composition and function. This trial is registered at clinicaltrial.gov as NCT03540550.
+
+Role of Dietary Fiber in Poultry Nutrition
+
+Number of 
+
+Key takeaways:Dietary fiber in broiler chicken diets affects gastrointestinal tract development, nutrient absorption, growth performance, and intestinal microbiota, with insoluble fiber improving intestinal morphology and soluble fiber reducing intestinal viscosity.
+
+Abstract:Simple Summary Dietary fiber is an inherent compound found in common vegetables that are fed to broiler chickens. Fiber has the ability to scape digestion and absorption in the small intestine, which makes it able to affect the way other nutrients are absorbed and metabolized in the gastrointestinal tract. The functionality attributed to fiber varies based on chemical and physical structure, and most of the time, it is hard to make a clear differentiation among attributes due to the complexity of carbohydrates found in common feedstuffs. Data on the effect of dietary fiber have been gaining importance due to the use of grains for ethanol production and the search for feed alternatives that could help in sustainable and cost-effective broiler production. Therefore, it is paramount to integrate the current knowledge on the nutritional and physiological attributes of dietary fiber in poultry diets to be able to make correct use of fibrous feedstuffs. Abstract Dietary fiber (DF) is an intrinsic component in plant feedstuffs that has been associated with physiological, structural, and functional changes in the gastrointestinal tract. DF is composed of non-starch polysaccharides (NSP), oligosaccharides, and lignin that scape digestion and enzymatic hydrolysis. In general terms, fiber can be classified as insoluble or soluble based on their solubility in water. Both fiber types have direct nutritional implications in broiler diets. Inclusion of insoluble DF in broiler diets modulates intestinal morphology, digestive organ development, nutrient absorption, growth performance, and intestinal microbiota. Soluble DF is thought to increase intestinal viscosity and is associated with negative changes in intestinal microflora and reduction in nutrient absorption. Nevertheless, there is a group of soluble fibers, integrated by oligosaccharides, that function as prebiotics positively modulating intestinal microbiota. Due to the changes in chemical structure and subsequent variation in functionality, it is a difficult task to assign clear attributes to DF as a whole. Therefore, the following review paper compiles data from research conducted using DF and tries to unify such information into practical decisions to be considered when using DF as a functional nutrient in poultry nutrition.
+
+Dietary Fibers in Healthy Children and in Pediatric Gastrointestinal Disorders: A Practical Guide
+
+Number of 
+
+Key takeaways:Dietary fibers can benefit both healthy children and those with gastrointestinal disorders, but excessive intake may cause flatulence and abdominal discomfort.
+
+Abstract:Dietary fibers include non-digestible plant carbohydrates, lignin and resistant starch. Dietary fibers provide immune, cardiovascular, metabolic and intestinal beneficial effects in humans. Fibers naturally present in foods (fruits, vegetables, legumes, cereals) or used as supplements have different physical, chemical and functional profiles. This narrative review provides an update to the knowledge on the effects of dietary fibers in healthy subjects and in children with gastrointestinal disorders. Soluble fibers are digested by gut bacteria, producing short-chain fatty acids and energy for colonocytes, and may exert prebiotic effects that promote the growth of bifidobacteria and lactobacilli. Non-soluble fibers are bulking agents and may improve intestinal transit. The exact amount and characteristics of the fiber requirement in infants and children need to be further established. There are limited data evaluating fibers in children with gastrointestinal disorders. The low intake of fibers has been associated with constipation, but the intake of excessive fibers is not recommended as it may cause flatulence and abdominal discomfort. Certain fibers (particularly psyllium in irritable bowel syndrome) have shown beneficial effects in children with gastrointestinal disorders, but the limited and heterogenous data do not currently allow a specific recommendation.
+
+Dietary Fibers from Fruits and Vegetables and Their Health Benefits via Modulation of Gut Microbiota.
+
+Number of 
+
+Key takeaways:Dietary fibers from fruits and vegetables promote health by modulating gut microbiota, with potential targets for preventing major chronic diseases.
+
+Abstract:Dietary fibers (DFs) regulate host health through various mechanisms related to their dietary sources, specific physicochemical structures, fermentability, and physiological properties in the gut. Considering the numerous types and sources of DFs and their different physicochemical and physiological properties, it is challenging yet important to establish the key mechanisms for the beneficial health effects of DFs. In this review, the types and structures of DFs from different fruits and vegetables were summarized and the effects of different processing methods on DF properties were discussed. Moreover, the impacts of DFs on gut microbial ecology, host physiology, and health were described. Understanding the complex interaction between different DFs and gut microbiota is vital for personalized nutrition. It is also important to comprehend factors influencing gut microbiota and strategies to regulate the microbiota, thereby augmenting beneficial health responses. The exploration of molecular mechanism linking DFs, gut microbiota, and host physiology may allow for the identification of effective targets to fight against major chronic diseases.
+
+Let food be your medicine - dietary fiber.
+
+Number of 
+
+Key takeaways:Dietary fiber-rich foods, such as whole grains, root vegetables, legumes, and fruits, can regulate gut microbiota balance and potentially prevent diseases.
+
+Abstract:Dietary fiber (DF) cannot be digested and absorbed by the digestive tract, nor can it provide the energy needed to be burned for metabolic activities. Therefore, from the 1950s to the 1980s, DF received little attention in nutrition studies. With in-depth research and developments in global nutrition, people have gradually paid attention to the fact that DF occupies an essential position in the structure of nutrition, and it can ensure the healthy development of human beings. As early as 390 B.C., the ancient Greek physician Hippocrates proposed, 'Let your food be your medicine, and your medicine be your food'. This concept has been more systematically validated in modern scientific research, with numerous epidemiological studies showing that the dietary intake of DF-rich foods such as whole grains, root vegetables, legumes, and fruits has the potential to regulate the balance of the gut microbiota and thereby prevent diseases. However, the crosstalk between different types of DF and the gut microbiota is quite complex, and the effects on the organism vary. In this paper, we discuss research on DF and the gut microbiota and related diseases, aiming to understand the relationship between all three better and provide a reference basis for the risk reduction of related diseases.
+
+Fibre Intake in Chronic Kidney Disease: What Fibre Should We Recommend?
+
+Number of 
+
+Key takeaways:Increasing fiber consumption through diets rich in vegetables and fruits can prevent chronic kidney disease progression and improve intestinal microbiota composition.
+
+Abstract:Chronic kidney disease (CKD) is a major global health problem that challenges all patients’ healthcare needs. Fibre consumption benefits kidney patients by acting preventively on associated risk factors, improving intestinal microbiota composition or reducing metabolic acidosis and inflammation. In this review, we focus on increasing fibre consumption and the quality of fibre to recommend, in addition to increasing the consumption of foods that naturally have it in their design, that can resort to fortified foods or fibre supplements. The Western nutritional practice, which is low in fibre and rich in animal proteins, saturated fats, sodium, and sugar, increases the risk of mortality in these patients. On the contrary, patterns with higher consumption of fibre and vegetable proteins, such as the Mediterranean, vegetarian, or Plant dominant low protein diet (PLADO), seem to have a preventive effect on the associated risk factors and influence CKD progression. Until now, the use of fibre supplements has not achieved an evident impact on clinical results. Fibre-rich foods contain other nutrients that reduce cardiovascular risk. Promoting diets richer in vegetables and guaranteeing adequate energy and protein intake is a challenge for the multidisciplinary teams involved in the standard of care for CKD.
+
+Role of Dietary Fibre on Human Health and Nutrition
+
+Number of 
+
+Key takeaways:Dietary fiber aids digestion and metabolism, reduces the risk of heart disease, type 2 diabetes, obesity, and colon cancer, and boosts immune functioning.
+
+Abstract:Dietary fibre is one of the most important ingredients in fruits & vegetables, it aids digestion and metabolism. It’s an indigestible material that reaches your small intestine and ferments in your colon, promoting a healthy microbiome. There are three types of fibre: soluble, insoluble and functional. Soluble fibre from foods such as oats, legumes and fruits creates a gel-like substance that slows the digestive process and can help manage blood sugar and cholesterol. Insoluble fibre, found in whole grains, nuts and vegetables, adds bulk to stool-making bowel movements more frequent and reducing constipation. Functional fibre contributes to digestive and metabolic health. In addition to improving digestion, fibre reduces the risk of heart disease, type 2 diabetes, obesity and colon cancer. 
+When it’s digested by bacteria in our guts, fibre creates short-chain fatty acids (SCFAs) such as acetate, propionate and butyrate, which reduce inflammation and boost immune functioning. These are examples of foods that would provide you with high-quality fibre but global fibre intake is still less than the World ealth Organitation (WHO) recommended 25 grams per day. Its lack puts one at risk of digestive disorders (Irritable Bowel Syndrome (IBS), constipation, etc.), insulin resistance and chronic diseasesToo much fibre with low water intake can cause bloating or poor absorption of minerals. Newer research connects fibre with mental health through the gut-brain axis and may help lower the risk of anxiety, depression and neurodegenerative diseases. Because of these reasons raising the awareness promoting the consumption of whole foodstuffs and escalating the development of functional food products with appropriate fibre contents are needed for better human health worldwide. This paper aims to aims to provide indepth analysis of effects of the role of dieatary fibres on human nutrition and dietics.
+
+Dietary fibre in gastrointestinal health and disease
+
+Number of 
+
+Key takeaways:Dietary fibers, found in whole foods, can improve gastrointestinal health and help manage gastrointestinal disorders.
+
+Beneficial Effects of Synbiotics on the Gut Microbiome in Individuals with Low Fiber Intake: Secondary Analysis of a Double-Blind, Randomized Controlled Trial
+
+Number of 
+
+Key takeaways:Synbiotics can improve gut health in individuals with low dietary fiber intake, highlighting the importance of personalized synbiotics.
+
+Abstract:Insufficient dietary fiber intake can negatively affect the intestinal microbiome and, over time, may result in gut dysbiosis, thus potentially harming overall health. This randomized controlled trial aimed to improve the gut microbiome of individuals with low dietary fiber intake (<25 g/day) during a 7-week synbiotic intervention. The metabolically healthy male participants (n = 117, 32 ± 10 y, BMI 25.66 ± 3.1 kg/m2) were divided into two groups: one receiving a synbiotic supplement (Biotic Junior, MensSana AG, Forchtenberg, Germany) and the other a placebo, without altering their dietary habits or physical activity. These groups were further stratified by their dietary fiber intake into a low fiber group (LFG) and a high fiber group (HFG). Stool samples for microbiome analysis were collected before and after intervention. Statistical analysis was performed using linear mixed effects and partial least squares models. At baseline, the microbiomes of the LFG and HFG were partially separated. After seven weeks of intervention, the abundance of SCFA-producing microbes significantly increased in the LFG, which is known to improve gut health; however, this effect was less pronounced in the HFG. Beneficial effects on the gut microbiome in participants with low fiber intake may be achieved using synbiotics, demonstrating the importance of personalized synbiotics.
+
+The Benefits of Fiber-Rich Diets in Maintaining Digestive Health and Preventing Constipation
+
+Number of 
+
+Key takeaways:A fiber-rich diet promotes regular bowel movements, enhances gut microbiota, and improves overall digestive function, reducing the risk of digestive disorders and improving quality of life.
+
+Abstract:A fiber-rich diet plays a crucial role in maintaining digestive health and preventing constipation, which is a common gastrointestinal issue affecting a significant portion of the population. This review examines the various benefits of dietary fiber, emphasizing its role in promoting regular bowel movements, enhancing gut microbiota, and improving overall digestive function. Soluble and insoluble fibers, found in fruits, vegetables, whole grains, and legumes, contribute to stool bulk and consistency, facilitating easier passage through the intestines. Furthermore, fiber intake has been associated with a reduced risk of developing digestive disorders such as diverticulitis and colorectal cancer. This paper also explores the mechanisms by which fiber influences gut health, including its effects on gut motility, fermentation by gut bacteria, and the production of short-chain fatty acids. Additionally, the importance of adequate hydration in conjunction with fiber consumption is discussed, as it enhances the effectiveness of fiber in preventing constipation. By promoting a balanced diet rich in fiber, individuals can support their digestive health and reduce the incidence of constipation, leading to improved quality of life. This review underscores the necessity for public health initiatives to encourage increased fiber intake as a preventive measure for gastrointestinal health.
+
+The Significance of Plant Nutrition in the Creation of the Intestinal Microbiota—Prevention of Chronic Diseases: A Narrative Review
+
+Number of 
+
+Key takeaways:A plant-based diet high in fiber prevents disease by creating metabolites in the gut that reduce oxidative stress and promote increased insulin sensitivity.
+
+Abstract:Dysbiosis of the gastrointestinal tract is the most common cause of disease in childhood and adulthood. The formation of the intestinal microbiome begins in utero, and composition modification during life depends mainly on various genetic, nutritional, and environmental factors. The main cause of intestinal dysbiosis is improper nutrition due to a short period of breastfeeding, insufficient intake of fresh fruits and vegetables, and/or consumption of a large amount of processed food. The benefits of a diet based on grains, legumes, fruits, and vegetables are reflected in reducing the risk of cancer, cardiovascular diseases, myocardial infarction, stroke, rheumatoid arthritis, high blood pressure, asthma, allergies, and kidney stones. Anaerobic fermentation of fibers produces short-chain fatty acids (SCFA) that have an anti-inflammatory role and great importance in shaping the intestinal microbiota. Factors associated with high fiber in a plant-based diet promote increased insulin sensitivity. Insulin and insulin-like growth factor 1 (IGF-I) act as promoters of most normal and pre-neoplastic tissues. Conclusion: A plant-based diet high in fiber prevents disease by creating metabolites in the gut that reduce oxidative stress.
+
+Broccoli consumption affects the human gastrointestinal microbiota.
+
+Number of 
+
+Key takeaways:Broccoli consumption alters the human gastrointestinal microbiota, increasing Bacteroidetes and affecting pathways related to the endocrine system, transport, catabolism, and energy metabolism.
+
+Impact of Dietary Sugars on Gut Microbiota and Metabolic Health
+
+Number of 
+
+Key takeaways:Excessive sugar consumption, including nutritive and non-nutritive sweeteners, may negatively impact gut microbiota balance and metabolic health, leading to various disorders.
+
+Abstract:Excessive sugar consumption is a risk factor for the development of several disorders, including metabolic, cardiovascular, neurological conditions and even some cancers, and has been linked to increased morbidity and mortality. The popularization of the typical Western diet, featured by an excessive intake of saturated fats and added sugars and a low consumption of unprocessed fruits, vegetables and fiber, may directly affect the composition and functionality of the gut microbiota, staggering the balance of the intestinal microbiome that ultimately culminates into gut dysbiosis. Although added sugars in the form of nutritive and non-nutritive sweeteners are generally considered as safe, a growing body of evidence correlate their consumption with adverse effects on gut microbial ecosystem; namely an abnormal synthesis of short-chain fatty acids, altered intestinal barrier integrity and chronic inflammation that often fuel a panoply of metabolic conditions. Accordingly, this work revisited the available preclinical evidence concerning the impact of different types of dietary sugars—nutritive and non-nutritive sweeteners—on gut microbiota and metabolic health. Future research should consider gender and species vulnerability when the impact of such substances on GM community and metabolic health is scrutinized in order to guide their adequate use at doses relevant to human use.
+
+High-Fiber Diet during Pregnancy Characterized by More Fruit and Vegetable Consumption
+
+Number of 
+
+Key takeaways:Increased fruit and vegetable consumption during pregnancy can help women meet the recommended dietary fiber intake, potentially benefiting their health and preventing constipation.
+
+Abstract:Higher dietary fiber intakes during pregnancy may have the potential health benefits of increasing gut microbiome diversity, lowering the risk of glucose intolerance and pre-eclampsia, achieving appropriate gestational weight gain, and preventing constipation. In this observational cohort study, we have assessed the dietary fiber intakes of 804 women in late pregnancy, using a semi-quantitative food frequency questionnaire (SQ-FFQ). Overall, the median (interquartile range) dietary fiber intake was 24.1 (19.0–29.7) grams per day (g/day). Only 237/804 (29.5%) women met the recommended Adequate Intake (AI) of dietary fiber during pregnancy of 28 g/day. Women consuming the highest quartile of fiber intakes (34.8 (IQR 32.1–39.5) g/day) consumed more fruit, especially apples and bananas, than women consuming the lowest quartile of fiber intakes (15.9 (IQR 14.4–17.5) g/day). These women in the highest fiber-intake quartile were older (p < 0.01), more had completed further education after secondary school (p = 0.04), and they also consumed more vegetables (67 g/day) compared to the women in the lowest fiber consumption quartile (17 g vegetables/day). Bread intakes of 39–42 g/day were consistent in quantities consumed across all four fiber-intake quartiles. Our findings suggest that antenatal education advice targeting increased fruit and vegetable consumption before and during pregnancy may be a simple strategy to achieve increased total dietary fiber intakes to reach recommended quantities.
+
+Dietary Fiber, Atherosclerosis, and Cardiovascular Disease
+
+Number of 
+
+Key takeaways:Dietary fiber intake is associated with decreased risk of cardiovascular disease, including atherosclerosis and heart disease.
+
+Abstract:Observational studies have shown that dietary fiber intake is associated with decreased risk of cardiovascular disease. Dietary fiber is a non-digestible form of carbohydrates, due to the lack of the digestive enzyme in humans required to digest fiber. Dietary fibers and lignin are intrinsic to plants and are classified according to their water solubility properties as either soluble or insoluble fibers. Water-soluble fibers include pectin, gums, mucilage, fructans, and some resistant starches. They are present in some fruits, vegetables, oats, and barley. Soluble fibers have been shown to lower blood cholesterol by several mechanisms. On the other hand, water-insoluble fibers mainly include lignin, cellulose, and hemicellulose; whole-grain foods, bran, nuts, and seeds are rich in these fibers. Water-insoluble fibers have rapid gastric emptying, and as such may decrease the intestinal transit time and increase fecal bulk, thus promoting digestive regularity. In addition to dietary fiber, isolated and extracted fibers are known as functional fiber and have been shown to induce beneficial health effects when added to food during processing. The recommended daily allowances (RDAs) for total fiber intake for men and women aged 19–50 are 38 gram/day and 25 gram/day, respectively. It is worth noting that the RDA recommendations are for healthy people and do not apply to individuals with some chronic diseases. Studies have shown that most Americans do not consume the recommended intake of fiber. This review will summarize the current knowledge regarding dietary fiber, sources of food containing fiber, atherosclerosis, and heart disease risk reduction.
+
+Association between dietary fibre intake and fruit, vegetable or whole-grain consumption and the risk of CVD: results from the PREvención con DIeta MEDiterránea (PREDIMED) trial
+
+Number of 
+
+Key takeaways:Higher dietary fiber intake and fruit and vegetable consumption are associated with a reduced risk of cardiovascular disease in elderly adults at high cardiovascular risk.
+
+Abstract:Abstract Prospective studies assessing the association between fibre intake or fibre-rich food consumption and the risk of CVD have often been limited by baseline assessment of diet. Thus far, no study has used yearly repeated measurements of dietary changes during follow-up. Moreover, previous studies included healthy and selected participants who did not represent subjects at high cardiovascular risk. We used yearly repeated measurements of diet to investigate the association between fibre intake and CVD in a Mediterranean cohort of elderly adults at high cardiovascular risk. We followed-up 7216 men (55–80 years) and women (60–80 years) initially free of CVD for up to 7 years in the PREvención con DIeta MEDiterránea study (registered as ISRCTN35739639). A 137-item validated FFQ was repeated yearly to assess diet. The primary end point, confirmed by a blinded ad hoc Event Adjudication Committee, was a composite of cardiovascular death, myocardial infarction and stroke. Time-dependent Cox’s regression models were used to estimate the risk of CVD according to baseline dietary exposures and to their yearly updated changes. We found a significant inverse association for fibre (P for trend=0·020) and fruits (P for trend=0·024) in age-sex adjusted models, but the statistical significance was lost in fully adjusted models. However, we found a significant inverse association with CVD incidence for the sum of fruit and vegetable consumption. Participants who consumed in total nine or more servings/d of fruits plus vegetables had a hazard ratio 0·60 (95 % CI 0·40, 0·96) of CVD in comparison with those consuming <5 servings/d.
+
+Dietary fibre and cardiovascular health: a review of current evidence and policy
+
+Number of 
+
+Key takeaways:Increasing dietary fiber intake can reduce the risk of cardiovascular disease, type 2 diabetes, and some cancers, but current UK consumption is below the recommended level.
+
+Abstract:Dietary fibre comprises many different, mainly plant-based, compounds that are not fully digested in the human gut. Insoluble fibres include cellulose, hemi-celluloses and lignin and soluble fibres include pectins, β-glucan and hydro-colloids. In the UK, the daily recommended amount has increased to 30 g but only 13 % of men and 4 % of women meet this recommendation. Currently the mean intake for adults is 21 g for men and 17 g for women. There is a wealth of epidemiological evidence based on systematic reviews of trials and cohorts to support the higher fibre recommendation. This includes evidence of reductions in the risk for CVD (both heart disease and stroke) and lower risk of type 2 diabetes, lower blood pressure, lower LDL-cholesterol, as well as some cancers. Beneficial effects of fibre operate via a diverse range of mechanisms throughout the digestive system including the mouth, stomach and small and large intestine; some of which are still not completely understood. The updated recommendation for fibre is a long way from a typical British diet and requires several daily portions of fruit and vegetables and wholegrain foods. Improving dietary fibre intakes will require a variety of actions and policies from stakeholders; however, there is currently more of a focus on reducing sugar than increasing fibre. In order to increase the number of adults meeting the fibre recommendation, social marketing and labelling of high-fibre foods are warranted as well as reformulation and wider availability of wholegrain versions of popular foods.
+
+Effects of Vegetables on Cardiovascular Diseases and Related Mechanisms
+
+Number of 
+
+Key takeaways:Vegetable consumption is linked to a lower risk of cardiovascular diseases, with their bioactive components potentially playing a role in prevention and treatment through antioxidation, anti-inflammation, and regulation of blood pressure, glucose, and lipid profile.
+
+Abstract:Epidemiological studies have shown that vegetable consumption is inversely related to the risk of cardiovascular diseases. Moreover, research has indicated that many vegetables like potatoes, soybeans, sesame, tomatoes, dioscorea, onions, celery, broccoli, lettuce and asparagus showed great potential in preventing and treating cardiovascular diseases, and vitamins, essential elements, dietary fibers, botanic proteins and phytochemicals were bioactive components. The cardioprotective effects of vegetables might involve antioxidation; anti-inflammation; anti-platelet; regulating blood pressure, blood glucose, and lipid profile; attenuating myocardial damage; and modulating relevant enzyme activities, gene expression, and signaling pathways as well as some other biomarkers associated to cardiovascular diseases. In addition, several vegetables and their bioactive components have been proven to protect against cardiovascular diseases in clinical trials. In this review, we analyze and summarize the effects of vegetables on cardiovascular diseases based on epidemiological studies, experimental research, and clinical trials, which are significant to the application of vegetables in prevention and treatment of cardiovascular diseases.
+
+Fibre Intake Is Associated with Cardiovascular Health in European Children
+
+Number of 
+
+Key takeaways:A diet rich in dietary fiber from fruits, vegetables, pulses, and nuts from early childhood is associated to a healthier cardiovascular profile, regardless of children's weight.
+
+Abstract:Background: We aimed at analysing the association between dietary fibre intake during childhood and cardiovascular health markers. Methods: We used observational longitudinal analysis and recorded diet using 3-day diaries at the ages of 3, 4, 5, 6, and 8 years in children from the EU Childhood Obesity Project Trial. At the age of 8, waist circumference, systolic and diastolic blood pressure (SBP and DBP) and biochemical analyses (lipoproteins, triglycerides and homeostasis model for insulin resistance (HOMA-IR)) were evaluated. Those parameters were combined into a cardiometabolic risk score through the sum of their internal z-scores. Results: Four-hundred children (51.8% girls) attended to the 8-year visit with a 3-day diary. Adjusted linear regression models showed that children who repeatedly stayed in the lowest tertile of fibre intake during childhood had higher HOMA-IR (p = 0.004), higher cardiometabolic risk score (p = 0.02) and a nonsignificant trend toward a higher SBP at 8 years. The higher the dietary intake of soluble fibre (from fruits and vegetables) at 8 years, the lower the HOMA-IR and the cardiometabolic risk score (p = 0.002; p = 0.004). SBP was directly associated with fibre from potatoes and inversely with fibre from nuts and pulses. Conclusion: A diet rich in dietary fibre from fruits, vegetables, pulses and nuts from early childhood was associated to a healthier cardiovascular profile, regardless of children’s weight.
+
+Cardiovascular Benefits of Dietary Fiber
+
+Number of 
+
+Key takeaways:Increased consumption of dietary fiber, particularly cereal fiber, is associated with reduced cardiovascular disease risk through multiple mechanisms, including lipid reduction, weight regulation, glucose metabolism, blood pressure control, and reduced chronic inflammation.
+
+Abstract:The relationship between dietary fiber and risk of cardiovascular disease (CVD) has been extensively studied. There is considerable epidemiological evidence indicating an inverse association between dietary fiber intake and CVD risk. The association has been found to be stronger for cereal fiber than for fruit or vegetable fiber, and several studies have also found increased whole grain consumption to be associated with CVD risk reduction. In light of this evidence, recent US dietary guidelines have endorsed increased consumption of fiber rich whole grains. Regular consumption of dietary fiber, particularly fiber from cereal sources, may improve CVD health through multiple mechanisms including lipid reduction, body weight regulation, improved glucose metabolism, blood pressure control, and reduction of chronic inflammation. Future research should focus on various food sources of fiber, including different types of whole grains, legumes, fruits, vegetables, and nuts, as well as resistant starch in relation to CVD risk and weight control; explore the biological mechanisms underlying the cardioprotective effect of fiber-rich diets; and study different ethnic groups and populations with varying sources of dietary fiber.
+
+Dietary fruits and vegetables and cardiovascular diseases risk
+
+Number of 
+
+Key takeaways:Increased intake of fruits and vegetables may reduce cardiovascular risk, but optimal intake and optimal dietary patterns require further investigation.
+
+Abstract:ABSTRACT Diet is likely to be an important determinant of cardiovascular disease (CVD) risk. In this article, we will review the evidence linking the consumption of fruit and vegetables and CVD risk. The initial evidence that fruit and vegetable consumption has a protective effect against CVD came from observational studies. However, uncertainty remains about the magnitude of the benefit of fruit and vegetable intake on the occurrence of CVD and whether the optimal intake is five portions or greater. Results from randomized controlled trials do not show conclusively that fruit and vegetable intake protects against CVD, in part because the dietary interventions have been of limited intensity to enable optimal analysis of their putative effects. The protective mechanisms of fruit and vegetables may not only include some of the known bioactive nutrient effects dependent on their antioxidant, anti-inflammatory, and electrolyte properties, but also include their functional properties, such as low glycemic load and energy density. Taken together, the totality of the evidence accumulated so far does appear to support the notion that increased intake of fruits and vegetables may reduce cardiovascular risk. It is clear that fruit and vegetables should be eaten as part of a balanced diet, as a source of vitamins, fiber, minerals, and phytochemicals. The evidence now suggests that a complicated set of several nutrients may interact with genetic factors to influence CVD risk. Therefore, it may be more important to focus on whole foods and dietary patterns rather than individual nutrients to successfully impact on CVD risk reduction. A clearer understanding of the relationship between fruit and vegetable intake and cardiovascular risk would provide health professionals with significant information in terms of public health and clinical practice.
+
+Dietary intake of fruits and vegetables and risk of cardiovascular disease
+
+Number of 
+
+Key takeaways:Increased fruit and vegetable intake is associated with lower prevalence of cardiovascular disease risk factors and a reduced risk of coronary heart disease and stroke.
+
+Abstract:Cardiovascular disease (CVD) remains the leading cause of morbidity and mortality in the United States and worldwide. In this review, we examine the scientific evidence in support of current dietary recommendations to increase fruit and vegetable intake for CVD prevention. Available evidence indicates that persons who consume more fruits and vegetables often have lower prevalence of important risk factors for CVD, including hypertension, obesity, and type 2 diabetes mellitus. Recent large, prospective studies also show a direct inverse association between fruit and vegetable intake and the development of CVD incidents such as coronary heart disease and stroke. However, the biologic mechanisms whereby fruits and vegetables may exert their effects are not entirely clear and are likely to be multiple. Many nutrients and phytochemicals in fruits and vegetables, including fiber, potassium, and folate, could be independently or jointly responsible for the apparent reduction in CVD risk. Functional aspects of fruits and vegetables, such as their low dietary glycemic load and energy density, may also play a significant role. Although it is important to continue our quest for mechanistic insights, given the great potential for benefits already known, greater efforts and resources are needed to support dietary changes that encourage increased fruit and vegetable intake.
+
+Effects of dietary fibre intake on risk factors for cardiovascular disease in subjects at high risk
+
+Number of 
+
+Key takeaways:Increasing dietary fiber intake with natural foods is associated with reductions in classical and novel cardiovascular risk factors in high-risk individuals.
+
+Abstract:Background: Epidemiological studies and feeding trials with supplements suggest that fibre intake is associated with a reduction in cardiovascular risk. However, the effects of changes in dietary fibre on risk factor levels have not been evaluated in free-living individuals. Thus, the effects of changes in dietary fibre intake on cardiovascular risk factors were assessed over 3 months in free-living high-risk subjects. Methods: 772 high-risk subjects (age 69±5 years) were assigned to a low-fat diet or two Mediterranean-style diets. All participants received behavioural and nutritional education, including recommendations for increasing the consumption of vegetables, fruits, and legumes. Changes in food and nutrient intake, body weight, blood pressure, lipid profiles, glucose control and inflammatory markers were evaluated. Results: Most participants increased consumption of vegetable products, but the increase in dietary fibre exhibited wide between-subject variability (6–65 g/day). Body weight, waist circumference, and mean systolic and diastolic blood pressure decreased across quintiles of fibre intake (p<0.005; all). Reductions in fasting glucose and total cholesterol levels, and increments in HDL cholesterol were highest among participants in the upper 20% of fibre intake (p = 0.04 and 0.02 respectively). Plasma concentrations of C-reactive protein, but not those of inflammatory cytokines, decreased in parallel with increasing dietary fibre (p = 0.04). Significant reductions in LDL cholesterol were observed only among participants with the greatest increases in soluble fibre intake (p = 0.04). Conclusions: Increasing dietary fibre intake with natural foods is associated with reductions in classical and novel cardiovascular risk factors in a high-risk cohort.
+
+Raw and Cooked Vegetable Consumption and Risk of Cardiovascular Disease: A Study of 400,000 Adults in UK Biobank
+
+Number of 
+
+Key takeaways:Higher intakes of raw, but not cooked, vegetables are associated with lower cardiovascular disease risk, but residual confounding may account for most of these associations.
+
+Abstract:Objectives Higher levels of vegetable consumption have been associated with a lower risk of cardiovascular disease (CVD), but the independent effect of raw and cooked vegetable consumption remains unclear. Methods From the UK Biobank cohort, 399,586 participants without prior CVD were included in the analysis. Raw and cooked vegetable intakes were measured with a validated dietary questionnaire at baseline. Multivariable Cox regression was used to estimate the associations between vegetable intake and CVD incidence and mortality, adjusted for socioeconomic status, health status, and lifestyle factors. The potential effect of residual confounding was assessed by calculating the percentage reduction in the likelihood ratio (LR) statistics after adjustment for the confounders. Results The mean age was 56 years and 55% were women. Mean intakes of raw and cooked vegetables were 2.3 and 2.8 tablespoons/day, respectively. During 12 years of follow-up, 18,052 major CVD events and 4,406 CVD deaths occurred. Raw vegetable intake was inversely associated with both CVD incidence (adjusted hazard ratio (HR) for the highest vs. lowest intake: 0.89 ) and CVD mortality (0.85 ), while cooked vegetable intake was not (1.00 and 0.96 , respectively). Adjustment for potential confounders reduced the LR statistics for the associations of raw vegetables with CVD incidence and mortality by 82 and 87%, respectively. Conclusions Higher intakes of raw, but not cooked, vegetables were associated with lower CVD risk. Residual confounding is likely to account for much, if not all, of the observed associations. This study suggests the need to reappraise the evidence on the burden of CVD disease attributable to low vegetable intake in the high-income populations.
+
+Consumption of Fruit or Fiber-Fruit Decreases the Risk of Cardiovascular Disease in a Mediterranean Young Cohort
+
+Number of 
+
+Key takeaways:High fruit, whole grain, or cruciferous vegetable consumption may reduce the risk of cardiovascular disease in young Mediterranean populations.
+
+Abstract:Fiber and fiber-rich foods have been inversely associated with cardiovascular disease (CVD), but the evidence is scarce in young and Mediterranean cohorts. We used Cox regression models to assess the association between quintiles of total fiber and fiber from different sources, and the risk of CVD adjusted for the principal confounding factors in a Mediterranean cohort of young adults, the SUN (Seguimiento Universidad de Navarra, Follow-up) cohort. After a median follow-up of 10.3 years, we observed 112 cases of CVD among 17,007 participants (61% female, mean age 38 years). We observed an inverse association between fiber intake and CVD events (p for trend = 0.024) and also between the highest quintile of fruit consumption (hazard ratio (HR) 0.51, 95% confidence interval (CI) 0.27–0.95) or whole grains consumption (HR 0.43 95% CI 0.20–0.93) and CVD compared to the lowest quintile, and also a HR of 0.58 (95% CI 0.37–0.90) for the participants who ate at least 175 g/day of fruit. Only the participants in the highest quintile of fruit-derived fiber intake had a significantly lower risk of CVD (HR 0.52, 95% CI 0.28–0.97). The participants who ate at least one serving per week of cruciferous vegetables had a lower risk than those who did not (HR 0.52, 95% CI 0.30–0.89). In conclusion, high fruit consumption, whole grain consumption, or consumption of at least one serving/week of cruciferous vegetables may be protective against CVD in young Mediterranean populations.
+
+Fruit and vegetable consumption and risk of cardiovascular disease: A meta-analysis of prospective cohort studies
+
+Number of 
+
+Key takeaways:Increased fruit and vegetable consumption is inversely associated with the risk of cardiovascular disease, with 800 g per day of fruit and vegetable consumption having the lowest risk.
+
+Abstract:ABSTRACT A meta-analysis of prospective cohort studies was conducted to examine the relation between fruit and vegetables (FV) consumption and the risk of cardiovascular disease (CVD). We searched PubMed and EMBASE up to June 2014 for relevant studies. Pooled relative risks (RRs) were calculated and dose–response relationship was assessed. Thirty-eight studies, consisting of 47 independent cohorts, were eligible in this meta-analysis. There were 1,498,909 participants (44,013 CVD events) with a median follow-up of 10.5 years. The pooled RR (95% confidence interval) of CVD for the highest versus lowest category was 0.83 (0.79–0.86) for FV consumption, 0.84 (0.79–0.88) for fruit consumption, and 0.87 (0.83–0.91) for vegetable consumption, respectively. Dose–response analysis showed that those eating 800 g per day of FV consumption had the lowest risk of CVD. Our results indicate that increased FV intake is inversely associated with the risk of CVD. This meta-analysis provides strong support for the current recommendations to consume a high amount of FV to reduce CVD risk.
+
+Fruit and vegetable intake and the risk of cardiovascular disease, total cancer and all-cause mortality—a systematic review and dose-response meta-analysis of prospective studies
+
+Number of 
+
+Key takeaways:Increased fruit and vegetable intake is associated with reduced risk of cardiovascular disease, cancer, and all-cause mortality.
+
+Abstract:Abstract Background: Questions remain about the strength and shape of the dose-response relationship between fruit and vegetable intake and risk of cardiovascular disease, cancer and mortality, and the effects of specific types of fruit and vegetables. We conducted a systematic review and meta-analysis to clarify these associations. Methods: PubMed and Embase were searched up to 29 September 2016. Prospective studies of fruit and vegetable intake and cardiovascular disease, total cancer and all-cause mortality were included. Summary relative risks (RRs) were calculated using a random effects model, and the mortality burden globally was estimated; 95 studies (142 publications) were included. Results: For fruits and vegetables combined, the summary RR per 200 g/day was 0.92 for coronary heart disease, 0.84 (95% CI: 0.76–0.92, I2 = 73%, n = 10) for stroke, 0.92 (95% CI: 0.90–0.95, I2 = 31%, n = 13) for cardiovascular disease, 0.97 (95% CI: 0.95–0.99, I2 = 49%, n = 12) for total cancer and 0.90 (95% CI: 0.87–0.93, I2 = 83%, n = 15) for all-cause mortality. Similar associations were observed for fruits and vegetables separately. Reductions in risk were observed up to 800 g/day for all outcomes except cancer (600 g/day). Inverse associations were observed between the intake of apples and pears, citrus fruits, green leafy vegetables, cruciferous vegetables, and salads and cardiovascular disease and all-cause mortality, and between the intake of green-yellow vegetables and cruciferous vegetables and total cancer risk. An estimated 5.6 and 7.8 million premature deaths worldwide in 2013 may be attributable to a fruit and vegetable intake below 500 and 800 g/day, respectively, if the observed associations are causal. Conclusions: Fruit and vegetable intakes were associated with reduced risk of cardiovascular disease, cancer and all-cause mortality. These results support public health recommendations to increase fruit and vegetable intake for the prevention of cardiovascular disease, cancer, and premature mortality.
+
+High-Fiber Diet and Acetate Supplementation Change the Gut Microbiota and Prevent the Development of Hypertension and Heart Failure in Hypertensive Mice
+
+Number of 
+
+Key takeaways:A high-fiber diet and acetate supplementation can protect against cardiovascular disease by altering gut microbiota and promoting cardiovascular health.
+
+Abstract:Background: Dietary intake of fruit and vegetables is associated with lower incidence of hypertension, but the mechanisms involved have not been elucidated. Here, we evaluated the effect of a high-fiber diet and supplementation with the short-chain fatty acid acetate on the gut microbiota and the prevention of cardiovascular disease. Methods: Gut microbiome, cardiorenal structure/function, and blood pressure were examined in sham and mineralocorticoid excess–treated mice with a control diet, high-fiber diet, or acetate supplementation. We also determined the renal and cardiac transcriptome of mice treated with the different diets. Results: We found that high consumption of fiber modified the gut microbiota populations and increased the abundance of acetate-producing bacteria independently of mineralocorticoid excess. Both fiber and acetate decreased gut dysbiosis, measured by the ratio of Firmicutes to Bacteroidetes, and increased the prevalence of Bacteroides acidifaciens. Compared with mineralocorticoid-excess mice fed a control diet, both high-fiber diet and acetate supplementation significantly reduced systolic and diastolic blood pressures, cardiac fibrosis, and left ventricular hypertrophy. Acetate had similar effects and markedly reduced renal fibrosis. Transcriptome analyses showed that the protective effects of high fiber and acetate were accompanied by the downregulation of cardiac and renal Egr1, a master cardiovascular regulator involved in cardiac hypertrophy, cardiorenal fibrosis, and inflammation. We also observed the upregulation of a network of genes involved in circadian rhythm in both tissues and downregulation of the renin-angiotensin system in the kidney and mitogen-activated protein kinase signaling in the heart. Conclusions: A diet high in fiber led to changes in the gut microbiota that played a protective role in the development of cardiovascular disease. The favorable effects of fiber may be explained by the generation and distribution of one of the main metabolites of the gut microbiota, the short-chain fatty acid acetate. Acetate effected several molecular changes associated with improved cardiovascular health and function.
+
+Health effects associated with vegetable consumption: a Burden of Proof study
+
+Number of 
+
+Key takeaways:Vegetable consumption significantly reduces ischemic stroke, heart disease, hemorrhagic stroke, and esophageal cancer risk, but does not significantly affect type 2 diabetes risk.
+
+Fruits, vegetables and coronary heart disease
+
+Number of 
+
+Key takeaways:Fruit and vegetable consumption may have a weak cardioprotective effect, but current evidence is inconclusive and their potential role in reducing the risk of cardiovascular disease remains unclear.
+
+Effects and Mechanisms of Fruit and Vegetable Juices on Cardiovascular Diseases
+
+Number of 
+
+Key takeaways:Drinking fruit and vegetable juices can improve cardiovascular health by lowering blood pressure and improving blood lipid profiles, through antioxidant effects, cardiovascular system improvement, platelet inhibition, and anti-inflammatory effects.
+
+Abstract:Many studies have indicated that consumption of vegetables and fruits are positively related to lower incidence of several chronic noncommunicable diseases. Although composition of fruit and vegetable juices is different from that of the edible portion of fruits and vegetables, they contain polyphenols and vitamins from fruits and vegetables. Drinking vegetable and fruit juices is very popular in many countries, and also an efficient way to improve consumption of fruits and vegetables. The studies showed that fruit and vegetable juices affect cardiovascular risk factors, such as lowering blood pressure and improving blood lipid profiles. The main mechanisms of action included antioxidant effects, improvement of the aspects of the cardiovascular system, inhibition of platelet aggregation, anti-inflammatory effects, and prevention of hyperhomocysteinemia. Drinking juices might be a potential way to improve cardiovascular health, especially mixtures of juices because they contain a variety of polyphenols, vitamins, and minerals from different fruits and vegetables. This review summarizes recent studies on the effects of fruit and vegetable juices on indicators of cardiovascular disease, and special attention is paid to the mechanisms of action.
+
+Role of Vegetables in Human Nutrition and Disease Prevention
+
+Number of 
+
+Key takeaways:Adequate vegetable consumption can protect against chronic diseases like diabetes, cancer, obesity, metabolic syndrome, and cardiovascular diseases by providing vitamins, minerals, phyto-chemical compounds, and dietary fiber.
+
+Abstract:Vegetables are important for human health because of their vitamins, minerals, phyto- chemical compounds, and dietary fiber content. Especially antioxidant vitamins (vitamin A, vitamin C, and vitamin E) and dietary fiber content have important roles in human health. Adequate vegetable consumption can be protective some chronic diseases such as diabetes, cancer, obesity, metabolic syndrome, cardiovascular diseases, as well as improve risk factors related with these diseases. In this chapter, basic information will be given about the classification of vegetables, preparation and cooking, and their effects on food content of vegetables and effects on health and diseases (diabetes, obesity, metabolic syndrome, cardiovascular diseases, and cancer).
+
+Effects of High Consumption of Vegetables on Clinical, Immunological, and Antioxidant Markers in Subjects at Risk of Cardiovascular Diseases
+
+Number of 
+
+Key takeaways:High vegetable consumption does not significantly affect clinical, immunological, or antioxidant markers in individuals at risk of cardiovascular diseases.
+
+Abstract:High intakes of vegetables have been associated with a lower incidence of cardiovascular diseases (CVD). However, the effect of vegetables on immune function and antioxidant status in human studies have provided contrasting results. In the present study, after a week of run-in period, 38 subjects at risk of CVD were randomly assigned to one of the following 4-week interventions: low vegetable consumption (800 g of vegetables/week) or high vegetable consumption (4200 g of vegetables/week). Vegetables included carrots, topinambur (Jerusalem artichoke, Helianthus tuberosus), tomatoes, red cabbage, and sweet peppers. Blood and salivary samples were collected before and after intervention periods. In addition to clinical, immunological, and antioxidant markers, leukocyte and lymphocyte expression of the gut-homing β7 integrin was evaluated. No significant changes were detected in clinical, immunological, and antioxidant markers in biological samples, except for an increase in white blood cell count for the low vegetable consumption group (p < 0.05). The study provides additional evidence about the uncertainty of providing a clear evidence for vegetables in modulating markers of immune function and antioxidant status. Further studies are needed in order to unravel the mechanism of effect of vegetable consumption in cardiovascular prevention.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

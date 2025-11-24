@@ -1,0 +1,425 @@
+PROTOCOL: Evening blue light exposure
+
+IMPACT: Evening blue light exposure - Negative impact of evening blue light exposure on health and sleep | Longevity Protocols
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Evening exposure to blue light disrupts the natural circadian rhythm, reduces sleep quality and duration, and increases the risk of mood disorders and depressive symptoms. Prolonged exposure can lead to deteriorating mental health, impaired cognitive function, and a risk of neurodegeneration, especially in adolescents and sensitive individuals.
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Evening exposure to blue light disrupts the natural circadian rhythm, reduces sleep quality and duration, and increases the risk of mood disorders and depressive symptoms. Prolonged exposure can lead to deteriorating mental health, impaired cognitive function, and a risk of neurodegeneration, especially in adolescents and sensitive individuals.
+
+CONTENT SECTIONS:
+
+Evening blue light exposure
+
+Negative impact of evening blue light exposure on health and sleep
+
+Evening exposure to blue light disrupts the natural circadian rhythm, reduces sleep quality and duration, and increases the risk of mood disorders and depressive symptoms. Prolonged exposure can lead to deteriorating mental health, impaired cognitive function, and a risk of neurodegeneration, especially in adolescents and sensitive individuals.
+
+Level of evidence:Good
+
+Blue light in the evening suppresses the secretion of melatonin, a hormone crucial for regulating the circadian rhythm and inducing sleepiness. This causes delayed sleep onset, reduced deep sleep, and worsened sleep efficiency. Additionally, it increases alertness and brain activity at an unfavorable time, which may disrupt recovery and intensify anxiety symptoms. Persistent blue light exposure can cause changes in the brain's emotional circuits and lead to long-term health disorders.
+
+The harmfulness of evening blue light exposure stems from numerous studies showing negative effects on circadian rhythm, sleep quality, and mental health. Constant exposure can increase the risk of depressive and anxiety disorders, as well as worsen cognitive functions and the body's recovery.
+
+The issue of evening blue light exposure is significant in the context of increasing use of electronic devices and artificial lighting. This particularly affects adolescents, people working with screens, and seniors with sleep disorders.
+
+Limit blue light exposure before bedtime
+
+Avoid using electronic devices emitting blue light for 1–2 hours before sleep.
+
+Use blue light blocking glasses
+
+If you need to use screens in the evening, wear glasses or use filters that reduce blue light emission.
+
+Optimize room lighting
+
+Choose warm, yellow light in the evening instead of cold, blue light to support the natural circadian rhythm.
+
+Maintain a regular circadian rhythm
+
+Set consistent sleep and wake times, and use bright daylight to strengthen biological clock synchronization.
+
+Evening exposure to blue light has a clearly negative impact on sleep quality. Most importantly, evening blue light delays sleep onset, reduces deep sleep duration, and lowers overall sleep quality.
+
+Mechanisms and impact on sleep
+
+Practical tips and interventions
+
+Evening blue light exposure is widely studied in terms of its impact on mental health. Excessive evening and nighttime blue light exposure is associated with impaired sleep quality, circadian rhythm disturbances, and increased risk of depressive and anxiety symptoms.
+
+Impact on mental health and sleep
+
+Mechanisms and risk groups
+
+Table: Effects of evening blue light exposure
+
+Evening blue light exposure has a documented impact on brain function, mainly through circadian rhythm disruption, reduced sleep quality, and increased alertness. The most important negative effects are melatonin suppression, worsened sleep quality, and potential risks for mental health, especially in adolescents.
+
+Impact on sleep and circadian rhythm
+
+Impact on cognitive function and well-being
+
+Research summary: Impact of evening blue light on the brain
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:44
+
+Final comment:Numerous clinical trials, randomized controlled studies, and systematic literature reviews confirm the negative impact of evening blue light exposure on sleep quality, circadian rhythm, and mental health. The studies include a wide range of populations, including adolescents, adults, and the elderly, and utilize biomarker data and neuroimaging. Despite some differences in results regarding the effectiveness of interventions such as blue light blocking glasses, scientific consensus points to significant negative health effects. However, there is still a lack of extensive meta-analyses covering all aspects of these interventions.
+
+Acute exposure to evening blue‐enriched light impacts on human sleep
+
+Number of 
+
+Key takeaways:Exposure to blue-enriched polychromatic light at low room light levels impacts homeostatic sleep regulation, with reduced frontal slow wave activity during the first non-rapid eye movement episode.
+
+Abstract:Light in the short wavelength range (blue light: 446–483 nm) elicits direct effects on human melatonin secretion, alertness and cognitive performance via non‐image‐forming photoreceptors. However, the impact of blue‐enriched polychromatic light on human sleep architecture and sleep electroencephalographic activity remains fairly unknown. In this study we investigated sleep structure and sleep electroencephalographic characteristics of 30 healthy young participants (16 men, 14 women; age range 20–31 years) following 2 h of evening light exposure to polychromatic light at 6500 K, 2500 K and 3000 K. Sleep structure across the first three non‐rapid eye movement non‐rapid eye movement – rapid eye movement sleep cycles did not differ significantly with respect to the light conditions. All‐night non‐rapid eye movement sleep electroencephalographic power density indicated that exposure to light at 6500 K resulted in a tendency for less frontal non‐rapid eye movement electroencephalographic power density, compared to light at 2500 K and 3000 K. The dynamics of non‐rapid eye movement electroencephalographic slow wave activity (2.0–4.0 Hz), a functional index of homeostatic sleep pressure, were such that slow wave activity was reduced significantly during the first sleep cycle after light at 6500 K compared to light at 2500 K and 3000 K, particularly in the frontal derivation. Our data suggest that exposure to blue‐enriched polychromatic light at relatively low room light levels impacts upon homeostatic sleep regulation, as indexed by reduction in frontal slow wave activity during the first non‐rapid eye movement episode.
+
+Managing Blue Light Exposure: Impacts on Sleep Quality and Circadian Health
+
+Number of 
+
+Key takeaways:Prolonged blue light exposure disrupts circadian rhythms and sleep quality, leading to mood disorders, cognitive decline, and metabolic imbalances, but preventive measures can mitigate these negative effects.
+
+Abstract:Introduction: Blue light, a high-energy visible light emitted from natural and artificial sources, plays a crucial role in regulating circadian rhythms and sleep quality. While essential for maintaining alertness and synchronizing the biological clock, excessive exposure, especially during evening hours, disrupts melatonin production, adversely impacting sleep and overall health. 
+Purpose of Work: This paper investigates the effects of blue light exposure on circadian rhythms and sleep quality, aiming to evaluate its biological mechanisms and health implications. Additionally, it explores evidence-based preventive measures to mitigate its negative impacts. 
+State of Knowledge: Research reveals that prolonged blue light exposure delays sleep onset, shortens sleep duration, and impairs sleep efficiency by suppressing melatonin secretion. Disrupted circadian rhythms are linked to mood disorders, cognitive decline, and metabolic imbalances. Preventive strategies, including blue light-blocking glasses, screen filters, optimized lighting environments, and adherence to healthy screen-time habits, demonstrate effectiveness but require further validation in diverse populations. 
+Material and methods: This study employed a systematic literature review approach, comprising a comprehensive search across scientific databases such as PubMed and Google Scholar, followed by a screening process to identify relevant studies for further investigation. 
+Summary: Blue light exposure significantly influences circadian rhythms and sleep quality, with implications for mental and physical health. Preventive measures, when adopted consistently, offer promising solutions to mitigate adverse effects. Continued research is necessary to refine these strategies and ensure widespread applicability in an increasingly digital world.
+
+Effects of pre-bedtime blue-light exposure on ratio of deep sleep in healthy young men.
+
+Number of 
+
+Key takeaways:Pre-bedtime blue-light exposure significantly reduces the ratio of deep sleep in healthy young men, negatively affecting sleep quality.
+
+The bright and dark side of blue-enriched light on sleep and activity in older adults.
+
+Number of 
+
+Key takeaways:Morning blue-enriched light improves rest-activity rhythm stability and decreases sleep fragmentation in older adults, while evening light exposure increases sleep latency and lowers sleep efficiency.
+
+Abstract:Low indoor light in urban housing can disrupt health and wellbeing, especially in older adults who experience reduced light sensitivity and sleep/circadian disruptions with natural aging. While controlled studies suggest that enhancing indoor lighting may alleviate the negative effects of reduced light sensitivity, evidence for this to be effective in the real world is lacking. This study investigates the effects of two light conditions on actigraphic rest-activity rhythms and subjective sleep in healthy older adults (≥ 60 years) living at home. Two photon-matched lights were compared; a control white light (4000 K) and a blue-enriched white light (17000 K) at two different intensities (300-450 lx and 1100-1200 lx respectively). Participants (n = 36, 25 female) completed an 11-week randomized, cross-over study, comprising 1 week of baseline, 3 weeks of self-administered light exposure (2 h in the morning and 2 h in the evening), and 2 weeks of washout for each light condition. Participants completed sleep diaries, wore a wrist actigraph and a light sensor necklace, and collected urine to measure 6-sulphatoxymelatonin. Longer duration of morning blue-enriched light significantly improved rest-activity rhythm stability and decreased sleep fragmentation. More time spent above 2500 lx increased actigraphy amplitude, daytime activity, and advanced bedtime. Evening light exposure, however, increased sleep latency and lowered sleep efficiency. Our findings show morning blue-enriched light is beneficial whereas evening light should be avoided. Optimal timing of self-administered light interventions thus may offer a promising strategy to improve sleep and rest-activity rhythms in older adults in real-world settings.
+
+The inner clock—Blue light sets the human rhythm
+
+Number of 
+
+Key takeaways:Blue light exposure, when appropriate, can improve wellbeing, alertness, and cognitive performance, but excessive exposure before bedtime may negatively impact sleep quality and circadian rhythms.
+
+Abstract:Visible light synchronizes the human biological clock in the suprachiasmatic nuclei of the hypothalamus to the solar 24‐hour cycle. Short wavelengths, perceived as blue color, are the strongest synchronizing agent for the circadian system that keeps most biological and psychological rhythms internally synchronized. Circadian rhythm is important for optimum function of organisms and circadian sleep–wake disruptions or chronic misalignment often may lead to psychiatric and neurodegenerative illness. The beneficial effect on circadian synchronization, sleep quality, mood, and cognitive performance depends not only on the light spectral composition but also on the timing of exposure and its intensity. Exposure to blue light during the day is important to suppress melatonin secretion, the hormone that is produced by the pineal gland and plays crucial role in circadian rhythm entrainment. While the exposure to blue is important for keeping organism's wellbeing, alertness, and cognitive performance during the day, chronic exposure to low‐intensity blue light directly before bedtime, may have serious implications on sleep quality, circadian phase and cycle durations. This rises inevitably the need for solutions to improve wellbeing, alertness, and cognitive performance in today's modern society where exposure to blue light emitting devices is ever increasing.
+
+Interventions to reduce short-wavelength (“blue”) light exposure at night and their effects on sleep: A systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Wearing color-tinted lenses to filter short-wavelength light exposure before bedtime may improve sleep, particularly in individuals with insomnia, bipolar disorder, delayed sleep phase syndrome, or ADHD.
+
+Abstract:Abstract The sleep-wake and circadian cycles are influenced by light, particularly in the short-wavelength portion of the visible spectrum. Most personal light-emitting electronic devices are enriched in this so-called “blue” light. Exposure to these devices in the evening can disturb sleep. Interventions to reduce short-wavelength light exposure before bedtime may reduce adverse effects on sleep. We conducted a systematic review and meta-analysis to examine the effect of wearing color-tinted lenses (e.g. orange or amber) in frames to filter short-wavelength light exposure to the eye before nocturnal sleep. Outcomes were self-reported or objective measures of nocturnal sleep. Relatively few (k = 12) studies have been done. Study findings were inconsistent, with some showing benefit and others showing no effect of intervention. Meta-analyses yielded a small-to-medium magnitude combined effect size for sleep efficiency (Hedge’s g = 0.31; 95% CI: −0.05, 0.66; I2 = 38.16%; k = 7), and a small-to-medium combined effect size for total sleep time (Hedge’s g = 0.32; 95% CI: 0.01, 0.63; I2 = 12.07%; k = 6). For self-report measures, meta-analysis yielded a large magnitude combined effects size for Pittsburgh Sleep Quality Index ratings (Hedge’s g = −1.25; 95% CI: −2.39, −0.11; I2 = 36.35%; k = 3) and a medium combined effect size for total sleep time (Hedge’s g = 0.51; 95% CI: 0.18, 0.84; I2 = 0%; k = 3), Overall, there is some, albeit mixed, evidence that this approach can improve sleep, particularly in individuals with insomnia, bipolar disorder, delayed sleep phase syndrome, or attention-deficit hyperactive disorder. Considering the ubiquitousness of short-wavelength-enriched light 
+
+Evening light environments can be designed to consolidate and increase the duration of REM-sleep
+
+Number of 
+
+Key takeaways:Evening blue-depleted light environments (BDLEs) can consolidate and increase the duration of REM sleep, potentially benefiting individuals with fragmented REM sleep disorders.
+
+Does blue light affect sleep quality or performance? – empirical research based on anonymous surveys among medical students and physicians
+
+Number of 
+
+Key takeaways:Exposure to blue light can negatively affect sleep quality and performance, with 81.7 percent of medical students and physicians reporting poor sleep quality.
+
+Abstract:Introduction: Nowadays, more and more people use electronic devices. As the amount of time spent using them has increased, so has the quality of sleep. People go to bed later, and the process of falling asleep is delayed. In addition, sleep time is reduced, which translates into sleep deprivation. Many people think that blue light is only emitted from digital screens, but it is nothing new - it is part of the light emitted. Light is the most important factor regulating the circadian rhythms of the human body. All types of visible light can affect circadian rhythms, but blue light has the greatest impact. 
+The aim of the study: The aim of the study was to assess if blue light affects sleep quality and performance by empirical research based on anonymous surveys among medical students and physicians. 
+Materials and methods: The research material was collected using an anonymous online survey in May 2023. The obtained results were analyzed and verified on the basis of scientific literature and statistically processed using Microsoft Office Excel. 
+Results: 92.3% of the respondents use electronic devices before going to bed, mostly the phone, and the time of using usually ranges from 30 minutes to 1 hour. Most of the people filling the questionnaire sleep on average 5-6 hours at night, of which as many as 81.7% declare that their sleep is not of good quality. 91.3% of respondents know what blue light is, but only 22.1% use protection against it before sleep. 
+Conclusion: Exposure to blue light can affect sleep, performance and well-being. An important negative effect of exposure to blue light is a reduction in the quality and length of sleep, which can negatively affect performance. It is believed that in order to maintain a healthy circadian rhythm, it is necessary not only to increase the proportion of blue light in artificial light during the day, but also to reduce the amount of that light in the evening and night hours.
+
+The Effects of Pre-bedtime Blue-Light Exposure on Subjective Sleep Quality, Attention, and Work Efficiency in Men Students: A Pilot Study
+
+Number of 
+
+Key takeaways:Pre-bedtime blue-light exposure negatively affects deep sleep ratio, sustained attention, and work efficiency in young men without sleep disorders.
+
+Abstract:BackgroundAlthough exposure to blue light in the evening has been shown to affect sleep, its effects on alertness and work efficiency the next day are not fully understood.ObjectiveThis study aimed to investigate the effects of pre-bedtime blue-light exposure on subjective sleep quality, attention, and work efficiency.MethodsThirteen young men (aged 20–23 years) without sleep disorders participated in two sessions, in which they were exposed to either incandescent light or blue light 1 h before bedtime. On the next morning, participants underwent assessments of subjective sleep quality, attention, and work efficiency. Objective parameters during sleep were measured using a mat-type sleep meter (sleep scan, SL- 504; TANITA Corp., Japan).ResultsBlue-light exposure significantly decreased the ratio of time spent in deep sleep (p < 0.05), reaction times (i.e., attention) during the second half of the 10-min session (p < 0.01), and work efficiency (p < 0.05).ConclusionThe present study suggests that blue-light exposure before bedtime leads to a decrease in the ratio of deep sleep and negative effects on sustained attention and work efficiency.
+
+Blue Light Exposure Effects on Sleep Attributes in a 72-Hour Military Exercise
+
+Number of 
+
+Key takeaways:Blue light exposure during evening field operations significantly degrades sleep quality in Soldiers, potentially impacting their alertness and performance during operations.
+
+Abstract:In the digital age, the military is developing cutting edge technologies (e.g., heads-up and mixed reality displays, night vision devices, etc.) to maximize situational awareness and effectiveness. Effects of light exposure from screen-based systems on our Soldier-operators has not been fully considered. Some literature concludes that evening blue light exposure preceding bedtime can result in increased alertness and may negatively impact sleep, producing negative moodstates and sleepiness upon wakening. The current study looks at blue light exposure and subsequent sleep of forty-six Soldiers during a company-wide field exercise utilizing wrist-worn actigraphy and light sensors. Observations indicate periods of blue light exposure during evening field operations were followed by sleep intervals with significant decrements in sleep quality. Future studies will isolate the effects of military-specific blue light emitting device exposure in high contrast, low ambient light environments on sleep quality, providing specific guidance and interventions to reduce negative impacts on operations.
+
+Blue light and its effects on sleep
+
+Number of 
+
+Key takeaways:Blue light exposure contributes to circadian rhythm disruptions and sleep quality issues, as it suppresses melatonin secretion, which plays a crucial role in promoting sleep and preventing sleep disorders.
+
+Abstract:Abstract Short wavelenght light (blue light) contributes to dysregulations of the circadian cycles. In an era where most of the light sources were replaced by Light Emitting Diodes (LEDs), a new problem regarding sleep quality and nictemeral cycle appears. Even though blue light is currently being used a treatment for sleep dysregulations and insomnia (through cycle altering), this stimuli activates the melanopsin secretory mechanism via photoreceptor cells and thus supresses the pineal secretion of melatonin. Melatonin plays a crucial role in provoking pre-sleep symptoms, inducing and maintaining sleep, improving sleep quality and multiple other effects dependant to the organ, such as being an antioxidant or its protective atribute against diabetes. This paper is a general review of the literature and brings to a single place multiple studies about the importance of sleep, physiology of melatonin secretion and the effect of light exposure on those aforementioned.
+
+Impacts of Blue Light Exposure From Electronic Devices on Circadian Rhythm and Sleep Disruption in Adolescent and Young Adult Students
+
+Number of 
+
+Key takeaways:Excessive blue light exposure from electronic devices, especially before bedtime, can disrupt circadian rhythms and cause sleep disruption, negatively impacting mood, learning memory, and academic performance in adolescents and young adults.
+
+Abstract:The excessive exposure of blue light, originated from electronic gadgets like smartphones, laptops, and tablets, may contribute to sleep problems. Long exposure to blue-wavelength light from these devices affects sleep by suppressing melatonin hormone and cause neurophysiologic consequences. This literature review highlights the most recent findings on the relationship between sleep disruption and blue light exposure among the high school and college student population. A variety of scientific studies have shown that blue light exposure, especially before bedtime, can create circadian disruptions and inhibit melatonin secretion in brain, which ultimately result in deteriorated sleep quality and duration. Sleep deprivation in duration and quality of sleep is reflected in negative effects on mood, learning memory, and academic performance of a student from middle school to college. In general, the accumulating evidence indicates that, to promote adolescent and young adult health, it is necessary to pay attention to the impacts of blue light exposure from modern technologies.
+
+The influence of blue light on sleep, performance and wellbeing in young adults: A systematic review
+
+Number of 
+
+Key takeaways:Blue light exposure can positively affect cognitive performance, alertness, and reaction time, but may negatively impact sleep quality and duration, potentially worsening athletes' physical and cognitive performance and recovery.
+
+Abstract:Introduction: Blue light from electronic devices has a bad reputation. It has a wavelength which may influence our circadian rhythm and cause bad sleep. But there are other aspects of blue light exposure which are often overlooked, for example, it may influence performance and wellbeing. However, few re
+
+Effect of evening blue light blocking glasses on subjective and objective sleep in healthy adults: A randomized control trial.
+
+Number of 
+
+Key takeaways:Blue light blocking glasses did not improve objective sleep time or quality in healthy adults, despite reducing subjective sleep onset and awakenings.
+
+Evening and night exposure to screens of media devices and its association with subjectively perceived sleep: Should 'light hygiene' be given more attention?
+
+Number of 
+
+Key takeaways:Evening and night exposure to screens negatively impacts sleep quality, suggesting the need for increased attention to 'light hygiene' in public health.
+
+Blue-Enriched Morning Light as a Countermeasure to Light at the Wrong Time: Effects on Cognition, Sleepiness, Sleep, and Circadian Phase
+
+Number of 
+
+Key takeaways:Bright blue-enriched morning light can stabilize circadian phase and counteract the detrimental effects of inadequate daytime and evening lighting, improving cognitive performance and reaction times.
+
+Abstract:Light during the day and darkness at night are crucial factors for proper entrainment of the human circadian system to the solar 24-h day. However, modern life and work styles have led to much more time spent indoors, often with lower daytime and higher evening/nighttime light intensity from electrical lighting than outdoors. Whether this has long-term consequences for human health is being currently investigated. We tested if bright blue-enriched morning light over several days could counteract the detrimental effects of inadequate daytime and evening lighting. In a seminaturalistic, within-between subject study design, 18 young participants were exposed to different lighting conditions on 3 evenings (blue-enriched, bright orange, or dim light), after exposure to 2 lighting conditions (mixed blue-enriched light and control light, for 3 days each) in the mornings. Subjective sleepiness, reaction times, salivary melatonin concentrations, and nighttime sleep were assessed. Exposure to the blue-enriched morning lighting showed acute wake-promoting effects and faster reaction times than with control lighting. Some of these effects persisted until the evening, and performance improved over several days. The magnitude of circadian phase shifts induced by combinations of 3 different evening and 2 morning lighting conditions were significantly smaller with the blue-enriched morning light. During the night, participants had longer total sleep times after orange light exposure than after blue light exposure in the evening. Our results indicate that bright blue-enriched morning light stabilizes circadian phase, and it could be an effective counterstrategy for poor lighting during the day and also light exposure at the wrong time, such as in the late evening.
+
+Effect of the Combined Use of Morning Blue-Enriched Lighting and Night Blue-Suppressed Lighting (MENS) on Sleep Quality
+
+Number of 
+
+Key takeaways:The combined use of morning blue-enriched and night blue-suppressed lighting (MENS) significantly improves sleep quality, with 480-nm blue light effectively reducing sleep latency.
+
+Abstract:Objectives: Previous studies have shown that exposure to blue-enriched light in the morning or blue-suppressed light in the evening may positively affect sleep. In this study, we aimed to investigate the effect of combination of morning blue-enriched and night blue-suppressed lighting (MENS) on sleep quality. Methods: Thirty workers were recruited. After one-week baseline evaluation, the participants were randomly assigned to either an experimental or a control group. Both were exposed to light in the morning and evening for two weeks. The experimental group used a lighting device emitting 480-nm wavelength maximized light in the morning and minimized light in the evening, while the control group used 450-nm wavelength light in the same way. The final evaluation was conducted using questionnaires and sleep diaries. Results: Both groups showed statistically significant improvements in seven out of nine sleep quality measures (p<0.05). The experimental group showed improvement in sleep latency and sleep fragmentation compared to that in the control group (p=0.017). The control group showed improvement in wake after sleep onset. The ratio of participants who showed improvement and transitioned from abnormal to normal values was significantly higher in the experimental group for sleep latency (p=0.046) and in the control group for fatigue (p=0.012). Conclusions: The findings suggest that the use of MENS significantly improves sleep quality. Although the difference in the improvement effect between different wavelengths of blue light was not substantial, the use of 480-nm blue light appears to be effective in reducing sleep latency.
+
+Blue-enriched white light in the workplace improves self-reported alertness, performance and sleep quality.
+
+Number of 
+
+Key takeaways:Exposure to blue-enriched white light during daytime work hours improves subjective alertness, performance, and reduces evening fatigue in office workers.
+
+Abstract:OBJECTIVES
+Specifications and standards for lighting installations in occupational settings are based on the spectral sensitivity of the classical visual system and do not take into account the recently discovered melanopsin-based, blue-light-sensitive photoreceptive system. The authors investigated the effects of exposure to blue-enriched white light during daytime workhours in an office setting.
+
+METHODS
+The experiment was conducted on 104 white-collar workers on two office floors. After baseline assessments under existing lighting conditions, every participant was exposed to two new lighting conditions, each lasting 4 weeks. One consisted of blue-enriched white light (17 000 K) and the other of white light (4000 K). The order was balanced between the floors. Questionnaire and rating scales were used to assess alertness, mood, sleep quality, performance, mental effort, headache and eye strain, and mood throughout the 8-week intervention.
+
+RESULTS
+Altogether 94 participants were included in the analysis. Compared with white light (4000 K), blue-enriched white light (17 000 K) improved the subjective measures of alertness (P<0.0001), positive mood (P=0.0001), performance (P<0.0001), evening fatigue (P=0.0001), irritability (P=0.004), concentration (P<0.0001), and eye discomfort (P=0.002). Daytime sleepiness was reduced (P=0.0001), and the quality of subjective nocturnal sleep (P=0.016) was improved under blue-enriched white light. When the participants' expectation about the effect of the light treatments was entered into the analysis as a covariate, significant effects persisted for performance, alertness, evening fatigue, irritability, difficulty focusing, concentrating, and blurred vision.
+
+CONCLUSIONS
+Exposure to blue-enriched white light during daytime workhours improves subjective alertness, performance, and evening fatigue.
+
+The effects of different bedroom light environments in the evening on adolescents
+
+Number of 
+
+Key takeaways:Exposure to low CCT light before bedtime improves sleep quality, reduces next-morning sleepiness, and slightly decreases fatigue in adolescents compared to high CCT light.
+
+Evening prolonged relatively low melanopic equivalent daylight illuminance light exposure increases arousal before and during sleep without altering sleep structure
+
+Number of 
+
+Key takeaways:Evening prolonged relatively low melanopic equivalent daylight illuminance light exposure mildly increases arousal before and during sleep without significantly altering sleep structure or quality.
+
+Abstract:Light can influence many psychophysiological functions beyond vision, including alertness, circadian rhythm, and sleep, namely the non‐image forming (NIF) effects of light. Melanopic equivalent daylight illuminance (mel‐EDI) is currently recommended as the predictor of the NIF effects of light. Although light dose is also critical for entraining and regulating circadian cycle, it is still unknown whether relatively low mel‐EDI light exposure for prolonged duration in the evening would affect pre‐sleep arousal and subsequent sleep. In all, 18 healthy college students (10 females, mean age 21.67  years) underwent 2 experimental nights with a 1 week interval in a simulated bedroom environment. During experimental nights, participants were either exposed to high or low mel‐EDI light (73 versus 38 lx mel‐EDI, 90 versus 87 photopic lx at eye level, 150 photopic lx at table level) for 3.5 h before regular bedtime, and their sleep was monitored by polysomnography. Subjective sleepiness, mood, and resting‐state electroencephalography during light exposure were also investigated. Results showed no significant differences in sleep structure and sleep quality between the two light conditions, whereas 3.5 h of exposure to high versus low mel‐EDI light induced marginally higher physiological arousal in terms of a lower delta but higher beta power density before sleep, as well as a lower delta power density during sleep. Moreover, participants felt happier before sleep under exposure to high versus low mel‐EDI light. These findings together with the current literature suggest that evening prolonged relatively low mel‐EDI light exposure may mildly increase arousal before and during sleep but affected sleep structure less.
+
+Lactic acid contributes to the emergence of depression-like behaviors triggered by blue light exposure during sleep.
+
+Number of 
+
+Key takeaways:Excessive exposure to high-blue light-content artificial light at night is linked to increased depressive symptoms, with lactic acid levels playing a role in these behaviors.
+
+Evening blue light exposure during adolescence induces avoidance behaviors and rewires medial amygdala circuit
+
+Number of 
+
+Key takeaways:Evening blue light exposure during adolescence increases avoidance behaviors and alters the medial amygdala's functions, potentially increasing the risk of affective disorders.
+
+Abstract:Adolescents are being increasingly exposed to artificial blue light from electronic devices, raising concerns about its effects on brain development and mental health. The medial amygdala (MeA), a brain region critical for emotional regulation, is light-sensitive, yet how evening blue light during puberty influences its circuitry and behavior remains unknown. Using a light cycle disruption paradigm, we found that adolescent mice exposed to evening blue light displayed increased avoidance behaviors compared to those exposed to darkness or reduced blue light conditions. Single-nuclei RNA sequencing revealed altered cell-type composition and disrupted synaptic communication pathways in the MeA. In vivo calcium imaging showed increased activity in MeA somatostatin neurons during avoidance behaviors, while chemogenetic inhibition of these neurons reduced these behaviors. Our findings identify the MeA as a key integrator of emotional responses to environmental blue light, suggesting evening blue light exposure during puberty as a potential risk factor for affective disorders. Teaser Evening blue light exposure during adolescence alters medial amygdala functions, leading to anxiety-like behaviors.
+
+Number of 
+
+Key takeaways:Curtailing blue light exposure at night and maximizing it in the morning can improve health and well-being by optimizing circadian rhythms and reducing risks for obesity, depression, and other issues.
+
+Abstract:One feature of modern life that may have negative consequences for our health is exposure to light levels that are not aligned with the solar days. This book reviews the scientific literature on the role of appropriately timed light exposure and concludes that it seems prudent to curtail exposure to blue light during the night and maximize exposure to blue light during the morning. Circadian rhythms require short wavelength (blue) light early during the day to optimize their temporal regulation. Experiencing light at night or insufficient light during the day can lead to a host of problems such as obesity, major depression, bipolar depressive disorder, seasonal affective disorder, sleep disorders, common problems with learning and memory, Alzheimer’s disease and other forms of dementia, sundowning syndrome, cancer, heart disease, hypertension, heart attacks, and strokes. Even sustained exposure to the equivalent of a child’s night light can impact everything from how well our brains function every day to how well our bodies recover from injury. Lack of bright light during the day can compromise mood, accelerate cancer growth, and impair cognition. This book introduces the importance of light and circadian rhythms and examines the role of light and body weight; the relationship between appropriately timed light exposure and mood; the role of light on sleep; the interaction among light exposure, cognition, and memory; and the importance of appropriate exposure to light to reduce risk for cancer and cardiovascular disease. Finally, it describes strategies to reduce disruptions to circadian rhythms to improve health and well-being.
+
+Clinical benefits of modifying the evening light environment in an acute psychiatric unit: A single-centre, two-arm, parallel-group, pragmatic effectiveness randomised controlled trial
+
+Number of 
+
+Key takeaways:Modifying the evening light environment in acute psychiatric hospitals can have clinically significant benefits without increasing side effects, reducing patient satisfaction, or requiring additional clinical staff.
+
+Abstract:Background: The impact of light exposure on mental health is increasingly recognized. Modifying inpatient evening light exposure may be a low-intensity intervention for mental disorders, but few randomized controlled trials (RCTs) exist. We report a large-scale pragmatic effectiveness RCT exploring whether individuals with acute psychiatric illnesses experience additional benefits from admission to an inpatient ward where changes in the evening light exposure are integrated into the therapeutic environment. Methods and findings: All adults admitted for acute inpatient psychiatric care over eight months were randomly allocated to a ward with a blue-depleted evening light environment or a ward with standard light environment. Baseline and outcome data from individuals who provided deferred informed consent were used to analyze the primary outcome measure (differences in duration of hospitalization) and secondary measures (differences in key clinical outcomes). The Intent to Treat sample comprised 476 individuals (mean age 37; 41% were male). There were no differences in the mean duration of hospitalization (6.7 vs. 7.1 days). Inpatients exposed to the blue-depleted evening light showed higher improvement during admission (Clinical Global Impressions scale-Improvement: 0.28, 95% CI: 0.02 to 0.54; p=0.035, Number Needed to Treat for clinically meaningful improvement (NNT): 12); lower illness severity at discharge (Clinical Global Impressions Scale-Severity: -0.18, 95% CI: -0.34 to -0.02; p=0.029, NNT for mild severity at discharge: 7); and lower levels of aggressive behaviour (Broset Violence Checklist difference in predicted serious events per 100 days: -2.98; 95% CI: -4.98 to -0.99; p=0.003, NNT: 9). Incidents of harm to self or others, side effects, and patient satisfaction did not differ between the lighting conditions. Conclusions: Modifying the evening light environment in acute psychiatric hospitals according to chronobiological principles does not change duration of hospitalizations, but can have clinically significant benefits without increasing side effects, reducing patient satisfaction or requiring additional clinical staff.
+
+No Light at Night and Bright Light in the Morning
+
+Number of 
+
+Key takeaways:Excessive exposure to blue light from electronic devices can disrupt sleep patterns and negatively impact health, particularly in adolescents and young adults.
+
+Abstract:Smartphones, tablets, and other electronic devices that appeared 20 years ago have become an integral part of our lives, especially among adolescents and young adults.A growing body of research suggests that excessive exposure to blue light emitted by the screens of these devices can have a significant impact on health and well-being, particularly when it comes to sleep quantity and quality.Chronobiology in Medicine has consistently raised these concerns as well .Excessive evening and nighttime blue light exposure can alter the timing of circadian rhythms and delay sleep onset.In this issue of the journal, Alam et al. discussed the widespread effects of blue light emitted by electronics on sleep patterns and overall health in adolescents and young adults.They noted that this exposure disrupts circadian rhythms and suppresses melatonin production, reducing the quality and duration of sleep.These issues are particularly acute among students, affecting their cognitive function, academic performance, and mental health.It is important to ensure that your bedroom environment is sufficiently dark to regularize your circadian rhythm and maintain a healthy sleep-wake cycle.Ideally, there should be no light present in your bedroom while sleeping.However, if necessary for safety reasons, a dim taillight may be left on.Indirect light is preferable, with yellow light being more conducive to sleep than white light, which contains higher levels of blue light.Research conducted by my group has demonstrated that even low levels of light, ranging from 5-10 lux, in the bedroom can lead to poor sleep quality, characterized by increased wakefulness and reduced deep sleep.Prolonged exposure to 10 lux of light during sleep has been associated with decreased frontal lobe function the following day,
+
+Blue Light and Digital Screens Revisited: A New Look at Blue Light from the Vision Quality, Circadian Rhythm and Cognitive Functions Perspective
+
+Number of 
+
+Key takeaways:Exposure to blue light from digital screens can disrupt sleep quality, mental health, and increase the risk of certain cancers.
+
+Abstract:Research conducted over the years has established that artificial light at night (ALAN), particularly short wavelengths in the blue region (~400–500 nm), can disrupt the circadian rhythm, cause sleep disturbances, and lead to metabolic dysregulation. With the increasing number of people spending considerable amounts of time at home or work staring at digital screens such as smartphones, tablets, and laptops, the negative impacts of blue light are becoming more apparent. While blue wavelengths during the day can enhance attention and reaction times, they are disruptive at night and are associated with a wide range of health problems such as poor sleep quality, mental health problems, and increased risk of some cancers. The growing global concern over the detrimental effects of ALAN on human health is supported by epidemiological and experimental studies, which suggest that exposure to ALAN is associated with disorders like type 2 diabetes, obesity, and increased risk of breast and prostate cancer. Moreover, several studies have reported a connection between ALAN, night-shift work, reduced cognitive performance, and a higher likelihood of human errors. The purpose of this paper is to review the biological impacts of blue light exposure on human cognitive functions and vision quality. Additionally, studies indicating a potential link between exposure to blue light from digital screens and increased risk of breast cancer are also reviewed. However, more research is needed to fully comprehend the relationship between blue light exposure and adverse health effects, such as the risk of breast cancer.
+
+Blue blocker glasses as a countermeasure for alerting effects of evening light-emitting diode screen exposure in male teenagers.
+
+Number of 
+
+Key takeaways:Blue light-blocking glasses can counteract the negative effects of LED screen exposure on circadian physiology in adolescents, potentially improving sleep and reducing alertness before bedtime.
+
+Artificial light at night and risk of mental disorders: A systematic review.
+
+Number of 
+
+Key takeaways:Artificial light at night is moderately associated with an increased risk of depressive disorders, but more robust evidence is needed.
+
+The effect of blue light on cognitive function at workplaces: A systematic review
+
+Number of 
+
+Key takeaways:Blue light in workplace settings can enhance attention and reaction times, but its effects on memory and sleep are more variable.
+
+The effect of evening light on circadian-related outcomes: A systematic review.
+
+Number of 
+
+Key takeaways:Evening light exposure before night shifts can improve sleep quality, memory, and work performance, but its effects on mood are uncertain.
+
+Abstract:Bright light exposure at night can help workers adapt to their shift schedules, but there has been relatively little research on evening light. We conducted a systematic review of studies that manipulated light exposure in the evening (broadly defined as 16:00-22:00) before real or simulated night shifts. Across the five eligible studies, evening light produced phase delays in melatonin, body temperature, and sleep propensity; it also improved sleep quality, sleep duration, memory, and work performance. There were mixed effects for mood, no changes in sleepiness, and no negative effects. The confidence in these results ranged from moderate for physiological markers of circadian phase delays to very low for mood. Future studies should compare the relative effectiveness and safety of evening versus night-time light exposure. Overall, the benefits of evening light for shift workers are tentative yet promising.
+
+Improved cognitive morning performance in healthy older adults following blue-enriched light exposure on the previous evening
+
+Number of 
+
+Key takeaways:Exposure to blue-enriched white light in the evening significantly improves working memory performance and objective alertness in older adults, without affecting sleep or circadian timing.
+
+Sex differences in light sensitivity impact on brightness perception, vigilant attention and sleep in humans
+
+Number of 
+
+Key takeaways:Men show a stronger response to blue-enriched light in the late evening, leading to increased vigilant attention and faster reaction times in sustained attention tasks.
+
+Morning and Evening Blue-Enriched Light Exposure Alters Metabolic Function in Normal Weight Adults
+
+Number of 
+
+Key takeaways:Blue-enriched light exposure acutely alters glucose metabolism and reduces sleepiness, suggesting a role of environmental light exposure in regulating metabolism.
+
+Abstract:Increasing evidence points to associations between light-dark exposure patterns, feeding behavior, and metabolism. This study aimed to determine the acute effects of 3 hours of morning versus evening blue-enriched light exposure compared to dim light on hunger, metabolic function, and physiological arousal. Nineteen healthy adults completed this 4-day inpatient protocol under dim light conditions (<20lux). Participants were randomized to 3 hours of blue-enriched light exposure on Day 3 starting either 0.5 hours after wake (n = 9; morning group) or 10.5 hours after wake (n = 10; evening group). All participants remained in dim light on Day 2 to serve as their baseline. Subjective hunger and sleepiness scales were collected hourly. Blood was sampled at 30-minute intervals for 4 hours in association with the light exposure period for glucose, insulin, cortisol, leptin, and ghrelin. Homeostatic model assessment of insulin resistance (HOMA-IR) and area under the curve (AUC) for insulin, glucose, HOMA-IR and cortisol were calculated. Comparisons relative to baseline were done using t-tests and repeated measures ANOVAs. In both the morning and evening groups, insulin total area, HOMA-IR, and HOMA-IR AUC were increased and subjective sleepiness was reduced with blue-enriched light compared to dim light. The evening group, but not the morning group, had significantly higher glucose peak value during blue-enriched light exposure compared to dim light. There were no other significant differences between the morning or the evening groups in response to blue-enriched light exposure. Blue-enriched light exposure acutely alters glucose metabolism and sleepiness, however the mechanisms behind this relationship and its impacts on hunger and appetite regulation remain unclear. These results provide further support for a role of environmental light exposure in the regulation of metabolism.
+
+Evening blue‐light exposure, maternal glucose, and infant birthweight
+
+Number of 
+
+Key takeaways:Higher evening blue-light exposure in pregnancy is associated with higher fasting glucose and infant birthweight, with reduced use of electronic devices before bedtime being a modifiable behavior.
+
+Abstract:Maternal–fetal consequences of exposure to blue‐wavelength light are poorly understood. This study tested the hypothesis that evening blue‐light exposure is associated with maternal fasting glucose and infant birthweight. Forty‐one pregnant women (body mass index = 32.90 ± 6.35 kg/m2; 24–39 years old; 16 with gestational diabetes mellitus ) wore actigraphs for 7 days, underwent polysomnography, and completed study questionnaires during gestational week 30 ± 3.76. Infant birthweight (n = 41) and maternal fasting glucose (n = 30; range = 16–36 weeks) were recorded from the mothers’ medical charts. Blue‐light exposure was obtained from Actiwatch‐Spectrum recordings. Adjusted and unadjusted linear regression analyses were performed to determine sleep characteristics associated with maternal fasting glucose and infant‐birthweight. The mean fasting mid‐ to late‐gestation glucose was 95.73 ± 24.68 mg/dl and infant birthweight was 3271 ± 436 g. In unadjusted analysis, maternal fasting glucose was associated with blue‐light exposure (β = 3.82, p = 0.03). In the final model of multiple linear regression for fasting glucose, evening blue‐light exposure (β = 4.00, p = 0.01) remained significant after controlling for gestational weight gain, parity, sleep duration, and GDM. Similarly, blue‐light exposure was associated with infant birthweight (69.79, p = 0.006) in the unadjusted model, and remained significant (β = 70.38, p = 0.01) after adjusting for weight gain, wakefulness after sleep onset, gestational age at delivery, and GDM. Higher blue‐light exposure in pregnancy is associated with higher fasting glucose and infant birthweight. Reduced use of electronic devices before bedtime is a modifiable behavior.
+
+Evening exposure to a light-emitting diodes (LED)-backlit computer screen affects circadian physiology and cognitive performance.
+
+Number of 
+
+Key takeaways:Evening exposure to LED-backlit computer screens suppresses melatonin production and enhances cognitive performance, but may disrupt circadian physiology.
+
+Abstract:Many people spend an increasing amount of time in front of computer screens equipped with light-emitting diodes (LED) with a short wavelength (blue range). Thus we investigated the repercussions on melatonin (a marker of the circadian clock), alertness, and cognitive performance levels in 13 young male volunteers under controlled laboratory conditions in a balanced crossover design. A 5-h evening exposure to a white LED-backlit screen with more than twice as much 464 nm light emission {irradiance of 0,241 Watt/(steradian × m(2)) , 2.1 × 10(13) photons/(cm(2) × s), in the wavelength range of 454 and 474 nm} than a white non-LED-backlit screen elicited a significant suppression of the evening rise in endogenous melatonin and subjective as well as objective sleepiness, as indexed by a reduced incidence of slow eye movements and EEG low-frequency activity (1-7 Hz) in frontal brain regions. Concomitantly, sustained attention, as determined by the GO/NOGO task; working memory/attention, as assessed by 'explicit timing'; and declarative memory performance in a word-learning paradigm were significantly enhanced in the LED-backlit screen compared with the non-LED condition. Screen quality and visual comfort were rated the same in both screen conditions, whereas the non-LED screen tended to be considered brighter. Our data indicate that the spectral profile of light emitted by computer screens impacts on circadian physiology, alertness, and cognitive performance levels. The challenge will be to design a computer screen with a spectral profile that can be individually programmed to add timed, essential light information to the circadian system in humans.
+
+Daily blue-light exposure shortens lifespan and causes brain neurodegeneration in Drosophila
+
+Number of 
+
+Key takeaways:Daily blue-light exposure in Drosophila shortens lifespan and causes brain neurodegeneration, with cumulative light exposure acting as a stressor during aging.
+
+Out of the Lab and into the Bathroom: Evening Short-Term Exposure to Conventional Light Suppresses Melatonin and Increases Alertness Perception
+
+Number of 
+
+Key takeaways:Evening exposure to conventional lamps with blue components reduces melatonin levels and increases alertness perception within 30 minutes in a naturalistic setting.
+
+Abstract:Life in 24-h society relies on the use of artificial light at night that might disrupt synchronization of the endogenous circadian timing system to the solar day. This could have a negative impact on sleep–wake patterns and psychiatric symptoms. The aim of the study was to investigate the influence of evening light emitted by domestic and work place lamps in a naturalistic setting on melatonin levels and alertness in humans. Healthy subjects (6 male, 3 female, 22–33 years) were exposed to constant dim light (<10 lx) for six evenings from 7:00 p.m. to midnight. On evenings 2 through 6, 1 h before habitual bedtime, they were also exposed to light emitted by 5 different conventional lamps for 30 min. Exposure to yellow light did not alter the increase of melatonin in saliva compared to dim light baseline during (38 ± 27 pg/mL vs. 39 ± 23 pg/mL) and after light exposure (39 ± 22 pg/mL vs. 44 ± 26 pg/mL). In contrast, lighting conditions including blue components reduced melatonin increase significantly both during (office daylight white: 25 ± 16 pg/mL, bathroom daylight white: 24 ± 10 pg/mL, Planon warm white: 26 ± 14 pg/mL, hall daylight white: 22 ± 14 pg/mL) and after light exposure (office daylight white: 25 ± 15 pg/mL, bathroom daylight white: 23 ± 9 pg/mL, Planon warm white: 24 ± 13 pg/mL, hall daylight white: 22 ± 26 pg/mL). Subjective alertness was significantly increased after exposure to three of the lighting conditions which included blue spectral components in their spectra. Evening exposure to conventional lamps in an everyday setting influences melatonin excretion and alertness perception within 30 min.
+
+Light as a Modulator of Non-Image-Forming Brain Functions—Positive and Negative Impacts of Increasing Light Availability
+
+Number of 
+
+Key takeaways:Increasing light availability, particularly from LED devices, may have both positive and negative impacts on non-image-forming brain functions, such as cognition, sleep, alertness, and mood.
+
+Abstract:Light use is rising steeply, mainly because of the advent of light-emitting diode (LED) devices. LEDs are frequently blue-enriched light sources and may have different impacts on the non-image forming (NIF) system, which is maximally sensitive to blue-wavelength light. Most importantly, the timing of LED device use is widespread, leading to novel light exposure patterns on the NIF system. The goal of this narrative review is to discuss the multiple aspects that we think should be accounted for when attempting to predict how this situation will affect the NIF impact of light on brain functions. We first cover both the image-forming and NIF pathways of the brain. We then detail our current understanding of the impact of light on human cognition, sleep, alertness, and mood. Finally, we discuss questions concerning the adoption of LED lighting and screens, which offer new opportunities to improve well-being, but also raise concerns about increasing light exposure, which may be detrimental to health, particularly in the evening.
+
+Exploring the metabolic implications of blue light exposure during daytime in rats.
+
+Number of 
+
+Key takeaways:Blue light exposure during daytime in rats leads to systemic metabolic alterations, potentially impacting neurodevelopment, cellular injury, oxidative stress, and autophagic pathways.
+
+Exposure to Blue Light Increases Subsequent Functional Activation of the Prefrontal Cortex During Performance of a Working Memory Task.
+
+Number of 
+
+Key takeaways:Short exposure to blue light improves working memory performance and leads to temporary brain changes in prefrontal regions associated with executive functions.
+
+Abstract:STUDY OBJECTIVES
+Prolonged exposure to blue wavelength light has been shown to have an alerting effect, and enhances performance on cognitive tasks. A small number of studies have also shown that relatively short exposure to blue light leads to changes in functional brain responses during the period of exposure. The extent to which blue light continues to affect brain functioning during a cognitively challenging task after cessation of longer periods of exposure (i.e., roughly 30 minutes or longer), however, has not been fully investigated.
+
+METHODS
+A total of 35 healthy participants (18 female) were exposed to either blue (469 nm) (n = 17) or amber (578 nm) (n = 18) wavelength light for 30 minutes in a darkened room, followed immediately by functional magnetic resonance imaging (fMRI) while undergoing a working memory task (N-back task).
+
+RESULTS
+Participants in the blue light condition were faster in their responses on the N-back task and showed increased activation in the dorsolateral (DLPFC) and ventrolateral (VLPFC) prefrontal cortex compared to those in the amber control light condition. Furthermore, greater activation within the VLPFC was correlated with faster N-back response times.
+
+CONCLUSIONS
+This is the first study to suggest that a relatively brief, single exposure to blue light has a subsequent beneficial effect on working memory performance, even after cessation of exposure, and leads to temporarily persisting functional brain changes within prefrontal brain regions associated with executive functions. These findings may have broader implication for using blue-enriched light in a variety of work settings where alertness and quick decision-making are important.
+
+The influence of light exposure and chronotype on working memory in humans.
+
+Number of 
+
+Key takeaways:Exposure to blue, green, and red light does not affect working memory performance in individuals with extreme morning or evening chronotype, but may increase brain activity in prefrontal areas.
+
+Abstract:Here we examine how exposure to blue (peaking at λ=470 nm), green (peaking at λ=505 nm) and red (peaking at λ=630 nm) light affects subsequent working memory performance measured with visual N-back tasks and associated functional brain responses in participants with extreme morning and extreme evening chronotype. We used within-subjects experimental manipulation on carefully selected samples and state of the art equipment for light exposure. The results show no differences between extreme morning-type and evening-type individuals in N-back task performance. We also did not replicate the alerting effect of exposure to blue wavelength light, supposedly enhancing performance on cognitive tasks. However, we found higher brain activity in the morning hours for extreme morning in comparison to extreme evening chronotype in several frontal areas of the precentral gyrus, middle and superior frontal gyri and in the occipital gyrus. This may indicate increased strategic or attentional recruitment of prefrontal areas, implicated in compensating working memory load in the morning type.
+
+Dim light in the evening causes coordinated realignment of circadian rhythms, sleep, and short-term memory
+
+Number of 
+
+Key takeaways:Dim light exposure in the evening disrupts circadian rhythms, sleep patterns, and short-term memory in mice, highlighting the need to optimize our evening light exposure to avoid shifting our biological clocks.
+
+Abstract:Significance In modern societies, people are regularly exposed to artificial light (e.g., light-emitting electronic devices). Dim light in the evening (DLE) imposes an artificial extension of the solar day, increasing our alertness before bedtime, delaying melatonin timing and sleep onset, and increasing sleepiness in the next morning. Using laboratory mice as a model organism, we show that 2 wk of 4-h, 20-lux DLE postpones rest–activity rhythms, delays molecular rhythms in the brain and body, and reverses the diurnal pattern of short-term memory performance. These results highlight the biological impact of DLE and emphasize the need to optimize our evening light exposure if we are to avoid shifting our biological clocks. Light provides the primary signal for entraining circadian rhythms to the day/night cycle. In addition to rods and cones, the retina contains a small population of photosensitive retinal ganglion cells (pRGCs) expressing the photopigment melanopsin (OPN4). Concerns have been raised that exposure to dim artificial lighting in the evening (DLE) may perturb circadian rhythms and sleep patterns, and OPN4 is presumed to mediate these effects. Here, we examine the effects of 4-h, 20-lux DLE on circadian physiology and behavior in mice and the role of OPN4 in these responses. We show that 2 wk of DLE induces a phase delay of ∼2 to 3 h in mice, comparable to that reported in humans. DLE-induced phase shifts are unaffected in Opn4−/− mice, indicating that rods and cones are capable of driving these responses in the absence of melanopsin. DLE delays molecular clock rhythms in the heart, liver, adrenal gland, and dorsal hippocampus. It also reverses short-term recognition memory performance, which is associated with changes in preceding sleep history. In addition, DLE modifies patterns of hypothalamic and cortical cFos signals, a molecular correlate of recent neuronal activity. Together, our data show that DLE causes coordinated realignment of circadian rhythms, sleep patterns, and short-term memory process in mice. These effects are particularly relevant as DLE conditions―due to artificial light exposure―are experienced by the majority of the populace on a daily basis.
+
+Effects of morning and evening exposures to blue light of varying illuminance on ocular growth rates and ocular rhythms in chicks.
+
+Number of 
+
+Key takeaways:Exposure to 4 hours of blue light at lower illuminances stimulates ocular growth rates and affects ocular rhythms in chicks, suggesting that such exposures may be detrimental to emmetropization in children.
+
+Effects of blue light on the circadian system and eye physiology
+
+Number of 
+
+Key takeaways:Exposure to blue light can affect circadian and sleep dysfunctions, but it can also cause photoreceptor damage, making it important to consider the spectral output of LED-based light sources.
+
+Abstract:Light-emitting diodes (LEDs) have been used to provide illumination in industrial and commercial environments. LEDs are also used in TVs, computers, smart phones, and tablets. Although the light emitted by most LEDs appears white, LEDs have peak emission in the blue light range (400–490 nm). The accumulating experimental evidence has indicated that exposure to blue light can affect many physiologic functions, and it can be used to treat circadian and sleep dysfunctions. However, blue light can also induce photoreceptor damage. Thus, it is important to consider the spectral output of LED-based light sources to minimize the danger that may be associated with blue light exposure. In this review, we summarize the current knowledge of the effects of blue light on the regulation of physiologic functions and the possible effects of blue light exposure on ocular health.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

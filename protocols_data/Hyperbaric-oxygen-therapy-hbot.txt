@@ -1,0 +1,574 @@
+PROTOCOL: Hyperbaric oxygen therapy (hbot)
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Can be combined with pharmacological treatment, rehabilitation, antibiotic therapy (after consulting a doctor)
+DESCRIPTION: Hyperbaric oxygen therapy (HBOT) involves breathing pure oxygen under increased pressure in a special chamber. It is used as an adjunctive treatment in many clinical conditions, such as chronic wounds, sports injuries, osteonecrosis, radiotherapy complications, and selected neurological disorders. It supports regenerative processes, reduces inflammation, and improves microcirculation, which can lead to faster recovery and improved quality of life.
+
+CONTENT SECTIONS:
+
+Hyperbaric oxygen therapy (hbot)
+
+Multidirectional support for regeneration and treatment of chronic conditions
+
+Hyperbaric oxygen therapy (HBOT) involves breathing pure oxygen under increased pressure in a special chamber. It is used as an adjunctive treatment in many clinical conditions, such as chronic wounds, sports injuries, osteonecrosis, radiotherapy complications, and selected neurological disorders. It supports regenerative processes, reduces inflammation, and improves microcirculation, which can lead to faster recovery and improved quality of life.
+
+Level of evidence:Good
+
+Level of risk:Elevated
+
+HBOT increases the amount of dissolved oxygen in plasma, allowing for more effective oxygenation of ischemic tissues. It promotes angiogenesis (the formation of new blood vessels), activates immune system cells, reduces inflammation, and modulates oxidative stress. Additionally, it stimulates regenerative and reparative processes at the cellular level, resulting in accelerated healing, improved organ function, and potentially enhanced cognitive function.
+
+Level of risk:Elevated
+
+Hyperbaric oxygen therapy is generally well tolerated by most patients; however, it can be associated with side effects, especially with long-term or improper use.
+
+HBOT therapy is not recommended in individuals with specific medical contraindications that may increase the risk of complications during treatment.
+
+Typical dose is 1.5–2.5 ATA for 60–90 minutes, 1–2 times daily; number of sessions depends on indication (usually 10–40)
+
+Single- or multi-person hyperbaric chamber
+
+First effects are visible after a few sessions, full effect after the completed therapeutic cycle
+
+Sessions are performed during the day, preferably at a fixed time; it is not recommended to undergo sessions just before bedtime
+
+Can be combined with pharmacological treatment, rehabilitation, antibiotic therapy (after consulting a doctor)
+
+What not to combine with
+
+Avoid simultaneous alcohol consumption and smoking on the day of the session
+
+Preparation for the session
+
+For 2–3 hours before the procedure, avoid heavy meals, caffeine, and alcohol; bring comfortable clothing.
+
+During pressure increase, regularly perform the Valsalva maneuver or yawn to equalize pressure in the ears.
+
+Monitoring side effects
+
+After each session, pay attention to ear pain, headaches, vision deterioration – report concerning symptoms to staff.
+
+Collaboration with the medical team
+
+Make every decision regarding HBOT together with your attending physician, especially in the case of chronic diseases or ongoing medications.
+
+Best results are achieved with regular sessions – do not interrupt the cycle without consulting your doctor.
+
+Do not bring electronic devices, lighters, or any flammable materials into the chamber.
+
+Hyperbaric oxygen therapy (HBOT) may beneficially modulate the immune system, particularly by alleviating inflammation and supporting immune cell function. The effects depend on the patient's health status and the specific clinical application.
+
+Inflammation reduction
+
+Impact on immune cells
+
+Supporting infection control
+
+Clinical applications
+
+Limitations and uncertainties
+
+Cardiovascular system
+
+Hyperbaric oxygen therapy (HBOT) shows potentially positive effects on the cardiovascular system, particularly by improving endothelial function, reducing oxidative stress, supporting myocardial regeneration, and alleviating vascular complications. HBOT use should be individually assessed, and long-term effects require further research.
+
+Improvement of endothelial function and microcirculation
+
+Effects on cardiac parameters
+
+Reduction of oxidative stress
+
+Effects on blood pressure and heart rate
+
+Acute coronary syndrome and complications
+
+Limitations and safety
+
+Musculoskeletal system
+
+Hyperbaric oxygen therapy (HBOT) shows positive effects on the musculoskeletal system, particularly in the area of bone healing, joint injuries, tissue regeneration, and alleviation of pain and inflammation. The strongest evidence concerns improved bone healing, treatment of sports injuries, and selected chronic conditions.
+
+Bone healing and regeneration
+
+Joint and soft tissue injuries
+
+Pain and motor function
+
+Selected chronic conditions
+
+Limitations and safety
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:49
+
+Final comment:The available evidence regarding the effectiveness of hyperbaric oxygen therapy in selected indications (supporting bone healing, soft tissue injuries, improving endothelial function, reducing inflammation, recovery after stroke or brain injuries) is of good quality and includes numerous clinical studies, including randomized controlled trials and systematic reviews with meta-analyses. These indications concern both the general population and patients with comorbidities (e.g., diabetes, chronic wounds, complications after radiotherapy). The effects of HBOT are best documented in the treatment of hard-to-heal wounds, radiotherapy complications, selected sports injuries and neurological conditions, as well as in improving cardiovascular parameters in certain groups of patients. However, for many therapeutic uses, larger multicenter clinical studies are needed to confirm long-term efficacy and determine optimal protocols. For some areas (immune modulation, neuroprotective support, anti-aging prevention), the evidence is still preliminary, which limits the possibility of granting the highest level of evidence overall. Nevertheless, in light of current data, HBOT therapy deserves a 'good' rating in the context of effectiveness for selected medical indications.
+
+Bayesian Modeling of the Impact of HBOT on the Reduction in Cytokine Storms
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) may effectively reduce inflammatory cytokine levels and improve oxygen saturation in patients with COVID-19 by enhancing oxygen saturation and modulating the immune response.
+
+Abstract:Since the initial identification of SARS-CoV-2 infections, numerous clinical challenges have arisen, revealing both acute and long-term effects associated with COVID-19. These effects impact various systems within the body, including the respiratory, cardiovascular, and nervous systems. Background/Objectives: This study aimed to investigate the immunological and inflammatory parameters in patients with severe COVID-19 and evaluate the effects of hyperbaric oxygen therapy (HBOT) on these parameters. Methods: This study enrolled thirty patients from the Military Medical Institute—National Research Institute in Warsaw, who were hospitalized for SARS-CoV-2 infection. Patients were screened for eligibility based on pre-defined inclusion criteria. The subjects were randomly assigned to one of two groups: hyperbaric oxygen therapy (HBOT) or a control group. Immune profiling was performed, measuring cytokine concentrations and leukocyte subpopulations in serum samples. Outcomes were assessed using Bayesian modeling. Results: Bayesian regression analysis confirmed previous findings, indicating that HBOT may reduce inflammatory cytokine levels while improving oxygen saturation (SpO2) in patients with moderate and severe COVID-19. Moreover, the analysis suggested a higher probability of HBOT success in modulating the immune response and reducing inflammatory parameters, particularly in T lymphocyte subpopulations. Conclusions: Hyperbaric oxygen therapy (HBOT) may serve as an effective adjunctive treatment for patients with COVID-19 by enhancing oxygen saturation and modulating the immune response. Further studies are needed to elucidate the underlying mechanisms of HBOT on inflammatory and immunological parameters in COVID-19 patients.
+
+The Effects of Hyperbaric Oxygenation on Oxidative Stress, Inflammation and Angiogenesis
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) reduces inflammation and increases angiogenesis, potentially reducing complication rates and hospital stay in preconditioning for surgery.
+
+Abstract:Hyperbaric oxygen therapy (HBOT) is commonly used as treatment in several diseases, such as non-healing chronic wounds, late radiation injuries and carbon monoxide poisoning. Ongoing research into HBOT has shown that preconditioning for surgery is a potential new treatment application, which may reduce complication rates and hospital stay. In this review, the effect of HBOT on oxidative stress, inflammation and angiogenesis is investigated to better understand the potential mechanisms underlying preconditioning for surgery using HBOT. A systematic search was conducted to retrieve studies measuring markers of oxidative stress, inflammation, or angiogenesis in humans. Analysis of the included studies showed that HBOT-induced oxidative stress reduces the concentrations of pro-inflammatory acute phase proteins, interleukins and cytokines and increases growth factors and other pro-angiogenesis cytokines. Several articles only noted this surge after the first HBOT session or for a short duration after each session. The anti-inflammatory status following HBOT may be mediated by hyperoxia interfering with NF-κB and IκBα. Further research into the effect of HBOT on inflammation and angiogenesis is needed to determine the implications of these findings for clinical practice.
+
+The Effect of Hyperbaric Oxygen Therapy on Markers of Oxidative Stress and the Immune Response in Healthy Volunteers
+
+Number of 
+
+Key takeaways:Repeated hyperbaric oxygen therapy (HBOT) does not induce systemic oxidative stress or a systemic inflammatory response in healthy volunteers, but may suggest exhaustion of reactive oxygen species generation capacity and phagocytosis.
+
+Abstract:Hyperbaric oxygen therapy (HBOT) consists of breathing 100% oxygen under increased ambient pressure. There are indications that HBOT induces oxidative stress and activates immune pathways. However, previous research on immunological effects of HBOT has mainly been established in in vitro experiments and selected patient populations, limiting generalizability and increasing the chances of confounding by comorbidities and specific patient-related factors. More insight into the immunological effects of HBOT would aid investigation and comprehension of potentially novel treatment applications. Therefore, in this study, we investigated the effects of three 110-min HBOT-sessions with 24-h intervals on immunological parameters in healthy, young, male volunteers. Blood samples were obtained before and after the first and third HBOT sessions. We assessed neutrophilic reactive oxygen species (ROS) production, systemic oxidative stress as well as neutrophil phagocytic activity, plasma concentrations of tumor necrosis factor (TNF), interleukin (IL)-6, IL-8, and IL-10, and production of TNF, IL-6, and IL-10 by leukocytes ex vivo stimulated with the Toll-like receptor (TLR) ligands lipopolysaccharide (TLR4) and Pam3Cys (TLR2). We observed decreased neutrophilic ROS production and phagocytosis following the second HBOT session, which persisted after the third session, but no alterations in MDA concentrations. Furthermore, plasma concentrations of the investigated cytokines were unaltered at all-time points, and ex vivo cytokine production was largely unaltered over time as well. These results indicate no induction of systemic oxidative stress or a systemic inflammatory response after repeated HBOT in healthy volunteers but may suggest exhaustion of ROS generation capacity and phagocytosis.
+
+Hyperbaric Therapy for Auto Immune Diseases
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) promotes healing and immune functionality in autoimmune diseases by reducing inflammation, combating infections, and enhancing tissue repair.
+
+Abstract:An autoimmune disease arises when the immune system mistakenly targets the body’s own tissues, causing damage rather than providing protection. Hyperbaric oxygen therapy (HBOT) involves the administration of 100% pure oxygen within a specialized environment known as a hyperbaric chamber. While atmospheric air contains only 21% oxygen, HBOT leverages increased air pressure within the chamber to enhance the lungs’ ability to absorb oxygen. This elevated oxygen intake delivers vital oxygen to tissues, promoting healing and aiding in the fight against certain infections.
+
+HBOT operates through multiple mechanisms: it reduces inflammation, combats infections, and facilitates the repair of damaged tissues. The therapy’s pure oxygen content supports the immune system in combating bacteria while stimulating the production of stem cells. These stem cells play a pivotal role in generating various cell types essential for bodily functions, including blood cells, brain cells, and muscle cells. In essence, HBOT fosters tissue repair and enhances overall immune functionality.
+
+Hyperbaric oxygen therapy: Antimicrobial mechanisms and clinical application for infections.
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) has antimicrobial effects and can effectively treat various infections, particularly deep and chronic ones, by enhancing the immune system and reducing tissue damage.
+
+Hyperbaric oxygen therapy increases telomere length and decreases immunosenescence in isolated blood cells: a prospective trial
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) significantly increases telomere length and clears senescent cells in aging individuals.
+
+Abstract:Introduction: Aging is characterized by the progressive loss of physiological capacity. At the cellular level, two key hallmarks of the aging process include telomere length (TL) shortening and cellular senescence. Repeated intermittent hyperoxic exposures, using certain hyperbaric oxygen therapy (HBOT) protocols, can induce regenerative effects which normally occur during hypoxia. The aim of the current study was to evaluate whether HBOT affects TL and senescent cell concentrations in a normal, non-pathological, aging adult population. Methods: Thirty-five healthy independently living adults, aged 64 and older, were enrolled to receive 60 daily HBOT exposures. Whole blood samples were collected at baseline, at the 30th and 60th session, and 1-2 weeks following the last HBOT session. Peripheral blood mononuclear cells (PBMCs) telomeres length and senescence were assessed. Results: Telomeres length of T helper, T cytotoxic, natural killer and B cells increased significantly by over 20% following HBOT. The most significant change was noticed in B cells which increased at the 30th session, 60th session and post HBOT by 25.68%±40.42 (p=0.007), 29.39%±23.39 (p=0.0001) and 37.63%±52.73 (p=0.007), respectively. There was a significant decrease in the number of senescent T helpers by -37.30%±33.04 post-HBOT (P<0.0001). T-cytotoxic senescent cell percentages decreased significantly by -10.96%±12.59 (p=0.0004) post-HBOT. In conclusion, the study indicates that HBOT may induce significant senolytic effects including significantly increasing telomere length and clearance of senescent cells in the aging populations.
+
+T helper 1 response is correlated with widespread pain, fatigue, sleeping disorders and the quality of life in patients with fibromyalgia and is modulated by hyperbaric oxygen therapy.
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) improves pain, fatigue, and sleep quality in fibromyalgia patients by modulating the activation of the Th1 subset of immune cells.
+
+Abstract:OBJECTIVES
+Hyperbaric oxygen therapy (HBOT) has been used as treatment for different clinical conditions, including fibromyalgia (FM). HBOT modulates brain activity, ameliorates chronic pain and modifies the ratio of immune cells. Clinical studies have provided evidence that FM is associated with immune system dysregulation. In the present study we aimed to evaluate the effect of HBOT on immune system and on the quality of life-style of FM patients.
+
+METHODS
+Patients with primary FM and controls were treated with HBOT. Physical, emotional and social assessment, quality of sleep, tender points, intensity score, WPI and symptom severity were evaluated before and after HBOT. Furthermore, a characterisation of CD4 T lymphocytes and their cytokine production was performed by flow cytometry. The expression of TNF-α, IFN-γ, IL-17, IL-9 and IL-22 was also assessed by RT-PCR. Finally, the serum levels of serotonin were evaluated by ELISA.
+
+RESULTS
+Our results confirm the participation of immune system in the pathogenesis of FM and highlight the impact of HBOT treatment, with particular regard to the changes on proinflammatory cytokines production by CD4 T cells subsets.
+
+CONCLUSIONS
+FM patients show a Th1 signature and the activation of this subset is modulated by HBOT.
+
+Hyperbaric oxygen treatment on keloid tumor immune gene expression
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen treatment (HBOT) reduces inflammatory cell infiltration in keloids, potentially affecting tumor gene expression and immune cell infiltration.
+
+Abstract:Abstract Background: Hyperbaric oxygen treatment (HBOT) has been demonstrated to influence the keloid recurrence rate after surgery and to relieve keloid symptoms and other pathological processes in keloids. To explore the mechanism of the effect of HBOT on keloids, tumor immune gene expression and immune cell infiltration were studied in this work. Methods: From February 2021 to April 2021, HBOT was carried out on keloid patients four times before surgery. Keloid tissue samples were collected and divided into an HBOT group (keloid with HBOT before surgery group, n = 6) and a non-HBOT group (K group, n = 6). Tumor gene expression was analyzed with an Oncomine Immune Response Research Assay kit. Data were mined with R package. The differentially expressed genes between the groups were compared. Hub genes between the groups were determined and verified with Quantitative Real-time PCR. Immune cell infiltration was analyzed based on CIBERSORT deconvolution algorithm analysis of gene expression and verified with immunohistochemistry (IHC). Results: Inflammatory cell infiltration was reduced in the HK group. There were 178 upregulated genes and 217 downregulated genes. Ten hub genes were identified, including Integrin Subunit Alpha M (ITGAM), interleukin (IL)-4, IL-6, IL-2, Protein Tyrosine Phosphatase Receptor Type C (PTPRC), CD86, transforming growth factor (TGF), CD80, CTLA4, and IL-10. CD80, ITGAM, IL-4, and PTPRC with significantly downregulated expression were identified. IL-10 and IL-2 were upregulated in the HK group but without a significant difference. Infiltration differences of CD8 lymphocyte T cells, CD4 lymphocyte T-activated memory cells, and dendritic resting cells were identified with gene CIBERSORT deconvolution algorithm analysis. Infiltration levels of CD4 lymphocyte T cell in the HK group were significantly higher than those of the K group in IHC verification. Conclusion: HBOT affected tumor gene expression and immune cell infiltration in keloids. CD4 lymphocyte T cell, especially activated memory CD4+T, might be the key regulatory immune cell, and its related gene expression needs further study.
+
+Distinct contribution of hyperbaric oxygen therapy to human neutrophil function and antibiotic efficacy against Staphylococcus aureus
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) enhances the host immune response and optimizes antibiotic treatment efficacy against Staphylococcus aureus, potentially enhancing antibiotic treatment outcomes.
+
+Abstract:Staphylococcus aureus (SA) causes superficial and severe endovascular infections. The present in vitro study investigates the anti‐SA mechanisms of hyperbaric oxygen therapy (HBOT) on direct bacterial killing, antibiotic potentiation, and polymorphonuclear leukocyte (PMN) enhancement. SA was exposed to isolated human PMNs, tobramycin, ciprofloxacin, or benzylpenicillin. HBOT was used as one 90‐min session. Bacterial survival was evaluated after 4 h by quantitative bacteriology. PMN functionality as reactive oxygen species (ROS) production was measured by means of dihydrorhodamine 123 analysis. We showed that HBOT exhibits significant direct anti‐SA effects. HBOT increased the anti‐SA effects of PMNs by 18% after PMA stimulation (p = 0.0004) and by 15% in response to SA (p = 0.36). HBOT showed an additive effect as growth reductions of 26% to sub‐MICs of tobramycin (p = 0.0057), 44% to sub‐MICs of ciprofloxacin (p = 0.0001), and 26% to sub‐MICs of penicillin (p = 0.038). The present in vitro study provides evidence that HBOT has differential mechanisms mediating its anti‐SA effects. Our observation supports the clinical possibility for adjunctive HBOT to augment the host immune response and optimize the efficacy of antibiotic treatments.
+
+Effects of Hyperbaric Oxygen on T helper 17/regulatory T Polarization in Antigen and Collagen-induced Arthritis: Hypoxia-inducible Factor-1α as a Target
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) reduces inflammation and promotes Th17 to Treg cell polarization in rheumatoid arthritis mice by decreasing HIF-1 expression.
+
+Abstract:Objectives We sought to investigate and prove the effect of hyperbaric oxygen therapy (HBOT) on T helper 17 (Th17)/regulatory T (Treg) cell polarization through changes in the expression of hypoxia-inducible factor-1 alpha (HIF-1α) in rheumatoid arthritis (RA) animal model. Methods We used antigen and collagen-induced arthritis (ACIA) as a RA animal model. Sixteen male BALB/c models of ACIA mice were divided into two groups, the non-HBOT group as the control group and the HBOT group as the treatment group. Expression of HIF-1α, Th17 anti-cluster differentiation 196 (CD196), and Treg anti-interleukine 2 receptor β-chain cells (IL-2Rβ) in tissue from the left knee joint tissue were determined histologically. Oxidative stress and systemic inflammation were assessed by levels of superoxide dismutase (SOD), interleukin 17a (IL-17a), C-reactive protein (CRP), and rheumatoid factor (RF) using the enzyme-linked immune-sorbent assay. The degree of arthritis was assessed by clinical scoring of paw swelling and the diameter of paw swelling. Results We found a significant decrease (p < 0.050) in the expression of HIF-1α, Th17 (CD196), IL-17a, RF levels, and the clinical scores and the diameter of paw swelling when comparing both groups. There was no significant decrease in the level of CRP in the treatment group compared to the control group. The expression of Treg (IL-2Rβ) increased significantly (p < 0.050) and the level of SOD increased but not significantly (p > 0.050) in the treatment group compared to the control group. Conclusions HBOT has effects on the polarization of Th17 to Treg through a decrease in expression of HIF-1α in mice with ACIA. HBOT is recommended for use as a support therapy for RA in combination with drug therapy.
+
+Effects of Ovariohysterectomy and Hyperbaric Oxygen Therapy on Systemic Inflammation and Oxidation in Dogs
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) does not show any detectable pro-inflammatory, anti-inflammatory, or antioxidant effects in dogs after ovariohysterectomy.
+
+Abstract:Introduction: Hyperbaric oxygen therapy (HBOT) involves breathing 100% oxygen in a specialized compression chamber leading to hyperoxia. This treatment modality is associated with anti-inflammatory, antioxidant, and healing properties in people and laboratory animals. However, there are relatively few reports that evaluate the effects of HBOT in companion animals. The goal of this study was to investigate the physiological effects of HBOT on surgically induced systemic inflammation and oxidation in dogs. Material and Methods: Twelve healthy female beagle dogs were spayed and randomized into control and HBOT groups (n = 6). Both groups received conventional post-ovariohysterectomy therapy, and the HBOT group received two hyperbaric treatments at 2.0 atmosphere of absolute pressure and 100% oxygen for 35 min, 6 and 18 h after surgery. Blood samples were collected 3 h prior to ovariohysterectomy, 6, 18, and 30 h after surgery, prior to HBOT when applicable. Inflammatory biomarkers, including C-reactive protein, circulating cytokines, and changes in iron homeostasis were evaluated at each time point to determine the effects of surgery and HBOT on inflammation. Similarly, serum total oxidant status and total antioxidant status were measured to assess the oxidative stress. Pain and incision scores were recorded and compared between groups. Results: Following ovariohysterectomy, all dogs had significantly increased serum concentrations of C-reactive protein, KC-like, IL-6, and increased unsaturated iron-binding capacity compared to their pre-surgical values (p < 0.02), while serum iron, total iron-binding capacity and transferrin saturation were significantly decreased after surgery (p < 0.02). There was no significant difference between the control group and the HBOT group for any of the variables. There were no overt adverse effects in the HBOT group. Conclusion: This is the first prospective randomized controlled study to investigate the effects of HBOT on surgically induced systemic inflammation in dogs. While elective ovariohysterectomy resulted in mild inflammation, the described HBOT protocol portrayed no outward adverse effect and did not induce any detectable pro-inflammatory, anti-inflammatory, or antioxidant effects. Additional investigation is required to identify objective markers to quantify the response to HBOT and determine its role as an adjunctive therapy in dogs with more severe, complicated or chronic diseases.
+
+Antioxidant Response of Chronic Wounds to Hyperbaric Oxygen Therapy
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) enhances plasma antioxidant defenses and may activate healing resolution, angiogenesis, and vascular tone regulation in chronic wounds by increasing VEGF and IL-6 release and decreasing endothelin-1 levels.
+
+Abstract:We analyzed the effects of the clinical hyperbaric oxygen therapy (HBOT) on the plasma antioxidant response and levels of endothelin-1, Interleukine-6 (IL-6) and vascular endothelial growth factor (VEGF) in patients with chronic wounds (20.2±10.0 months without healing). They received 20 HBOT sessions (five sessions/week), and blood samples were obtained at sessions 1, 5 and 20 before and 2 hours after the HBOT. An additional blood sample was collected 1 month after wound recovery. Serum creatine kinase activity decreased progressively in accordance with the wound healing. Plasma catalase activity significantly increased after the first and fifth sessions of HBOT. Plasma myeloperoxidase activity reported significantly lower values after sessions. Plasma VEGF and IL-6 increased after sessions. Endothelin-1 levels were progressively decreasing during the HBOT, being significant at the session 20. Plasma malondialdehyde concentration was significantly reduced at the last session. Both creatine kinase activity and malondialdehyde levels were maintained lower 1 month after wound recovery respect to initial values. In conclusion, HBOT enhanced the plasma antioxidant defenses and may contribute to activate the healing resolution, angiogenesis and vascular tone regulation by increasing the VEGF and IL-6 release and the endothelin-1 decrease, which may be significant factors in stimulating wound healing.
+
+The Role of Hyperbaric Oxygen Therapy in the Treatment of Surgical Site Infections: A Narrative Review
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) can promote rapid healing and epithelialization of wounds, potentially benefiting surgical site infections and other similar infections after various surgeries.
+
+Abstract:Surgical site infections (SSIs) are among the most prevalent postoperative complications, with significant morbidity and mortality worldwide. In the past half century, hyperbaric oxygen therapy (HBOT), the administration of 100% oxygen intermittently under a certain pressure, has been used as either a primary or alternative therapy for the management or treatment of chronic wounds and infections. This narrative review aims to gather information and evidence supporting the role of HBOT in the treatment of SSIs. We followed the Scale for the Quality Assessment of Narrative Review Articles (SANRA) guidelines and scrutinized the most relevant studies identified in Medline (via PubMed), Scopus, and Web of Science. Our review indicated that HBOT can result in rapid healing and epithelialization of various wounds and has potential beneficial effects in the treatment of SSIs or other similar infections following cardiac, neuromuscular scoliosis, coronary artery bypass, and urogenital surgeries. Moreover, it was a safe therapeutic procedure in most cases. The mechanisms related to the antimicrobial activity of HBOT include direct bactericidal effects through the formation of reactive oxygen species (ROS), the immunomodulatory effect of HBOT that increase the antimicrobial effects of the immune system, and the synergistic effects of HBOT with antibiotics. We emphasized the essential need for further studies, especially randomized clinical trials and longitudinal studies, to better standardize HBOT procedures as well as to determine its full benefits and possible side effects.
+
+Hyperbaric Oxygen Treatment—From Mechanisms to Cognitive Improvement
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen treatment (HBOT) effectively improves cognition, neuro-wellness, and quality of life in various clinical situations, including carbon monoxide intoxication, diabetes, radiation-injury wounds, and smoke inhalation.
+
+Abstract:Hyperbaric oxygen treatment (HBOT)—the medical use of oxygen at environmental pressure greater than one atmosphere absolute—is a very effective therapy for several approved clinical situations, such as carbon monoxide intoxication, incurable diabetes or radiation-injury wounds, and smoke inhalation. In recent years, it has also been used to improve cognition, neuro-wellness, and quality of life following brain trauma and stroke. This opens new avenues for the elderly, including the treatment of neurological and neurodegenerative diseases and improvement of cognition and brain metabolism in cases of mild cognitive impairment. Alongside its integration into clinics, basic research studies have elucidated HBOT’s mechanisms of action and its effects on cellular processes, transcription factors, mitochondrial function, oxidative stress, and inflammation. Therefore, HBOT is becoming a major player in 21st century research and clinical treatments. The following review will discuss the basic mechanisms of HBOT, and its effects on cellular processes, cognition, and brain disorders.
+
+Hyperbaric Oxygen Treatment: Effects on Mitochondrial Function and Oxidative Stress
+
+Number of 
+
+Key takeaways:Long-term hyperbaric oxygen treatment improves mitochondrial activity and reduces oxidative stress, potentially benefiting diseases characterized by mitochondrial dysfunction and imbalance between ROS and antioxidant scavengers.
+
+Abstract:Hyperbaric oxygen treatment (HBOT)—the administration of 100% oxygen at atmospheric pressure (ATA) greater than 1 ATA—increases the proportion of dissolved oxygen in the blood five- to twenty-fold. This increase in accessible oxygen places the mitochondrion—the organelle that consumes most of the oxygen that we breathe—at the epicenter of HBOT’s effects. As the mitochondrion is also a major site for the production of reactive oxygen species (ROS), it is possible that HBOT will increase also oxidative stress. Depending on the conditions of the HBO treatment (duration, pressure, umber of treatments), short-term treatments have been shown to have deleterious effects on both mitochondrial activity and production of ROS. Long-term treatment, on the other hand, improves mitochondrial activity and leads to a decrease in ROS levels, partially due to the effects of HBOT, which increases antioxidant defense mechanisms. Many diseases and conditions are characterized by mitochondrial dysfunction and imbalance between ROS and antioxidant scavengers, suggesting potential therapeutic intervention for HBOT. In the present review, we will present current views on the effects of HBOT on mitochondrial function and oxidative stress, the interplay between them and the implications for several diseases.
+
+Hyperbaric oxygen therapy exerts anti‐osteoporotic effects in obese and lean D‐galactose‐induced aged rats
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) shows potential anti-osteoporotic effects in both obese and lean aged rats, potentially offering a potential therapy for aging-induced osteoporosis regardless of obesity status.
+
+Abstract:Obesity accelerates the aging processes, resulting in an aggravation of aging‐induced osteoporosis. We investigated the anti‐osteoporotic effect of hyperbaric oxygen therapy (HBOT) in obese‐ and lean‐aged rats through measurement of cellular senescence, hypoxia, inflammation, antioxidants, and bone microarchitecture. Obese and lean male Wistar rats were injected with 150 mg/kg/day of D‐galactose for 8 weeks to induce aging. Then, all rats were randomly given either sham or HBOT for 14 days. Metabolic parameters were determined. Expression by bone mRNA for cellular senescence, hypoxia, inflammation, antioxidative capacity, and bone remodeling were examined. Micro‐computed tomography and atomic absorption spectroscopy were performed to evaluate bone microarchitecture and bone mineral profiles, respectively. We found that HBOT restored the alterations in the mRNA expression level of p16, p21, HIF‐1α, TNF‐α, IL‐6, RANKL, RANK, NFATc1, DC–STAMP, Osx, ALP, and Col1a1 in the bone in obese‐and lean‐ aging rats. In obese‐aging rats, HBOT increased the level of expression of Sirt1 and CuZnSOD mRNA and diminished the expression level of HIF‐2α and ctsk mRNA to the same levels as the control group. However, HBOT failed to alter catalase and OCN mRNA expression in obese‐aged rats. HBOT partially improved the bone microarchitecture in obese‐aged rats, but completely restored it in lean‐aged rats. Interestingly, HBOT protected against obesity‐induced demineralization in obese‐aged rats. In summary, HBOT exerts an anti‐osteoporotic effect in lean‐aged rats and prevents some, but not all the negative effects of obese‐aged conditions on bone health. Therefore, HBOT is considered as a potential therapy for aging‐induced osteoporosis, regardless of obese status.
+
+Potency of Hyperbaric Oxygen Therapy on Oral Candidiasis Diabetes Mellitus
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) effectively reduces blood glucose levels, increases lymphocytes, and reduces antibody anti-Candidiasis in oral candidiasis diabetes mellitus.
+
+Abstract:Abstract Objectives  This study aimed to determine the potency of hyperbaric oxygen therapy (HBOT) to the blood glucose level, amount of lymphocytes, and the expression of antibody anti- Candida in oral candidiasis diabetes mellitus. Materials and Methods  Thirty Wistar rats were divided into five groups: K1 normal-control group, while K2, P1, P2, and P3 were diabetes induced by streptozotocin 50 mg/kg body weight. Oral candidiasis was induced by inoculation 0.1 mL Candida albicans ATCC 10321 on dorsum of the tongue. P1 was given nystatin oral suspension, P2 was treated by HBOT 2.4 ATA, 3 × 30 minutes each with a 5-minute interval, and P3 was treated by the combination of nystatin and HBOT. All the treatments were performed for 5 consecutive days. Fasting blood glucose level was examined on glucometer strips, lymphocyte was examined from complete blood count, and the expression of antibody anti- Candida was examined on immunohistochemistry staining Statistical Analysis  Data analyzed by a one-way analysis of variance and least significant difference test with the result of p -value less than 0.05 was considered to be statistically signiﬁcant. Results  HBOT reduced blood glucose level ( p  > 0.05) increased the amount of lymphocyte ( p  < 0.05). All treatments reduced the expression of antibody anti- Candida ( p  < 0.05) with the best result on combination of HBOT with nystatin. Conclusion  HBOT decreased the blood glucose level, increased the amount of lymphocytes, and reduced the expression of antibody anti- Candida in oral candidiasis diabetes mellitus.
+
+Hyperbaric oxygen therapy: future prospects in regenerative therapy and anti-aging
+
+Number of 
+
+Key takeaways:Hyperbaric Oxygen Therapy (HBOT) shows potential in regenerative and anti-aging therapy by promoting tissue regeneration and improving cognitive function.
+
+Abstract:Hyperbaric Oxygen Therapy (HBOT) utilizes 100% oxygen at high atmospheric pressure for clinical applications. HBOT has proven to be an effective supplementary treatment for a variety of clinical and pathological disorders. HBOT’s therapeutic results are based on the physiological effects of increased tissue oxygenation, or improved oxygen bioavailability. HBOT’s current indications in illnesses like as wound healing, thermal or radiation burns, and tissue necrosis point to its function in facilitating the regeneration process. Various research has revealed that HBOT plays a function in vascularization, angiogenesis, and collagen production augmentation. Individual regeneration capacity is influenced by both environmental and genetic factors. Furthermore, the regenerating ability of different types of tissues varies, and this ability declines with age. HBOT affects physiological processes at the genetic level by altering gene expression, delaying cell senescence, and assisting in telomere length enhancement. The positive results in a variety of indications, ranging from tissue regeneration to better cognitive function, indicate that it has enormous potential in regenerative and anti-aging therapy.
+
+Oxygen-dependent regulation of tumor growth and metastasis in human breast cancer xenografts
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen treatment (HBOT) effectively suppresses tumor growth in both triple positive and negative breast cancer models, and reduces metastatic lesions in the triple negative model.
+
+Abstract:Background Tumor hypoxia is relevant for tumor growth, metabolism, resistance to chemotherapy and metastasis. We have previously shown that hyperoxia, using hyperbaric oxygen treatment (HBOT), attenuates tumor growth and shifts the phenotype from mesenchymal to epithelial (MET) in the DMBA-induced mammary tumor model. This study describes the effect of HBOT on tumor growth, angiogenesis, chemotherapy efficacy and metastasis in a triple negative MDA-MB-231 breast cancer model, and evaluates tumor growth using a triple positive BT-474 breast cancer model. Materials and methods 5 x 105 cancer cells were injected s.c. in the groin area of NOD/SCID female mice. The BT-474 group was supplied with Progesterone and Estradiol pellets 2-days prior to tumor cell injection. Mice were divided into controls (1 bar, pO2 = 0.2 bar) or HBOT (2.5 bar, pO2 = 2.5 bar, 90 min, every third day until termination of the experiments). Treatment effects were determined by assessment of tumor growth, proliferation (Ki67-staining), angiogenesis (CD31-staining), metastasis (immunostaining), EMT markers (western blot), stromal components collagen type I, Itgb1 and FSP1 (immunostaining) and chemotherapeutic efficacy (5FU). Results HBOT significantly suppressed tumor growth in both the triple positive and negative tumors, and both MDA-MB-231 and BT-474 showed a decrease in proliferation after HBOT. No differences were found in angiogenesis or 5FU efficacy between HBOT and controls. Nevertheless, HBOT significantly reduced both numbers and total area of the metastastatic lesions, as well as reduced expression of N-cadherin, Axl and collagen type I measured in the MDA-MB-231 model. No change in stromal Itgb1 and FSP1 was found in either tumor model. Conclusion Despite the fact that behavior and prognosis of the triple positive and negative subtypes of cancer are different, the HBOT had a similar suppressive effect on tumor growth, indicating that they share a common oxygen dependent anti-tumor mechanism. Furthermore, HBOT significantly reduced the number and area of metastatic lesions in the triple negative model as well as a significant reduction in the EMT markers N-cadherin, Axl and density of collagen type I.
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) shows neuroprotective effects in various neurological disorders models, with potential benefits linked to anti-oxidative, antiinflammatory, and anti-apoptotic properties.
+
+Abstract:INtRODUctiON Nervous system diseases are one of the leading causes of death and disability worldwide due to the limitation of effective treatment strategies. Although some promising strategies have been reported in the animal models of nerves system disorders, they often fail to work in clinical practice. Therefore, new treatment strategies need to be developed and exploited. Within the previous decades, various pharmaceutical compounds as well as various therapeutic methods with neuroprotective effects have been described, including high pressure oxygen therapy as a nondrug and noninvasive therapy. Hyperbaric oxygen (HBO) therapy (HBOT) is defined as the intermittent breathing of pure oxygen inside a hyperbaric chamber at a pressure above sea level. During HBOT, the amount of dissolved oxygen in the plasma as well as saturated hemoglobin with oxygen increases, leading to greater oxygen availability to the organs.1,2 It is well documented that HBOT has neuroprotective effects against experimental spinal cord injury (SCI),3 brain injury,4,5 neurodegenerative disease,6,7 peripheral nerve injury,8,9 and neurotoxicity models of rodents.10 On the other hand, clinical evidence to support the neuroprotective properties of HBOT is limited.11 In regard to the neuroprotective effects of HBOT, accumulating evidence indicates an association between the beneficial effects to a variety of biological properties mainly anti-oxidative,12 antiinflammatory,13 and anti-apoptotic properties,14 in addition to improvement of oxygen supply and neural metabolism.15,16 This paper presents an up-to-date review of the neuroprotective effects of HBOT with its molecular mechanisms in different models of neurological disorders in three parts.
+
+Endothelial Dysfunction and Cardiovascular Disease: Hyperbaric Oxygen Therapy as an Emerging Therapeutic Modality?
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) shows potential therapeutic benefits in treating cardiovascular risk factors and diseases by promoting angiogenesis, antimicrobial effects, and enhancing antioxidant defenses.
+
+Abstract:Maintaining the physiological function of the vascular endothelium and endothelial glycocalyx is crucial for the prevention of cardiovascular disease, which is one of the leading causes of morbidity and mortality worldwide. Damage to these structures can lead to atherosclerosis, hypertension, and other cardiovascular problems, especially in individuals with risk factors such as diabetes and obesity. Endothelial dysfunction is associated with ischemic disease and has a negative impact on overall cardiovascular health. The aim of this review was to comprehensively summarize the crucial role of the vascular endothelium and glycocalyx in cardiovascular health and associated thrombo-inflammatory conditions. It highlights how endothelial dysfunction, influenced by factors such as diabetes, chronic kidney disease, and obesity, leads to adverse cardiovascular outcomes, including heart failure. Recent evidence suggests that hyperbaric oxygen therapy (HBOT) may offer therapeutic benefits in the treatment of cardiovascular risk factors and disease. This review presents the current evidence on the mechanisms by which HBOT promotes angiogenesis, shows antimicrobial and immunomodulatory effects, enhances antioxidant defenses, and stimulates stem cell activity. The latest findings on important topics will be presented, including the effects of HBOT on endothelial dysfunction, cardiac function, atherosclerosis, plaque stability, and endothelial integrity. In addition, the role of HBOT in alleviating cardiovascular risk factors such as hypertension, aging, obesity, and glucose metabolism regulation is discussed, along with its impact on inflammation in cardiovascular disease and its potential benefit in ischemia–reperfusion injury. While HBOT demonstrates significant therapeutic potential, the review also addresses potential risks associated with excessive oxidative stress and oxygen toxicity. By combining information on the molecular mechanisms of HBOT and its effects on the maintenance of vascular homeostasis, this review provides valuable insights into the development of innovative therapeutic strategies aimed at protecting and restoring endothelial function to prevent and treat cardiovascular diseases.
+
+Examining the Effects of Hyperbaric Oxygen Therapy on the Cardiovascular System and Oxidative Stress in Insulin-Treated and Non-Treated Diabetic Rats
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy combined with NPH insulin treatment effectively reduced hyperglycemia and improved cardiac function in diabetic rats, reducing oxidative stress.
+
+Abstract:Simple Summary This study aimed to examine the effects of hyperbaric oxygen therapy (HBOT) on the cardiovascular system and oxidative stress in streptozotocin-induced diabetic rats, with and without insulin treatment. Diabetes was induced in Wistar albino rats using streptozotocin. The rats were divided into four groups: DM group (diabetic rats), DM+HBOT group (diabetic rats exposed to HBOT for 1 h daily, five days a week, at 2.8 atmosphere absolute (ATA) with 100% oxygen for two weeks), DM+INS group (diabetic rats treated with neutral protamine hagedorn (NPH) insulin at a dosage of 3–5 U/day), and DM+HBOT+INS group (diabetic rats treated with both NPH insulin and HBOT for two weeks). Parameters evaluated included glycemic control, oxidative stress markers, and cardiac function. In conclusion, NPH insulin treatment reduced hyperglycemia and improved cardiac function in diabetic rats. The combination of insulin and HBOT exhibited a significant decrease in pro-oxidative markers. These findings contribute to our understanding of the potential benefits of HBOT and insulin therapy in managing cardiovascular complications and oxidative stress in diabetes, providing valuable insights for potential applications in clinical settings. Abstract Background: This study explored the effects of hyperbaric oxygen therapy (HBOT) on the cardiovascular system and oxidative stress in streptozotocin-induced diabetic rats. Wistar albino rats were divided into four groups: DM group (diabetic rats), DM+HBOT group (diabetic rats exposed to HBOT for 1 h daily, five days a week, at 2.8 atmosphere absolute (ATA) with 100% oxygen for two weeks), DM+INS group (diabetic rats treated with neutral protamine hagedorn (NPH) insulin at a dosage of 3–5 U/day), and DM+HBOT+INS group (diabetic rats treated with both NPH insulin and HBOT for two weeks). Methods: Evaluations included glycemic control, oxidative stress parameters, and cardiac function measurements. Results: NPH insulin treatment reduced blood glucose levels, although normoglycemia was not achieved. The DM+HBOT+INS group demonstrated the lowest pro-oxidative marker levels. NPH insulin treatment improved cardiac function, and combination therapy effectively restored cardiac function in diabetic animals. Conclusions: NPH insulin treatment reduced hyperglycemia and improved cardiac function in diabetic rats. The combined approach of NPH insulin and HBOT resulted in decreased pro-oxidative markers. These findings provide valuable insights for managing cardiovascular complications and oxidative stress in diabetes.
+
+The effect of hyperbaric oxygen therapy on myocardial function in post-COVID-19 syndrome patients: a randomized controlled trial
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) promotes left ventricular systolic function recovery in post-COVID-19 patients with mildly reduced global longitudinal strain.
+
+Assessing the Effect of Hyperbaric Oxygen Therapy on Heart Rate and Blood Pressure
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy significantly reduces heart rate and improves blood pressure quality in hypertensive patients when administered at least three or five times a week.
+
+Abstract:Cardiovascular diseases (CVDs) are the leading cause of global mortality, encompassing heart disease, strokes, and related conditions. To combat this public health concern, monitoring vital indicators like heart rate and blood pressure plays a pivotal role in early detection, preventive care, treatment assessment, fitness tracking, and post-surgery care. This study aims to assess the effect of Hyperbaric Oxygen Therapy on heart rate and blood pressure, exploring its potential role as a therapeutic intervention to optimize cardiovascular system health. This study examines the effects of hyperbaric oxygen therapy (HBOT) on heart rate and blood pressure in patients who receive multiple treatments. The research includes 113 participants undergoing HBOT at different frequencies over 2 weeks. This study used specific statistical tests to analyze the effects of Hyperbaric Oxygen Therapy (HBOT) on heart rate and blood pressure. For nonparametric data, the Wilcoxon test will be employed, and for normally distributed data, the Paired T-test will be used. To determine the most influential HBOT frequencies group, the Kruskal- Wallis test will be applied due to the delta heart rate categorized as ordinal. The statistical analysis revealed a significant difference in heart rate before and after HBOT treatment with frequencies of two, three, and five times a week with the details p = 0.008, p < 0.001, and p < 0.001, respectively. As for heart rate alterations, HBOT should be administered at least three or five times a week, which led to notable reductions in heart rate. The correlation values on systole and diastole before and after treatments are 951 and 916 respectively. This data shows that hyperbaric oxygen therapy does improve the blood pressure quality of hypertensive patients. By examining the effect of HBOT on heart rate and blood pressure, this study seeks to contribute valuable insights to the field of cardiovascular system health and provide evidence for the use of HBOT in promoting healing and well-being.
+
+Abstract P2073: Hyperbaric Oxygen Therapy Protects The Myocardium From Reductive Stress-induced Proteotoxic Remodeling
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) protects the heart from proteotoxic stress-induced remodeling by maintaining redox homeostasis and reducing protein aggregation.
+
+Abstract:Background:
+ Oxygen is the prime source of reactive oxygen species (ROS) in cells. We hypothesize that hyperbaric oxygen therapy (HBOT) can be used as an effective intervention to maintain redox homeostasis in the myocardium. Here, we assessed whether HBOT could prevent RS through enhanced ROS signaling, thereby protecting the hearts from proteotoxic stress.
+ 
+ 
+ Methods:
+ Cardiac-specific human Nrf2 transgenic (hNrf2-TG) and their non-transgenic littermates (NTG) were used in this study. Mice at the age of 8 weeks were exposed to hyperbaric oxygen (2.5 Bars, 2 hr/day) for 8 weeks. The TG and NTG (n=6) mice without HBOT served as controls. Pre- and post- echocardiography (Vevo 2100) analysis were carried out to assess the structural and functional changes over time in response to HBOT exposure. The influence of HBOT on matrixins (MMP2/9), redox (GSH & NQO1), and cardiac hypertrophy markers (ANF, BNF) were examined using zymography, immunoblotting, and qPCR analysis. The aggregation of proteins in myocardial tissues was detected by Proteostat staining.
+ 
+ 
+ Results:
+ While the expression of hNrf2 induces RS in the mouse heart, we noticed that HBOT ameliorates the RS through enhanced ROS signaling. A decrease in systemic GSH levels along with the downregulation of ANF and BNF mRNA levels observed in the HBOT group indicates the restoration of the redox homeostasis as well as reduced remodeling of the myocardium. Interestingly, hNRF2-induced RS was suppressed by HBOT as supported by changes in the protein levels for NQO1, GCLC, and GCLM. The degree of protein aggregation in RS hearts was significantly reduced by HBOT. Vevo strain analysis reveals that 8 weeks of HBOT restored the diastolic stretch seen in the RS hearts to a normal diastole-systole velocity equal to NTG mice. A significant decrease in the ejection fraction (80% vs. 55% in TG vs. TG-HBOT), was evident in the TG mice that received HBOT. Repression of matrixins, observed in the hearts of HBOT-TG mice signifies the benefits of HBOT in RS hearts.
+ 
+ 
+ Conclusion:
+ HBOT directly improves myocardial structure at the tisuue level; maintain the redox status at systemic level, and improves the myocardial performance at functional level. Our study established that HBOT can rescue the myocardium from RS-induced proteotoxic insults.
+
+Hyperbaric oxygen therapy for acute coronary syndrome.
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) may reduce the risk of major adverse cardiac events, some dysrhythmias, and shorten the time to relief from ischemic pain in acute coronary syndrome patients, but does not significantly decrease mortality.
+
+Abstract:BACKGROUND
+Acute coronary syndrome (ACS) includes acute myocardial infarction and unstable angina. ACS is common and may prove fatal. Hyperbaric oxygen therapy (HBOT) will improve oxygen supply to the threatened heart and may reduce the volume of heart muscle that will perish. The addition of HBOT to the standard treatment may reduce death rate and other major adverse outcomes.
+
+OBJECTIVES
+To assess the benefits and harms of adjunctive HBOT for treating ACS.
+
+SEARCH STRATEGY
+We searched the following from inception to November 2004: CENTRAL, MEDLINE, EMBASE, CINAHL, DORCTHIM, and references from selected articles. Relevant journals were handsearched and researchers in the field contacted.
+
+SELECTION CRITERIA
+Randomised studies comparing the effect on ACS of regimens that include HBOT with those that exclude HBOT.
+
+DATA COLLECTION AND ANALYSIS
+Three reviewers independently evaluated the quality of trials using the guidelines of the Cochrane Handbook and extracted data from included trials.
+
+MAIN RESULTS
+Four trials with 462 participants contributed to this review. There was a trend towards, but no significant decrease in, the risk of death with HBOT (relative risk (RR) 0.64, 95% CI 0.38 to 1.06, P=0.08). There was evidence from individual trials of reductions in the risk of major adverse coronary events (RR 0.12, 95% CI 0.02 to 0.85, P=0.03; NNT 4, 95% CI 3 to 10) and some dysrhythmias following HBOT (RR 0.59, 95% CI 0.39 to 0.89, P=0.01; NNT 6, 95% CI 3 to 24), particularly complete heart block (RR 0.32, 95%CI 0.12 to 0.84, P=0.02), and that the time to relief of pain was reduced with HBOT (Weighted Mean Difference 353 minutes shorter, 95% CI 219 to 488, P<0.0001). One trial suggested a significant incidence of claustrophobia in single occupancy chambers of 15% (RR of claustrophobia with HBOT 31.6, 95%CI 1.92 to 521, P=0.02).
+
+AUTHORS' CONCLUSIONS
+For people with ACS, individual small trials suggest the addition of HBOT reduced the risk of Major Adverse Cardiac Events, some dysrrhythmias, and reduced the time to relief from ischaemic pain, but did not reduce mortality. In view of the modest number of patients, methodological shortcomings and poor reporting, this result should be interpreted cautiously, and an appropriately powered trial of high methodological rigour is justified to define those patients (if any) who can be expected to derive most benefit from HBOT. The routine application of HBOT to these patients cannot be justified from this review.
+
+Hyperbaric Oxygen Therapy and Vascular Complications in Diabetes Mellitus
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) can reduce vascular complications in diabetes mellitus patients by improving oxygenation, promoting tissue viability, and promoting cardioprotection.
+
+Abstract:Vascular complications in patients with diabetes mellitus (DM) are common. Since impaired oxygen balance in plasma plays an important role in the pathogenesis of chronic DM-associated complications, the administration of hyperbaric oxygen therapy (HBOT) has been recommended to influence development of vascular complications. Hyperbaric oxygen therapy involves inhalation of 100% oxygen under elevated pressure from 1.6 to 2.8 absolute atmospheres in hyperbaric chambers. Hyperbaric oxygen therapy increases plasma oxygen solubility, contributing to better oxygen diffusion to distant tissues and preservation of the viability of tissues reversibly damaged by atherosclerosis-induced ischemia, along with microcirculation restoration. Hyperbaric oxygen therapy exerts antiatherogenic, antioxidant, and cardioprotective effects by altering the level and composition of plasma fatty acids and also by promoting signal transduction through membranes, which are impaired by hyperglycemia and hypoxia. In addition, HBOT affects molecules involved in the regulation of nitric oxide synthesis and in that way exerts anti-inflammatory and angiogenic effects in patients with DM. In this review, we explore the recent literature related to the effects of HBOT on DM-related vascular complications.
+
+Hyperbaric oxygen therapy for branch retinal artery occlusion: A case series
+
+Number of 
+
+Key takeaways:Hyperbaric Oxygen Therapy (HBOT) can improve visual acuity in patients with branch retinal artery occlusion (BRAO), potentially acting as a rescue treatment before a possible reperfusion.
+
+Abstract:Aims/Purpose: To evaluate the effectiveness of Hyperbaric Oxygen Therapy (HBOT) in improving visual acuity in patients with BRAO.Methods: The Case Series analysis of 3 patients affected by BRAO.Results: In the case series we described, patients underwent HBOT at 5, 36 and 48 hours after the onset of ocular symptoms. In all presented cases visual acuity improved quantitatively and qualitatively.Conclusions: Our case series confirms beneficial effect of HBOT on final VA in patients after an episode of BRAO. HBOT might be a rescue treatment at an early stage of BRAO, particularly to the time of a conceivable reperfusion. The further research on broader groups of patients and randomized controlled trials are needed to confirm this assumption.References: Retinal artery occlusion (RAO) is one of the ophthalmic emergencies and may be the first harbinger of systemic cardiovascular disease. Central RAO (CRAO) may leads to serious visual loss, while branch retinal artery occlusion (BRAO) has more benign symptoms and often resolves with less severe visual disfunction. The pathomechanism of RAO resembles an ischemic stroke and involves sudden closure of the retinal artery, leading to ischemia of the inner layers of the eye then to retinal infarction and permanent damage to sensory cells, resulting in irreversible loss of vision.
+
+Safety of hyperbaric oxygen therapy in patients with heart failure: A retrospective cohort study
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) is safe for patients with heart failure, including HFpEF, after optimizing therapy and fluid restriction.
+
+Abstract:Background Hyperbaric oxygen therapy (HBOT) has several hemodynamic effects including increases in afterload (due to vasoconstriction) and decreases in cardiac output. This, along with rare reports of pulmonary edema during emergency treatment, has led providers to consider HBOT relatively contraindicated in patients with reduced left ventricular ejection fraction (LVEF). However, there is limited evidence regarding the safety of elective HBOT in patients with heart failure (HF), and no existing reports of complications among patients with HF and preserved LVEF. We aimed to retrospectively review patients with preexisting diagnoses of HF who underwent elective HBOT, to analyze HBOT-related acute HF complications. Methods Research Ethics Board approvals were received to retrospectively review patient charts. Patients with a history of HF with either preserved ejection fraction (HFpEF), mid-range ejection fraction (HFmEF), or reduced ejection fraction (HFrEF) who underwent elective HBOT at two Hyperbaric Centers (Toronto General Hospital, Rouge Valley Hyperbaric Medical Centre) between June 2018 and December 2020 were reviewed. Results Twenty-three patients with a history of HF underwent HBOT, completing an average of 39 (range 6–62) consecutive sessions at 2.0 atmospheres absolute (ATA) (n = 11) or at 2.4 ATA (n = 12); only two patients received fewer than 10 sessions. Thirteen patients had HFpEF (mean LVEF 55 ± 7%), and seven patients had HFrEF (mean LVEF 35 ± 8%) as well as concomitantly decreased right ventricle function (n = 5), moderate/severe tricuspid regurgitation (n = 3), or pulmonary hypertension (n = 5). The remaining three patients had HFmEF (mean LVEF 44 ± 4%). All but one patient was receiving fluid balance therapy either with loop diuretics or dialysis. Twenty-one patients completed HBOT without complications. We observed symptoms consistent with HBOT-related HF exacerbation in two patients. One patient with HFrEF (LVEF 24%) developed dyspnea attributed to pulmonary edema after the fourth treatment, and later admitted to voluntarily holding his diuretics before the session. He was managed with increased oral diuretics as an outpatient, and ultimately completed a course of 33 HBOT sessions uneventfully. Another patient with HFpEF (LVEF 64%) developed dyspnea and desaturation after six sessions, requiring hospital admission. Acute coronary ischemia and pulmonary embolism were ruled out, and an elevated BNP and normal LVEF on echocardiogram confirmed a diagnosis of pulmonary edema in the context of HFpEF. Symptoms subsided after diuretic treatment and the patient was discharged home in stable condition, but elected not to resume HBOT. Conclusions Patients with HF, including HFpEF, may develop HF symptoms during HBOT and warrant ongoing surveillance. However, these patients can receive HBOT safely after optimization of HF therapy and fluid restriction.
+
+Role of Hyperbaric Oxygen Therapy on Microvascular Diabetic Complications and Metabolic Profile among Patients with Type 2 Diabetes Mellitus
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) may improve healing of diabetic leg ulcers and limit damage from chronic high blood glucose levels in type 2 diabetes patients.
+
+Abstract:Hyperbaric oxygen therapy (HBOT) has been suggested as a valuable addition to conventional treatment for a variety of indications, including delayed radiation injury, necrotizing soft tissue infections, and chronic wounds.1,2 By increasing the blood oxygen content, HBOT creates a favorable gradient for the diffusion of oxygen into the tissues. In hypoxic tissues, the enhanced oxygen supply has multiple effects that may benefit wound healing.3 By increasing the expression of vascular endothelial growth factor and fibroblast growth factor, HBOT may enhance angiogenesis and fibroblast proliferation. In addition, the resulting hyperoxia may cause vasoconstriction, thereby decreasing tissue edema. By reducing the expression of pro-inflammatory cytokines, HBOT reduces inflammation, while simultaneously enhancing the bacterial killing activity of leukocytes.3–5 Type 2 diabetes mellitus (T2DM) is a common disease worldwide, with many macrovascular complications, including cardiovascular diseases, and microvascular complications such as diabetic nephropathy and retinopathy. Among patients with T2DM, HBOT is mostly used for the treatment of chronic diabetic ulcers, which involves intermittent administration of 100% oxygen, usually in daily sessions of 90 minutes each, at pressures of 1.5– 3.0 ata in an airtight cabin.1,3 Although the effect of HBOT in reducing limb amputation rates is still controversial,6–8 old and current evidence shows the effectiveness of HBOT in improving the healing of diabetic leg ulcers in patients with concomitant ischemia.2,8 HBOT is considered one of the safest medical treatments when applied with the indicated operational protocols, including pre-HBO2 therapy evaluations and in-chamber monitoring.9,10 In general, side effects of HBOT are rare.11 These include middle ear barotraumas (ears, sinuses, and lungs), which has been noted only in 2% of treated patients, and can be prevented or minimized by teaching auto-inflation techniques, or by inserting tympanostomy tubes.11 Another frequent complaint is claustrophobia, requiring reassurance and coaching. Infrequent side effects include oxygen toxicity to lungs and central nervous system, and progressive myopia, which is usually transient and reversible after stopping HBOT sessions.11 However, the role of HBOT in the treatment of microvascular complications of T2DM (nephropathy and retinopathy) and its effect on the metabolic profile is still not well-explored. In relation to diabetic nephropathy, findings from animal (rat) studies indicate that the periodic HBOT exposure limits some of the damage associated with the chronic high blood glucose levels, particularly those mediated through oxidative pathways.12 These findings are consistent with studies conducted to assess the protection of human microvascular endothelial cells grown in culture from oxidants,13 and protection of mouse skin from UV-damage using HBOT.14 In addition, HBOT reduces intra-renal lactate production among mice without affecting either lactate dehydrogenase mRNA expression or activity.15 A similar lower renal lactate production has recently been demonstrated in response to editorial Oman Medical 
+
+Impact of Hyperbaric Oxygen Therapy on Cognitive Functions: a Systematic Review
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) shows mixed results in improving cognitive functions in various neurological conditions.
+
+Abstract:Abstract Hyperbaric oxygen therapy (HBOT) is a modality of treatment in which patients inhale 100% oxygen inside a hyperbaric chamber pressurised to greater than 1 atmosphere. The aim of this review is to discuss neuropsychological findings in various neurological disorders treated with HBOT and to open new perspectives for therapeutic improvement. A literature search was conducted in the MEDLINE (via PubMed) database from the inception up 10 May 2020. Eligibility criteria included original articles published in English. Case studies were excluded. Full-text articles were obtained from the selected studies and were reviewed on the following inclusion criteria (1) performed cognitive processes assessment (2) performed HBOT with described protocol. Two neuropsychologists independently reviewed titles, abstracts, full texts and extracted data. The initial search retrieved 1024 articles, and a total of 42 studies were finally included after applying inclusion and exclusion criteria. The search yielded controversial results with regard to the efficiency of HBOT in various neurological conditions with cognitive disturbance outcome. To the best of our knowledge this is the first state-of-the art, systematic review in the field. More objective and precise neuropsychological assessment methods are needed to exact evaluation of the efficacy of HBOT for neuropsychological deficits. Future studies should widen the assessment of HBOT effects on different cognitive domains because most of the existing studies have focussed on a single process. Finally, there is a need for further longitudinal studies.
+
+Effect of Hyperbaric Oxygen Therapy (HBOT) on Insulin Resistance Associated with Abdominal Obesity in Wistar Rats with Dietary Sucrose-Induced Metabolic Syndrome.
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) effectively treats insulin resistance and obesity associated with sucrose-induced metabolic syndrome in Wistar rats.
+
+Abstract:Metabolic syndrome (MS) is a combination of risk factors related to the development of mainly type 2 diabetes mellitus, cardiovascular disease (CVD) and nonalcoholic fatty liver disease (NAFLD). Its prevalence has increased worldwide, and healthcare systems will face major challenges in addressing this problem. The aim of this work was to evaluate the effect of hyperbaric oxygen therapy (HBOT) on insulin resistance (IR) and obesity associated with MS in Wistar rats. The experimental design consisted of three groups of sucrose-induced MS rats: the MS group that consumed sucrose (MS-Suc; n=5), the MS group that ingested sucrose and HBOT (MS-Suc-HBOT; n=5), the MS group that did not consume sucrose and that received HBOT (MS-HBOT; n=5) and the control group. The rats received HBOT for 20 d at 2.4 atmospheres absolute (ATA) for 60 min. Subsequently, the rats were euthanized, and body fat weight, serum biochemical parameters and microscopic analysis of adipose tissue were determined. Rats with hyperoxia had decreased body weight, adipose tissue hypertrophy, and abdominal and epididymal fat. Likewise, markers of insulin resistance (glucose, insulin and HOMA-IR), biochemical parameters of dyslipidemia (cholesterol and triglycerides) and nonalcoholic fatty liver (AST and ALT) decreased; in contrast, compared to the control group, HBOT increased the 1/HOMA-IR, HOMA-βCell and McAuley indexes, which were related to the improvement in insulin sensitivity (p<0.05; p<0.01). HBOT showed beneficial effects in the treatment of IR and obesity associated with sucrose-induced metabolic syndrome in Wistar rats.
+
+Hyperbaric oxygen treatment for late radiation-induced tissue toxicity in treated gynaecological cancer patients: a systematic review
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) improves symptoms of late radiation-induced tissue toxicity in women with gynecological cancer, with wound complications benefiting most.
+
+Abstract:The aim of this study was to investigate the result of hyperbaric oxygen therapy (HBOT) in women with treated gynaecological malignancies who suffer from late radiation-induced tissue toxicity (LRITT). Moreover, which symptoms of LRITT benefit most from HBOT was evaluated as well.An online literature search was conducted using PubMed; Embase and the Cochrane Library. Studies were included if the study examined gynaecological cancer patients who had been treated with radiotherapy, who suffered from LRITT and who subsequently received HBOT. In addition, the outcome measures were based on examining the effects of HBOT.Twenty-one articles were included. The study investigating proctitis reported an improvement and three out of four studies investigating cystitis reported decreased complaints in women treated for gynaecological malignancies. In addition, all studies reported improvement in patients with wound complications and fifty percent of the studies reported better Patient Reported Outcome Measurements (PROMS) in women with gynaecological malignancies. Finally, all studies, except one related to pelvic malignancies reported reduced prevalence of symptoms for cystitis and proctitis and all studies reported better PROMS. However, only eleven studies reported p-values, nine of which were significant.This study demonstrated that HBOT has a positive effect in women with gynaecological LRITT. Within the included patient group, gynaecological cancer patients with wound complications seem to benefit most from this treatment compared to other late side effects of LRITT.
+
+.
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) shows potential in improving cognitive impairment after brain injury and stroke, and alleviating neurodegeneration and dysfunction related to neurodegenerative diseases.
+
+Abstract:In 2040, neurodegenerative diseases (NDD) will overtake cancer as the second leading cause of death after cardiovascular and cerebrovascular diseases. Therefore, the search for effective intervention measures has become the top priority to deal with this difficult burden. Hyperbaric oxygen therapy (HBOT) has been used for the past 50 years to treat conditions such as decompression sickness, carbon monoxide poisoning and radiation damage. In recent years, studies have confirmed that HBOT has good effects in improving cognitive impairment after brain injury and stroke, and alleviating neurodegeneration and dysfunction related to NDD. Here we reviewed the pathogenesis and treatment state of NDD, introduced the application of HBOT in animal models and clinical studies of NDD, and expounded the application potential of HBOT in the treatment of NDD from the perspective of mitochondrial function, neuroinflammation, neurogenesis and angiogenesis, oxidative stress, apoptosis, microcirculation and epigenetics.
+
+Cognitive enhancement of healthy older adults using hyperbaric oxygen: a randomized controlled trial
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) improves cognitive functions in healthy aging adults, particularly in attention and information processing speed, through regional changes in cerebral blood flow.
+
+Abstract:More than half of community-dwelling individuals sixty years and older express concern about declining cognitive abilities. The current study’s aim was to evaluate hyperbaric oxygen therapy (HBOT) effect on cognitive functions in healthy aging adults. A randomized controlled clinical trial randomized 63 healthy adults (>64) either to HBOT(n=33) or control arms(n=30) for three months. Primary endpoint included the general cognitive function measured post intervention/control. Cerebral blood flow (CBF) was evaluated by perfusion magnetic resonance imaging. There was a significant group-by-time interaction in global cognitive function post-HBOT compared to control (p=0.0017). The most striking improvements were in attention (net effect size=0.745) and information processing speed (net effect size=0.788). Voxel-based analysis showed significant cerebral blood flow increases in the HBOT group compared to the control group in the right superior medial frontal gyrus (BA10), right and left supplementary motor area (BA6), right middle frontal gyrus (BA6), left middle frontal gyrus (BA9), left superior frontal gyrus (BA8) and the right superior parietal gyrus (BA7). In this study, HBOT was shown to induce cognitive enhancements in healthy aging adults via mechanisms involving regional changes in CBF. The main improvements include attention, information processing speed and executive functions, which normally decline with aging.
+
+Hyperbaric Oxygen Therapy in Children with Brain Injury: A Retrospective Case Series
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) shows significant patient response in children with brain injury, with better results when starting up to 4 weeks after injury.
+
+Abstract:Introduction and Importance: Some experimental studies on brain injury associated with traumatic brain injury (TBI) and hypoxic-ischaemic encephalopathy (HIE) reveal a positive effect of hyperbaric oxygen therapy (HBOT). However, in clinical medicine, most of the scientific evidence available in the current literature relates only to TBI. Methods: The primary objective is to empirically assess the efficacy of HBOT in mitigating the symptoms of disability associated with brain injury in children, with a view to elucidating its therapeutic potential and clinical benefits. Outcomes: A total of 21 patients have been treated with HBOT. The mean age was 6±4.6 years. There were 12 cases (57%) of TBI, 8 cases (38%) of HIE and 1 case (5%) of ischaemic stroke. The mean initial Glasgow Coma Scale (GCS) at hospital admission immediately after accident was 3.3±0.9. The mean time from injury to HBOT was 5.2 ± 3.8 weeks. The mean number of HBOT exposures was 10±4.3. The mean GCS pre-HBOT was 10.7±3.7 and 12.3±3.4 (p=0.004) after post-HBOT, respectively. The mean Glasgow Outcome Scale (GOS) was 3.3±0.8 pre-HBOT, and 3.9±1.1 (p<0.001) after post-HBOT, respectively. Eighteen cases were included in response to HBOT assessment. Six cases (33%) were evaluated as large clinically significant response (CSR), 7 cases (39%) were evaluated as partial response with minimally important difference (MID). Five cases (28%) were evaluated as non-response. The results showed better response to HBOT in cases of starting HBOT up to 4 weeks (p=0.02) after the injury. There was no serious HBOT-related complication or injury. Conclusion: Results of our study demonstrate both clinical and statistically significant patient response to HBOT. Our data also suggest that the earlier HBOT started after diagnosis up to 4 weeks, the more pronounced patients' response to HBOT was achieved. The provision of HBOT to pediatric patients is feasible in large regional hyperbaric centers.
+
+Hyperbaric Oxygen Therapy for the Treatment of Bone-Related Diseases
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) can promote bone healing and repair by stimulating osteoblast proliferation, encouraging angiogenesis, and modulating inflammatory response and redox status.
+
+Abstract:Hyperbaric oxygen therapy (HBOT) is a therapeutic modality that enhances tissue oxygenation by delivering 100% oxygen at pressures greater than 1 absolute atmosphere. In recent years, HBOT has shown considerable potential in the treatment of bone diseases. While excess oxygen was once thought to induce oxidative stress, recent studies indicate that when administered within safe limits, HBOT can notably promote bone healing and repair. Extensive basic research has demonstrated that HBOT can stimulate the proliferation and differentiation of osteoblasts and encourage bone angiogenesis. Furthermore, HBOT has been shown to exert a beneficial influence on bone metabolism by modulating the inflammatory response and redox status. These mechanisms are closely related to core issues of bone biology. Specifically, in the context of fracture healing, bone defect repair, and conditions such as osteoporosis, HBOT targets the key bone signaling pathways involved in bone health, thereby exerting a therapeutic effect. Several clinical studies have demonstrated the efficacy of HBOT in improving bone health. However, the optimal HBOT regimen for treating various bone diseases still requires further definition to expand the indications for its clinical application. This paper outlines the mechanisms of HBOT, focusing on its antioxidant stress, promotion of bone vascularization, and anti-inflammatory properties. The paper also describes the application of HBOT in orthopedic diseases, thereby providing a scientific basis for the development of precise and personalized HBOT treatment regimens in clinical orthopedics.
+
+Revisiting the role of hyperbaric oxygen therapy in knee injuries: Potential benefits and mechanisms
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) shows potential in improving knee injury healing and preventing chronic disorders by inducing angiogenesis, modulating inflammation, and activating parenchyma cells.
+
+Abstract:Knee injury negatively impacts routine activities and quality of life of millions of people every year. Disruption of tendons, ligaments, and articular cartilage are major causes of knee lesions, leading to social and economic losses. Besides the attempts for an optimal recovery of knee function after surgery, the joint healing process is not always adequate given the nature of intra‐articular environment. Based on that, different therapeutic methods attempt to improve healing capacity. Hyperbaric oxygen therapy (HBOT) is an innovative biophysical approach that can be used as an adjuvant treatment post‐knee surgery, to potentially prevent chronic disorders that commonly follows knee injuries. Given the well‐recognized role of HBOT in improving wound healing, further research is necessary to clarify the benefits of HBOT in damaged musculoskeletal tissues, especially knee disorders. Here, we review important mechanisms of action for HBOT‐induced healing including the induction of angiogenesis, modulation of inflammation and extracellular matrix components, and activation of parenchyma cells—key events to restore knee function after injury. This review discusses the basic science of the healing process in knee injuries, the role of oxygen during cicatrization, and shed light on the promising actions of HBOT in treating knee disorders, such as tendon, ligament, and cartilage injuries.
+
+Hyperbaric Oxygen Therapy in Orthopaedics: An Adjunct Therapy with an Emerging Role
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) shows potential in accelerating healing processes in various musculoskeletal disorders, but larger-scale blinded RCTs are needed to confirm its effectiveness.
+
+Abstract:IntroductionHyperbaric oxygen therapy (HBOT) has emerged as an adjunct treatment modality in various orthopedic and rheumatological conditions. Undersea and Hyperbaric Medical Society (UHMS) defined the minimum number of HBOT cycles, dose, and frequency for various diseases. UHMS laid the 14 absolute indications for HBOT. This article deals with the mechanism of actions of HBOT and evidence of various musculoskeletal disorders where HBOT was utilized to accelerate the healing process of the diseases.Materials and methodsThe review literature search was conducted by using PubMed, SCOPUS, and other database of medical journals for identifying, reviewing, and evaluating the published clinical trial data, research study, and review articles for the use of HBOT in musculoskeletal disorders.ResultsVarious clinical researchers documented cellular and biochemical advantages of HBOT which possess allodynic effects, anti-inflammatory, and prooxygenatory effects in patients with musculoskeletal conditions. Studies on the usage of HBOT in avascular necrosis and wound healing provide a platform for exploring the plausible uses of HBOT in other musculoskeletal conditions. Literature evidence states the complications associated with HBOT therapy.ConclusionThe existing HBOT protocols have to be optimized for various musculoskeletal disorders. Large scale blinded RCTs have to be performed for demonstrating the level of evidence in the usage of HBOT in various musculoskeletal clinical scenarios.
+
+Hyperbaric Oxygen Therapy in Sports Musculoskeletal Injuries.
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) may help athletes recover faster from sports musculoskeletal injuries, potentially saving time and money for top-level sports teams.
+
+Abstract:Hyperbaric oxygen therapy (HBOT) is a well-established treatment for a variety of conditions. HBOT is the administration of 100% oxygen breathing in a pressure vessel at higher than atmospheric pressure (1 atmosphere absolute = 101 kPa). Typically, treatment is given daily for between one and two hours at pressures of 2.0 to 2.8 ATA, depending on the indication. Sporting injuries are often treated over 3-10 sessions. HBOT has been documented to be effective and is approved in 14 medical indications by the Undersea and Hyperbaric Medical Society (UHMS), including but not limited to: carbon monoxide poisoning, compromised skin grafts and flaps, crush injuries, necrotizing soft tissue infections, and non-healing ulcers with arterial insufficiencies. Recently, HBOT for sports musculoskeletal injuries is receiving increased attention. HBOT may allow injured athletes to recover faster than normal rehabilitation methods. Any reduction in collegiate and professional athletes' rehabilitation period can be financially significant for top-level sports teams; however, further research is required to confirm HBOT's benefits on sports musculoskeletal injuries. The purpose of this review to discuss the current understanding of Hyperbaric oxygen therapy as a treatment modality for common musculoskeletal injuries in sport medicine. Moreover, we will highlight the advantages and disadvantages of this modality as well as relevant clinical and research applications.
+
+Hyperbaric oxygen treatment of fibromyalgia: a prospective observational clinical study.
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) is an effective, rapid, and safe treatment for various symptoms of fibromyalgia, with no significant change in sleep quality.
+
+Abstract:OBJECTIVES
+Fibromyalgia (FM) is a syndrome of unknown aetiology that is characterised by widespread musculoskeletal pain, fatigue and disordered sleep, and often associated with neuropsychiatric and cognitive symptoms. Current treatment options are only partially effective, but hyperbaric oxygen therapy (HBOT) seems to be capable of relieving some of the symptoms. The aim of this study was to evaluate the efficacy and safety of HBOT after fewer sessions than generally used, chosen on the basis of pre-clinical and clinical data showing its rapid and sustained antinociceptive effect.
+
+METHODS
+Patients with FM underwent HBOT (100% oxygen at 2.5 ata with air breaks) administered on three days per week for a total of twenty 90-minute sessions. Pain, fatigue, the quality of sleep, symptoms of anxiety and depression, and the patients' health-related quality of life were prospectively assessed before and after ten and twenty sessions.
+
+RESULTS
+Twenty-eight of the 32 study patients completed the 20 HBOT sessions. Pain scores and the symptoms of anxiety (but not those of depression) significantly improved after both 10 and 20 sessions, whereas fatigue and FM symptom severity scores significantly improved only after 20 sessions. There was no significant change in the quality of sleep. The adverse effects were limited.
+
+CONCLUSIONS
+These findings support the view that HBOT is an effective, rapid and safe means of treating various symptoms of FM.
+
+Hyperbaric oxygen therapy modulates serum OPG/RANKL in femoral head necrosis patients
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) reduces pain and lesion size in femoral head necrosis patients, while increasing serum osteoprotegerin levels but not RANKL levels.
+
+Abstract:Abstract Hyperbaric oxygen therapy (HBOT) has beneficial effects on avascular necrosis of femoral head (ANFH), but its mechanism of action is still unclear. We investigated if HBOT upregulates serum osteoprotegerin (OPG) and/or inhibits osteoclast activation. 23 patients with unilateral ANFH at stage I, II and III consented to the study: the patients received standard HBOT. Serum OPG levels were obtained at the beginning of HBOT (T0), after 15 sessions (T1), 30 sessions (T2), after a 30-day break (T3), and after 60 sessions (T4). Magnetic resonance imaging (MRI) was obtained at T0 and about one year from the end of HBO treatments. Lesion size was compared between pre- and post-HBOT. 19 patients completed the study. HBOT reduced pain symptoms in all patients. HBOT significantly reduced lesion size in all stage I and II patients and in 2 of 11 stage III patients. HBOT increased serum OPG levels but receptor activator of nuclear factor kappa-B ligand (RANKL) levels did not change.
+
+HBO treatment enhances motor function and modulates pain development after sciatic nerve injury via protection the mitochondrial function
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) improves motor function and reduces pain after sciatic nerve injury by reducing neuroinflammation and protecting mitochondrial function, preventing neuronal apoptosis in the dorsal root ganglion and spinal cord.
+
+Abstract:Peripheral nerve injury can cause neuroinflammation and neuromodulation that lead to mitochondrial dysfunction and neuronal apoptosis in the dorsal root ganglion (DRG) and spinal cord, contributing to neuropathic pain and motor dysfunction. Hyperbaric oxygen therapy (HBOT) has been suggested as a potential therapeutic tool for neuropathic pain and nerve injury. However, the specific cellular and molecular mechanism by which HBOT modulates the development of neuropathic pain and motor dysfunction through mitochondrial protection is still unclear.Mechanical and thermal allodynia and motor function were measured in rats following sciatic nerve crush (SNC). The HBO treatment (2.5 ATA) was performed 4 h after SNC and twice daily (12 h intervals) for seven consecutive days. To assess mitochondrial function in the spinal cord (L2-L6), high-resolution respirometry was measured on day 7 using the OROBOROS-O2k. In addition, RT-PCR and Immunohistochemistry were performed at the end of the experiment to assess neuroinflammation, neuromodulation, and apoptosis in the DRG (L3-L6) and spinal cord (L2-L6).HBOT during the early phase of the SNC alleviates mechanical and thermal hypersensitivity and motor dysfunction. Moreover, HBOT modulates neuroinflammation, neuromodulation, mitochondrial stress, and apoptosis in the DRG and spinal cord. Thus, we found a significant reduction in the presence of macrophages/microglia and MMP-9 expression, as well as the transcription of pro-inflammatory cytokines (TNFa, IL-6, IL-1b) in the DRG and (IL6) in the spinal cord of the SNC group that was treated with HBOT compared to the untreated group. Notable, the overexpression of the TRPV1 channel, which has a high Ca2+ permeability, was reduced along with the apoptosis marker (cleaved-Caspase3) and mitochondrial stress marker (TSPO) in the DRG and spinal cord of the HBOT group. Additionally, HBOT prevents the reduction in mitochondrial respiration, including non-phosphorylation state, ATP-linked respiration, and maximal mitochondrial respiration in the spinal cord after SNC.Mitochondrial dysfunction in peripheral neuropathic pain was found to be mediated by neuroinflammation and neuromodulation. Strikingly, our findings indicate that HBOT during the critical period of the nerve injury modulates the transition from acute to chronic pain via reducing neuroinflammation and protecting mitochondrial function, consequently preventing neuronal apoptosis in the DRG and spinal cord.
+
+Hyperbaric Oxygen Therapy: Side Effects Defined and Quantified.
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) improves healing rates in certain problem wounds, but understanding its side effects is crucial for providers and patients.
+
+Abstract:Significance: Hyperbaric oxygen therapy (HBOT) is an important advanced therapy in the treatment of problem wounds, including diabetic foot ulcers and late effect radiation injury. HBOT remains among the safest therapies used today. Nonetheless, there are side effects associated with HBOT. It is important for providers to be able to identify, understand, and quantify these side effects for prevention, management, and informed consent. Recent Advances: The past two decades have seen significant advancements in our understanding of the underlying mechanisms of HBOT. This has led to a better understanding of the underlying reason for clinical benefit. It has also led to a better understanding of its side effects. Moreover, more recent literature allows for better quantification of these side effects. This review will highlight these side effects. Critical Issues: Wound healing in the case of problem nonhealing wounds requires the use of various advanced treatment modalities, including HBOT. HBOT has been shown to significantly improve healing rates in certain problem wounds, including advanced diabetic foot ulcers and late effect radiation injury. It is provided in a variety of clinical settings by providers with varying levels of expertise. It is important for those providing this therapy to understand the potential side effects. Future Directions: Research in HBOT has led to significant advancements in the area of wound healing. At the same time, there remains a variety of treatment protocols used at different institutions. It is important to quantify risk and benefit at different treatment pressures and times to better standardize treatment and improve patient care.
+
+Hyperbaric oxygen therapy for late radiation tissue injury.
+
+Number of 
+
+Key takeaways:HBOT may improve healing outcomes for radiation-related injuries in head, neck, anus, and rectum, but has no significant effect on neurological tissues.
+
+Abstract:BACKGROUND
+Cancer is a significant global health problem. Radiotherapy is a treatment for many cancers and about 50% of patients having radiotherapy with be long-term survivors. Some will experience LRTI developing months or years later. HBOT has been suggested for LRTI based upon the ability to improve the blood supply to these tissues. It is postulated that HBOT may result in both healing of tissues and the prevention of problems following surgery.
+
+OBJECTIVES
+To assess the benefits and harms of HBOT for treating or preventing LRTI.
+
+SEARCH STRATEGY
+We searched The Cochrane Central Register of Controlled Trials (CENTRAL) Issue 3, 2004, MEDLINE, EMBASE, CINAHL and DORCTHIM (hyperbaric RCT register) in September 2004.
+
+SELECTION CRITERIA
+Randomised controlled trials (RCTs) comparing the effect of HBOT versus no HBOT on LRTI prevention or healing.
+
+DATA COLLECTION AND ANALYSIS
+Three reviewers independently evaluated the quality of the relevant trials using the guidelines of the Cochrane Handbook Clarke 2003) and extracted the data from the included trials.
+
+MAIN RESULTS
+Six trials contributed to this review (447 participants). For pooled analyses, investigation of heterogeneity suggested important variability between trials. From single studies there was a significantly improved chance of healing following HBOT for radiation proctitis (relative risk (RR) 2.7, 95% confidence Interval (CI) 1.2 to 6.0, P = 0.02, numbers needed to treat (NNT) = 3), and following both surgical flaps (RR 8.7, 95% CI 2.7 to 27.5, P = 0.0002, NNT = 4) and hemimandibulectomy (RR 1.4, 95% CI 1.1 to 1.8, P = 0.001, NNT = 5). There was also a significantly improved probability of healing irradiated tooth sockets following dental extraction (RR 1.4, 95% CI 1.1 to 1.7, P = 0.009, NNT = 4). There was no evidence of benefit in clinical outcomes with established radiation injury to neural tissue, and no data reported on the use of HBOT to treat other manifestations of LRTI. These trials did not report adverse effects.
+
+AUTHORS' CONCLUSIONS
+These small trials suggest that for people with LRTI affecting tissues of the head, neck, anus and rectum, HBOT is associated with improved outcome. HBOT also appears to reduce the chance of osteoradionecrosis following tooth extraction in an irradiated field. There was no such evidence of any important clinical effect on neurological tissues. The application of HBOT to selected patients and tissues may be justified. Further research is required to establish the optimum patient selection and timing of any therapy. An economic evaluation should be also be undertaken. There is no useful information from this review regarding the efficacy or effectiveness of HBOT for other tissues.
+
+The use of hyperbaric oxygen therapy in acute hearing loss: a narrative review
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) shows potential as an effective treatment for acute acoustic trauma and sudden sensorineural hearing loss, with early intervention and combination therapy recommended.
+
+Abstract:Acute hearing loss can have a major impact on a patient's life. This holds true for both acute acoustic trauma (AAT) and idiopathic sudden sensorineural hearing loss (ISSHL), two devastating conditions for which no highly effective treatment options exist. This narrative review provides the rationale and evidence for HBOT in AAT and ISSHL. Narrative review of all the literature available on HBOT in acute hearing loss, studies were retrieved from systematic searches on PubMed and by cross referencing. First, the etiological mechanisms of acute hearing loss and the mechanism of action of HBOT were discussed. Furthermore, we have provided an overview of 68 studies that clinically investigated the effect of HBOT in the last couple of decades. For future studies, it is recommend to start as early as possible with therapy, preferably within 48 h and to use combination therapy consisting of HBOT and corticosteroids. HBOT has been used quite extensively for acute hearing loss in the last couple of decades. Based on the amount of studies showing a positive effect, HBOT should be discussed with patients (shared decision making) as optional therapy in case of AAT and ISSHL.
+
+Hyperbaric Oxygen Therapy Improves Parkinson’s Disease by Promoting Mitochondrial Biogenesis via the SIRT-1/PGC-1α Pathway
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) improves Parkinson's disease symptoms by promoting mitochondrial biogenesis, decreasing apoptosis, and reducing inflammation in the midbrain.
+
+Abstract:Hyperbaric oxygen therapy (HBOT) has been suggested as a potential adjunctive therapy for Parkinson’s disease (PD). PD is a neurodegenerative disease characterized by the progressive loss of dopaminergic neurons in the substantia nigra pars compacta (SNpc). The aim of this study was to investigate the protective mechanisms of HBOT on neurons and motor function in a 1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) mouse model of PD and 1-methyl-4-phenylpyridinium (MPP+)-mediated neurotoxicity in SH-SY5Y cells on the potential protective capability. In vivo: male C57BL/6 mice were randomly divided into three groups: control, MPTP group and MPTP+HBOT group. The MPTP-treated mice were intraperitoneally received MPTP (20 mg/kg) four times at 2 h intervals within a day. The day after MPTP treatment, MPTP+HBOT mice were exposed to hyperbaric oxygen at 2.5 atmosphere absolute (ATA) with 100% oxygen for 1 h once daily for 7 consecutive days. In vitro: retinoic acid (RA)-differentiated SH-SY5Y cells were treated with MPP+ for 1 h followed by hyperbaric oxygen at 2.5 ATA with 100% oxygen for 1 h. The results showed that MPTP induced a significant loss in tyrosine hydroxylase (TH)-positive neurons in the SNpc of mice. HBOT treatment significantly increased the number of TH-positive neurons, with enhanced neurotrophic factor BDNF, decreased apoptotic signaling and attenuated inflammatory mediators in the midbrain of MPTP-treated mice. In addition, MPTP treatment decreased the locomotor activity and grip strength of mice, and these effects were shown to improve after HBOT treatment. Furthermore, MPTP decreased mitochondrial biogenesis signaling (SIRT-1, PGC-1α and TFAM), as well as mitochondrial marker VDAC expression, while HBOT treatment was shown to upregulate protein expression. In cell experiments, MPP+ reduced neurite length, while HBOT treatment attenuated neurite retraction. Conclusions: the effects of HBOT in MPTP-treated mice might come from promoting mitochondrial biogenesis, decreasing apoptotic signaling and attenuating inflammatory mediators in the midbrain, suggesting its potential benefits in PD treatment.
+
+Hyperbaric oxygen therapy on aging diseases
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) has positive effects on aging diseases like increasing VO2Max, decreasing neuronal degeneration in Alzheimer's disease, and accelerating collagen synthesis in osteomyelitis.
+
+Abstract:Aging happens in all creatures and is usually measured based on chronological age. Someone over 65 years of age is often referred to as an elderly person. This is also the age when biological degeneration usually occurs causing a decline in performance and having a major risk factor for aging diseases. Hyperbaric oxygen therapy (HBOT) is a therapeutic approach based on exposure to concentrations of pure oxygen (O2) and increased atmospheric pressure that could be performed based on the patient’s conditions. HBOT has an approved indication and also some contraindication that needs to be looked up to. HBOT has proven to have positive effects on some aging diseases such as increasing VO2Max, decreasing neuronal degeneration in Alzheimers disease, and accelerating collagen synthesis in osteomyelitis. Literature reviews on HBOT's effects on elderly people who suffer from aging diseases are still quite limited. Although some cases of HBOT are still facing pros and contras on its effects, this literature review is expected to be useful in conducting HBOT effects on aging diseases. However, further research is needed related to HBOT on enhancing quality of life for elderly people who suffer from aging diseases.
+
+Hyperbaric Oxygen Increases Stem Cell Proliferation, Angiogenesis and Wound-Healing Ability of WJ-MSCs in Diabetic Mice
+
+Number of 
+
+Key takeaways:Hyperbaric oxygen therapy (HBOT) combined with stem cell therapy improves wound-healing and tissue repair in diabetic mice, highlighting the importance of oxygen tension in stem cell biology.
+
+Abstract:Hyperbaric oxygen therapy (HBOT) is effective for the medical treatment of diverse diseases, infections, and tissue injury. In fact, in recent years there is growing evidence on the beneficial effect of HBOT on non-healing ischemic wounds. However, there is still yet discussion on how this treatment could benefit from combination with regenerative medicine strategies. Here we analyzed the effects of HBOT on three specific aspects of tissue growth, maintenance, and regeneration: (i) modulation of adult rodent (Mus musculus) intestinal stem cell turnover rates; (ii) angiogenesis dynamics during the development of the chorio-allantoic membrane (CAM) in Gallus gallus embryos; (iii) and wound-healing in a spontaneous type II diabetic mouse model with a low capacity to regenerate skin. To analyze these aspects of tissue growth, maintenance, and regeneration, we used HBOT alone or in combination with cellular therapy. Specifically, Wharton Jelly Mesenchymal Stem cells (WJ-MSC) were embedded in a commercial collagen-scaffold. HBOT did not affect the metabolic rate of adult mice nor of chicken embryos. Notwithstanding, HBOT modified the proliferation rate of stem cells in the mice small intestinal crypts, increased angiogenesis in the CAM, and improved wound-healing and tissue repair in diabetic mice. Moreover, our study demonstrates that combining stem cell therapy and HBOT has a collaborative effect on wound-healing. In summary, our data underscore the importance of oxygen tension as a regulator of stem cell biology and support the potential use of oxygenation in clinical treatments.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

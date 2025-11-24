@@ -1,0 +1,408 @@
+PROTOCOL: Sleep fragmentation
+
+IMPACT: Sleep fragmentation - Negative impact on physical, mental health and cognitive functions | Longevity Protocols
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Sleep fragmentation, i.e. frequent awakenings at night, has a clearly negative effect on physical health, mental health, and cognitive functions. Even with similar total sleep duration, frequent awakenings lead to poorer sleep quality, greater fatigue, reduced cognitive performance, as well as metabolic and emotional disorders. Sleep fragmentation also increases the risk of neurodegenerative diseases such as Alzheimer's disease. Improving sleep continuity is crucial for health and longevity.
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Sleep fragmentation, i.e. frequent awakenings at night, has a clearly negative effect on physical health, mental health, and cognitive functions. Even with similar total sleep duration, frequent awakenings lead to poorer sleep quality, greater fatigue, reduced cognitive performance, as well as metabolic and emotional disorders. Sleep fragmentation also increases the risk of neurodegenerative diseases such as Alzheimer's disease. Improving sleep continuity is crucial for health and longevity.
+
+CONTENT SECTIONS:
+
+Negative impact on physical, mental health and cognitive functions
+
+Sleep fragmentation, i.e. frequent awakenings at night, has a clearly negative effect on physical health, mental health, and cognitive functions. Even with similar total sleep duration, frequent awakenings lead to poorer sleep quality, greater fatigue, reduced cognitive performance, as well as metabolic and emotional disorders. Sleep fragmentation also increases the risk of neurodegenerative diseases such as Alzheimer's disease. Improving sleep continuity is crucial for health and longevity.
+
+Level of evidence:Strong
+
+Sleep fragmentation disrupts sleep physiology, leading to a reduction in deep sleep (N3) and REM phases, which are essential for body and brain regeneration. Frequent awakenings interfere with brain cleansing processes such as toxin removal, including beta-amyloid, and cause increased inflammation, which may accelerate neurodegeneration. Moreover, sleep fragmentation negatively affects metabolism by reducing insulin sensitivity and disturbing hormonal balance, which leads to a higher risk of metabolic diseases.
+
+Sleep fragmentation is considered one of the main causes of deteriorated sleep quality and both mental and physical health. For this reason, it is considered a highly harmful intervention whose negative effects can lead to serious health consequences. Many years of research prove that regular sleep fragmentation contributes to an increased risk of developing neurodegenerative diseases such as Alzheimer's and leads to cognitive decline and metabolic disorders.
+
+Sleep fragmentation affects a large number of people worldwide, especially the elderly and people with chronic diseases. This problem is global, considering the widespread phenomenon of sleep deprivation and its impact on public health. There is growing interest in the effect of sleep fragmentation on health, particularly in the context of the increasing number of people with dementia and neurodegenerative diseases.
+
+Maintain regular sleep patterns
+
+Create and stick to a regular day and night rhythm. Regular bedtimes and wake-up times help improve sleep quality, minimizing the risk of fragmentation.
+
+Create comfortable sleeping conditions
+
+Ensure your environment supports healthy sleep – a quiet, dark, and cool room allows for better rest. It's also worth investing in a comfortable mattress and pillow.
+
+Avoid excessive stress before bedtime
+
+Limit exposure to stressful situations, especially in the hours before sleep. Practicing relaxation techniques such as meditation or deep breathing can help calm the body and mind.
+
+Avoid stimulants before sleep
+
+Limit caffeine, nicotine, and other stimulating substances for several hours before planned sleep. These substances can negatively affect sleep quality.
+
+Practice proper sleep hygiene
+
+Avoid using electronics, especially smartphones, tablets, and computers, before bedtime. Blue light emitted by devices disrupts the production of melatonin, the hormone responsible for regulating the sleep cycle.
+
+Be active during the day
+
+Physical activity during the day can improve sleep quality. Try to exercise at least 3-4 times a week, but avoid intense workouts just before bedtime.
+
+Sleep fragmentation, i.e. frequent awakenings at night, has a clearly negative effect on sleep quality. Studies show that even with similar sleep duration, fragmentation leads to poorer sleep architecture, greater fatigue, reduced cognitive performance, as well as metabolic and emotional disorders.
+
+The impact of sleep fragmentation on sleep quality and functioning
+
+Mechanisms and especially vulnerable populations
+
+Sleep fragmentation, i.e. frequent awakenings at night, has a clearly negative effect on the brain. Studies show that it leads to impaired cognitive function, accelerates neurodegenerative processes, and may increase the risk of developing Alzheimer's disease. Sleep fragmentation disrupts brain cleansing of toxins, increases inflammation, and accelerates the aging of nerve cells.
+
+Main effects of sleep fragmentation
+
+Mechanisms and long-term effects
+
+Sleep fragmentation, i.e. frequent awakenings at night, has a clearly negative effect on mental health. Studies show that it leads to mood deterioration, increased risk of anxiety and depressive disorders, reduced cognitive functions, and a higher risk of developing neurodegenerative diseases such as Alzheimer's.
+
+Impact on mood and emotions
+
+Cognitive functions and risk of neurodegenerative diseases
+
+Summary of research: Sleep fragmentation and mental health
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:35
+
+Final comment:Sleep fragmentation has strong scientific foundations, supported by numerous experimental studies, meta-analyses, and clinical trials documenting its negative impact on the functioning of the body. Sleep disturbances have a proven link with impaired cognitive function, emotional disorders, and an increased risk of developing neurodegenerative diseases such as Alzheimer's disease. Animal and human studies indicate a long-term, negative effect of sleep fragmentation on health, making the evidence for its harmfulness highly documented and reliable.
+
+The brake matters: Hyperexcitable arousal circuits in sleep fragmentation with age
+
+Number of 
+
+Key takeaways:Aging leads to increased hyperexcitability of hypocretin3 neurons, leading to sleep fragmentation and poorer sleep quality.
+
+Abstract:High-quality sleep is essential formaintaining our physical and mental health. However, sleep quality declines with age. Aging not only brings daytime sleepiness, difficulty falling asleep and early awakenings, it also introduces conspicuous sleep fragmentation, which is the most common reason preventing the elderly from getting a restorative sleep.1 Despite the broad awareness of its high prevalence and detrimental effect on the body, the mechanistic underpinnings of sleep instability have been underexplored. Recently, we have studied why the brain loses its control of consolidated sleep during aging with a focus on investigation of arousal-promoting neural circuits.2 We first hypothesized that the decline of sleep quality with age could be due to dysfunctional brain arousal circuits. Among these circuits, neurons producing the neuropeptide hypocretin3 (Hcrt, also known as orexin4) were very strong candidates with an established role in initiating and maintaining proper wakefulness.5–8 Using laboratory mice, we found a significant loss of Hcrt neurons in the aged group, which exhibited a more fragmented sleep pattern. By recording calcium signals using fibre photometry, we found that aged Hcrt neurons displayed a higher frequency of Hcrt neuronal GCaMP6f activity driving more frequent wake bouts. The increase in Hcrt activity amplitude necessary to generate a successful sleepto-wake transition was smaller in old mice compared to the young group, demonstrating a lower threshold for Hcrt-induced awakenings in older mice (Figure 1A). Even though the aged group harboured fewer Hcrt neurons, optogenetic stimulation of these neurons elicited longer wake bouts comparedwith the young groupusing the same stimulation paradigm. Our in vivo optogenetic data indicated that the threshold of Hcrt neuronal activity defining sleep-to-wake transition is lower in aged mice, consistent with our calcium recording of spontaneous Hcrt activity. These data, accumulated with top-down and bottom-up strategies collectively support the hypothesis that emerging hyperexcitability of Hcrt neurons drives sleep fragmentation arising with age.
+
+Impact of Sleep Fragmentation on Cognition and Fatigue
+
+Number of 
+
+Key takeaways:Sleep fragmentation disrupts sleep architecture and increases subjective fatigue, but young healthy participants may be able to compensate for cognitive fatigue induced by three consecutive fragmented nights.
+
+Abstract:Sleep continuity and efficacy are essential for optimal cognitive functions. How sleep fragmentation (SF) impairs cognitive functioning, and especially cognitive fatigue (CF), remains elusive. We investigated the impact of induced SF on CF through the TloadDback task, measuring interindividual variability in working memory capacity. Sixteen participants underwent an adaptation polysomnography night and three consecutive nights, once in a SF condition induced by non-awakening auditory stimulations, once under restorative sleep (RS) condition, counterbalanced within-subject. In both conditions, participants were administered memory, vigilance, inhibition and verbal fluency testing, and for CF the TloadDback, as well as sleep questionnaires and fatigue and sleepiness visual analog scales were administered. Subjective fatigue increased and sleep architecture was altered after SF (reduced sleep efficiency, percentage of N3 and REM, number of NREM and REM phases) despite similar total sleep time. At the behavioral level, only inhibition deteriorated after SF, and CF similarly evolved in RS and SF conditions. In line with prior research, we show that SF disrupts sleep architecture and exerts a deleterious impact on subjective fatigue and inhibition. However, young healthy participants appear able to compensate for CF induced by three consecutive SF nights. Further studies should investigate SF effects in extended and/or pathological disruption settings.
+
+Experimental sleep fragmentation.
+
+Number of 
+
+Key takeaways:Sleep fragmentation significantly disrupts nocturnal sleep and reduces daytime alertness, with adaptation occurring from the first to the second night of fragmentation.
+
+Abstract:Thirty-six healthy young men and women (age range 21-35 years) were studied in an experimental model of sleep fragmentation. On 2 nights sleep was disrupted by presenting tones to produce brief electroencephalogram (EEG) arousals (without shortening sleep time) and daytime function was assessed the following day with the Multiple Sleep Latency Test and a divided attention performance test. The fragmentation of sleep produced significant disruption of nocturnal sleep and reduced daytime alertness. Adaptation in EEG-defined arousals occurred from the 1st to the 2nd night of fragmentation. Threshold (measured indirectly) characteristics of EEG-defined arousals were somewhat different than those of previous studies requiring behavioral awakening. The percent of tone series producing arousal, number of tones necessary for arousal and duration of the arousal all reflected heightened thresholds in stage 3/4 and rapid eye movement (REM) sleep compared to stage 1 and stage 2 sleep. In the last 3 hours of sleep versus the first 3 hours, arousals occurred less frequently, required more tones to produce, resulted in shorter durations and in fewer sleep stage changes, except for REM sleep where the converse was the case.
+
+Hyperexcitable arousal circuits drive sleep instability during aging
+
+Number of 
+
+Key takeaways:Aging-related sleep fragmentation is driven by hyperexcitable hypocretin/orexin neurons, which can be improved by hyperpolarizing these neurons.
+
+Abstract:Sleep quality declines with age; however, the underlying mechanisms remain elusive. We found that hyperexcitable hypocretin/orexin (Hcrt/OX) neurons drive sleep fragmentation during aging. In aged mice, Hcrt neurons exhibited more frequent neuronal activity epochs driving wake bouts, and optogenetic activation of Hcrt neurons elicited more prolonged wakefulness. Aged Hcrt neurons showed hyperexcitability with lower KCNQ2 expression and impaired M-current, mediated by KCNQ2/3 channels. Single-nucleus RNA-sequencing revealed adaptive changes to Hcrt neuron loss in the aging brain. Disruption of Kcnq2/3 genes in Hcrt neurons of young mice destabilized sleep, mimicking aging-associated sleep fragmentation, whereas the KCNQ-selective activator flupirtine hyperpolarized Hcrt neurons and rejuvenated sleep architecture in aged mice. Our findings demonstrate a mechanism underlying sleep instability during aging and a strategy to improve sleep continuity. Description Aging and sleep disruption In humans, the deterioration of sleep quality during aging is one of the most prevalent complaints. In an animal model, Li et al. found that aging correlated with enhanced spontaneous activity of wake-promoting brain areas during sleep (see the Perspective by Jacobson and Hoyer). Hypocretin-expressing neurons were more active during sleep, raising the chances of brief arousals and thus causing sleep to be more fragmented. The excitability of hypocretin neurons in aged brain tissue was heightened, possibly because of decreased expression of a subpopulation of potassium channels. Aging-related sleep fragmentation may therefore be due to altered intrinsic excitability of arousal-promoting neurons. —PRS Down-regulation of potassium channels causes hyperexcitability of hypocretin neurons and leads to age related fragmentation of sleep. INTRODUCTION Sleep destabilization is strongly associated with aging and cognitive function decline. Despite sleep fragmentation being central to the most prevalent complaints of sleep problems in elderly populations, the mechanistic underpinnings of sleep instability remain elusive. Fragmented sleep during aging has been observed across species, indicating conserved underlying mechanisms across the phylogenetic tree. Therefore, understanding why the aging brain fails to consolidate sleep may shed light on translational applications for improving the sleep quality of aged individuals. RATIONALE We hypothesized that the decline in sleep quality could be due to malfunction of the neural circuits associated with sleep/wake control. It has been established that hypocretin/orexin (Hcrt/OX) neuronal activity is tightly associated with wakefulness and initiates and maintains the wake state. In this study, we investigated whether the intrinsic excitability of Hcrt neurons is altered, leading to a destabilized control of sleep/wake states during aging. RESULTS Aged mice exhibited sleep fragmentation and a significant loss of Hcrt neurons. Hcrt neurons manifested a more frequent firing pattern, driving wake bouts and disrupting sleep continuity in aged mice. Aged Hcrt neurons were capable of eliciting more prolonged wake bouts upon optogenetic stimulations. These results suggested that hyperexcitability of Hcrt neurons emerges with age. Patch clamp recording in genetically identified Hcrt neurons revealed distinct intrinsic properties between the young and aged groups. Aged Hcrt neurons were hyperexcitable with depolarized membrane potentials (RMPs) and a smaller difference between RMP and the firing threshold. Aged Hcrt neurons expressing ChR2-eYFP were more sensitive to optogenetic stimulations, with a smaller-amplitude attenuation upon repetitive light pulse stimulations. More spikelets were generated in aged Hcrt neurons upon current injections. Recording from non-Hcrt neurons postsynaptic to Hcrt neurons revealed that optogenetic stimulation of Hcrt neurons expressing ChR2-eYFP reliably evoked time-locked postsynaptic currents (PSCs) after optogenetic stimulation more often in the aged group. Aged Hcrt neurons were characterized with a functional impairment of repolarizing M-current mediated by KCNQ2/3 channels and an anatomical loss of KCNQ2, revealed with array tomography at ultrastructural resolution. Single-nucleus RNA-sequencing (snRNA-seq) revealed molecular adaptions, including up-regulated prepro-Hcrt mRNA expression and a smaller fraction of Kcnq family subtypes Kcnq1/2/3/5 in aged Hcrt neurons. CRISPR/SaCas9–mediated disruption of Kcnq2/3 genes selectively in Hcrt neurons was sufficient to recapitulate the aging-associated sleep fragmentation trait in young mice. Pharmacological augmentation of M-current repolarized the RMP, suppressed spontaneous firing activity in aged Hcrt neurons, and consolidated sleep stability in aged mice. Sleep fragmentation in a narcolepsy mouse model with genetic ablation of Hcrt neurons at young ages manifested a mechanism other than hyperexcitable arousal-promoting Hcrt neurons that drives sleep fragmentation during healthy aging. CONCLUSION Our data indicate that emerging hyperexcitability of arousal-promoting Hcrt neurons is strongly associated with fragmented sleep in aged mice, which display a lowered sleep-to-wake transition threshold defined for Hcrt neuronal activity. We have demonstrated that the down-regulation of KCNQ2/3 channels compromising repolarization drives Hcrt neuronal hyperexcitability, which leads to sleep instability during aging. Pharmacological remedy of sleep continuity through targeting KCNQ2/3 channels in aged mice confers a potential translational therapy strategy for improving sleep quality in aged individuals. Hyperexcitable Hcrt neurons drive sleep instability during aging. Elevated excitability of Hcrt neurons with depolarized RMPs and adaptive up-regulation of prepro-Hcrt mRNA expression converge to drive sleep/wake instability in the aged brain with substantial Hcrt neuron loss. Hyperexcitable aged Hcrt neurons express functional impairment of KCNQ2/3 channel–mediated M-current and an anatomical loss of KCNQ2, compromising the neurons to repolarize.
+
+Regulation of stress-induced sleep fragmentation by preoptic glutamatergic neurons
+
+Number of 
+
+Key takeaways:Preoptic glutamatergic neurons in the hypothalamus play a crucial role in regulating sleep quality after stress, reducing microarousals and improving sleep consolidation.
+
+Abstract:Sleep disturbances are detrimental for our behavioral and emotional well-being. Stressful events disrupt sleep, in particular by inducing brief awakenings (microarousals, MAs) resulting in sleep fragmentation. The preoptic area of the hypothalamus (POA) is crucial for sleep control. However, how POA neurons contribute to the regulation of MAs and thereby impact sleep quality is unknown. Using fiber photometry recordings in mice, we examined the activity changes of genetically defined POA subpopulations during sleep. We found that POA glutamatergic neurons are rhythmically activated in synchrony with an infraslow rhythm in the spindle band of the electroencephalogram during non-rapid eye movement sleep (NREMs) and are transiently activated during MAs. Optogenetic stimulation of these neurons strongly promotes MAs. Exposure to acute social defeat stress significantly increased the number of transients in the calcium activity of POA glutamatergic neurons during NREMs. Optogenetic inhibition during spontaneous sleep and after stress reduced MAs during NREMs and consequently consolidated sleep. Monosynaptically-restricted rabies tracing revealed that POA glutamatergic neurons are innervated by brain regions regulating stress and sleep. Our findings uncover a novel circuit mechanism by which POA excitatory neurons regulate sleep quality after stress.
+
+Self‐reported sleep fragmentation and sleep duration and their association with cognitive function in PROTECT, a large digital community‐based cohort of people over 50
+
+Number of 
+
+Key takeaways:Short (6 hours) and long (>9 hours) sleep durations and sleep fragmentation (3 nightly awakenings) are associated with poor cognitive function in older adults.
+
+Abstract:Sleep is vital for normal cognitive function in daily life, but is commonly disrupted in older adults. Poor sleep can be detrimental to mental and physical health, including cognitive function. This study assessed the association between self‐reported short (<6 h) and long (>9 h) sleep duration and sleep fragmentation (3≥ nightly awakenings) in cognitive function.
+
+The role of presleep negative emotion in sleep physiology.
+
+Number of 
+
+Key takeaways:Negative emotions before bedtime significantly increase sleep fragmentation, leading to decreased sleep efficiency, total sleep time, and increased awakenings.
+
+Abstract:Although daytime emotional stressful events are often presumed to cause sleep disturbances, the few studies of stressful life events on sleep physiology have resulted in various and contradictory findings. As research has focused in particular on stress in itself, the present study is the first to investigate the effect using polysomnography (PSG). Results indicate a significant increase in sleep fragmentation, as expressed by decreased sleep efficiency, total sleep time, percentage of rapid eye movement (REM) sleep, and an increased wake after sleep onset latency, total time awake, latency to SWS, number of awakenings and number of awakenings from REM sleep. The results demonstrate that negative emotion correlates with enhanced sleep fragmentation helping us to understand why sleep patterns change and how sleep disturbances may develop.
+
+Effects of sleep fragmentation on glucose metabolism in normal subjects.
+
+Number of 
+
+Key takeaways:Sleep fragmentation decreases insulin sensitivity and glucose effectiveness, with increased sympathetic nervous system and adrenocortical activity likely mediating the adverse metabolic effects of poor sleep quality.
+
+Abstract:BACKGROUND
+Sleep disorders are increasingly associated with insulin resistance, glucose intolerance, and type 2 diabetes mellitus. Whether the metabolic toll imposed by sleep-related disorders is caused by poor-quality sleep or due to other confounding factors is not known. The objective of this study was to examine whether experimental sleep fragmentation across all sleep stages would alter glucose metabolism, adrenocortical function, and sympathovagal balance.
+
+METHODS
+Sleep was experimentally fragmented across all stages in 11 healthy, normal volunteers for two nights using auditory and mechanical stimuli. Primary outcomes included insulin sensitivity (S(I)), glucose effectiveness (S(G)), and insulin secretion, as determined by the intravenous glucose tolerance test. Secondary outcomes included measures of sympathovagal balance and serum levels of inflammatory markers, adipokines, and cortisol.
+
+RESULTS
+Following two nights of sleep fragmentation, S(I) decreased from 5.02 to 3.76 (mU/L)(-1)min(-1) (P < .0001). S(G), which is the ability of glucose to mobilize itself independent of an insulin response, also decreased from 2.73 x 10(-2) min(-1) to 2.16 x 10(-2) min(-1) (P < .01). Sleep fragmentation led to an increase in morning cortisol levels and a shift in sympathovagal balance toward an increase in sympathetic nervous system activity. Markers of systemic inflammation and serum adipokines were unchanged with sleep fragmentation.
+
+CONCLUSIONS
+Fragmentation of sleep across all stages is associated with a decrease in S(I) and S(G). Increases in sympathetic nervous system and adrenocortical activity likely mediate the adverse metabolic effects of poor sleep quality.
+
+The effects of napping on night‐time sleep in healthy young adults
+
+Number of 
+
+Key takeaways:Frequent napping and late naps may be associated with increased sleep fragmentation and poorer sleep quality in young adults, resulting in longer sleep onsets and increased awakenings.
+
+Abstract:The discrepancies in the effects of napping on sleep quality may be due to differences in methodologies, napping behaviours, and daytime activity levels across studies. We determined whether napping behaviours and daytime activity levels are associated with night‐time sleep fragmentation and sleep quality in young adults. A total of 62 healthy adults (mean age 23.5 years) completed screening questionnaires for sleep habits, physical activity, medical and psychological history. Actigraphy was used to record sleep including naps. The fragmentation algorithm (KRA) was applied to the actigraphic data to measure night‐time sleep fragmentation. We classified participants’ nap frequency as “non‐nappers” (0 naps/8 days), “moderate nappers” (1–2 naps/8 days) or “frequent nappers” (≥3 naps/8 days) naps. Nap duration was defined as “short” (≤60 min) or “long” (>60 min). Naps’ proximity to the night sleep episode was defined as “early” (≥7 h) and “late” (<7 h) naps. Outcome variables were night‐time KRA and actigraphic sleep variables. Frequent nappers had a significantly higher KRA than moderate nappers (p < 0.01) and non‐nappers (p < 0.02). Late naps were associated with poorer measures of night sleep quality versus early naps (all p ≤ 0.02). Nap duration and daytime activity were not associated with significant differences in the outcome variables (all p > 0.05). KRA correlated with sleep duration, sleep efficiency, and awakenings (r = −0.32, −0.32, and 0.53, respectively; all p < 0.05). Frequent napping and late naps may be associated with increased sleep fragmentation and poorer sleep quality, reflected in longer sleep onsets and increased awakenings. These findings have implications for public health sleep hygiene recommendations.
+
+Sleep fragmentation affects glymphatic system through the different expression of AQP4 in wild type and 5xFAD mouse models
+
+Number of 
+
+Key takeaways:Sleep fragmentation accelerates Alzheimer's disease progression in 5xFAD mice and affects cognitive behaviors in wild-type mice, potentially linking sleep disorders and Alzheimer's disease.
+
+Abstract:Alzheimer's disease (AD) is characterized by genetic and multifactorial risk factors. Many studies correlate AD to sleep disorders. In this study, we performed and validated a mouse model of AD and sleep fragmentation, which properly mimics a real condition of intermittent awakening. We noticed that sleep fragmentation induces a general acceleration of AD progression in 5xFAD mice, while in wild type mice it affects cognitive behaviors in particular learning and memory. Both these events may be correlated to aquaporin-4 (AQP4) modulation, a crucial player of the glymphatic system activity. In particular, sleep fragmentation differentially affects aquaporin-4 channel (AQP4) expression according to the stage of the disease, with an up-regulation in younger animals, while such change cannot be detected in older ones. Moreover, in wild type mice sleep fragmentation affects cognitive behaviors, in particular learning and memory, by compromising the glymphatic system through the decrease of AQP4. Nevertheless, an in-depth study is needed to better understand the mechanism by which AQP4 is modulated and whether it could be considered a risk factor for the disease development in wild type mice. If our hypotheses are going to be confirmed, AQP4 modulation may represent the convergence point between AD and sleep disorder pathogenic mechanisms.
+
+Sleep loss and emotion: A systematic review and meta-analysis of over 50 years of experimental research.
+
+Number of 
+
+Key takeaways:Sleep loss reduces positive emotions, increases anxiety symptoms, and blunts emotional arousal, with mixed results depending on the type of sleep loss.
+
+Abstract:In a largely sleep-deprived society, quantifying the effects of sleep loss on emotion is critical for promoting psychological health. This preregistered systematic review and meta-analysis quantified the effects of various forms of sleep loss on multiple aspects of emotional experiences. Eligible studies used experimental reductions of sleep via total sleep deprivation, partial sleep restriction, or sleep fragmentation in healthy populations to examine effects on positive affect, negative affect, general mood disturbances, emotional reactivity, anxiety symptoms, and/or depressive symptoms. In total, 1,338 effect sizes across 154 studies were included (N = 5,717; participant age range = 7-79 years). Random effects models were conducted, and all forms of sleep loss resulted in reduced positive affect (standardized mean difference = -0.27 to -1.14), increased anxiety symptoms (SMD = 0.57-0.63), and blunted arousal in response to emotional stimuli (SMD = -0.20 to -0.53). Findings for negative affect, reports of emotional valence in response to emotional stimuli, and depressive symptoms were mixed and depended on the type of sleep loss. Nonlinear effects for the amount of sleep loss as well as differences based on the stage of sleep restricted (i.e., rapid eye movement sleep or slow-wave sleep) were also detected. This study represents the most comprehensive quantitative synthesis of experimental sleep and emotion research to date and provides strong evidence that periods of extended wakefulness, shortened sleep duration, and/or nighttime awakenings adversely influence human emotional functioning. Findings provide an integrative foundation for future research on sleep and emotion and elucidate the precise ways that inadequate sleep may impact our daytime emotional lives. (PsycInfo Database Record (c) 2023 APA, all rights reserved).
+
+Sleep fragmentation and lucid dreaming
+
+Number of 
+
+Key takeaways:Sleep fragmentation, polyphasic sleep, and wake-REM sleep transitions are associated with lucid dreaming, but sleep quality and awakenings are not.
+
+Components of sleep quality and sleep fragmentation in rheumatoid arthritis and osteoarthritis.
+
+Number of 
+
+Key takeaways:Poor sleep quality is prevalent in both rheumatoid arthritis and osteoarthritis patients, with sleep fragmentation being the most common issue, and urination and pain being the most common causes of awakening.
+
+Abstract:OBJECTIVES
+Poor sleep is increasingly recognized as contributing to a decreased quality of life, increased morbidity/mortality and heightened pain perception. The purpose of the present study was to assess components of sleep quality and self-identified contributors to sleep fragmentation in rheumatoid arthritis (RA) and osteoarthritis (OA) patient populations.
+
+METHODS
+Consecutive RA and OA clinic patients were invited to participate in a self-administered questionnaire study which included the validated multi-domain Pittsburgh Sleep Quality Index (PSQI), visual analogue scales for pain, fatigue, global functioning, modified Health Assessment Questionnaire (mHAQ), stress scores, the Centre for Epidemiologic Studies-Depression (CES-D) score, the 36-item short form (SF-36) quality of life measure, the Rheumatoid Arthritis Disease Activity Index (RADAI), the Epworth Sleepiness Scale (ESS), Berlin score for obstructive sleep apnoea (OSA) risk and the International Restless Legs Syndrome Study Group (IRLSSG) diagnostic criteria.
+
+RESULTS
+The study population included 145 RA and 78 OA patients. PSQI global scores were >5 in 62% of RA and 67% of OA patients. Multivariate analysis identified global functioning and the CES-D to be independent predictors for higher global PSQI scores in RA patients, whereas in OA patients predictors were the mHAQ and SF-36 mental component summary. Abnormalities in subjective sleep assessment, sleep latency, sleep duration, sleep efficiency, daytime dysfunction and increased sleep-aid medication use were observed in both populations. The most common abnormality reported by both RA and OA patients was increased sleep fragmentation. The most frequent self-identified cause for sleep disturbance was 'need to use the washroom' by 51% of RA and 49% of OA patients, and, second most common, 'pain' was identified as a cause for awakening by 33% of RA and 45% of OA patients.
+
+CONCLUSIONS
+A high prevalence of abnormal sleep quality in both RA and OA patient populations was observed. The most common abnormality was sleep fragmentation, with an increased sleep disturbance score. 'Need to use the washroom' and 'pain' were the most common self-identified reasons for awakening from sleep. A review of sleep hygiene, optimization of urological status, and rheumatological disease symptomatic control may prove beneficial in terms of sleep health.
+
+Chronic Fragmentation of the Daily Sleep-Wake Rhythm Increases Amyloid-beta Levels and Neuroinflammation in the 3xTg-AD Mouse Model of Alzheimer’s Disease
+
+Number of 
+
+Key takeaways:Chronic sleep fragmentation in mice models of Alzheimer's disease increases amyloid-beta levels and neuroinflammation, suggesting improved sleep consolidation may slow the progression of the neurodegenerative disease.
+
+Sleep and circadian disturbances in children with neurodevelopmental disorders.
+
+Number of 
+
+Key takeaways:Sleep disturbances in children with neurodevelopmental disorders can impact brain development and quality of life, highlighting the need for further research and predictive biomarkers.
+
+Sleep in the intensive care unit
+
+Number of 
+
+Key takeaways:Critically ill patients experience frequent arousals and awakenings, sleep fragmentation, and poor sleep quality, with noise and patient care activities contributing to sleep disruption.
+
+Abstract:Abnormalities of sleep are extremely common in critically ill patients, but the mechanisms are poorly understood. About half of total sleep time occurs during the daytime, and circadian rhythm is markedly diminished or lost. Judgments based on inspection consistently overestimate sleep time and do not detect sleep disruption. Accordingly, reliable polygraphic recordings are needed to measure sleep quantity and quality in critically ill patients. Critically ill patients exhibit more frequent arousals and awakenings than is normal, and decreases in rapid eye movement and slow wave sleep. The degree of sleep fragmentation is at least equivalent to that seen in patients with obstructive sleep apnea. About 20% of arousals and awakenings are related to noise, 10% are related to patient care activities, and the cause for the remainder is not known; severity of underlying disease is likely an important factor. Mechanical ventilation can cause sleep disruption, but the precise mechanism has not been defined. Sleep disruption can induce sympathetic activation and elevation of blood pressure, which may contribute to patient morbidity. In healthy subjects, sleep deprivation can decrease immune function and promote negative nitrogen balance. Measures to improve the quantity and quality of sleep in critically ill patients include careful attention to mode of mechanical ventilation, decreasing noise, and sedative agents (although the latter are double-edged swords).
+
+Effects of sleep fragmentation and partial sleep restriction on heart rate variability during night
+
+Number of 
+
+Key takeaways:Sleep restriction increases sympathetic tone and decreases vagal tone during night, causing increased autonomic stress, while sleep fragmentation does not affect cardiac autonomic parameters in our sample.
+
+Night Awakening in Infancy: Developmental Stability and Longitudinal Associations With Psychomotor Development
+
+Number of 
+
+Key takeaways:Early onset fragmented sleep does not negatively impact psychomotor development within the first 2 years of life, despite differences in sleep length among infants.
+
+Abstract:Fragmented sleep is common in infancy. Although night awakening is known to decrease with age, in some infants night awakening is more persistent and continues into older ages. However, the influence of fragmented sleep on development is poorly known. In the present study, the longitudinal relationship between fragmented sleep and psychomotor development (Bayley Scales of Infant and Toddler Development ; Bayley, 2009) was investigated in infants with (≥3 night awakenings, n = 81) and without fragmented sleep (⩽1 night awakening, n = 70) within the CHILD-SLEEP birth cohort at 8 and 24 months of age. Differences in parent-reported (Brief Infant Sleep Questionnaire ) sleep parameters were studied at 8, 18, and 24 months of age. Group differences in night awakening were stable across all assessment points. Infants with fragmented sleep slept less in total than infants without fragmented sleep and they did not compensate their nocturnal sleep during daytime. Additionally, infants with fragmented sleep spent more time awake at night than infants without fragmented sleep. However, psychomotor development did not differ between infants with and without fragmented sleep at 8 or 24 months of age. Our findings indicate that early onset fragmented sleep did not have a negative effect on psychomotor development within the first 2 years despite the differences in sleep length among infants with and without fragmented sleep. In the future, more specific domains of cognitive development and various factors affecting sleep fragmentation should be taken into account when studying the developmental effects of night awakening in infancy.
+
+Sleep Fragmentation Modulates the Neurophysiological Correlates of Cognitive Fatigue
+
+Number of 
+
+Key takeaways:Sleep fragmentation increases cognitive effort and relaxation in healthy individuals, highlighting the importance of sleep quality and continuity for optimal cognitive functioning.
+
+Abstract:Cognitive fatigue (CF) is a critical factor affecting performance and well-being. It can be altered in suboptimal sleep quality conditions, e.g., in patients suffering from obstructive sleep apnea who experience both intermittent hypoxia and sleep fragmentation (SF). Understanding the neurophysiological basis of SF in healthy individuals can provide insights to improve cognitive functioning in disrupted sleep conditions. In this electroencephalographical (EEG) study, we investigated in 16 healthy young participants the impact of experimentally induced SF on the neurophysiological correlates of CF measured before, during, and after practice on the TloadDback, a working memory task tailored to each individual’s maximal cognitive resources. Participants spent two times three consecutive nights in the laboratory, once in an undisrupted sleep (UdS) condition and once in a SF condition induced by non-awakening auditory stimulations, counterbalanced, and performed the TloadDback task both in a high (HCL) and a low (LCL) cognitive load condition. EEG activity was recorded during wakefulness in the 5-minutes resting state immediately before and after, as well as during the 16-minutes of the TloadDback task practice. In the high cognitive load under sleep fragmentation (HCL/SF) condition, high beta power increased during the TloadDback indicating heightened cognitive effort, and beta and alpha power increased in the post- vs. pre task resting state, suggesting a relaxation rebound. In the low cognitive load/undisturbed sleep (LCL/UdS) condition, low beta activity increased suggesting a relaxed focus, as well as mid beta activity associated with active thinking. These findings highlight the dynamic impact of SF on the neurophysiological correlates of CF and underscore the importance of sleep quality and continuity to maintain optimal cognitive functioning.
+
+SLEEP FRAGMENTATION AND BRAIN STRUCTURAL CHANGES IN AGING AND ALZHEIMER’S DISEASE
+
+Number of 
+
+Key takeaways:Sleep fragmentation is associated with increased risk of dementia, cognitive decline, and dementia-related brain changes in older adults.
+
+Chronic sleep fragmentation impairs brain interstitial clearance in young wildtype mice
+
+Number of 
+
+Key takeaways:Chronic sleep fragmentation impairs brain metabolic waste clearance and cognitive functions in healthy mice, potentially increasing the risk of dementia.
+
+Abstract:Accumulating evidence shows that most chronic neurological diseases have a link with sleep disturbances, and that patients with chronically poor sleep undergo an accelerated cognitive decline. Indeed, a single-night of sleep deprivation may increase metabolic waste levels in cerebrospinal fluid. However, it remains unknown how chronic sleep disturbances in isolation from an underlying neurological disease may affect the glymphatic system. Clearance of brain interstitial waste by the glymphatic system occurs primarily during sleep, driven by multiple oscillators including arterial pulsatility, and vasomotion. Herein, we induced sleep fragmentation in young wildtype mice and assessed the effects on glymphatic activity and cognitive functions. Chronic sleep fragmentation reduced glymphatic function and impaired cognitive functions in healthy mice. A mechanistic analysis showed that the chronic sleep fragmentation suppressed slow vasomotion, without altering cardiac-driven pulsations. Taken together, results of this study document that chronic sleep fragmentation suppresses brain metabolite clearance and impairs cognition, even in the absence of disease. Graphical Abstract Deng et al. found that chronic sleep fragmentation of 30 days significantly suppressed glymphatic influx, which was mirrored by cognitive decline. In vivo two-photon imaging in the awake state revealed that slow vasomotion rather than cardiac driven pulsations was suppressed in chronic sleep fragmented mice. Therefore, vascular dysfunction induced by sleep disturbance might impair brain metabolic waste clearance and increase the risk of developing dementia.
+
+Sleep fragmentation, microglial aging, and cognitive impairment in adults with and without Alzheimer’s dementia
+
+Number of 
+
+Key takeaways:Sleep fragmentation in older adults is associated with accelerated microglial aging and activation, which may partially explain its association with cognitive impairment.
+
+Abstract:Poor sleep in older adults is associated with aging of the brain’s resident innate immune cells and impaired cognition. Sleep disruption is associated with cognitive decline and dementia in older adults; however, the underlying mechanisms are unclear. In rodents, sleep disruption causes microglial activation, inhibition of which improves cognition. However, data from humans are lacking. We studied participants in two cohort studies of older persons—the Rush Memory and Aging Project and the Religious Orders Study. We assessed sleep fragmentation by actigraphy and related this to cognitive function, to neocortical microglial marker gene expression measured by RNA sequencing, and to the neocortical density of microglia assessed by immunohistochemistry. Greater sleep fragmentation was associated with higher neocortical expression of genes characteristic of aged microglia, and a higher proportion of morphologically activated microglia, independent of chronological age- and dementia-related neuropathologies. Furthermore, these were, in turn, associated with worse cognition. This suggests that sleep fragmentation is accompanied by accelerated microglial aging and activation, which may partially underlie its association with cognitive impairment.
+
+Brain and cognitive correlates of sleep fragmentation in elderly subjects with and without cognitive deficits
+
+Number of 
+
+Key takeaways:Sleep fragmentation may contribute to lower cognitive performance in cognitively unimpaired elderly subjects, suggesting that treating sleep disturbances before cognitive decline occurs may help maintain cognitive functioning.
+
+0300 Early Life Sleep Fragmentation Impairs Hippocampal-Dependent Learning and Sleep-Dependency in Hippocampal Calcium Transients
+
+Number of 
+
+Key takeaways:Early-life sleep fragmentation impairs hippocampal-dependent memory and may be driven by higher firing rates and calcium exposure in hippocampal neurons during sleep, potentially impacting microglial maintenance of synapses.
+
+Abstract:Sleep deprivation impairs hippocampal-dependent memory, and hippocampal-dependent memory impairments occur in some dementias, including Alzheimer’s disease. As our population continues to age, understanding the molecular basis for memory impairments is increasingly important. We hypothesized that early life sleep fragmentation would result in lasting increases in hippocampal calcium transient activity.
+ 
+ 
+ 
+ B6 mice were randomized to 12wk of sleep fragmentation or rested control conditions at age 8wk. Mice were microinjected with AAV9-CamKII-GCamp6F into the hippocampus and later implanted with a GRIN Lens into CA1 secured to a baseplate along with chronic EEG/EMG electrodes and recording connector. Calcium recordings were obtained two to three months after injection and recordings were obtained across sleep-wake cycles>4mins of wake and NREM sleep. Individual cells across animal were combined into sleep fragmented (n = 521 cells) or rested (n = 443 cells) groups during wake or sleep. Average FFx was analyzed by group and condition by T-tests, paired for within and unpaired across groups. A spatial object recognition assay was also performed on all mice (n=16 for both groups) and performance across group was analyzed by paired T-tests.
+ 
+ 
+ 
+ Rested mice showed normal spatial object recognition (n = 16, p<0.05). In contrast, SF mice showed impaired spatial object recognition (n = 16, N.S.). There were no differences across sleep conditions in calcium transient FFx for waking (p>0.05). However, in sleep, cells in SF mice had significantly higher average FFx values than cells in rested mice (p<0.0001).
+ 
+ 
+ 
+ Early-life sleep fragmentation has long-lasting impacts on memory. Since spatial memory is dependent on hippocampal function, the calcium transient FFx data suggests that a driver of this hippocampal memory impairment may be higher firing rates in sleep and/or greater calcium exposure in hippocampal CamKII neurons in sleep, both of which may perturb microglial maintenance of synapses. Understanding the molecular drivers behind this calcium dysfunction will be essential in our understanding of neurodegeneration, dementia, and Alzheimer’s disease.
+ 
+ 
+ 
+ NIH AG054104; AG064231
+
+Cognitive Impairments, Neuroinflammation and Blood–Brain Barrier Permeability in Mice Exposed to Chronic Sleep Fragmentation during the Daylight Period
+
+Number of 
+
+Key takeaways:Chronic sleep fragmentation in mice leads to increased inflammation, memory impairments, and increased blood-brain barrier permeability, which remains elevated even after sleep recovery.
+
+Abstract:Obstructive sleep apnea (OSA) is a chronic condition characterized by intermittent hypoxia (IH) and sleep fragmentation (SF). In murine models, chronic SF can impair endothelial function and induce cognitive declines. These deficits are likely mediated, at least in part, by alterations in Blood–brain barrier (BBB) integrity. Male C57Bl/6J mice were randomly assigned to SF or sleep control (SC) conditions for 4 or 9 weeks and in a subset 2 or 6 weeks of normal sleep recovery. The presence of inflammation and microglia activation were evaluated. Explicit memory function was assessed with the novel object recognition (NOR) test, while BBB permeability was determined by systemic dextran-4kDA-FITC injection and Claudin 5 expression. SF exposures resulted in decreased NOR performance and in increased inflammatory markers and microglial activation, as well as enhanced BBB permeability. Explicit memory and BBB permeability were significantly associated. BBB permeability remained elevated after 2 weeks of sleep recovery (p < 0.01) and returned to baseline values only after 6 weeks. Chronic SF exposures mimicking the fragmentation of sleep that characterizes patients with OSA elicits evidence of inflammation in brain regions and explicit memory impairments in mice. Similarly, SF is also associated with increased BBB permeability, the magnitude of which is closely associated with cognitive functional losses. Despite the normalization of sleep patterns, BBB functional recovery is a protracted process that merits further investigation.
+
+Sleep fragmentation reduces explorative behaviors and impairs motor coordination in male mice
+
+Number of 
+
+Key takeaways:Sleep fragmentation in male mice leads to reduced explorative behaviors and impaired motor coordination, with EEG power and altered neuronal activity potentially contributing to these behavioral changes.
+
+Abstract:Sleep fragmentation (SF), which refers to discontinuous and fragmented sleep, induces cognitive impairment and anxiety‐like behavior in mice. However, whether SF can affect motor capability in healthy young wild‐type mice and the underlying mechanisms remain unknown. We performed seven days of sleep fragmentation (SF 7d) interventions in young wild‐type male mice. While SF mice experienced regular sleep disruption between Zeitgeber time (ZT) 0–12, control mice were allowed to have natural sleep (NS) cycles. Homecage analysis and conventional behavioral tests were conducted to assess the behavioral alterations in behavioral patterns in general and motor‐related behaviors. Sleep structures and the power spectrum of electroencephalograms (EEGs) were compared between SF 7d and NS groups. Neuronal activation was measured using c‐Fos immunostaining and quantified in multiple brain regions. SF of 7 days significantly decreased bouts of rearing and sniffing and the duration of rearing and impaired motor coordination. An increase in the total sleep time and a decrease in wakefulness between ZT12–24 was found in SF 7d mice. In SF 7d mice, EEG beta1 power was increased in rapid eye movement (REM) sleep while theta power was decreased during wakefulness. SF 7d resulted in significant suppression in c‐Fos (+) cell counts in the motor cortex and hippocampus but an increase in c‐Fos (+) cell counts in the substantia nigra pars compacta (SNc). In summary, SF 7d suppressed explorative behaviors and impaired motor coordination as compared to NS. EEG power and altered neuronal activity detected by c‐Fos staining might contribute to the behavioral changes.
+
+Medial temporal lobe atrophy relates more strongly to sleep-wake rhythm fragmentation than to age or any other known risk
+
+Number of 
+
+Key takeaways:Sleep-wake rhythm fragmentation contributes more to age-related medial temporal lobe atrophy than age or any other known risk factor.
+
+The effect of sleep fragmentation on daytime function.
+
+Number of 
+
+Key takeaways:Sleep fragmentation impairs daytime function in normal subjects by making them sleepier, impairing mood assessment, and decreasing mental flexibility and sustained attention.
+
+Abstract:Patients with the sleep apnea/hypopnea syndrome suffer from impaired daytime function. This has been attributed to both sleep fragmentation and hypoxemia. To help understand which is casual, we studied the effects of sleep fragmentation alone on daytime function. Sixteen normal subjects were studied on two pairs of two nights. The first night of each pair was for acclimatization, and on the second the subject either slept undisturbed or had sleep fragmented with sound pulses every 2 min. Sound volume and duration was titrated to cause a return to theta or alpha rhythm on the EEG for at least 3 s. Study nights were followed by daytime testing of psychometric function and mood and by a multiple sleep latency test (MSLT) and a maintenance of wakefulness test (MWT). Total sleep time did not differ between study nights (400 +/- 20 SD min undisturbed, 396 +/- 24 min fragmented; p = 0.6). Fragmentation decreased sleep latency on both the MSLT (11 +/- 3, 7 +/- 2 min; p = 0.001) and the MWT (34 +/- 8, 24 +/- 10 min; p<0.001). Energetic arousal (22 +/- 4, 19 +/- 4; p = 0.005) and hedonic tone (29 +/- 4, 27 +/- 4; p = 0.05) decreased after fragmentation. Fragmentation impaired daytime function adjudged by the Trailmaking B (p = 0.05) and PASAT 4-s tests (p<0.03). One night of sleep fragmentation makes normal subjects sleepier during the day, impairs their subjective assessment of mood, and decreases mental flexibility and sustained attention.
+
+Sleep Fragmentation and the Risk of Incident Alzheimer's Disease and Cognitive Decline in Older Persons.
+
+Number of 
+
+Key takeaways:Sleep fragmentation in older adults is associated with an increased risk of Alzheimer's disease and cognitive decline.
+
+Abstract:OBJECTIVE
+Cross-sectional studies suggest that sleep fragmentation is associated with cognitive performance in older adults. We tested the hypothesis that sleep fragmentation is associated with incident Alzheimer's disease (AD) and the rate of cognitive decline in older adults.
+
+DESIGN
+Prospective cohort study.
+
+SETTING
+Community-based.
+
+PARTICIPANTS
+737 community dwelling older adults without dementia.
+
+MEASUREMENTS AND RESULTS
+Sleep fragmentation was quantified from up to 10 consecutive days of actigraphy. Subjects underwent annual evaluation for AD with 19 neuropsychological tests. Over a follow-up period of up to 6 years (mean 3.3 years), 97 individuals developed AD. In a Cox proportional hazards model controlling for age, sex, and education, a higher level of sleep fragmentation was associated with an increased risk of AD (HR = 1.22, 95%CI 1.03-1.44, P = 0.02 per 1SD increase in sleep fragmentation). An individual with high sleep fragmentation (90th percentile) had a 1.5-fold risk of developing AD as compared with someone with low sleep fragmentation (10th percentile). The association of sleep fragmentation with incident AD did not vary along demographic lines and was unchanged after controlling for potential confounders including total daily rest time, chronic medical conditions, and the use of common medications which can affect sleep. In a linear mixed effect analysis, a 0.01 unit increase in sleep fragmentation was associated with a 22% increase in the annual rate of cognitive decline relative to the average rate of decline in the cohort (Estimate = -0.016, SE = 0.007, P = 0.03).
+
+CONCLUSIONS
+Sleep fragmentation in older adults is associated with incident AD and the rate of cognitive decline.
+
+CITATION
+Lim ASP; Kowgier M; Yu L; Buchman AS; Bennett DA. Sleep fragmentation and the risk of incident alzheimer's disease and cognitive decline in older persons. SLEEP 2013;36(7):1027-1032.
+
+Neurophysiological features of STN LFP underlying sleep fragmentation in Parkinson’s disease
+
+Number of 
+
+Key takeaways:STN local field potentials reveal neurophysiological mechanisms underlying sleep fragmentation in Parkinson's disease, which can inform new interventions for sleep dysfunction.
+
+Abstract:Background Sleep fragmentation is a persistent problem throughout the course of Parkinson’s disease (PD). However, the related neurophysiological patterns and the underlying mechanisms remained unclear. Method We recorded subthalamic nucleus (STN) local field potentials (LFPs) using deep brain stimulation (DBS) with real-time wireless recording capacity from 13 patients with PD undergoing a one-night polysomnography recording, 1 month after DBS surgery before initial programming and when the patients were off-medication. The STN LFP features that characterised different sleep stages, correlated with arousal and sleep fragmentation index, and preceded stage transitions during N2 and REM sleep were analysed. Results Both beta and low gamma oscillations in non-rapid eye movement (NREM) sleep increased with the severity of sleep disturbance (arousal index (ArI)-betaNREM: r=0.9, p=0.0001, sleep fragmentation index (SFI)-betaNREM: r=0.6, p=0.0301; SFI-gammaNREM: r=0.6, p=0.0324). We next examined the low-to-high power ratio (LHPR), which was the power ratio of theta oscillations to beta and low gamma oscillations, and found it to be an indicator of sleep fragmentation (ArI-LHPRNREM: r=−0.8, p=0.0053; ArI-LHPRREM: r=−0.6, p=0.0373; SFI-LHPRNREM: r=−0.7, p=0.0204; SFI-LHPRREM: r=−0.6, p=0.0428). In addition, long beta bursts (>0.25 s) during NREM stage 2 were found preceding the completion of transition to stages with more cortical activities (towards Wake/N1/REM compared with towards N3 (p<0.01)) and negatively correlated with STN spindles, which were detected in STN LFPs with peak frequency distinguishable from long beta bursts (STN spindle: 11.5 Hz, STN long beta bursts: 23.8 Hz), in occupation during NREM sleep (β=−0.24, p<0.001). Conclusion Features of STN LFPs help explain neurophysiological mechanisms underlying sleep fragmentations in PD, which can inform new intervention for sleep dysfunction. Trial registration number NCT02937727.
+
+The effect of sleep fragmentation on therapeutic engagement and rehabilitation progress after brain injury in a pediatric inpatient sample.
+
+Number of 
+
+Key takeaways:Sleep fragmentation negatively impacts therapeutic engagement and rehabilitation progress in pediatric inpatients after brain injury, with therapeutic engagement potentially mediating this effect.
+
+Abstract:OBJECTIVE
+This study evaluated the effect of sleep fragmentation after brain injury on therapeutic engagement and rehabilitation progress in pediatric inpatients.
+
+METHODS
+Participants (N = 29) wore a wrist accelerometer for one week to calculate a sleep fragmentation index measuring restlessness during the sleep period. Therapists completed ratings of functional independence (using the WeeFIM) and therapeutic engagement (effort and active participation in physical therapy sessions measured using the Rehabilitation Therapy Engagement Scale).
+
+RESULTS
+Controlling for time from injury to rehabilitation admission, sleep fragmentation is negatively associated with therapeutic engagement and rehabilitation progress (defined as improvement in WeeFIM scores from admission to discharge per day of rehabilitation). Hierarchical regression demonstrated a significant negative association between sleep fragmentation and rehabilitation progress. However, when therapeutic engagement was added to the model it accounted for a significant portion of the variance and the effect of sleep fragmentation was no longer a significant predictor of rehabilitation progress.
+
+CONCLUSION
+Findings demonstrate the detrimental impact of sleep fragmentation on therapeutic engagement and rehabilitation progress and also suggest a possible mediating role for therapeutic engagement on the effect of sleep fragmentation on rehabilitation progress.
+
+The effect of fragmented sleep on emotion regulation ability and usage
+
+Number of 
+
+Key takeaways:Fragmented sleep leads to increased rumination and distraction, which mediates the negative association between fragmented sleep and negative affect.
+
+Abstract:ABSTRACT Sleep has a profound effect on our mood, but insight in the mechanisms underlying this association is still lacking. We tested whether emotion regulation is a mediator in the relationship between fragmented sleep and mood disturbance. The effect of fragmented sleep on the emotion regulation strategies, including cognitive reappraisal, distraction, acceptance and suppression ability, was assessed. We further tested whether the use of these strategies, as well as rumination and self-criticism, mediated the association between fragmented sleep and negative and positive affect. Participants (N = 69) wore an actiwatch and filled in a sleep diary for 12 consecutive nights. They had one control night and one sleep fragmentation night. Emotion regulation ability was assessed with an experimental task. Usage of emotion regulation strategies and negative and positive affect were assessed four times during the day with a survey after the control and sleep fragmentation night. Cognitive reappraisal, distraction, acceptance and suppression ability did not differ between the sleep fragmentation and control condition. However, participants reported higher usage of rumination and distraction after the sleep fragmentation night and rumination significantly mediated the negative association between fragmented sleep and negative affect.
+
+Clinical effects of sleep fragmentation versus sleep deprivation.
+
+Number of 
+
+Key takeaways:Sleep fragmentation and sleep deprivation both negatively impact cognitive performance and mood, with sleepiness being more related to the degree of sleep loss or fragmentation.
+
+Abstract:Common symptoms associated with sleep fragmentation and sleep deprivation include increased objective sleepiness (as measured by the Multiple Sleep Latency Test); decreased psychomotor performance on a number of tasks including tasks involving short term memory, reaction time, or vigilance; and degraded mood. Differences in degree of sleepiness are more related to the degree of sleep loss or fragmentation rather than to the type of sleep disturbance. Both sleep fragmentation and sleep deprivation can exacerbate sleep pathology by increasing the length and pathophysiology of sleep apnea. The incidence of both fragmenting sleep disorders and chronic partial sleep deprivation is very high in our society, and clinicians must be able to recognize and treat Insufficient Sleep Syndrome even when present with other sleep disorders.
+
+Sleep Fragmentation Hypersensitizes Healthy Young Women to Deep and Superficial Experimental Pain.
+
+Number of 
+
+Key takeaways:Sleep fragmentation in healthy, young, pain-free women increases pain sensitivity in superficial and deep tissues, highlighting the need for effective sleep management strategies in patients with pain.
+
+Sleep fragmentation disrupts vocal interactions in rats
+
+Number of 
+
+Key takeaways:Sleep fragmentation disrupts vocal interactions and emotional expression in social rats, with the effect persisting for weeks without recovery.
+
+Abstract:ABSTRACT Repeated interruption of the sleep cycle, commonly known as sleep fragmentation, is associated with a plethora of health issues, ranging from mood swings and memory loss to severe neurodegenerative disorders. Despite being a significant health problem with consequences on the social lives of individuals, its effect on vocal communication has been poorly studied. Here we show that sleep fragmentation induces a decrease in vocal production of a social rodent, without altering the acoustic characteristics of the vocalisations emitted. We conducted an experimental study using Rattus norvegicus rats, known for their ultrasonic vocal repertoire, in which we frequently woke pairs of individuals during their daily sleeping period. The rats whose sleep was artificially fragmented produced fewer vocalisations during their active periods than control pairs whose sleep was not disturbed. This decrease in vocal activity occurred after only two phases of fragmented sleep and was maintained throughout the 4 weeks of the experimentation. Conversely, sleep fragmentation had no effect on the rats’ vocal repertoire. Our results demonstrate that fragmented sleep impacts vocal interactions and emotional expression in a social mammal, and that this effect is maintained over weeks without recovering.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

@@ -1,0 +1,291 @@
+PROTOCOL: No uv filter
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Not using sunscreens with UV protection significantly increases the risk of developing skin cancer because UV radiation is the main factor causing skin cancer. Regular use of UV filters is one of the most effective methods for preventing skin cancers, photoaging, sunburns, and DNA damage that can lead to mutations and cancer development. Sun protection is a key element of a healthy lifestyle and health prevention.
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Not using sunscreens with UV protection significantly increases the risk of developing skin cancer because UV radiation is the main factor causing skin cancer. Regular use of UV filters is one of the most effective methods for preventing skin cancers, photoaging, sunburns, and DNA damage that can lead to mutations and cancer development. Sun protection is a key element of a healthy lifestyle and health prevention.
+
+CONTENT SECTIONS:
+
+A key element in skin cancer prevention
+
+Not using sunscreens with UV protection significantly increases the risk of developing skin cancer because UV radiation is the main factor causing skin cancer. Regular use of UV filters is one of the most effective methods for preventing skin cancers, photoaging, sunburns, and DNA damage that can lead to mutations and cancer development. Sun protection is a key element of a healthy lifestyle and health prevention.
+
+Level of evidence:Strong
+
+UV filters in sunscreens absorb, reflect, or scatter ultraviolet radiation, protecting the skin from its harmful effects. In this way, they reduce the risk of DNA damage in skin cells, which is the main mechanism of skin cancer formation. Regular use of UV filters protects against premature skin aging, sunburns, and serious health consequences such as skin cancer. Using appropriate filters also prevents skin changes related to sun exposure, such as wrinkles, discoloration, or damage to genetic material.
+
+Not using UV filters exposes the skin to the harmful effects of UV radiation, which leads to serious health consequences. Exposure to UV radiation without protection results in accelerated skin aging, sunburns, and increases the risk of developing skin cancers, including melanoma. Lack of UV protection also leads to DNA damage in skin cells, promoting mutations and cancer development.
+
+The lack of use of UV filters on a broad population scale results in a serious public health threat, as UV radiation is the main risk factor for skin cancer. The scale of the problem is large, and the consequences may include millions of cases of skin cancer worldwide.
+
+Apply UV filters regularly
+
+To reduce the risk of skin damage and cancer development, use sunscreens with UV filters every day, regardless of the weather.
+
+Avoid excessive sun exposure
+
+Use UV filters, seek shade during peak sunlight hours (10:00–16:00), and wear protective clothing to minimize the risk of skin damage.
+
+Choose products with appropriate UV filters
+
+Use sunscreens with broad-spectrum protection (UVA and UVB) and the appropriate SPF to ensure maximum protection against harmful radiation.
+
+Not using sunscreens with UV protection significantly increases the risk of developing skin cancer because UV radiation is the main factor causing skin cancer. Regular use of UV filters is one of the most effective ways to prevent skin cancer.
+
+The importance of UV filters in skin cancer prevention
+
+Research summary: UV filters and skin cancer prevention
+
+Not using sunscreens exposes the skin to the harmful effects of UV radiation, which leads to serious health consequences. Unprotected exposure to UV radiation accelerates skin aging, causes burns, increases the risk of skin cancer, and other damage.
+
+Negative effects of lack of UV protection
+
+Table: Effects of lack of UV protection on the skin
+
+Importance of UV filters
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:32
+
+Final comment:The harmful effects of lack of protection against UV radiation are well-documented in the scientific literature. Numerous epidemiological studies and meta-analyses show that not using UV filters significantly increases the risk of developing skin cancers, including melanoma. Exposure to UV radiation without protection leads to DNA damage in skin cells, photoaging, sunburns, and increases the risk of genetic mutations that can lead to skin cancer. Regular use of UV filters is considered a key element in skin cancer prevention, and lack of protection results in serious health consequences.
+
+Ultraviolet Filters: Dissecting Current Facts and Myths
+
+Number of 
+
+Key takeaways:UV filters in sunscreens are safe for human use and provide effective sun protection, but compounds linked to marine ecosystem harm should be avoided.
+
+Abstract:Skin cancer is a global and increasingly prevalent issue, causing significant individual and economic damage. UV filters in sunscreens play a major role in mitigating the risks that solar ultraviolet ra-diation poses to the human organism. While empirically effective, multiple adverse effects of these compounds are discussed in the media and in scientific research. UV filters are blamed for the dis-ruption of endocrine processes and vitamin D synthesis, damaging effects on the environment, induction of acne and neurotoxic and carcinogenic effects. Some of these allegations are based on scientific facts while others are simply arbitrary. This is especially dangerous considering the risks of exposing unprotected skin to the sun. In summary, UV filters approved by the respective governing bodies are safe for human use and their proven skin cancer-preventing properties make them in-dispensable for sensible sun protection habits. Nonetheless, compounds like octocrylene and ben-zophenone-3 that are linked to the harming of marine ecosystems could be omitted from skin care regimens in favor of the myriad of non-toxic UV filters.
+
+Materials Science Challenges in Skin UV Protection: A Review
+
+Number of 
+
+Key takeaways:New UV filters are needed for safer sunscreens, considering human, environmental, and marine safety, while addressing photoreactivity challenges.
+
+Abstract:UV radiation is one of the critical environmental stress factors for human skin, which can trigger various problems such as pruritus, burning, erythema, premature skin aging and skin cancer. Hence, UV protection has become an indispensable daily routine and the use of topical sunscreen products is rapidly increasing. However, there are emerging concerns over the efficiency and safety of existing chemical and physical UV filters used in consumer products. Furthermore, there is no universally approved method for assessing sun protection efficiency regardless of the immediate end user need to develop safer sunscreen products that afford broad‐spectrum photoprotection. It is evident that the current organic and inorganic UV filters have significant unfavorable impacts on human, environmental, and marine safety. Therefore, effective alternative UV filters should be established. This article comprehensively reviews the properties, safety, health and ecological concerns of various UV filters including TiO2 and ZnO nanoparticles as well as the limitations of the testing protocols and guidelines provided by major regulatory bodies. The photoreactivity of UV filters used in sunscreen remains a major challenge, and it is crucial to develop new sunscreen ingredients, which not only protect the consumer, but also the environment.
+
+Solid SiO2-Sealed Mesoporous Silica for Synergistically Combined Use of Inorganic and Organic Filters to Achieve Safe and Effective Skin Protection from All-Band UV Radiation.
+
+Number of 
+
+Key takeaways:Coating SiO2 over mesoporous silica nanoparticles improves photostability, prevents skin penetration, and enhances compatibility with different sunscreen formulations, providing effective and safe skin protection from all-band UV radiation.
+
+Abstract:To effectively shield the full band of ultraviolet (UV) radiation and provide desirable protection, the combination of inorganic and organic filters was often used to protect human skin from the serious harm of UV exposure. However, the incompatibility of different filters and their mutual negative effect limit the production of multifilter sunscreen. In addition, the hazard of reactive oxygen species (ROS) produced by inorganic filters after UV exposure and the skin permeability of organic filters remain unresolved problems. In this study, titanium dioxide (TiO2) and diethylamino hydroxybenzoyl hexyl benzoate (DHHB), two kinds of common filters with complementary UV shielding range, were first encapsulated into large mesoporous silica nanoparticles (MSN, ∼300 nm) to obtain MSN-TiO2 and MSN-DHHB. Also, a SiO2 coating was then made to seal and stabilize the MSN-TiO2 and MSN-DHHB. The structure, UV screen function, and safety of the SiO2-coated filters, MSN-TiO2@SiO2 and MSN-DHHB@SiO2, were evaluated. The good mechanical stability exhibited by the solid SiO2 layer prevented the release and skin penetration of the sealed DHHB and the photocatalysis of TiO2. Furthermore, the combination of MSN-TiO2@SiO2 and MSN-DHHB@SiO2 in sunscreen cream showed excellent UV shielding performance on covering the whole UV radiation range without mutual interference. Therefore, coating SiO2 over MSN is a feasible strategy for entrapping various filters to improve their photostability, preventing skin penetration and ROS generation, and enhancing their compatibility with different sunscreen formulations.
+
+Exploring Mycosporine-like Amino Acid UV-Absorbing Natural Products for a New Generation of Environmentally Friendly Sunscreens
+
+Number of 
+
+Key takeaways:Mycosporine-like amino acids (MAAs) show potential as environmentally friendly, photostable, and non-toxic natural UV filters for creating environmentally friendly sunscreens.
+
+Abstract:Human skin needs additional protection from damaging ultraviolet radiation (UVR: 280–400 nm). Harmful UVR exposure leads to DNA damage and the development of skin cancer. Available sunscreens offer chemical protection from detrimental sun radiation to a certain extent. However, many synthetic sunscreens do not provide sufficient UVR protection due to the lack of photostability of their UV-absorbing active ingredients and/or the lack of ability to prevent the formation of free radicals, inevitably leading to skin damage. In addition, synthetic sunscreens may negatively affect human skin, causing irritation, accelerating skin aging and even resulting in allergic reactions. Beyond the potential negative effect on human health, some synthetic sunscreens have been shown to have a harmful impact on the environment. Consequently, identifying photostable, biodegradable, non-toxic, and renewable natural UV filters is imperative to address human health needs and provide a sustainable environmental solution. In nature, marine, freshwater, and terrestrial organisms are protected from harmful UVR through several important photoprotective mechanisms, including the synthesis of UV-absorbing compounds such as mycosporine-like amino acids (MAAs). Beyond MAAs, several other promising, natural UV-absorbing products could be considered for the future development of natural sunscreens. This review investigates the damaging impact of UVR on human health and the necessity of using sunscreens for UV protection, specifically UV-absorbing natural products that are more environmentally friendly than synthetic UV filters. Critical challenges and limitations related to using MAAs in sunscreen formulations are also evaluated. Furthermore, we explain how the genetic diversity of MAA biosynthetic pathways may be linked to their bioactivities and assess MAAs’ potential for applications in human health.
+
+UV Filters and Their Distribution on the Skin through Safe, Non-Penetrating Vehicles.
+
+Number of 
+
+Key takeaways:Innovative sunscreen formulations must meet photostability criteria, be well-tolerated, and not permeate into the skin to avoid toxic effects.
+
+Abstract:The effects of ultraviolet (UV) radiation trigger human skin reaction, which can result in erythema, photoaging, and/or skin cancer. Sunscreens play an important role against the negative effects of UV radiation on the human skin. However, they should satisfy certain criteria, with the main one being photostability, to avoid the formation of health-threatening reactive intermediates. It has to be kept in mind, however, that photo-stable UV filters have the undesirable propensity to transfer energy to molecular oxygen and generate the very reactive singlet oxygen. They should also be well tolerated, while at the same time, they should not permeate into the skin and cause toxic effects. Thus, there is an ongoing need to develop effective and safe non-penetrating sunscreen formulations. The search for innovative active substances, efficacious combinations, and the design of vehicles or carriers has led to the implementation of advanced delivery systems. This study intended to review the commonly used UV radiation thwarting agents (organic and inorganic UV filters), compile the relevant toxicity studies, evaluate their margin of safety, and assess the current situation on innovative sunscreen formulations.
+
+A Mini-Review on Limitations Associated with UV Filters
+
+Number of 
+
+Key takeaways:Sunscreen manufacturers should test for potential short-term skin toxicity and long-term health effects, as current reports on UV filters' safety are controversial due to a lack of nonclinical safety assessment data.
+
+UV Filters: Challenges and Prospects
+
+Number of 
+
+Key takeaways:New UV filters with improved safety and photostability are needed for sunscreens, with potential applications in natural and synthetic sources.
+
+Abstract:The use of sunscreens is an established and recommended practice to protect skin from solar-induced damage. Around 30 UV filters can be used in sunscreen products in the European Union, which ought to follow the requirements of the regulation 1223/2009 to ensure their efficacy and safety for humans. Nevertheless, low photostability and putative toxicity for humans and environment have been reported for some UV filters. Particularly, the negative impact in marine organisms has recently raised concern on the scientific community. Therefore, it is important to develop new UV filters with improved safety profile and photostability. Over the last two decades, nearly 200 new compounds have revealed promising photoprotection properties. The explored compounds were obtained through different approaches, including exploration of natural sources, synthetic pathways, and nanotechnology. Almost 50 natural products and around 140 synthetic derivatives, such as benzimidazoles, benzotriazoles, hydroxycinnamic acids, xanthones, triazines, among others, have been studied aiming the discovery of novel, effective, and safer future photoprotective agents. Herein, we provide the reader with an overview about UV filters’ challenges and prospects, offering a forward-looking to the next-generation of UV filters.
+
+Exposure to UV-B filter octylmethoxycinnamate and human health effects: focus on endocrine disruptor actions.
+
+Number of 
+
+Key takeaways:Octylmethoxycinnamate (OMC) is a widely used UV-B filter in cosmetics, but its endocrine-disrupting effects require further research and risk assessment.
+
+Systemic availability of lipophilic organic UV filters through dermal sunscreen exposure.
+
+Number of 
+
+Key takeaways:Real-life sunscreen usage leads to considerable bioavailability of organic UV filters and their metabolites, requiring a critical toxicological assessment.
+
+Risks of organic UV filters: a review of environmental and human health concern studies.
+
+Number of 
+
+Key takeaways:Organic UV filters in sunscreens and personal care products may bioaccumulate in aquatic organisms and have adverse effects on animal models, posing long-term health risks to humans.
+
+Review of environmental effects of oxybenzone and other sunscreen active ingredients
+
+Number of 
+
+Key takeaways:Oxybenzone and other sunscreen active ingredients may contribute to coral reef bleaching and negatively impact the environment, highlighting the need for proper photoprotection practices.
+
+The effects of UV filters on health and the environment
+
+Number of 
+
+Key takeaways:UV filters in sunscreens can potentially impact coral reef bleaching, the food chain, and human health, and additional FDA-approved broad-spectrum filters could alleviate these concerns.
+
+Abstract:Sunscreens are an important means of protection against sunburns, dyspigmentation, photoaging, and photocarcinogenesis. Sunscreens come in a variety of formulations that can protect against ultraviolet B (UVB) radiation, both UVB and ultraviolet A (UVA) radiation (broad-spectrum sunscreens), and UVB, UVA, and visible light (tinted broad-spectrum sunscreens). In the USA, there is currently a paucity of FDA-approved broad-spectrum filters on the market. Studies have identified the presence of multiple UV filters in water sources globally. Many laboratory studies have implicated the potential impact of UV filters on coral reef bleaching, the food chain, and human health. However, many of these studies are performed at concentrations that are much higher than those present in the natural environment. With increasing discussion surrounding the role of organic and inorganic UV filters as potential environmental pollutants over the past decade, approval of additional broad-spectrum filters would be an important means of alleviating the use of more controversial filters. The aim of this article is to review the effects of UV filters on health and the environment and explore potential adjunctive agents for photoprotection.Graphical abstract
+
+Assessment of human exposure to benzophenone-type UV filters: A review.
+
+Number of 
+
+Key takeaways:Human exposure to benzophenone-type UV filters is high, with potential risks for prenatal exposure and transplacental transfer.
+
+Recent Advances on Endocrine Disrupting Effects of UV Filters
+
+Number of 
+
+Key takeaways:Recent advances in toxicological studies reveal that UV filters, commonly used in cosmetics, plastics, and adhesives, may have endocrine disrupting effects on humans and other organisms.
+
+Abstract:Ultraviolet (UV) filters are used widely in cosmetics, plastics, adhesives and other industrial products to protect human skin or products against direct exposure to deleterious UV radiation. With growing usage and mis-disposition of UV filters, they currently represent a new class of contaminants of emerging concern with increasingly reported adverse effects to humans and other organisms. Exposure to UV filters induce various endocrine disrupting effects, as revealed by increasing number of toxicological studies performed in recent years. It is necessary to compile a systematic review on the current research status on endocrine disrupting effects of UV filters toward different organisms. We therefore summarized the recent advances on the evaluation of the potential endocrine disruptors and the mechanism of toxicity for many kinds of UV filters such as benzophenones, camphor derivatives and cinnamate derivatives.
+
+Effect of ultraviolet radiation on the skin
+
+Number of 
+
+Key takeaways:Ultraviolet radiation can cause skin damage, photoaging, and premature aging, with half of the respondents exposed to it for 3-4 hours a day, and one-third used solarium procedures once a week, but did not place great value on SPF filters.
+
+Abstract:The beneficial effect of ultraviolet radiation on our skin manifests itself in the synthesis of vitamin D. However, the detrimental effect of this radiation is much more severe. A longer duration of the effect of this radiation speeds up photoaging of skin depending on its phonotype. Symptoms of burning accompanied by tiredness, headaches, changes in temperature, skin damage observed testify to the negative effect of ultra-violet radiation. The unsuitable acquisition of measures of protection with SPF (Sun Protection Factor) numbers and their seasonal application presuppose the formation of wrinkles. This issue remains relevant today as well, because the results of ultraviolet radiation are diagnosed ever more often. They testify to careless skin care. The slightest skin redness, swelling or brownness is reaction of the skin to harmful ultraviolet radiation. The aim of the investigation was to examine the effect of ultraviolet radiation on skin. The investigation was carried out in virtual space on the Internet website in 2021 (2 months). A total of 209 respondents took part in the investigation. The results and conclusions of the investigation are as follows: due to the nature of work, about half of the respondents were exposed to ultraviolet radiation the whole day or 3–4 hours a day. One the third of the respondents used the solarium procedures once per week, provided themselves with measures of protection in shops; however, they did not set great store by the protective effect of SPF filters. One the sixth of the respondents used measures of protection when their skin suffered serious damage.
+
+Ultraviolet Filters for Cosmetic Applications
+
+Number of 
+
+Key takeaways:UV filters in sunscreens protect against sunburn, skin aging, and cancer by absorbing, reflecting, and scattering ultraviolet radiation.
+
+Abstract:Sunscreens reduce the occurrence risk of skin disorders such as sunburn, skin aging, and cancer through their ability to absorb, reflect, and scatter ultraviolet (UV) radiation. This review provides an overview of UV filters as active ingredients of sunscreen products, emphasizing their classification and structural characteristics. Their photostability, mechanism of action of ultraviolet radiation absorption, optical properties, and regulatory status are discussed based on their chemical structure. The main classes of organic UV filters presented include aminobenzoic acid derivatives, salicylic acid derivatives, cinnamic acid derivatives, benzophenones, dibenzoylmethane derivatives, benzylidene camphor derivatives, triazines, benzimidazole derivatives, and benzotriazole derivatives. The pursuit of new UV filters through research is crucial in advancing sunscreen technology and ensuring the availability of effective and safe options for sun protection.
+
+A review of organic UV-filters in wastewater treatment plants.
+
+Number of 
+
+Key takeaways:UV-filters from sunscreens end up in wastewater treatment plants, where they can be removed and degraded, potentially reducing their environmental impact.
+
+Advances in analytical methods and occurrence of organic UV-filters in the environmentA review.
+
+Number of 
+
+Key takeaways:Organic UV-filters in sunscreens can end up in wastewater, contaminating ecosystems and human health, requiring further research on degradation and frequent monitoring.
+
+Organic UV filters in marine environments: An update of analytical methodologies, occurrence and distribution
+
+Number of 
+
+Key takeaways:Organic UV filters, found in personal care products and other products, are a growing environmental concern and require sensitive determination for their global distribution and potential impacts on marine life.
+
+UV-filter pollution: current concerns and future prospects
+
+Number of 
+
+Key takeaways:UV-filters in cosmetics and personal care products can enter aquatic environments, impacting marine life and human health, and research is needed for more environmentally friendly alternatives.
+
+Abstract:UV-filters are widely used in cosmetics and personal care products to protect users’ skin from redamage caused by ultraviolet (UV) radiation from the sun. Globally, an estimated 16,000 to 25,000 tonnes of products containing UV-filters were used in 2014 with modern consumption likely to be much higher. Beyond this use in cosmetics and personal care products, UV-filters are also widely used to provide UV-stability in industrial products such as paints and plastics. This review discusses the main routes by which UV-filters enter aquatic environments and summarises the conclusions of studies from the past 10 years that have investigated the effects of UV-filters on environmentally relevant species including corals, microalgae, fish, and marine mammals. Safety data regarding the potential impact of UV-filters on human health are also discussed. Finally, we explore the challenges surrounding UV-filter removal and research on more environmentally friendly alternatives to current UV-filters.
+
+Mode of action approach supports a lack of carcinogenic potential of six organic UV filters
+
+Number of 
+
+Key takeaways:Six commonly used UV filters in sunscreens are not carcinogenic and their systemic exposure levels in humans fall well below their biologic activity levels, supporting their continued safe use in sunscreen products.
+
+Abstract:Abstract Ultraviolet (UV) filters, the active ingredients in sunscreens, have been used for several decades to reduce the risk of acute and chronic damage to the skin from solar UV radiation, which can lead to skin cancer. Based on recent clinical studies showing that certain UV filters are absorbed systemically at low levels in humans, the US Food and Drug Administration (FDA) has requested supplementing existing safety data with preclinical studies including oral and dermal 2-year rodent carcinogenicity studies. Although the conduct of 2-year rodent carcinogenicity studies has been the standard approach for evaluating the carcinogenic potential of chemicals and new drugs for approximately 6 decades, there are multiple examples showing that such studies are not predictive of human cancer risk. Given these concerns with 2-year rodent carcinogenicity studies, we have developed and applied an alternative approach for supplementing existing data related to carcinogenic potential for six of the most commonly used UV filters in sunscreen products (i.e. avobenzone, ensulizole, homosalate, octinoxate, octisalate, and octocrylene). This approach evaluates their mode of action (MOA) based on in vivo, in vitro, and in silico data combined with an assessment of exposure margins. This approach is based on the substantial progress in understanding the MOAs that are responsible for tumor induction in humans. It is consistent with those being developed by the International Council for Harmonization (ICH) and other health authorities to replace 2-year carcinogenicity studies given their limitations and questionable biological relevance to humans. The available data for the six UV filters show that they are not genotoxic and show no evidence of biologically relevant carcinogenic MOAs. Furthermore, their systemic exposure levels in humans fall well below concentrations at which they have biologic activity. In conclusion, these data support the continued safe use of these six filters in sunscreen products.
+
+A review of inorganic UV filters zinc oxide and titanium dioxide
+
+Number of 
+
+Key takeaways:Zinc oxide and titanium dioxide-containing sunscreens are safe alternatives to organic UV filters, with low human health risks and low environmental impact.
+
+Abstract:Photoprotection has become integral in the prevention of keratinocyte cancer and photoaging. Organic ultraviolet (UV) filters such as oxybenzone and octinoxate have become controversial due to their potential impact on the environmental and their potential human health risks. As such, inorganic UV filters, zinc oxide (ZnO) and titanium dioxide (TiO2), have become paramount in discussions about photoprotection. ZnO and TiO2 are used in sunscreens as nanoparticles, which denotes a size <100 nm. The smaller size of these mineral particles increases their cosmetic acceptability by users as they are much less visible after application. ZnO has a broad UVA‐UVB absorption curve, while TiO2 provides better UVB protection. Overall, the human health risks with inorganic filters are extremely low given a lack of percutaneous absorption; however, there is potential risk when exposed via inhalation, prompting recommendations against spray sunscreen products with nanoparticles. At this time, the known risk to the environment is low though the risk stratification may evolve with increasing usage of these filters and higher environmental concentrations. The continued practice of photoprotection is critical. The public should be counseled to seek shade, use photoprotective clothing including hats and glasses in addition to sunscreens on sun‐exposed skin. For those concerned about emerging evidence of environmental impact of organic UV filters, based on current evidence, ZnO and TiO2‐containing sunscreens are safe alternatives.
+
+CYTOTOXICITY OF TiO2 AND ZnO AS UV FILTERS FOR PREVENTION SKIN CANCER
+
+Number of 
+
+Key takeaways:TiO2 and ZnO UV filters show promising cytotoxicity for skin cancer prevention, but their stability and permeation into the skin remain unclear.
+
+Abstract:The constant and excessive exposure to solar radiation can result in the onset of various injurious effects, such as: formation of reactive oxygen species, mutation in DNA and RNA, inflammation and epidermal hyperplasia. According to the data provided by Skin Cancer Foundation, the number of nonmelanoma skin cancers in the US increased by nearly 77 percent between 1992 and 2006. The use of UV filters is one of the most efficient actions of prevention skin cancer. However, most of the UV filters are unstable to the UV irradiation and permeation into the skin. The objective this review is extends our knowledge about the mechanisms of action and cytotoxicity of inorganic UV filters for prevention skin cancer.
+
+Safety of benzophenone-type UV filters: A mini review focusing on carcinogenicity, reproductive and developmental toxicity.
+
+Number of 
+
+Key takeaways:Benzophenone-type UV filters have different potentials for carcinogenicity, reproductive, and developmental toxicity, with 2-hydroxyl-4-methoxyl benzophenone needing caution due to adverse effects on cancer cell proliferation, reproductive ability, sex differentiation, neurodevelopment.
+
+Workplace exposure to UV radiation and strategies to minimize cancer risk
+
+Number of 
+
+Key takeaways:Workplace exposure to solar UV can cause skin cancer, but there is evidence for reduced risks for other cancers, and employers should manage these risks to minimize cancer risk.
+
+Abstract:Abstract Background Workplace exposure to solar ultraviolet (UV) causes malignant melanoma and non-melanoma skin cancer. The evidence for beneficial effects of solar UV exposure in reducing the risks for other cancers is increasing. The intensity of UV radiation at the Earth’s surface is dependent on latitude, but even in northern European countries exposure can be high enough for outdoor work to cause skin cancer. Growing points Awareness of the health risks and benefits of occupational solar UV exposure is poor. Actions to reduce the risk of skin cancer have been identified and employers should recognize their responsibility to actively manage these risks. There is evidence for reduced risks for breast, ovarian and colorectal cancer and possibly other cancers linked to solar UV exposure. Sources of data This narrative review draws on published scientific articles and material designed to assist identifying strategies to protect workers from solar UV exposure. Areas of agreement Solar UV exposure can be harmful. Wavelengths in the UVB range are more effective in causing erythema and DNA damage. Solar UV is the main source of vitamin D for most people. Primary and secondary prevention for skin cancer can potentially eliminate these risks but the evidence for effectiveness is limited. Areas of controversy Potential health benefits of UV exposure, particularly for reduced cancer risk. Determining and communicating optimal exposure to maximize health benefits. The risk of non-melanoma skin cancers may be more than doubled for some workers in temperate latitudes. Areas timely for developing research Exposure-response epidemiological studies; studies of the health benefits of occupational UV exposure; studies of the effectiveness of intervention strategies to prevent skin cancer. Use of low-cost UV sensors in workplaces.
+
+Ecotoxicological effect characterisation of widely used organic UV filters.
+
+Number of 
+
+Key takeaways:EHMC, a common UV filter in sun protection and personal care products, has toxic effects on reproduction in aquatic invertebrates, while B-MDM and OCR show no effects on tested organisms.
+
+Ultraviolet Radiation Exposure: Some Observations and Considerations, Focusing on Some Italian Experiences, on Cancer Risk, and Primary Prevention
+
+Number of 
+
+Key takeaways:Ultraviolet radiation exposure, both occupational and recreational, increases skin cancer risk, and effective prevention strategies are crucial for both outdoor workers and the general population exposed to UVR.
+
+Abstract:Solar ultraviolet radiation may cause acute and chronic health effects on the skin, eyes, and also on the immune system. Actinic keratosis, non-melanoma skin cancers, and malignant melanoma are the main long-term adverse skin effects. In the white population, the most common type of cancer worldwide is skin cancer, and the incidence of this cancer has increased during the last decades. The most important risk factor responsible for this trend seems to be Ultraviolet Radiation (UVR). IARC has classified UVR as being carcinogenic to humans. UV radiation exposure is ubiquitous; to study skin cancer risk, it is important to take into account the fact that UV exposure may occur both for occupational activities but also during vacation or recreational activities. Furthermore, exposure to artificial UVR such as those emitted by artificial devices, classified by IARC as carcinogenic to humans, is also to be considered. Due to the prominent role of UVR, primary prevention of skin cancer is very suitable, because when following specific rules this risk factor can be reduced. The incidence rate of skin cancer is higher in people with fair skin. Outdoor workers exposed to solar UVR are at risk of developing skin cancer, particularly non-melanoma skin cancers, and welders exposed to artificial UVR are at risk of developing ocular melanoma. A specific project on solar UVR risk in outdoor workers in Tuscany, Italy, has shown that outdoor workers had an unsatisfactory sun protection behaviour. The project demonstrates the complexity of studying UVR exposure and recommended the need for prevention programs. Risk increases with increasing ambient solar radiation and with unsafe behaviours in the sun or when using artificial UVR (e.g., sunbeds). Effective prevention strategies have to be adopted both for the outdoor workers and for the general population exposed to UVR. A standardized program of proven efficacy, such as that implemented in Australia, should also be implemented in other countries. All these strategies could contribute to the aim of decreasing the morbidity and mortality of cancers associated with this exposure. The aim of this paper is to provide an overview of UVR exposure risk, particularly occupational risk, and to give some elements to understand the complexity of the relation between UVR exposure and cancer risk, as well as to outline primary prevention measures, focusing also on Italian experiences that could be useful for providing additional elements of knowledge on this topic.
+
+Sunscreens: UV filters to protect us: Part 2-Increasing awareness of UV filters and their potential toxicities to us and our environment
+
+Number of 
+
+Key takeaways:Sunscreens with UV filters may have potential environmental, ecological, and human toxicities, highlighting the need for increased awareness of their potential risks.
+
+Sunscreens’ UV Filters Risk for Coastal Marine Environment Biodiversity: A Review
+
+Number of 
+
+Key takeaways:Sunscreens' UV filters can be toxic to marine species and contribute to the release of reactive oxygen species and micronutrients, potentially altering coastal habitats.
+
+Abstract:Considering the rapid growth of tourism in recent years and the acknowledgement that exposure to solar UV radiation may cause skin cancer, sunscreens have been widely used by beachgoers in recent decades. UV filters contained in sunscreens, however, were recently identified as emerging pollutants in coastal waters since they accumulate in the marine environment with different adverse effects. In fact, exposure to these components was proven to be toxic to most invertebrate and vertebrate marine species. Some UV filters are linked to the production of significant amounts of reactive oxygen species (ROS), such as hydrogen peroxide, and the release of inorganic micronutrients that may alter the status of coastal habitats. Bioaccumulation and biomagnification have not yet been fully addressed. This review highlights recent progress in research and provides a comprehensive overview of the toxicological and ecotoxicological effects of the most used UV filters both on the abiotic and biotic compartments in different types of coastal areas, to gain a better understanding of the impacts on coastal biodiversity.
+
+The effect of UV-filters on the viability of neuroblastoma (SH-SY5Y) cell line.
+
+Number of 
+
+Key takeaways:UV filters, such as benzophenone-3 and 4-MBC, can negatively affect nerve cell viability by enhancing apoptosis, potentially contributing to neurodegenerative diseases.
+
+Environmental Exposure and Health Effects of Chemical UV Filters
+
+Number of 
+
+Key takeaways:UV filters are ubiquitous in the environment and have endocrine disruptive effects, increasing the health risk of girls exposed to UV filters compared to boys.
+
+Abstract:More and more attention has been paid to the health effects of UV filter exposure. UV filters are extensively added to personal care products to prevent sunburn, skin aging, skin cancer, and photodegradation caused by UV filter radiation. As the most widely used UV filter, ethyl-hexyl methoxycinnamate (EHMC) is used by 90% of Chinese population. EHMC is lipophilicity, and has endocrine disruptive activity. Although EHMC is widely detected in the environment, there are few reports on human exposure and health risk assessment of EHMC worldwide. In this chapter, we review the environmental exposure and biological effects of UV filters, introduce a method for the detection of EHMC and other UV filters in human urine samples, and assess the exposure level of UV filters in school-aged children. Results show that UV filters are ubiquitous in the environment, bioaccumulation, and have endocrine disruptive effects in organism. UV filters can enter the human body through dietary and skin contact and increase the health risk. Recently, a LC-QTOF-MS method is developed for the determination of EHMC and its main metabolite 4-methoxycinnamic acid in human urine samples. This method is used to detect the exposure level of six kinds of commonly used UV filters in school-aged children. Nine metabolites of four kinds are detected in urine samples, and six of which are detected in more than 50% of urine samples, including BP-3, BP-2, BP-1, EHMC, 4′-MAP, 4-MCA, and OD-PABA. UV filter levels are higher in overweight children than normal weight children, and the exposure levels in girls are significantly higher than those in boys, suggesting that the health risk of girls exposed to UV filters is relatively high currently.
+
+Environmental Effects of Ultraviolet (UV) Filters.
+
+Number of 
+
+Key takeaways:Ultraviolet (UV) filters in sunscreens can reach aquatic environments and potentially impact native species health, with potential risks to growth and reproduction in various aquatic species.
+
+Abstract:Organic and inorganic ultraviolet (UV) filters are used in topical sunscreens and other applications to prevent or limit damage following exposure to UV light. Increasing use of UV filters has contributed to a growing number of investigations examining potential effects on human health and the environment. Worldwide environmental monitoring data demonstrate that UV filters reach aquatic environments through two main input sources - direct (i.e., washoff from swimmers/bathers) and indirect (i.e., incomplete wastewater treatment removal) - and can be taken up by various algal, plant, and animal species and sediments. In areas where industrial wastewater sources or significant recreational activities result in a greater input load, levels may be elevated and could impart an increased risk on native species health. In vitro, at higher levels typically not measured in the environment, effects on growth and reproduction are observed in different species, including fish, coral reef, and plants. Despite this, predicted no-effect concentrations for UV filters are generally above measured environmental concentrations. Recent legislative activity banning the use of certain UV filters has heightened awareness of their environmental ubiquity and precipitated a need for a thorough examination of evidence linking their ecological presence with adverse outcomes. In order to gauge the true potential risk to native ecosystems associated with UV filters, future studies should consider factors inherent both to finished sunscreen products (e.g., metabolic fate/transport and effect of inactive ingredients) and to the sampled environment (e.g., species sensitivity, presence of other contaminants, water flow, and photodegradation).
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

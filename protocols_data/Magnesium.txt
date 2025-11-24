@@ -1,0 +1,591 @@
+PROTOCOL: Magnesium
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Abstract:ABSTRACT Magnesium (Mg2+) is essential for energy metabolism, muscle contraction and neurotransmission. As part of the Mg–ATP complex, it is involved in over 600 enzymatic reactions. Serum Mg2+ levels are tightly regulated between 0.7 and 1.1 mmol/L by interplay of intestinal absorption and renal excretion. In the small intestine, Mg2+ is absorbed paracellularly via claudin-2 and -12. In the colon, transcellular absorption of Mg2+ is facilitated by TRPM6/7 and CNNM4. In the kidney, the proximal tubule reabsorbs only 20% of the filtered Mg2+. The majority of the filtered Mg2+ is reabsorbed in the thick ascending limb, where the lumen-positive transepithelial voltage drives paracellular transport via claudin-16/-19. Fine-tuning of Mg2+ reabsorption is achieved in the distal convoluted tubule (DCT). Here, TRPM6/7 tetramers facilitate apical Mg2+ uptake, which is hormonally regulated by insulin and epidermal growth factor. Basolateral Mg2+ extrusion is Na+ dependent and achieved by CNNM2 and/or SLC41A3. Hypomagnesemia (serum Mg2+ <0.7 mmol/L) develops when intestinal and/or renal Mg2+ (re)absorption is disturbed. Common causes include alcoholism, type 2 diabetes mellitus and the use of pharmacological drugs, such as proton-pump inhibitors, calcineurin inhibitors and thiazide diuretics. Over the last decade, research on rare genetic and acquired Mg2+ disorders have identified Mg2+ channel and transporter activity, DCT length, mitochondrial function and autoimmunity as mechanisms explaining hypomagnesemia. Classically, treatment of hypomagnesemia depended on oral or intravenous Mg2+ supplementation. Recently, prebiotic dietary fibers and sodium-glucose cotransporter 2 inhibitors have been proposed as promising new therapeutic pathways to treat hypomagnesemia.
+DESCRIPTION: Magnesium is an essential mineral that supports proper cardiovascular function, brain health, and the musculoskeletal system. Adequate magnesium intake promotes blood pressure regulation, protection against arrhythmias, improved cognitive function, and the maintenance of muscle mass and strength. Supplementation is especially beneficial in individuals with deficiencies and increased risk of chronic diseases.
+
+CONTENT SECTIONS:
+
+Support for the cardiovascular system, brain, muscles, and bones
+
+Magnesium is an essential mineral that supports proper cardiovascular function, brain health, and the musculoskeletal system. Adequate magnesium intake promotes blood pressure regulation, protection against arrhythmias, improved cognitive function, and the maintenance of muscle mass and strength. Supplementation is especially beneficial in individuals with deficiencies and increased risk of chronic diseases.
+
+Level of evidence:Good
+
+Magnesium has multifaceted effects: it regulates ion channel functions, which stabilizes heart rhythm and nerve conduction, supports synaptic plasticity in the brain, and protects neurons from overstimulation. In the musculoskeletal system, magnesium promotes muscle protein synthesis, tissue regeneration, and bone mineralization. Additionally, magnesium exhibits anti-inflammatory and antioxidant properties, which improve endothelial function and reduce the risk of heart disease.
+
+Magnesium is well tolerated by most people, and side effects are rare and usually mild. When taken in appropriate doses, the risk of adverse effects is minimal.
+
+Magnesium supplementation is not recommended in individuals with severe renal failure or magnesium metabolism disorders, or in situations where excess magnesium accumulation could occur.
+
+Recommended doses typically range from 200 to 400 mg per day, depending on age, gender, and health status.
+
+The most bioavailable forms are magnesium citrate, L-threonate, and lactate.
+
+Initial effects may be noticeable after a few weeks of regular supplementation.
+
+It is best to take magnesium in the evening to support recovery and improve sleep.
+
+In cases of deficiency, higher doses of magnesium can be used for a few days, followed by a maintenance dose.
+
+Avoiding drug interactions
+
+Magnesium supplementation should be discussed with a doctor, especially if you take diuretics, antibiotics, or heart medications.
+
+Supplementation in older adults
+
+Older individuals may require increased magnesium intake due to reduced absorption and a higher risk of deficiency.
+
+Combining with a magnesium-rich diet
+
+For best results, supplementation should complement a diet rich in nuts, seeds, leafy green vegetables, and whole grain products.
+
+Musculoskeletal system
+
+Magnesium plays a crucial role in musculoskeletal health, supporting proper muscle and bone function and protecting against weakening, loss of mass, and fracture risk.
+
+Effects of magnesium on muscles
+
+Effects of magnesium on bones
+
+Magnesium plays a key role in nervous system function and brain health, supporting memory, cognitive abilities, and protection against neurodegeneration.
+
+Mechanisms of magnesium action in the brain
+
+Effects of magnesium on cognition and brain health
+
+Limitations and recommendations
+
+Cardiovascular system
+
+Magnesium plays a vital role in maintaining cardiovascular health, helping protect the heart and blood vessels, and regulating blood pressure and heart rhythm.
+
+Key cardiovascular benefits of magnesium
+
+Limitations and caveats
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:57
+
+Final comment:The effectiveness of magnesium supplementation in the prevention and support of treatment for cardiovascular, metabolic, and musculoskeletal diseases is confirmed by numerous meta-analyses, randomized controlled trials, and observational studies involving large patient populations. The results of these studies indicate that higher magnesium intake is associated with a lower risk of stroke, heart failure, type 2 diabetes, osteoporosis, and fractures, as well as increased muscle mass and strength, and improved vascular flexibility. However, the effects of magnesium supplementation may be less clear in individuals without a deficiency and can vary depending on health status and the type of magnesium used. In terms of cognitive function and neurodegenerative disease prevention, the current evidence is mostly preliminary, although the number of studies suggesting a beneficial impact of magnesium on brain function is growing. The strongest evidence supports the use of magnesium for cardiovascular disease and diabetes prevention, while in other areas, further verification is needed through large, well-designed clinical trials.
+
+Role of Magnesium in Skeletal Muscle Health and Neuromuscular Diseases: A Scoping Review
+
+Number of 
+
+Key takeaways:Magnesium supplementation can improve muscle mass, strength, and exercise recovery, and reduce muscle soreness and inflammation in athletes and various conditions.
+
+Abstract:Magnesium (Mg) is a vital element for various metabolic and physiological functions in the human body, including its crucial role in skeletal muscle health. Hypomagnesaemia is frequently reported in many muscle diseases, and it also seems to contribute to the pathogenesis of skeletal muscle impairment in patients with neuromuscular diseases. The aim of this scoping review is to analyze the role of Mg in skeletal muscle, particularly its biological effects on muscle tissue in neuromuscular diseases (NMDs) in terms of biological effects and clinical implications. This scoping review followed the PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews) guidelines. From the 305 studies identified, 20 studies were included: 4 preclinical and 16 clinical studies. Preclinical research has demonstrated that Mg plays a critical role in modulating pathways affecting skeletal muscle homeostasis and oxidative stress in muscles. Clinical studies have shown that Mg supplementation can improve muscle mass, respiratory muscle strength, and exercise recovery and reduce muscle soreness and inflammation in athletes and patients with various conditions. Despite the significant role of Mg in muscle health, there is a lack of research on Mg supplementation in NMDs. Given the potential similarities in pathogenic mechanisms between NMDs and Mg deficiency, further studies on the effects of Mg supplementation in NMDs are warranted. Overall, maintaining optimal Mg levels through dietary intake or supplementation may have important implications for improving muscle health and function, particularly in conditions associated with muscle weakness and atrophy.
+
+Dietary Magnesium Is Positively Associated With Skeletal Muscle Power and Indices of Muscle Mass and May Attenuate the Association Between Circulating C‐Reactive Protein and Muscle Mass in Women
+
+Number of 
+
+Key takeaways:Higher dietary magnesium intake may help conserve age-related loss of skeletal muscle mass and power in women, while also attenuating the negative relationship with circulating C-reactive protein.
+
+Abstract:Age‐related loss of skeletal muscle mass and strength are risk factors for sarcopenia, osteoporosis, falls, fractures, frailty, and mortality. Dietary magnesium (Mg) could play a role in prevention of age‐related loss of skeletal muscle mass, power, and strength directly through physiological mechanisms or indirectly through an impact on chronic low‐grade inflammation, itself a risk factor for loss of skeletal muscle mass and strength. In a cross‐sectional study of 2570 women aged 18 to 79 years, we examined associations between intakes of Mg, estimated using a food‐frequency questionnaire (FFQ), dual‐energy X‐ray absorptiometry (DXA)‐derived measures of muscle mass (fat‐free mass as a percentage of body weight , fat‐free mass index ), leg explosive power (LEP), and grip strength (n = 949 only). We also examined associations between circulating hs‐CRP (C‐reactive protein) and muscle mass and LEP, and explored the potential attenuation of these relationships by Mg. We compared our findings with those of age and protein intake. Endpoints were calculated by quintile of Mg and adjusted for relevant confounders. Significant positive associations were found between a higher Mg and indices of skeletal muscle mass and LEP, and also with hs‐CRP, after adjustment for covariates. Contrasting extreme quintiles of Mg intake showed differences of 2.6% for FFM% (p trend < 0.001), 0.4 kg/m2 for FFMI (p trend = 0.005), and 19.6 watts/kg for LEP (p trend < 0.001). Compared with protein, these positive associations were 7 times greater for FFM% and 2.5 times greater for LEP. We also found that higher hs‐CRP was negatively associated with skeletal muscle mass and, in statistical modeling, that a higher dietary Mg attenuated this negative relationship by 6.5%, with greater attenuation in women older than 50 years. No association was found between Mg and grip strength. Our results suggest that dietary magnesium may aid conservation of age‐related loss of skeletal muscle mass and power in women of all ages. © 2015 American Society for Bone and Mineral Research.
+
+Dietary Magnesium May Be Protective for Aging of Bone and Skeletal Muscle in Middle and Younger Older Age Men and Women: Cross-Sectional Findings from the UK Biobank Cohort
+
+Number of 
+
+Key takeaways:Dietary magnesium may play a role in musculoskeletal health and has potential relevance for population prevention strategies for sarcopenia, osteoporosis, and fractures in middle and younger older age men and women.
+
+Abstract:Although fragility fractures, osteoporosis, sarcopenia, and frailty are becoming more prevalent in our aging society the treatment options are limited and preventative strategies are needed. Despite magnesium being integral to bone and muscle physiology, the relationship between dietary magnesium and skeletal muscle and bone health has not been investigated concurrently to date. We analysed cross-sectional associations between dietary magnesium and skeletal muscle mass (as fat free mass—FFM), grip strength, and bone density (BMD) in 156,575 men and women aged 39–72 years from the UK Biobank cohort. FFM was measured with bioelectrical impedance and was expressed as the percentage of body weight (FFM%) or as divided by body mass index (FFMBMI). Adjusted mean grip strength, FFM%, FFMBMI, and BMD were calculated according to quintiles of dietary magnesium, while correcting for covariates. Significant inter-quintile differences across intakes of magnesium existed in men and women, respectively, of 1.1% and 2.4% for grip strength, 3.0% and 3.6% for FFM%, 5.1% and 5.5% for FFMBMI, and 2.9% and 0.9% for BMD. These associations are as great or greater than annual measured losses of these musculoskeletal outcomes, indicating potential clinical significance. Our study suggests that dietary magnesium may play a role in musculoskeletal health and has relevance for population prevention strategies for sarcopenia, osteoporosis, and fractures.
+
+An update on magnesium and bone health
+
+Number of 
+
+Key takeaways:Lower magnesium levels are linked to osteoporosis, and dietary supplementation with magnesium can improve bone mineral density and fracture risk.
+
+Abstract:Abstract In 2009 EFSA Panel concludes that a cause and effect relationship has been established between the dietary intake of magnesium (Mg) and maintenance of normal bone. After 2009, numerous studies have been 
+
+Impact of magnesium on bone health in older adults: A systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:Higher magnesium intake may support an increase in hip and femoral neck bone mineral density in older adults, but more research is needed to confirm this relationship and its impact on bone health.
+
+Effects of magnesium supplementation on muscle soreness in different type of physical activities: a systematic review
+
+Number of 
+
+Key takeaways:Magnesium supplementation may help reduce muscle soreness in physically active individuals, but optimal type, timing, and dosage remain unclear.
+
+Abstract:Magnesium is a micronutrient and an intracellular cation responsible for different biochemical reactions involved in energy production and storage, control of neuronal and vasomotor activity, cardiac excitability, and muscle contraction. Magnesium deficiency may result in impaired physical performance. Moreover, magnesium plays an important role on delayed onset muscle soreness after training. Thus, physically active individuals and sport specialists have to pay attention to magnesium supplementation (MgS). However, the type, timing and dosage of magnesium intake are not well elucidated yet. Hence, we aimed to systematically review the literature regarding the effects of MgS on muscle soreness in physically active individuals. We focused exclusively on MgS, excluding those studies in which magnesium was administered together with other substances.
+
+Can Magnesium Enhance Exercise Performance?
+
+Number of 
+
+Key takeaways:Magnesium supplementation may improve exercise performance by enhancing glucose availability, reducing lactate accumulation, and enhancing muscle function.
+
+Abstract:Magnesium (Mg) is an essential mineral that plays a critical role in the human body. It takes part in the process of energy metabolism and assists the maintenance of normal muscle function. A number of studies evaluated the association between Mg status/supplementation and exercise performance and found that the need for Mg increased as individuals’ physical activity level went up. Animal studies indicated that Mg might improve exercise performance via enhancing glucose availability in the brain, muscle and blood; and reducing/delaying lactate accumulation in the muscle. The majority of human studies focused on physiological effects in blood pressure, heart rate and maximal oxygen uptake (VO2 max), rather than direct functional performances. Some cross-sectional surveys demonstrated a positive association between Mg status and muscle performance, including grip strength, lower-leg power, knee extension torque, ankle extension strength, maximal isometric trunk flexion, rotation, and jumping performance. Additionally, findings from intervention studies showed that Mg supplementation might lead to improvements in functional indices such as quadriceps torque. Moreover, Mg supplementation could improve gait speed and chair stand time in elderly women. This comprehensive review summarized the literature from both animal and human studies and aimed to evaluate scientific evidence on Mg status/supplementation in relation to exercise performance.
+
+Effect of magnesium deficiency on bone health
+
+Number of 
+
+Key takeaways:Magnesium deficiency increases bone resorption, affects osteopenia and osteoporosis, and is a risk factor for fractures, with potential for maintaining bone health through dietary supplementation.
+
+Abstract:Objective. To assess the impact of magnesium deficiency on bone metabolism based on an analytical analysis of current literature, as well as to systematize data on the impact of magnesium deficiency on the development of osteoporosis, bone regeneration, and to consider it as a risk factor for fracture. Methods. The review is based on the analysis of literature 
+
+Association between dietary magnesium intake and muscle mass among hypertensive population: evidence from the National Health and Nutrition Examination Survey
+
+Number of 
+
+Key takeaways:Higher dietary magnesium intake is associated with more muscle mass in U.S. adults with hypertension, highlighting the importance of meeting recommended levels.
+
+Abstract:Abstract Background Magnesium is critical for musculoskeletal health. Hypertensive patients are at high risk for magnesium deficiency and muscle loss. This study aimed to explore the association between magnesium intake and muscle mass in patients with hypertension. Methods In this population-based cross-sectional study, 10,279 U.S. hypertensive adults aged 20 years or older were derived from the National Health and Nutrition Examination Survey in 1999–2006 and 2011–2018. Magnesium (Mg) intake from diet and supplements was assessed using 24-hour diet recalls. Muscle mass was evaluated by appendicular skeletal muscle mass index (ASMI, total ASM in kilograms divided by square of height in meters ). The association of Mg intake with ASMI was estimated using weighted multivariable-adjusted linear regression models and restricted cubic splines. Results Dose-response analyses showed a positive linear correlation between dietary Mg intake and ASMI. Every additional 100 mg/day in dietary Mg was associated with 0.04 kg/m 2 (95% confidence interval 0.02–0.06 kg/m 2 ) higher ASMI. The ASMI in participants who met the recommended dietary allowance (RDA) for dietary Mg was 0.10 kg/m 2 (95% CI 0.04–0.16 kg/m 2 ) higher than those whose dietary Mg was below estimated average requirement (EAR). However, the relationship of Mg intake from supplements with ASMI was not identified. Conclusion Higher level of dietary Mg intake rather than Mg supplements was associated with more muscle mass in U.S. adults with hypertension, which highlights the importance of meeting the recommended levels for dietary Mg intake.
+
+Severe magnesium deficiency compromises systemic bone mineral density and aggravates inflammatory bone resorption.
+
+Number of 
+
+Key takeaways:Severe magnesium deficiency impairs bone mineral density and exacerbates inflammatory bone resorption in rats with induced periodontitis.
+
+Magnesium in man: implications for health and disease.
+
+Number of 
+
+Key takeaways:Magnesium supplementation can benefit treatment of various diseases and is essential for human health, particularly in the brain, heart, and skeletal muscles.
+
+Abstract:Magnesium (Mg(2+)) is an essential ion to the human body, playing an instrumental role in supporting and sustaining health and life. As the second most abundant intracellular cation after potassium, it is involved in over 600 enzymatic reactions including energy metabolism and protein synthesis. Although Mg(2+) availability has been proven to be disturbed during several clinical situations, serum Mg(2+) values are not generally determined in patients. This review aims to provide an overview of the function of Mg(2+) in human health and disease. In short, Mg(2+) plays an important physiological role particularly in the brain, heart, and skeletal muscles. Moreover, Mg(2+) supplementation has been shown to be beneficial in treatment of, among others, preeclampsia, migraine, depression, coronary artery disease, and asthma. Over the last decade, several hereditary forms of hypomagnesemia have been deciphered, including mutations in transient receptor potential melastatin type 6 (TRPM6), claudin 16, and cyclin M2 (CNNM2). Recently, mutations in Mg(2+) transporter 1 (MagT1) were linked to T-cell deficiency underlining the important role of Mg(2+) in cell viability. Moreover, hypomagnesemia can be the consequence of the use of certain types of drugs, such as diuretics, epidermal growth factor receptor inhibitors, calcineurin inhibitors, and proton pump inhibitors. This review provides an extensive and comprehensive overview of Mg(2+) research over the last few decades, focusing on the regulation of Mg(2+) homeostasis in the intestine, kidney, and bone and disturbances which may result in hypomagnesemia.
+
+Magnesium enhances the chondrogenic differentiation of mesenchymal stem cells by inhibiting activated macrophage-induced inflammation
+
+Number of 
+
+Key takeaways:Magnesium enhances chondrogenic differentiation of mesenchymal stem cells by inhibiting activated macrophage-induced inflammation, potentially benefiting cartilage regeneration.
+
+Magnesium and Vitamin D Supplementation on Exercise Performance
+
+Number of 
+
+Key takeaways:Magnesium supplementation may improve muscle function and recovery, while vitamin D supplementation may enhance physical endurance and muscle recovery in athletes.
+
+Abstract:ABSTRACT Magnesium and vitamin D are two micronutrients that contribute directly to the metabolism of macronutrients, maintenance of muscle function, and various metabolic processes (i.e., protein synthesis and bone metabolism). Dietary recommendations are established based on age and gender differences; however, energy expenditure is not accounted for in determining these values. It is believed that athletes may require greater nutrient quantities than less active populations because of their increased energy expenditure. Nutrient intake values have yet to be determined for athletes, leading to inadequate energy intake, deficiencies, and insufficiencies; thus, supplementation may be an effective way of achieving nutrient adequacy in athletes. The purpose of this narrative review was to present research pertaining to magnesium supplementation and vitamin D supplementation on exercise performance. A systematic keyword search for articles from PubMed was conducted from June to August 2020. The search terms included various words related to the topic. Inclusion criteria required articles to be available in English; to be a clinical trial, randomized controlled trial, or longitudinal study; and to involve magnesium supplementation, vitamin D supplementation, or supplementation of both micronutrients. In addition, the research conducted on magnesium or vitamin D were required to focus on athletes or those who exercised regularly. However, because of the paucity of published data regarding the combined effects of magnesium and vitamin D supplementation on exercise performance, those studies that could provide some information in nonathletic populations were included. The search did not limit the years in which studies were published because of the scarcity of articles related to the topic. After reviewing the articles for originality and applicability, 13 studies were included in our narrative review. Some researchers have reported that magnesium supplementation may provide ergogenic benefits via contributions to muscle function and recovery. In addition, some researchers have reported that vitamin D supplementation may positively affect physical endurance and muscle recovery in athletes. However, more research is required to provide more definitive conclusions. The interactions between magnesium and vitamin D during metabolism may potentiate the functions of each micronutrient, making the combined effects of magnesium and vitamin D greater than the effects of either one alone. However, research is required to elucidate their combined effects on exercise performance.
+
+Magnesium Matters: A Comprehensive Review of Its Vital Role in Health and Diseases
+
+Number of 
+
+Key takeaways:Adequate magnesium intake is crucial for maintaining overall health and reducing the risk of chronic diseases like hypertension, type 2 diabetes, osteoporosis, and cardiovascular diseases.
+
+Abstract:Magnesium (Mg), an essential mineral abundantly present within the human body, is intricately involved in a multitude of biochemical processes vital for maintaining health and overall well-being. This review aims to delve into the multifaceted impact of Mg on human health, exploring its physiological functions, dietary sources, and potential health implications of deficiency or insufficiency. Mg plays a pivotal role in various physiological processes, including energy metabolism, muscle contraction, protein synthesis, and DNA synthesis. It acts as a cofactor for more than 300 enzymatic reactions, facilitating the conversion of adenosine triphosphate (ATP) to adenosine diphosphate (ADP) for energy production. Moreover, Mg is essential for the proper functioning of ion channels, particularly calcium channels, influencing nerve transmission and muscle relaxation. Mg is naturally found in a wide array of foods, with green leafy vegetables, whole grains, nuts, seeds, and legumes being particularly rich sources. Additionally, certain fortified foods and dietary supplements provide supplemental Mg intake. Deficiency or insufficiency of mg can have profound implications for health. Inadequate mg levels have been associated with increased risks of various chronic diseases, including hypertension, type 2 diabetes, osteoporosis, and cardiovascular diseases. Furthermore, mg deficiency may manifest as symptoms such as muscle weakness, fatigue, tremors, and irregular heartbeat. Numerous studies have elucidated the relationship between mg intake and the risk of developing chronic diseases. For instance, epidemiological evidence suggests that higher mg intake is associated with a reduced risk of hypertension, possibly due to its vasodilatory effects and influence on blood pressure regulation mechanisms. Similarly, mg has been implicated in the pathophysiology of type 2 diabetes, with mg deficiency contributing to insulin resistance and impaired glucose metabolism. Furthermore, adequate mg intake is crucial for maintaining bone density and reducing the risk of osteoporosis, as mg plays a vital role in bone mineralization and bone health. Understanding the importance of mg in human physiology underscores the significance of ensuring adequate mg intake through diet or supplementation. Healthcare professionals play a critical role in educating individuals about the importance of incorporating mg-rich foods into their diets and considering mg supplementation when necessary, particularly for individuals at risk of deficiency or those with chronic diseases. Mg is an indispensable mineral with far-reaching implications for human health. Its involvement in various physiological processes underscores its importance in maintaining overall health and well-being. Ensuring adequate mg intake is essential for preventing deficiency-related health complications and reducing the risk of chronic diseases. Further research is warranted to elucidate the optimal strategies for mg supplementation and its potential therapeutic applications in disease prevention and management.
+
+Magnesium deficiency and its interaction with the musculoskeletal system, exercise, and connective tissue: an evidence synthesis
+
+Number of 
+
+Key takeaways:Regular magnesium supplementation helps improve connective tissue mechanical properties, prevent dysplastic disorders, reduce injury risk, and maintain health during physical exercise.
+
+Abstract:BackgroundRegular physical exercise is an essential part of a healthy lifestyle, maintaining and strengthening public health. Recently, a steady increase in the number of recurrent musculoskeletal injuries occurring during physical exercise is being diagnosed. A serious risk factor for such damage is initial connective tissue pathology. Pathognomonic dysplastic phenotypes, indicating a particular susceptibility to injuries, were established. The decisive role in increasing connective tissue disorders severity is attributed in part to magnesium deficiency that is one of the most common deficient human conditions.ObjectiveTo present the magnesium role in connective tissue homeostasis for pathogenetic substantiation of magnesium correction in persons with predisposition to musculoskeletal injuries.MethodsAn analytical review of recent data published between January 2004 and December 2023 in the electronic resources such as Global Health, ScienceDirect, Elsevier, Medline, Embase, PubMed-NCBI, RSCI Scopus, Cochrane Library, e-Library, Google Academy, and CyberLeninka was conducted. Data analysis was performed from January 2023 to December 2023.ResultsThe analysis of the obtained data allowed to identify the main pathogenetic mechanisms of magnesium deficiency effect on connective tissues, including RNA cell destabilization, inactivation of hyaluronan synthetases, modulation of hyaluronidase activity, stimulation of matrix metalloproteinases, deactivation of elastase, realization of autoimmune reaction, lysyl oxidase, and transglutaminase activation. These processes result in increased degradation of collagen, elastin, and hyaluronan polysaccharide chains; reduction of cross-linking of fibrous structure; and intensification of inflammatory processes. This leads to defective connective tissue formation and increases sensitivity to physical stress and the risk of injury. Active magnesium participates in almost all biochemical reactions of connective tissue metabolism, and the impossibility of its synthesis in the body requires sufficient intake of this element with food and water. In the case of moderate-to-severe magnesium deficiency, it is pathogenetically reasonable to prescribe magnesium supplementation, which should take into account comorbidities, severity of deficiency, and age.ConclusionRegular therapy with magnesium preparations helps to improve the mechanical properties of connective tissues, prevent the progression of dysplastic disorders, reduce the risk of injury, and maintain health during physical exercise.
+
+Number of 
+
+Key takeaways:Magnesium levels are tightly regulated between 0.7 and 1.1 mmol/L, with hypomagnesemia developing when intestinal or renal Mg2+ absorption is disturbed.
+
+Abstract:ABSTRACT Magnesium (Mg2+) is essential for energy metabolism, muscle contraction and neurotransmission. As part of the Mg–ATP complex, it is involved in over 600 enzymatic reactions. Serum Mg2+ levels are tightly regulated between 0.7 and 1.1 mmol/L by interplay of intestinal absorption and renal excretion. In the small intestine, Mg2+ is absorbed paracellularly via claudin-2 and -12. In the colon, transcellular absorption of Mg2+ is facilitated by TRPM6/7 and CNNM4. In the kidney, the proximal tubule reabsorbs only 20% of the filtered Mg2+. The majority of the filtered Mg2+ is reabsorbed in the thick ascending limb, where the lumen-positive transepithelial voltage drives paracellular transport via claudin-16/-19. Fine-tuning of Mg2+ reabsorption is achieved in the distal convoluted tubule (DCT). Here, TRPM6/7 tetramers facilitate apical Mg2+ uptake, which is hormonally regulated by insulin and epidermal growth factor. Basolateral Mg2+ extrusion is Na+ dependent and achieved by CNNM2 and/or SLC41A3. Hypomagnesemia (serum Mg2+ <0.7 mmol/L) develops when intestinal and/or renal Mg2+ (re)absorption is disturbed. Common causes include alcoholism, type 2 diabetes mellitus and the use of pharmacological drugs, such as proton-pump inhibitors, calcineurin inhibitors and thiazide diuretics. Over the last decade, research on rare genetic and acquired Mg2+ disorders have identified Mg2+ channel and transporter activity, DCT length, mitochondrial function and autoimmunity as mechanisms explaining hypomagnesemia. Classically, treatment of hypomagnesemia depended on oral or intravenous Mg2+ supplementation. Recently, prebiotic dietary fibers and sodium-glucose cotransporter 2 inhibitors have been proposed as promising new therapeutic pathways to treat hypomagnesemia.
+
+The Role and the Effect of Magnesium in Mental Disorders: A Systematic Review
+
+Number of 
+
+Key takeaways:Magnesium supplementation may be beneficial for mental disorders, but more clinical trials are needed to confirm its effectiveness alone or in combination with other drugs.
+
+Abstract:Introduction: Magnesium is an essential cation involved in many functions within the central nervous system, including transmission and intracellular signal transduction. Several studies have shown its usefulness in neurological and psychiatric diseases. Furthermore, it seems that magnesium levels are lowered in the course of several mental disorders, especially depression. Objectives: In this study, we wish to evaluate the presence of a relationship between the levels of magnesium and the presence of psychiatric pathology as well as the effectiveness of magnesium as a therapeutic supplementation. Methods: A systematic search of scientific records concerning magnesium in psychiatric disorders 
+
+Effect of Magnesium Supplementation on Chronic Kidney Disease-Mineral and Bone Disorder in Hemodialysis Patients: A Meta-Analysis of Randomized Controlled Trials.
+
+Number of 
+
+Key takeaways:Magnesium supplementation can improve chronic kidney disease-mineral bone disorder by regulating serum calcium and PTH metabolism and decreasing carotid intima-media thickness in hemodialysis patients.
+
+Abstract:OBJECTIVES
+Research about the effects of magnesium (Mg) supplementation on chronic kidney disease-mineral bone disorder (CKD-MBD) among hemodialysis (HD) patients is controversial. Thus, we conducted a meta-analysis to examine Mg supplementation's effects on CKD-MBD in patients requiring dialysis.
+
+METHODS
+The PubMed and EMBASE databases were searched for English language studies up to September 2020. The main indicators of our study were changes in serum Mg, calcium (Ca), phosphate, parathyroid hormone (PTH), and C-reactive protein levels, and carotid intima-media thickness (CIMT) after Mg supplementation. Mg efficacy was evaluated by weighted mean difference (WMD) and confidence intervals (CIs), and subgroup analyses of intervention type and intervention duration were also performed.
+
+RESULTS
+Eight eligible studies comprising 309 HD patients were included in our meta-analysis. Mg supplementation alone produced a negative effect on serum PTH levels (WMD = -236.56; 95% CI -349.71 to -123.41) and CIMT (WMD = -0.18; 95% CI -0.34 to -0.01). A subgroup analysis based on intervention type showed a significant improvement in serum Mg (WMD = 1.08; 95% CI 0.51-1.64) and Ca (WMD = -0.50; 95% CI -0.77 to -0.23) levels when Mg was administered via dialysate and oral medication, respectively. Different intervention durations had no effect on serum Mg levels. Mg supplementation had no significant effect on serum phosphate (WMD = -0.25; 95% CI -0.64 to 0.14) and C-reactive protein levels (WMD = -0.02; 95% CI -2.80 to 2,76).
+
+CONCLUSIONS
+Our results showed that Mg supplementation alone could improve CKD-MBD by regulating serum Ca and PTH metabolism and decreasing CIMT among HD patients.
+
+Association between dietary magnesium intake, inflammation, and neurodegeneration
+
+Number of 
+
+Key takeaways:Dietary magnesium intake is associated with reduced inflammation, which may contribute to its neuroprotective effects and improved cerebral health.
+
+Abstract:Consistent evidence shows that magnesium (Mg) intake is associated with lower blood pressure (BP), and that lower BP is associated with improved cerebral health. However, recent findings indicate that the positive effect of dietary Mg intake on cerebral health is not mediated by a decrease in BP. As Mg's anti-inflammatory action is a plausible alternative mechanism, the objective of this study was to investigate the associations between Mg intake and inflammation to determine whether it mediates any neuroprotective effect.
+
+A narrative review on the role of magnesium in immune regulation, inflammation, infectious diseases, and cancer
+
+Number of 
+
+Key takeaways:Magnesium is essential for optimal immune function and regulating inflammation, with deficiency leading to temporary or long-term immune dysfunction.
+
+Abstract:Abstract Background Magnesium (Mg) has gained much importance recently because of its unique range of biological functions. It is one of the most significant micronutrients in biological systems. This review aims to outline the immune-regulating actions of Mg and its crucial role in regulating inflammation and immune response to infectious agents and malignancies. Methods We conducted a literature review on MEDLINE, PubMed, EMBASE, Web of Science to determine the impact of Mg on immune regulation in three settings of inflammation, infection, and cancer. We thoroughly examined all abstracts and full-text articles and selected the most relevant ones for inclusion in this review. Results Mg has long been associated with immunological responses, both nonspecific and specific. It plays a pivotal role in diverse immune responses by participating in multiple mechanisms. It facilitates substance P binding to lymphoblasts, promotes T helper, B cell, and macrophage responses to lymphokines, and facilitates antibody-dependent cytolysis and immune cell adherence. Besides, Mg serves as a cofactor for C'3 convertase and immunoglobulin synthesis. It additionally boasts a significant anti-cancer effect. Chronic Mg deficiency leads to enhanced baseline inflammation associated with oxidative stress, related to various age-associated morbidities. A deficiency of Mg in rodents has been observed to impact the cell-mediated immunity and synthesis of IgG adversely. This deficiency can lead to various complications, such as lymphoma, histaminosis, hypereosinophilia, increased levels of IgE, and atrophy of the thymus. The immunological consequences of Mg deficiency in humans can be influenced by the genetic regulation of Mg levels in blood cells. Mg can also mediate cell cycle progression. There has been a renewed interest in the physiology and therapeutic efficacy of Mg. However, the in-depth mechanisms, their clinical significance, and their importance in malignancies and inflammatory disorders still need to be clarified. Conclusions Mg is essential for optimal immune function and regulating inflammation. Deficiency in Mg can lead to temporary or long-term immune dysfunction. A balanced diet usually provides sufficient Mg, but supplementation may be necessary in some cases. Excessive supplementation can have negative impacts on immune function and should be avoided. This review provides an update on the importance of Mg in an immune response against cancer cells and infectious agents and how it regulates inflammation, oxidative stress, cell progression, differentiation, and apoptosis.
+
+Enhancement of Learning and Memory by Elevating Brain Magnesium
+
+Number of 
+
+Key takeaways:Elevating brain magnesium using a newly developed compound (magnesium-L-threonate, MgT) improves learning abilities, working memory, and short- and long-term memory in rats.
+
+Magnesium and the Brain: A Focus on Neuroinflammation and Neurodegeneration
+
+Number of 
+
+Key takeaways:Magnesium deficiency contributes to neuroinflammation and neurodegeneration, with evidence linking it to multiple sclerosis, Alzheimer's, and Parkinson's diseases.
+
+Abstract:Magnesium (Mg) is involved in the regulation of metabolism and in the maintenance of the homeostasis of all the tissues, including the brain, where it harmonizes nerve signal transmission and preserves the integrity of the blood–brain barrier. Mg deficiency contributes to systemic low-grade inflammation, the common denominator of most diseases. In particular, neuroinflammation is the hallmark of neurodegenerative disorders. Starting from a rapid overview on the role of magnesium in the brain, this narrative review provides evidences linking the derangement of magnesium balance with multiple sclerosis, Alzheimer’s, and Parkinson’s diseases.
+
+Neuroprotective effects of magnesium: implications for neuroinflammation and cognitive decline
+
+Number of 
+
+Key takeaways:Magnesium has potential neuroprotective effects by maintaining neuronal ion homeostasis, reducing inflammation, and preventing excitotoxicity, potentially improving cognitive decline in neurodegenerative conditions.
+
+Abstract:Neurodegenerative diseases, which are characterized by progressive neuronal loss and cognitive decline, are a significant concern for the aging population. Neuroinflammation, a shared characteristic of these diseases, is implicated in their pathogenesis. This article briefly summarizes the role of magnesium, an essential mineral involved in numerous enzymatic reactions and critical for neuronal bioactivity, in the context of neuroinflammation and cognitive decline. The potential neuroprotective effects of magnesium, including the mechanisms of neuroprotection by magnesium through maintaining neuronal ion homeostasis, reducing inflammation, and preventing excitotoxicity, are also described. Additionally, we discuss the impact of inadequate magnesium on neuroinflammation and its potential as a therapeutic agent for attenuating cognitive decline to improve neurodegenerative conditions.
+
+Magnesium and Cognitive Health in Adults: A Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:Optimal serum magnesium levels of 0.85 mmol/L are associated with reduced dementia and cognitive impairment in adults.
+
+The Role of Magnesium in Neurological Disorders
+
+Number of 
+
+Key takeaways:Magnesium shows potential in migraine and depression treatment, and may protect against chronic pain, anxiety, and stroke.
+
+Abstract:Magnesium is well known for its diverse actions within the human body. From a neurological standpoint, magnesium plays an essential role in nerve transmission and neuromuscular conduction. It also functions in a protective role against excessive excitation that can lead to neuronal cell death (excitotoxicity), and has been implicated in multiple neurological disorders. Due to these important functions within the nervous system, magnesium is a mineral of intense interest for the potential prevention and treatment of neurological disorders. Current literature is reviewed for migraine, chronic pain, epilepsy, Alzheimer’s, Parkinson’s, and stroke, as well as the commonly comorbid conditions of anxiety and depression. Previous reviews and meta-analyses are used to set the scene for magnesium research across neurological conditions, while current research is reviewed in greater detail to update the literature and demonstrate the progress (or lack thereof) in the field. There is strong data to suggest a role for magnesium in migraine and depression, and emerging data to suggest a protective effect of magnesium for chronic pain, anxiety, and stroke. More research is needed on magnesium as an adjunct treatment in epilepsy, and to further clarify its role in Alzheimer’s and Parkinson’s. Overall, the mechanistic attributes of magnesium in neurological diseases connote the macromineral as a potential target for neurological disease prevention and treatment.
+
+A Magtein®, Magnesium L-Threonate, -Based Formula Improves Brain Cognitive Functions in Healthy Chinese Adults
+
+Number of 
+
+Key takeaways:Magtein®PS, a magnesium L-threonate-based formula with vitamins C and D, significantly improves memory and cognition in healthy Chinese adults aged 18-65 years.
+
+Abstract:Magnesium is one of the most abundant essential minerals in the body. Magnesium supplements mostly have low bioavailability, except magnesium L-threonate. In 2010, a novel magnesium compound, magnesium L-threonate (Magtein®) was identified and was shown to raise the magnesium levels in the brain and neurons effectively. In this double-blind, placebo-controlled study, Magtein®PS, a magnesium L-threonate (Magtein®)- and phosphatidylserine-based formulation additionally containing vitamins C and D, was tested for its cognitive benefits in 109 healthy Chinese adults aged 18–65 years. Subjects were randomly assigned to receive either Magtein®PS or placebo (starch) capsules, at a dose of 2 g/day. “The Clinical Memory Test”, the standard test commonly used in Chinese hospitals and academic institutes for cognitive evaluation, was administered before and 30 days after subjects received the supplement. Subjects receiving Magtein®PS showed significant improvements over the control group in all five subcategories of “The Clinical Memory Test” as well as the overall memory quotient scores. The older participants showed more improvement than younger participants. Results indicated significant benefits of Magtein®PS in improving memory and cognition in healthy Chinese adults.
+
+Magnesium (Mg2+): Essential Mineral for Neuronal Health: From Cellular Biochemistry to Cognitive Health and Behavior Regulation.
+
+Number of 
+
+Key takeaways:Magnesium (Mg2+) is crucial for neuronal health and cognitive function, and maintaining optimal levels may help alleviate symptoms of neuropsychiatric disorders like depression, anxiety, and cognitive decline.
+
+Abstract:Magnesium (Mg2+) is a crucial mineral involved in numerous cellular processes critical for neuronal health and function. This review explores the multifaceted roles of Mg2+, from its biochemical interactions at the cellular level to its impact on cognitive health and behavioral regulation. Mg2+ acts as a cofactor for over 300 enzymatic reactions, including those involved in ATP synthesis, nucleic acid stability, and neurotransmitter release. It regulates ion channels, modulates synaptic plasticity, and maintains the structural integrity of cell membranes, which are essential for proper neuronal signaling and synaptic transmission. Recent studies have highlighted the significance of Mg2+ in neuroprotection, showing its ability to attenuate oxidative stress, reduce inflammation, and mitigate excitotoxicity, thereby safeguarding neuronal health. Furthermore, Mg2+ deficiency has been linked to a range of neuropsychiatric disorders, including depression, anxiety, and cognitive decline. Supplementation with Mg2+, particularly in the form of bioavailable compounds such as Magnesium-L-Threonate (MgLT), Magnesium-Acetyl-Taurate (MgAT), and other Magnesium salts, has shown some promising results in enhancing synaptic density, improving memory function, and alleviating symptoms of mental health disorders. This review highlights significant current findings on the cellular mechanisms by which Mg2+ exerts its neuroprotective effects and evaluates clinical and preclinical evidence supporting its therapeutic potential. By elucidating the comprehensive role of Mg2+ in neuronal health, this review aims to underscore the importance of maintaining optimal Mg2+ levels for cognitive function and behavioral regulation, advocating for further research into Mg2+ supplementation as a viable intervention for neuropsychiatric and neurodegenerative conditions.
+
+A Mini Review on the Various Facets Effecting Brain Delivery of Magnesium and Its Role in Neurological Disorders
+
+Number of 
+
+Key takeaways:Magnesium is essential for proper brain function and can be used to treat neurological disorders, but its poor blood-brain barrier permeability limits its use in human trials.
+
+Abstract:Magnesium is an essential cation present in the body that participates in the regulation of various vital body functions. Maintaining normal level of magnesium is essential for proper brain functions by regulating the activities of numerous neurotransmitters and their receptors. Various studies have been reported that magnesium level is found to be declined in both neurological and psychiatric diseases. Declined magnesium level in the brain initiates various cumbersome effects like excitotoxicity, altered blood–brain permeability, oxidative stress, and inflammation, which may further worsen the disease condition. Shreds of evidence from the experimental and clinical studies proved that exogenous administration of magnesium is useful for correcting disease-induced alterations in the brain. But one of the major limiting factors in the use of magnesium for treatment purposes is its poor blood–brain barrier permeability. Various approaches like the administration of its organic salts as pidolate and threonate forms, and the combination with polyethylene glycol or mannitol have been tried to improve its permeability to make magnesium as a suitable drug for different neurological disorders. These results have shown their experimental efficacy in diseased animal models, but studies regarding the safety and efficacy in human subjects are currently underway. We present a comprehensive review on the role of magnesium in the maintenance of normal functioning of the brain and various approaches for improving its BBB permeability.
+
+Neuroprotective effect of magnesium supplementation on cerebral ischemic diseases.
+
+Number of 
+
+Key takeaways:Magnesium supplementation shows potential neuroprotective effects in cerebral ischemia, but current clinical trials have not shown a significant improvement in prognosis.
+
+Associations of Serum Magnesium with Brain Morphology and Subclinical Cerebrovascular Disease: The Atherosclerosis Risk in Communities-Neurocognitive Study
+
+Number of 
+
+Key takeaways:Higher serum magnesium is associated with greater brain volumes and lower odds of subclinical cerebrovascular disease, suggesting beneficial effects on neurodegeneration and cerebrovascular damage.
+
+Abstract:Circulating magnesium has been associated with a lower risk of dementia, but the physiologic effects by which magnesium may prevent neurological insults remain unclear. We studied 1466 individuals (mean age 76.2 ± 5.3, 28.8% black, 60.1% female) free of prevalent stroke, with measured serum magnesium and with available MRI scans obtained in 2011–2013, participating in the Atherosclerosis Risk in Communities Neurocognitive Study (ARIC-NCS). Cross-sectional differences in frontal, temporal, parietal, and occipital lobe volume, along with deep grey matter, total brain, and white matter hyperintensity volume across serum magnesium (categorized into quintiles and per standard deviation increases) were assessed using multiple linear regression. We also examined associations of magnesium with the prevalence of cortical, subcortical, and lacunar infarcts using multiple logistic regression. After adjusting for demographics, biomarkers, medications, and cardiometabolic risk factors, higher circulating magnesium was associated with greater total brain volume and frontal, temporal, and parietal lobe volumes (volumes 0.14 to 0.19 standard deviations higher comparing Q5 to Q1). Elevated magnesium was also associated with lower odds of subcortical infarcts (OR (95%CI): 0.44 (0.25, 0.77) comparing Q5 to Q1) and lacunar infarcts (OR (95%CI): 0.40 (0.22, 0.71) comparing Q5 to Q1). Elevated serum magnesium was cross-sectionally associated with greater brain volumes and lower odds of subclinical cerebrovascular disease, suggesting beneficial effects on pathways related to neurodegeneration and cerebrovascular damage. Further exploration through prospective analyses is needed to assess increasing circulating magnesium as a potential neuroprotective intervention.
+
+Ca:Mg Ratio, APOE Cytosine Modifications, and Cognitive Function: Results from a Randomized Trial
+
+Number of 
+
+Key takeaways:Reducing the dietary Ca:Mg ratio through Mg supplementation may improve cognitive function in individuals aged 65 and over, partially through modifications in APOE methylation.
+
+Abstract:Background: Deterioration of ionized calcium (Ca2+) handling in neurons could lead to neurodegenerative disease. Magnesium (Mg) antagonizes Ca during many physiologic activities, including energy metabolism and catalyzation of demethylation from 5-methylcytosine(5-mC) to 5-hydroxymethylcytosine(5-hmC). Objective: To test the hypothesis that actively reducing the Ca:Mg intake ratio in the diet through Mg supplementation improves cognitive function, and to test whether this effect is partially mediated by modified cytosines in Apolipoprotein E (APOE). Methods: This study is nested within the Personalized Prevention of Colorectal Cancer Trial (PPCCT), a double-blind 2×2 factorial randomized controlled trial, which enrolled 250 participants from Vanderbilt University Medical Center. Target doses for both Mg and placebo arms were personalized. Results: Among those aged > 65 years old who consumed a high Ca:Mg ratio diet, we found that reducing the Ca:Mg ratio to around 2.3 by personalized Mg supplementation significantly improved cognitive function by 9.1% (p = 0.03). We also found that reducing the Ca:Mg ratio significantly reduced 5-mC at the cg13496662 and cg06750524 sites only among those aged > 65 years old (p values = 0.02 and 0.03, respectively). Furthermore, the beneficial effect of reducing the Ca:Mg ratio on cognitive function in those aged over 65 years was partially mediated by reductions in 5-mC levels (i.e., cg13496662 and cg06750524) in APOE (p for indirect effect = 0.05). Conclusion: Our findings suggest that, among those age 65 and over with a high dietary Ca:Mg ratio, optimal Mg status may improve cognitive function partially through modifications in APOE methylation. These findings, if confirmed, have significant implications for the prevention of cognitive aging and Alzheimer’s disease. Clinical Trial Registry number and website: #100106 
+
+Dietary magnesium intake is related to larger brain volumes and lower white matter lesions with notable sex differences
+
+Number of 
+
+Key takeaways:Higher dietary magnesium intake is associated with better brain health in both men and women, with greater neuroprotective effects in post-menopausal women.
+
+Abstract:Abstract Purpose To examine the association between dietary magnesium (Mg) intake and brain volumes and white matter lesions (WMLs) in middle to early old age. Methods Participants (aged 40–73 years) from UK Biobank ( n = 6001) were included and stratified by sex. Dietary Mg was measured using an online computerised 24 h recall questionnaire to estimate daily Mg intake. Latent class analysis and hierarchical linear regression models were performed to investigate the association between baseline dietary Mg, Mg trajectories, and brain volumes and WMLs. Associations between baseline Mg, and baseline blood pressure (BP) measures, and baseline Mg, Mg trajectories and BP changes (between baseline and wave 2) were also investigated to assess whether BP mediates the link between Mg intake and brain health. All analyses controlled for health and socio-demographic covariates. Possible interactions between menopausal status and Mg trajectories in predicting brain volumes and WMLs were also investigated. Results On average, higher baseline dietary Mg intake was associated with larger brain volumes (gray matter : 0.001% ; left hippocampus : 0.0013% ; and right hippocampus : 0.0023% ) in both men and women. Latent class analysis of Mg intake revealed three classes: “high-decreasing” (men = 3.2%, women = 1.9%), “low-increasing” (men = 1.09%, women = 1.62%), and “stable normal” (men = 95.71%, women = 96.51%). In women, only the “high-decreasing” trajectory was significantly associated with larger brain volumes (GM: 1.17%, ; and RHC: 2.79% ) compared to the “normal-stable”, the “low-increasing” trajectory was associated with smaller brain volumes (GM: − 1.67%, ; white matter : − 0.85% ; LHC: − 2.43% ; and RHC: − 1.50% ) and larger WMLs (1.6% ). Associations between Mg and BP measures were mostly non-significant. Furthermore, the observed neuroprotective effect of higher dietary Mg intake in the “high-decreasing” trajectory appears to be greater in post-menopausal than pre-menopausal women. Conclusions Higher dietary Mg intake is related to better brain health in the general population, and particularly in women.
+
+High Blood Pressure and Impaired Brain Health: Investigating the Neuroprotective Potential of Magnesium
+
+Number of 
+
+Key takeaways:Magnesium may have the potential to lower blood pressure and promote brain health in the elderly, potentially benefiting neurodegeneration, cognitive function, and dementia.
+
+Abstract:High blood pressure (BP) is a significant contributor to the disease burden globally and is emerging as an important cause of morbidity and mortality in the young as well as the old. The well-established impact of high BP on neurodegeneration, cognitive impairment, and dementia is widely acknowledged. However, the influence of BP across its full range remains unclear. This review aims to explore in more detail the effects of BP levels on neurodegeneration, cognitive function, and dementia. Moreover, given the pressing need to identify strategies to reduce BP levels, particular attention is placed on reviewing the role of magnesium (Mg) in ageing and its capacity to lower BP levels, and therefore potentially promote brain health. Overall, the review aims to provide a comprehensive synthesis of the evidence linking BP, Mg and brain health. It is hoped that these insights will inform the development of cost-effective and scalable interventions to protect brain health in the ageing population.
+
+The Presence of Blood–Brain Barrier Modulates the Response to Magnesium Salts in Human Brain Organoids
+
+Number of 
+
+Key takeaways:The presence of the blood-brain barrier is essential for magnesium to exert its effects on human brain organoids, with 5 mM of MgPid being more effective than MgSO4 in increasing GABA receptors and BDNF levels and decreasing NMDA receptor levels.
+
+Abstract:Magnesium (Mg) is fundamental in the brain, where it regulates metabolism and neurotransmission and protects against neuroinflammation. To obtain insights into the molecular basis of Mg action in the brain, we investigated the effects of Mg in human brain organoids, a revolutionary 3D model to study neurobiology and neuropathology. In particular, brain organoids derived from human induced pluripotent stem cells were cultured in the presence or in the absence of an in vitro-generated blood–brain barrier (BBB), and then exposed to 1 or 5 mM concentrations of inorganic and organic Mg salts (Mg sulphate (MgSO4); Mg pidolate (MgPid)). We evaluated the modulation of NMDA and GABAergic receptors, and BDNF. Our data suggest that the presence of the BBB is essential for Mg to exert its effects on brain organoids, and that 5 mM of MgPid is more effective than MgSO4 in increasing the levels of GABA receptors and BDNF, and decreasing those of NMDA receptor. These results might illuminate novel pathways explaining the neuroprotective role of Mg.
+
+Adequate dietary magnesium intake may protect females but not males older than 55 years from cognitive impairment
+
+Number of 
+
+Key takeaways:Adequate magnesium intake may reduce the risk of mild cognitive impairment in older women, but not in males aged 55 and older.
+
+Abstract:ABSTRACT Background Magnesium is an essential nutrient required to maintain brain health throughout life, and adequate magnesium intake is positively associated with cognitive performance in older adults. However, sex differences in magnesium metabolism have not been adequately assessed in humans. Objectives We investigated sex differences in the effect of dietary magnesium intake and the risk of different types of cognitive impairment in older Chinese adults. Methods We collected and assessed dietary data and cognitive function status in people aged 55 years and older in northern China who participated in the Community Cohort Study of Nervous System Diseases from 2018 to 2019 to explore the relationship between dietary magnesium intake and the risk of each type of mild cognitive impairment (MCI) in sex-specific cohorts of older adults. Results The study included 612 people: 260 (42.5%) men and 352 (57.5%) women. Logistic regression results showed that for the total sample and women's sample, high dietary magnesium intake reduced the risk of amnestic MCI (ORtotal = 0.300; ORwomen = 0.190) and multidomain amnestic MCI (ORtotal = 0.225; ORwomen = 0.145). The results of restricted cubic spline analysis showed that the risk of amnestic MCI (ptotal = 0.0193; pwomen = 0.0351) and multidomain amnestic MCI (ptotal = 0.0089; pwomen = 0.0096) in the total sample and women's sample gradually decreased with increasing dietary magnesium intake. Conclusions The results suggest that adequate magnesium intake may have a preventive effect against the risk of MCI in older women.
+
+The Impact of Chronic Magnesium Deficiency on Excitable Tissues-Translational Aspects.
+
+Number of 
+
+Key takeaways:Chronic magnesium deficiency increases the risk of cardiovascular, respiratory, and neurological conditions, and its supplementation can help treat hyperexcitability.
+
+Abstract:Neuromuscular excitability is a vital body function, and Mg^2+ is an essential regulatory cation for the function of excitable membranes. Loss of Mg^2+ homeostasis disturbs fluxes of other cations across cell membranes, leading to pathophysiological electrogenesis, which can eventually cause vital threat to the patient. Chronic subclinical Mg^2+ deficiency is an increasingly prevalent condition in the general population. It is associated with an elevated risk of cardiovascular, respiratory and neurological conditions and an increased mortality. Magnesium favours bronchodilation (by antagonizing Ca^2+ channels on airway smooth muscle and inhibiting the release of endogenous bronchoconstrictors). Magnesium exerts antihypertensive effects by reducing peripheral vascular resistance (increasing endothelial NO and PgI_2 release and inhibiting Ca^2+ influx into vascular smooth muscle). Magnesium deficiency disturbs heart impulse generation and propagation by prolonging cell depolarization (due to Na^+/K^+ pump and K_ir channel dysfunction) and dysregulating cardiac gap junctions, causing arrhythmias, while prolonged diastolic Ca^2+ release (through leaky RyRs) disturbs cardiac excitation-contraction coupling, compromising diastolic relaxation and systolic contraction. In the brain, Mg^2+ regulates the function of ion channels and neurotransmitters (blocks voltage-gated Ca^2+ channel-mediated transmitter release, antagonizes NMDARs, activates GABA_ARs, suppresses nAChR ion current and modulates gap junction channels) and blocks ACh release at neuromuscular junctions. Magnesium exerts multiple therapeutic neuroactive effects (antiepileptic, antimigraine, analgesic, neuroprotective, antidepressant, anxiolytic, etc.). This review focuses on the effects of Mg^2+ on excitable tissues in health and disease. As a natural membrane stabilizer, Mg^2+ opposes the development of many conditions of hyperexcitability. Its beneficial recompensation and supplementation help treat hyperexcitability and should therefore be considered wherever needed.
+
+Magnesium yields opposite effects on the nuclear and cytosolic cascades of apoptosis in different rat brain regions.
+
+Number of 
+
+Key takeaways:Long-term magnesium use can promote apoptosis in brain tissue by increasing the Bax/Bcl-2 ratio, but this cascade appears to be arrested at later stages.
+
+Abstract:OBJECTIVE
+Magnesium is considered as potential neuroprotective and therapeutic agent, but certain studies have provided evidence of its apoptotic effectiveness in neurons. We aimed to evaluate the possible apoptotic effects of long-term magnesium use in healthy adult rat brains.
+
+MATERIALS AND METHODS
+Magnesium citrate and magnesium glycinate compounds were administered orally to rats for 8 weeks (36 mg/kg). Expression levels of Bcl-2, Bax and Cyt-C genes were analyzed by real-time polymerase chain reactions (RT-PCR) in the prefrontal cortex, hippocampus and striatum regions. Bcl-2, Bax and CytC protein levels were measured using ELISA kits. Tissue sections were evaluated histopathologically with hematoxylin-eosin staining.
+
+RESULTS
+Compared to the control group, the magnesium-administered groups indicated gene expression reductions in almost all brain regions; pro-apoptotic Bax, anti-apoptotic Bcl-2 and Cyt-C gene expression levels were reduced. With magnesium, the Bcl-2 and Bax protein levels were increased. Bax/Bcl-2 gene and protein ratio were also increased in the striatum and hippocampus, whereas Cyt-C protein levels were decreased or did not change in the magnesium treated groups. There was no pathological finding in histological evaluation.
+
+CONCLUSIONS
+Long-term magnesium usage can promote apoptotic cascade in brain tissue by increasing Bax/Bcl-2 ratio. Cyt-C, a prominent factor processing caspase pathway, was decreased or unchanged. In addition, taking into account the histological evaluation, we supposed that the absence of Cyt-C in the cytosol can prevent the subsequent apoptotic pathway. Consequently, we obtained the findings of apoptotic initiation with magnesium in brain, but this cascade seems to be arrested at later stages.
+
+Magnesium and cardiovascular system
+
+Number of 
+
+Key takeaways:Magnesium supplementation may improve heart health and reduce arrhythmias in high-risk groups, but its effectiveness in acute myocardial infarction remains unclear.
+
+Abstract:Hypomagnesemia is common in hospitalized patients, especially in the elderly with coronary artery disease (CAD) and/or those with chronic heart failure. Hypomagnesemia is associated with an increased incidence of diabetes mellitus, metabolic syndrome, mortality rate from CAD and all causes. Magnesium supplementation improves myocardial metabolism, inhibits calcium accumulation and myocardial cell death; it improves vascular tone, peripheral vascular resistance, afterload and cardiac output, reduces cardiac arrhythmias and improves lipid metabolism. Magnesium also reduces vulnerability to oxygen-derived free radicals, improves human endothelial function and inhibits platelet function, including platelet aggregation and adhesion, which potentially gives magnesium physiologic and natural effects similar to adenosine-diphosphate inhibitors such as clopidogrel. The data regarding its use in patients with acute myocardial infarction (AMI) is conflicting. Although some previous, relatively small randomized clinical trials demonstrated a remarkable reduction in mortality when administered to relatively high risk AMI patients, two recently published large-scale randomized clinical trials (the Fourth International Study of Infarct Survival and Magnesium in Coronaries) failed to show any advantage of intravenous magnesium over placebo. Nevertheless, there are theoretical potential benefits of magnesium supplementation as a cardioprotective agent in CAD patients, as well as promising results from previous work in animal and humans. These studies are cost effective, easy to handle and are relatively free of adverse effects, which gives magnesium a role in treating CAD patients, especially high-risk groups such as CAD patients with heart failure, the elderly and hospitalized patients with hypomagnesemia. Furthermore, magnesium therapy is indicated in life-threatening ventricular arrhythmias such as Torsades de Pointes and intractable ventricular tachycardia.
+
+Dietary Magnesium and Cardiovascular Disease: A Review with Emphasis in Epidemiological Studies
+
+Number of 
+
+Key takeaways:High magnesium intake is associated with lower risk of major cardiovascular risk factors, stroke, and cardiovascular diseases, particularly ischemic heart disease and coronary heart disease.
+
+Abstract:Magnesium (Mg) is an essential dietary element for humans involved in key biological processes. A growing body of evidence from epidemiological studies, randomized controlled trials (RCTs) and meta-analyses have indicated inverse associations between Mg intake and cardiovascular diseases (CVD). The present review aims to summarize recent scientific evidence on the topic, with a focus on data from epidemiological studies assessing the associations between Mg intake and major cardiovascular (CV) risk factors and CVD. We also aimed to review current literature on circulating Mg and CVD, as well as potential biological processes underlying these observations. We concluded that high Mg intake is associated with lower risk of major CV risk factors (mainly metabolic syndrome, diabetes and hypertension), stroke and total CVD. Higher levels of circulating Mg are associated with lower risk of CVD, mainly ischemic heart disease and coronary heart disease. Further, RCTs and prospective studies would help to clarify whether Mg intake and Mg circulating levels may also protect against other CVDs and CVD death.
+
+Exploring the Positive Impact of Magnesium on Cardiovascular Diseases: A Comprehensive Review
+
+Number of 
+
+Key takeaways:Magnesium deficiency contributes to various cardiovascular conditions, and its therapeutic effects include ionic modulation, vasodilation, and anti-inflammatory properties.
+
+Abstract:Magnesium plays a critical role in cardiovascular health, being essential for various biochemical processes and maintaining physiological balance. Deficiency in magnesium is linked to conditions such as arrhythmias, hypertension, coronary artery disease and pregnancy-related disorders like preeclampsia and eclampsia. This study aims to investigate the role of magnesium in these cardiovascular conditions and highlight its therapeutic potential.
+ 
+Aim of the Study:
+ 
+The aim of this study is to comprehensively review the role of magnesium in cardiovascular diseases, including arrhythmias, hypertension, coronary artery disease, preeclampsia and eclampsia, with an emphasis on its physiological mechanisms, therapeutic applications, and potential clinical benefits.
+ 
+Material and Methods:
+ 
+A literature review was conducted using PubMed as the primary database. The search terms included: "magnesium", "cardiovascular diseases", "arrhythmia", "hypertension", "coronary artery disease", "preeclampsia" and "eclampsia".
+ 
+Conclusions:
+ 
+Magnesium deficiency contributes to various cardiovascular conditions, particularly arrhythmias, hypertension, coronary artery disease and pregnancy-related complications. Its therapeutic effects are primarily linked to ionic modulation, vasodilation, and anti-inflammatory properties, emphasizing the importance of magnesium in cardiovascular disease prevention and treatment.
+
+Magnesium and Cardiovascular Disease.
+
+Number of 
+
+Key takeaways:Low magnesium levels or intake may increase the risk of cardiovascular diseases, but routine magnesium supplementation is not recommended except for cases of cardiac arrhythmias.
+
+Abstract:Magnesium is the most abundant intracellular divalent cation and essential for maintaining normal cellular physiology and metabolism, acting as a cofactor of numerous enzymes, regulating ion channels and energy generation. In the heart, magnesium plays a key role in modulating neuronal excitation, intracardiac conduction, and myocardial contraction by regulating a number of ion transporters, including potassium and calcium channels. Magnesium also has a role in regulating vascular tone, atherogenesis and thrombosis, vascular calcification, and proliferation and migration of endothelial and vascular smooth muscle cells. As such, magnesium potentially has a major influence on the pathogenesis of cardiovascular disease. As the kidney is a major regulator of magnesium homeostasis, kidney disorders can potentially lead to both magnesium depletion and overload, and as such increase the risk of cardiovascular disease. Observational data have shown an association between low serum magnesium concentrations or magnesium intake and increased atherosclerosis, coronary artery disease, arrhythmias, and heart failure. However, major trials of supplementation with magnesium have reported inconsistent benefits and also raised potential adverse effects of magnesium overload. As such, there is currently no firm recommendation for routine magnesium supplementation except when hypomagnesemia has been proven or suspected as a cause for cardiac arrhythmias.
+
+Dietary magnesium intake and the risk of cardiovascular disease, type 2 diabetes, and all-cause mortality: a dose–response meta-analysis of prospective cohort studies
+
+Number of 
+
+Key takeaways:Increasing dietary magnesium intake is associated with a reduced risk of stroke, heart failure, diabetes, and all-cause mortality, but not CHD or total CVD.
+
+Abstract:Although studies have examined the association between dietary magnesium intake and health outcome, the results are inconclusive. Here, we conducted a dose–response meta-analysis of prospective cohort studies in order to investigate the correlation between magnesium intake and the risk of cardiovascular disease (CVD), type 2 diabetes (T2D), and all-cause mortality. PubMed, EMBASE, and Web of Science were searched for articles that contained risk estimates for the outcomes of interest and were 
+
+Magnesium for the prevention and treatment of cardiovascular disease
+
+Number of 
+
+Key takeaways:Magnesium deficiency increases the risk of cardiovascular events and death, and a high intake of magnesium can help prevent and treat these conditions.
+
+Abstract:Magnesium is an essential mineral found in the body. It is naturally present in many foods and is also available as a dietary supplement.1 It serves as a cofactor in more than 300 enzymatic reactions, such as those responsible for regulating blood pressure, glycaemic control and lipid peroxidation. It is therefore also critical to the cardiovascular system.1 The adult body contains approximately 24 g of magnesium, with 50% to 60% present in bones with the rest being contained in soft tissues. Serum magnesium represents less than 1% of total body magnesium.2 In industrialised western countries, a low intake of magnesium often predisposes to a high prevalence of magnesium deficiency increasing the risk of cardiovascular events and cardiovascular death.3 This article aims to review of effect of magnesium deficiency on the cardiovascular system.
+
+In recent studies of hospitalised patients, 42% were shown to be hypomagnesaemic.4 However, physicians request magnesium testing in only 7% of these patients.4 In a study conducted among patients in the intensive cardiac care unit, 53% of patients had mononuclear cell magnesium content below the lowest normal control.5 
+
+Clinically, serum magnesium is usually measured despite the fact that less than 1% of magnesium exists extracellularly; hence, serum magnesium does not always accurately reflect total body magnesium stores. In fact, serum magnesium levels may be normal despite depletion of total body magnesium content.5 In experimental settings, total body magnesium stores can be estimated by measuring retention of an oral or intravenous magnesium load; however, measurement is cumbersome and requires a 24-hour urine collection.6 7 In many instances, intracellular levels of magnesium serve as a better indicator for total body magnesium content compared with serum magnesium levels with the most accurate test being blood mononuclear cell magnesium.8 Intracellular mononuclear magnesium …
+
+Magnesium, Oxidative Stress, Inflammation, and Cardiovascular Disease
+
+Number of 
+
+Key takeaways:Magnesium deficiency contributes to cardiovascular diseases and may help prevent them by reducing oxidative stress, inflammation, and promoting heart health.
+
+Abstract:Hypomagnesemia is commonly observed in heart failure, diabetes mellitus, hypertension, and cardiovascular diseases. Low serum magnesium (Mg) is a predictor for cardiovascular and all-cause mortality and treating Mg deficiency may help prevent cardiovascular disease. In this review, we discuss the possible mechanisms by which Mg deficiency plays detrimental roles in cardiovascular diseases and review the results of clinical trials of Mg supplementation for heart failure, arrhythmias and other cardiovascular diseases.
+
+Magnesium Deficiency and Cardiometabolic Disease
+
+Number of 
+
+Key takeaways:Magnesium deficiency can negatively impact cardiovascular and vascular outcomes, and magnesium supplements may help prevent and treat cardiovascular disorders and manage cardiometabolic health.
+
+Abstract:Magnesium (Mg2+) has many physiological functions within the body. These include important roles in maintaining cardiovascular functioning, where it contributes to the regulation of cardiac excitation–contraction coupling, endothelial functioning and haemostasis. The haemostatic roles of Mg2+ impact upon both the protein and cellular arms of coagulation. In this review, we examine how Mg2+ homeostasis is maintained within the body and highlight the various molecular roles attributed to Mg2+ in the cardiovascular system. In addition, we describe how nutritional and/or disease-associated magnesium deficiency, seen in some metabolic conditions, has the potential to influence cardiac and vascular outcomes. Finally, we also examine the potential for magnesium supplements to be employed in the prevention and treatment of cardiovascular disorders and in the management of cardiometabolic health.
+
+Role of dietary magnesium in cardiovascular disease prevention, insulin sensitivity and diabetes
+
+Number of 
+
+Key takeaways:Increased dietary magnesium intake may protect against diabetes, metabolic syndrome, hypertension, and cardiovascular disease by improving insulin resistance, serum lipid profiles, and reducing inflammation.
+
+Abstract:Purpose of review This review summarizes the evidence for benefits of magnesium on metabolic abnormalities, inflammatory parameters, and cardiovascular risk factors and related-potential mechanisms. Controversy due to contrasting results in the literature is also discussed. Recent findings Increased dietary magnesium intake confers protection against the incidence of diabetes, metabolic syndrome, hypertension, and cardiovascular disease. It ameliorates insulin resistance, serum lipid profiles, and lowers inflammation, endothelial dysfunction, oxidative stress, and platelet aggregability. Magnesium acts as a mild calcium antagonist on vascular smooth muscle tone, and on postreceptor insulin signaling; it is critically involved in energy metabolism, fatty acid synthesis, glucose utilization, ATPase functions, release of neurotransmitters, and endothelial cell function and secretion. Prospective studies, however, have found only a modest effect for dietary magnesium on incident pathologies. Furthermore, magnesium supplementation on glucose metabolism, blood lipid levels, and ischemic heart disease has given inconsistent results. Summary There is strong biological plausibility for the direct impact of magnesium intake on metabolic and cardiovascular risk factors, but in-vivo magnesium deficiency might play only a modest role. Reverse causality, the strong association between magnesium and other beneficial nutrients, or the possibility that people who choose magnesium-rich foods are more health-conscious may be confounding factors.
+
+Role of Magnesium in Cardiovascular Diseases
+
+Number of 
+
+Key takeaways:Magnesium plays a crucial role in regulating cardiovascular function and plays a role in preventing and treating various cardiovascular disorders due to its vasodilatory, anti-inflammatory, anti-ischemic, and antiarrhythmic properties.
+
+Abstract:Magnesium, the fourth most abundant cation in the human body, is involved in several essential physiological, biochemical, and cellular processes regulating cardiovascular function. It plays a critical role in modulating vascular smooth muscle tone, endothelial cell function, and myocardial excitability and is thus central to the pathogenesis of several cardiovascular disorders such as hypertension, atherosclerosis, coronary artery disease, congestive heart failure, and cardiac arrhythmias. This review discusses the vasodilatory, anti-inflammatory, anti-ischemic, and antiarrhythmic properties of magnesium and its current role in the prevention and treatment of cardiovascular disorders.
+
+The Role of Dietary Magnesium in Cardiovascular Disease
+
+Number of 
+
+Key takeaways:Low magnesium levels are associated with cardiovascular disease, making magnesium a public health concern.
+
+Abstract:In the past 20 years, a large number of epidemiological studies, randomized controlled trials, and meta-analyses have found an inverse relationship between magnesium intake or serum magnesium and cardiovascular disease, indicating that low magnesium status is associated with hypertension, coronary artery calcification, stroke, ischemic heart disease, atrial fibrillation, heart failure, and cardiac mortality. Controlled metabolic unit human depletion–repletion experiments found that a mild or moderate magnesium deficiency can cause physiological and metabolic changes that respond to magnesium supplementation, which indicates that these types of deficiencies or chronic latent magnesium deficiency are contributing factors to the occurrence and severity of cardiovascular disease. Mechanisms through which a mild or moderate magnesium deficiency can contribute to this risk include inflammatory stress, oxidative stress, dyslipidemia and deranged lipid metabolism, endothelial dysfunction, and dysregulation of cellular ion channels, transporters, and signaling. Based on USA official DRIs or on suggested modified DRIs based on body weight, a large number of individuals routinely consume less magnesium than the EAR. This especially occurs in populations that do not consume recommended amounts of whole grains, pulses, and green vegetables. Thus, inadequate magnesium status contributing to cardiovascular disease is widespread, making magnesium a nutrient of public health concern.
+
+Effect of magnesium supplementation on type 2 diabetes associated cardiovascular risk factors: a systematic review and meta‐analysis
+
+Number of 
+
+Key takeaways:Magnesium supplementation can improve fasting plasma glucose, HDL, LDL, TG, and systolic blood pressure, potentially decreasing the risk of type 2 diabetes-associated cardiovascular diseases.
+
+Abstract:BACKGROUND
+Cardiovascular disorders remain the leading cause of death in type 2 diabetic patients. In the present study, a systematic review and a meta-analysis of randomised controlled trials (RCTs) were conducted aiming to evaluate the effect of magnesium supplementation on type 2 diabetes (T2D) associated cardiovascular risk factors in both diabetic and nondiabetic individuals.
+
+METHODS
+PubMed, Scopus, Cochrane, Web of Science and Google Scholar databases were searched from inception to 30 June 2016 aiming to identify RCTs evaluating the effect of magnesium supplementation on T2D associated cardiovascular risk factors. The data were analysed using a random effect model with inverse variance methodology. Sensitivity analysis, risk of bias analysis, subgroup analysis, meta-regression and publication bias analysis were also conducted for the included studies using standard methods.
+
+RESULTS
+Following magnesium supplementation, a significant improvement was observed in fasting plasma glucose (FPG) , high-density lipoprotein (HDL) (WMD = 3.197 mg dL-1 , 95% CI = 1.455, 4.938, P < 0.001), low-density lipoprotein (LDL) (WMD = -10.668 mg dL-1 , 95% CI = -19.108, -2.228, P = 0.013), plasma triglycerides (TG) (WMD = -15.323 mg dL-1 , 95% CI = -28.821, -1.826, P = 0.026) and systolic blood pressure (SBP) (WMD = -3.056 mmHg, 95% CI = -5.509, -0.603, P = 0.015). During subgroup analysis, a more beneficial effect of magnesium supplementation was observed in diabetic subjects with hypomagnesaemia.
+
+CONCLUSIONS
+Magnesium supplementation can produce a favourable effect on FPG, HDL, LDL, TG and SBP. Therefore, magnesium supplementation may decrease the risk T2D associated cardiovascular diseases, although future large RCTs are needed for making robust guidelines for clinical practice.
+
+Magnesium and Cardiovascular Disease
+
+Number of 
+
+Key takeaways:Magnesium therapy may be beneficial in preventing cardiovascular complications and improving anesthesia outcomes in patients with cardiovascular disease.
+
+Abstract: Associate Professor.Dennis M. Fisher, M.D., EditorIN 1935, Zwillinger reported that administration of magnesium (Mg (2+)) restored sinus rhythm in patients with digitalis-induced tachyarrhythmias. Since that time, Mg2+has been used for prophylaxis or therapy in a variety of cardiovascular disorders : myocardial ischemia and infarction, coronary spasm, ventricular and supraventricular arrhythmias, digoxin toxicity, preeclampsia-eclampsia, cerebral vasospasm, and stroke. Chronic Mg2+deficiency and acute hypomagnesemia are associated with increased cardiovascular morbidity and mortality. Therapeutic effects, however, have been reported after pharmacologic administration, even in the absence of known Mg2+deficiency or hypomagnesemia. Because many of the abnormalities for which Mg2+therapy has been advocated are common among patients undergoing anesthesia and surgery, the anesthesiologist should be familiar with the rational use of this cation. Accordingly, this article addresses (1) the physiology and pharmacology of Mg2+relevant to patients with cardiovascular disease;(2) evidence supporting the use of Mg2+in a variety of disease states; and (3) current applications of Mg (2+) therapy.Mg2+metabolism and its derangements have been reviewed recently. Mg2+is the second most abundant cation in the body, the second most abundant intracellular cation after potassium (K+), and a critical cofactor in &gt;300 enzymatic reactions involving energy metabolism and protein and nucleic acid synthesis. Total body stores of Mg (2+) average 1,000 mmol for a 70-kg individual, with &gt;50% in bone, nearly 50% in soft tissues, and &lt;1% in blood. In contrast to the tight hormonal control of concentrations of calcium (Ca2+) in blood, the kidney is the primary regulator of Mg2+balance. Although there is some hormonal influence on the renal handling of Mg2+(primarily by parathyroid hormone, calcitonin, and antidiuretic hormone), changes in dietary intake of Mg2+or concentrations of Mg2+in blood do not evoke hormone secretion. Mg2+(intra- and extracellular) exists in three states:(1) free, ionized fraction (the physiologically active form);(2) complexed to anions (citrate, phosphate, bicarbonate); and (3) protein bound. In extracellular fluid, free Mg2+composes 61% of total Mg2+, 6% is complexed, and 33% is protein bound. In this article, the symbol Mg2+designates total Mg2+cation unless otherwise modified (e.g., ionized Mg2+or complexed Mg2+).The diagnosis of Mg2+deficiency (defined as a reduction in total content of Mg2+in the body ) is difficult to establish because (1) it may be asymptomatic ;(2) concentration of total Mg2+in serum may be normal despite depletion in tissue ; and (3) measurement of concentrations in tissue is not readily available and may be specific for the tissue sampled. Nonetheless, studies reporting Mg2+assays on a variety of tissues suggest that many patients with cardiovascular disease exhibit depletion of Mg2+compared with healthy individuals. For example, Haigney et al. found that (1) concentrations of Mg2+in buccal mucosal cells were reduced in patients with coronary artery disease compared with healthy volunteers, despite normal concentrations in serum, and (2) concentrations of Mg2+in buccal cells correlated well with atrial concentrations of Mg2+.The diagnosis of Mg2+depletion also has been based on the percent of Mg2+retained after an intravenous infusion of Mg2+. The Mg2+retention test requires a baseline 24-h urine collection, after which Mg2+(0.2 mEq/kg lean body weight) is infused for 4 h and urine is again collected for 24 h. Mg2+-repleteindividuals should excrete at least 60% of the administered load. Although the retention test is considered highly sensitive for depletion of Mg2+, it has not been possible to correlate the percent retention with the degree of total body Mg2+deficiency. The test has been used to screen critically ill patients and patients with diseases in which deficiency of Mg2+has been implicated as contributory (e.g., variant angina). Goto et al. found that patients with vasospastic angina had normal concentrations of total Mg2+in serum, but they excreted only 40 +/- 5% of the Mg2+load, whereas healthy individuals excreted 64 +/- 3%(P &lt; 0.001).In clinical practice, laboratory assessment of Mg2+status usually begins with measurement of concentration of total Mg2+in serum. Serum rather than plasma is used because the anticoagulants (e.g., citrate, ethylene-diaminetetraacetic acid) for plasma affect the assay procedure. This test, however, has several limitations in the assessment of Mg (2+) status, despite its ready availability. First, hypomagnesemia (defined as concentration of Mg2+in serum less than the normal range ;Table 1) is often not present in patients with chronic depletion of Mg2+because of very slow equilibration of Mg2+among tissue compartments and because the compartment being sampled, namely blood, contains a small fraction of total Mg2+. Second, concentration of total Mg2+in serum may not reflect concentration of ionized Mg2+in serum. These findings may explain at least part of the beneficial effect of administration of Mg2+in some patients who appear to be normomagnesemic.Although the Mg2+-selectiveelectrode has been commercially available for several years, it is not widely used because the clinical utility of ionized Mg2+measurement has not been established. Some 
+
+Dose-response relationship between dietary magnesium intake and cardiovascular mortality: A systematic review and dose-based meta-regression analysis of prospective studies.
+
+Number of 
+
+Key takeaways:Dietary magnesium intake reduces cardiovascular disease mortality, with a dose-response relationship found only in women and the US population.
+
+Magnesium: A Magic Bullet for Cardiovascular Disease in Chronic Kidney Disease?
+
+Number of 
+
+Key takeaways:Higher magnesium levels are associated with better survival in chronic kidney disease patients, potentially due to its protective role in cardiovascular outcomes.
+
+Abstract:Magnesium is essential for many physiological functions in the human body. Its homeostasis involves dietary intake, absorption, uptake and release from bone, swifts between the intra- and extracellular compartment, and renal excretion. Renal excretion is mainly responsible for regulation of magnesium balance. In chronic kidney disease (CKD), for a long time the general policy has been limiting magnesium intake. However, this may not be appropriate for many patients. The reference ranges for magnesium are not necessarily optimal concentrations, and risks for insufficient magnesium intake exist in patients with CKD. In recent years, many observational studies have shown that higher (in the high range of “normal” or slightly above) magnesium concentrations are associated with better survival in CKD cohorts. This review gives an overview of epidemiological associations between magnesium and overall and cardiovascular survival in patients with CKD. In addition, potential mechanisms explaining the protective role of magnesium in clinical cardiovascular outcomes are described by reviewing evidence from in vitro studies, animal studies, and human intervention studies with non-clinical endpoints. This includes the role of magnesium in cardiac arrhythmia, heart failure, arterial calcification, and endothelial dysfunction. Possible future implications will be addressed, which will need prospective clinical trials with relevant clinical endpoints before these can be adopted in clinical practice.
+
+Long-term magnesium supplementation improves arterial stiffness in overweight and obese adults: results of a randomized, double-blind, placebo-controlled intervention trial.
+
+Number of 
+
+Key takeaways:Long-term magnesium supplementation of 350 mg daily for 24 weeks reduces arterial stiffness in overweight and obese adults, potentially benefiting cardiovascular health.
+
+Abstract:BACKGROUND
+Epidemiologic studies have suggested a protective effect of magnesium intake on cardiovascular disease risk. However, intervention trials of magnesium supplementation on blood pressure and conventional cardiometabolic risk markers are inconsistent. Effects on vascular function markers related to cardiovascular disease risk have rarely been studied.
+
+OBJECTIVE
+The objective was to evaluate the effects of long-term magnesium supplementation on arterial stiffness.
+
+DESIGN
+We performed a 24-wk, randomized, double-blind, placebo-controlled intervention study. Fifty-two overweight and slightly obese individuals (30 men and 22 postmenopausal women, mean ± SD age: 62 ± 6 y) were randomly allocated to receive either 3 times daily magnesium (3 × 117 mg or 350 mg/d) or placebo capsules. Twenty-four-hour urine collections and 24-h ambulatory blood pressure assessments were performed at the start and end of the study. Carotid-to-femoral pulse wave velocity (PWVc-f) was assessed at baseline, after 12 wk, and at week 24.
+
+RESULTS
+Serum magnesium concentrations did not differ after 12 wk but tended to increase after 24-wk magnesium supplementation compared with placebo by 0.02 mmol/L (95% CI: 0.00, 0.04 mmol/L; P = 0.09). Twenty-four-hour urinary magnesium excretion increased by 2.01 mmol (95% CI: 1.22, 2.93 mmol; P < 0.001) at week 24. PWVc-f was not changed after 12 wk (0.0 m/s; 95% CI: -0.6, 0.5 m/s; P = 0.90) but was improved in the magnesium compared with the placebo group by 1.0 m/s (95% CI: 0.4, 1.6 m/s; P = 0.001) after 24 wk. Office and 24-h ambulatory blood pressure levels were not changed. No adverse events were observed.
+
+CONCLUSION
+Our data indicate that a daily magnesium supplement of 350 mg for 24 wk in overweight and obese adults reduces arterial stiffness, as estimated by a decrease in PWVc-f, suggesting a potential mechanism by which an increased dietary magnesium intake beneficially affects cardiovascular health. This trial was registered at clinicaltrials.gov as NCT02235805.
+
+Circulating and dietary magnesium and risk of cardiovascular disease: a systematic review and meta-analysis of prospective studies.
+
+Number of 
+
+Key takeaways:Circulating and dietary magnesium are inversely associated with cardiovascular disease risk, suggesting potential roles for magnesium in prevention of CVD and ischemic heart disease.
+
+Abstract:BACKGROUND
+Clinical hypomagnesemia and experimental restriction of dietary magnesium increase cardiac arrhythmias. However, whether or not circulating or dietary magnesium at usual concentrations or intakes influences the risk of cardiovascular disease (CVD), including fatal ischemic heart disease (IHD), is unclear.
+
+OBJECTIVE
+We performed a systematic review and meta-analysis to investigate prospective associations of circulating and dietary magnesium with incidence of CVD, IHD, and fatal IHD.
+
+DESIGN
+Multiple literature databases were systematically searched without language restriction through May 2012. Inclusion decisions and data extraction were performed in duplicate. Linear dose-response associations were assessed by using random-effects meta-regression. Potential nonlinear associations were evaluated by using restricted cubic splines.
+
+RESULTS
+Of 2303 articles, 16 studies met the eligibility criteria; these studies comprised 313,041 individuals and 11,995 CVD, 7534 IHD, and 2686 fatal IHD events. Circulating magnesium (per 0.2 mmol/L increment) was associated with a 30% lower risk of CVD (RR: 0.70; 95% CI: 0.56, 0.88 per 0.2 mmol/L) and trends toward lower risks of IHD (RR: 0.83; 95% CI: 0.75, 1.05) and fatal IHD (RR: 0.61; 95% CI: 0.37, 1.00). Dietary magnesium (per 200-mg/d increment) was not significantly associated with CVD (RR: 0.89; 95% CI: 0.75, 1.05) but was associated with a 22% lower risk of IHD (RR: 0.78; 95% CI: 0.67, 0.92). The association of dietary magnesium with fatal IHD was nonlinear (P < 0.001), with an inverse association observed up to a threshold of ∼250 mg/d (RR: 0.73; 95% CI: 0.62, 0.86), compared with lower intakes.
+
+CONCLUSION
+Circulating and dietary magnesium are inversely associated with CVD risk, which supports the need for clinical trials to evaluate the potential role of magnesium in the prevention of CVD and IHD.
+
+Magnesium and cardiovascular complications of chronic kidney disease
+
+Number of 
+
+Key takeaways:Magnesium supplementation may reduce cardiovascular complications in chronic kidney disease patients, but randomized controlled trials are needed to confirm its effects.
+
+Magnesium and the Risk of Cardiovascular Events: A Meta-Analysis of Prospective Cohort Studies
+
+Number of 
+
+Key takeaways:Higher dietary magnesium intake is associated with a nonlinear inverse association with the risk of total cardiovascular events, with the greatest risk reduction occurring when intake increases from 150 to 400 mg/d.
+
+Abstract:Background Prospective studies that have examined the association between dietary magnesium intake and serum magnesium concentrations and the risk of cardiovascular disease (CVD) events have reported conflicting findings. We undertook a meta-analysis to evaluate the association between dietary magnesium intake and serum magnesium concentrations and the risk of total CVD events. Methodology/Principal Findings We performed systematic searches on MEDLINE, EMBASE, and OVID up to February 1, 2012 without limits. Categorical, linear, and nonlinear, dose-response, heterogeneity, publication bias, subgroup, and meta-regression analysis were performed. The analysis included 532,979 participants from 19 studies (11 studies on dietary magnesium intake, 6 studies on serum magnesium concentrations, and 2 studies on both) with 19,926 CVD events. The pooled relative risks of total CVD events for the highest vs. lowest category of dietary magnesium intake and serum magnesium concentrations were 0.85 (95% confidence interval 0.78 to 0.92) and 0.77 (0.66 to 0.87), respectively. In linear dose-response analysis, only serum magnesium concentrations ranging from 1.44 to 1.8 mEq/L were significantly associated with total CVD events risk (0.91, 0.85 to 0.97) per 0.1 mEq/L (Pnonlinearity = 0.465). However, significant inverse associations emerged in nonlinear models for dietary magnesium intake (Pnonlinearity = 0.024). The greatest risk reduction occurred when intake increased from 150 to 400 mg/d. There was no evidence of publication bias. Conclusions/Significance There is a statistically significant nonlinear inverse association between dietary magnesium intake and total CVD events risk. Serum magnesium concentrations are linearly and inversely associated with the risk of total CVD events.
+
+Effect of Magnesium Supplementation on Circulating Biomarkers of Cardiovascular Disease
+
+Number of 
+
+Key takeaways:Oral magnesium supplementation did not show statistically significant effects on circulating biomarkers of cardiovascular disease, but proteomic approaches can help investigate potential mechanisms.
+
+Abstract:Background: Magnesium supplementation may be effective for the prevention of cardiometabolic diseases, but mechanisms are unclear. Proteomic approaches can assist in identifying underlying mechanisms. Methods: We collected repeated blood samples in 52 individuals enrolled in a double-blind trial which randomized participants 1:1 to oral magnesium supplementation (400 mg magnesium / day in the form of magnesium oxide) or matching placebo for 10 weeks. Plasma levels of 91 proteins were measured in baseline and follow-up samples using the Olink Cardiovascular Disease III proximity extension assay panel, and modeled as arbitrary units in log2 scale. We evaluated the effect of oral magnesium supplementation on changes in protein levels and the baseline association between serum magnesium and protein levels. The Holm procedure was used to adjust for multiple comparisons. Results: Participants were 73% women, 94% white, and had a mean age of 62. Changes in proteins did not significantly differ between the two intervention groups after correction for multiple comparisons. The most statistically significant effects were on myoglobin , tartrate-resistant acid phosphatase type 5 , tumor necrosis factor ligand superfamily member 13B , ST2 protein , and interleukin-1 receptor type 1 . Similarly, none of the associations of baseline serum magnesium with protein levels were significant after correction for multiple comparisons. Conclusion: Though we did not identify statistically significant effects of oral magnesium supplementation in this relatively small study, this study demonstrates the value of proteomic approaches for the investigation of mechanisms underlying the beneficial effects of magnesium supplementation.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

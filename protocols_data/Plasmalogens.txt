@@ -1,0 +1,403 @@
+PROTOCOL: Plasmalogens
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: They aid in the clearance of harmful proteins like amyloid beta from the brain, potentially slowing neurodegeneration.
+DESCRIPTION: Plasmalogens are a unique group of membrane phospholipids naturally found in the human body, particularly abundant in the brain, heart, and immune system. Supplementation supports memory, cognitive function, cardiovascular health, and immunity, exhibiting anti-inflammatory and antioxidant properties. Benefits have been observed in elderly individuals and in models of neurodegenerative and cardiometabolic diseases.
+
+CONTENT SECTIONS:
+
+Support for brain, immune, and heart health
+
+Plasmalogens are a unique group of membrane phospholipids naturally found in the human body, particularly abundant in the brain, heart, and immune system. Supplementation supports memory, cognitive function, cardiovascular health, and immunity, exhibiting anti-inflammatory and antioxidant properties. Benefits have been observed in elderly individuals and in models of neurodegenerative and cardiometabolic diseases.
+
+Level of evidence:Good
+
+Plasmalogens stabilize neuronal and immune cell membranes, enhancing nerve conduction and supporting regeneration and neurogenesis. They act as antioxidants, protecting against oxidative stress and reducing inflammation. They also improve lipid profiles, supporting heart and vascular function. Supplementation helps restore plasmalogen levels reduced by aging or disease, potentially improving brain health and overall vitality.
+
+Plasmalogens are well tolerated, with rare and usually mild side effects. Available clinical data do not indicate serious adverse effects when used at recommended doses.
+
+Plasmalogens are not recommended for certain patient groups due to lack of safety data or potential risk of adverse effects.
+
+Typically 1–3 mg/kg of body weight per day; most commonly used doses in studies range from 2–20 mg/day depending on form and population
+
+Capsules, powder, liquid; most commonly marine-derived supplements
+
+Initial effects observed after 4–8 weeks of regular use
+
+Any time, preferably with a fat-containing meal for better absorption
+
+Can be combined with antioxidants and omega-3 fatty acids for supportive effects
+
+What Not to Combine With
+
+No confirmed interactions, but caution advised when using with other immunomodulatory lipids
+
+Choose standardized products rich in plasmalogens, preferably marine-derived and free from allergenic additives
+
+Greatest benefits observed with regular, long-term supplementation
+
+In older adults or those with cognitive issues, monitor cognitive function and well-being during supplementation
+
+Discontinue use if allergic reactions or serious gastrointestinal issues occur
+
+Combine supplementation with physical activity and a diet rich in antioxidants to synergistically support cognition and immunity
+
+Plasmalogens are a specialized group of lipids abundant in the brain and play a crucial role in maintaining brain health, affecting cognitive functions, memory, and protecting neurons from inflammation and neurodegeneration.
+
+Effects on Cognitive Function and Memory
+
+Protection Against Neurodegeneration and Inflammation
+
+Clinical Trial Results
+
+Plasmalogens are a unique class of membrane phospholipids that play a key role in immune function—supporting immune cells, regulating inflammation, and protecting against oxidative stress.
+
+Effects on Immune Cells
+
+Regulation of Inflammation and Oxidative Stress
+
+Cardiovascular system
+
+Plasmalogens are a specific group of membrane phospholipids that positively affect the cardiovascular system through antioxidant activity, support of healthy lipid profiles, and reduction of atherosclerosis risk.
+
+Protection Against Atherosclerosis and Heart Disease
+
+Relationship with Metabolic Health Markers
+
+Therapeutic Potential
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:41
+
+Final comment:Plasmalogens are a unique group of membrane phospholipids whose potential health benefits are supported by numerous experimental studies, systematic reviews, and preliminary clinical trials. The most well-documented benefits of plasmalogen supplementation include improvements in cognitive function, memory, and neuroprotection—observed both in animal models and randomized clinical trials involving individuals with mild cognitive impairment and Alzheimer's disease. Evidence for immune-enhancing and anti-inflammatory effects comes primarily from in vitro and animal studies, showing improvements in phagocytosis, activation of NK cells, and mitigation of chronic inflammation. In the cardiovascular domain, high plasmalogen levels correlate positively with better lipid profiles and reduced risk of cardiovascular events; however, randomized human trials remain limited. In summary, current evidence suggests good support for neuroprotective and anti-inflammatory benefits, while immune and cardiovascular effects are promising but require further population-level studies. Plasmalogen use is considered safe, with minimal risk of adverse effects in healthy populations.
+
+Plasmalogens Eliminate Aging-Associated Synaptic Defects and Microglia-Mediated Neuroinflammation in Mice
+
+Number of 
+
+Key takeaways:Plasmalogen administration may be a potential intervention strategy to prevent neurodegeneration and promote neuroregeneration in aged mice by alleviating age-associated synaptic loss and reducing microglia activation.
+
+Abstract:Neurodegeneration is a pathological condition in which nervous system or neuron losses its structure, function, or both leading to progressive neural degeneration. Growing evidence strongly suggests that reduction of plasmalogens (Pls), one of the key brain lipids, might be associated with multiple neurodegenerative diseases, including Alzheimer’s disease (AD). Plasmalogens are abundant members of ether-phospholipids. Approximately 1 in 5 phospholipids are plasmalogens in human tissue where they are particularly enriched in brain, heart and immune cells. In this study, we employed a scheme of 2-months Pls intragastric administration to aged female C57BL/6J mice, starting at the age of 16 months old. Noticeably, the aged Pls-fed mice exhibited a better cognitive performance, thicker and glossier body hair in appearance than that of aged control mice. The transmission electron microscopic (TEM) data showed that 2-months Pls supplementations surprisingly alleviate age-associated hippocampal synaptic loss and also promote synaptogenesis and synaptic vesicles formation in aged murine brain. Further RNA-sequencing, immunoblotting and immunofluorescence analyses confirmed that plasmalogens remarkably enhanced both the synaptic plasticity and neurogenesis in aged murine hippocampus. In addition, we have demonstrated that Pls treatment inhibited the age-related microglia activation and attenuated the neuroinflammation in the murine brain. These findings suggest for the first time that Pls administration might be a potential intervention strategy for halting neurodegeneration and promoting neuroregeneration.
+
+Plasmalogens, the Vinyl Ether-Linked Glycerophospholipids, Enhance Learning and Memory by Regulating Brain-Derived Neurotrophic Factor
+
+Number of 
+
+Key takeaways:Plasmalogens enhance learning and memory in mice by regulating brain-derived neurotrophic factor expression in the hippocampus.
+
+Abstract:Plasmalogens (Pls), a kind of glycerophospholipids, have shown potent biological effects but their role in hippocampus-dependent memory remained mostly elusive. Here, we first report Pls can enhance endogenous expression of brain-derived neurotrophic factor (Bdnf) in the hippocampus and promotes neurogenesis associated with improvement of learning and memory in mice. Genomic and proteomic studies revealed that Pls enhanced recruitment of CREB transcription factor onto the murine Bdnf promoter region via upregulating ERK-Akt signaling pathways in neuronal cells. Reduction of endogenous Pls in murine hippocampus significantly reduced learning and memory associated with the reduction of memory-related protein expression, suggesting that Pls can regulate memory-related gene expression in the hippocampus.
+
+Plasmalogens and Alzheimer’s disease: a review
+
+Number of 
+
+Key takeaways:Plasmalogens may have potential therapeutic benefits in Alzheimer's disease by reducing -amyloid synthesis and preventing neuronal cell death.
+
+Abstract:Growing evidence suggests that ethanolamine plasmalogens (PlsEtns), a subtype of phospholipids, have a close association with Alzheimer’s disease (AD). Decreased levels of PlsEtns have been commonly found in AD patients, and were correlated with cognition deficit and severity of disease. Limited studies showed positive therapeutic outcomes with plasmalogens interventions in AD subjects and in rodents. The potential mechanisms underlying the beneficial effects of PlsEtns on AD may be related to the reduction of γ–secretase activity, an enzyme that catalyzes the synthesis of β-amyloid (Aβ), a hallmark of AD. Emerging in vitro evidence also showed that PlsEtns prevented neuronal cell death by enhancing phosphorylation of AKT and ERK signaling through the activation of orphan G-protein coupled receptor (GPCR) proteins. In addition, PlsEtns have been found to suppress the death of primary mouse hippocampal neuronal cells through the inhibition of caspase-9 and caspase-3 cleavages. Further in-depth investigations are required to determine the signature molecular species of PlsEtns associated with AD, hence their potential role as biomarkers. Clinical intervention with plasmalogens is still in its infancy but may have the potential to be explored for a novel therapeutic approach to correct AD pathology and neural function.
+
+Oral ingestion of plasmalogens can attenuate the LPS-induced memory loss and microglial activation.
+
+Number of 
+
+Key takeaways:Oral ingestion of plasmalogens can inhibit memory loss and microglial activation in Alzheimer's disease mice, suggesting it may improve cognition in Alzheimer's patients.
+
+KIT-13, a novel plasmalogen derivative, attenuates neuroinflammation and amplifies cognition
+
+Number of 
+
+Key takeaways:KIT-13, a novel plasmalogen derivative, effectively reduces neuroinflammation and enhances cognition, making it a promising therapeutic candidate for neurodegenerative conditions like Alzheimer's disease.
+
+Abstract:Plasmalogens (Pls) are specialized phospholipids integral to brain health, whose decline due to aging and stress contributes to cognitive impairment and neuroinflammation. This study explores the potential of a novel Pls derivative, KIT-13 (1-O-octadecyl-2-arachidonoyl-sn-glycerol-3-phosphoethanolamine), in mitigating neuroinflammation and enhancing cognition. When administered to mice, KIT-13 exhibited potent memory enhancement attributed to upregulated brain-derived neurotrophic factor (BDNF), a key player in cognitive processes. In vitro experiments with neuronal cells revealed KIT-13’s ability to induce robust cellular signaling, surpassing natural plasmalogens. KIT-13 also promoted neurogenesis and inhibited apoptosis of neuronal-like cells, highlighting its potential in fostering neuronal growth and plasticity. Additionally, KIT-13 treatments reduced pro-inflammatory cytokine expression and attenuated glial activation in the brain. KIT-13’s superior efficacy over natural Pls positions it as a promising therapeutic candidate for neurodegenerative conditions such as Alzheimer’s disease, characterized by cognitive decline and neuroinflammation. This study presents KIT-13 as an innovative approach for addressing cognitive impairment and neuroinflammatory pathologies.
+
+Plasmalogens Improve Lymphatic Clearance of Amyloid Beta from Mouse Brain and Cognitive Functions
+
+Number of 
+
+Key takeaways:Plasmalogens improve lymphatic clearance of amyloid beta from the brain and cognitive functions in aged mice with Alzheimer's disease, suggesting potential as an alternative or concomitant therapy for Alzheimer's and age-related brain diseases.
+
+Abstract:Amyloid beta (Aβ) is a neuronal metabolic product that plays an important role in maintaining brain homeostasis. Normally, intensive brain Aβ formation is accompanied by its effective lymphatic removal. However, the excessive accumulation of brain Aβ is observed with age and during the development of Alzheimer’s disease (AD) leading to cognitive impairment and memory deficits. There is emerging evidence that plasmalogens (Pls), as one of the key brain lipids, may be beneficial for AD and cognitive aging. Here, we studied the effects of Pls on cognitive functions and the lymphatic clearance of Aβ from the brain of AD mice and mice of different ages. The results showed that Pls effectively reduce brain Aβ levels and facilitate learning in aged but not old mice. In AD mice, Pls improve the lymphatic clearance of Aβ that is accompanied by an increase in general motor activity and an improvement of the emotional status and learning ability. Thus, these findings suggest that Pls could be a promising candidate for the alternative or concomitant therapy of AD and age-related brain diseases to enhance the lymphatic clearance of Aβ from the brain and cognitive functions.
+
+Targeted Plasmalogen Supplementation: Effects on Blood Plasmalogens, Oxidative Stress Biomarkers, Cognition, and Mobility in Cognitively Impaired Persons
+
+Number of 
+
+Key takeaways:DHA-AAG supplementation can improve cognition and mobility in cognitively impaired individuals, with no adverse reactions observed at all doses.
+
+Abstract:Plasmalogens are a specific type of glycerophospholipid found in especially high levels in neuronal membranes. Decreased blood and brain levels of docosahexaenoic acid (DHA) containing plasmalogens are associated with decreased cognition and neuromuscular function in humans. Administration of 1-O-alkyl-2-acylglycerol (AAG) plasmalogen precursors containing DHA at the sn-2 position dose-dependently increase blood DHA plasmalogens and are neuroprotective in animal models of neurodegeneration at doses between 10 and 50 mg/kg. We conducted an investigational clinical trial in 22 cognitively impaired persons to evaluate the effects of an escalating oral dosing regimen of DHA-AAG from 900 to 3,600 mg/day over a 4-month period on blood serum plasmalogen and non-plasmalogen phospholipids and oxidative stress biomarkers. Safety, tolerability and therapeutic effects on cognition and mobility were also evaluated. DHA plasmalogen levels increased with increasing dose and remained significantly elevated at all treatment doses and durations. DHA plasmalogen levels were positively associated with catalase activity and negatively associated with malondialdehyde (MDA) levels. DHA-AAG supplementation normalized catalase activity in persons with low baseline catalase activity, normalized MDA levels in persons with high baseline MDA levels, and normalized superoxide dismutase activity in persons with high baseline SOD activity. Cognition improved in nine participants, was unchanged in nine, and declined in four. Mobility improved in twelve, was unchanged in five and declined in four participants. Changes in cognition and mobility were statistically significant versus a random outcome. Baseline DHA-plasmalogen levels were not predictive of clinical response. DHA-AAG was well tolerated at all dosages and no adverse reactions were observed.
+
+Dietary Lipid Intervention in the Prevention of Brain Aging
+
+Number of 
+
+Key takeaways:Supplementing with phospholipids, particularly plasmalogen, can help prevent brain aging and cognitive impairment.
+
+Plasmalogen in the brain: Effects on cognitive functions and behaviors attributable to its properties
+
+Number of 
+
+Key takeaways:Plasmalogen deficiency in the brain leads to cognitive disturbances and aberrant behaviors, suggesting potential for remedial therapies in neurological, psychiatric, and developmental disorders.
+
+Plasmalogens inhibit neuroinflammation and promote cognitive function
+
+Number of 
+
+Key takeaways:Plasmalogens, a type of phospholipid, enhance memory and reduce neuroinflammation in the brain, potentially playing a key role in Alzheimer's disease.
+
+Efficacy and Blood Plasmalogen Changes by Oral Administration of Plasmalogen in Patients with Mild Alzheimer's Disease and Mild Cognitive Impairment: A Multicenter, Randomized, Double-blind, Placebo-controlled Trial
+
+Number of 
+
+Key takeaways:Oral administration of scallop-derived purified plasmalogens may improve cognitive functions in patients with mild Alzheimer's disease and mild cognitive impairment.
+
+Biological Functions of Plasmalogens.
+
+Number of 
+
+Key takeaways:Plasmalogens exhibit beneficial biological activities, including prevention of neuroinflammation, cognitive improvement, and inhibition of neuronal cell death, with potential therapeutic potential in neurodegenerative diseases.
+
+Abstract:Plasmalogens (Pls) are one kind of phospholipids enriched in the brain and other organs. These lipids were thought to be involved in the membrane bilayer formation and anti-oxidant function. However, extensive studies revealed that Pls exhibit various beneficial biological activities including prevention of neuroinflammation, improvement of cognitive function, and inhibition of neuronal cell death. The biological activities of Pls were associated with the changes in cellular signaling and gene expression. Membrane-bound GPCRs were identified as possible receptors of Pls, suggesting that Pls might function as ligands or hormones. Aging, stress, and inflammatory stimuli reduced the Pls contents in cells, and addition of Pls inhibited inflammatory processes, which could suggest that reduction of Pls might be one of the risk factors for the diseases associated with inflammation. Oral ingestion of Pls showed promising health benefits among Alzheimer’s disease (AD) patients, suggesting that Pls might have therapeutic potential in other neurodegenerative diseases.
+
+Plasmalogens Activate AKT/mTOR Signaling to Attenuate Reactive Oxygen Species Production in Spinal Cord Injury.
+
+Number of 
+
+Key takeaways:Plasmalogens reduce reactive oxygen species levels and promote neuroprotection in spinal cord injury by activating the AKT/mTOR signaling pathway.
+
+Abstract:BACKGROUND
+Plasmalogens, the primary phospholipids in the brain, possess intrinsic antioxidant properties and are crucial components of the myelin sheath surrounding neuronal axons. While their neuroprotective effects have been demonstrated in Alzheimer's disease, their potential benefits in spinal cord injury remain unexplored. This study investigates the reparative effects of plasmalogens on spinal cord injury and the underlying mechanisms.
+
+METHODS
+In vitro, we developed dorsal root ganglion (DRG) and RAW 264.7 cell models under high-reactive oxygen species (ROS) conditions to assess ROS levels, neuronal damage, and inflammatory microenvironment changes before and after plasmalogen application. In vivo, we used a complete mouse spinal cord transection model to evaluate changes in ROS levels, neuronal demyelination, and apoptosis following plasmalogen treatment. Additionally, we assessed sensory and motor function recovery and investigated the regulatory effects of plasmalogens on the AKT/mTOR signaling pathway.
+
+RESULTS
+In high-ROS cell models, plasmalogens protected DRG neurons (TUJ-1) from axonal damage and modulated the proinflammatory/anti-inflammatory balance in RAW 264.7 cells. In vivo, plasmalogens significantly reduced ROS levels, improved the immune microenvironment, decreased the proinflammatory (iNOS)/anti-inflammatory (ARG-1) ratio, lowered neuronal (TUJ-1) apoptosis (Caspase-3, BAX), and reduced axonal degeneration while promoting myelin (MBP) regeneration, indicating a neuroprotective effect. These findings are linked to the activation of the AKT/mTOR signaling pathway.
+
+CONCLUSION
+Plasmalogens reduce ROS levels and regulate inflammation-induced damage, contributing to neuroprotection. This study reveals that plasmalogens promote remyelination, reduce axonal degeneration and neuronal apoptosis, and-used here for the first time in spinal cord injury repair- may protect neurons by reducing ROS levels and activating the AKT/mTOR signaling pathway.
+
+Orally Administered Plasmalogens Alleviate Negative Mood States and Enhance Mental Concentration: A Randomized, Double-Blind, Placebo-Controlled Trial
+
+Number of 
+
+Key takeaways:Orally administered plasmalogens can alleviate negative mood states and sleep problems, and enhance mental concentration in college athletes.
+
+Abstract:Background: Plasmalogens have been shown to improve neurodegenerative pathology and cognitive function. We hypothesized that plasmalogens work in small amounts as a kind of hormone interacting with a G protein-coupled receptor, and then explored the effects of scallop-derived purified plasmalogens on psychobehavioral conditions in a randomized placebo-controlled trial of college athletes in Japan. Methods and materials: Eligible participants were male students aged 18–22 years who belonged to university athletic clubs. They were randomly allocated to either plasmalogen (2 mg per day) or placebo treatment of 4 weeks’ duration. The primary outcome was the T-score of the Profile of Mood States (POMS) 2–Adult Short, and the secondary outcomes included the seven individual scales of the POMS 2, other psychobehavioral measures, physical performance, and laboratory measurements. The trial was registered at the Japan Registry of Clinical Trials (jRCTs071190028). Results: Forty participants (20 in the plasmalogen group and 20 in the placebo group) completed the 4-week treatment. The Total Mood Disturbance (TMD) score of the plasmalogen group showed a greater decrease at 4 weeks than that of the placebo group while the between-group difference was marginally significant (p = 0.07). The anger-hostility and fatigue-inertia scores of the POMS 2 decreased significantly in the plasmalogen group, but not in the placebo group, at 4 weeks. Between-group differences in those scores were highly significant (p = 0.003 for anger-hostility and p = 0.005 for fatigue-inertia). The plasmalogen group showed a slight decrease in the Athens Insomnia Scale at 2 weeks, and the between-group difference was near-significant (p = 0.07). The elapsed time in minute patterns on the Uchida-Kraepelin test, which is a marker of mental concentration, revealed significantly greater performance in the plasmalogen group than in the placebo group. There were no between-group differences in physical and laboratory measurements. Conclusion: It is suggested that orally administered plasmalogens alleviate negative mood states and sleep problems, and also enhance mental concentration.
+
+Plasmalogens: A potential therapeutic target for neurodegenerative and cardiometabolic disease.
+
+Number of 
+
+Key takeaways:Plasmalogen modulation shows potential as a therapeutic strategy to prevent or slow the progression of neurodegenerative and cardiometabolic diseases.
+
+The biophysical properties of plasmalogens originating from their unique molecular architecture
+
+Number of 
+
+Key takeaways:Plasmalogens provide unique structural and dynamical properties to cell membranes, but their physiological roles and their association with brain disorders remain unclear.
+
+Abstract:Plasmalogens are a unique class of phospholipids that are present in many organisms. Their presence in cell membranes has intrigued researchers for decades due to their unique molecular structure, namely the vinyl‐ether bond at the sn‐1 position, and their association with brain related disorders. Apparently, based on their amount in the cell membranes, their function is to provide exclusive structural and dynamical properties to these complex molecular assemblies. Yet, many of their physiological roles manifested through their biophysical properties have been challenging to identify. In this review, the biophysical properties of plasmalogens are discussed and compared to other lipid species. The role of plasmalogens is examined in the context of cell membrane function, and some future directions are given.
+
+Plasmalogen Profiling in Porcine Brain Tissues by LC-MS/MS
+
+Number of 
+
+Key takeaways:Porcine brain products contain abundant plasmalogens, with potential for health-beneficial health food products, and industrial production processes do not significantly affect their content.
+
+Abstract:Plasmalogen, a functional glycerophospholipid, is known for its beneficial nutritional effects, such as anti-oxidation and anti-inflammation. As the porcine brain is a plasmalogen-rich resource, this study aimed to explore its potential for plasmalogen-based health food product development, with special attention on whether and how the industrial production processes influence the plasmalogen content and composition. In the present work, plasmalogens from different porcine brain products were investigated using liquid chromatography–tandem mass spectrometry. The results indicated that all the porcine brain products showed abundant total plasmalogens, of which more than 95% were ethanolamine plasmalogen species. Acetone precipitation, ethanol extraction, and drying did not significantly affect the plasmalogen content, whereas repeated freeze-thaw cycles in the production process led to noticeable loss. The chemometric investigation suggested that raw products and glycerophospholipid products exhibited different profiles; furthermore, the concentration step seemed to impact the plasmalogen composition. The nutritional assessment revealed that porcine brain products showed favorable values of multiple indexes, including PUFA/SFA ratio, n-6/n-3 ratio, thrombogenicity index, and unsaturation index, suggesting a health-beneficial value. The current study not only shows the feasibility of producing porcine brain-derived plasmalogens, but also provides possible strategies for developing and quality-controlling dietary plasmalogen supplements and healthcare products.
+
+ASSOCIATION OF SERUM-BASED PLASMALOGENS WITH NEUROIMAGING AND GENETIC VARIATION IN ALZHEIMER’S DISEASE
+
+Number of 
+
+Key takeaways:Plasmalogen indices are significantly associated with Alzheimer's disease neuroimaging biomarkers and genetic variation, suggesting a potential link between plasmalogens and brain atrophy and glucose metabolism.
+
+Determination of Plasmalogen Molecular Species in Hen Eggs
+
+Number of 
+
+Key takeaways:Hen eggs contain more plasmalogens in egg yolk than egg white, with humans likely ingesting 0.3 mg of total plasmalogens from one hen egg.
+
+Abstract:(1) Background: Plasmalogens are vinyl ether-type glycerophospholipids that are characteristically distributed in neural tissues and are significantly reduced in the brains of individuals with dementia compared to those in healthy subjects, suggesting a link between plasmalogen deficiency and cognitive decline. Hen eggs are expected to be a potential 
+
+A novel inducible animal model for studying chronic plasmalogen deficiency associated with Alzheimer’s disease
+
+Number of 
+
+Key takeaways:This study developed a novel mouse model with tamoxifen-induced plasmalogen deficiency, which can help study the role of plasmalogens in Alzheimer's disease and evaluate potential therapies.
+
+Plasmalogens in Innate Immune Cells: From Arachidonate Signaling to Ferroptosis
+
+Number of 
+
+Key takeaways:Plasmalogens play a diverse role in innate immune cell signaling, affecting plasma membrane fluidity, signal transduction, and ferroptosis execution.
+
+Abstract:Polyunsaturated fatty acids such as arachidonic acid are indispensable components of innate immune signaling. Plasmalogens are glycerophospholipids with a vinyl ether bond in the sn-1 position of the glycerol backbone instead of the more common sn-1 ester bond present in “classical” glycerophospholipids. This kind of phospholipid is particularly rich in polyunsaturated fatty acids, especially arachidonic acid. In addition to or independently of the role of plasmalogens as major providers of free arachidonic acid for eicosanoid synthesis, plasmalogens also perform a varied number of functions. Membrane plasmalogen levels may determine parameters of the plasma membrane, such as fluidity and the formation of microdomains that are necessary for efficient signal transduction leading to optimal phagocytosis by macrophages. Also, plasmalogens may be instrumental for the execution of ferroptosis. This is a nonapoptotic form of cell death that is associated with oxidative stress. This review discusses recent data suggesting that, beyond their involvement in the cellular metabolism of arachidonic acid, the cells maintain stable pools of plasmalogens rich in polyunsaturated fatty acids for executing specific responses.
+
+Plasmalogens and platelet‐activating factor roles in chronic inflammatory diseases
+
+Number of 
+
+Key takeaways:Plasmalogens and platelet-activating factor play crucial roles in chronic inflammatory diseases, and plasmalogen replacement therapy shows promise for treating PAF-related chronic inflammatory pathologies.
+
+Abstract:Fatty acids and phospholipid molecules are essential for determining the structure and function of cell membranes, and they hence participate in many biological processes. Platelet activating factor (PAF) and its precursor plasmalogen, which represent two subclasses of ether phospholipids, have attracted increasing research attention recently due to their association with multiple chronic inflammatory, neurodegenerative, and metabolic disorders. These pathophysiological conditions commonly involve inflammatory processes linked to an excess presence of PAF and/or decreased levels of plasmalogens. However, the molecular mechanisms underlying the roles of plasmalogens in inflammation have remained largely elusive. While anti‐inflammatory responses most likely involve the plasmalogen signal pathway; pro‐inflammatory responses recruit arachidonic acid, a precursor of pro‐inflammatory lipid mediators which is released from membrane phospholipids, notably derived from the hydrolysis of plasmalogens. Plasmalogens per se are vital membrane phospholipids in humans. Changes in their homeostatic levels may alter cell membrane properties, thus affecting key signaling pathways that mediate inflammatory cascades and immune responses. The plasmalogen analogs of PAF are also potentially important, considering that anti‐PAF activity has strong anti‐inflammatory effects. Plasmalogen replacement therapy was further identified as a promising anti‐inflammatory strategy allowing for the relief of pathological hallmarks in patients affected by chronic diseases with an inflammatory component. The aim of this Short Review is to highlight the emerging roles and implications of plasmalogens in chronic inflammatory disorders, along with the promising outcomes of plasmalogen replacement therapy for the treatment of various PAF‐related chronic inflammatory pathologies.
+
+Plasmalogens and Chronic Inflammatory Diseases
+
+Number of 
+
+Key takeaways:Plasmalogens play a key role in chronic inflammatory disorders and restoring their levels through plasmalogen replacement therapy shows promise in treating these diseases.
+
+Abstract:It is becoming widely acknowledged that lipids play key roles in cellular function, regulating a variety of biological processes. Lately, a subclass of glycerophospholipids, namely plasmalogens, has received increased attention due to their association with several degenerative and metabolic disorders as well as aging. All these pathophysiological conditions involve chronic inflammatory processes, which have been linked with decreased levels of plasmalogens. Currently, there is a lack of full understanding of the molecular mechanisms governing the association of plasmalogens with inflammation. However, it has been shown that in inflammatory processes, plasmalogens could trigger either an anti- or pro-inflammation response. While the anti-inflammatory response seems to be linked to the entire plasmalogen molecule, its pro-inflammatory response seems to be associated with plasmalogen hydrolysis, i.e., the release of arachidonic acid, which, in turn, serves as a precursor to produce pro-inflammatory lipid mediators. Moreover, as plasmalogens comprise a large fraction of the total lipids in humans, changes in their levels have been shown to change membrane properties and, therefore, signaling pathways involved in the inflammatory cascade. Restoring plasmalogen levels by use of plasmalogen replacement therapy has been shown to be a successful anti-inflammatory strategy as well as ameliorating several pathological hallmarks of these diseases. The purpose of this review is to highlight the emerging role of plasmalogens in chronic inflammatory disorders as well as the promising role of plasmalogen replacement therapy in the treatment of these pathologies.
+
+Spontaneous Generation of an Endogenous RORγt Agonist
+
+Number of 
+
+Key takeaways:The study demonstrates a plasmalogen-based pathway for spontaneous generation of an endogenous RORt agonist, providing a mechanism for immune signaling with both spatial and temporal control.
+
+Abstract:The transcription factor RORγt regulates the development of Th17 cells and their inflammatory cytokine IL-17—a pathway that can both clear bacterial pathogens and drive autoimmune diseases. An endogenous RORγt agonist with a noncanonical structure, a lysophosphatidylethanolamine (1-18:1-LPE or 1), was recently identified, and its identity both increases our understanding of immune regulation and creates options for therapeutic intervention. Compound 1 could be formed directly through enzymatic cleavage of a suitable phosphatidylethanolamine (PE) by a phospholipase A2 (PLA2) or by “triggering” of a suitable plasmalogen with accompanying 1,2-acyl migration from the sn-2 to sn-1 positions of glycerol. This study illustrates the plausibility of a plasmalogen-based pathway through synthesis of the plasmalogen precursor (2) and triggering the plasmalogen’s electron-rich vinyl ether with small electrophiles characteristic of inflammatory and tumor environments to create 1-18:1-LPE (1). The plasmalogen-based pathway is consistent with previous studies on the formation of 1, and it also conforms to Lands rules for acyl chain distribution and provides a mechanism for immune signaling with both spatial and temporal control.
+
+Regulation of Phagocytosis in Macrophages by Membrane Ethanolamine Plasmalogens
+
+Number of 
+
+Key takeaways:Membrane ethanolamine plasmalogen levels determine optimal phagocytic capacity in macrophages, affecting membrane fluidity and microdomain formation.
+
+Abstract:Macrophages, as professional phagocytes of the immune system, possess the ability to detect and clear invading pathogens and apoptotic cells through phagocytosis. Phagocytosis involves membrane reorganization and remodeling events on the cell surface, which play an essential role in innate immunity and tissue homeostasis and the control of inflammation. In this work, we report that cells deficient in membrane ethanolamine plasmalogen demonstrate a reduced capacity to phagocytize opsonized zymosan particles. Amelioration of plasmalogen deficiency in these cells by incubation with lysoplasmalogen results in a significant augmentation of the phagocytic capacity of the cells. In parallel with these increases, restoration of plasmalogen levels in the cells also increases the number and size of lipid rafts in the membrane, reduces membrane fluidity down to levels found in cells containing normal plasmalogen levels, and improves receptor-mediated signaling. Collectively, these results suggest that membrane plasmalogen level determines characteristics of the plasma membrane such as fluidity and the formation of microdomains that are necessary for efficient signal transduction leading to optimal phagocytosis by macrophages.
+
+Plasmalogen-Mediated Activation of GPCR21 Regulates Cytolytic Activity of NK Cells against the Target Cells
+
+Number of 
+
+Key takeaways:Plasmalogens, reduced in elderly individuals, play a critical role in maintaining NK cell function and may contribute to immune deficiency in mammals.
+
+Abstract:It is widely known that the immune system becomes slower to respond among elderly people, making them more susceptible to viral infection and cancer. The mechanism of aging-related immune deficiency remained mostly elusive. In this article, we report that plasmalogens (Pls), special phospholipids found to be reduced among the elderly population, critically control cytolytic activity of human NK cells, which is associated with activation of a cell surface receptor, G protein–coupled receptor 21 (GPCR21). We found the extracellular glycosylation site of GPCR21, which is conserved among the mammalian species, to be critically important for the activation of NK cells by Pls. The Pls-GPCR21 signaling cascade induces the expression of Perforin-1, a cytolytic pore-forming protein, via activation of STAT5 transcription factor. Inhibition of STAT5 abrogates GPCR21-mediated cytolytic activation of NK cells against the target cancer cells. In addition, oral ingestion of Pls inhibited cancer growth in SCID mice and inhibited the systemic spread of murine CMV in adult C57BL/6J mice. These findings advocate that Pls-GPCR21 signaling could be critical in maintaining NK cell function, and that the age-related reduction of this signaling cascade could be one of the factors behind immune deficiency in mammals, including humans. Visual Abstract Key Points Plasmalogen activates GPCR21 to regulate the cytolytic activity of human NK cells. GPCR21 is glycosylated in the NK cells after recognition with the target cells. Oral ingestion of plasmalogen inhibits tumor growth and viral proliferation in mice.
+
+Abstract 1823 Plasmalogen derived products of reactive chlorinating species targeting: A family of bioactive electrophilic lipids
+
+Number of 
+
+Key takeaways:Plasmalogens are targets of reactive oxygen species, leading to the production of chlorinated lipids that have profound effects on neutrophils and endothelium.
+
+Anti-inflammatory/anti-amyloidogenic effects of plasmalogens in lipopolysaccharide-induced neuroinflammation in adult mice
+
+Number of 
+
+Key takeaways:Plasmalogens have anti-neuroinflammatory and anti-amyloidogenic effects, suggesting potential preventive or therapeutic applications against Alzheimer's disease.
+
+Abstract:Abstract Background Neuroinflammation involves the activation of glial cells in neurodegenerative diseases such as Alzheimer’s disease (AD). Plasmalogens (Pls) are glycerophospholipids constituting cellular membranes and play significant roles in membrane fluidity and cellular processes such as vesicular fusion and signal transduction. Methods In this study the preventive effects of Pls on systemic lipopolysaccharide (LPS)-induced neuroinflammation were investigated using immunohistochemistry, real-time PCR methods and analysis of brain glycerophospholipid levels in adult mice. Results Intraperitoneal (i.p.) injections of LPS (250 μg/kg) for seven days resulted in increases in the number of Iba-1-positive microglia and glial fibrillary acidic protein (GFAP)-positive astrocytes in the prefrontal cortex (PFC) and hippocampus accompanied by the enhanced expression of IL-1β and TNF-α mRNAs. In addition, β-amyloid (Aβ 3–16 )-positive neurons appeared in the PFC and hippocampus of LPS-injected animals. The co-administration of Pls (i.p., 20 mg/kg) after daily LPS injections significantly attenuated both the activation of glial cells and the accumulation of Aβ proteins. Finally, the amount of Pls in the PFC and hippocampus decreased following the LPS injections and this reduction was suppressed by co-treatment with Pls. Conclusions These findings suggest that Pls have anti-neuroinflammatory and anti-amyloidogenic effects, thereby indicating the preventive or therapeutic application of Pls against AD.
+
+Potentiating anti-tumor immunity with physical plasma
+
+Number of 
+
+Key takeaways:Cold physical plasmas can boost antitumor immunity by enhancing the immunogenicity of tumor cells and regulating antigen-presenting machinery, potentially targeting distant tumor metastasis in cancer patients.
+
+Plasmalogen Loss in Sepsis and SARS-CoV-2 Infection
+
+Number of 
+
+Key takeaways:Plasmalogens are lost during both sepsis and SARS-CoV-2 infection, suggesting their potential as biomarkers and prognostic indicators for these diseases.
+
+Abstract:Plasmalogens are plasma-borne antioxidant phospholipid species that provide protection as cellular lipid components during cellular oxidative stress. In this study we investigated plasma plasmalogen levels in human sepsis as well as in rodent models of infection. In humans, levels of multiple plasmenylethanolamine molecular species were decreased in septic patient plasma compared to control subject plasma as well as an age-aligned control subject cohort. Additionally, lysoplasmenylcholine levels were significantly decreased in septic patients compared to the control cohorts. In contrast, plasma diacyl phosphatidylethanolamine and phosphatidylcholine levels were elevated in septic patients. Lipid changes were also determined in rats subjected to cecal slurry sepsis. Plasma plasmenylcholine, plasmenylethanolamine, and lysoplasmenylcholine levels were decreased while diacyl phosphatidylethanolamine levels were increased in septic rats compared to control treated rats. Kidney levels of lysoplasmenylcholine as well as plasmenylethanolamine molecular species were decreased in septic rats. Interestingly, liver plasmenylcholine and plasmenylethanolamine levels were increased in septic rats. Since COVID-19 is associated with sepsis-like acute respiratory distress syndrome and oxidative stress, plasmalogen levels were also determined in a mouse model of COVID-19 (intranasal inoculation of K18 mice with SARS-CoV-2). 3 days following infection, lung infection was confirmed as well as cytokine expression in the lung. Multiple molecular species of lung plasmenylcholine and plasmenylethanolamine were decreased in infected mice. In contrast, the predominant lung phospholipid, dipalmitoyl phosphatidylcholine, was not decreased following SARS-CoV-2 infection. Additionally total plasmenylcholine levels were decreased in the plasma of SARS-CoV-2 infected mice. Collectively, these data demonstrate the loss of plasmalogens during both sepsis and SARS-CoV-2 infection. This study also indicates plasma plasmalogens should be considered in future studies as biomarkers of infection and as prognostic indicators for sepsis and COVID-19 outcomes.
+
+Plasmalogens in biological systems: their role in oxidative processes in biological membranes, their contribution to pathological processes and aging and plasmalogen analysis.
+
+Number of 
+
+Key takeaways:Plasmalogens play a role in oxidative processes in biological membranes, contributing to chronic diseases and aging, and their antioxidative function is controversial.
+
+Abstract:Plasmalogens are a specific glycerophospholipid class containing a vinyl ether moiety at the sn-1-position of the glycerol backbone. The high susceptibility of this vinyl ether bond to oxidative damage and traces of acids may indicate the possible function of plasmalogens in biological systems: The regarded cell-internal antioxidative defense of membranes by protecting other phospholipids or lipoprotein particles against oxidative stress is controversial. Reactive oxygen species preferably affect the vinyl ether function as well as the olefinic acyl residues at the sn-2-position of plasmalogens. This review is dedicated to the role of plasmalogens in different cells and tissues as spermatozoal cells or brain tissue. The first chapter of this review will discuss the molecular structure and chemistry of plasmalogen molecules, their distributions in cells and tissues and the species-specificity. In the second chapter their functions as lipid mediators will be considered and the controversial antioxidative function will be discussed. The supposed function of plasmalogens as "scavengers" for reactive oxygen species (ROS) in biological membranes is challenged by the finding that plasmalogen oxidation products as alpha-hydroxyaldehydes and plasmalogen epoxides accumulate in all chronic diseases as atherosclerosis and myocardial infarction, upon aging as well as in Alzheimers disease and other neuropathological conditions. All these conditions, characterized by increased membrane instability and oxidative damage, will be reviewed in chapter three. Chronically proceeding processes can be described by permanently invading polymorphonuclear neutrophils into inflammatory loci. The degranulation of the azurophilic granula in polymorphonuclear leukocytes causes the release of highly reactive substances, for instance the myeloperoxidase-generated hypochlorous acid (HOCl) acting as effective oxidant. Therefore, special attention will be paid to neutrophil-derived HOCl. The last chapter deals with currently used methods of detecting plasmalogens and their degradation products. Although chromatographic methods will be also discussed, special attention will be given to (31)P NMR spectroscopy and soft ionization techniques of mass spectrometry as electrospray ionization or matrix-assisted laser desorption and ionization time-of-flight mass spectrometry.
+
+Cold Physical Plasma in Cancer Therapy: Mechanisms, Signaling, and Immunity
+
+Number of 
+
+Key takeaways:Cold physical plasma treatment induces cancer cell death and promotes immune responses, potentially improving cancer treatment by activating the immune system.
+
+Abstract:Despite recent advances in therapy, cancer still is a devastating and life-threatening disease, motivating novel research lines in oncology. Cold physical plasma, a partially ionized gas, is a new modality in cancer research. Physical plasma produces various physicochemical factors, primarily reactive oxygen and nitrogen species (ROS/RNS), causing cancer cell death when supplied at supraphysiological concentrations. This review outlines the biomedical consequences of plasma treatment in experimental cancer therapy, including cell death modalities. It also summarizes current knowledge on intracellular signaling pathways triggered by plasma treatment to induce cancer cell death. Besides the inactivation of tumor cells, an equally important aspect is the inflammatory context in which cell death occurs to suppress or promote the responses of immune cells. This is mainly governed by the release of damage-associated molecular patterns (DAMPs) to provoke immunogenic cancer cell death (ICD) that, in turn, activates cells of the innate immune system to promote adaptive antitumor immunity. The pivotal role of the immune system in cancer treatment, in general, is highlighted by many clinical trials and success stories on using checkpoint immunotherapy. Hence, the potential of plasma treatment to induce ICD in tumor cells to promote immunity targeting cancer lesions systemically is also discussed.
+
+Potential Role of Plasmalogens in the Modulation of Biomembrane Morphology
+
+Number of 
+
+Key takeaways:Plasmalogens play a crucial role in determining biomembrane properties and may play a role in modulating biomembrane morphology, potentially impacting membrane transformation and vesicle formation.
+
+Abstract:Plasmalogens are a subclass of cell membrane glycerophospholipids that typically include vinyl- ether bond at the sn-1 position and polyunsaturated fatty acid at the sn-2 position. They are highly abundant in the neuronal, immune, and cardiovascular cell membranes. Despite the abundance of plasmalogens in a plethora of cells, tissues, and organs, the role of plasmalogens remains unclear. Plasmalogens are required for the proper function of integral membrane proteins, lipid rafts, cell signaling, and differentiation. More importantly, plasmalogens play a crucial role in the cell as an endogenous antioxidant that protects the cell membrane components such as phospholipids, unsaturated fatty acids, and lipoproteins from oxidative stress. The incorporation of vinyl-ether linked with alkyl chains in phospholipids alter the physicochemical properties (e.g., the hydrophilicity of the headgroup), packing density, and conformational order of the phospholipids within the biomembranes. Thus, plasmalogens play a significant role in determining the physical and chemical properties of the biomembrane such as its fluidity, thickness, and lateral pressure of the biomembrane. Insights on the important structural and functional properties of plasmalogens may help us to understand the molecular mechanism of membrane transformation, vesicle formation, and vesicular fusion, especially at the synaptic vesicles where plasmalogens are rich and essential for neuronal function. Although many aspects of plasmalogen phospholipid involvement in membrane transformation identified through in vitro experiments and membrane mimic systems, remain to be confirmed in vivo, the compiled data show many intriguing properties of vinyl-ether bonded lipids that may play a significant role in the structural and morphological changes of the biomembranes. In this review, we present the current limited knowledge of the emerging potential role of plasmalogens as a modulator of the biomembrane morphology.
+
+The biological significance of plasmalogens in defense against oxidative damage
+
+Number of 
+
+Key takeaways:Plasmalogens serve as endogenous antioxidants, protecting cells from oxidative damage and reducing oxidative stress in various conditions.
+
+Plasmalogens in human serum positively correlate with high- density lipoprotein and decrease with aging.
+
+Number of 
+
+Key takeaways:Plasmalogens, antioxidant phospholipids, positively correlate with high-density lipoprotein (HDL) and decrease with aging, making their measurement useful in clinical diagnosis.
+
+Abstract:AIM
+The objective of the present study was to propose plasmalogens as a beneficial factor in human plasma by showing a highly positive correlation with high-density lipoprotein (HDL) and a significant reduction with aging.
+
+METHODS
+For 148 elderly subjects suspected of coronary artery disease (CAD), clinical characteristics such as coronary stenosis, hyperlipidemia, abnormal glucose tolerance, and hypertension were investigated, and serum biochemical markers including plasmalogens were determined.
+
+RESULTS
+Serum plasmalogens levels tended to fall in significant coronary stenosis and abnormal glucose tolerance. Correlative analyses among serum biochemical markers revealed that plasmalogens positively correlate with HDL-related values, particularly apolipoprotein A-I (apo A-I), and that the molar ratio of choline plasmalogen (ChoPlas) to ethanolamine plasmalogen (EtnPlas) correlates positively with low-density lipoprotein (LDL) particle size, and negatively with apo A-II and fasting triglyceride (TG) levels. Comparison of plasmalogens in elderly subjects with those of 119 healthy young subjects showed a marked decrease in serum plasmalogens levels by aging.
+
+CONCLUSION
+These results suggest that serum plasmalogens, antioxidant phospholipids, function as a beneficial factor as well as HDL, and that the measurement of serum plasmalogens is useful in clinical diagnosis.
+
+Plasmalogen modulation attenuates atherosclerosis in ApoE- and ApoE/GPx1-deficient mice.
+
+Number of 
+
+Key takeaways:Plasmalogen enrichment via batyl alcohol supplementation effectively reduces atherosclerosis in ApoE- and ApoE/GPx1-deficient mice, potentially offering a viable therapeutic strategy to prevent cardiovascular disease risk.
+
+Development and validation of a plasmalogen score as an independent modifiable marker of metabolic health: population based observational studies and a placebo-controlled cross-over study
+
+Number of 
+
+Key takeaways:The plasmalogen score (Pls Score) is an independent modifiable marker of metabolic health, inversely related to cardiometabolic risk and all-cause mortality, and associated with diet and lifestyle habits.
+
+An optimized plasmalogen modulating dietary supplement provides greater protection in a male than female mouse model of dilated cardiomyopathy
+
+Number of 
+
+Key takeaways:An optimized plasmalogen modulating dietary supplement shows greater therapeutic potential in males than females for restoring plasmalogen levels and preventing cardiac dysfunction in dilated cardiomyopathy mice.
+
+Mid-Life Plasmalogens and Other Metabolites with Anti-Inflammatory Properties are Inversely Associated with Long term Cardiovascular Disease Events: Heart SCORE Study
+
+Number of 
+
+Key takeaways:Higher mid-life levels of plasmalogens, amino acid metabolites, and a bilirubin degradation product are associated with lower risk of late-life atherosclerotic cardiovascular disease events.
+
+Abstract:Background: Preclinical data have shown that low levels of plasmalogens and other metabolites with anti-inflammatory properties may impact metabolic disease processes. However, the association between mid-life levels of such metabolites and late-life atherosclerotic cardiovascular disease (ASCVD) is not known. Methods: We characterized the midlife plasma metabolomic profile (1,228 metabolites) of 1,852 participants (age 58.1 +/- 7.5 years, 69.6% female, 43.6% self-identified as Black) enrolled in the Heart Strategies Concentrating on Risk Evaluation (Heart SCORE) study. Participants were followed for ~16 years for incident ASCVD events (nonfatal MI, acute ischemic syndrome, coronary revascularization and ASCVD mortality). We used regression model to assess associations of metabolites with ASCVD events. We assessed the impact of genetic variants using whole-exome sequencing with single-variant analysis for common variants and gene-based burden tests for rare variants. We used unbiased and candidate gene approaches to explore genetic associations with metabolites found to be associated with ASCVD events. Results: A total of twelve metabolites were independently associated with incident ASCVD in fully adjusted models over a mean of 10.4 years. A subset of plasmalogens showed an independent inverse association with incident ASCVD events . Metabolome-wide genetic analysis revealed that two of these plasmalogen metabolites were strongly influenced by polymorphisms of the rs174535, an eQTL for FADS1 and FADS2 genotype. Two amino acid metabolites (2-oxoarginine , alpha-ketobutyrate ) and a bilirubin degradation product (C16H18N2O5 [OR, 0.50; 95% CI, 0.38-0.66) were inversely associated with ASCVD events. Conclusions: Higher mid-life levels of three plasmalogens, two amino acid metabolites, and a bilirubin degradation product, all of which have anti-inflammatory properties, are associated with lower risk of late-life ASCVD events. Further research is needed to determine whether these metabolites play a causal role in ASCVD and may be a target for future therapies.
+
+Plasmalogens Alter the Aggregation Rate of Transthyretin and Lower Toxicity of Transthyretin Fibrils
+
+Number of 
+
+Key takeaways:Choline plasmalogens with different fatty acids significantly suppress transthyretin aggregation and lower the cytotoxicity of TTR fibrils, potentially benefiting patients with transthyretin amyloid cardiomyopathy.
+
+Abstract:Heart tissue can experience a progressive accumulation of transthyretin (TTR), a small four subunit protein that transports holoretinol binding protein and thyroxine. This severe pathology is known as transthyretin amyloid cardiomyopathy. Numerous experimental studies indicated that the aggregation rate and toxicity of TTR fibrils could be altered by the presence of lipids; however, the role of plasmalogens in this process remains unknown. In this study, we investigate the effect of choline plasmalogens (CPs) with different lengths and saturations of fatty acids (FAs) on TTR aggregation. We found that CPs with saturated and unsaturated FAs strongly suppressed TTR aggregation. We also found that CPs with saturated FAs did not change the morphology of TTR fibrils; however, much thicker fibrillar species were formed in the presence of CPs with unsaturated FAs. Finally, we found that CPs with C16:0, C18:0, and C18:1 FAs substantially lowered the cytotoxicity of TTR fibrils that were formed in their presence.
+
+Therapeutic Efficacy of Plasmalogens for Alzheimer's Disease, Mild Cognitive Impairment, and Parkinson's Disease in Conjunction with a New Hypothesis for the Etiology of Alzheimer's Disease.
+
+Number of 
+
+Key takeaways:Orally administered plasmalogens significantly improve cognitive function and symptoms in mild cognitive impairment, Alzheimer's disease, and Parkinson's disease, suggesting a potential biomarker for assessing Alzheimer's disease severity.
+
+Abstract:It has been reported in recent years that blood levels of plasmalogens (Pls) are decreased in various diseases. None of those reports, however, conducted any clinical trials to examine the effect of Pls on those diseases. This article describes our recent report on a therapeutic efficacy of orally administered Pls in mild cognitive impairment (MCI), mild to severe Alzheimer’s disease (AD), and Parkinson’s disease (PD). A 24-week, multicenter, randomized, double-blind, placebo-controlled trial was performed in patients with MCI (n = 178) and mild AD (n = 98). The study design for moderate AD (n = 57) and severe AD (n = 18) was 12-week open-labeled, and the design for patients with PD (n = 10) was 24-week open-labeled. They showed a significant improvement in cognitive function and other clinical symptoms with elevation of the blood Pls levels. No adverse events were reported. The baseline levels of plasma ethanolamine plasmalogen and erythrocyte ethanolamine plasmalogen in MCI, AD, and PD were significantly lower than those of normal aged. The degree of reduction in the blood Pls levels was in the order of MCI ≺ mild AD ≺ moderate AD ≺ severe AD ≺ PD. The findings suggest that the blood levels of Pls may be a beneficial biomarker for assessing AD severity. Based on these results, we have proposed a new hypothesis for the etiology of AD and other neuropsychiatric disorders.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

@@ -1,0 +1,374 @@
+PROTOCOL: Extreme diet monotony
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: A monotonous diet, consisting of long-term consumption of the same foods, results in a decrease in the diversity of nutrients and gut microbiota. The lack of dietary variety weakens immune mechanisms, promotes inflammation, and increases the risk of metabolic disorders and gastrointestinal diseases. Maintaining such a diet over a longer period can lead to chronic health problems, even though negative effects may develop slowly and depend on other lifestyle factors.
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: A monotonous diet, consisting of long-term consumption of the same foods, results in a decrease in the diversity of nutrients and gut microbiota. The lack of dietary variety weakens immune mechanisms, promotes inflammation, and increases the risk of metabolic disorders and gastrointestinal diseases. Maintaining such a diet over a longer period can lead to chronic health problems, even though negative effects may develop slowly and depend on other lifestyle factors.
+
+CONTENT SECTIONS:
+
+Extreme diet monotony
+
+A one-sided dietary pattern leading to disturbances in the microbiota, immunity, and gut health
+
+A monotonous diet, consisting of long-term consumption of the same foods, results in a decrease in the diversity of nutrients and gut microbiota. The lack of dietary variety weakens immune mechanisms, promotes inflammation, and increases the risk of metabolic disorders and gastrointestinal diseases. Maintaining such a diet over a longer period can lead to chronic health problems, even though negative effects may develop slowly and depend on other lifestyle factors.
+
+Level of evidence:Good
+
+A monotonous diet limits the supply of vitamins, minerals, fiber, and bioactive compounds, leading to nutritional deficiencies and disrupting the body's homeostasis. The lack of diversity in nutrients promotes unfavorable changes in the gut microbiota, which may impair the integrity of the gut barrier and weaken immunity. Impoverished microbiota and nutritional deficiencies intensify inflammation and increase the risk of metabolic diseases and gastrointestinal disorders. These effects can accumulate over time, leading to chronic health problems.
+
+Extreme monotony in the diet is an eating pattern based on a limited number of products over a long period. Numerous studies indicate that such a diet leads to disturbances in gut microbiota, increases the risk of inflammation, and can weaken immunity. Health effects include a higher risk of metabolic disorders, chronic gastrointestinal problems, and long-term weakening of the body's overall condition.
+
+Extremely monotonous diets are most common in populations with limited access to fresh and diverse food, but may also occur in developed countries among people with improper eating habits or restrictive elimination diets. This phenomenon leads to an increased incidence of immune problems and gastrointestinal disorders.
+
+Introduce gradual variety
+
+Change the composition of your diet by adding new vegetables, fruits, whole grains, legumes, and fermented foods. Try to diversify every meal.
+
+Plan your meals for the whole week to avoid repetition and use seasonal products.
+
+In the case of elimination diets or limited food access, consult a dietitian to avoid deficiencies and microbiota disturbances.
+
+Observe your body's signals
+
+Monitor symptoms such as chronic fatigue, recurring infections, digestive problems, or decreased energy, which may indicate the effects of a monotonous diet.
+
+A monotonous diet, meaning eating a very limited range of products for a longer time, can negatively affect the immune system. The lack of diversity in the diet weakens immune functions, promotes inflammation, and disrupts the balance of the gut microbiota, increasing susceptibility to disease.
+
+Diet diversity and immunity
+
+Western diet as an example
+
+A monotonous diet, meaning eating the same products for an extended time, can negatively affect gut health. Lack of dietary variety leads to decreased diversity of gut microbiota, disruption of the gut barrier, and increased risk of inflammation and gastrointestinal diseases.
+
+Decrease in microbiota diversity
+
+Disturbances of the gut barrier
+
+Increased risk of inflammation
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:40
+
+Final comment:The assessment is based on numerous literature reviews, experimental analyses, and clinical studies on the impact of monotonous and low-diversity diets on the gut microbiota, intestinal barrier integrity, and the immune system. Studies have shown that a diet based on a limited number of products leads to a decrease in microbiota diversity, impaired immune function, and disruption of the gut's protective mechanisms. There are also documented links with increased susceptibility to inflammation, metabolic disorders, and gastrointestinal diseases. Much of this data comes from animal studies and short-term interventions in humans; however, the consistency of results and pathophysiological mechanisms allows the level of evidence to be considered good. However, there is still a lack of long-term, large randomized clinical trials directly assessing the impact of monotonous diets in humans, which is why the highest category of evidence strength was not awarded.
+
+Control of immunity via nutritional interventions.
+
+Number of 
+
+Key takeaways:Mild dietary reductions can enhance protective immunity and limit aberrant inflammatory responses, potentially leading to novel therapeutic approaches for preventing and treating disease.
+
+Dietary Regulation of Immunity
+
+Number of 
+
+Key takeaways:Dietary intake and metabolism of macronutrients, including glucose, fat, and protein, influence immune system function and homeostasis maintenance.
+
+Nutritional Components in Western Diet Versus Mediterranean Diet at the Gut Microbiota–Immune System Interplay. Implications for Health and Disease
+
+Number of 
+
+Key takeaways:The Mediterranean diet positively influences gut microbiota and immune system, potentially aiding in disease prevention and health promotion.
+
+Abstract:The most prevalent diseases of our time, non-communicable diseases (NCDs) (including obesity, type 2 diabetes, cardiovascular diseases and some types of cancer) are rising worldwide. All of them share the condition of an “inflammatory disorder”, with impaired immune functions frequently caused or accompanied by alterations in gut microbiota. These multifactorial maladies also have in common malnutrition related to physiopathology. In this context, diet is the greatest modulator of immune system–microbiota crosstalk, and much interest, and new challenges, are arising in the area of precision nutrition as a way towards treatment and prevention. It is a fact that the westernized diet (WD) is partly responsible for the increased prevalence of NCDs, negatively affecting both gut microbiota and the immune system. Conversely, other nutritional approaches, such as Mediterranean diet (MD), positively influence immune system and gut microbiota, and is proposed not only as a potential tool in the clinical management of different disease conditions, but also for prevention and health promotion globally. Thus, the purpose of this review is to determine the regulatory role of nutritional components of WD and MD in the gut microbiota and immune system interplay, in order to understand, and create awareness of, the influence of diet over both key components.
+
+Nutrition and the Immune System: A Complicated Tango
+
+Number of 
+
+Key takeaways:Diet and individual nutrients can influence immune function and inflammation, but more research is needed to confirm their impact on immune-mediated clinical disease endpoints.
+
+Abstract:Enthusiasm exists for the potential of diet to impact the immune system, prevent disease and its therapeutic potential. Herein, we describe the challenge to nutrition scientists in defining this relationship through case studies of diets and nutrients in the context of allergic and autoimmune diseases. Moderate-quality evidence exists from both human intervention and observational studies to suggest that diet and individual nutrients can influence systemic markers of immune function and inflammation; numerous challenges exist for demonstrating the impact of defined diets and nutrient interventions on clearly influencing immune-mediated-clinical disease endpoints. A growing body of evidence suggests that further consideration of dietary patterns, immune system and gut microbiome composition and function, and subsequent epigenetic modifications are needed to improve our understanding of diet–immune system interactions.
+
+Fast food fever: reviewing the impacts of the Western diet on immunity
+
+Number of 
+
+Key takeaways:The Western diet, high in sugar, salt, and saturated fat, may contribute to increased inflammation, reduced infection control, and increased risk for cancer and allergic and auto-inflammatory diseases.
+
+Abstract:While numerous changes in human lifestyle constitute modern life, our diet has been gaining attention as a potential contributor to the increase in immune-mediated diseases. The Western diet is characterized by an over consumption and reduced variety of refined sugars, salt, and saturated fat. Herein our objective is to detail the mechanisms for the Western diet's impact on immune function. The manuscript reviews the impacts and mechanisms of harm for our over-indulgence in sugar, salt, and fat, as well as the data outlining the impacts of artificial sweeteners, gluten, and genetically modified foods; attention is given to revealing where the literature on the immune impacts of macronutrients is limited to either animal or in vitro models versus where human trials exist. Detailed attention is given to the dietary impact on the gut microbiome and the mechanisms by which our poor dietary choices are encoded into our gut, our genes, and are passed to our offspring. While today's modern diet may provide beneficial protection from micro- and macronutrient deficiencies, our over abundance of calories and the macronutrients that compose our diet may all lead to increased inflammation, reduced control of infection, increased rates of cancer, and increased risk for allergic and auto-inflammatory disease.
+
+The Role of Diet and Gut Microbiota in Regulating Gastrointestinal and Inflammatory Disease
+
+Number of 
+
+Key takeaways:Diet and gut microbiota play a crucial role in regulating gastrointestinal and inflammatory diseases, with traditional diets being anti-inflammatory and western diets being pro-inflammatory.
+
+Abstract:Diet is an important lifestyle factor that is known to contribute in the development of human disease. It is well established that poor diet plays an active role in exacerbating metabolic diseases, such as obesity, diabetes and hypertension. Our understanding of how the immune system drives chronic inflammation and disease pathogenesis has evolved in recent years. However, the contribution of dietary factors to inflammatory conditions such as inflammatory bowel disease, multiple sclerosis and arthritis remain poorly defined. A western diet has been associated as pro-inflammatory, in contrast to traditional dietary patterns that are associated as being anti-inflammatory. This may be due to direct effects of nutrients on immune cell function. Diet may also affect the composition and function of gut microbiota, which consequently affects immunity. In animal models of inflammatory disease, diet may modulate inflammation in the gastrointestinal tract and in other peripheral sites. Despite limitations of animal models, there is now emerging evidence to show that anti-inflammatory effects of diet may translate to human gastrointestinal and inflammatory diseases. However, appropriately designed, larger clinical studies must be conducted to confirm the therapeutic benefit of dietary therapy.
+
+Diet and Immune Function
+
+Number of 
+
+Key takeaways:Dietary modulation of immune function can reduce or delay the onset of immune-mediated chronic diseases, benefiting both clinical settings and healthy populations.
+
+Abstract:A well-functioning immune system is critical for survival. The immune system must be constantly alert, monitoring for signs of invasion or danger. Cells of the immune system must be able to distinguish self from non-self and furthermore discriminate between non-self molecules which are harmful (e.g., those from pathogens) and innocuous non-self molecules (e.g., from food). This Special Issue of Nutrients explores the relationship between diet and nutrients and immune function. In this preface, we outline the key functions of the immune system, and how it interacts with nutrients across the life course, highlighting the work included within this Special Issue. This includes the role of macronutrients, micronutrients, and the gut microbiome in mediating immunological effects. Nutritional modulation of the immune system has applications within the clinical setting, but can also have a role in healthy populations, acting to reduce or delay the onset of immune-mediated chronic diseases. Ongoing research in this field will ultimately lead to a better understanding of the role of diet and nutrients in immune function and will facilitate the use of bespoke nutrition to improve human health.
+
+Gut-microbiota-targeted diets modulate human immune status
+
+Number of 
+
+Key takeaways:Fermented foods can counteract decreased microbiome diversity and increased inflammation in industrialized society.
+
+High fructose diet: A risk factor for immune system dysregulation.
+
+Number of 
+
+Key takeaways:Excessive fructose intake disrupts the immune system by promoting immune cell metabolic rearrangements, gut microbial community structure, and intestinal barrier permeability, potentially benefiting cancer immunotherapy.
+
+Nutrition and immunity: an overview.
+
+Number of 
+
+Key takeaways:Malnutrition impairs immunity, and excessive intake of nutrients also impairs it, with micronutrients playing a crucial role in maintaining optimal immune responses.
+
+Abstract:Historical accounts and recent epidemiologic studies have suggested a mutually aggravating relationship between malnutrition and infection. In protein-energy malnutrition, there is a significant impairment of several aspects of immunity, including cell-mediated immune responses, secretory immunoglobulin A antibody production, phagocyte function, complement system, antibody affinity and cytokine production. Several micronutrients play a crucial role in maintenance of optimum immune responses. On the other hand, excessive intake of nutrients also impairs immunity. Animals fed diets lacking in nucleotides have lower immune responses than controls but there is no enhancement of immunity when the diet contains large amounts of nucleotides. These observations have considerable practical importance in terms of designing feeding formulas.
+
+Effect of High-Fat Diets on Oxidative Stress, Cellular Inflammatory Response and Cognitive Function
+
+Number of 
+
+Key takeaways:High-fat diets promote oxidative stress and neurodegeneration, leading to cognitive dysfunction.
+
+Abstract:Cognitive dysfunction is linked to chronic low-grade inflammatory stress that contributes to cell-mediated immunity in creating an oxidative environment. Food is a vitally important energy source; it affects brain function and provides direct energy. Several studies have indicated that high-fat consumption causes overproduction of circulating free fatty acids and systemic inflammation. Immune cells, free fatty acids, and circulating cytokines reach the hypothalamus and initiate local inflammation through processes such as microglial proliferation. Therefore, the role of high-fat diet (HFD) in promoting oxidative stress and neurodegeneration is worthy of further discussion. Of particular interest in this article, we highlight the associations and molecular mechanisms of HFD in the modulation of inflammation and cognitive deficits. Taken together, a better understanding of the role of oxidative stress in cognitive impairment following HFD consumption would provide a useful approach for the prevention of cognitive dysfunction.
+
+Nutrition, Immune Function, and Infectious Disease in Military Personnel: A Narrative Review
+
+Number of 
+
+Key takeaways:Optimizing nutrient intake is crucial for military personnel to maintain health, readiness, and performance, while addressing obesity-related immune impairments.
+
+Abstract:Consuming a diet that meets energy demands and provides essential nutrients promotes a healthy immune system, while both under- and over-nutrition have been associated with immune dysfunction. Military personnel comprise a unique population who frequently endure multi-stressor environments, predisposing them to immune decrements. Additionally, 49% and 22% of active duty U.S. military personnel are classified as overweight and obese, respectively. A literature search on PubMed was conducted to identify studies, reports, review papers, and references within those sources relevant to the topic area. Military personnel experiencing either under- or over-nutrition can suffer from degraded health, readiness, and performance. Insufficient intake of nutrients during military operations increases infection risk and negatively impacts infection recovery. Energy, protein, iron, zinc, and vitamins C and D are nutritional areas of concern that may impact immune competence in a multi-stressor environment. Over-nutrition can promote accretion of excess body fat and obesity, which contributes to a chronic inflammatory state that coincides with immune impairments. Prioritizing efforts to optimize nutrient intake is one approach for reducing disease burden and improving readiness. This review discusses nutritional concerns concomitant to multi-stressor environments that impact immune function, and the relevance of obesity to infectious disease risk in the military population.
+
+Nutrition and immune system: from the Mediterranean diet to dietary supplementary through the microbiota
+
+Number of 
+
+Key takeaways:The Mediterranean diet and dietary supplements like vitamin D and zinc may modulate immune function through gut microbiota, with potential benefits for overall health.
+
+Abstract:Abstract The interaction between nutrition and the immune system is very complex. In particular, at every stage of the immune response, specific micronutrients, including vitamins and minerals play a key role and often synergistic, and the deficiency of only one essential nutrient may impair immunity. An individual’s overall nutrition status and pattern of dietary intake (comprised of nutrients and non-nutritive bioactive compounds and food) and any supplementation with nutraceuticals including vitamins and minerals, can influence positively or negatively the function of the immune system. This influence can occur at various levels from the innate immune system and adaptive immune system to the microbiome. Although there are conflicting evidence, the current results point out that dietary supplementation with some nutrients such as vitamin D and zinc may modulate immune function. An update on the complex relationship between nutrition, diet, and the immune system through gut microbiota is the aim of this current review. Indeed, we will provide the overview of the link among immune function, nutrition and gut microbiota, paying particular attention at the effect of the Mediterranean diet on the immune system, and finally we will speculate the possible role of the main one functional supplements on immune function.
+
+Immuno-hematologic parameters following rodent spinal cord contusion are negatively influenced by high-fat diet consumption
+
+Number of 
+
+Key takeaways:High-fat diet consumption negatively impacts immune system changes in chronically-injured rats, leading to increased infection susceptibility.
+
+Evolution of the Human Diet and Its Impact on Gut Microbiota, Immune Responses, and Brain Health
+
+Number of 
+
+Key takeaways:The Western diet, characterized by processed foods and limited fresh fruits and vegetables, negatively impacts gut health, immune system, and brain health, leading to memory impairments, neurodegenerative disorders, and depression.
+
+Abstract:The relatively rapid shift from consuming preagricultural wild foods for thousands of years, to consuming postindustrial semi-processed and ultra-processed foods endemic of the Western world less than 200 years ago did not allow for evolutionary adaptation of the commensal microbial species that inhabit the human gastrointestinal (GI) tract, and this has significantly impacted gut health. The human gut microbiota, the diverse and dynamic population of microbes, has been demonstrated to have extensive and important interactions with the digestive, immune, and nervous systems. Western diet-induced dysbiosis of the gut microbiota has been shown to negatively impact human digestive physiology, to have pathogenic effects on the immune system, and, in turn, cause exaggerated neuroinflammation. Given the tremendous amount of evidence linking neuroinflammation with neural dysfunction, it is no surprise that the Western diet has been implicated in the development of many diseases and disorders of the brain, including memory impairments, neurodegenerative disorders, and depression. In this review, we discuss each of these concepts to understand how what we eat can lead to cognitive and psychiatric diseases.
+
+Dietary Modulation of the Immune System
+
+Number of 
+
+Key takeaways:Nutritional status, dietary patterns, and food bioactives influence immune function, with key nutrients like vitamins, minerals, and polyunsaturated fatty acids playing key roles in immune function and disease prevention.
+
+Abstract:Recent insights into the influence of nutrition on immune system components have driven the development of dietary strategies targeting the prevention and management of major metabolic-inflammatory diseases. This review summarizes the bidirectional relationship between nutrition and immunocompetence, beginning with an overview of immune system components and their functions. It examines the effects of nutritional status, dietary patterns, and food bioactives on systemic inflammation, immune cell populations, and lymphoid tissues, as well as their associations with infectious and chronic disease pathogenesis. The mechanisms by which key nutrients influence immune constituents are delineated, focusing on vitamins A, D, E, C, and B, as well as minerals including zinc, iron, and selenium. Also highlighted are the immunomodulatory effects of polyunsaturated fatty acids as well as bioactive phenolic compounds and probiotics, given their expanding relevance. Each section addresses the implications of nutritional and nutraceutical interventions involving these nutrients within the broader context of major infectious, metabolic, and inflammatory diseases. This review further underscores that, while targeted nutrient supplementation can effectively restore immune function to optimal levels, caution is necessary in certain cases, as it may increase morbidity in specific diseases. In other instances, dietary counseling should be integrated to ensure that therapeutic goals are achieved safely and effectively.
+
+Physical Activity and Diet Shape the Immune System during Aging
+
+Number of 
+
+Key takeaways:Lifestyle factors like physical activity and dietary habits can positively affect immune aging and help prevent immunosenescence and inflammation.
+
+Abstract:With increasing age, the immune system undergoes a remodeling process, termed immunosenescence, which is accompanied by considerable shifts in leukocyte subpopulations and a decline in various immune cell functions. Clinically, immunosenescence is characterized by increased susceptibility to infections, a more frequent reactivation of latent viruses, decreased vaccine efficacy, and an increased prevalence of autoimmunity and cancer. Physiologically, the immune system has some adaptive strategies to cope with aging, while in some settings, maladaptive responses aggravate the speed of aging and morbidity. While a lack of physical activity, decreased muscle mass, and poor nutritional status facilitate immunosenescence and inflammaging, lifestyle factors such as exercise and dietary habits affect immune aging positively. This review will discuss the relevance and mechanisms of immunoprotection through physical activity and specific exercise interventions. In the second part, we will focus on the effect of dietary interventions through the supplementation of the essential amino acid tryptophan, n-3 polyunsaturated fatty acids, and probiotics (with a special focus on the kynurenine pathway).
+
+The Influence of the Western Diet on Microbiota and Gastrointestinal Immunity.
+
+Number of 
+
+Key takeaways:The Western diet significantly influences gastrointestinal microbiota and host immune function, potentially contributing to obesity, metabolic diseases, inflammatory bowel disease, and infection.
+
+Abstract:Diet exerts a major influence upon host immune function and the gastrointestinal microbiota. Although components of the human diet (including carbohydrates, fats, and proteins) are essential sources of nutrition for the host, they also influence immune function directly through interaction with innate and cell-mediated immune regulatory mechanisms. Regulation of the microbiota community structure also provides a mechanism by which food components influence host immune regulatory processes. Here, we consider the complex interplay between components of the modern (Western) diet, the microbiota, and host immunity in the context of obesity and metabolic disease, inflammatory bowel disease, and infection. Expected final online publication date for the Annual Review of Food Science and Technology, Volume 13 is March 2022. Please see for revised estimates.
+
+Effect of eating sugars, excessive red meat intake and overweight on some immune factors
+
+Number of 
+
+Key takeaways:Eating sugars, excessive red meat, and being overweight negatively impact the immune system, leading to decreased IgG, lymphocyte, and complement levels.
+
+Abstract:The most common cause of diseases is the weakness of the immune system. Some of them can be harmful, and everyday behavior and habits, such as those in the study. In the study, kind and amount of food consumed, are among the major factors influencing the immune system. 76 samples were collected from healthy people in Nineveh, including 37 males and 39 females with ages15-59 years. Information was recorded for each person (gender, age, type’s chronic disease, infected with COVID-19). CBC parameters are measured by Auto Hematology Analyzer machine, the biochemical device used to measure IgG and IgM. Eating sugar a lot had a detrimental effect on the level of IgG, which averaged 614 mg/dl and the number of lymphocytes was 1.96 x103, in addition to its negative effect on the activity of the complement which reached 13.17%. Excessive consumption of red meat led to a decrease in the level of IgM which averaged 129 mg/dl, and a decrease in the levels of WBC and granulocyte, as their levels reached 6.06×103 and 3.75×103 respectively. The persons who were overweight had a clear effect on the decrease in the level of IgM which averaged 105.2 mg/dl and on complement activity as it is level reached 12.2%.
+
+Impact of a 3-Months Vegetarian Diet on the Gut Microbiota and Immune Repertoire
+
+Number of 
+
+Key takeaways:A 3-month vegetarian diet may alter gut microbiota composition and potentially impact the balance of pro-/anti-inflammatory factors in the immune system.
+
+Abstract:The dietary pattern can influence the immune system directly, but may also modulate it indirectly by regulating the gut microbiota. Here, we investigated the effect of a 3-months lacto-ovo-vegetarian diet on the diversity of gut microbiota and the immune system in healthy omnivorous volunteers, using high-throughput sequencing technologies. The short-term vegetarian diet did not have any major effect on the diversity of the immune system and the overall composition of the metagenome. The prevalence of bacterial genera/species with known beneficial effects on the intestine, including butyrate-producers and probiotic species and the balance of autoimmune-related variable genes/families were, however, altered in the short-term vegetarians. A number of bacterial species that are associated with the expression level of IgA, a key immunoglobulin class that protects the gastrointestinal mucosal system, were also identified. Furthermore, a lower diversity of T-cell repertoire and expression level of IgE, as well as a reduced abundance of inflammation-related genes in the gut microbiota were potentially associated with a control group with long-term vegetarians. Thus, the composition and duration of the diet may have an impact on the balance of pro-/anti-inflammatory factors in the gut microbiota and immune system.
+
+Day and night reversed feeding aggravates high-fat diet-induced abnormalities in intestinal flora and lipid metabolism in adipose tissue of mice.
+
+Number of 
+
+Key takeaways:Day-night reversed feeding exacerbates the adverse effects of a high-fat diet on lipid metabolism and intestinal flora, potentially disrupting both intestinal and lipid metabolism homeostasis.
+
+Negative Effects of a High-Fat Diet on Intestinal Permeability: A Review.
+
+Number of 
+
+Key takeaways:A high-fat diet negatively impacts intestinal permeability, potentially leading to various intestinal diseases by disrupting the gut barrier system and altering gut microbiota composition.
+
+Abstract:The intestinal tract is the largest barrier between a person and the environment. In this role, the intestinal tract is responsible not only for absorbing essential dietary nutrients, but also for protecting the host from a variety of ingested toxins and microbes. The intestinal barrier system is composed of a mucus layer, intestinal epithelial cells (IECs), tight junctions (TJs), immune cells, and a gut microbiota, which are all susceptible to external factors such as dietary fats. When components of this barrier system are disrupted, intestinal permeability to luminal contents increases, which is implicated in intestinal pathologies such as inflammatory bowel disease, necrotizing enterocolitis, and celiac disease. Currently, there is mounting evidence that consumption of excess dietary fats can enhance intestinal permeability differentially. For example, dietary fat modulates the expression and distribution of TJs, stimulates a shift to barrier-disrupting hydrophobic bile acids, and even induces IEC oxidative stress and apoptosis. In addition, a high-fat diet (HFD) enhances intestinal permeability directly by stimulating proinflammatory signaling cascades and indirectly via increasing barrier-disrupting cytokines and decreasing barrier-forming cytokines (IL10, IL17, and IL22). Finally, an HFD negatively modulates the intestinal mucus composition and enriches the gut microflora with barrier-disrupting species. Although further research is necessary to understand the precise role HFDs play in intestinal permeability, current data suggest a stronger link between diet and intestinal disease than was first thought to exist. Therefore, this review seeks to highlight the various ways an HFD disrupts the gut barrier system and its many implications in human health.
+
+Effects of a high fat diet on intestinal microbiota and gastrointestinal diseases
+
+Number of 
+
+Key takeaways:High fat, high sugar, and high protein diets negatively impact gut microbiota, leading to obesity and metabolic diseases.
+
+Abstract:Along with the rapid development of society, lifestyles and diets have gradually changed. Due to overwhelming material abundance, high fat, high sugar and high protein diets are common. Numerous studies have determined that diet and its impact on gut microbiota are closely related to obesity and metabolic diseases. Different dietary components affect gut microbiota, thus impacting gastrointestinal disease occurrence and development. A large number of related studies are progressing rapidly. Gut microbiota may be an important intermediate link, causing gastrointestinal diseases under the influence of changes in diet and genetic predisposition. To promote healthy gut microbiota and to prevent and cure gastrointestinal diseases, diets should be improved and supplemented with probiotics.
+
+The interplay between diet and the gut microbiome: implications for health and disease.
+
+Number of 
+
+Key takeaways:Diet plays a crucial role in shaping the gut microbiome, which can help inform dietary decisions for better metabolic and intestinal health, and prevent diet-related diseases.
+
+Diet-induced alteration of intestinal stem cell function underlies obesity and prediabetes in mice
+
+Number of 
+
+Key takeaways:An obesogenic diet leads to intestinal stem cell hyperproliferation, enhanced differentiation, and changes in enterocyte and progenitor identities, contributing to obesity and metabolic syndrome.
+
+High-fat diet modifies the PPAR-γ pathway leading to disruption of microbial and physiological ecosystem in murine small intestine
+
+Number of 
+
+Key takeaways:A short-term high-fat diet disrupts the microbial and physiological ecosystem in the small intestine, similar to cystic fibrosis, and alters the PPAR- pathway, potentially contributing to chronic diseases associated with Western diet.
+
+Abstract:Significance Our study aimed at exploring the intersection of high-fat diet, mucosal immune defenses, and microbiota. It remains unclear how diet imbalance toward excessive fat intake leads to secondary pathological effects on host physiology through the microbiota. We show that a short period of consumption of high-fat diet alters the small-intestinal defenses and that the biochemistry of the ileum is drastically modified, leading to physiological changes close to that observed in cystic fibrosis. We identified peroxisome proliferator-activated receptor-γ as major regulator of mucosal defenses upon exposure to fat excess. As a result, our work provides a fundamental understanding of the underlying cause of severe chronic disorders associated with Western diet. Diet is among the most important factors contributing to intestinal homeostasis, and basic functions performed by the small intestine need to be tightly preserved to maintain health. Little is known about the direct impact of high-fat (HF) diet on small-intestinal mucosal defenses and spatial distribution of the microbiota during the early phase of its administration. We observed that only 30 d after HF diet initiation, the intervillous zone of the ileum—which is usually described as free of bacteria—became occupied by a dense microbiota. In addition to affecting its spatial distribution, HF diet also drastically affected microbiota composition with a profile characterized by the expansion of Firmicutes (appearance of Erysipelotrichi), Proteobacteria (Desulfovibrionales) and Verrucomicrobia, and decrease of Bacteroidetes (family S24-7) and Candidatus arthromitus. A decrease in antimicrobial peptide expression was predominantly observed in the ileum where bacterial density appeared highest. In addition, HF diet increased intestinal permeability and decreased cystic fibrosis transmembrane conductance regulator (Cftr) and the Na-K-2Cl cotransporter 1 (Nkcc1) gene and protein expressions, leading to a decrease in ileal secretion of chloride, likely responsible for massive alteration in mucus phenotype. This complex phenotype triggered by HF diet at the interface between the microbiota and the mucosal surface was reversed when the diet was switched back to standard composition or when mice were treated for 1 wk with rosiglitazone, a specific agonist of peroxisome proliferator-activated receptor-γ (PPAR-γ). Moreover, weaker expression of antimicrobial peptide-encoding genes and intervillous bacterial colonization were observed in Ppar-γ–deficient mice, highlighting the major role of lipids in modulation of mucosal immune defenses.
+
+Influence of diet on the gut microbiome and implications for human health
+
+Number of 
+
+Key takeaways:Dietary alterations can alter gut microbiome composition, potentially impacting human health by affecting immune and metabolic parameters.
+
+Abstract:Recent studies have suggested that the intestinal microbiome plays an important role in modulating risk of several chronic diseases, including inflammatory bowel disease, obesity, type 2 diabetes, cardiovascular disease, and cancer. At the same time, it is now understood that diet plays a significant role in shaping the microbiome, with experiments showing that dietary alterations can induce large, temporary microbial shifts within 24 h. Given this association, there may be significant therapeutic utility in altering microbial composition through diet. This review systematically evaluates current data regarding the effects of several common dietary components on intestinal microbiota. We show that consumption of particular types of food produces predictable shifts in existing host bacterial genera. Furthermore, the identity of these bacteria affects host immune and metabolic parameters, with broad implications for human health. Familiarity with these associations will be of tremendous use to the practitioner as well as the patient.
+
+High-protein diets for weight management: Interactions with the intestinal microbiota and consequences for gut health. A position paper by the my new gut study group.
+
+Number of 
+
+Key takeaways:High-protein diets may help with weight loss, but their impact on gut microbiota and gene expression raises questions about their impact on large intestine mucosa homeostasis.
+
+Dietary fat, the gut microbiota, and metabolic health - A systematic review conducted within the MyNewGut project.
+
+Number of 
+
+Key takeaways:High fat and saturated fatty acid diets can negatively affect gut microbiota and are associated with unhealthy metabolic states, while high monounsaturated fatty acid diets may negatively affect gut microbiota.
+
+Gut microbiota and associated metabolites: key players in high-fat diet-induced chronic diseases
+
+Number of 
+
+Key takeaways:High-fat diets alter gut microbiota composition, leading to increased risk of chronic diseases, and probiotic interventions may help counteract these negative effects.
+
+Abstract:ABSTRACT Excessive intake of dietary fats is strongly associated with an increased risk of various chronic diseases, such as obesity, diabetes, hepatic metabolic disorders, cardiovascular disease, chronic intestinal inflammation, and certain cancers. A significant portion of the adverse effects of high-fat diet on disease risk is mediated through modifications in the gut microbiota. Specifically, high-fat diets are linked to reduced microbial diversity, an overgrowth of gram-negative bacteria, an elevated Firmicutes-to-Bacteroidetes ratio, and alterations at various taxonomic levels. These microbial alterations influence the intestinal metabolism of small molecules, which subsequently increases intestinal permeability, exacerbates inflammatory responses, disrupts metabolic functions, and impairs signal transduction pathways in the host. Consequently, diet-induced changes in the gut microbiota play a crucial role in the initiation and progression of chronic diseases. This review explores the relationship between high-fat diets and gut microbiota, highlighting their roles and underlying mechanisms in the development of chronic metabolic diseases. Additionally, we propose probiotic interventions may serve as a promising adjunctive therapy to counteract the negative effects of high-fat diet-induced alterations in gut microbiota composition.
+
+Impact of Extreme Obesity and Diet-Induced Weight Loss on the Fecal Metabolome and Gut Microbiota.
+
+Number of 
+
+Key takeaways:Extreme obesity and moderate diet-induced weight loss alter gut microbiota composition and activity, suggesting potential use of fecal metabolites or gut microbiota members as biomarkers for weight loss efficacy in extreme obesity.
+
+Abstract:SCOPE
+A limited number of human studies have characterized the fecal microbiota and metabolome in extreme obesity and after diet-induced weight loss.
+
+METHODS AND RESULTS
+Fecal samples from normal-weight and extremely obese adults and from obese participants before and after moderate diet-induced weight loss were evaluated for their interaction with the intestinal adenocarcinoma cell line HT29 using an impedance-based in vitro model, which revealed variations in the interaction between the gut microbiota and host linked to obesity status. Microbiota composition, short chain fatty acids and other intestinal metabolites were further analyzed to assess the interplay among diet, gut microbiota and host in extreme obesity. Microbiota profiles were distinct between normal-weight and obese participants and were accompanied by fecal signatures in the metabolism of biliary compounds and catecholamines. Moderate diet-induced weight loss promoted shifts in the gut microbiota, and the primary fecal metabolomics features were associated with diet and the gut-liver and gut-brain axes.
+
+CONCLUSIONS
+Analyses of the fecal microbiota and metabolome enable assessment of the impact of diet on gut microbiota composition and activity, supporting the potential use of certain fecal metabolites or members of the gut microbiota as biomarkers for the efficacy of weight loss in extreme obesity. This article is protected by copyright. All rights reserved.
+
+Interactions Between Diet and the Intestinal Microbiota Alter Intestinal Permeability and Colitis Severity in Mice.
+
+Number of 
+
+Key takeaways:Dietary components and gut microbiota interact to affect intestinal permeability, gut microbial density, and the severity of colitis in mice.
+
+Abstract:BACKGROUND & AIMS
+It is not clear how the complex interactions between diet and the intestinal microbiota affect development of mucosal inflammation or inflammatory bowel disease. We investigated interactions between dietary ingredients, nutrients, and the microbiota in specific pathogen-free (SPF) and germ-free (GF) mice given more than 40 unique diets; we quantified individual and synergistic effects of dietary macronutrients and the microbiota on intestinal health and development of colitis.
+
+METHODS
+C56BL/6J SPF and GF mice were placed on custom diets containing different concentrations and sources of protein, fat, digestible carbohydrates, and indigestible carbohydrates (fiber). After 1 week, SPF and GF mice were given dextran sulfate sodium (DSS) to induce colitis. Disease severity was determined based on the percent weight change from baseline, and modeled as a function of the concentration of each macronutrient in the diet. In unchallenged mice, we measured intestinal permeability by feeding mice labeled dextran and measuring levels in blood. Feces were collected and microbiota were analyzed by 16S rDNA sequencing. We collected colons from mice and performed transcriptome analyses.
+
+RESULTS
+Fecal microbiota varied with diet; the concentration of protein and fiber had the strongest effect on colitis development. Among 9 fiber sources tested, psyllium, pectin, and cellulose fiber reduced the severity of colitis in SPF mice, whereas methylcellulose increased severity. Increasing dietary protein increased the density of the fecal microbiota and the severity of colitis in SPF mice, but not in GF mice or mice given antibiotics. Psyllium fiber reduced the severity of colitis through microbiota-dependent and microbiota-independent mechanisms. Combinatorial perturbations to dietary casein protein and psyllium fiber in parallel accounted for most variation in gut microbial density and intestinal permeability in unchallenged mice, as well as the severity of DSS-induced colitis; changes in 1 ingredient could be offset by changes in another.
+
+CONCLUSIONS
+In an analysis of the effects of different dietary components and the gut microbiota on mice with and without DSS-induced colitis, we found complex mixtures of nutrients affect intestinal permeability, gut microbial density, and development of intestinal inflammation.
+
+High-fat diet alters intestinal microbiota and induces endoplasmic reticulum stress via the activation of apoptosis and inflammation in blunt snout bream.
+
+Number of 
+
+Key takeaways:A high-fat diet alters intestinal microbiota and activates chronic inflammation in blunt snout bream by promoting apoptosis and inflammation.
+
+Abstract:The primary organ for absorbing dietary fat is the gut. High dietary lipid intake negatively affects health and absorption by causing fat deposition in the intestine. This research explores the effect of a high-fat diet (HFD) on intestinal microbiota and its connections with endoplasmic reticulum stress and inflammation. 60 fish (average weight: 45.84 ± 0.07 g) were randomly fed a control diet (6% fat) and a high-fat diet (12 % fat) in four replicates for 12 weeks. From the result, hepatosomatic index (HSI), Visceralsomatic index (VSI), abdominal fat (ADF), Intestosomatic index (ISI), mesenteric fat (MFI), Triglycerides (TG), total cholesterol (TC), non-esterified fatty acid (NEFA) content were substantially greater on HFD compared to the control diet. Moreover, fish provided the HFD significantly obtained lower superoxide dismutase (SOD) and glutathione peroxidase (GPX) activities. In contrast, an opposite result was seen in malondialdehyde (MDA) content in comparison to the control. HFD significantly altered intestinal microbiota in blunt snout bream, characterized by an increased abundance of Aeromonas, Plesiomonas proteobacteria, and firmicutes with a reduced abundance of Cetobacterium and ZOR0006. The transcriptional levels of glucose-regulated protein 78 (grp78), inositol requiring enzyme 1 (ire1), spliced X box-binding protein 1 (xbp1), DnaJ heat shock protein family (Hsp40) member B9 (dnajb9), tumor necrosis factor alpha (tnf-α), nuclear factor-kappa B (nf-κb), monocyte chemoattractant protein-1 (mcp-1), and interleukin-6 (il-6) in the intestine were markedly upregulated in fish fed HFD than the control group. Also, the outcome was similar in bax, caspases-3, and caspases-9, ZO-1, Occludin-1, and Occludin-2 expressions. In conclusion, HFD could alter microbiota and facilitate chronic inflammatory signals via activating endoplasmic reticulum stress.
+
+Early time-restricted eating improves markers of cardiometabolic health but has no impact on intestinal nutrient absorption in healthy adults
+
+Number of 
+
+Key takeaways:Early time-restricted eating improves cardiometabolic health markers but does not impact intestinal nutrient absorption in healthy adults.
+
+The impact of dietary fructose on gut permeability, microbiota, abdominal adiposity, insulin signaling and reproductive function
+
+Number of 
+
+Key takeaways:Excessive intake of fructose in the diet can lead to increased intestinal permeability, inflammation, abdominal fat accumulation, insulin resistance, and potentially infertility.
+
+The gut microbiota at the intersection of diet and human health
+
+Number of 
+
+Key takeaways:Dietary nutrients are essential for human health and the survival of gut microbes, which may influence chronic metabolic conditions like obesity, type 2 diabetes, and cardiovascular disease.
+
+Abstract:Diet affects multiple facets of human health and is inextricably linked to chronic metabolic conditions such as obesity, type 2 diabetes, and cardiovascular disease. Dietary nutrients are essential not only for human health but also for the health and survival of the trillions of microbes that reside within the human intestines. Diet is a key component of the relationship between humans and their microbial residents; gut microbes use ingested nutrients for fundamental biological processes, and the metabolic outputs of those processes may have important impacts on human physiology. Studies in humans and animal models are beginning to unravel the underpinnings of this relationship, and increasing evidence suggests that it may underlie some of the broader effects of diet on human health and disease.
+
+Level of intestinal permeability markers and selected aspects of diet and BMI of Polish e-sports players
+
+Number of 
+
+Key takeaways:Excessive body weight and poor diet negatively impact intestinal permeability, suggesting the need for monitoring and optimizing diet and nutritional status in e-sportsmen.
+
+Abstract:The intestinal microbiota, also called visceral brain, exhibits high biological activity and influences health status. The aim of this study was to evaluate selected dietary determinants of the levels of intestinal permeability markers (zonulin and LPS endotoxin) in a group of e-sportsmen. The study was conducted among 174 male athletes (18–28 years old), training at the professional (n = 44) and semi-professional level (n = 130). The study included: weight and height measurements (Holtain anthropometer, Tanita TBF300), assessment of BMI, determination of zonulin and LPS levels in fecal samples (ELISA tests) and assessment of frequency of consumption of selected food groups (FFQ). Statistical analysis was performed using chi2 and Student's t tests and Spearman's rank correlation, at a significance level of p < 0.05. The group was dominated by e-sportsmen with elevated levels of LPS endotoxin (66.67%), zonulin (85.74%) and normative BMI (59.70%), with no significant differences according to sports level. There was a positive correlation between BMI and levels of zonulin (R = 0.49; p < 0.001) and LPS (R = 0.24; p < 0.05). Zonulin levels also increased with more frequent consumption of sweet cereals (R = 0.21; p < 0.05), pork meats (R = 0.21; p < 0.05) and red meat dishes (R = 0.18; p < 0.05). Excessive body weight and a poor health diet were shown to have a negative effect on increasing intestinal permeability, suggesting the rationale for monitoring and rationalizing diet and nutritional status to optimize the intestinal microbiota of e-sportsmen.
+
+Diet and the intestinal microbiome: associations, functions, and implications for health and disease.
+
+Number of 
+
+Key takeaways:Diet influences the intestinal microbiome, potentially contributing to health issues or contributing to the pathogenesis of disorders like coronary vascular disease and inflammatory bowel disease.
+
+Abstract:The mutual relationship between the intestinal microbiota and its mammalian host is influenced by diet. Consumption of various nutrients affects the structure of the microbial community and provides substrates for microbial metabolism. The microbiota can produce small molecules that are absorbed by the host and affect many important physiological processes. Age-dependent and societal differences in the intestinal microbiota could result from differences in diet. Examples include differences in the intestinal microbiota of breastfed vs formula-fed infants or differences in microbial richness in people who consume an agrarian plant-based vs a Western diet, which is high in meat and fat. We review how diet affects the structure and metabolome of the human intestinal microbiome and may contribute to health or the pathogenesis of disorders such as coronary vascular disease and inflammatory bowel disease.
+
+Dietary protein and the intestinal microbiota: An understudied relationship
+
+Number of 
+
+Key takeaways:Dietary protein strongly impacts intestinal microbiota composition and function, with protein-microbiota interactions having critical impacts on host health.
+
+Impact of diet and synbiotics on selected gut bacteria and intestinal permeability in individuals with excess body weight - A Prospective, Randomized Study.
+
+Number of 
+
+Key takeaways:Diet and synbiotics improve gut microbiota and intestinal barrier in individuals with excess body weight, without significant relationship to body mass, BMI, or changes in these microbiota or zonulin concentrations.
+
+Abstract:Overweight and obese individuals may have leaky intestinal barrier and microbiome dysbiosis. The aim of this study was to determine whether body mass reduction with diet and synbiotics in an adult person with excess body mass has an influence on the gut microbiota and zonulin concentration. The study was a single blinded trial. 60 persons with excess body mass were examined. Based on randomization, patients were qualified either to the intervention group (Synbiotic group) or to the control group (Placebo group). Anthropometric measurements, microbiological assessment of faecal samples and zonulin concentration in the stool were performed before and after observation. After 3-months, an increase in the variety of intestinal bacteria (increase in the Shannon-Weaver index and the Simpson index) and a decrease in concentration of zonulin in faecal samples were observed in the Synbiotic group. Also, statistically significant correlation between zonulin and Bifidobacterium spp. (Spearman test, R=-0.51; p=0.0040) was noticed. There were no significant relationships between the body mass, BMI and changes in the intestinal microbiota or zonulin concentrations. The use of diet and synbiotics improved the condition of the microbiota and intestinal barrier in patients in the Synbiotic group.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

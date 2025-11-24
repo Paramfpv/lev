@@ -1,0 +1,626 @@
+PROTOCOL: Excess high glycemic food intake
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Excess high glycemic food intake - A well-known risk factor for metabolic, cardiovascular diseases and obesity | Longevity Protocols
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Consuming large amounts of high glycemic index (GI) foods leads to rapid increases in blood glucose and insulin levels. A long-term diet rich in high GI products promotes the development of insulin resistance, type 2 diabetes, obesity, and increases the risk of cardiovascular diseases. Particularly harmful is the regular consumption of highly processed carbohydrates, such as white bread, sweets, or sugary drinks.
+
+CONTENT SECTIONS:
+
+Excess high glycemic food intake
+
+A well-known risk factor for metabolic, cardiovascular diseases and obesity
+
+Consuming large amounts of high glycemic index (GI) foods leads to rapid increases in blood glucose and insulin levels. A long-term diet rich in high GI products promotes the development of insulin resistance, type 2 diabetes, obesity, and increases the risk of cardiovascular diseases. Particularly harmful is the regular consumption of highly processed carbohydrates, such as white bread, sweets, or sugary drinks.
+
+Level of evidence:Good
+
+High GI foods cause a rapid rise in blood glucose levels after a meal, leading to a strong insulin response. Excessive stimulation of the pancreas and repeated glucose fluctuations may over time lead to insulin resistance and carbohydrate metabolism disorders. A high GI diet also intensifies inflammatory processes, oxidative stress, and may increase appetite and result in excessive calorie intake, contributing to fat mass gain and the development of chronic diseases.
+
+Excessive consumption of high glycemic index foods is recognized as a serious risk factor for many chronic diseases, including type 2 diabetes, obesity, cardiovascular diseases, and metabolic syndrome. Numerous population studies, meta-analyses, and scientific society guidelines indicate that regular consumption of high GI products leads to metabolic disorders, chronic inflammation, and increases the risk of premature death.
+
+The scale of excessive high GI food consumption is global, especially in developed and industrialized countries. The rise in consumption of highly processed products coincides with the increase in type 2 diabetes, obesity, and cardiovascular diseases.
+
+Swap high-glycemic foods for low-glycemic alternatives
+
+Choose wholegrain bread, groats, oats, and vegetables instead of white bread, sweets, and sugary drinks.
+
+Avoid high GI drinks and snacks
+
+Limit the intake of sugary drinks, white sugar, and sweets—replace them with water, fresh fruit, and healthy snacks.
+
+Include more fiber in your diet
+
+Fiber-rich foods like legumes, nuts, and whole grains slow the rise in blood glucose after meals.
+
+Combine carbohydrates with protein and healthy fats
+
+Meals rich in protein and fats (e.g. nuts, dairy, lean meat, olive oil) lower the glycemic load of the whole meal and help maintain satiety.
+
+Regularity and meal planning limit impulsive consumption of high glycemic foods.
+
+Check product composition and avoid those with added simple sugars and glucose-fructose syrup.
+
+Cardiovascular system
+
+Excessive consumption of high glycemic index foods negatively affects the cardiovascular system, increasing the risk of heart disease, stroke, and mortality. A diet rich in high GI products promotes inflammation, oxidative stress, and vascular dysfunction.
+
+Impact on cardiovascular risk
+
+Biological mechanisms
+
+Impact on children and adolescents
+
+Excessive consumption of high glycemic index foods leads to metabolic disturbances such as insulin resistance, weight gain, and increased risk of type 2 diabetes and metabolic syndrome. Regular intake of high GI products worsens glycemic control and promotes the development of metabolic diseases.
+
+Increased risk of insulin resistance and type 2 diabetes
+
+Weight and fat mass gain
+
+Disturbed glycemic control
+
+Excessive consumption of high glycemic index foods promotes increased fat mass, risk of obesity, and unfavorable body composition in both adults and children. These effects intensify with long-term adherence to a diet rich in high GI products.
+
+Increased fat mass and BMI
+
+Increased appetite and overeating
+
+Fat reduction on a low GI diet
+
+Limitations and exceptions
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:54
+
+Final comment:The association between excessive consumption of high glycemic index (GI) foods and increased risk of developing type 2 diabetes, insulin resistance, cardiovascular diseases, obesity, and metabolic syndrome has been confirmed by numerous epidemiological, clinical studies, and meta-analyses. The findings indicate a significant negative impact of high GI on metabolic parameters and body composition in both adults and children. However, some analyses suggest that the effect may depend on the duration of exposure, overall diet quality, and other factors such as protein intake or physical activity. There is also a lack of very large, long-term randomized studies in general populations that could definitively confirm the strength and universality of the effect. Therefore, the level of evidence is described as good—broad and consistent, based on solid foundations, but still requiring further supplementation.
+
+Glycemic Index, Glycemic Load, and Cardiovascular Disease and Mortality.
+
+Number of 
+
+Key takeaways:A diet with a high glycemic index is associated with an increased risk of cardiovascular disease and death, both in those with preexisting cardiovascular disease and those without such disease.
+
+Abstract:BACKGROUND
+Most data regarding the association between the glycemic index and cardiovascular disease come from high-income Western populations, with little information from non-Western countries with low or middle incomes. To fill this gap, data are needed from a large, geographically diverse population.
+
+METHODS
+This analysis includes 137,851 participants between the ages of 35 and 70 years living on five continents, with a median follow-up of 9.5 years. We used country-specific food-frequency questionnaires to determine dietary intake and estimated the glycemic index and glycemic load on the basis of the consumption of seven categories of carbohydrate foods. We calculated hazard ratios using multivariable Cox frailty models. The primary outcome was a composite of a major cardiovascular event (cardiovascular death, nonfatal myocardial infarction, stroke, and heart failure) or death from any cause.
+
+RESULTS
+In the study population, 8780 deaths and 8252 major cardiovascular events occurred during the follow-up period. After performing extensive adjustments comparing the lowest and highest glycemic-index quintiles, we found that a diet with a high glycemic index was associated with an increased risk of a major cardiovascular event or death, both among participants with preexisting cardiovascular disease (hazard ratio, 1.51; 95% confidence interval , 1.25 to 1.82) and among those without such disease (hazard ratio, 1.21; 95% CI, 1.11 to 1.34). Among the components of the primary outcome, a high glycemic index was also associated with an increased risk of death from cardiovascular causes. The results with respect to glycemic load were similar to the findings regarding the glycemic index among the participants with cardiovascular disease at baseline, but the association was not significant among those without preexisting cardiovascular disease.
+
+CONCLUSIONS
+In this study, a diet with a high glycemic index was associated with an increased risk of cardiovascular disease and death. (Funded by the Population Health Research Institute and others.).
+
+Associations of Glycemic Index and Glycemic Load with Cardiovascular Disease: Updated Evidence from Meta-analysis and Cohort Studies
+
+Number of 
+
+Key takeaways:High glycemic index and glycemic load are associated with increased risk of cardiovascular disease, particularly in females and at-risk populations.
+
+Abstract:Purpose of ReviewDiet and lifestyle patterns are considered major contributory factors for cardiovascular disease (CVD) and mortality. In particular, consuming a diet higher in carbohydrates (not inclusive of fruits and vegetables, but more processed carbohydrates) has been associated with metabolic abnormalities that subsequently may increase the risk of CVD and related mortality. Glycemic index (GI) and glycemic load (GL) are values given to foods based on how fast the body converts carbohydrates into glucose also referred to as the glycemic burden of carbohydrates from foods. Conflicting associations of how high GI and GL influence CVDs have been observed even in high-quality meta-analysis studies. We synthesize and report the associations of high GI and GL with various CVDs by sex, obesity, and geographical locations using an updated review of meta-analysis and observational studies.Recent FindingsWe identified high GI or high GL is associated with an increased risk of CVD events including diabetes (DM), metabolic syndrome (MS), coronary heart disease (CHD), stroke, and stroke mortality in the general population, and the risk of CVD outcomes appears to be stratified by sex, obesity status, and preexisting CVD. Both high GI and GL are associated with DM and CHD in the general population. However, high GI is strongly associated with DM/MS, while high GL is strongly associated with an increased risk of CHD in females. In addition, high GL is also associated with incident stroke, and appears to be associated with CVD mortality in subjects with preexisting CVD or high BMI and all-cause mortality in non-obese DM subjects. However, high GI appears to be associated with CVD or all-cause mortality only in females without CVD.SummaryHigh GI/GL is an important risk factor for CVD outcomes in the general population. High GI seems to be markedly associated with DM/MS, and it may enhance the risk of CVD or all-cause mortality in both sexes and predominately females. Although both high GI and high GL are risk factors for CHD in females, high GL is associated with CVD outcomes in at-risk populations for CVD. These data suggest that while high GI increases the propensity of CVD risk factors and mortality in healthy individuals, high GL contributes to the risk of severe heart diseases including CVD or all-cause mortality, particularly in at-risk populations. These data indicate dietary interventions designed for focusing carbohydrate quality by lowering both GI and GL are recommended for preventing CVD outcomes across all populations.
+
+Beyond diabetes: a relationship between cardiovascular outcomes and glycaemic index.
+
+Number of 
+
+Key takeaways:High glycemic index foods are positively associated with increased cardiovascular events and mortality, especially in individuals with pre-existing cardiovascular disease.
+
+Abstract:A relationship between type 2 diabetes and both (i) risk of myocardial infarction (MI) and (ii) worse outcomes after MI is well-established. Similarly, the occurrence of type 2 diabetes is associated with high glycaemic index food intake. But less certain has been the relationship between high glycaemic index and adverse cardiovascular events. Such a relationship could have important implications for public health and health policy. Accordingly, Jenkins et al. undertook a study of the effects of glycaemic index and glycaemic load on cardiovascular events and mortality in a huge, geographically diverse population of over 137 000 patients spread over five continents, and with a median follow-up of 9.5 years. The study focused on the health effects of foods with a high glycaemic index, a measure of the extent to which 50 g of carbohydrate from that specific food raises the blood glucose level. Several studieshad previously shown that the consumption of a diet with a low glycaemic index can contribute to the prevention and treatment of diabetes. However, the relationship between glycaemic index and cardiovascular risk was less certain. Moreover, most of the prior studies had examined Western populations. Ongoing changes in dietary practices, especially in nonwestern countries bring a particular urgency to understand the potential impact of these changes on cardiovascular risk. To address these questions, the investigators constructed food frequency questionnaires that were specific to individual countries and even, in the case of India, specific regions. They combined these with detailed lifestyle assessments around educational level, income, employment, smoking and alcohol habits, and cardiovascular health status. The primary outcome was a composite of major cardiovascular events (cardiovascular death, nonfatal MI, stroke, or heart failure or death from any cause) in relation to glycaemic index/glycaemic load. In the primary analysis, participants were also categorized according to the presence or absence of prior cardiovascular disease. The survey showed geographical variations in both glycaemic index (highest in China, followed by Africa and Southeast Asia) and total glycaemic load (highest in South Asia, followed by Africa and China). Data on cardiovascular events were available in almost 120 000 participants with a median time to follow-up of 9.5 years. In comparing the highest vs. lowest quintiles of glycaemic index there was a positive association with the primary composite outcome. In patients with no pre-existing cardiovascular disease, the hazard ratio was 1.21 (95% confidence interval 1.11–1.34) and in those with pre-existing cardiovascular disease hazard ratio was 1.51 (1.25–1.82). The association between the glycaemic index and the primary composite outcome was also significantly stronger among participants with a higher body mass index (BMI) compared with a lower BMI (greater or less than 25). Of course, this is an observational study and, despite the statistical adjustments, it is not possible to draw absolute conclusions on causation, but the emergence of the signal over a study incorporating such enormous cultural and socio-economic diversity is striking. This publication did not report on the associations of glycaemic index/ load with other variables of interest, such as total cholesterol, triglycerides, or the incidence of diabetes–but the maximally adjusted statistical models included adjustments for history of diabetes and the use of statins and blood pressure medication. The study also cannot take into account genetic variations, which may also compound susceptibilities to glycaemic index in relation to cardiovascular risk. However, many interesting questions arise. Firstly, there was a stepped increase in hazard ratio for the composite primary outcome across quintiles of BMI in patients with BMI greater than 25. What is the pathobiological mechanism? In other words, how is the glycaemic index translated into a disease process (or processes) that culminate in cardiovascular complications? A number of possibilities could be considered. There is a relationship between local and systemic inflammation and obesity, and there may be important considerations in relation to metabolic substrate provision, including to adipose tissue and the nutritional context of that provision. Recently, emerging data show that not only does hyperglycaemia drive myelopoiesis and atherosclerosis in experimental animals but also the pattern of hyperglycaemia is important. Specifically, transient intermittent hyperglycaemia has a particular effect that is transduced by glycolysis-dependent mechanisms in neutrophils, which in turn produce factors that drive myelopoiesis. Our own laboratory has shown an effect of hyperglycaemia on epigenetic reprogramming of bone marrow precursor cells, culminating in a trained immunity or immunologic priming state, which persists into macrophages and is pro-atherogenic. Clearly the findings of Jenkins et al. have important public health implications. Subsequent trials should establish whether interventions to modify glycaemic index or glycaemic load reduce cardiovascular events in these susceptible populations and there is increasing interest in both
+
+The Role of Glycemic Index and Glycemic Load In Cardiovascular Disease And Its Risk Factors: A Review of The Recent Literature
+
+Number of 
+
+Key takeaways:High glycemic load/index diets are associated with increased cardiovascular disease risk in women, while men's associations with CVD risk factors remain unclear.
+
+Abstract:A number of meta-analyses of cohort studies have assessed the impact of glycemic load (GL) and glycemic index (GI) on cardiovascular outcomes. The picture that emerges is that for women, a significant association appears to exist between the consumption of high GL/GI diets and increased cardiovascular disease (CVD) risk. This association appears to be stronger in those with greater adiposity and possibly in those with diabetes, although these findings are not uniform. There is also an indication that raised CRP levels may be reduced, which has special implications for women whose CRP levels, as an emerging CVD risk factor, may be higher than men. For men, the situation is not as clear-cut. Although some studies show association, the meta-analyses have not demonstrated a significant direct association with CVD, despite current evidence that risk factors, including LDL-C, may be reduced on low-GI diets. Moreover, in a recent meta-analysis, increases in dietary GL have been associated with increased risk of diabetes, another CVD risk factor, in both men and women. Studies in men expressing relative risk of CVD in relation to GL and GI, with corresponding confidence intervals, are needed to provide the necessary power for future meta-analyses on this topic.
+
+Effects of dietary glycemic index and load on children's cardiovascular risk factors.
+
+Number of 
+
+Key takeaways:High glycemic load foods predict increased BMI, fat mass, and triglycerides and decreased HDL in young children after 2 years.
+
+The glycemic index issue
+
+Number of 
+
+Key takeaways:Replacing saturated fat with refined, high glycemic index carbohydrates increases postprandial glycemia and may be detrimental for weight control and predisposition to cardiovascular and inflammatory diseases, while low glycemic index carbohydrates reduce risk.
+
+Abstract:Purpose of review In recent years, many of the concerns surrounding the glycemic index have been addressed by methodological studies and clinical trials comparing diets carefully matched for other nutrients. These findings are reviewed together with new observational evidence for the role of the dietary glycemic index in the etiology of cardiovascular disease. Recent findings The determination and classification of the glycemic index of a food product is now standardized by the International Standards Organization. Systematic studies using isoenergetic single and mixed meals have shown that glycemic index and/or glycemic load are stronger predictors of postprandial glycemia and insulinemia than carbohydrate content alone. In overweight individuals, a diet that combined modestly higher protein and lower glycemic index carbohydrates was the most effective diet for prevention of weight regain. New observational studies have reported increased risks of coronary heart disease associated with higher intakes of carbohydrates from high glycemic index foods. Epidemiological evidence has emerged linking dietary glycemic index to visceral fat and inflammatory disease mortality. Summary There is growing recognition that replacing saturated fat with refined, high glycemic index carbohydrates increases postprandial glycemia and may be detrimental for weight control and predisposition to cardiovascular and inflammatory disease. In contrast, low glycemic index carbohydrates reduce risk.
+
+The Glycemic Index, Postprandial Hypotension and Cardiovascular Disease
+
+Number of 
+
+Key takeaways:High glycemic index diets may increase cardiovascular disease risk due to the rapid digestion of carbohydrates, particularly affecting frail elderly individuals.
+
+Abstract:High glycemic index diets have been associated with an increased risk of cardiovascular disease events and all-cause mortality. We suggest that part of the reason for this association is through the effect of the rapidly digested high glycemic index
+carbohydrate diets in promoting the effects of postprandial hypotension in vulnerable individuals.
+Postprandial hypotension has been recognized as a problem especially affecting the frail elderly. The phenomenon occurs earlier in the day and includes syncope and falls acutely and more serious cardiovascular events and increased all-cause mortality in the
+longer-term. The mechanism appears to relate to the rapid digestion of carbohydrates foods. Strategies that reduce the amount of meal carbohydrates and their rate of absorption by enzyme inhibition or by delaying gastric emptying and have proved helpful as has increased fluid intake, presumably due to dilution of small intestinal contents and a reduction in the tonicity, so reducing the need for intestinal fluid secretion to dilute osmotically active sugars and products of digestion. In this way the need for increased blood flow to the gut can be reduced, that would otherwise steal blood from the systemic circulation resulting in a drop in blood pressure and an
+increase in heart rate. Slowly absorbed or low glycemic index carbohydrates would therefore appear potentially useful as part of the dietary strategy for the treatment of postprandial hypotension and conversely postprandial hypotension could be one of the reasons why high glycemic index diets have been associated with increased CVD risk.
+
+Effects on cardiovascular risk factors of a low- vs high-glycemic index Mediterranean diet in high cardiometabolic risk individuals: the MEDGI-Carb study.
+
+Number of 
+
+Key takeaways:A low-GI Mediterranean diet does not significantly affect major cardiometabolic risk factors at fasting, but may reduce postprandial plasma triglycerides in individuals at increased cardiometabolic risk.
+
+Glycemic index, postprandial glycemia and cardiovascular disease
+
+Number of 
+
+Key takeaways:Conventional high-carbohydrate diets with high glycemic index may be suboptimal for cardiovascular disease prevention, particularly in insulin-resistant individuals.
+
+Abstract:Purpose of review Several lines of evidence indicate that exaggerated postprandial glycemia puts individuals without diabetes at greater risk of developing cardiovascular disease. In large, prospective observational studies, including metaanalyses, higher 120 min post-load blood glucose and glycated hemoglobin (a measure of average blood glucose level over time) independently predict cardiovascular mortality and morbidity in individuals without diabetes. These findings imply that the glycemic nature of dietary carbohydrates may also be relevant. We aim to provide a clearer perspective on how the glycemic impact of carbohydrates may modulate development of cardiovascular disease. Recent findings In ecological studies, average dietary glycemic index (a measure of the postprandial glycemic potential of carbohydrates) and glycemic load (average glycemic index × amount of carbohydrate) predicts coronary infarct and cardiovascular disease risk factors, including HDL cholesterol, triglycerides and C-reactive protein. In short-term intervention studies of overweight and hyperlipidemic patients, low glycemic index diets lead to improvements in cardiovascular disease risk factors, including reduced LDL cholesterol and improved insulin sensitivity, as well as greater body fat loss on energy-restricted diets. Molecular studies indicate that physiological hyperglycemia induces overproduction of superoxide by the mitochondrial electron-transport chain, resulting in inflammatory responses and endothelial dysfunction. Summary Taken together, the findings suggest that conventional high-carbohydrate diets with their high glycemic index may be suboptimal, particularly in insulin-resistant individuals. Because around one in four adults has impairments in postprandial glucose regulation, the glycemic potential of carbohydrates warrants further investigation in cardiovascular disease prevention. Abbreviations BMI: body mass index; CRP: C-reactive protein; CVD: cardiovascular disease; HbA1c: hemoglobin A1c; HOMA: homeostasis model assessment; IGT: impaired glucose tolerance; PPG postprandial glycem.
+
+Glycemic index and disease.
+
+Number of 
+
+Key takeaways:High glycemic index foods are not yet proven to be detrimental to health, and it is premature to recommend avoiding them for general population.
+
+Abstract:It has been suggested that foods with a high glycemic index are detrimental to health and that healthy people should be told to avoid these foods. This paper takes the position that not enough valid scientific data are available to launch a public health campaign to disseminate such a recommendation. This paper explores the glycemic index and its validity and discusses the effect of postprandial glucose and insulin responses on food intake, obesity, type 1 diabetes, and cardiovascular disease. Presented herein are the reasons why it is premature to recommend that the general population avoid foods with a high glycemic index.
+
+Glycemic load and chronic disease.
+
+Number of 
+
+Key takeaways:High glycemic load diets are associated with increased risk of type 2 diabetes and cardiovascular disease, while low glycemic load diets may protect against obesity, colon cancer, and breast cancer.
+
+Abstract:The glycemic index (GI) has proven to be a useful nutritional concept, providing new insights into the relationship between foods and chronic disease. Observational studies suggest that diets with a high glycemic load (GI x carbohydrate content) are independently associated with increased risk of type 2 diabetes and cardiovascular disease. Postprandial hyperglycemia plays a direct pathogenic role in the disease process. Lower glucose and insulin levels are associated with improved risk profile, including high-density lipoprotein cholesterol, glycosylated proteins, oxidative status, hemostatic variables, and endothelial function. Limited evidence suggests that a low-GI diet may also protect against obesity, colon cancer, and breast cancer. Diets with a high glycemic load may affect health differently in insulin-resistant and insulin-sensitive individuals. Improvements in postprandial hyperglycemia can be brought about by manipulating either the type (i.e., GI) or amount of dietary carbohydrate, or both; at present, the GI appears to be more effective.
+
+Incretin Hormones: The Link between Glycemic Index and Cardiometabolic Diseases
+
+Number of 
+
+Key takeaways:Incretin hormones may mediate the relationship between glycemic index and cardiometabolic diseases, affecting body weight regulation, lipid metabolism, and various organ systems.
+
+Abstract:This review aimed to describe the potential mechanisms by which incretin hormones could mediate the relationship between glycemic index and cardiometabolic diseases. A body of evidence from many studies suggests that low glycemic index (GI) diets reduces the risk for type 2 diabetes and coronary heart disease. In fact, despite the extensive literature on this topic, the mechanisms underlying unfavorable effects of high GI foods on health remain not well defined. The postprandial and hormonal milieu could play a key role in the relationship between GI and cardiovascular risk. Incretin hormones, glucagon-like peptide1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP), are important regulators of postprandial homeostasis by amplifying insulin secretory responses. Response of GIP and GLP-1 to GI have been studied more in depth, also by several studies on isomaltulose, which have been taken as an ideal model to investigate the kinetics of incretin secretion in response to foods’ GI. In addition, extrapancreatic effects of these incretin hormones were also recently observed. Emerging from this have been exciting effects on several targets, such as body weight regulation, lipid metabolism, white adipose tissue, cardiovascular system, kidney, and liver, which may importantly affect the health status.
+
+Effects of high vs low glycemic index of dietary carbohydrate on cardiovascular disease risk factors and insulin sensitivity: the OmniCarb randomized clinical trial.
+
+Number of 
+
+Key takeaways:Low glycemic index diets did not improve insulin sensitivity, lipid levels, or blood pressure compared to high glycemic index diets in a DASH-type diet context.
+
+Abstract:IMPORTANCE
+Foods that have similar carbohydrate content can differ in the amount they raise blood glucose. The effects of this property, called the glycemic index, on risk factors for cardiovascular disease and diabetes are not well understood.
+
+OBJECTIVE
+To determine the effect of glycemic index and amount of total dietary carbohydrate on risk factors for cardiovascular disease and diabetes.
+
+DESIGN, SETTING, AND PARTICIPANTS
+Randomized crossover-controlled feeding trial conducted in research units in academic medical centers, in which 163 overweight adults (systolic blood pressure, 120-159 mm Hg) were given 4 complete diets that contained all of their meals, snacks, and calorie-containing beverages, each for 5 weeks, and completed at least 2 study diets. The first participant was enrolled April 1, 2008; the last participant finished December 22, 2010. For any pair of the 4 diets, there were 135 to 150 participants contributing at least 1 primary outcome measure.
+
+INTERVENTIONS
+(1) A high-glycemic index (65% on the glucose scale), high-carbohydrate diet (58% energy); (2) a low-glycemic index (40%), high-carbohydrate diet; (3) a high-glycemic index, low-carbohydrate diet (40% energy); and (4) a low-glycemic index, low-carbohydrate diet. Each diet was based on a healthful DASH-type diet.
+
+MAIN OUTCOMES AND MEASURES
+The 5 primary outcomes were insulin sensitivity, determined from the areas under the curves of glucose and insulin levels during an oral glucose tolerance test; levels of low-density lipoprotein (LDL) cholesterol, high-density lipoprotein (HDL) cholesterol, and triglycerides; and systolic blood pressure.
+
+RESULTS
+At high dietary carbohydrate content, the low- compared with high-glycemic index level decreased insulin sensitivity from 8.9 to 7.1 units (-20%, P = .002); increased LDL cholesterol from 139 to 147 mg/dL (6%, P ≤ .001); and did not affect levels of HDL cholesterol, triglycerides, or blood pressure. At low carbohydrate content, the low- compared with high-glycemic index level did not affect the outcomes except for decreasing triglycerides from 91 to 86 mg/dL (-5%, P = .02). In the primary diet contrast, the low-glycemic index, low-carbohydrate diet, compared with the high-glycemic index, high-carbohydrate diet, did not affect insulin sensitivity, systolic blood pressure, LDL cholesterol, or HDL cholesterol but did lower triglycerides from 111 to 86 mg/dL (-23%, P ≤ .001).
+
+CONCLUSIONS AND RELEVANCE
+In this 5-week controlled feeding study, diets with low glycemic index of dietary carbohydrate, compared with high glycemic index of dietary carbohydrate, did not result in improvements in insulin sensitivity, lipid levels, or systolic blood pressure. In the context of an overall DASH-type diet, using glycemic index to select specific foods may not improve cardiovascular risk factors or insulin resistance.
+
+TRIAL REGISTRATION
+clinicaltrials.gov Identifier: NCT00608049.
+
+Relevance of the Glycemic Index and Glycemic Load for Body Weight, Diabetes, and Cardiovascular Disease
+
+Number of 
+
+Key takeaways:The relationship between glycemic index and disease outcomes remains unclear, suggesting other measures of dietary quality, such as fiber and whole grains, may be more predictive of health outcomes.
+
+Abstract:Despite initial enthusiasm, the relationship between glycemic index (GI) and glycemic response (GR) and disease prevention remains unclear. This review examines evidence from randomized, controlled trials and observational studies in humans for short-term (e.g., satiety) and long-term (e.g., weight, cardiovascular disease, and type 2 diabetes) health effects associated with different types of GI diets. A systematic PubMed search was conducted of studies published between 2006 and 2018 with key words glycemic index, glycemic load, diabetes, cardiovascular disease, body weight, satiety, and obesity. Criteria for inclusion for observational studies and randomized intervention studies were set. The search yielded 445 articles, of which 73 met inclusion criteria. Results suggest an equivocal relationship between GI/GR and disease outcome. The strongest intervention studies typically find little relationship among GI/GR and physiological measures of disease risk. Even for observational studies, the relationship between GI/GR and disease outcomes is limited. Thus, it is unlikely that the GI of a food or diet is linked to disease risk or health outcomes. Other measures of dietary quality, such as fiber or whole grains may be more likely to predict health outcomes. Interest in food patterns as predictors of health benefits may be more fruitful for research to inform dietary guidance.
+
+The glycemic index and cardiovascular disease risk
+
+Number of 
+
+Key takeaways:Low-glycemic index/glycemic load foods may improve cardiovascular outcomes by reducing postprandial glycemia and promoting vascular health.
+
+Abstract:Postprandial hyperglycemia is increasingly recognized as an independent risk factor for cardiovascular disease. Glycemic “spikes” may adversely affect vascular structure and function via multiple mechanisms, including (acutely and/or chronically) oxidative stress, inflammation, low-density lipoprotein oxidation, protein glycation, and procoagulant activity. Postprandial glycemia can be reliably predicted by considering both the amount and type of carbohydrate. In particular, the glycemic index (GI), a measure of postprandial glycemic potency weight for weight of carbohydrate, has provided insights that knowledge of the sugar or starch content has not. In prospective observational studies, dietary GI and/or glycemic load independently predict cardiovascular disease, with relative risk ratios of 1.2 to 1.7 comparing highest and lowest quintiles. In randomized controlled trials in overweight subjects, diets based on low-GI carbohydrates have produced better cardiovascular-related outcomes than conventional low-fat diets. Taken together, the findings suggest that health professionals may be able to improve cardiovascular outcomes by recommending the judicious use of low-GI/glycemic load foods.
+
+Effect of Diets Differing in Glycemic Index and Glycemic Load on Cardiovascular Risk Factors: Review of Randomized Controlled-Feeding Trials
+
+Number of 
+
+Key takeaways:Dietary glycemic index and load have inconsistent effects on cardiovascular disease risk factors, with high GI/GL diets leading to higher fasting glucose levels and inconsistent results on cholesterol levels.
+
+Abstract:Despite a considerable amount of data available on the relationship between dietary glycemic index (GI) or load (GL) and cardiovascular disease (CVD) risk factors, in aggregate, the area remains unsettled. The aim of the present review was to summarize the effect of diets differing in GI/GL on CVD risk factors, by examining randomized controlled-feeding trials that provided all food and beverages to adult participants. The studies included a low and high GI/GL diet phase for a minimum of four weeks duration, and reported at least one outcome related to CVD risk; glucose homeostasis, lipid profile or inflammatory status. Ten publications representing five trials were identified. The low GI/GL compared to the high GI/GL diet unexpectedly resulted in significantly higher fasting glucose concentrations in two of the trials, and a lower area under the curve for glucose and insulin in one of the two studies during an oral glucose tolerance test. Response of plasma total, low density lipoprotein and high density lipoprotein cholesterol concentrations was conflicting in two of the studies for which data were available. There was either weak or no effect on inflammatory markers. The results of the five randomized controlled trials satisfying the inclusion criteria suggest inconsistent effects of the GI/GL value of the diet on CVD risk factors.
+
+Is the fructose index more relevant with regards to cardiovascular disease than the glycemic index?
+
+Number of 
+
+Key takeaways:The fructose index may be more relevant than the glycemic index in preventing obesity, diabetes, and cardiovascular disease, as it is linked to sugar intake, which has a low glycemic index but may contribute to the obesity and cardiovascular disease epidemic.
+
+Abstract:The glycemic index (G.I.) is a means for categorizing carbohydrates based on their ability to raise blood glucose, subsequently this index has been popularized as a way for selecting foods to reduce the risk for obesity, diabetes, and cardiovascular disease. We suggest that the G.I. is better aimed at identifying foods that stimulate insulin secretion rather than foods that stimulate insulin resistance. In this regard, fructose has a low G.I. but may be causally linked with the obesity and cardiovascular disease epidemic. The reported association of high G.I. with cardiovascular disease may be due to the association of sugar intake which contains fructose, but which has a high G.I. due to its glucose content. We propose the use of a fructose index to categorize foods and propose studies to determine the effect of low fructose diets as a means to prevent obesity, diabetes, and cardiovascular disease in the population.
+
+Efficacy of diet with low glycemic index on coronary artery disease
+
+Number of 
+
+Key takeaways:A low glycemic index diet may reduce cardiovascular risk and improve outcomes in patients with coronary artery disease by improving cardiovascular biomarkers and reducing the risk of major adverse cardiovascular events.
+
+Abstract:Coronary artery disease (CAD) is a leading cause of morbidity and mortality worldwide, with dietary factors playing a significant role in its pathogenesis. The glycemic index (GI) of foods has been implicated in cardiovascular health, with low GI diets hypothesized to reduce the risk of CAD and improve outcomes . However, the efficacy of low glycemic index diets in patients with established CAD remains uncertain.
+ 
+ 
+ 
+ This study aimed to assess the efficacy of a low glycemic index diet on coronary artery disease by evaluating changes in cardiovascular biomarkers and major adverse cardiovascular events (MACE) using Kaplan-Meier analysis and Cox regression models.
+ 
+ 
+ 
+ A randomized controlled trial was conducted involving 156 patients with established coronary artery disease (Aged 43-75 years, mean age 62.4±12.7 years, male=57%). Participants were randomized to either a low glycemic index diet group or a control group receiving standard dietary advice. Changes in cardiovascular biomarkers, including lipid profiles, inflammatory markers, and glycemic control parameters, were assessed at baseline and follow-up visits. Major adverse cardiovascular events, including myocardial infarction, stroke, and cardiovascular death, were recorded over a median follow-up period of 6.2±2.4 years. Kaplan-Meier analysis and Cox regression models were used to evaluate the association between adherence to a low glycemic index diet and MACE.
+ 
+ 
+ 
+ Preliminary analysis demonstrated significant improvements in cardiovascular biomarkers, including reductions in LDL cholesterol, triglycerides, and inflammatory markers, in the low glycemic index diet group compared to the control group (p < 0.05). Kaplan-Meier analysis revealed a lower incidence of MACE in patients adherent to the low glycemic index diet compared to non-adherent patients (log-rank p < 0.05). Cox regression analysis confirmed the independent association between adherence to a low glycemic index diet and reduced risk of MACE after adjusting for confounding factors (hazard ratio , 0.75; 95% confidence interval , 0.60-0.95; p < 0.001).
+ 
+ 
+ 
+ Our findings suggest that a low glycemic index diet may be efficacious in reducing cardiovascular risk and improving outcomes in patients with coronary artery disease. Adherence to a low glycemic index diet was associated with favorable changes in cardiovascular biomarkers and a reduced risk of major adverse cardiovascular events. Further research is warranted to confirm these findings and elucidate the mechanisms underlying the cardioprotective effects of low glycemic index diets.
+
+Role of glycemic index and glycemic load in the healthy state, in prediabetes, and in diabetes.
+
+Number of 
+
+Key takeaways:Low-glycemic index, high-fiber diets may protect against diabetes and cardiovascular disease, but more research is needed.
+
+Abstract:The choice of carbohydrate-rich foods in the habitual diet should take into account not only their chemical composition but also their ability to influence postprandial glycemia (glycemic index). Fiber-rich foods generally have a low glycemic index (GI), although not all foods with a low GI necessarily have high fiber content. Several beneficial effects of low-GI, high-fiber diets have been shown, including lower postprandial glucose and insulin responses, an improved lipid profile, and, possibly, reduced insulin resistance. In nondiabetic persons, suggestive evidence is available from epidemiologic studies that a diet based on carbohydrate-rich foods with a low-GI, high-fiber content may protect against diabetes or cardiovascular disease. However, no intervention studies have so far evaluated the potential of low-GI, high-fiber diets to reduce the risk of diabetes, although in studies aimed at diabetes prevention by lifestyle modifications, an increase in fiber consumption was often part of the intervention. In relation to prevention of cardiovascular disease, intervention studies evaluating the effect of a low-GI diet on clinical events are not available; moreover, the results of the few available intervention studies evaluating the effects of GI on the cardiovascular disease risk factor profile are not always concordant. The best evidence of the clinical usefulness of GI is available in diabetic patients in whom low-GI foods have consistently shown beneficial effects on blood glucose control in both the short-term and the long-term. In these patients, low-GI foods are suitable as carbohydrate-rich choices, provided other attributes of the foods are appropriate.
+
+The Role of Pulses in Cardiovascular Disease Risk for Adults With Diabetes
+
+Number of 
+
+Key takeaways:Pulses, high-fiber, low-glycemic index foods, can reduce cardiovascular disease risk in adults with and without diabetes by improving lipid profiles, glycemic control, and blood pressure.
+
+Abstract:Cardiovascular disease (CVD) is a leading cause of death among adults while associated comorbidities like diabetes further increase risks of CVD-related complications and mortality. Strategies to prevent and manage CVD risk, such as dietary change, are a key component for CVD and diabetes prevention and management. Pulses, defined as the dried edible seeds of plants in the legume family, have received attention for their superior nutritional composition as high-fiber, low–glycemic index foods and have been studied for their potential to reduce CVD and diabetes risk. Both observational and experimental studies conducted among adults with and without diabetes have provided support for pulses in their ability to improve lipid profiles, glycemic control, and blood pressure, all of which are major modifiable risk factors of CVD. These capabilities have been attributed to various mechanisms associated with the nutrient and phytochemical composition of pulses. Overall, this evidence provides support for the consumption of pulses as an important dietary strategy to reduce risk of CVD for those living with and without diabetes.
+
+High glycemic index foods, overeating, and obesity.
+
+Number of 
+
+Key takeaways:High-glycemic index meals promote excessive food intake in obese subjects by causing hormonal and metabolic changes.
+
+Abstract:OBJECTIVE
+The prevalence of obesity has increased dramatically in recent years. However, the role of dietary composition in body weight regulation remains unclear. The purpose of this work was to investigate the acute effects of dietary glycemic index (GI) on energy metabolism and voluntary food intake in obese subjects.
+
+METHODS
+Twelve obese teenage boys were evaluated on three separate occasions using a crossover study protocol. During each evaluation, subjects consumed identical test meals at breakfast and lunch that had a low, medium, or high GI. The high- and medium-GI meals were designed to have similar macronutrient composition, fiber content, and palatability, and all meals for each subject had equal energy content. After breakfast, plasma and serum concentrations of metabolic fuels and hormones were measured. Ad libitum food intake was determined in the 5-hour period after lunch.
+
+RESULTS
+Voluntary energy intake after the high-GI meal (5.8 megajoule ) was 53% greater than after the medium-GI meal (3.8 mJ), and 81% greater than after the low-GI meal (3.2 mJ). In addition, compared with the low-GI meal, the high-GI meal resulted in higher serum insulin levels, lower plasma glucagon levels, lower postabsorptive plasma glucose and serum fatty acids levels, and elevation in plasma epinephrine. The area under the glycemic response curve for each test meal accounted for 53% of the variance in food intake within subjects.
+
+CONCLUSIONS
+The rapid absorption of glucose after consumption of high-GI meals induces a sequence of hormonal and metabolic changes that promote excessive food intake in obese subjects. Additional studies are needed to examine the relationship between dietary GI and long-term body weight regulation.
+
+Metabolic Effects of High Glycaemic Index Diets: A Systematic Review and Meta-Analysis of Feeding Studies in Mice and Rats
+
+Number of 
+
+Key takeaways:High glycemic index diets favor weight gain, increased fat mass, and negatively affect glucose homeostasis in mice and rats, but these effects may be due to variations in other dietary constituents, such as dietary fiber.
+
+Abstract:Low glycaemic index (LGI) diets are often reported to benefit metabolic health, but the mechanism(s) responsible are not clear. This review aimed to systematically identify studies investigating metabolic effects of high glycaemic index (HGI) versus LGI diets in mice and rats. A meta-analysis was conducted to calculate an overall effect size, Hedge’s standardised mean differences (hereafter d), for each trait, with moderator variables considered in subsequent meta-regressions. Across 30 articles, a HGI diet increased five of the seven traits examined: body weight (d = 0.55; 95% confidence interval: 0.31, 0.79), fat mass (d = 1.08; 0.67, 1.49), fasting circulating insulin levels (d = 0.40; 0.09, 0.71), and glucose (d = 0.80; 0.35, 1.25) and insulin (d = 1.14; 0.50, 1.77) area under the curve during a glucose tolerance test. However, there was substantial heterogeneity among the effects for all traits and the small number of studies enabled only limited investigation of possible confounding factors. HGI diets favour body weight gain, increased adiposity and detrimentally affect parameters of glucose homeostasis in mice and rats, but these effects may not be a direct result of GI per se; rather they may be due to variation in other dietary constituents, such as dietary fibre, a factor which is known to reduce the GI of food and promote health via GI-independent mechanisms.
+
+Effect of carbohydrate intake on glycemic control among adult patients with type 2 diabetes mellitus attending Diabetes and Endocrine Diseases Center in Babel, 2022
+
+Number of 
+
+Key takeaways:High glycemic index foods, such as starch, refined grains, and added sugar, are significantly associated with poor glycemic control in type 2 diabetes patients.
+
+Abstract:Background: Diabetes mellitus is a well-known chronic, metabolic disease characterized by elevated levels of blood glucose (BG) due to obsolete or relative insulin deficiency among other pathophysiological defects. Carbohydrates have the greatest effect on BG and restriction of carbohydrate, resulting in greater reductions in BG. Poor glycemic control was related to excessive eating of refined grains. Objective: The aim of this article is to assess sociodemographic characteristics and some anthropometric measures among the study group and to estimate the effect of carbohydrates intake on glycemic control. Materials and Methods: One hundred patients with type 2 diabetes mellites (T2DM) were included in a cross-sectional study. The level of HbA1c was taken as an index to study the glycemic control of patients. Glycemic control was examined, among patients, on the basis of their glycemic index (GI) of foods eaten. A 24-h dietary recall technique was used to analyze the diet of the patients. Results: The study revealed 87% poorly controlled vs. 13% with good control. It was found that starch and refined grains intake was highly associated with glycemic control (P = 0.000). Glycemic control was highly significant in association with the intake of high GI (P = 0.000) foods. In contrast, there was no association with vegetables, fruits, and milk. Added sugar and other sweetened beverages were statistically associated with HbA1c (P = 0.002). Conclusion: There was a statistically significant association between foods of high GI and poor glycemic control. Starch, refined grains, and added sugar showed a significant association with poor glycemic control.
+
+Glycemic index, but not glycemic load, is associated with an increased risk of metabolic syndrome: Meta‐analysis of observational studies
+
+Number of 
+
+Key takeaways:High glycemic index, but not glycemic load, is associated with an increased risk of metabolic syndrome.
+
+Abstract:Diets with high glycemic index (GI) or high glycemic load (GL) have been linked to important risk factors associated with the development of metabolic syndrome (MetS), such as dyslipidemia, higher blood glucose, and insulin concentrations. However, the role of GI and GL in relation to Mets is still understudied and controversial. This review, therefore, assessed whether high GI or GL contribute to development of Mets.
+
+Testing the carbohydrate-insulin model: Short-term metabolic responses to consumption of meals with varying glycemic index in healthy adults.
+
+Number of 
+
+Key takeaways:The carbohydrate-insulin model is less supported than expected, as low glycemic index meals lead to lower energy intake changes in healthy adults, contradicting the model's predictions.
+
+Carbohydrates and insulin resistance in clinical nutrition: Recommendations from the ESPEN expert group.
+
+Number of 
+
+Key takeaways:Low-glycemic index and high-fiber diets may provide metabolic and clinical benefits for individuals with obesity, insulin resistance, and diabetes, while preventing insulin resistance and elevated glucose levels in acute conditions.
+
+Fructose consumption correlates with triglyceride-glucose index and glycemic status in healthy adults.
+
+Number of 
+
+Key takeaways:High fructose consumption negatively affects glycemic status and is significantly associated with a higher triglyceride-glucose index in healthy adults.
+
+A Single Day of Excessive Dietary Fat Intake Reduces Whole-Body Insulin Sensitivity: The Metabolic Consequence of Binge Eating
+
+Number of 
+
+Key takeaways:A single day of high-fat overfeeding impairs whole-body insulin sensitivity in young, healthy adults, suggesting that acute binge eating may have immediate metabolic health consequences.
+
+Abstract:Consuming excessive amounts of energy as dietary fat for several days or weeks can impair glycemic control and reduce insulin sensitivity in healthy adults. However, individuals who demonstrate binge eating behavior overconsume for much shorter periods of time; the metabolic consequences of such behavior remain unknown. The aim of this study was to determine the effect of a single day of high-fat overfeeding on whole-body insulin sensitivity. Fifteen young, healthy adults underwent an oral glucose tolerance test before and after consuming a high-fat (68% of total energy), high-energy (78% greater than daily requirements) diet for one day. Fasting and postprandial plasma concentrations of glucose, insulin, non-esterified fatty acids, and triglyceride were measured and the Matsuda insulin sensitivity index was calculated. One day of high-fat overfeeding increased postprandial glucose area under the curve (AUC) by 17.1% (p < 0.0001) and insulin AUC by 16.4% (p = 0.007). Whole-body insulin sensitivity decreased by 28% (p = 0.001). In conclusion, a single day of high-fat, overfeeding impaired whole-body insulin sensitivity in young, healthy adults. This highlights the rapidity with which excessive consumption of calories through high-fat food can impair glucose metabolism, and suggests that acute binge eating may have immediate metabolic health consequences for the individual.
+
+Sugar consumption, metabolic disease and obesity: The state of the controversy
+
+Number of 
+
+Key takeaways:Excess sugar consumption may promote cardiovascular disease and type 2 diabetes directly and indirectly through increased body weight and fat gain.
+
+Abstract:Abstract The impact of sugar consumption on health continues to be a controversial topic. The objective of this review is to discuss the evidence and lack of evidence that allows the controversy to continue, and why resolution of the controversy is important. There are plausible mechanisms and research evidence that supports the suggestion that consumption of excess sugar promotes the development of cardiovascular disease (CVD) and type 2 diabetes (T2DM) both directly and indirectly. The direct pathway involves the unregulated hepatic uptake and metabolism of fructose, leading to liver lipid accumulation, dyslipidemia, decreased insulin sensitivity and increased uric acid levels. The epidemiological data suggest that these direct effects of fructose are pertinent to the consumption of the fructose-containing sugars, sucrose and high fructose corn syrup (HFCS), which are the predominant added sugars. Consumption of added sugar is associated with development and/or prevalence of fatty liver, dyslipidemia, insulin resistance, hyperuricemia, CVD and T2DM, often independent of body weight gain or total energy intake. There are diet intervention studies in which human subjects exhibited increased circulating lipids and decreased insulin sensitivity when consuming high sugar compared with control diets. Most recently, our group has reported that supplementing the ad libitum diets of young adults with beverages containing 0%, 10%, 17.5% or 25% of daily energy requirement (Ereq) as HFCS increased lipid/lipoprotein risk factors for CVD and uric acid in a dose–response manner. However, un-confounded studies conducted in healthy humans under a controlled, energy-balanced diet protocol that enables determination of the effects of sugar with diets that do not allow for body weight gain are lacking. Furthermore, recent reports conclude that there are no adverse effects of consuming beverages containing up to 30% Ereq sucrose or HFCS, and the conclusions from several meta-analyses suggest that fructose has no specific adverse effects relative to any other carbohydrate. Consumption of excess sugar may also promote the development of CVD and T2DM indirectly by causing increased body weight and fat gain, but this is also a topic of controversy. Mechanistically, it is plausible that fructose consumption causes increased energy intake and reduced energy expenditure due to its failure to stimulate leptin production. Functional magnetic resonance imaging (fMRI) of the brain demonstrates that the brain responds differently to fructose or fructose-containing sugars compared with glucose or aspartame. Some epidemiological studies show that sugar consumption is associated with body weight gain, and there are intervention studies in which consumption of ad libitum high-sugar diets promoted increased body weight gain compared with consumption of ad libitum low- sugar diets. However, there are no studies in which energy intake and weight gain were compared in subjects consuming high or low sugar, blinded, ad libitum diets formulated to ensure both groups consumed a comparable macronutrient distribution and the same amounts of fiber. There is also little data to determine whether the form in which added sugar is consumed, as beverage or as solid food, affects its potential to promote weight gain. It will be very challenging to obtain the funding to conduct the clinical diet studies needed to address these evidence gaps, especially at the levels of added sugar that are commonly consumed. Yet, filling these evidence gaps may be necessary for supporting the policy changes that will help to turn the food environment into one that does not promote the development of obesity and metabolic disease.
+
+Dietary Sugars and Endogenous Formation of Advanced Glycation Endproducts: Emerging Mechanisms of Disease
+
+Number of 
+
+Key takeaways:High dietary sugar intake, particularly fructose, can contribute to the development of metabolic diseases and organ damage, emphasizing the need to limit sugar-added foods and sweetened beverages to prevent these diseases.
+
+Abstract:The rapid increase in metabolic diseases, which occurred in the last three decades in both industrialized and developing countries, has been related to the rise in sugar-added foods and sweetened beverages consumption. An emerging topic in the pathogenesis of metabolic diseases related to modern nutrition is the role of Advanced Glycation Endproducts (AGEs). AGEs can be ingested with high temperature processed foods, but also endogenously formed as a consequence of a high dietary sugar intake. Animal models of high sugar consumption, in particular fructose, have reported AGE accumulation in different tissues in association with peripheral insulin resistance and lipid metabolism alterations. The in vitro observation that fructose is one of the most rapid and effective glycating agents when compared to other sugars has prompted the investigation of the in vivo fructose-induced glycation. In particular, the widespread employment of fructose as sweetener has been ascribed by many experimental and observational studies for the enhancement of lipogenesis and intracellular lipid deposition. Indeed, diet-derived AGEs have been demonstrated to interfere with many cell functions such as lipid synthesis, inflammation, antioxidant defences, and mitochondrial metabolism. Moreover, emerging evidence also in humans suggest that this impact of dietary AGEs on different signalling pathways can contribute to the onset of organ damage in liver, skeletal and cardiac muscle, and the brain, affecting not only metabolic control, but global health. Indeed, the most recent reports on the effects of high sugar consumption and diet-derived AGEs on human health reviewed here suggest the need to limit the dietary sources of AGEs, including added sugars, to prevent the development of metabolic diseases and related comorbidities.
+
+Dietary glycemic index, glycemic load, and cancer risk: results from the EPIC-Italy study
+
+Number of 
+
+Key takeaways:High glycemic index diets are associated with increased risk of colon and bladder cancer, while high glycemic load diets may increase colon and diabetes-related cancers, but decrease rectal cancer risk.
+
+Higher prenatal dietary glycemic index in the third trimester of pregnancy is associated with infant negative affect at 6 months
+
+Number of 
+
+Key takeaways:Higher dietary glycemic index in the third trimester is associated with increased infant negative affect at 6 months, suggesting a programming effect on infant neurodevelopment.
+
+Diet and metabolic syndrome: a narrative review
+
+Number of 
+
+Key takeaways:A Mediterranean diet and DASH diet, with or without calorie restriction, can help prevent and manage metabolic syndrome by increasing fiber, low-glycemic-index foods, fish, dairy, and nuts.
+
+Abstract:Metabolic syndrome (MetS) is a highly prevalent condition defined by the presence of at least three out of five risk factors including central obesity, increased fasting glucose, high blood pressure, and dyslipidaemia. Metabolic syndrome is associated with a 2-fold increase in cardiovascular outcomes and a 1.5-fold increase in all-cause mortality. Excess energy intake and Western dietary pattern may influence the development of metabolic syndrome. By contrast, both Mediterranean diet (Med-diet) and Dietary Approaches to Stop Hypertension (DASH) diet, with or without calorie restriction, have positive effects. For the prevention and management of MetS, it is recommended to increase the daily intake of fiber-rich and low-glycaemic-index foods and the consumption of fish and dairy products, especially yogurt and nuts. Moreover, it is advisable to consume a large variety of unprocessed cereals, legumes, and fruit. Finally, it is suggested to replace saturated fatty acids with monounsaturated and polyunsaturated fatty acids and to limit the consumption of free sugars to less than 10% of the total energy intake. The aim of this narrative review is to analyze current evidence on the different dietary patterns and nutrients that may affect prevention and treatment of MetS and to discuss the underlying pathophysiological mechanisms.
+
+Dietary Glycemic Index and Glycemic Load Are Not Associated with the Metabolic Syndrome in Lebanese Healthy Adults: A Cross-Sectional Study
+
+Number of 
+
+Key takeaways:High dietary glycemic index is associated with an increased risk of metabolic syndrome, but no associations were found between glycemic load and MetS in Lebanese healthy adults.
+
+Abstract:High dietary glycemic index (GI) and glycemic load (GL) were suggested to increase the risk of metabolic syndrome (MetS). This study aims to estimate dietary GI and GL in a sample of healthy Lebanese adults and examine their association with MetS and its individual abnormalities. The study uses data from a community-based survey of 501 Lebanese urban adults. Dietary intake was assessed using a food frequency questionnaire. Biochemical, anthropometric, and blood pressure measurements were obtained. Subjects with previous diagnosis of chronic disease, metabolic abnormalities, or with incomplete data or implausible energy intakes were excluded, yielding a sample of 283. Participants were grouped into quartiles of GI and GL. Multivariate logistic regression analyses were performed. Average dietary GI and GL were estimated at 59.9 ± 8 and 209.7 ± 100.3. Participants belonging to the highest GI quartile were at increased risk of having MetS (odds ratio (OR) = 2.251, 95% CI:1.120–4.525) but this association lost significance with further adjustments. Those belonging to the second quartile of GI had significantly lower odds of having hyperglycemia (OR: 0.380, 95% CI:0.174–0.833). No associations were detected between GL and MetS. The study contributes to the body of evidence discussing the relationship between GI, GL, and MetS, in a nutrition transition context.
+
+The Glycemic Index and Human Health with an Emphasis on Potatoes
+
+Number of 
+
+Key takeaways:Understanding factors affecting glycemic index in potatoes can help develop low-GI potato varieties, aiding in combating obesity and improving meal plans for individuals with diabetes and obesity.
+
+Abstract:Diabetes and obesity are associated with the excessive intake of high-glycemic index (GI) carbohydrates, increased glycemic load (GL) foods, and inactive lifestyles. Carbohydrate-rich diets affect blood glucose levels. GI is an indicator of the impact of a specific food on blood glucose, while GL represents the quantity and quality of carbohydrates in the overall diet and their interactions. There are in vitro and in vivo methods for estimating GI and GL. These values are useful human health markers for conditions such as diabetes, obesity, and pregnancy. Potato is a major starchy vegetable, which is consumed widely and is the fourth most important crop globally. However, the GI of diets rich in starchy vegetables such as potatoes has not been studied in detail. The GI values in potatoes are affected by external and internal factors, such as methods of cooking, methods of processing, resistant starches, cultivation methods, mixed meals and food additions, and hormone levels. This review summarizes how these factors affect the GI and GL associated with diets containing potatoes. Understanding the impacts of these factors will contribute to the development of new and improved potato varieties with low GI values. The consumption of low-GI foods will help to combat obesity. The development of low-GI potatoes may contribute to the development of meal plans for individuals living with diabetes and obesity.
+
+Food Processing According to the NOVA Classification is Not Associated with Glycemic Index and Glycemic Load: Results from an Analysis of 1,995 Food Items.
+
+Number of 
+
+Key takeaways:Food processing levels do not significantly affect glycemic index and load, but ultraprocessed grains and vegetables have lower glycemic load than minimally processed foods.
+
+Abstract GS2-07: Glycemic index, glycemic load and breast cancer risk: Results from the prospective NutriNet-Santé cohort
+
+Number of 
+
+Key takeaways:Consumption of foods with high glycemic index is associated with increased breast cancer risk, potentially being a modifiable risk factor for primary breast cancer prevention.
+
+Abstract:Abstract Background: Evidence is accumulating that high dietary glycemic index (GI) and glycemic load (GL) are risk factors for several metabolic disorders, e.g. diabetes or cardiovascular diseases, but evidence on GI/GL and cancer is less consistent. However, mechanistic data suggest that food with high-GI may contribute to carcinogenesis through the insulin resistance pathway.Objective: The objective was to study the associations between dietary GI/GL and breast cancer risk.Design: Population based prospective cohort study.Setting and Participants: 81,526 women aged ≥18y (mean age: 40.8±14.0y), free of cancer at baseline and with no prevalence or incidence of diabetes, from the French NutriNet-Santé cohort (2009-2019) were included in the analyses. 24-hour dietary records linked with a nutritional composition table for &amp;gt;3,500 food/beverage items containing GI values and carbohydrate content enabled us to compute average dietary GI and GL.Main outcome measures: Associations between GI; GL; proportion of energy and proportion of carbohydrates from low-GI (GI≤55) and from medium/high-GI (GI&amp;gt;55) foods and risk of breast cancer were assessed by Cox proportional hazard models adjusted for known risk factors (sociodemographic, anthropometric, lifestyle, medical history, and nutritional factors).Results: A higher dietary GL was associated with higer postmenopausal breast cancer risk (n=572, hazard ratio for quintile 5 versus quintile 1: 1.64 confidence interval 1.06-2.55 Ptrend=0.03). Percentage of energy intake from medium/high-GI foods was associated with higher breast cancer risk (HRQ5vs.Q1=1.34 (1.05-1.71), Ptrend=0.04), more specifically postmenopausal breast cancer (HRQ5vs.Q1=1.36 (1.00-1.84), Ptrend=0.02). Carbohydrates intake from medium/high-GI foods was also associated with higher breast cancer risk (HRQ5vs.Q1=1.34 (1.05-1.71), Ptrend=0.04) in both premenopausal (HRQ5vs.Q1=1.49 (1.03-2.17), Ptrend=0.04) and postmenopausal (HRQ5vs.Q1=1.44 (1.08-1.93), Ptrend=0.03) women, whereas carbohydrates from low-GI foods was associated with lower breast cancer risk (HRQ5vs.Q1=0.74 (0.59-0.92), Ptrend=0.04), only among postmenopausal women (HRQ5vs.Q1=0.69 (0.52-0.92), Ptrend=0.03). Conclusion: The consumption of foods with high-GI was associated increased breast cancer risk. If these results are confirmed dietary GI and GL should be considered as modifiable risk factor for primary breast cancer prevention. Citation Format: Charlotte Debras, Eloi Chazelas, Bernard Srour, Chantal Julia, Emmanuelle Kesse-Guyot, Laurent Zelek, Cédric Agaësse, Nathalie Druesne-Pecollo, Pilar Galan, Serge Hercberg, Paule Latino-Martel, Mélanie Deschasaux, Mathilde Touvier. Glycemic index, glycemic load and breast cancer risk: Results from the prospective NutriNet-Santé cohort . In: Proceedings of the 2020 San Antonio Breast Cancer Virtual Symposium; 2020 Dec 8-11; San Antonio, TX. Philadelphia (PA): AACR; Cancer Res 2021;81(4 Suppl):Abstract nr GS2-07.
+
+Dampak konsumsi pangan tinggi kandungan indeks glikemik dengan kejadian diabetes mellitus tipe-II di Kabupaten Pidie
+
+Number of 
+
+Key takeaways:High glycemic index food consumption significantly impacts the incidence of type-II diabetes mellitus in individuals aged 30-59 years in Pidie Regency.
+
+Abstract:Background: Type II diabetes mellitus is a disorder of glucose metabolism disease in which the body fails to control the glucose that enters food, so blood sugar levels become high. One of the factors causing type II diabetes mellitus is the habit of consuming foods with a high glycemic index.Objective: This study aims to determine the relationship between high glycemic index food consumption and the incidence of type II diabetes mellitus.Method: The cross-sectional research design was carried out in Pidie Regency in 2021. A sample of 50 aged 30-65 years was taken purposively. Data collection of high glycemic index food consumption using a questionnaire and type-II diabetes mellitus based on examination of blood sugar levels. Statistical analysis used the Chi-square test at 95% CI.Results: The study's results have found that people with diabetes mellitus very often consume foods containing a high glycemic index, which is 40.0%. There was a significant effect between the consumption of high glycemic index food and the incidence of type II diabetes mellitus (p= 0.003).Conclusion: Consumption of food with a high glycemic index significantly impacts the incidence of type-II diabetes mellitus in the 30-59 year age group. Keywords
+
+The Impact of Excessive Sugar Consumption on Skin Health Analysis of Biological Mechanisms and Dermatological Effects
+
+Number of 
+
+Key takeaways:Excessive sugar consumption negatively affects skin health through glycation, inflammation, and hormonal disturbances, making a low-glycemic index diet potentially beneficial for prevention and treatment of skin diseases.
+
+Abstract:Introduction and purpose: 
+Excessive sugar consumption is one of the main dietary problem of the modern Western diet. Numerous studies have shown that a high intake of simple sugars is associated with an increased risk of developing various diseases such as obesity, type 2 diabetes, metabolic syndrome, and cardiovascular diseases. Moreover, the consumption of large amounts of sugar also affects skin condition, accelerating its aging and exacerbating the course of certain dermatological conditions. This study aims to present the underlying mechanisms of these processes and demonstrate the impact of a low-glycemic index diet on skin health. 
+Description of the state of knowledge: 
+The skin is the largest organ of the body, and its condition is closely linked to diet. Excessive sugar consumption can contribute to biochemical changes such as skin protein glycation, increased production of reactive oxygen species (ROS), and inflammation. The glycation process leads to damage of collagen and elastin fibers, which reduces skin elasticity and contributes to the formation of wrinkles. Elevated levels of MMP-1/MMP-2 and LOX in the skin can affect collagen fragmentation and disrupt its structural integrity. Studies have also shown that a high-glycemic index diet can exacerbate inflammatory conditions such as acne and psoriasis and promote hormonal imbalances. 
+Conclusion: 
+In summary, excessive consumption of simple sugars significantly affects skin condition through mechanisms such as glycation, inflammation induction, and hormonal disturbances. Therefore, a low-glycemic index diet may be an effective tool in the prevention and treatment of skin diseases. Future studies should focus on gaining a more precise understanding of these relationships and developing dietary recommendations to improve skin health.
+
+Hubungan tingkat pengetahuan dan konsumsi pangan indeks glikemik tinggi dengan kejadian diabetes mellitus tipe-II di Wilayah Kerja Puskesmas Mutiara Kabupaten Pidie
+
+Number of 
+
+Key takeaways:Higher knowledge of nutrition and frequent consumption of high glycemic index foods are associated with a lower incidence of type-II diabetes mellitus.
+
+Abstract:Background: Type II diabetes mellitus is a disorder of glucose metabolism disease in which the body fails to control the glucose that enters from food, so blood sugar levels become high. One of the factors causing type II diabetes mellitus is the habit of consuming foods with a high glycemic index.Objectives: This study aims to determine the relationship between the level of knowledge and high glycemic index food consumption with the incidence of type II diabetes mellitus. Methods: The design in this study is cross-sectional. Using Non-Probability Sampling, as many as 50 samples with sample criteria aged 30-65 years. The research variables were knowledge and consumption of high glycemic index food and the incidence of type-II diabetes mellitus. The study was conducted at Mutiara Health Center, Pidie Regency, from January to February 2021. Data analysis used the chi-square test.  Results: The results showed that most of the samples suffering from diabetes mellitus had good knowledge (62,0%). Consuming high glycemic index food frequently (40.0%). The incidence of type II diabetes mellitus (is 56,0%). There is a significant relationship between the level of knowledge of the sample with the incidence of type II diabetes mellitus (p= 0,023; OR= 5,192). There is a significant relationship between high glycemic index food consumption and the incidence of type II diabetes mellitus (p= 0,003). There is a significant relationship between knowledge and consumption of high glycemic index food (p= 0,031). Conclusion: Knowledge about nutrition and food consumption containing glycemic index is associated with the incidence of type-II diabetes mellitus. It is necessary to improve education and provide nutrition education to the public regarding the consumption of high glycemic index foods.
+
+The Effect of Dietary Glycemic Properties on Markers of Inflammation, Insulin Resistance, and Body Composition in Postmenopausal American Women: An Ancillary Study from a Multicenter Protein Supplementation Trial
+
+Number of 
+
+Key takeaways:High glycemic index diets do not increase inflammation or insulin resistance, but may negatively affect body composition in postmenopausal women.
+
+Abstract:Controversy exists as to whether high glycemic index/glycemic load (GI/GL) diets increase the risk of chronic inflammation, which has been postulated as a pathogenic intermediary between such diets and age-related alterations in body composition and insulin resistance. We conducted an ancillary study to a randomized, double-blind trial comparing the effects of a whey protein supplement (PRO, n = 38) and a maltodextrin supplement (CHO, n = 46) on bone density to evaluate the impact of a calibrated increase in GI/GL on inflammation, insulin resistance, and body composition in a healthy aging population. Markers of inflammation, HOMA, body composition, and GI/GL (estimated from 3-day food records) were assessed at baseline and 18 months. By 18 months, the GL in the CHO group increased by 34%, 88.4 ± 5.2 → 118.5 ± 4.9 and did not change in the PRO group, 86.5 ± 4.1 → 82.0 ± 3.6 (p < 0.0001). Despite this change there were no differences in serum CRP, IL-6, or HOMA at 18 months between the two groups, nor were there significant associations between GL and inflammatory markers. However, trunk lean mass (p = 0.0375) and total lean mass (p = 0.038) were higher in the PRO group compared to the CHO group at 18 months There were also significant associations for GL and change in total fat mass (r = 0.3, p = 0.01), change in BMI (r = 0.3, p = 0.005), and change in the lean-to-fat mass ratio (r = −0.3, p = 0.002). Our data suggest that as dietary GL increases within the moderate range, there is no detectable change in markers of inflammation or insulin resistance, despite which there is a negative effect on body composition.
+
+Ultraprocessed Foods and Obesity Risk: A Critical Review of Reported Mechanisms
+
+Number of 
+
+Key takeaways:Ultraprocessed food consumption is linked to obesity, but some ingredients may help manage weight through low-calorie sweeteners and reduced energy density.
+
+High-glycemic index foods, hunger, and obesity: is there a connection?
+
+Number of 
+
+Key takeaways:Consumption of high-glycemic index carbohydrates may increase hunger and promote overeating, suggesting that whole grain and lower GI cereals may help prevent overeating.
+
+Abstract:The relative importance of different dietary causes of obesity remains controversial. This review examines whether consumption of high-glycemic index (GI) carbohydrates may be a contributing factor. Although data from long-term studies are lacking, short-term investigations indicate that consumption of high-GI carbohydrates may increase hunger and promote overeating relative to consumption of items with a lower GI. As long-term research on GI and weight regulation accumulates, consumption of whole grain and lower GI cereals instead of highly refined cereals is a dietary change that may help prevent overeating and is consistent with current dietary guidelines.
+
+No difference in body weight decrease between a low-glycemic-index and a high-glycemic-index diet but reduced LDL cholesterol after 10-wk ad libitum intake of the low-glycemic-index diet.
+
+Number of 
+
+Key takeaways:Low-glycemic index diets do not show a greater advantage in appetite or body-weight regulation compared to high-glycemic index diets, but they do reduce LDL cholesterol and may lower total cholesterol.
+
+Abstract:BACKGROUND
+The role of glycemic index (GI) in appetite and body-weight regulation is still not clear.
+
+OBJECTIVE
+The objective of the study was to investigate the long-term effects of a low-fat, high-carbohydrate diet with either low glycemic index (LGI) or high glycemic index (HGI) on ad libitum energy intake, body weight, and composition, as well as on risk factors for type 2 diabetes and ischemic heart disease in overweight healthy subjects.
+
+DESIGN
+The study was a 10-wk parallel, randomized, intervention trial with 2 matched groups. The LGI or HGI test foods, given as replacements for the subjects' usual carbohydrate-rich foods, were equal in total energy, energy density, dietary fiber, and macronutrient composition. Subjects were 45 (LGI diet: n = 23; HGI diet: n = 22) healthy overweight women aged 20-40 y.
+
+RESULTS
+Energy intake, mean (+/- SEM) body weight (LGI diet: -1.9 +/- 0.5 kg; HGI diet: -1.3 +/- 0.3 kg), and fat mass (LGI diet: -1.0 +/- 0.4 kg; HGI diet: -0.4 +/- 0.3 kg) decreased over time, but the differences between groups were not significant. No significant differences were observed between groups in fasting serum insulin, homeostasis model assessment for relative insulin resistance, homeostasis model assessment for beta cell function, triacylglycerol, nonesterified fatty acids, or HDL cholesterol. However, a 10% decrease in LDL cholesterol (P < 0.05) and a tendency to a larger decrease in total cholesterol (P = 0.06) were observed with consumption of the LGI diet as compared with the HGI diet.
+
+CONCLUSIONS
+This study does not support the contention that low-fat LGI diets are more beneficial than HGI diets with regard to appetite or body-weight regulation as evaluated over 10 wk. However, it confirms previous findings of a beneficial effect of LGI diets on risk factors for ischemic heart disease.
+
+The Short-Term Effect of a High-Glycemic Diet on Mouse Obesity and Intestinal Microbiota Composition
+
+Number of 
+
+Key takeaways:A high-glycemic diet induces obesity and hyperglycemia in mice, with a shift in gut microbiota composition compared to a low-glycemic diet.
+
+Abstract:High glycemic index diet has been demonstrated to induce obesity and insulin resistance. The role of gut microbiota, as a key mediator of several metabolic syndromes, has not been elucidated. The objective of this project is to understand the effect of gut microbiota in a high-glycemic diet-induced obesity and associated metabolic complications.
+ 
+ 
+ 
+ Male C57Bl6/J mice aged 8–9 weeks were fed with a high-glycemic diet (HG, amylopectin-based) or low-glycemic diet (LG, amylose-based) ad libitum for 8 weeks. Body composition was determined by MRIs. Intraperitoneal glucose tolerance tests were performed after 6 weeks on diet. Mice were euthanized after 8 weeks on diet.
+ 
+ 
+ 
+ After two weeks on diet, the HG group (n = 12) mice had a significantly higher body fat mass by MRI analysis, as compared to the LG group (n = 12) despite having similar body weight and equal food consumption. After 6 weeks, mice in the HG group had a significantly higher fasting glucose level compared to the LG group. There was no difference in fasting triglyceride level. Gonadal, subcutaneous and brown fat adipose tissue weight were significantly higher in the HG group after 8 weeks on diet. 16S rDNA sequencing on feces showed that the HG mice have a significantly higher Shannon diversity and different overall microbiome structure compared to the LG mice. The microbial community in the LG group was predominated by Bacteroidetes, particularly by Bacteroides thetaiotaomicron (Relative abundance 48.65 ± 12.88% versus HG 14.69 ± 0.07%), while the HG group was predominated by Firmicutes. Ongoing analysis will investigate the relative role of key microbial taxa on obesity and glucose homeostasis.
+ 
+ 
+ 
+ Consuming two weeks of a high-glycemic index diet induced adiposity and hyperglycemia along with a shift of the overall gut microbiota composition compared to a low-glycemic index diet.
+ 
+ 
+ 
+ NIH, USDA, Robert C and Veronica Atkins Foundation
+
+The Effect of Protein and Glycemic Index on Children's Body Composition: The DiOGenes Randomized Study
+
+Number of 
+
+Key takeaways:High protein/low glycemic index diets protect against obesity, while low protein/high glycemic index diets increase body fat in children.
+
+Abstract:OBJECTIVE: To investigate the effect of protein and glycemic index (GI) on body composition among European children in the randomized, 6-month dietary intervention DiOGenes (diet, obesity, and genes) family-based study. PATIENTS AND METHODS: In the study, 827 children (381 boys and 446 girls), aged 5 to 18 years, completed baseline examinations. Families with parents who lost ≥8% of their weight during an 8-week run-in low-calorie diet period were randomly assigned to 1 of 5 ad libitum diets: low protein (LP)/low glycemic index (LGI); LP/high GI (HGI); high protein (HP)/LGI; HP/HGI; and control diet. The target difference was 15 GI U between the LGI/HGI groups and 13 protein percentage points between the LP/HP groups. There were 658 children examined after 4 weeks. Advice on food-choice modification was provided at 6 visits during this period. No advice on weight loss was provided because the focus of the study was the ability of the diets to affect outcomes through appetite regulation. Anthropometric measurements and body composition were assessed at baseline, week 4, and week 26. RESULTS: In the study, 465 children (58.1%) completed all assessments. The achieved differences between the GI and protein groups were 2.3 GI U and 4.9 protein percentage points, respectively. The LP/HGI group increased body fat percentage significantly more than the other groups (P = .040; partial η2 = 0.039), and the percentage of overweight/obese children in the HP/LGI group decreased significantly during the intervention (P = .031). CONCLUSIONS: Neither GI nor protein had an isolated effect on body composition. However, the LP/HGI combination increased body fat, whereas the HP/LGI combination was protective against obesity in this sample of children.
+
+Effects of cashew nut consumption on body composition and glycemic indices: A meta-analysis and systematic review of randomized controlled trials.
+
+Number of 
+
+Key takeaways:Cashew nut consumption has no significant effect on body composition or glycemic indices.
+
+Is frequency of sugary food consumption associated with body mass index?
+
+Number of 
+
+Key takeaways:High sugary food consumption frequency is not associated with overweight in children, except for those sleeping more than recommended.
+
+Abstract:Abstract Relatively convincing evidence suggests that diets with large amounts of added sugar, especially from sugar-sweetened beverages, are associated with excess weight in children. Less is known about the association of consumption frequency of sugary foods with body mass index (BMI). We evaluated frequency of sugary food consumption in children (n = 8,990, mean age 11.1, ± 0.9) from the Finnish Health in Teens (Fin-HIT) cohort study. They answered a questionnaire including a 16-item food frequency questionnaire (FFQ) and lifestyle-related questions, e.g. sleep duration and leisure time physical activity. Their measured BMI was categorized as underweight, normal-weight, and overweight. Based on the FFQ with six sugary food items (chocolate/sweets, biscuits/cookies, ice cream, sweet pastry, sugary juice drinks and sugary soft drinks), a sugary food index (SFI) was derived to indicate a mean frequency of weekly sugary food consumption. Frequency was estimated with a range of 0–14 times a week. Based on quartiles (Q) of SFI, children were categorized as low (Q1, cut-off < 0.7), medium (Q2 + Q3, cut-off 0.7–1.8), and high (Q4, cut-off > 1.8) consumers. Multinomial logistic regression analysis was conducted to obtain odds ratios (OR) with 95% confidence intervals. Compared with normal-weight children, high consumers had a higher risk for underweight (OR 1.22 ) and a lower risk for overweight (OR 0.86 ), and low consumers had a higher risk for overweight (OR 1.32 ). We further stratified the analysis by sleep duration since we found an interaction between sleep duration and SFI (p < 0.001). In children with recommended sleep duration (n = 8070), we yielded similar results as in the whole group. In children who slept more than recommended (n = 191), high consumers had a higher risk for overweight (OR 3.31 ) compared with normal-weight children. Our results suggest that consuming sugary foods with high frequency is not associated with overweight, except in those sleeping more than recommended. Association between low consumption frequency and overweight may imply that overweight children's consumption frequency of sugary foods is controlled, restricted, or under-reported because of social desirability.
+
+Relation of dietary glycemic index, glycemic load, added sugar intake, or fiber intake to the development of body composition between ages 2 and 7 y.
+
+Number of 
+
+Key takeaways:Dietary glycemic index, glycemic load, added sugar, or fiber intake between ages 2 and 7 does not influence body composition development, and potential benefits from increasing fiber intake are limited to toddlers with a lower meal frequency.
+
+Abstract:BACKGROUND
+Observational studies in adults suggest that a diet with a high glycemic index (GI) or glycemic load (GL), a high intake of sugary foods, or a low fiber intake may increase the risk of overweight.
+
+OBJECTIVES
+We aimed to examine prospectively whether dietary GI, GL, added sugar intake, or fiber intake between age 2 and 7 y are associated with the development of body composition. If so, we aimed to ascertain whether these associations are modified by meal frequency.
+
+DESIGN
+Linear mixed-effect regression analyses were performed in 380 participants of the DOrtmund Nutrition and Anthropometric Longitudinally Designed (DONALD) Study for whom 4-6 weighed 3-d dietary records and anthropometric data were obtained between ages 2 and 7 y.
+
+RESULTS
+Changes in dietary GI, GL, or added sugar intake between ages 2 and 7 y were not associated with concurrent changes in percentage body fat (%BF, as estimated from skinfold thicknesses) or body mass index SD scores. An increase in fiber intake was related to a concurrent decrease in %BF between ages 2 and 7 y only in children who consumed <6 meals/d as toddlers (beta +/- SE from fully adjusted model: -0.26 +/- 0.09%BF per 1-SD increase in fiber intake, P = 0.005), whereas children with a higher meal frequency had no concurrent change (0.07 +/- 0.07%BF per 1-SD increase in fiber intake, P = 0.3).
+
+CONCLUSIONS
+Dietary GI, GL, or added sugar intake between ages 2 and 7 y does not appear to influence the development of body composition. Potential benefits associated with increasing fiber intake throughout childhood may be limited to toddlers with a lower meal frequency.
+
+Low glycemic index diet reduces body fat and attenuates inflammatory and metabolic responses in patients with type 2 diabetes
+
+Number of 
+
+Key takeaways:A low glycemic index diet reduces body fat and prevents negative metabolic and inflammatory responses in patients with type 2 diabetes.
+
+Abstract:ABSTRACT Objective The aim of this study was to verify the effects of glycemic index (GI) on body composition, and on inflammatory and metabolic markers concentrations in patients with type 2 diabetes. Subjects and methods In this randomized controlled parallel trial, twenty subjects (aged 42.4 ± 5.1 years, BMI 29.2 ± 4.8 kg.m-2) were allocated to low GI (LGI) (n = 10) or high GI (HGI) (n = 10) groups. Body composition, inflammatory and metabolic markers were assessed at baseline and after 30 days of intervention. Food intake was monitored during the study using three-day food records completed on two non-consecutive weekdays and on a weekend day. Results Body fat reduced after the LGI intervention compared with baseline (P = 0.043) and with the HGI group (P = 0.036). Serum fructosamine concentration (P = 0.031) and TNF-α mRNA expression (P = 0.05) increased in the HGI group. Serum non-esterified fatty acids were greater in the HGI than in the LGI group (P = 0.032). IL-6 mRNA expression tended to decrease after the consumption of the LGI diet compared to baseline (P = 0.06). Conclusion The LGI diet reduced body fat and prevented the negative metabolic and inflammatory responses induced by the HGI diet.
+
+Effect of a Low-Glycemic Index Nutritional Intervention on Body Weight and Selected Cardiometabolic Parameters in Children and Adolescents with Excess Body Weight and Dyslipidemia
+
+Number of 
+
+Key takeaways:Both low-glycemic index and standard therapy diets effectively reduce body weight, body fat, blood pressure, total cholesterol, and triglyceride levels in children and adolescents with excess body weight and dyslipidemia.
+
+Abstract:Excess body weight in pediatric patients and the resulting dyslipidemia, if left untreated, are a serious risk factor for cardiovascular disease in young adults. Despite this, there is still no effective and validated nutritional strategy for the treatment of overweight/obesity and comorbid dyslipidemia in children and adolescents. A low-glycemic index (LGI) diet may be recommended, but evidence for its effectiveness in the pediatric population is limited. The aim of this study was to evaluate the effectiveness of nutritional intervention in children and adolescents with excess body weight and dyslipidemia. The study was conducted in patients aged 8–16 with overweight or obesity and lipid disorders (n = 64), of which 40 participants who completed the entire 8-week study were included in the analysis. Patients were randomly selected and allocated to one of the two dietary groups: the LGI diet or the standard therapy (ST) diet. Both diets were based on the principal recommendation of Cardiovascular Health Integrated Lifestyle Diet-2 (CHILD-2). This study showed that both LGI and ST diets were equally beneficial in reducing body weight, body fat, blood pressure, total cholesterol (TC), and triglyceride (TG) levels. The LGI diet, compared to the ST diet, was less effective in reducing blood TG levels but more effective in reducing diastolic blood pressure (DBP). Therefore, the choice of the type of diet in the treatment of children and adolescents with excess body weight and dyslipidemia may be individual. However, it should be based on the recommendation of CHILD-2. Further long-term, larger-scale studies are needed.
+
+The consumption of low glycemic meals reduces abdominal obesity in subjects with excess body weight.
+
+Number of 
+
+Key takeaways:Consuming low glycemic foods may help prevent and control abdominal obesity and associated metabolic diseases.
+
+Abstract:OBJECTIVE
+To evaluate the effect of the glycemic index (GI) on food intake, anthropometric measurements and body composition in subjects with excess body weight.
+
+METHODS
+Crossover study, in which 17 subjects participated in two study sessions (high GI or low GI). Two daily meals were consumed in laboratory for 30 consecutive days in each session. Subjects also consumed under free living conditions 3 daily isocaloric servings of fruits, presenting the same GI as the session in which they were participating. At each 15 days, subjects were submitted to body composition (lean mass and fatty mass) and anthropometric indexes (weight, height, body mass index, waist circumference (WC), hip circumference, hip-waist relation (WHC)) assessment. Habitual food intake was assessed before and at the end of each session. Subjects were instructed to maintain the same level of physical activity during the study.
+
+RESULTS
+There was a significant reduction on WC and WHC after the low GI session. The other parameters did not differ between the treatments applied in this study.
+
+CONCLUSION
+These results suggest that the consumption of low GI foods may favor the prevention and control abdominal obesity and the associated metabolic diseases.
+
+Both macronutrient food composition and fasting insulin resistance affect postprandial glycemic responses in senior subjects.
+
+Number of 
+
+Key takeaways:High protein foods lower blood glucose levels, while high carbohydrate foods do not, and both food composition and baseline glycemic state play a role in assessing glycemic index estimations.
+
+Abstract:INTRODUCTION
+Postprandial hyperglycemia is a risk factor for type 2 diabetes. Insulin resistance (IR) might affect metabolic responses in non-fasting states. Dietary intake and food composition influence postprandial glucose homeostasis. The aims of this study were to evaluate the effects of different test foods varying in the macronutrient composition on postprandial glycemic responses and whether these outcomes are conditioned by the basal glycemic status in senior subjects.
+
+METHODS
+In a randomized, controlled crossover design, thirty-four adults consumed a test food, a high protein product (n = 19) or a high carbohydrate (CHO) product (n = 15), using the oral glucose tolerance test (OGTT) as a reference. Blood glucose and insulin were measured at fasting and at 15, 30, 45, 60, 90, and 120 min after starting the food intake. For each type of food, the incremental area under the curve (iAUC) for glucose and insulin was calculated. IR was measured using the Homeostatic Model Assessment of IR (HOMA-IR).
+
+RESULTS
+Consumption of a high protein product significantly lowered the peak and Δ blood glucose concentrations compared to the high CHO product (p < 0.001). Concerning the insulin response, no significant differences between both foods were observed. Fasting glucose was positively correlated with the glucose iAUC only for the high protein product. Positive associations of both fasting insulin and HOMA-IR with the insulin iAUC for all the cases were observed. Linear regression models showed significant positive associations between the glucose iAUC and fasting glucose after adjusting for age and sex. Regarding the insulin iAUC, positive associations were found with fasting insulin and HOMA-IR. Regression models also evidenced that both food test consumptions were able to decrease the glucose and insulin iAUC values when compared with the OGTT product.
+
+CONCLUSION
+Our research found that not only is the nutritional composition of foods important, but also the baseline glycemic state of individuals when assessing glycemic index estimations and addressing precision nutritional strategies to prevent and treat IR-associated disturbances.
+
+Effect of Low and High Glycemic Index Meals on Hunger and Satiety
+
+Number of 
+
+Key takeaways:Eating meals with a low and medium glycemic index reduces hunger and satiation in adult women, leading to increased food intake and calorie consumption.
+
+Abstract:Recently, people suffer from the inability to maintain weight with an increasing body mass, and this may be due to several reasons, including the type and quantity of food. In current study, the effect of the glycemic index of foods (high-low-medium) on the speed of return of hunger in adult women was discussed. Non-pregnant or lactating women who do not suffer from chronic diseases such as diabetes and pressure, for three days in a row for breakfast, lunch, and dinner, by calculating the number of hours preceding the feeling of hunger, as the results showed that the least hours of hunger were after eating foods with a low glycemic index and then followed by foods with a medium glycemic index, and the number of hours of starvation after eating foods with a high glycemic index was the least, and this leads to an increase in subsequent food intake and an increase in calories during the day. The results indicated: first day that are high in the glycemic index (breakfast). Highest percentage of feeling hungry was 30% after 4 h (lunch). The highest percentage of feeling hungry was 30% after 3 h, (dinner), the highest percentage of not feeling hungry by 50%. The second day with a low glycemic index (breakfast). The highest percentage of feeling hungry after 4 h was 30%, (lunch). The highest percentage of feeling hungry after 4 h was 30%, (dinner). The highest percentage of not feeling hungry was 80%. Third day with a medium glycemic index (breakfast). The highest percentage of feeling hungry was after 3 h and 4 h, with a percentage of 30%, (lunch), the highest percentage of feeling hungry after 4 h, with a percentage of 30%, (dinner), the highest percentage of not feeling hungry by 70%, which increases body mass and weight continuously, and this leads to an increase in vulnerability to chronic diseases. Therefore, it is important to preserve and be careful to eat meals with a low and medium glycemic index in the diets, with the addition of foods with a high glycemic index, without negligence or excess, and we look forward to increasing the research on the effect of the glycemic index of food on the speed of return of hunger while standardizing the quantity and type of food for all volunteers.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

@@ -1,0 +1,684 @@
+PROTOCOL: Zinc
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: 
+DESCRIPTION: Zinc is an essential trace element critical for the proper functioning of the immune system, regulation of glucose and lipid metabolism, and maintenance of healthy skin. Supplementation may enhance immune response, support glycemic and lipid control, accelerate wound healing, and reduce skin inflammation. Zinc is especially important for individuals with deficiencies, metabolic disorders, or chronic skin conditions.
+
+CONTENT SECTIONS:
+
+Support for immunity, metabolism, and skin health
+
+Zinc is an essential trace element critical for the proper functioning of the immune system, regulation of glucose and lipid metabolism, and maintenance of healthy skin. Supplementation may enhance immune response, support glycemic and lipid control, accelerate wound healing, and reduce skin inflammation. Zinc is especially important for individuals with deficiencies, metabolic disorders, or chronic skin conditions.
+
+Level of evidence:Strong
+
+Zinc is involved in the activity of over 300 enzymes, supporting immune processes, protein synthesis, antioxidant activity, and tissue repair. It affects insulin production and function, regulates lipid levels, stabilizes cell membranes, and limits inflammatory responses. Zinc supplementation replenishes deficiencies, improving the efficiency of these processes at the cellular and tissue level.
+
+Zinc is generally well tolerated, and adverse effects are rare, mainly occurring with high doses or prolonged supplementation. In healthy individuals, the risk of serious side effects is low, but excessive intake may lead to copper imbalance and impaired immunity.
+
+Zinc supplementation is not recommended for everyone. Particular caution should be exercised by individuals with certain conditions or those taking specific medications.
+
+Typically 15–30 mg per day; higher doses may be used under medical supervision in cases of deficiency.
+
+Tablets, capsules, powder, syrup, topical forms (ointments, creams)
+
+Improvements in immunity and metabolism usually observed within 2–8 weeks of supplementation.
+
+With or after meals (to reduce the risk of gastrointestinal discomfort)
+
+What not to combine with
+
+Avoid taking with high doses of iron, calcium, or copper – they may interfere with absorption.
+
+Supportively with vitamin C or B vitamins
+
+Choosing the form of supplement
+
+Choose the form of zinc (e.g., gluconate, picolinate, citrate) based on preference and tolerance – organic forms are best absorbed.
+
+Supplementation breaks
+
+During long-term use, take periodic breaks and monitor blood levels of zinc and copper.
+
+Topical supplementation
+
+For skin conditions (acne, wounds), consider topical zinc preparations.
+
+Avoid taking zinc simultaneously with phytate-rich foods (whole grains, seeds), which may reduce absorption.
+
+With prolonged use or higher doses, medical consultation and periodic lab tests (zinc, copper, CBC) are recommended.
+
+Zinc plays a key role in the proper functioning of the immune system. Zinc deficiency weakens immunity, while supplementation can improve immune response and reduce the risk of infections and chronic inflammation.
+
+Mechanisms of zinc action on the immune system
+
+Effects of zinc deficiency and supplementation
+
+Zinc is essential for proper metabolism, especially in regulating lipid and carbohydrate metabolism. Its supplementation may positively influence lipid profile, glycemic control, and reduce the risk of metabolic disorders, particularly in individuals with zinc deficiency or metabolic disease.
+
+Effects of zinc on lipid and glucose metabolism
+
+Examples of zinc supplementation effects
+
+Limitations and uncertainties
+
+Zinc is a key trace element for skin health – it supports regeneration, wound healing, protection against oxidative stress, and reduces inflammation. Supplementation shows particular benefits in people with zinc deficiency or chronic skin diseases.
+
+Mechanisms of zinc action on the skin
+
+Use of zinc in skin diseases
+
+Zinc deficiency and skin
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:76
+
+Final comment:The effectiveness of zinc in supporting immunity, regulating glucose and lipid metabolism, and improving skin health and wound healing has been confirmed by numerous high-quality scientific studies, including meta-analyses, systematic reviews, and many randomized clinical trials in humans. The evidence comes from studies involving various populations, including healthy individuals and those with metabolic disorders or zinc deficiencies. The beneficial effects of zinc supplementation on selected metabolic markers, immunity, and skin regeneration processes are consistent and well documented in the scientific literature. In certain indications, such as cancer prevention or impact on body composition in healthy individuals, results are less conclusive. However, the primary uses of zinc are strongly supported by robust clinical trials and systematic reviews.
+
+Dietary and Physiological Effects of Zinc on the Immune System.
+
+Number of 
+
+Key takeaways:Zinc supplementation is crucial for maintaining a balanced immune response and preventing autoimmune reactions and cancers.
+
+Abstract:Evidence for the importance of zinc for all immune cells and for mounting an efficient and balanced immune response to various environmental stressors has been accumulating in recent years. This article describes the role of zinc in fundamental biological processes and summarizes our current knowledge of zinc's effect on hematopoiesis, including differentiation into immune cell subtypes. In addition, the important role of zinc during activation and function of immune cells is detailed and associated with the specific immune responses to bacteria, parasites, and viruses. The association of zinc with autoimmune reactions and cancers as diseases with increased or decreased immune responses is also discussed. This article provides a broad overview of the manifold roles that zinc, or its deficiency, plays in physiology and during various diseases. Consequently, we discuss why zinc supplementation should be considered, especially for people at risk of deficiency. Expected final online publication date for the Annual Review of Nutrition, Volume 41 is September 2021. Please see for revised estimates.
+
+Zinc as a Gatekeeper of Immune Function
+
+Number of 
+
+Key takeaways:Zinc deficiency leads to pro-inflammatory phenotypes and links altered zinc homeostasis to disease development, emphasizing the importance of zinc supplementation for immune system function.
+
+Abstract:After the discovery of zinc deficiency in the 1960s, it soon became clear that zinc is essential for the function of the immune system. Zinc ions are involved in regulating intracellular signaling pathways in innate and adaptive immune cells. Zinc homeostasis is largely controlled via the expression and action of zinc “importers” (ZIP 1–14), zinc “exporters” (ZnT 1–10), and zinc-binding proteins. Anti-inflammatory and anti-oxidant properties of zinc have long been documented, however, underlying mechanisms are still not entirely clear. Here, we report molecular mechanisms underlying the development of a pro-inflammatory phenotype during zinc deficiency. Furthermore, we describe links between altered zinc homeostasis and disease development. Consequently, the benefits of zinc supplementation for a malfunctioning immune system become clear. This article will focus on underlying mechanisms responsible for the regulation of cellular signaling by alterations in zinc homeostasis. Effects of fast zinc flux, intermediate “zinc waves”, and late homeostatic zinc signals will be discriminated. Description of zinc homeostasis-related effects on the activation of key signaling molecules, as well as on epigenetic modifications, are included to emphasize the role of zinc as a gatekeeper of immune function.
+
+Zinc and immunity: An essential interrelation.
+
+Number of 
+
+Key takeaways:Zinc deficiency negatively impacts immune cell function, leading to altered host defense, increased inflammation, and even death.
+
+Antioxidant and anti-inflammatory effects of zinc. Zinc-dependent NF-κB signaling
+
+Number of 
+
+Key takeaways:Zinc has antioxidant and anti-inflammatory properties, reducing oxidative stress and inflammation, and modulating immune response.
+
+Abstract:Zinc is a nutritionally fundamental trace element, essential to the structure and function of numerous macromolecules, including enzymes regulating cellular processes and cellular signaling pathways. The mineral modulates immune response and exhibits antioxidant and anti-inflammatory activity. Zinc retards oxidative processes on a long-term basis by inducing the expression of metallothioneins. These metal-binding cysteine-rich proteins are responsible for maintaining zinc-related cell homeostasis and act as potent electrophilic scavengers and cytoprotective agents. Furthermore, zinc increases the activation of antioxidant proteins and enzymes, such as glutathione and catalase. On the other hand, zinc exerts its antioxidant effect via two acute mechanisms, one of which is the stabilization of protein sulfhydryls against oxidation. The second mechanism consists in antagonizing transition metal-catalyzed reactions. Zinc can exchange redox active metals, such as copper and iron, in certain binding sites and attenuate cellular site-specific oxidative injury. Studies have demonstrated that physiological reconstitution of zinc restrains immune activation, whereas zinc deficiency, in the setting of severe infection, provokes a systemic increase in NF-κB activation. In vitro studies have shown that zinc decreases NF-κB activation and its target genes, such as TNF-α and IL-1β, and increases the gene expression of A20 and PPAR-α, the two zinc finger proteins with anti-inflammatory properties. Alternative NF-κB inhibitory mechanism is initiated by the inhibition of cyclic nucleotide phosphodiesterase, whereas another presumed mechanism consists in inhibition of IκB kinase in response to infection by zinc ions that have been imported into cells by ZIP8.
+
+The Role of Zinc in Antiviral Immunity
+
+Number of 
+
+Key takeaways:Zinc supplementation is a proven antiviral agent and stimulant, with potential benefits for treating viral infections like herpes simplex virus and the common cold.
+
+Abstract:ABSTRACT Zinc is an essential trace element that is crucial for growth, development, and the maintenance of immune function. Its influence reaches all organs and cell types, representing an integral component of approximately 10% of the human proteome, and encompassing hundreds of key enzymes and transcription factors. Zinc deficiency is strikingly common, affecting up to a quarter of the population in developing countries, but also affecting distinct populations in the developed world as a result of lifestyle, age, and disease-mediated factors. Consequently, zinc status is a critical factor that can influence antiviral immunity, particularly as zinc-deficient populations are often most at risk of acquiring viral infections such as HIV or hepatitis C virus. This review summarizes current basic science and clinical evidence examining zinc as a direct antiviral, as well as a stimulant of antiviral immunity. An abundance of evidence has accumulated over the past 50 y to demonstrate the antiviral activity of zinc against a variety of viruses, and via numerous mechanisms. The therapeutic use of zinc for viral infections such as herpes simplex virus and the common cold has stemmed from these findings; however, there remains much to be learned regarding the antiviral mechanisms and clinical benefit of zinc supplementation as a preventative and therapeutic treatment for viral infections.
+
+Regulatory Role of Zinc in Immune Cell Signaling
+
+Number of 
+
+Key takeaways:Zinc plays a crucial role in immune cell signaling, regulating the activity and function of monocytes, macrophages, and T cells, which play key roles in innate and adaptive immune systems.
+
+Abstract:Zinc is an essential micronutrient with crucial roles in multiple facets of biological processes. Dysregulated zinc homeostasis impairs overall immune function and resultantly increases susceptibility to infection. Clinically, zinc supplementation is practiced for treatment of several infectious diseases, such as diarrhea and malaria. Recent focus on zinc as a beneficial element for immune system support has resulted in investigation of the immunomodulatory roles of zinc in a variety of immune cells. Besides its classical role as a cofactor that regulates the structural function of thousands of proteins, accumulating evidence suggests that zinc also acts, in a manner similar to calcium, as an ionic regulator of immune responses via participation as an intracellular messenger in signaling pathways. In this review, we focus on the role of zinc as a signaling molecule in major pathways such as those downstream of Toll-like receptors-, T cell receptor-, and cytokine-mediated signal transduction that regulate the activity and function of monocytes/macrophages and T cells, principal players in the innate and adaptive immune systems.
+
+Zinc and its role in immunity and inflammation.
+
+Number of 
+
+Key takeaways:Zinc deficiency negatively impacts immune response and inflammation, potentially contributing to rheumatoid arthritis.
+
+Zinc in Infection and Inflammation
+
+Number of 
+
+Key takeaways:Zinc deficiency leads to immune dysfunction, worsened bacterial infection and sepsis outcomes, and increased inflammation, highlighting the importance of maintaining proper zinc homeostasis for a healthy immune system.
+
+Abstract:Micronutrient homeostasis is a key factor in maintaining a healthy immune system. Zinc is an essential micronutrient that is involved in the regulation of the innate and adaptive immune responses. The main cause of zinc deficiency is malnutrition. Zinc deficiency leads to cell-mediated immune dysfunctions among other manifestations. Consequently, such dysfunctions lead to a worse outcome in the response towards bacterial infection and sepsis. For instance, zinc is an essential component of the pathogen-eliminating signal transduction pathways leading to neutrophil extracellular traps (NET) formation, as well as inducing cell-mediated immunity over humoral immunity by regulating specific factors of differentiation. Additionally, zinc deficiency plays a role in inflammation, mainly elevating inflammatory response as well as damage to host tissue. Zinc is involved in the modulation of the proinflammatory response by targeting Nuclear Factor Kappa B (NF-κB), a transcription factor that is the master regulator of proinflammatory responses. It is also involved in controlling oxidative stress and regulating inflammatory cytokines. Zinc plays an intricate function during an immune response and its homeostasis is critical for sustaining proper immune function. This review will summarize the latest findings concerning the role of this micronutrient during the course of infections and inflammatory response and how the immune system modulates zinc depending on different stimuli.
+
+Zinc in Human Health and Infectious Diseases
+
+Number of 
+
+Key takeaways:Zinc deficiency is linked to various immune disorders and infectious diseases, and its supplementation may be a preventive and therapeutic agent for reducing infectious diseases.
+
+Abstract:During the last few decades, the micronutrient zinc has proven to be an important metal ion for a well-functioning immune system, and thus also for a suitable immune defense. Nowadays, it is known that the main cause of zinc deficiency is malnutrition. In particular, vulnerable populations, such as the elderly in Western countries and children in developing countries, are often affected. However, sufficient zinc intake and homeostasis is essential for a healthy life, as it is known that zinc deficiency is associated with a multitude of immune disorders such as metabolic and chronic diseases, as well as infectious diseases such as respiratory infections, malaria, HIV, or tuberculosis. Moreover, the modulation of the proinflammatory immune response and oxidative stress is well described. The anti-inflammatory and antioxidant properties of zinc have been known for a long time, but are not comprehensively researched and understood yet. Therefore, this review highlights the current molecular mechanisms underlying the development of a pro-/ and anti-inflammatory immune response as a result of zinc deficiency and zinc supplementation. Additionally, we emphasize the potential of zinc as a preventive and therapeutic agent, alone or in combination with other strategies, that could ameliorate infectious diseases.
+
+Zinc Signals and Immunity
+
+Number of 
+
+Key takeaways:Zinc homeostasis plays a crucial role in regulating intracellular signaling pathways in immune cells, affecting immune cell numbers and activities, leading to increased susceptibility to infections and inflammatory diseases.
+
+Abstract:Zinc homeostasis is crucial for an adequate function of the immune system. Zinc deficiency as well as zinc excess result in severe disturbances in immune cell numbers and activities, which can result in increased susceptibility to infections and development of especially inflammatory diseases. This review focuses on the role of zinc in regulating intracellular signaling pathways in innate as well as adaptive immune cells. Main underlying molecular mechanisms and targets affected by altered zinc homeostasis, including kinases, caspases, phosphatases, and phosphodiesterases, will be highlighted in this article. In addition, the interplay of zinc homeostasis and the redox metabolism in affecting intracellular signaling will be emphasized. Key signaling pathways will be described in detail for the different cell types of the immune system. In this, effects of fast zinc flux, taking place within a few seconds to minutes will be distinguish from slower types of zinc signals, also designated as “zinc waves”, and late homeostatic zinc signals regarding prolonged changes in intracellular zinc.
+
+Roles of Zinc Signaling in the Immune System
+
+Number of 
+
+Key takeaways:Zinc signaling plays a crucial role in regulating immune responses, with its homeostasis controlled by transporters and metallothioneins, and its role in immune-related signaling guiding normal immune cell development and function.
+
+Abstract:Zinc (Zn) is an essential micronutrient for basic cell activities such as cell growth, differentiation, and survival. Zn deficiency depresses both innate and adaptive immune responses. However, the precise physiological mechanisms of the Zn-mediated regulation of the immune system have been largely unclear. Zn homeostasis is tightly controlled by the coordinated activity of Zn transporters and metallothioneins, which regulate the transport, distribution, and storage of Zn. There is growing evidence that Zn behaves like a signaling molecule, facilitating the transduction of a variety of signaling cascades in response to extracellular stimuli. In this review, we highlight the emerging functional roles of Zn and Zn transporters in immunity, focusing on how crosstalk between Zn and immune-related signaling guides the normal development and function of immune cells.
+
+Zinc and immune function
+
+Number of 
+
+Key takeaways:Zinc is essential for immune system development and integrity, influencing growth and affecting lymphoid cell activation, proliferation, and apoptosis.
+
+Zinc and immune function: the biological basis of altered resistance to infection.
+
+Number of 
+
+Key takeaways:Zinc deficiency increases susceptibility to infections by impairing immune system development, cell function, and cellular functions.
+
+Abstract:Zinc is known to play a central role in the immune system, and zinc-deficient persons experience increased susceptibility to a variety of pathogens. The immunologic mechanisms whereby zinc modulates increased susceptibility to infection have been studied for several decades. It is clear that zinc affects multiple aspects of the immune system, from the barrier of the skin to gene regulation within lymphocytes. Zinc is crucial for normal development and function of cells mediating nonspecific immunity such as neutrophils and natural killer cells. Zinc deficiency also affects development of acquired immunity by preventing both the outgrowth and certain functions of T lymphocytes such as activation, Th1 cytokine production, and B lymphocyte help. Likewise, B lymphocyte development and antibody production, particularly immunoglobulin G, is compromised. The macrophage, a pivotal cell in many immunologic functions, is adversely affected by zinc deficiency, which can dysregulate intracellular killing, cytokine production, and phagocytosis. The effects of zinc on these key immunologic mediators is rooted in the myriad roles for zinc in basic cellular functions such as DNA replication, RNA transcription, cell division, and cell activation. Apoptosis is potentiated by zinc deficiency. Zinc also functions as an antioxidant and can stabilize membranes. This review explores these aspects of zinc biology of the immune system and attempts to provide a biological basis for the altered host resistance to infections observed during zinc deficiency and supplementation.
+
+Immunomodulatory Effects of Vitamin D and Zinc on Viral Infection.
+
+Number of 
+
+Key takeaways:Vitamin D and zinc intake can enhance the immune system and help combat viral infections, offering potential treatment and preventive measures against future viral threats.
+
+Abstract:Several nutrients are crucial in enhancing the immune system and preserving the structural integrity of bodily tissue barriers. Vitamin D (VD) and zinc (Zn) have received considerable interest due to their immunomodulatory properties and ability to enhance the body’s immune defenses. Due to their antiviral, anti-inflammatory, antioxidative, and immunomodulatory properties, the two nutritional powerhouses VD and Zn are crucial for innate and adaptive immunity. As observed with COVID-19, deficiencies in these micronutrients impair immune responses, increasing susceptibility to viral infections and severe disease. Ensuring an adequate intake of VD and Zn emerges as a promising strategy for fortifying the immune system. Ongoing clinical trials are actively investigating their potential therapeutic advantages. Beyond the immediate context of the pandemic, these micronutrients offer valuable tools for enhancing immunity and overall well-being, especially in the face of future viral threats. This analysis emphasizes the enduring significance of VD and Zn as both treatment and preventive measures against potential viral challenges beyond the current health crisis. The overview delves into the immunomodulatory potential of VD and Zn in combating viral infections, with particular attention to their effects on animals. It provides a comprehensive summary of current research findings regarding their individual and synergistic impacts on immune function, underlining their potential in treating and preventing viral infections. Overall, this overview underscores the need for further research to understand how VD and Zn can modulate the immune response in combatting viral diseases in animals.Graphical Abstract
+
+Lessons Learned from Experimental Human Model of Zinc Deficiency
+
+Number of 
+
+Key takeaways:Zinc deficiency decreases cell-mediated immunity, oxidative stress, and chronic inflammation in humans, suggesting its potential use in chronic diseases.
+
+Abstract:Zinc is an essential element for humans, and its deficiency was documented in 1963. Nutritional zinc deficiency is now known to affect over two billion subjects in the developing world. Conditioned deficiency of zinc in many diseases has also been observed. In zinc-deficient dwarfs from the Middle East, we reported growth retardation, delayed sexual development, susceptibility to infections, poor appetite, and mental lethargy. We never found a zinc-deficient dwarf who survived beyond the age of 25 y. In an experimental model of human mild zinc deficiency, we reported decreased thymulin (a thymopoietic hormone) activity in Th1 cells, decreased mRNAs of IL-2 and IFN-gamma genes, and decreased activity of natural killer cells (NK) and T cytotoxic T cells. The effect of zinc deficiency on thymulin activity and IL-2 mRNA was seen within eight to twelve weeks of the institution of zinc-deficient diet in human volunteers, whereas lymphocyte zinc decreased in 20 weeks and plasma zinc decreased in 24 weeks after instituting zinc-deficient diet. We hypothesized that decreased thymulin activity, which is known to proliferate Th1 cells, decreased the proliferation differentiation of Th1 cells. This resulted in decreased generation of IL-2 and IFN-gamma. We observed no effect in Th2 cell function; thus, zinc deficiency resulted in an imbalance of Th1 to Th2 function resulting in decreased cell-mediated immunity. Zinc therapy may be very useful in many chronic diseases. Zinc supplementation improves cell-mediated immunity, decreases oxidative stress, and decreases generation of chronic inflammatory cytokines in humans. Development of sensitive immunological biomarkers may be more sensitive than an assay of zinc in plasma and peripheral blood cells for diagnosis of marginal zinc deficiency in human.
+
+Zinc-altered immune function.
+
+Number of 
+
+Key takeaways:Zinc deficiency impairs immune cell functions, but adequate supplementation can reverse these impairments, with high dosages potentially causing negative effects on immune cells.
+
+Abstract:Zinc is known to be essential for all highly proliferating cells in the human body, especially the immune system. A variety of in vivo and in vitro effects of zinc on immune cells mainly depend on the zinc concentration. All kinds of immune cells show decreased function after zinc depletion. In monocytes, all functions are impaired, whereas in natural killer cells, cytotoxicity is decreased, and in neutrophil granulocytes, phagocytosis is reduced. The normal functions of T cells are impaired, but autoreactivity and alloreactivity are increased. B cells undergo apoptosis. Impaired immune functions due to zinc deficiency are shown to be reversed by an adequate zinc supplementation, which must be adapted to the actual requirements of the patient. High dosages of zinc evoke negative effects on immune cells and show alterations that are similar to those observed with zinc deficiency. Furthermore, when peripheral blood mononuclear cells are incubated with zinc in vitro, the release of cytokines such as interleukins (IL)-1 and -6, tumor necrosis factor-alpha, soluble IL-2R and interferon-gamma is induced. In a concentration of 100 micro mol/L, zinc suppresses natural killer cell killing and T-cell functions whereas monocytes are activated directly, and in a concentration of 500 micro mol/L, zinc evokes a direct chemotactic activation of neutrophil granulocytes. All of these effects are discussed in this short overview.
+
+The immune system and the impact of zinc during aging
+
+Number of 
+
+Key takeaways:Oral zinc supplementation can improve immunity and reduce chronic inflammation in the elderly, potentially contributing to immunosenescence.
+
+Abstract:The trace element zinc is essential for the immune system, and zinc deficiency affects multiple aspects of innate and adaptive immunity. There are remarkable parallels in the immunological changes during aging and zinc deficiency, including a reduction in the activity of the thymus and thymic hormones, a shift of the T helper cell balance toward T helper type 2 cells, decreased response to vaccination, and impaired functions of innate immune cells. Many studies confirm a decline of zinc levels with age. Most of these studies do not classify the majority of elderly as zinc deficient, but even marginal zinc deprivation can affect immune function. Consequently, oral zinc supplementation demonstrates the potential to improve immunity and efficiently downregulates chronic inflammatory responses in the elderly. These data indicate that a wide prevalence of marginal zinc deficiency in elderly people may contribute to immunosenescence.
+
+Zinc Deficiency and Zinc Supplementation in Allergic Diseases
+
+Number of 
+
+Key takeaways:Zinc deficiency may contribute to the development of allergies, and zinc supplementation can positively influence the immune system and reduce allergic symptoms.
+
+Abstract:In recent decades, it has become clear that allergic diseases are on the rise in both Western and developing countries. The exact reason for the increase in prevalence has not been conclusively clarified yet. Multidimensional approaches are suspected in which diet and nutrition seem to play a particularly important role. Allergic diseases are characterized by a hyper-reactive immune system to usually harmless allergens, leading to chronic inflammatory diseases comprising respiratory diseases like asthma and allergic rhinitis (AR), allergic skin diseases like atopic dermatitis (AD), and food allergies. There is evidence that diet can have a positive or negative influence on both the development and severity of allergic diseases. In particular, the intake of the essential trace element zinc plays a very important role in modulating the immune response, which was first demonstrated around 60 years ago. The most prevalent type I allergies are mainly based on altered immunoglobulin (Ig)E and T helper (Th)2 cytokine production, leading to type 2 inflammation. This immune status can also be observed during zinc deficiency and can be positively influenced by zinc supplementation. The underlying immunological mechanisms are very complex and multidimensional. Since zinc supplements vary in dose and bioavailability, and clinical trials often differ in design and structure, different results can be observed. Therefore, different results are not surprising. However, the current literature suggests a link between zinc deficiency and the development of allergies, and shows positive effects of zinc supplementation on modulating the immune system and reducing allergic symptoms, which are discussed in more detail in this review.
+
+Zinc and respiratory tract infections: Perspectives for COVID-19 (Review)
+
+Number of 
+
+Key takeaways:Zinc may have protective effects against COVID-19 by reducing inflammation, improving mucociliary clearance, preventing ventilator-induced lung injury, and modulating antiviral and antibacterial immunity.
+
+Abstract:In view of the emerging COVID-19 pandemic caused by SARS-CoV-2 virus, the search for potential protective and therapeutic antiviral strategies is of particular and urgent interest. Zinc is known to modulate antiviral and antibacterial immunity and regulate inflammatory response. Despite the lack of clinical data, certain indications suggest that modulation of zinc status may be beneficial in COVID-19. In vitro experiments demonstrate that Zn2+ possesses antiviral activity through inhibition of SARS-CoV RNA polymerase. This effect may underlie therapeutic efficiency of chloroquine known to act as zinc ionophore. Indirect evidence also indicates that Zn2+ may decrease the activity of angiotensin-converting enzyme 2 (ACE2), known to be the receptor for SARS-CoV-2. Improved antiviral immunity by zinc may also occur through up-regulation of interferon α production and increasing its antiviral activity. Zinc possesses anti-inflammatory activity by inhibiting NF-κB signaling and modulation of regulatory T-cell functions that may limit the cytokine storm in COVID-19. Improved Zn status may also reduce the risk of bacterial co-infection by improving mucociliary clearance and barrier function of the respiratory epithelium, as well as direct antibacterial effects against S. pneumoniae. Zinc status is also tightly associated with risk factors for severe COVID-19 including ageing, immune deficiency, obesity, diabetes, and atherosclerosis, since these are known risk groups for zinc deficiency. Therefore, Zn may possess protective effect as preventive and adjuvant therapy of COVID-19 through reducing inflammation, improvement of mucociliary clearance, prevention of ventilator-induced lung injury, modulation of antiviral and antibacterial immunity. However, further clinical and experimental studies are required.
+
+Role of Zinc in Immune System and Anti-Cancer Defense Mechanisms
+
+Number of 
+
+Key takeaways:Zinc's anti-cancer properties are not solely attributed to its antioxidant properties, but also involve its influence on the immune system, transcription factors, cell differentiation, and proliferation.
+
+Abstract:The human body cannot store zinc reserves, so a deficiency can arise relatively quickly, e.g., through an improper diet. Severe zinc deficiency is rare, but mild deficiencies are common around the world. Many epidemiological studies have shown a relationship between the zinc content in the diet and the risk of cancer. The anti-cancer effect of zinc is most often associated with its antioxidant properties. However, this is just one of many possibilities, including the influence of zinc on the immune system, transcription factors, cell differentiation and proliferation, DNA and RNA synthesis and repair, enzyme activation or inhibition, the regulation of cellular signaling, and the stabilization of the cell structure and membranes. This study presents selected issues regarding the current knowledge of anti-cancer mechanisms involving this element.
+
+Zinc and the Innovative Zinc-α2-Glycoprotein Adipokine Play an Important Role in Lipid Metabolism: A Critical Review
+
+Number of 
+
+Key takeaways:Zinc and zinc-2-glycoprotein (ZAG) play a significant role in lipid metabolism, potentially reducing cardiovascular morbidity and mortality.
+
+Abstract:Numerous studies indicate that zinc and the new zinc-related adipokine, zinc-α2-glycoprotein (ZAG), are involved in lipid metabolism. Excess body fat lowers blood concentrations of Zn and ZAG, leading not only to the development of obesity but also to other components of the metabolic syndrome. Zinc homeostasis disorders in the body negatively affect the lipid profile and cytokine secretion. Zinc appears to be a very important ZAG homeostasis regulator. The physiological effects of ZAG are related to lipid metabolism, but studies show that ZAG also affects glucose metabolism and is linked to insulin resistance. ZAG has a zinc binding site in its structure, which may indicate that ZAG mediates the effect of zinc on lipid metabolism. The review aimed to verify the available studies on the effects of zinc and ZAG on lipid metabolism. A literature review within the scope of this research area was conducted using articles available in PubMed (including MEDLINE), Web of Science and Cochrane Library databases. An analysis of available studies has shown that zinc improves hepatic lipid metabolism and has an impact on the lipid profile. Numerous studies have found that zinc supplementation in overweight individuals significantly reduced blood levels of total cholesterol, LDL (Low-density lipoprotein)cholesterol and triglycerides, potentially reducing cardiovascular morbidity and mortality. Some results also indicate that it increases HDL-C (High-density lipoprotein) cholesterol levels. ZAG has been shown to play a significant role in reducing obesity and improving insulin sensitivity, both in experimental animal model studies and in human studies. Furthermore, ZAG at physiologically relevant concentrations increases the release of adiponectin from human adipocytes. In addition, ZAG has been shown to inhibit in vitro leptin production. Further studies are needed to provide more data on the role of zinc and zinc-α2-glycoprotein.
+
+Nutritional Effects of Zinc on Metabolic Syndrome and Type 2 Diabetes: Mechanisms and Main Findings in Human Studies
+
+Number of 
+
+Key takeaways:Zinc may help prevent metabolic syndrome and type 2 diabetes by regulating insulin secretion, fatty acid levels, and blood pressure, but its relationship with MetS prevalence remains inconsistent.
+
+Abstract:Zinc (Zn) plays crucial roles in mammalian metabolism. There is increasing interest about the potential beneficial effects of Zn on the prevention or treatment of non-communicable diseases. This review critically analyzes the information related to the role of Zn on the metabolic syndrome (MetS) as well as type 2 diabetes (T2D), and summarizes the biological basis of these potential effects of Zn. There are several mechanisms by which Zn may help to prevent the development or progression of MetS and T2D, respectively. Zn is involved in both insulin secretion and action in peripheral tissues. Specifically, Zn has insulin-mimetic properties that increase the activity of the insulin signaling pathway. Zn modulates long-chain polyunsaturated fatty acids levels through its action on the absorption of essential fatty acids in the intestine and its subsequent desaturation. Zn is also involved in both the assembly of chylomicrons and lipoproteins as well as their clearance, and thus, plays a role in lipolysis regulation. Finally, Zn has been found to play a role in redox metabolism, and in turn, on blood pressure. The evidence related to the association between Zn status and occurrence of MetS is inconsistent. Although there are several studies reporting an inverse relationship between Zn status or dietary Zn intake and MetS prevalence, others found a direct relationship between Zn status and MetS prevalence. Intervention studies also provide confusing information about this issue, making it hard to reach firm conclusions. Zn as part of the treatment for patients with T2D has been shown to have positive responses in terms of glucose control outcomes, but only among those with Zn deficiency.
+
+Zinc status is associated with inflammation, oxidative stress, lipid, and glucose metabolism
+
+Number of 
+
+Key takeaways:Zinc supplementation may help treat metabolic syndrome by regulating inflammation, oxidative stress, lipid, and glucose metabolism, and improving blood pressure, glucose, and LDL cholesterol levels.
+
+Abstract:A number of studies have reported that zinc plays a substantial role in the development of metabolic syndrome, taking part in the regulation of cytokine expression, suppressing inflammation, and is also required to activate antioxidant enzymes that scavenge reactive oxygen species, reducing oxidative stress. Zinc also plays a role in the correct functioning of lipid and glucose metabolism, regulating and forming the expression of insulin. In numerous studies, zinc supplementation has been found to improve blood pressure, glucose, and LDL cholesterol serum level. Deeper knowledge of zinc's properties may help in treating metabolic syndrome, thus protecting against stroke and angina pectoris, and ultimately against death.
+
+Zinc Supplementation Alleviates Lipid and Glucose Metabolic Disorders Induced by a High Fat Diet.
+
+Number of 
+
+Key takeaways:Zinc supplementation can alleviate glucose and lipid metabolic disorders induced by a high-fat diet, reducing glucose production, promoting glucose absorption, and improving liver injury.
+
+Abstract:Zinc deficiency is a risk factor for the development of obesity and diabetes. Studies have shown lower serum zinc levels in obese individuals and those with diabetes. We speculate that zinc supplementation can alleviate obesity and diabetes, and, to some extent, their complications. To test our hypothesis, we investigated the effects of zinc supplementation on mice with high fat diet (HFD)-induced hepatic steatosis in vivo and in vitro by adding zinc to the diet of mice and the medium of HepG2 cells. Both results showed that high levels of zinc could alleviate the glucose and lipid metabolic disorder induced by a HFD. High zinc can reduce glucose production, promote glucose absorption, reduce lipid deposition, improve HFD-induced liver injury and regulate energy metabolism. This study provides a novel insight into the treatment of nonalcoholic fatty liver disease and the glucose metabolic disorder.
+
+Zinc and Diabetes: A Connection between Micronutrient and Metabolism
+
+Number of 
+
+Key takeaways:Zinc supplementation may help manage diabetes and reduce the risk of developing complications.
+
+Abstract:Diabetes mellitus is a global health problem and a major contributor to mortality and morbidity. The management of this condition typically involves using oral antidiabetic medication, insulin, and appropriate dietary modifications, with a focus on macronutrient intake. However, several human studies have indicated that a deficiency in micronutrients, such as zinc, can be associated with insulin resistance as well as greater glucose intolerance. Zinc serves as a chemical messenger, acts as a cofactor to increase enzyme activity, and is involved in insulin formation, release, and storage. These diverse functions make zinc an important trace element for the regulation of blood glucose levels. Adequate zinc levels have also been shown to reduce the risk of developing diabetic complications. This review article explains the role of zinc in glucose metabolism and the effects of its inadequacy on the development, progression, and complications of diabetes mellitus. Furthermore, it describes the impact of zinc supplementation on preventing diabetes mellitus. The available information suggests that zinc has beneficial effects on the management of diabetic patients. Although additional large-scale randomized clinical trials are needed to establish zinc’s clinical utility further, efforts should be made to increase awareness of its potential benefits on human health and disease.
+
+Zinc and glycemic control: a meta-analysis of randomised placebo controlled supplementation trials in humans.
+
+Number of 
+
+Key takeaways:Zinc supplementation may contribute to the management of hyperglycemia in individuals with chronic metabolic diseases by reducing glucose concentrations.
+
+The effects of zinc supplementation on metabolic profile and oxidative stress in overweight/obese patients with non-alcoholic fatty liver disease: A randomized, double-blind, placebo-controlled trial.
+
+Number of 
+
+Key takeaways:Zinc supplementation for three months improved insulin resistance and oxidative stress status in overweight/obese NAFLD patients without beneficial effects on lipid profiles over a weight loss diet.
+
+Associations between Zinc Deficiency and Metabolic Abnormalities in Patients with Chronic Liver Disease
+
+Number of 
+
+Key takeaways:Zinc deficiency leads to metabolic abnormalities in chronic liver disease patients, and zinc supplementation can improve these outcomes.
+
+Abstract:Zinc (Zn) is an essential trace element which has favorable antioxidant, anti-inflammatory, and apoptotic effects. The liver mainly plays a crucial role in maintaining systemic Zn homeostasis. Therefore, the occurrence of chronic liver diseases, such as chronic hepatitis, liver cirrhosis, or fatty liver, results in the impairment of Zn metabolism, and subsequently Zn deficiency. Zn deficiency causes plenty of metabolic abnormalities, including insulin resistance, hepatic steatosis and hepatic encephalopathy. Inversely, metabolic abnormalities like hypoalbuminemia in patients with liver cirrhosis often result in Zn deficiency. Recent studies have revealed the putative mechanisms by which Zn deficiency evokes a variety of metabolic abnormalities in chronic liver disease. Zn supplementation has shown beneficial effects on such metabolic abnormalities in experimental models and actual patients with chronic liver disease. This review summarizes the pathogenesis of metabolic abnormalities deriving from Zn deficiency and the favorable effects of Zn administration in patients with chronic liver disease. In addition, we also highlight the interactions between Zn and other trace elements, vitamins, amino acids, or hormones in such patients.
+
+Zinc supplementation and the effects on metabolic status in gestational diabetes: A randomized, double-blind, placebo-controlled trial.
+
+Number of 
+
+Key takeaways:30 mg zinc supplementation per day for 6 weeks in gestational diabetes women improved metabolic profiles, including reduced fasting plasma glucose, insulin levels, and increased insulin sensitivity.
+
+The effects of zinc supplementation on wound healing and metabolic status in patients with diabetic foot ulcer: A randomized, double‐blind, placebo‐controlled trial
+
+Number of 
+
+Key takeaways:Zinc supplementation for 12 weeks significantly reduced ulcer size and improved metabolic profiles in diabetic foot ulcer patients.
+
+Abstract:This study was performed to determine the effects of zinc supplementation on wound healing and metabolic status in patients with diabetic foot ulcer. The current randomized, double‐blind, placebo‐controlled trial was conducted among 60 patients (aged 40–85 years old) with grade 3 diabetic foot ulcer. Participants were randomly divided into two groups (30 participants in each group) to take either 220 mg zinc sulfate supplements containing 50 mg elemental zinc or placebo daily for 12 weeks. After the 12‐week intervention, compared with the placebo, zinc supplementation was associated with significant reductions in ulcer length (−1.5 ± 0.7 vs. −0.9 ± 1.2 cm, p = 0.02) and width (−1.4 ± 0.8 vs. −0.8 ± 1.0 cm, p = 0.02). In addition, changes in fasting plasma glucose (−40.5 ± 71.0 vs. −3.9 ± 48.5 mg/dl, p = 0.02), serum insulin concentration (−8.0 ± 15.4 vs. +1.1 ± 10.3 µIU/ml, p = 0.009), homeostasis model of assessment‐estimated insulin resistance (−3.9 ± 7.1 vs. +0.8 ± 5.9, p = 0.007), the quantitative insulin sensitivity check index (+0.01 ± 0.03 vs. −0.002 ± 0.02, p = 0.04) and HbA1c (−0.5 ± 0.8 vs. −0.1 ± 0.5%, p = 0.01) in the supplemented group were significantly different from the changes in these indicators in the placebo group. Additionally, significant increases in serum HDL‐cholesterol (+4.1 ± 4.3 vs. +1.1 ± 5.1 mg/dl, p = 0.01), plasma total antioxidant capacity (+91.7 ± 213.9 vs. −111.9 ± 188.7 mmol/L, p < 0.01) and total glutathione (+68.1 ± 140.8 vs. −35.0 ± 136.1 µmol/L, p = 0.006), and significant decreases in high sensitivity C‐reactive protein (−20.4 ± 24.6 vs. −6.8 ± 21.3 µg/ml, p = 0.02) and plasma malondialdehyde concentrations (−0.6 ± 0.9 vs. −0.2 ± 0.7 µmol/L, p = 0.03) were seen following supplementation with zinc compared with the placebo. Zinc supplementation for 12 weeks among diabetic foot ulcer patients had beneficial effects on parameters of ulcer size and metabolic profiles.
+
+Zinc Supplementation Improved Neuropeptide Y, Nesfatin-1, Leptin, C-reactive protein, and HOMA-IR of Diet-Induced Obese Rats
+
+Number of 
+
+Key takeaways:Oral zinc supplementation in obese rats improves energy balance and prevents metabolic diseases related to obesity due to its anti-inflammatory effect.
+
+Abstract:Obesity is a mild chronic inflammation that causes many metabolic diseases. It was aimed to investigate some parameters affective on the energy metabolism by adding zinc (Zn, ZnSO_4) to drinking water of diet-induced obese rats. Five-week aged, male Sprague Dawley rats divided into as control group, consuming standard rat diet, and high-fat diet (HFD) group. After obesity induced by feeding HFD for 8 weeks, the obese rats were divided into Zn-supplemented obese group (HFD + obese + Zn; 150 mg Zn/L (for 6 weeks), 235 mg Zn/L (7th week), 250 mg Zn/L (8th week) in drinking water) and obese group (HFD + obese). Mean body weight, serum concentrations of C-reactive protein, neuropeptide-Y, leptin, insulin fasting blood glucose, and HOMA-IR were statistically decreased by given Zn in HFD + obese + Zn group compared to HFD + obese rats. It was observed that the total cholesterol, LDL, and HDL cholesterol levels of HFD + obese + Zn group became closer to the control group level, and Zn supplementation caused a statistically significant decrease in cholesterol profile than HFD + obese rats. Also, increased mean serum nesfatin-1 level, an effective protein for the formation of satiety, was analyzed in HFD + obese + Zn group when compared to HFD + obese ones. Serum triglyceride concentration tended to decrease with the effect of Zn in obese rats. In conclusion, it can be said that oral use of Zn could improve energy balance and prevent the occurrence of metabolic diseases related to obesity depending on the anti-inflammatory effect of Zn.
+
+The Effects of Zinc and Selenium Co-Supplementation on Resting Metabolic Rate, Thyroid Function, Physical Fitness, and Functional Capacity in Overweight and Obese People under a Hypocaloric Diet: A Randomized, Double-Blind, and Placebo-Controlled Trial
+
+Number of 
+
+Key takeaways:Zinc and selenium co-supplementation with a hypocaloric diet increased resting metabolic rate, timed up-and-go performance, and selenium levels in overweight and obese individuals, but did not affect thyroid function, zinc levels, or body composition.
+
+Abstract:Evidence of the effectiveness of zinc (Zn) and selenium (Se) on resting metabolic rate (RMR) and physical function parameters in people with overweight and obesity is scarce, while the effects of zinc and selenium on thyroid function and body composition are still a topic of debate and controversy. The aim of this randomized, double-blind, and placebo-controlled trial was to examine the effects of a hypocaloric diet and Se–Zn co-supplementation on RMR, thyroid function, body composition, physical fitness, and functional capacity in overweight or obese individuals. Twenty-eight overweight–obese participants (mean BMI: 29.4 ± 4.7) were randomly allocated (1:1) to the supplementation group (n = 14, 31.1 ± 5.5 yrs, 9 females) and the placebo group (n = 14, 32.1 ± 4.8 yrs, 6 females). The participants received Zn (25 mg of zinc gluconate/day) and Se (200 mcg of L-selenomethionine/day) or placebo tablets containing starch for eight weeks. The participants of both groups followed a hypocaloric diet during the intervention. RMR, thyroid function, body composition, cardiorespiratory fitness (VO2max), and functional capacity (sit-to-stand tests, timed up-and-go test, and handgrip strength) were assessed before and after the intervention. A significant interaction was found between supplementation and time on RMR (p = 0.045), with the intervention group’s RMR increasing from 1923 ± 440 to 2364 ± 410 kcal/day. On the other hand, no interaction between supplementation and time on the thyroid function was found (p > 0.05). Regarding the effects of Zn/Se co-administration on Se levels, a significant interaction between supplementation and time on Se levels was detected (p = 0.004). Specifically, the intervention group’s Se serum levels were increased from 83.04 ± 13.59 to 119.40 ± 23.93 μg/L. However, Zn serum levels did not change over time (90.61 ± 23.23 to 89.58 ± 10.61 umol/L). Even though all body composition outcomes improved in the intervention group more than placebo at the second measurement, no supplement × time interaction was detected on body composition (p > 0.05). Cardiorespiratory fitness did not change over the intervention. Yet, a main effect of time was found for some functional capacity tests, with both groups improving similarly over the eight-week intervention period (p < 0.05). In contrast, a supplement x group interaction was found in the performance of the timed up-and-go test (TUG) (p = 0.010), with the supplementation group improving more. In conclusion, an eight-week intervention with Zn/Se co-supplementation combined with a hypocaloric diet increased the RMR, TUG performance, and Se levels in overweight and obese people. However, thyroid function, Zn levels, body composition, and the remaining outcomes of exercise performance remained unchanged.
+
+Effect of zinc supplementation in the management of type 2 diabetes: A grading of recommendations assessment, development, and evaluation-assessed, dose-response meta-analysis of randomized controlled trials
+
+Number of 
+
+Key takeaways:Zinc supplementation may improve cardio-metabolic health in type 2 diabetic patients by reducing glycemic indices and lipid profiles.
+
+Abstract:Abstract The question of whether zinc supplementation may improve cardio-metabolic health in patients with type 2 diabetes mellitus (T2DM) remains controversial and require further evaluation. This study aimed to summarize the effectiveness of oral zinc supplementation in improving cardio-metabolic risk markers in people with T2DM. We searched PubMed, Scopus, and Web of Science from inception to April 2023, for randomized controlled trials (RCTs). RCTs of type 2 diabetic adults (aged ≥18 years) comparing zinc supplementation with placebo were included. We excluded studies if not randomized, involved co-supplementation, and were conducted in children or pregnant women. Glycemic indices, lipid profiles, blood pressure, anthropometric measure, c-reactive protein (CRP), creatinine, and serum zinc were extracted. Certainty of evidence was assessed using the Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) methods. We used a random-effect model to perform the dose-response analysis. Effect sizes were presented as mean difference (MD) and 95% confidence interval (CI). 22 studies (n = 1442 participants) were included. The certainty of the evidence was rated as moderate to high. Zinc supplementation significantly reduced glycemic indices: including two-hour postprandial glucose (2hpp) (mean difference (MD): −34.34 mg/dl; 95%CI: −51.61∼ −17.07), fast blood sugar (FBS) (MD: −23.32 mg/dl; 95% CI: −33.81∼ −12.83), and hemoglobin A1c (HbA1c) (MD: −0.47; 95% CI: −0.71∼ −0.23). Zinc had a favorable effect on lipid profiles low-density lipoprotein (LDL) (MD: −10.76 mg/dl; CI: −17.79∼−3.73), triglyceride (TG) (MD: −18.23 mg/dl; CI: −32.81∼−3.65), total cholesterol (TC) (MD: −12.74 mg/dl; CI: −21.68∼−3.80), VLDL (MD: −5.39 mg/dl; CI: −7.35∼−3.43) and high-density lipoprotein (HDL) (MD: 4.04 mg/dl; CI: 0.96 ∼ 7.12). Systolic blood pressure (SBP) (MD): −3.64 mmHg; 95% CI: −6.77∼ −0.52), weight (MD: 1.00 kg; 95% CI: 0.34∼1.66), CRP (MD: −3.37 mg/l, 95% CI: −4.05∼ −2.70), and serum zinc (MD: 15.38 µg/dl; 95% CI: 10.74∼ 20.02) changed to a statistically significant extent with zinc supplementation. There was also a linear association between additional 10 mg/d zinc treatment with FBS, HbA1c, HDL, LDL, TG, TC, and serum zinc. A non-linear dose-response gradient was seen for FBS, HDL, and SBP (p < 0.05). Egger’s test showed no substantial publication bias. Our findings strongly suggest a potential beneficial effect of zinc supplementation on type 2 diabetic patients. Further high-quality research is needed to determine the optimal form, dosage, and duration of zinc supplementation for this population.
+
+Zinc’s role in the glycemic control of patients with type 2 diabetes: a systematic review
+
+Number of 
+
+Key takeaways:Zinc supplementation improves glycemic control in type 2 diabetes patients by reducing glycated hemoglobin levels and promoting insulin homeostasis.
+
+Abstract:Past research has shown the importance of zinc in several metabolic processes, such as the glucidic metabolism. The present systematic review aims to discuss zinc’s participation in the glycemic control of type 2 diabetes mellitus (DM2) patients. In order to accomplish that, a systematic search was performed in the Pubmed database using the following indexed and theme-related descriptors: “zinc” AND “type 2 diabetes mellitus”, AND MeSH terms related to glycemic control combined with the boolean operator OR. In total, 1078 articles were retrieved from the research, of which 15 articles of original studies conducted with DM2 patients were included, with three being about the effect of mineral supplementation and 12 reporting observational studies. The main findings of these studies consisted of low body contents of zinc and high excretion of zinc in urine. Hyperglycemia was one of the mechanisms that caused these alterations owing to its interference in zinc reabsorption via renal cells. Another evidence was the negative correlation between the glycated hemoglobin percentage (%HbA1c) and the plasma zinc levels. Additionally, it has been observed that zinc supplementation in DM2 patients has improved glycemic control, since the %HbA1c significantly reduced in these individuals. This present review shows the positive effect of adequate zinc levels on glycemic control, whether it is through dietetic ingestion or supplementation, since its role in insulin homeostasis is clear.
+
+Association between zinc and body composition: An integrative review.
+
+Number of 
+
+Key takeaways:Zinc deficiency is associated with lean body mass reduction, fat deposition, and obesity, with zinc metabolism being dysregulated in obese individuals.
+
+Magnesium and Zinc as Vital Micronutrients Enhancing Athletic Performance and Recovery – a Review
+
+Number of 
+
+Key takeaways:Magnesium and zinc supplementation may positively influence athletic performance, energy metabolism, and post-exercise recovery, but further research is needed to establish specific guidelines.
+
+Abstract:Introduction and Aim of the ReviewMagnesium and zinc are vital for cellular metabolism and maintaining homeostasis, playing a particularly significant role for athletes. Magnesium, which is largely stored in bones and muscles, is essential for protein synthesis. Zinc, a critical trace element found in muscle and bone tissue, participates in over 300 enzymatic reactions, acts as an antioxidant and making both minerals crucial for physical performance. This study aims to explore the physiological role of magnesium (Mg) and zinc (Zn) in the context of athletic performance and to examine their impact on energy metabolism, muscle function, protein synthesis and potential benefits of Mg and Zn supplementation for improving athletic outcomes and post-exercise recovery. 
+MethodsA comprehensive review of scientific literature was conducted through a thorough search of the PubMed database to explore the latest findings on the utility of magnesium and zinc in sports. Only articles in English were considered. 
+Current KnowledgeThe review results indicate that Mg and Zn play critical roles in energy metabolism, muscle and immune system health. Mg deficiency can impair muscle function and reduce endurance, while its supplementation supports muscle relaxation, cardiovascular health, and respiratory efficiency. Although required in small amounts, Zn is indispensable for enzymatic activity, protein synthesis, hormonal balance, and muscle recovery, making it vital for post-exercise recovery and immune response modulation. 
+ConclusionsAvailable data suggest that Mg and Zn supplementation may positively influence athletic performance, energy metabolism, and recovery post-exercise, though further research is needed to establish specific supplementation guidelines. This review provides a foundation for developing supplementation strategies aimed at enhancing athletic performance and supporting healthy recovery.
+
+Cellular zinc metabolism and zinc signaling: from biological functions to diseases and therapeutic targets
+
+Number of 
+
+Key takeaways:Cellular zinc metabolism plays a crucial role in maintaining cellular homeostasis and promoting cancer progression, with potential molecular pathways linking zinc metabolism to disease progression and offering potential targets for targeted therapies.
+
+Zinc deficiency affects insulin secretion and alters insulin-regulated metabolic signaling in rats.
+
+Number of 
+
+Key takeaways:Zinc deficiency affects insulin secretion and alters insulin-regulated metabolic signaling in rats, potentially causing metabolic alterations in insulin target organs.
+
+Effects of zinc, magnesium, and chromium supplementation on cardiometabolic risk in adults with metabolic syndrome: A double-blind, placebo-controlled randomised trial.
+
+Number of 
+
+Key takeaways:Zinc, magnesium, and chromium supplementation did not significantly change metabolic risk factors in adults with metabolic syndrome, but decreased serum C-reactive protein levels.
+
+Association Between Dietary Zinc Intake and Metabolic Syndrome. A Meta-Analysis of Observational Studies
+
+Number of 
+
+Key takeaways:Dietary zinc intake is negatively associated with metabolic syndrome, but more well-designed prospective cohort studies are needed to confirm these findings.
+
+Abstract:Background Epidemiological studies have investigated the association between dietary zinc intake and metabolic syndrome (MetS). However, their results are conflicting. This meta-analysis was therefore employed to investigate the associations further. Methods A comprehensive literature search was employed by using the electronic database of PubMed, Web of Science, and Embase up to November 2021. The pooled relative risk (RR) of MetS for the highest vs. lowest dietary zinc intake category, and the weighted mean difference (WMD) of dietary zinc intake for MetS vs. control subjects as well as their corresponding 95% confidence interval (CI) were calculated. Results A total of 13 observational studies (18,073 participants) were identified in this meta-analysis. The overall multi-variable adjusted RR demonstrated that the dietary zinc intake was inversely associated with MetS (RR = 0.75, 95%CI: 0.61 to 0.93; P = 0.009). The subgroup analysis confirmed such findings in cross-sectional (RR = 0.70, 95%CI: 0.55 to 0.87; P = 0.002), NCEP-ATP III (RR = 0.64, 95%CI: 0.48 to 0.84; P = 0.002), adult (RR = 0.77, 95%CI: 0.62 to 0.96; P = 0.02), dietary recall method (RR = 0.70, 95%CI: 0.55 to 0.87; P = 0.002), and >500 sample-sized study (RR = 0.79, 95%CI: 0.64 to 0.99; P = 0.002), respectively. On the other hand, the overall combined WMD showed that the dietary zinc intake in MetS was also lower than that in control subjects (WMD = −0.21, 95%CI: −0.42 to 0.00; P = 0.05). Conclusions Our results suggest that the dietary zinc intake is negatively associated with MetS. However, due to the limitation of available evidence. More well-designed prospective cohort studies are still needed.
+
+Evidence supporting zinc as an important antioxidant for skin
+
+Number of 
+
+Key takeaways:Zinc is an important antioxidant for skin health, protecting against UV radiation, enhancing wound healing, contributing to immune and neuropsychiatric functions, and decreasing the risk of cancer and cardiovascular disease.
+
+Abstract:Antioxidants play a critical role in keeping skin healthy. The antioxidant benefits of vitamin C and E are well known, but the importance of the trace mineral, zinc, has been overlooked. This article reviews the evidence supporting zinc's antioxidant role in protecting against free radical‐induced oxidative damage. Zinc protects against UV radiation, enhances wound healing, contributes to immune and neuropsychiatric functions, and decreases the relative risk of cancer and cardiovascular disease. All body tissues contain zinc; in skin, it is five to six times more concentrated in the epidermis than the dermis. Zinc is required for the normal growth, development and function of mammals. It is an essential element of more than 200 metalloenzymes, including the antioxidant enzyme, superoxide dismutase, and affects their conformity, stability, and activity. Zinc also is important for the proper functioning of the immune system, and for glandular, reproductive and cell health.
+
+Zinc and skin health: overview of physiology and pharmacology.
+
+Number of 
+
+Key takeaways:Zinc plays a crucial role in skin renewal, wound healing, and inflammation reduction, and topical zinc delivery can enhance these processes.
+
+Abstract:BACKGROUND
+Zinc is known to have a critical role in overall human physiology, which likely explains many of its therapeutic uses for the last several thousand years. The specific roles zinc plays in skin health and function are less widely known yet are likely just as critical based on the manifestations of dietary zinc deprivation, which include moderate to severe dermatitis.
+
+OBJECTIVE
+To provide a critical review of the scientific literature as to the physiologic importance of zinc to skin, the biochemical basis for these effects, and pharmacologic aspects of zinc therapeutics.
+
+RESULTS AND CONCLUSIONS
+Skin is in a continual state of renewal, placing a high demand on zinc-based enzymes and proteins that direct this process. The importance of zinc physiologically is especially evident in studies of wound healing and inflammation reduction. During these processes, the high needs for zinc can be supplemented externally, generally increasing the rates of the natural processes. Topical zinc delivery involves the pharmacologic optimization of zinc delivery, often mediated by the solubility of the zinc material and interactions within the product matrix.
+
+Number of 
+
+Key takeaways:Zinc is effective in treating infectious conditions, inflammation, and hair loss disorders in dermatology.
+
+Abstract:Abstract Zinc has numerous pharmacological uses in dermatology. Its antioxidant and immunomodulatory properties are thought to correlate with its efficacy in acne vulgaris and leishmaniasis, amongst other cutaneous conditions. We conducted a review of the literature on the use of zinc in dermatology; in particular, we investigated its role in acne vulgaris, hair loss, hidradenitis suppurativa, leishmaniasis, and warts. We searched MEDLINE selecting only articles in English and evaluating the evidence using the Oxford Center of Evidence-Based Medicine 2011 guidance. This review has found evidence to support the use of zinc in patients in infectious conditions (leishmaniasis and warts), inflammatory conditions (acne rosacea, hidradenitis suppurativa) and in hair loss disorders.Ppatients with zinc deficiency should also receive oral supplementation. Further research and large randomized controlled trials are required to investigate the role of zinc as a monotherapy.
+
+Trace element zinc and skin disorders
+
+Number of 
+
+Key takeaways:Zinc supplementation can effectively treat various skin conditions, including infectious, inflammatory, pigmentary, and tumor-associated diseases.
+
+Abstract:Zinc is a necessary trace element and an important constituent of proteins and other biological molecules. It has many biological functions, including antioxidant, skin and mucous membrane integrity maintenance, and the promotion of various enzymatic and transcriptional responses. The skin contains the third most zinc in the organism. Zinc deficiency can lead to a range of skin diseases. Except for acrodermatitis enteropathic, a rare genetic zinc deficiency, it has also been reported in other diseases. In recent years, zinc supplementation has been widely used for various skin conditions, including infectious diseases (viral warts, genital herpes, cutaneous leishmaniasis, leprosy), inflammatory diseases (hidradenitis suppurativa, acne vulgaris, rosacea, eczematous dermatitis, seborrheic dermatitis, psoriasis, Behcet's disease, oral lichen planus), pigmentary diseases (vitiligo, melasma), tumor-associated diseases (basal cell carcinoma), endocrine and metabolic diseases (necrolytic migratory erythema, necrolytic acral erythema), hair diseases (alopecia), and so on. We reviewed the literature on zinc application in dermatology to provide references for better use.
+
+Effects of Zinc Supplementation on Inflammatory Skin Diseases: A Systematic Review of the Clinical Evidence
+
+Number of 
+
+Key takeaways:Zinc supplementation shows some potential benefits in treating acne vulgaris, hidradenitis suppurativa, and atopic dermatitis, but no evidence suggests it is beneficial for rosacea and psoriasis.
+
+Abstract:BackgroundZinc has been used in patients with acne vulgaris for its anti-inflammatory effects; however, it is unclear if zinc supplementation is also beneficial in other inflammatory skin conditions.ObjectiveThe objective of this article was to determine the effect of zinc supplementation on inflammatory dermatologic conditions.Data sourcesWe searched the Cochrane Central Register of Controlled Trials, EMBASE, MEDLINE, and Ovid with no time limit up to 29 May, 2019. Trials examining supplementation with zinc in the treatment of inflammatory dermatological conditions (acne vulgaris, atopic dermatitis, diaper dermatitis, hidradenitis suppurativa, psoriasis, and rosacea) in children and adults were selected.ResultsOf 229 articles, 22 met inclusion criteria. Supplementation with zinc was found to be beneficial in ten of 14 studies evaluating its effects on acne vulgaris, one of two studies on atopic dermatitis, one of one study on diaper dermatitis, and three of three studies evaluating its effects on hidradenitis suppurativa. However, the one article found on psoriasis and the one article found on rosacea showed no significant benefit of zinc treatment on disease outcome.Conclusions and implicationsSome preliminary evidence supports the use of zinc in the treatment of acne vulgaris and hidradenitis suppurativa; however, more research is needed with similar methodologies and larger sample sizes in these diseases. Further, zinc may be of some benefit in the treatment plan for atopic dermatitis and diaper dermatitis; however, additional studies should be conducted to further evaluate these potentially positive associations. To date, no evidence is available to suggest that zinc may be of benefit in rosacea and psoriasis; however, limited data are available evaluating the use of zinc in these conditions.
+
+Zinc and Zinc Transporters in Dermatology
+
+Number of 
+
+Key takeaways:Zinc deficiency can lead to various skin disorders, and zinc-containing compounds can effectively treat and protect against these disorders.
+
+Abstract:Zinc is an important trace mineral in the human body and a daily intake of zinc is required to maintain a healthy status. Over the past decades, zinc has been used in formulating topical and systemic therapies for various skin disorders owing to its wound healing and antimicrobial properties. Zinc transporters play a major role in maintaining the integrity of the integumentary system by controlling zinc homeostasis within dermal layers. Mutations and abnormal function of zinc-transporting proteins can lead to disease development, such as spondylocheirodysplastic Ehlers–Danlos syndrome (SCD-EDS) and acrodermatitis enteropathica (AE) which can be fatal if left untreated. This review discusses the layers of the skin, the importance of zinc and zinc transporters in each layer, and the various skin disorders caused by zinc deficiency, in addition to zinc-containing compounds used for treating different skin disorders and skin protection.
+
+Recent aspects of the effects of zinc on human health
+
+Number of 
+
+Key takeaways:Zinc deficiency leads to immune dysfunction, increased susceptibility to infection, and is associated with various human pathologies, epigenetic processes, gut microbial composition, and drug targets.
+
+Abstract:Zinc (Zn) is one of the most important essential nutrients of great public health significance. It is involved in numerous biological functions and it is considered as a multipurpose trace element, due to its capacity to bind to more than 300 enzymes and more than 2000 transcriptional factors. Its role in biochemical pathways and cellular functions, such as the response to oxidative stress, homeostasis, immune responses, DNA replication, DNA damage repair, cell cycle progression, apoptosis and aging is significant. Zn is required for the synthesis of protein and collagen, thus contributing to wound healing and a healthy skin. Metallothioneins are metal-binding proteins and they are potent scavengers of heavy metals, including Zn, and protect the organism against stress. Zn deficiency is observed almost in 17% of the global population and affects many organ systems, leading to dysfunction of both humoral and cell-mediated immunity, thus increasing the susceptibility to infection. This review gives a thorough insight into the most recent evidence on the association between Zn biochemistry and human pathologies, epigenetic processes, gut microbial composition, drug targets and nanomedicine.
+
+Zinc and skin biology.
+
+Number of 
+
+Key takeaways:Zinc deficiency can cause acrodermatitis enteropathica, a skin disorder characterized by alopecia, diarrhea, and skin lesions in acral, periorificial, and anogenital areas.
+
+Effects of non-toxic zinc exposure on human epidermal keratinocytes.
+
+Number of 
+
+Key takeaways:Non-toxic zinc exposure impacts gene expression, cell proliferation, and environmental stress responses in human keratinocytes, potentially impacting skin diseases.
+
+Abstract:Zinc is an essential microelement; its importance to the skin is highlighted by the severe skin symptoms in hereditary or acquired zinc deficiency, by the improvement of several skin conditions using systemic or topical zinc preparations and by the induced intracellular zinc release upon UVB exposure, which is the main harmful environmental factor to the skin. Understanding the molecular background of the role of zinc in skin may help gain insight into the pathology of skin disorders and provide evidence for the therapeutic usefulness of zinc supplementation. Herein, we studied the effects of zinc chloride (ZnCl2) exposure on the function of HaCaT keratinocytes, and the results showed that a non-toxic elevation in the concentration of extracellular zinc (100 μM) facilitated cell proliferation and induced significant alterations in the mRNA expression of NOTCH1, IL8, and cyclooxygenase-2. In addition, increased heme oxygenase-1 (HMOX1) expression and non-toxic generation of superoxide were detected in the first 4 h. Regarding the effects on the UVB-induced toxicity, although the level of cyclobutane pyrimidine dimers in the keratinocytes pre-treated with zinc for 24 h was reduced 3 h after UVB irradiation, significantly enhanced superoxide generation was observed 10 h after UVB exposure in the zinc pre-exposed cells. The overall survival was unaffected; however, there was a decrease in the percentage of early apoptotic cells and an increase in the percentage of late apoptotic plus necrotic cells. These results suggest that the exposure of human keratinocytes to non-toxic concentrations of ZnCl2 impacts gene expression, cell proliferation and the responses to environmental stress in the skin. It would be important to further examine the role of zinc in skin and further clarify whether this issue can affect our thinking regarding the pathogenesis of skin diseases.
+
+Zinc and Skin Disorders
+
+Number of 
+
+Key takeaways:Mutations or dysregulation in zinc transporters can cause various skin disorders, highlighting the importance of considering zinc deficiency in skin disorders.
+
+Abstract:The skin is the third most zinc (Zn)-abundant tissue in the body. The skin consists of the epidermis, dermis, and subcutaneous tissue, and each fraction is composed of various types of cells. Firstly, we review the physiological functions of Zn and Zn transporters in these cells. Several human disorders accompanied with skin manifestations are caused by mutations or dysregulation in Zn transporters; acrodermatitis enteropathica (Zrt-, Irt-like protein (ZIP)4 in the intestinal epithelium and possibly epidermal basal keratinocytes), the spondylocheiro dysplastic form of Ehlers-Danlos syndrome (ZIP13 in the dermal fibroblasts), transient neonatal Zn deficiency (Zn transporter (ZnT)2 in the secretory vesicles of mammary glands), and epidermodysplasia verruciformis (ZnT1 in the epidermal keratinocytes). Additionally, acquired Zn deficiency is deeply involved in the development of some diseases related to nutritional deficiencies (acquired acrodermatitis enteropathica, necrolytic migratory erythema, pellagra, and biotin deficiency), alopecia, and delayed wound healing. Therefore, it is important to associate the existence of mutations or dysregulation in Zn transporters and Zn deficiency with skin manifestations.
+
+Possible relationship between poor skin disorders prognosis and serum zinc level: A narrative review
+
+Number of 
+
+Key takeaways:Low serum zinc levels are significantly associated with the severity of various skin disorders, suggesting the potential value of zinc supplementation as an adjuvant therapy for chronic inflammatory and autoimmune skin diseases.
+
+Abstract:Zinc is a trace nutrient essential for the normal growth and development of human body. The main aim was to evaluate the significant association between measured zinc status in relation to different skin disorders and their severity. PubMed®, Google® Scholar™ and Cochrane© Reviews databases were searched for studies from January 2017 to June 2021, using the terms; zinc serum levels, zinc plasma levels and different dermatosis in the review, only human studies in English language were reviewed and the studies designs were controlled, cross sectional, observational and analytic types. A total of forty-eight research studies were included in this review. All studies have evaluated serum zinc in skin diseases including psoriasis, atopic dermatitis, pityriasis alba, androgenetic alopecia areata, telogen effluvium, vitiligo, melasma, acne, seborrheic dermatitis and hidradenitis suppuritiva. It was found that 33 studies had validated statistically significant differences in serum zinc levels between patients and controls. There is a predominance of low serum zinc levels in all the dermatoses reviewed. The clinical significance of this finding highlights the possible value, and need to investigate, the use of Zinc supplementation as an adjuvant therapy in the management of chronic inflammatory and autoimmune skin diseases proven to manifest altered zinc levels.
+
+Zinc detection in cosmetics
+
+Number of 
+
+Key takeaways:Zinc is present in 14 cosmetics, affecting skin structure, collagen metabolism, and accelerating wound healing.
+
+Abstract:Zinc is a metal which participates in the control of genetic information transfer, protein biosynthesis, affects the proper structure of the skin and hair, has bactericidal activity, accelerates wound healing, increases resistance to infection. It has an effect on skin regeneration and affects collagen metabolism. The aim of the study was to check it zinc is present in cosmetics. To detect zinc in cosmetics, 0.2 g were weighed into a 25 cm 3 beaker. 5 cm 3 of an 80% acetic acid solution was added, the beaker was covered with a watch glass and the contents were heated for 5 minutes. The suspension was cooled, poured into a centrifuge tube and centrifuged. The supernatant liquid was poured onto a watch glass, a few drops of Na 2 S solution were added. The precipitation of the white ZnS precipitate indicated the presence of zinc in the sample. 105 samples of cosmetics were collected. The compositions of these cosmetics were analyzed. Zinc and its compounds were enumerated by the manufacturers in the composition of 14 cosmetics collected for the study. Presence of zinc was confirmed in Bell HYPOAllergenic - Powder, Face palette Bronze'n'blush no 14 and 24, Skin79 Super + Beblesh Balm,  MaxFactor - Powder, My Secret -  eye shadow, Paese - eye shadow , Ziaja med - soothing treatment, Ziaja GdanSkin - hydrogel face, Tolpa dermo face mask, Mixa - Against imperfections mask, The Ordinary serum, Oriflame Royal Velvet - night cream and BeBeauty Care - face mask. Conclusion: Zinc was detected in 14 cosmetics.
+
+Zinc supplementation is associated with improvement in hand-foot skin reaction in patients on vascular endothelial growth factor receptor-tyrosine kinase inhibitors: a cohort study.
+
+Number of 
+
+Key takeaways:Zinc supplementation can improve hand-foot skin reaction severity in patients on VEGFR-TKIs, allowing earlier dose escalation and allowing cancer patients to continue treatment at optimal doses.
+
+Skin damage induced by zinc oxide nanoparticles combined with UVB is mediated by activating cell pyroptosis via the NLRP3 inflammasome–autophagy–exosomal pathway
+
+Number of 
+
+Key takeaways:Zinc oxide nanoparticles combined with UVB exposure cause skin damage through activation of the NLRP3 inflammasome-autophagy-exosomal pathway, and pterostilbene effectively prevents skin damage by regulating this pathway.
+
+Abstract:Zinc oxide nanoparticles (ZnONPs) are widely used nanomaterial in personal cosmetics, such as skin creams and sunscreens, due to their whitening properties and strong UV light absorption. However, the safety issues and the hazards of ZnONPs, which can be taken up by the skin and cause skin toxicity, are still unclear. From a chemoprevention point of view, pterostilbene (PT) has been reported to prevent skin damage effectively by its anti-inflammatory and autophagy inducer effect. This study aims to determine the skin toxicity and the potential mechanisms of UVB and ZnONPs exposure and the preventive effect of PT.The co-exposure of UVB and ZnONPs elicit NLRP3 inflammasome activation and pyroptosis in keratinocytes. Furthermore, exposure to both UVB and ZnONPs also disrupts cellular autophagy, which increases cell exosome release. In vivo UVB and ZnONPs exposure triggers skin toxicity, as indicated by increased histological injury, skin thickness and transepidermal water loss. Notably, the NLRP3 inflammasome-mediated pyroptosis are also activated during exposure. Topical application of pterostilbene attenuates NLRP3 inflammasome activation and pyroptosis by decreasing ROS generation and mitochondrial ROS (mtROS) levels. In addition to its antioxidant effect, PT also reversed autophagy abnormalities by restoring normal autophagic flux and decreasing NLRP3 inflammasome-loaded exosome release.Our findings reveal that ZnONPs induce skin damage in conjunction with UVB exposure. This process involves an interplay of inflammasomes, pyroptosis, autophagy dysfunction, and exosomes in skin toxicity. PT alleviates skin inflammation by regulating the inflammasome-autophagy-exosome pathway, a finding which could prove valuable when further evaluating ZnONPs effects for cosmetic applications.
+
+Zinc oxide nanoparticles exacerbate skin epithelial cell damage by upregulating pro-inflammatory cytokines and exosome secretion in M1 macrophages following UVB irradiation-induced skin injury
+
+Number of 
+
+Key takeaways:Zinc oxide nanoparticles can exacerbate skin damage and inflammation after UVB exposure, highlighting the need for safety evaluation in cosmetics applications.
+
+Abstract:Abstract Background Zinc oxide nanoparticles (ZnONPs) are common materials used in skin-related cosmetics and sunscreen products due to their whitening and strong UV light absorption properties. Although the protective effects of ZnONPs against UV light in intact skin have been well demonstrated, the effects of using ZnONPs on damaged or sunburned skin are still unclear. In this study, we aimed to reveal the detailed underlying mechanisms related to keratinocytes and macrophages exposed to UVB and ZnONPs. Results We demonstrated that ZnONPs exacerbated mouse skin damage after UVB exposure, followed by increased transepidermal water loss (TEWL) levels, cell death and epithelial thickness. In addition, ZnONPs could penetrate through the damaged epithelium, gain access to the dermis cells, and lead to severe inflammation by activation of M1 macrophage. Mechanistic studies indicated that co-exposure of keratinocytes to UVB and ZnONPs lysosomal impairment and autophagy dysfunction, which increased cell exosome release. However, these exosomes could be taken up by macrophages, which accelerated M1 macrophage polarization. Furthermore, ZnONPs also induced a lasting inflammatory response in M1 macrophages and affected epithelial cell repair by regulating the autophagy-mediated NLRP3 inflammasome and macrophage exosome secretion. Conclusions Our findings propose a new concept for ZnONP-induced skin toxicity mechanisms and the safety issue of ZnONPs application on vulnerable skin. The process involved an interplay of lysosomal impairment, autophagy-mediated NLRP3 inflammasome and macrophage exosome secretion. The current finding is valuable for evaluating the effects of ZnONPs for cosmetics applications.
+
+Zinc and skin: an update
+
+Number of 
+
+Key takeaways:Zinc deficiency disorders can cause skin disorders, and oral zinc replacement therapy can often lead to clinical remission within a few days.
+
+Abstract:The essential trace element zinc (Zn) plays a key role in the development, differentiation and growth of various human tissues. Zinc homeostasis is primarily regulated by two zinc transporter families (solute‐linked carrier families, SLC). Disturbances in zinc metabolism may give rise to disorders that typically manifest themselves on the skin. An autosomal recessive zinc deficiency disorder, acrodermatitis enteropathica is caused by a mutation in the gene coding for the ZIP4 transporter. Due to intestinal malabsorption, affected infants develop clinical signs and symptoms shortly after weaning. Acquired zinc deficiency is a rare but underdiagnosed disorder associated with various etiologies and variable clinical manifestations. Depending on the patient's age, a multitude of causes have to be considered. Given the characteristic periorificial and acral lesions, the clinical diagnosis is usually made by dermatologists. Laboratory confirmation includes measurement of plasma zinc levels and – as a supplementary measure – zinc‐dependent enzymes such as alkaline phosphatase. Oral zinc replacement therapy frequently leads to clinical remission within a few days. Depending on the cause, disease management should include cooperation with pediatricians and gastroenterologists in order to guarantee optimal patient care.
+
+Effects of dietary copper and zinc hydroxychloride supplementation on bone development, skin quality and hematological parameters of broilers chickens.
+
+Number of 
+
+Key takeaways:Low copper hydroxychloride and medium zinc hydroxychloride supplementation improves bone development and skin integrity in broiler chickens, potentially preventing leg disorders.
+
+Abstract:This study was carried out to evaluate the effects of supplementation with different levels of copper (Cu) and zinc (Zn), using two mineral 
+
+A review on role of zinc as a potent immunity boosting agent
+
+Number of 
+
+Key takeaways:Zinc is an essential mineral that boosts immunity, maintains skin health, and plays a crucial role in 300 enzymes, contributing to overall human well-being.
+
+Effects of Zinc Supplementation in the Elderly with Focus on Muscle Mass, Dry Skin, and Gut Microbiota
+
+Number of 
+
+Key takeaways:Zinc supplementation in the elderly may help maintain muscle mass and skin barrier function by influencing gut microbiota.
+
+Abstract:Background and aim: Zinc is one of the most important essential trace elements found in more than 300 enzymes in humans, and the risk of zinc deficiency has been shown to increase with age. Symptoms associated with zinc deficiency such as muscle weakness, impaired immune function, and delayed wound healing, have much in common with health problems faced by the elderly. However, the relationship between zinc deficiency and the health problems of the elderly has not yet been fully analyzed. Here, we analyzed the effects of zinc in terms of muscle strength, skin barrier function, and gut microbiota in the elderly. Methods: Thirty elderly residents of a special nursing home in Japan were divided into two groups: a zinc intake group (14 participants) and a zinc non-intake group (16 participants). Participants in the zinc intake group received zinc (10 mg/day) for 8 weeks. Changes in muscle mass indices such as calf circumference (CC) and dry skin indices such as stratum corneum water content (SWC) were observed before and after the study. Fecal analysis was also performed at week 8 to analyze the intestinal microflora and short-chain fatty acid (SCFA) content. Results: The values of CC and SWC increased with zinc administration. The analysis of intestinal microflora showed that zinc administration increased the occupancy of Rikenellaceae. This change was observed to be associated with increased CC values. Conclusion: This study suggested that zinc may be involved in maintaining muscle mass in the elderly via the gut microbiota.
+
+Zinc as an ambivalent but potent modulator of murine hair growth in vivo– preliminary observations
+
+Number of 
+
+Key takeaways:High-dose oral zinc can inhibit hair growth in mice, but can also retard spontaneous hair follicle regression and prevent chemotherapy-induced alopecia.
+
+Abstract:Abstract:  Oral zinc (Zn2+) is often employed for treating hair loss, even in the absence of zinc deficiency, although its mechanisms of action and efficacy are still obscure. In the current study, we explored the in vivo effects of oral zinc using the C57BL/6 mouse model for hair research. Specifically, we investigated whether continuous administration of high‐dose ZnSO4 × 7H2O (20 mg/ml) in drinking water affects hair follicle (HF) cycling, whether it retards or inhibits chemotherapy‐induced alopecia (CIA) and whether it modulates the subsequent hair re‐growth pattern. Here, we show that high doses of oral zinc significantly inhibit hair growth by retardation of anagen development. However, oral zinc also significantly retards and prolongs spontaneous, apoptosis‐driven HF regression (catagen). Oral zinc can also retard, but not prevent, the onset of CIA in mice. Interestingly, Zn2+ treatment of cyclophosphamide‐damaged HFs also significantly accelerates the re‐growth of normally pigmented hair shafts, which reflects a promotion of HF recovery. However, if given for a more extended time period, zinc actually retards hair re‐growth. Thus, high‐dose oral zinc is a powerful, yet ambivalent hair growth modulator in mice, whose ultimate effects on the HF greatly depend on the timing and duration of zinc administration. The current study also encourages one to explore whether oral zinc can mitigate chemotherapy‐induced hair loss in humans and/or can stimulate hair re‐growth.
+
+Low Zinc Status Among Palestinian University Students is Related to Hair Loss But Not Diet Score
+
+Number of 
+
+Key takeaways:Low zinc levels in university students are associated with significant hair loss, but not with other health issues like diarrhea, acne, or weight loss.
+
+Abstract:Introduction: Zinc is an essential nutrient that is related to many health issues, including cutaneous and hair health Aims: To study the prevalence of low and high zinc concentrations among university students and to evaluate the association between zinc status and various health issues including hair loss, skin health, immunity, diarrhea and weight status. Methods: Study outcomes which included age, BMI, gender, health variables such as diarrhea, hair loss, weight loss and others were collected using a structured questionnaire, whereas serum zinc concentration was measured using spectrophotometry. Results: 33% of the study participants had low zinc level, whereas 34.7% had zinc levels higher than normal. Both high and low zinc status were associated with significant hair loss (p<0.0001). High and low zinc status were not significantly related to other study outcomes such as diarrhea, acne and weight loss. Healthy diet score was not significantly different between zinc status categories and was not significantly related to other study outcomes. Conclusion: Appropriate intake of zinc and zinc concentration may protect from hair loss and should be promoted. requirement of keratinization of hair to the zinc is that zinc is related to cysteine metabolism . Also, zinc is required for many enzymes that are implicated in hair homeostasis and protection of hair from inflammation related alopecia . In a study that addressed the association between hair loss and zinc, the serum concentration of zinc was almost 13 mcg/dL less in patients with alopecia compared to normal and that the persons with zinc concentration below 70 mcg/ dL was significantly higher in patients with alopecia. Moreover, zinc deficiency is related to having higher prevalence of acne vulgaris which has important cosmetic and psychological concerns . There is currently no data on zinc intake among Palestinians or recommendation for the public on this aspect. A study among pregnant women from Palestine showed zinc level of 4.53 mg/L (45.3 mcg/L) and it was associated with living in cities and having higher income . Yet this study did not address various diet 
+
+The Effect of Zinc Supplementation on Hair Element Levels in Elite Female Athletes
+
+Number of 
+
+Key takeaways:Zinc supplementation significantly affects selenium levels in elite female athletes, but not in terms of other elements like magnesium, calcium, iron, copper, phosphorus, and zinc.
+
+Abstract:Background: Zinc is important element for athlete’s performance. Aim: The purpose of this study is to investigate the effect of different doses of zinc supplementation on the hair element levels in elite female athletes. Subjects and Methods: The research was applied on a total number of 20 female athletes playing in volleyball team. The subjects who were randomly allocated into two groups with equal members were administered 220 mg/day (Group 1) and 440 mg/day (Group 2) zinc sulfate. Inductively coupled plasma mass spectrometry (ICP-MS) was used in order to identify magnesium (Mg), calcium (Ca), iron (Fe), copper (Cu), selenium (Se), phosphor (P) and zinc(Zn) levels (μg/g) in the collected hair samples. Results: The analysis of the athletes’ hair samples showed significant difference between the groups only Ca levels (p Group 1) after 1 and 2 weeks of Zn supplementation. While both doses of zinc supplementation resulted in a significant change in Se levels (p<0.05), the hair Se levels in the last week of administration were significantly lower for both groups compared to the initial levels. Conclusion: While the change in hair element level by weeks was significant in terms of selenium for both groups, which was not significant in terms of Mg, Ca, Fe, Cu, P and Zn levels.
+
+A combination therapy for androgenic alopecia based on quercetin and zinc/copper dual-doped mesoporous silica nanocomposite microneedle patch
+
+Number of 
+
+Key takeaways:A nanocomposite microneedle patch containing quercetin and copper/zinc nanoparticles effectively promotes hair follicle regeneration by targeting various pathophysiological links of androgenic alopecia.
+
+Serum Zinc Concentration in Patients with Alopecia Areata
+
+Number of 
+
+Key takeaways:Lower serum zinc levels are found in patients with alopecia areata, correlate with disease severity, and may indicate a need for zinc supplementation to help restore hair follicles.
+
+Abstract:Alopecia areata is an autoimmune non-scarring disease in which the exact mechanism that induces loss of immune privilege is unknown. Zinc is important for DNA stability and repair mechanisms that are essential in maintaining normal hair growth. Zinc deficiency has been investigated as an important factor in many autoimmune diseases, and may have a possible role in the aetiopathogenesis of alopecia areata. This study included 32 patients with severe forms of alopecia areata, and 32 age- and sex-matched healthy controls. When comparing serum zinc levels in these 2 groups, statistically significantly lower zinc concentrations were found in the alopecia areata group (p = 0.017). Detected zinc deficiency was statistically more prevalent in patients with alopecia areata (p = 0.011). Evaluating patients with alopecia areata, a statistically significant negative correlation between serum zinc levels and severity of the disease was found (ρ = 0.006). The results indicate that zinc serum assessment is necessary in patients with alopecia areata. Low serum zinc levels were found to correlate with severity of alopecia areata. Given that most severe forms of alopecia areata are frequently most treatment-resistant, additional randomized control trials examining zinc supplementation are necessary to investigate its potential role in the restoration of hair follicles. SIGNIFICANCE Alopecia areata is an autoimmune disease in which T-cells attack and damage hair follicles. The mechanism of this process is not fully understood. Zinc is known to be important for DNA stability, for normal hair growth, and in control of T-cells. This study found significantly lower levels of serum zinc in patients with alopecia areata than in healthy controls. Low levels of zinc are more pronounced in patients with long-lasting and more severe alopecia areata. The results of this study emphasize the importance of measurement of serum zinc levels in patients with alopecia areata, and provide a basis for further research into the importance of zinc supplementation in the treatment of alopecia areata with other modalities.
+
+Plasma and Nail Zinc Concentrations, But Not Hair Zinc, Respond Positively to Two Different Forms of Preventive Zinc Supplementation in Young Laotian Children: a Randomized Controlled Trial
+
+Number of 
+
+Key takeaways:Daily preventive zinc supplementation positively impacts plasma and nail zinc concentrations in young Laotian children, but hair zinc levels show no significant difference between supplementation groups.
+
+Abstract:Plasma zinc concentrations (PZC) have been shown to significantly increase during zinc supplementation. This study investigated the effects of daily preventive zinc supplementation on hair and nail zinc concentrations compared with a control group. In a randomized controlled trial, 6- to 23-month-old children (n = 3407) in Lao PDR were randomly assigned to one of four groups and followed for ~ 36 weeks: daily preventive zinc dispersible tablet (7 mg/d; PZ), daily micronutrient powder (10 mg zinc/d; MNP), therapeutic zinc supplements for diarrhea treatment (20 mg/d for 10 days; TZ), or daily placebo powder (Control). Plasma, hair, and nail zinc concentrations were assessed in a sub-sample of participants (n = 457) at baseline and endline. At baseline, 75% of children had low PZC (< 65 μg/dL). At endline, geometric mean (95% CI) PZC were greater in the PZ and MNP groups compared with the TZ and control groups (P < 0.01), but hair zinc concentrations did not differ among groups (P = 0.99). Nail zinc concentrations were marginally higher in the PZ (115.8 (111.6, 119.9) μg/g) and the MNP (117.8 (113.3, 122.3) μg/g) groups than in the TZ group (110.4 (106.0, 114.8) μg/g; P = 0.055) at endline. This study does not support the use of hair zinc as a biomarker of zinc exposure in young children. However, it provides some evidence that zinc concentrations in nails may respond to supplemental zinc interventions and supports the need for collecting additional data on this emerging biomarker.
+
+Zinc Status in Kurdish Adults With Hair Loss
+
+Number of 
+
+Key takeaways:Lower zinc status is linked to hair loss, particularly alopecia areata and telogen effluvium, in Kurdish adults.
+
+Abstract:Background: Zinc is an essential element for hair growth and may act as a strong inhibitor in accelerating follicle regression, besides being an accelerator for the recovery of the hair follicle. This study investigated the status of zinc in Kurdish adults with hair loss and its relation with each of the four types of hair loss. Methods: We investigated the zinc status of a sample of Kurdish adults with hair loss who attended the Dermatology Outpatient Clinics at Azadi Teaching Hospital in Duhok, Kurdistan Region, Iraq. We included a total of 200 subjects in this study, of which 125 had hair loss with a diagnosis of alopecia areata, female pattern hair loss, male pattern hair loss, and telogen effluvium, and 75 were sex- and age-matched apparently healthy subjects without hair fall as a control group. Serum samples were used to measure zinc by colorimetric technique. Results: In participants with hair loss, we found significantly lower serum zinc levels (p=0.002) compared with the control group. The telogen effluvium group had the lowest mean serum zinc level (p=0.006) and higher odds ratio compared with other hair loss groups (4.61). Overall, severe zinc deficiency was found in 12 (9.6%) subjects with hair loss, whereas none of the controls had severe zinc deficiency. Mild-to-moderate zinc deficiency was observed in 43 (34.4%) subjects with hair loss compared to one (1.3%) in the control group. Conclusions: Our results showed that lower zinc status is linked to hair loss, especially alopecia areata and telogen effluvium in the Kurdish population.
+
+Low Levels of Zinc in Hair, Anorexia, Poor Growth, and Hypogeusia in Children
+
+Number of 
+
+Key takeaways:Low zinc levels in hair are linked to poor appetite, growth, and hypogeusia in children, with zinc supplementation improving taste acuity and zinc levels in hair.
+
+Abstract:Extract: Concentrations of zinc in hair were determined for 338 apparently normal subjects living in Denver with ages ranging from 0–40 years. Mean concentrations of zinc in hair were: neonates (25) 174 ± 8 (1 sem); 3 months-4 years (93) 88 ± 5; 4–17 years (132) 153 ± 5, and 17–40 years (88) 180 ±4. Ten children more than 4 years of age had levels of zinc in hair of less than 70 ppm. Seven of these ten children had a history of poor appetite and eight had heights on or below the 10th percentile; the high incidence of low growth percentiles was not explicable on a familial basis. Taste acuity was tested in six of these children, and five had evidence of objective hypogeusia. After supplementing the diet with small quantities of zinc, taste acuity was normalized in each of these children and levels of zinc in hair increased.Speculation: The correlation between low levels of zinc in hair, anorexia, and low growth percentiles in these children indicates that poor appetite and growth, in addition to the hypogeusia, may have been attributable to zinc deficiency. The low mean concentration of zinc in hair of infants and children under 4 years of age indicates that stores of zinc in the body may be low in this age group.
+
+The therapeutic effect and the changed serum zinc level after zinc supplementation in alopecia areata patients who had a low serum zinc level.
+
+Number of 
+
+Key takeaways:Oral zinc supplementation may be an effective adjuvant therapy for alopecia areata patients with low serum zinc levels, potentially improving hair regrowth in those who have failed traditional treatments.
+
+Abstract:BACKGROUND
+It has been reported that some alopecia areata patients have zinc deficiency. There have also been several reports published concerning oral zinc sulfate therapy, with encouraging results, in some alopecia areata patients.
+
+OBJECTIVE
+The purpose of this study was to evaluate the therapeutic effects of oral zinc supplementation for twelve weeks in alopecia areata patients who had a low serum zinc level.
+
+METHODS
+Oral zinc gluconate (50 mg/T/day) supplementation was given to alopecia areata patients without any other treatment for twelve weeks. The serum zinc level was measured before and after zinc supplementation. A four-point scale of hair regrowth was used to evaluate the therapeutic effect of oral zinc supplementation in these patients.
+
+RESULTS
+Fifteen alopecia areata patients were enrolled in this study. After the therapy, the serum zinc levels increased significantly from 56.9 microg/ to 84.5 microg/dl. Positive therapeutic effects were observed for 9 out of 15 patients (66.7%) although this was not statistically significant. The serum zinc levels of the positive response group increased more than those of the negative response group (p=0.003).
+
+CONCLUSION
+Zinc supplementation needs to be given to the alopecia areata patients who have a low serum zinc level. We suggest that zinc supplementation could become an adjuvant therapy for the alopecia areata patients with a low serum zinc level and for whom the traditional therapeutic methods have been unsuccessful.
+
+Alteration of the zinc anc copper concentration of hair.
+
+Number of 
+
+Key takeaways:Hair color, hair treatments, and distance from the scalp can alter hair's zinc and copper concentrations, with cold waving and bleaching having the most drastic effects.
+
+Abstract:A washing and analytical procedure for the analysis of the zinc and copper concentrations of hair samples is described. The treatment of samples with nonionic detergent + EDTA wash removed the most adsorbed zinc anc copper from hair and was the washing procedure chosen for routine analyses. Beauty treatments had a variable effect on hair zinc and copper concentrations; the most drastic procedures were cold waving and bleaching; conditioner, hair spray, tint, and a permanent dye had a less drastic or no effect. Increasing distance of the hair from the scalp was associated with a regular increase in copper concentration and also increases in zinc concentration for most subjects.
+
+Analysis of Serum Zinc and Copper Concentrations in Hair Loss
+
+Number of 
+
+Key takeaways:Zinc metabolism disturbances play a key role in hair loss, particularly alopecia areata and telogen effluvium, while the effect of copper on hair growth and shedding cycles needs further study.
+
+Abstract:Background It is well known that some trace elements such as zinc and copper play a significant role in many forms of hair loss. However, the effect of zinc and copper in the pathogenesis of hair loss is still unknown. Objective The purpose of this study is to evaluate the zinc and copper status in each of four types of hair loss. Methods A study was carried out with 30 health controls and 312 patients who were diagnosed with alopecia areata (AA), male pattern hair loss, female pattern hair loss and telogen effluvium (TE) (2008 to 2011; Hallym University Kangdong Sacred Heart Hospital). Zinc and copper serum concentrations were evaluated between controls and each of four types of hair loss patients. Results In all of the hair loss patients, the mean serum zinc was 84.33±22.88, significantly lower than the control group (97.94±21.05 µg/dl) (p=0.002), whereas the serum copper was 96.44±22.62, which was not significantly different (p=0.975). The analysis of each group showed that all groups of hair loss had statistically lower zinc concentration, but not copper concentrations. However, the ratio of the patients with serum zinc concentration lower than 70 µg/dl was significantly high in only the AA group (odds ratio, OR 4.02; confidence interval, CI 1.13 to 14.31) and the TE group (OR 1.12; CI 1.12 to 17.68). Conclusion The data led to the hypothesis of zinc metabolism disturbances playing a key role in hair loss, especially AA and TE, whereas the effect of copper on hair growth and shedding cycles still needs more study.
+
+Impact of Two Forms of Daily Preventive Zinc or Therapeutic Zinc Supplementation for Diarrhea on Hair Cortisol Concentrations Among Rural Laotian Children: A Randomized Controlled Trial
+
+Number of 
+
+Key takeaways:Daily preventive zinc and therapeutic zinc supplements for diarrhea treatment had no significant impact on hair cortisol levels in young Laotian children, with a marginal difference between the two being insignificant.
+
+Abstract:Zinc supplementation has been shown to reduce the morbidity burden among young children, and may reduce chronic stress. Hair cortisol has been promoted as an indicator of chronic stress. We assessed the impact of different strategies for delivering supplementary zinc on hair cortisol concentrations (HCC) in young Laotian children and examined risk factors associated with HCC. In a randomized double-blind controlled trial (NCT02428647), children aged 6–23 mo were randomized to one of four intervention groups and followed for ~36 weeks: daily preventive zinc (PZ) tablets (7 mg/day), daily multiple micronutrient powder (MNP) sachets (containing 10 mg zinc and 14 other micronutrients), therapeutic zinc (TZ) supplements for diarrhea treatment (20 mg/day for 10 days) or daily placebo powder. HCC of 512 children was assessed at baseline and endline. ANCOVA and linear regression models were used to assess group differences in HCC and to examine the risk factors associated with HCC, respectively. At enrollment, mean HCC was 28.8 ± 43.9 pg/mg. In models adjusted for age at enrollment, health district, and baseline HCC there was no overall effect of the interventions on endline HCC and change in HCC. When controlling for additional predetermined covariates, there was a marginally significant effect on change in HCC (p = 0.075) with a slightly lower reduction of HCC in TZ compared to PZ (mean change (95% CI): −4.6 (−7.0; −2.3) vs. −9.4 (−11.7; −7.0) pg/mg; p = 0.053). At baseline, consumption of iron rich foods was negatively associated with HCC, whereas AGP (α1-acid glycoprotein) levels, elevated AGP and C-reactive protein and high soluble transferrin receptor were positively associated with HCC. In young Laotian children, MNP, PZ and TZ had no impact on HCC. The marginal difference in change in HCC between the PZ and TZ groups was too small to be considered of health significance.
+
+Zinc and atopic dermatitis: a systematic review and meta‐analysis
+
+Number of 
+
+Key takeaways:Low serum, hair, and erythrocyte zinc levels are associated with atopic dermatitis, but high-quality studies are needed to confirm this association and evaluate the efficacy of zinc supplementation for treatment or prevention.
+
+Abstract:Zinc plays a central role in skin integrity via barrier and immune mechanisms and may also be relevant in the pathogenesis of atopic dermatitis (AD). However, little is known about the relationship between zinc and AD. We performed a systematic review to determine (i) the association between zinc levels or zinc deficiency and AD and (ii) the efficacy of oral zinc supplementation in the treatment of AD. We searched PubMed, Scopus, Web of Science and article references for observational studies on zinc levels or zinc deficiency in participants with AD vs. controls and for randomized control trials (RCTs) on zinc supplementation in AD. For observational studies, we calculated pooled standardized mean differences (SMDs) or odds ratios (ORs) along with 95% confidence intervals (CIs) using a random effects model. We included 14 observational studies and two RCTs. The pooled SMD demonstrated significantly lower serum (SMD 0.66, 95% CI 0.21–1.10, P = 0.004), hair (SMD 0.95, 95% CI 0.38–1.52, P = 0.001) and erythrocyte (SMD 0.95, 95% CI 0.38–1.52, P = 0.001) zinc levels in participants with AD compared to controls. Pooled unadjusted data from three studies showed a non‐significant increased odds of AD in those with zinc deficiency compared with those without zinc deficiency (OR = 1.50, 95% CI 0.71–3.16, P = 0.28). One RCT of oral zinc supplementation among AD patients with zinc deficiency showed improvement in extent and severity of AD, while another RCT among all AD patients showed no significant improvement. All the studies were of low or moderate quality. We conclude that low serum, hair and erythrocyte zinc levels are associated with AD. However, the poor quality of included studies makes interpretation of these results problematic. High‐quality observational studies are needed to confirm the association between low zinc levels and AD, and RCTs are required to evaluate the merit of zinc supplementation for the treatment or prevention of AD.
+
+Infants and elderlies are susceptible to zinc deficiency
+
+Number of 
+
+Key takeaways:Zinc deficiency is prevalent in 6.17 percent of Japanese subjects, with a higher prevalence in infants aged 0-4 years and elderly individuals.
+
+Relationship between Copper, Zinc, and Copper-to-Zinc Ratio in Hair and Severity of Coronary Artery Disease according to the SYNTAX Score
+
+Number of 
+
+Key takeaways:Lower copper levels in hair and a lower copper-to-zinc ratio are linked to worse plaque buildup in heart arteries, while zinc levels in hair show no significant correlation with the severity of coronary artery disease.
+
+Abstract:Simple Summary Coronary artery disease is a major cause of death worldwide, so it is important to find new changeable factors to prevent it. Some recent studies suggest that not having enough zinc and copper in the body might make plaque build up in heart arteries, which effects in coronary artery disease. In this study, we wanted to discover whether the amount of copper and zinc in hair could tell us something about plaque buildup. We looked at 130 patients and used a scoring system called the SYNTAX score to see how severe the plaque buildup in their heart arteries was. We also checked the copper and zinc levels in their hair and the ratio between these elements. The results showed that lower copper levels in hair and a lower copper-to-zinc ratio were linked to worse plaque buildup in heart arteries. However, we did not find a connection between zinc levels in hair and the severity of plaque buildup. Using hair samples might help us learn more about how copper and zinc affect coronary artery disease, but there is a need for more studies on this topic. Abstract Coronary artery disease (CAD) continues to be a foremost contributor to global mortality, and the quest for modifiable risk factors could improve prophylactic strategies. Recent studies suggest a significant role of zinc (Zn) and copper (Cu) deficiency in atheromatous plaque formation. Furthermore, hair was previously described as a valuable source of information on elemental burden during the 6–8 week period before sampling. The aim of this study was to investigate the possibility of correlation between the extent of CAD evaluated with the SYNergy Between PCI With TAXUS and the Cardiac Surgery (SYNTAX) score with Cu and Zn content in hair samples, as well as with the Cu/Zn ratio in a cohort of 130 patients. Our findings describe a statistically significant inverse correlation between Cu content and the Cu/Zn ratio in hair samples and the extent of CAD. In contrast, no significant correlation was found between Zn content and the extent of CAD. Considering the scarcity of existing data on the subject, the analysis of hair samples could yield a novel insight into elemental deficiencies and their potential influence on CAD extent.
+
+Hair zinc levels and the efficacy of oral zinc supplementation in patients with atopic dermatitis.
+
+Number of 
+
+Key takeaways:Oral zinc supplementation may be effective in improving eczema severity, transepidermal water loss, and pruritus in atopic dermatitis patients with low hair zinc levels.
+
+Abstract:Zinc deficiency in patients with atopic dermatitis (AD) and the use of zinc supplementation is still controversial. We measured hair zinc levels in 58 children with AD and 43 controls (age range 2-14 years). We also investigated the efficacy of oral zinc supplementation in AD patients with low hair zinc levels by comparing eczema assessment severity index (EASI), transepidermal water loss (TEWL), and visual analogue scales for pruritus and sleep disturbance in patients receiving zinc supplementation (Group A) and others not receiving supplementation (Group B). At baseline, the mean zinc level was significantly reduced in AD patients (113.1 μg/g vs. 130.9 μg/g, p = 0.012). After 8 weeks of supplement, hair zinc level increased significantly in Group A (p < 0.001), and EASI scores, TEWL, and visual analogue scales for pruritus improved more in Group A than in Group B (p = 0.044, 0.015 and < 0.001, respectively). Thus, oral zinc supplementation may be effective in AD patients with low hair zinc levels.
+
+Zinc deficiency triggers hearing loss by reducing ribbon synapses of inner hair cells in CBA/N mice.
+
+Number of 
+
+Key takeaways:Zinc deficiency leads to hearing loss in mice by reducing inner hair cell synapses and impairing efferent nerve fibers, but not cochlear structures.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

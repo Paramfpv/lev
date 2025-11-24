@@ -1,0 +1,414 @@
+PROTOCOL: Gene therapy (follistatin)
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Abstract:Facioscapulohumeral muscular dystrophy (FSHD) is an autosomal dominant or digenic disorder linked to derepression of the toxic DUX4 gene in muscle. There is currently no pharmacological treatment. The emergence of DUX4 enabled development of cell and animal models that could be used for basic and translational research. Since DUX4 is toxic, animal model development has been challenging, but progress has been made, revealing that tight regulation of DUX4 expression is critical for creating viable animals that develop myopathy. Here, we report such a model - the tamoxifen-inducible FSHD mouse model called TIC-DUX4. Uninduced animals are viable, born in Mendelian ratios, and overtly indistinguishable from WT animals. Induced animals display significant DUX4-dependent myopathic phenotypes at the molecular, histological, and functional levels. To demonstrate the utility of TIC-DUX4 mice for therapeutic development, we tested a gene therapy approach aimed at improving muscle strength in DUX4-expressing muscles using adeno-associated virus serotype 1.Follistatin (AAV1.Follistatin), a natural myostatin antagonist. This strategy was not designed to modulate DUX4 but could offer a mechanism to improve muscle weakness caused by DUX4-induced damage. AAV1.Follistatin significantly increased TIC-DUX4 muscle mass and strength even in the presence of DUX4 expression, suggesting that myostatin inhibition may be a promising approach to treat FSHD-associated weakness. We conclude that TIC-DUX4 mice are a relevant model to study DUX4 toxicity and, importantly, are useful in therapeutic development studies for FSHD.
+DESCRIPTION: Gene therapy using follistatin delivers the gene encoding this protein to muscles, leading to a significant increase in muscle mass and strength as well as metabolic benefits. Preclinical studies have also demonstrated a reduction in inflammation and improved glycemic control. This approach may represent an innovative strategy for treating muscular dystrophies, type 2 diabetes, and obesity.
+
+CONTENT SECTIONS:
+
+Gene therapy (follistatin)
+
+Increase in muscle mass and improvement of metabolism
+
+Gene therapy using follistatin delivers the gene encoding this protein to muscles, leading to a significant increase in muscle mass and strength as well as metabolic benefits. Preclinical studies have also demonstrated a reduction in inflammation and improved glycemic control. This approach may represent an innovative strategy for treating muscular dystrophies, type 2 diabetes, and obesity.
+
+Level of evidence:Preliminary
+
+The follistatin gene delivered by the AAV vector is expressed in muscle cells, where it binds to and neutralizes myostatin and activins, stimulating muscle protein synthesis and fiber hypertrophy. Follistatin also supports the browning of white adipose tissue, increasing energy expenditure, and inhibits the production of pro-inflammatory cytokines, improving metabolic functions of muscles and the liver.
+
+Gene therapy using the AAV vector is generally well tolerated but is associated with a risk of immunogenicity, local inflammation at the administration site, and potential immune responses to the vector. Rare adverse events related to vector integration are also possible, such as the risk of insertional mutagenesis.
+
+Gene therapy with follistatin is not recommended in individuals with active immunological disorders, certain liver and kidney diseases, or in pregnant women due to a lack of safety data in these groups.
+
+Single intravenous administration of an AAV9 vector containing the follistatin gene (approx. 1×10^12 vg/kg)
+
+AAV9 vector in the form of an intravenous infusion solution
+
+First effects after 4–6 weeks, maximum protein expression after 8–12 weeks
+
+Not relevant – infusion in a hospital setting, morning hours preferred
+
+Immunological preparation
+
+Consider premedication with steroids and monitoring anti-AAV antibody levels before therapy
+
+Liver function monitoring
+
+Regular liver enzyme testing for 12 weeks after infusion
+
+Avoid intensive physical activity for 48 hours after vector administration
+
+Neurological monitoring
+
+Assess muscle strength and monitor for possible symptoms of neuropathy monthly for 6 months
+
+Assessment of metabolic parameters
+
+Regular glucose and lipid profile measurements during the first 3 months
+
+Musculoskeletal system
+
+Gene therapy using follistatin has a positive effect on the musculoskeletal system, particularly by increasing muscle mass and strength and improving motor functions in various models of muscular diseases and inflammatory states.
+
+Increase in muscle mass and strength
+
+Improvement of motor functions
+
+Protection against injuries and inflammation
+
+Gene therapy using follistatin has a clearly positive effect on body composition in animal models, increasing muscle mass and simultaneously reducing fat tissue, which suggests potential for treating obesity, diabetes, and muscle diseases.
+
+Effects of gene therapy with follistatin on body composition
+
+Gene therapy using follistatin has a clearly positive effect on metabolism in animal studies, improving glycemic control, reducing inflammation, supporting muscle mass development, and limiting fat deposition.
+
+Key metabolic effects
+
+Scientific data and sources
+
+Level of evidencePreliminary
+
+Number of included studies:42
+
+Final comment:Most available data come from preclinical studies on animal models and small, non-randomized phase I studies in humans, which limits the direct translatability of the results. There is a lack of large, controlled clinical trials assessing the efficacy and safety of gene therapy with follistatin, and current observations are preliminary and require confirmation in further studies.
+
+Gene therapy for follistatin mitigates systemic metabolic inflammation and post-traumatic arthritis in high-fat diet–induced obesity
+
+Number of 
+
+Key takeaways:Follistatin gene therapy effectively reduces metabolic inflammation and post-traumatic osteoarthritis in obesity-induced mice, offering a potential multifactorial therapeutic approach.
+
+Abstract:Follistatin gene therapy prevents obesity, metabolic disease, and post-traumatic osteoarthritis. Obesity-associated inflammation and loss of muscle function play critical roles in the development of osteoarthritis (OA); thus, therapies that target muscle tissue may provide novel approaches to restoring metabolic and biomechanical dysfunction associated with obesity. Follistatin (FST), a protein that binds myostatin and activin, may have the potential to enhance muscle formation while inhibiting inflammation. Here, we hypothesized that adeno-associated virus 9 (AAV9) delivery of FST enhances muscle formation and mitigates metabolic inflammation and knee OA caused by a high-fat diet in mice. AAV-mediated FST delivery exhibited decreased obesity-induced inflammatory adipokines and cytokines systemically and in the joint synovial fluid. Regardless of diet, mice receiving FST gene therapy were protected from post-traumatic OA and bone remodeling induced by joint injury. Together, these findings suggest that FST gene therapy may provide a multifactorial therapeutic approach for injury-induced OA and metabolic inflammation in obesity.
+
+A phase 1/2a follistatin gene therapy trial for becker muscular dystrophy.
+
+Number of 
+
+Key takeaways:Follistatin gene therapy showed promising results in improving strength and muscle function in Becker muscular dystrophy patients without adverse effects.
+
+Follistatin Gene Therapy for Sporadic Inclusion Body Myositis Improves Functional Outcomes.
+
+Number of 
+
+Key takeaways:Follistatin gene therapy improves functional outcomes in mild to moderately affected, ambulatory sporadic inclusion body myositis patients, with potential for more advanced disease.
+
+Gene therapy approaches to regenerating the musculoskeletal system
+
+Number of 
+
+Key takeaways:Gene therapy shows potential in improving repair and regeneration of the musculoskeletal system, with potential applications in osteoarthritis, cartilage repair, and bone-healing.
+
+AAV-mediated follistatin gene therapy improves functional outcomes in the TIC-DUX4 mouse model of FSHD.
+
+Number of 
+
+Key takeaways:AAV-mediated follistatin gene therapy improves muscle strength and mass in the TIC-DUX4 mouse model of FSHD, suggesting myostatin inhibition may be a promising approach for treating FSHD-associated weakness.
+
+Abstract:Facioscapulohumeral muscular dystrophy (FSHD) is an autosomal dominant or digenic disorder linked to derepression of the toxic DUX4 gene in muscle. There is currently no pharmacological treatment. The emergence of DUX4 enabled development of cell and animal models that could be used for basic and translational research. Since DUX4 is toxic, animal model development has been challenging, but progress has been made, revealing that tight regulation of DUX4 expression is critical for creating viable animals that develop myopathy. Here, we report such a model - the tamoxifen-inducible FSHD mouse model called TIC-DUX4. Uninduced animals are viable, born in Mendelian ratios, and overtly indistinguishable from WT animals. Induced animals display significant DUX4-dependent myopathic phenotypes at the molecular, histological, and functional levels. To demonstrate the utility of TIC-DUX4 mice for therapeutic development, we tested a gene therapy approach aimed at improving muscle strength in DUX4-expressing muscles using adeno-associated virus serotype 1.Follistatin (AAV1.Follistatin), a natural myostatin antagonist. This strategy was not designed to modulate DUX4 but could offer a mechanism to improve muscle weakness caused by DUX4-induced damage. AAV1.Follistatin significantly increased TIC-DUX4 muscle mass and strength even in the presence of DUX4 expression, suggesting that myostatin inhibition may be a promising approach to treat FSHD-associated weakness. We conclude that TIC-DUX4 mice are a relevant model to study DUX4 toxicity and, importantly, are useful in therapeutic development studies for FSHD.
+
+Micro-dystrophin and follistatin co-delivery restores muscle function in aged DMD model.
+
+Number of 
+
+Key takeaways:Micro-dystrophin gene replacement and follistatin enhancement combined can restore muscle strength and resistance to contraction-induced injury in aged Duchenne muscular dystrophy mice.
+
+Abstract:Pharmacologic strategies have provided modest improvement in the devastating muscle-wasting disease, Duchenne muscular dystrophy (DMD). Pre-clinical gene therapy studies have shown promise in the mdx mouse model; however, studies conducted after disease onset fall short of fully correcting muscle strength or protecting against contraction-induced injury. Here we examine the treatment effect on muscle physiology in aged dystrophic mice with significant disease pathology by combining two promising therapies: micro-dystrophin gene replacement and muscle enhancement with follistatin, a potent myostatin inhibitor. Individual treatments with micro-dystrophin and follistatin demonstrated marked improvement in mdx mice but were insufficient to fully restore muscle strength and response to injury to wild-type levels. Strikingly, when combined, micro-dystrophin/follistatin treatment restored force generation and conferred resistance to contraction-induced injury in aged mdx mice. Pre-clinical studies with miniature dystrophins have failed to demonstrate full correction of the physiological defects seen in mdx mice. Importantly, the addition of a muscle enhancement strategy with delivery of follistatin in combination with micro-dystrophin gene therapy completely restored resistance to eccentric contraction-induced injury and improved force. Eccentric contraction-induced injury is a pre-clinical parameter relevant to the exercise induced injury that occurs in DMD patients, and herein, we demonstrate compelling evidence for the therapeutic potential of micro-dystrophin/follistatin combinatorial therapy.
+
+Follistatin Gene Delivery Enhances Muscle Growth and Strength in Nonhuman Primates
+
+Number of 
+
+Key takeaways:Follistatin gene delivery in monkeys increases muscle size and strength, potentially benefiting patients with progressive neuromuscular disorders.
+
+Abstract:A vector delivered into muscles of monkeys generates a natural regulatory molecule, which increases muscle size and strength and may be useful therapeutically. Beyond Mighty Mouse: Building Muscle Mass Strength in Monkeys Patients with progressive neuromuscular disorders all experience the foreboding of the severe disability that awaits them and from which there is little to no relief. Although this class of disorders has multiple genetic and physiological origins, a therapy that directly addresses the debilitating muscle weakness that is the hallmark of these maladies would enhance the lives of millions. Now, in an extension of their previous work in dystrophic mice, Kota et al. describe such a therapeutic approach in preclinical studies performed in nonhuman primates. This treatment mode is applicable to several progressive neuromuscular disorders whether or not scientists have defined their precise genetic defects. The authors used a gene therapy approach to introduce a version of the human gene encoding follistatin into the muscles of the femurs of healthy cynomolgus macaques. Follistatin is a potent inhibitor of myostatin, a signaling molecule that regulates skeletal muscle mass. Follistatin blocks myostatin signaling and augments muscle size and strength safely in mice but, until now, has not been tested in primates. Kota et al. injected a follistatin-producing gene therapy vector into the leg muscles of the monkeys and measured increases in muscle mass and strength. Sustained follistatin expression caused no aberrations in the structures or functions of a variety of organs. This promising progress comes with some caveats. Because healthy monkeys served as subjects for this therapeutic protocol, these findings are not predictive of the outcome in a clinical setting with patients suffering from muscle disorders. In certain genetic neuromuscular diseases, the muscles undergo a repeated cycle of degeneration and regeneration. The vector used in this study does not integrate into the muscle cell genome and thus can be lost from the cells during the degeneration-regeneration cycles. However, the authors point out that the enhancement of muscle size and strength observed in similarly treated dystrophic mice persisted for more than a year even though there was appreciable muscle turnover. More study is needed before follistatin enters the clinic, such as a molecular assessment of gene and vector sequences in multiple tissues. Nonetheless, the work of Kota et al. constitutes proof of principle for the use of myostatin inhibitors to build muscle in primates. Antagonists of myostatin, a blood-borne negative regulator of muscle growth produced in muscle cells, have shown considerable promise for enhancing muscle mass and strength in rodent studies and could serve as potential therapeutic agents for human muscle diseases. One of the most potent of these agents, follistatin, is both safe and effective in mice, but similar tests have not been performed in nonhuman primates. To assess this important criterion for clinical translation, we tested an alternatively spliced form of human follistatin that affects skeletal muscle but that has only minimal effects on nonmuscle cells. When injected into the quadriceps of cynomolgus macaque monkeys, a follistatin isoform expressed from an adeno-associated virus serotype 1 vector, AAV1-FS344, induced pronounced and durable increases in muscle size and strength. Long-term expression of the transgene did not produce any abnormal changes in the morphology or function of key organs, indicating the safety of gene delivery by intramuscular injection of an AAV1 vector. Our results, together with the findings in mice, suggest that therapy with AAV1-FS344 may improve muscle mass and function in patients with certain degenerative muscle disorders.
+
+Follistatin Gene Therapy Improves Ambulation in Becker Muscular Dystrophy
+
+Number of 
+
+Key takeaways:Follistatin gene therapy, using the FS344 isoform, improves muscle mass and function in Becker muscular dystrophy patients.
+
+Abstract:Abstract Follistatin is a ubiquitous secretory propeptide that functions as a potent inhibitor of the myostatin pathway, resulting in an increase in skeletal muscle mass. Its ability to interact with the pituitary activin-inhibin axis and suppress the secretion of follicle-stimulating hormone (FSH) called for caution in its clinical applicability. This limitation was circumvented by the use of one of the alternatively spliced follistatin variants, FS344, undergoing post-translational modification to FS315. This follistatin isoform is serum-based, and has a 10-fold lower affinity to activin compared to FS288. Preclinical studies of intramuscular delivery of the follistatin gene demonstrated safety and efficacy in enhancing muscle mass. We herein review the evidence supporting the utility of follistatin as a genetic enhancer to improve cellular performance. In addition, we shed light on the results of the first clinical gene transfer trial using the FS344 isoform of follistatin in subjects with Becker muscular dystrophy as well as the future directions for clinical gene therapy trials using follistatin.
+
+Follistatin N terminus differentially regulates muscle size and fat in vivo
+
+Number of 
+
+Key takeaways:The N-terminal domain of follistatin plays a crucial role in regulating muscle size and fat mass, potentially aiding in muscular dystrophies and diabetes treatment.
+
+Plasmid-Mediated Gene Therapy in Mouse Models of Limb Girdle Muscular Dystrophy
+
+Number of 
+
+Key takeaways:A combined gene therapy involving alpha-sarcoglycan and follistatin shows potential therapeutic value for LGMD2D patients, suggesting potential translational potential in patients.
+
+Inhibition of myostatin with emphasis on follistatin as a therapy for muscle disease
+
+Number of 
+
+Key takeaways:AAV-FS344 gene therapy effectively increases muscle size and strength without adverse effects or changes in reproductive capabilities in various species.
+
+Abstract:In most cases, pharmacologic strategies to treat genetic muscle disorders and certain acquired disorders, such as sporadic inclusion body myositis, have produced modest clinical benefits. In these conditions, inhibition of the myostatin pathway represents an alternative strategy to improve functional outcomes. Preclinical data that support this approach clearly demonstrate the potential for blocking the myostatin pathway. Follistatin has emerged as a powerful antagonist of myostatin that can increase muscle mass and strength. Follistatin was first isolated from the ovary and is known to suppress follicle‐stimulating hormone. This raises concerns for potential adverse effects on the hypothalamic–pituitary–gonadal axis and possible reproductive capabilities. In this review we demonstrate a strategy to bypass off‐target effects using an alternatively spliced cDNA of follistatin (FS344) delivered by adeno‐associated virus (AAV) to muscle. The transgene product is a peptide of 315 amino acids that is secreted from the muscle and circulates in the serum, thus avoiding cell‐surface binding sites. Using this approach our translational studies show increased muscle size and strength in species ranging from mice to monkeys. Adverse effects are avoided, and no organ system pathology or change in reproductive capabilities has been seen. These findings provide the impetus to move toward gene therapy clinical trials with delivery of AAV‐FS344 to increase size and function of muscle in patients with neuromuscular disease. Muscle Nerve 39: 283–296, 2009
+
+Gene Therapy for Follistatin Mitigates Systemic Metabolic Inflammation and Post-Traumatic Osteoarthritis in High-Fat Diet-Induced Obese Mice
+
+Number of 
+
+Key takeaways:Follistatin gene therapy effectively reduces metabolic inflammation and post-traumatic osteoarthritis in obese mice, offering a potential multifactorial therapeutic approach for obesity-related conditions.
+
+Abstract:Obesity-associated inflammation and loss of muscle function play critical roles in the development of osteoarthritis (OA); thus, therapies that target muscle tissue may provide novel approaches to restoring metabolic and biomechanical dysfunction associated with obesity. Recent studies indicate that follistatin (FST), a protein which binds myostatin and activin, may have the potential to enhance muscle formation while neutralizing inflammation induced by these proteins. Here, we hypothesized that adeno-associated virus (AAV9) delivery of FST will enhance muscle formation and mitigate metabolic inflammation and knee OA caused by a high fat diet in mice. Obese mice receiving AAV-mediated FST delivery exhibited decreased inflammatory adipokines and cytokines systemically in the serum as well as locally in the joint synovial fluid. Regardless of diet, mice receiving FST gene therapy were protected from post-traumatic OA and bone remodeling induced by joint injury. While obesity disrupted the mitochondrial oxidative phosphorylation (OXPHOS) system in adipocytes, gene therapy for FST restored the key proteins involved in mitochondrial biogenesis, such as PPARγ coactivator 1α and AKT protein kinase 1, leading to the browning of white adipose tissue. Taken together, these findings suggest that FST gene therapy may provide a multifactorial therapeutic approach for injury-induced OA and metabolic inflammation in obesity.
+
+Gene Therapy in Musculoskeletal Repair
+
+Number of 
+
+Key takeaways:Orthopedic gene therapy using growth factor genes and minimally invasive cell transplantation shows promise for improving cartilage, bone, and tendon repair in preclinical trials.
+
+Abstract:Abstract:  Local and regional gene therapy has improved healing in preclinical trials of articular and other muculoskeletal conditions. Combinations of cell supplementation and cells overexpressing growth factor genes have shown promising results for improving cartilage repair, enhancing delayed union of fractures, and driving organized tendon repair. Proof of concept has been developed using viral vectors, predominantly adenovirus, to deliver growth factor genes, such as BMP‐2, TGF‐β1, and IGF‐I. Integrating vectors, such as retrovirus and lentivirus, have improved the duration of gene‐induced repair, however, increased risk factors have limited broad application. Cartilage repair can be improved using chondrocyte or stem cell transplantation with cells expressing IGF‐I, BMP‐2, or FGF‐2. In cartilage injury and secondary osteoarthritis models, a combination of IL‐1 knockdown and growth factor supplementation has restored cartilage matrix and stabilized the osteoarthritic process. Ultimately, nonviral vectors may provide similar control of catabolic activity in cartilage and synovial structures, which may further improve outcome after chondrocyte or mesenchymal stem cell (MSC) implantation. MSCs derived from bone marrow, fat, or other connective tissues provide a multipotent cell source that may be privileged vectors for skeletal gene therapy. MSCs expressing BMP‐2, TGF‐β1, LMP‐1, IGF‐I, or GDF‐5 have enhanced cartilage, bone, and tendon repair. Overall, the field of orthopedic gene therapy for enhanced tissue repair has made significant preclinical advances. Combining existing cell transplant technology to deliver differentiated cells in a minimally invasive way, with genes that improve matrix formation, provides a manageable protocol for a persisting anabolic impact.
+
+497. Follistatin Gene Therapy Improves Six Minute Walk Distance in Sporadic Inclusion Body Myositis (sIBM)
+
+Number of 
+
+Key takeaways:Follistatin gene therapy improves the six-minute walk distance in patients with sporadic inclusion body myositis, potentially benefiting those with more widespread muscle damage.
+
+Reply to the letter to the editor
+
+Number of 
+
+Key takeaways:Dr. Greenberg's criticism of follistatin's efficacy in inclusion body myositis is unfounded and misrepresents the primary outcome, safety, and regulatory approval criteria in first-in-human gene therapy trials.
+
+Abstract:Dr. Steven Greenberg is a well-respected clinician scientist who has limited experience in gene therapy. The premise for his critique of our recent follistatin paper is that claims by the 
+
+Intravascular Follistatin gene delivery improves glycemic control in a mouse model of type 2 diabetes
+
+Number of 
+
+Key takeaways:Intravascular Follistatin gene delivery improves glycemic control and reduces diabetic progression in a mouse model, suggesting potential for novel type 2 diabetes therapeutics.
+
+Abstract:Type 2 diabetes (T2D) manifests from inadequate glucose control due to insulin resistance, hypoinsulinemia, and deteriorating pancreatic β‐cell function. The pro‐inflammatory factor Activin has been implicated as a positive correlate of severity in T2D patients, and as a negative regulator of glucose uptake by skeletal muscle, and of pancreatic β‐cell phenotype in mice. Accordingly, we sought to determine whether intervention with the Activin antagonist Follistatin can ameliorate the diabetic pathology. Here, we report that an intravenous Follistatin gene delivery intervention with tropism for striated muscle reduced the serum concentrations of Activin B and improved glycemic control in the db/db mouse model of T2D. Treatment reversed the hyperglycemic progression with a corresponding reduction in the percentage of glycated‐hemoglobin to levels similar to lean, healthy mice. Follistatin gene delivery promoted insulinemia and abundance of insulin‐positive pancreatic β‐cells, even when treatment was administered to mice with advanced diabetes, supporting a mechanism for improved glycemic control associated with maintenance of functional β‐cells. Our data demonstrate that single‐dose intravascular Follistatin gene delivery can ameliorate the diabetic progression and improve prognostic markers of disease. These findings are consistent with other observations of Activin‐mediated mechanisms exerting deleterious effects in models of obesity and diabetes, and suggest that interventions that attenuate Activin signaling could help further understanding of T2D and the development of novel T2D therapeutics.
+
+Functionalized hydrogels as smart gene delivery systems to treat musculoskeletal disorders.
+
+Number of 
+
+Key takeaways:Functionalized hydrogels show potential as intelligent, efficient, and strong platforms for treating musculoskeletal disorders through gene therapy procedures.
+
+A follistatin‐based molecule increases muscle and bone mass without affecting the red blood cell count in mice
+
+Number of 
+
+Key takeaways:FST-HBS-mFc therapy effectively increases muscle and bone mass without affecting red blood cell count in mice, potentially benefiting patients with musculoskeletal conditions regardless of hematocrit status.
+
+Abstract:Inhibitors of the activin receptor signaling pathway (IASPs) have become candidate therapeutics for sarcopenia and bone remodeling disorders because of their ability to increase muscle and bone mass. However, IASPs utilizing activin type IIA and IIB receptors are also potent stimulators of erythropoiesis, a feature that may restrict their usage to anemic patients because of increased risk of venous thromboembolism. Based on the endogenous TGF‐β superfamily antagonist follistatin (FST), a molecule in the IASP class, FSTΔHBS‐mFc, was generated and tested in both ovariectomized and naive BALB/c and C57BL/6 mice. In ovariectomized mice, FSTΔHBS‐Fc therapy dose‐dependently increased cancellous bone mass up to 42% and improved bone microstructural indices. For the highest dosage of FSTΔHBS‐mFc (30 mg/kg, 2 times/wk), the increase in cancellous bone mass was similar to that observed with parathyroid hormone therapy (1–34,80 µg/kg, 5 times/wk). Musculus quadriceps femoris mass dose‐dependently increased up to 21% in ovariectomized mice. In both ovariectomized and naive mice, FSTΔHBS‐mFc therapy did not influence red blood cell count or hematocrit or hemoglobin levels. If the results are reproduced, a human FSTΔHBS‐mFc version could be applicable in patients with musculoskeletal conditions irrespective of hematocrit status.—Lodberg, A., van der Eerden, B. C. J., Boers‐Sijmons, B., Thomsen, J. S., Brüel, A., van Leeuwen, J. P. T. M., Eijken, M. A follistatin‐based molecule increases muscle and bone mass without affecting the red blood cell count in mice. FASEB J. 33, 6001–6010 (2019). 
+
+Hypergravity as a gravitational therapy mitigates the effects of knee osteoarthritis on the musculoskeletal system in a murine model
+
+Number of 
+
+Key takeaways:Hypergravity therapy in osteoarthritis mice improves trabecular bone and muscle type, but has negative effects on cortical bone, similar to resistance exercises.
+
+Abstract:Insights into the effects of osteoarthritis (OA) and physical interventions on the musculoskeletal system are limited. Our goal was to analyze musculoskeletal changes in OA mice and test the efficacy of 8-week exposure to hypergravity, as a replacement of physical activity. 16-week-old male (C57BL/6J) mice allocated to sham control and OA groups not centrifuged (Ctrl 1g and OA 1g, respectively) or centrifuged at 2g acceleration (Ctrl 2g and OA 2g). OA 1g displayed decreased trabecular bone in the proximal tibia metaphysis and increased osteoclastic activity and local TNFα gene expression, all entirely prevented by 2g gravitational therapy. However, while cortical bone of tibia midshaft was preserved in OA 1g (vs. ctrl), it is thinner in OA 2g (vs. OA 1g). In the hind limb, OA at 1g increased fibers with lipid droplets by 48% in the tibialis anterior, a fact fully prevented by 2g. In Ctrl, 2g increased soleus, tibialis anterior and gastrocnemius masses. In the soleus of both Ctrl and OA, 2g induced larger fibers and a switch from type-II to type-I fiber. Catabolic (myostatin and its receptor activin RIIb and visfatine) and anabolic (FNDC5) genes dramatically increased in Ctrl 2g and OA 2g (p<0.01 vs 1g). Nevertheless, the overexpression of FNDC5 (and follistatine) was smaller in OA 2g than in Ctrl 2g. Thus, hypergravity in OA mice produced positive effects for trabecular bone and muscle typology, similar to resistance exercises, but negative effects for cortical bone.
+
+Follistatin‐like protein 1 (FSTL1) promotes chondrocyte expression of matrix metalloproteinase and inflammatory factors via the NF‐κB pathway
+
+Number of 
+
+Key takeaways:FSTL1 promotes chondrocyte expression of matrix metalloproteinase and inflammatory factors through the NFB pathway, potentially contributing to musculoskeletal diseases.
+
+Abstract:The expression of follistatin‐like protein 1 (FSTL1) is closely associated with diseases of the musculoskeletal system. However, despite being a well characterized inflammatory mediator, the effects of FSTL1 on chondrocytes are not completely understood. In this study, we investigated the effects of FSTL1 on the expression of inflammatory and catabolic factors in rat chondrocytes.
+
+Gene Therapy Approach for Treatment of Obese Agouti Mice
+
+Number of 
+
+Key takeaways:Gene therapy using AAVs encoding PRDM16, FoxP4, or FST genes effectively reduces body weight in agouti mice, promoting browning of white adipose tissue.
+
+Abstract:Obesity is a significant metabolic disorder associated with excessive fat accumulation and insulin resistance. In this study, we explored a gene therapy approach to treat obesity in agouti mice using adeno-associated viruses (AAVs) carrying PRDM16, FoxP4, or Follistatin (FST) genes, which are known to promote the browning of white adipose tissue. Mice treated with AAVs encoding PRDM16, FoxP4, or FST genes showed a reduction in body weight (10–14%) within the first three weeks after administration, compared to the control groups. A lipidomic analysis of the adipose tissue revealed a dramatic reduction in triacylglycerol (TAG) species with low carbon numbers (40–54 acyl carbons) in treated mice.
+
+A PRDM16-driven signal regulates body composition in testosterone-treated hypogonadal men
+
+Number of 
+
+Key takeaways:Testosterone therapy in hypogonadal men leads to a molecular shift from adipogenesis to myogenesis, resulting in reduced body fat and increased lean mass.
+
+Abstract:Background Testosterone (T) therapy increases lean mass and reduces total body and truncal fat mass in hypogonadal men. However, the underlying molecular mechanisms for the reciprocal changes in fat and lean mass in humans are not entirely clear. Methods Secondary analysis of specimens obtained from a single-arm, open-label clinical trial on pharmacogenetics of response to T therapy in men with late-onset hypogonadism, conducted between 2011 and 2016 involving 105 men (40-74 years old), who were given intramuscular T cypionate 200 mg every 2 weeks for 18 months. Subcutaneous fat (SCF), peripheral blood mononuclear cells (PBMC) and serum were obtained from the participants at different time points of the study. We measured transcription factors for adipogenesis and myogenesis in the SCF, and PBMC, respectively, by real-time quantitative PCR at baseline and 6 months. Serum levels of FOLLISTATIN, PAX7, MYOSTATIN, ADIPSIN, and PRDM16 were measured by ELISA. Results As expected, there was a significant increase in T and estradiol levels after 6 months of T therapy. There was also a reduction in fat mass and an increase in lean mass after 6 months of T therapy. Gene-protein studies showed a significant reduction in the expression of the adipogenic markers PPARγ in SCF and ADIPSIN levels in the serum, together with a concomitant significant increase in the expression of myogenic markers, MYOD in PBMC and PAX7 and FOLLISTATIN levels in the serum after 6 months of T therapy compared to baseline. Interestingly, there was a significant increase in the adipo-myogenic switch, PRDM16, expression in SCF and PBMC, and in circulating protein levels in the serum after 6 months of T therapy, which is likely from increased estradiol. Conclusion Our study supports that molecular shift from the adipogenic to the myogenic pathway in men with hypogonadism treated with T could be mediated directly or indirectly by enhanced PRDM16 activity, in turn a result from increased estradiol level. This might have led to the reduction in body fat and increase in lean mass commonly seen in hypogonadal men treated with T.
+
+Follistatin-derived peptide expression in muscle decreases adipose tissue mass and prevents hepatic steatosis.
+
+Number of 
+
+Key takeaways:Inhibiting myostatin with a follistatin-derived peptide increases muscle mass, decreases fat accumulation, and prevents obesity and hepatic steatosis while improving glucose tolerance.
+
+Abstract:Myostatin, a member of the transforming growth factor (TGF)-β superfamily, plays a potent inhibitory role in regulating skeletal muscle mass. Inhibition of myostatin by gene disruption, transgenic (Tg) expression of myostatin propeptide, or injection of propeptide or myostatin antibodies causes a widespread increase in skeletal muscle mass. Several peptides, in addition to myostatin propeptide and myostatin antibodies, can bind directly to and neutralize the activity of myostatin. These include follistatin and follistatin-related gene. Overexpression of follistatin or follistatin-related gene in mice increased the muscle mass as in myostatin knockout mice. Follistatin binds to myostatin but also binds to and inhibits other members of the TGF-β superfamily, notably activins. Therefore, follistatin regulates both myostatin and activins in vivo. We previously reported the development and characterization of several follistatin-derived peptides, including FS I-I (Nakatani M, Takehara Y, Sugino H, Matsumoto M, Hashimoto O, Hasegawa Y, Murakami T, Uezumi A, Takeda S, Noji S, Sunada Y, Tsuchida K. FASEB J 22: 477-487, 2008). FS I-I retained myostatin-inhibitory activity without affecting the bioactivity of activins. Here, we found that inhibition of myostatin increases skeletal muscle mass and decreases fat accumulation in FS I-I Tg mice. FS I-I Tg mice also showed decreased fat accumulation even on a control diet. Interestingly, the adipocytes in FS I-I Tg mice were much smaller than those of wild-type mice. Furthermore, FS I-I Tg mice were resistant to high-fat diet-induced obesity and hepatic steatosis and had lower hepatic fatty acid levels and altered fatty acid composition compared with control mice. FS I-I Tg mice have improved glucose tolerance when placed on a high-fat diet. These data indicate that inhibiting myostatin with a follistatin-derived peptide provides a novel therapeutic option to decrease adipocyte size, prevent obesity and hepatic steatosis, and improve glucose tolerance.
+
+The effects of concurrent training order on body composition and serum concentrations of follistatin, myostatin and GDF11 in sarcopenic elderly men
+
+Number of 
+
+Key takeaways:Concurrent training improves muscle mass, function, and aerobic fitness in sarcopenic elderly men, regardless of the order of endurance and resistance exercise.
+
+Folistatina, resistencia a la insulina y composición corporal en adultos colombianos
+
+Number of 
+
+Key takeaways:Plasma follistatin shows a trend towards a positive correlation with muscle mass and a negative correlation with fat mass, and is positively associated with directly measured insulin sensitivity in the clamp.
+
+Abstract:Introduction: Follistatin is a protein with the ability to neutralize several hormones of the TGF-beta family including activin, bone morphogenetic proteins and myostatin. By inactivating activin, follistatin reduces FSH secretion. Besides ovary, follistatin is produced in several other tissues, hence it may have many other effects. In mice, genetic follistatin defficiency leads to insulin resistance (IR). However, the association between plasma follistatin and directly measured IR has not been evaluated in humans.Methods: We determined in 81 participants aged 30 to 69 (56% women, 54% overweight, 13% obese) anthropometry, body composition, cardiovascular risk factors and multiple IR indices: Incremental area under the insulin curve, Gutt´s Insulin sensitivity index, homeostatic model assessment – insulin resistance (HOMA-IR) and fasting insulin. A subgroup of 21 participants additionally underwent a hyperinsulinemic/euglycemic clamp. Follistatin and myostatin were measured in fasting plasma using immunometric techniques.Results: Mean plasma follistatin was 2.517±830 pg/mL, without differences by sex (p=0,55). Follistatin showed a trend towards a positive correlation with the percent lean mass (r=0,19, p=0,088) and towards a negative correlation with percent body fat (r= -0,19, p=0,097). Follistatin was not correlated with OGTT-derived IR indices but it did correlate with whole body insulinstimulated glucose uptake in the clamp (r=0,42, p=0,031). No correlation existed between plasma follistatin and myostatin.Conclusion: Plasma follistatin showed a trend to a positive correlation with muscle mass, and negative with fat mass. This fits the known role of follistatin as an antagonist to myostatin. Even though follistatin was not associated with indirect IR indices, it was positively associated with directly measured insulin sensitivity in the clamp.
+
+The Significance of the FTO Gene for Weight and Body Composition in Swedish Women With Severe Anorexia Nervosa During Intensive Nutrition Therapy.
+
+Number of 
+
+Key takeaways:Regardless of FTO genotype, there was no difference in weight response during nutrition therapy for women with anorexia nervosa.
+
+Abstract:OBJECTIVE
+The aim of this prospective study was to investigate the potential influence of the fat mass and obesity-associated gene (FTO), SNP rs9939609, on body mass index (BMI) and body composition in women with anorexia nervosa (AN) undergoing intensive nutrition therapy.
+
+METHOD
+Twenty-five female patients with AN (20.1 ± 2.3 years; BMI, 15.5 ± 0.9 kg/m2) were included for 12 weeks of treatment with a high-energy diet. FTO was genotyped and body composition parameters were assessed by dual-energy X-ray absorptiometry and peripheral quantitative computed tomography at baseline and after 12 weeks.
+
+RESULTS
+The distribution of the different FTO genotypes were as follows: AA, 24%; TA, 48%; and TT, 28%. Patients gained a median of 9.8 kg (range, 5.5-17.0 kg) and BMI increased to 19.0 ± 0.9 kg/m2. The increase in BMI, fat mass, and the quotient fat/muscle area was significant for the TT and TA genotype groups. Total lean mass was stable in all genotype groups. We could not demonstrate any difference among the 3 FTO genotypes related to the increases in BMI during nutrition therapy when the additive, dominant, and recessive models of inheritance were applied.
+
+CONCLUSIONS
+Irrespective of the FTO genotype, there was no difference in weight response during nutrition therapy. Hence, in this small study there was limited support for individualized nutrition therapy for AN based on FTO genotype.
+
+Nanoparticle-Based Follistatin Messenger RNA Therapy for Reprogramming Metastatic Ovarian Cancer and Ameliorating Cancer-Associated Cachexia.
+
+Number of 
+
+Key takeaways:Nanoparticle-based follistatin mRNA therapy effectively reduces activin A levels, delays cancer progression, and preserves muscle mass in metastatic ovarian cancer patients, improving survival and resilience during aggressive chemotherapy.
+
+Abstract:This study presents the first messenger RNA (mRNA) therapy for metastatic ovarian cancer and cachexia-induced muscle wasting based on lipid nanoparticles that deliver follistatin (FST) mRNA predominantly to cancer clusters following intraperitoneal administration. The secreted FST protein, endogenously synthesized from delivered mRNA, efficiently reduces elevated activin A levels associated with aggressive ovarian cancer and associated cachexia. By altering the cancer cell phenotype, mRNA treatment prevents malignant ascites, delays cancer progression, induces the formation of solid tumors, and preserves muscle mass in cancer-bearing mice by inhibiting negative regulators of muscle mass. Finally, mRNA therapy provides synergistic effects in combination with cisplatin, increasing the survival of mice and counteracting muscle atrophy induced by chemotherapy and cancer-associated cachexia. The treated mice develop few nonadherent tumors that are easily resected from the peritoneum. Clinically, this nanomedicine-based mRNA therapy can facilitate complete cytoreduction, target resistance, improve resilience during aggressive chemotherapy, and improve survival in advanced ovarian cancer.
+
+Relationship of muscle function to circulating myostatin, follistatin and GDF11 in older women and men
+
+Number of 
+
+Key takeaways:Circulating plasma myostatin and follistatin negatively impact muscle function in older women, with a stronger relationship to muscle power than strength, while GDF11 is more associated with body mass and composition than muscle function.
+
+Abstract:Myostatin, its inhibitor follistatin, and growth/differentiation factor 11 (GDF11) have been proposed as factors that could potentially modify biological aging. The study aimed to test whether there is a relationship between these plasma circulating proteins and muscle strength, power and optimal shortening velocity (υopt) of older adults. The cross-sectional study included 56 women and 45 men aged 60 years and older. Every participant underwent examination which included anthropometric and bioimpedance analysis measurements, functional and cognitive performance tests, muscle strength of upper and lower extremities, muscle power testing with two different methods and blood analyses. Women had higher plasma levels of myostatin and GDF11 than men. Men had higher plasma level of follistatin than women. In women, plasma level of myostatin was negatively correlated with left handgrip strength and υopt. Follistatin was negatively correlated with maximum power output (Pmax), power relative to kg of body mass (Pmax∙kg− 1) (friction-loaded cycle ergometer) and power at 70% of the 1-repetition maximum (1RM) strength value (P70%) of leg press (Keiser pneumatic resistance training equipment), and positively correlated with the Timed Up & Go (TUG) test. GDF11 was negatively correlated with body mass, body mass index, waist circumference, fat mass and the percentage of body fat. In men, there were no significant correlations observed between circulating plasma proteins and muscle function measures. The circulating plasma myostatin and follistatin are negatively associated with muscle function in older women. There is stronger relationship between these proteins and muscle power than muscle strength. GDF11 has a higher association with the body mass and composition than muscle function in older women.
+
+GDF11 promotes osteogenesis as opposed to MSTN, and follistatin, a MSTN/GDF11 inhibitor, increases muscle mass but weakens bone
+
+Number of 
+
+Key takeaways:GDF11 promotes osteogenesis, while MSTN inhibits muscle growth, and considering these opposing roles is crucial when developing MSTN/GDF11 inhibitors for therapeutic purposes.
+
+Abstract:Significance MSTN, a member of the TGF-β family, has been widely shown to suppress muscle growth, leading to an intense effort being directed at targeting MSTN to treat patients with muscle loss. GDF11 is another TGF-β family member closely related to MSTN, but its postnatal function is less clear. Using conditional knockout techniques, we show that GDF11 enhances bone mass in contrast to MSTN, emphasizing that MSTN/GDF11 inhibitors, such as FST, can induce adverse effects on bone through GDF11 inhibition. Because most MSTN inhibitors also inhibit GDF11 due to the high sequence similarity between MSTN and GDF11, our findings suggest that their opposing roles must be carefully considered when developing MSTN inhibitors for clinical applications. Growth and differentiation factor 11 (GDF11) and myostatin (MSTN) are closely related transforming growth factor β (TGF-β) family members, but their biological functions are quite distinct. While MSTN has been widely shown to inhibit muscle growth, GDF11 regulates skeletal patterning and organ development during embryogenesis. Postnatal functions of GDF11, however, remain less clear and controversial. Due to the perinatal lethality of Gdf11 null mice, previous studies used recombinant GDF11 protein to prove its postnatal function. However, recombinant GDF11 and MSTN proteins share nearly identical biochemical properties, and most GDF11-binding molecules have also been shown to bind MSTN, generating the possibility that the effects mediated by recombinant GDF11 protein actually reproduce the endogenous functions of MSTN. To clarify the endogenous functions of GDF11, here, we focus on genetic studies and show that Gdf11 null mice, despite significantly down-regulating Mstn expression, exhibit reduced bone mass through impaired osteoblast (OB) and chondrocyte (CH) maturations and increased osteoclastogenesis, while the opposite is observed in Mstn null mice that display enhanced bone mass. Mechanistically, Mstn deletion up-regulates Gdf11 expression, which activates bone morphogenetic protein (BMP) signaling pathway to enhance osteogenesis. Also, mice overexpressing follistatin (FST), a MSTN/GDF11 inhibitor, exhibit increased muscle mass accompanied by bone fractures, unlike Mstn null mice that display increased muscle mass without fractures, indicating that inhibition of GDF11 impairs bone strength. Together, our findings suggest that GDF11 promotes osteogenesis in contrast to MSTN, and these opposing roles of GDF11 and MSTN must be considered to avoid the detrimental effect of GDF11 inhibition when developing MSTN/GDF11 inhibitors for therapeutic purposes.
+
+Reply to Letter to the Editor.
+
+Number of 
+
+Key takeaways:Follistatin gene therapy shows promise for improving muscle function in sporadic inclusion body myositis patients, with safety and efficacy being primary outcomes in the clinical trial.
+
+Transcriptomic analysis elucidates the enhanced skeletal muscle mass, reduced fat accumulation, and metabolically benign liver in human follistatin-344 transgenic pigs1
+
+Number of 
+
+Key takeaways:Follistatin-344 transgenic pigs show increased skeletal muscle growth, decreased fat accumulation, and improved metabolism, with molecular mechanisms involving PIK3-AKT signaling, calcium-mediated signaling, and amino acid metabolism.
+
+Metabolic profiling of follistatin overexpression: a novel therapeutic strategy for metabolic diseases
+
+Number of 
+
+Key takeaways:Follistatin overexpression can reduce abdominal fat content, increase glucose clearance, improve plasma lipid profiles, and modulate key factors in metabolic syndrome, making it a potential therapeutic intervention.
+
+Abstract:Background Follistatin (Fst) promotes brown adipocyte characteristics in adipose tissues. Methods Abdominal fat volume (CT scan), glucose clearance (GTT test), and metabolomics analysis (mass spectrometry) of adipose tissues from Fst transgenic (Fst-Tg) and wild type (WT) control mice were analyzed. Oxygen consumption (Seahorse Analyzer) and lipidomics (gas chromatography) was analyzed in 3T3-L1 cells. Results Fst-Tg mice show significant decrease in abdominal fat content, increased glucose clearance, improved plasma lipid profiles and significant changes in several conventional metabolites compared to the WT mice. Furthermore, overexpression of Fst in 3T3-L1 cells resulted in up regulation of key brown/beige markers and changes in lipidomics profiles. Conclusion Fst modulates key factors involved in promoting metabolic syndrome and could be used for therapeutic intervention.
+
+Liver‐directed gene therapy for inherited metabolic diseases
+
+Number of 
+
+Key takeaways:Liver-targeting gene therapy shows promise for treating inherited metabolic liver diseases, with potential for safer and more efficacious treatments.
+
+Abstract:Gene therapy clinical trials are rapidly expanding for inherited metabolic liver diseases whilst two gene therapy products have now been approved for liver based monogenic disorders. Liver‐directed gene therapy has recently become an option for treatment of haemophilias and is likely to become one of the favoured therapeutic strategies for inherited metabolic liver diseases in the near future. In this review, we present the different gene therapy vectors and strategies for liver‐targeting, including gene editing. We highlight the current development of viral and nonviral gene therapy for a number of inherited metabolic liver diseases including urea cycle defects, organic acidaemias, Crigler–Najjar disease, Wilson disease, glycogen storage disease Type Ia, phenylketonuria and maple syrup urine disease. We describe the main limitations and open questions for further gene therapy development: immunogenicity, inflammatory response, genotoxicity, gene therapy administration in a fibrotic liver. The follow‐up of a constantly growing number of gene therapy treated patients allows better understanding of its benefits and limitations and provides strategies to design safer and more efficacious treatments. Undoubtedly, liver‐targeting gene therapy offers a promising avenue for innovative therapies with an unprecedented potential to address the unmet needs of patients suffering from inherited metabolic diseases.
+
+Intraperitoneal administration of follistatin promotes adipocyte browning in high-fat diet-induced obese mice
+
+Number of 
+
+Key takeaways:Follistatin injections suppress obesity and promote metabolism in high-fat diet-induced obese mice, promoting browning of white adipose tissue and activating the insulin pathway in beige fat.
+
+Abstract:With rapid economic development, the prevalence of obesity has increased remarkably worldwide. Obesity can induce a variety of metabolic diseases, such as atherosclerosis, diabetes, hypertension and coronary heart disease, which significantly endanger the health and welfare of individuals. Brown and beige fat tissues play an important role in thermogenesis in mammals. Recent studies have shown that follistatin (FST) can potentially induce the browning of white adipose tissue (WAT). In this study, high-fat diet-induced obese mice were injected with follistatin for one week to explore the effects of follistatin on browning and metabolism and to determine the mechanism. The results showed that follistatin suppressed obesity caused by a high-fat diet and increased insulin sensitivity, energy expenditure, and subcutaneous fat browning. The beneficial effects remained even after a period of withdrawal. Follistatin promoted secretion of irisin from subcutaneous fat via the AMPK-PGC1α-irisin signal pathway, which induces browning of WAT, and activated the insulin pathway in beige fat thereby promoting metabolism.
+
+Circulating follistatin in relation to energy metabolism
+
+Number of 
+
+Key takeaways:Circulating follistatin, a liver-derived protein regulated by the glucagon-to-insulin ratio, may have a relationship with energy metabolism and decreased insulin sensitivity.
+
+Association between circulating follistatin‐like‐1 and metabolic syndrome in middle‐aged and old population: A cross‐sectional study
+
+Number of 
+
+Key takeaways:Circulating follistatin-like-1 (FSTL-1) is associated with metabolic syndrome in middle-aged and old individuals, but not with insulin resistance.
+
+Abstract:Follistatin‐like‐1 (FSTL‐1) is considered to be a novel cytokine, and it is associated with metabolic diseases. However, it is necessary to investigate further the association of FSTL‐1 with metabolic syndrome (MetS) and insulin resistance (IR). We performed a cross‐sectional study to investigate the associated of circulating FSTL‐1 with the MetS.
+
+Physiology of Activins/Follistatins: Associations With Metabolic and Anthropometric Variables and Response to Exercise
+
+Number of 
+
+Key takeaways:Circulating activins and follistatins are associated with metabolic parameters and increase after 45 minutes of exercise, regardless of the presence of metabolic syndrome.
+
+Abstract:Context
+Clinical trials are evaluating the efficacy of inhibitors of the myostatin pathway in neuromuscular and metabolic diseases. Activins and follistatins are major regulators of the myostatin pathway, but their physiology in relation to metabolic and anthropometric variables and in response to exercise remains to be fully elucidated in humans.
+
+Objective
+We investigated whether concentrations of circulating activin A, activin B, follistatin, and follistatin-like 3 (FSTL3) are associated with anthropometric and metabolic variables and whether they are affected by exercise.
+
+Design
+Activin A, activin B, follistatin, and FSTL3 were measured in (1) 80 subjects divided according to age (young vs old) and fitness status (active vs sedentary) before and after exercise at 70% maximal oxygen consumption (VO2max), followed by 90% of VO2max until exhaustion; and (2) 23 subjects who completed four sessions: no exercise, high-intensity interval exercise, continuous moderate-intensity exercise, and resistance exercise for up to 45 minutes.
+
+Results
+At baseline, follistatin and FSTL3 concentrations were positively associated with age, fat percentage, and body mass index (P < 0.001). Follistatin was positively associated with serum cholesterol (P = 0.005), low-density lipoprotein cholesterol (P = 0.01), triglycerides (P = 0.033), and blood pressure (P = 0.019), whereas activin A and activin B were higher in physically active participants (P = 0.056 and 0.029, respectively). All exercise types increased the levels of all hormones ∼10% to 21% (P = 0.034 for activin B, P < 0.001 for the others) independent of the presence of MetS.
+
+Conclusion
+Concentrations of circulating activins and follistatins are associated with metabolic parameters and increase after 45 minutes of exercise.
+
+Follistatin‐like 1 is a myokine regulating lipid mobilization during endurance exercise and recovery
+
+Number of 
+
+Key takeaways:Follistatin-like 1 (Fstl1) plays a role in lipid metabolism during endurance exercise and recovery, with potential links to obesity.
+
+Abstract:The aim of this study was to investigate the role of the follistatin‐like 1 (Fstl1) and disco‐interacting protein 2 homolog A (DIP2a) axis in relation to lipid metabolism during and after endurance exercise and to elucidate the mechanisms underlying the metabolic effects of Fstl1 on adipocytes, considering its regulation by exercise and muscle mass and its link to obesity.
+
+Inhibition of GDF8 (Myostatin) accelerates bone regeneration in diabetes mellitus type 2
+
+Number of 
+
+Key takeaways:Inhibiting GDF8 (Myostatin) significantly improves bone regeneration and osteogenic differentiation in diabetic mice, offering a promising therapeutic option for diabetic bone healing.
+
+Follistatin and follistatin-like 3 in metabolic disorders.
+
+Number of 
+
+Key takeaways:Follistatin and follistatin-like 3 may play a role in the pathogenesis of metabolic disorders like type 2 diabetes and obesity, but their exact role remains unclear.
+
+The Reign of Follistatin in Tumors and Their Microenvironment: Implications for Drug Resistance
+
+Number of 
+
+Key takeaways:Follistatin plays a complex role in tumor growth and microenvironment, potentially influencing drug resistance in lung, ovarian, and head and neck cancers.
+
+Abstract:Simple Summary Within the extracellular milieu surrounding cancer cells exists an ecosystem of heterogeneous cell populations that dictate tumor growth and survival via cell–cell signaling induced by secreted factors. The transforming growth factor-β (TGF-β) superfamily, a crucial programmer of the tumor microenvironment, presents challenges as a therapeutic target due to its biphasic effects in cancer. Despite concerted efforts, the clinical efficacy of its antagonists remains elusive, reflecting a limited understanding of how cancer cells can become nonresponsive to the potent cytostatic effects of these ligands while retaining their tumor promoting effects. Follistatin, a secreted glycoprotein and an endogenous bioneutralizer of TGF-β ligands, has gained prominence and emerged as a potentially targetable modulator of key resident cell populations in the tumor microenvironment, particularly in squamous cell carcinoma. We delve deeper into the expression patterns and mechanistic role of follistatin in cancer, examining its intimate relationship with TGF-β and its implications in drug resistance across lung, ovarian, and head and neck cancers. Abstract Follistatin (FST) is a potent neutralizer of the transforming growth factor-β superfamily and is associated with normal cellular programs and various hallmarks of cancer, such as proliferation, migration, angiogenesis, and immune evasion. The aberrant expression of FST by solid tumors is a well-documented observation, yet how FST influences tumor progression and therapy response remains unclear. The recent surge in omics data has revealed new insights into the molecular foundation underpinning tumor heterogeneity and its microenvironment, offering novel precision medicine-based opportunities to combat cancer. In this review, we discuss these recent FST-centric studies, thereby offering an updated perspective on the protean role of FST isoforms in shaping the complex cellular ecosystem of tumors and in mediating drug resistance.
+
+Follistatin supplementation induces changes in CDX2 CpG methylation and improves in vitro development of bovine SCNT preimplantation embryos
+
+Number of 
+
+Key takeaways:Follistatin supplementation improves blastocyst development and CDX2 mRNA expression in bovine SCNT embryos, potentially through altering CDX2 methylation.
+
+Abstract:Caudal Type Homeobox 2 (CDX2) is a key regulator of trophectoderm formation and maintenance in preimplantation embryos. We previously demonstrated that supplementation of exogenous follistatin, during in vitro culture of bovine IVF embryos, upregulates CDX2 expression, possibly, via alteration of the methylation status of CDX2 gene. Here, we further investigated the effects of exogenous follistatin supplementation on developmental competence and CDX2 methylation in bovine somatic cell nuclear transfer (SCNT) embryos. SCNT embryos were cultured with or without follistatin for 72h, then transferred into follistatin free media until d7 when blastocysts were collected and subjected to CDX2 gene expression and DNA methylation analysis for CDX2 regulatory regions by bisulfite sequencing. Follistatin supplementation significantly increased both blastocyst development as well as blastocyst CDX2 mRNA expression on d7. Three different CpG rich fragments within the CDX2 regulatory elements; proximal promoter (fragment P1, -1644 to -1180; P2, -305 to +126) and intron 1 (fragment I, + 3030 to + 3710) were identified and selected for bisulfite sequencing analysis. This analysis showed that follistatin treatment induced differential methylation (DM) at specific CpG sites within the analyzed fragments. Follistatin treatment elicited hypomethylation at six CpG sites at positions -1374, -279, -163, -23, +122 and +3558 and hypermethylation at two CpG sites at positions -243 and +20 in promoter region and first intron of CDX2 gene. Motif analysis using MatInspector revealed that differentially methylated CpG sites are putative binding sites for key transcription factors (TFs) known to regulate Cdx2 expression in mouse embryos and embryonic stem cells including OCT1, AP2F, KLF and P53, or TFs that have indirect link to CDX2 regulation including HAND and NRSF. Collectively, results of the present study together with our previous findings in IVF embryos support the hypothesis that alteration of CDX2 methylation is one of the epigenetic mechanisms by which follistatin may regulates CDX2 expression in preimplantation bovine embryos.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

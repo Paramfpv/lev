@@ -1,0 +1,521 @@
+PROTOCOL: Alcohol
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Alcohol - One of the main risk factors for chronic diseases and premature death | Longevity Protocols
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Alcohol consumption—regardless of dose—is associated with an increased risk of numerous diseases, shortened lifespan, and deterioration of both physical and mental health. Alcohol is toxic to body cells, damages the liver, brain, and heart, and promotes the development of cancers and metabolic disorders.
+
+CONTENT SECTIONS:
+
+One of the main risk factors for chronic diseases and premature death
+
+Alcohol consumption—regardless of dose—is associated with an increased risk of numerous diseases, shortened lifespan, and deterioration of both physical and mental health. Alcohol is toxic to body cells, damages the liver, brain, and heart, and promotes the development of cancers and metabolic disorders.
+
+Level of evidence:Strong
+
+Ethanol is a psychoactive substance with toxic effects, which, after consumption, quickly permeates all body tissues. Its metabolism in the liver leads to the formation of toxic metabolites (e.g., acetaldehyde), causing oxidative stress, inflammation, and cell damage. Alcohol also disrupts neurotransmission in the brain, impairs cognitive functions, and adversely affects the cardiovascular system by raising blood pressure and the risk of arrhythmias. Chronic consumption causes progressive organ damage and increases the risk of developing many civilization diseases.
+
+The harmfulness of alcohol consumption has been confirmed by hundreds of epidemiological studies, meta-analyses, and WHO reports. Alcohol leads to numerous serious diseases and can shorten life by up to several years. There is no safe dose of alcohol—any amount carries health risks.
+
+Alcohol consumption is one of the main public health problems worldwide and in Poland. It represents a significant burden for healthcare systems, contributing to millions of deaths each year.
+
+Set a date to limit or quit alcohol
+
+Set a specific date from which you will limit or stop drinking alcohol, and share this decision with your loved ones.
+
+Identify situations conducive to drinking
+
+Pay attention to the circumstances in which you most often reach for alcohol, and try to replace it with other activities (e.g., sports, alcohol-free gatherings, meditation).
+
+Use available forms of support
+
+Consider psychological support, support groups (e.g., AA), consultations with a doctor or addiction therapist—numerous studies confirm the effectiveness of therapy.
+
+Take care of your liver and brain health
+
+Implement a healthy diet, avoid medications that burden the liver, and regularly undergo check-ups, especially if you have consumed alcohol for a long time.
+
+Remember the risks even at small doses
+
+Even occasional drinking carries risk—the less alcohol, the better for your health and longevity.
+
+Alcohol exerts a strongly negative effect on the liver. Chronic and excessive consumption leads to gradual damage, starting from steatosis, through inflammation, to cirrhosis and hepatocellular carcinoma. Even small amounts of alcohol can be harmful to people with liver diseases.
+
+Mechanisms of liver damage from alcohol
+
+Forms and consequences of alcoholic liver disease
+
+Risk factors and special groups
+
+Alcohol negatively affects the brain with both chronic and single use. Even moderate amounts can lead to changes in brain structure and function, and the risk of serious disorders increases with higher consumption.
+
+Structural and functional changes in the brain
+
+Summary of selected effects of alcohol on the brain
+
+Cardiovascular system
+
+Alcohol exerts a complex but mainly negative effect on the cardiovascular system. Most studies indicate that any level of alcohol consumption may increase the risk of cardiovascular diseases, and this risk increases with higher amounts consumed. The benefits of moderate drinking are increasingly being challenged.
+
+Main effects of alcohol on the cardiovascular system
+
+Moderate consumption—controversies
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:59
+
+Final comment:The negative health effects of alcohol consumption are among the best documented in the medical literature. There is a vast body of epidemiological studies, randomized controlled trials, meta-analyses, and systematic reviews that consistently show an association between alcohol consumption and an increased risk of liver diseases, cancers, cognitive impairment, brain damage, hypertension, cardiovascular diseases, arrhythmias, as well as numerous metabolic and psychiatric complications. The harmful effect applies to both chronic and episodic consumption, and the risk increases with higher doses; however, there is no safe level of consumption for most of the population. The results of the latest genetic and prospective studies further challenge previous beliefs about potential cardiovascular benefits of moderate alcohol consumption, indicating the absence of a 'safe threshold.' The consistency of results across different types of studies and populations allows for a clear classification of the evidence level as strong.
+
+Pathophysiological Aspects of Alcohol Metabolism in the Liver
+
+Number of 
+
+Key takeaways:Alcohol metabolism in the liver leads to alcoholic liver disease through various mechanisms, including impairing lipid metabolism, intensifying inflammation, and inducing fibrosis.
+
+Abstract:Alcoholic liver disease (ALD) is a globally prevalent chronic liver disease caused by chronic or binge consumption of alcohol. The liver is the major organ that metabolizes alcohol; therefore, it is particularly sensitive to alcohol intake. Metabolites and byproducts generated during alcohol metabolism cause liver damage, leading to ALD via several mechanisms, such as impairing lipid metabolism, intensifying inflammatory reactions, and inducing fibrosis. Despite the severity of ALD, the development of novel treatments has been hampered by the lack of animal models that fully mimic human ALD. To overcome the current limitations of ALD studies and therapy development, it is necessary to understand the molecular mechanisms underlying alcohol-induced liver injury. Hence, to provide insights into the progression of ALD, this review examines previous studies conducted on alcohol metabolism in the liver. There is a particular focus on the occurrence of ALD caused by hepatotoxicity originating from alcohol metabolism.
+
+Recent Advances in Understanding of Pathogenesis of Alcohol-Associated Liver Disease
+
+Number of 
+
+Key takeaways:Recent advances in understanding alcohol-associated liver disease (ALD) reveal potential therapeutic targets to alleviate hepatocyte injury, reduce inflammation, and target gut microbiota for treatment.
+
+Abstract:Alcohol-associated liver disease (ALD) is one of the major diseases arising from chronic alcohol consumption and is one of the most common causes of liver-related morbidity and mortality. ALD includes asymptomatic liver steatosis, fibrosis, cirrhosis, and alcohol-associated hepatitis and its complications. The progression of ALD involves complex cell-cell and organ-organ interactions. We focus on the impact of alcohol on dysregulation of homeostatic mechanisms and regulation of injury and repair in the liver. In particular, we discuss recent advances in understanding the disruption of balance between programmed cell death and prosurvival pathways, such as autophagy and membrane trafficking, in the pathogenesis of ALD. We also summarize current understanding of innate immune responses, liver sinusoidal endothelial cell dysfunction and hepatic stellate cell activation, and gut-liver and adipose-liver cross talk in response to ethanol. In addition, we describe the current potential therapeutic targets and clinical trials aimed at alleviating hepatocyte injury, reducing inflammatory responses, and targeting gut microbiota, for the treatment of ALD.
+
+Alcohol-Related Liver Disease: Basic Mechanisms and Clinical Perspectives
+
+Number of 
+
+Key takeaways:Alcohol-related liver disease (ALD) is caused by excessive alcohol consumption, and new therapeutic approaches, such as microRNA modulation and mesenchymal stem cell-based therapy, show promise in managing the disease.
+
+Abstract:Alcohol-related liver disease (ALD) refers to the liver damage occurring due to excessive alcohol consumption and involves a broad spectrum of diseases that includes liver steatosis, steatohepatitis, hepatitis, cirrhosis, and hepatocellular carcinoma (HCC). The progression of ALD is mainly associated with the amount and duration of alcohol usage; however, it is also influenced by genetic, epigenetic, and environmental factors. The definite diagnosis of ALD is based on a liver biopsy, although several non-invasive diagnostic tools and serum biomarkers have emerging roles in the early detection of ALD. While alcohol abstinence and nutritional support remain the cornerstone of ALD treatment, growing evidence has revealed that the therapeutic agents that target oxidative stress or gut-liver axis, inflammatory response inhibition, and liver regeneration enhancement also play a role in ALD management. Furthermore, microRNAs modulation and mesenchymal stem cell-based therapy have emerging potential as ALD therapeutic options. This review summarizes the updated understanding of the pathophysiology, diagnosis, and novel therapeutic approaches for ALD.
+
+Alcohol-associated liver disease
+
+Number of 
+
+Key takeaways:This Review explores new insights into the pathogenesis and therapeutic targets of alcohol-associated liver disease using multiomics and other cutting-edge approaches, with potential translation into clinical practice and therapy.
+
+Abstract:Alcohol-associated liver disease (ALD) is a major cause of chronic liver disease worldwide, and comprises a spectrum of several different disorders, including simple steatosis, steatohepatitis, cirrhosis, and superimposed hepatocellular carcinoma. Although tremendous progress has been made in the field of ALD over the last 20 years, the pathogenesis of ALD remains obscure, and there are currently no FDA-approved drugs for the treatment of ALD. In this Review, we discuss new insights into the pathogenesis and therapeutic targets of ALD, utilizing the study of multiomics and other cutting-edge approaches. The potential translation of these studies into clinical practice and therapy is deliberated. We also discuss preclinical models of ALD, interplay of ALD and metabolic dysfunction, alcohol-associated liver cancer, the heterogeneity of ALD, and some potential translational research prospects for ALD.
+
+A review on molecular mechanism of alcoholic liver disease.
+
+Number of 
+
+Key takeaways:Alcoholic liver disease is caused by increased inflammation, oxidative stress, and reduced antioxidant enzymes, with agonists potentially helping prevent the disease by targeting these pathways.
+
+Alcohol effects on hepatic lipid metabolism
+
+Number of 
+
+Key takeaways:Alcohol impairs hepatic lipid metabolism through altered uptake, de novo lipid synthesis, fatty acid oxidation, export, and droplet formation and catabolism, with genetics and bioactive lipid metabolism contributing to this process.
+
+Abstract:Alcoholic liver disease (ALD) is the most prevalent type of chronic liver disease with significant morbidity and mortality worldwide. ALD begins with simple hepatic steatosis and progresses to alcoholic steatohepatitis, fibrosis, and cirrhosis. The severity of hepatic steatosis is highly associated with the development of later stages of ALD. This review explores the disturbances of alcohol-induced hepatic lipid metabolism through altered hepatic lipid uptake, de novo lipid synthesis, fatty acid oxidation, hepatic lipid export, and lipid droplet formation and catabolism. In addition, we review emerging data on the contributions of genetics and bioactive lipid metabolism in alcohol-induced hepatic lipid accumulation.
+
+ACG Clinical Guideline: Alcohol-Associated Liver Disease
+
+Number of 
+
+Key takeaways:Alcohol-associated liver disease (ALD) progresses faster and often presents at an advanced stage, with corticosteroids being the only effective treatment for severe hepatitis, and integrated care models are needed to manage both liver disease and alcohol use disorder.
+
+Abstract:ABSTRACT Alcohol-associated liver disease (ALD) is the most common cause of advanced hepatic disease and frequent indication for liver transplantation worldwide. With harmful alcohol use as the primary risk factor, increasing alcohol use over the past decade has resulted in rapid growth of the ALD-related healthcare burden. The spectrum of ALD ranges from early asymptomatic liver injury to advanced disease with decompensation and portal hypertension. Compared with those with other etiologies of liver disease, patients with ALD progress faster and more often present at an advanced stage. A unique phenotype of advanced disease is alcohol-associated hepatitis (AH) presenting with rapid onset or worsening of jaundice, and acute on chronic liver failure in severe forms conveying a 1-month mortality risk of 20%–50%. The model for end stage disease score is the most accurate score to stratify AH severity (>20 defined as severe disease). Corticosteroids are currently the only available therapeutic with proven efficacy for patients with severe AH, providing survival benefit at 1 month in 50%–60% of patients. Abstinence of alcohol use, a crucial determinant of long-term outcomes, is challenging to achieve in ALD patients with concurrent alcohol use disorder (AUD). As patients with ALD are rarely treated for AUD, strategies are needed to overcome barriers to AUD treatment in patients with ALD and to promote a multidisciplinary integrated care model with hepatology, addiction medicine providers, and social workers to comprehensively manage the dual pathologies of liver disease and of AUD. Liver transplantation, a definitive treatment option in patients with advanced cirrhosis, should be considered in selected patients with AH, who are unresponsive to medical therapy and have a low risk of relapse to posttransplant alcohol use. Level of evidence and strength of recommendations were evaluated using the Grading of Recommendations, Assessment, Development, and Evaluations system. This guideline was developed under the American College of Gastroenterology Practice Parameters Committee.
+
+Alcoholic liver disease
+
+Number of 
+
+Key takeaways:Alcoholic liver disease (ALD) is a chronic liver disease characterized by hepatic inflammation, and its treatment consists of alcohol abstinence and liver transplantation.
+
+Alcohol, Inflammation, and Microbiota in Alcoholic Liver Disease
+
+Number of 
+
+Key takeaways:Excessive alcohol use leads to alcoholic liver disease, with intestinal microbiota playing a significant role in promoting inflammation and promoting liver damage.
+
+Abstract:Alcoholic liver disease (ALD) is a consequence of excessive alcohol use. According to many studies, alcohol represents a significant socioeconomic and health risk factor in today’s population. According to data from the World Health Organization, there are about 75 million people who have alcohol disorders, and it is well known that its use leads to serious health problems. ALD is a multimodality spectrum that includes alcoholic fatty liver disease (AFL) and alcoholic steatohepatitis (ASH), consequently leading to liver fibrosis and cirrhosis. In addition, the rapid progression of alcoholic liver disease can lead to alcoholic hepatitis (AH). Alcohol metabolism produces toxic metabolites that lead to tissue and organ damage through an inflammatory cascade that includes numerous cytokines, chemokines, and reactive oxygen species (ROS). In the process of inflammation, mediators are cells of the immune system, but also resident cells of the liver, such as hepatocytes, hepatic stellate cells, and Kupffer cells. These cells are activated by exogenous and endogenous antigens, which are called pathogen and damage-associated molecular patterns (PAMPs, DAMPs). Both are recognized by Toll-like receptors (TLRs), which activation triggers the inflammatory pathways. It has been proven that intestinal dysbiosis and disturbed integrity of the intestinal barrier perform a role in the promotion of inflammatory liver damage. These phenomena are also found in chronic excessive use of alcohol. The intestinal microbiota has an important role in maintaining the homeostasis of the organism, and its role in the treatment of ALD has been widely investigated. Prebiotics, probiotics, postbiotics, and symbiotics represent therapeutic interventions that can have a significant effect on the prevention and treatment of ALD.
+
+Alcoholic liver disease: a new insight into the pathogenesis of liver disease
+
+Number of 
+
+Key takeaways:Alcohol metabolism, including oxidative and non-oxidative metabolites, contributes to alcoholic liver disease, with interorgan crosstalk playing a crucial role in its progression.
+
+Abstract:Excessive alcohol consumption contributes to a broad clinical spectrum of liver diseases, from simple steatosis to end-stage hepatocellular carcinoma. The liver is the primary organ that metabolizes ingested alcohol and is exquisitely sensitive to alcohol intake. Alcohol metabolism is classified into two pathways: oxidative and non-oxidative alcohol metabolism. Both oxidative and non-oxidative alcohol metabolisms and their metabolites have toxic consequences for multiple organs, including the liver, adipose tissue, intestine, and pancreas. Although many studies have focused on the effects of oxidative alcohol metabolites on liver damage, the importance of non-oxidative alcohol metabolites in cellular damage has also been discovered. Furthermore, extrahepatic alcohol effects are crucial for providing additional information necessary for the progression of alcoholic liver disease. Therefore, studying the effects of alcohol-producing metabolites and interorgan crosstalk between the liver and peripheral organs that express ethanol-metabolizing enzymes will facilitate a comprehensive understanding of the pathogenesis of alcoholic liver disease. This review focuses on alcohol-metabolite-associated hepatotoxicity due to oxidative and non-oxidative alcohol metabolites and the role of interorgan crosstalk in alcoholic liver disease pathogenesis.
+
+Hepatocellular carcinoma in the setting of alcohol-related liver disease.
+
+Number of 
+
+Key takeaways:Alcohol-related liver disease is associated with a higher risk of hepatocellular carcinoma (HCC), leading to a worse prognosis for patients.
+
+Alcohol’s Impact on the Gut and Liver
+
+Number of 
+
+Key takeaways:Excessive alcohol use alters gut microbiome and contributes to micronutrient deficiencies, potentially leading to liver damage and chronic liver disease.
+
+Abstract:Alcohol is inextricably linked with the digestive system. It is absorbed through the gut and metabolised by hepatocytes within the liver. Excessive alcohol use results in alterations to the gut microbiome and gut epithelial integrity. It contributes to important micronutrient deficiencies including short-chain fatty acids and trace elements that can influence immune function and lead to liver damage. In some people, long-term alcohol misuse results in liver disease progressing from fatty liver to cirrhosis and hepatocellular carcinoma, and results in over half of all deaths from chronic liver disease, over half a million globally per year. In this review, we will describe the effect of alcohol on the gut, the gut microbiome and liver function and structure, with a specific focus on micronutrients and areas for future research.
+
+Alcohol and the liver: 1994 update.
+
+Number of 
+
+Key takeaways:Alcoholic liver disease is caused by excessive generation of acetaldehyde and oxygen radicals, with nutritional deficiencies and nutrient deficiencies potentially affecting ethanol toxicity and promoting nutrient deficiencies.
+
+Pathogenic mechanisms and regulatory factors involved in alcoholic liver disease
+
+Number of 
+
+Key takeaways:Long-term alcohol consumption leads to alcoholic liver disease, with complex underlying mechanisms involving inflammation, mitochondrial damage, and gut-liver axis dysfunction.
+
+Abstract:Abstract Alcoholism is a widespread and damaging behaviour of people throughout the world. Long-term alcohol consumption has resulted in alcoholic liver disease (ALD) being the leading cause of chronic liver disease. Many metabolic enzymes, including alcohol dehydrogenases such as ADH, CYP2E1, and CATacetaldehyde dehydrogenases ALDHsand nonoxidative metabolizing enzymes such as SULT, UGT, and FAEES, are involved in the metabolism of ethanol, the main component in alcoholic beverages. Ethanol consumption changes the functional or expression profiles of various regulatory factors, such as kinases, transcription factors, and microRNAs. Therefore, the underlying mechanisms of ALD are complex, involving inflammation, mitochondrial damage, endoplasmic reticulum stress, nitrification, and oxidative stress. Moreover, recent evidence has demonstrated that the gut-liver axis plays a critical role in ALD pathogenesis. For example, ethanol damages the intestinal barrier, resulting in the release of endotoxins and alterations in intestinal flora content and bile acid metabolism. However, ALD therapies show low effectiveness. Therefore, this review summarizes ethanol metabolism pathways and highly influential pathogenic mechanisms and regulatory factors involved in ALD pathology with the aim of new therapeutic insights.
+
+Pathogenesis of Alcohol-Associated Liver Disease.
+
+Number of 
+
+Key takeaways:Chronic heavy alcohol consumption causes liver damage, leading to death or transplantation, and a multitherapeutic regimen may be needed to treat different stages of alcohol-associated liver disease.
+
+Alcohol and hepatocellular carcinoma
+
+Number of 
+
+Key takeaways:Excessive alcohol intake increases the risk of hepatocellular carcinoma, with various mechanisms contributing to its carcinogenicity, including mutagenic effects of acetaldehyde, ROS production, and hepatitis C virus-induced tumorigenesis through TLR4 signaling.
+
+Abstract:Background Alcohol is classified as a Group 1 carcinogen by the International Agency for Research on Cancer because it induces hepatocellular carcinoma (among other cancers) in humans. An excessive alcohol intake may result in fatty liver, acute/chronic hepatitis, and cirrhosis and eventually lead to hepatocellular carcinoma. It has been reported that alcohol abuse increases the relative risk of hepatocellular carcinoma by 3- to 10-fold. Aim and Methods To clarify the known mechanisms of alcohol-related carcinogenesis, we searched Pubmed using the terms alcohol and immune mechanism, alcohol and cancer, and immune mechanism and cancer and summarized the articles as a qualitative review. Results From a clinical perspective, it is well known that alcohol interacts with other factors, such as smoking, viral hepatitis, and diabetes, leading to an increased risk of hepatocellular carcinoma. There are several possible mechanisms through which alcohol may induce liver carcinogenicity, including the mutagenic effects of acetaldehyde and the production of ROS due to the excessive hepatic deposition of iron. Furthermore, it has been reported that alcohol accelerates hepatitis C virus-induced liver tumorigenesis through TLR4 signaling. Despite intense investigations to elucidate the mechanisms, they remain poorly understood. Conclusion This review summarizes the recent findings of clinical and pathological studies that have investigated the carcinogenic effects of alcohol in the liver.
+
+Hepatic, metabolic and toxic effects of ethanol: 1991 update.
+
+Number of 
+
+Key takeaways:Ethanol's hepatotoxic effects include redox changes, altered metabolism, and increased vulnerability to toxic substances, including industrial solvents, anesthetic agents, and vitamin A.
+
+Abstract:Until two decades ago, dietary deficiencies were considered to be the only reason for alcoholics to develop liver disease. As the overall nutrition of the population improved, more emphasis was placed on secondary malnutrition and direct hepatotoxic effects of ethanol were established. Ethanol is hepatotoxic through redox changes produced by the NADH generated in its oxidation via the alcohol dehydrogenase pathway, which in turn affects the metabolism of lipids, carbohydrates, proteins, and purines. Ethanol is also oxidized in liver microsomes by an ethanol-inducible cytochrome P-450 (P-450IIE1) that contributes to ethanol metabolism and tolerance, and activates xenobiotics to toxic radicals thereby explaining increased vulnerability of the heavy drinker to industrial solvents, anesthetic agents, commonly prescribed drugs, over-the-counter analgesics, chemical carcinogens, and even nutritional factors such as vitamin A. In addition, ethanol depresses hepatic levels of vitamin A, even when administered with diets containing large amounts of the vitamin, reflecting, in part, accelerated microsomal degradation through newly discovered microsomal pathways of retinol metabolism, inducible by either ethanol or drug administration. The hepatic depletion of vitamin A is strikingly exacerbated when ethanol and other drugs were given together, mimicking a common clinical occurrence. Microsomal induction also results in increased production of acetaldehyde. Acetaldehyde, in turn, causes injury through the formation of protein adducts, resulting in antibody production, enzyme inactivation, decreased DNA repair, and alterations in microtubules, plasma membranes and mitochondria with a striking impairment of oxygen utilization. Acetaldehyde also causes glutathione depletion and lipid peroxidation, and stimulates hepatic collagen production by the vitamin A storing cells (lipocytes) and myofibroblasts.(ABSTRACT TRUNCATED AT 250 WORDS)
+
+Effect of Low-Dose Alcohol Consumption on Chronic Liver Disease
+
+Number of 
+
+Key takeaways:Moderate alcohol consumption may have a beneficial effect on cardiovascular morbidity and mortality in patients with chronic liver disease, but no clear safe threshold for alcohol intake has been established.
+
+Abstract:Although alcohol is one of the most important etiologic agents in the development of chronic liver disease worldwide, also recognized as a promoter of carcinogenesis, several studies have shown a beneficial effect of moderate consumption in terms of reduced cardiovascular morbidity and mortality. Whether this benefit is also present in patients with liver disease due to other causes (viral, metabolic, and others) is still debated. Although there is no clear evidence emerging from guidelines and scientific literature, total abstention from drinking is usually prescribed in clinical practice. In this review, we highlight the results of the most recent evidence on this controversial topic, in order to understand the effect of mild alcohol use in this category of individuals. The quantification of alcohol intake, the composition of the tested populations, and the discrepancy between different works in relation to the outcomes represent important limitations emerging from the scientific literature. In patients with NAFLD, a beneficial effect is demonstrated only in a few works. Even if there is limited evidence in patients affected by chronic viral hepatitis, a clear deleterious effect of drinking in determining disease progression in a dose-dependent manner emerges. Poor data are available about more uncommon pathologies such as hemochromatosis. Overall, based on available data, it is not possible to establish a safe threshold for alcohol intake in patients with liver disease.
+
+Alcohol and hepatocarcinogenesis
+
+Number of 
+
+Key takeaways:Excessive alcohol intake can lead to hepatocarcinogenesis through various mechanisms, and its combination with other factors increases the risk of liver cancer.
+
+Abstract:An excessive alcohol intake may result in fatty liver, acute/chronic hepatitis, cirrhosis, and lead to hepatocellular carcinoma (HCC). The aim of this review is to clarify the present condition and the mechanisms of alcohol-related hepatocarcinogenesis and clinical risk factors for alcohol-related HCC. There are several possible mechanisms through which alcohol may induce hepatocarcinogenesis, including the mutagenic effects of acetaldehyde toxicity through the formation of protein and DNA adducts and the production of reactive oxygen species due to the excessive hepatic deposition of iron, changes to lipid peroxidation and metabolism, inflammation and an impaired immune response and modifications to DNA methylation. Furthermore, it has been reported that alcohol accelerates liver carcinogenesis through several signaling pathways including gut-liver axis. From a clinical perspective, it is well known that alcohol interacts with other factors, such as age, gender, viral hepatitis, obesity, and diabetes leading to an increased risk of HCC.
+
+Sex Differences in Alcohol Consumption and Alcohol-Associated Liver Disease.
+
+Number of 
+
+Key takeaways:Women develop alcohol-associated liver disease with lesser alcohol exposure and worse disease outcomes compared to men, due to factors such as obesity and bariatric surgery.
+
+Alcohol and the Brain
+
+Number of 
+
+Key takeaways:Alcohol harms the brain in various ways, including damage from intoxication, withdrawal, toxicity, altered brain structure, and addiction, with peripheral factors compounding damage and causing fetal alcohol syndrome.
+
+Abstract:Alcohol works on the brain to produce its desired effects, e.g., sociability and intoxication, and hence the brain is an important organ for exploring subsequent harms. These come in many different forms such as the consequences of damage during intoxication, e.g., from falls and fights, damage from withdrawal, damage from the toxicity of alcohol and its metabolites and altered brain structure and function with implications for behavioral processes such as craving and addiction. On top of that are peripheral factors that compound brain damage such as poor diet, vitamin deficiencies leading to Wernicke-Korsakoff syndrome. Prenatal alcohol exposure can also have a profound impact on brain development and lead to irremediable changes of fetal alcohol syndrome. This chapter briefly reviews aspects of these with a particular focus on recent brain imaging results. Cardiovascular effects of alcohol that lead to brain pathology are not covered as they are dealt with elsewhere in the volume.
+
+Associations between alcohol consumption and gray and white matter volumes in the UK Biobank
+
+Number of 
+
+Key takeaways:Light-to-moderate alcohol consumption is negatively associated with brain macrostructure and microstructure, with stronger associations as alcohol intake increases.
+
+Alcohol’s Effects on the Brain: Neuroimaging Results in Humans and Animal Models
+
+Number of 
+
+Key takeaways:Chronic alcohol exposure causes permanent brain damage and can lead to neurological disorders like Wernicke's encephalopathy, Korsakoff's syndrome, and hepatic encephalopathy.
+
+Abstract:Brain imaging technology has allowed researchers to conduct rigorous studies of the dynamic course of alcoholism through periods of drinking, sobriety, and relapse and to gain insights into the effects of chronic alcoholism on the human brain. Magnetic resonance imaging (MRI) studies have distinguished alcohol-related brain effects that are permanent from those that are reversible with abstinence. In support of postmortem neuropathological studies showing degeneration of white matter, MRI studies have shown a specific vulnerability of white matter to chronic alcohol exposure. Such studies have demonstrated white-matter volume deficits as well as damage to selective gray-matter structures. Diffusion tensor imaging (DTI), by permitting microstructural characterization of white matter, has extended MRI findings in alcoholics. MR spectroscopy (MRS) allows quantification of several metabolites that shed light on brain biochemical alterations caused by alcoholism. This article focuses on MRI, DTI, and MRS findings in neurological disorders that commonly co-occur with alcoholism, including Wernicke’s encephalopathy, Korsakoff’s syndrome, and hepatic encephalopathy. Also reviewed are neuroimaging findings in animal models of alcoholism and related neurological disorders. This report also suggests that the dynamic course of alcoholism presents a unique opportunity to examine brain structural and functional repair and recovery.
+
+Effect of Alcohol on Hippocampal-Dependent Plasticity and Behavior: Role of Glutamatergic Synaptic Transmission
+
+Number of 
+
+Key takeaways:Alcohol impairs hippocampal-dependent plasticity and cognitive performance, potentially due to increased neuronal death and cellular changes, with effects varying depending on the stage of development.
+
+Abstract:Problematic alcohol drinking and alcohol dependence are an increasing health problem worldwide. Alcohol abuse is responsible for approximately 5% of the total deaths in the world, but addictive consumption of it has a substantial impact on neurological and memory disabilities throughout the population. One of the better-studied brain areas involved in cognitive functions is the hippocampus, which is also an essential brain region targeted by ethanol. Accumulated evidence in several rodent models has shown that ethanol treatment produces cognitive impairment in hippocampal-dependent tasks. These adverse effects may be related to the fact that ethanol impairs the cellular and synaptic plasticity mechanisms, including adverse changes in neuronal morphology, spine architecture, neuronal communication, and finally an increase in neuronal death. There is evidence that the damage that occurs in the different brain structures is varied according to the stage of development during which the subjects are exposed to ethanol, and even much earlier exposure to it would cause damage in the adult stage. Studies on the cellular and cognitive deficiencies produced by alcohol in the brain are needed in order to search for new strategies to reduce alcohol neuronal toxicity and to understand its consequences on memory and cognitive performance with emphasis on the crucial stages of development, including prenatal events to adulthood.
+
+Alcohol Use Disorders and the Brain.
+
+Number of 
+
+Key takeaways:Alcohol use disorders are associated with a higher risk of dementia, with various effects on the central nervous system at different doses, and treatment options varying in effectiveness.
+
+Abstract:A diagnosis of alcohol use disorder is associated with a higher risk of dementia but a dose-response relationship between alcohol intake consumption and cognitive impairment remains unclear. Alcohol is associated with a range of effects on the central nervous system at different doses and acts on a number of receptors. Acute disorders include Wernicke's Encephalopathy (WE), traumatic brain injury, blackouts, seizures, stroke and hepatic encephalopathy. The most common manifestations of chronic alcohol consumption are Korsakoff's syndrome (KS) and alcohol-related dementia (ARD). There is limited evidence for benefit from memantine in the treatment of ARD, but stronger evidence for the use of high dose parenteral thiamine in the progression of neuropsychiatric symptoms for WE. Accumulating evidence exists for pharmacological treatment in the prevention of hepatic encephalopathy. Rehabilitation of people with ARD may take several years and requires an approach that addresses physical and psychosocial factors.
+
+Molecular and behavioral aspects of the actions of alcohol on the adult and developing brain
+
+Number of 
+
+Key takeaways:Alcohol abuse can lead to alterations in brain structure and functions, leading to cognitive deficits and alcohol dependence, with specific brain areas being more vulnerable.
+
+Abstract:The brain is one of the major target organs of alcohol actions. Alcohol abuse can lead to alterations in brain structure and functions and, in some cases, to neurodegeneration. Cognitive deficits and alcohol dependence are highly damaging consequences of alcohol abuse. Clinical and experimental studies have demonstrated that the developing brain is particularly vulnerable to alcohol, and that drinking during gestation can lead to a range of physical, learning and behavioral defects (fetal alcohol spectrum disorders), with the most dramatic presentation corresponding to fetal alcohol syndrome. Recent findings also indicate that adolescence is a stage of brain maturation and that heavy drinking at this stage can have a negative impact on brain structure and functions causing important short- and long-term cognitive and behavioral consequences. The effects of alcohol on the brain are not uniform; some brain areas or cell populations are more vulnerable than others. The prefrontal cortex, the hippocampus, the cerebellum, the white matter and glial cells are particularly susceptible to the effects of ethanol. The molecular actions of alcohol on the brain are complex and involve numerous mechanisms and signaling pathways. Some of the mechanisms involved are common for the adult brain and for the developing brain, while others depend on the developmental stage. During brain ontogeny, alcohol causes irreversible alterations to the brain structure. It also impairs several molecular, neurochemical and cellular events taking place during normal brain development, including alterations in both gene expression regulation and the molecules involved in cell–cell interactions, interference with the mitogenic and growth factor response, enhancement of free radical formation and derangements of glial cell functions. However, in both adult and adolescent brains, alcohol damages specific brain areas through mechanisms involving excitotoxicity, free radical formation and neuroinflammatory damage resulting from activation of the innate immune system mediated by TLR4 receptors. Alcohol also acts on specific membrane proteins, such as neurotransmitter receptors (e.g. NMDA, GABA-A), ion channels (e.g. L-type Ca2+ channels, GIRKs), and signaling pathways (e.g. PKA and PKC signaling). These effects might underlie the wide variety of behavioral effects induced by ethanol drinking. The neuroadaptive changes affecting neurotransmission systems which are more sensitive to the acute effects of alcohol occur after long-term alcohol consumption. Alcohol-induced maladaptations in the dopaminergic mesolimbic system, abnormal plastic changes in the reward-related brain areas and genetic and epigenetic factors may all contribute to alcohol reinforcement and alcohol addiction. This manuscript reviews the mechanisms by which ethanol impacts the adult and the developing brain, and causes both neural impairments and cognitive and behavioral dysfunctions. The identification and the understanding of the cellular and molecular mechanisms involved in ethanol toxicity might contribute to the development of treatments and/or therapeutic agents that could reduce or eliminate the deleterious effects of alcohol on the brain.
+
+Alcohol and the brain: from genes to circuits
+
+Number of 
+
+Key takeaways:Alcohol use leads to diverse effects on the central nervous system, affecting gene expression, chromatin remodeling, and translation, potentially driving the development and maintenance of alcohol use disorder.
+
+Detrimental Effects of Alcohol-Induced Inflammation on Brain Health: From Neurogenesis to Neurodegeneration
+
+Number of 
+
+Key takeaways:Alcohol-induced inflammation contributes to brain anomalies and neurodegeneration, with its effects affecting neurogenesis and hippocampal dysfunctions.
+
+Abstract:AbstractAlcohol consumption is known to cause several brain anomalies. The pathophysiological changes associated with alcohol intoxication are mediated by various factors, most notable being inflammation. Alcohol intoxication may cause inflammation through several molecular mechanisms in multiple organs, including the brain, liver and gut. Alcohol-induced inflammation in the brain and gut are intricately connected. In the gut, alcohol consumption leads to the weakening of the intestinal barrier, resulting in bacteria and bacterial endotoxins permeating into the bloodstream. These bacterial endotoxins can infiltrate other organs, including the brain, where they cause cognitive dysfunction and neuroinflammation. Alcohol can also directly affect the brain by activating immune cells such as microglia, triggering the release of pro-inflammatory cytokines and neuroinflammation. Since alcohol causes the death of neural cells, it has been correlated to an increased risk of neurodegenerative diseases. Besides, alcohol intoxication has also negatively affected neural stem cells, affecting adult neurogenesis and causing hippocampal dysfunctions. This review provides an overview of alcohol-induced brain anomalies and how inflammation plays a crucial mechanistic role in alcohol-associated pathophysiology.Graphical Abstract
+
+Effects of acute alcohol on excitability in the CNS
+
+Number of 
+
+Key takeaways:Acute alcohol exposure can modulate ion channels in the CNS, influencing neuronal network activity and affecting human behavior.
+
+Alcohol and Neural Dynamics: A Meta-analysis of Acute Alcohol Effects on Event-Related Brain Potentials
+
+Number of 
+
+Key takeaways:Alcohol has targeted effects on brain systems involved in performance monitoring and attention, potentially contributing to alcohol-related impairment and reinforcing addiction.
+
+The Neuropathology of Alcohol‐specific Brain Damage, or Does Alcohol Damage the Brain?
+
+Number of 
+
+Key takeaways:Long-term excessive alcohol use can cause white matter loss and neuronal loss in specific regions of the brain, with some damage being reversible.
+
+Abstract:The aim of this review is to identify neuropathological changes that are directly related to the long-term use of excessive amounts of alcohol (ethanol). There is still debate as to whether alcohol per se causes brain damage. The main problem has been to identify those lesions caused by alcohol itself and those caused by other common alcohol-related factors, principally thiamin deficiency. Careful selection and classification of alcoholic cases into those with and without these complications, together with detailed quantitative neuropathological analyses, has provided us with useful data. There is brain shrinkage in uncomplicated alcoholics which can largely be accounted for by loss of white matter. Some of this damage appears to be reversible. However, alcohol-related neuronal loss has been documented in specific regions of the cerebral cortex (superior frontal association cortex), hypothalamus (supraoptic and paraventricular nuclei), and cerebellum. The data is conflicting for several regions: the hippocampus, amygdala and locus ceruleus. No change is found in the basal ganglia, nucleus basalis, or serotonergic raphe nuclei. Many of the regions that are normal in uncomplicated alcoholics are damaged in those with the Wernicke-Korsakoff syndrome. Dendritic and synaptic changes have been documented in uncomplicated alcoholics and these, together with receptor and transmitter changes, may explain functional changes and cognitive deficits that precede the more severe structural neuronal changes. The pattern of damage appears to be somewhat different and species-specific in animal models of alcohol toxicity. Pathological changes that have been found to correlate with alcohol intake include white matter loss and neuronal loss in the hypothalamus and cerebellum.
+
+Driving the Downward Spiral: Alcohol-Induced Dysregulation of Extended Amygdala Circuits and Negative Affect.
+
+Number of 
+
+Key takeaways:Alcohol exposure disrupts extended amygdala circuitry, leading to negative affect in alcohol addiction, and may offer new targets for treating negative emotions in alcohol use disorder.
+
+Abstract:Alcohol use disorder (AUD) afflicts a large number of individuals, families, and communities globally. Affective disturbances, including stress, depression, and anxiety, are highly comorbid with AUD, contributing in some cases to initial alcohol use and continued use. Negative affect has a particularly strong influence on the withdrawal/abstinence stage of addiction as individuals with AUD frequently report stressful events, depression, and anxiety as key factors for relapse. Treatment options for negative affect associated with AUD are limited and often ineffective, highlighting the pressing need for preclinical studies examining the underlying neural circuitry driving AUD-associated negative affect. The extended amygdala (EA) is a set of brain areas collectively involved in generating and regulating affect, and extensive research has defined a critical role for the EA in all facets of substance use disorder. Here we review the expansive historical literature examining the effects of ethanol exposure on the EA, with an emphasis on the complex EA neural circuitry driving negative affect in all phases of the alcohol addiction cycle. Specifically, this review focuses on the effects of alcohol exposure on the neural circuitry in two key components of the EA, the central nucleus of the amygdala (CeA) and the bed nucleus of the stria terminalis (BNST). Additionally, future directions are proposed to advance our understanding of the relationship between AUD-associated negative affect and neural circuitry in the EA, with the long-term goal of developing better diagnostic tools and new pharmacological targets aimed at treating negative affect in AUD. The concepts detailed here will serve as the foundation for a companion review focusing on the potential for the endogenous cannabinoid system in the EA as a novel target for treating the stress, anxiety, and negative emotional state driving AUD. This article is protected by copyright. All rights reserved.
+
+Alcohol and Brain Development in Adolescents and Young Adults: A Systematic Review of the Literature and Advisory Report of the Health Council of the Netherlands.
+
+Number of 
+
+Key takeaways:Alcohol consumption negatively impacts brain development in adolescents and young adults, increasing the risk of developing alcohol use disorder later in life.
+
+Abstract:Young people, whose brains are still developing, might entail a greater vulnerability to the effects of alcohol consumption on brain function and development. A committee of experts of the Health Council of the Netherlands evaluated the state of scientific knowledge regarding the question whether alcohol negatively influences brain development in young people. A systematic literature search for prospective studies was performed in PubMed and PsychINFO, for longitudinal studies of adolescents or young adults ranging between 12 and 24 y of age at baseline, investigating the relation between alcohol use and outcome measures of brain structure and activity, cognitive functioning, educational achievement, or alcohol use disorder (AUD), with measures at baseline and follow-up of the outcome of interest. Data were extracted from original articles and study quality was assessed using the Newcastle-Ottawa Scale. A total of 77 studies were included, 31 of which were of sufficient quality in relation to the study objectives. There were indications that the gray matter of the brain develops abnormally in young people who drink alcohol. In addition, the more often young people drink or the younger they start, the higher the risk of developing AUD later in life. The evidence on white matter volume or quality, brain activity, cognitive function, and educational achievement is still limited or unclear. The committee found indications that alcohol consumption can have a negative effect on brain development in adolescents and young adults and entails a risk of later AUD. The committee therefore considers it a wise choice for adolescents and young adults not to drink alcohol.
+
+Alcohol impairs hippocampal function: From NMDA receptor synaptic transmission to mitochondrial function.
+
+Number of 
+
+Key takeaways:Alcohol exposure impairs hippocampal function through impaired glutamate receptor activity, neuroinflammatory events, and oxidative damage, leading to cognitive decline and neurodegeneration.
+
+Alcohol-Related Brain Damage in Humans
+
+Number of 
+
+Key takeaways:Alcohol-related brain damage in humans involves protein changes, which may contribute to neuronal and behavioral abnormalities.
+
+Abstract:Chronic excessive alcohol intoxications evoke cumulative damage to tissues and organs. We examined prefrontal cortex (Brodmann’s area (BA) 9) from 20 human alcoholics and 20 age, gender, and postmortem delay matched control subjects. H & E staining and light microscopy of prefrontal cortex tissue revealed a reduction in the levels of cytoskeleton surrounding the nuclei of cortical and subcortical neurons, and a disruption of subcortical neuron patterning in alcoholic subjects. BA 9 tissue homogenisation and one dimensional polyacrylamide gel electrophoresis (PAGE) proteomics of cytosolic proteins identified dramatic reductions in the protein levels of spectrin β II, and α- and β-tubulins in alcoholics, and these were validated and quantitated by Western blotting. We detected a significant increase in α-tubulin acetylation in alcoholics, a non-significant increase in isoaspartate protein damage, but a significant increase in protein isoaspartyl methyltransferase protein levels, the enzyme that triggers isoaspartate damage repair in vivo. There was also a significant reduction in proteasome activity in alcoholics. One dimensional PAGE of membrane-enriched fractions detected a reduction in β-spectrin protein levels, and a significant increase in transmembranous α3 (catalytic) subunit of the Na+,K+-ATPase in alcoholic subjects. However, control subjects retained stable oligomeric forms of α-subunit that were diminished in alcoholics. In alcoholics, significant loss of cytosolic α- and β-tubulins were also seen in caudate nucleus, hippocampus and cerebellum, but to different levels, indicative of brain regional susceptibility to alcohol-related damage. Collectively, these protein changes provide a molecular basis for some of the neuronal and behavioural abnormalities attributed to alcoholics.
+
+Alcohol and the Brain: Neuronal Molecular Targets, Synapses, and Circuits
+
+Number of 
+
+Key takeaways:Ethanol's effects on the brain are crucial for understanding its acute and chronic behavioral changes, and understanding its molecular effects in specific neurons can help develop treatments for alcohol use disorders.
+
+Alcohol Use Disorder: Neurobiology and Therapeutics
+
+Number of 
+
+Key takeaways:Alcohol use disorder (AUD) affects brain circuits responsible for reward, motivation, decision-making, affect, and stress response, and treatment options include psychological and pharmacological interventions.
+
+Abstract:Alcohol use disorder (AUD) encompasses the dysregulation of multiple brain circuits involved in executive function leading to excessive consumption of alcohol, despite negative health and social consequences and feelings of withdrawal when access to alcohol is prevented. Ethanol exerts its toxicity through changes to multiple neurotransmitter systems, including serotonin, dopamine, gamma-aminobutyric acid, glutamate, acetylcholine, and opioid systems. These neurotransmitter imbalances result in dysregulation of brain circuits responsible for reward, motivation, decision making, affect, and the stress response. Despite serious health and psychosocial consequences, this disorder still remains one of the leading causes of death globally. Treatment options include both psychological and pharmacological interventions, which are aimed at reducing alcohol consumption and/or promoting abstinence while also addressing dysfunctional behaviours and impaired functioning. However, stigma and social barriers to accessing care continue to impact many individuals. AUD treatment should focus not only on restoring the physiological and neurological impairment directly caused by alcohol toxicity but also on addressing psychosocial factors associated with AUD that often prevent access to treatment. This review summarizes the impact of alcohol toxicity on brain neurocircuitry in the context of AUD and discusses pharmacological and non-pharmacological therapies currently available to treat this addiction disorder.
+
+Long-Term Excessive Alcohol Consumption Enhances Myelination in the Mouse Nucleus Accumbens
+
+Number of 
+
+Key takeaways:Long-term excessive alcohol consumption disrupts oligodendrocyte development and enhances myelination in the nucleus accumbens, potentially driving further ethanol intake and reinforcing addictive behaviors.
+
+Abstract:Chronic excessive alcohol (ethanol) consumption induces neuroadaptations in the brain's reward system, including biochemical and structural abnormalities in white matter that are implicated in addiction phenotypes. Here, we demonstrate that long-term (12 week) voluntary ethanol consumption enhances myelination in the nucleus accumbens (NAc) of female and male adult mice, as evidenced by molecular, ultrastructural, and cellular alterations. Specifically, transmission electron microscopy analysis showed increased myelin thickness in the NAc following long-term ethanol consumption, while axon diameter remained unaffected. These changes were paralleled by increased mRNA transcript levels of key transcription factors essential for oligodendrocyte (OL) differentiation, along with elevated expression of critical myelination-related genes. In addition, diffusion tensor imaging revealed increased connectivity between the NAc and the prefrontal cortex, reflected by a higher number of tracts connecting these regions. We also observed ethanol-induced effects on OL lineage cells, with a reduction in the number of mature OLs after 3 weeks of ethanol consumption, followed by an increase after 6 weeks. These findings suggest that ethanol alters OL development prior to increasing myelination in the NAc. Finally, chronic administration of the promyelination drug clemastine to mice with a history of heavy ethanol consumption further elevated ethanol intake and preference, suggesting that increased myelination may contribute to escalated drinking behavior. Together, these findings suggest that heavy ethanol consumption disrupts OL development, induces enhanced myelination in the NAc, and may drive further ethanol intake, reinforcing addictive behaviors.
+
+Alcohol-Mediated Organ Damages: Heart and Brain
+
+Number of 
+
+Key takeaways:Chronic alcohol consumption can lead to heart and brain damage, with inflammatory markers like TNF- potentially predicting dementia and cardiovascular disease.
+
+Abstract:Alcohol is one of the most commonly abused substances in the United States. Chronic consumption of ethanol has been responsible for numerous chronic diseases and conditions globally. The underlying mechanism of liver injury has been studied in depth, however, far fewer studies have examined other organs especially the heart and the central nervous system (CNS). The authors conducted a narrative review on the relationship of alcohol with heart disease and dementia. With that in mind, a complex relationship between inflammation and cardiovascular disease and dementia has been long proposed but inflammatory biomarkers have gained more attention lately. In this review we examine some of the consequences of the altered cytokine regulation that occurs in alcoholics in organs other than the liver. The article reviews the potential role of inflammatory markers such as TNF-α in predicting dementia and/or cardiovascular disease. It was found that TNF-α could promote and accelerate local inflammation and damage through autocrine/paracrine mechanisms. Unraveling the mechanisms linking chronic alcohol consumption with proinflammatory cytokine production and subsequent inflammatory signaling pathways activation in the heart and CNS, is essential to improve our understanding of the disease and hopefully facilitate the development of new remedies.
+
+Alcohol’s Impact on the Cardiovascular System
+
+Number of 
+
+Key takeaways:Alcohol consumption has complex, non-linear relationships with various cardiovascular diseases, making clinical and public health recommendations challenging.
+
+Abstract:Alcohol consumption has been shown to have complex, and sometimes paradoxical, associations with cardiovascular diseases (CVDs). Several hundred epidemiological studies on this topic have been published in recent decades. In this narrative review, the epidemiological evidence will be examined for the associations between alcohol consumption, including average alcohol consumption, drinking patterns, and alcohol use disorders, and CVDs, including ischaemic heart disease, stroke, hypertension, atrial fibrillation, cardiomyopathy, and heart failure. Methodological shortcomings, such as exposure classification and measurement, reference groups, and confounding variables (measured or unmeasured) are discussed. Based on systematic reviews and meta-analyses, the evidence seems to indicate non-linear relationships with many CVDs. Large-scale longitudinal epidemiological studies with multiple detailed exposure and outcome measurements, and the extensive assessment of genetic and confounding variables, are necessary to elucidate these associations further. Conflicting associations depending on the exposure measurement and CVD outcome are hard to reconcile, and make clinical and public health recommendations difficult. Furthermore, the impact of alcohol on other health outcomes needs to be taken into account. For people who drink alcohol, the less alcohol consumed the better.
+
+Alcohol’s Effects on the Cardiovascular System
+
+Number of 
+
+Key takeaways:Low-to-moderate alcohol use may mitigate some cardiovascular diseases risks, but serious physiological effects and anatomical damage must be considered.
+
+Abstract:Alcohol use has complex effects on cardiovascular (CV) health. The associations between drinking and CV diseases such as hypertension, coronary heart disease, stroke, peripheral arterial disease, and cardiomyopathy have been studied extensively and are outlined in this review. Although many behavioral, genetic, and biologic variants influence the interconnection between alcohol use and CV disease, dose and pattern of alcohol consumption seem to modulate this most. Low-to-moderate alcohol use may mitigate certain mechanisms such as risk and hemostatic factors affecting atherosclerosis and inflammation, pathophysiologic processes integral to most CV disease. But any positive aspects of drinking must be weighed against serious physiological effects, including mitochondrial dysfunction and changes in circulation, inflammatory response, oxidative stress, and programmed cell death, as well as anatomical damage to the CV system, especially the heart itself. Both the negative and positive effects of alcohol use on particular CV conditions are presented here. The review concludes by suggesting several promising avenues for future research related to alcohol use and CV disease. These include using direct biomarkers of alcohol to confirm self-report of alcohol consumption levels; studying potential mediation of various genetic, socioeconomic, and racial and ethnic factors that may affect alcohol use and CV disease; reviewing alcohol–medication interactions in cardiac patients; and examining CV effects of alcohol use in young adults and in older adults.
+
+Chronic alcohol consumption accelerates cardiovascular aging and decreases cardiovascular reserve capacity.
+
+Number of 
+
+Key takeaways:Chronic alcohol consumption accelerates cardiovascular aging and decreases cardiovascular reserve capacity, increasing the risk of diseases and mortality.
+
+Abstract:Abstract The pathology of cardiovascular aging is complex, involving mitochondrial dysfunction, oxidative and nitrative stress, oxidative DNA injury, impaired lipid metabolism, cell death, senescence, and chronic inflammation. These processes lead to remodeling and structural changes in the cardiovascular system, resulting in a progressive decline in cardiovascular reserve capacity and health, and an increased risk of diseases and mortality. Excessive alcohol consumption exacerbates these risks by promoting hypertension, stroke, arrhythmias, coronary artery disease, cardiomyopathy, and sudden cardiac death, yet the effects of chronic alcohol consumption on cardiovascular aging remain unclear. Herein, we explored the impact of a 6-month 5% Lieber-DeCarli alcohol diet in young (3 months old) and aging (24–26 months old) Fisher F344BNF1 rats. We assessed detailed hemodynamics, mitochondrial function, oxidative/nitrative stress, lipid metabolism, inflammation, cell death, senescence, and myocardial fibrosis using the pressure–volume system, isolated vascular rings, and various histological, biochemical, and molecular biology methods. Alcohol consumption in both young and aging rats impaired mitochondrial function, disrupted cholesterol and triglyceride metabolism, and increased oxidative/nitrative stress, inflammation, cell death, and senescence, leading to a decline in systolic contractile function. In aging rats, alcohol further exacerbated diastolic dysfunction and myocardial fibrosis. Alcohol also increased oxidative/nitrative stress, apoptosis, and senescence in the vasculature, contributing to endothelial dysfunction and increased total peripheral resistance. Additionally, alcohol exacerbated the aging-related ventriculo-arterial uncoupling and diminished cardiac efficiency, further reducing cardiovascular reserve capacity. In conclusion, chronic alcohol consumption promotes cardiovascular aging and further diminishes the already impaired cardiac and vascular reserve capacity associated with aging.
+
+Association of Habitual Alcohol Intake With Risk of Cardiovascular Disease
+
+Number of 
+
+Key takeaways:Habitual alcohol consumption at all levels increases the risk of cardiovascular disease, with greater risk increases at higher levels.
+
+Abstract:Key Points Question What is the risk of cardiovascular disease associated with different amounts of habitual alcohol consumption? Findings In this cohort study of 371 463 individuals, genetic evidence supported a nonlinear, consistently risk-increasing association between all amounts of alcohol consumption and both hypertension and coronary artery disease, with modest increases in risk with light alcohol intake and exponentially greater risk increases at higher levels of consumption. Meaning In this study, alcohol consumption at all levels was associated with increased risk of cardiovascular disease, but clinical and public health guidance around habitual alcohol use should account for the considerable differences in cardiovascular risk across different levels of alcohol consumption, even those within current guideline-recommended limits.
+
+Alcohol Consumption and Cardiovascular Disease
+
+Number of 
+
+Key takeaways:Higher alcohol consumption is causally linked to an increased risk of stroke and peripheral artery disease, while its role in other cardiovascular diseases needs further research.
+
+Abstract:Supplemental Digital Content is available in the text. Background: The causal role of alcohol consumption for cardiovascular disease remains unclear. We used Mendelian randomization (MR) to predict the effect of alcohol consumption on 8 cardiovascular diseases. Methods: Up to 94 single-nucleotide polymorphisms were used as instrumental variables for alcohol consumption. Genetic association estimates for cardiovascular diseases were obtained from large-scale consortia and UK Biobank. Analyses were conducted using the inverse variance–weighted, weighted median, MR-PRESSO, MR-Egger, and multivariable MR methods. Results: Genetically predicted alcohol consumption was consistently associated with stroke and peripheral artery disease across the different analyses. The odds ratios (ORs) per 1-SD increase of log-transformed alcoholic drinks per week were 1.27 ( P=2.87×10−4) for stroke and 3.05 ( P=2.30×10−6) for peripheral artery disease in the inverse variance–weighted analysis. There was some evidence for positive associations of genetically predicted alcohol consumption with coronary artery disease (OR, 1.16 ; P=0.052), atrial fibrillation (OR, 1.17 ; P=0.050), and abdominal aortic aneurysm (OR, 2.60 ; P=0.022) in the inverse variance–weighted analysis. These associations were somewhat attenuated in multivariable MR analysis adjusted for smoking initiation. There was no evidence of associations of genetically predicted alcohol consumption with heart failure (OR, 1.00 ; P=0.996), venous thromboembolism (OR, 1.04 ; P=0.810), and aortic valve stenosis (OR, 1.03 ; P=0.926). Conclusions: This study provides evidence of a causal relationship between higher alcohol consumption and increased risk of stroke and peripheral artery disease. The causal role of alcohol consumption for other cardiovascular diseases requires further research.
+
+Cardiovascular effects of alcohol consumption.
+
+Number of 
+
+Key takeaways:Heavy alcohol consumption negatively impacts cardiovascular health, while light to moderate drinking may have beneficial effects on ischemic heart disease and stroke.
+
+Alcohol use disorders and the heart
+
+Number of 
+
+Key takeaways:Low alcohol consumption may lower cardiovascular risk, but overall, the detrimental effects of alcohol outweigh the benefits, with high consumption increasing blood pressure and causing alcoholic cardiomyopathy.
+
+Abstract:Abstract Alcohol use is an important preventable and modifiable cause of non‐communicable disease, and has complex effects on the cardiovascular system that vary with dose. Observational and prospective studies have consistently shown a lower risk of cardiovascular and all‐cause mortality in people with low levels of alcohol consumption when compared to abstainers (the ‘J’‐shaped curve). Maximum potential benefit occurs at 0.5 to one standard drinks (7–14 g pure ethanol) per day for women (18% lower all‐cause mortality, 95% confidence interval (CI) = 13–22%) and one to two standard drinks (14–28 g ethanol) per day for men (17% lower all‐cause mortality, 95% CI = 15–19%). However, this evidence is contested, and overall the detrimental effects of alcohol far outweigh the beneficial effects, with the risk of premature mortality increasing steadily after an average consumption of 10 g ethanol/day. Blood pressure (BP) is increased by regular alcohol consumption in a dose‐dependent manner, with a relative risk for hypertension (systolic BP > 140 mm Hg or diastolic > 90 mm Hg) of 1.7 for 50 g ethanol/day and 2.5 at 100 g/day. Important reductions in BP readings can be expected after as little as 1 month of abstinence from alcohol. Heavy alcohol consumption in a binge pattern is associated with the development of acute cardiac arrhythmia, even in people with normal heart function. Atrial fibrillation is the most common arrhythmia associated with chronic high‐volume alcohol intake, and above 14 g alcohol/day the relative risk increases 10% for every extra standard drink (14 g ethanol). Ethanol and its metabolites have toxic effects on cardiac myocytes, and alcoholic cardiomyopathy (ACM) accounts for a third of all cases of non‐ischaemic dilated cardiomyopathy. Screening people drinking alcohol above low‐volume levels and delivering a brief intervention may prevent the development of cardiovascular complications. Although people with established cardiovascular disease show improved outcomes with a reduction to low‐volume alcohol consumption, there is no safe amount of alcohol to drink and patients with ACM should aim for abstinence in order to optimize medical treatment.
+
+The Effects of Ethanol on the Heart: Alcoholic Cardiomyopathy
+
+Number of 
+
+Key takeaways:Ethanol-induced cardiomyopathy (ACM) leads to heart failure and arrhythmias, with abstinence being the preferred goal, but controlled drinking may improve cardiac function.
+
+Abstract:Alcoholic-dilated Cardiomyopathy (ACM) is the most prevalent form of ethanol-induced heart damage. Ethanol induces ACM in a dose-dependent manner, independently of nutrition, vitamin, or electrolyte disturbances. It has synergistic effects with other heart risk factors. ACM produces a progressive reduction in myocardial contractility and heart chamber dilatation, leading to heart failure episodes and arrhythmias. Pathologically, ethanol induces myocytolysis, apoptosis, and necrosis of myocytes, with repair mechanisms causing hypertrophy and interstitial fibrosis. Myocyte ethanol targets include changes in membrane composition, receptors, ion channels, intracellular transients, and structural proteins, and disrupt sarcomere contractility. Cardiac remodeling tries to compensate for this damage, establishing a balance between aggression and defense mechanisms. The final process of ACM is the result of dosage and individual predisposition. The ACM prognosis depends on the degree of persistent ethanol intake. Abstinence is the preferred goal, although controlled drinking may still improve cardiac function. New strategies are addressed to decrease myocyte hypertrophy and interstitial fibrosis and try to improve myocyte regeneration, minimizing ethanol-related cardiac damage. Growth factors and cardiomyokines are relevant molecules that may modify this process. Cardiac transplantation is the final measure in end-stage ACM but is limited to those subjects able to achieve abstinence.
+
+Cardiovascular risks and benefits of moderate and heavy alcohol consumption
+
+Number of 
+
+Key takeaways:Moderate alcohol consumption may reduce cardiovascular events and mortality, while abstinence is associated with increased cardiovascular events and mortality.
+
+Endothelial Homeostasis Under the Influence of Alcohol—Relevance to Atherosclerotic Cardiovascular Disease
+
+Number of 
+
+Key takeaways:Low-to-moderate alcohol levels support vascular homeostasis, while high alcohol levels promote atherosclerosis, with opposite effects on endothelial functions.
+
+Abstract:Alcohol, in the form of ethyl alcohol or ethanol, is a widely consumed substance with significant implications for human health. Research studies indicate multifaceted effects of alcohol on the cardiovascular system with both protective and harmful effects on atherosclerotic cardiovascular disease (ASCVD), depending on the amount involved and the pattern of consumption. Among the critical components of the cardiovascular system are endothelial cells which line blood vessels. These cells are pivotal in maintaining vessel homeostasis, regulating blood flow, and preventing thrombosis. Their compromised function correlates with arterial disease progression and is predictive of cardiovascular events. Here we review research investigating how alcohol exposure affects the endothelium to gain insight into potential mechanisms mediating alcohol’s influence on ASCVD underlying heart attacks and strokes. Studies highlight opposite effects of low versus high levels of alcohol on many endothelial functions. In general, low-to-moderate levels of alcohol (~5–25 mM) maintain the endothelium in a non-activated state supporting vascular homeostasis, while higher alcohol levels (≥50 mM) lead to endothelial dysfunction and promotes atherosclerosis. These biphasic endothelial effects of alcohol might underlie the varying impacts of different alcohol consumption patterns on ASCVD.
+
+The Impact of Alcohol Consumption on Cardiovascular Health: Myths and Measures
+
+Number of 
+
+Key takeaways:Alcohol consumption increases the risk of cardiovascular diseases, and reducing harmful use is crucial for public health, but misinformation and industry interference hinder progress.
+
+Abstract:Over the past several decades, the prevalence of cardiovascular disease (CVD) has nearly doubled, and alcohol has played a major role in the incidence of much of it. Alcohol has also been attributed in deaths due to infectious diseases, intentional and unintentional injuries, digestive diseases, and several other non-communicable diseases, including cancer. The economic costs of alcohol-associated health outcomes are significant at the individual as well as the country level. Risks due to alcohol consumption increase for most cardiovascular diseases, including hypertensive heart disease, cardiomyopathy, atrial fibrillation and flutter, and stroke. The widespread message for over 30 years has been to promote the myth that alcohol prolongs life, chiefly by reducing the risk of coronary heart disease (CHD). Lack of universal advice and stringent policy measures have contributed towards increased uptake and easy availability of alcohol. The WHO has called for a 10% relative reduction in the harmful use of alcohol between 2013–2025. However, lack of investment in proven alcohol control strategies, as well as persistence of misinformation and industry interference, have hindered the efforts of public health professionals to make sufficient progress in reducing alcohol related harms and death.
+
+The Effect of Alcohol on Blood Pressure and Hypertension
+
+Number of 
+
+Key takeaways:Chronic alcohol consumption is associated with a high incidence of hypertension, particularly for Blacks, and the cardioprotective effect of low-to-moderate alcohol consumption remains inconclusive.
+
+Abstract:PurposeTo examine the acute and chronic effects of alcohol on blood pressure (BP) and the incidence of hypertension. We discuss the most current understanding of the mechanisms underlining these effects and their associations with the putative cardioprotective effects of consumption of low-to-moderate amounts of alcoholic beverages.Recent FindingsA recent meta-analysis confirmed findings of experimental studies, demonstrating an acute biphasic effect of ethanol on BP, decreasing up to 12 h of ingestion and increasing after that. This effect is mediated by vagal inhibition and sympathetic activation. A meta-analysis found that chronic consumption of alcoholic beverages was associated with a high incidence of hypertension in men and women; it also found that, in women, the risk begins at moderate alcohol consumption. The risks of alcohol consumption are higher in Blacks than in Asians or Caucasians. The mechanism underlying the chronic effects of alcohol on BP, and particularly the differential effect on Blacks, is still unknown. Short-term trials showed that alcohol withdrawal promotes BP reduction; however, the long-term effectiveness of interventions that aim to lower BP through the restriction of alcohol consumption has not been demonstrated. The harmful effects of alcohol on BP do not support the putative cardioprotective effect of low-to-moderate consumption of alcoholic beverages. The absence of a tangible mechanism of protection, and the possibility that this beneficial effect is biased by socioeconomic and other characteristics of drinkers and abstainers, calls into question the hypothesis that consuming low amounts of alcoholic beverages improves cardiovascular health.SummaryThe evidence from investigations with various designs converge regarding the acute biphasic effect of ethanol on BP and the risk of chronic consumption on the incidence of hypertension, particularly for Blacks. These effects do not support the putative cardioprotective effect of consumption of low-to-moderate amounts of alcoholic beverages. Mechanisms of chronic BP increase and the demonstration of long-term benefits of reducing alcohol intake as a means to treat hypertension remain open questions.
+
+The Effect of Alcohol on Cardiovascular Risk Factors: Is There New Information?
+
+Number of 
+
+Key takeaways:Low-to-moderate alcohol consumption is associated with less cardiovascular risk than lifetime abstention, while heavy drinking increases the risk, with no clear safe drinking threshold.
+
+Abstract:The effects of alcohol on cardiovascular health are heterogeneous and vary according to consumption dose and pattern. These effects have classically been described as having a J-shaped curve, in which low-to-moderate consumption is associated with less risk than lifetime abstention, and heavy drinkers show the highest risk. Nonetheless, the beneficial effects of alcohol have been questioned due to the difficulties in establishing a safe drinking threshold. This review focuses on the association between alcohol consumption and cardiovascular risk factors and the underlying mechanisms of damage, with review of the literature from the last 10 years.
+
+Alcohol Consumption and Cardiovascular Disease Risk: Placing New Data in Context
+
+Number of 
+
+Key takeaways:Moderate alcohol consumption may have a lower risk of coronary heart disease and myocardial infarction, but long-term randomized controlled trials are needed to confirm this.
+
+Abstract:Abstract Purpose of Review A clear link between excessive alcohol consumption and cardiovascular disease (CVD) has been established, but no consensus exists on the effects of moderate alcohol consumption on CVD. Recent Findings A lower risk of coronary heart disease and myocardial infarction among moderate drinkers compared to abstainers has been consistently observed in epidemiological studies and meta-analyses of these studies. However, ambiguity remains on the effect of alcohol on other CVDs and all-cause mortality. Short-term randomized controlled trials (RCT) have identified potentially beneficial effects of alcohol consumption on cardiovascular risk factors, but studies investigating genetic polymorphisms that influence alcohol consumption (i.e., Mendelian randomization) have yielded inconclusive results. To date, a long-term RCT providing causal evidence is lacking but urgently needed. Summary Triangulation of evidence from different study designs, including long-term RCTs, pragmatic trials and the evaluation of policy measures, combined will lead to the best available evidence.
+
+Effect of Alcohol Consumption on Cardiovascular Health
+
+Number of 
+
+Key takeaways:Light to moderate alcohol consumption has a beneficial effect on cardiovascular health and mortality, while heavy consumption is associated with increased risk of cardiovascular diseases and increased mortality.
+
+Abstract:Purpose of ReviewThis review aims to discuss the effect of alcohol consumption on various cardiovascular (CV) diseases and CV mortality.Recent FindingsAlcohol intake has consistently shown a J- or U-shaped relationship with several cardiovascular diseases. Light to moderate alcohol intake has been associated with lower risk of coronary artery disease, heart failure (HF), as well as CV mortality. On the other hand, heavy consumption has been associated with deleterious CV outcomes including increased mortality. However, the evidence is based from observational and population-based studies where risk of confounding cannot be excluded even after meticulous methodological approaches. This is compounded by conflicting data such as higher risk of certain CV diseases like HF in former drinkers compared to abstainers. Further, Mendelian randomization studies using genetic polymorphisms in enzymes have recently questioned the beneficial association of low-moderate drinking with CV system.SummaryThere has been substantial and consistent evidence that light to moderate alcohol consumption have beneficial effect on overall cardiovascular profile and mortality. However, there are considerable limitations in the reported literature to determine a strong causality of a protective effect of moderate alcohol consumption by itself. Further robust studies or possibly a well-structured randomized controlled could bring an end to this debate.
+
+Alcohol effects on cardiac function.
+
+Number of 
+
+Key takeaways:Low-to-moderate ethanol intake improves cardiac function and vascular health, while chronic alcohol abuse can cause heart failure and exacerbate preexisting conditions.
+
+Abstract:The consumption of ethanol can have both beneficial and detrimental effects on the function of the heart and cardiovascular system, depending on the amount consumed. Low-to-moderate amounts of ethanol intake are associated with improvements in cardiac function and vascular health. On the other hand, ethanol chronically consumed in large amounts acts as a toxin to the heart and vasculature. The cardiac injury produced by chronic alcohol abuse can progress to heart failure and eventual death. Furthermore, alcohol abuse may exacerbate preexisting heart conditions, such as hypertension and cardiomyopathy. This article focuses on the molecular mechanisms and pathophysiology of both the beneficial and detrimental cardiac effects of alcohol.
+
+Consensus and Controversy in the Debate over the Biphasic Impact of Alcohol Consumption on the Cardiovascular System
+
+Number of 
+
+Key takeaways:Low to moderate alcohol consumption is associated with increased risk of cardiovascular events and deaths, while excessive alcohol use has deleterious effects on the circulatory system.
+
+Abstract:In the past few decades, research has focused on the importance of addressing modifiable risk factors as a means of lowering the risk of cardiovascular disease (CVD), which represents the worldwide leading cause of death. For quite a long time, it has been considered that ethanol intake has a biphasic impact on the cardiovascular system, mainly depending on the drinking pattern, amount of consumption, and type of alcoholic beverage. Multiple case-control studies and meta-analyses reported the existence of a “U-type” or “J-shaped” relationship between alcohol and CVD, as well as mortality, indicating that low to moderate alcohol consumption decreases the number of adverse cardiovascular events and deaths compared to abstinence, while excessive alcohol use has unquestionably deleterious effects on the circulatory system. However, beginning in the early 2000s, the cardioprotective effects of low doses of alcohol were abnegated by the results of large epidemiological studies. Therefore, this narrative review aims to reiterate the association of alcohol use with cardiac arrhythmias, dilated cardiomyopathy, arterial hypertension, atherosclerotic vascular disease, and type 2 diabetes mellitus, highlighting literature disagreements over the risk and benefits of low to moderate drinking on the cardiovascular system.
+
+Alcohol and Cardiovascular Diseases—Do the Consumption Pattern and Dose Make the Difference?
+
+Number of 
+
+Key takeaways:Low and moderate alcohol consumption may reduce cardiovascular risk, but excessive alcohol consumption increases the risk of various health issues and social problems.
+
+Abstract:Excessive consumption of alcohol is not only a social problem, but it also significantly increases the morbidity and mortality rates of many societies. A correlation has been demonstrated between alcohol consumption and increased mortality from cancer, accidents and injuries, liver cirrhosis and other causes. Alcohol abuse increases the incidence of hemorrhagic stroke and the risk of ischemic stroke, induces serious arrhythmias, adversely affects blood pressure and damages the heart muscle. The dose and way of drinking alcohol play a crucial role in assessing whether this drink allows people to maintain health or whether it is a great health and social threat. The beneficial effects of low and moderate doses of alcohol on the occurrence of cardiovascular diseases have been shown in many population studies and meta-analyses in which the effect of U-shaped or J-shaped curves relating alcohol intake to cardiovascular mortality was observed, especially in ischemic heart disease. However, due to the fact that alcohol consumption is associated with many health hazards, it is not recommended to consume it as a preventive action of cardiovascular diseases. Moreover, recent studies suggest that association of low-to-moderate alcohol consumption with the reduction in cardiovascular risk is a result of lifestyle changes and that any reduction in alcohol consumption is in fact beneficial in terms of general health.
+
+Association of alcohol consumption with morbidity and mortality in patients with cardiovascular disease: original data and meta-analysis of 48,423 men and women
+
+Number of 
+
+Key takeaways:Light-to-moderate alcohol consumption is associated with a reduced risk of mortality and cardiovascular events in individuals with pre-existing cardiovascular disease.
+
+Abstract:Light-to-moderate alcohol consumption has been reported to be cardio-protective among apparently healthy individuals; however, it is unclear whether this association is also present in those with disease. To examine the association between alcohol consumption and prognosis in individuals with pre-existing cardiovascular disease (CVD), we conducted a series of meta-analyses of new findings from three large-scale cohorts and existing published studies.We assessed alcohol consumption in relation to all-cause mortality, cardiovascular mortality, and subsequent cardiovascular events via de novo analyses of 14,386 patients with a previous myocardial infarction, angina, or stroke in the UK Biobank Study (median follow-up 8.7 years, interquartile range 8.0-9.5), involving 1640 deaths and 2950 subsequent events, and 2802 patients and 1257 deaths in 15 waves of the Health Survey for England 1994-2008 and three waves of the Scottish Health Survey 1995, 1998, and 2003 (median follow-up 9.5 years, IQR 5.7-13.0). This was augmented with findings from 12 published studies identified through a systematic review, providing data on 31,235 patients, 5095 deaths, and 1414 subsequent events. To determine the best-fitting dose-response association between alcohol and each outcome in the combined sample of 48,423 patients, models were constructed using fractional polynomial regression, adjusting at least for age, sex, and smoking status.Alcohol consumption was associated with all assessed outcomes in a J-shaped manner relative to current non-drinkers, with a risk reduction that peaked at 7 g/day (relative risk 0.79, 95% confidence interval 0.73-0.85) for all-cause mortality, 8 g/day (0.73, 0.64-0.83) for cardiovascular mortality and 6 g/day (0.50, 0.26-0.96) for cardiovascular events, and remained significant up to 62, 50, and 15 g/day, respectively. No statistically significant elevated risks were found at higher levels of drinking. In the few studies that excluded former drinkers from the non-drinking reference group, reductions in risk among light-to-moderate drinkers were attenuated.For secondary prevention of CVD, current drinkers may not need to stop drinking. However, they should be informed that the lowest risk of mortality and having another cardiovascular event is likely to be associated with lower levels of drinking, that is up to approximately 105g (or equivalent to 13 UK units, with one unit equal to half a pint of beer/lager/cider, half a glass of wine, or one measure of spirits) a week.
+
+Alcohol and the Cardiovascular System
+
+Number of 
+
+Key takeaways:Moderate alcohol consumption can protect against coronary artery disease, while heavy alcohol consumption can cause heart muscle disorders, irregular heart rhythms, high blood pressure, and strokes.
+
+Abstract:Alcohol can be beneficial or harmful to the cardiovascular system, depending on the amount consumed and the characteristics of the consumer. Of the numerous cellular and molecular mechanisms that are thought to explain the beneficial effects of moderate drinking, this article discusses four, involving (1) high density lipoproteins, (2) cellular signaling, (3) platelet function in blood clot formation, and (4) stimulation of blood clot dissolution. Although light-to-moderate drinking can protect against coronary artery disease, heavy alcohol consumption can damage the cardiovascular system, resulting in maladies such as heart muscle disorders, irregular heart rhythms, high blood pressure, and strokes. This article summarizes representative epidemiological and animal studies on these cardiovascular consequences of chronic heavy alcohol consumption and reviews mechanisms that have been suggested to explain alcohol’s effects.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

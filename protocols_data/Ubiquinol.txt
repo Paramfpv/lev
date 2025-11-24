@@ -1,0 +1,475 @@
+PROTOCOL: Ubiquinol
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: 
+DESCRIPTION: Ubiquinol, the active and bioavailable form of coenzyme Q10, plays a key role in cellular energy production and protection against oxidative stress. Supplementation with ubiquinol may support cardiovascular function, improve physical performance, and promote cellular recovery in conditions of increased energy demand or metabolic stress.
+
+CONTENT SECTIONS:
+
+Support for Heart, Energy, and Cellular Recovery
+
+Ubiquinol, the active and bioavailable form of coenzyme Q10, plays a key role in cellular energy production and protection against oxidative stress. Supplementation with ubiquinol may support cardiovascular function, improve physical performance, and promote cellular recovery in conditions of increased energy demand or metabolic stress.
+
+Level of evidence:Good
+
+Level of risk:Negligible
+
+Ubiquinol participates in electron transport in the mitochondrial respiratory chain, supporting the production of ATP – the primary source of cellular energy. As a powerful antioxidant, it protects cell membranes from free radicals and regenerates other antioxidants such as vitamin E. It also positively influences endothelial function by increasing nitric oxide bioavailability and supports regenerative processes and proper energy metabolism.
+
+Level of risk:Negligible
+
+Ubiquinol is generally very well tolerated by healthy individuals and rarely causes side effects. Studies have mainly reported mild gastrointestinal symptoms, and even high doses are rarely associated with more serious adverse effects.
+
+Ubiquinol is not recommended for individuals with certain medical conditions or in specific clinical situations where the risk may be greater.
+
+Typically 100–200 mg daily, up to 400 mg daily for certain indications (most commonly in capsule form).
+
+Capsules, softgels, less commonly powder or liquid.
+
+Initial effects may be seen after 2–4 weeks of regular supplementation.
+
+Best taken with a fat-containing meal (enhances absorption); no specific time of day is required.
+
+Ubiquinol combines well with vitamin E, vitamin C, and selenium, which enhances antioxidant effects.
+
+What Not to Combine With
+
+Avoid taking simultaneously with high doses of anticoagulant medications without medical consultation.
+
+Ubiquinol should be taken with a meal containing fats, which significantly increases its bioavailability.
+
+For clinical indications (e.g., heart failure, intense physical activity), dosage should be individualized after consultation with a doctor.
+
+Supplementation can be continued long-term if no adverse effects occur and there are health indications.
+
+Effectiveness Monitoring
+
+Effects can be monitored by observing energy levels, physical performance, or through laboratory testing of CoQ10 levels.
+
+In case of any unusual symptoms, supplementation should be discontinued and a doctor consulted.
+
+Cardiovascular system
+
+Ubiquinol, the active and easily absorbable form of coenzyme Q10, supports the cardiovascular system by improving endothelial function, protecting the heart, and providing antioxidant action. Clinical and preclinical studies indicate the beneficial effects of ubiquinol in heart diseases and during recovery after cardiac surgery.
+
+Key Benefits for the Cardiovascular System
+
+Limitations and Recommendations
+
+Fatigue and regeneration
+
+Ubiquinol, the reduced form of coenzyme Q10, is a potent antioxidant that supports the body's regenerative processes by protecting cells from oxidative stress, aiding in cellular renewal, and regenerating other antioxidants.
+
+Mechanisms of Ubiquinol Action in Regeneration
+
+Examples of Regenerative Effects
+
+Limitations and Practical Conclusions
+
+Ubiquinol, the active form of coenzyme Q10, plays a key role in cellular energy production and antioxidant protection. Research indicates that supplementation may positively affect metabolism, especially under physical stress or in cases of metabolic dysfunction.
+
+Impact on Energy Metabolism
+
+Effects in Individuals with Metabolic Disorders
+
+Limitations and Other Observations
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:50
+
+Final comment:Ubiquinol, the reduced form of coenzyme Q10, has been the subject of many randomized clinical trials and smaller controlled studies confirming its beneficial effects on the cardiovascular system, antioxidant status support, and energy metabolism. Clinical studies have demonstrated improvements in endothelial function, reductions in oxidative stress markers, enhanced exercise tolerance, and reduced muscle damage in populations such as athletes, cardiac patients, and individuals with metabolic disorders. Its effect on hard endpoints such as mortality has not been unequivocally confirmed, and some findings are limited to moderately sized trials or preclinical experiments. The best-documented benefits relate to improvements in endothelial function, antioxidant activity, and support for recovery. In summary, the available clinical evidence is of good quality, though further large-scale studies are recommended to confirm long-term effects.
+
+Ubiquinol attenuates γ-radiation induced coronary and aortic changes via PDGF/p38 MAPK/ICAM-1 related pathway
+
+Number of 
+
+Key takeaways:Ubiquinol effectively mitigates gamma-radiation-induced coronary and aortic changes by suppressing PDGF, p38 MAPK, and ICAM-1 related pathways.
+
+Comparison of Coenzyme Q10 (Ubiquinone) and Reduced Coenzyme Q10 (Ubiquinol) as Supplement to Prevent Cardiovascular Disease and Reduce Cardiovascular Mortality
+
+Number of 
+
+Key takeaways:CoQ10 supplementation reduces cardiovascular death in patients with heart failure, while CoQH2 supplementation shows less cardiovascular benefits and no long-term effects.
+
+Abstract:According to the World Health Organization (WHO), cardiovascular disease is the leading cause of death worldwide. Heart failure has been defined as a global pandemic leading to millions of deaths. Recent research clearly approved the beneficial effect of Coenzyme Q10 supplementation in treatment and prevention of cardiovascular disease in patients with heart failure in clinical trials but did not distinguish between the oxidised form CoQ10 and reduced form CoQH2 of Coenzyme Q10. The aim of this study is to determine differences in medical application of CoQ10 and CoQH2 supplementation and evaluate the efficacy of CoQ10 and CoQH2 supplementation to prevent cardiovascular disease in patients with heart failure. A PubMed search for the terms 'ubiquinone' and 'ubiquinol' was conducted, and 28 clinical trials were included. Our findings go along with the biochemical description of CoQ10 and CoQH2, recording cardiovascular benefits for CoQ10 and antioxidative and anti-inflammatory properties for CoQH2. Our main outcomes are the following: (I) CoQ10 supplementation reduced cardiovascular death in patients with heart failure. This is not reported for CoQH2. (II) Test concentrations leading to cardiovascular benefits are much lower in CoQ10 studies than in CoQH2 studies. (III) Positive long-term effects reducing cardiovascular mortality are only observed in CoQ10 studies. Based on the existing literature, the authors recommend CoQ10 instead of CoQH2 to treat and prevent cardiovascular disease in patients with heart failure.
+
+Ubiquinol Ameliorates Endothelial Dysfunction in Subjects with Mild-to-Moderate Dyslipidemia: A Randomized Clinical Trial
+
+Number of 
+
+Key takeaways:Ubiquinol supplementation significantly improves endothelial dysfunction in individuals with mild-to-moderate dyslipidemia, mainly through increased nitric oxide bioavailability and enhanced LDL antioxidant protection.
+
+Abstract:In this randomized, double-blind, single-center trial (ANZCTR number ACTRN12619000436178) we aimed to investigate changes in endothelium-dependent vasodilation induced by ubiquinol, the reduced form of coenzyme Q10 (CoQ10), in healthy subjects with moderate dyslipidemia. Fifty-one subjects with low-density lipoprotein (LDL) cholesterol levels of 130–200 mg/dL, not taking statins or other lipid lowering treatments, moderate (2.5%–6.0%) endothelial dysfunction as measured by flow-mediated dilation (FMD) of the brachial artery, and no clinical signs of cardiovascular disease were randomized to receive either ubiquinol (200 or 100 mg/day) or placebo for 8 weeks. The primary outcome measure was the effect of ubiquinol supplementation on FMD at the end of the study. Secondary outcomes included changes in FMD on week 4, changes in total and oxidized plasma CoQ10 on week 4 and week 8, and changes in serum nitrate and nitrite levels (NOx), and plasma LDL susceptibility to oxidation in vitro on week 8. Analysis of the data of the 48 participants who completed the study demonstrated a significantly increased FMD in both treated groups compared with the placebo group (200 mg/day, +1.28% ± 0.90%; 100 mg/day, +1.34% ± 1.44%; p < 0.001) and a marked increase in plasma CoQ10, either total (p < 0.001) and reduced (p < 0.001). Serum NOx increased significantly and dose-dependently in all treated subjects (p = 0.016), while LDL oxidation lag time improved significantly in those receiving 200 mg/day (p = 0.017). Ubiquinol significantly ameliorated dyslipidemia-related endothelial dysfunction. This effect was strongly related to increased nitric oxide bioavailability and was partly mediated by enhanced LDL antioxidant protection.
+
+Effect of ubiquinol on electrophysiology during high-altitude acclimatization and de-acclimatization: A substudy of the Shigatse CARdiorespiratory fitness (SCARF) randomized clinical trial.
+
+Number of 
+
+Key takeaways:Ubiquinol supplementation can shorten the prolonged Tpeak-Tend interval and reserve maximal heart rate during exercise at high altitude.
+
+Melatonin/nicotinamide mononucleotide/ubiquinol: a cocktail providing superior cardioprotection against ischemia/reperfusion injury in a common co-morbidities modelled rat
+
+Number of 
+
+Key takeaways:The combination of melatonin, nicotinamide mononucleotide, and ubiquinol significantly protects against ischemia/reperfusion injury in aged diabetic rats, offering a promising strategy for cardioprotection in aged diabetic patients.
+
+Abstract:BackgroundThe metabolic and intracellular abnormalities in aging and diabetes cause loss of cardioprotection by routine interventions against myocardial ischemia/reperfusion (I/R) injury. We aimed to evaluate the possible interaction of aging and type-2 diabetes mellitus with cardioprotection and the potential protective effect of a mitochondrial cocktail (melatonin/nicotinamide mononucleotide (NMN)/ubiquinol) on myocardial I/R injury in aged diabetic rats.MethodsMale Wistar rats (n = 108, 22–24 months old, 400–450 g) received high-fat diet/low dose of streptozotocin to induce type-2 diabetes, then were randomized into 9 groups of 12 rats each with/without I/R and/or melatonin, NMN, and ubiquinol, alone or in dual or triple combinations. Myocardial I/R was induced by LAD occlusion for 30 min followed by 24 h reperfusion. NMN (100 mg/kg/48 h, intraperitoneally) was administered for 28 days before I/R operation. Melatonin (10 mg/kg, intraperitoneally) and/or ubiquinol (30 mg/kg, intravenously) were administered at early reperfusion. Finally, hemodynamic index changes, infarct size, CK-MB levels, mitochondrial functional endpoints, and expression of mitochondrial biogenesis genes (SIRT-1/PGC-1α/NRF-2/TFAM) were assessed.ResultsThe solo and dual applications of melatonin, NMN, and ubiquinol did not exert remarkable cardioprotective impacts. However, the triple combination improved myocardial function and decreased infarct size and CK-MB levels following myocardial I/R (P < .05 to P < .01). It also improved mitochondrial function and restored mitochondrial biogenesis genes (P < .01).ConclusionsCombination therapy with melatonin, NMN, and ubiquinol exerted significant cardioprotection and improved mitochondrial function and biogenesis via upregulation of SIRT-1/PGC-1α/NRF-2/TFAM profiles in aged diabetic rats and, thus, offers a promising strategy for providing noticeable cardioprotection against I/R injury also in aged diabetic patients.
+
+Preventing Myocardial Injury Following Non-Cardiac Surgery: A Potential Role for Preoperative Antioxidant Therapy with Ubiquinone
+
+Number of 
+
+Key takeaways:Ubiquinone preoperative antioxidant therapy may reduce perioperative adverse cardiovascular outcomes in high-risk patients undergoing non-cardiac surgery.
+
+Abstract:Over 240 million non-cardiac operations occur each year and are associated with a 15–20% incidence of adverse perioperative cardiovascular events. Unfortunately, preoperative therapies that have been useful for chronic ischemic heart diseases, such as coronary artery revascularization, antiplatelet agents, and beta-blockers have failed to improve outcomes. In a pre-clinical swine model of ischemic heart disease, we showed that daily administration of ubiquinone (coenzyme Q10, CoQ10) enhances the antioxidant status of mitochondria within chronically ischemic heart tissue, potentially via a PGC1α-dependent mechanism. In a randomized controlled trial, among high-risk patients undergoing elective vascular surgery, we showed that NT Pro-BNP levels are an important means of risk-stratification during the perioperative period and can be lowered with administration of CoQ10 (400 mg/day) for 3 days prior to surgery. The review provides background information for the role of oxidant stress and inflammation during high-risk operations and the potential novel application of ubiquinone as a preoperative antioxidant therapy that might reduce perioperative adverse cardiovascular outcomes.
+
+Effect of ubiquinol on cardiorespiratory fitness during high-altitude acclimatization and de-acclimatization in healthy adults: the Shigatse CARdiorespiratory fitness study design
+
+Number of 
+
+Key takeaways:Ubiquinol supplementation may improve cardiorespiratory fitness during high-altitude acclimatization and de-acclimatization in healthy adults.
+
+Abstract:Cardiorespiratory function influences exercise capacity and is an important determinant of high-altitude adaptation. Some studies have investigated the characteristics of changes in cardiorespiratory fitness during high-altitude acclimatization. However, studies on changes in cardiorespiratory fitness during high-altitude de-acclimatization are still lacking and have not yet been elucidated. Furthermore, few drugs have been studied to improve cardiorespiratory function during both processes. The Shigatse CARdiorespiratory Fitness (SCARF) study is a single-center, randomized, double-blind, placebo-control clinical trial to explore the effects of ubiquinol on cardiorespiratory fitness during high-altitude acclimatization and de-acclimatization in healthy adults. Participants will be randomly assigned 1:1 to ubiquinol 200 mg daily or a placebo for 14 days before departure until the end of data collection after return in 7 days. Cardiorespiratory fitness is the primary outcome, while acute mountain sickness and high-altitude de-acclimatization symptoms are secondary endpoints. In addition, laboratory measurements, including routine blood tests and serological measurements, will be performed. To the best of our knowledge, the SCARF study will be the first to reveal the changes in the cardiorespiratory fitness characteristics during high-altitude acclimatization and de-acclimatization. Furthermore, the results of this study will contribute to exploring whether ubiquinol supplementation could be beneficial for endurance exercise capacity at different altitudes and help improve adaptation to acute hypoxia and de-acclimatization. Clinical Trial Registration: This study has been registered in the Chinese Clinical Trial Register ( as ChiCTR2200059900 and ChiCTR2200066328.
+
+Ubiquinol supplementation in elderly patients undergoing aortic valve replacement: biochemical and clinical aspects
+
+Number of 
+
+Key takeaways:Ubiquinol supplementation before and after aortic valve replacement in elderly patients improves bioenergetic deficit and reduces oxidative stress, potentially preventing adverse outcomes related to defective left ventricular ejection fraction recovery.
+
+Abstract:Epidemiological data show a rise in the mean age of patients affected by heart disease undergoing cardiac surgery. Senescent myocardium reduces the tolerance to ischemic stress and there are indications about age-associated deficit in post-operative cardiac performance. Coenzyme Q10 (CoQ10), and more specifically its reduced form ubiquinol (QH), improve several conditions related to bioenergetic deficit or increased exposure to oxidative stress. This trial (Eudra-CT 2009-015826-13) evaluated the clinical and biochemical effects of ubiquinol in 50 elderly patients affected by severe aortic stenosis undergoing aortic valve replacement and randomized to either placebo or 400 mg/day ubiquinol from 7 days before to 5 days after surgery. Plasma and cardiac tissue CoQ10 levels and oxidative status, circulating troponin I, CK-MB (primary endpoints), IL-6 and S100B were assessed. Moreover, main cardiac adverse effects, NYHA class, contractility and myocardial hypertrophy (secondary endpoints) were evaluated during a 6-month follow-up visit. Ubiquinol treatment counteracted the post-operative plasma CoQ10 decline (p<0.0001) and oxidation (p=0.038) and curbed the post-operative increase in troponin I (QH, 1.90 ng/dL; placebo, 4.03 ng/dL; p=0.007) related to cardiac surgery. Moreover, ubiquinol prevented the adverse outcomes that might have been associated with defective left ventricular ejection fraction recovery in elderly patients.
+
+Influence of ubiquinol on angina severity and dyspnea in patients with acute coronary syndrome
+
+Number of 
+
+Key takeaways:Ubiquinol addition to optimal medical therapy after acute coronary syndrome significantly improves clinical outcomes and patients' quality of life by reducing angina frequency, physical limitations, and dyspnea severity.
+
+Abstract:Background: Co-enzyme Q10 (CoQ10) has highest concentration in the heart and a critical role in cellular energy production, but its physiological concentration decreases with aging.Ubiquinol is the active and most bioavailable form of CoQ10; this is extremely important for patients older than 20 years as the metabolic enzyme required for CoQ10 activation starts to decrease.Thus, ubiquinol may have a more potent beneficial impact on improving the health of acute coronary syndrome (ACS) patients.This study aimed to investigate the influence of ubiquinol on angina severity and dyspnea in patients who are receiving optimal medical therapy (OMT) after ACS.Methods: In a randomized, controlled clinical trial, 50 patients who had undergone percutaneous coronary intervention (PCI) were prospectively assigned to either the control group (n=25) or the ubiquinol group (n=25).The control group received only OMT, while the second group also received a ubiquinol daily dose of 200 mg in addition to the OMT.Measurement of the patients' angina and dyspnea severity was achieved at baseline and at 2 months post-PCI via utilization of the Seattle Angina Questionnaire (SAQ) and the Rose Dyspnea Scale (RDS), respectively.Results: After 8 weeks of intervention, a significant difference was revealed in health status improvement between the groups.In the ubiquinol group, 13 (52%) of patients became dyspnea-free, with 12 (48%) experiencing mild grade 1 dyspnea, while in the control group, residual dyspnea was still present in all patients, and 5 (20%) of them were still suffering from grade 4 dyspnea.Regarding the SAQ scores' improvement, a significant difference between the groups was observed in the mean changes from baseline, with greater mean changes in the ubiquinol group compared to the control group in all three SAQ sub-scales and summary scores (p value < 0.001).The mean change of the SAQ summary score in the ubiquinol group was 55. 93 ± 19.71 compared to 11.47 ± 16.47 in the control group, and the ubiquinol group reported significantly larger reductions in angina episodes. Conclusion:This study demonstrates that ubiquinol addition to OMT after ACS has a highly significant effect on improving clinical outcomes and patients' quality of life through greater reductions in angina frequency, physical limitations and dyspnea severity.This suggests an effective and safe strategy for optimizing therapeutic outcomes and secondary prevention.
+
+Ubiquinol Improves Endothelial Function in Patients with Heart Failure with Reduced Ejection Fraction: A Single-Center, Randomized Double-Blind Placebo-Controlled Crossover Pilot Study
+
+Number of 
+
+Key takeaways:Ubiquinol 400 mg/day for 3 months significantly improved peripheral endothelial function in patients with heart failure with reduced ejection fraction.
+
+Abstract:BackgroundEndothelial dysfunction is reportedly associated with worse outcomes in patients with chronic heart failure. Ubiquinol is a reduced form of coenzyme Q10 (CoQ10) that may improve endothelial function.ObjectiveWe assessed the hypothesis that ubiquinol improves peripheral endothelial function in patients with heart failure with reduced ejection fraction (HFrEF).MethodsIn this randomized, double-blind, placebo-controlled, crossover pilot study, 14 patients with stable HFrEF were randomly and blindly allocated to ubiquinol 400 mg/day or placebo for 3 months. After a 1-month washout period, patients were crossed over to the alternative treatment. Before and after each treatment, we assessed peripheral endothelial function using the reactive hyperemia index (RHI) and analyzed it using the natural logarithm of RHI (LnRHI).ResultsPeripheral endothelial function as assessed by LnRHI tended to improve with ubiquinol 400 mg/day for 3 months (p = 0.076). Original RHI values were also compared, and RHI significantly improved with ubiquinol treatment (pre-RHI 1.57 , post-RHI 1.74 , p = 0.026), but not with placebo (pre-RHI 1.67 , post-RHI 1.51 , p = 0.198).ConclusionsUbiquinol 400 mg/day for 3 months led to significant improvement in peripheral endothelial function in patients with HFrEF. Ubiquinol may be a therapeutic option for individuals with HFrEF. Large-scale randomized controlled trials of CoQ10 supplementation in patients with HFrEF are needed.Clinical Trial RegistrationJapanese University Hospital Medical Information Network (UMIN-ICDR). Clinical Trial identifier number UMIN000012604.
+
+Ubiquinol (Reduced CoQ10): A novel yet ubiquitous nutrient for heart disease
+
+Number of 
+
+Key takeaways:Ubiquinol supplementation may provide clinical improvements for patients with heart disease, but further large-scale trials are needed to confirm its effectiveness.
+
+Abstract:Coenzyme Q10 (CoQ10) is a ubiquitous nutrient in human cells where it is essential for mitrochondrial energy production. CoQ10 exists in both an oxidized (ubiquinone) and reduced form (ubiquinol), with ubiquinol being the bioactive form. In addition to its use in cellular ATP production ubiquinol acts as a powerful lipid-soluble antioxidant that protects lipid membranes and lipoproteins from oxidative stress. Lower circulating levels of ubiquinol are found in patients with cardiomyopathy and congestive heart failure (CHF) with deficiency being greater with increasing severity of disease. CoQ10 supplementation is well tolerated and without toxicity or drug interactions and there is evidence to suggest that CoQ10 supplementation may provide clinical improvements for patients with CHF patients as well as for patients with hypertension, statin-induced myopathy and for those undergoing cardiac surgery. Most research to date has focused on ubiquinone rather than ubiquinol, which has only recently become available as a supplemental nutrient. Effective doses of ubiquinol for congestive cardiac failure range from 100mg to 600mg/day yet most research to date has been limited to relatively small, short-term, and potentially biased trials that have used low doses of ubiquinone rather than ubiquinol. The evidence of clinical benefits with CoQ10 supplementation in cardiovascular disease is largely inconclusive and further large-scale trials are required to determine if the higher bioavailability and more potent activity of ubiquinol produces better clinical responses than ubiquinone. Ubiquinol therefore remains an interesting non-prescription, nutritional supplement that may be a useful adjunctive therapy for cardiac complaints despite not yet being recognized as a form of standard care.
+
+.
+
+Number of 
+
+Key takeaways:Ubiquinol at a dose of 3 mg/kg shows high cardioprotective activity in a rat myocardium reperfusion injury model, but at higher doses may act as a pro-oxidant.
+
+Abstract:The cardioprotective effect of ubiquinol on the model of myocardium reperfusion injury in rats was investigated. The study was carried out using mature males of outbred rats. Myocardial ischemia-reperfusion injury was performed after 30-minute ligation of the left coronary artery followed by reperfusion. The main criteria for assessing the development of pathology included the results of electrocardiography, biochemical analysis of blood plasma, histological and histochemical study of the myocardium. Development of the reperfusion damage of the myocardium caused specific changes in non-treated animals. The best therapeutic effect on biochemical indices was provided by a drug with the known cardioprotective activity - Mexidolâ and the tested object ubiquinol at doses of 2-6 mg/kg. Evaluation of the results of electrocardiography allowed to confirm the development of ischemic myocardial damage in all groups. The results of histochemical and histological examination of the myocardium suggest a high cardioprotective activity of ubiquinol at a dose of 3 mg/kg and a potential cardioprotective effect of ubiquinol in doses closest to the therapeutic doses of 2 and 6 mg/kg. Ubiquinol is a dose 9 mg/kg showed signs of prooxidant activity, manifested in the form of aggravation of reperfusion injury of the myocardium. The most effective in the conditions of experimental pathology is 1% solution of ubiquinol, at a dose of 3 mg/kg, whose cardioprotective effect is comparable or higher than that for the reference drug Mexidolâ at the therapeutic dose. In doses that are greater than therapeutic ubiquinol is able to act as a pro-oxidant.
+
+Ubiquinol ( Reduced Coenzyme Q 10 ) : A novel yet ubiquitous nutrient for heart disease
+
+Number of 
+
+Key takeaways:Ubiquinol supplementation may provide clinical improvements for patients with heart disease, but more large-scale trials are needed to confirm its effectiveness.
+
+Abstract:Coenzyme Q10 (CoQ10) is a ubiquitous nutrient in human cells where it is essential for mitrochondrial energy production. CoQ10 exists in both an oxidized (ubiquinone) and reduced form (ubiquinol), with ubiquinol being the bioactive form. In addition to its use in cellular ATP production ubiquinol acts as a powerful lipid-soluble antioxidant that protects lipid membranes and lipoproteins from oxidative stress. Lower circulating levels of ubiquinol are found in patients with cardiomyopathy and congestive heart failure (CHF) with deficiency being greater with increasing severity of disease. CoQ10 supplementation is well tolerated and without toxicity or drug interactions and there is evidence to suggest that CoQ10 supplementation may provide clinical improvements for patients with CHF patients as well as for patients with hypertension, statin-induced myopathy and for those undergoing cardiac surgery. Most research to date has focused on ubiquinone rather than ubiquinol, which has only recently become available as a supplemental nutrient. Effective doses of ubiquinol for congestive cardiac failure range from 100mg to 600mg/day yet most research to date has been limited to relatively small, short-term, and potentially biased trials that have used low doses of ubiquinone rather than ubiquinol. The evidence of clinical benefits with CoQ10 supplementation in cardiovascular disease is largely inconclusive and further large-scale trials are required to determine if the higher bioavailability and more potent activity of ubiquinol produces better clinical responses than ubiquinone. Ubiquinol therefore remains an interesting non-prescription, nutritional supplement that may be a useful adjunctive therapy for cardiac complaints despite not yet being recognized as a form of standard care.
+
+Combining Ubiquinol With a Statin May Benefit Hypercholesterolaemic Patients With Chronic Heart Failure.
+
+Number of 
+
+Key takeaways:Combining ubiquinol with a statin may improve myocardial function and decrease skeletal muscle injury in patients with chronic heart failure and hypercholesterolaemia.
+
+Ubiquinol Effects on Antiphospholipid Syndrome Prothrombotic Profile: A Randomized, Placebo-Controlled Trial
+
+Number of 
+
+Key takeaways:Ubiquinol supplementation may improve endothelial function and reduce inflammation and thrombotic risk markers in antiphospholipid syndrome patients without significant side effects.
+
+Abstract:Objective— Antiphospholipid syndrome (APS) leukocytes exhibit an oxidative perturbation, directly linked to alterations in mitochondrial dynamics and metabolism. This disturbance is related to the patients’ prothrombotic status and can be prevented by in vitro treatment with coenzyme Q10. Our aim was to investigate short-term effects of in vivo ubiquinol (reduced coenzyme Q10 ) supplementation on markers related to inflammation and thrombosis in APS through a prospective, randomized, crossover, placebo-controlled trial. Approach and Results— Thirty-six patients with APS were randomized to receive Qred (200 mg/d) or placebo for 1 month. Thirty-three patients with APS completed the intervention, which increased plasma coenzyme Q10. Qred improved endothelial function and decreased monocyte expression of prothrombotic and proinflammatory mediators, inhibited phosphorylation of thrombosis-related protein kinases, and decreased peroxides and percentage of monocytes with depolarized mitochondria; mitochondrial size was increased, and mitochondrial biogenesis–related genes were upregulated. Qred ameliorated extruded neutrophil extracellular traps in neutrophils and downregulated peroxides, intracellular elastase, and myeloperoxidase. Nanostring microRNA profiling revealed 20 microRNAs reduced in APS monocytes, and 16 of them, with a preponderance of cardiovascular disease–related target mRNAs, were upregulated. Monocytes gene profiling showed differential expression of 29 atherosclerosis-related genes, 23 of them changed by Qred. Interaction networks of genes and microRNAs were identified. Correlation studies demonstrated co-ordinated effects of Qred on thrombosis and endothelial function–associated molecules. Conclusions— Our results highlight the potential of Qred to modulate the overexpression of inflammatory and thrombotic risk markers in APS. Because of the absence of clinically significant side effects and its potential therapeutic benefits, Qred might act as safe adjunct to standard therapies in APS. Clinical Trial Registration— 
+
+Ubiquinol composition for parenteral administration and method for its production
+
+Number of 
+
+Key takeaways:The ubiquinol composition for parenteral administration, which includes ubiquinol, surfactants, anti-oxidants, and solvents, provides a stable solution for injectable administration.
+
+Abstract:FIELD: pharmacology. SUBSTANCE: ubiquinol composition is intended for treatment of cardiovascular system diseases and includes a medicinal substance (ubiquinol), surfactants, anti-oxidants (direct and indirect) and solvents, allowed for parenteral administration. EFFECT: composition and the method allow to obtain a storage stable ubiquinol solution suitable for injectable administration. 10 cl, 6 dwg, 1 tbl, 24 ex
+
+Ubiquinol (reduced Coenzyme Q10) as a Metabolic Resuscitator in Post-Cardiac Arrest: A Randomized, Double-Blind, Placebo-Controlled Trial.
+
+Number of 
+
+Key takeaways:Enteral ubiquinol administration increased plasma coenzyme Q10 levels in post-cardiac arrest patients compared to placebo, but did not show significant differences in neurological biomarkers or oxygen consumption.
+
+Ubiquinol Supplementation Improves Gender-Dependent Cerebral Vasoreactivity and Ameliorates Chronic Inflammation and Endothelial Dysfunction in Patients with Mild Cognitive Impairment
+
+Number of 
+
+Key takeaways:Ubiquinol supplementation improves cerebral vasoreactivity and reduces inflammation in mild cognitive impairment patients, with higher levels observed in male patients.
+
+Abstract:Ubiquinol can protect endothelial cells from multiple mechanisms that cause endothelial damage and vascular dysfunction, thus contributing to dementia. A total of 69 participants diagnosed with mild cognitive impairment (MCI) received either 200 mg/day ubiquinol (Ub) or placebo for 1 year. Cognitive assessment of patients was performed at baseline and after 1 year of follow-up. Patients’ cerebral vasoreactivity was examined using transcranial Doppler sonography, and levels of Ub and lipopolysaccharide (LPS) in plasma samples were quantified. Cell viability and necrotic cell death were determined using the microvascular endothelial cell line bEnd3. Coenzyme Q10 (CoQ) levels increased in patients supplemented for 1 year with ubiquinol versus baseline and the placebo group, although higher levels were observed in male patients. The higher cCoQ concentration in male patients improved cerebral vasoreactivity CRV and reduced inflammation, although the effect of Ub supplementation on neurological improvement was negligible in this study. Furthermore, plasma from Ub-supplemented patients improved the viability of endothelial cells, although only in T2DM and hypertensive patients. This suggests that ubiquinol supplementation could be recommended to reach a concentration of 5 μg/mL in plasma in MCI patients as a complement to conventional treatment.
+
+Effect of ubiquinol supplementation on biochemical and oxidative stress indexes after intense exercise in young athletes
+
+Number of 
+
+Key takeaways:Ubiquinol supplementation minimizes coenzyme Q10 depletion and enhances antioxidant levels after intense exercise in young athletes, but does not improve physical performance or markers of muscular damage.
+
+Abstract:ABSTRACT Objectives: Physical exercise significantly impacts the biochemistry of the organism. Ubiquinone is a key component of the mitochondrial respiratory chain and ubiquinol, its reduced and active form, is an emerging molecule in sport nutrition. The aim of this study was to evaluate the effect of ubiquinol supplementation on biochemical and oxidative stress indexes after an intense bout of exercise. Methods: 21 male young athletes (26 + 5 years of age) were randomized in two groups according to a double blind cross-over study, either supplemented with ubiquinol (200 mg/day) or placebo for 1 month. Blood was withdrawn before and after a single bout of intense exercise (40 min run at 85% maxHR). Physical performance, hematochemical parameters, ubiquinone/ubiquinol plasma content, intracellular reactive oxygen species (ROS) level, mitochondrial membrane depolarization, paraoxonase activity and oxidative DNA damage were analyzed. Results: A single bout of intense exercise produced a significant increase in most hematochemical indexes, in particular CK and Mb while, on the contrary, normalized coenzyme Q10 plasma content decreased significantly in all subjects. Ubiquinol supplementation prevented exercise-induced CoQ deprivation and decrease in paraoxonase activity. Moreover at a cellular level, in peripheral blood mononuclear cells, ubiquinol supplementation was associated with a significant decrease in cytosolic ROS while mitochondrial membrane potential and oxidative DNA damage remained unchanged. Discussion: Data highlights a very rapid dynamic of CoQ depletion following intense exercise underlying an increased demand by the organism. Ubiquinol supplementation minimized exercise-induced depletion and enhanced plasma and cellular antioxidant levels but it was not able to improve physical performance indexes or markers of muscular damage.
+
+The Effects of Ubiquinol Intake and Sociophysical Training on the Activation of Psychological and Infrared Camera-Measured Body Temperature Physiology and Blood Molecular Markers: A Pilot Study among Healthy Female Older Adults
+
+Number of 
+
+Key takeaways:Ubiquinol supplementation and sociophysical training show potential synergistic effects on neuropsychiatric health in healthy female older adults, with positive mood and reduced inflammation.
+
+Abstract:A combination of existing treatments with sensing technology may be the most appropriate approach for incurable neuropsychiatric disorders. Dietary antioxidant supplementation, exercise, and cognitive training are individually well-established treatments for neurodegeneration, Alzheimer’s disease, and other dementias. Therefore, in a double-blind randomized controlled trial, we evaluated the response of normal healthy older female subjects to coenzyme Q10 supplementation and simultaneous sociophysical training that was undertaken in a non-contact environment using infrared cameras. The current pilot study reports the results from a multivariate analysis of blood biomarkers, body surface temperature measured with infrared thermal cameras, and psychological questionnaire scores from this trial, in which 100 mg/day of supplemental ubiquinol (the reduced form of coenzyme Q10) was administered daily for one month. We found a significant positive correlation between ubiquinol supplementation and positive mood scores in the State–Trait Anxiety Inventory test (STAI-positive) and a weak inverse correlation between ubiquinol supplementation and serum interleukin 4 (IL-4), a systemic inflammatory marker. We also found a significant positive correlation between the standard deviation of body surface temperatures, detected with non-contact infrared image sensors, and both STAI-positive and serum antidiuretic hormone (ADH). The results from this small pilot study indicate the potential synergistic effects of oral ubiquinol intake and sociophysical training on neuropsychiatric health in healthy female older adults.
+
+Ubiquinol regeneration by plasma membrane ubiquinone reductase
+
+Number of 
+
+Key takeaways:The plasma membrane ubiquinone reductase plays a crucial role in NADH-driven regeneration of antioxidant ubiquinol, reducing lipid peroxidation and promoting cell survival.
+
+Abstract:Several enzyme systems have been proposed to play a role in the maintenance of ubiquinol in membranes other than the inner mitochondrial membrane. The aim of this study was to investigate the mechanisms involved in NADH-driven regeneration of antioxidant ubiquinol at the plasma membrane. Regeneration was measured by quantifying the oxidized and reduced forms of ubiquinone by electrochemical detection after separation by high-performance liquid chromatography. Plasma membrane incubation with NADH resulted in the consumption of endogenous ubiquinone, and a parallel increase in ubiquinol levels. The activity showed saturation kinetics with respect to the pyridine nucleotides and was moderately inhibited byp-hydroxymercuribenzoate. Only a slight inhibition was achieved with dicumarol at concentrations reported to fully inhibit DT-diaphorase. Salt-extracted membranes displayed full activity of endogenous ubiquinol regeneration, supporting the participation of an integral membrane protein. In liposomes-reconstituted systems, the purified cytochromeb
+_5 reductase catalyzed the reduction of the natural ubiquinone homologue coenzyme Q_10 at rates accounting for the activities observed in whole plasma membranes, and decreased the levels of lipid peroxidation. Our data demonstrate the role of the cytochromeb
+_5 reductase in the regeneration of endogenous ubiquinol.
+
+Tunneling effect in regeneration reaction of vitamin E by ubiquinol.
+
+Number of 
+
+Key takeaways:Proton tunneling plays an important role in the regeneration reaction of vitamin E by ubiquinol, with deuteration of ubiquinol increasing and decreasing the activation energy and second-order rate constant by 6.1 kJ/mol and a factor of 18.3.
+
+Abstract:A kinetic study of the regeneration reaction of vitamin E by ubiquinol was carried out by means of double-mixing stopped-flow spectroscopy. A substantial deuterium kinetic-isotope effect was observed on the second-order rate constant and the activation energy. In the regeneration reaction of alpha-tocopherol, deuteration of ubiquinol increased and decreased the activation energy and the second-order rate constant by 6.1 kJ/mol and a factor of 18.3, respectively. From this result, it is considered that proton tunneling plays an important role in the regeneration reaction of vitamin E by ubiquinol. The conditions under which the tunneling effect becomes an important factor were discussed in conjunction of our experimental results.
+
+Tunneling Effect in Regeneration Reactions of Vitamin E
+
+Number of 
+
+Key takeaways:The tunneling effect plays a crucial role in vitamin E regeneration reactions in various tissues and mitochondria, with significant deuterium kinetic-isotope effects observed.
+
+Abstract:Since a vitamin E radical produced by the antioxidant reaction of vitamin E causes damage to vital functions, ubiquinol and vitamin C regenerate a vitamin E molecule from a vitamin E radical in vivo. The kinetic studies of the regeneration reactions have been carried out in solutions by means of stopped-flow spectroscopy. Substantial deuterium kinetic-isotope-effects on the second-order rate constants have been observed in both the reactions of ubiquinol and vitamin C. Furthermore, a deviation from a linear relationship in the Arrhenius plot has been observed in the reaction of ubiquinol. These results suggest that the tunneling effect plays an important role in the regeneration reactions in various tissues and mitochondria.
+
+Tunneling effect in the regeneration reaction of vitamin E by ubiquinol
+
+Number of 
+
+Key takeaways:The tunneling effect plays a crucial role in preventing lipid peroxidation by ubiquinol in various tissues and mitochondria.
+
+Mitochondrial function and lifespan of mice with controlled ubiquinone biosynthesis
+
+Number of 
+
+Key takeaways:Ubiquinone depletion in mice leads to gradual loss of mitochondrial function and shortened lifespan, but partial restoration of ubiquinone levels can reverse these effects.
+
+Anti-ageing effects of Ubiquinone and Ubiquinol in a senescence model of human dermal fibroblasts.
+
+Number of 
+
+Key takeaways:Ubiquinol is more bioavailable and effective than ubiquinone in rescuing skin ageing markers in a senescence model of human dermal fibroblasts, supporting its use as an anti-ageing skin care treatment.
+
+Gastroprotective and microbiome-modulating effects of ubiquinol in rats with radiation-induced enteropathy
+
+Number of 
+
+Key takeaways:Ubiquinol effectively protects against radiation-induced enteritis and restores gut microbiota diversity and balance in rats.
+
+Abstract:Abstract Radiation enteritis is a frequently encountered issue for patients receiving radiotherapy and has a significant impact on cancer patients' quality of life. The gut microbiota plays a pivotal role in intestinal function, yet the impact of irradiation on gut microorganisms is not fully understood. This study explores the gastroprotective effect and gut microbiome-modulating potential of ubiquinol (Ubq), the reduced form of the powerful antioxidant CoQ-10. For this purpose, male albino rats were randomly assigned to four groups: Control, IRR (acute 7 Gy γ-radiation), Ubq_Post (Ubq for 7 days post-irradiation), and Ubq_Pre/Post (Ubq for 7 days pre and 7 days post-irradiation). The fecal microbiomes of all groups were profiled by 16S rRNA amplicon sequencing followed by bioinformatics and statistical analysis. Histopathological examination of intestinal tissue indicated severe damage in the irradiated group, which was mitigated by ubiquinol with enhanced regeneration, goblet cells, and intestinal alkaline phosphatase expression. Compared to the irradiated group, the Ubq-treated groups had a significant recovery of intestinal interleukin-1β, caspase-3, nitric oxide metabolites, and thio-barbituric reactive substances to near-healthy levels. Ubq_Pre/Post group displayed elevated peroxisome proliferator-activated receptor (PPAR-γ) level, suggesting heightened benefits. Serum insulin reduction in irradiated rats improved post-Ubq treatment, with a possible anti-inflammatory effect on the pancreatic tissue. Fecal microbiota profiling revealed a dysbiosis state with a reduction of bacterial diversity post-irradiation, which was re-modulated in the Ubq treated groups to profiles that are indistinguishable from the control group. These findings underscore Ubq's gastroprotective effects against radiation-induced enteritis and its potential in restoring the gut microbiota’s diversity and balance.
+
+Regeneration of the antioxidant ubiquinol by lipoamide dehydrogenase, thioredoxin reductase and glutathione reductase
+
+Number of 
+
+Key takeaways:Ubiquinol regeneration by lipoamide dehydrogenase, glutathione reductase, and thioredoxin reductase provides a multifunctional system for extramitochondrial regeneration of an important antioxidant.
+
+Abstract:Ubiquinol is a powerful antioxidant, which is oxidized in action and needs to be replaced or regenerated to be capable of a sustained effort. This article summarises current knowledge of extramitochondrial reduction of ubiquinone by three flavoenzymes, i.e. lipoamide dehydrogenase, glutathione reductase and thioredoxin reductase, belonging to the same pyridine nucleotide‐disulfide oxidoreductase family. These three enzymes are the most efficient extramitochondrial ubiquinone reductases so far described. The reduction of ubiquinone by lipoamide dehydrogenase and glutathione reductase is potently stimulated by zinc and the highest rate of reduction is achieved at acidic pH and the rates are equal with either NADPH or NADH as co‐factors. The most efficient ubiquinone reductases are mammalian cytosolic thioredoxin reductases, which are selenoenzymes with a number of biological functions. Reduction of ubiquinone by thioredoxin reductase is in contrast to the other two enzymes investigated, inhibited by zinc and shows a sharp physiological pH optimum at pH 7.5. Furthermore, the reaction is selenium dependent as revealed from experiments using truncated and mutant forms of the enzyme and also in a cellular context by selenium treatment of transfected thioredoxin reductase overexpressing stable cell lines. The reduction of ubiquinone by the three enzymes offers a multifunctional system for extramitochondrial regeneration of an important antioxidant.
+
+Ubiquinol supplementation modulates energy metabolism and bone turnover during high intensity exercise.
+
+Number of 
+
+Key takeaways:Ubiquinol supplementation can modulate energy metabolism and bone turnover during strenuous exercise, potentially providing an ergogenic and physiological advantage for skeletal muscles.
+
+Abstract:Bone and energy metabolism are profoundly influenced by exercise. The objective of this study was to determine for the first time whether a short-term supplementation with ubiquinol could have a modulating effect on bone turnover and energy metabolism associated with strenuous exercise. The participants (n = 100 healthy and well-trained firemen) were randomly divided into two groups: ubiquinol group (ubiquinol (200 mg day-1)) and control group (placebo) for two weeks. The protocol consisted of conducting two identical strenuous exercise tests with a rest period between tests of 24 h. Blood samples were collected before supplementation (basal value) (T1), after supplementation (T2), after the first physical exercise test (T3), after 24 h of rest (T4), and after the second physical exercise test (T5). Parathyroid hormone (PTH), osteocalcin (OC), osteoprotegerin (OPG), osteopontin (OPN), sclerotin (SOST), alkaline phosphatase (AP), adrenocorticotropin (ACTH), insulin, leptin, adrenaline, noradrenaline and peroxisome proliferator activated receptor-γ coactivator-1α (PGC-1α) were determined. Our protocol increased ACTH, SOST, PTH and OC levels, while it decreased OPN. This protocol also increased adrenaline, noradrenaline and PCG-1α, and decreased insulin. After ubiquinol supplementation, PTH, OC, OPG, alkaline phosphatase, leptin, insulin, noradrenaline and PGC-1α levels increased in the supplemented group compared to the control group after the exercise protocol. Strenuous exercise has a clear effect on energy metabolism and bone turnover. These effects are modulated by ubiquinol supplementation, which especially increases the biomarkers of bone formation during strenuous exercise. In addition, ubiquinol has a beneficial effect on the mobilization of energy sources, fact that it could represent an ergogenic and physiological advantage for skeletal muscles.
+
+Ubiquinol-10 delays postovulatory oocyte aging by improving mitochondrial renewal in pigs
+
+Number of 
+
+Key takeaways:Ubiquinol-10 delays postovulatory aging in pigs by promoting mitochondrial renewal and preventing oxidative stress-induced damage.
+
+Abstract:Ubiquinol-10, the reduced form of coenzyme Q10, protects mammalian cells from oxidative damage and enhances mitochondrial activity. However, the protective effect of ubiquinol-10 on mammalian oocytes is not well understood. In this study, we investigated the effect of ubiquinol-10 on porcine oocytes during postovulatory aging. Metaphase II oocytes were selected as fresh oocytes and further cultured for 48 h with different concentrations of ubiquinol-10 (0–400 μM) in vitro as a postovulatory aging model. After choosing the optimal concentration of ubiquinol-10 (100 μM) that maintained oocyte morphology and developmental competence during the progression of aging, the oocytes were randomly divided into five groups: fresh, control-24 h, ubiquinol-24 h, control-48 h, and ubiquinol-48 h. The results revealed that ubiquinol-10 significantly prevented aging-induced oxidative stress, GSH reduction, cytoskeleton impairment, apoptosis, and autophagy. Mitochondrial biogenesis (SIRT1 and PGC-1α) and mitophagy (PINK1 and PARKIN)-related proteins were decreased during aging. Addition of ubiquinol-10 prevented the aging-induced reduction of these proteins. Consequently, although mitochondrial content was decreased, the number of active mitochondria and ATP level were significantly increased upon treatment with ubiquinol-10. Thus, ubiquinol-10 has beneficial effects on porcine postovulatory aging oocytes owing to its antioxidant properties and ability to promote mitochondrial renewal.
+
+Critical role of deep hydrogen tunneling to accelerate the antioxidant reaction of ubiquinol and vitamin E.
+
+Number of 
+
+Key takeaways:Deep hydrogen tunneling significantly enhances the antioxidant reaction of ubiquinol and vitamin E in biomembranes, potentially benefiting the defense against oxidative damage.
+
+Abstract:In biomembranes a variety of antioxidants work to suppress oxidative damage. Vitamin E and ubiquinol are among the most important lipid-soluble antioxidants, which trap lipid peroxyl radicals directly or work cooperatively in the regeneration of vitamin E radicals by ubiquinol. Here, we investigate the latter regeneration reaction by using variational transition-state theory with multidimensional tunneling corrections. The result shows that the system forms a compact H-bonded complex by significantly rearranging the donor and acceptor moieties, which leads to a rather narrow potential barrier for H transfer and a very large tunneling effect with a transmission coefficient >4000. In accord with experiment, the Arrhenius activation energy is found to be very small (∼1 kcal/mol), which is interpreted here in terms of mean tunneling energy through the barrier. Regarding the electronic structure, we demonstrate that the present reaction proceeds via a proton-coupled electron transfer (PCET) mechanism and suggest that the PCET character also contributes to the large tunneling effect by sharpening the potential barrier. Finally, a systematic comparison is made among relevant reactions and it is indicated that the antioxidant defense of biomembranes may benefit rather significantly from quantum tunneling to enhance the reaction efficiency.
+
+Antioxidant effects of ubiquinones in microsomes and mitochondria are mediated by tocopherol recycling.
+
+Number of 
+
+Key takeaways:Ubiquinones' antioxidant effects in microsomes and mitochondria are mediated by tocopherol recycling, rather than direct radical scavenging, as tocopherols are stronger membrane antioxidants than ubiquinones.
+
+Kinetic study of the α-tocopherol-regeneration reaction of ubiquinol-10 in methanol and acetonitrile solutions: notable effect of the alkali and alkaline earth metal salts on the reaction rates.
+
+Number of 
+
+Key takeaways:The regeneration reaction of -tocopherol by ubiquinol-10 in methanol increases with alkali and alkaline earth metal salts, while in acetonitrile, metal salts decrease with alkali and alkaline earth metal salts.
+
+Abstract:A kinetic study of regeneration reaction of α-tocopherol (α-TocH) by ubiquinol-10 has been performed in the presence of four kinds of alkali and alkaline earth metal salts (LiClO(4), NaClO(4), NaI, and Mg(ClO(4))(2)) in methanol and acetonitrile solutions, using double-mixing stopped-flow spectrophotometry. The second-order rate constants (k(r)'s) for the reaction of α-tocopheroxyl (α-Toc•) radical with ubiquinol-10 increased and decreased notably with increasing concentrations of metal salts in methanol and acetonitrile, respectively. The k(r) values increased in the order of no metal salt < NaClO(4) ~ NaI < LiClO(4) < Mg(ClO(4))(2) at the same concentration of metal salts in methanol. On the other hand, in acetonitrile, the k(r) values decreased in the order of no metal salt > NaClO(4) ~ NaI > LiClO(4) > Mg(ClO(4))(2) at the same concentration of metal salts. The metal salts having a smaller ionic radius of cation and a larger charge of cation gave a larger k(r) value in methanol, and a smaller k(r) value in acetonitrile. The effect of anion was almost negligible in both the solvents. Notable effects of metal cations on the UV-vis absorption spectrum of α-Toc• radical were observed in aprotic acetonitrile solution, suggesting complex formation between α-Toc• and metal cations. On the other hand, effects of metal cations were negligible in protic methanol, suggesting that the complex formation between α-Toc• and metal cations is hindered by the hydrogen bond between α-Toc• and methanol molecules. The difference between the reaction mechanisms in methanol and acetonitrile solutions was discussed on the basis of the results obtained. High concentrations of alkali and alkaline earth metal salts coexist with α-TocH and ubiquinol-10 in plasma, blood, and many tissues, suggesting the contribution of the metal salts to the above regeneration reaction in biological systems.
+
+Mitochondrial ubiquinol oxidation is necessary for tumor growth
+
+Number of 
+
+Key takeaways:Tumor growth requires the mitochondrial electron transport chain to oxidize ubiquinol, which is essential for driving the oxidative TCA cycle and DHODH activity.
+
+Ubiquinol: an endogenous antioxidant in aerobic organisms
+
+Number of 
+
+Key takeaways:Ubiquinol, an endogenous antioxidant in aerobic organisms, plays a crucial role in cellular defense against oxidative damage, with degenerative diseases and aging potentially resulting from decreased ubiquinol levels.
+
+Abstract:Ubiquinone (coenzyme Q), in addition to its function as an electron and proton carrier in mitochondrial and bacterial electron transport linked to ATP synthesis, acts in its reduced form (ubiquinol) as an antioxidant, preventing the initiation and/or propagation of lipid peroxidation in biological membranes and in serum low-density lipoprotein. The antioxidant activity of ubiquinol is independent of the effect of vitamin E, which acts as a chain-breaking antioxidant inhibiting the propagation of lipid peroxidation. In addition, ubiquinol can efficiently sustain the effect of vitamin E by regenerating the vitamin from the tocopheroxyl radical, which otherwise must rely on water-soluble agents such as ascorbate (vitamin C). Ubiquinol is the only known lipid-soluble antioxidant that animal cells can synthesize de novo, and for which there exist enzymic mechanisms that can regenerate the antioxidant from its oxidized form resulting from its inhibitory effect of lipid peroxidation. These features, together with its high degree of hydrophobicity and its widespread occurrence in biological membranes and in low-density lipoprotein, suggest an important role of ubiquinol in cellular defense against oxidative damage. Degenerative diseases and aging may bc
+_1 manifestations of a decreased capacity to maintain adequate ubiquinol levels.
+
+Biochemical, physiological and medical aspects of ubiquinone function.
+
+Number of 
+
+Key takeaways:Ubiquinone, in its reduced form (ubiquinol), effectively protects membrane phospholipids, serum LDL, and DNA from oxidative damage, with potential benefits in various fields of medicine.
+
+Stopped-flow kinetic study of the regeneration reaction of tocopheroxyl radical by reduced ubiquinone-10 in solution.
+
+Number of 
+
+Key takeaways:Ubiquinol-10 regenerates tocopheroxyl to tocopherol, preventing lipid peroxidation in various tissues and mitochondria.
+
+Antioxidant action of ubiquinol homologues with different isoprenoid chain length in biomembranes.
+
+Number of 
+
+Key takeaways:Ubiquinols with short isoprenoid chains (Q1-Q4) are more potent inhibitors of lipid peroxidation than longer chain homologues (Q5-Q10), with their antioxidant efficiency decreasing in order Q1-Q4 and enhancing vitamin E regeneration.
+
+Increased oxidative stress and coenzyme Q10 deficiency in juvenile fibromyalgia: amelioration of hypercholesterolemia and fatigue by ubiquinol-10 supplementation
+
+Number of 
+
+Key takeaways:Ubiquinol-10 supplementation improves cholesterol metabolism and reduces chronic fatigue in juvenile fibromyalgia patients by addressing oxidative stress and coenzyme Q10 deficiency.
+
+Abstract:Abstract Fibromyalgia (FM) is characterized by generalized pain and chronic fatigue of unknown etiology. To evaluate the role of oxidative stress in this disorder, we measured plasma levels of ubiquinone-10, ubiquinol-10, free cholesterol (FC), cholesterol esters (CE), and free fatty acids (FFA) in patients with juvenile FM (n = 10) and in healthy control subjects (n = 67). Levels of FC and CE were significantly increased in juvenile FM as compared with controls, suggesting the presence of hypercholesterolemia in this disease. However, plasma level of ubiquinol-10 was significantly decreased and the ratio of ubiquinone-10 to total coenzyme Q10 (%CoQ10) was significantly increased in juvenile FM relative to healthy controls, suggesting that FM is associated with coenzyme Q10 deficiency and increased oxidative stress. Moreover, plasma level of FFA was significantly higher and the content of polyunsaturated fatty acids (PUFA) in total FFA was significantly lower in FM than in controls, suggesting increased tissue oxidative damage in juvenile FM. Interestingly, the content of monoenoic acids, such as oleic and palmitoleic acids, was significantly increased in FM relative to controls, probably to compensate for the loss of PUFA. Next, we examined the effect of ubiquinol-10 supplementation (100 mg/day for 12 weeks) in FM patients. This resulted in an increase in coenzyme Q10 levels and a decrease in %CoQ10. No changes were observed in FFA levels or their composition. However, plasma levels of FC and CE significantly decreased and the ratio of FC to CE also significantly decreased, suggesting that ubiquinol-10 supplementation improved cholesterol metabolism. Ubiquinol-10 supplementation also improved chronic fatigue scores as measured by the Chalder Fatigue Scale.
+
+Plasma CoQ10 Status in Patients with Propionic Acidaemia and Possible Benefit of Treatment with Ubiquinol
+
+Number of 
+
+Key takeaways:Ubiquinol supplementation effectively normalizes plasma CoQ10 levels in propionic acidaemia patients, potentially preventing chronic complications due to mitochondrial dysfunction.
+
+Abstract:Propionic acidaemia (PA) is an innate error of metabolism involving a deficiency in the enzyme propionyl-CoA carboxylase. Better control of acute decompensation episodes together with better treatment and monitoring have improved the prognosis of patients with this problem. However, long-term complications can arise in those in whom good metabolic control is achieved, the result of mitochondrial dysfunction caused by deficient anaplerosis, increased oxidative stress, and reduced antioxidative capacity. Coenzyme Q10 (CoQ10) is a nutritional supplement that has a notable antioxidative effect and has been shown to improve mitochondrial function. The present prospective, interventional study examines the plasma concentration of CoQ10 in patients with PA, their tolerance of such supplementation with ubiquinol, and its benefits. Seven patients with PA (aged 2.5 to 20 years, 4 males) received supplements of CoQ10 in the form of ubiquinol (10 mg/kg/day for 6 months). A total of 6/7 patients showed reduced plasma CoQ10 concentrations that normalized after supplementation with ubiquinol (p-value < 0.001), which was well tolerated. Urinary citrate levels markedly increased during the study (p-value: 0.001), together with elevation of citrate/methlycitrate ratio (p-value: 0.03). No other significant changes were seen in plasma or urine biomarkers of PA. PA patients showed a deficiency of plasma CoQ10, which supplementation with ubiquinol corrected. The urinary excretion of Krebs cycle intermediate citrate and the citrate/methylcitrate ratio significantly increased compared to the baseline, suggesting improvement in anaplerosis. This treatment was well tolerated and should be further investigated as a means of preventing the chronic complications associated with likely multifactorial mitochondrial dysfunction in PA.
+
+Ubiquinol Supplementation Alters Exercise Induced Fatigue by Increasing Lipid Utilization in Mice
+
+Number of 
+
+Key takeaways:Ubiquinol supplementation is a safe dietary supplement that improves exercise performance and reduces fatigue by increasing lipid utilization and reducing serum lactate, ammonia, and creatine kinase levels after exercise.
+
+Abstract:Ubiquinol (QH), a reduced form of coenzyme Q10, is a lipid antioxidant that is hydro-soluble and is commonly formulated in commercial supplements. Ubiquinol has been increasingly reported to exert antioxidant functions, in addition to its role in the cell energy-producing system of mitochondria and adenosine triphosphate (ATP) production. The aim of this study was to assess the potential beneficial effects of QH on anti-fatigue and ergogenic functions following physiological challenge. Forty 8-week-old male Institute of Cancer Research (ICR) mice were divided into four groups (n = 10 for each group): Group 1 (vehicle control or oil only); Group 2 (1X QH dose or 102.5 mg/kg); Group 3 (2X QH dose or 205 mg/kg); Group 4 (6X QH dose or 615 mg/kg). Anti-fatigue activity and exercise performance were studied using the forelimb grip strength experiment and exhaustive weight-loaded swimming time, and levels of serum lactate, ammonia, glucose, BUN (blood urea nitrogen), creatine kinase (CK), and free fatty acids (FFA) after an acute exercise challenge. The forelimb grip strength and exhaustive weight-loaded swimming time of the QH-6X group were significantly higher than those of the other groups. QH supplementation dose-dependently reduced serum lactate, ammonia, and CK levels and increased the FFA concentration after acute exercise. In addition, QH increased the liver and muscle glycogen content, an important energy source during exercise. Therefore, the results suggest that QH formulation is a safe dietary supplement for amelioration of fatigue and for promoting exercise performance.
+
+The Ubiquinone-Ubiquinol Redox Cycle and Its Clinical Consequences: An Overview
+
+Number of 
+
+Key takeaways:The ubiquinone-ubiquinol redox cycle plays a crucial role in cellular metabolism, and its deficiency can lead to various clinical outcomes, including potential benefits from CoQ10 and selenium co-supplementation.
+
+Abstract:Coenzyme Q10 (CoQ10) plays a key role in many aspects of cellular metabolism. For CoQ10 to function normally, continual interconversion between its oxidised (ubiquinone) and reduced (ubiquinol) forms is required. Given the central importance of this ubiquinone–ubiquinol redox cycle, this article reviews what is currently known about this process and the implications for clinical practice. In mitochondria, ubiquinone is reduced to ubiquinol by Complex I or II, Complex III (the Q cycle) re-oxidises ubiquinol to ubiquinone, and extra-mitochondrial oxidoreductase enzymes participate in the ubiquinone–ubiquinol redox cycle. In clinical terms, the outcome of deficiencies in various components associated with the ubiquinone–ubiquinol redox cycle is reviewed, with a particular focus on the potential clinical benefits of CoQ10 and selenium co-supplementation.
+
+Three-Year Follow-Up of High-Dose Ubiquinol Supplementation in a Case of Familial Multiple System Atrophy with Compound Heterozygous COQ2 Mutations
+
+Number of 
+
+Key takeaways:High-dose ubiquinol supplementation can improve mitochondrial oxidative metabolism in the brain, suggesting therapeutic potential for patients with multiple system atrophy with COQ2 mutations.
+
+Abstract:We report a 3-year follow-up of high-dose ubiquinol supplementation in a case of familial multiple system atrophy (MSA) with compound heterozygous nonsense (R387X) and missense (V393A) mutations in COQ2. A high-dose ubiquinol supplementation substantially increased total coenzyme Q10 levels in cerebrospinal fluid as well as in plasma. The patient was at the advanced stage of MSA, and the various scores of clinical rating scales remained stable without changes during the 3 years. The cerebral metabolic ratio of oxygen measured by 15O2 PET, however, increased by approximately 30% after administration of ubiquinol, suggesting that ubiquinol can improve mitochondrial oxidative metabolism in the brain. It also suggests the therapeutic potential of ubiquinol for patients with MSA with COQ2 mutations. Further clinical trials of administration of high-dose ubiquinol to MSA patients are warranted.
+
+Beneficial Effect of Ubiquinol on Hematological and Inflammatory Signaling during Exercise
+
+Number of 
+
+Key takeaways:Ubiquinol supplementation during high-intensity exercise can modulate inflammatory signaling, increase anti-inflammatory cytokines, and improve oxygen supply, potentially protecting against physiological alterations.
+
+Abstract:Strenuous exercise (any activity that expends six metabolic equivalents per minute or more causing sensations of fatigue and exhaustion to occur, inducing deleterious effects, affecting negatively different cells), induces muscle damage and hematological changes associated with high production of pro-inflammatory mediators related to muscle damage and sports anemia. The objective of this study was to determine whether short-term oral ubiquinol supplementation can prevent accumulation of inflammatory mediators and hematological impairment associated to strenuous exercise. For this purpose, 100 healthy and well-trained firemen were classified in two groups: Ubiquinol (experimental group), and placebo group (control). The protocol was two identical strenuous exercise tests with rest period between tests of 24 h. Blood samples were collected before supplementation (basal value) (T1), after supplementation (T2), after first physical exercise test (T3), after 24 h of rest (T4), and after second physical exercise test (T5). Hematological parameters, pro- and anti-inflammatory cytokines and growth factors were measured. Red blood cells (RBC), hematocrit, hemoglobin, VEGF, NO, EGF, IL-1ra, and IL-10 increased in the ubiquinol group while IL-1, IL-8, and MCP-1 decreased. Ubiquinol supplementation during high intensity exercise could modulate inflammatory signaling, expression of pro-inflammatory, and increasing some anti-inflammatory cytokines. During exercise, RBC, hemoglobin, hematocrit, VEGF, and EGF increased in ubiquinol group, revealing a possible pro-angiogenic effect, improving oxygen supply and exerting a possible protective effect on other physiological alterations.
+
+Ubiquinol-10 supplementation activates mitochondria functions to decelerate senescence in senescence-accelerated mice.
+
+Number of 
+
+Key takeaways:Ubiquinol-10 supplementation activates mitochondrial functions, slowing aging and protecting against age-related diseases by increasing levels of SIRT1, PGC-1, and SIRT3.
+
+Abstract:AIM
+The present study was conducted to define the relationship between the anti-aging effect of ubiquinol-10 supplementation and mitochondrial activation in senescence-accelerated mouse prone 1 (SAMP1) mice.
+
+RESULTS
+Here, we report that dietary supplementation with ubiquinol-10 prevents age-related decreases in the expression of sirtuin gene family members, which results in the activation of peroxisome proliferator-activated receptor γ coactivator 1α (PGC-1α), a major factor that controls mitochondrial biogenesis and respiration, as well as superoxide dismutase 2 (SOD2) and isocitrate dehydrogenase 2 (IDH2), which are major mitochondrial antioxidant enzymes. Ubiquinol-10 supplementation can also increase mitochondrial complex I activity and decrease levels of oxidative stress markers, including protein carbonyls, apurinic/apyrimidinic sites, malondialdehydes, and increase the reduced glutathione/oxidized glutathione ratio. Furthermore, ubiquinol-10 may activate Sirt1 and PGC-1α by increasing cyclic adenosine monophosphate (cAMP) levels that, in turn, activate cAMP response element-binding protein (CREB) and AMP-activated protein kinase (AMPK).
+
+INNOVATION AND CONCLUSION
+These results show that ubiquinol-10 may enhance mitochondrial activity by increasing levels of SIRT1, PGC-1α, and SIRT3 that slow the rate of age-related hearing loss and protect against the progression of aging and symptoms of age-related diseases.
+
+Ubiquinol rescues simvastatin-suppression of mitochondrial content, function and metabolism: implications for statin-induced rhabdomyolysis.
+
+Number of 
+
+Key takeaways:Ubiquinol can protect muscle cells from myopathies by rescuing reduced mitochondrial content and function caused by statin medications.
+
+Ubiquinol Short-Term Supplementation Prior to Strenuous Exercise Improves Physical Performance and Diminishes Muscle Damage
+
+Number of 
+
+Key takeaways:Ubiquinol supplementation improves muscle performance and reduces muscle damage after strenuous exercise in well-trained individuals who are not elite athletes.
+
+Abstract:The benefits of physical exercise on health are diminished when it is non-planned, strenuous, or vigorous, which causes an increase in oxygen consumption and production of free radicals, particularly serious at the muscular level. Ubiquinol could help achieve an antioxidant, anti-inflammatory, and ergogenic effect. The aim of this study is to evaluate whether a supplementation of ubiquinol during a short period could have a positive effect on muscle aggression, physical performance, and fatigue perception in non-elite athletes after high intensity circuit weight training. One hundred healthy and well-trained men, (firemen of the Fire Department of Granada) were enrolled in a placebo-controlled, double-blinded, and randomized study, and separated into two groups: the placebo group (PG, n = 50); and the ubiquinol group (UG, n = 50), supplemented with an oral dose. Before and after the intervention, data related to the number of repetitions, muscle strength, and perceived exertion, as well as blood samples were collected. An increase was observed in the UG regarding average load and repetitions, revealing an improvement in muscle performance. Ubiquinol supplementation also reduced muscle damage markers, showing a protective effect on muscle fibers. Therefore, this study provides evidence that ubiquinol supplementation improves muscle performance and prevents muscle damage after strenuous exercise in a population of well-trained individuals who are not elite athletes.
+
+Efficacy and Safety of Q10 Ubiquinol With Vitamins B and E in Neurodevelopmental Disorders: A Retrospective Chart Review
+
+Number of 
+
+Key takeaways:Metabolic support therapy with Q10 ubiquinol, vitamin E, and complex-B vitamins is well-tolerated and shows some improvement in most patients with neurodevelopmental disorders.
+
+Abstract:Increased oxidative stress and defective mitochondrial functioning are shared features among many brain disorders. The aim of this study was to verify retrospectively the clinical efficacy and safety of a metabolic support therapy with Q10 ubiquinol, vitamin E and complex-B vitamins in various neurodevelopmental disorders. This retrospective chart review study included 59 patients (mean age 10.1 ± 1.2 y.o., range 2.5–39 years; M:F = 2.47:1), diagnosed with Autism Spectrum Disorder (n = 17), Autism Spectrum Disorder with co-morbid Intellectual Disability (n = 19), Intellectual Disability or Global Developmental Delay (n = 15), Attention-Deficit/Hyperactivity Disorder (n = 3) and Intellectual Disability in Phelan-McDermid syndrome due to chr. 22q13.33 deletion (n = 5). After a minimum of 3 months of therapy, a positive outcome was recorded in 45/59 (76.27%) patients, with Clinical Global Impression—Improvement scores ranging between 1 (“very much improved”) and 3 (“minimally improved”). The most widespread improvements were recorded in cognition (n = 26, 44.1%), adaptative functioning (n = 26, 44.1%) and social motivation (n = 19, 32.2%). Improvement rates differed by diagnosis, being observed most consistently in Phelan-McDermid Syndrome (5/5, 100%), followed by Intellectual Disability/Global Developmental Delay (13/15, 86.7%), Autism Spectrum Disorder with co-morbid Intellectual Disability (15/19, 78.9%), Autism Spectrum Disorder (11/17, 64.7%) and ADHD (1/3, 33.3%). No significant adverse event or side effect leading to treatment discontinuation were recorded. Mild side effects were reported in 18 (30.5%) patients, with the most frequent being increased hyperactivity (9/59, 15.3%). This retrospective chart review suggests that metabolic support therapy with Q10 ubiquinol, vitamin E and complex-B vitamins is well tolerated and produces some improvement in the majority of patients with neurodevelopmental disorders, especially in the presence of intellectual disability. Randomized controlled trials for each single neurodevelopmental disorder are now warranted to conclusively demonstrate the efficacy of these mitochondrial bioenergetic and antioxidant agents and to estimate their therapeutic effect size.
+
+Major outcomes in heart failure and cardiovascular diseases of the use of vitamin D, ubiquinone, and magnesium in nutrological cardiology: a systematic review
+
+Number of 
+
+Key takeaways:Magnesium, vitamin D, and ubiquinone (coenzyme Q10) play crucial roles in heart failure, cardiovascular diseases, and metabolic syndrome, with potential benefits for prevention and treatment.
+
+Abstract:Introduction: Heart failure (HF) and cardiovascular diseases (CVD) are the main causes of death in the population. According to data from the World Health Organization for 2023, of the 21.5 million deaths from these diseases. The beneficial metabolic effects of magnesium, vitamin D, and ubiquinone (coenzyme Q10) can be highlighted. Objective: It was to scientifically analyze the influence of the three elements Magnesium, Vitamin D, and ubiquinone (Coenzyme Q10) concerning heart failure, cardiovascular diseases and metabolic syndrome. Methods: The systematic review rules of the PRISMA Platform were followed. The research was carried out from June to July 2024 in Scopus, PubMed, Science Direct, Scielo, and Google Scholar databases. The quality of the studies was based on the GRADE instrument and the risk of bias was analyzed according to the Cochrane instrument. Results and Conclusion: A total of 154 articles were found, and 80 articles were evaluated and 78 were included in this systematic review. Considering the Cochrane tool for risk of bias, the overall assessment resulted in 18 studies with a high risk of bias and 26 studies that did not meet GRADE. Most studies showed homogeneity in their results, with I2 =96.8% >50%. It was concluded that magnesium plays a fundamental role in glucose metabolism, insulin, and glycemic homeostasis, in the synthesis of adenosine triphosphate, proteins, and nucleic acids. However, further studies are needed to better clarify the role of magnesium in the prevention and treatment of cardiovascular diseases, especially concerning higher concentrations and increased treatment time. Vitamin D plays important roles in innate and adaptive immune responses, cell cycle, and metabolic processes, evidenced by the reported relationship between its deficiency and the prevalence of immune-mediated disorders, cancer, and cardiometabolic diseases. Coenzyme Q10 exerts an important protective antioxidant action. Clinical studies carried out showed that pathologies such as acute myocardial infarction, arterial hypertension, myopathies induced by statins, physical fatigue inherent to physical exercise, male infertility, pre-eclampsia, Parkinson's disease, periodontal diseases, and migraines had low plasma concentrations of Q10. In addition, Coenzyme Q10 reduces the amount of lipid peroxide found in atherosclerotic lesions. Thus, Q10 protects the lipids present in cell membranes, as well as plasma lipoproteins.
+
+Ubiquinol-10 Intake Is Effective in Relieving Mild Fatigue in Healthy Individuals
+
+Number of 
+
+Key takeaways:Ubiquinol intake effectively relieves mild fatigue in healthy individuals, improving relaxation, motivation, and parasympathetic activity.
+
+Abstract:Our double-blind, placebo-controlled study evaluated effects of ubiquinol, the reduced form of coenzyme Q10, on mild fatigue in healthy individuals experiencing fatigue in daily life that had continued for more than 1 and less than 6 months. The participants received 100-mg/day (Ubq100; age 44.0 ± 9.8 years; 14 females and 6 males) or 150-mg/day ubiquinol (Ubq150; age 40.4 ± 11.8 years; 14 females and 8 males) or placebo (Plc; age 41.3 ± 13.4 years; 13 females and 7 males) daily for 12 weeks. Measurements of subjective and objective fatigue were conducted by using questionnaires-based fatigue scales/visual analogue scales and autonomic nerve function/biological oxidation index, respectively, prior to the first dosing and every 4 weeks thereafter. Serum ubiquinol level increased three- to four-fold after 4 weeks and remained significantly higher than that after Plc administration throughout the intake period. Although a higher blood level of ubiquinol was observed with Ubq150 than with Ubq100, the difference was not statistically significant. In both Ubq100 and Ubq150 groups, subjective levels of fatigue sensation and sleepiness after cognitive tasks, which consisted of the modified Advanced Trail Making Test, the modified Stroop Color-Word Test, and the Digit Symbol Substitution Test, improved significantly compared with those in the placebo group, suggesting an anti-fatigue effect. The Ubq150 group demonstrated significant improvement compared with the Plc group regarding subjective level of relaxation after task, sleepiness before and after task, motivation for task, and serum level of oxidative stress. Correlation analysis between blood level of ubiquinol and each evaluated effect suggested a positive relationship with relaxation after task, motivation for cognitive task, and parasympathetic activity. The results of the study suggest that ubiquinol intake relieves mild fatigue in healthy individuals.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

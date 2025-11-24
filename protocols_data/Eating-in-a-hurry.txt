@@ -1,0 +1,398 @@
+PROTOCOL: Eating in a hurry
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Eating in a hurry - A habit that increases the risk of metabolic disorders and obesity | Longevity Protocols
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Fast eating, typical of the modern lifestyle, leads to impaired satiety and promotes overeating. Numerous studies indicate that eating in a hurry increases the risk of metabolic syndrome, abdominal obesity, hypertension, and disturbances in lipid and carbohydrate metabolism. Regularly practicing fast eating contributes to worsening health parameters and the development of lifestyle diseases.
+
+CONTENT SECTIONS:
+
+A habit that increases the risk of metabolic disorders and obesity
+
+Fast eating, typical of the modern lifestyle, leads to impaired satiety and promotes overeating. Numerous studies indicate that eating in a hurry increases the risk of metabolic syndrome, abdominal obesity, hypertension, and disturbances in lipid and carbohydrate metabolism. Regularly practicing fast eating contributes to worsening health parameters and the development of lifestyle diseases.
+
+Level of evidence:Good
+
+Fast eating makes it difficult to properly sense satiety, because signals from the digestive system reach the brain with a delay. This results in excessive calorie intake and hormonal disturbances related to hunger and satiety. The consequence is a gradual deterioration of metabolism, increased risk of insulin resistance, fatty liver, and the development of metabolic syndrome.
+
+Fast eating is a documented factor increasing the risk of developing metabolic syndrome, abdominal obesity, hypertension, and disturbances in carbohydrate and lipid metabolism. Regularly eating meals in a hurry leads to overeating, impaired satiety, and long-term deterioration of metabolic parameters.
+
+Fast eating is becoming increasingly common in industrialized countries, contributing to the growing scale of metabolic problems and obesity worldwide.
+
+Slow down your eating pace
+
+Spend at least 15–20 minutes on each meal, chew each bite thoroughly, and take short breaks between bites.
+
+Avoid eating in front of a computer, TV, or while working—eat mindfully, without haste and distractions.
+
+Set regular meal times
+
+Eat meals at regular times to accustom your body to a rhythm and reduce the urge to eat quickly due to excessive hunger.
+
+Pay attention to the feeling of fullness—stop eating when you feel about 80% full.
+
+Eat in a calm environment
+
+Create a pleasant atmosphere for eating—ensure peace and avoid stressful situations during meals.
+
+Eating in a hurry, that is, fast consumption of meals, has a clearly negative impact on metabolism. Fast eating increases the risk of metabolic syndrome, abdominal obesity, hypertension, and abnormal levels of cholesterol and blood sugar.
+
+Main health effects of fast eating
+
+Mechanisms and additional observations
+
+There are no direct studies on the impact of fast eating on body composition, but available data show that meal timing and regularity are important for body mass and composition.
+
+Impact of meal timing and regularity on body composition
+
+Summary of studies: meal timing and body composition
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:37
+
+Final comment:The association between fast eating and the risk of metabolic syndrome, abdominal obesity, hypertension, and metabolic disorders has been confirmed in numerous cohort and cross-sectional studies, as well as several meta-analyses. However, most of the available data comes from observational studies, and there are few randomized controlled trials directly examining the effects of slowing down eating pace and its long-term health consequences. Although the results are consistent and logical, the level of evidence is considered 'good' rather than 'strong.'
+
+Association Between Eating Speed and Metabolic Syndrome: A Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:Eating faster is significantly associated with metabolic syndrome and its components, suggesting interventions aimed at decreasing eating speed may be beneficial for managing MetS.
+
+Abstract:Objective: This review aimed to systematically summarize and meta-analyze the association between eating speed and metabolic syndrome (MetS). Methods: Following the Preferred Reporting Items for Systematic Reviews, and Meta Analyses (PRISMA) guidelines, four electronic databases (PubMed, Web of Science, MEDLINE, and EMBASE) were searched until March 2021 to identify eligible articles based on a series of inclusion and exclusion criteria. Heterogeneity was examined using I2 statistics. Using random-effects models, the pooled odds ratios (ORs), and 95% CIs were calculated to evaluate the association between eating speed with MetS and its components, including central obesity, blood pressure (BP), high-density lipoprotein cholesterol (HDL), triglyceride (TG), and fasting plasma glucose (FPG). Results: Of the 8,500 original hits generated by the systematic search, 29 eligible studies with moderate-to-high quality were included, involving 465,155 subjects. The meta-analysis revealed that eating faster was significantly associated with higher risks of MetS (OR = 1.54, 95% CI: 1.27–1.86), central obesity (OR = 1.54, 95% CI: 1.37–1.73), elevated BP (OR = 1.26, 95% CI: 1.13–1.40), low HDL (OR = 1.23, 95% CI: 1.15–1.31), elevated TG (OR = 1.29, 95% CI: 1.18–1.42), and elevated FPG (OR = 1.16, 95% CI: 1.06–1.27) compared to eating slowly. Conclusions: The results of the review indicated that eating speed was significantly associated with MetS and its components. Interventions related to decreasing eating speed may be beneficial for the management of MetS. Systematic Review Registration: identifier: CRD42021242213.
+
+Late isocaloric eating increases hunger, decreases energy expenditure, and modifies metabolic pathways in adults with overweight and obesity.
+
+Number of 
+
+Key takeaways:Late eating increases hunger, decreases energy expenditure, and modifies metabolic pathways, potentially increasing obesity risk in adults with overweight or obesity.
+
+Modeling mechanisms driving metabolic benefits of time‐restricted eating
+
+Number of 
+
+Key takeaways:Time-restricted eating promotes metabolic health by increasing glycerol release from adipose tissue, but further research is needed to understand the complex mechanisms regulating lipolysis.
+
+Abstract:Eating frequently over waking hours leads to constant levels of metabolic hormones and substrates that may drive systemic insulin resistance and metabolic dysfunction. In contrast, accumulating evidence suggests that consuming food at discrete times (i.e., meals) promotes metabolic flexibility and health. Time-restricted eating (TRE), early compared with late in the day, is hypothesized to promote the mobilization of fat, but the mechanisms involved remain poorly understood. In this issue of Obesity, Zambrano et al. use a cell culture model to address this timely and important topic. Eating initiates shifts in metabolism that promote the storage of dietary fat as triacylglycerol and suppress its mobilization (lipolysis). In the fasted state, lower levels of insulin combined with short-term increases in neural input that mobilize triglyceride stores lead to the release of nonesterified fatty acids and glycerol to provide fuel for peripheral tissues such as muscle while sparing glucose for the brain. Adipocytes integrate these and other hormonal signals to regulate the tissue metabolic, immune, and secretory functions and maintain metabolic flexibility . These ingestion-related factors are superimposed on the cell-autonomous circadian oscillations . Additionally, multiple cell types (including immune) within adipose tissues modulate the paracrine microenvironment. Therefore, the design of cell- and tissue-based experiments to model the complex vivo systems is exceedingly challenging. To model TRE, Zambrano et al. obtained abdominal subcutaneous adipose tissue from surgeries for severe obesity. They use several important quality control measures: limiting the timing of sample collection; using small adipose tissue fragments cultured ex vivo; and synchronizing cell-autonomous circadian rhythms with dexamethasone treatment for 1 h followed by a 1-h washout. To model TRE, they compared a control feeding schedule of 16 h of 'feeding' standard culture medium (10% fetal bovine serum in DMEM) during 'light' hours and 'fasting' during the next 8 h (modeling dark/sleeping). Fasting was modeled using media without any glucose and without FBS. The accumulation of glycerol into the medium was assessed every 4 h on day 2. Their main finding was that glycerol release was increased with time since the last in vitro 'meal,' as well illustrated in Figure S1. Several features of the model limit the strength of the authors' conclusions. The physiological relevance of 0 glucose and 0 FBS to model starvation and 10% FBS in tissue culture media with 25mM glucose to model eating was not discussed. In the group's prior studies, these extremes of glucose concentration were avoided . Additional components of cell culture media also impact the results and should be considered . The investigators did not consider modeling variations in key metabolic hormones (insulin, cortisol) or the acute response to catecholamine-stimulated lipolysis, which contribute to in vivo fat mobilization. Finally, it is also important to consider whether initial 'in vivo' levels of key metabolic enzymes and acute hormone responsiveness are maintained over 2 days in the control cultures. The simple measurement of basal glycerol release from adipose tissue fragments provides only limited insight into the complex mechanisms that regulate lipolysis. Assessment of other key steps in lipolysis, such as the protein levels of adipose tissue triglyceride lipase, hormone sensitive lipase, and the lipid droplet protein perilipin, and their phosphorylation should be considered in future studies. In conclusion, this report by Zambrano et al. highlights the potential role of lipolysis in mediating the effects of TRE on metabolic health, as well as the challenges and complexity of studying the nutritional regulation of metabolism in vitro. The author declared no conflict of interest.
+
+Prolonged, Controlled Daytime versus Delayed Eating Impacts Weight and Metabolism
+
+Number of 
+
+Key takeaways:An 8-week daytime eating schedule promotes weight loss and improves energy metabolism and insulin levels in adults with BMI 19-27 kg/m2 compared to a delayed eating schedule.
+
+Time-Restricted Eating and Metabolic Syndrome: Current Status and Future Perspectives
+
+Number of 
+
+Key takeaways:Time-restricted eating (TRE) shows promise in improving cardiometabolic health in individuals with metabolic syndrome, potentially reducing long-term cardiometabolic risk and improving overall health.
+
+Abstract:Metabolic syndrome (MetS) occurs in ~30% of adults and is associated with increased risk of cardiovascular disease and diabetes mellitus. MetS reflects the clustering of individual cardiometabolic risk factors including central obesity, elevated fasting plasma glucose, dyslipidemia, and elevated blood pressure. Erratic eating patterns such as eating over a prolonged period per day and irregular meal timing are common in patients with MetS. Misalignment between daily rhythms of food intake and circadian timing system can contribute to circadian rhythm disruption which results in abnormal metabolic regulation and adversely impacts cardiometabolic health. Novel approaches which aim at restoring robust circadian rhythms through modification of timing and duration of daily eating represent a promising strategy for patients with MetS. Restricting eating period during a day (time-restricted eating, TRE) can aid in mitigating circadian disruption and improving cardiometabolic outcomes. Previous pilot TRE study of patients with MetS showed the feasibility of TRE and improvements in body weight and fat, abdominal obesity, atherogenic lipids, and blood pressure, which were observed despite no overt attempt to change diet quantity and quality or physical activity. The present article aims at giving an overview of TRE human studies of individuals with MetS or its components, summarizing current clinical evidence for improving cardiometabolic health through TRE intervention in these populations, and presenting future perspectives for an implementation of TRE to treat and prevent MetS. Previous TRE trials laid the groundwork and indicate a need for further clinical research including large-scale controlled trials to determine TRE efficacy for reducing long-term cardiometabolic risk, providing tools for sustained lifestyle changes and, ultimately, improving overall health in individuals with MetS.
+
+Beneficial Effects of Time-Restricted Eating on Metabolic Diseases: A Systemic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:Time-restricted eating (TRE) effectively reduces body weight, fat mass, and improves cardiometabolic parameters in overweight or obese individuals.
+
+Abstract:Various behavioral and physiological pathways follow a pre-determined, 24 hour cycle known as the circadian rhythm. Metabolic homeostasis is regulated by the circadian rhythm. Time-restricted eating (TRE) is a type of intermittent fasting based on the circadian rhythm. In this study, we aim to analyze systemically the effects of TRE on body weight, body composition, and other metabolic parameters. We reviewed articles from PubMed, EMBASE, and the Cochrane Library to identify clinical trials that compared TRE to a regular diet. We included 19 studies for meta-analysis. Participants following TRE showed significantly reduced body weight (mean difference (MD), −0.90; 95% confidence interval (CI): −1.71 to −0.10) and fat mass (MD: −1.58, 95% CI: −2.64 to −0.51), while preserving fat-free mass (MD, −0.24; 95% CI: −1.15 to 0.67). TRE also showed beneficial effects on cardiometabolic parameters such as blood pressure (systolic BP, MD, −3.07; 95% CI: −5.76 to −0.37), fasting glucose concentration (MD, −2.96; 95% CI, −5.60 to −0.33), and cholesterol profiles (triglycerides, MD: −11.60, 95% CI: −23.30 to −0.27). In conclusion, TRE is a promising therapeutic strategy for controlling weight and improving metabolic dysfunctions in those who are overweight or obese. Further large-scale clinical trials are needed to confirm these findings and the usefulness of TRE.
+
+Intermittent Fasting and Metabolic Health
+
+Number of 
+
+Key takeaways:Intermittent fasting can lead to weight loss and improved metabolic health, making it a potential option for individuals experiencing unhealthy weight gain through standard eating patterns.
+
+Abstract:Given the ongoing strain that the obesity epidemic has placed on public health outcomes, new and effective approaches to weight control are needed. One approach to improving weight and metabolic outcomes is intermittent fasting, which consists of multiple different timing schedules for temporary food avoidance, including alternate-day fasting, other similar full-day fasting patterns, and time-restricted feeding (where the day’s food is consumed over a 6-h period, allowing for 18 h of fasting). These feeding schedules have favorable metabolic effects by intermittently inducing the metabolism of fatty acids to ketones. The regimens overall lead to a decrease in weight and have been linked to improvements in dyslipidemia and blood pressure. While more research is needed on longer-term outcomes and this approach should be avoided in particular health conditions, intermittent fasting should be considered as an option for individuals who have a pattern of unhealthy weight gain using standard eating patterns.
+
+Association of night eating habits with metabolic syndrome and its components: a longitudinal study
+
+Number of 
+
+Key takeaways:Both dinner before bed and snacks after dinner are associated with metabolic syndrome in women, but unrelated in men.
+
+Abstract:Night time eating is a risk factor for metabolic syndrome and obesity. The aim of this study was to investigate whether dinner immediately before bed, snacks after dinner, or combinations of both were associated with metabolic syndrome and its components in a large Japanese cohort. We enrolled 8153 adults aged 40–54 years who participated in specific medical checkups in an Okayama facility from 2009 to 2010 and from 2013 to 2014. Age-adjusted and multivariable-adjusted odds ratios of metabolic syndrome and its components in participants with both night eating habits for an average of 3.9 years were evaluated. The relative excess risk due to interaction (RERI) was utilized to determine the supra-additive interaction of both eating habits on metabolic syndrome and its components. The multivariable-adjusted odds ratio for obesity for those with both eating habits compared to those with neither habit was 2.11 (95% confidence interval , 1.42–3.15) for men and 3.02 (95%CI, 1.72–5.29) for women. Both habits had a supra-additive interaction effect on obesity development in women (RERI, 1.67; RERI%, 85.0; p = 0.058), although this result was not significant. In women, there was an association between eating habits at night and metabolic syndrome, but in men it was unrelated. Both night eating habits were associated with dyslipidemia in men and women. These findings suggest the need for intervention and awareness among individuals with night eating habits to mitigate further complications.
+
+Time-restricted eating improves glycemic control and dampens energy-consuming pathways in human adipose tissue.
+
+Number of 
+
+Key takeaways:Time-restricted eating improves glycemic control and reduces energy-consuming pathways in adipose tissue in men with obesity.
+
+Association between fast eating speed and metabolic dysfunction-associated steatotic liver disease: a multicenter cross-sectional study and meta-analysis
+
+Number of 
+
+Key takeaways:Frequent fast eating (2 times/week) is associated with an increased risk of metabolic dysfunction-associated steatotic liver disease.
+
+Metabolic Efficacy of Time-Restricted Eating in Adults: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+
+Number of 
+
+Key takeaways:Time-restricted eating (TRE) may effectively improve metabolic health in non-obese individuals, especially in overweight individuals.
+
+Abstract:OBJECTIVE
+Time-restricted eating (TRE), which restricts food intake to a limited duration of the day, is one of a key regimen of intermittent fasting (IF). The aim of our study was to provide an up-to-date meta-analysis and systematic review to evaluate the efficacy of TRE on weight loss and other metabolic-related parameters in adults.
+
+METHODS
+We searched PubMed, EMBASE and the Cochrane Library for relevant studies published before February 26, 2022. Study duration of TRE was at least 4 weeks. Body weight and other metabolic-related continuous parameters were described as weighted mean difference (WMD) with 95% confidence intervals (CIs).
+
+RESULTS
+Seventeen randomized controlled trials (RCTs) involving 899 participants were analyzed. The pooled meta-analysis showed that TRE contributed to a significant decrease in body weight with a WMD of -1.60 kg (95% CI -2.27 to -0.93) and fat mass with WMD -1.48 kg (95% CI -1.59 to -1.38). Subgroup analysis showed that TRE could reduce body weight and fat mass especially in overweight participants with WMD -1.43 kg (95% CI -2.05 to -0.81) and -1.56 Kg (95% CI -1.67 to -1.44), respectively. TRE also showed beneficial effects on the lipid spectrum in overweight participants, including decreased levels of triglyceride (TG) (WMD -12.71 mg/dl, 95% CI -24.9 to -0.52), total cholesterol (TC) (WMD -6.45 mg/dl, 95% CI -7.40 to -5.49) and LDL-C (WMD -7.0 mg/dl, 95% CI -9.74 to -4.25). However, compared to control, TRE had no significant effects on waist circumference (WC), body mass index (BMI), glycosylated haemoglobin (HbA1c) or blood pressure.
+
+CONCLUSION
+This updated meta-analysis found that TRE may be an effective approach to improve the metabolic state of non-obese subjects, especially in overweight participants.
+
+Metabolic Effects of Late Dinner in Healthy Volunteers - A Randomized Crossover Clinical Trial.
+
+Number of 
+
+Key takeaways:Late dinner consumption leads to nocturnal glucose intolerance and reduced fatty acid oxidation, potentially promoting obesity if repeated chronically.
+
+Abstract:CONTEXT
+Consuming calories later in the day is associated with obesity and metabolic syndrome. We hypothesized that eating a late dinner alters substrate metabolism during sleep in a manner that promotes obesity.
+
+OBJECTIVE
+To examine the impact of late dinner on nocturnal metabolism in healthy volunteers.
+
+DESIGN AND SETTING
+This is a randomized crossover trial of late dinner (LD, 22:00) versus routine dinner (RD, 18:00), with a fixed sleep period (23:00-07:00) in a laboratory setting.
+
+PARTICIPANTS
+20 healthy volunteers (10 males, 10 females), aged 26.0 ± 0.6 years, BMI 23.2 ± 0.7 kg/m2, accustomed to a bedtime between 22:00-01:00.
+
+INTERVENTIONS
+An isocaloric macronutrient diet was administered on both visits. Dinner (35% daily kcal, 50% carbohydrate, 35% fat) with an oral lipid tracer ( palmitate, 15 mg/kg) was given at 18:00 on RD and 22:00 on LD.
+
+MAIN OUTCOME MEASURES
+Nocturnal and next-morning hourly plasma glucose, insulin, triglycerides, free fatty acids (FFAs), cortisol, dietary fatty acid oxidation, and overnight polysomnography.
+
+RESULTS
+LD caused a 4-hour shift in the postprandial period, overlapping with the sleep phase. Independent of this shift, the postprandial period following LD was characterized by higher glucose, a triglyceride peak delay, and lower FFA and dietary fatty acid oxidation. LD did not affect sleep architecture, but increased plasma cortisol. These metabolic changes were most pronounced in habitual earlier sleepers determined by actigraphy monitoring.
+
+CONCLUSION
+LD induces nocturnal glucose intolerance, and reduces fatty acid oxidation and mobilization, particularly in earlier sleepers. These effects might promote obesity if they recur chronically.
+
+Metabolic impacts of altering meal frequency and timing - Does when we eat matter?
+
+Number of 
+
+Key takeaways:Increasing the fasting period between meals may beneficially impact body weight and metabolic health, but meal timing also needs consideration for optimal health benefits.
+
+Chronotype Differences in Body Composition, Dietary Intake and Eating Behavior Outcomes: A Scoping Systematic Review
+
+Number of 
+
+Key takeaways:Late evening chronotypes are more likely to be overweight/obese with poorer metabolic health, due to unhealthy eating behaviors and unfavorable dietary intakes.
+
+Abstract:ABSTRACT The timing and nutritional composition of food intake are important zeitgebers for the biological clocks in humans. Thus, eating at an inappropriate time (e.g., during the night) may have a desynchronizing effect on the biological clocks and, in the long term, may result in adverse health outcomes (e.g., weight gain, obesity, and poor metabolic function). Being a very late or early chronotype not only determines preferred sleep and wake times but may also influence subsequent mealtimes, which may affect the circadian timing system. In recent years, an increased number of studies have examined the relation between chronotype and health outcomes, with a main focus on absolute food intake and metabolic markers and, to a lesser extent, on dietary intake distribution and eating behavior. Therefore, this review aimed to systematically determine whether chronotype indirectly affects eating behaviors, dietary intake (timing, choice, nutrients), and biomarkers leading to body composition outcomes in healthy adults. A systematic literature search on electronic databases (PubMed, CINAHL, MEDLINE, SCOPUS, Cochrane library) was performed (International Prospective Register of Systematic Reviews number: CRD42020219754). Only studies that included healthy adults (aged >18 y), classified according to chronotype and body composition profiles, using outcomes of dietary intake, eating behavior, and/or biomarkers, were considered. Of 4404 articles, 24 met the inclusion criteria. The results revealed that late compared with early chronotypes were more likely to be overweight/obese with poorer metabolic health. Both MT and ET had similar energy and macronutrient intakes, consuming food during their preferred sleep–wake timing: later for ET than MT. Most of the energy and macronutrient intakes were distributed toward nighttime for ET and exacerbated by unhealthy eating behaviors and unfavorable dietary intakes. These findings from our systematic review give further insight why higher rates of overweight/obesity and unhealthier metabolic biomarkers are more likely to occur in ET.
+
+Timing of Breakfast, Lunch, and Dinner. Effects on Obesity and Metabolic Risk
+
+Number of 
+
+Key takeaways:Unusual eating times can disrupt the circadian system, potentially leading to unhealthy consequences like obesity and metabolic risk.
+
+Abstract:(1) Background: Eating is fundamental to survival. Animals choose when to eat depending on food availability. The timing of eating can synchronize different organs and tissues that are related to food digestion, absorption, or metabolism, such as the stomach, gut, liver, pancreas, or adipose tissue. Studies performed in experimental animal models suggest that food intake is a major external synchronizer of peripheral clocks. Therefore, the timing of eating may be decisive in fat accumulation and mobilization and affect the effectiveness of weight loss treatments. (2) Results: We will review multiple studies about the timing of the three main meals of the day, breakfast, lunch and dinner, and its potential impact on metabolism, glucose tolerance, and obesity-related factors. We will also delve into several mechanisms that may be implicated in the obesogenic effect of eating late. Conclusion: Unusual eating time can produce a disruption in the circadian system that might lead to unhealthy consequences.
+
+Time Restricted Eating: A Dietary Strategy to Prevent and Treat Metabolic Disturbances
+
+Number of 
+
+Key takeaways:Time-restricted eating (TRE) may help prevent and treat glucose and lipid metabolic disturbances, but more controlled studies are needed to confirm these effects and personalize interventions.
+
+Abstract:Time-restricted eating (TRE), a dietary approach limiting the daily eating window, has attracted increasing attention in media and research. The eating behavior in our modern society is often characterized by prolonged and erratic daily eating patterns, which might be associated with increased risk of obesity, diabetes, and cardiovascular diseases. In contrast, recent evidence suggests that TRE might support weight loss, improve cardiometabolic health, and overall wellbeing, but the data are controversial. The present work reviews how TRE affects glucose and lipid metabolism based on clinical trials published until June 2021. A range of trials demonstrated that TRE intervention lowered fasting and postprandial glucose levels in response to a standard meal or oral glucose tolerance test, as well as mean 24-h glucose and glycemic excursions assessed using continuous glucose monitoring. In addition, fasting insulin decreases and improvement of insulin sensitivity were demonstrated. These changes were often accompanied by the decrease of blood triglyceride and cholesterol levels. However, a number of studies found that TRE had either adverse or no effects on glycemic and lipid traits, which might be explained by the different study designs (i.e., fasting/eating duration, daytime of eating, changes of calorie intake, duration of intervention) and study subject cohorts (metabolic status, age, gender, chronotype, etc.). To summarize, TRE represents an attractive and easy-to-adapt dietary strategy for the prevention and therapy of glucose and lipid metabolic disturbances. However, carefully controlled future TRE studies are needed to confirm these effects to understand the underlying mechanisms and assess the applicability of personalized interventions.
+
+Meal Timing and Sleeping Energy Metabolism
+
+Number of 
+
+Key takeaways:Time-restricted eating for extended durations can decrease energy intake and body weight, with early time-restricted eating having greater effects than midday time-restricted eating.
+
+Abstract:There is a physiological link between sleep and eating. Insufficient sleep is a risk factor for overeating and excess body weight gain, and molecules such as orexin and insulin play a role in the control of sleep and energy intake. The effects of dietary timing on sleep and energy metabolism were examined in this review. First, we examined sleep energy metabolism and sleep quality under time-restricted eating, including skipping breakfast or dinner. Second, the mechanisms, benefits, and translational potential of the effects of time-restricted diets on sleep were discussed. Time-restricted eating under controlled conditions, in which daily caloric intake was kept constant, affected the time course of energy metabolism but did not affect total energy expenditure over 24 h. In free-living conditions, time-restricted eating for extended durations (4–16 weeks) decreased energy intake and body weight, and the effects of early time-restricted eating were greater than that of midday time-restricted eating. Although assessment of sleep by polysomnographic recording remains to be performed, no negative effects on the subjective quality of sleep have been observed.
+
+When to Eat: The Importance of Eating Patterns in Health and Disease
+
+Number of 
+
+Key takeaways:A consistent daily cycle of eating and fasting may nurture a healthy circadian clock and optimize metabolism, while eating or drinking when you're sleepy and dark can disrupt this system and compromise metabolism.
+
+Abstract:Circadian clocks are a biological timing system found in virtually every cell of the body that coordinate the timing of our daily behaviors (e.g., sleep/wake, feeding/fasting) and physiology (e.g., hormone release, heart function). These clocks also incorporate signals from the environment, such as light and food, to coordinate our internal biology with our surroundings. When your biological clocks are out of sync with the environment, health can be negatively affected. For example, we know that the body expects to use certain kinds of fuel (i.e., fat, sugar) at specific times of the day. Your body is best at digesting food/drinks when you are active and light is present. Thus, eating/drinking when your body expects you to sleep/ rest, and it is dark, can disrupt this system and compromise metabolism. In contrast, a consistent daily cycle of eating and fasting may nurture a healthy circadian clock and optimize metabolism. Indeed, in rodents, a regular daily schedule of eating and fasting keeps them healthy. The science of circadian biology is offering new clues on potential optimal meal-timing patterns.
+
+Chrononutrition in type 2 diabetes mellitus and obesity: A narrative review
+
+Number of 
+
+Key takeaways:Chrononutrition, based on the biological clock, can significantly impact metabolic health and well-being, with regular, regular meals and regular snacks being beneficial for overall health.
+
+Abstract:Chrononutrition is a nutritional regimen that follows our biological clock, marked by the changes in metabolism that occur during the day. This regimen includes the distribution of energy, the regularity and frequency of meals, and the importance of these factors for metabolic health. A growing body of animal and human evidence indicates that the timing of food intake throughout the day can have a significant and beneficial impact on the metabolic health and well‐being of individuals. In particular, both the timing and frequency of meals have been associated with obesity, type 2 diabetes mellitus (T2DM), cardiovascular disease, and other chronic conditions. Today's busy lifestyle makes many people skip breakfast and eat late at night. Eating late at night has been shown to cause a circadian misalignment, with the latter having a negative impact on weight control and glucose metabolism. Additionally, some studies have found a relatively strong association between skipping breakfast and insulin resistance, and T2DM. Against the backdrop of escalating obesity and T2DM rates, coupled with the recognized influence of food timing on disease evolution and control, this review aimed to synthesize insights from epidemiological and intervention studies of the interplay of timing of food intake and macronutrient consumption, reporting their impact on obesity and T2DM.
+
+Effects of time-restricted eating and low-carbohydrate diet on psychosocial health and appetite in individuals with metabolic syndrome: A secondary analysis of a randomized controlled trial.
+
+Number of 
+
+Key takeaways:Time-restricted eating and low-carbohydrate diet combined can improve quality of life, sleep, mood, appetite, and metabolic hormones in individuals with metabolic syndrome.
+
+Effect of Early Time-Restricted Eating on Metabolic Markers and Body Composition in Individuals with Overweight or Obesity
+
+Number of 
+
+Key takeaways:Early time-restricted eating (eTRE) did not show beneficial effects on glycemic and lipid metabolisms, body composition, subjective appetite, or blood pressure in individuals with overweight or obesity.
+
+Abstract:This study aimed to evaluate the effect of early time-restricted eating (eTRE) on metabolic markers and body composition in individuals with overweight or obesity. Seventeen subjects completed a randomized, crossover, and controlled clinical trial. Twelve women and five men participated, with a mean age of 25.8 ± 10.0 years and a BMI of 32.0 ± 6.3 kg/m2. The eTRE intervention included 16 h of fasting (3:00 pm to 7:00 am) and 8 h of ad libitum eating (7:00 am to 03:00 pm) (16:8). The trial included four weeks of interventions followed by a four-week washout period. Body weight, waist and hip circumferences, and body composition measurements were taken. Additionally, a venous blood sample was collected for biochemical determinations. In a before–after analysis, eTRE induced a reduction in BW and BMI in women but this was not significant when compared to the control group. eTRE did not modify any other anthropometric measurements, fasting biochemical parameters, glycemic and insulinemic responses, blood pressure, or subjective appetite. In conclusion, eTRE did not induce beneficial effects on the glycemic and lipid metabolisms, body composition, subjective appetite, or blood pressure. These findings may be attributed to the special characteristics of the population and the short intervention period.
+
+Effect of Time-Restricted Eating on Sleep Quality and Body Composition: A Systematic Review.
+
+Number of 
+
+Key takeaways:Time-restricted eating effectively reduces weight and fat mass, but most studies found no significant effect on sleep parameters.
+
+Abstract:CONTEXT
+Time-restricted eating (TRE) is a dietary approach that consolidates energy intake in a restricted period during the day. It is an alternative approach to weight loss and might be important to sleep quality.
+
+OBJECTIVE
+To review the current literature related to the effects of TRE on sleep quality and body composition in adults.
+
+DATA SOURCES
+A literature search of the PubMed, Scopus, Web of Science (Clarivate), and Biblioteca Virtual em Saúde/Bireme databases was carried out until May 2024.
+
+DATA EXTRACTION
+Reviewed articles included clinical, interventional (controlled or uncontrolled) studies including individuals older than 18 years, with no gender restriction. The interventions had to control feeding time, body composition could be assessed by any validated method, and sleep could be assessed by polysomnography, actigraphy, and validated sleep assessment questionnaires.
+
+DATA ANALYSIS
+Eleven studies were included in this systematic review. Study samples varied between 19 and 137 participants, with a predominance of female participants in 10 studies. Seven of the studies (58.3%) tested an intervention of 8 hours of TRE, with an intervention range of between 4 weeks and 12 months. All studies observed weight loss. Nine studies showed reductions in fat mass, including 2 studies that observed reductions in visceral fat mass. No studies, independently of weight loss or body composition changes, objectively observed changes in sleep duration after TRE interventions. However, in the subjective evaluation, 1 study found a reduction in sleep duration of 30 ± 13 minutes, an increase in latency of 7 ± 3 minutes, and a reduction in sleep efficiency of 2% ± 1% in the group treated with TRE compared with the control group.
+
+CONCLUSION
+Time-restricted eating seems to be effective in weight loss and fat mass reduction, but most studies found no effect on sleep parameters. There was a lack of standardized methods for sleep measurements in the reviewed studies. However, these results could provide valuable data for the design and formulation of new well-founded studies assessing sleep using objective methods and including different sleep parameters.
+
+SYSTEMATIC REVIEW REGISTRATION
+PROSPERO registration No. CRD42024524598.
+
+Effects of time-restricted eating on aerobic capacity, body composition and markers of metabolic health in healthy-male recreational runners: a randomized crossover trial.
+
+Number of 
+
+Key takeaways:Time-restricted eating combined with endurance running did not significantly improve body composition or metabolic health in healthy 18- to 30-year-old male recreational runners.
+
+Time‐Restricted Eating Effects on Body Composition and Metabolic Measures in Humans who are Overweight: A Feasibility Study
+
+Number of 
+
+Key takeaways:Time-restricted eating may facilitate weight loss, alter body composition, and improve metabolic measures in overweight individuals.
+
+Abstract:In contrast to intentionally restricting energy intake, restricting the eating window may be an option for treating obesity. By comparing time‐restricted eating (TRE) with an unrestricted (non‐TRE) control, it was hypothesized that TRE facilitates weight loss, alters body composition, and improves metabolic measures.
+
+Effects of time-restricted eating with exercise on body composition in adults: a systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Time-restricted eating with exercise may reduce fat mass compared to unrestricted eating while preserving fat-free mass in adults.
+
+The Effect of Time-Restricted Eating Combined with Exercise on Body Composition and Metabolic Health: A Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:Combining time-restricted eating with exercise may be more effective in reducing body weight and fat mass and improving metabolic health than a control diet with exercise.
+
+Later circadian timing of food intake is associated with increased body fat.
+
+Number of 
+
+Key takeaways:Eating later in the circadian evening or night, rather than clock hour, is associated with increased body fat, independent of traditional risk factors like food intake and activity level.
+
+Abstract:Background: Weight gain and obesity have reached alarming levels. Eating at a later clock hour is a newly described risk factor for adverse metabolic health; yet, how eating at a later circadian time influences body composition is unknown. Using clock hour to document eating times may be misleading owing to individual differences in circadian timing relative to clock hour.Objective: This study examined the relations between the timing of food consumption relative to clock hour and endogenous circadian time, content of food intake, and body composition.Design: We enrolled 110 participants, aged 18-22 y, in a 30-d cross-sectional study to document sleep and circadian behaviors within their regular daily routines. We used a time-stamped-picture mobile phone application to record all food intake across 7 consecutive days during a participant's regular daily routines and assessed their body composition and timing of melatonin release during an in-laboratory assessment.Results: Nonlean individuals (high body fat) consumed most of their calories 1.1 h closer to melatonin onset, which heralds the beginning of the biological night, than did lean individuals (low body fat) (log-rank P = 0.009). In contrast, there were no differences between lean and nonlean individuals in the clock hour of food consumption (P = 0.72). Multiple regression analysis showed that the timing of food intake relative to melatonin onset was significantly associated with the percentage of body fat and body mass index (both P < 0.05) while controlling for sex, whereas no relations were found between the clock hour of food intake, caloric amount, meal macronutrient composition, activity or exercise level, or sleep duration and either of these body composition measures (all P > 0.72).Conclusions: These results provide evidence that the consumption of food during the circadian evening and/or night, independent of more traditional risk factors such as amount or content of food intake and activity level, plays an important role in body composition. This trial was registered at clinicaltrials.gov as NCT02846077.
+
+Associations between temporal eating patterns and body composition in young adults: a cross-sectional study.
+
+Number of 
+
+Key takeaways:Early and regular eating patterns may improve body composition in young adults.
+
+Abstract:PurposeThe aim of this study was to examine the associations between body composition and temporal eating patterns, including time of first eating occasion, time of last eating occasion, eating window, and eating jet lag (the variability in meal timing between weekdays and weekends).MethodsA total of 131 participants were included in the study. Temporal eating pattern information was collected through consecutive 7-day eat timing questionnaires and photographic food records. Body composition was assessed by bioelectrical impedance analysis. Multiple linear regression models were used to evaluate the relationships of temporal eating patterns with body composition, and age was adjusted. Eating midpoint was additionally adjusted in the analysis of eating window.ResultsOn weekdays, both later first eating occasion and last eating occasion were associated with lower lean mass, and longer eating window was associated with lower body fat percentage. On weekends, both later first eating occasion and last eating occasion were associated with lower lean mass, and longer eating window was associated with higher FFMI. Longer first eating occasion jet lag was associated with lower lean mass.ConclusionOur study suggested that earlier and more regular eating patterns may have a benefit on body composition.
+
+Gender differences in body composition, dietary patterns, and physical activity: insights from a cross-sectional study
+
+Number of 
+
+Key takeaways:Gender-specific differences in body composition, dietary habits, and lifestyle factors significantly impact health-related behaviors, requiring tailored interventions to promote healthier lifestyles.
+
+Abstract:Introduction This study investigates the interplay between body composition, dietary patterns, and physical activity across genders, focusing on gender-specific differences in food preferences and eating behaviors. Understanding these interactions is crucial for developing targeted nutritional and lifestyle interventions. Methods A cross-sectional study was conducted with 1,333 participants (58.7% female, 41.3% male), aged 18–65 years. Participants were categorized into tertiles based on their fat mass to fat-free mass (FM-to-FFM) ratio. Data on dietary choices, eating behaviors, and physical activity were collected and analyzed to identify gender-specific trends. Results Significant gender-specific differences were observed in food preferences and eating behaviors. Males experienced greater hunger in the late afternoon, while females felt more hunger in the morning. Males showed a preference for processed and red meats, whereas females preferred cooked vegetables. Eating behaviors such as meal skipping, uncontrolled eating, nocturnal eating, and taste preferences (sweet or salty) varied distinctly between FM-to-FFM tertiles and genders. Higher FM-to-FFM ratios correlated with lower physical activity levels, particularly in strength training and general sports engagement. Discussion These findings highlight the complex interactions between body composition, dietary habits, and lifestyle factors, emphasizing gender-specific differences. The results suggest that body composition and BMI significantly impact health-related behaviors, necessitating tailored interventions to address these differences and promote healthier lifestyles.
+
+Effect of Time-Restricted Eating and Resistance Training on High-Speed Strength and Body Composition
+
+Number of 
+
+Key takeaways:Time-restricted eating and resistance training combined may improve upper body high-speed strength, but not lower body performance, in already trained young males.
+
+Abstract:This study examined the effects of four weeks of resistance training combined with time-restricted eating (TRE) vs. habitual diet on fat and fat-free mass as well as maximum and explosive force production in healthy, trained participants (18 males, aged 23.7 ± 2.6 years). The order of dieting was randomized and counterbalanced, and the participants served as their own controls. TRE involved an 8-h eating window and non-TRE involved a habitual meal pattern. Participants completed performance strength tests and body composition scans at baseline and post-intervention. The participants followed a structured training routine during each dietary intervention (four sets of maximum repetitions at 85% 1RM in five dynamic exercises, three times/week). Both interventions elicited deceases in fat mass (p < 0.05) but not in fat-free mass. After training (controlling for baseline values as covariates), non-TRE was compatible with better lower body jump performance than TRE (p < 0.05). Conversely, training with TRE elicited higher values in terms of peak force and dynamic strength index at the level of the upper body (p < 0.05). Thus, it can be concluded that there were no differences in fat mass and fat-free mass changes between interventions in already trained young males. Additionally, while the combination of TRE and resistance training might be beneficial for individuals focusing on developing high-speed strength performance at the upper body level, this is not applicable to those focusing on training the lower body.
+
+Effect of time-restricted feeding on body composition and cardio-metabolic risk in middle-aged women in Taiwan.
+
+Number of 
+
+Key takeaways:Time-restricted feeding (TRF) is more effective for weight loss and reducing diastolic blood pressure in middle-aged women, but may increase fasting glucose levels and insulin resistance.
+
+Impact of daily fasting duration on body composition and cardiometabolic risk factors during a time-restricted eating protocol: a randomized controlled trial
+
+Number of 
+
+Key takeaways:A 16-hour fasting window, even without caloric restriction, may improve body composition in healthy and non-trained individuals, while shorter fasting periods may not produce significant changes.
+
+Abstract:Abstract Background Time-restricted eating (TRE) is a dietary regimen that limits food intake for at least 12 h daily. Unlike other fasting protocols, TRE does not dictate what or how much to eat but rather focuses on the timing of meals. This approach has been previously demonstrated to improve body composition in individuals with obesity or metabolic impairments. However, its impact on body composition and cardiometabolic factors in healthy individuals remains unclear. Furthermore, the optimal fasting duration is still debated. Thus, we aimed to compare the effects of 8 weeks of different fasting durations on body composition and biochemical parameters in metabolically healthy, non-trained individuals using a parallel randomized controlled trial. Methods Forty-one volunteers were randomly assigned to one of the four experimental groups: TRE 16:8 (16 h of fasting,8 h of eating), TRE 14:10 (14 h of fasting,10 h of eating), TRE 12:12 (12 h of fasting,12 h of eating) or a normal diet group (ND; no dietary restriction). Participants underwent body composition measurements and blood tests for lipid profiles (i.e., total cholesterol, LDL, HDL, and triglycerides), fasting glucose, leptin, and anabolic hormones (i.e., insulin and testosterone) levels. Data were analyzed using both intention-to-treat (ITT) and per-protocol (PP) analysis to account for compliance. A two-way ANOVA for repeated measures was employed to assess interactions between time and group. Results In the ITT analysis, TRE 16:8 reduced body mass (-2.46%, p = 0.003) and absolute fat mass (-8.65%, p = 0.001) with no changes in lean soft tissue and in calorie intake. These results were consistent with the PP analysis which included 8 participants in TRE 16:8, 5 in TRE 14:10, 9 in TRE 12:12, and the entire ND group. Participants in the TRE 16:8 group spontaneously reduced their total caloric intake, although this reduction was not statistically significant. None of the other measurements significantly changed after 8 weeks. Conclusions Our results suggest that a 16-hour fasting window, even without caloric restriction, may be a viable strategy for improving body composition in healthy and non-trained individuals, whereas a shorter fasting period may be insufficient to produce significant changes in a healthy population. Trial registration NCT, NCT04503005. Registered 4 August 2020, .
+
+A cross-sectional study of breakfast skipping and body composition among young adults.
+
+Number of 
+
+Key takeaways:Skipping breakfast increases body fat percentage and fat mass index in young adults, with higher odds of obesity and abdominal obesity in those skipping breakfast 4 to 7 days per week.
+
+Abstract:Background
+Although breakfast provides essential nutrients and energy, skipping this meal has become increasingly common among young adults in Korea. In this study, we examine the relationship between breakfast consumption and body composition.
+
+Methods
+We analyzed data from 17,763 students aged 18-39 at Seoul National University (2018-2022). Participants were categorized based on their breakfast frequency: non-skippers, 1 to 3-day skippers, and 4 to 7-day skippers. Measurements included body mass index, waist circumference, body fat percentage, fat mass index (FMI), fat-free mass index (FFMI), and skeletal muscle mass index (SMI). Multivariable logistic and linear regression models adjusted for age, sex, alcohol use, smoking, physical activity, sleep, and food consumption frequencies were used.
+
+Results
+Obesity (17.4% vs. 14.8%) and abdominal obesity (10.0% vs. 7.8%) were higher in those skipping breakfast 4 to 7 d/wk compared with non-skippers. Skipping breakfast was not significantly associated with abdominal obesity in either sex. In women, the odds of obesity were higher (odds ratio, 1.57; 95% confidence interval, 1.14-2.15; P=0.006), whereas no significant difference was observed in men. Men who skipped breakfast had increased body fat percentage (coefficient, 0.87; P<0.001) and FMI (coefficient, 0.18; P=0.009) and decreased FFMI and SMI. Women showed increased body fat percentage (coefficient, 0.92; P<0.001) and FMI but no significant differences in FFMI or SMI.
+
+Conclusion
+Skipping breakfast adversely affects body composition by increasing body fat percentage and FMI. Further research is needed to confirm these findings and explore the underlying mechanisms.
+
+Synergistic Effects of Time-Restricted Feeding and Resistance Training on Body Composition and Metabolic Health: A Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:Time-restricted feeding combined with resistance training significantly improves body composition, insulin, and cholesterol levels without affecting muscle mass or strength.
+
+Abstract:Background: This systematic review and meta-analysis examined the synergistic impact of time-restricted feeding (TRF) combined with resistance training (RT) (TRF + RT) on body composition and metabolic health in adults, contrasting it with habitual eating patterns (CON) and RT (CON + RT). Methods: Adhering to PRISMA guidelines, five databases were searched up to 28 April 2024. Randomized controlled trials or crossover trials assessing the effects of TRF + RT for at least 4 weeks in adults were selected. Data were pooled as standardized mean differences (SMDs) or weighted mean differences (WMDs) with 95% confidence intervals (CIs). The risk of bias was evaluated using the revised Cochrane risk-of-bias tool. Results: Seven studies with 164 participants were included in the final analysis. TRF + RT significantly reduced body mass (WMD −2.90, 95% CI: −5.30 to −0.51), fat mass (WMD −1.52, 95% CI: −2.30 to −0.75), insulin (SMD −0.72, 95% CI: −1.24 to −0.21), total cholesterol (WMD −9.44, 95% CI: −13.62 to −5.27), low-density lipoprotein cholesterol (LDL-C) (WMD −9.94, 95% CI: −13.47 to −6.41), and energy intake (WMD −174.88, 95% CI: −283.79 to −65.97) compared to CON + RT. No significant changes were observed in muscle mass, strength, or other metabolic markers. Conclusions: TRF + RT, in contrast to CON + RT, significantly improved body composition, insulin, and cholesterol levels without affecting muscle mass or strength.
+
+Time-Restricted Eating in Breast Cancer Survivors: Effects on Body Composition and Nutritional Status
+
+Number of 
+
+Key takeaways:Time-restricted eating (TRE) in breast cancer survivors can decrease fat mass and improve nutritional status, particularly in those with obesity.
+
+Abstract:Abstract In this secondary analysis of an 8-wk single-arm feasibility study of weekday time-restricted eating (TRE), we explored the effects of TRE on body composition. Women (n = 22; ≥60 yr) who had completed chemotherapy for early-stage breast cancer and had a body mass index ≥25 kg/m2 were enrolled. Bioelectrical impedance analysis was performed before and after 8 wk of TRE, and nutritional status was evaluated by bioelectrical impedance vector analysis (BIVA). Body weight (p = 0.01) and total fat mass (p = 0.04) decreased with TRE. Phase angle was low (defined as ≤5.6°) in 86% of participants at baseline and did not change. Four participants who initially presented with obesity (>95% ellipse, BIVA) had favorable body composition modifications after TRE. Our study highlighted a less favorable body composition profile, poorer cell integrity and overhydration in these patients. BIVA was a useful method to assess body composition and hydration. A short TRE intervention was associated with decreased estimated fat mass and a favorable change in nutritional status in those with obesity.
+
+Consequence of Omitting or Adding a Meal in Man on Body Composition, Food Intake, and Metabolism
+
+Number of 
+
+Key takeaways:Omitting a meal in young lean males leads to increased fat mass, late-evening leptin concentration, and respiratory quotient, potentially due to changes in macronutrient composition.
+
+International society of sports nutrition position stand: diets and body composition
+
+Number of 
+
+Key takeaways:Dietary protein intake above current recommendations may improve body composition, with intermittent caloric restriction showing no significant advantage over daily caloric restriction for weight management.
+
+Abstract:Position Statement: The International Society of Sports Nutrition (ISSN) bases the following position stand on a critical analysis of the literature regarding the effects of diet types (macronutrient composition; eating styles) and their influence on body composition. The ISSN has concluded the following. 1) There is a multitude of diet types and eating styles, whereby numerous subtypes fall under each major dietary archetype. 2) All body composition assessment methods have strengths and limitations. 3) Diets primarily focused on fat loss are driven by a sustained caloric deficit. The higher the baseline body fat level, the more aggressively the caloric deficit may be imposed. Slower rates of weight loss can better preserve lean mass (LM) in leaner subjects. 4) Diets focused primarily on accruing LM are driven by a sustained caloric surplus to facilitate anabolic processes and support increasing resistance-training demands. The composition and magnitude of the surplus, as well as training status of the subjects can influence the nature of the gains. 5) A wide range of dietary approaches (low-fat to low-carbohydrate/ketogenic, and all points between) can be similarly effective for improving body composition. 6) Increasing dietary protein to levels significantly beyond current recommendations for athletic populations may result in improved body composition. Higher protein intakes (2.3–3.1 g/kg FFM) may be required to maximize muscle retention in lean, resistance-trained subjects under hypocaloric conditions. Emerging research on very high protein intakes (>3 g/kg) has demonstrated that the known thermic, satiating, and LM-preserving effects of dietary protein might be amplified in resistance-training subjects. 7) The collective body of intermittent caloric restriction research demonstrates no significant advantage over daily caloric restriction for improving body composition. 8) The long-term success of a diet depends upon compliance and suppression or circumvention of mitigating factors such as adaptive thermogenesis. 9) There is a paucity of research on women and older populations, as well as a wide range of untapped permutations of feeding frequency and macronutrient distribution at various energetic balances combined with training. Behavioral and lifestyle modification strategies are still poorly researched areas of weight management.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

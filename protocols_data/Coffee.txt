@@ -1,0 +1,624 @@
+PROTOCOL: Coffee
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: 
+DESCRIPTION: Coffee is a popular beverage containing caffeine, chlorogenic acids, and polyphenols, which support alertness, memory, and executive functions, as well as protect hepatocytes and blood vessels. Moderate consumption (2–5 cups per day) is associated with reduced risk of neurodegenerative diseases, cirrhosis, and liver cancer, as well as a decreased risk of cardiovascular diseases and stroke. Additionally, it exhibits antioxidant and anti-inflammatory effects, supporting the body's overall homeostasis.
+
+CONTENT SECTIONS:
+
+Comprehensive support for the brain, liver, and cardiovascular system
+
+Coffee is a popular beverage containing caffeine, chlorogenic acids, and polyphenols, which support alertness, memory, and executive functions, as well as protect hepatocytes and blood vessels. Moderate consumption (2–5 cups per day) is associated with reduced risk of neurodegenerative diseases, cirrhosis, and liver cancer, as well as a decreased risk of cardiovascular diseases and stroke. Additionally, it exhibits antioxidant and anti-inflammatory effects, supporting the body's overall homeostasis.
+
+Level of evidence:Strong
+
+Caffeine antagonizes adenosine receptors, which increases the release of neurotransmitters (dopamine, noradrenaline) and improves alertness and cognitive function. Polyphenols and chlorogenic acids neutralize free radicals, inhibit inflammatory processes and fibrosis in the liver. Coffee components enhance endothelial function, modulate lipid metabolism, and influence the brain–liver axis, resulting in vascular protection and blood pressure regulation.
+
+Coffee is well tolerated by most people but may cause mild side effects at higher doses.
+
+Coffee is not recommended or requires caution in people with certain conditions or in specific states.
+
+Drip coffee, espresso, instant coffee, cold brew
+
+Initial effects after 15–30 minutes, peak 30–90 minutes, effects last 3–5 hours
+
+Morning or early afternoon; avoid after 4:00 PM to prevent sleep disturbances
+
+Choose filtered coffee
+
+Filtered coffee removes diterpenes (cafestol, kahweol), minimizing effects on cholesterol levels
+
+Drinking coffee during or after meals reduces the risk of heartburn and alleviates mild stomach discomfort
+
+Monitor individual tolerance
+
+Observe your body's response to different doses and types of coffee, adjusting consumption to your needs
+
+Avoid high-sugar additives
+
+Limit full-fat milk and sweet syrups to maintain metabolic benefits
+
+Drink water between cups of coffee to counteract caffeine's diuretic effect
+
+Coffee has proven positive effects on the brain, particularly in improving cognitive functions, alertness, and potential protection against neurodegenerative diseases. The greatest benefits are seen with moderate consumption (about 2–3 cups per day).
+
+Impact on cognitive function and mood
+
+Protection against neurodegenerative diseases
+
+Safety and limitations
+
+Summary of selected effects of coffee on the brain
+
+Coffee is one of the most widely consumed beverages worldwide, and numerous studies indicate that regular coffee drinking has beneficial effects on liver health.
+
+Effects of coffee on liver diseases
+
+Protective mechanisms
+
+Limitations and exceptions
+
+Summary of key effects of coffee on the liver
+
+Cardiovascular system
+
+Coffee is one of the most commonly consumed beverages worldwide, and numerous studies show that moderate, regular coffee consumption (usually 2–5 cups per day) is associated with beneficial or neutral effects on the cardiovascular system.
+
+Benefits for the cardiovascular system
+
+Potential risks and limitations
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:59
+
+Final comment:An analysis of 59 studies, including numerous meta-analyses, randomized controlled trials, and large cohort studies, provides consistent and reliable evidence of the beneficial effects of moderate coffee consumption (2–5 cups per day) on cognitive function, liver protection, and reduced risk of cardiovascular diseases. The results are repeatable across various populations and settings, justifying the classification of the evidence as strong.
+
+Impact of Coffee and Cacao Purine Metabolites on Neuroplasticity and Neurodegenerative Disease
+
+Number of 
+
+Key takeaways:Regular consumption of coffee, tea, and dark chocolate (cacao) can promote brain health and reduce the risk of age-related neurodegenerative disorders.
+
+Abstract:Increasing evidence suggests that regular consumption of coffee, tea and dark chocolate (cacao) can promote brain health and may reduce the risk of age-related neurodegenerative disorders. However, the complex array of phytochemicals in coffee and cacao beans and tea leaves has hindered a clear understanding of the component(s) that affect neuronal plasticity and resilience. One class of phytochemicals present in relatively high amounts in coffee, tea and cacao are methylxanthines. Among such methylxanthines, caffeine has been the most widely studied and has clear effects on neuronal network activity, promotes sustained cognitive performance and can protect neurons against dysfunction and death in animal models of stroke, Alzheimer’s disease and Parkinson’s disease. Caffeine’s mechanism of action relies on antagonism of various subclasses of adenosine receptors. Downstream xanthine metabolites, such as theobromine and theophylline, may also contribute to the beneficial effects of coffee, tea and cacao on brain health.
+
+Drinking coffee enhances neurocognitive function by reorganizing brain functional connectivity
+
+Number of 
+
+Key takeaways:Drinking coffee improves cognitive function by reorganizing brain functional connectivity towards more efficient network properties.
+
+The Acute Effects of Caffeinated Black Coffee on Cognition and Mood in Healthy Young and Older Adults
+
+Number of 
+
+Key takeaways:Regular coffee improves cognition and mood in healthy adults, with potential effects beyond caffeine, suggesting the need for further research into its psychoactive effects.
+
+Abstract:Cognitive and mood benefits of coffee are often attributed to caffeine. However, emerging evidence indicates behavioural effects of non-caffeine components within coffee, suggesting the potential for direct or synergistic effects of these compounds when consumed with caffeine in regular brewed coffee. The current randomised, placebo-controlled, double-blind, counterbalanced-crossover study compared the effects of regular coffee, decaffeinated coffee, and placebo on measures of cognition and mood. Age and sex effects were explored by comparing responses of older (61–80 years, N = 30) and young (20–34 years, N = 29) males and females. Computerised measures of episodic memory, working memory, attention, and subjective state were completed at baseline and 30 min post-drink. Regular coffee produced the expected effects of decreased reaction time and increased alertness when compared to placebo. When compared to decaffeinated coffee, increased digit vigilance accuracy and decreased tiredness and headache ratings were observed. Decaffeinated coffee also increased alertness when compared to placebo. Higher jittery ratings following regular coffee in young females and older males represented the only interaction of sex and age with treatment. These findings suggest behavioural activity of coffee beyond its caffeine content, raising issues with the use of decaffeinated coffee as a placebo and highlighting the need for further research into its psychoactive effects.
+
+Impact of coffee-derived chlorogenic acid on cognition: a systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:Coffee-derived chlorogenic acid may provide cognitive benefits when consumed chronically, but a meta-analysis of randomized controlled trials showed no significant benefits.
+
+Abstract:Coffee drinking has been associated with benefits for various health outcomes, with many attributed to the most prevalent family of polyphenols within coffee, chlorogenic acids (CGA). Whilst reviews of the association between coffee and cognition exist, evidence exploring effects of coffee-specific CGA on cognition has yet to be systematically synthesised. The purpose was to systematically review the current literature investigating the relationship between CGA from coffee and cognitive performance. A further objective was to undertake a meta-analysis of relevant randomised controlled trials (RCT). Observational and intervention studies were included if they considered coffee-based CGA consumption in human participants and applied a standardised measure of cognition. Furthermore, intervention studies were required to define the CGA content and include a control group/placebo. Studies were excluded if they examined CGA alone as an extract or supplement. A search of Scopus, PubMed, Web of Science, ScienceDirect and PsycINFO resulted in including twenty-three papers, six of which were interventions. The evidence from the broader systematic review suggests that CGA from coffee may need to be consumed chronically over a sustained period to produce cognitive benefits. However, the meta-analysis of RCT showed no benefits of coffee CGA intake on cognitive function (d = 0.00, 95% CI -0.05, 0.05). Overall, this review included a limited number of studies, the sample sizes were small, and a wide range of cognitive measures have been utilised. This indicates that further, good-quality interventions and RCT are required to systematically explore the conditions under which coffee CGA may provide benefits for cognitive outcomes.
+
+Chronic coffee and caffeine ingestion effects on the cognitive function and antioxidant system of rat brains
+
+Number of 
+
+Key takeaways:Chronic coffee and caffeine ingestion improves long-term memory and modulates the brain's antioxidant system, potentially preventing age-related cognitive decline.
+
+Coffee intake and decreased amyloid pathology in human brain
+
+Number of 
+
+Key takeaways:Higher lifetime coffee intake may contribute to lowering the risk of Alzheimer's disease or related cognitive decline by reducing pathological cerebral amyloid deposition.
+
+Effects of coffee/caffeine on brain health and disease: What should I tell my patients?
+
+Number of 
+
+Key takeaways:Daily coffee and caffeine intake is not harmful and can improve brain health, alertness, concentration, and mood, with potential benefits for preventing cognitive decline and reducing the risk of stroke, Parkinson's, and Alzheimer's diseases.
+
+Abstract:Over the last decade, Food Regulation Authorities have concluded that coffee/caffeine consumption is not harmful if consumed at levels of 200 mg in one sitting (around 2½ cups of coffee) or 400 mg daily (around 5 cups of coffee). In addition, caffeine has many positive actions on the brain. It can increase alertness and well-being, help concentration, improve mood and limit depression. Caffeine may disturb sleep, but only in sensitive individuals. It may raise anxiety in a small subset of particularly sensitive people. Caffeine does not seem to lead to dependence, although a minority of people experience withdrawal symptoms. Caffeine can potentiate the effect of regular analgesic drugs in headache and migraine. Lifelong coffee/caffeine consumption has been associated with prevention of cognitive decline, and reduced risk of developing stroke, Parkinson's disease and Alzheimer's disease. Its consumption does not seem to influence seizure occurrence. Thus, daily coffee and caffeine intake can be part of a healthy balanced diet; its consumption does not need to be stopped in elderly people.
+
+Neurodegenerative Diseases: Can Caffeine Be a Powerful Ally to Weaken Neuroinflammation?
+
+Number of 
+
+Key takeaways:Regular coffee consumption may help reduce the risk of neurodegenerative diseases by reducing neuroinflammation.
+
+Abstract:In recent years, there has been considerable research showing that coffee consumption seems to be beneficial to human health, as it contains a mixture of different bioactive compounds such as chlorogenic acids, caffeic acid, alkaloids, diterpenes and polyphenols. Neurodegenerative diseases (NDs) are debilitating, and non-curable diseases associated with impaired central, peripheral and muscle nervous systems. Several studies demonstrate that neuroinflammation mediated by glial cells—such as microglia and astrocytes—is a critical factor contributing to neurodegeneration that causes the dysfunction of brain homeostasis, resulting in a progressive loss of structure, function, and number of neuronal cells. This happens over time and leads to brain damage and physical impairment. The most known chronic NDs are represented by Alzheimer’s disease (AD), Parkinson’s disease (PD), multiple sclerosis (MS), amyotrophic lateral sclerosis (ALS) and Huntington’s disease (HD). According to epidemiological studies, regular coffee consumption is associated with a lower risk of neurodegenerative diseases. In this review, we summarize the latest research about the potential effects of caffeine in neurodegenerative disorders prevention and discuss the role of controlled caffeine delivery systems in maintaining high plasma caffeine concentrations for an extended time.
+
+Impact of caffeine and coffee on our health
+
+Number of 
+
+Key takeaways:Coffee consumption may have beneficial effects on health, with stimulatory effects on the central nervous system and positive effects on long-term memory.
+
+Coffee, tea, and caffeine consumption and prevention of late-life cognitive decline and dementia: A systematic review
+
+Number of 
+
+Key takeaways:Coffee, tea, and caffeine consumption may have protective effects against late-life cognitive decline and dementia, with a stronger effect in women than men.
+
+Abstract:A prolonged preclinical phase of more than two decades before the onset of dementia suggested that initial brain changes of Alzheimer's disease (AD) and the symptoms of advanced AD may represent a unique continuum. Given the very limited therapeutic value of drugs currently used in the treatment of AD and dementia, preventing or postponing the onset of AD and delaying or slowing its progression are becoming mandatory. Among possible reversible risk factors of dementia and AD, vascular, metabolic, and lifestyle-related factors were associated with the development of dementia and late-life cognitive disorders, opening new avenues for the prevention of these diseases. Among diet-associated factors, coffee is regularly consumed by millions of people around the world and owing to its caffeine content, it is the best known psychoactive stimulant resulting in heightened alertness and arousal and improvement of cognitive performance. Besides its short-term effect, some case-control and cross-sectional and longitudinal population-based studies evaluated the long-term effects on brain function and provided some evidence that coffee, tea, and caffeine consumption or higher plasma caffeine levels may be protective against cognitive impairment/decline and dementia. In particular, several cross-sectional and longitudinal population-based studies suggested a protective effect of coffee, tea, and caffeine use against late-life cognitive impairment/decline, although the association was not found in all cognitive domains investigated and there was a lack of a distinct dose-response association, with a stronger effect among women than men. The findings on the association of coffee, tea, and caffeine consumption or plasma caffeine levels with incident mild cognitive impairment and its progression to dementia were too limited to draw any conclusion. Furthermore, for dementia and AD prevention, some studies with baseline examination in midlife pointed to a lack of association, although other case-control and longitudinal population-based studies with briefer follow-up periods supported favourable effects of coffee, tea, and caffeine consumption against AD. Larger studies with longer follow-up periods should be encouraged, addressing other potential bias and confounding sources, so hopefully opening new ways for diet-related prevention of dementia and AD.
+
+Moderate coffee or tea consumption decreased the risk of cognitive disorders: an updated dose-response meta-analysis.
+
+Number of 
+
+Key takeaways:Moderate coffee and tea consumption reduces the risk of cognitive disorders, with 2.5 cups of coffee per day minimizing Alzheimer's disease risk and 1 cup of tea reducing cognitive deficits by 11%.
+
+Abstract:CONTEXT
+Although several epidemiological studies have examined the association between coffee or tea intake and the risk of cognitive disorders, the results to date are inconsistent.
+
+OBJECTIVE
+An updated systematic review and dose-response meta-analysis was conducted to confirm the association between coffee, tea, and caffeine consumption and the risk of cognitive disorders.
+
+DATA SOURCES
+PubMed, Embase, and Web of Science were searched from inception to January 2022 for relevant studies, including dementia, Alzheimer disease (AD), and cognitive impairment or decline.
+
+DATA EXTRACTION
+Two reviewers independently performed data extraction and assessed the study quality.
+
+DATA ANALYSIS
+Restricted cubic splines were used to conduct the dose-response meta-analysis for coffee and tea intake.
+
+RESULTS
+Twenty-two prospective studies and 11 case-control studies involving 389 505 participants were eligible for this meta-analysis. Coffee and tea consumption was linked to a lower risk of cognitive disorders, with an overall relative risk (RR) of 0.73 (95% CI: 0.60-0.86) and 0.68 (95% CI: 0.56-0.80), respectively. The subgroup analysis revealed that ethnicity, sex, and outcomes had significant effects on this association. Protection was stronger for men than that for women in both coffee and tea consumption. A nonlinear relationship was found between coffee consumption and AD risk, and the strength of protection peaked at approximately 2.5 cups/day (RR: 0.74; 95% CI: 0.59-0.93). A linear relationship was found between tea consumption and cognitive disorders, and the risk decreased by 11% for every 1-cup/day increment.
+
+CONCLUSION
+This meta-analysis demonstrated that the consumption of 2.5 cups coffee/day minimizes the risk of AD, and 1 cup/day of tea intake leads to an 11% reduction in cognitive deficits. Effective interventions involving coffee and tea intake might prevent the occurrence of dementia.
+
+Association of Coffee, Decaffeinated Coffee and Caffeine Intake from Coffee with Cognitive Performance in Older Adults: National Health and Nutrition Examination Survey (NHANES) 2011–2014.
+
+Number of 
+
+Key takeaways:Coffee, caffeinated coffee, and caffeine from coffee are associated with better cognitive performance in older adults, while decaffeinated coffee shows no significant association.
+
+Abstract:The aim of this study was to examine the association of coffee, caffeinated coffee, decaffeinated coffee and caffeine intake from coffee with cognitive performance in older adults. we used data from the National Health and Nutrition Examination Survey (NHANES) 2011–2014. Coffee and caffeine intake were obtained through two 24-hour dietary recalls. Cognitive performance was evaluated by the Consortium to Establish a Registry for Alzheimer’s Disease (CERAD) test, Animal Fluency test and Digit Symbol Substitution Test (DSST). Binary logistic regression and restricted cubic spline models were applied to evaluate the association of coffee and caffeine intake with cognitive performance. A total of 2513 participants aged 60 years or older were included. In the fully adjusted model, compared to those reporting no coffee consumption, those who reported 266.4–495 (g/day) had a multivariate adjusted odd ratio (OR) with 95% confidence interval (CI) of 0.56(0.35–0.89) for DSST test score, compared to those reporting no caffeinated coffee consumption, those who reported ≥384.8 (g/day) had a multivariate-adjusted OR (95% CI) of 0.68(0.48–0.97) for DSST test score, compared to the lowest quartile of caffeine intake from coffee, the multivariate adjusted OR (95% CI) of the quartile (Q) three was 0.62(0.38–0.98) for the CERAD test score. L-shaped associations were apparent for coffee, caffeinated coffee and caffeine from coffee with the DSST test score and CERAD test score. No significant association was observed between decaffeinated coffee and different dimensions of cognitive performance. Our study suggests that coffee, caffeinated coffee and caffeine from coffee were associated with cognitive performance, while decaffeinated coffee was not associated with cognitive performance.
+
+Habitual coffee drinkers display a distinct pattern of brain functional connectivity
+
+Number of 
+
+Key takeaways:Higher consumption of coffee and caffeinated products impacts brain functional connectivity at rest, potentially affecting emotionality, alertness, and readiness to action.
+
+Habitual coffee consumption and cognitive function: a Mendelian randomization meta-analysis in up to 415,530 participants
+
+Number of 
+
+Key takeaways:Habitual coffee consumption has no causal long-term effects on global cognition or memory in mid- to later life.
+
+Alcohol, coffee and tea intake and the risk of cognitive deficits: a dose–response meta-analysis
+
+Number of 
+
+Key takeaways:Light consumption of alcohol (<11 g/day) and coffee (<2.8 cups/day) reduces the risk of cognitive deficits, while daily green tea consumption offers increasing cognitive benefits.
+
+Abstract:Abstract Aims Lifestyle interventions are an important and viable approach for preventing cognitive deficits. However, the results of studies on alcohol, coffee and tea consumption in relation to cognitive decline have been divergent, likely due to confounds from dose–response effects. This meta-analysis aimed to find the dose–response relationship between alcohol, coffee or tea consumption and cognitive deficits. Methods Prospective cohort studies or nested case-control studies in a cohort investigating the risk factors of cognitive deficits were searched in PubMed, Embase, the Cochrane and Web of Science up to 4th June 2020. Two authors searched the databases and extracted the data independently. We also assessed the quality of the studies with the Newcastle-Ottawa scale. Stata 15.0 software was used to perform model estimation and plot the linear or nonlinear dose–response relationship graphs. Results The search identified 29 prospective studies from America, Japan, China and some European countries. The dose–response relationships showed that compared to non-drinkers, low consumption (<11 g/day) of alcohol could reduce the risk of cognitive deficits or only dementias, but there was no significant effect of heavier drinking (>11 g/day). Low consumption of coffee reduced the risk of any cognitive deficit (<2.8 cups/day) or dementia (<2.3 cups/day). Green tea consumption was a significant protective factor for cognitive health (relative risk, 0.94; 95% confidence intervals, 0.92–0.97), with one cup of tea per day brings a 6% reduction in risk of cognitive deficits. Conclusions Light consumption of alcohol (<11 g/day) and coffee (<2.8 cups/day) was associated with reduced risk of cognitive deficits. Cognitive benefits of green tea consumption increased with the daily consumption.
+
+High coffee consumption, brain volume and risk of dementia and stroke
+
+Number of 
+
+Key takeaways:High coffee consumption is associated with smaller total brain volumes and increased odds of dementia.
+
+Abstract:ABSTRACT Background Coffee is a highly popular beverage worldwide, containing caffeine which is a central nervous system stimulant. Objectives We examined whether habitual coffee consumption is associated with differences in brain volumes or the odds of dementia or stroke. Methods We conducted prospective analyses of habitual coffee consumption on 398,646 UK Biobank participants (age 37–73 years), including 17,702 participants with MRI information. We examined the associations with brain volume using covariate adjusted linear regression, and with odds of dementia (4,333 incident cases) and stroke (6,181 incident cases) using logistic regression. Results There were inverse linear associations between habitual coffee consumption and total brain (fully adjusted β per cup −1.42, 95% CI −1.89, −0.94), grey matter (β −0.91, 95% CI −1.20, −0.62), white matter (β −0.51, 95% CI −0.83, −0.19) and hippocampal volumes (β −0.01, 95% CI −0.02, −0.003), but no evidence to support an association with white matter hyperintensity (WMH) volume (β −0.01, 95% CI −0.07, 0.05). The association between coffee consumption and dementia was non-linear (P non-linearity = 0.0001), with evidence for higher odds for non-coffee and decaffeinated coffee drinkers and those drinking >6 cups/day, compared to light coffee drinkers. After full covariate adjustment, consumption of >6 cups/day was associated with 53% higher odds of dementia compared to consumption of 1–2 cups/day (fully adjusted OR 1.53, 95% CI 1.28, 1.83), with less evidence for an association with stroke (OR 1.17, 95% CI 1.00, 1.37, p  = 0.055). Conclusion High coffee consumption was associated with smaller total brain volumes and increased odds of dementia.
+
+Associations Between Caffeine Consumption, Cognitive Decline, and Dementia: A Systematic Review
+
+Number of 
+
+Key takeaways:Moderate caffeine consumption, especially through coffee or green tea, and in women, may reduce the risk of dementia and cognitive decline, and improve cognitive function in cognitively impaired individuals.
+
+Abstract:Background: Epidemiologic studies have provided inconclusive evidence for a protective effect of caffeine consumption on risk of dementia and cognitive decline. Objective: To summarize literature on the association between caffeine and 1) the risk of dementia and/or cognitive decline, and 2) cognitive performance in individuals with mild cognitive impairment (MCI) or dementia, and 3) to examine the effect of study characteristics by categorizing studies based on caffeine 
+
+Impact of Coffee, Wine, and Chocolate Consumption on Cognitive Outcome and MRI Parameters in Old Age
+
+Number of 
+
+Key takeaways:Moderate coffee consumption improves cognitive performance and is associated with better white matter preservation and cerebral blood flow in elderly individuals.
+
+Abstract:Coffee, wine and chocolate are three frequently consumed substances with a significant impact on cognition. In order to define the structural and cerebral blood flow correlates of self-reported consumption of coffee, wine and chocolate in old age, we assessed cognition and brain MRI measures in 145 community-based elderly individuals with preserved cognition (69 to 86 years). Based on two neuropsychological assessments during a 3-year follow-up, individuals were classified into stable-stable (52 sCON), intermediate (61 iCON) and deteriorating-deteriorating (32 dCON). MR imaging included voxel-based morphometry (VBM), tract-based spatial statistics (TBSS) and arterial spin labelling (ASL). Concerning behavior, moderate consumption of caffeine was related to better cognitive outcome. In contrast, increased consumption of wine was related to an unfavorable cognitive evolution. Concerning MRI, we observed a negative correlation of wine and VBM in bilateral deep white matter (WM) regions across all individuals, indicating less WM lesions. Only in sCON individuals, we observed a similar yet weaker association with caffeine. Moreover, again only in sCON individuals, we observed a significant positive correlation between ASL and wine in overlapping left parietal WM indicating better baseline brain perfusion. In conclusion, the present observations demonstrate an inverse association of wine and coffee consumption with cognitive performances. Moreover, low consumption of wine but also moderate to heavy coffee drinking was associated with better WM preservation and cerebral blood-flow notably in cognitively stable elders.
+
+Effects of Coffee and Its Components on the Gastrointestinal Tract and the Brain–Gut Axis
+
+Number of 
+
+Key takeaways:Coffee has multiple health-promoting effects on the digestive tract, including antioxidant, anti-inflammatory, and pro-motility effects, but more research is needed to develop functional foods to improve gastrointestinal and brain-gut axis health.
+
+Abstract:Coffee is one of the most popular beverages consumed worldwide. Roasted coffee is a complex mixture of thousands of bioactive compounds, and some of them have numerous potential health-promoting properties that have been extensively studied in the cardiovascular and central nervous systems, with relatively much less attention given to other body systems, such as the gastrointestinal tract and its particular connection with the brain, known as the brain–gut axis. This narrative review provides an overview of the effect of coffee brew; its by-products; and its components on the gastrointestinal mucosa (mainly involved in permeability, secretion, and proliferation), the neural and non-neural components of the gut wall responsible for its motor function, and the brain–gut axis. Despite in vitro, in vivo, and epidemiological studies having shown that coffee may exert multiple effects on the digestive tract, including antioxidant, anti-inflammatory, and antiproliferative effects on the mucosa, and pro-motility effects on the external muscle layers, much is still surprisingly unknown. Further studies are needed to understand the mechanisms of action of certain health-promoting properties of coffee on the gastrointestinal tract and to transfer this knowledge to the industry to develop functional foods to improve the gastrointestinal and brain–gut axis health.
+
+Coffee and Tea on Cardiovascular Disease (CVD) prevention.
+
+Number of 
+
+Key takeaways:Moderate coffee consumption (2-3 cups/day) and green tea consumption (3 cups/day) both reduce the risk of cardiovascular diseases and improve survival.
+
+Coffee for Cardioprotection and Longevity.
+
+Number of 
+
+Key takeaways:Habitual coffee consumption is associated with lower risks for cardiovascular diseases and improved health outcomes, but potential risks must be considered.
+
+Coffee Consumption and Cardiovascular Disease: A Condensed Review of Epidemiological Evidence and Mechanisms.
+
+Number of 
+
+Key takeaways:Habitual consumption of 3-5 cups of coffee per day in healthy individuals is associated with a 15% reduction in cardiovascular disease risk and a lower risk of death.
+
+Abstract:Coffee is one of the most widely consumed beverages, and some studies have suggested it may be related to cardiovascular disease (CVD), the leading cause of poor health in the world. This review evaluates the evidence on the effect of habitual coffee consumption on CVD incidence and mortality. The review is based mostly on observational studies and meta-analyses of the literature. In healthy people, in comparison to not consuming coffee, habitual consumption of 3-5 cups of coffee per day is associated with a 15% reduction in the risk of CVD, and higher consumption has not been linked to elevated CVD risk. Moreover, in comparison to no coffee intake, usual consumption of 1-5 cups/day is associated with a lower risk of death. In people who have already suffered a CVD event, habitual consumption does not increase the risk of a recurrent CVD or death. However, hypertensive patients with uncontrolled blood pressure should avoid consuming large doses of caffeine. In persons with well-controlled blood pressure, coffee consumption is probably safe, but this hypothesis should be confirmed by further investigations.
+
+Coffee consumption and cardiometabolic health: a comprehensive review of the evidence
+
+Number of 
+
+Key takeaways:Moderate coffee consumption, ranging from 1 to 5 cups per day, is linked to reduced risks of type 2 diabetes and chronic kidney disease, potentially contributing to extending healthspan and increasing longevity.
+
+Abstract:Abstract This review provides a comprehensive synthesis of longitudinal observational and interventional studies on the cardiometabolic effects of coffee consumption. It explores biological mechanisms, and clinical and policy implications, and highlights gaps in the evidence while suggesting future research directions. It also reviews evidence on the causal relationships between coffee consumption and cardiometabolic outcomes from Mendelian randomization (MR) studies. Findings indicate that while coffee may cause short-term increases in blood pressure, it does not contribute to long-term hypertension risk. There is limited evidence indicating that coffee intake might reduce the risk of metabolic syndrome and non-alcoholic fatty liver disease. Furthermore, coffee consumption is consistently linked with reduced risks of type 2 diabetes (T2D) and chronic kidney disease (CKD), showing dose-response relationships. The relationship between coffee and cardiovascular disease is complex, showing potential stroke prevention benefits but ambiguous effects on coronary heart disease. Moderate coffee consumption, typically ranging from 1 to 5 cups per day, is linked to a reduced risk of heart failure, while its impact on atrial fibrillation remains inconclusive. Furthermore, coffee consumption is associated with a lower risk of all-cause mortality, following a U-shaped pattern, with the largest risk reduction observed at moderate consumption levels. Except for T2D and CKD, MR studies do not robustly support a causal link between coffee consumption and adverse cardiometabolic outcomes. The potential beneficial effects of coffee on cardiometabolic health are consistent across age, sex, geographical regions, and coffee subtypes and are multi-dimensional, involving antioxidative, anti-inflammatory, lipid-modulating, insulin-sensitizing, and thermogenic effects. Based on its beneficial effects on cardiometabolic health and fundamental biological processes involved in aging, moderate coffee consumption has the potential to contribute to extending the healthspan and increasing longevity. The findings underscore the need for future research to understand the underlying mechanisms and refine health recommendations regarding coffee consumption.
+
+Effects of habitual coffee consumption on cardiometabolic disease, cardiovascular health, and all-cause mortality.
+
+Number of 
+
+Key takeaways:Habitual coffee consumption may reduce the risk of cardiovascular diseases and all-cause mortality, but potential risks include anxiety, insomnia, and bone loss.
+
+The impact of coffee subtypes on incident cardiovascular disease, arrhythmias, and mortality: long-term outcomes from the UK Biobank.
+
+Number of 
+
+Key takeaways:Drinking 2-3 cups of decaffeinated, ground, or instant coffee daily is linked to lower risks of cardiovascular disease and mortality, with ground and instant coffee also reducing arrhythmia.
+
+Abstract:AIMS
+Epidemiological studies report the beneficial effects of habitual coffee consumption on incident arrhythmia, cardiovascular disease (CVD), and mortality. However, the impact of different coffee preparations on cardiovascular outcomes and survival is largely unknown. The aim of this study was to evaluate associations between coffee subtypes on incident outcomes, utilizing the UK Biobank.
+
+METHODS AND RESULTS
+Coffee subtypes were defined as decaffeinated, ground, and instant, then divided into 0, <1, 1, 2-3, 4-5, and >5 cups/day, and compared with non-drinkers. Cardiovascular disease included coronary heart disease, cardiac failure, and ischaemic stroke. Cox regression modelling with hazard ratios (HRs) assessed associations with incident arrhythmia, CVD, and mortality. Outcomes were determined through ICD codes and death records. A total of 449 563 participants (median 58 years, 55.3% females) were followed over 12.5 ± 0.7 years. Ground and instant coffee consumption was associated with a significant reduction in arrhythmia at 1-5 cups/day but not for decaffeinated coffee. The lowest risk was 4-5 cups/day for ground coffee and 2-3 cups/day for instant coffee (HR 0.88, CI 0.85-0.92, P < 0.0001). All coffee subtypes were associated with a reduction in incident CVD (the lowest risk was 2-3 cups/day for decaffeinated, P = 0.0093; ground, P < 0.0001; and instant coffee, P < 0.0001) vs. non-drinkers. All-cause mortality was significantly reduced for all coffee subtypes, with the greatest risk reduction seen with 2-3 cups/day for decaffeinated (HR 0.86, CI 0.81-0.91, P < 0.0001); ground (HR 0.73, CI 0.69-0.78, P < 0.0001); and instant coffee (HR 0.89, CI 0.86-0.93, P < 0.0001).
+
+CONCLUSION
+Decaffeinated, ground, and instant coffee, particularly at 2-3 cups/day, were associated with significant reductions in incident CVD and mortality. Ground and instant but not decaffeinated coffee was associated with reduced arrhythmia.
+
+Potential Benefits of Coffee Consumption on Improving Biomarkers of Oxidative Stress and Inflammation in Healthy Individuals and Those at Increased Risk of Cardiovascular Disease
+
+Number of 
+
+Key takeaways:Coffee consumption, particularly long-term, can reduce biomarkers of oxidative stress and inflammation, potentially lowering cardiovascular disease risk in both healthy individuals and those at increased risk.
+
+Abstract:Cardiovascular diseases (CVDs) are considered the predominant cause of death globally. An abnormal increase in biomarkers of oxidative stress and inflammation are consistently linked with the development and even progression of metabolic diseases, including enhanced CVD risk. Coffee is considered one of the most consumed beverages in the world, while reviewed evidence regarding its capacity to modulate biomarkers of oxidative stress and inflammation remains limited. The current study made use of prominent electronic databases, including PubMed, Google Scholar, and Scopus to retrieve information from randomized controlled trials reporting on any association between coffee consumption and modulation of biomarkers of oxidative stress and inflammation in healthy individuals or those at increased risk of developing CVD. In fact, summarized evidence indicates that coffee consumption, mainly due to its abundant antioxidant properties, can reduce biomarkers of oxidative stress and inflammation, which can be essential in alleviating the CVD risk in healthy individuals. However, more evidence suggests that regular/prolonged use or long term (>4 weeks) consumption of coffee appeared to be more beneficial in comparison with short-term intake (<4 weeks). These positive effects are also observed in individuals already presenting with increased CVD risk, although such evidence is very limited. The current analysis of data highlights the importance of understanding how coffee consumption can be beneficial in strengthening intracellular antioxidants to alleviate pathological features of oxidative stress and inflammation to reduce CVD risk within the general population. Also covered within the review is essential information on the metabolism and bioavailability profile of coffee, especially caffeine as one of its major bioactive compounds.
+
+Evaluation of differences in cardiovascular and metabolic effects of chronic caffeinated and decaffeinated coffee intake
+
+Number of 
+
+Key takeaways:Chronic intake of any type of coffee improves biochemical profile, but caffeinated coffee increases blood pressure and vasoconstriction, while decaffeinated coffee preserves vascular function.
+
+Coffee and Cardiovascular Health: A Review of Literature
+
+Number of 
+
+Key takeaways:Coffee consumption may have a positive impact on cardiovascular health, with specific bioactive compounds in coffee potentially playing a role in preventing disease.
+
+Abstract:Cardiovascular disease is the leading cause of death worldwide and is on the rise. Diet is considered to be a key modifiable risk factor for reducing the incidence of cardiovascular disease. Dietary approaches have proved advantageous for preventing disease morbidity and mortality but tend to focus on fruit, vegetables, fiber, lean protein and healthy fats. Coffee is one of the most popular beverages worldwide but is often surrounded by controversy with regard to its impact on health. This review aims to explore the relationship between coffee consumption and cardiovascular disease. The evidence from observational trials as well as randomized controlled trials is discussed. By focusing on specific bioactive compounds in coffee, potential mechanisms are explored, and future directions of research in the field are considered.
+
+Coffee components and cardiovascular risk: beneficial and detrimental effects
+
+Number of 
+
+Key takeaways:Coffee consumption offers cardiovascular benefits due to antioxidant compounds, but diterpenes and caffeine may raise lipid fraction and affect endothelial function.
+
+Abstract:Abstract Coffee consists of several biological active compounds, such as caffeine, diterpenes, chlorogenic acids, and melanoidins, which may affect human health. The intake of each compound depends on the variety of coffee species, roasting degree, type of brewing method and serving size. The bioavailability and the distribution of each compound and its metabolites also contribute to coffee mechanisms of action. The health benefits of coffee consumption regarding cardiovascular system and metabolism mostly depend on its antioxidant compounds. In contrast, diterpenes and caffeine may produce harmful effects by raising lipid fraction and affecting endothelial function, respectively. Studying the mechanism of action of coffee components may help understanding weather coffee’s impact on health is beneficial or hazardous. In this article, we reviewed the available information about coffee compounds and their mechanism of action. Furthermore, benefits and risks for cardiovascular system associated with coffee consumption will be discussed.
+
+Coffee and blood pressure: exciting news!
+
+Number of 
+
+Key takeaways:Habitual coffee consumption in medium-high dosages (3-5 cups/day) has neutral or beneficial effects on blood pressure and reduces the incidence of cardiovascular disease and all-cause mortality.
+
+Abstract:Abstract A growing number of epidemiological studies have reported the beneficial effects of habitual coffee consumption on incident cardiovascular disease (CVD), and mortality. However, the effects of coffee on arterial hypertension are still objects of active discussion mainly because of the debated effects of caffeine on blood pressure and cardiovascular system. In particular, the negative impact of caffeine would involve the whole cardiovascular system and could be responsible for an excess in the relative risk of new onset of hypertension and a worsening of blood pressure control. Recent evidence has been 
+
+Coffee or tea: Anti-inflammatory properties in the context of atherosclerotic cardiovascular disease prevention.
+
+Number of 
+
+Key takeaways:Consuming tea and coffee may have anti-inflammatory properties, but their clinical significance remains unclear.
+
+Effects of tea and coffee on cardiovascular disease risk.
+
+Number of 
+
+Key takeaways:Black and green tea may reduce the risk of coronary heart disease and stroke by 10-20%, while long-term moderate coffee intake may not be harmful and may even protect against type 2 diabetes.
+
+Abstract:Tea and coffee have been associated with risk of cardiovascular disease (CVD), both positively and negatively. Epidemiological data suggest that black and green tea may reduce the risk of both coronary heart disease and stroke by between 10 and 20%. Experimental and clinical trial data generally indicate either neutral or beneficial effects on risk factors and pathways linked to the development of CVD. Controversy still exists regarding the effects of coffee, where there have been concerns regarding associations with hypercholesterolaemia, hypertension and myocardial infarction. However, long term moderate intake of coffee is not associated with detrimental effects in healthy individuals and may even protect against the risk of developing type 2 diabetes. The detrimental effects of coffee may be associated with the acute pressor effects, most likely due to caffeine at high daily intakes, and lipids from boiled coffee can contribute to raised serum cholesterol. Genetic polymorphisms in enzymes involved in uptake, metabolism and excretion of tea and coffee compounds are also associated with differential biological effects. Potential mechanisms by which tea and coffee phytochemicals can exert effects for CVD protection include the regulation of vascular tone through effects on endothelial function, improved glucose metabolism, increased reverse cholesterol transport and inhibition of foam cell formation, inhibition of oxidative stress, immunomodulation and effects on platelet function (adhesion and activation, aggregation and clotting). The phytochemical compounds in tea and coffee and their metabolites are suggested to influence protective endogenous pathways by modulation of gene-expression. It is not known exactly which compounds are responsible for the suggestive protective effects of tea and coffee. Although many biologically active compounds have been identified with known biological effects, tea and coffee contain many unidentified compounds with potential bioactivity.
+
+Coffee Consumption Increases the Antioxidant Capacity of Plasma and Has No Effect on the Lipid Profile or Vascular Function in Healthy Adults in a Randomized Controlled Trial.
+
+Number of 
+
+Key takeaways:Coffee consumption increases plasma antioxidant capacity in healthy adults without affecting blood lipids or vascular function.
+
+Abstract:BACKGROUND
+Coffee, a source of antioxidants, has controversial effects on cardiovascular health.
+
+OBJECTIVE
+We evaluated the bioavailability of chlorogenic acids (CGAs) in 2 coffees and the effects of their consumption on the plasma antioxidant capacity (AC), the serum lipid profile, and the vascular function in healthy adults.
+
+METHODS
+Thirty-eight men and 37 women with a mean ± SD age of 38.5 ± 9 y and body mass index of 24.1 ± 2.6 kg/m(2) were randomly assigned to 3 groups: a control group that did not consume coffee or a placebo and 2 groups that consumed 400 mL coffee/d for 8 wk containing a medium (MCCGA; 420 mg) or high (HCCGA; 780 mg) CGA content. Both were low in diterpenes (0.83 mg/d) and caffeine (193 mg/d). Plasma caffeic and ferulic acid concentrations were measured by GC, and the plasma AC was evaluated with use of the ferric-reducing antioxidant power method. The serum lipid profile, nitric oxide (NO) plasma metabolites, vascular endothelial function (flow-mediated dilation; FMD), and blood pressure (BP) were evaluated.
+
+RESULTS
+After coffee consumption (1 h and 8 wk), caffeic and ferulic acid concentrations increased in the coffee-drinking groups, although the values of the 2 groups were significantly different (P < 0.001); caffeic and ferulic acid concentrations were undetectable in the control group. At 1 h after consumption, the plasma AC in the control group was significantly lower than the baseline value (-2%) and significantly increased in the MCCGA (6%) and HCCGA (5%) groups (P < 0.05). After 8 wk, no significant differences in the lipid, FMD, BP, or NO plasma metabolite values were observed between the groups.
+
+CONCLUSIONS
+Both coffees, which contained CGAs and were low in diterpenes and caffeine, provided bioavailable CGAs and had a positive acute effect on the plasma AC in healthy adults and no effect on blood lipids or vascular function. The group that did not drink coffee showed no improvement in serum lipid profile, FMD, BP, or NO plasma metabolites. This trial was registered at registroclinico.sld.cu as RPCEC00000168.
+
+Coffee: A Selected Overview of Beneficial or Harmful Effects on the Cardiovascular System?
+
+Number of 
+
+Key takeaways:Coffee is a wonderful beverage with rare cardiovascular disadvantages and many benefits, including reducing type 2 diabetes onset.
+
+Abstract:With a history that began in 800 A.D., coffee is the most popular drink known and as a result, the issues regarding its physiologic effects deserve attention. Maintaining alertness is a wellknown benefit and in addition, the cardiovascular (CV) effects of the active compounds, which include polyphenols and caffeine, must be considered. Genetics are relevant and where slow caffeine metabolism is inherent, the risk of nonfatal myocardial (MI) has been shown to be increased. Overall risk for coronary heart disease (CHD) is not supported and unless there is excessive intake, congestive heart failure (CHF) is not adversely affected; in moderation, there may be some benefit for CHF. There is no apparent increased risk of sudden cardiac death (SCD). Overall, there also appears to be a beneficial inverse association with all-cause mortality, although this is not absolute for extra heavy intake. Benefit in reducing stroke also has supportive evidence. Hypertension is not increased by coffee. Boiled and unfiltered coffee appears to increase plasma cholesterol and triglycerides but for the overall metabolic syndrome, there appears to be benefit. There is also some evidence that paper-filtered coffee results in an increase in some markers of inflammation. Association of coffee with arrhythmias has been a major concern though in moderation it is not a significant overall problem. Therefore, only if a patient were to associate major arrhythmic symptoms with coffee would cessation have to be advised. Where coffee clearly shines from a CV standpoint is in the established decrease in onset of type 2 diabetes mellitus (DM). Any benefit or harm has always been attributed to caffeine as the apparent major component. However, coffee contains a myriad of compounds, including polyphenols. These other substances may be most relevant for potential benefit or harm and some of these may be partially removed or altered by coffee preparation methods such as paper filtration. Multiple studies support this by what appears to be no CV advantage or disadvantage for decaffeinated coffee. The bottom line on coffee, for those who enjoy the brew, is that it is a wonderful beverage with rare associated CV disadvantage and with much to recommend it from an overall CV standpoint.
+
+Coffee and Arterial Hypertension
+
+Number of 
+
+Key takeaways:Moderate and habitual coffee consumption (13 cups/day) does not adversely affect blood pressure in most people, including those with arterial hypertension, and may even reduce the risk of death from any cause.
+
+Abstract:Abstract Purpose of Review Coffee is a very popular drink and an estimated 2.25 billion cups worldwide are consumed daily. Such popularity of coffee makes it the most consumed drink next to water. Numerous studies have shown a beneficial effect of habitual and moderate coffee consumption on the functioning of the nervous, digestive, and cardiovascular systems, as well as on kidney function. Taking into account the very high prevalence of arterial hypertension in the world (31.1% of adults), much controversy has been raised about the influence of coffee consumption on blood pressure and the risk of arterial hypertension. Moreover, there have been extensive discussions about the safety of coffee consumption for hypertensive persons. Recent Findings There are over 1000 chemical compounds in coffee. The best characterized of these are caffeine, chlorogenic acid, trigonelline, kahweol, cafestol, ferulic acid, and melanoidins. These compounds have bidirectional influences on blood pressure regulation. The results of numerous studies and meta-analyses indicate that moderate and habitual coffee consumption does not increase and may even reduce the risk of developing arterial hypertension. Conversely, occasional coffee consumption has hypertensinogenic effects. Moderate habitual coffee consumption in hypertensive persons does not appear to increase the risk of uncontrolled blood pressure and may even reduce the risk of death from any cause. Summary Moderate and habitual consumption of coffee (1-–3 cups / day) does not adversely affect blood pressure in most people, including those with arterial hypertension.
+
+Acute and long-term cardiovascular effects of coffee: implications for coronary heart disease.
+
+Number of 
+
+Key takeaways:Coffee consumption may have acute adverse effects on coronary events and infarct size in selected patient groups, rather than promoting atherosclerosis in the general population.
+
+Coffee consumption and cardiovascular health in the general population
+
+Number of 
+
+Key takeaways:Moderate and high coffee consumption is positively associated with LDL-cholesterol and negatively associated with systolic and diastolic blood pressure, but not with major cardiovascular diseases like heart failure.
+
+Abstract:Coffee, next to water the most widespread beverage, is attributed both harmful and protective characteristics concerning cardiovascular health. This study aimed to evaluate associations of coffee consumption with cardiac biomarkers, echocardiographic, and electrocardiographic parameters as well as major cardiovascular diseases.
+ 
+ 
+ 
+ We performed a cross-sectional analysis of 9,009 participants a large German population-based cohort study, enrolled between 2016 and 2018 median age 63 years. Coffee consumption was classified into three groups: <3 cups/day (low), 3–4 cups/day (moderate), >4 cups/day (high). In linear regression analyses adjusted for age, sex, body mass index, diabetes, hypertension, and smoking, moderate and high coffee consumption were associated with LDL-cholesterol (β=2.08; 95% CI: 0.14, 4.03, p=0.036; β=5.69; 95% CI: 2.91, 8.47; p<0.001). Moderate and high coffee consumption were negatively associated with systolic (β=−1.6; 95% CI: −2.66, −0.54; p=0.003; β=−2.63; 95% CI: −4.15, −1.12; p=0.001) and diastolic blood pressure (β=−0.8; 95% CI: −1.38, −0.22; p=0.007; β=1.28; 95% CI: −2.11, −0.45; p=0.002). Different levels of coffee consumption did neither correlate with any investigated electrocardiographic or echocardiographic parameter nor with prevalent major cardiovascular diseases, including prior myocardial infarction and heart failure.
+ 
+ 
+ 
+ In this cross-sectional analysis, moderate and high coffee consumption was positively associated with LDL-cholesterol and negatively associated with systolic and diastolic blood pressure. However, major cardiovascular diseases including heart failure and its diagnostic precursors were not associated with coffee consumption, connoting a neutral role of coffee in the context of cardiovascular health.
+ 
+ 
+ 
+ Type of funding 
+
+Coffee Consumption and Cardiovascular Health: Getting to the Heart of the Matter
+
+Number of 
+
+Key takeaways:Moderate coffee consumption is unlikely to negatively affect cardiovascular health for most healthy individuals, with some evidence suggesting it may slightly increase blood pressure.
+
+Abstract:As coffee-consumption is a widespread tradition, its possible impact on health has been of considerable interest. This review examines the effects of coffee on cardiovascular risk, outlines underlying biological mechanisms, and discusses implications for public health. In the past, coffee was often viewed as a cardiovascular risk-factor. However, in meta-analyses of recent well-controlled prospective epidemiologic studies, coffee-consumption was not associated with risk of coronary heart disease and weakly associated with a lower risk of stroke and heart failure. Also, available evidence largely suggests that coffee-consumption is not associated with a higher risk of fatal cardiovascular events. In randomized trials coffee-consumption resulted in small increases in blood pressure. Unfiltered coffee increased circulating LDL cholesterol and triglycerides concentrations, but filtered coffee had no substantial effects on blood lipids. In summary, for most healthy people, moderate coffee consumption is unlikely to adversely affect cardiovascular health. Future work should prioritize understanding the effects of coffee in at-risk populations.
+
+Long-term coffee consumption, caffeine metabolism genetics, and risk of cardiovascular disease: a prospective analysis of up to 347,077 individuals and 8368 cases.
+
+Number of 
+
+Key takeaways:Heavy coffee consumption is associated with a modest increase in cardiovascular disease risk, but this association is unaffected by genetic variants influencing caffeine metabolism.
+
+Abstract:BACKGROUND
+Coffee is one of the most widely consumed stimulants worldwide and is generally considered to be safe or even beneficial for health. However, increased risk of myocardial infarction and hypertension has been suggested for individuals who carry a functional variant at cytochrome P450 1A2 (CYP1A2), which makes them less effective at metabolizing caffeine.
+
+OBJECTIVES
+The aim of this study was to examine if the CYP1A2 genotype or a genetic score for caffeine metabolism (caffeine-GS) modifies the association between habitual coffee consumption and the risk of cardiovascular disease (CVD).
+
+METHODS
+Genetic data and information on habitual coffee intake and relevant covariates were available for 347,077 individuals in the UK Biobank, including 8368 incident CVD cases. We used logistic regression to test for the association between coffee intake and CVD risk, and whether the association varies with CYP1A2 genotype or caffeine-GS.
+
+RESULTS
+The association between habitual coffee intake and CVD risk was nonlinear, and, compared with participants drinking 1-2 cups/day, the risk of CVD was elevated for nondrinkers, drinkers of decaffeinated coffee, and those who reported drinking >6 cups/day (increase in odds by 11%, 7%, and 22%, respectively, P-curvature = 0.013). CYP1A2 genotype and caffeine-GS were not associated with CVD (P ≥ 0.22 for all comparisons). There was no evidence for an interaction between the CYP1A2 genotype or caffeine-GS and coffee intake with respect to risk of CVD (P ≥ 0.53).
+
+CONCLUSIONS
+Heavy coffee consumption was associated with a modest increase in CVD risk, but this association was unaffected by genetic variants influencing caffeine metabolism.
+
+Protective Effect of Caffeine and Chlorogenic Acids of Coffee in Liver Disease
+
+Number of 
+
+Key takeaways:Moderate coffee consumption (3/4 cups per day) is associated with a lower risk of developing and progressing chronic liver diseases, due to caffeine and chlorogenic acids' protective effects.
+
+Abstract:Coffee is one of the most widely consumed beverages in the world due to its unique aroma and psychostimulant effects, mainly due to the presence of caffeine. In recent years, experimental evidence has shown that the moderate consumption of coffee (3/4 cups per day) is safe and beneficial to human health, revealing protective effects against numerous chronic metabolic diseases such as diabetes, cardiovascular, neurodegenerative, and hepatic diseases. This review focuses on two of coffee’s main bioactive compounds, i.e., caffeine and chlorogenic acids, and their effects on the progression of chronic liver diseases, demonstrating that regular coffee consumption correlates with a lower risk of the development and progression of non-alcoholic steatohepatitis, viral hepatitis, liver cirrhosis, and hepatocellular carcinoma. In particular, this review analyzes caffeine and chlorogenic acid from a pharmacological point of view and explores the molecular mechanism through which these compounds are responsible for the protective role of coffee. Both bioactive compounds, therefore, have antifibrotic effects on hepatic stellate cells and hepatocytes, induce a decrease in connective tissue growth factor, stimulate increased apoptosis with anti-cancer effects, and promote a major inhibition of focal adhesion kinase, actin, and protocollagen synthesis. In conclusion, coffee shows many beneficial effects, and experimental data in favor of coffee consumption in patients with liver diseases are encouraging, but further prospective studies are needed to demonstrate its preventive and therapeutic role in chronic liver diseases.
+
+The effect of coffee consumption on the non-alcoholic fatty liver disease and liver fibrosis: a meta-analysis of eleven epidemiological studies.
+
+Number of 
+
+Key takeaways:Regular coffee consumption is significantly associated with a reduced risk of non-alcoholic fatty liver disease and decreased risk of liver fibrosis development in already diagnosed NAFLD patients.
+
+Coffee and Liver Disease.
+
+Number of 
+
+Key takeaways:Coffee consumption, especially over 2 cups per day, is associated with improved liver enzymes, lower incidence of liver disease complications, and decreased mortality in patients with preexisting liver disease.
+
+Exploring the impact of coffee consumption on liver health: A comprehensive bibliometric analysis
+
+Number of 
+
+Key takeaways:Coffee consumption may potentially prevent cardiovascular and liver diseases due to its antioxidant activity and modulation of hepatic cells.
+
+Caffeine in liver diseases: Pharmacology and toxicology
+
+Number of 
+
+Key takeaways:Moderate coffee consumption has beneficial effects on various liver diseases, potentially by inhibiting adenosine binding to its receptors.
+
+Abstract:We have previously shown that adenosine A1AR antagonists, adenosine A2aAR antagonists, and caffeine have significant inhibitory effects on the activation and proliferation of hepatic stellate cells in alcoholic liver fibrosis. Many recent studies have found that moderate coffee consumption is beneficial for various liver diseases. The main active ingredient of coffee is caffeine, which is a natural non-selective adenosine receptor antagonist. Moreover, numerous preclinical epidemiological studies and clinical trials have examined the association between frequent coffee consumption and the risk of developing different liver diseases. In this review, we summarize and analyze the prophylactic and therapeutic effects of caffeine on various liver diseases, with an emphasis on cellular assays, animal experiments, and clinical trials. To review the prevention and treatment effects of caffeine on different liver diseases, we searched all literature before 19 July 2022, using “caffeine” and “liver disease” as keywords from the PubMed and ScienceDirect databases. We found that moderate coffee consumption has beneficial effects on various liver diseases, possibly by inhibiting adenosine binding to its receptors. Caffeine is a potential drug for the prevention and treatment of various liver diseases.
+
+Effects of supplementation with main coffee components including caffeine and/or chlorogenic acid on hepatic, metabolic, and inflammatory indices in patients with non-alcoholic fatty liver disease and type 2 diabetes: a randomized, double-blind, placebo-controlled, clinical trial
+
+Number of 
+
+Key takeaways:Caffeine and chlorogenic acid supplementation does not effectively treat non-alcoholic fatty liver disease in type 2 diabetes patients.
+
+Abstract:Abstract Background Non-alcoholic fatty liver disease (NAFLD) is much more frequent and more severe, including cirrhosis, hepatocellular carcinoma in patients with type 2 diabetes. Coffee is a complex beverage with hundreds of compounds whereas caffeine and chlorogenic acid are the most abundant bioactive compounds. The published epidemiological data demonstrating beneficial associations between all categories of coffee exposure and ranges of liver outcomes are rapidly growing; however, the main contributors and cause-effect relationships have not yet been elucidated. To address existing knowledge gaps, we sought to determine the efficacy and safety of 6 months chlorogenic acid and/or caffeine supplementation in patients with type 2 diabetes affected by NAFLD. Methods This trial was carried out at two Diabetes Centers to assess the effects of supplementation with daily doses of 200 mg chlorogenic acid, 200 mg caffeine, 200 mg chlorogenic acid plus 200 mg caffeine or placebo (starch) in patients with type 2 diabetes and NAFLD. The primary endpoint was reduction of hepatic fat and stiffness measured by FibroScan, and changes in serum hepatic enzymes and cytokeratin − 18 (CK-18) levels. Secondary endpoints were improvements in metabolic (including fasting glucose, homeostasis model assessment-estimated insulin resistance (HOMA-IR), hemoglobin A1c (HBA1C), C-peptide, insulin and lipid profiles) and inflammatory (including nuclear factor k-B (NF-KB), tumor necrosis factor (TNF-α), high sensitive- C reactive protein(hs-CRP)) parameters from baseline to the end of treatment. Results Neither chlorogenic acid nor caffeine was superior to placebo in attenuation of the hepatic fat and stiffness and other hepatic outcomes in patients with diabetes and NAFLD. Except for the lower level of total cholesterol in caffeine group ( p = 0.04), and higher level of insulin in chlorogenic acid plus caffeine group ( p = 0.01) compared with placebo, there were no significant differences among the treatment groups. Conclusion These findings do not recommend caffeine and/or chlorogenic acid to treat NAFLD in type 2 diabetes patients. Trial registration IRCT201707024010N21 . Registered 14 September 2017.
+
+Effect of Coffee Consumption on Non-Alcoholic Fatty Liver Disease Incidence, Prevalence and Risk of Significant Liver Fibrosis: Systematic Review with Meta-Analysis of Observational Studies
+
+Number of 
+
+Key takeaways:Coffee consumption is associated with a 35% decreased odds of significant liver fibrosis in patients with non-alcoholic fatty liver disease.
+
+Abstract:Background and aim: Non-alcoholic fatty liver disease (NAFLD) is the most common cause of chronic liver disease worldwide. Given the anti-fibrotic and antioxidant properties of coffee, this systematic review and meta-analysis aims to provide updated results on the impact of coffee consumption on NAFLD incidence, prevalence, and risk of significant liver fibrosis. Methods: We conducted a comprehensive search in MEDLINE (OvidSP) and Scopus from January 2010 through January 2021. Relative risks for the highest versus the lowest level of coffee consumption were pooled using random-effects models. Heterogeneity and publication bias were evaluated using the Higgins’ I2 statistic and Egger’s regression test, respectively. Results: Eleven articles consisting of two case-control studies, eight cross-sectional studies, and one prospective cohort study were included in the meta-analysis. Of those, three studies with 92,075 subjects were included in the analysis for NAFLD incidence, eight studies with 9558 subjects for NAFLD prevalence, and five with 4303 subjects were used for the analysis of liver fibrosis. There was no association between coffee consumption and NAFLD incidence (RR 0.88, 95% CI 0.63–1.25, p = 0.48) or NAFLD prevalence (RR 0.88, 95% CI 0.76–1.02, p = 0.09). The meta-analysis showed coffee consumption to be significantly associated with a 35% decreased odds of significant liver fibrosis (RR 0.65, 95% CI 0.54–0.78, p < 0.00001). There was no heterogeneity (I2 = 11%, p = 0.34) and no evidence of publication bias (p = 0.134). Conclusion: This meta-analysis supports the protective role of coffee consumption on significant liver fibrosis in patients with NAFLD. However, the threshold of coffee consumption to achieve hepatoprotective effects needs to be established in prospective trials.
+
+Coffee Consumption and Liver Health: Results From the UK Biobank
+
+Number of 
+
+Key takeaways:Higher coffee consumption is associated with lower liver enzyme levels and a lower risk of developing non-alcoholic fatty liver disease.
+
+Abstract:Previous studies suggest a positive association between coffee consumption and liver health, yet the evidence available is not unequivocal. Given the burden of liver disease, we studied the relationship of habitual coffee consumption with serum biomarkers of liver health and non-alcoholic fatty liver disease (NAFLD) incidence.
+ 
+ 
+ 
+ We included 209,575 participants from the UK Biobank cohort (mean age 56.1 and 68% women, median coffee consumption per day 1.00 cup ), free of disease at baseline. Firstly, we studied cross-sectional associations of coffee consumption with serum concentrations of the liver enzymes alkaline phosphatase (ALP), alanine aminotransferase (ALT), aspartate transaminase (AST), gamma-glutamyl transferase (GGT), and total bilirubin using multivariable linear regressions. Secondly, we analyzed associations with elevated enzyme concentrations according to clinical cutoffs to monitor liver damage, using logistic regressions. Lastly, in a longitudinal analysis, we assessed the association of coffee consumption and incident NAFLD in cox proportional hazard models. Models were adjusted for sociodemographic, lifestyle and health-related factors. Results are reported as β log transformed IU/L, odds ratio (OR) or hazard ratio (HR) with their 95% confidence intervals per one cup increase in coffee intake.
+ 
+ 
+ 
+ Over a median follow up of 10.9 years, 2258 cases of incident NAFLD occurred in the population. Higher coffee consumption was associated with lower concentrations of log-transformed ALP (−0.005 ), ALT (−0.004 ), AST (−0.005 ), GGT (−0.008 ) and total bilirubin (−0.009 ). Secondly, higher coffee consumption was associated with lower odds of having elevated levels of all studied liver enzymes (OR from 0.91, for total bilirubin to 0.98 for GGT). Finally, higher coffee consumption was associated with lower risk of developing NAFLD (HR 0.98 ).
+ 
+ 
+ 
+ In this large cohort we observed an inverse association between higher coffee consumption and serum concentrations of baseline liver enzymes and NAFLD risk. These findings suggest that habitual consumption of coffee may be protective of liver health.
+ 
+ 
+ 
+ N/A.
+
+Potential Mechanisms Underlying the Role of Coffee in Liver Health
+
+Number of 
+
+Key takeaways:Coffee may benefit liver health by decreasing fatty acid synthesis, fibrosis, inflammation, and carcinogenesis through its polyphenols, caffeine, and diterpenoids.
+
+Abstract:Abstract Coffee, the most consumed hot beverage worldwide, is composed of many substances, of which polyphenols, caffeine, and diterpenoids are well studied. Evidence on potential effects of coffee on human health has been accumulating over the past decades. Specifically, coffee has been postulated to be hepatoprotective in several epidemiological and clinical studies. Several underlying molecular mechanisms as to why coffee influences liver health have been proposed. In this review, the authors summarized the evidence on potential mechanisms by which coffee affects liver steatosis, fibrosis, and hepatic carcinogenesis. The experimental models reviewed almost unanimously supported the theorem that coffee indeed may benefit the liver. Either whole coffee or its specific compounds appeared to decrease fatty acid synthesis (involved in steatogenesis), hepatic stellate activation (involved in fibrogenesis), and hepatic inflammation. Moreover, coffee was found to induce apoptosis and increased hepatic antioxidant capacity, which are involved in carcinogenesis.
+
+Coffee prevents fatty liver disease induced by a high-fat diet by modulating pathways of the gut–liver axis
+
+Number of 
+
+Key takeaways:Coffee supplementation prevents non-alcoholic fatty liver disease (NAFLD) in mice by reducing hepatic fat deposition and metabolic derangement through modulation of liver fat oxidation, intestinal cholesterol efflux, energy metabolism, and gut permeability.
+
+Abstract:Abstract Coffee consumption is inversely associated with the risk of non-alcoholic fatty liver disease (NAFLD). A gap in the literature still exists concerning the intestinal mechanisms that are involved in the protective effect of coffee consumption towards NAFLD. In this study, twenty-four C57BL/6J mice were divided into three groups each receiving a standard diet, a high-fat diet (HFD) or an HFD plus decaffeinated coffee (HFD+COFFEE) for 12 weeks. Coffee supplementation reduced HFD-induced liver macrovesicular steatosis (P < 0·01) and serum cholesterol (P < 0·001), alanine aminotransferase and glucose (P < 0·05). Accordingly, liver PPAR- α (P < 0·05) and acyl-CoA oxidase-1 (P < 0·05) as well as duodenal ATP-binding cassette (ABC) subfamily A1 (ABCA1) and subfamily G1 (ABCG1) (P < 0·05) mRNA expressions increased with coffee consumption. Compared with HFD animals, HFD+COFFEE mice had more undigested lipids in the caecal content and higher free fatty acid receptor-1 mRNA expression in the duodenum and colon. Furthermore, they showed an up-regulation of duodenal and colonic zonulin-1 (P < 0·05), duodenal claudin (P < 0·05) and duodenal peptide YY (P < 0·05) mRNA as well as a higher abundance of Alcaligenaceae in the faeces (P < 0·05). HFD+COFFEE mice had an energy intake comparable with HFD-fed mice but starting from the eighth intervention week they gained significantly less weight over time. Data altogether showed that coffee supplementation prevented HFD-induced NAFLD in mice by reducing hepatic fat deposition and metabolic derangement through modification of pathways underpinning liver fat oxidation, intestinal cholesterol efflux, energy metabolism and gut permeability. The hepatic and metabolic benefits induced by coffee were accompanied by changes in the gut microbiota.
+
+Coffee consumption and risk of nonalcoholic fatty liver disease: a systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Regular coffee consumption is associated with a significantly decreased risk of nonalcoholic fatty liver disease (NAFLD) and liver fibrosis in patients with NAFLD.
+
+Abstract:Background/objectives Nonalcoholic fatty liver disease (NAFLD) is a worldwide public health concern. Coffee might have a protective effect against NAFLD. However, the results of previous reports are conflicting. Therefore, we carried out this meta-analysis to summarize all available data. Methods This study consisted of two meta-analyses. The first meta-analysis included observational studies comparing the risk of NAFLD in patients who did and did not drink coffee. The second analysis included studies comparing the risk of liver fibrosis between NAFLD patients who did and did not drink coffee. Pooled risk ratios (RR) and 95% confidence interval (CI) were calculated. Results Out of 355 articles, five studies fulfilled our eligibility criteria and were included in the analysis. The risk of NAFLD in patients who drank coffee was significantly lower than that in patients who did not pooled RR 0.71 (95% CI, 0.60–0.85). We also found a significantly decreased risk of liver fibrosis among NAFLD patients who drank coffee compared with those who did not, with a pooled RR of 0.70 (95% CI, 0.60–0.82). However, it should be noted that the definition of regular coffee consumption varied between studies, which is the main limitation of this meta-analysis. Conclusion Our study found a significantly decreased risk of NAFLD among coffee drinkers and significantly decreased risk of liver fibrosis among patients with NAFLD who drank coffee on a regular basis. Whether consumption of coffee could be considered a preventative measure against NAFLD needs further investigations.
+
+Coffee Consumption and Non-alcoholic Fatty Liver Disease: An Umbrella Review and a Systematic Review and Meta-analysis
+
+Number of 
+
+Key takeaways:Coffee consumption may reduce liver fibrosis in patients with non-alcoholic fatty liver disease, but its effects on NAFLD prevention in the general population remain unclear.
+
+Abstract:Background: The effects of coffee consumption on hepatic outcomes are controversial. This study investigated the associations between coffee consumption and the incidence of non-alcoholic fatty liver disease (NAFLD) in the general population and the reduction of liver fibrosis among patients with NAFLD. Methods: The study consisted of two parts: an umbrella review and a systematic review and meta-analysis (SRMA). The searches for each part were performed separately using PubMed, EMBASE, Cochrane, Scopus, and CINAHL databases. All articles 
+
+The increased amount of coffee consumption lowers the incidence of fatty liver disease in Korean men.
+
+Number of 
+
+Key takeaways:Increasing coffee consumption is associated with a lower incidence of fatty liver disease in Korean men, suggesting a protective effect on fatty liver.
+
+Impact of coffee on liver diseases: a systematic review
+
+Number of 
+
+Key takeaways:Daily coffee consumption is associated with improved liver health, decreased risk of cirrhosis, and lower HCC development in chronic liver disease patients.
+
+Abstract:Coffee is one of the most commonly consumed beverages in the world. Its health benefits including improved overall survival have been demonstrated in a variety of disease states. To examine the association of coffee consumption with liver disease, a systematic review of studies on the effects of coffee on liver associated laboratory tests, viral hepatitis, nonalcoholic fatty liver disease (NAFLD), cirrhosis and hepatocellular carcinoma (HCC) was performed. Coffee consumption was associated with improved serum gamma glutamyltransferase, aspartate aminotransferase and alanine aminotransferase values in a dose dependent manner in individuals at risk for liver disease. In chronic liver disease patients who consume coffee, a decreased risk of progression to cirrhosis, a lowered mortality rate in cirrhosis patients, and a lowered rate of HCC development were observed. In chronic hepatitis C patients, coffee was associated with improved virologic responses to antiviral therapy. Moreover, coffee consumption was inversely related to the severity of steatohepatitis in patients with non‐alcoholic fatty liver disease. Therefore, in patients with chronic liver disease, daily coffee consumption should be encouraged.
+
+Coffee consumption has no effect on circulating markers of liver function but increases adiponectin concentrations: A systematic review and meta-analysis of randomized controlled trials.
+
+Number of 
+
+Key takeaways:Coffee consumption may improve liver dysfunction by increasing adiponectin levels, but further clinical trials are needed to confirm these findings.
+
+Effect of coffee in prevention of non-alcoholic fatty liver disease
+
+Number of 
+
+Key takeaways:Drinking coffee significantly reduces the risk of developing non-alcoholic fatty liver disease, liver fibrosis, and liver cancer, as it has anti-inflammatory properties and lowers lipid levels in blood.
+
+Abstract:Background: Non-alcoholic fatty liver disease which is also known as metabolic associated fatty liver disease is characterized by accumulation of fat in liver without any underlying clear etiology such as chronic alcohol abuse. Our study aimed to evaluate the effect of coffee in prevention of non-alcoholic fatty liver disease and its effect on various biochemicals like lipids, ESR, CRP, ferritin etc.Methods: We conducted a retrospective study in a tertiary care public sector hospital. The study was conducted among 300 patients. 150 had confirmed diagnosis of NAFLD through ultrasound abdomen and 150 had normal liver on ultrasound abdomen. Both study groups were asked to fill a predetermined questionnaire which included questions on amount of coffee and other caffeinated beverages, physical activity, and demographic data. P value of less than 0.05 was considered significant.Results: Study compared the effect of coffee on prevention of non-alcoholic fatty liver disease (NAFLD). We found that subjects who did not drink coffee had more odds of developing NAFLD as compared to those who did. Inflammatory markers and lipid profile were found to be lower in those who drank coffee as compared to those who did not.Conclusions: Based on multiple studies done on mice and rat at molecular level and our study, we conclude that various components present in coffee play a significant role in preventing NAFLD, liver fibrosis and even liver cancer. Coffee has also shown to have anti-inflammatory properties and lowers lipid level in blood.
+
+Coffee and tea consumption in relation with non-alcoholic fatty liver and metabolic syndrome: A systematic review and meta-analysis of observational studies.
+
+Number of 
+
+Key takeaways:Higher coffee and tea consumption is associated with less likelihood of metabolic syndrome, but further research is needed.
+
+Coffee consumption and risk of liver cancer: a meta-analysis.
+
+Number of 
+
+Key takeaways:An increased consumption of 2 cups of coffee per day is associated with a 43% reduced risk of liver cancer.
+
+Abstract:BACKGROUND & AIMS
+Mounting evidence indicates that coffee drinking may protect against liver injury and lower the risk of liver cancer. We quantitatively assessed the relation between coffee consumption and the risk of liver cancer in a meta-analysis of epidemiologic studies.
+
+METHODS
+Relevant studies were identified by searching MEDLINE (from 1966 to February 2007) and the reference lists of retrieved articles. We included cohort and case-control studies that reported relative risk (RR) estimates with 95% confidence intervals (CIs) of primary liver cancer or hepatocellular carcinoma by quantitative categories of coffee consumption. Study-specific RRs were pooled using a random-effects model.
+
+RESULTS
+Four cohort and 5 case-control studies, involving 2260 cases and 239,146 noncases, met the inclusion criteria. All studies observed an inverse relation between coffee consumption and risk of liver cancer, and in 6 studies the association was statistically significant. Overall, an increase in consumption of 2 cups of coffee per day was associated with a 43% reduced risk of liver cancer (RR, 0.57; 95% CI, 0.49-0.67). There was no statistically significant heterogeneity among studies (P = .17). In stratified analysis, the summary RRs of liver cancer for an increase in consumption of 2 cups of coffee per day were 0.69 (95% CI, 0.55-0.87) for persons without a history of liver disease and 0.56 (95% CI, 0.35-0.91) for those with a history of liver disease.
+
+CONCLUSIONS
+Findings from this meta-analysis suggest that an increased consumption of coffee may reduce the risk of liver cancer.
+
+Habitual coffee intake and risk for nonalcoholic fatty liver disease: a two-sample Mendelian randomization study
+
+Number of 
+
+Key takeaways:Habitual coffee intake does not show a causal relationship with non-alcoholic fatty liver disease risk, but the study's power may be limited by the non-specificity and moderate effect size of genetic alleles on coffee intake.
+
+Abstract:PurposeEpidemiological studies support a protective role of habitual coffee and caffeine consumption against the risk of non-alcoholic fatty liver disease (NAFLD). We aimed to investigate the causal relationship between coffee intake and the risk of NAFLD.
+MethodsWe performed a two-sample Mendelian randomization (MR) analysis using SNPs associated with habitual coffee intake in a published genome-wide association study (GWAS) as genetic instruments and summary-level data from a published GWAS of NAFLD (1122 cases and 399,900 healthy controls) in the UK Biobank. The causal relationship was estimated with the inverse weighted method using a 4-SNP and 6-SNP instrument based on the single largest non-UK Biobank GWAS (n = 91,462) and meta-analysis (n = 121,524) of GWAS data on habitual coffee intake, respectively. To maximize power, we also used up to 77 SNPs associated with coffee intake at a liberal significance level (p ≤ 1e-4) as instruments.
+ResultsWe observed a non-significant trend towards a causal protective effect of coffee intake on NAFLD based upon either the 4-SNP (OR: 0.76; 95% CI 0.51, 1.14, p = 0.19) or 6-SNP genetic instruments (OR: 0.77; 95% CI 0.48, 1.25, p = 0.29). The result also remains non-significant when using the more liberal 77-SNP instrument.
+ConclusionOur findings do not support a causal relationship between coffee intake and NAFLD risk. However, despite the largest-to-date sample size, the power of this study may be limited by the non-specificity and moderate effect size of the genetic alleles on coffee intake.
+
+Inverse Association of Coffee with Liver Cancer Development: An Updated Systematic Review and Meta-analysis.
+
+Number of 
+
+Key takeaways:Drinking coffee reduces the risk of developing liver cancer or hepatocellular carcinoma, with higher doses providing greater benefits.
+
+Abstract:BACKGROUND AND AIMS
+Coffee consumption has been suggested to reduce the risk for hepatocellular carcinoma (HCC). While several studies report inverse correlation with coffee drinking, others have suggested more than 2 cups of coffee every day decrease the risk of liver cancer or HCC. However, controversy exists about the exact dose that would provide protective benefit. Therefore, we aimed to carry out a systematic review and meta-analysis of all studies that investigated the association of coffee consumption and risk of HCC and/or liver cancer. Our outcomes were the evaluation of the association of coffee with HCC or liver cancer development along with the amount of coffee needed to prevent HCC or liver cancer.
+
+METHODS
+We performed a PubMed/MEDLINE/EMBASE/Ovid/Google Scholar search of original articles published in English from 1996 to June 2019, on case-control or cohort or prospective studies that associated coffee with liver cancer or HCC. We calculated the relative risk (RR) of the two conditions for coffee drinking and then stratified this into increments of one cup of coffee per day. Twenty studies were identified. The analysis was performed using random effects models from the methods of DerSimonian and Laird with inverse variance weighting. The Cochrane Q and the I 2 statistics were calculated to assess heterogeneity between studies. A p<0.10 value for chi-square test and I 2 <20% were interpreted as low-level heterogeneity. Probability of publication bias was assessed using funnel plots and with the Egger's test.
+
+RESULTS
+The overall RR was 0.69 (95%CI 0.56-0.85; p<0.001) with significant heterogeneity between the studies. We performed subgroup analysis over the increments of 1 cup of coffee. Higher doses of coffee consumption were associated with a significant decrease in the risks of developing HCC or liver cancer. The funnel plot did not show significant publication bias.
+
+CONCLUSIONS
+Our systematic review and meta-analysis suggests that drinking coffee provides benefits with a reduction in the risk of HCC or liver cancer. Higher doses of coffee have higher benefits in terms of risk reduction. However, further biological and epidemiological studies are required to determine the exact mechanism and to study specific subgroups such as viral hepatitis B or C related HCC.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

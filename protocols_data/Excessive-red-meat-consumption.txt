@@ -1,0 +1,582 @@
+PROTOCOL: Excessive red meat consumption
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Excessive red meat consumption - A significant risk factor for heart disease, colon cancer, and chronic metabolic disorders | Longevity Protocols
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Excessive consumption of red meat, both processed and unprocessed, is clearly associated with an increased risk of many serious chronic diseases. Regular intake of large amounts of this type of meat leads to metabolic disorders, vascular wall damage, inflammation, and increased risk of gastrointestinal cancers. Harmful effects are observed even with moderate exceedance of recommended amounts, especially in populations following a Western dietary pattern.
+
+CONTENT SECTIONS:
+
+Excessive red meat consumption
+
+A significant risk factor for heart disease, colon cancer, and chronic metabolic disorders
+
+Excessive consumption of red meat, both processed and unprocessed, is clearly associated with an increased risk of many serious chronic diseases. Regular intake of large amounts of this type of meat leads to metabolic disorders, vascular wall damage, inflammation, and increased risk of gastrointestinal cancers. Harmful effects are observed even with moderate exceedance of recommended amounts, especially in populations following a Western dietary pattern.
+
+Level of evidence:Strong
+
+Red meat, especially processed, contains large amounts of saturated fats, heme, iron, and compounds formed during thermal processing, such as nitrosamines and polycyclic aromatic hydrocarbons. These substances cause chronic inflammation, dysbiosis of the gut microbiota, endothelial barrier damage, and initiate carcinogenesis. High intake of red meat also leads to disturbances in lipid metabolism, insulin resistance, and elevated inflammatory markers, which in the long term result in the development of cardiovascular diseases, type 2 diabetes, and gastrointestinal cancers.
+
+The harmfulness of excessive red meat consumption has been confirmed in numerous meta-analyses and population studies. Regular consumption of large amounts of red meat, especially processed, leads to:
+
+The problem of excessive red meat consumption is global, contributing to millions of illnesses and deaths annually. Key epidemiological data include:
+
+Limit portions and frequency
+
+Try to eat red meat no more than 1–2 times a week and in portions not exceeding 70–100 g.
+
+Replace red meat with healthier alternatives
+
+Choose poultry, fish, plant-based protein sources, and legumes as the foundation of your diet.
+
+Limit the intake of cold cuts, sausages, and other processed meat products, which are most strongly linked to cancer risk.
+
+Increase fiber intake
+
+Ensure a diet rich in vegetables, fruits, and whole grain products, which mitigate the negative effects of meat on the intestines.
+
+Pay attention to preparation methods
+
+Avoid charring, grilling, and frying at high temperatures to limit the formation of carcinogenic compounds.
+
+Regularly monitor metabolic and gut health
+
+If you consume high amounts of red meat, monitor cholesterol levels, inflammatory markers, and undergo screening for colorectal cancer.
+
+Cardiovascular system
+
+Excessive consumption of red meat, both processed and unprocessed, is associated with an increased risk of cardiovascular diseases, including coronary heart disease, stroke, and heart failure. The risk increases with meat intake, especially with a Western diet and high intake of processed meat.
+
+Impact on the cardiovascular system
+
+Controversies and limitations
+
+Excessive consumption of red meat is associated with a negative impact on metabolism, including increased risk of metabolic syndrome, insulin resistance, inflammation, and unfavorable changes in metabolic markers. Regular intake of large amounts of red meat may worsen metabolic health and increase the risk of chronic diseases.
+
+Effects of excessive red meat consumption
+
+Comparison with other types of meat
+
+Limitations and remarks
+
+Excessive consumption of red meat is associated with a negative impact on gut health, especially the colon and rectum. High red meat intake can lead to intestinal barrier damage, microbiota disturbances, inflammation, and increased risk of gastrointestinal cancers.
+
+Mechanisms of negative impact
+
+The importance of diet and fiber
+
+Impact of excessive red meat consumption on the gut – summary of studies
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:55
+
+Final comment:Excessive consumption of red meat is one of the best-studied negative dietary interventions. The results of numerous meta-analyses, systematic reviews, and large observational studies conducted across various populations consistently indicate that both processed and unprocessed red meat significantly increase the risk of cardiovascular diseases (heart attack, stroke, cardiovascular death), metabolic syndrome, insulin resistance, chronic inflammation, damage to the intestinal barrier, and the development of cancers (especially colorectal and stomach cancer). Additionally, biological mechanisms such as the impact of heme, iron, mutagens formed during thermal processing, and dysbiosis of the microbiota are well understood and described in translational research. The scientific consensus of international organizations (e.g., WHO, AHA, WCRF) unequivocally emphasizes the negative impact of excess red meat on human health.
+
+Red meat consumption, cardiovascular diseases, and diabetes: a systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:Unprocessed and processed red meat consumption are both associated with higher risk of cardiovascular diseases and diabetes, with a stronger association in western settings but no sex difference.
+
+Abstract:AIMS
+Observational studies show inconsistent associations of red meat consumption with cardiovascular disease (CVD) and diabetes. Moreover, red meat consumption varies by sex and setting, however, whether the associations vary by sex and setting remains unclear.
+
+METHODS AND RESULTS
+This systematic review and meta-analysis was conducted to summarize the evidence concerning the associations of unprocessed and processed red meat consumption with CVD and its subtypes , type two diabetes mellitus (T2DM), and gestational diabetes mellitus (GDM) and to assess differences by sex and setting (western vs. eastern, categorized based on dietary pattern and geographic region). Two researchers independently screened studies from PubMed, Web of Science, Embase, and the Cochrane Library for observational studies and randomized controlled trials (RCTs) published by 30 June 2022. Forty-three observational studies (N = 4 462 810, 61.7% women) for CVD and 27 observational studies (N = 1 760 774, 64.4% women) for diabetes were included. Red meat consumption was positively associated with CVD , CVD subtypes, T2DM, and GDM. The associations with stroke and T2DM were higher in western settings, with no difference by sex.
+
+CONCLUSION
+Unprocessed and processed red meat consumption are both associated with higher risk of CVD, CVD subtypes, and diabetes, with a stronger association in western settings but no sex difference. Better understanding of the mechanisms is needed to facilitate improving cardiometabolic and planetary health.
+
+Red meat consumption and all-cause and cardiovascular mortality: results from the UK Biobank study
+
+Number of 
+
+Key takeaways:Red meat consumption is associated with higher risks of cardiovascular diseases, including coronary heart disease and stroke, and replacing red meat with poultry or cereal can lower these risks.
+
+Abstract:PurposeTo investigate the prospective associations between red meat consumption and all-cause and cardiovascular diseases (CVD) mortality, and to assess the modification effects of lifestyle and genetic risk factors.Methods180,642 individuals free of CVD or cancer were enrolled from 2006 to 2010 and followed up to 2018 in the UK Biobank. Information on demographics, lifestyles, and medical history was collected through a baseline touchscreen questionnaire. The information on diet was collected through a single touchscreen food-frequency questionnaire. A total of ten single-nucleotide polymorphisms were used to calculate the genetic risk score (GRS) of trimethylamine N-oxide (TMAO), a gut microbiota metabolite from red meat. Adjusted Cox proportional hazard regression models were used to assess the association of red meat consumption with mortality.ResultsWe documented 3596 deaths during median 8.6 years of follow-up. Compared with the lowest red meat intake (< 1.5 times/week), the highest red meat intake (≥ 3.0 times/week) was associated with a 20%, 53%, and 101% elevated risk for CVD, CHD, and stroke mortality (P for trend = 0.04, 0.007, and 0.02, respectively), but not all-cause mortality. We found that the associations between red meat intake and mortality were not modified by dietary and lifestyle factors, as well as TMAO GRS. In addition, substitution analyses showed that a decrease in red meat consumption and an increase in the consumption of poultry or cereal was significantly associated with 9%–16% lower CVD or CHD mortality risk.ConclusionOur results indicated that red meat consumption was associated with higher risks of CVD, CHD, and stroke mortality, and the associations were not modified by lifestyle and genetic risk factors. Replacing red meat by poultry or cereal was related to lower risks of CVD and CHD mortality.
+
+Red Meat Intake and the Risk of Cardiovascular Diseases: A Prospective Cohort Study in the Million Veteran Program.
+
+Number of 
+
+Key takeaways:Lowering red meat intake and replacing it with plant-based protein sources or low-fat dairy foods is a key dietary recommendation for preventing cardiovascular diseases.
+
+Red Meat Consumption and its Relationship With Cardiovascular Health: A Review of Pathophysiology and Literature
+
+Number of 
+
+Key takeaways:Red meat consumption is linked to increased risk of cardiovascular diseases and all-cause mortality, despite its nutritional benefits.
+
+Abstract:Red meat is the muscle meat of mammals like beef, lamb, and pork that is red due to the abundance of myoglobin pigment and becomes even darker when cooked. The global average per capita consumption of meat and the total amount of meat consumed is rising, and there has been a particularly marked increase in the global consumption of chicken and pork. The consumption of red meat has always been a contentious issue, with data suggesting benefits in terms of nutritional value and at the same time linking its consumption to major health disorders such as endocrine abnormalities, gastrointestinal issues, cancers, and cardiovascular diseases (CVDs). Despite being normalized by major food franchises, red meat consumption may lead to adverse cardiovascular outcomes such as atherosclerosis, ischemic heart disease, stroke, and cardiac failure. Given the evidence that indicates the consumption of red and processed meat as a risk factor for cardiovascular diseases and all-cause mortality, it is important to review the effects of red meat on the risk of cardiovascular diseases.
+
+Total red meat intake of ≥0.5 servings/d does not negatively influence cardiovascular disease risk factors: a systemically searched meta-analysis of randomized controlled trials.
+
+Number of 
+
+Key takeaways:Consuming ≥0.5 servings of total red meat per day does not negatively impact blood lipids, lipoproteins, or blood pressure levels.
+
+Abstract:BACKGROUND
+Observational associations between red meat intake and cardiovascular disease (CVD) are inconsistent. There are limited comprehensive analyses of randomized controlled trials (RCTs) that investigate the effects of red meat consumption on CVD risk factors.
+
+OBJECTIVE
+The purpose of this systematically searched meta-analysis was to assess the effects of consuming ≥0.5 or <0.5 servings of total red meat/d on CVD risk factors . We hypothesized that the consumption of ≥0.5 servings of total red meat/d would have a negative effect on these CVD risk factors.
+
+DESIGN
+Two researchers independently screened 945 studies from PubMed, Cochrane Library, and Scopus databases and extracted data from 24 qualified RCTs. Inclusion criteria were 1) RCT, 2) subjects aged ≥19 y, 3) consumption of ≥0.5 or <0.5 total red meat servings/d , and 4) reporting ≥1 CVD risk factor. We performed an adjusted 2-factor nested ANOVA mixed-effects model procedure on the postintervention values of TC, LDL cholesterol, HDL cholesterol, TC:HDL cholesterol, triglycerides, SBP, and DBP; calculated overall effect sizes of change values; and used a repeated-measures ANOVA to assess pre- to postintervention changes.
+
+RESULTS
+Red meat intake did not affect lipid-lipoprotein profiles or blood pressure values postintervention (P > 0.05) or changes over time . Among all subjects, TC, LDL cholesterol, HDL cholesterol, TC:HDL cholesterol, triglycerides, and DBP, but not SBP, decreased over time (P < 0.05).
+
+CONCLUSIONS
+The results from this systematically searched meta-analysis of RCTs support the idea that the consumption of ≥0.5 servings of total red meat/d does not influence blood lipids and lipoproteins or blood pressures.
+
+Red and Processed Meat Consumption and Risk for All-Cause Mortality and Cardiometabolic Outcomes
+
+Number of 
+
+Key takeaways:Higher red and processed meat consumption is associated with increased risk of all-cause mortality and cardiometabolic diseases, but results have been inconsistent.
+
+Abstract:Growing evidence shows an increased risk for cardiometabolic disease associated with the consumption of red and processed meat. Although previous systematic reviews reported positive associations between red meat intake and all-cause mortality (1), cardiovascular mortality (2), and stroke (3) and between processed meat consumption and all-cause mortality (1, 4), cardiovascular mortality (2), stroke (3), coronary heart disease (5), and type 2 diabetes (5), results have not been consistent. One review did not find an association between unprocessed red meat and all-cause mortality (4), and another found no association with cardiovascular disease (5). Although Aune and colleagues (6) reported a relationship between red meat intake and type 2 diabetes, Micha and colleagues (5) did not detect this association in a review 
+
+Meat lipids, NaCl and carnitine: Do they unveil the conundrum of the association between red and processed meat intake and cardiovascular diseases?_Invited Review.
+
+Number of 
+
+Key takeaways:Red and processed meat consumption may increase the risk of cardiovascular diseases, with meat lipids, sodium, and carnitine potentially contributing to the issue.
+
+Association of Red Meat Consumption, Metabolic Markers, and Risk of Cardiovascular Diseases
+
+Number of 
+
+Key takeaways:Red meat consumption in the Chinese population is associated with several metabolic markers, which may partially explain its harmful effect on cardiovascular diseases.
+
+Abstract:Objective The metabolic mechanism of harmful effects of red meat on the cardiovascular system is still unclear. The objective of the present study is to investigate the associations of self-reported red meat consumption with plasma metabolic markers, and of these markers with the risk of cardiovascular diseases (CVD). Methods Plasma samples of 4,778 participants (3,401 CVD cases and 1,377 controls) aged 30–79 selected from a nested case-control study based on the China Kadoorie Biobank were analyzed by using targeted nuclear magnetic resonance to quantify 225 metabolites or derived traits. Linear regression was conducted to evaluate the effects of self-reported red meat consumption on metabolic markers, which were further compared with the effects of these markers on CVD risk assessed by logistic regression. Results Out of 225 metabolites, 46 were associated with red meat consumption. Positive associations were observed for intermediate-density lipoprotein (IDL), small high-density lipoprotein (HDL), and all sizes of low-density lipoprotein (LDL). Cholesterols, phospholipids, and apolipoproteins within various lipoproteins, as well as fatty acids, total choline, and total phosphoglycerides, were also positively associated with red meat consumption. Meanwhile, 29 out of 46 markers were associated with CVD risk. In general, the associations of metabolic markers with red meat consumption and of metabolic markers with CVD risk showed consistent direction. Conclusions In the Chinese population, red meat consumption is associated with several metabolic markers, which may partially explain the harmful effect of red meat consumption on CVD.
+
+Higher consumption of red and processed meat is associated with adverse cardiovascular magnetic resonance morpho-functional phenotypes: A study of 19,408 UK Biobank participants
+
+Number of 
+
+Key takeaways:Higher red and processed meat consumption is associated with adverse cardiovascular phenotypes, while oily fish intake is associated with a healthy cardiovascular phenotype, partially mediated by cardiometabolic morbidities.
+
+Abstract:Type of funding 
+ 
+ 
+ 
+ Multiple epidemiological studies link greater red and processed meat consumption with poorer cardiovascular outcomes. However, the impact of these exposures on directly measured cardiovascular phenotypes has not been examined in large cohorts. Limited existing studies suggest that the observed associations may be mediated by cardiometabolic diseases and/or novel mechanisms acting via the heart-gut axes. However, few studies systematically examine potential confounding and mediating mechanisms.
+ 
+ 
+ 
+ We assessed, in the UK Biobank, the association between meat intake and cardiovascular structure and function incorporating a comprehensive range of confounders and mediators.
+ 
+ 
+ 
+ We studied 19,408 participants with cardiovascular magnetic resonance (CMR) data. We determined average daily red and processed meat intake using food frequency questionnaires. We used oily fish as a comparator linked to favourable cardiac health. We considered conventional CMR measures (ventricular volumes, left ventricular mass, ejection fraction, stroke volume), novel CMR radiomics features (shape, texture), and arterial stiffness metrics (arterial stiffness index, aortic distensibility). Multivariable linear regression models were used to investigate associations between meat/fish intake and cardiovascular phenotypes, adjusting for age, sex, deprivation, educational level, smoking, alcohol intake, and exercise. In separate models, we investigated the mediating role of cardiometabolic morbidities.
+ 
+ 
+ 
+ Higher intake of red and processed meat was associated with an adverse overall pattern of right and left ventricular remodelling, poorer cardiac function, and higher arterial stiffness. Conversely, higher oily fish intake was associated with a healthy cardiovascular phenotype (better ventricular function, greater arterial compliance). Radiomics analysis showed association of the different dietary habits with unique overall geometry of the ventricles and myocardial texture. These associations were partially mediated by cardiometabolic morbidities.
+ 
+ 
+ 
+ Higher red and processed meat consumption is associated with adverse cardiovascular phenotypes. These relationships are not fully explained by mediation through cardiometabolic morbidities suggesting importance of alternative disease pathways. Understanding these potential novel disease mechanisms is important for optimising cardiovascular disease prevention strategies.
+
+Exploration of Metabolic Biomarkers Linking Red Meat Consumption to Ischemic Heart Disease Mortality in the UK Biobank
+
+Number of 
+
+Key takeaways:Red meat consumption is linked to higher ischemic heart disease mortality, with triglycerides and VLDL-related lipid metabolism playing a role in this relationship.
+
+Abstract:Growing evidence suggests that red meat consumption is a risk factor for cardiovascular health, with potential sex disparity. The metabolic mechanisms have not been fully understood. Using the UK Biobank, first we examined the associations of unprocessed red meat and processed meat with ischemic heart disease (IHD) mortality overall and by sex using logistic regression. Then, we examined the overall and sex-specific associations of red meat consumption with metabolites using multivariable regression, as well as the associations of selected metabolites with IHD mortality using logistic regression. We further selected metabolic biomarkers that are linked to both red meat consumption and IHD, with concordant directions. Unprocessed red meat and processed meat consumption was associated with higher IHD mortality overall and in men. Thirteen metabolites were associated with both unprocessed red meat and IHD mortality overall and showed a consistent direction, including triglycerides in different lipoproteins, phospholipids in very small very-low-density lipoprotein (VLDL), docosahexaenoic acid, tyrosine, creatinine, glucose, and glycoprotein acetyls. Ten metabolites related to triglycerides and VLDL were positively associated with both unprocessed red meat consumption and IHD mortality in men, but not in women. Processed meat consumption showed similar results with unprocessed red meat. Triglycerides in lipoproteins, fatty acids, and some nonlipid metabolites may play a role linking meat consumption to IHD. Triglycerides and VLDL-related lipid metabolism may contribute to the sex-specific associations. Sex differences should be considered in dietary recommendations.
+
+Association of red meat consumption with the incidence of cardiovascular disease
+
+Number of 
+
+Key takeaways:High red meat consumption, especially processed meat, is associated with an increased risk of cardiovascular diseases, stroke, heart failure, and type 2 diabetes mellitus.
+
+Abstract:Background: Red meat, processed and unprocessed, has been associated with increased incidence of cardiovascular disease (CVD), stroke, heart failure (HF), and type 2 diabetes mellitus (T2DM). Despite these adverse effects, it is still, highly consumed by the people of developed counties and increasingly consumed by the people of developing countries. Aims: The aim of the paper was to review the current evidence on the effects of processed and unprocessed red meat consumption on the incidence of CVD, stroke, HF, and T2DM. Materials and Methods: A Medline search of the English language literature was conducted between 2010 and April 2020 using the terms, red meat, white meat, processed meat, unprocessed meat, cardiovascular disease, heart failure, diabetes mellitus and 22 pertinent papers were retrieved. Results: The analysis of results from these papers reveled that high red meat, especially processed meat consumption, is significantly associated with an increased risk of CVD, stroke, HF, and T2DM regardless of age, sex, or ethnicity. Discussion: The results of the studies retrieved, revealed that there is a controversy regarding the association of red meat consumption with an increased incidence of CVD. This controversy is due to the conflicting findings of the studies reviewed, with several studies showing no association, whereas others sowing an association, especially in subjects at high cardiovascular risk. Conclusion: There is regarding the association of red meat consumption with the incidence of CVD due to conflicting results of the various studies. Moderate red meat consumption showed no association with CVD in healthy subjects, but an association in high CVD risk subjects. Therefore, subjects at high cardiovascular risk should refrain from high red meat consumption and increase the intake healthier foods high in fiber content.
+
+A Contemporary Review of the Relationship between Red Meat Consumption and Cardiovascular Risk
+
+Number of 
+
+Key takeaways:Red meat consumption is associated with increased cardiovascular risk, but recent studies have found contradictory results.
+
+Abstract:Cardiovascular diseases burden is increasing due to aging populations and represents one of the major health issues worldwide. Dietary habits have been extensively studied in the cardiovascular field despite the difficulty in the quantification of the assumption of each single food and the observation that several foods affect cardiovascular risk with opposite effects. Moreover, some older findings have been reverted by more recent studies. Red meat has been widely studied in this context, and it has been suggested to increase cardiovascular risk primarily by causing dyslipidemia. Our aim is to review the relationship between red meat assumption and cardiovascular risk and to present novel findings regarding their link.
+
+Meta-Analysis of Randomized Controlled Trials of Red Meat Consumption in Comparison With Various Comparison Diets on Cardiovascular Risk Factors
+
+Number of 
+
+Key takeaways:Replacing red meat with high-quality plant protein sources leads to more favorable changes in blood lipids and lipoproteins, reducing cardiovascular disease risk factors.
+
+Abstract:Background: Findings among randomized controlled trials evaluating the effect of red meat on cardiovascular disease risk factors are inconsistent. We provide an updated meta-analysis of randomized controlled trials on red meat and cardiovascular risk factors and determine whether the relationship depends on the composition of the comparison diet, hypothesizing that plant 
+
+Red and processed meat intakes and cardiovascular disease and type 2 diabetes mellitus: An umbrella systematic review and assessment of causal relations using Bradford Hill’s criteria
+
+Number of 
+
+Key takeaways:Higher red and processed meat intakes are not likely causally related to cardiovascular diseases, but may have a potential causal relationship with type 2 diabetes mellitus.
+
+Abstract:Abstract Observational research suggests higher red and processed meat intakes predict greater risks of developing or dying from cardiovascular diseases (CVD) and type 2 diabetes mellitus (T2DM), but this research limits causal inference. This systematic review of reviews utilizes both observational and experimental research findings to infer causality of these relations. Reviews from four databases were screened by two researchers. Reviews included unprocessed red meat (URM), processed meat (PM), or mixed URM + PM intake, and reported CVD or T2DM outcomes. Twenty-nine reviews were included, and causality was inferred using Bradford Hill’s Criteria. Observational assessments of CVD outcomes and all meat types consistently reported weak associations while, T2DM outcomes and PM and Mixed URM + PM assessments consistently reported strong associations. Experimental assessments of Mixed URM + PM on CVD and T2DM risk factors were predominately not significant which lacked coherence with observational findings. For all meat types and outcomes, temporality and plausible mechanisms were established, but specificity and analogous relationships do not support causality. Evidence was insufficient for URM and T2DM. More experimental research is needed to strengthen these inferences. These results suggest that red and processed meat intakes are not likely causally related to CVD but there is potential for a causal relationship with T2DM.
+
+Red meat consumption and cardiovascular target organ damage (from the Strong Heart Study)
+
+Number of 
+
+Key takeaways:Red meat consumption is linked to cardiovascular target organ damage in hypertensive American Indians, emphasizing the importance of dietary measures for cardiovascular disease prevention.
+
+Abstract:Objective: The aim of this study was to investigate whether red meat consumption is related to changes in left ventricular mass (LVM), left atrial diameter and carotid atherosclerosis in American Indians. Methods: We prospectively analyzed echocardiographic and carotid ultrasound data of 1090 adults aged 40 years and older enrolled in the Strong Heart Family Study who were free of cardiovascular disease at baseline – 535 (49%) were hypertensive and 555 (51%) participants were nonhypertensive. Processed and unprocessed red meat intake was ascertained by using a Block food-frequency questionnaire at baseline. Cardiac and vascular biomarkers were assessed at baseline and 4 years later. Marginal models with multivariate adjustment were used to assess the associations of red meat intake with LVM, left atrial diameter, intima–media thickness and presence and extent of carotid atherosclerosis. Results: Participants with hypertension were older, had a higher BMI, were more likely to be diabetic and less physically active. Processed and unprocessed red meat consumption was related to an increase in the presence of atherosclerotic plaques in male and female hypertensive individuals. In male hypertensive participants, processed meat intake was further observed to be associated with an increase in intima–media thickness, atrial diameter but not LVM. In nonhypertensive participants, neither unprocessed nor processed red meat intake was associated with changes in cardiac parameters or carotid atherosclerosis. Conclusion: Over a 4-year period, red meat consumption was related to cardiovascular target organ damage in hypertensive American Indians. These findings emphasize the importance of dietary measures for cardiovascular disease prevention.
+
+Red meat consumption: a threat towards cardiovascular diseases.
+
+Number of 
+
+Key takeaways:Red meat consumption, especially processed red meat, is linked to cardiovascular diseases, with gut microbes converting L-carnitine into toxic compounds and promoting hypertension.
+
+Abstract:Cardiovascular diseases are a major killer and the occurrence of cardiovascular diseases (CVD) is related to diet which we consume. Major risk factors associated with cardiovascular diseases are physical inactivity, smoking, dietary patterns etc. The consumption of meat is also associated with cardiovascular diseases mostly due to the use of processed red meat. Mechanism involved in red meat consumption and occurrence of CVD involved the gut microbes. The major component present in red meat named L-carnitine. Gut microbes convert this compound into toxic compound into trimethyl Amine (TMO), which is further converted into another toxic compound trimethylamine-Noxide (TMAO), which cause the atherosclerosis and leads toward heart failure and other CVD. Red meat also contain toxic N-nitroso compounds which are a major risk factors in promoting hyper tension, which in fact a major cause of CVD. Consumption of red meat is a threat towards cardiovascular diseases mostly processed red meat product. Diet is a major factor which can control the occurrence and prevention of heart diseases.
+
+Red/processed meat consumption and non-cancer-related outcomes in humans: umbrella review
+
+Number of 
+
+Key takeaways:High red and processed meat consumption is associated with increased risks of type 2 diabetes, cardiovascular disease, hypertension, and stroke, making it more harmful than beneficial for human health.
+
+Abstract:Abstract The associations of red/processed meat consumption and cancer-related health outcomes have been well discussed. The umbrella review aimed to summarise the associations of red/processed meat consumption and various non-cancer-related outcomes in humans. We systematically searched the systematic reviews and meta-analyses of associations between red/processed meat intake and health outcomes from PubMed, Embase, Web of Science and the Cochrane Library databases. The umbrella review has been registered in PROSPERO (CRD 42021218568). A total of 40 meta-analyses were included. High consumption of red meat, particularly processed meat, was associated with a higher risk of all-cause mortality, CVD and metabolic outcomes. Dose–response analysis revealed that an additional 100 g/d red meat intake was positively associated with a 17 % increased risk of type 2 diabetes mellitus (T2DM), 15 % increased risk of CHD, 14 % of hypertension and 12 % of stroke. The highest dose–response/50 g increase in processed meat consumption at 95 % confident levels was 1·37, 95 % CI (1·22, 1·55) for T2DM, 1·27, 95 % CI (1·09, 1·49) for CHD, 1·17, 95 % CI (1·02, 1·34) for stroke, 1·15, 95 % CI (1·11, 1·19) for all-cause mortality and 1·08, 95 % CI (1·02, 1·14) for heart failure. In addition, red/processed meat intake was associated with several other health-related outcomes. Red and processed meat consumption seems to be more harmful than beneficial to human health in this umbrella review. It is necessary to take the impacts of red/processed meat consumption on non-cancer-related outcomes into consideration when developing new dietary guidelines, which will be of great public health importance. However, more additional randomised controlled trials are warranted to clarify the causality.
+
+Health effects associated with consumption of unprocessed red meat: a Burden of Proof study
+
+Number of 
+
+Key takeaways:Eating unprocessed red meat is associated with increased risk of colorectal cancer, breast cancer, type 2 diabetes, and ischemic heart disease, but more rigorous research is needed for stronger recommendations.
+
+Total, red and processed meat consumption and human health: an umbrella review of observational studies
+
+Number of 
+
+Key takeaways:Excessive consumption of total, red, and processed meat is associated with increased risk of colorectal adenoma, lung cancer, CHD and stroke, and various cancers.
+
+Abstract:Abstract Meat consumption has represented an important evolutionary step for humans. However, modern patterns of consumption, including excess intake, type of meat and cooking method have been the focus of attention as a potential cause of rise in non-communicable diseases. The aim of this study was to investigate the association between total, red and processed meat with health outcomes and to assess the level of evidence by performing a systematic search of meta-analyses of prospective cohort studies. Convincing evidence of the association between increased risk of (i) colorectal adenoma, lung cancer, CHD and stroke, (ii) colorectal adenoma, ovarian, prostate, renal and stomach cancers, CHD and stroke and (iii) colon and bladder cancer was found for excess intake of total, red and processed meat, respectively. Possible negative associations with other health outcomes have been reported. Excess meat consumption may be detrimental to health, with a major impact on cardiometabolic and cancer risk.
+
+Associations of Processed Meat, Unprocessed Red Meat, Poultry, or Fish Intake With Incident Cardiovascular Disease and All-Cause Mortality.
+
+Number of 
+
+Key takeaways:Processed meat, unprocessed red meat, poultry, and fish intake are significantly associated with increased risk of developing cardiovascular disease and all-cause mortality.
+
+Abstract:Importance
+Although the associations between processed meat intake and cardiovascular disease (CVD) and all-cause mortality have been established, the associations of unprocessed red meat, poultry, or fish consumption with CVD and all-cause mortality are still uncertain.
+
+Objective
+To identify the associations of processed meat, unprocessed red meat, poultry, or fish intake with incident CVD and all-cause mortality.
+
+Design, Setting, and Participants
+This cohort study analyzed individual-level data of adult participants in 6 prospective cohort studies in the United States. Baseline diet data from 1985 to 2002 were collected. Participants were followed up until August 31, 2016. Data analyses were performed from March 25, 2019, to November 17, 2019.
+
+Exposures
+Processed meat, unprocessed red meat, poultry, or fish intake as continuous variables.
+
+Main Outcomes and Measures
+Hazard ratio (HR) and 30-year absolute risk difference (ARD) for incident CVD (composite end point of coronary heart disease, stroke, heart failure, and CVD deaths) and all-cause mortality, based on each additional intake of 2 servings per week for monotonic associations or 2 vs 0 servings per week for nonmonotonic associations.
+
+Results
+Among the 29 682 participants (mean age at baseline, 53.7 years; 13 168 men; and 9101 self-identified as non-white), 6963 incident CVD events and 8875 all-cause deaths were adjudicated during a median (interquartile range) follow-up of 19.0 (14.1-23.7) years. The associations of processed meat, unprocessed red meat, poultry, or fish intake with incident CVD and all-cause mortality were monotonic (P for nonlinearity ≥ .25), except for the nonmonotonic association between processed meat intake and incident CVD (P for nonlinearity = .006). Intake of processed meat (adjusted HR, 1.07 ; adjusted ARD, 1.74% ), unprocessed red meat (adjusted HR, 1.03 ; adjusted ARD, 0.62% ), or poultry (adjusted HR, 1.04 ; adjusted ARD, 1.03% ) was significantly associated with incident CVD. Fish intake was not significantly associated with incident CVD (adjusted HR, 1.00 ; adjusted ARD, 0.12% ). Intake of processed meat (adjusted HR, 1.03 ; adjusted ARD, 0.90% ) or unprocessed red meat (adjusted HR, 1.03 ; adjusted ARD, 0.76% ) was significantly associated with all-cause mortality. Intake of poultry (adjusted HR, 0.99 ; adjusted ARD, -0.28% ) or fish (adjusted HR, 0.99 ; adjusted ARD, -0.34% ) was not significantly associated with all-cause mortality.
+
+Conclusions and Relevance
+These findings suggest that, among US adults, higher intake of processed meat, unprocessed red meat, or poultry, but not fish, was significantly associated with a small increased risk of incident CVD, whereas higher intake of processed meat or unprocessed red meat, but not poultry or fish, was significantly associated with a small increased risk of all-cause mortality. These findings have important public health implications and should warrant further investigations.
+
+Red, white, and processed meat consumption related to inflammatory and metabolic biomarkers among overweight and obese women
+
+Number of 
+
+Key takeaways:Higher red and processed meat consumption is positively associated with inflammatory and metabolic markers in overweight and obese women, while high white meat intake is negatively associated with insulin resistance.
+
+Abstract:Background Considering that a high meat intake is directly associated with obesity, it is critical to address the relationship between consuming different types of meat with inflammation and metabolism in overweight and obese cohorts. Thus, we evaluated the association between red, white, and processed meat consumption with inflammatory and metabolic biomarkers in overweight and obese women. Methods The current cross-sectional study was conducted on 391 overweight and obese Iranian women. Dietary intake was obtained from a food frequency questionnaire (FFQ) with 147 items. The anthropometric measurements, serum lipid profile, and inflammatory markers were measured by standard protocols. All associations were assessed utilizing one-way analysis of variance (ANOVA), analysis of covariance (ANCOVA), and linear regression models. Results In the adjusted model, it was established that higher intake of processed meat had a significant positive association with leptin levels (β: 0.900, 95% CI: 0.031;1.233, p = 0.015). Moreover, after considering the confounders, a significant positive association between processed meat and macrophage inflammatory protein (MCP-1) levels was observed (β: 0.304, 95% CI:0.100;1.596, p = 0.025). Positive significant associations between high-sensitivity C-reactive protein (hs-CRP) (β:0.020, 95% CI:0.000;0.050, P = 0.014) and plasminogen activator inhibitor 1 (PAI-1) (β:0.263, 95% CI:0.112;0.345, p = 0.053) and MCP-1 (β:0.490, 95% CI: 0.175;1.464, p = 0.071) levels with red meat were also shown; while there was a significant negative association between red meat and the homeostasis model assessment of insulin resistance (HOMA-IR) (β: −0.016, 95% CI: −0.022, −0.001, p = 0.033). Furthermore, a significant negative association were established following confounding adjustment between Galectin-3 (Gal-3) (β: −0.110, 95% CI: −0.271;0.000, p = 0.044), MCP-1 (β: −1.933, 95% CI: −3.721;0.192, p = 0.022) and Homeostatic Model Assessment for Insulin Resistance (HOMA-IR) (β: −0.011, 95% CI: −0.020,0.000, p = 0.070) levels with high adherence of white meat intake. In contrast, a significant marginally positive association between PAI-1 levels and high adherence to white meat intake (β: −0.340, 95% CI: −0.751;0.050, p = 0.070) has been shown. Conclusions Higher red and processed meat consumption were positively associated with inflammatory and metabolic markers in overweight and obese women. In contrast, negative relationships between high adherence to white meat and various inflammatory and metabolic parameters were established. Further studies are needed to confirm the causality of these associations and potential mediating pathways.
+
+Red but not white meat consumption is associated with metabolic syndrome, insulin resistance and lipid peroxidation in Brazilian middle-aged men
+
+Number of 
+
+Key takeaways:Red meat consumption is associated with central obesity, hypertriglyceridaemia, and metabolic syndrome, while white meat consumption is not associated with these conditions.
+
+Abstract:Background The influence of diet on metabolic syndrome and oxidative stress are not completely known. Design This cross-sectional study assessed the association of red meat and white meat consumption with metabolic syndrome, insulin resistance and lipid peroxidation in Brazilian middle-aged men. Methods A total of 296 subjects (age: 50.5 ± 5.0 years, body mass index: 25.8 ± 3.5 kg/m2) were evaluated. Anthropometry, lifestyle features, blood biochemical parameters, diagnosis of metabolic syndrome, homeostatic model assessment for insulin resistance, a lipid peroxidation marker (oxidized low-density lipoprotein) and triglycerides:high-density lipoprotein cholesterol ratio were assessed. Dietary intake was estimated by a food frequency questionnaire. Results The subjects included in the highest tertile red meat (≥81.5 g/d) and saturated fatty acid from red meat consumption (≥4.3 g/d) had higher occurrence of central obesity (nearly 60%, p < 0.01), hypertriglyceridaemia (nearly 43%, p < 0.01) and metabolic syndrome (35%, p < 0.01). They also had higher values of homeostatic model assessment for insulin resistance, oxidized low-density lipoprotein, and triglycerides:high-density lipoprotein cholesterol ratio, regardless of interfering factors. There were no associations of highest white meat tertile (≥39.4 g/d) and saturated fatty acid from white meat (≥1.0 g/d) consumption with the assessed parameters (p > 0.05). Conclusions Red meat consumption was cross-sectionally associated with the occurrence of central obesity, hypertriglyceridaemia, and metabolic syndrome as well as with higher homeostatic model assessment for insulin resistance, oxidized low-density lipoprotein concentrations and triglycerides:high-density lipoprotein cholesterol ratio. The content of saturated fatty acid from red meat consumption may be a factor that contributed to this relationship, while white meat consumption was not associated with metabolic syndrome and the assessed biomarkers.
+
+Meat Consumption and Risk of Metabolic Syndrome: Results from the Korean Population and a Meta-Analysis of Observational Studies
+
+Number of 
+
+Key takeaways:Higher intake of total, red, and processed meat is associated with metabolic syndrome, while white meat intake is inversely associated with the condition.
+
+Abstract:Many studies have reported harmful effects of red meat or processed meat on chronic diseases including cancer and diabetes, but epidemiological evidence for metabolic syndrome is limited and remains controversial. Therefore, we performed a meta-analysis of observational studies to assess the association between various meat consumption and risk of metabolic syndrome. The PubMed and ISI Web of Science databases were searched through June 2017, and further included un
+
+The association between consumption of red and processed meats with metabolic syndrome and its components in obese and overweight women: a cross-sectional study
+
+Number of 
+
+Key takeaways:Higher intake of processed meat may be associated with metabolic syndrome in Iranian women with excess body weight, while red meat is not.
+
+Abstract:Abstract Objectives Previous studies have shown a relation between the consumption of different types of meats and chronic disorders. This study aims to investigate the association between red and processed meat intake with metabolic syndrome (MetS) and its components in healthy obese and overweight women. Methods This cross-sectional study was conducted on Iranian women. The dietary assessment and body composition were measured by a validated food frequency questionnaire (FFQ) and bioelectrical impedance analysis, respectively. Blood samples were collected by standard protocols. Results A total of 231 women (mean age 36.47 ± 8.44 years) were included in the current study. After controlling for potential confounders, there was a marginally significant associations between higher intake of processed meat with the MetS (OR:1.01, 95% CI: 0.94,2.94, P:0.06) and high serum triglycerides (TG) (OR:1.27, 95% CI: 0.94,2.98, P:0.07). There was a significant associations between high intake of red meats with lower odds of higher waist circumference (WC) (OR:0.31, 95% CI: 0.10,0.97, P:0.04). Also, there was a significant associations were found between high intake of processed meats with greater odds of having lower high-density lipoprotein cholesterol (HDL-c) (OR:0.64, 95% CI: 0.30,0.95, P:0.03). Conclusions The current study suggests that higher intakes of processed meat may be associated with the MetS in Iranian women with excess body weight, while this was not the case for red meat. More studies however are necessary in different communities to draw definitive conclusions.
+
+Red meat intake is associated with metabolic syndrome and the plasma C-reactive protein concentration in women.
+
+Number of 
+
+Key takeaways:Increased red meat consumption is associated with a greater risk of metabolic syndrome and inflammation in women.
+
+Abstract:Although red meat consumption has been related to the prevalence of diabetes, few data are available showing the relation among red meat intake, inflammation, and metabolic syndrome. We aimed to identify the association between red meat intake, metabolic syndrome, and circulating concentrations of C-reactive protein (CRP) as a surrogate measure of inflammation. In a cross-sectional study of 482 Tehrani female teachers aged 40-60 y, we used a FFQ to assess red meat intake. Anthropometric measures, blood pressure, fasting plasma glucose, lipid profiles, and plasma CRP concentrations were evaluated according to standard methods. Metabolic syndrome was defined as recommended by National Cholesterol Education Program Adult Treatment Panel III guidelines. Red meat intake (mean +/- SEM) was 45.9 +/- 3.0 g/d. After statistically controlling for potential confounders, geometric mean plasma CRP concentrations across increasing quintile categories of red meat intake were 1.46, 1.66, 1.73, 1.89 +/- 1.89, and 2.03 mg/L (P-trend < 0.01). In the crude model, individuals in the top quintile of red meat intake had greater odds of having metabolic syndrome compared with those in the bottom quintile . This association remained significant even after adjustment for potential confounders (OR, 2.15; CI, 1.18, 4.01; P-trend <0.01). Adjustment for CRP did not affect this association (OR, 2.06; CI, 1.16, 3.98; P-trend <0.01). In conclusion, increased red meat consumption is cross-sectionally associated with greater risk of metabolic syndrome and inflammation. Further prospective investigations will be needed to confirm this finding.
+
+Red meat consumption and metabolic syndrome in the Costa Rica Heart Study
+
+Number of 
+
+Key takeaways:Total red meat intake in Costa Rican adults is positively associated with metabolic syndrome, suggesting a potential threshold effect for unprocessed and processed red meat.
+
+Abstract:PurposeSeveral epidemiologic investigations have found associations between the consumption of red meat and the metabolic syndrome (MetS). Very few studies have looked at populations undergoing the nutrition transition with smaller levels of red meat consumption than those in Westernized countries. In this population-based cross-sectional study, we examined the association between red meat consumption and MetS in Costa Rican adults, a population with comparably lower consumption of red meat.MethodsPrevalence ratios (PRs) of MetS across quintiles of total, unprocessed, and processed red meat consumption were estimated with log-binomial regression models among 2058 adults from the Costa Rican Heart Study. Least-squares mean values of individual components of MetS across quintiles of red meat consumption were estimated with linear regression models.ResultsWe observed a significant positive association between total red meat consumption and MetS (PR for highest compared to lowest quintile: 1.21; 95% CI: 1.03, 1.42; P for trend = 0.0113) but not for unprocessed or processed red meat consumption when analyzed separately after mutual adjustments. We additionally observed a significant positive association between total, unprocessed, and processed red meat consumption and abdominal obesity.ConclusionIn this Hispanic population undergoing the nutrition transition, total red meat intake may have an impact on MetS. Based on the relatively low consumption of red meat in Costa Rica compared to other Westernized countries, we hypothesize that a “threshold effect” may exist for unprocessed and processed red meat.
+
+Association between red meat consumption and metabolic syndrome in a Mediterranean population at high cardiovascular risk: cross-sectional and 1-year follow-up assessment.
+
+Number of 
+
+Key takeaways:Higher red meat consumption is associated with a significantly higher prevalence and incidence of metabolic syndrome and central obesity in individuals at high risk of cardiovascular disease.
+
+Associations between red meat, processed red meat and total red and processed red meat consumption, nutritional adequacy and markers of health and cardio-metabolic diseases in British adults: a cross-sectional analysis using data from UK National Diet and Nutrition Survey
+
+Number of 
+
+Key takeaways:Higher red meat consumption is associated with better health markers, while processed red meat consumption is linked to increased BMI, hip circumference, and higher TC, LDL-C, HbA1c, and PP in women.
+
+Abstract:Abstract Purpose To determine the association between red meat (RM), processed red meat (PRM) and total red and processed red meat (TRPRM) consumption on nutritional adequacy and markers of health and cardio-metabolic diseases in British adults. Methods In this cross-sectional study of adults (19–64 y) from the National Diet and Nutrition Survey (NDNS) ( n = 1758), RM and PRM consumption were assessed from 4 day estimated food diaries. Anthropometric measures, blood pressure (BP), pulse pressure (PP), plasma glucose, HbA1c, C-reactive protein, TAG, TC, LDL-C and HDL-C from the NDNS were used. Results 43% of adults (men 57% and women 31%) consumed more than the 70 g/d TRPRM guidelines. Fewer adults in the highest tertile of TRPRM intake were below lower reference nutrient intakes (LRNIs), particularly for zinc and iron, respectively. In model 3 (controlled for age, energy intake, socioeconomic classification, number of daily cigarettes, BMI, dietary factors), higher RM consumption was associated with being significantly taller (model 3: P- ANCOVA = 0.006; P -T3/T1 = 0.0004) in men and lower diastolic BP (model 3: P- ANCOVA = 0.004; P -T3/T2 = 0.002) in women. Higher PRM in men was associated with significantly higher plasma ferritin concentration (model 3: P- ANCOVA = 0.0001; P -T2/T1 = 0.0001), being taller ( P- ANCOVA = 0.019; P -T1/T2 = 0.047, T1/T3 = 0.044), increased body weight (model 3: P- ANCOVA = 0.001; P -T1/T3 = 0.0001), BMI (model 3: P- ANCOVA = 0.007; P -T1/T3 = 0.006) and smaller hip circumference (model 3: P- ANCOVA = 0.006; P -T3/T1 = 0.024; P -T2/T1 = 0.013) and in women significantly higher TC (model 3: P- ANCOVA = 0.020; P -T3/T2 = 0.016), LDL-C ( P- ANCOVA = 0.030; P -T3/T2 = 0.025), HbA1c (model 3: P- ANCOVA = 0.0001; P -T2/T1 = 0.001; P -T3/T2 = 0.001) and higher PP (model 3: P- ANCOVA = 0.022; P -T3/T1 = 0.021). Higher PRM consumption was associated with significantly higher BMI and hip circumference in men, and higher TC, LDL-C, HbA1c and PP in women, which was not observed for RM consumption.
+
+The association between meat consumption and the metabolic syndrome: a cross-sectional study and meta-analysis
+
+Number of 
+
+Key takeaways:The metabolic syndrome may be positively associated with red meat consumption, inversely associated with fish consumption, and neutrally associated with poultry consumption in Chinese populations.
+
+Abstract:Abstract The findings regarding the associations between red meat, fish and poultry consumption, and the metabolic syndrome (Mets) have been inconclusive, and evidence from Chinese populations is scarce. A cross-sectional study was performed to investigate the associations between red meat, fish and poultry consumption, and the prevalence of the Mets and its components among the residents of Suzhou Industrial Park, Suzhou, China. A total of 4424 participants were eligible for the analysis. A logistic regression model was used to estimate the OR and 95 % CI for the prevalence of the Mets and its components according to red meat, fish and poultry consumption. In addition, the data of our cross-sectional study were meta-analysed under a random effects model along with those of published observational studies to generate the summary relative risks (RR) of the associations between the highest v. lowest categories of red meat, fish and poultry consumption and the Mets and its components. In the cross-sectional study, the multivariable-adjusted OR for the highest v. lowest quartiles of consumption was 1·23 (95 % CI 1·02, 1·48) for red meat, 0·83 (95 % CI 0·72, 0·97) for fish and 0·93 (95 % CI 0·74, 1·18) for poultry. In the meta-analysis, the pooled RR for the highest v. lowest categories of consumption was 1·20 (95 % CI 1·06, 1·35) for red meat, 0·88 (95 % CI 0·81, 0·96) for fish and 0·97 (95 % CI 0·85, 1·10) for poultry. The findings of both cross-sectional studies and meta-analyses indicated that the association between fish consumption and the Mets may be partly driven by the inverse association of fish consumption with elevated TAG and reduced HDL-cholesterol and, to a lesser extent, fasting plasma glucose. No clear pattern of associations was observed between red meat or poultry consumption and the components of the Mets. The current findings add weight to the evidence that the Mets may be positively associated with red meat consumption, inversely associated with fish consumption and neutrally associated with poultry consumption.
+
+Impact of red meat consumption on the metabolome of rats
+
+Number of 
+
+Key takeaways:Red meat consumption leads to specific differences in the metabolome of rats, potentially reflecting perturbations in endogenous metabolism linked to potential harmful effects.
+
+Abstract:Scope: The scope of the present study was to investigate the effects of red versus white meat intake on the metabolome of rats. Methods and results: Twenty‐four male Sprague–Dawley rats were randomly assigned to 15 days of ad libitum feeding of one of four experimental diets: (i) lean chicken, (ii) chicken with lard, (iii) lean beef, and (iv) beef with lard. Urine, feces, plasma, and colon tissue samples were analyzed using 1H NMR‐based metabolomics and real‐time PCR was performed on colon tissue to examine the expression of specific genes. Urinary excretion of acetate and anserine was higher after chicken intake, while carnosine, fumarate, and trimethylamine N‐oxide excretion were higher after beef intake. In colon tissue, higher choline levels and lower lipid levels were found after intake of chicken compared to beef. Expression of the apc gene was higher in response to the lean chicken and beef with lard diets. Correlation analysis revealed that intestinal apc gene expression was correlated with fecal lactate content (R2 = 0.65). Conclusion: This study is the first to identify specific differences in the metabolome related to the intake of red and white meat. These differences may reflect perturbations in endogenous metabolism that can be linked to the proposed harmful effects associated with intake of red meat.
+
+Association of Red Meat and Poultry Consumption With the Risk of Metabolic Syndrome: A Meta-Analysis of Prospective Cohort Studies
+
+Number of 
+
+Key takeaways:Red meat (processed and unprocessed) consumption is associated with a higher risk of metabolic syndrome, while poultry consumption is associated with a lower risk of metabolic syndrome.
+
+Abstract:Objective: This study aims to investigate the association of red meat (processed and unprocessed) and poultry consumption with the risk of metabolic syndrome (MetS). Methods: Prospective cohort studies on the association of red meat (processed and unprocessed) and poultry consumption with the risk of MetS were identified by comprehensive literature search in the PubMed, Web of Science, and Embase databases up to March 2021. The pooled relative risk (RR) of MetS with 95% CIs for the highest vs. lowest category of red meat or poultry consumption was extracted for meta-analysis. Results: A total of nine prospective cohort studies were included in this study. Among them, eight studies were identified for red meat consumption. The overall multi-variable adjusted RR demonstrated that red meat consumption was associated with a higher risk of MetS (RR = 1.35, 95% CI: 1.13–1.62; P = 0.001). Moreover, four and three studies were specifically related to processed and unprocessed red meat consumption, respectively. Both processed (RR = 1.48, 95% CI: 1.11–1.97; P = 0.007) and unprocessed red meat (RR = 1.32, 95% CI: 1.14–1.54; P = 0.0003) consumption was associated with a higher risk of MetS. With regard to poultry consumption, three studies were included. The overall multi-variable adjusted RR suggested that poultry consumption was associated with lower risk of MetS (RR = 0.85, 95% CI: 0.75–0.97; P = 0.02). Conclusions: The current evidence indicates that red meat (processed and unprocessed) consumption is associated with a higher risk of MetS, whereas, poultry consumption is associated with a lower risk of MetS. More well-designed randomized controlled trials are still needed to address the issues further.
+
+High red and processed meat consumption is associated with non-alcoholic fatty liver disease and insulin resistance.
+
+Number of 
+
+Key takeaways:High consumption of red and processed meat is associated with non-alcoholic fatty liver disease and insulin resistance, with high intake of heterocyclic amines also linked to insulin resistance.
+
+Consumption of processed red meat and its impact on human health: A Review
+
+Number of 
+
+Key takeaways:Processed red meat consumption, when consumed in moderation, contributes to vitamins and minerals, but excessive consumption may increase the risk of developing or intensifying existing diseases.
+
+Abstract:Summary Meat is an important component of the human diet, and the consumption of processed meat is high, despite the increasing popularity of the vegetarian model of nutrition. Both meat and meat product consumption contribute to delivering many vitamins and minerals, such as iron, zinc, selenium and vitamin B12; moreover, meat products are a significant source of high biological value protein, providing essential amino acids. Processed meat should be eaten in moderation. Excessive consumption of processed red meat (cured and smoked) carries the risk of developing new diseases or intensifying existing ones. This review aims to present scientific reports on the role and safety of the consumption of processed red meat in the diet of healthy individuals. The impact of meat consumption on the risk of cancer, cardiovascular diseases, diabetes, obesity, inflammatory bowel diseases, non‐alcoholic fatty liver and infertility was described.
+
+A metabolomic study of red and processed meat intake and acylcarnitine concentrations in human urine and blood.
+
+Number of 
+
+Key takeaways:Red meat intake is associated with increased acylcarnitine concentrations in urine and blood, potentially impacting metabolic function and the etiology of chronic diseases.
+
+Abstract:BACKGROUND
+Acylcarnitines (ACs) play a major role in fatty acid metabolism and are potential markers of metabolic dysfunction with higher blood concentrations reported in obese and diabetic individuals. Diet, and in particular red and processed meat intake, has been shown to influence AC concentrations but data on the effect of meat consumption on AC concentrations is limited.
+
+OBJECTIVES
+To investigate the effect of red and processed meat intake on AC concentrations in plasma and urine using a randomized controlled trial with replication in an observational cohort.
+
+METHODS
+In the randomized crossover trial, 12 volunteers successively consumed 2 different diets containing either pork or tofu for 3 d each. A panel of 44 ACs including several oxidized ACs was analyzed by LC-MS in plasma and urine samples collected after the 3-d period. ACs that were associated with pork intake were then measured in urine (n = 474) and serum samples (n = 451) from the European Prospective Investigation into Cancer and nutrition (EPIC) study and tested for associations with habitual red and processed meat intake derived from dietary questionnaires.
+
+RESULTS
+In urine samples from the intervention study, pork intake was positively associated with concentrations of 18 short- and medium-chain ACs. Eleven of these were also positively associated with habitual red and processed meat intake in the EPIC cross-sectional study. In blood, C18:0 was positively associated with red meat intake in both the intervention study (q = 0.004, Student's t-test) and the cross-sectional study (q = 0.033, linear regression).
+
+CONCLUSIONS
+AC concentrations in urine and blood were associated with red meat intake in both a highly controlled intervention study and in subjects of a cross-sectional study. Our data on the role of meat intake on this important pathway of fatty acid and energy metabolism may help understanding the role of red meat consumption in the etiology of some chronic diseases. This trial was registered at Clinicaltrials.gov as NCT03354130.
+
+Sex-Specific Associations of Red Meat and Processed Meat Consumption with Serum Metabolites in the UK Biobank
+
+Number of 
+
+Key takeaways:Sex-specific associations exist between red meat consumption and various metabolic factors, influencing dietary recommendations for individuals with or at high risk of cardiometabolic disease.
+
+Abstract:Red meat consumption has been found to closely related to cardiometabolic health, with sex disparity. However, the specific metabolic factors corresponding to red meat consumption in men and women have not been examined previously. We analyzed the sex-specific associations of meat consumption, with 167 metabolites using multivariable regression, controlling for age, ethnicity, Townsend deprivation index, education, physical activity, smoking, and drinking status among ~79,644 UK Biobank participants. We also compared the sex differences using an established formula. After accounting for multiple testing with false discovery rate < 5% and controlling for confounders, the positive associations of unprocessed red meat consumption with branched-chain amino acids and several lipoproteins, and the inverse association with glycine were stronger in women, while the positive associations with apolipoprotein A1, creatinine, and monounsaturated fatty acids were more obvious in men. For processed meat, the positive associations with branched-chain amino acids, several lipoproteins, tyrosine, lactate, glycoprotein acetyls and inverse associations with glutamine, and glycine were stronger in women than in men. The study suggests that meat consumption has sex-specific associations with several metabolites. This has important implication to provide dietary suggestions for individuals with or at high risk of cardiometabolic disease, with consideration of sex difference.
+
+Red meat consumption, obesity, and the risk of nonalcoholic fatty liver disease among women: Evidence from mediation analysis.
+
+Number of 
+
+Key takeaways:Red meat consumption is associated with a significantly increased risk of developing nonalcoholic fatty liver disease in women, largely mediated by obesity.
+
+Exploring the impact of myoglobin from red meat on intestinal function: Insights from mouse and cell models
+
+Number of 
+
+Key takeaways:High-dose myoglobin from red meat can cause intestinal permeability and oxidative stress, but normal low-dose intake shows no harmful effects on intestinal health.
+
+Abstract:Excessive intake of red meat may cause damage to colorectal tissue but not cause significant damage to the small intestine. However, the underlying mechanism is not clear. In this study, the effect of myoglobin extracted from red meat was explored on the intestinal barrier function of the mice, and its potential mechanism was elucidated through cell culture experiments. Exclusively high‐dose myoglobin (3.39%, equivalent to 450 g red meat per day for human) resulted in marked intestinal permeability with increased levels of serum endotoxin, diamine oxidase, and d‐lactate but reduced the mRNA levels of tight junction proteins and mucin 2 in the duodenal and colonic tissues. The diet also increased free iron and heme levels in the duodenal and colonic tissues, leading to higher level of oxidative stress and inflammatory response. Metabolomic analysis of colonic contents showed that exclusively high‐dose myoglobin altered the relative content of indole and its derivatives, phenolic compounds, and 5‐hydroxy‐l‐tryptophan by regulating tryptophan metabolism and kynurenine cycle and destroying intestinal homeostasis. The very high myoglobin hydrolysate induced oxidative stress and apoptosis more seriously in HT29 cells than in INT407 cells, which could be the main reason for more severe colon injury. Nevertheless, normal low‐dose intake (0.38% myoglobin, equivalent to 50 g per day for human) did not show the above‐mentioned harmful effects. The findings provided a risk assessment for the dosage of red meat intake and new insights into the relationship between red meat intake and intestinal health.
+
+High Red Meat Intake Exacerbates Dextran Sulfate-Induced Colitis by Altering Gut Microbiota in Mice
+
+Number of 
+
+Key takeaways:High red meat intake can exacerbate colitis by altering gut microbiota and increasing inflammatory cytokine secretion, suggesting a need to optimize diet and reduce red meat intake to prevent inflammatory bowel disease.
+
+Abstract:Inflammatory bowel disease (IBD) is a serious hazard to public health, but the precise etiology of the disease is unclear. High intake of red meat diet is closely related to the occurrence of IBD. In this study, we investigated whether the high intake of red meat can increase the sensitivity of colitis and the underlying mechanism. Mice were fed with different levels of red meat for 8 weeks and then the colonic contents were analyzed by 16S rRNA sequencing. Then 3% dextran sulfate sodium was used to induce colitis in mice. We observed the severity of colitis and inflammatory cytokines. We found that high-dose red meat caused intestinal microbiota disorder, reduced the relative abundance of Lachnospiraceae_NK4A136_group, Faecalibaculum, Blautia and Dubosiella, and increased the relative abundance of Bacteroides and Alistipes. This in turn leads to an increase in colitis and inflammatory cytokine secretion. Moreover, we found that high red meat intake impaired the colon barrier integrity and decreased the expression of ZO-1, claudin, and occludin. We also found high red meat intake induced the production of more inflammatory cytokines such as IL-1β, TNF-α, IL-17, and IL-6 and inflammatory inducible enzymes such as COX-2 and iNOS in dextran sulfate sodium-induced colitis. These results suggest that we should optimize the diet and reduce the intake of red meat to prevent the occurrence of IBD.
+
+Dietary fiber mitigates the differential impact of beef and chicken meat consumption on rat intestinal health.
+
+Number of 
+
+Key takeaways:Dietary fiber can mitigate the negative impact of red meat consumption on gut health in fiber-deprived diets.
+
+Abstract:In this rat feeding study, it was hypothesized that the impact of red (vs. white) meat consumption on gut health is more pronounced in fiber-deprived diets, whereas fiber-rich diets may attenuate meat-related differences. For this purpose, rats were fed a red (beef) or white (chicken) meat diet with and without fructo-oligosaccharides (FOS) for three weeks. Gut health was assessed through colonic microbiota, fermentation metabolites, oxidative stress, inflammation, DNA adducts and histology. In rats on the fiber-deprived diets, beef consumption resulted in higher abundance of mucin-degrading bacteria Akkermansia and lower blood glutathione levels compared to chicken-fed rats. Adding FOS to the meat diets modulated the gut microbiota and fermentation metabolites, affected oxidative stress and inflammation markers in tissues and blood, increased colon length, and reduced fat deposition and liver weight. Thus, results showed that the dietary context should be considered when evaluating the impact of red meat consumption on gut health.
+
+Meat intake in relation to composition and function of gut microbiota.
+
+Number of 
+
+Key takeaways:Higher intake of processed red meat is associated with reduced gut microbiota diversity and altered health-related biomarkers.
+
+Dietary Hemin Remodels Gut Microbiota and Mediates Tissue Inflammation and Injury in the Small Intestine
+
+Number of 
+
+Key takeaways:Moderate intake of myoglobin or hemin is beneficial for intestinal health and microbiota, but excessive amounts can cause tissue inflammation and injury in the small intestine by reshaping ileal microbiota.
+
+Abstract:SCOPE
+Epidemiological studies have linked excessive red and processed meat intake to gut disorders. Under laboratory conditions, high heme content is considered the primary health risk factor for red meat. However, heme in meat is present in myoglobin, which is an indigestible protein, suggesting the different functions between myoglobin and heme. This study aims to explore how dietary myoglobin and heme affect gut health and microbiota differently.
+
+METHODS AND RESULTS
+Histological and biochemical assessments as well as 16S rRNA sequencing are performed. Moderate myoglobin intake (equivalent to the recommended intake of 150 g meat per day for human) has beneficial effects on the duodenal barrier. However, a too high myoglobin diet (equivalent to intake of 3000 g meat per day for human) triggers duodenum injury and alters the microbial community. The hemin diet destroys intestinal tissue and ileal microbiota more significantly. The in vitro experiments further confirm that free heme exhibits high toxicity to beneficial gut bacteria while myoglobin promotes the growth and metabolism of Limosilactobacillus reuteri.
+
+CONCLUSION
+Moderate intake of myoglobin or hemin is beneficial to intestinal health and microbiota, but too high amounts lead to tissue inflammation and injury in the small intestine by reshaping ileal microbiota.
+
+The association between major gastrointestinal cancers and red and processed meat and fish consumption: A systematic review and meta-analysis of the observational studies
+
+Number of 
+
+Key takeaways:High red meat and processed meat consumption increases the risk of developing five major types of gastrointestinal cancers, while high fish consumption reduces the risk of colon, rectal, and colorectal cancers.
+
+Abstract:Background The association between red meat, fish, and processed meat consumption and the risk of developing gastrointestinal (GI) cancers remains inconclusive despite several investigations. Therefore, we conducted a systematic review and meta-analysis of observational studies to update the existing scientific evidence. Methods We searched PubMed, Web of Science, and Scopus databases until May 20, 2023. We analyzed observational studies that examined the associations between red and processed meat and fish consumption and GI cancers. We assessed between-study heterogeneity using the χ2 and τ2 tests, as well as I2 statistics. We explored the likelihood of publication bias using Begg’s and Egger’s tests and trim-and-fill analysis. We reported the overall effect sizes as odds ratios (ORs) with a 95% confidence interval (CI) using a random-effects model. Results Of the 21,004 studies identified, 95 studies involving 5,794,219 participants were included in the meta-analysis. The consumption of high levels of red meat, as compared to low levels, was found to significantly increase the risk of developing esophageal, pancreatic, liver, colon, rectal, and colorectal cancers. Similarly, the consumption of high levels of processed meat, as compared to low levels, significantly increased the risk of pancreatic, colon, rectal, and colorectal cancers. In contrast, the consumption of high levels of fish, as compared to low levels, significantly reduced the risk of colon, rectal, and colorectal cancers. Conclusions This meta-analysis provides updated evidence on the association between red meat, processed meat, and fish consumption and the risk of developing five major types of GI cancers.
+
+Meat, dairy and plant proteins alter bacterial composition of rat gut bacteria
+
+Number of 
+
+Key takeaways:Meat proteins, particularly white meat, may maintain a more balanced gut bacteria composition, reducing antigen load and inflammation in the host.
+
+Intestinal microbiota and its association with colon cancer and red/processed meat consumption
+
+Number of 
+
+Key takeaways:Red meat consumption may modulate colorectal cancer progression, with gut microbiome potentially influencing this relationship.
+
+Abstract:The human colon harbors a high number of microorganisms that were reported to play a crucial role in colorectal carcinogenesis. In the recent decade, molecular detection and metabolomic techniques have expanded our knowledge on the role of specific microbial species in promoting tumorigenesis. In this study, we reviewed the association between microbial dysbiosis and colorectal carcinoma (CRC). Various microbial species and their association with colorectal tumorigenesis and red/processed meat consumption have been reviewed. The literature demonstrated a significant abundance of Fusobacterium nucleatum, Streptococcus bovis/gallolyticus, Escherichia coli, and Bacteroides fragilis in patients with adenoma or adenocarcinoma compared to healthy individuals. The mechanisms in which each organism was postulated to promote colon carcinogenesis were collated and summarized in this review. These include the microorganisms' ability to adhere to colon cells; modulate the inhibition of tumor suppressor genes, the activations of oncogenes, and genotoxicity; and activate downstream targets responsible for angiogenesis. The role of these microorganisms in conjugation with meat components including N‐nitroso compounds, heterocyclic amines, and heme was also evident in multiple studies. The outcome of this review supports the role of red meat consumption in modulating CRC progression and the possibility of gut microbiome influencing the relationship between CRC and diet. The study also demonstrates that microbiota analysis could potentially complement existing screening methods when detecting colonic lesions.
+
+Association between red and processed meat consumption and colorectal cancer risk: a comprehensive meta-analysis of prospective studies.
+
+Number of 
+
+Key takeaways:High consumption of red and processed meats is significantly associated with an increased risk of colorectal, colon, and rectal cancers.
+
+Abstract:Abstract Increasing evidence suggests that red and processed meat consumption may elevate the risk of colorectal cancer (CRC), yet the magnitude and consistency of this association remain debated. This meta-analysis aims to quantify the relationship between red and processed meat intake and the risk of CRC, colon cancer, and rectal cancer using the most comprehensive set of prospective studies to date. We conducted a comprehensive search in PubMed, Web of Science, Cochrane Library, Embase, and Google Scholar databases from 1990 to November 2024, to identify relevant prospective studies examining red, processed, and total meat consumption in relation to colorectal, colon, and rectal cancer risk. Hazard ratios (HR) and 95% confidence intervals (CI) were extracted for each study and pooled using a random-effects model to account for variability among studies. Statistical evaluation was executed using the online platform MetaAnalysisOnline.com. A total of 60 prospective studies were included. Red meat consumption was associated with a significantly increased risk of colon cancer (HR = 1.22, 95% CI 1.15–1.30), colorectal cancer (HR = 1.15, 95% CI 1.10–1.21), and rectal cancer (HR = 1.22, 95% CI 1.07–1.39). Processed meat consumption showed similar associations with increased risk for colon cancer (HR = 1.13, 95% CI 1.07–1.20), colorectal cancer (HR = 1.21, 95% CI 1.14–1.28), and rectal cancer (HR = 1.17, 95% CI 1.05–1.30). Total meat consumption also correlated with an elevated risk of colon cancer (HR = 1.22, 95% CI 1.11–1.35), colorectal cancer (HR = 1.17, 95% CI 1.12–1.22), and rectal cancer (HR = 1.28, 95% CI 1.10–1.48). This meta-analysis provides robust evidence that high consumption of red and processed meats is significantly associated with an increased risk of colorectal, colon, and rectal cancers. These findings reinforce current dietary recommendations advocating for the limitation of red and processed meat intake as part of cancer prevention strategies.
+
+Effect of Red, Processed, and White Meat Consumption on the Risk of Gastric Cancer: An Overall and Dose–Response Meta-Analysis
+
+Number of 
+
+Key takeaways:Increased white meat consumption may reduce the risk of gastric cancer, while red and processed meat consumption may increase the risk of gastric cancer.
+
+Abstract:Whether the risk of gastric cancer varies by the types of meat consumption still remains disputable. The purpose of this meta-analysis was to identify the exact associations that red, processed, and white meat have with gastric cancer. We searched relevant studies in Medline, EMBASE, and the Cochrane Library before November 2018, including cohort and case-control studies. We used random-effect models to estimate the adjusted relative risk (RR), and Egger’s tests to evaluate publication bias. Through stepwise screening, 43 studies were included in this analysis (11 cohort studies and 32 case-control studies with 16,572 cases). In a meta-analysis for the highest versus lowest categories of meat consumption, both red (RR: 1.41, 95% confidence interval (CI): 1.21–1.66) and processed (RR: 1.57, 95% CI: 1.37–1.81) meat consumption were positively associated with gastric cancer risk, while white meat consumption was negatively associated with gastric cancer risk (RR: 0.80, 95% CI: 0.69–0.92). In a dose–response meta-analysis, the RRs of gastric cancer were 1.26 (95% CI: 1.11–1.42) for every 100 g/day increment in red meat consumption, 1.72 (95% CI: 1.36–2.18) for every 50 g/day increment in processed meat consumption, and 0.86 (95% CI: 0.64–1.15) for every 100 g/day increment in white meat consumption. The increase of white meat consumption may reduce the risk of gastric cancer, while red or processed meat may increase the risk of gastric cancer. Further studies are required to identify these associations, especially between white meat and gastric cancer.
+
+Leaky Gut Syndrome: An Interplay Between Nutrients and Dysbiosis.
+
+Number of 
+
+Key takeaways:Excessive consumption of simple carbohydrates, saturated fats, and processed foods can lead to gut dysbiosis and leaky gut syndrome, while a diverse, healthy diet rich in nuts, vegetables, fruits, fish, and poultry can improve gut health.
+
+Abstract:Purpose of ReviewThe gut microbiota (GM) is directly related to health and disease. In this context, disturbances resulting from excessive stress, unbalanced diet, alcohol abuse, and antibiotic use, among other factors, can contribute to microbiota imbalance, with significant impacts on host health. This review provides a comprehensive examination of the literature on the influence of diet on dysbiosis and increased intestinal permeability over the past five years.Recent FindingsDiet can be considered one of the main modulating factors of GM, impacting its composition and functionality. Excessive consumption of simple carbohydrates, saturated fats, and processed foods appears to be directly linked to dysbiosis, which can lead to intestinal hyperpermeability and leaky gut syndrome. On the other hand, diets primarily composed of food groups such as nuts, vegetables, fruits, fish, and poultry in moderate quantities, along with limited consumption of red and processed meats, are associated with a more diverse, healthier, and beneficial GM for the host. It is worth noticing that the use of prebiotics and probiotics, omega-3 supplementation, polyunsaturated fatty acids, and vitamins A, B, C, D, and E can positively modulate the intestinal microbiota by altering its metabolic activity, microbial composition, and improve intestinal barrier function.SummaryThis review points to a new perspective regarding individualized dietary intervention and the need to integrate it into several aspects of cellular biology, biochemistry, and microbiology to prescribe more effective diets and thus contribute to patients’ comprehensive health.
+
+A historical cohort study with 27,754 individuals on the association between meat consumption and gastrointestinal tract and colorectal cancer incidence
+
+Number of 
+
+Key takeaways:Red meat consumption is associated with an increased risk of colorectal cancer, while poultry consumption shows no such association.
+
+Abstract:In order to explore the association between meat consumption and gastrointestinal/colorectal cancer (CRC) risk and to estimate the Israeli population attributable fraction (PAF), we conducted a collaborative historical cohort study using the individual participant data of seven nutritional studies from the past 6 decades. We included healthy adult men and women who underwent a nutritional interview. Dietary assessment data, using food‐frequency or 24‐h recall questionnaires, were harmonized. The study file was linked to the National Cancer and death registries. Among 27,754 participants, 1216 (4.4%) were diagnosed with gastrointestinal cancers and 839 (3.0%) with CRC by the end of 2016. Using meta‐analysis methods applied to Cox proportional hazard models (adjusted for daily energy intake, sex, age, ethnic origin, education and smoking),100 g/day increments in beef, red meat and poultry consumption, and 50 g/day increment in processed meat consumption were associated with hazard ratios (HRs) and 95% confidence intervals of 1.46 (1.06–2.02), 1.15 (0.87–1.52), 1.06 (0.89–1.26), and 0.93 (0.76–1.12), respectively, for CRC. Similar results were obtained for gastrointestinal cancer, although red meat consumption reached statistical significance (HR = 1.27; 95%CI: 1.02–1.58). The PAFs associated with a reduction to a maximum of 50 g/day in the consumption of red meat were 2.7% (95%CI: −1.9 to 12.0) and 5.2% (0.3–13.9) for CRC and gastrointestinal cancers, respectively. Reduction of beef consumption to a maximum of 50 g/day will result in a CRC PAF reduction of 7.5% (0.7%–24.3%). While beef consumption was associated with gastrointestinal/CRC excess risk, poultry consumption was not. A substantial part of processed meat consumption in Israel is processed poultry, perhaps explaining the lack of association with CRC.
+
+Sweet, bloody consumption – what we eat and how it affects vascular ageing, the BBB and kidney health in CKD
+
+Number of 
+
+Key takeaways:High red meat intake and artificial sweeteners can alter gut microbiome, increasing uremic toxins and causing early vascular aging, kidney health, and blood-brain barrier issues.
+
+Abstract:ABSTRACT In today’s industrialized society food consumption has changed immensely toward heightened red meat intake and use of artificial sweeteners instead of grains and vegetables or sugar, respectively. These dietary changes affect public health in general through an increased incidence of metabolic diseases like diabetes and obesity, with a further elevated risk for cardiorenal complications. Research shows that high red meat intake and artificial sweeteners ingestion can alter the microbial composition and further intestinal wall barrier permeability allowing increased transmission of uremic toxins like p-cresyl sulfate, indoxyl sulfate, trimethylamine n-oxide and phenylacetylglutamine into the blood stream causing an array of pathophysiological effects especially as a strain on the kidneys, since they are responsible for clearing out the toxins. In this review, we address how the burden of the Western diet affects the gut microbiome in altering the microbial composition and increasing the gut permeability for uremic toxins and the detrimental effects thereof on early vascular aging, the kidney per se and the blood-brain barrier, in addition to the potential implications for dietary changes/interventions to preserve the health issues related to chronic diseases in future.
+
+Association of meat consumption with the risk of gastrointestinal cancers: a systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Higher red and processed meat consumption is associated with an increased risk of colorectal cancer, colon cancer, and rectal cancer, and dietary intervention could be an effective strategy for preventing these cancers.
+
+Abstract:Abstract Background The association between gastrointestinal cancer and types of meat consumption, including red meat, processed meat, or a combination of both, remains disputable. Therefore, we performed a systematic review and meta-analysis of prospective cohort studies to estimate the association between meat consumption and gastrointestinal cancer risk. Methods PubMed, EmBase, and the Cochrane library databases were searched systematically for eligible studies that investigated the relation between meat consumption and the risk of developing gastrointestinal cancers, including esophageal cancer (EC), gastric cancer (GC), colorectal cancer (CRC), colon cancer (CC), rectal cancer (RC), pancreatic cancer (PC), and hepatocellular carcinoma (HCC) throughout February, 2023. The pooled relative risk (RR) with 95% confidence interval (CI) was assigned as an effect estimate and calculated using a random-effects model with inverse variance weighting. Results Forty cohorts comprising 3,780,590 individuals were selected for the final quantitative analysis. The summary results indicated that a higher red meat consumption was associated with an increased risk of CRC (RR: 1.09; 95% CI: 1.02–1.16; P = 0.007) and CC (RR: 1.13; 95% CI: 1.03–1.25; P = 0.011). Moreover, a higher processed meat consumption was associated with an increased risk of CRC (RR: 1.19; 95% CI: 1.13–1.26; P &lt; 0.001), CC (RR: 1.24; 95% CI: 1.13–1.26; P &lt; 0.001), and RC (RR: 1.24; 95% CI: 1.08–1.42; P = 0.002). Furthermore, a higher total consumption of red and processed meat was associated with an increased risk of CRC (RR: 1.13; 95% CI: 1.06–1.20; P &lt; 0.001), CC (RR: 1.17; 95% CI: 1.04–1.33; P = 0.012), and RC (RR: 1.20; 95% CI: 1.04–1.39; P = 0.016). Finally, the strength of higher consumption of total red and processed meat with the risk of GC, and higher consumption of red meat with the risk of RC in subgroup of high adjusted level was lower than subgroup of moderate adjusted level, while the strength of higher consumption of processed meat with the risk of RC and HCC in subgroup of follow-up ≥ 10.0 years was higher than subgroup of follow-up &lt; 10.0 years. Conclusions This study found that meat consumption was associated with an increased risk of CRC, CC, and RC, and dietary intervention could be considered an effective strategy in preventing CRC.
+
+Role of Heme Iron in the Association Between Red Meat Consumption and Colorectal Cancer
+
+Number of 
+
+Key takeaways:High consumption of red meat, especially processed red meat, is associated with an increased risk of colorectal cancer due to the adverse effects of heme iron on gut microbiota and colorectal epithelial cell homeostasis.
+
+Abstract:Abstract The growing incidence of colorectal cancer (CRC) in the world seems to be related to the spread of Westernized lifestyles, particularly dietary habits. Several studies have found that high consumption of red meat—especially processed red meat, a mainstay of Western diets—is associated with an increased risk of developing CRC. One possible reason for the association are the adverse effects exerted by the heme iron contained in red meat, which has the potential to affect homeostasis and colonic epithelial cell renewal and to promote the formation of mutagenic and carcinogenic agents. A correlation has also emerged between CRC and alterations of the gut microbiota, since the micro-organisms found in the intestinal lumen seem to influence the activation of enterocyte genes involved in the initiation and progression of carcinogenesis. Dietary habits can therefore modify the gut microbiota, affecting gene activation and favoring the development of cancer cells. We review and discuss the most recent literature on the hypothesis that heme iron can exert adverse effects by altering the gut microbiota and colorectal epithelial cell homeostasis.
+
+Relationships between gut microbiota, red meat consumption and colorectal cancer
+
+Number of 
+
+Key takeaways:Excessive red meat consumption and gut dysbiosis may increase the risk of colorectal cancer through various biological mechanisms, including inflammation and oxidative stress.
+
+Abstract:Excessive consumption of red and processed meat has been associated with a higher risk of developing colorectal cancer. There are many attempts to explain the risk of colorectal cancer associated with the consumption of red and processed meat: The temperature cooking of meat such as grilling and smoking contribute to the formation of mutagenic compounds including heterocyclic amines and polycyclic aromatic hydrocarbons. Heme iron in red meat is involved in the formation of N-nitroso compounds and lipid peroxidation products in the digestive tract. Fatty red meat is involved in the production of secondary bile acids by the bacteria of the gut microbiota. Many of the products formed are genotoxic and can cause DNA damage and initiate carcinogenesis of colorectal cancer. Various mechanisms contributing to their genotoxic role have been established in human and animal studies. In addition, there is increasing evidence that compounds formed from red and processed meat interact with the gut microbiota in colorectal cancer pathways. Although several early studies in animals and humans suggest a direct causal role of the gut microbiota in the development of colorectal cancer, the links between diet, gut microbiota, and colonic carcinogenesis are largely associations rather than proven causal relationships. Various biological mechanisms, including inflammation and oxidative stress can lead to DNA damage, gut dysbiosis, and therefore increase the risk of colorectal cancer. Dysbiosis of the gut microbiota may increase the risk of colorectal cancer through dietary component promotion of colonic carcinogenesis. In this paper, we review and update current knowledge about the relationships between red meat consumption, gut microbiota, and colorectal cancer.
+
+Review of the association between meat consumption and risk of colorectal cancer.
+
+Number of 
+
+Key takeaways:High intake of red and processed meat is associated with increased colorectal cancer risk, potentially due to meat content and cooking process compounds affecting large intestine mucosa and gut microbiota.
+
+Consumption of red meat and processed meat and cancer incidence: a systematic review and meta-analysis of prospective studies
+
+Number of 
+
+Key takeaways:High red meat and processed meat consumption is associated with increased risk of various cancers, including breast, colorectal, colon, rectal, lung, and renal cell cancers.
+
+Abstract:Red meat and processed meat consumption has been hypothesized to increase risk of cancer, but the evidence is inconsistent. We performed a systematic review and meta-analysis of prospective studies to summarize the evidence of associations between consumption of red meat (unprocessed), processed meat, and total red and processed meat with the incidence of various cancer types. We searched in MEDLINE and EMBASE databases through December 2020. Using a random-effect meta-analysis, we calculated the pooled relative risk (RR) and 95% confidence intervals (CI) of the highest versus the lowest category of red meat, processed meat, and total red and processed meat consumption in relation to incidence of various cancers. We identified 148 published articles. Red meat consumption was significantly associated with greater risk of breast cancer (RR = 1.09; 95% CI = 1.03–1.15), endometrial cancer (RR = 1.25; 95% CI = 1.01-1.56), colorectal cancer (RR = 1.10; 95% CI = 1.03–1.17), colon cancer (RR = 1.17; 95% CI = 1.09-1.25), rectal cancer (RR = 1.22; 95% CI = 1.01-1.46), lung cancer (RR = 1.26; 95% CI = 1.09–1.44), and hepatocellular carcinoma (RR = 1.22; 95% CI = 1.01-1.46). Processed meat consumption was significantly associated with a 6% greater breast cancer risk, an 18% greater colorectal cancer risk, a 21% greater colon cancer risk, a 22% greater rectal cancer risk, and a 12% greater lung cancer risk. Total red and processed meat consumption was significantly associated with greater risk of colorectal cancer (RR = 1.17; 95% CI = 1.08–1.26), colon cancer (RR = 1.21; 95% CI = 1.09–1.34), rectal cancer (RR = 1.26; 95% CI = 1.09–1.45), lung cancer (RR = 1.20; 95% CI = 1.09-1.33), and renal cell cancer (RR = 1.19; 95% CI = 1.04–1.37). This comprehensive systematic review and meta-analysis study showed that high red meat intake was positively associated with risk of breast cancer, endometrial cancer, colorectal cancer, colon cancer, rectal cancer, lung cancer, and hepatocellular carcinoma, and high processed meat intake was positively associated with risk of breast, colorectal, colon, rectal, and lung cancers. Higher risk of colorectal, colon, rectal, lung, and renal cell cancers were also observed with high total red and processed meat consumption.
+
+The impact of red and processed meat consumption on cancer and other health outcomes: Epidemiological evidences.
+
+Number of 
+
+Key takeaways:High intake of red and processed meat, especially processed meat, is associated with increased colorectal cancer risk, while limited evidence links unprocessed red meat intake to other diseases like cardiovascular disease and type 2 diabetes.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

@@ -1,0 +1,470 @@
+PROTOCOL: N-acetyl-l-cysteine (nac)
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Dosage: NAC efficacy and safety depend on dose; excessively high doses can harm the liver.
+DESCRIPTION: N-acetyl-L-cysteine (NAC) is a potent antioxidant with a broad spectrum of effects. It supports brain health by protecting neurons and reducing inflammation, improves semen parameters in men with reduced fertility, and protects the liver from toxic damage and oxidative stress. NAC supplementation is associated with improved cognitive function, semen quality, and liver biochemical parameters, provided that appropriate doses are used.
+
+CONTENT SECTIONS:
+
+N-acetyl-l-cysteine (nac)
+
+Neuroprotective support, reproductive health, and liver protection
+
+N-acetyl-L-cysteine (NAC) is a potent antioxidant with a broad spectrum of effects. It supports brain health by protecting neurons and reducing inflammation, improves semen parameters in men with reduced fertility, and protects the liver from toxic damage and oxidative stress. NAC supplementation is associated with improved cognitive function, semen quality, and liver biochemical parameters, provided that appropriate doses are used.
+
+Level of evidence:Good
+
+NAC acts primarily by increasing glutathione levels – a key antioxidant in body cells, allowing neutralization of free radicals and reduction of oxidative stress. Additionally, it exhibits anti-inflammatory effects by lowering pro-inflammatory cytokine levels and supporting the repair of damaged tissues. In the context of male fertility, it improves sperm DNA integrity, and in the liver, it reduces toxin-induced damage and protects against reperfusion injury.
+
+N-acetyl-L-cysteine is generally well tolerated and safe for most individuals. However, with excessive dosing or prolonged use, adverse effects may occur, and in some cases even liver damage or inflammatory reactions.
+
+NAC is not recommended for individuals with severe liver or kidney failure, or for patients with an allergy to the substance. Use should be cautious in pregnant or breastfeeding women and in individuals taking medications with a narrow therapeutic index.
+
+Typically 600–1200 mg daily, depending on clinical indications
+
+Powder, capsules, oral solutions, or intravenous administration
+
+Initial antioxidant effects possible after a few days of use; full benefits after a few weeks
+
+Best taken with meals or as directed by a physician
+
+In some cases, a higher initial dose is used for a few days, followed by a maintenance dose
+
+Do not exceed recommended doses to avoid adverse effects and liver damage
+
+Proper hydration supports NAC activity and reduces the risk of muscle cramps
+
+Use of NAC should be discussed with a physician, especially in those with chronic conditions or taking other medications
+
+N-acetyl-L-cysteine (NAC) has positive effects on the brain, primarily due to its neuroprotective, antioxidant, and anti-inflammatory properties. Studies suggest that NAC may support cognitive function, protect neurons, and alleviate symptoms of certain neurological and psychiatric disorders.
+
+Clinical applications
+
+Limitations and safety
+
+N-Acetyl-L-Cysteine (NAC) is a powerful antioxidant with clear positive effects on men’s health, especially fertility. The main benefits include improved semen parameters, protection against oxidative stress, and potential protection from environmental toxins.
+
+Effects on semen parameters and fertility
+
+Protection from toxins and environmental stress
+
+N-acetyl-L-cysteine (NAC) is widely studied for its liver-protective properties. NAC has a positive effect on the liver mainly through its antioxidant properties and its ability to increase glutathione levels, which helps protect liver cells from damage caused by oxidative stress and toxins.
+
+Mechanisms of action and efficacy
+
+Examples of use and limitations
+
+Safety and considerations
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:50
+
+Final comment:N-acetyl-L-cysteine (NAC) is a substance with well-documented antioxidant and anti-inflammatory properties, demonstrating broad therapeutic application. In the field of neuroprotection, data from randomized clinical trials and meta-analyses indicate improved cognitive function and alleviation of symptoms in neurological and psychiatric conditions. Regarding male reproductive health, NAC effectively improves semen parameters, reduces sperm DNA damage, and protects against oxidative stress, as confirmed by numerous clinical studies. In terms of liver protection, NAC is effective in preventing toxin-induced damage, including from acetaminophen and alcohol, and in reducing inflammation. However, due to the potential for toxicity with excessive dosing, especially with prolonged use, careful dosing and medical supervision are required. Overall, NAC represents an intervention with a good level of scientific evidence and low to moderate risk depending on the context of use.
+
+Protective effect of N-acetyl-l-cysteine on amyloid β-peptide-induced learning and memory deficits in mice
+
+Number of 
+
+Key takeaways:NAC treatment improves learning and memory deficits in mice with Alzheimer's disease-induced amyloid -peptide damage, suggesting potential neuroprotective action for Alzheimer's disease.
+
+N-acetyl-l-cysteine attenuates oxidative damage and neurodegeneration in rat brain during aging.
+
+Number of 
+
+Key takeaways:NAC supplementation in aging rats reduces oxidative damage and neurodegeneration, suggesting its potential as a therapeutic agent for age-related neurological disorders.
+
+Abstract:N-acetyl-l-cysteine (NAC) is a precursor of cysteine, which is known to increase the level of glutathione (GSH) in the brain. Several neurodegenerative changes linked to oxidative stress take place in the aging brain. This study aimed to assess the neuroprotective effect of NAC supplementation on age-dependent neurodegeneration in the rat brain. Young (4 months) and old (24 months) Wistar rats (n = 6 rats/group) were supplemented with NAC (100 mg/kg b.w. orally) for 14 days. Enzymatic and nonenzymatic antioxidants such as superoxide dismutase and catalase, and GSH and total thiol respectively, prooxidants such as protein carbonyl, advanced oxidation protein products, reactive oxygen species, and malondialdehyde were assessed in the brain homogenates. Furthermore, nitric oxide level, acetylcholinesterase activity, and Na+/K+-ATPase activity were measured and gene expression studies were also performed. The results indicated that NAC augmented the level of enzymatic and nonenzymatic antioxidants with a significant reduction in prooxidant levels in old rats. NAC supplementation also downregulated the expression of inflammatory markers (TNF-α, IL-1β, IL-6) and upregulated the expression of marker genes associated with aging (sirtuin-1) and neurodegeneration (neuron-specific enolase, neuroglobin, synapsin-I, myelin basic protein 2) in old rats. The present findings support a neuroprotective role of NAC which has therapeutic implication in controlling age-related neurological disorders.
+
+N-Acetyl Cysteine May Support Dopamine Neurons in Parkinson's Disease: Preliminary Clinical and Cell Line Data
+
+Number of 
+
+Key takeaways:NAC may support dopamine neurons in Parkinson's disease patients, potentially leading to positive clinical effects.
+
+Abstract:Backgound The purpose of this study was to assess the biological and clinical effects of n-acetyl-cysteine (NAC) in Parkinson’s disease (PD). Methods The overarching goal of this pilot study was to generate additional data about potentially protective properties of NAC in PD, using an in vitro and in vivo approach. In preparation for the clinical study we performed a cell tissue culture study with human embryonic stem cell (hESC)-derived midbrain dopamine (mDA) neurons that were treated with rotenone as a model for PD. The primary outcome in the cell tissue cultures was the number of cells that survived the insult with the neurotoxin rotenone. In the clinical study, patients continued their standard of care and were randomized to receive either daily NAC or were a waitlist control. Patients were evaluated before and after 3 months of receiving the NAC with DaTscan to measure dopamine transporter (DAT) binding and the Unified Parkinson’s Disease Rating Scale (UPDRS) to measure clinical symptoms. Results The cell line study showed that NAC exposure resulted in significantly more mDA neurons surviving after exposure to rotenone compared to no NAC, consistent with the protective effects of NAC previously observed. The clinical study showed significantly increased DAT binding in the caudate and putamen (mean increase ranging from 4.4% to 7.8%; p<0.05 for all values) in the PD group treated with NAC, and no measurable changes in the control group. UPDRS scores were also significantly improved in the NAC group (mean improvement of 12.9%, p = 0.01). Conclusions The results of this preliminary study demonstrate for the first time a potential direct effect of NAC on the dopamine system in PD patients, and this observation may be associated with positive clinical effects. A large-scale clinical trial to test the therapeutic efficacy of NAC in this population and to better elucidate the mechanism of action is warranted. Trial Registration ClinicalTrials.gov NCT02445651
+
+N‐Acetyl Cysteine Is Associated With Dopaminergic Improvement in Parkinson's Disease
+
+Number of 
+
+Key takeaways:NAC may positively affect the dopaminergic system in Parkinson's disease patients, leading to improved clinical effects.
+
+Abstract:This study assessed the biological and clinical effects in patients with Parkinson's disease (PD) of N‐acetyl‐cysteine (NAC), the prodrug to l‐cysteine, a precursor to the natural biological antioxidant glutathione. Forty‐two patients with PD were randomized to either weekly intravenous infusions of NAC (50 mg/kg) plus oral doses (500 mg twice per day) for 3 months or standard of care only. Participants received prebrain and postbrain imaging with ioflupane (DaTscan) to measure dopamine transporter (DAT) binding. In the NAC group, significantly increased DAT binding was found in the caudate and putamen (mean increase from 3.4% to 8.3%) compared with controls (P < 0.05), along with significantly improved PD symptoms (P < 0.0001). The results suggest NAC may positively affect the dopaminergic system in patients with PD, with corresponding positive clinical effects. Larger scale studies are warranted.
+
+Effects of 12-month, double-blind N-acetyl cysteine on symptoms, cognition and brain morphology in early phase schizophrenia spectrum disorders
+
+Number of 
+
+Key takeaways:NAC improves negative symptoms in early phase schizophrenia spectrum disorders, but does not significantly impact brain morphology over time.
+
+Treatment effects of N-acetyl cysteine on resting-state functional MRI and cognitive performance in patients with chronic mild traumatic brain injury: a longitudinal study
+
+Number of 
+
+Key takeaways:N-acetyl cysteine (NAC) shows short-term therapeutic efficacy in improving cognitive function in chronic mild traumatic brain injury patients by modulating neural activity and functional connectivity in specific brain networks.
+
+Abstract:Mild traumatic brain injury (mTBI) is a significant public health concern, specially characterized by a complex pattern of abnormal neural activity and functional connectivity. It is often associated with a broad spectrum of short-term and long-term cognitive and behavioral symptoms including memory dysfunction, headache, and balance difficulties. Furthermore, there is evidence that oxidative stress significantly contributes to these symptoms and neurophysiological changes. The purpose of this study was to assess the effect of N-acetylcysteine (NAC) on brain function and chronic symptoms in mTBI patients. Fifty patients diagnosed with chronic mTBI participated in this study. They were categorized into two groups including controls (CN, n = 25), and patients receiving treatment with N-acetyl cysteine (NAC, n = 25). NAC group received 50 mg/kg intravenous (IV) medication once a day per week. In the rest of the week, they took one 500 mg NAC tablet twice per day. Each patient underwent rs-fMRI scanning at two timepoints including the baseline and 3 months later at follow-up, while the NAC group received a combination of oral and IV NAC over that time. Three rs-fMRI metrics were measured including fractional amplitude of low frequency fluctuations (fALFF), degree centrality (DC), and functional connectivity strength (FCS). Neuropsychological tests were also assessed at the same day of scanning for each patient. The alteration of rs-fMRI metrics and cognitive scores were measured over 3 months treatment with NAC. Then, the correlation analysis was executed to estimate the association of rs-fMRI measurements and cognitive performance over 3 months (p < 0.05). Two significant group-by-time effects demonstrated the changes of rs-fMRI metrics particularly in the regions located in the default mode network (DMN), sensorimotor network, and emotional circuits that were significantly correlated with cognitive function recovery over 3 months treatment with NAC (p < 0.05). NAC appears to modulate neural activity and functional connectivity in specific brain networks, and these changes could account for clinical improvement. This study confirmed the short-term therapeutic efficacy of NAC in chronic mTBI patients that may contribute to understanding of neurophysiological effects of NAC in mTBI. These findings encourage further research on long-term neurobehavioral assessment of NAC assisting development of therapeutic plans in mTBI.
+
+N-Acetyl Cysteine Effects on Radiation-induced Brain Injury in Rats: Redox, Inflammatory and Apoptotic Modulations
+
+Number of 
+
+Key takeaways:N-acetyl cysteine (NAC) pre-treatment effectively reduces radiation-induced neurotoxicity in non-tumor brain tissues, suggesting an "off-label" use as a radio protector.
+
+Abstract:I N THE PRESENT study, the authors investigated the potential in vivo neuro-protective/ therapeutic effects of N-acetyl cysteine (NAC) as an adjuvant supportive agent along head and neck irradiation protocols aiming at minimizing the radiation-induced neurotoxicity to non-tumor bystander brain tissues.Experimental animals were randomly assorted into four experimental groups; normal control, cranial irradiated, irradiated pre-treated with NAC and irradiated rats that received NAC post-irradiation.Redox, inflammatory and apoptotic alterations of brain tissues were assessed post animals' sacrifice.Cranial irradiation induced significant oxidative stress, inflammatory and apoptotic reactions in rat brain.However, administration of NAC for two weeks prior to irradiation effectively attenuated the radiation impact on the brain oxidative stress, inflammation and apoptosis.On the other hand, the neuro-protective effects offered by pre-treatment with NAC were much more promising than those observed when NAC was administered following irradiation; especially in the case of the apoptotic changes.In conclusion, NAC played a neuro-protective role rather than a corrective one, suggesting a sort of an "off-label use" for NAC as a radio protector against irradiation bystander effects on non-tumor brain tissues.
+
+Anti-neuroinflammatory and antioxidant effects of N-acetyl cysteine in long-term consumption of artificial sweetener aspartame in the rat cerebral cortex
+
+Number of 
+
+Key takeaways:N-acetyl cysteine (NAC) can improve neurological functions and suppress brain inflammation and oxidative stress in rats exposed to long-term aspartame consumption.
+
+The Potential of N-Acetyl-L-Cysteine (NAC) in the Treatment of Psychiatric Disorders
+
+Number of 
+
+Key takeaways:NAC shows potential as an adjuvant agent for negative symptoms of schizophrenia, severe autism, depression, and obsessive-compulsive disorders.
+
+Abstract:N-acetyl-L-cysteine (NAC) is a compound of increasing interest in the treatment of psychiatric disorders. Primarily through its antioxidant, anti-inflammatory, and glutamate modulation activity, NAC has been investigated in the treatment of neurodevelopmental disorders, schizophrenia spectrum disorders, bipolar-related disorders, depressive disorders, anxiety disorders, obsessive compulsive-related disorders, substance-use disorders, neurocognitive disorders, and chronic pain. Whilst there is ample preclinical evidence and theoretical justification for the use of NAC in the treatment of multiple psychiatric disorders, clinical trials in most disorders have yielded mixed results. However, most studies have been underpowered and perhaps too brief, with some evidence of benefit only after months of treatment with NAC. Currently NAC has the most evidence of having a beneficial effect as an adjuvant agent in the negative symptoms of schizophrenia, severe autism, depression, and obsessive compulsive and related disorders. Future research with well-powered studies that are of sufficient length will be critical to better understand the utility of NAC in the treatment of psychiatric disorders.
+
+Supplementation with N-Acetyl Cysteine Affects Motor and Cognitive Function in Young but Not Old Mice.
+
+Number of 
+
+Key takeaways:NAC supplementation improves motor and cognitive function in 6-month-old mice, but may not be useful for older mice with motor and cognitive impairments.
+
+Abstract:BACKGROUND
+N-acetyl cysteine (NAC) is a thiolic antioxidant that is thought to increase cellular glutathione (GSH) by augmenting the concentration of available cysteine, an essential precursor to GSH production. Manipulating redox status can affect brain function, and NAC intake has been associated with improving brain function in models of neurodegenerative diseases.
+
+OBJECTIVES
+The objective of the study was to determine if short-term dietary supplementation with NAC could ameliorate functional impairment associated with aging.
+
+METHODS
+C57BL/6J male mice aged 6, 12, or 24 mo were fed a control diet or the control diet supplemented with 0.3% NAC for a total of 12 wk. After 4 wk of dietary supplementation, mice began a series of behavioral tests to measure spontaneous activity (locomotor activity test), psychomotor performance (bridge-walking and coordinated running), and cognitive capacity (Morris water maze and discriminated active avoidance). The performance of the mice on these tests was analyzed through the use of analyses of variance with Age and Diet as factors.
+
+RESULTS
+Supplementation of NAC improved peak motor performance in a coordinated running task by 14% (P < 0.05), and increased the time spent around the platform by 24% in a Morris water maze at age 6 mo. However, the supplementation had no to minimal effect on the motor and cognitive functions of 12- and 24-mo-old mice.
+
+CONCLUSIONS
+The findings of this preclinical study support the claim that NAC has nootropic properties in 6-mo-old mice, but suggest that it may not be useful for improving motor and cognitive impairments in older mice.
+
+Therapeutic effect of adjunctive N-acetyl cysteine (NAC) on symptoms of chronic schizophrenia: A double-blind, randomized clinical trial
+
+Number of 
+
+Key takeaways:NAC treatment, when added to conventional antipsychotic medications, effectively improves symptoms and cognitive performance in chronic schizophrenia patients without causing significant adverse effects.
+
+N-Acetyl-l-Cysteine Protects Astrocytes against Proteotoxicity without Recourse to Glutathione
+
+Number of 
+
+Key takeaways:NAC protects astrocytes from protein misfolding stress without increasing glutathione levels, suggesting its potential as a neuroprotective agent.
+
+Abstract:N-acetyl-l-cysteine (NAC) exhibits protective properties in brain injury models and has undergone a number of clinical trials. Most studies of NAC have focused on neurons. However, neuroprotection may be complemented by the protection of astrocytes because healthier astrocytes can better support the viability of neurons. Here, we show that NAC can protect astrocytes against protein misfolding stress (proteotoxicity), the hallmark of neurodegenerative disorders. Although NAC is thought to be a glutathione precursor, NAC protected primary astrocytes from the toxicity of the proteasome inhibitor MG132 without eliciting any increase in glutathione. Furthermore, glutathione depletion failed to attenuate the protective effects of NAC. MG132 elicited a robust increase in the folding chaperone heat shock protein 70 (Hsp70), and NAC mitigated this effect. Nevertheless, three independent inhibitors of Hsp70 function ablated the protective effects of NAC, suggesting that NAC may help preserve Hsp70 chaperone activity and improve protein quality control without need for Hsp70 induction. Consistent with this view, NAC abolished an increase in ubiquitinated proteins in MG132-treated astrocytes. However, NAC did not affect the loss of proteasome activity in response to MG132, demonstrating that it boosted protein homeostasis and cell viability without directly interfering with the efficacy of this proteasome inhibitor. The thiol-containing molecules l-cysteine and d-cysteine both mimicked the protective effects of NAC, whereas the thiol-lacking molecule N-acetyl-S-methyl-l-cysteine failed to exert protection or blunt the rise in ubiquitinated proteins. Collectively, these findings suggest that the thiol group in NAC is required for its effects on glial viability and protein quality control.
+
+Methylmercury-induced pro-inflammatory cytokines activation and its preventive strategy using anti-inflammation N-acetyl-l-cysteine: a mini-review
+
+Number of 
+
+Key takeaways:N-acetyl-l-cysteine (NAC) may protect the brain from methylmercury harmful effects by reducing pro-inflammatory cytokine activation.
+
+Abstract:Abstract The exposure of methylmercury (MeHg) has become a public health concern because of its neurotoxic effect. Various neurological symptoms were detected in Minamata disease patients, who got intoxicated by MeHg, including paresthesia, ataxia, gait disturbance, sensory disturbances, tremors, visual, and hearing impairments, indicating that MeHg could pass the blood-brain barrier (BBB) and cause impairment of neurons and other brain cells. Previous studies have reported some expected mechanisms of MeHg-induced neurotoxicity including the neuroinflammation pathway. It was characterized by the up-regulation of numerous pro-inflammatory cytokines expression. Therefore, the use of anti-inflammatories such as N-acetyl-l-cysteine (NAC) may act as a preventive compound to protect the brain from MeHg harmful effects. This mini-review will explain detailed information on MeHg-induced pro-inflammatory cytokines activation as well as possible preventive strategies using anti-inflammation NAC to protect brain cells, particularly in in vivo and in vitro studies.
+
+Antioxidant, histopathological and biochemical outcomes of short-term exposure to acetamiprid in liver and brain of rat: The protective role of N-acetylcysteine and S-methylcysteine
+
+Number of 
+
+Key takeaways:NAC and SMC provide potent antioxidant protection in rats against acetamiprid-induced liver and brain damage, improving antioxidant enzymes and lipid peroxidation levels.
+
+Dopamine-dependent functions of hyaluronic acid/dopamine/silk fibroin hydrogels that highly enhance N-acetyl-L-cysteine (NAC) delivered from nasal cavity to brain tissue through a near-infrared photothermal effect on the NAC-loaded hydrogels.
+
+Number of 
+
+Key takeaways:Dopamine-dependent hyaluronic acid/dopamine/silk fibroin hydrogels significantly enhance N-acetyl-L-cysteine delivery from nasal cavity to brain tissue through near-infrared photothermal effects.
+
+N-Acetyl Cysteine as a Glutathione Precursor for Schizophrenia—A Double-Blind, Randomized, Placebo-Controlled Trial
+
+Number of 
+
+Key takeaways:N-acetyl cysteine (NAC) is a safe and moderately effective add-on treatment for chronic schizophrenia, improving symptoms and reducing akathisia.
+
+The effects of N-acetyl cysteine on intrinsic functional connectivity and neural alcohol cue reactivity in treatment-seeking individuals with alcohol use disorder: a preliminary study
+
+Number of 
+
+Key takeaways:NAC treatment may reduce intrinsic functional connectivity in patients with alcohol use disorder, but does not affect alcohol cue-elicited activation.
+
+Abstract:Abstract N-acetyl cysteine (NAC) is a potential pharmacotherapy for alcohol use disorder (AUD), but it is not known whether it modulates neural activation to alcohol cues or intrinsic functional connectivity. We investigated whether NAC attenuates (i) alcohol cue-elicited activation, and (ii) intrinsic functional connectivity compared to placebo in patients with AUD. In this preliminary study, twenty-three individuals (7 females) with moderate-severe AUD received daily NAC (2400 mg/day, n = 9), or a placebo ( n = 14) for at least 2 weeks. Participants completed a pre-treatment functional magnetic resonance imaging session (T0) and a post-treatment session (T1) comprising resting-state and visual alcohol cue reactivity task acquisitions. Activation differences between sessions, treatment, and session-by-treatment interaction were assessed. Resting-state functional connectivity examined using 377 node ROI-to-ROIs evaluated whether NAC reduced intrinsic functional connectivity after treatment. There were no differences in alcohol cue reactivity for brain activation or subjective craving between NAC and placebo during treatment or across sessions, or significant interaction. A significant treatment-by-time interaction, with reduced intrinsic connectivity was observed after treatment (T1) for NAC-treated compared to placebo-treated patients in the posterior cingulate node (9, left hemisphere) of the dorsal attentional network and connections to salience, ventral-attentional, somatosensory, and visual-peripheral networks implicated in AUD. NAC reduced intrinsic functional connectivity in patients with moderate-severe AUD after treatment compared to placebo, but did not attenuate alcohol cue-elicited activation. However, the absence of cue reactivity findings may result from low power, rather than the absence of cue reactivity findings associated with NAC. These results provide preliminary evidence that NAC treatment may modulate intrinsic functional connectivity brain activation in patients with alcohol use disorder, but replication in larger studies are required to determine the strength of this effect and any associations with clinical outcomes. Clinical Trials Registration: ClinicalTrials.gov Identifier: NCT03879759.
+
+The Antioxidant N-Acetyl-L-Cysteine Restores the Behavioral Deficits in a Neurodevelopmental Model of Schizophrenia Through a Mechanism That Involves Nitric Oxide
+
+Number of 
+
+Key takeaways:N-acetyl-L-cysteine (NAC) can restore behavioral deficits in a neurodevelopmental model of schizophrenia through a mechanism involving nitric oxide, supporting a potential antipsychotic effect.
+
+Abstract:The disruption of neurodevelopment is a hypothesis for the emergence of schizophrenia. Some evidence supports the hypothesis that a redox imbalance could account for the developmental impairments associated with schizophrenia. Additionally, there is a deficit in glutathione (GSH), a main antioxidant, in this disorder. The injection of metilazoximetanol acetate (MAM) on the 17th day of gestation in Wistar rats recapitulates the neurodevelopmental and oxidative stress hypothesis of schizophrenia. The offspring of rats exposed to MAM treatment present in early adulthood behavioral and neurochemical deficits consistent with those seen in schizophrenia. The present study investigated if the acute and chronic (250 mg/kg) treatment during adulthood with N-acetyl-L-cysteine (NAC), a GSH precursor, can revert the behavioral deficits in MAM rats and if the NAC-chronic-effects could be canceled by L-arginine (250 mg/kg, i.p, for 5 days), nitric oxide precursor. Analyses of markers involved in the inflammatory response, such as astrocytes (glial fibrillary acid protein, GFAP) and microglia (binding adapter molecule 1, Iba1), and parvalbumin (PV) positive GABAergic, were conducted in the prefrontal cortex and dorsal and ventral hippocampus in rats under chronic treatment with NAC. MAM rats showed decreased time of SI and increased locomotion, and both acute and chronic NAC treatments were able to recover these behavioral deficits. L-arginine blocked NAC behavioral effects. MAM rats presented increases in GFAP density at PFC and Iba1 at PFC and CA1. NAC increased the density of Iba1 cells at PFC and of PV cells at MO and CA1 of the ventral hippocampus. The results indicate that NAC recovered the behavioral deficits observed in MAM rats through a mechanism involving nitric oxide. Our data suggest an ongoing inflammatory process in MAM rats and support a potential antipsychotic effect of NAC.
+
+The beneficial effects of N-acetyl cysteine (NAC) against obesity associated complications: A systematic review of pre-clinical studies.
+
+Number of 
+
+Key takeaways:N-acetylcysteine (NAC) shows potential in reducing obesity-related complications by targeting inflammation, oxidative stress, and lipid accumulation, but further research is needed in human subjects.
+
+N-Acetyl Cysteine Functions as a Fast-Acting Antioxidant by Triggering Intracellular H2S and Sulfane Sulfur Production.
+
+Number of 
+
+Key takeaways:N-acetyl cysteine (NAC) acts as a fast-acting antioxidant by triggering intracellular H2S and sulfane sulfur production, potentially mediating its immediate antioxidative and cytoprotective effects.
+
+A Meta-Analysis of the Efficacy of L-Carnitine/L-Acetyl-Carnitine or N-Acetyl-Cysteine in Men With Idiopathic Asthenozoospermia
+
+Number of 
+
+Key takeaways:L-carnitine/L-acetyl-carnitine and N-acetyl-cysteine improve sperm motility and normalize sperm morphology, while NAC increases sperm concentration and ejaculate volume, but has no significant effect on serum hormones.
+
+Abstract:The meta-analysis was performed to access efficacy of L-carnitine/L-acetyl-carnitine (LC/LAC) and N-acetyl-cysteine (NAC) in men with idiopathic asthenozoospermia. We researched PubMed, EMBASE, and Cochrane Library databases and references to related articles. Finally, seven articles including 621 patients were analyzed. The results indicated that LC/LAC and NAC had a considerable improvement in sperm motility (p = .03 and p < .0001, respectively) and normal morphology (p = .006, p = .0002, respectively) compared with the placebo group. Besides, NAC had a significantly greater increase in sperm concentration (p < .00001) and ejaculate volume (p = .002) compared with the placebo group, and there was no significant difference in LC/LAC. For the analysis of serum hormones, NAC had no obvious differences in improving the serum testosterone, luteinizing hormone, follicle-stimulating hormone, and prolactin compared with non-treatment group. Conclusively, LC/LAC and NAC showed a greater improvement in sperm motility and normal morphology. Moreover, NAC has a positive effect on sperm concentration and ejaculate volume, whereas no obvious effect was observed in serum hormones.
+
+Effects of N-acetyl-cysteine supplementation on sperm quality, chromatin integrity and level of oxidative stress in infertile men
+
+Number of 
+
+Key takeaways:NAC oral supplementation may improve sperm parameters and oxidative/antioxidant status in infertile males, potentially enhancing their reproductive potential.
+
+Abstract:Infertile men have higher levels of semen reactive oxygen species (ROS) than fertile men. High levels of semen ROS can cause sperm dysfunction, sperm DNA damage and reduced male reproductive potential. This study investigated the effects of supplementation with N-acetyl-cysteine (NAC) on the sperm quality, chromatin integrity and levels of oxidative stress in infertile men. The study was carried out in the unit of ACECR Infertility Research Center, Qom, Iran. The patients consisted of 50 infertile men with asthenoteratozoospermia who received NAC (600 mg/d) orally for 3 months, after which they were compared with pre-treatment status. Semen was analyzed according to WHO (2010), followed by the assessment of protamine content and DNA integrity . Oxidative stress markers, i.e. total antioxidant capacity (TAC) and malondialdehyde (MDA), as well as hormonal profile (LH, FSH, Testosterone and Prolactin) were determined by ELISA kit. After NAC treatment, patients' sperm count and motility increased significantly whereas abnormal morphology, DNA fragmentation and protamine deficiency showed significant decreases compared to pre-treatment levels (P < 0.05). Hormonal profile improvement was associated with lowered FSH and LH levels and increased amount of testosterone (P < 0.05). TAC significantly increased and MDA decreased with an inverse significant correlation between TAC and MDA (P < 0.05). NAC oral supplementation may improve sperm parameters and oxidative/antioxidant status in infertile males.
+
+Effect of N-acetyl-L-cysteine on Testicular Tissue in Busulfan-Induced Dysfunction in the Male Reproductive System
+
+Number of 
+
+Key takeaways:NAC, a potent antioxidant, has significant protective effects against busulfan-induced male reproductive impairment in mice, possibly through modification of the Nrf2/HO-1 signaling pathway.
+
+Abstract:Purpose This study aimed to evaluate the protective effect of N-acetyl-L-cysteine (NAC) as an antioxidant on busulfan-induced testicular dysfunction in mice and elucidate its possible mechanism of action. Materials and Methods Thirty-two C57BL/6 male mice were randomly divided into four groups (n=8/group) as follows: (1) control group (oral administration of saline for 35 days); (2) NAC group (oral administration of NAC for 35 days); (3) busulfan group (double intraperitoneal injections of 20 mg/kg; total dose of 40 mg/kg); and (4) busulfan+NAC group (after double intraperitoneal injections of 20 mg/kg; total dose of 40 mg/kg, NAC administration for 35 days). The testes were removed, weighed, and subjected to sperm parameter analysis and morphology assessment. Reproductive hormone, serum/testicular reactive oxygen species (ROS) level, oxidative stress and antioxidant markers were evaluated. The testicular expression of Nrf2 and HO-1 was examined using RT-qPCR. Results Busulfan treatment significantly decreased testicular weight, sperm count, and serum testosterone levels. Atrophy and degeneration of germinal epithelium were observed in the busulfan group. NAC administration after busulfan treatment partially attenuated the deterioration of testis weight, sperm quality, serum hormones, histomorphometric changes, and oxidative and antioxidative status. NAC treatment resulted in a considerable improvement in Nrf2 and HO-1 mRNA expression levels. Conclusions This study provides compelling evidence that NAC as a potent antioxidant has significant protective effects against busulfan-induced male reproductive impairment possibly through modification of the Nrf2/HO-1 signaling pathway.
+
+The role of N‐acetyl‐cysteine (NAC) orally daily on the sperm parameters and serum hormones in idiopathic infertile men: A systematic review and meta‐analysis of randomised controlled trials
+
+Number of 
+
+Key takeaways:NAC orally daily improves sperm concentration, ejaculate volume, sperm motility, and normal morphology in idiopathic infertile men, but has no significant effect on serum hormones.
+
+Abstract:The meta‐analysis was performed to access the role of N‐acetyl‐cysteine (NAC) orally daily on the sperm parameters and serum hormones in idiopathic infertile men. Randomised controlled trials (RCTs) were retrieved using PubMed, EMBASE and Cochrane register databases. The references of included studies were also searched. Finally, three articles including 431 infertile men were analysed. The results indicated that the NAC group had a considerable improvement in sperm concentration (mean difference , 3.80; p < .00001), ejaculate volume (MD, 0.69; p = .002), sperm motility (MD, 4.69; p < .0001) and normal morphology (MD, 1.68; p = .0002) compared with the placebo group. However, in terms of serum hormones, the NAC group did not show significant difference in increasing the serum levels of testosterone (MD, 1.35; p = .21), luteinising hormone (MD, 0.82; p = .40), follicle‐stimulating hormone (MD, −7.48; p = .29) and prolactin (MD, −0.34; p = .32) compared with the placebo group. In conclusion, NAC orally daily produced a greater improvement in sperm concentration, ejaculate volume, sperm motility and normal morphology for idiopathic infertile men, whereas no significant influence in serum hormones, which required more high‐quality RCTs with sufficient sample sizes and statistics to prove.
+
+N-acetyl-cysteine effect on total antioxidant capacity in Iraqi men with oligoasthenoteratozoospermia
+
+Number of 
+
+Key takeaways:N-acetyl cysteine (NAC) treatment significantly increases total antioxidant capacity in infertile men, potentially improving spermatogenesis and sperm function.
+
+Abstract:The aim of this prospective study is to evaluate the effect of using N-acetyl cysteine (600mg/day) for 3 consecutive months on the serum level of total antioxidant capacity of Iraqi males with idiopathic infertility. This study was performed at infertile center of ALKUT hospital during the period from October 2021 to March 2022 .A total 45 patients with idiopathic oligoasthenoteratozoospermia were received N-acetyl cysteine (NAC) for 12 weeks, their total antioxidant capacity (TAC) was measured at the baseline and after 12 weeks. The results showed that TAC levels were significantly higher (0.61±0.02 vs. 0.86±0.02 ; LSD= 0.10 ) which confirmed that NAC has positive effect in increasing the level of antioxidant capacity in infertile men and thus decreasing the reactive oxygen species ROS and restore the oxidant balance level resulting in better spermatogenesis and sperm function.
+
+The effect of N-acetyl cysteine consumption on men with abnormal sperm parameters due to positive history of COVID-19 in the last three months.
+
+Number of 
+
+Key takeaways:NAC supplementation can improve sperm quality in men with COVID-19-related sperm impairments, potentially reducing male infertility.
+
+Abstract:Male infertility is an important factor accounting for 40-50% of infertility cases that may be due to disturbance in one of the parameters as concentration, motility and morphology observed in one or two semen analysis with an interval of 1 and 4 weeks. COVID-19 may affect male fertility through virus division, cytotoxic effects on testicular tissue and immunopathological effect. N-acetyl cysteine (NAC) improved sperm concentration and acrosome reaction while reducing reactive oxygen species (ROS) and oxidation of sperm DNA. This interventional study was conducted on 200 men who were referred to private infertility clinics for female factor (their previous semen analysis was normal) and got COVID-19 infection in the last 3 months showing an impairment of the latest semen analysis due to COVID. Men were placed in two groups of control (n = 100) and intervention (NAC consumption). Subjects who got COVID-19 infection had a significant impairment of sperm quality (sperm concentration, sperm motility, and normal sperm morphology) compared to their semen analysis evaluated before the COVID-19 infection. NAC consumption significantly improved sperm total motility, sperm morphology and sperm concentration. COVID-19 infection has a negative effect on sperm parameters. NAC supplementation may have positive effect on sperm parameters.
+
+The Effect of N-Acetyl-Cysteine on NRF2 Antioxidant Gene Expression in Asthenoteratozoospermia Men: A Clinical Trial Study
+
+Number of 
+
+Key takeaways:NAC oral supplementation protects against oxidative stress and improves semen quality in infertile men with asthenoteratozoospermia by enhancing NRF2 expression.
+
+Abstract:Background One of the important factor associated with male infertility is high production of reactive oxygen species (ROS). The main function of Nuclear factor erythroid 2-related factor 2 (NRF2) is to activate the cellular anti- oxidant response by inducing the transcription of a wide array of genes that can combat the harmful effects of factors such as oxidative stress. The purpose of this study was to evaluate the effect of N-acetyl-L-cysteine (NAC), as an antioxidant drug, on NRF2 Gene Expression in Asthenoteratozoospermia Men. Materials and Methods In this randomized, blinded clinical trial study, included 50 infertile men with asthenoteratozoo- spermia, who received NAC (600 mg, three times daily). Sperm parameters analyzed according to the world health organiza- tion (WHO; 2010). Sperm DNA fragmentation, relative NRF2 expression, and seminal plasma level of antioxidant enzymes were measured by TUNEL assay, reverse transcription polymerase chain reaction (RT-PCR) and ELISA test, respectively. Results After NAC treatment, findings showed a significant increase in sperm concentration and motility compared to pre-treatment status, whereas the percentage of abnormal morphology and DNA fragmentation was significantly decreased (P<0.05). A significant improvement in expression of NRF2 gene and antioxidant enzyme levels were ob- served compared to pre-treatment by NAC (P<0.05). Significant correlations were observed between NRF2 mRNA expression level, specific sperm parameters and level of antioxidant enzymes (P<0.05). Conclusion The results demonstrated that NAC oral supplementation protected against oxidative stress by enhancing NRF2 expression. This could improve semen parameters quality parameters in asthenoteratozoospermia men (Regis- tration number: IRCT20170830035998N4).
+
+N-Acetyl-L-Cysteine Attenuates Titanium Dioxide Nanoparticle (TiO2 NP)-Induced Autophagy in Male Germ Cells.
+
+Number of 
+
+Key takeaways:N-Acetyl-L-Cysteine (NAC) can protect male germ cells from the reproductive risks posed by titanium dioxide nanoparticles by alleviating autophagy and restoring ERK phosphorylation.
+
+Inhibition of reactive oxygen species generation by N-Acetyl Cysteine can mitigate male germ cell toxicity induced by bisphenol analogs.
+
+Number of 
+
+Key takeaways:NAC supplementation effectively counters male germ cell toxicity induced by environmental pollutants with robust oxidative stress-generating capacity, potentially improving male fertility.
+
+A Preliminary Study: N-acetyl-L-cysteine Improves Semen Quality following Varicocelectomy
+
+Number of 
+
+Key takeaways:NAC improves semen quality and chromatin integrity in infertile men with varicocele, potentially increasing their pregnancy rate after surgery.
+
+Abstract:Background Surgery is considered the primary treatment for male infertility from clinical varicocele. One of the main events associated with varicocele is excessive production of reactive oxygen species (ROS). N-acetyl-L-cysteine (NAC), an antioxidant that scavenges free radicals, is considered a supplement to alleviate glutathione (GSH) depletion during oxidative stress. Despite beneficial effects of NAC in other pathological events, there is no report on the effect of NAC in individuals with varicocele. Therefore, the aim of this study is to evaluate the outcome of NAC on semen quality, protamine content, DNA damage, oxidative stress and fertility following varicocelectomy. Materials and Methods This prospective clinical trial included 35 infertile men with varicocele randomly divided into control (n=20) and NAC (n=15) groups. We assessed semen parameters, protamine content , DNA integrity and oxidative stress before and three months after varicocelectomy. Results Percentage of abnormal semen parameters, protamine deficiency, DNA fragmentation and oxidative stress were significantly decreased in both groups compared to before surgery. We calculated the percentage of improvement in these parameters compared to before surgery for each group, then compared the results between the groups. Only percentage of protamine deficiency and DNA fragmentation significantly differed between the NAC and control groups. Conclusion The results of this study, for the first time, revealed that NAC improved chromatin integrity and pregnancy rate when administered as adjunct therapy post-varico- celectomy (Registeration Number: IRCT201508177223N5).
+
+Efficacy and Tolerability of N-Acetyl-Cysteine for Treatment of The Early-onset Androgenetic Alopecia in Men
+
+Number of 
+
+Key takeaways:N-acetyl-cysteine (NAC) effectively improves early-onset androgenetic alopecia in men, with tolerable side effects and no need to stop treatment.
+
+Abstract:Androgenetic alopecia (AGA), the most common form of hair loss in men, involves the progressive loss of visible pigmented terminal hair on the scalp in response to circulating androgens. AGA is an autosomal disorder which begins in puberty in genetically predisposed individuals.
+ 
+ 
+ 
+ To study the effectiveness and safety of the reactive oxygen species scavenger Nacetyl-cysteine (NAC) as a single therapy and in combination with the topically applied minoxidil for treatment of the early-onset androgenetic alopecia in men.
+ 
+ 
+ 
+ The present study included 100 patients with male pattern hair loss whose age ranged from 18 to 30 years old, recruited from dermatology clinics in Ain Shams University Hospital and Kafr El Sheik University Hospital.
+ 
+ 
+ 
+ Overall, all treatments could improve significantly some of the trichoscopic parameters as compared to the control group who did not receive any treatment. The number of terminal hair count increased and the vellus hair count decreased in response to either of treatments; minoxidil, NAC, or both as compared to control. These changes were noticed at both the vertex and frontotemporal sites. The treatment was generally tolerable and the side effects encountered did not necessitate stoppage of the treatment course.
+ 
+ 
+ 
+ On the basis of the findings of current study we can conclude that, the role of trichoscopy in increasing the accuracy for diagnosing hair disorders as well as to detect response or failure to treatment, N-acetylcysteine (NAC) improved significantly most of the trichoscopic features of AGA and it was was generally tolerable and the side effects encountered did not necessitate stoppage of the treatment course.
+
+Long-Term Administration of Antioxidant N-Acetyl-L-Cysteine Impacts Beta Cell Oxidative Stress, Insulin Secretion, and Intracellular Signaling Pathways in Aging Mice
+
+Number of 
+
+Key takeaways:Long-term NAC supplementation in aging mice can reduce diet-induced stress but its effects on insulin secretion and signaling pathways remain ambiguous.
+
+Abstract:Research into the effects of long-term antioxidant supplementation on the islet microenvironment is limited. This study examined whether long-term N-acetyl-L-cysteine (NAC) supplementation can prevent changes in metabolic outcomes, beta cell function, and pancreatic stellate cell (PaSC) activation in aging mice. Male C57BL/6N mice at 18 weeks were administered 50 mM NAC through their daily drinking water and treated for up to 60 weeks. Aging NAC mice displayed lower body weights and improved glucose tolerance but reduced insulin secretion and insulin signaling compared to control (ND) mice. When some 40-week-old ND and NAC mice were subjected to 8 weeks of a high-fat diet (HFD)-stress challenge, results showed that NAC reduced HFD-induced beta cell oxidative stress and preserved nuclear PDX-1 expression. The findings from this study suggest that while NAC can be beneficial for diet-induced stress during aging, the effects of long-term NAC on the islets of physiologically aging mice are more ambiguous. Further exploration is required to determine the effects of NAC-mediated lowering of beta cell oxidative stress on insulin secretion and signaling pathways. This study highlights the importance of investigating oxidative stress balance in aging islets under normal diet conditions to determine if antioxidative therapies can be utilized without interfering with essential physiological processes.
+
+N-Acetyl-cysteine against noise-induced temporary threshold shift in male workers
+
+Number of 
+
+Key takeaways:N-acetyl-cysteine (NAC) may protect against noise-induced temporary threshold shift in male workers, with a more prominent protective effect in those with both GSTM1-null and GSTT1-null genotypes.
+
+Multifaceted activity of N-acetyl-l-cysteine in chronic obstructive pulmonary disease
+
+Number of 
+
+Key takeaways:NAC's protective effect against acute exacerbations of COPD is influenced by its mucolytic activity, antioxidant effects, and modulation of human bronchial tone, not just its mucolytic activity.
+
+Abstract:ABSTRACT Introduction: N-acetyl-l-cysteine (NAC), a derivative of the naturally occurring amino acid l-cysteine, is a mucolytic agent that may also act as an antioxidant by providing cysteine intracellularly for increased production of glutathione. It is also used for the treatment of acetaminophen overdose. Areas covered: The recent international recommendations for the treatment of chronic obstructive pulmonary disease (COPD) report that NAC, because of its mucolytic activity, reduces acute exacerbation of COPD (AECOPD) with a modest improvement in health status. However, NAC is a pleiotropic drug with heterogeneous pharmacologic characteristics that certainly include mucolytic activity, but also has anti-infective properties and specific antioxidant and anti-inflammatory effects in the airways. Thus, the mechanisms leading to the protective role of this agent against AECOPD need to be adequately addressed. Expert commentary: The protective effect of NAC against AECOPD seems to be related not only to its well-documented mucolytic activity but also to activation of antioxidant pathways, inhibition of pro-oxidant and inflammatory pathways, and modulation of human bronchial tone. Thus, the dogma that NAC acts prevalently as a mucolytic agent is outdated, and the hypothesis that its anti-inflammatory effect is secondary to the antioxidant activity has been rejected.
+
+A Review on Various Uses of N-Acetyl Cysteine
+
+Number of 
+
+Key takeaways:NAC is a powerful antioxidant and potential treatment option for various disorders caused by free oxygen radicals, as well as a mucolytic drug that mellows tenacious mucous discharges.
+
+Abstract:N-acetyl cysteine (NAC), as a nutritional supplement, is a greatly applied antioxidant in vivo and in vitro. NAC is a precursor of L-cysteine that results in glutathione elevation biosynthesis. It acts directly as a scavenger of free radicals, especially oxygen radicals. NAC is a powerful antioxidant. It is also recommended as a potential treatment option for different disorders resulted from generation of free oxygen radicals. Additionally, it is a protected and endured mucolytic drug that mellows tenacious mucous discharges. It has been used for treatment of various diseases in a direct action or in a combination with some other medications. This paper presents a review on various applications of NAC in treatment of several diseases.
+
+The Comparative Analysis of the Impact of N-Acetyl-L-Cysteine and its Combination with Propolis on Quality-of-Life in Patients with Acute Bronchitis
+
+Number of 
+
+Key takeaways:NAC-P and NAC alone both improve health-related quality of life in acute bronchitis patients, with NAC-P showing slightly higher improvements in EQ-5D scale values.
+
+Abstract:Abstract: Objectives: Evidence suggests that both N-Acetyl-L-cysteine (NAC) and NAC in combination with propolis (NAC-P) reduce symptoms of acute bronchitis and improve Health-Related Quality of Life (HRQoL). This study aimed to compare the impact of NAC and NAC-P therapy on acute bronchitis patients' quality of life. Design, setting, and subjects: A randomized, single-blind parallel-group study was achieved at Municipal Institute for Lung Diseases and Tuberculosis Medical Centre, Belgrade, Serbia. Patients with acute bronchitis were randomly assigned into two groups to receive NAC (200mg three times a day) or NAC-P (200mg+80mg three times a day) orally for a minimum of ten days. HRQoL of patients was measured twice (at two appointments) using the Leicester Cough Questionnaire (LCQ) and EQ-5D questionnaires. Results: The study included 42 patients in the NAC-P group and 43 in the NAC group. The correlation between the LCQ total score and Health State Values (HSV) was positive and statistically significant in the NAC-P and the NAC groups at the second appointment. The differences between values of EQ-5D scores were slightly higher (but not statistically significant) in the NAC-P group compared to the NAC group, indicating a more remarkable improvement of HRQoL using NAC-P. Conclusion: NAC-P and NAC may improve HRQoL in patients with acute bronchitis. EQ-5D scale values indicated that NAC-P might improve quality of life more than NAC. Our results may provide the basis for better decision-making by healthcare professionals when choosing the right therapy. Keywords: Respiratory disease, Bronchitis, Health-Related Quality of Life, N-Acetyl-L-cysteine, Propolis, Treatment.
+
+Drug-Induced Liver Injury: Clinical Evidence of N-Acetyl Cysteine Protective Effects
+
+Number of 
+
+Key takeaways:N-acetyl cysteine (NAC) shows protective effects against drug-induced liver injury, potentially reducing patient mortality and improving liver function in cases of alcohol-induced liver injury.
+
+Abstract:Oxidative stress is a key pathological feature implicated in both acute and chronic liver diseases, including drug-induced liver injury (DILI). The latter describes hepatic injury arising as a direct toxic effect of administered drugs or their metabolites. Although still underreported, DILI remains a significant cause of liver failure, especially in developed nations. Currently, it is understood that mitochondrial-generated oxidative stress and abnormalities in phase I/II metabolism, leading to glutathione (GSH) suppression, drive the onset of DILI. N-Acetyl cysteine (NAC) has attracted a lot of interest as a therapeutic agent against DILI because of its strong antioxidant properties, especially in relation to enhancing endogenous GSH content to counteract oxidative stress. Thus, in addition to updating information on the pathophysiological mechanisms implicated in oxidative-induced hepatic injury, the current review critically discusses clinical evidence on the protective effects of NAC against DILI, including the reduction of patient mortality. Besides injury caused by paracetamol, NAC can also improve liver function in relation to other forms of liver injury such as those induced by excessive alcohol intake. The implicated therapeutic mechanisms of NAC extend from enhancing hepatic GSH levels to reducing biomarkers of paracetamol toxicity such as keratin-18 and circulating caspase-cleaved cytokeratin-18. However, there is still lack of evidence confirming the benefits of using NAC in combination with other therapies in patients with DILI.
+
+Enhancing the efficacy of low doses of N-acetyl-L-cysteine in mitigating CCl4-induced hepatotoxicity in animal model using physical cold plasma.
+
+Number of 
+
+Key takeaways:Physical cold plasma enhances the effectiveness of low doses of N-acetyl-L-cysteine in mitigating CCl4-induced liver damage in rats, acting as a promising prophylactic drug with high safety margins.
+
+N-Acetyl-L-Cysteine Protects Liver and Kidney Against Chromium(VI)-Induced Oxidative Stress in Mice
+
+Number of 
+
+Key takeaways:NAC pre-treatment effectively reduces oxidative stress and chromium accumulation in liver and kidney of chromium(VI)-exposed mice, potentially due to extracellular reduction or chelation mechanisms.
+
+Abstract:Acute hexavalent chromium compound exposure may lead to hepatotoxic and nephrotoxic effects. Cr(VI) reduction may generate reactive intermediates and radicals which might be associated with damage. We investigated effects of N-acetyl-l-cysteine (NAC) pre- or post-treatment on oxidative stress and accumulation of Cr in liver and kidney of Cr(VI)-exposed mice. Intraperitoneal potassium dichromate injection (20 mg Cr/kg) caused a significant elevation of lipid peroxidation in both tissues as compared to control (p < 0.05). Significant decreases in non-protein sulfhydryl (NPSH) level, as well as enzyme activities of catalase (CAT) and superoxide dismutase (SOD) along with significant accumulation of Cr in the tissues (p < 0.05) were of note. NAC pre-treatment (200 mg/kg, ip) provided a noticeable alleviation of lipid peroxidation (p < 0.05) in both tissues, whereas post-treatment exerted significant effect only in kidney. Similarly, Cr(VI)-induced NPSH decline was restored by NAC pre-treatment in both tissues (p < 0.05); however, NAC post-treatment could only replenish NPSH in liver (p < 0.05). Regarding enzyme activities, in liver tissue NAC pre-treatment provided significant restoration on Cr(VI)-induced CAT inhibition (p < 0.05), while SOD enzyme activity was regulated to some extent. In kidney, SOD activity was efficiently restored by both treatments (p < 0.05), whereas CAT enzyme alteration could not be totally relieved. Additionally, NAC pre-treatment in both tissues and post-treatment in liver exerted significant tissue Cr level decreases (p < 0.05). Overall, especially NAC pre-treatment seems to provide beneficial effects in regulating pro-oxidant/antioxidant balance and Cr accumulation caused by Cr(VI) in liver and kidney. This finding may be due to several mechanisms including extracellular reduction or chelation of Cr(VI) by readily available NAC.
+
+Therapeutic effects of N-acetyl-L-cysteine on liver damage induced by long-term CCl4 administration.
+
+Number of 
+
+Key takeaways:NAC, when administered simultaneously with long-term CCl4 administration, exhibits both protective and deleterious effects on liver damage, affecting biochemical parameters.
+
+Abstract:N-acetyl-L-cysteine (NAC) is a drug routinely used in several health problems, e.g. liver damage. There is some information emerged on its negative effects in certain situations. The aim of our study was to examine its ability to influence liver damage induced by long-term burden. We induced liver damage by CCl4 (10 weeks) and monitored the impact of parallel NAC administration (daily 150 mg/kg of b.w.) on liver morphology and some biochemical parameters (triacylglycerols, cholesterol, alanine aminotransferase (ALT), aspartate aminotransferase (AST), bilirubin, bile acids, proteins, albumins and cholinesterase). NAC significantly decreased levels of bile acids and bilirubin in plasma and triacylglycerols in liver, all of them elevated by impairment with CCl4. Reduction of cholesterol induced by CCl4 was completely recovered in the presence of NAC as indicated by its elevation to control levels. NAC administration did not improve the histological parameters. Together with protective effects of NAC, we found also its deleterious properties: parallel administration of CCl4 and NAC increased triacylglycerols, ALT and AST activity and significantly increased plasma cholinesterase activity. We have observed nonsignificantly increased percentage of liver tissue fibrosis. Our results have shown that NAC administered simultaneously with liver damaging agent CCl4, exhibits not only protective, but also deleterious effects as indicated by several biochemical parameters.
+
+A new opportunity for N-acetylcysteine. An outline of its classic antioxidant effects and its pharmacological potential as an epigenetic modulator in liver diseases treatment.
+
+Number of 
+
+Key takeaways:N-acetyl cysteine (NAC) shows potential in treating liver damage and preventing liver diseases, with its antioxidant properties and ability to modulate epigenetic markers offering a potential repurposing alternative for treating liver diseases.
+
+Abstract:Liver diseases represent a worldwide health problem accountable for two million deaths per year. Oxidative stress is critical for the development of these diseases. N-acetyl cysteine (NAC) is effective in preventing liver damage, both in experimental and clinical studies, and evidence has shown that the pharmacodynamic mechanisms of NAC are related to its antioxidant nature and ability to modulate key signaling pathways. Here, we provide a comprehensive description of the beneficial effects of NAC in the treatment of liver diseases, addressing the first evidence of its role as a scavenger and precursor of reduced glutathione, along with studies showing its immunomodulatory action, as well as the ability of NAC to modulate epigenetic hallmarks. We searched the PubMed database using the following keywords: oxidative stress, liver disease, epigenetics, antioxidants, NAC, and antioxidant therapies. There was no time limit to gather all available information on the subject. NAC has shown efficacy in treating liver damage, exerting mechanisms of action different from those of free radical scavengers. Like different antioxidant therapies, its effectiveness and safety are related to the administered dose; therefore, designing new pharmacological formulations for this drug is imperative to achieve an adequate response. Finally, there is still much to explore regarding its effect on epigenetic marker characteristics of liver damage, turning it into a drug with broad therapeutic potential. According to the literature reviewed, NAC could be an appropriate option in clinical studies related to hepatic injury and, in the future, a repurposing alternative for treating liver diseases.
+
+Use of N-acetyl-cysteine in the Perioperative Period of Liver Transplantation: A Scoping Review
+
+Number of 
+
+Key takeaways:Intraoperative administration of NAC during liver transplantation may protect against reperfusion injury, but limitations in protection against liver injury, oxidative stress, inflammation, and enzyme functioning remain.
+
+Abstract:Objective: To !nd evidence on the use of N-acetyl-cysteine (NAC) in the perioperative period of liver transplantation, since NAC, as it is the acetylated precursor of L-cysteine and reduced glutathione, contributes to the hepatic supply of glutathione, helping the liver to recover from ischemia and reperfusion injury. Methodology: "is is a scoping review of the PubMed, VHL and Web of Science databases. "e descriptors “Liver transplantation”, “N-acetyl-cysteine” and “Reperfusion Ischemia” were used, with the Boolean operator “AND”, and articles relevant to the topic were selected. Initially, 60 articles were selected, all 
+
+Protective effect of N-Acetyl-L-Cysteine ( NAC ) on endosulfan-induced liver and kidney toxicity in rats
+
+Number of 
+
+Key takeaways:NAC effectively prevents endosulfan-induced liver and kidney toxicity in rats, potentially due to its antioxidant effects.
+
+Abstract:Endosulfan-induced systemic toxicity arises from oxidative stress and glutathione depletion. This study aims to investigate the possible protective effect of N-acetyl-L-cysteine (NAC) against endosulfan-induced toxicity in the liver and kidney tissue of rats. Wistar albino rats were separated into 4 groups and administered saline, NAC, endosulfan and endosulfan + NAC for 5 days. After euthanizing the animals, trunk blood was collected, followed by the removal of the kidney and liver for histological observation, the determination of glutathione, malondialdehyde levels, collagen content and myeloperoxidase activity. Lactate dehydrogenase (LDH) activity, blood urea nitrogen, creatinine, alanine aminotransferase and aspartate aminotransferase levels were measured in serum samples, while 8-OHdG, IL-1b, IL-6 and TNF-α were analyzed in plasma. Endosulfan provoked a significant decrease in tissue glutathione, along with a significant increase in malondialdehyde and collagen status, as well as myeloperoxidase activity. In addition, the pro-inflammatory mediators, LDH activity, and 8-OHdG, aspartate aminotransferase, creatinine, alanine aminotransferase and blood urea nitrogen levels were significantly raised in the endosulfan group. The endosulfan + NAC group showed significant decreases in MPO activity (P < 0.001 in both liver and kidney) and MDA levels (P < 0.01 in the liver, P < 0.05 in the kidney) compared with the endosulfan only group, revealing the protective effect of NAC. Furthermore, the results show that NAC treatment prevents all of the biochemical and histopathological alterations induced by endosulfan. This data indicates that NAC administration effectively prevents the deleterious effects of endosulfan toxicity and attenuates oxidative hepato-renal oxidative damage. This is possibly the result of its antioxidant effects.
+
+Oxidative Stress and Inflammation in Hepatic Diseases: Therapeutic Possibilities of N-Acetylcysteine
+
+Number of 
+
+Key takeaways:N-acetylcysteine (NAC) shows potential in reducing oxidative stress and inflammation in liver diseases, with satisfactory results in 85.5% of cases studied.
+
+Abstract:Liver disease is highly prevalent in the world. Oxidative stress (OS) and inflammation are the most important pathogenetic events in liver diseases, regardless the different etiology and natural course. N-acetyl-l-cysteine (the active form) (NAC) is being studied in diseases characterized by increased OS or decreased glutathione (GSH) level. NAC acts mainly on the supply of cysteine for GSH synthesis. The objective of this review is to examine experimental and clinical studies that evaluate the antioxidant and anti-inflammatory roles of NAC in attenuating markers of inflammation and OS in hepatic damage. The results related to the supplementation of NAC in any form of administration and type of study are satisfactory in 85.5% (n = 59) of the cases evaluated (n = 69, 100%). Within this percentage, the dosage of NAC utilized in studies in vivo varied from 0.204 up to 2 g/kg/day. A standard experimental design of protection and treatment as well as the choice of the route of administration, with a broader evaluation of OS and inflammation markers in the serum or other biological matrixes, in animal models, are necessary. Clinical studies are urgently required, to have a clear view, so that, the professionals can be sure about the effectiveness and safety of NAC prescription.
+
+Clinical use of N-acetyl cysteine during liver transplantation: Implications of oxidative stress and inflammation as therapeutic targets.
+
+Number of 
+
+Key takeaways:N-acetyl cysteine (NAC) effectively improves liver function during liver transplantation by blocking oxidative stress and reducing inflammation, but some studies show no beneficial effects.
+
+The effect of N-acetyl-l-cysteine (NAC) on liver toxicity and clinical outcome after hematopoietic stem cell transplantation
+
+Number of 
+
+Key takeaways:NAC is a potential prophylactic treatment for hepatotoxicity during busulphan conditioning without altering busulphan kinetics or affecting clinical outcome in hematopoietic stem cell transplantation.
+
+N-acetyl Cysteine Overdose Induced Acute Toxicity and Hepatic Microvesicular Steatosis by Disrupting GSH and Interfering Lipid Metabolisms in Normal Mice
+
+Number of 
+
+Key takeaways:NAC overdose can cause acute toxicity and liver damage in normal mice, highlighting the need for limited doses for normal individuals.
+
+Abstract:N-acetyl cysteine (NAC) is a versatile drug used in various conditions, but the limitations and toxicities are not clear. The acute toxicity and toxicological mechanisms of an intraperitoneal injection of NAC in normal mice were deciphered. The LD50 for male and female BALB/cByJNarl mice were 800 mg/kg and 933 mg/kg. The toxicological mechanisms of 800 mg/kg NAC (N800) were investigated. The serum biomarkers of hepatic and renal indices dramatically increased, followed by hepatic microvesicular steatosis, renal tubular injury and necrosis, and splenic red pulp atrophy and loss. Thus, N800 resulted in mouse mortality mainly due to acute liver, kidney, and spleen damages. The safe dose (275 mg/kg) of NAC (N275) increased hepatic antioxidant capacity by increasing glutathione levels and catalase activity. N275 elevated the hepatic gene expressions of lipid transporter, lipid synthesis, β-oxidation, and ketogenesis, suggesting a balance between lipid production and consumption, and finally, increased ATP production. In contrast, N800 increased hepatic oxidative stress by decreasing glutathione levels through suppressing Gclc, and reducing catalase activity. N800 decreased the hepatic gene expressions of lipid transporter, lipid synthesis, and interferred β-oxidation, leading to lipid accumulation and increasing Cyp2E1 expression, and finally, decreased ATP production. Therefore, NAC doses are limited for normal individuals, especially via intraperitoneal injection or similar means.
+
+N-acetyl-L-cysteine improves the performance of chronic cyclic heat-stressed finisher broilers but has no effect on tissue glutathione levels
+
+Number of 
+
+Key takeaways:N-acetyl-L-cysteine improves growth and feed efficiency in heat-stressed finishing broilers without affecting tissue glutathione levels, likely due to sparing methionine and/or NAC and cysteine's antioxidant properties.
+
+Abstract:ABSTRACT 1. It was hypothesised that dietary N-acetyl-L-cysteine (NAC) in feed, as a 
+
+N-Acetyl Cysteine Overdose Inducing Hepatic Steatosis and Systemic Inflammation in Both Propacetamol-Induced Hepatotoxic and Normal Mice
+
+Number of 
+
+Key takeaways:NAC overdose can induce hepatic and systemic inflammation and interfere with fatty acid metabolism in both propacetamol-induced and normal mice.
+
+Abstract:Acetaminophen (APAP) overdose induces acute liver damage and even death. The standard therapeutic dose of N-acetyl cysteine (NAC) cannot be applied to every patient, especially those with high-dose APAP poisoning. There is insufficient evidence to prove that increasing NAC dose can treat patients who failed in standard treatment. This study explores the toxicity of NAC overdose in both APAP poisoning and normal mice. Two inbred mouse strains with different sensitivities to propacetamol-induced hepatotoxicity (PIH) were treated with different NAC doses. NAC therapy decreased PIH by reducing lipid oxidation, protein nitration and inflammation, and increasing glutathione (GSH) levels and antioxidative enzyme activities. However, the therapeutic effects of NAC on PIH were dose-dependent from 125 (N125) to 275 mg/kg (N275). Elevated doses of NAC (400 and 800 mg/kg, N400 and N800) caused additional deaths in both propacetamol-treated and normal mice. N800 treatments significantly decreased hepatic GSH levels and induced inflammatory cytokines and hepatic microvesicular steatosis in both propacetamol-treated and normal mice. Furthermore, both N275 and N400 treatments decreased serum triglyceride (TG) and induced hepatic TG, whereas N800 treatment significantly increased interleukin-6, hepatic TG, and total cholesterol levels. In conclusion, NAC overdose induces hepatic and systemic inflammations and interferes with fatty acid metabolism.
+
+Existing and potential therapeutic uses for N-acetylcysteine: the need for conversion to intracellular glutathione for antioxidant benefits.
+
+Number of 
+
+Key takeaways:N-acetylcysteine (NAC) is not a powerful antioxidant itself, but effectively replenishes glutathione in deficient cells, potentially benefiting conditions like cystic fibrosis and contrast-induced nephropathy.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

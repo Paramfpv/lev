@@ -1,0 +1,542 @@
+PROTOCOL: Painkiller and nsaid overuse
+
+IMPACT: Painkiller and nsaid overuse - Negative impact on the liver, kidneys, and intestines | Longevity Protocols
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Abuse of paracetamol and NSAIDs can lead to serious damage to the liver, kidneys, and intestines. In particular, paracetamol overdose leads to toxic metabolites that damage the liver. NSAIDs disrupt prostaglandin production, leading to liver, kidney, and intestinal barrier damage, which may cause chronic inflammation, tissue damage, and complications requiring treatment. The harmfulness of abusing these drugs is particularly pronounced in people with risk factors such as liver or kidney disease, obesity, diabetes, or hypertension.
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Abuse of non-steroidal anti-inflammatory drugs (NSAIDs) and paracetamol leads to serious damage to the liver, kidneys, and intestines. Paracetamol overdose can cause liver cell damage, and long-term use of NSAIDs leads to hepatitis, impaired kidney function, damage to the intestinal barrier, and other health complications, especially in people with comorbidities.
+
+CONTENT SECTIONS:
+
+Painkiller and nsaid overuse
+
+Negative impact on the liver, kidneys, and intestines
+
+Abuse of non-steroidal anti-inflammatory drugs (NSAIDs) and paracetamol leads to serious damage to the liver, kidneys, and intestines. Paracetamol overdose can cause liver cell damage, and long-term use of NSAIDs leads to hepatitis, impaired kidney function, damage to the intestinal barrier, and other health complications, especially in people with comorbidities.
+
+Level of evidence:Good
+
+Paracetamol is converted in the body into toxic metabolites that damage the liver. NSAIDs, by inhibiting prostaglandin production, affect the function of internal organs, leading to liver and kidney damage. Additionally, NSAIDs disrupt the integrity of the intestinal barrier, leading to 'leaky gut,' which allows toxins and bacteria to enter the bloodstream, thereby increasing inflammation and disturbing intestinal homeostasis. Prolonged use of these drugs results in organ failure and serious health damage.
+
+Abuse of paracetamol and NSAIDs can lead to serious damage to the liver, kidneys, and intestines. In particular, paracetamol overdose leads to toxic metabolites that damage the liver. NSAIDs disrupt prostaglandin production, leading to liver, kidney, and intestinal barrier damage, which may cause chronic inflammation, tissue damage, and complications requiring treatment. The harmfulness of abusing these drugs is particularly pronounced in people with risk factors such as liver or kidney disease, obesity, diabetes, or hypertension.
+
+Abuse of paracetamol and NSAIDs is a widespread health problem associated with numerous health complications. Epidemiological data indicate that this problem affects millions of people worldwide, including those with comorbidities such as obesity, diabetes, hypertension, and the elderly.
+
+Use paracetamol and NSAIDs as recommended
+
+It is recommended to use paracetamol and NSAIDs only in the recommended doses and for the shortest possible time to minimize the risk of liver and kidney damage.
+
+Monitor liver and kidney function
+
+Regular checks of liver and kidney function can help detect early signs of organ damage related to the abuse of these drugs.
+
+Consult your doctor with long-term use
+
+With long-term use of paracetamol or NSAIDs, especially in people with comorbidities, it is advisable to consult a doctor to adjust the therapy and consider alternative treatments.
+
+The abuse of painkillers, especially non-steroidal anti-inflammatory drugs (NSAIDs), has a proven negative impact on the intestines. Chronic use of these drugs can lead to damage of the intestinal barrier, inflammation, ulcers, and even serious complications such as bleeding or perforation.
+
+Mechanisms of NSAID-induced gut injury
+
+Examples of complications
+
+The abuse of painkillers and anti-inflammatory drugs, especially non-steroidal anti-inflammatory drugs (NSAIDs), can lead to serious kidney damage, both acute and chronic. The risk increases with long-term use, high doses, in the elderly, and in people with comorbidities or pre-existing kidney disease.
+
+Mechanisms and Side Effects
+
+Table: Major consequences of NSAID abuse for the kidneys
+
+Abuse of painkillers (especially paracetamol) and non-steroidal anti-inflammatory drugs (NSAIDs) can lead to serious liver damage. The risk of liver damage increases when recommended doses are exceeded, with long-term use, or in people with existing liver diseases.
+
+Mechanisms of liver damage
+
+Table: Effects of painkiller and anti-inflammatory drug abuse on the liver
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:60
+
+Final comment:The abuse of paracetamol and NSAIDs is well documented in the medical literature. There are numerous clinical studies and literature reviews indicating the harmfulness of these drugs, including their impact on the liver and kidneys. Although the evidence mainly comes from studies of mixed quality, they clearly point to the risk of organ damage, especially with long-term use and exceeding recommended doses. These mechanisms and evidence have been confirmed in both population and pharmacological studies.
+
+Current knowledge on non-steroidal anti-inflammatory drug-induced small-bowel damage: a comprehensive review
+
+Number of 
+
+Key takeaways:NSAIDs frequently damage the small intestine, with misoprostol being the only proven effective treatment for bleeding small intestinal ulcers, but a combination of misoprostol and other drugs is needed for optimal protection.
+
+Abstract:Recent advances in small-bowel endoscopy such as capsule endoscopy have shown that non-steroidal anti-inflammatory drugs (NSAIDs) frequently damage the small intestine, with the prevalence rate of mucosal breaks of around 50% in chronic users. A significant proportion of patients with NSAIDs-induced enteropathy are asymptomatic, but some patients develop symptomatic or complicated ulcers that need therapeutic intervention. Both inhibition of prostaglandins due to the inhibition of cyclooxygenases and mitochondrial dysfunction secondary to the topical effect of NSAIDs play a crucial role in the early process of injury. As a result, the intestinal barrier function is impaired, which allows enterobacteria to invade the mucosa. Gram-negative bacteria and endogenous molecules coordinate to trigger inflammatory cascades via Toll-like receptor 4 to induce excessive expression of cytokines such as tumor necrosis factor-α and to activate NLRP3 inflammasome, a multiprotein complex that processes pro-interleukin-1β into its mature form. Finally, neutrophils accumulate in the mucosa, resulting in intestinal ulceration. Currently, misoprostol is the only drug that has a proven beneficial effect on bleeding small intestinal ulcers induced by NSAIDs or low-dose aspirin, but its protection is insufficient. Therefore, the efficacy of the combination of misoprostol with other drugs, especially those targeting the innate immune system, should be assessed in the next step.
+
+Nonsteroidal Anti-Inflammatory Drug-Induced Leaky Gut Modeled Using Polarized Monolayers of Primary Human Intestinal Epithelial Cells.
+
+Number of 
+
+Key takeaways:Diclofenac, a common NSAID, causes cytotoxicity and intestinal barrier permeability, affecting gut barrier function and defense against infectious pathogens.
+
+Abstract:The intestinal epithelium provides a critical barrier that separates the gut microbiota from host tissues. Nonsteroidal anti-inflammatory drugs (NSAIDs) are efficacious analgesics and antipyretics and are among the most frequently used drugs worldwide. In addition to gastric damage, NSAIDs are toxic to the intestinal epithelium, causing erosions, perforations, and longitudinal ulcers in the gut. Here, we use a unique in vitro human primary small intestinal cell monolayer system to pinpoint the intestinal consequences of NSAID treatment. We found that physiologically relevant doses of the NSAID diclofenac (DCF) are cytotoxic because they uncouple mitochondrial oxidative phosphorylation and generate reactive oxygen species. We also find that DCF induces intestinal barrier permeability, facilitating the translocation of compounds from the luminal to the basolateral side of the intestinal epithelium. The results we outline here establish the utility of this novel platform, representative of the human small intestinal epithelium, to understand NSAID toxicity, which can be applied to study multiple aspects of gut barrier function including defense against infectious pathogens and host-microbiota interactions.
+
+Interactions between NSAIDs, opioids and the gut microbiota - Future perspectives in the management of inflammation and pain.
+
+Number of 
+
+Key takeaways:NSAIDs and opioids alter gut microbiota composition, potentially contributing to the persistence of diseases like spondyloarthritis, rheumatoid arthritis, and neuropathic pain in type 2 diabetes.
+
+Effect of non-steroidal anti-inflammatory drugs and prostaglandins on the permeability of the human small intestine.
+
+Number of 
+
+Key takeaways:Non-steroidal anti-inflammatory drugs disrupt intestinal barrier function in humans, with potential damage at intercellular junctions.
+
+Abstract:Intestinal permeability was estimated in healthy subjects after ingestion of aspirin (1.2+1.2 g), ibuprofen (400+400 mg) and indomethacin (75+50 mg) at midnight and an hour before starting a 51chromium labelled ethylenediaminetetraacetate absorption test. Intestinal permeability increased significantly from control levels following each drug and the effect was related to drug potency to inhibit cyclooxygenase. Intestinal permeability increased to a similar extent after oral and rectal administration of indomethacin showing that the effect is systemically mediated. Prostaglandin E2 decreased intestinal permeability significantly but failed to prevent the indomethacin induced increased intestinal permeability. These studies show that non-steroidal anti-inflammatory drugs disrupt the intestinal barrier function in man and suggest that the morphological correlates of the damage may reside at the level of the intercellular junctions.
+
+Nonsteroidal anti-inflammatory drugs, proton pump inhibitors, and gastrointestinal injury: contrasting interactions in the stomach and small intestine.
+
+Number of 
+
+Key takeaways:Frequent use of proton pump inhibitors can exacerbate NSAID-induced small intestinal injury by altering intestinal microbiota, potentially leading to NSAID-associated enteropathy.
+
+Safety of Oral Non-Selective Non-Steroidal Anti-Inflammatory Drugs in Osteoarthritis: What Does the Literature Say?
+
+Number of 
+
+Key takeaways:Non-selective NSAIDs can effectively treat osteoarthritis pain, but their use is associated with gastrointestinal, cardiovascular, and renal side effects.
+
+Abstract:Non-steroidal anti-inflammatory drugs (NSAIDs) are widely recommended and prescribed to treat pain in osteoarthritis. While measured to have a moderate effect on pain in osteoarthritis, NSAIDs have been associated with wide-ranging adverse events affecting the gastrointestinal, cardiovascular, and renal systems. Gastrointestinal toxicity is found with all NSAIDs, which may be of particular concern when treating older patients with osteoarthritis, and gastric adverse events may be reduced by taking a concomitant gastroprotective agent, although intestinal adverse events are not ameliorated. Cardiovascular toxicity is associated with all NSAIDs to some extent and the degree of risk appears to be pharmacotherapy specific. An increased risk of acute myocardial infarction and heart failure is observed with all NSAIDs, while an elevated risk of hemorrhagic stroke appears to be restricted to the use of diclofenac and meloxicam. All NSAIDs have the potential to induce acute kidney injury, and patients with osteoarthritis with co-morbid conditions including hypertension, heart failure, and diabetes mellitus are at increased risk. Osteoarthritis is associated with excess mortality, which may be explained by reduced levels of physical activity owing to lower limb pain, presence of comorbid conditions, and the adverse effects of anti-osteoarthritis medications especially NSAIDs. This narrative review of recent literature identifies data on the safety of non-selective NSAIDs to better understand the risk:benefit of using NSAIDs to manage pain in osteoarthritis.
+
+Medication overuse headache is associated with elevated lipopolysaccharide binding protein and pro-inflammatory molecules in the bloodstream
+
+Number of 
+
+Key takeaways:Medication overuse headache is associated with elevated lipopolysaccharide binding protein and pro-inflammatory molecules in the bloodstream, suggesting disrupted intestinal barrier function and potential targets for sustained management.
+
+Abstract:Abstract Objective Medication overuse headache (MOH) is a secondary headache that accompanies chronic migraine. Nonsteroidal anti-inflammatory drugs (NSAIDs) are the most frequently used analgesics worldwide and they are known to induce leaky gut. In this study, we aimed to investigate whether NSAID induced MOH is associated with altered circulating lipopolysaccharide binding protein (LBP) levels and inflammatory molecules. Materials and methods Piroxicam (10 mg/kg/day, po) for 5 weeks was used to induce MOH in female Sprague Dawley rats. Pain behavior was evaluated by periorbital withdrawal thresholds, head-face grooming, freezing, and head shake behavior. Serum samples and brain tissues were collected to measure circulating LBP, tight junction protein occludin, adherens junction protein vascular endothelial (VE)-cadherin, calcitonin gene-related peptide (CGRP), IL-6 levels and brain high mobility group box-1 (HMGB1) and IL-17 levels. Results Chronic piroxicam exposure resulted in decreased periorbital mechanical withdrawal thresholds, increased head-face grooming, freezing, and head shake behavior compared to vehicle administration. Serum LBP, CGRP, IL-6, IL-17, occludin, VE-cadherin levels and brain IL-17 and HMGB1 levels were significantly higher in piroxicam group compared to controls. Serum LBP was positively correlated with occludin (r = 0.611), VE-cadherin (r = 0.588), CGRP (r = 0.706), HMGB1 (r = 0.618) and head shakes (r = 0.921), and negatively correlated with periorbital mechanical withdrawal thresholds (r = -0.740). Conclusion Elevated serum LBP, VE-cadherin and occludin levels indicating disrupted intestinal barrier function and leakage of LPS into the systemic circulation were shown in female rats with MOH. LPS induced low-grade inflammation and elevated nociceptive and/or pro-inflammatory molecules such as HMGB1, IL-6, IL-17 and CGRP may play a role in the development and maintenance of MOH. Interference with leaky gut and pro-inflammatory nociceptive molecules could also be a target for sustained management of MOH.
+
+Anti-inflamatórios não esteroidais (AINEs) x microbiota: uma simbiose ou disbiose intestinal?
+
+Number of 
+
+Key takeaways:Non-steroidal anti-inflammatory drugs (NSAIDs) can cause significant changes in the intestinal microbiome, leading to dysbiosis, but a therapeutic alternative is the use of probiotics from Gram-positive strains.
+
+Abstract:Background: Considering the widespread use of non-steroidal anti-inflammatory drugs (NSAIDs), the following study aimed to discuss their potential effects on the intestinal microbiota and the consequent repercussions in clinical practice. Materials and methods: The development of the bibliographic review was based on the “PubMed” research platform, through the use of the keywords: “NSAIDs”/“Non-steroidal anti-inflammatory drugs” and “Microbiota”/“Microbiome”/“Gut microbiota”, with the full reading of those articles 
+
+Intestinal toxicity of non-steroidal anti-inflammatory drugs.
+
+Number of 
+
+Key takeaways:NSAIDs cause small intestinal inflammation in 65% of patients, leading to complications like iron deficiency, hypoalbuminemia, and intestinal strictures, with potential associations to appendicitis in the elderly.
+
+Aggravation of exercise-induced intestinal injury by Ibuprofen in athletes.
+
+Number of 
+
+Key takeaways:Ibuprofen consumption before exercise aggravates small intestinal injury and causes gut barrier dysfunction in healthy individuals, making it not harmless and should be discouraged.
+
+Abstract:INTRODUCTION
+Nonsteroidal anti-inflammatory drugs are commonly used by athletes to prevent anticipated exercise-induced pain, thereby putatively improving physical performance. However, these drugs may have potentially hazardous effects on the gastrointestinal (GI) mucosa during strenuous physical exercise. The aim of the current study was to determine the effect of oral ibuprofen administration before exercise on GI integrity and barrier function in healthy individuals.
+
+METHODS
+Nine healthy, trained men were studied on four different occasions: 1) 400 mg ibuprofen twice before cycling, 2) cycling without ibuprofen, 3) 400 mg ibuprofen twice at rest, and 4) rest without ibuprofen intake. To assess small intestinal injury, plasma intestinal fatty acid binding protein (I-FABP) levels were determined, whereas urinary excretion of orally ingested multisugar test probes was measured using liquid chromatography and mass spectrometry to assess GI permeability.
+
+RESULTS
+Both ibuprofen consumption and cycling resulted in increased I-FABP levels, reflecting small intestinal injury. Levels were higher after cycling with ibuprofen than after cycling without ibuprofen, rest with ibuprofen, or rest without ibuprofen (peak I-FABP, 875 ± 137, 474 ± 74, 507 ± 103, and 352 ± 44 pg·mL, respectively, P < 0.002). In line, small intestinal permeability increased, especially after cycling with ibuprofen (0-2 h urinary lactulose/rhamnose ratio, 0.08 (0.04-0.56) compared with 0.04 (0.00-0.20), 0.05 (0.01-0.07), and 0.01 (0.01-0.03), respectively), reflecting loss of gut barrier integrity. Interestingly, the extent of intestinal injury and barrier dysfunction correlated significantly (RS = 0.56, P < 0.001).
+
+CONCLUSION
+This is the first study to reveal that ibuprofen aggravates exercise-induced small intestinal injury and induces gut barrier dysfunction in healthy individuals. We conclude that nonsteroidal anti-inflammatory drugs consumption by athletes is not harmless and should be discouraged.
+
+Drug-Induced Small Bowel Injury: a Challenging and Often Forgotten Clinical Condition
+
+Number of 
+
+Key takeaways:Medication-induced small bowel lesions are common and often overlooked, requiring a deep knowledge of clinical pharmacology and toxicology to accurately diagnose and treat them.
+
+Abstract:Purpose of ReviewMost drugs are given by the oral route. Oral intake allows direct contact between the drug and the entire GI tract mucosa, exposing it to potential topical damage until absorption. Medication-induced GI symptoms and lesions are therefore commonly encountered in clinical practice. This review will examine the most common drugs or classes of drugs affecting small bowel function and/or structure.Recent FindingsSince non-steroidal anti-inflammatory drugs (NSAIDs) are among the most widely used medicines, NSAID enteropathy is highly prevalent and brings about considerable morbidity. Antimicrobials and proton-pump inhibitors profoundly modify intestinal microbiota, affecting gut sensory and motor functions, while other drugs (like iron and gold derivatives) impair intestinal permeability. Olmesartan (and likely ACE inhibitors) induce villous atrophy and consequent malabsorption. Mycophenolate mofetil, cancer chemotherapeutic agents, and immune checkpoint inhibitors cause intestinal inflammation, abdominal pain, and diarrhea. Potassium chloride supplements may induce small bowel ulceration, stenosis, and perforation while the cotraceptive pill and anticoagulants are associated with intestinal ischemia and spontaneous intramural hematoma, respectively.SummaryIn clinical practice, a deep knowledge of clinical pharmacology and toxicology and a high degree of suspicion of drug-related adverse events are mandatory. Only then, the practicing physician will be able to diagnose medication-induced small bowel lesions correctly and will implement the best strategies to treat them.
+
+NSAIDs disrupt intestinal homeostasis by suppressing macroautophagy in intestinal epithelial cells
+
+Number of 
+
+Key takeaways:NSAIDs inhibit macroautophagy in intestinal epithelial cells, potentially contributing to the severity of intestinal injury by compromising the mucosal barrier, preventing microbe clearance, and exacerbating inflammation.
+
+.
+
+Number of 
+
+Key takeaways:Chronic use of nonsteroidal anti-inflammatory drugs (NSAIDs) can cause colonic diaphragmatic ring, leading to intestinal obstruction in elderly women.
+
+Abstract:The case involves a 61-year-old female patient with a history of systemic lupus erythematosus, who sought urgent medical attention due to abdominal pain and an abdominal tomography consistent with colonic obstruction. Exploratory laparotomy followed by transverse colectomy was performed. The pathological examination of the specimen revealed a colonic diaphragmatic ring secondary to chronic use of nonsteroidal anti-inflammatory drugs (NSAIDs). This condition primarily affects elderly women exposed to chronic NSAID therapy. It results from mucosal ulceration followed by submucosal inflammation and fibrosis. Management involves, in addition to discontinuation of the medication, surgical resection in acute cases, or diagnostic-therapeutic endoscopy in uncomplicated cases.
+
+Leaky gut and inflammatory biomarkers in a medication overuse headache model in male rats
+
+Number of 
+
+Key takeaways:Leaky gut and inflammation may play a role in medication overuse headache in male rats, with a significant correlation between pain behavior and inflammation markers.
+
+Abstract:Background/aim Medication overuse is common among chronic migraine patients and nonsteroidal antiinflammatory drugs (NSAIDs) are the most frequently overused drugs. The pathophysiological mechanisms underlying medication overuse headache (MOH) are not completely understood. Intestinal hyperpermeability and leaky gut are reported in patients using NSAIDs. The aim of the study is to investigate the role of leaky gut and inflammation in an MOH model MOH model in male rats. Methods The study was conducted in male Sprague Dawley rats. There were two experimental groups. The first group was the chronic NSAID group in which the rats received mefenamic acid (n = 8) for four weeks intraperitoneally (ip) and the second group was the vehicle group (n = 8) that received 5% dimethyl sulfoxide+sesame oil (ip) for 4 weeks. We assessed spontaneous pain-like behavior, periorbital mechanical withdrawal thresholds, and anxiety-like behavior using an elevated plus maze test. After behavioral testing, serum levels of occludin and lipopolysaccharide-binding protein (LBP) and brain levels of IL-17, IL-6, and high mobility group box 1 protein (HMGB1) were evaluated with ELISA. Results: Serum LBP and occludin levels and brain IL-17 and HMGB1 levels were significantly elevated in the chronic NSAID group compared to its vehicle (p = 0.006, p = 0.016, p = 0.016 and p = 0.016 respectively) while brain IL-6 levels were comparable (p = 0.67) between the groups. The chronic NSAID group showed pain-like and anxiety-like behavior in behavioral tests. Brain IL-17 level was positively correlated with number of head shakes (r = 0.64, p = 0.045), brain IL-6 level was negatively correlated with periorbital mechanical withdrawal thresholds (r = −0.71, p = 0.049), and serum occludin level was positively correlated with grooming duration (r = 0.73, p = 0.032) in chronic NSAID group. Conclusion Elevated serum occludin and LBP levels and brain IL-17 and HMGB1 levels indicate a possible role of leaky gut and inflammation in an MOH model in male rats. Additionally, a significant correlation between pain behavior and markers of inflammation and intestinal hyperpermeability, supports the role of inflammation and leaky gut in MOH pathophysiology.
+
+Psychological stress exacerbates NSAID-induced small bowel injury by inducing changes in intestinal microbiota and permeability via glucocorticoid receptor signaling
+
+Number of 
+
+Key takeaways:Psychological stress exacerbates NSAID enteropathy by inducing changes in intestinal microbiota and permeability, with glucocorticoid receptor signaling playing a role in this process.
+
+Abstract:BackgroundNonsteroidal anti-inflammatory drugs (NSAIDs) are popular painkillers, but they have serious side effects, not only in the upper gastrointestinal tract but also in the small intestine. It is well known that psychological stress may exacerbate various gastrointestinal diseases. The aim of this study was to determine whether psychological stress exacerbates NSAID enteropathy and to determine the possible underlying mechanisms for this.MethodsExperiment 1: mice were exposed to water avoidance stress (WAS) or sham stress for 1 h per day for 8 consecutive days, and then enteropathy was induced by indomethacin. Experiment 2: cecal contents from stress (−) or (+) mice were transplanted into mice that had received antibiotics and in which NSAID enteropathy had been induced without WAS. Experiment 3: mifepristone, a glucocorticoid receptor antagonist, was injected before WAS for 8 days. Small intestinal injury, mRNA expression of TNFα, intestinal permeability, and the microbial community were assessed.ResultsPsychological stress exacerbated NSAID enteropathy and increased intestinal permeability. Psychological stress induced changes in the ileal microbiota that were characterized by increases in the total number of bacteria and the proportion of Gram-negative bacteria. The increased susceptibility to NSAIDs and intestinal permeability due to WAS was transferable via cecal microbiota transplantation. The increased permeability and aggravation of NSAID enteropathy caused by WAS were blocked by the administration of mifepristone.ConclusionsThis study demonstrated a relationship between NSAID enteropathy and psychological stress, and showed the utility of studying the intestinal microbiota in order to elucidate the pathophysiology of NSAID enteropathy. It also showed the impact of stress on the intestinal microbiota and the mucosal barrier in gastrointestinal diseases.
+
+Pharmacological approaches to treat intestinal pain
+
+Number of 
+
+Key takeaways:Interaction with TRP receptors shows promise for improving intestinal analgesia and enhancing pain management in patients with intestinal diseases like irritable bowel syndrome, inflammatory bowel diseases, and colorectal cancer.
+
+Abstract:ABSTRACT Introduction Pain is one of the most substantial factors responsible for lowering quality of life in patients with intestinal diseases. Its multifactorial pathogenesis makes intestinal pain difficult to manage with currently available medications, especially considering the risk of serious adverse effects and exacerbation of underlying disease. Areas covered The most commonly administered drugs in intestinal pain are medications forming the so-called analgesic ladder, which act directly on pain sensation: acetaminophen, non-steroidal anti-inflammatory drugs (NSAIDs), and opioids in full range of activity strength. However, there are also many groups of supportive medications, which target intestinal pain indirectly and therefore, differs in applicability depending on underlying conditions and their pathophysiology, e.g. antispasmodics, antidepressants, probiotics, and biological anti-inflammatory drugs. In this review, we concentrated on possible analgesic options in patients suffering from irritable bowel syndrome (IBS), inflammatory bowel diseases (IBD), and colorectal cancer (CRC). Moreover, we examined future perspectives in treating abdominal pain with medications targeting transient receptor potential channels, the endocannabinoid system and other promising options, including new formulations of already known drugs and new peripherally restricted opioids. Expert opinion There is constant need for improvement of intestinal analgesia and novel pharmacological approaches, from which interaction with TRP receptors is a particularly promising direction.
+
+Topical Administration of Ibuprofen for Injured Athletes: Considerations, Formulations, and Comparison to Oral Delivery
+
+Number of 
+
+Key takeaways:Topical ibuprofen delivery offers a safer alternative for athletes with chronic overuse injuries, reducing harmful side effects and allowing targeted pain relief.
+
+Abstract:Non-steroidal anti-inflammatory drugs (NSAIDs) are a class of drugs commonly used to treat both the acute and chronic injuries sustained by athletes during training and competition. In many parts of the world, NSAIDs can be purchased over-the-counter and used without any physician oversight. However, the chronic nature of overuse injuries requires NSAIDs to be taken orally for an extended period of time. As a result, they can have significant adverse effects on athletes, namely gastrointestinal (GI), renal, and cardiovascular damage. Dyspepsia and upper GI ulceration and bleeding are of great concern in chronic NSAID use, and as such oral NSAIDs are generally contraindicated in those with a history of peptic ulcers or irritable bowel disease. In the setting of chronic overuse soft tissue or joint disease, topically administered NSAIDs offer an alternate route of administration that has the potential to deliver a similar level of pain and anti-inflammatory relief while bypassing the harmful side effects associated with oral intake. Topically applied NSAIDs are able to achieve high concentrations within the targeted site of action while simultaneously keeping plasma concentrations low, offering several advantages over oral administration. One commonly used generic NSAID is ibuprofen (2-(4-isobutylphenyl)propanoic acid). First synthesized in the 1960s, ibuprofen has since become widely available as an over-the-counter pharmaceutical. In this review, we outline new and different techniques that have been used to deliver ibuprofen into diseased tissues, including supersaturations, microemulsions, gels, nanosystems, and microneedles. We also review relevant clinical trials comparing transdermally delivered ibuprofen to placebo and orally administered ibuprofen.
+
+Overuse of Prescription and OTC Non-Steroidal Anti-Inflammatory Drugs in Patients with Rheumatoid Arthritis and Osteoarthritis
+
+Number of 
+
+Key takeaways:Overuse of prescription and OTC NSAIDs in patients with rheumatoid arthritis and osteoarthritis is common, with potential risks of cardiovascular and gastrointestinal toxicity.
+
+Abstract:Non-steroidal anti-inflammatory drugs (NSAIDs) have been demonstrated to have significant cardiovascular and gastrointestinal toxicity; high dose of intake and concomitant use of multiple compounds or corticosteroids are factors that increase the risk of NSAID toxicity. In this paper we described our experience on NSAIDs misuse (both prescribing and OTC formulations), particularly relevant in the setting of rheumatoid arthritis (39.5% of patients) and osteoarthritis (47% of patients). We also evaluated causes underlying NSAIDs misuse (e.g. not satisfactory pain control, other painful conditions, etc).
+
+Anti-integrin therapy for inflammatory bowel disease
+
+Number of 
+
+Key takeaways:Anti-integrin therapy blocks the interaction between leukocytes and intestinal blood vessels, potentially improving treatment outcomes for inflammatory bowel disease.
+
+Abstract:In inflammatory bowel disease (IBD), tumor necrosis factor plays an important role in mediating inflammation, but several other pathways are also involved in eliciting an inflammatory response. One such pathway is the invasion of the intestinal mucosa by leukocytes. Leukocytes within the systemic circulation move to sites of inflammation, and blocking this pathway could be an important treatment strategy for IBD. Anti-integrin therapy blocks the action of integrin on the surface of circulating immune cells and endothelial cell adhesion molecules, thereby inhibiting the interactions between leukocytes and intestinal blood vessels. Natalizumab, which acts on α4-integrin, was the first such drug to be approved for Crohn’s disease, but its use is limited due to the risk of progressive multifocal leukoencephalopathy. Vedolizumab produces few systemic adverse effects because it acts on gut-trophic α4β7 integrin, and has been approved and is being used to treat IBD. Currently, several anti-integrin drugs, including etrolizumab, which acts on β7-integrin, and PF-00547569, which targets mucosal addressin cell adhesion molecule-1, are undergoing clinical trials and the results are being closely watched.
+
+Dietary supplements for intestinal inflammation
+
+Number of 
+
+Key takeaways:Integrating anti-inflammatory dietary supplements into a patient's diet can help manage intestinal inflammation and prevent symptoms, potentially reducing drug costs, side effects, and relapses.
+
+Abstract:Summary Intestinal inflammation leads to various chronic diseases, collectively known as inflammatory bowel disease (IBD). IBD mainly affects the large intestine, but it can also affect the gastrointestinal tract as a whole. Its major symptoms are pain, diarrhea, and weight loss, and it is usually associated with deficiencies of both macro- and micronutrients. Unluckily, after some time the body develops resistance against the already available drugs: thus, many patients fail to maintain remission, which is achieved in less than 50% of cases. Diet is a major determinant of gut inflammation. An unbalanced diet can affect the gut microbiota and cause dysbiosis, which is related to a dysregulated host immune response. The Mediterranean Diet its renowned for its anti-inflammatory effects and for preventing dysbiosis. In order to improve management and treatment of intestinal inflammatory diseases, it should become common practice to integrate the patient’s diet with dietary supplements with anti-inflammatory effects (probiotics, butyrate, phosphatidylcholine, lactoferrin, palmitoylethanolamide, silymarin, and omega 3), which maintain the stability of the intestinal microbial cohort and strengthen the mucosal barrier, thus preventing or soothing IBD symptoms. Dietary supplements may help fight the high costs, the adverse side effects, and the recurrent relapses typical of drug use.
+
+Kidney damage from nonsteroidal anti‐inflammatory drugs—Myth or truth? Review of selected literature
+
+Number of 
+
+Key takeaways:NSAIDs are associated with kidney damage, including acute kidney injury, tubulointerstitial nephritis, nephrotic syndrome, and chronic kidney disease.
+
+Abstract:Nonsteroidal anti‐inflammatory drugs (NSAIDs) are widely available drugs with anti‐inflammatory and analgesic properties. Their mechanism of action is associated with the enzymes of the arachidonic acid cycle (cyclooxygenases: COX‐1 and COX‐2). The cyclooxygenase pathway results in the formation of prostanoids (prostaglandins , prostacyclins, and thromboxanes). It affects various structures of the human body, including the kidneys. Medical literature associates the usage of NSAIDs with acute kidney injury (AKI), tubulointerstitial nephritis (TIN), as well as nephrotic syndrome and chronic kidney disease (CKD). AKI associated with the chronic consumption of NSAIDs is mainly attributed to pharmacological polytherapy and the presence of cardiovascular or hepatic comorbidities. The pathomechanism of AKI and CKD is associated with inhibition of the biosynthesis of prostanoids involved in the maintenance of renal blood flow, especially PGE2 and PGI2. It is suggested that both COX isoforms play opposing roles in renal function, with natriuresis increased by COX‐1 inhibition followed by a drop in a blood pressure, whereas COX‐2 inhibition increases blood pressure and promotes sodium retention. TIN after NSAID use is potentially associated with glomerular basement membrane damage, reduction in pore size, and podocyte density. Therefore, nephrotic proteinuria and impairment of renal function may occur. The following article analyzes the association of NSAIDs with kidney disease based on available medical literature.
+
+Acute kidney injury associated with non-steroidal anti-inflammatory drugs.
+
+Number of 
+
+Key takeaways:NSAIDs can cause acute kidney injury, leading to complications like edema, hypertension, and chronic kidney disease progression, making their avoidance crucial for high-risk patients.
+
+Nonsteroidal Anti-Inflammatory Drugs and the Kidney
+
+Number of 
+
+Key takeaways:NSAIDs and selective COX-2 inhibitors may cause kidney damage, inflammation, and dysfunction, with potential risks for acute renal failure in elderly patients and those with co-morbid conditions.
+
+Abstract:Non-steroidal anti-inflammatory drugs (NSAIDs) inhibit the isoenzymes COX-1 and COX-2 of cyclooxygenase (COX). Renal side effects (e.g., kidney function, fluid and urinary electrolyte excretion) vary with the extent of COX-2-COX-1 selectivity and the administered dose of these compounds. While young healthy subjects will rarely experience adverse renal effects with the use of NSAIDs, elderly patients and those with co-morbibity (e.g., congestive heart failure, liver cirrhosis or chronic kidney disease) and drug combinations (e.g., renin-angiotensin blockers, diuretics plus NSAIDs) may develop acute renal failure. This review summarizes our present knowledge how traditional NSAIDs and selective COX-2 inhibitors may affect the kidney under various experimental and clinical conditions, and how these drugs may influence renal inflammation, water transport, sodium and potassium balance and how renal dysfunction or hypertension may result.
+
+Non-steroidal Anti-inflammatory Drugs: Clinical Implications, Renal Impairment Risks, and AKI
+
+Number of 
+
+Key takeaways:NSAIDs can cause acute and chronic kidney injury, and early diagnosis and discontinuation can limit long-term chronic kidney disease risks.
+
+Abstract:Non-steroidal anti-inflammatory drugs (NSAIDs) are among the most common class of drugs utilized for a variety of disorders, including headaches, pain states, fever, and other common conditions. In recent years, a link between NSAIDs and adverse effects has been identified, including renal, heart, and liver disease, bleeding, and increased mortality. NSAID-mediated renal disease is associated with interference with the cyclooxygenase enzyme. Literature evaluating NSAID renal effects has indicated that a number of factors are associated with acute and chronic kidney injury (AKI). Early diagnosis can identify changes in renal function and allow for cessation of NSAID use, limiting the risk for long-term chronic renal disease and in some cases reversal of renal injury. Alternative medications should be considered in those patients identified with morbidity linked to NSAID use. Nephrotoxicity is increased in the elderly population and in hypovolemia, high dose exposure, use of vasoconstrictors such as calcineurin inhibitors, and use of renin–angiotensin–aldosterone system (RAAS) inhibitors or diuretics. Careful risk/benefit considerations from healthcare professionals can limit the incidence and degree of morbidity and mortality, including in NSAID-mediated renal disease. Selective NSAID cyclooxygenase-2 inhibitors also possess risks and therefore clinicians should always recommend short-term courses of this class of drugs versus long-term dosing because of the risk of morbidity and mortality. Given that these drugs are available over the counter as well by prescribing, clinicians must communicate the risks and benefits of NSAIDs and provide sound recommendations to their patients regarding use short and long term.
+
+Kidney injury associated with non-steroid anti-inflammatory drugs
+
+Number of 
+
+Key takeaways:NSAIDs can cause acute kidney injury and chronic kidney damage, with a higher risk in elderly patients and those with pre-existing kidney problems.
+
+Abstract:The review is devoted to one of the important problems of the clinic of internal diseases - kidney damage associated with painkillers and main non-steroidal anti-inflammatory drugs (NSAIDs). Possible variants of acute and chronic kidney damage when taking NSAIDs are considered. Acute kidney injury is a serious side effect of NSAIDs associated with suppression of the vasodilatory effects of prostaglandins, decompensation of intrarenal hemodynamics, and an acute decrease in glomerular filtration rate levels. A high risk of acute kidney injury when taking NSAIDs is observed in elderly patients with concomitant diseases and polypharmacy, as well as with an initial impairment of renal function. Taking NSAIDs can cause the development of acute interstitial nephritis in combination with podocytopathy, which is manifested by high proteinuria and nephrotic syndrome in younger patients. The mechanisms and clinical manifestations of analgesic nephropathy - chronic kidney damage leading to progressive renal failure are considered separately. The cause of the development of analgesic nephropathy may be the long-term use of combined analgesic drugs, the so-called analgesic mixtures. The erased clinical picture and the mask of chronic pyelonephritis complicate the diagnosis of this disease. Specific for this pathology is renal papillary calcification on computed tomography in combination with a history of long-term analgesic abuse. Withdrawal of anesthetic drugs can slow down the progression of the disease and the development of end-stage chronic kidney disease. The possibility of the development and progression of chronic kidney disease associated with the certain classes of NSAIDs is discussed. An algorithm for treatment of chronic pain syndrome is presented, depending on the degree of risk of kidney damage.
+
+NSAIDs in CKD: Are They Safe?
+
+Number of 
+
+Key takeaways:NSAIDs should be cautiously used in chronic kidney disease patients, considering individual risk factors and comorbidities, to effectively manage pain.
+
+Abstract:The management of pain in patients with chronic kidney disease (CKD) is challenging for many reasons. These patients have an increased susceptibility to adverse drug effects due to altered drug metabolism and excretion, and there are limited safety data for use in this population despite a high pain burden. Non-steroidal anti-inflammatory drugs (NSAIDs) have long been regarded as dangerous for use in chronic kidney disease patients because of their risk for nephrotoxicity, and thus alternative classes of analgesics, including opioids, have become more commonly used for pain control in this population. Given the well-established risks opioids and other analgesics pose, further characterization of the risk posed by NSAIDs in patients with CKD is warranted. NSAID use has been associated with acute kidney injury, progression of renal impairment in CKD, electrolyte derangements, and hypervolemia with worsening of heart failure and hypertension. The risk for these nephrotoxicity syndromes is modified by many comorbidities, risk factors, and characteristics of use, and in CKD patients the risk differs between levels of renal impairment. In this review, we offer recommendations for the cautious use of NSAIDs in the CKD population after careful consideration of these risk factors on an individualized basis.
+
+Nonsteroidal anti-inflammatory drug use in patients with chronic kidney disease
+
+Number of 
+
+Key takeaways:Patients with chronic kidney disease often take NSAIDs for pain management, especially those on hemodialysis, but have low awareness of their adverse effects.
+
+Abstract:Nonsteroidal anti-inflammatory drugs (NSAIDs) are the cornerstone of pain management. There are no detailed data on NSAIDs use in Poland, especially in patients with chronic kidney disease (CKD). The aim of this study was to evaluate the frequency, circumstances, and causes of NSAIDs use as well as knowledge of their side-effects in patients with CKD. This cross-sectional study was conducted in 972 individuals with CKD, enrolled in a written survey originally developed by the 
+
+Non-steroidal anti-inflammatory drug effects on renal and cardiovascular function: from physiology to clinical practice
+
+Number of 
+
+Key takeaways:Excessive or inappropriate use of non-steroidal anti-inflammatory drugs can negatively affect cardiovascular and renal function, highlighting the need for careful monitoring and management in clinical practice.
+
+Abstract:Excessive or inappropriate use of non-steroidal anti-inflammatory drugs can affect cardiovascular and renal function. Non-steroidal anti-inflammatory drugs, both non-selective and selective cyclooxygenase 2 inhibitors, are among the most widely used drugs, especially in the elderly, with multiple comorbidities. Exposition to a polypharmacy burden represents a favourable substrate for the onset of non-steroidal anti-inflammatory drug-induced deleterious effects. Cardiovascular and renal issues concerning the occurrence of myocardial infarction, atrial fibrillation, heart failure and arterial hypertension, as well as acute or chronic kidney damage, become critical for clinicians in their daily practice. We discuss current available knowledge regarding prostanoid physiology in vascular, cardiac and renal systems, pointing out potential negative non-steroidal anti-inflammatory drug-related issues in clinical practice.
+
+Association of Non‐Steroidal Anti‐Inflammatory Drugs with Kidney Health in Ambulatory Older Adults
+
+Number of 
+
+Key takeaways:NSAID use is associated with increased kidney damage in older adults, as assessed by multiple kidney health measures.
+
+Abstract:Non‐steroidal anti‐inflammatory drugs (NSAIDs) can cause kidney injury, especially in older adults. However, previously reported associations between NSAID use and kidney health outcomes are inconsistent and limited by reliance on serum creatinine‐based GFR estimates. This analysis investigated the association of NSAID use with kidney damage in older adults using multiple kidney health measures.
+
+The Invisible Threat of Non-steroidal Anti-inflammatory Drugs for Kidneys
+
+Number of 
+
+Key takeaways:NSAID use in children can cause severe acute kidney injury, potentially leading to chronic kidney disease, so clinicians should focus on preventing AKI.
+
+Abstract:Background: Non-steroidal anti-inflammatory drugs (NSAIDs) are often used as analgesic and antipyretic drugs. Nephrotoxicity is a common side effect and leads in 1–5% of pediatric cases to acute kidney injury (AKI). The nephrotoxic effects of NSAIDs arise mainly from two pathological mechanisms: (1) acute tubulo-interstitial nephritis (ATIN) following immune reaction and (2) prerenal failure because of reduced renal plasma flow. Histological examinations are required to confirm the pathomechanism of AKI after NSAID exposure. The aim of this study was to illustrate the risk of ATIN in children with AKI after NSAID exposure. Results: The medical records of all 100 pediatric patients with biopsy-proven AKI treated between January 2006 and 2016 at La Timone Hospital, Marseille, France, were analyzed retrospectively. Twenty-five of these patients had ATIN, four of which were healthy children who had been treated with NSAIDs. In other words, NSAID side effects accounted for 4% of all cases of biopsy-proven AKI and 16% of all cases of ATIN. None of the patients had hypovolemia when they received NSAIDs. Clinical symptoms were non-specific. All patients had abdominal pain and vomiting but normal urine volume output. Maximum serum creatinine levels ranged from 300 to 512 μmol/l, with estimated minimum creatinine clearances of 12–26 ml/min/1.73 m2. None of the patients had significant proteinuria. One child had hyperechogenic enlarged kidneys. Three patients were treated with steroids, one of whom also received intravenous methylprednisolone. Renal function improved gradually in all patients, but the patient who received methylprednisolone developed moderate chronic kidney disease (CKD). Conclusions: Biopsy proven-AKI secondary to NSAID use can be severe and be associated with ATIN. Since NSAID-induced ATIN can lead to CKD, clinicians using NSAIDs should focus on preventing AKI.
+
+Comparative Risks of Nonsteroidal Anti-Inflammatory Drugs on CKD
+
+Number of 
+
+Key takeaways:Nonsteroidal anti-inflammatory drug exposure is associated with higher risks of kidney damage, with etoricoxib users at the highest risk and ibuprofen at the lowest risk.
+
+Abstract:Visual Abstract Background and objectives There have been doubts about the association between nonsteroidal anti-inflammatory drug use and worsening kidney function, and whether there is a difference between risks of individual nonsteroidal anti-inflammatory drugs is presently unclear. Therefore, this study aimed to evaluate the association between nonsteroidal anti-inflammatory drug exposure and the risk of incident eGFR <60 ml/min per 1.73 m2 and compare the risks between nonsteroidal anti-inflammatory drug subtypes in the Chinese population. Design, setting, participants, & measurements From 2008 to 2017, a total of 1,982,488 subjects aged 18 years or older with baseline eGFR ≥60 ml/min per 1.73 m2 were enrolled in this retrospective cohort study. Multivariable Cox proportional hazards regression adjusted for each patient’s baseline characteristics was adopted to examine the association between nonsteroidal anti-inflammatory drug and incident eGFR <60 ml/min per 1.73 m2 or eGFR decline ≥30% with reference to baseline. Results After a median follow-up duration of 6.3 (interquartile range, 3.3–9.4) years, 271,848 cases (14%) of incident eGFR <60 ml/min per 1.73 m2 and 388,386 (21%) events of eGFR decline ≥30% were recorded. After adjusting for each patient’s baseline characteristics, nonsteroidal anti-inflammatory drug treatment was shown to be associated with a significantly higher risk of incident eGFR <60 ml/min per 1.73 m2 (hazard ratio, 1.71; 95% confidence interval, 1.67 to 1.75) and eGFR decline ≥30% (hazard ratio, 1.93; 95% confidence interval, 1.89 to 1.96) when compared with no nonsteroidal anti-inflammatory drug, with etoricoxib exhibiting the highest risk of eGFR<60 ml/min per 1.73 m2 (hazard ratio, 3.12; 95% confidence interval, 2.69 to 3.62) and eGFR decline ≥30% (hazard ratio, 3.11; 95% confidence interval, 2.78 to 3.48) and ibuprofen displaying the lowest risk of eGFR<60 ml/min per 1.73 m2 (hazard ratio, 1.12; 95% confidence interval, 1.02 to 1.23) and eGFR decline ≥30% (hazard ratio, 1.32; 95% confidence interval, 1.23 to 1.41). Conclusions Nonsteroidal anti-inflammatory drug exposure was associated with higher risks of incident eGFR <60 ml/min per 1.73 m2 and eGFR decline ≥30%. Highest risk was observed in etoricoxib users, and lowest risk was with ibuprofen. Podcast This article contains a podcast at 
+
+Non-steroidal anti-inflammatory drug induced acute kidney injury in the community dwelling general population and people with chronic kidney disease: systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:NSAIDs are associated with a higher risk of acute kidney injury in people with chronic kidney disease and older individuals.
+
+Abstract:Non-steroidal anti-inflammatory drugs (NSAIDs) are a common cause of adverse drug events (ADEs), but renal risks of NSAIDs are less well quantified than gastrointestinal and cardiac risks. This paper reports a systematic review of published population-based observational studies examining the risk of acute kidney injury (AKI) associated with NSAIDs in community-dwelling adults and those with pre-existing chronic kidney disease (CKD). MEDLINE and EMBASE databases were searched until June 2016, and 3789 papers screened. Ten studies reporting NSAID risk of AKI in the general population were included in random effects meta-analysis, of which five additionally reported NSAID risk in people with CKD. In the general population, the pooled odds ratio (OR) of AKI for current NSAID exposure was 1.73 (95%CI 1.44 to 2.07), with somewhat higher risk observed in older people (OR 2.51, 95%CI 1.52 to 2.68). In people with CKD, individual study OR of AKI due to current NSAID exposure ranged from 1.12 to 5.25, with pooled estimate OR 1.63 (95% CI 1.22 to 2.19). No study reported baseline risk of AKI in different populations meaning absolute risks could not be estimated, but baseline risk and therefore the absolute risk of NSAID exposure is likely to be higher in people with CKD and older people. Large population based studies measuring AKI using current definitions and estimating the absolute risk of harm are needed in order to better inform clinical decision making.
+
+NSAIDs and Kidney Health: A Review of the Silent Threat to Renal Function
+
+Number of 
+
+Key takeaways:NSAID use is linked to a 50% to 70% increased risk of acute kidney injury and chronic kidney disease, with harm often outweighing the benefits.
+
+Abstract:Nonsteroidal anti-inflammatory medications (NSAIDs) are frequently recommended to treat rheumatologically and inflammatory diseases as well as to relieve pain. Acute kidney injury (AKI), chronic kidney disease (CKD), acute interstitial nephritis, and renal papillary necrosis are among the serious renal hazards that NSAIDs are linked to, despite their effectiveness, particularly in people who already have kidney disease or those using NSAIDs long-term or at high doses. This umbrella review consolidates evidence from multiple meta-analyses and systematic reviews to clarify the nephrotoxic potential of NSAIDs. The review reveals that NSAID use, including both traditional and selective COX-2 inhibitors, is linked to a 50% to 70% increased risk of AKI and CKD. Adverse effects are primarily related to intrarenal vasculature disruption, glomerular damage, and sodium imbalance. Although some NSAIDs offer specific renal protections, overall, the harm often outweighs the benefits. Further research is needed to better understand these risks, especially the molecular mechanisms underlying NSAID-induced kidney damage and to identify at-risk populations. This understanding will aid in balancing the therapeutic benefits of NSAIDs against their potential renal risks, ensuring safer clinical use.
+
+Effects of nonsteroidal anti-inflammatory drugs on renal function: focus on cyclooxygenase-2-selective inhibition.
+
+Number of 
+
+Key takeaways:NSAIDs can negatively affect renal function, leading to decreased sodium excretion, hyperkalemia, and acute renal failure, requiring caution when using cyclooxygenase-2-selective inhibitors.
+
+Non-steroidal anti-inflammatory drugs: what is the actual risk of chronic kidney disease? A systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Long-term NSAID use increases the risk of chronic kidney disease occurrence and progression, especially in individuals with pre-existing CKD.
+
+Abstract:Abstract Background Non-steroidal anti-inflammatory drugs (NSAIDs) are common cause of acute kidney injury, but chronic kidney disease (CKD) risk of NSAIDs is controversial. Prior systematic reviews are outdated with some methodological flaws. We conducted this systematic review to clarify the association between chronic NSAIDs use and occurrence and/or progression of CKD. Methods MEDLINE, Cochrane Library, Web of Science and Science direct were searched for observational and interventional studies from inception to May 2023. Qualitative synthesis was performed. The meta-analysis used pooled odds ratios (OR) and hazard ratios (HR) to estimate the association between chronic NSAID use and CKD occurrence or progression. Results Forty studies with a total of 1757118 participants were included in the systematic review; of them 39 studies were suitable for meta-analysis. 56% of our included studies were recent, 
+
+Analgesic use and associated adverse events in patients with chronic kidney disease: a systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:High levels of analgesic consumption and serious adverse outcomes are found in patients with chronic kidney disease.
+
+P1689COMPARISON OF NON-STEROIDAL ANTI-INFLAMMATORY DRUGS(NSAIDS) AND/OR PAINKILLERS USE BY KIDNEY (KTRS) AND HEART TRANSPLANT RECIPIENTS (HTRS)
+
+Number of 
+
+Key takeaways:High frequency of NSAID and painkiller usage is found in renal and heart transplant recipients, with acetaminophen being the first-choice drug.
+
+Abstract:Solid organ transplantation (SOT) has become the therapy of choice for the treatment of end-stage organ failure. The non-steroidal anti-inflammatory drugs (NSAIDs) and over-the- counter (OTC) painkillers are ofenly used. In a group of SOT recipients, co-morbidities and immunosuppression interactions significantly increase the risk of side effects. The aim of the study was to analyze the frequency and reasons of the NSAIDs and/or painkillers use by renal (RTRs) and heart transplant recipients (HTRs).
+ 
+ 
+ 
+ This cross-sectional study was perfomed in randomly selected 388 RTRs and 286 HTRs aged from 18 to 82 years. The original annonymus questionnaire consisting of 32 questions related to health status and NSAIDs and/or analgesics use was applied. Questionnaire was distributed in paper-form and completed with the participation of medical worker either in transplant cardiosurgical or renal transplantation center. “R” v. 3.6.1. was used for statistical analysis and p-value <0.05 was considered significant.
+ 
+ 
+ 
+ 674 patients were surveyed. All patients: 34,3% (n=231) women and 65,7% (n=443) men in the mean age of 62.27 years completed the questionnaire. 70% (n=451) of respondents declared using NSAIDs and/or analgesics. Furthermore, 87% of participants declared using OTC painkillers. The most frequent causes for using analgesics are listed in Table 1.
+ 68,5% of our SOT recipients declared that they were informed by their doctor about consequences of other drugs used with immunosuppression. 69,9% of HTRs comparing to 54,3% of RTRs ask their doctor before taking analgesics. Nevertheless, the survey also showed that every third patient (31,5%) was not sufficiently informed. Acetaminophen was the first-choice drug taken by 67,6% of patients (Fig. 1). Only 20% of patients declared not using NSAIDs and/or analgesics at all.
+ 
+ 
+ 
+ The result of our study indicates high frequency of NSAID and painkillers usage by RTRs and HTRs. Considering potentially harmful influence on transplanted organs, the costs of transplantation and post-trasplant care, the awareness of drug- related side effects or interactions and patients compliance need to be highlighted.
+
+A Systematic Review and Meta-analysis Comparing the Efficacy of Nonsteroidal Anti-inflammatory Drugs, Opioids, and Paracetamol in the Treatment of Acute Renal Colic.
+
+Number of 
+
+Key takeaways:NSAIDs provide effective and sustained pain relief for acute renal colic with fewer side effects compared to opioids and paracetamol, making them the preferred analgesic option for patients with adequate renal function.
+
+Nonsteroidal Anti-Inflammatory Drugs and Analgesics Use by Kidney Transplant Recipients
+
+Number of 
+
+Key takeaways:63% of kidney transplant recipients regularly take OTC painkillers, with 30% unaware of potential adverse effects, highlighting the need for ongoing education on the risks of OTC NSAIDs or analgesics use.
+
+Abstract:Background Nonsteroidal anti-inflammatory drugs (NSAIDs) and analgesics are the most commonly used drugs and are increasingly available over-the-counter (OTC). In certain groups of patients, including kidney transplant recipients, their use may be complicated by adverse effects or drug interactions. The aim of our study was to assess the causes and frequency of OTC NSAIDs or analgesics use, as well as the awareness of related side effects. Material/Methods We enrolled 94 randomly selected kidney transplant recipients, who represented 5% of all kidney transplant recipients at our center. An anonymous survey consisting of 23 multiple-choice questions was administered voluntarily and anonymously. Results In all, 63% of study patients confirmed taking the OTC painkillers; 22% of these patients took these drugs at least several times a week, and 4% took these drugs daily. For 38% of the study kidney transplant recipients, NSAIDs or analgesics were reported to be the only way to manage their pain. In addition, 30% of study patients were unaware of the risks associated with these drugs, despite the fact that 89% of the study patients consider physicians the best source of information. Conclusions Our study found that 63% of kidney transplant recipients regularly took OTC painkillers and 30% were unaware of the potential adverse effects. This necessitates continuous, ongoing education of kidney transplant recipients about the risks of OTC NSAIDs or analgesics use.
+
+Acute Kidney Injury in Autoimmune-Mediated Rheumatic Diseases
+
+Number of 
+
+Key takeaways:Inflammatory rheumatic diseases may increase the risk of acute kidney injury, with NSAIDs potentially inducing AKI, despite not directly affecting kidney function or structure.
+
+Abstract:Acute kidney injury (AKI) is increasingly affecting hospitalized patients worldwide. Patients with inflammatory rheumatic diseases, although primarily impacted by functional impairment and sometimes structural damage to joints, bones, and muscle tissue, may also develop AKI during the course of their disease. This narrative review aimed to summarize potential causes of AKI and the associated disease patterns. The following databases were searched for references: PubMed, Web of Science, Cochrane Library, and Scopus. The search period covered from 1958 to 2024. Certain inflammatory rheumatic diseases increase the risk of AKI due to specific types of kidney disease. However, the most common conditions, such as rheumatoid arthritis and spondylarthritis, rarely cause AKI directly. Among the medications used for pain and sometimes disease activity control, nonsteroidal anti-inflammatory drugs (NSAIDs) can potentially induce AKI, even progressing to acute tubular necrosis. There is evidence that certain rheumatic diseases are associated with increased risk of AKI, independently of directly affecting kidney function or structure. However, the data on this topic are quite limited. AKI is a potentially significant issue for patients with inflammatory rheumatic diseases. Additional data on the increased risk of AKI, independent of direct kidney involvement, are needed.
+
+Idiosyncratic liver toxicity of nonsteroidal antiinflammatory drugs: molecular mechanisms and pathology.
+
+Number of 
+
+Key takeaways:NSAID-induced liver toxicity may be caused by altered proteins acting as immunogens or toxic metabolites, with mechanisms largely unresolved and host-dependent.
+
+Abstract:This review explores the clinical hepatic pathology associated with the use of nonsteroidal antiinflammatory drugs (NSAIDs), possible cellular and molecular mechanisms of injury, and future challenges. NSAIDs comprise a group of widely used compounds that have been associated with rare adverse reactions in the liver, including fulminant hepatitis and cholestasis. These reactions are idiosyncratic, mostly independent of the dose administered, and host-dependent. The mechanisms responsible for the initiation and perpetuation of NSAID-induced hepatotoxicity remain poorly understood and have been largely inferred from clinical manifestation. A mounting body of evidence, however, indicates that many acidic NSAIDs are metabolized to reactive acyl glucuronides that can form covalent adducts with plasma proteins and hepatocellular proteins. In hepatocytes cocultured with lymphocytes, these NSAID-altered proteins can become antigenic. Thus, long-lived, drug-altered proteins may act as immunogens and produce cytotoxic T-cell-mediated or antibody-dependent, cell-mediated toxicity in susceptible patients. Alternatively, individual abnormalities in metabolism or disposition of some NSAIDs may lead to the formation or accumulation of toxic metabolites. Additional work with transgenic animal models is needed to permit better understanding of the general and specific risk factors involved in the pathogenesis of the idiosyncratic liver injuries related to NSAIDs and other drugs.
+
+Drug-induced liver injury associated with the use of nonsteroidal antiinflammatory drugs
+
+Number of 
+
+Key takeaways:Drug-induced liver injury from NSAIDs can be effectively treated with symptomatic therapy and early diagnosis, but requires careful monitoring and preventive measures.
+
+Abstract:Nonsteroidal antiinflammatory drugs (NSAIDs) are effective drugs used widely in clinical practice. NSAIDs are reversible inhibitors of cyclo-oxygenase, mainly used for the symptomatic relief of pain, whether rheumatologic, traumatic, infectious or episodic. However, the appointment of NSAIDs must be considered risk factors for side effects.Drug-induced liver injury associated with the use of NSAIDs does not have any specific manifestations and covers the symptoms that occur in a variety of liver lesions, from asymptomatic increase in transaminases to the development of fulminant liver failure. The need for early diagnosis, a difficult differential diagnostic search, and the absence of specific laboratory tests make this pathology quite difficult for a practicing physician. Treatment is based on the abolition of NSAIDs, which caused liver damage, and the appointment of symptomatic therapy. Preventive measures are reduced to compliance with the dose, multiplicity, ways of drug administration, the absence of polypragmasia, careful collection of medical history, analysis of risk factors before prescribing a drug and monitoring the patient in the dynamics.
+
+Increased risk of acute liver failure by pain killer drugs in NAFLD: Focus on nuclear receptors and their coactivators.
+
+Number of 
+
+Key takeaways:NAFLD increases the risk of acute liver failure from pain killer drugs like acetaminophen, with the exact mechanism being the role of nuclear receptors PPAR and PGC-1.
+
+Acetaminophen‐Induced Liver Damage in Hepatic Steatosis
+
+Number of 
+
+Key takeaways:Acetaminophen-induced liver damage is more likely in obese and those with nonalcoholic fatty liver disease, highlighting the need for alternative therapeutic approaches in these patients.
+
+Abstract:One of the most used painkillers is acetaminophen (APAP), which is safe at the right dose. However, several studies have described populations susceptible to APAP‐induced liver damage, mainly in livers with steatosis. Thus, clinicians should consider the presence of obesity and other chronic liver diseases like nonalcoholic fatty liver disease (NAFLD) when indicating treatment with APAP. Liver damage from this drug is generated through its metabolite N‐acetyl‐p‐benzoquinone imine, which is detoxified with glutathione (GSH). Prior depletion of GSH in steatotic hepatocytes plays a key role in APAP‐induced hepatotoxicity in people with obesity and NAFLD. The knowledge about the damage to the liver or APAP in susceptible people like the obese and those with NAFLD is of great relevance for the sanitary sector because it would imply strategies of different therapeutic approach in such patients. This paper reviews the role of APAP in liver damage in the presence of obesity, NAFLD, and nonalcoholic steatohepatitis.
+
+Protecting Liver From Painkiller's Lethal Dose
+
+Number of 
+
+Key takeaways:Acetaminophen overdoses cause severe liver damage, and new research suggests a potential target for treating liver failure caused by acetaminophen and other drugs.
+
+Abstract:TOXICOLOGYOverdoses of the painkiller acetaminophen can cause severe, sometimes fatal liver damage. New results, reported on page of this issue, help explain just how acetaminophen harms the liver. They may also provide a target for treating liver failure due to overdoses of acetaminophen and perhaps of other drugs as well.
+
+ : 
+
+Role of the inflammasome in acetaminophen-induced liver injury and acute liver failure.
+
+Number of 
+
+Key takeaways:The inflammasome plays a crucial role in acetaminophen-induced liver injury and acute liver failure, with potential for further treatment options.
+
+Oral magnesium prevents acetaminophen-induced acute liver injury by modulating microbial metabolism.
+
+Number of 
+
+Key takeaways:Oral magnesium helps prevent acetaminophen-induced acute liver injury by modulating gut microbiota metabolism and inhibiting CYP2E1.
+
+Drug-induced liver injury and prospect of cytokine based therapy; A focus on IL-2 based therapies.
+
+Number of 
+
+Key takeaways:Cytokine therapy, particularly IL-2 based therapies, shows potential in resolving inflammation caused by over-the-counter and prescription drugs.
+
+NSAID Use and Risk of Hepatocellular Carcinoma and Intrahepatic Cholangiocarcinoma: The Liver Cancer Pooling Project
+
+Number of 
+
+Key takeaways:Aspirin use is inversely associated with liver cancer risk, with stronger associations for daily, longer duration use, and lower dosage, while ibuprofen use is not associated with liver cancer risk.
+
+Abstract:Chronic inflammation plays a pivotal role in the pathogenesis of hepatocellular carcinoma (HCC) and intrahepatic cholangiocarcinoma (ICC), the two most common types of liver cancer. A number of prior experimental studies have suggested that nonsteroidal anti-inflammatory drugs (NSAIDs), including aspirin and ibuprofen, may potentially protect against liver cancer. However, no observational study has examined the association between aspirin duration and dose or other over-the-counter non-aspirin NSAIDs, such as ibuprofen, and liver cancer incidence. Furthermore, the association between NSAID use and risk of ICC is unclear. As part of the Liver Cancer Pooling Project, we harmonized data on 1,084,133 individuals (HCC = 679, ICC = 225) from 10 U.S.-based prospective cohort studies. Cox proportional hazards regression models were used to evaluate multivariable-adjusted HRs and 95% confidence intervals (CI). Current aspirin use, versus nonuse, was inversely associated with HCC (HR, 0.68; 95% CI, 0.57–0.81), which persisted when restricted to individuals not using non-aspirin NSAIDs and in a 5- and 10-year lag analysis. The association between aspirin use and HCC risk was stronger for users who reported daily use, longer duration use, and lower dosage. Ibuprofen use was not associated with HCC risk. Aspirin use was associated with a reduced ICC risk in men (HR, 0.64; 95% CI, 0.42–0.98) but not women (HR, 1.34; 95% CI, 0.89–2.01; Pinteraction = 0.01). The observed inverse association between aspirin use and liver cancer in our study, together with previous data, suggests the merit of future intervention studies of aspirin and other agents that affect chronic inflammatory pathways for HCC and possibly ICC. Cancer Prev Res; 8(12); 1156–62. ©2015 AACR.
+
+Mechanistic insights of hepatoprotective effects of curcumin: Therapeutic updates and future prospects.
+
+Number of 
+
+Key takeaways:Curcumin, the active ingredient in turmeric, possesses hepatoprotective properties, potentially benefiting patients with various liver disorders and drug-induced hepatotoxicity.
+
+Protective Effect of Dihydrokaempferol on Acetaminophen-Induced Liver Injury by Activating the SIRT1 Pathway.
+
+Number of 
+
+Key takeaways:Dihydrokaempferol protects against acetaminophen-induced liver injury by activating the SIRT1 pathway, promoting autophagy, reducing oxidative stress, and inhibiting inflammatory responses.
+
+Abstract:Acetaminophen (APAP) overdose is the leading cause of acute liver failure (ALF) in the Western world, with limited treatment opportunities. 3,5,7,4-Tetrahydroxyflavanone (Dihydrokaempferol, DHK, Aromadendrin) is a flavonoid isolated from Chinese herbs and displays high anti-oxidant and anti-inflammatory capacities. In this study, we investigated the protective effect by DHK against APAP-induced liver injury in vitro and in vivo and the potential mechanism of action. Cell viability assays were used to determine the effects of DHK against APAP-induced liver injury. The levels of reactive oxygen species (ROS), serum alanine/aspartate aminotransferases (ALT/AST), liver myeloperoxidase (MPO), and malondialdehyde (MDA) were measured and analyzed to evaluate the effects of DHK on APAP-induced liver injury. Western blotting, immunofluorescence staining, RT-PCR, and Transmission Electron Microscope were carried out to detect the signaling pathways affected by DHK. Here, we found that DHK owned a protective effect on APAP-induced liver injury with a dose-dependent manner. Meanwhile, Western blotting showed that DHK promoted SIRT1 expression and autophagy, activated the NRF2 pathway, and inhibited the translocation of nuclear p65 (NF-B) in the presence of APAP. Furthermore, SIRT1 inhibitor EX-527 aggravated APAP-induced hepatotoxicity when treating with DHK. Molecular docking results suggested potential interaction between DHK and SIRT1. Taken together, our study demonstrates that DHK protects against APAP-induced liver injury by activating the SIRT1 pathway, thereby promoting autophagy, reducing oxidative stress injury, and inhibiting inflammatory responses.
+
+Use of over-the-counter analgesics is not associated with acute decompensation in patients with cirrhosis.
+
+Number of 
+
+Key takeaways:Acetaminophen use at lower doses is not associated with acute hepatic decompensation in patients with cirrhosis, while nonsteroidal anti-inflammatory drugs may have negative effects, and alcohol ingestion is associated with decompensation in alcoholic cirrhosis patients.
+
+Fast food diet-induced non-alcoholic fatty liver disease exerts early protective effect against acetaminophen intoxication in mice
+
+Number of 
+
+Key takeaways:Fast food diet-induced non-alcoholic fatty liver disease protects mice from acetaminophen intoxication by inducing anti-inflammatory molecules like PPAR-.
+
+Abstract:Acetaminophen (APAP) is a readily available and safe painkiller. However, its overdose is the most common cause of acute liver injury (ALI). Many predisposing factors contribute to susceptibility to APAP-induced ALI. Non-alcoholic fatty liver disease (NAFLD), the major cause of chronic liver disease, is considered an important predictor of APAP-induced ALI, although the exact mechanism controversial. In this study, we aimed to elucidate the effects of NAFLD on APAP-induced ALI. Two groups of mice, normal chow (NC) diet-fed and fast food (FF) diet-fed mice for 14 weeks, were further divided into two subgroups: intraperitoneally injected with either saline (NC-S and FF-S groups) or APAP (NC-A and FF-A groups). Biochemical tests, histological analysis, quantitative PCR, and western blotting were conducted. Alanine aminotransferase (ALT) level (199.0 ± 39.0 vs. 63.8 ± 7.4 IU/L, p < 0.05) and NAFLD activity score (0 vs. 4.5 ± 0.22) were significantly higher in mice in FF-S group than those in NC-S group. ALI features such as ALT level (8447.8 ± 1185.3 vs. 836.6 ± 185.1 IU/L, p < 0.001) and centrizonal necrosis were prominent and mRNA levels of Trib3 (RR, 1.81) was high in mice in the NC-A group. Levels of CYP2E1 and anti-inflammatory molecules such as PPAR-γ, p62, and NRF2 were high in mice in the FF-A group. Our results showed that while the FF diet clearly induced non-alcoholic steatohepatitis and metabolic syndrome, NAFLD also attenuates APAP-induced ALI by inducing anti-inflammatory molecules such as PPAR-γ.
+
+The role of Andrographolide in the prevention and treatment of liver diseases.
+
+Number of 
+
+Key takeaways:Andrographolide shows potential in treating various liver diseases through multiple pathways and targets, but its toxicity and side effects need further validation.
+
+Acetaminophen‐induced liver injury in obesity and nonalcoholic fatty liver disease
+
+Number of 
+
+Key takeaways:Acetaminophen-induced liver injury in obese individuals with nonalcoholic fatty liver disease may depend on a delicate balance between protective metabolic factors and those favoring large hepatic levels of NAPQI.
+
+Abstract:Although acetaminophen (APAP) is usually considered as a safe drug, this painkiller can lead to acute liver failure after overdoses. Moreover, there is evidence that the maximum recommended dosage can induce hepatic cytolysis in some individuals. Several predisposing factors appear to enhance the risk and severity of APAP‐induced liver injury including chronic alcoholic liver disease and nonalcoholic fatty liver disease (NAFLD), which refers to a large spectrum of hepatic lesions linked to obesity. In contrast, obesity by itself does not seem to be associated with a higher risk of APAP‐induced liver injury. Since 1987, seven studies dealt with APAP‐induced hepatotoxicity in rodent models of NAFLD and five of them found that this liver disease was associated with higher APAP toxicity. Unfortunately, these studies did not unequivocally established the mechanism(s) whereby NAFLD could favour APAP hepatotoxicity, although some investigations suggested that pre‐existent induction of hepatic cytochrome P450 2E1 (CYP2E1) could play a significant role by increasing the generation of N‐acetyl‐p‐benzoquinone imine (NAPQI), the toxic metabolite of APAP. Moreover, pre‐existent mitochondrial dysfunction associated with NAFLD could also be involved. In contrast, some investigations suggested that factors that could reduce the risk and severity of APAP hepatotoxicity in obesity and NAFLD include higher hepatic APAP glucuronidation, reduced CYP3A4 activity and increased volume of body distribution. Thus, the occurrence and the outcome of APAP‐induced liver injury in an obese individual with NAFLD might depend on a delicate balance between metabolic factors that can be protective and others that favour large hepatic levels of NAPQI.
+
+Inhibition of oxidative stress, inflammation and apoptosis by Terminalia arjuna against acetaminophen-induced hepatotoxicity in Wistar albino rats
+
+Number of 
+
+Key takeaways:A high dose of Terminalia arjuna bark (500 mg/kg) effectively reduces acetaminophen-induced liver damage in rats by inhibiting oxidative stress, inflammation, and apoptosis.
+
+Abstract:Overuse of therapeutic drugs such as acetaminophen often affects liver, and may lead to inflammatory mediated liver cell death. Here, we studied the effect of Terminalia arjuna (TA) bark against acetaminophen (APAP) induced liver cell death/injury by testing the antioxidant levels, oxidative stress, and inflammation and apoptosis markers. Wistar albino male rats weighing 180-280 mg/kg were made into 5 groups of 6 animals each and were treated as follows: Gr. I, control; Gr. II, acetaminophen (APAP); GR. III, N-acetylcysteine (NAC); Gr. IV & V, Terminalia arjuna (TA) 250 and mg/kg. The antioxidant glutathione (GSH), lipid peroxidation (MDA), interleukin 1β (IL-1β) levels, caspase-9 levels, and Protein kinase B (P-AKT) gene expression levels were assessed. The rGr. V animals pre-treated with Terminalia arjuna high dose bark showed increased glutathione (GSH) levels, but decreased malondialdehyde (MDA) levels; inhibited IL-1β and caspase-9 levels; and also elevated gene expression level of P-AKT to regulate the cell signaling pathway. Apparently, the results demonstrated that a high dose of TA 500 mg/kg ameliorated acetaminophen-induced hepatotoxicity.
+
+Could Adverse Effects of Antibiotics Due to Their Use/Misuse Be Linked to Some Mechanisms Related to Nonalcoholic Fatty Liver Disease?
+
+Number of 
+
+Key takeaways:Antibiotic excessive use and misuse may contribute to the onset and progression of nonalcoholic fatty liver disease by altering gut flora and reducing microbial diversity.
+
+Abstract:Nonalcoholic fatty liver disease, recently re-named metabolic dysfunction-associated steatotic fatty liver disease, is considered the most prevalent liver disease worldwide. Its molecular initiation events are multiple and not always well-defined, comprising insulin resistance, chronic low-grade inflammation, gut dysbiosis, and mitochondrial dysfunction, all of them acting on genetic and epigenetic grounds. Nowadays, there is a growing public health threat, which is antibiotic excessive use and misuse. This widespread use of antibiotics not only in humans, but also in animals has led to the presence of residues in derived foods, such as milk and dairy products. Furthermore, antibiotics have been used for many decades to control certain bacterial diseases in high-value fruit and vegetables. Recently, it has been emphasised that antibiotic-induced changes in microbial composition reduce microbial diversity and alter the functional attributes of the microbiota. These antibiotic residues impact human gut flora, setting in motion a chain of events that leads straight to various metabolic alterations that can ultimately contribute to the onset and progression of NAFLD.
+
+Overuse of antianaerobic drug is associated with poor postchemotherapy prognosis of patients with hepatocellular carcinoma
+
+Number of 
+
+Key takeaways:Overuse of antibiotics targeting anaerobes is associated with a poor prognosis in patients with hepatocellular carcinoma who have undergone chemotherapy, while the intestinal anaerobic bacteria Blautia has a good prognosis.
+
+Abstract:Overuse of antibiotic drugs alters the composition of gut microbiota and has detrimental effects on the host. In our study, we investigated association of gut flora and antibiotics in the prognosis of patients with liver cancer who have undergone chemotherapy by analyzing two independent clinical studies. We retrospectively subanalyzed a previously reported randomized controlled trial (RCT) on hepatic arterial infusion chemotherapy in patients with hepatocellular carcinoma (HCC) to investigate the association between use of antibiotics and prognosis. In the other study, we prospectively determined the abundance of specific bacterial genus in patients with HCC by sequencing 16S ribosomal RNA and assessed its association with survival. Subanalysis of the RCT data showed that, of 26 types of antibiotics used, administration of carbapenem before or during chemotherapy was associated with poor progression‐free survival (PFS) and overall survival (OS) of patients with HCC (carbapenem + vs. −; median PFS, 78 days vs. 154 days, p = 0.0053; median OS, 177 days vs. 475 days, p = 0.0003). Multivariate analysis revealed that antianaerobic drug use is an independent predictor of poor prognosis. In the prospective study, the abundance of Blautia in fecal microbiota correlated positively with both PFS and OS of patients with HCC who underwent chemotherapy. Use of antibiotics targeting anaerobes is associated with a poor prognosis in patients with HCC who have undergone chemotherapy, whereas the intestinal anaerobic bacteria, Blautia is associated with a good prognosis. These findings might indicate the need for caution regarding overuse of broad‐spectrum antibiotics targeting anaerobes in patients with HCC.
+
+Alcoholism: a systemic proinflammatory condition.
+
+Number of 
+
+Key takeaways:Alcoholism is a systemic proinflammatory condition that affects organs beyond the liver, causing damage to brain, bone, muscle, heart, lung, gonads, peripheral nerve, and pancreas.
+
+Abstract:Excessive ethanol consumption affects virtually any organ, both by indirect and direct mechanisms. Considerable research in the last two decades has widened the knowledge about the paramount importance of proinflammatory cytokines and oxidative damage in the pathogenesis of many of the systemic manifestations of alcoholism. These cytokines derive primarily from activated Kupffer cells exposed to Gram-negative intestinal bacteria, which reach the liver in supra-physiological amounts due to ethanol-mediated increased gut permeability. Reactive oxygen species (ROS) that enhance the inflammatory response are generated both by activation of Kupffer cells and by the direct metabolic effects of ethanol. The effects of this increased cytokine secretion and ROS generation lie far beyond liver damage. In addition to the classic consequences of endotoxemia associated with liver cirrhosis that were described several decades ago, important research in the last ten years has shown that cytokines may also induce damage in remote organs such as brain, bone, muscle, heart, lung, gonads, peripheral nerve, and pancreas. These effects are even seen in alcoholics without significant liver disease. Therefore, alcoholism can be viewed as an inflammatory condition, a concept which opens the possibility of using new therapeutic weapons to treat some of the complications of this devastating and frequent disease. In this review we examine some of the most outstanding consequences of the altered cytokine regulation that occurs in alcoholics in organs other than the liver.
+
+How does the use of alcohol damage the liver ? Answer
+
+Number of 
+
+Key takeaways:Overuse and abuse of alcohol may have long-lasting impacts on the liver, which filters blood, breaking down toxins, and contributing to various health conditions.
+
+Abstract:Way to be proactive about knowing how substances might impact the body! For most folks, low-risk use of alcohol doesn't seem to damage to the liver. However, the overuse and abuse of alcohol may have a long-lasting impact on the liver. The liver filters all of the blood in the body, breaking down and eliminating toxins, converting excess blood sugar to glycogen, and many other crucial functions. As such, when overused, alcohol may contribute to a number of health conditions if not used in a low-risk manner. Want to learn more about libations and the liver? Read on!
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

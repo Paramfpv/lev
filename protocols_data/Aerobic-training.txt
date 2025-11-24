@@ -1,0 +1,592 @@
+PROTOCOL: Aerobic training
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Abstract:Regular exercise is one of the main non-pharmacological measures suggested by several guidelines to prevent and treat the development of hypertension and cardiovascular disease through its impact on the vascular system. Routine aerobic training exerts its beneficial effects by means of several mechanisms: decreasing the heart rate and arterial pressure as well as reducing the activation of the sympathetic system and inflammation process without ignoring the important role that it plays in the metabolic profile. Through all these actions, physical training counteracts the arterial stiffening and aging that underlie the development of future cardiovascular events. While the role of aerobic training is undoubted, the effects of resistance training or combined-training exercise on arterial distensibility are still questioned. Moreover, whether different levels of physical activity have a different impact on normotensive and hypertensive subjects is still debated.
+DESCRIPTION: Aerobic training is regular physical activity of moderate or high intensity, including running, walking, swimming, or cycling. It leads to reduced risk of heart disease, improved mood, and decreased body fat mass. It is a universal tool for prevention and supporting health in virtually every age group.
+
+CONTENT SECTIONS:
+
+Improvement of cardiovascular health, mental well-being, and body composition
+
+Aerobic training is regular physical activity of moderate or high intensity, including running, walking, swimming, or cycling. It leads to reduced risk of heart disease, improved mood, and decreased body fat mass. It is a universal tool for prevention and supporting health in virtually every age group.
+
+Level of evidence:Strong
+
+Level of risk:Negligible
+
+Aerobic training improves the function of the heart and blood vessels, increases lung capacity, and boosts oxygen consumption by muscles. It stimulates the release of neurotransmitters responsible for well-being (e.g., endorphins, serotonin) and positively affects lipid metabolism and insulin sensitivity. Long-term activity leads to beneficial metabolic and structural adaptations, supporting the health of the entire body.
+
+Level of risk:Negligible
+
+Aerobic training is well tolerated by most people and is characterized by a very low risk of complications when intensity is chosen properly. In healthy individuals, the risk of serious adverse events is negligible, although mild side effects are possible with sudden increases in activity or improper preparation.
+
+Aerobic training is not recommended for people with certain conditions or in specific health states. Before starting an exercise program, individuals with chronic diseases should consult a physician.
+
+150–300 min per week of moderate-intensity activity or 75–150 min per week of high-intensity activity
+
+Running, walking, swimming, cycling, aerobics, dancing, Nordic walking
+
+First health effects after 2–4 weeks of regular exercise
+
+Any time, preferably at regular times and after a light meal
+
+Resistance training, stretching, balance exercises
+
+What not to combine with
+
+Intense effort without warm-up or during infection
+
+Gradual increase of intensity
+
+Start with shorter and less intense sessions, gradually increase duration and pace.
+
+Variety of activity forms
+
+Combine different types of aerobic exercise (e.g., running, cycling, swimming) to avoid monotony and reduce risk of overuse injuries.
+
+Keep an activity journal
+
+Record progress and how you feel after training—it helps maintain motivation and control intensity.
+
+Maintain hydration and nutrition
+
+Drink water before, during, and after training, and plan meals so you don’t exercise on an empty stomach.
+
+Consult your doctor if you have chronic diseases
+
+Before starting more intense training, consult a specialist, especially if you have cardiovascular or metabolic problems.
+
+Warm up and cool down
+
+Always start training with a warm-up (5–10 min) and finish with low-intensity exercise and stretching.
+
+Cardiovascular system
+
+Aerobic training significantly supports the health of the cardiovascular system through beneficial effects on the heart, blood vessels, and metabolic parameters, leading to reduced risk of heart disease and improved overall fitness.
+
+Key benefits of aerobic training
+
+Aerobic training has a strong positive impact on mental health, improving well-being, reducing symptoms of depression, anxiety, and stress, and enhancing overall quality of life in various age groups.
+
+Key mental health benefits of aerobic training
+
+Groups especially benefiting from aerobic training
+
+Aerobic training has a proven, beneficial effect on body composition, especially through the reduction of body fat mass and improvement of metabolic markers. The best results are achieved by combining aerobic and resistance training, but aerobic training alone also effectively supports fat loss.
+
+Key effects of aerobic training on body composition
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:58
+
+Final comment:The evidence level for aerobic training is 'Strong' because the effectiveness of this intervention in improving cardiovascular health, mental health, and body composition is confirmed by numerous meta-analyses, systematic reviews, and randomized controlled trials (RCTs) involving large groups of people of various ages, genders, and health statuses. The results are consistent and clearly indicate significant health benefits—both in the prevention and treatment of chronic diseases as well as improving quality of life. The effects are observed in the general population as well as in people with hypertension, obesity, diabetes, and those with a history of heart disease. The number of studies, their quality, and the consistency of the results justify the highest level of scientific credibility.
+
+Cardiovascular Adaptations to Exercise Training.
+
+Number of 
+
+Key takeaways:Aerobic exercise training improves aerobic power and endurance performance by enhancing maximal cardiac output, increasing perfusion capacity, and adapting arteries, arterioles, and capillaries to accommodate increased demands and perfusion levels.
+
+Abstract:Aerobic exercise training leads to cardiovascular changes that markedly increase aerobic power and lead to improved endurance performance. The functionally most important adaptation is the improvement in maximal cardiac output which is the result of an enlargement in cardiac dimension, improved contractility, and an increase in blood volume, allowing for greater filling of the ventricles and a consequent larger stroke volume. In parallel with the greater maximal cardiac output, the perfusion capacity of the muscle is increased, permitting for greater oxygen delivery. To accommodate the higher aerobic demands and perfusion levels, arteries, arterioles, and capillaries adapt in structure and number. The diameters of the larger conduit and resistance arteries are increased minimizing resistance to flow as the cardiac output is distributed in the body and the wall thickness of the conduit and resistance arteries is reduced, a factor contributing to increased arterial compliance. Endurance training may also induce alterations in the vasodilator capacity, although such adaptations are more pronounced in individuals with reduced vascular function. The microvascular net increases in size within the muscle allowing for an improved capacity for oxygen extraction by the muscle through a greater area for diffusion, a shorter diffusion distance, and a longer mean transit time for the erythrocyte to pass through the smallest blood vessels. The present article addresses the effect of endurance training on systemic and peripheral cardiovascular adaptations with a focus on humans, but also covers animal data.
+
+Aerobic High-Intensity Exercise Training Improves Cardiovascular Health in Older Post-menopausal Women
+
+Number of 
+
+Key takeaways:Aerobic high-intensity training effectively increases maximal oxygen uptake and improves cardiovascular health in older post-menopausal women, without a parallel improvement in conduit artery function.
+
+Abstract:The aim of this study was to determine the effect of a period of aerobic high intensity training on central- and peripheral cardiovascular parameters in older post-menopausal women. Eleven healthy post-menopausal (>10 years after menopause) women (mean age: 64 years; BMI: 25.3 kg m−2) completed an 8-week period of supervised, high intensity cycle training, with sessions conducted three times per week. Before and after the training period maximal oxygen uptake, body composition, popliteal artery flow mediated dilation, exercise hyperemia, arterial blood pressure, and plasma lipids were assessed. In addition, levels of estrogen related receptor α (ERRα) and vasodilator enzymes were determined in muscle biopsy samples. Training induced an 18% increase (P < 0.001) in maximal oxygen uptake. Plasma High-density lipoprotein (HDL) was higher (P < 0.05) after than before the training period. Fat mass was reduced (4.9%; P < 0.01), whereas lean body mass was unaltered. Mean arterial blood pressure was unchanged (91 vs. 88 mmHg; P = 0.058) with training. Training did not induce a change in popliteal flow mediated dilation. Exercise hyperemia at submaximal exercise was lower (P < 0.01; 11 and 4.6% at 10 and 16 W, respectively) after compared to before training. Muscle ERRα (~1.7-fold; P < 0.01) and eNOS (~1.4-fold; P < 0.05) were higher after the training intervention. The current study demonstrates that, in older post-menopausal women, a period of aerobic high intensity training effectively increases maximal oxygen uptake and improves the cardiovascular health profile, without a parallel improvement in conduit artery function.
+
+Aerobic, resistance or combined training: A systematic review and meta-analysis of exercise to reduce cardiovascular risk in adults with metabolic syndrome.
+
+Number of 
+
+Key takeaways:Aerobic exercise following current guidelines offers widespread benefits to individuals with metabolic syndrome without diabetes, while more studies on resistance and combined exercise programs are needed.
+
+Effect of aerobic training versus resistance training for improving cardiorespiratory fitness and body composition in middle-aged to older adults: A systematic review and meta-analysis of randomized controlled trials.
+
+Number of 
+
+Key takeaways:Aerobic training improves cardiorespiratory fitness and overall body composition in middle-aged to older adults, while resistance training is more beneficial for lean body mass improvements.
+
+Aerobic vs anaerobic exercise training effects on the cardiovascular system
+
+Number of 
+
+Key takeaways:Aerobic exercises are more effective for promoting cardiovascular health due to their higher intensity, interval, and muscle fiber types compared to anaerobic exercises.
+
+Abstract:Physical exercise is one of the most effective methods to help prevent cardiovascular (CV) disease and to promote CV health. Aerobic and anaerobic exercises are two types of exercise that differ based on the intensity, interval and types of muscle fibers incorporated. In this article, we aim to further elaborate on these two categories of physical exercise and to help decipher which provides the most effective means of promoting CV health.
+
+Effects of Different Kinds of Physical Activity on Vascular Function
+
+Number of 
+
+Key takeaways:Regular aerobic exercise helps prevent hypertension and cardiovascular disease by reducing arterial stiffening and aging, while the effects of resistance training and combined-training exercise remain ambiguous.
+
+Abstract:Regular exercise is one of the main non-pharmacological measures suggested by several guidelines to prevent and treat the development of hypertension and cardiovascular disease through its impact on the vascular system. Routine aerobic training exerts its beneficial effects by means of several mechanisms: decreasing the heart rate and arterial pressure as well as reducing the activation of the sympathetic system and inflammation process without ignoring the important role that it plays in the metabolic profile. Through all these actions, physical training counteracts the arterial stiffening and aging that underlie the development of future cardiovascular events. While the role of aerobic training is undoubted, the effects of resistance training or combined-training exercise on arterial distensibility are still questioned. Moreover, whether different levels of physical activity have a different impact on normotensive and hypertensive subjects is still debated.
+
+Comparative effectiveness of aerobic, resistance, and combined training on cardiovascular disease risk factors: A randomized controlled trial
+
+Number of 
+
+Key takeaways:Combined aerobic and resistance training for 8 weeks provides more comprehensive cardiovascular benefits than aerobic or resistance training alone in individuals at increased risk for cardiovascular disease.
+
+Abstract:Although exercise has well-documented health benefits on cardiovascular disease (CVD), the benefit of combination exercise on CVD risk factors in individuals with elevated risk has not been fully elucidated. We compared the effects of aerobic, resistance, and a combination of both aerobic and resistance training on CVD risk factors including peripheral and central BP, cardiorespiratory fitness (CRF), muscular strength, body composition, blood glucose and lipids. Sixty-nine adults (58±7 years) with an elevated blood pressure or hypertension, overweight/obesity, and sedentary lifestyle were randomized to one of the three 8-week exercise programs or a non-exercise control group. Participants in all three exercise groups had an equal total exercise time, 3 days/week (aerobic: 60 minutes/session vs. resistance: 60 minutes/session vs. combination: aerobic 30 minutes/session plus resistance 30 minutes/session). Combined training provided significant reductions in peripheral (-4 mmHg) and central diastolic BP (-4 mmHg), increase in CRF (4.9 ml/kg/min), increase in upper (4 kg) and lower (11 kg) body strength, and increase in lean body mass (0.8 kg) (p <0.05). Aerobic training only increased CRF (7.7 ml/kg/min), and reduced body weight (-1.0 kg) and fat mass (-0.9 kg) (p <0.05). Resistance training only increased lower body strength (13 kg) and reduced waist circumference (-1.7 cm) (p <0.05). However, neither aerobic or resistance training alone showed significant reductions in BP (p>0.05). Furthermore, a composite score of CVD risk factors indicated a greater reduction with combination training compared to the control group. In conclusion, among individuals at an increased risk for CVD, as little as 8-weeks of combined training may provide more comprehensive CVD benefits compared to time-matched aerobic or resistance training alone.
+
+The effects of aerobic exercise on cardiometabolic health in postmenopausal females: A systematic review and meta-analysis of randomized controlled trials
+
+Number of 
+
+Key takeaways:Aerobic training may improve cardiometabolic health outcomes in postmenopausal females, with light- and vigorous intensities showing beneficial effects on BMI, blood triglycerides, and blood glucose.
+
+Abstract:Background: After menopause, reductions in ovarian hormones increase the risk of cardiovascular disease. Aerobic exercise training has been shown to reduce cardiovascular risk in older adults, but its effectiveness in postmenopausal females is less definitive. Objectives: The objectives of this study were to examine the: (1) effects of aerobic training, and (2) association between aerobic training intensity and cardiometabolic health outcomes in postmenopausal females. Design: Systematic review and meta-analysis of randomized controlled trials. Data 
+
+Aerobic exercise training and vascular function with ageing in healthy men and women
+
+Number of 
+
+Key takeaways:Regular aerobic exercise reduces cardiovascular disease risk with age in both men and women, and enhances vascular health through reduced oxidative stress and nitric oxide bioavailability.
+
+Abstract:Cardiovascular diseases (CVD) remain the leading cause of morbidity and mortality in both men and women in developed societies. Age is the greatest risk factor for CVD due largely to adverse changes to arteries that include stiffening of the large elastic arteries (aortic and carotid arteries) and endothelial dysfunction. Vascular ageing is driven by oxidative stress, which reduces nitric oxide (NO) bioavailability and stimulates changes in the extracellular matrix. In women, reductions in circulating oestrogens with menopause interact with ageing processes to induce vascular dysfunction. Regular aerobic exercise is the most evidence‐based strategy for reducing CVD risk with ageing in both men and women. Much of this cardiovascular‐protective effect of aerobic exercise is likely due to its vascular health‐enhancing influence. Large elastic artery stiffening with advancing age is attenuated in healthy adults engaged in aerobic exercise training, and aerobic exercise interventions improve arterial stiffness in previously sedentary middle‐aged and older men and postmenopausal women. Regular aerobic exercise also enhances endothelial function with ageing in men (by reducing oxidative stress and preserving NO bioavailability), but not consistently in oestrogen‐deficient postmenopausal women. In postmenopausal women, treatment with oestradiol appears to restore the ability of aerobic exercise to improve NO‐mediated endothelial function by reducing oxidative stress. Several research gaps exist in our understanding of potential sex differences in the vascular adaptations to regular aerobic exercise. More information is needed on the factors that are responsible for sex differences, including the role of circulating oestrogens in transducing the aerobic exercise training ‘stimulus’.
+
+Health aspects of aerobic interval training in the rehabilitation of the patients with cardiovascular diseases
+
+Number of 
+
+Key takeaways:Aerobic interval training positively impacts VO2 max, functional abilities, Vo2 peak, and functional capacity in the rehabilitation of cardiovascular diseases, especially in the elderly.
+
+Abstract:Purpose: The aim of this study was to review the literature analyzing the effects of aerobic interval training in the rehabilitation of cardiovascular patients.
+Methods: Research data was collected considering the inclusion and exclusion criteria of the research studies 
+Results: The reviewed materials indicate that aerobic interval training has an impact on VO2 max, functional abilities, Vo2 peak and functional capacity in the rehabilitation of cardiovascular diseases, especially in the elderly. The duration of the programme in most studies has a similar time range from 10 to 16 weeks. The programmes that showed the best effects are related to aerobic interval training, from 2 to 3 times per week with moderate (50–60% of VO2 max) or high intensity (80–90% of VO2 max).
+Conclusion: Studies indicate that properly dosed physical activity contributes to a better lifestyle for people with cardiovascular diseases. All 15 studies showed positive effects of aerobic interval training in cardiovascular disease rehabilitation.
+
+Effects of aerobic training and resistance training in reducing cardiovascular disease risk for patients with prediabetes: A multi-center randomized controlled trial.
+
+Number of 
+
+Key takeaways:Moderate aerobic training for 24 months significantly reduces cardiovascular disease risk in prediabetes patients, while resistance training also significantly reduces the risk.
+
+Effects of aerobic, resistance, and combined exercise on metabolic syndrome parameters and cardiovascular risk factors: a systematic review and network meta-analysis.
+
+Number of 
+
+Key takeaways:Combined exercise is the most effective choice for improving metabolic syndrome and cardiovascular risk parameters, while aerobic exercise has the minimum effect.
+
+Abstract:This study examines the effects of aerobic, resistance, and combined exercise on metabolic syndrome parameters and cardiovascular risk factors, to identify the most effective way of improving metabolic syndrome and preventing cardiovascular disease. We searched EMBASE, the Cochrane Library, PubMed, MEDLINE, Ovid, the Chinese Biological Medicine Database (CBM), the Wanfang Database, the China National Knowledge Infrastructure (CNKI) database, and the Chinese Scientific Journal Database (VIP), for randomized controlled trials (RCTs), identifying 15 comparing the effects of aerobic, resistance, and combined exercise on metabolic syndrome parameters and cardiovascular risk factors (e.g., glucose, triglyceride, blood pressure, body mass index, etc.). We assessed the quality of the articles and performed a network meta-analysis with a Bayesian random effects model to synthesize direct and indirect evidence. Combined exercise was most effective at controlling glucose and total triglyceride (TG) levels. Aerobic, resistance, and combined exercise groups achieved significant effects regarding body fat. Aerobic exercise was superior to resistance exercise regarding body mass index (BMI). There was no statistically significant difference in weight, waist circumference (WC), levels of high-density lipoprotein cholesterol (HDL-C), low-density lipoprotein cholesterol (LDL-C), total cholesterol (TC), insulin, systolic blood pressure (SBP), and diastolic blood pressure (DBP) among the exercise groups. Combined exercise was the best exercise scheme for improving weight, WC, DBP, TG, TC, glucose, and insulin levels. Resistance exercise was most effective at ameliorating body fat, LDL-C levels, and SBP. Aerobic exercise was the optimal way of improving BMI and HDL-C levels. This network meta-analysis suggests combined exercise is the most effective choice in improving the metabolic syndrome and cardiovascular risk parameters, whereas aerobic exercise reveals the minimum effect. Further studies should certify the role resistance exercises play in metabolic syndrome and cardiac rehabilitation.
+
+Effects of combined aerobic and resistance training on glycemic control, blood pressure, inflammation, cardiorespiratory fitness and quality of life in patients with type 2 diabetes and overweight/obesity: a systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Combined aerobic and resistance training (CART) significantly improves glycemic control, blood pressure, inflammation, cardiorespiratory fitness, and quality of life in individuals with type 2 diabetes and overweight/obesity.
+
+Abstract:Background Structured aerobic or resistance training alone seems to be a beneficial tool for improving glucose homeostasis, chronic systemic inflammation, resting cardiovascular function, and mental health in people with obesity and type 2 diabetes mellitus (T2DM). The aim of the present study was to synthesize the available data on the effectiveness of combined aerobic and resistance training (CART) on glycemic control, blood pressure, inflammation, cardiorespiratory fitness (CRF), and quality of life (QoL) in overweight and obese individuals with T2DM. Methods A database search was carried out in PubMed, Web of Science, Scopus, Science Direct, Cochrane Library, and Google Scholar from inception up to May 2023. The Cochrane risk of bias tool was used to assess eligible studies, and the GRADE method to evaluate the reliability of evidence. A random-effects model was used, and data were analyzed using standardized mean differences and 95% confidence intervals. The study protocol was registered in the International Prospective Register of Systematic Reviews (ID: CRD42022355612). Results A total of 21,612 studies were retrieved; 20 studies were included, and data were extracted from 1,192 participants (mean age: 57 ± 7 years) who met the eligibility criteria. CART demonstrated significant improvements in body mass index, glycated hemoglobin, systolic and diastolic blood pressure, C-reactive protein, tumor necrosis factor-alpha, interleukin-6, CRF, and QoL compared to ST. These findings highlight the significance of exercise interventions such as CART as essential elements within comprehensive diabetes management strategies, ultimately enhancing overall health outcomes in individuals with T2DM and overweight/obesity.No differences were found in resting heart rate between CART and ST. An uncertain risk of bias and poor quality of evidence were found among the eligible studies. Conclusion These outcomes show clear evidence considering the positive role of CART in inducing beneficial changes in various cardiometabolic and mental health-related indicators in patients with T2DM and concurrent overweight/obesity. More studies with robust methodological design are warranted to examine the dose-response relationship, training parameters configuration, and mechanisms behind these positive adaptations.
+
+The effects of muscle strengthening training combined with aerobic training versus aerobic training alone on cardiovascular disease risk factors in coronary artery disease: a systematic review
+
+Number of 
+
+Key takeaways:Adding muscle strengthening training to aerobic training improves body composition more effectively than aerobic training alone, but other cardiovascular disease risk factors remain similar.
+
+Abstract:Aerobic training reduces the risk of secondary cardiovascular events and mortality in patients with coronary artery disease (CAD). While the long-term effects of aerobic interval training (AIT) are less clear, AIT has been shown to elicit similar or superior improvements in risk factors associated with secondary cardiovascular events compared to continuous aerobic training. Current guidelines recommend performing muscle strengthening training in addition to aerobic training for enhanced cardiovascular care in patients with CAD. However, it remains unclear whether muscle strengthening training combined with aerobic training (hereafter referred to as combined training) has additional effects on cardiovascular disease risk factors in patients with CAD. It is also unknown if muscle strengthening training combined with AIT has greater effects on cardiovascular disease risk factors compared to AIT alone in patients with CAD.
+ 
+ 
+ 
+ To systematically review the effects of combined training compared to aerobic training alone on cardiovascular disease risk factors in patients with CAD. The secondary purpose was to examine the effects muscle strengthening training combined with AIT on cardiovascular disease risk factors compared to AIT alone.
+ 
+ 
+ 
+ MEDLINE, Embase, CINAHL, SportDiscus, Scopus, and trial registries were searched for randomized trials comparing the effects of ≥4 weeks of combined training and aerobic training alone on at least one of the following outcomes: cardiorespiratory fitness, body mass, body mass index (BMI), percent body fat, waist-to-hip ratio, blood pressure, high-density lipoprotein cholesterol (HDL-C), low-density lipoprotein cholesterol (LDL-C), total cholesterol, fasting glucose, glycated hemoglobin A1C (A1C), insulin concentration or sensitivity, in patients with CAD.
+ 
+ 
+ 
+ Of 9336 studies screened, 16 studies (N=710 patients with CAD) were included. Combined training was more effective in increasing fat-free mass (mean difference = 0.8 kg, 95% confidence interval : 0.4 to 1.1 kg, p<0.001) and reducing percent body fat (MD = -2.2 %, 95% CI: -3.6 to -0.8 %, p=0.002) measured by dual-energy x-ray absorptiometry compared to aerobic training alone. Four of these 16 studies examined the effects of muscle strengthening training combined with AIT compared to AIT alone. There were no differences between the groups. Sensitivity analyses on studies with matched aerobic training volume between combined training and aerobic training alone (i.e., excluding studies with reduced aerobic training in the combined training group to add muscle strengthening training) showed consistent findings.
+ 
+ 
+ 
+ Adding muscle strengthening training to aerobic training improved the body composition of patients with CAD more than aerobic training alone. However, changes in the other cardiovascular disease risk factors were similar between combined and aerobic training alone.
+
+Cardiovascular and autonomic modulation by the central nervous system after aerobic exercise training.
+
+Number of 
+
+Key takeaways:Aerobic exercise training promotes cardiovascular adaptations and reduces sympathetic nervous system activity, potentially contributing to the beneficial effects of physical activity and reducing the risk of cardiovascular diseases associated with a sedentary lifestyle.
+
+Abstract:The autonomic nervous system plays a key role in maintaining homeostasis under normal and pathological conditions. The sympathetic tone, particularly for the cardiovascular system, is generated by sympathetic discharges originating in specific areas of the brainstem. Aerobic exercise training promotes several cardiovascular adjustments that are influenced by the central areas involved in the output of the autonomic nervous system. In this review, we emphasize the studies that investigate aerobic exercise training protocols to identify the cardiovascular adaptations that may be the result of central nervous system plasticity due to chronic exercise. The focus of our study is on some groups of neurons involved in sympathetic regulation. They include the nucleus tractus solitarii, caudal ventrolateral medulla and the rostral ventrolateral medulla that maintain and regulate the cardiac and vascular autonomic tonus. We also discuss studies that demonstrate the involvement of supramedullary areas in exercise training modulation, with emphasis on the paraventricular nucleus of the hypothalamus, an important area of integration for autonomic and neuroendocrine responses. The results of these studies suggest that the beneficial effects of physical activity may be due, at least in part, to reductions in sympathetic nervous system activity. Conversely, with the recent association of physical inactivity with chronic disease, these data may also suggest that increases in sympathetic nervous system activity contribute to the increased incidence of cardiovascular diseases associated with a sedentary lifestyle.
+
+Effects of aerobic or resistance exercise training on cardiovascular autonomic function of subjects with type 2 diabetes: A pilot study.
+
+Number of 
+
+Key takeaways:Both aerobic and resistance training improve cardiovascular autonomic control in patients with type 2 diabetes, but some differences between the two training modalities may exist.
+
+Physical Exercise and Cardiac Repair: The Potential Role of Nitric Oxide in Boosting Stem Cell Regenerative Biology
+
+Number of 
+
+Key takeaways:Aerobic exercise improves heart function and reduces cardiovascular risk by promoting cardiac regeneration and enhancing stem cell activation and differentiation through increased nitric oxide release.
+
+Abstract:Over the years strong evidence has been accumulated showing that aerobic physical exercise exerts beneficial effects on the prevention and reduction of cardiovascular risk. Exercise in healthy subjects fosters physiological remodeling of the adult heart. Concurrently, physical training can significantly slow-down or even reverse the maladaptive pathologic cardiac remodeling in cardiac diseases, improving heart function. The underlying cellular and molecular mechanisms of the beneficial effects of physical exercise on the heart are still a subject of intensive study. Aerobic activity increases cardiovascular nitric oxide (NO) released mainly through nitric oxidase synthase 3 activity, promoting endothelium-dependent vasodilation, reducing vascular resistance, and lowering blood pressure. On the reverse, an imbalance between increasing free radical production and decreased NO generation characterizes pathologic remodeling, which has been termed the “nitroso-redox imbalance”. Besides these classical evidence on the role of NO in cardiac physiology and pathology, accumulating data show that NO regulate different aspects of stem cell biology, including survival, proliferation, migration, differentiation, and secretion of pro-regenerative factors. Concurrently, it has been shown that physical exercise generates physiological remodeling while antagonizes pathologic remodeling also by fostering cardiac regeneration, including new cardiomyocyte formation. This review is therefore focused on the possible link between physical exercise, NO, and stem cell biology in the cardiac regenerative/reparative response to physiological or pathological load. Cellular and molecular mechanisms that generate an exercise-induced cardioprotective phenotype are discussed in regards with myocardial repair and regeneration. Aerobic training can benefit cells implicated in cardiovascular homeostasis and response to damage by NO-mediated pathways that protect stem cells in the hostile environment, enhance their activation and differentiation and, in turn, translate to more efficient myocardial tissue regeneration. Moreover, stem cell preconditioning by and/or local potentiation of NO signaling can be envisioned as promising approaches to improve the post-transplantation stem cell survival and the efficacy of cardiac stem cell therapy.
+
+Effects of muscle strength training combined with aerobic training versus aerobic training alone on cardiovascular disease risk indicators in patients with coronary artery disease: a systematic review and meta-analysis of randomised clinical trials
+
+Number of 
+
+Key takeaways:Combined training, including muscle strength training, improves cardiorespiratory fitness and reduces body fat in patients with coronary artery disease more effectively than aerobic training alone.
+
+Abstract:Objective To compare the effects of aerobic training combined with muscle strength training (hereafter referred to as combined training) to aerobic training alone on cardiovascular disease risk indicators in patients with coronary artery disease (CAD). Design Systematic review with meta-analysis. Data 
+
+Effect of aerobic and resistance exercise training on inflammation, endothelial function and ambulatory blood pressure in middle-aged hypertensive patients.
+
+Number of 
+
+Key takeaways:Both aerobic and resistance training improve blood pressure and cardiovascular health in middle-aged hypertensive patients, but aerobic training is more effective in reducing inflammation.
+
+Abstract:OBJECTIVE
+The current randomized controlled trial tested the hypothesis that both aerobic training and dynamic resistance training will improve inflammation, endothelial function and 24-h ambulatory blood pressure (ABP) in middle-aged adults with hypertension, but aerobic training would be more effective.
+
+METHODS
+Forty-two hypertensive patients on at least one antihypertensive medication (19 men/23 women; 30-59 years of age) were randomly assigned to 12 weeks of supervised aerobic training (n = 15), resistance training (n = 15) or a nonexercise control (n = 12) group. Inflammation, endothelial function, 24-h ABP and related measures were evaluated at pre and postintervention.
+
+RESULTS
+We found that aerobic training and resistance training were well tolerated. Both aerobic training and resistance training reduced daytime systolic ABP (-7.2 ± 7.9 and -4.4 ± 5.8 mmHg; P < 0.05) and 24-h systolic ABP (-5.6 ± 6.2 and -3.2 ± 6.4 mmHg; P < 0.05). aerobic training and resistance training both improved brachial artery flow-mediated dilation by 1.7 ± 2.8 and 1.4 ± 2.6%, respectively (7.59 ± 3.36 vs. 9.26 ± 2.93 and 7.24 ± 3.18 vs. 8.58 ± 2.37; pre vs. post P < 0.05). However, only aerobic training decreased markers of inflammation (C-reactive protein, monocyte chemoattractant protein-1, vascular cell adhesion molecule-1 and lectin-like oxidized LDL receptor-1) and endothelin-1 and increased nitrite and nitrate levels (P < 0.05).
+
+CONCLUSION
+Healthcare providers should continue to emphasize aerobic training for hypertension management given the established role of nitric oxide, endothelin-1 and chronic low-level inflammation in the pathogenesis of cardiovascular disease. However, our study demonstrates that resistance training should also be encouraged for middle-aged hypertensive patients. Our results also suggest that even if patients are on antihypertensive medications, regular aerobic training and resistance training are beneficial for blood pressure control and cardiovascular disease risk reduction.
+
+Estimating the Effect of Aerobic Exercise Training on Novel Lipid Biomarkers: A Systematic Review and Multivariate Meta-Analysis of Randomized Controlled Trials
+
+Number of 
+
+Key takeaways:Aerobic exercise training positively impacts atherogenic lipid and apolipoprotein ratios, apolipoproteins, and lipoprotein sub-fractions, potentially lowering cardiovascular disease risk.
+
+Abstract:Abstract Background Aerobic exercise training (AET) prescribed as lipid management treatment positively affects the standard lipid profile and reduces cardiovascular disease (CVD) risk. Apolipoproteins, lipid and apolipoprotein ratios, and lipoprotein sub-fractions may more effectively predict CVD risk than the standard lipid profile but an AET response in these biomarkers has not been established. Objectives We conducted a quantitative systematic review of randomised controlled trials (RCTs) to (1) determine the effects of AET on lipoprotein sub-fractions, apolipoproteins and relevant ratios; and (2) identify study or intervention covariates associated with change in these biomarkers. Methods We searched PubMed, EMBASE, all Web of Science and EBSCO health and medical online databases from inception to 31 December 2021. We included published RCTs of adult humans with ≥ 10 per group of participants; an AET intervention duration ≥ 12 weeks of at least moderate intensity (&gt; 40% maximum oxygen consumption); and reporting pre/post measurements. Non-sedentary subjects, or those with chronic disease other than Metabolic Syndrome factors, or pregnant/lactating, as well as trials testing diet/medications, or resistance/isometric/unconventional training interventions, were excluded. Results Fifty-seven RCTs totalling 3194 participants were analysed. Multivariate meta-analysis showed AET significantly raised antiatherogenic apolipoproteins and lipoprotein sub-fractions (mmol/L mean difference (MD) 0.047 (95% confidence interval (CI) 0.011, 0.082), P = .01); lowered atherogenic apoliproteins and lipoprotein sub-fractions (mmol/L MD − 0.08 (95% CI − 0.161, 0.0003), P = .05); and improved atherogenic lipid ratios (MD − 0.201 (95% CI − 0.291, − 0.111), P &lt; .0001). Multivariate meta-regression showed intervention variables contributed to change in lipid, sub-fraction, and apoliprotein ratios. Conclusion Aerobic exercise training positively impacts atherogenic lipid and apolipoprotein ratios, alipoproteins, and lipoprotein sub-fractions; and antiatherogenic apolipoproteins and lipoprotein sub-fractions. Cardiovascular disease risk predicted by these biomarkers may be lowered when AET is prescribed as treatment or prevention. PROSPERO ID CRD42020151925.
+
+The Role of Exercise in Management of Mental Health Disorders: An Integrative Review.
+
+Number of 
+
+Key takeaways:Exercise shows potential in managing mental health disorders like depression and anxiety, but its effectiveness remains limited due to individual differences, sustained engagement, and disagreement on therapeutic mechanisms.
+
+Abstract:A large and growing body of evidence suggests that physical activity (PA) may hold therapeutic promise in the management of mental health disorders. Most evidence linking PA to mental health outcomes has focused on the effects of aerobic exercise training on depression, although a growing body of work supports the efficacy of both aerobic and resistance exercise paradigms in the treatment of anxiety and post-traumatic stress disorder. Despite abundant evidence linking PA and mental health, use of exercise training as a mental health treatment remains limited due to three important 
+
+The impact of aerobics on mental health and stress levels: A visualization analysis of the CiteSpace map
+
+Number of 
+
+Key takeaways:Aerobics significantly improves mental health and reduces stress levels, as evidenced by improved mental health inventory scores and reduced stress levels in a questionnaire.
+
+Abstract:This study aims to integrate research in the field of aerobics and mental health through the visualization analysis method of the CiteSpace map, to clarify the impact of aerobics on mental health and stress levels. Firstly, based on the literature method, pieces of literature related to aerobics and mental health are searched and collected. Secondly, the visualization analysis method of the CiteSpace map is employed to summarize and analyze the contents of the literature, involving statistical analysis of the annual number of publications, analysis of author characteristics, and analysis of publishing institution characteristics. In addition, keyword co-occurrence analysis and keyword cluster analysis are also conducted in related research fields. Among them, the Log-Likelihood Ratio is used in keyword cluster analysis. Finally, the results are analyzed using the visualization analysis method of the CiteSpace map and the statistics-based comprehensive results. The results demonstrate that in the recent 20 years, the average annual number of articles in related fields exceeds 190. The high-yield authors are distributed in economically developed areas, and the cooperation among authors is scattered. In the keyword clustering results, a total of 77 cluster labels are obtained. The Q value of the clustering module is 0.89, and the average clustering profile silhouette (S) value is 0.92, indicating that the clustering structure is significant and the results are reasonable. The aerobics cluster contains the most closely related keywords, covering mental health and stress levels. Data analysis based on existing studies reveals that aerobics has a significant impact on mental health and stress levels. Individuals participating in aerobics show obvious improvement in mental health inventory (MHI) scores (t(100) = 4.32, p<0.05). Individuals participating in aerobics present a remarkable reduction in the questionnaire evaluation of stress levels (t(100) = -3.91, p<0.05). This study’s results support aerobics’ positive effects on mental health and stress levels.
+
+Enhancing Mental Health, Well-Being and Active Lifestyles of University Students by Means of Physical Activity and Exercise Research Programs
+
+Number of 
+
+Key takeaways:Physical activity and exercise interventions, particularly low- to moderate-intensity aerobic exercises, can improve mental health and well-being in university students.
+
+Abstract:Mental disorders (e.g., depression) and sedentary behavior are increasing, also among emerging adults. One particular target group of emerging adults with high sitting times and vulnerability to mental disorders are university students. In particular, anxiety and depressive symptoms as well as stress symptoms are very common among university students. The present manuscript discusses whether physical activity and exercise interventions can help to promote the mental health of emerging adults such as university students. The manuscript will summarize current scientific evidence and based on this evidence, introduce an university-based scientific research project that investigates if physical activity, exercise interventions and acute bouts of exercise of low- to moderate intensity can buffer perceived stress, alleviate mental health symptoms and strengthen well-being (psychologically and physiologically) among university students by positively influencing depressive and anxiety symptoms, perceived stress and emotion perception, body awareness and subjective well-being including overall quality of life. The research project, its concept, multimethod approach, and first results from available studies are discussed in relation to current scientific evidence, health care needs and future developments. The results from the studies conducted within the research project so far and that are briefly summarized in this manuscript suggest that physical activity, mental health and well-being are positively related, also in university students as an important group of emerging adults. The results further suggest that exercise interventions comprising aerobic exercises of low- to moderate intensity may work best to improve mental health (alleviate depressive symptoms and perceived stress) among university students after a few weeks of intervention. In addition, acute bouts of certain types of exercises (yoga in particular) seem to be particularly effective in changing perception of bodily signals, cardiac activity and emotion processing immediately after the exercise. The results underscore the importance of systematic investigations of the combined examination of psychological and physiological factors that promote an active lifestyle and that strengthen mental health and well-being (psychologically and physiologically) among emerging adults such as university students.
+
+Aerobic training effect on mental health and biological indicators in Post-COVID-19 patients
+
+Number of 
+
+Key takeaways:A short-term aerobic training program at 40-60% intensity improves mental health indicators and quality of life in post-COVID-19 patients.
+
+Abstract:Introduction. One of the aspects of health most affected in patients infected by COVID-19 was mental health. Leading organizations worldwide have recommended physical activity as one of the main actions. Objective. To analyze the effect of a short-term aerobic training program on biological and mental health and quality of life indicators in post-Covid-19 patients. Methods. Symptomatology of depression, anxiety, stress, quality of life, vital signs, physical fitness and body composition were measured in 10 post COVID-19 patients. An aerobic physical exercise program was applied at 40-60% intensity, five days a week, 50 minutes per session for four weeks. Results. A 30% decrease in depression symptomatology, 58% in stress and 44% in anxiety was found during the intervention period (p<0.001). Regarding the perception of quality of life, the psychological area was the one that presented a positive effect during the intervention (p=0.035). An increase in leg strength (p=0.018) and a decrease in body fat (p=0.005) were found during the intervention. Conclusion. A short-term physical exercise program shows benefits in mental health indicators in post-COVID-19 patients.
+Key Words: Physical activity; Mental health; Quality of life, COVID-19; Fitness.
+
+Effect of Aerobic, Resistance, and Combined Exercise Training on Depressive Symptoms, Quality of Life, and Muscle Strength in Healthy Older Adults: A Systematic Review and Meta-Analysis of Randomized Controlled Trials
+
+Number of 
+
+Key takeaways:Exercise interventions can improve depressive symptoms, quality of life, muscle strength, and body mass in healthy older adults.
+
+Abstract:Background Aerobic training, resistance training, or combined training are interventions that can be modified to suit the needs of aged people. Objective This meta-analysis aimed to investigate the impact of exercise training on depression symptoms, quality of life, and muscle strength in healthy people aged 60 or more. Data 
+
+43 THE INFLUENCE OF PHYSICAL EXERCISE ON THE MENTAL AND EMOTIONAL REGULATION ABILITY OF COLLEGE STUDENTS
+
+Number of 
+
+Key takeaways:Regular aerobic exercise significantly enhances college students' emotion regulation ability and mental health by regulating nervous system function, promoting positive emotional expression, and reducing psychological stress and negative emotions.
+
+Abstract:The high-pressure environment of modern society has led to increasingly serious mental health problems among college students, such as anxiety, depression, and mood swings, which have become important factors affecting their academic performance and quality of life. Sport is widely recognized as an economical and easy-to-implement mental health intervention, and studies have shown that sport not only enhances mental toughness by increasing physical fitness, but also regulates psychological states by releasing stress hormones and neurotransmitters that promote positive emotions. However, the mechanisms by which different exercise modes and intensities affect emotional regulation have not been fully clarified. The study aims to investigate the effects of aerobic exercise on college students’ emotion regulation and mental health, and to provide a scientific basis for mental health interventions in colleges and universities.
+ 
+ 
+ 
+ The study was conducted on 200 college students of a university with an age range of 18 to 25 years old, with a balanced gender ratio, who volunteered to participate in the study and had no history of major physical or mental illnesses. The participants were randomized into experimental and control groups, 100 in each group. The experimental group received an eight-week physical activity intervention consisting of three 60-minute sessions of aerobic exercise per week, including running, calisthenics, and basketball, while the control group maintained their study and lifestyle habits and did not participate in any systematic physical activity intervention. Before and after the intervention, the Emotion Regulation Questionnaire (ERQ) and the General Health Questionnaire (GHQ) were used to measure the emotion regulation ability and mental health of the two groups of students. Data were analyzed for intervention effects by paired t-tests, with P<0.05 as the criterion for significance.
+ 
+ 
+ 
+ The results of the experiment showed that the physical education and sport intervention had a significant effect on both emotional regulation and mental health of the university students. The ERQ scores of the experimental group increased from 14.3±3.2 before the intervention to 22.7±4.1 after the intervention, while the ERQ scores of the control group only increased from 14.5±3.4 to 15.2±3.5, which was not a significant difference. The results of mental health assessment showed that the GHQ score of the experimental group decreased from 18.5±6.3 to 12.1±5.7, which was significantly better than that of the control group. The experimental group showed a significant decrease in the indicators of psychological stress and negative emotions (P<0.01), demonstrating a stronger ability to regulate emotions.
+ 
+ 
+ 
+ The results of the study show that physical exercise can significantly enhance the emotion regulation ability and mental health of college students. Regular aerobic exercise helps college students cope with academic pressure and social challenges by regulating nervous system function and promoting positive emotional expression, effectively relieving psychological stress and reducing negative emotional responses. At the same time, group exercise programs also enhance participants’ sense of social support by providing opportunities for social interaction, which further improves their psychological adaptability.
+
+Effect of Aerobic Exercise on Mental Health in Older Adults: A Meta-Analysis of Randomized Controlled Trials
+
+Number of 
+
+Key takeaways:Aerobic exercise improves mental health in adults aged 60 and older, with low-frequency, long-term, and regular exercise being most effective.
+
+Abstract:Introduction: The recommendation of exercise programs in the senior population may benefit inactive and sedentary individuals and improve and help to treat specific health conditions. The purpose of this review is to summarize the 
+
+Regular Physical Activity, Short-Term Exercise, Mental Health, and Well-Being Among University Students: The Results of an Online and a Laboratory Study
+
+Number of 
+
+Key takeaways:Regular physical activity and short-term aerobic exercise interventions can improve mental health and well-being in university students.
+
+Abstract:The health benefits of regular physical activity and aerobic exercise are undisputed in the literature. The present series of pilot studies had two major objectives: (a) examine mental health, well-being, and regular physical activity of university students and (b) explore the potential health benefits of short-term aerobic exercise on university students in an online and a laboratory study. Mental health and well-being were measured before (Time 1, T1) and after (Time 2, T2) a 6 week (online study) and 2 week (laboratory study) low- to moderate-intensity aerobic exercise intervention. Mental health and well-being were assessed using standardized self-report measures of depression, anxiety, positive and negative affect, perceived stress and coping strategies, body dissatisfaction, and quality of life. The effects of the aerobic exercise were compared to a cognitive non-exercise control condition (online study), motor coordination exercise (laboratory study), and a waiting list (online and laboratory). A total of 185 university students were recruited from German universities at T1. Further, 74 (women: n = 67) students completed the 6-week intervention. Similarly, 32 (women: n = 30) participants completed the 2 week intervention (laboratory study). At T1, 36.6% of the students (women and men) reported experiencing depressive symptoms. 41.83% of them (women and men) had high levels of state anxiety. All the students reported experiencing stress (e.g., due to uncertainty related to factors such as their finances, job, and social relationships). At T1, regular physical activity was negatively correlated with self-reported depression, anxiety, and perceived psychosomatic stress and positively correlated with quality of life and positive affect. Among women, cardiovascular fitness (operationalized as resting heart rate variability) was negatively correlated with self-reported anxiety (state) and depression at T1 (laboratory study). The 6 week aerobic exercise intervention resulted in significant improvements in self-reported depression, overall perceived stress, and perceived stress due to uncertainty. The present results confirm that there is a relationship between regular physical activity, cardiovascular fitness, mental health, and well-being among university students. They support the hypothesis that short-term aerobic exercise interventions can act as buffer against depression and perceived stress in university students after 6 weeks of aerobic exercise of low to moderate intensity.
+
+Adherence to aerobic and muscle-strengthening components of the physical activity guidelines and mental health.
+
+Number of 
+
+Key takeaways:Adherence to both aerobic and muscle-strengthening physical activity guidelines is positively associated with mental health in college students.
+
+Abstract:Despite a clear distinction between aerobic and muscle strengthening (MS) components in the physical activity guidelines, public health surveillance has largely focused only on aerobic components, limiting the reach of epidemiological research on the physical activity guidelines. Hence, this study investigated the association between adherence to both components (i.e. aerobic and muscle-strengthening) of the World Health Organization's physical activity guidelines and mental health among the college student population. A cross-sectional study was conducted among a nationally representative sample of Irish college students (7088 participants, M age: 23.17 years; 50.9% female). Participants were categorized as meeting both components of the guidelines (n = 41%), only the aerobic component (n = 25.3%) or the MS component (n = 7.3%), and neither (n = 26.4%). Group membership effects on mental health was determined through mixed univariate ANOVAs, with a Bonferroni correction for post hoc analyses to assess multiple comparisons. Results revealed that meeting both components of the guidelines was significantly (all p < 0.01) associated with greater self-reported happiness, body image and general health, and less mental ill-being, relative to all other respective groupings. Meeting aerobic or MS components in isolation was significantly (p < 0.05) associated with better happiness, general health and body image compared to not meeting either component. To conclude, 59% of the college-aged population are insufficiently active, and adherence to both guideline components is positively associated with mental health. Co-produced, evidence-based, physical activity interventions are needed in students and could contribute to mental health promotion.
+
+Effects of human concurrent aerobic and resistance training on cognitive health: A systematic review with meta-analysis
+
+Number of 
+
+Key takeaways:Concurrent aerobic and resistance training significantly enhances cognitive health, particularly in older adults and clinical populations.
+
+Adolescent mental health interventions: a narrative review of the positive effects of physical activity and implementation strategies
+
+Number of 
+
+Key takeaways:Physical activity, including aerobic exercises, strength training, team sports, and mind-body practices, can significantly improve adolescent mental health.
+
+Abstract:Introduction The psychological well-being of adolescents is a global concern due to increasing societal pressures and mental health issues. Physical activity is known to enhance physical health and has potential benefits for mental health, including reducing symptoms of anxiety and depression, boosting self-esteem, and improving social skills. This narrative review explores how physical activity can serve as an intervention to help adolescents manage psychological stress and prevent mental health issues. Methods An extensive literature search was conducted using databases such as PubMed, PsycINFO, Web of Science, and Scopus. Keywords included “adolescent mental health,” “physical activity,” “psychological intervention,” “types of exercise,” “anxiety,” “depression,” “self-esteem,” “social skills,” and “emotional regulation.” Studies were included based on relevance, peer-reviewed status, and involvement of adolescent populations. Data were extracted and analyzed qualitatively, focusing on the psychological impacts of different types of physical activity. Sixty one articles were eventually included. Results and conclusion The review identified multiple studies highlighting the positive effects of various physical activities on adolescent mental health. Aerobic exercises were found to improve mood and cognitive function, strength training reduced depressive symptoms and increased self-efficacy, team sports enhanced social skills and a sense of community, and mind–body practices like yoga and tai chi improved stress management and emotional regulation. The findings suggest that physical activity can play a significant role in promoting adolescent mental health. Implementation strategies in school and community settings, including integrating physical activity into school curricula, offering diverse activity options, training professional instructors, encouraging family and community involvement, and regular monitoring and evaluation, are recommended. Future research should address limitations such as sample diversity and long-term effects. This narrative review underscores the importance of physical activity in enhancing adolescent mental health. Effective implementation strategies and multi-sector collaboration are essential for maximizing the benefits of physical activity interventions.
+
+The effects of aerobic exercise training on mental health and self-esteem of type 2 diabetes mellitus patients
+
+Number of 
+
+Key takeaways:Aerobic exercise training significantly improves self-esteem and mental health in type 2 diabetes patients, but does not significantly affect depression or social functioning.
+
+Abstract:Physical and mental health are very closely tied and either of them can exert a significant effect on the other. The aim of the present study was to examine the effects of aerobic exercise training on mental health and self-esteem of type 2 diabetes mellitus patients. 60 participants, aged 40 to 55 years, with blood sugar ranging between 150 to 250 mg/dL participated in the study. They were randomly divided into two groups of 30 patients. The inter-ventional group exercised for twelve weeks, three sessions per week, lasting from 45 to 60 minutes, followed by endurance training on treadmill. Training’s intensity was considered equal to 60-70% of maximum oxygen consumption. According to the results of the study, 12-week aerobic exercise training had significant effects on self-esteem (P=0.001), and mental health (P=0.020), sub-scales of physical symptoms (P=0.001), and anxiety and insomnia (P=0.044). But it had no significant effects on the sub-scales of depression (P=0.078) and social functioning (P=0.207). Regular aerobic exercise training as an effective strategy plays an important role in improving self-esteem and mental health and also promoting life quality among diabetic patients.
+
+Physical exercise, nutrition, and mental health: A detailed look at the psychological and physiological benefits
+
+Number of 
+
+Key takeaways:Physical exercise, such as aerobic exercise and strength training, positively impacts mental health by improving mood, reducing anxiety, and depressive symptoms, and promoting psychological well-being.
+
+Abstract:Mental health is one of the essential pillars for human well-being, especially in the face of the growing number of mental disorders, such as depression, anxiety, and stress, which affect people in different age groups. In this context, physical exercise has been widely studied for its positive effects on mental health, proving to be an important tool in both the prevention and management of these disorders. This study reviews the main scientific evidence that points to the benefits of physical exercise, highlighting the most effective modalities, such as aerobic exercise and strength training. In addition, research explores the biological mechanisms underlying these benefits, such as the release of neurotransmitters that improve mood and reduce anxiety and depressive symptoms. The review also discusses how exercise can contribute to the promotion of psychological well-being, improving quality of life, emotional balance, and the ability to cope with stress, as well as providing greater neuroplasticity and protecting against neurodegenerative diseases. Based on the studies found, it is proposed that physical exercise should be considered an accessible and effective practice in the context of interventions to improve mental health.
+
+Alchemic Sweating for Bliss of Soul Serenity
+
+Number of 
+
+Key takeaways:Aerobic exercise has a healing effect on mental health issues, improving memory, learning, and executive function, while promoting body-mind connection.
+
+Abstract:Research and Results: Aerobic exercise reveals human spiritual and physical perseverance in a fast-paced culture. Embodied cognition suggests that aerobic exercise may increase awareness and brain regeneration by affecting our thoughts and sensations. Regular aerobic exercise grows the hippocampus and prefrontal cortex, which affect memory, learning, and executive function, improving mental health and cognitive performance. Body-mind connection changes thoughts and emotions, making it essential to mental wellness. The research emphasizes cardiovascular activity in mental health recovery and reminds readers that they are their own well-being, encouraging a more inclusive approach. Researchers should continue to study aerobic exercise's complex effects on mental health. Aims and Objectives: The study aims to confirm aerobic exercise's mental health benefits. Methods and Tools: The 
+
+Effects of Aerobic Exercise Training on Daily Psychological Processes in Family Caregivers: Secondary Analyses of a Randomized Controlled Trial
+
+Number of 
+
+Key takeaways:A 24-week aerobic training program significantly improved daily psychological processes and reduced negative affect and rumination in family caregivers of patients with dementia.
+
+Abstract:The aim of this study was to examine the effects of a 24-week aerobic exercise training program on daily psychological processes and occurrence of stressors in a group of previously physically underactive family caregivers of patients with dementia. As part of the Fitness, Aging, and STress (FAST) randomized controlled trial, 68 participants (F = 55; M = 13) were randomized to either a staff-supported, 24-week aerobic training (N = 34) program or waitlist control (N = 34) group. Approximately 2 weeks prior to randomization, ecological momentary assessments were completed 6 times per day for 7 days and again in the 24th week of the trial to assess exposure to levels of momentary positive affect, negative affect, rumination, control, and the occurrence of stressors throughout the day. These secondary analyses with data from 56 of the participants revealed that the intervention group showed a significantly larger increase in daily positive affect and perceptions of control compared to control participants over the course of the intervention. A treatment effect was also found for negative affect and rumination, whereby both decreased to a greater extent in the intervention group when compared with participants in the control condition. The 24-week aerobic training program had significant impacts on daily psychological processes in family caregivers, deepening our understanding of the robust effects of exercise on mental health.
+
+Effects of Aerobics Exercise on Body Mass Index (BMI) and Mental Health Among Obese College Students
+
+Number of 
+
+Key takeaways:Aerobic exercise significantly improves mental health and reduces anxiety and depression symptoms in obese college students, while enhancing self-esteem and self-confidence.
+
+Abstract:Background: Aerobic exercise plays an influential role in improving mental health. Aerobics, as a form of efficient aerobic exercise, is suitable for various individuals and promotes the mental health of college students. Objectives: The purpose of this study was to explore whether aerobic exercise has a positive effect on the mental health and Body Mass Index (BMI) of obese college students. Methods: Sixty obese college students with a BMI ≥ 28 were selected and divided into two groups. Each group consisted of 30 students, 15 boys and 15 girls. The experimental group received aerobic exercise training three times a week for 12 weeks, while the control group received prescribed aerobic training. Data before and after the experiment were recorded. Results: The BMI of the experimental group decreased from 30.19 ± 0.73 before the experiment to 27.32 ± 0.84 after the experiment, with a change range of 2.86 ± 0.11. The experimental group showed significant differences before and after the experiment (P < 0.01). The BMI of the control group decreased from 30.16 ± 0.73 before the experiment to 28.62 ± 0.89 after the experiment, with a change range of 1.54 ± 0.84. The control group also showed significant differences before and after the experiment (P < 0.05). The experimental group had a better effect. The 12 dimensions of the mental health test changed in both the experimental group and the control group, and the results were statistically significant (P < 0.05), with the experimental group showing better improvement. Conclusions: The statistically significant impact of aerobics on the mental health of obese college students holds practical significance. Notably, the observed reduction in anxiety and depression symptoms, coupled with notable enhancements in self-esteem and self-confidence, underscores the tangible benefits of incorporating aerobics into the lifestyle of this demographic.
+
+Effects of aerobic exercise on cognitive function in adults with major depressive disorder: A systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:Aerobic exercise significantly improves overall cognitive function and the sub-domains of memory and executive function in adults with major depressive disorder.
+
+Be smart, exercise your heart: exercise effects on brain and cognition
+
+Number of 
+
+Key takeaways:Aerobic physical activity positively impacts cognition and brain function, potentially leading to increased physical and mental health throughout life.
+
+The Impact of Mental Aerobics Training on Older Adults
+
+Number of 
+
+Key takeaways:Mental Aerobics training effectively improves older adults' affectivity, self-efficacy, and self-rated health, with varying benefits depending on their education level.
+
+Abstract:Mental Aerobics (MA) is a cognitively oriented intervention designed to improve older adults’ perceptions of their cognitive ability as well as positively impact their performance. Forty-seven community-residing older adults (M age = 67.39, SD = 5.75) were randomly assigned to either a treatment (n = 24) or a waiting list control (n = 23) group. Participants in both treatment and control conditions completed measures of depression, self-rated health, cognitive functioning, and cognitive self-efficacy. Findings support the conclusion that MA can be an effective intervention in improving older adults’ affectivity, everyday task self-efficacy, and self-rated health. The impact of MA on measures of generalized fluid ability (Gf) and generalized crystallized ability (Gc) skills was moderated by level of education. The subsequent provision of MA training to controls minimized the performance differences between the treatment and control conditions, as well as the moderating effect of level of education. These findings suggest that MA can be effectively used to enhance older adults’ views of their skills, critical to efforts to maintain cognitive functioning into later life, although some older persons may benefit to a greater extent than others.
+
+The Positive Effect of Four-Week Combined Aerobic–Resistance Training on Body Composition and Adipokine Levels in Obese Females
+
+Number of 
+
+Key takeaways:A four-week combined aerobic-resistance training program significantly increased adiponectin levels and decreased leptin levels in obese adolescent females.
+
+Abstract:Obesity is a metabolic disease that is caused by a lack of physical activity and is associated with an increased risk of chronic inflammation. A total of 40 obese adolescent females with an average age of 21.93 ± 1.35 years and average body mass index (BMI) of 30.81 ± 3.54 kg/m2 were enrolled in this study, randomized, and divided into four groups, i.e., control (CTL; n = 10), moderate intensity aerobic training (MAT; n = 10), moderate intensity resistance training (MRT; n = 10), and moderate intensity combined aerobic–resistance training (MCT; n = 10). The enzyme-linked immunosorbent assay (ELISA) kits method was used to analyze the adiponectin and leptin levels between pre-intervention and post-intervention. Statistical analysis was conducted using a paired sample t-test, while correlation analysis between variables used the Pearson product–moment correlation test. Research data showed that MAT, MRT, and MCT significantly increased adiponectin levels and decreased leptin levels compared to the CTL (p ≤ 0.05). The results of the correlation analysis of delta (∆) data showed that an increase in adiponectin levels was significantly negatively correlated with a decrease in body weight (BW) (r = −0.671, p ≤ 0.001), BMI (r = −0.665, p ≤ 0.001), and fat mass (FM) (r = −0.694, p ≤ 0.001) and positively correlated with an increase in skeletal muscle mass (SMM) (r = 0.693, p ≤ 0.001). Whereas, a decrease in leptin levels was significantly positively correlated with a decrease in BW (r = 0.744, p ≤ 0.001), BMI (r = 0.744, p ≤ 0.001), and FM (r = 0.718, p ≤ 0.001) and negatively correlated with an increase in SMM (r = −0.743, p ≤ 0.001). In summary, it can be concluded that our data show that adiponectin levels increased and leptin levels decreased after the intervention of aerobic, resistance, and combined aerobic–resistance training.
+
+The effects of exercise training on body composition in postmenopausal women: a systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Exercise training effectively improves body composition in postmenopausal women, with aerobic training promoting fat loss and resistance training promoting muscle gain.
+
+Abstract:Introduction We conducted a systematic review and meta-analysis to investigate the effect of exercise training on body composition outcomes in postmenopausal women. Methods PubMed, Web of Science, CINAHL, and Medline were searched to identify the randomized controlled trials which evaluated effect of exercise training versus control in postmenopausal women. Standardized mean differences (SMD), weighted mean differences (WMD) and 95% confidence intervals (95% CIs) were calculated using random effects model. Results One hundred and one studies involving 5,697 postmenopausal women were included in the meta-analysis. Results indicated that exercise training effectively increased muscle mass/ volume, muscle and fiber cross-sectional area and fat-free mass, and decreased fat mass, body fat percentage, waist circumference and visceral fat. Furthermore, subgroup analyses results revealed that aerobic and combined training had greater beneficial effects on fat mass outcomes, whereas resistance and combined training had greater beneficial effects on muscle mass outcomes. Discussion Overall, our results revealed that exercise training is effective for improving body composition in postmenopausal women. To be specific, aerobic training is effective on fat loss, whereas resistance training is effective on muscle gain. However, combination of aerobic and resistance trainings may be considered a viable strategy to improve body composition in postmenopausal women. Systematic review registration identifier CRD42021283425.
+
+120-OR: Muscle Lipid Turnover Predicts Aerobic Training Effects on Body Composition
+
+Number of 
+
+Key takeaways:High pre-training muscle lipid turnover predicts the effects of aerobic training on body composition, increasing VO2max, fat-free mass, insulin sensitivity, and hepatic insulin sensitivity.
+
+Abstract:Aerobic exercise utilizes muscle lipid. We hypothesize that high pre-training muscle lipid turnover, suggesting high muscle lipid utilization, predicts the effects of aerobic training. Obese, insulin-resistant subjects underwent a 16 week of supervised, weight-stable, aerobic training (n=16). Body composition (DXA), fitness level (VO2max) and insulin sensitivity (hyperinsulinemic-euglycemic clamp) were performed at baseline and end-training. Two muscle biopsies (Bx) were acquired during a pulse-chase experiment using palmitate and palmitate infusions (6 h each), overlapping by 1 hour. Bx#1 captured muscle lipid incorporation and was performed during the infusion overlap palmitate infusion, 1 hour after starting palmitate. Bx#2 captured muscle lipid breakdown and was performed at study conclusion palmitate infusion, 6 hours after stopping palmitate]. As expected, aerobic training increased VO2max, fat-free mass, insulin sensitivity and hepatic insulin sensitivity while decreasing fat mass and visceral fat (Table 1). Baseline measures, especially muscle palmitate incorporation and breakdown, best predicted training effects on body composition. Muscle lipid turnover, along with other baseline measures, predicts aerobic training effects on body composition.
+ 
+ 
+ 
+ L.S.Chow: Research Support; Dexcom, Inc. A.Bantle: None. A.C.Alvear: None. D.G.Mashek: None. M.D.Jensen: Other Relationship; Novo Nordisk, Elsevier.
+ 
+ 
+ 
+ National Institutes of Health (R01DK098203)
+
+Effects of aerobic exercise combined with resistance training on body composition and metabolic health in children and adolescents with overweight or obesity: systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Aerobic exercise combined with resistance training significantly improves body composition and metabolic health in children and adolescents with overweight or obesity.
+
+Abstract:Background To systematically review the effects of aerobic exercise and resistance training on Metabolic Health in children and adolescents with overweight/obesity. Methods Employing a retrieval strategy that combines subject terms and free terms, searches were conducted in the CNKI, WanFangData, VIP, PubMed, Web of Science, Embase, and Cochrane Library databases up to October 31, 2023. Results A total of 29 studies involving 2,195 subjects were included. The combination of aerobic and resistance training significantly reduces body composition and metabolic health in children and adolescents with overweight or obesity, as evidenced by changes in various parameters (BMI, WC, FM, BF%, VO2max, TG, TC, HDL-C, LDL-C, HOMA-IR, FPG, INS). However, there were no significant differences observed in hs-CRP. Subgroup analyses further showed that changes in intervention measurement had a significant effect on the effectiveness of the intervention. Conclusion Aerobic exercise combined with resistance training has a positive impact on the physical health of children and adolescents with overweight/obesity. The recommended exercise prescription is at least three sessions of more than 60 min per week for 12 weeks or more for better health benefits.
+
+Effects of Functional Strength Training Combined with Aerobic Training on Body Composition, Physical Fitness, and Movement Quality in Obese Adolescents
+
+Number of 
+
+Key takeaways:Functional strength training combined with aerobic training is more effective than traditional resistance training combined with aerobic training in improving body composition, physical fitness, and movement quality in obese adolescents.
+
+Abstract:This study aimed to compare the effects of 12 weeks of functional strength training combined with aerobic training (TG) and traditional resistance training combined with aerobic training (CG) on the body composition, physical fitness, and movement quality of obese adolescents. Forty participants were randomly assigned to either the TG group (n = 20) or the CG group (n = 20). Each group underwent training five times per week, lasting 120 min each time, over a total period of 12 weeks. All participants followed a strict dietary program. Anthropometric parameters, body composition, physical fitness, and movement quality were evaluated at baseline and after intervention. A two-way repeated measures ANOVA observed a significant interaction between time and group for body mass (p = 0.043), body fat percentage (p = 0.045), body mass index (p = 0.025), neck circumference (p = 0.01), chest circumference (p = 0.027), left-hand grip strength (p = 0.043), right-hand grip strength (p = 0.048), standing broad jump (p = 0.044), and total Functional Movement Screen score (p = 0.003), and the improvement was greater for TG in comparison to CG. TG was found to be more effective than CG in enhancing body composition, physical fitness, and movement quality in obese adolescents.
+
+Combined Aerobic and Resistance Training Improves Body Composition, Alters Cardiometabolic Risk, and Ameliorates Cancer-Related Indicators in Breast Cancer Patients and Survivors with Overweight/Obesity: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+
+Number of 
+
+Key takeaways:Combined aerobic and resistance training improves body composition, reduces cardiometabolic risk, and enhances cancer-related indicators in breast cancer patients and survivors with overweight/obesity.
+
+Abstract:Breast cancer survivors with obesity are at a high risk of cancer recurrence, comorbidity, and mortality. This review aims to systematically evaluate the effects of combined aerobic and resistance training (CART) on body composition, lipid homeostasis, inflammation, adipokines, cancer-related fatigue, sleep, and quality of life in breast cancer patients and survivors with overweight/obesity. An electronic search was conducted in PubMed, Web of Science, Scopus, Science Direct, Cochrane, and Google Scholar databases from inception up to January 8, 2024. Randomized controlled trials (RCTs) meeting the inclusion criteria were selected for the analysis. The Cochrane risk of bias tool was used to assess eligible studies, and the GRADE method to evaluate the quality of evidence. A random-effects model was used, and data were analyzed using mean (MD) and standardized mean differences (SMD) for continuous variables with 95% confidence intervals (CI). We assessed the data for risk of bias, heterogeneity, sensitivity, reporting bias, and quality of evidence. A total of 17 randomized controlled trials were included in the systematic review involving 1,148 female patients and survivors (mean age: 54.0 ± 3.4 years). The primary outcomes showed significant improvements in body mass index (SMD -0.57 kg/m2, p = 0.04), body fat (SMD -0.50%, p = 0.02), fat mass (SMD -0.63 kg, p = 0.04), hip circumference (MD -3.14 cm, p = 0.02), and fat-free mass (SMD 1.03 kg, p < 0.001). The secondary outcomes indicated significant increases in high-density lipoprotein cholesterol (MD -0.05 mmol/L, p = 0.008), natural killer cells (SMD 0.42%, p = 0.04), reductions in triglycerides (MD -81.90 mg/dL, p < 0.01), total cholesterol (SMD -0.95 mmol/L, p < 0.01), tumor necrosis factor α (SMD -0.89 pg/mL, p = 0.03), and leptin (SMD -0.63 ng/mL, p = 0.03). Also, beneficial alterations were found in cancer-related fatigue (SMD -0.98, p = 0.03), sleep (SMD -1.17, p < 0.001), and quality of life (SMD 2.94, p = 0.02) scores. There was very low to low confidence in the estimated effect of most of the outcomes. The present findings reveal that CART could be considered an adjunct therapy in supporting the conventional clinical approach observed following exercise. However, further high-quality research is needed to evaluate whether CART would be a valuable intervention to lower aggressive pharmacologic use in breast cancer patients with overweight/obesity.
+
+EFFECTS OF COMBINED TRAINING ON BODY COMPOSITION, MUSCLE STRENGTH AND AEROBIC POWER IN WOMEN: A SYSTEMATIC REVIEW AND META-ANALYSIS
+
+Number of 
+
+Key takeaways:Combined Training programs promote increases in aerobic power and muscular strength, and significantly improve body composition in healthy women, regardless of the protocol used.
+
+Abstract:This systematic review and meta-analysis verified the effects of different Combined Training (CT) programs on body composition, aerobic power and muscle strength performance in healthy women. A bibliographic search was performed in the following electronic databases: Medline, PubMed, Lilacs, Plataforma Capes and EMBASE from the oldest registry until November 2023. 14 eligible articles were found that met the following criteria: original randomized articles and non-randomized comparatives; experimental CT studies with at least four weeks of intervention and with healthy adult women (>18 years); studies with the Control Group (CG) that restricted the practice of physical exercises; that analyzed at least one of the outcomes related to muscle strength, body composition (fat mass and lean mass) and aerobic power (VO2). We compared CT versus GC applying a random effects meta-analysis model. We estimated the standardized mean difference (SMD) for each group (CT and GC) comparing pre-post results. According to the results of the meta-analysis, all the variables analyzed were favorable to the CT compared to the CG, but Body Mass (SMD=0.05;CI: -0,02-0,13) and Aerobic Power (SMD=1.34; CI: -0,04-2,72) were not significant. Fat Mass (SMD=0.22; CI:
+0.09-0.35), muscle strength (SMD= 0.83; CI: 0.59-1.41), and muscle mass (SMD=0.34; CI: 0.22-0.47) showed significant changes. These results suggest that the training models promoted increases in aerobic power and muscular strength, and significantly improved body composition compared to control group, regardless of the protocol used.
+
+Effect of Low- and Moderate-Intensity Aerobic Training on Body Composition Cardiorespiratory Functions, Biochemical Risk Factors and Adipokines in Morbid Obesity
+
+Number of 
+
+Key takeaways:Moderate-intensity aerobic training can improve cardiorespiratory capacity and lipid profile, while low-intensity aerobic training can improve body composition and serum lipids in severely obese patients.
+
+Abstract:Background: Obesity poses an enormous public health and economic burden worldwide. Visceral fat accumulation is associated with various metabolic and cardiovascular consequences, resulting in an increased prevalence of atherosclerotic conditions. We aimed to examine the impact of low-and moderate-intensity aerobic training on several anthropometric and cardiorespiratory parameters and markers of atherosclerosis, including inflammation, serum levels of lipoproteins and adipokines of extremely obese patients in poor condition. Methods: Forty severely obese patients were recruited and randomized into two groups, Group 1 and Group 2, for a six-week inpatient study. Group 1 received moderate-intensity (40–60% heart rate reserve) and Group 2 received low-intensity (30–39% of heart rate reserve) aerobic training combined with resistance training. The patients’ cardiorespiratory functions were assessed by ergospirometry. Anthropometric data were recorded, body composition was analyzed and functional tests were performed. We also investigated serum lipids and high-sensitive C-reactive protein levels and calculated the homeostatic model assessment-insulin resistance indices and adipokine levels as predictive biomarkers. Results: Functional abilities and some biochemical parameters, such as homeostatic model assessment-insulin resistance, serum lipids, apolipoprotein A and apolipoprotein-B improved in both groups in a positive direction. However, cardiorespiratory capacity and the serum levels of high-sensitive C-reactive protein and Lipocalin-2 decreased, while irisin and paraoxonase 1 increased significantly, but only in Group 1. Conclusions: Six weeks of aerobic training, regardless of its intensity, could induce favorable changes in functional tests, body composition and serum lipids, even in severely obese, extremely unconditioned patients in both groups. However, moderate-intensity aerobic training should at least increase cardiorespiratory capacity and yield a better lipid profile oxidative status and inflammation profile.
+
+Effects of physical training on anthropometrics, physical and physiological capacities in individuals with obesity: A systematic review.
+
+Number of 
+
+Key takeaways:Both aerobic and anaerobic training significantly improve body composition, physical fitness, and VO2max in individuals with obesity, with further research needed to determine optimal training combinations.
+
+Abstract:Increasing the amount of physical activity is an important strategy for weight loss. This systematic review summarizes recent findings on the effects of physical training on anthropometric characteristics, physical performances and physiological capacities in individuals with overweight and obesity. A systematic literature search strategy was conducted from inception until June 2019 using four electronic databases that identified 2,708 records. After screening for titles, abstracts and full texts, 116 studies were included in our final analysis. Both aerobic (e.g., endurance training) and anaerobic training (e.g., high-intensity training, resistance training) improved body composition and physical fitness indicators in adults, adolescents and children with obesity (effect size: 0.08 < d < 2.67, trivial to very large). This systematic review suggests that both low- and high-intensity training significantly reduced body weight and fat mass while increasing fat-free mass in individuals with obesity (effect size: 0.04 <d <3.2, trivial to very large). A significant increase in VO2max also occurs in individuals with obesity in response to aerobic training or high-intensity interval training (effect size: 0.13 < d < 6.24, trivial to very large). Further studies are needed to define the optimal combination of training intensity and duration needed to produce the most efficacious results in individuals with obesity.
+
+Effect of Aerobic Training on Body Composition among Sedentary Women of Manipur
+
+Number of 
+
+Key takeaways:Aerobic training effectively reduces body fat and positively alters body composition in sedentary women of Manipur after 8 weeks of training.
+
+Abstract:Physical fitness was an important aspect for leading a complete life. Women, in general, have lesser involvement on a physical fitness regime. To maintain the youthfulness of body, regular physical activity and exercise was a key ingredient. This study aims to assess the effect of aerobic training on body composition among sedentary women of Manipur. The study made random inclusion of subjects who volunteer to participate in the training programme from Lairikyengbam Leikai, Imphal East District Manipur. Totally 30 subjects of age 46.5±4.9 years who volunteer to participate in the training were selected and minimize as control group and experimental group with N=15 each. Medical examination was conducted prior to training under registered practitioner. The training intensity was determining by using Karvonen formula. The training was given for 8 weeks regularly for 3 days alternately to determine the changes brought by training on body fat and fat free mass. The measurement was done before training as baseline score and after completion of 8 weeks as final score using Bio Electrical Impedance Analysis (BIA) method, TANITA TBF300. The paired t test was used to analyze the data at a 0.05 level of significance for pre-and post-difference comparisons, followed by an independent t test to compare the mean difference between groups using SPSS software20. It shows statistically significant decrease in body fat (P<0.05) while fat free mass shows statistically not significant (P>0.05). It also shows that fat mass has a significant difference between the experimental and control groups while fat free mass shows no significant difference between groups. The result indicates that aerobic training can be an effective program for body fat reduction and positively alter one's body composition.
+
+The Effects of Concurrent Training Versus Aerobic or Resistance Training Alone on Body Composition in Middle-Aged and Older Adults: A Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:Concurrent training (CT) is as effective as aerobic training for decreasing body fat and as effective as resistance training for increasing muscle mass in middle-aged and older adults.
+
+Abstract:Introduction and Aim: The beneficial effects of aerobic training (AT) on preventing excess fat mass, and of resistance training (RT) on skeletal muscle adaptation, are well established. However, the effects of concurrent training (CT) compared to AT or RT alone on body composition in middle-aged and older adults are less understood, and therefore, the focus of this meta-analysis. Methods: Three databases, including PubMed, Web of Science, and Scopus, were searched from inception to March 2024. Randomized trials were included if they compared CT versus either AT or RT, and included body composition measures such as fat mass, body fat percentage, waist circumference, visceral fat mass, lean body mass (LBM), muscle mass/volume, or muscle or muscle fiber cross-sectional area (CSA), in middle-aged (50 to <65 years) and older adults (≥65 years). Weighted mean differences (WMD) or standardized mean differences (SMD) and 95% confidence intervals (CIs) were calculated using random effects models. Results: A total of 53 studies involving 2873 participants were included. Overall, CT increased body weight and LBM significantly more, trending toward significantly larger increases in muscle mass and CSA, compared with AT alone. However, there were no significant differences between CT and RT alone, for body weight, BMI, body fat percentage, fat mass, waist circumference, or visceral fat mass. Conclusions: CT is as effective as AT for decreasing body fat measures and as effective as RT for increasing muscle mass in middle-aged and older adults, and it should be recommended accordingly.
+
+Comparative efficacy of exercise training modes on systemic metabolic health in adults with overweight and obesity: a network meta-analysis of randomized controlled trials
+
+Number of 
+
+Key takeaways:Aerobic exercise is optimal for reducing body weight and BMI, while HIIT improves body composition, cardiorespiratory fitness, and metabolic abnormalities in adults with overweight and obesity.
+
+Abstract:Objective This network meta-analysis (NMA) was conducted to compare and rank the effects of training interventions including aerobic exercise (AE), resistance training (RT), combined aerobic and resistance training (CT), and high-intensity interval training (HIIT) on vital metabolic indicators in adults with overweight and obesity. Methods PubMed, Cochrane, Embase, and Web of Science were searched from 1990 to February 2023. Articles were included if they described randomized controlled trials (RCTs) examining the effects of exercise training on anthropometry parameters, lipid profiles, glucose metabolism, blood pressure, and cardiorespiratory fitness in adults with overweight and obesity. Weighted mean difference with 95% CI was calculated. Results A total of 28 studies with 1,620 patients were included. Results revealed that AE exerts best effects on weight loss (−2.35 ) and body mass index (−0.9 ), while HIIT is the most effective in reducing waist circumference (−5.93 ), percentage body fat (−3.93 ), serum triglycerides (−20.55 ), and fasting blood glucose (−14.31 ) and improving VO2 max (7.41 ). However, no significant benefit was observed in terms of total cholesterol and blood pressure. Conclusions AE is the optimal exercise type for reducing body weight and BMI, while HIIT exerts the most beneficial effects on improving body composition, cardiorespiratory fitness, and metabolic abnormalities in adults with overweight and obesity. Systematic review registration identifier CRD42023444322.
+
+Does 12-Week Aerobics Training Influence Body Composition in Middle-Aged Women?
+
+Number of 
+
+Key takeaways:12-week aerobics training improves body composition in middle-aged women, while a lack of physical activity can lead to overweight and obesity.
+
+Abstract:Abstract Introduction. It is very important to determine body composition, as it plays a significant role in the formation of many vital functions of the human. The purpose of this research was to assess the effect of 12-week aerobics training on body composition in middle-aged women. Material and methods. Thirteen women aged 35-50 who did not practice any sport actively took part in 12-week aerobics training. Body weight and height were measured, body mass index (BMI) and waist/hip ratio (WHR) were calculated. Body composition parameters: total body water (TBW), extracellular water (ECW) and intracellular water (ICW), fat mass (FM), free fat mass (FFM) muscle mass (MM), and basal metabolic rate (BMR) were measured using BIA method. Results. The 12-week aerobics training elicited increases in ICW, FFM, MM, and BMR and a decrease in hip circumference. Twelve weeks without exercise (control group, n = 10) caused an increase in body mass, BMI and hip circumference. No statistically significant changes were recorded in body composition parameters in the control group. Conclusions. The lack of any physical activity shows that the maintenance of that status can cause overweight followed by obesity.
+
+Effects of high intensity aerobic training and circuit training on body composition in fitness men
+
+Number of 
+
+Key takeaways:High-intensity aerobic training and circuit training both improve body composition in physically active men, with only circuit training showing a slightly increased lean mass.
+
+Abstract:The aim of this study was to compare the effects of four weeks of high intensity aerobic training and circuit training on body composition in physically active men. The two groups were monitored with the use of Polar H7 heart rate sensors, connected with the Polar Team heart rate detection system (Polar electro Oy, Kempele, Finland), while for the evaluation of body composition the Tanita Analyser MC-780MA was used (Tanita, Tokyo, Japan). The results obtained showed that the aerobic training group (AT) showed significant differences in BMI (Table 2, Δ=0.2), body mass (Table 2, Δ=0.9), fat mass (Table 2, Δ=0.9), and fat mass percentage (Table 2, Δ=0.9), except in the lean mass (Table 2, Δ=0.0); the circuit training group (CT) also showed a significant reduction in all body composition parameters (Table 2), including lean mass (Table 2, Δ=0.3). There were no significant differences in body composition parameters between the AT and CT groups (Table 2) after the training program, except for lean mass, which increased significantly only in the CT group (Table 2, Δ=0.3). In conclusion, the present study suggests that high-intensity aerobic training or high-intensity circuit training produces similar benefits in improving the body composition in physically active men, even when their diet is not controlled.
+
+Effect of Exercise Training on Body Composition and Inflammatory Cytokine Levels in Overweight and Obese Individuals: A Systematic Review and Network Meta-Analysis
+
+Number of 
+
+Key takeaways:Combined aerobic and resistance training (CT) is the most effective exercise modality for improving body composition and reducing inflammation in overweight and obese individuals.
+
+Abstract:Objective This study aimed to compare and rank the effectiveness of aerobic exercise (AE), resistance training (RT), combined aerobic and resistance training (CT), and high-intensity interval training (HIIT) on body composition and inflammatory cytokine levels in overweight and obese individuals by using network meta-analysis (NMA). Methods We searched the PubMed, Cochrane, Embase, Web of Science, and EBSCO databases to identify randomized controlled trials investigating the effects of exercise training on inflammatory cytokines in overweight and obese patients. The retrieval period was from inception to November 2021. Two reviewers independently screened the retrieved articles, extracted the pertinent data, and assessed the risk of bias of the included studies; then, they used Stata 16.0 and Review Manager 5.3 to perform an NMA. Results A total of 38 studies involving 1317 patients were included in this study. The results of the NMA indicated that AE had the greatest effect on weight loss (SUCRA=78.3; SMD=−0.51, 95% CI: −0.70, −0.33); CT had the greatest effect on reducing body mass index (SUCRA=70.7; SMD=−0.46, 95% CI: −0.81, −0.10), waist circumference (SUCRA=93.4; SMD=−1.86, 95% CI: −2.80, −0.93), percentage body fat (SUCRA=79.6; SMD=−1.38, 95% CI: −2.29, −0.48), interleukin-6 level (SUCRA=86.4; SMD=−1.98, 95% CI: −3.87, −0.09), and tumor necrosis factor-α level (SUCRA=79.4; SMD=−2.08, 95% CI: −3.75, −0.42); AE (SMD=0.51, 95% CI: −1.68, 2.69), RT (SMD=0.15, 95% CI: −3.01, 3.32), CT (SMD=1.78, 95% CI: −1.35, 4.92), and HIIT (SMD=2.29, 95% CI: −1.27, 5.86) did not significantly increase the adiponectin level. Conclusion The current results suggest that CT is the best exercise modality for improving body composition and inflammatory status in overweight and obese individuals. More rigorous randomized control trials are needed for further validation. Systematic Review Registration identifier CRD42022303165.
+
+The beneficial effects of aerobic and concurrent training on metabolic profile and body composition after detraining: a 1-year follow-up in postmenopausal women
+
+Number of 
+
+Key takeaways:Aerobic or concurrent training improves body composition and metabolic profile in postmenopausal women, but after 6 months, leg lean mass returns to pre-training levels in cardiorespiratory fitness.
+
+Examination the Effects of Aerobic and Resistance Exercise on Body Compositions of Sedentary Male Individuals
+
+Number of 
+
+Key takeaways:Regular aerobic and resistance training positively affect body composition in sedentary male individuals, decreasing body weight, fat mass, and increasing lean body mass.
+
+Abstract:The present study was conducted to determine the effects of 8-week aerobic and resistance training on body composition values of sedentary male individuals. A total of 30 healthy sedentary male subjects volunteered to participate in the study and were divided into two groups randomly: aerobic training group (n = 15, age = 34.0 ± 5.22 years), and resistance training group (n = 15, age = 34.2 ± 6.12). Body heights of the participants were measured and their body compositions body weight (BW), body mass index (BMI), basal metabolic rate (BMR), body fat percentage (BFP), body fat mass (BFM), lean body mass (LBM) were measured with bioelectric impedance analysis (BIA) device, and then evaluated. Their resting heart rates were determined, and maximum heart rates were calculated with the Karvonen formula. The Brzycki Equation was used to predict one-repetition maximum strength. There were statistically significant decreases in BW, BMI, BFP and BFM values of the aerobic training group (p<0.05). There was no significant difference between pre- and post-test values of BMR and LBM (p>0.05). BW and BMI values of the resistance training group did not show a significant difference in pre-test and post-test (p>0.05). Significant decreases were found in BFP and BFM values (p<0.05). The increase in BMR and LBM values were found to be statistically significant (p<0.05). There were significant differences between BW, BMI, BMR, BFM and LBM values in the comparison of pre- and post-test values of the aerobic and resistance training groups (p<0.05). However, there was no statistically significant difference in BFP (p>0.05). In conclusion, it was found out that regular aerobic and resistance training caused positive effects on body composition of sedentary male individuals.
+
+The Influence of Aerobic Fasting on the Body Composition of Trained Individuals: a Mini Review
+
+Number of 
+
+Key takeaways:Fasting aerobic training can positively influence body composition and be an alternative to reduce adipose tissue in trained individuals.
+
+Abstract:Aerobic training has been considered as a good strategy to improve physical conditioning, body composition and health promotion. The present study sought to analyze the influence of fasting aerobic training on the body composition of trained people. For this, a bibliographic review of the literature was carried out based on the survey of theoretical references already analyzed and published by written means such as books, theses and monographs and electronic bases such as Scielo and PubMed, seeking a clear analysis of the results requested in the body composition of individuals trained to apply fasting aerobics. In this work, it is possible to understand how fast aerobic training can influence body composition and be an alternative to reduce adipose tissue.
+
+Effect of age and training on aerobic capacity and body composition of master athletes.
+
+Number of 
+
+Key takeaways:Aerobic capacity in master athletes remains unchanged when training is maintained, but body composition changes may be related to aging and/or training type.
+
+Abstract:Maximum oxygen uptake (VO2max) and body composition have been shown to deteriorate with age. How much of the decline is attributable to aging and how much is affected by reduced physical activity is not known. The purpose of this investigation was to determine the aerobic capacity and body composition of 24 master track athletes and to evaluate the relationship to age and maintenance of training over a 10-yr period. The subjects (50-82 yr of age) were retested after a 10.1-yr follow-up (T2). All continued their aerobic training, but only 11 were still highly competitive (COMP) and continued to train at the same intensity. The other 13 athletes studied became noncompetitive (post-COMP) and reduced their training intensity. The results showed the COMP group to maintain its VO2max and maximum O2 pulse while the post-COMP group showed a significant decline (54.2-53.3 vs. 52.5-45.9 ml X kg-1 X min-1; 20.7-20.8 vs. 22.4-20.0 ml/beat from test one (T1) to T2 for the COMP vs. post-COMP groups, respectively). Maximum heart rate declined 7 beats/min for both groups. Body composition showed no difference between groups from T1 to T2. For both groups body weight declined slightly (70.0-68.9 kg), percent fat increased significantly (13.1-15.1%), and fat-free weight decreased significantly (61.0-59.0 kg). Thus, when training was maintained, aerobic capacity remained unchanged over the follow-up period. Body composition changed for both groups and may have been related to aging and/or the type of training performed.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

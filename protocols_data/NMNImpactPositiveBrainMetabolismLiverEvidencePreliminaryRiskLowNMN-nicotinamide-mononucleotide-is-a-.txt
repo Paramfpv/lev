@@ -1,0 +1,426 @@
+PROTOCOL: NMNImpact:PositiveBrainMetabolismLiverEvidence:PreliminaryRisk:LowNMN (nicotinamide mononucleotide) is a natural precursor of NAD+, a key coenzyme in cellular energy processes. NMN supplementation may increase NAD+ levels, support glucose and lipid metabolism, improve insulin sensitivity, and promote neuronal protection and brain function. The strongest effects are observed in individuals with metabolic disorders and in aging models, while long-term effects and safety in humans require further research.
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: No confirmed harmful interactions, but caution is advised when using other NAD+ boosting substances
+DESCRIPTION: NMN (nicotinamide mononucleotide) is a natural precursor of NAD+, a key coenzyme in cellular energy processes. NMN supplementation may increase NAD+ levels, support glucose and lipid metabolism, improve insulin sensitivity, and promote neuronal protection and brain function. The strongest effects are observed in individuals with metabolic disorders and in aging models, while long-term effects and safety in humans require further research.
+
+CONTENT SECTIONS:
+
+Metabolic support, brain health, and potential anti-aging effects
+
+NMN (nicotinamide mononucleotide) is a natural precursor of NAD+, a key coenzyme in cellular energy processes. NMN supplementation may increase NAD+ levels, support glucose and lipid metabolism, improve insulin sensitivity, and promote neuronal protection and brain function. The strongest effects are observed in individuals with metabolic disorders and in aging models, while long-term effects and safety in humans require further research.
+
+Level of evidence:Preliminary
+
+Once absorbed, NMN is rapidly converted into NAD+, which participates in numerous metabolic reactions, DNA repair, mitochondrial protection, and gene expression regulation through sirtuin activation. Increasing NAD+ levels may improve cellular energy production, support tissue regeneration, protect neurons, and benefit cognitive function and metabolic health.
+
+NMN is generally well tolerated in clinical and preclinical studies. The risk of adverse effects is low, but the long-term safety of supplementation in humans has not yet been fully confirmed.
+
+NMN supplementation is not recommended in certain situations or risk groups where safety has not been confirmed or there may be potential interaction with disease or treatment.
+
+Most commonly used doses in studies: 250–1250 mg per day, usually in one or two divided doses
+
+Powder, capsules, tablets
+
+Initial metabolic effects may be seen after several weeks; NAD+ marker changes observed within days
+
+Typically taken in the morning or with meals
+
+What not to combine with
+
+No confirmed harmful interactions, but caution is advised when using other NAD+ boosting substances
+
+Start with lower doses and monitor your body’s response, especially in case of gastrointestinal sensitivity
+
+For long-term supplementation, periodic testing of liver enzymes and metabolic markers is recommended
+
+Dosage should be adjusted based on age, body weight, lifestyle, and current health conditions
+
+Enhance NMN effectiveness through a healthy diet, physical activity, and avoiding excessive alcohol intake
+
+Use only products from reputable manufacturers with confirmed NMN purity and stability
+
+NMN (nicotinamide mononucleotide) supports brain health mainly by increasing NAD+ levels, protecting neurons, and improving cerebral vascular function. Most evidence comes from animal studies; clinical data in humans are limited.
+
+Main benefits of NMN for the brain
+
+Limitations and safety
+
+NMN (nicotinamide mononucleotide) has beneficial effects on metabolism, especially through improved insulin sensitivity, regulation of glucose and lipid metabolism, and support for mitochondrial function. The strongest evidence comes from studies on individuals with metabolic disorders.
+
+NMN’s effects on metabolism in humans
+
+Summary of selected NMN effects on metabolism
+
+NMN (nicotinamide mononucleotide) may benefit liver function by reducing steatosis, protecting against oxidative damage, and supporting regeneration—especially in older individuals and liver disease models.
+
+Key NMN benefits for the liver
+
+Limitations and safety
+
+Scientific data and sources
+
+Level of evidencePreliminary
+
+Number of included studies:47
+
+Final comment:The current state of research on NMN includes both preclinical studies in animals and several randomized clinical trials in humans. Most of the positive effects of NMN—such as improved cognitive function, neuroprotection, metabolic support, and liver health—have been demonstrated in animal models. Human clinical trials are limited in number and duration and focus mainly on specific populations (e.g., individuals with insulin resistance or older adults). Promising results include improved insulin sensitivity and increased NAD+ levels, but long-term, multicenter studies with large samples are lacking to confirm the efficacy and safety of NMN in the general population. There is also a lack of clear clinical evidence confirming anti-aging, cognitive, or liver-protective effects in the general population. Therefore, the level of evidence is classified as preliminary—indicating potential effectiveness, but requiring further extensive clinical research in humans.
+
+Nicotinamide mononucleotide inhibits post-ischemic NAD+ degradation and dramatically ameliorates brain damage following global cerebral ischemia
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) at a proper dosage significantly protects against ischemic brain damage and improves neurological outcome in mice.
+
+Nicotinamide mononucleotide (NMN) supplementation rescues cerebromicrovascular endothelial function and neurovascular coupling responses and improves cognitive function in aged mice
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) supplementation improves cognitive function and neurovascular coupling responses in aged mice, potentially benefiting those at risk for vascular cognitive impairment.
+
+Nicotinamide mononucleotide (NMN) ameliorated Nonylphenol-induced learning and memory impairment in rats via the central 5-HT system and the NAD+/SIRT1/MAO-A pathway.
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) at 125 mg/kg doses improves nonylphenol-induced learning and memory impairment in rats by activating the central 5-HT system and the NAD+/SIRT1/MAO-A pathway in the brain.
+
+Therapeutic Effect of Nicotinamide Mononucleotide for Hypoxic–Ischemic Brain Injury in Neonatal Mice
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) treatment provides neuroprotection and improves early developmental behavior and motor and memory function in neonatal mice with hypoxic-ischemic brain injury.
+
+Abstract:A clinical challenge remains in the treatment of hypoxic–ischemic brain injury in newborns. Nicotinamide adenine dinucleotide (NAD+) has beneficial effects in animal models of adult stroke. Here, we aimed to understand the short- and long-term neuroprotective effects of NAD+-promoting substance nicotinamide mononucleotide (NMN) in a well-established brain injury model in neonatal mice. Postnatal day (PND) 9 male and female mice were subjected to cerebral hypoxia–ischemia and treated with saline or NMN (50 mg/kg) immediately after hypoxia–ischemia. At different time points after hypoxia–ischemia, hippocampal NAD+, caspase-3 activity, protein expression of SIRT1, SIRT6, release of high mobility group box-1 (HMGB1), long-term neuropathological outcome, short-term developmental behavior, and long-term motor and memory function were evaluated. Neonatal hypoxia–ischemia reduced NAD+ and SIRT6 levels, but not SIRT1, in the injured hippocampus, while HMGB1 release was significantly increased. NMN treatment normalized hippocampal NAD+ and SIRT6 levels, while caspase-3 activity and HMGB1 release were significantly reduced. NMN alleviated tissue loss in the long-term and improved early developmental behavior, as well as motor and memory function. This study shows that NMN treatment provides neuroprotection in a clinically relevant neonatal animal model of hypoxia–ischemia in mice suggesting as a possible novel treatment for neonatal brain injury. Summary Statement Neonatal hypoxia–ischemia reduces nicotinamide adenine dinucleotide (NAD+) and SIRT6 levels in the injured hippocampus. Hippocampal high mobility group box-1 (HMGB1) release is significantly increased after neonatal hypoxia–ischemia. Nicotinamide mononucleotide (NMN) treatment normalizes hippocampal NAD+ and SIRT6 levels, with significant decrease in caspase-3 activity and HMGB1 release. NMN improves early developmental behavior, as well as motor and memory function. Graphical Abstract This is a visual representation of the abstract.
+
+Nicotinamide mononucleotides alleviated neurological impairment via anti-neuroinflammation in traumatic brain injury
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotides (NMN) effectively alleviate neurological impairment in traumatic brain injury by reducing inflammation, potentially through TLR2/4-NF-B signaling.
+
+Abstract:Traumatic brain injury (TBI) is one of the main factors of death and disability in adults with a high incidence worldwide. Nervous system injury, as the most common and serious secondary injury after TBI, determines the prognosis of TBI patients. NAD+ has been confirmed to have neuroprotective effects in neurodegenerative diseases, but its role in TBI remains to be explored. In our study, nicotinamide mononucleotides (NMN), a direct precursor of NAD+, was used to explore the specific role of NAD+ in rats with TBI. Our results showed that NMN administration markedly attenuated histological damages, neuronal death, brain edema, and improved neurological and cognitive deficits in TBI rats. Moreover, NMN treatment significantly suppressed activated astrocytes and microglia after TBI, and further inhibited the expressions of inflammatory factor. Besides, RNA sequencing was used to access the differently expressed genes (DEGs) and their enriched (Kyoto Encyclopedia of Genes and Genomes) KEGG pathways between Sham, TBI, and TBI+NMN. We found that 1589 genes were significantly changed in TBI and 792 genes were reversed by NMN administration. For example, inflammatory factor CCL2, toll like receptors TLR2 and TLR4, proinflammatory cytokines IL-6, IL-11 and IL1rn which were activated after TBI and were decreased by NMN treatment. GO analysis also demonstrated that inflammatory response was the most significant biological process reversed by NMN treatment. Moreover, the reversed DEGs were typically enriched in NF-Kappa B signaling pathway, Jak-STAT signaling pathway and TNF signaling pathway. Taken together, our data showed that NMN alleviated neurological impairment via anti-neuroinflammation in traumatic brain injury and the mechanisms may involve TLR2/4-NF-κB signaling.
+
+Nicotinamide mononucleotide protects against β-amyloid oligomer-induced cognitive impairment and neuronal death
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) can restore cognitive function in Alzheimer's disease model rats by improving neuron survival, enhancing energy metabolism, and reducing reactive oxygen species accumulation.
+
+Multi-targeted Effect of Nicotinamide Mononucleotide on Brain Bioenergetic Metabolism
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) shows promise as a therapeutic approach for neuroprotection due to its multi-targeted effect on brain bioenergetic metabolism.
+
+Abstract:Dysfunctions in NAD^+ metabolism are associated with neurodegenerative diseases, acute brain injury, diabetes, and aging. Loss of NAD^+ levels results in impairment of mitochondria function, which leads to failure of essential metabolic processes. Strategies to replenish depleted NAD^+ pools can offer significant improvements of pathologic states. NAD^+ levels are maintained by two opposing enzymatic reactions, one is the consumption of NAD^+ while the other is the re-synthesis of NAD^+. Inhibition of NAD^+ degrading enzymes, poly-ADP-ribose polymerase 1 (PARP1) and ectoenzyme CD38, following brain ischemic insult can provide neuroprotection. Preservation of NAD^+ pools by administration of NAD^+ precursors, such as nicotinamide (Nam) or nicotinamide mononucleotide (NMN), also offers neuroprotection. However, NMN treatment demonstrates to be a promising candidate as a therapeutic approach due to its multi-targeted effect acting as PARP1 and CD38 inhibitor, sirtuins activator, mitochondrial fission inhibitor, and NAD^+ supplement. Many neurodegenerative diseases or acute brain injury activate several cellular death pathways requiring a treatment strategy that will target these mechanisms. Since NMN demonstrated the ability to exert its effect on several cellular metabolic pathways involved in brain pathophysiology it seems to be one of the most promising candidates to be used for successful neuroprotection.
+
+A biocompatible polydopamine platform for targeted delivery of nicotinamide mononucleotide and boosting NAD+ levels in the brain.
+
+Number of 
+
+Key takeaways:The PDA-Lf-NMN platform effectively delivers nicotinamide mononucleotide to the brain, boosting NAD+ levels, potentially promoting longevity and treating brain aging-related diseases.
+
+Abstract:Nicotinamide mononucleotide (NMN), a precursor of the coenzyme nicotinamide adenine dinucleotide (NAD+), has gained wide attention as an anti-aging agent, which plays a significant role in intracellular redox reactions. However, its effectiveness is limited by easy metabolism in the liver and subsequent excretion as nicotinamide, resulting in low bioavailability, particularly in the brain. Additionally, the blood-brain barrier (BBB) further hinders NMN supply to the brain, compromising its potential anti-aging effects. Herein, we developed a biocompatible polydopamine (PDA) platform to deliver NMN for boosting NAD+ levels in the brain for the first time. The lactoferrin (Lf) ligand was covalently attached to the PDA spheres to improve BBB transport efficiency. The resultant PDA-based system, referred to as PDA-Lf-NMN, not only exhibited superior BBB penetration ability but also improved the utilization rate of brain NMN in elevating NAD+ levels compared to NMN alone for both young (3 months) and old (21 months) mice. Moreover, after the old mice were treated with low-dose PDA-Lf-NMN (8 mg kg-1 day-1), they exhibited improved spatial cognition. Importantly, these nanomedicines did not induce any cellular necrosis or apoptosis. It provides a promising avenue for delivering NMN specifically to the brain, boosting NAD+ levels for promoting longevity and treating brain aging-related diseases.
+
+Nicotinamide mononucleotide attenuates brain injury after intracerebral hemorrhage by activating Nrf2/HO-1 signaling pathway
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) reduces brain injury after intracerebral hemorrhage by suppressing neuroinflammation and oxidative stress, potentially contributing to neuroprotection.
+
+Oral Administration of Nicotinamide Mononucleotide Increases Nicotinamide Adenine Dinucleotide Level in an Animal Brain
+
+Number of 
+
+Key takeaways:Oral administration of nicotinamide mononucleotide (NMN) successfully increases brain NAD+ levels in mice, providing evidence for its potential as an intervention for age-related neurodegenerative diseases.
+
+Abstract:As a redox-sensitive coenzyme, nicotinamide adenine dinucleotide (NAD+) plays a central role in cellular energy metabolism and homeostasis. Low NAD+ levels are linked to multiple disease states, including age-related diseases, such as metabolic and neurodegenerative diseases. Consequently, restoring/increasing NAD+ levels in vivo has emerged as an important intervention targeting age-related neurodegenerative diseases. One of the widely studied approaches to increase NAD+ levels in vivo is accomplished by using NAD+ precursors, such as nicotinamide mononucleotide (NMN). Oral administration of NMN has been shown to successfully increase NAD+ levels in a variety of tissues; however, it remains unclear whether NMN can cross the blood–brain barrier to increase brain NAD+ levels. This study evaluated the effects of oral NMN administration on NAD+ levels in C57/B6J mice brain tissues. Our results demonstrate that oral gavage of 400 mg/kg NMN successfully increases brain NAD+ levels in mice after 45 min. These findings provide evidence that NMN may be used as an intervention to increase NAD+ levels in the brain.
+
+Therapeutic effect of nicotinamide mononucleotide on Alzheimer's disease through activating autophagy and anti-oxidative stress.
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) shows potential in Alzheimer's disease treatment by activating autophagy and reducing oxidative stress, potentially preventing disease progression.
+
+β-Nicotinamide mononucleotide activates NAD+/SIRT1 pathway and attenuates inflammatory and oxidative responses in the hippocampus regions of septic mice
+
+Number of 
+
+Key takeaways:-Nicotinamide mononucleotide (NMN) protects against sepsis-induced memory dysfunction and inflammatory and oxidative injuries in the hippocampus of septic mice, with the NAD+/SIRT1 pathway potentially playing a role in this protective effect
+
+Nicotinamide mononucleotide (NMN) and NMN-rich product supplementation alleviate p-chlorophenylalanine-induced sleep disorders
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide and NMN-rich products alleviate depression-like behavior and stimulate sleep in mice, restoring brain damage and reducing oxidative stress.
+
+Nicotinamide Mononucleotide Administration Prevents Experimental Diabetes-Induced Cognitive Impairment and Loss of Hippocampal Neurons
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) administration prevents diabetes-induced memory deficits and neuronal loss in the hippocampus, preserving cognition in diabetic rats.
+
+Abstract:Diabetes predisposes to cognitive decline leading to dementia and is associated with decreased brain NAD+ levels. This has triggered an intense interest in boosting nicotinamide adenine dinucleotide (NAD+) levels to prevent dementia. We tested if the administration of the precursor of NAD+, nicotinamide mononucleotide (NMN), can prevent diabetes-induced memory deficits. Diabetes was induced in Sprague-Dawley rats by the administration of streptozotocin (STZ). After 3 months of diabetes, hippocampal NAD+ levels were decreased (p = 0.011). In vivo localized high-resolution proton magnetic resonance spectroscopy (MRS) of the hippocampus showed an increase in the levels of glucose (p < 0.001), glutamate (p < 0.001), gamma aminobutyric acid (p = 0.018), myo-inositol (p = 0.018), and taurine (p < 0.001) and decreased levels of N-acetyl aspartate (p = 0.002) and glutathione (p < 0.001). There was a significant decrease in hippocampal CA1 neuronal volume (p < 0.001) and neuronal number (p < 0.001) in the Diabetic rats. Diabetic rats showed hippocampal related memory deficits. Intraperitoneal NMN (100 mg/kg) was given after induction and confirmation of diabetes and was provided on alternate days for 3 months. NMN increased brain NAD+ levels, normalized the levels of glutamate, taurine, N-acetyl aspartate (NAA), and glutathione. NMN-treatment prevented the loss of CA1 neurons and rescued the memory deficits despite having no significant effect on hyperglycemic or lipidemic control. In hippocampal protein extracts from Diabetic rats, SIRT1 and PGC-1α protein levels were decreased, and acetylation of proteins increased. NMN treatment prevented the diabetes-induced decrease in both SIRT1 and PGC-1α and promoted deacetylation of proteins. Our results indicate that NMN increased brain NAD+, activated the SIRT1 pathway, preserved mitochondrial oxidative phosphorylation (OXPHOS) function, prevented neuronal loss, and preserved cognition in Diabetic rats.
+
+The Safety and Antiaging Effects of Nicotinamide Mononucleotide in Human Clinical Trials: an Update
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) supplementation shows potential in reducing age-related disorders, but safety and physiological effects in humans remain unclear.
+
+Nicotinamide mononucleotide (NMN) supplementation promotes neurovascular rejuvenation in aged mice: transcriptional footprint of SIRT1 activation, mitochondrial protection, anti-inflammatory, and anti-apoptotic effects
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) supplementation in aged mice promotes neurovascular rejuvenation by inducing genes involved in mitochondrial rejuvenation, anti-inflammatory, and anti-apoptotic pathways.
+
+Abstract:Aging-induced structural and functional alterations of the neurovascular unit lead to impairment of neurovascular coupling responses, dysregulation of cerebral blood flow, and increased neuroinflammation, all of which contribute importantly to the pathogenesis of age-related vascular cognitive impairment (VCI). There is increasing evidence showing that a decrease in NAD^+ availability with age plays a critical role in age-related neurovascular and cerebromicrovascular dysfunction. Our recent studies demonstrate that restoring cellular NAD^+ levels in aged mice rescues neurovascular function, increases cerebral blood flow, and improves performance on cognitive tasks. To determine the effects of restoring cellular NAD^+ levels on neurovascular gene expression profiles, 24-month-old C57BL/6 mice were treated with nicotinamide mononucleotide (NMN), a key NAD^+ intermediate, for 2 weeks. Transcriptome analysis of preparations enriched for cells of the neurovascular unit was performed by RNA-seq. Neurovascular gene expression signatures in NMN-treated aged mice were compared with those in untreated young and aged control mice. We identified 590 genes differentially expressed in the aged neurovascular unit, 204 of which are restored toward youthful expression levels by NMN treatment. The transcriptional footprint of NMN treatment indicates that increased NAD^+ levels promote SIRT1 activation in the neurovascular unit, as demonstrated by analysis of upstream regulators of differentially expressed genes as well as analysis of the expression of known SIRT1-dependent genes. Pathway analysis predicts that neurovascular protective effects of NMN are mediated by the induction of genes involved in mitochondrial rejuvenation, anti-inflammatory, and anti-apoptotic pathways. In conclusion, the recently demonstrated protective effects of NMN treatment on neurovascular function can be attributed to multifaceted sirtuin-mediated anti-aging changes in the neurovascular transcriptome. Our present findings taken together with the results of recent studies using mitochondria-targeted interventions suggest that mitochondrial rejuvenation is a critical mechanism to restore neurovascular health and improve cerebral blood flow in aging.
+
+Nicotinamide mononucleotide alleviates seizures via modulating SIRT1‐PGC‐1α mediated mitochondrial fusion and fission
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) reduces seizure intensity, improves learning and memory, and enhances motor activity and exploration desire in epileptic mice by regulating mitochondrial fusion and fission through the SIRT1-PGC-1 pathway.
+
+Abstract:Both human and animal experiments have demonstrated that energy metabolism dysfunction in neurons after seizures is associated with an imbalance in mitochondrial fusion/fission dynamics. Effective neuronal mitochondrial dynamics regulation strategies remain elusive. Nicotinamide mononucleotide (NMN) can ameliorate mitochondrial functional and oxidative stress in age‐related diseases. But whether NMN improves mitochondrial energy metabolism to exert anti‐epileptic effects is unclear. This study aims to clarify if NMN can protect neurons from pentylenetetrazole (PTZ) or Mg2+‐free‐induced mitochondrial disorder and apoptosis via animal and cell models. We established a continuous 30‐day PTZ (37 mg/kg) intraperitoneal injection‐induced epileptic mouse model and a cell model induced by Mg2+‐free solution incubation to explore the neuroprotective effects of NMN. We found that NMN treatment significantly reduced the seizure intensity of PTZ‐induced epileptic mice, improved their learning and memory ability, and enhanced their motor activity and exploration desire. At the same time, in vitro and in vivo experiments showed that NMN can inhibit neuronal apoptosis and improve the mitochondrial energy metabolism function of neurons. In addition, NMN down‐regulated the expression of mitochondrial fission proteins (Drp1 and Fis1) and promoted the expression of mitochondrial fusion proteins (Mfn1 and Mfn2) by activating the SIRT1‐PGC‐1α pathway, thereby inhibiting PTZ or Mg2+‐free extracellular solution‐induced mitochondrial dysfunction, cell apoptosis, and oxidative stress. However, combined intervention of SIRT1 inhibitor, Selisistat, and PGC‐1α inhibitor, SR‐18292, eliminated the regulatory effect of NMN pre‐treatment on mitochondrial fusion and fission proteins and apoptosis‐related proteins. Therefore, NMN intervention may be a new potential treatment for cognitive impairment and behavioral disorders induced by epilepsy, and targeting the SIRT1‐PGC‐1α pathway may be a promising therapeutic strategy for seizures.
+
+Prophylactic nicotinamide mononucleotide (NMN) mitigates CSDS-induced depressive-like behaviors in mice via preserving of ATP level in the mPFC.
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) supplementation can prevent depressive-like behaviors in mice by preserving extracellular ATP levels in the medial prefrontal cortex.
+
+Nicotinamide Mononucleotide (NMN) Works in Type 2 Diabetes through Unexpected Effects in Adipose Tissue, Not by Mitochondrial Biogenesis
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) improves glucose uptake in type 2 diabetes through organ-specific effects, including increased adipose tissue growth and thermogenic UCP1 activation, without affecting mitochondrial biogenesis in muscle and the brain.
+
+Abstract:Nicotinamide mononucleotide (NMN) has emerged as a promising therapeutic intervention for age-related disorders, including type 2 diabetes. In this study, we confirmed the previously observed effects of NMN treatment on glucose uptake and investigated its underlying mechanisms in various tissues and cell lines. Through the most comprehensive proteomic analysis to date, we discovered a series of novel organ-specific effects responsible for glucose uptake as measured by the IPGTT: adipose tissue growing (suggested by increased protein synthesis and degradation and mTOR proliferation signaling upregulation). Notably, we observed the upregulation of thermogenic UCP1, promoting enhanced glucose conversion to heat in intermuscular adipose tissue while showing a surprising repressive effect on mitochondrial biogenesis in muscle and the brain. Additionally, liver and muscle cells displayed a unique response, characterized by spliceosome downregulation and concurrent upregulation of chaperones, proteasomes, and ribosomes, leading to mildly impaired and energy-inefficient protein synthesis machinery. Furthermore, our findings revealed remarkable metabolic rewiring in the brain. This involved increased production of ketone bodies, downregulation of mitochondrial OXPHOS and TCA cycle components, as well as the induction of well-known fasting-associated effects. Collectively, our data elucidate the multifaceted nature of NMN action, highlighting its organ-specific effects and their role in improving glucose uptake. These findings deepen our understanding of NMN’s therapeutic potential and pave the way for novel strategies in managing metabolic disorders.
+
+Nicotinamide mononucleotide (NMN) supplementation promotes anti-aging miRNA expression profile in the aorta of aged mice, predicting epigenetic rejuvenation and anti-atherogenic effects
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) supplementation in aged mice promotes anti-aging changes in microRNA expression, potentially leading to anti-atherogenic effects and epigenetic rejuvenation.
+
+Abstract:Understanding molecular mechanisms involved in vascular aging is essential to develop novel interventional strategies for treatment and prevention of age-related vascular pathologies. Recent studies provide critical evidence that vascular aging is characterized by NAD+ depletion. Importantly, in aged mice, restoration of cellular NAD+ levels by treatment with the NAD+ booster nicotinamide mononucleotide (NMN) exerts significant vasoprotective effects, improving endothelium-dependent vasodilation, attenuating oxidative stress, and rescuing age-related changes in gene expression. Strong experimental evidence shows that dysregulation of microRNAs (miRNAs) has a role in vascular aging. The present study was designed to test the hypothesis that age-related NAD+ depletion is causally linked to dysregulation of vascular miRNA expression. A corollary hypothesis is that functional vascular rejuvenation in NMN-treated aged mice is also associated with restoration of a youthful vascular miRNA expression profile. To test these hypotheses, aged (24-month-old) mice were treated with NMN for 2 weeks and miRNA signatures in the aortas were compared to those in aortas obtained from untreated young and aged control mice. We found that protective effects of NMN treatment on vascular function are associated with anti-aging changes in the miRNA expression profile in the aged mouse aorta. The predicted regulatory effects of NMN-induced differentially expressed miRNAs in aged vessels include anti-atherogenic effects and epigenetic rejuvenation. Future studies will uncover the mechanistic role of miRNA gene expression regulatory networks in the anti-aging effects of NAD+ booster treatments and determine the links between miRNAs regulated by NMN and sirtuin activators and miRNAs known to act in the conserved pathways of aging and major aging-related vascular diseases.
+
+Nicotinamide mononucleotide increases muscle insulin sensitivity in prediabetic women
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide supplementation improves muscle insulin sensitivity and insulin signaling in overweight or obese postmenopausal women with prediabetes.
+
+Abstract:Anti-aging supplement effects in humans Synthesis of nicotinamide adenine dinucleotide (NAD+) decreases during aging, which is thought to limit the activity of enzymes that require it for their catalytic activity. Studies in animals indicate that replenishment of cellular NAD+ can have beneficial effects on aging and age-related diseases, but the situation in humans is less clear. Yoshino et al. report the effects of supplementation with the NAD+ precursor nicotinamide mononucleotide in overweight or obese postmenopausal women with prediabetes (see the Perspective by Hepler and Bass). The treatment improved insulin sensitivity in muscle, although a change in NAD+ content was not detected. The treatment also increased the expression of platelet-derived growth factor b. The results support potential therapeutic action of NAD+ supplementation in humans, but how various NAD+ precursors are processed in specific tissues remains to be fully explored. Science, abe9985, this issue p. 1224; see also abj0764, p. 1147 A small clinical trial reveals the beneficial effects of increasing levels of nicotinamide adenine dinucleotide (NAD+) in humans. In rodents, obesity and aging impair nicotinamide adenine dinucleotide (NAD+) biosynthesis, which contributes to metabolic dysfunction. Nicotinamide mononucleotide (NMN) availability is a rate-limiting factor in mammalian NAD+ biosynthesis. We conducted a 10-week, randomized, placebo-controlled, double-blind trial to evaluate the effect of NMN supplementation on metabolic function in postmenopausal women with prediabetes who were overweight or obese. Insulin-stimulated glucose disposal, assessed by using the hyperinsulinemic-euglycemic clamp, and skeletal muscle insulin signaling increased after NMN supplementation but did not change after placebo treatment. NMN supplementation up-regulated the expression of platelet-derived growth factor receptor β and other genes related to muscle remodeling. These results demonstrate that NMN increases muscle insulin sensitivity, insulin signaling, and remodeling in women with prediabetes who are overweight or obese (clinicaltrial.gov NCT 03151239).
+
+Effects of Nicotinamide Mononucleotide on Glucose and Lipid Metabolism in Adults: A Systematic Review and Meta-analysis of Randomised Controlled Trials
+
+Number of 
+
+Key takeaways:Short-term nicotinamide mononucleotide supplementation of 250-2000 mg/d did not show significantly positive impacts on glucose control and lipid profile in healthy adults.
+
+Abstract:Supplementation of nicotinamide mononucleotides (NMN) has been claimed to improve metabolic function. We reviewed human randomised controlled trials (RCTs) of NMN to evaluate its effect on markers of glucose and lipid metabolism.
+
+Long-Term Administration of Nicotinamide Mononucleotide Mitigates Age-Associated Physiological Decline in Mice.
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) effectively mitigates age-associated physiological decline in mice, suppressing weight gain, enhancing energy metabolism, and improving insulin sensitivity and eye function without toxicity.
+
+Nicotinamide mononucleotide: a potential effective natural compound against insulin resistance
+
+Number of 
+
+Key takeaways:NMN supplementation improves muscle insulin sensitivity in postmenopausal overweight or obese women with prediabetes, potentially aiding in the fight against insulin resistance.
+
+Nicotinamide Mononucleotide Supplementation: Understanding Metabolic Variability and Clinical Implications
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide supplementation's effects may vary based on a person's physiological state, with individual factors like lifestyle, health conditions, genetics, and gut microbiome composition influencing its metabolism.
+
+Abstract:Recent years have seen a surge in research focused on NAD+ decline and potential interventions, and despite significant progress, new discoveries continue to highlight the complexity of NAD+ biology. Nicotinamide mononucleotide (NMN), a well-established NAD+ precursor, has garnered considerable interest due to its capacity to elevate NAD+ levels and induce promising health benefits in preclinical models. Clinical trials investigating NMN supplementation have yielded variable outcomes while shedding light on the intricacies of NMN metabolism and revealing the critical roles played by gut microbiota and specific cellular uptake pathways. Individual variability in factors such as lifestyle, health conditions, genetics, and gut microbiome composition likely contributes to the observed discrepancies in clinical trial results. Preliminary evidence suggests that NMN’s effects may be context-dependent, varying based on a person’s physiological state. Understanding these nuances is critical for definitively assessing the impact of manipulating NAD+ levels through NMN supplementation. Here, we review NMN metabolism, focusing on current knowledge, pinpointing key areas where further research is needed, and outlining future directions to advance our understanding of its potential clinical significance.
+
+Advances in the Synthesis and Physiological Metabolic Regulation of Nicotinamide Mononucleotide
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) plays a crucial role in maintaining healthy aging and maintaining tissues, with synthetic biology now enabling cost-effective production and applications in food, medicine, and cosmetics.
+
+Abstract:Nicotinamide mononucleotide (NMN), the direct precursor of nicotinamide adenine dinucleotide (NAD+), is involved in the regulation of many physiological and metabolic reactions in the body. NMN can indirectly affect cellular metabolic pathways, DNA repair, and senescence, while also being essential for maintaining tissues and dynamic metabolic equilibria, promoting healthy aging. Therefore, NMN has found many applications in the food, pharmaceutical, and cosmetics industries. At present, NMN synthesis strategies mainly include chemical synthesis and biosynthesis. Despite its potential benefits, the commercial production of NMN by organic chemistry approaches faces environmental and safety problems. With the rapid development of synthetic biology, it has become possible to construct microbial cell factories to produce NMN in a cost-effective way. In this review, we summarize the chemical and biosynthetic strategies of NMN, offering an overview of the recent research progress on host selection, chassis cell optimization, mining of key enzymes, metabolic engineering, and adaptive fermentation strategies. In addition, we also review the advances in the role of NMN in aging, metabolic diseases, and neural function. This review provides comprehensive technical guidance for the efficient biosynthesis of NMN as well as a theoretical basis for its application in the fields of food, medicine, and cosmetics.
+
+Oral Administration of Nicotinamide Mononucleotide Is Safe and Efficiently Increases Blood Nicotinamide Adenine Dinucleotide Levels in Healthy Subjects
+
+Number of 
+
+Key takeaways:Oral administration of nicotinamide mononucleotide (NNM) is a safe and effective strategy to boost NAD+ levels in healthy subjects without causing abnormalities or adverse effects.
+
+Abstract:Nicotinamide mononucleotide (NNM) is an orally bioavailable NAD+ precursor that has demonstrated beneficial effects against aging and aging-associated diseases in animal models. NMN is ultimately converted to NAD+, a redox cofactor that mediates many metabolic enzymes. NAD+ also serves as the substrate for poly(ADP-ribose) polymerase (PARP) and sirtuins, and regulates various biological processes, such as metabolism, DNA repair, gene expression, and stress responses. Previous mouse models showed that NMN administration can increase NAD+ in various organs and ameliorate aging-related diseases, such as obesity, diabetes, heart failure, stroke, kidney failure, and Alzheimer’s disease through NAD+-mediated pathways. However, evidence of its effect on humans is still scarce. In this study, we conducted a placebo-controlled, randomized, double blind, parallel-group trial to investigate the safety of orally administered NMN and its efficacy to increase NAD+ levels in thirty healthy subjects. Healthy volunteers received 250 mg/day of NMN (n = 15) or placebo (n = 15) for 12 weeks, and physiological and laboratory tests were performed during this period. In addition, NAD+ and its related metabolites in whole blood were examined. Oral supplementation of NMN for 12 weeks caused no abnormalities in physiological and laboratory tests, and no obvious adverse effects were observed. NAD+ levels in whole blood were significantly increased after NMN administration. We also observed the significant rise in nicotinic acid mononucleotide (NAMN) levels, but not in NMN. We also found that the increased amount of NAD+ was strongly correlated with pulse rate before the administration of NMN. These results suggest that oral administration of NMN is a safe and practical strategy to boost NAD+ levels in humans. Clinical Trial Registration: JRCT .
+
+Nicotinamide mononucleotide (NMN) supplementation ameliorates the impact of maternal obesity in mice: comparison with exercise
+
+Number of 
+
+Key takeaways:NMN supplementation can improve metabolic function in offspring of obese mothers, with stronger effects on liver fat catabolism and synthesis than exercise.
+
+.
+
+Number of 
+
+Key takeaways:-nicotinamide mononucleotide (NMN) effectively and safely reduces aging-related diseases by improving gut microbiota, mitochondrial function, metabolism, and reducing inflammation.
+
+Abstract:β-Nicotinamide mononucleotide (NMN), as the precursor of nicotinamide adenine dinucleotide (NAD), plays an important role in enhancing NAD levels. Intake of NMN can alter the composition and vitality of gut microbiota, restore mitochondrial function, inhibit inflammatory pathways, improve metabolism, counteract oxidative stress, and alleviate inflammation. NMN significantly improves recovery from aging-related diseases, such as diminished heart function, reduced fertility, memory decline, and diabetes. NMN demonstrates both efficacy and safety in anti-aging. The use of NMN in China has gradually gained acceptance, highlighting the importance of exploring the mechanism of NMN in anti-aging effects and improving the biosynthesis of NMN. In addition, NMN in combination with stem cells hold promise in the treatment of aging-related degenerative diseases and promote overall human and animal health.
+
+The role of nicotinamide mononucleotide (NMN) in anti-aging, longevity, and its potential for treating chronic conditions
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) shows promising potential in restoring NAD+ levels, potentially preventing or reversing age-related disorders like diabetes, cardiovascular issues, and cognitive impairment.
+
+Abstract:Biosynthesis and regulation of nicotinamide adenine dinucleotide (NAD^+) has recently gained a lot of attention. A systemic decline in NAD^+ across many tissues is associated with all the hallmarks of aging. NAD^+ can affect a variety of cellular processes, including metabolic pathways, DNA repair, and immune cell activity, both directly and indirectly. These cellular processes play a vital role in maintaining homeostasis, but as people get older, their tissue and cellular NAD^+ levels decrease, and this drop in NAD^+ levels has been connected to a number of age-related disorders. By restoring NAD^+ levels, several of these age-related disorders can be delayed or even reversed. Some of the new studies conducted in mice and humans have targeted the NAD^+ metabolism with NAD^+ intermediates. Of these, nicotinamide mononucleotide (NMN) has been shown to offer great therapeutic potential with promising results in age-related chronic conditions such as diabetes, cardiovascular issues, cognitive impairment, and many others. Further, human interventions are required to study the long-term effects of supplementing NMN with varying doses. The paper focuses on reviewing the importance of NAD^+ on human aging and survival, biosynthesis of NAD^+ from its precursors, key clinical trial findings, and the role of NMN on various health conditions.
+
+Nicotinamide mononucleotide preserves mitochondrial function and increases survival in hemorrhagic shock.
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) reduces inflammation, improves cellular metabolism, and increases survival after hemorrhagic shock.
+
+Abstract:Hemorrhagic shock depletes nicotinamide adenine dinucleotide (NAD) and causes metabolic derangements that, in severe cases, cannot be overcome, even after restoration of blood volume and pressure. However, current strategies to treat acute blood loss do not target cellular metabolism. We hypothesized that supplemental nicotinamide mononucleotide (NMN), the immediate biosynthetic precursor to NAD, would support cellular energetics and enhance physiologic resilience to hemorrhagic shock. In a rodent model of decompensated hemorrhagic shock, rats receiving NMN displayed significantly reduced lactic acidosis and serum IL-6 levels, two strong predictors of mortality in human patients. In both livers and kidneys, NMN increased NAD levels and prevented mitochondrial dysfunction. Moreover, NMN preserved mitochondrial function in isolated hepatocytes cocultured with proinflammatory cytokines, indicating a cell-autonomous protective effect that is independent from the reduction in circulating IL-6. In kidneys, but not in livers, NMN was sufficient to prevent ATP loss following shock and resuscitation. Overall, NMN increased the time animals could sustain severe shock before requiring resuscitation by nearly 25% and significantly improved survival after resuscitation (P = 0.018), whether NMN was given as a pretreatment or only as an adjunct during resuscitation. Thus, we demonstrate that NMN substantially mitigates inflammation, improves cellular metabolism, and promotes survival following hemorrhagic shock.
+
+Role and Potential Mechanisms of Nicotinamide Mononucleotide in Aging
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) shows potential anti-aging properties, improving age-related diseases and potentially extending lifespan.
+
+Abstract:Nicotinamide adenine dinucleotide (NAD+) has recently attracted much attention due to its role in aging and lifespan extension. NAD+ directly and indirectly affects many cellular processes, including metabolic pathways, DNA repair, and immune cell activities. These mechanisms are critical for maintaining cellular homeostasis. However, the decline in NAD+ levels with aging impairs tissue function, which has been associated with several age-related diseases. In fact, the aging population has been steadily increasing worldwide, and it is important to restore NAD+ levels and reverse or delay these age-related disorders. Therefore, there is an increasing demand for healthy products that can mitigate aging, extend lifespan, and halt age-related consequences. In this case, several studies in humans and animals have targeted NAD+ metabolism with NAD+ intermediates. Among them, nicotinamide mononucleotide (NMN), a precursor in the biosynthesis of NAD+, has recently received much attention from the scientific community for its anti-aging properties. In model organisms, ingestion of NMN has been shown to improve age-related diseases and probably delay death. Here, we review aspects of NMN biosynthesis and the mechanism of its absorption, as well as potential anti-aging mechanisms of NMN, including recent preclinical and clinical tests, adverse effects, limitations, and perceived challenges.
+
+Nicotinamide mononucleotide (NMN) intake increases plasma NMN and insulin levels in healthy subjects.
+
+Number of 
+
+Key takeaways:Daily nicotinamide mononucleotide (NMN) intake increases plasma levels of NMN and NAD+, and postprandial serum insulin levels in healthy individuals without adverse symptoms.
+
+Nicotinamide mononucleotide ameliorates the depression-like behaviors and is associated with attenuating the disruption of mitochondrial bioenergetics in depressed mice.
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) improves depression-like behaviors and mitochondrial energy metabolism in mice, suggesting it could be an effective treatment for depression.
+
+Safety evaluation of β-nicotinamide mononucleotide oral administration in healthy adult men and women
+
+Number of 
+
+Key takeaways:-nicotinamide mononucleotide (NMN) oral administration of 1250 mg once daily for up to 4 weeks is safe and well-tolerated in healthy adult men and women aged 20-65 years.
+
+Nicotinamide Mononucleotide: Research Process in Cardiovascular Diseases
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) supplementation shows potential in reducing cardiovascular diseases like heart failure, atherosclerosis, and myocardial ischemia/reperfusion injury without significant adverse effects.
+
+Abstract:Nicotinamide adenine dinucleotide (NAD+) is an essential metabolite that plays a crucial role in diverse biological processes, including energy metabolism, gene expression, DNA repair, and mitochondrial function. An aberrant NAD+ level mediates the development of cardiovascular dysfunction and diseases. Both in vivo and in vitro studies have demonstrated that nicotinamide mononucleotide (NMN), as a NAD+ precursor, alleviates the development of cardiovascular diseases such as heart failure, atherosclerosis, and myocardial ischemia/reperfusion injury. Importantly, NMN has suggested pharmacological activities mostly through its involvement in NAD+ biosynthesis. Several clinical studies have been conducted to investigate the efficacy and safety of NMN supplementation, indicating its potential role in cardiovascular protection without significant adverse effects. In this review, we systematically summarize the impact of NMN as a nutraceutical and potential therapeutic drug on cardiovascular diseases and emphasize the correlation between NMN supplementation and cardiovascular protection.
+
+Use of Nicotinamide Mononucleotide as Non-Natural Cofactor
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) has the potential to revolutionize biocatalysis, synthetic biology, and therapeutic applications by modulating NAD+ metabolism.
+
+Abstract:Nicotinamide mononucleotide (NMN) has emerged as a promising non-natural cofactor with significant potential to transform biocatalysis, synthetic biology, and therapeutic applications. By modulating NAD⁺ metabolism, NMN offers unique advantages in enzymatic reactions, metabolic engineering, and regenerative medicine. This review provides a comprehensive analysis of NMN’s biochemical properties, mechanisms of action, and diverse applications. Emphasis is placed on its role in addressing challenges in multi-enzyme cascades, biofuel production, and the synthesis of high-value chemicals. The paper also highlights critical research gaps, including the need for scalable NMN synthesis methods, improved integration into enzymatic systems, and comprehensive toxicity studies for therapeutic use. Emerging technologies such as AI-driven enzyme design and CRISPR-based genome engineering are discussed as transformative tools for optimizing NMN-dependent pathways. Furthermore, the synergistic potential of NMN with synthetic biology innovations, such as cell-free systems and dynamic regulatory networks, is explored, paving the way for precise and modular biotechnological solutions. Looking forward, NMN’s versatility as a cofactor positions it as a pivotal tool in advancing sustainable bioprocessing and precision medicine. Addressing current limitations through interdisciplinary approaches will enable NMN to redefine the boundaries of metabolic engineering and therapeutic innovation. This review serves as a roadmap for leveraging NMN’s potential across diverse scientific and industrial domains.
+
+Integrated transcriptome and metabolome study reveal the therapeutic effects of nicotinamide riboside and nicotinamide mononucleotide on nonalcoholic fatty liver disease.
+
+Number of 
+
+Key takeaways:Nicotinamide riboside and nicotinamide mononucleotide effectively reduce body weight gain, improve glucose homeostasis, regulate plasma lipid levels, and alleviate liver injury, oxidative stress, and lipid accumulation in mice with nonalcoholic fatty liver disease.
+
+Nicotinamide Mononucleotide and Nicotinamide Riboside Improve Dyslipidemia and Fatty Liver but Promote Atherosclerosis in Apolipoprotein E Knockout Mice
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide and nicotinamide riboside improve dyslipidemia and fatty liver but promote atherosclerosis in Apolipoprotein E knockout mice, with safe doses around 100 mg/kg.
+
+Abstract:Background: Nicotinamide mononucleotide (NMN) and nicotinamide riboside (NR) are intermediary products in NAD+ metabolism. NMN and NR supplementation can elevate NAD+ levels in tissues, addressing health issues associated with aging and obesity. However, the impact of NMN and NR on atherosclerosis remains incompletely elucidated. Methods: C57BL/6J and Apolipoprotein E knockout (ApoE−/−) mice were used to explore the impact of NMN and NR supplementation on serum lipids, fatty liver, and atherosclerosis. Additionally, various suppliers, administration protocols, and doses on ApoE−/− mice were investigated. Results: The intragastric administration of NMN (300 mg/kg) and NR (230 mg/kg) reduced body weight, serum lipids, and fatty liver but aggravated atherosclerosis in ApoE−/− mice after 4 months of administration with different suppliers. Atherosclerosis also deteriorated after 2 months of different NMN administration protocols (intragastric and water administration) in ApoE−/− mice with existing plaques. The effects of NMN were dose-dependent, and doses around 100 mg/kg had little harmful effects on atherosclerosis. Conclusions: NMN and NR improve dyslipidemia and fatty liver but promote atherosclerosis in ApoE−/− mice. These findings emphasize the safe dosage for the clinical trials of NMN.
+
+Nicotinamide Mononucleotide Administration Restores Redox Homeostasis via the Sirt3-Nrf2 Axis and Protects Aged Mice from Oxidative Stress-Induced Liver Injury.
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) supplementation restores liver redox homeostasis and protects aged mice from oxidative stress-induced liver injury by restoring Nrf2-mediated adaptive homeostasis.
+
+Abstract:Altered adaptive homeostasis contributes to aging and lifespan regulation. In the present study, to characterize the mechanism of aging in mouse liver, we performed quantitative proteomics and found that the most upregulated proteins were related to the oxidation-reduction process. Further analysis revealed that malondialdehyde (MDA) and protein carbonyl (PCO) levels were increased, while nuclear Nrf2 and downstream genes were significantly increased, indicating that oxidative stress induced Nrf2 activation in aged mouse liver. Importantly, nicotinamide mononucleotide (NMN) administration decreased the oxidative stress and the nuclear Nrf2 and Nrf2 downstream gene levels. Indeed, aged mice treated with NMN improved stress resistance against acetaminophen (APAP)-induced liver injury, indicating that NMN restored Nrf2-mediated adaptive homeostasis. Further studies found that NMN increased Sirt3 activities to deacetylate age-associated acetylation at K68 and K122 in Sod2, while its effects on nuclear Nrf2 levels were diminished in Sirt3-deficient mice, suggesting that NMN-enhanced adaptive homeostasis was Sirt3-dependent. Taken together, we demonstrated that Nrf2-regulated adaptive homeostasis was decreased in aged mouse liver and NMN supplementation restored liver redox homeostasis via the Sirt3-Nrf2 axis and protected aged liver from oxidative stress-induced injury.
+
+Effects of Nicotinamide Mononucleotide Supplementation on Muscle and Liver Functions Among the Middle-Aged and Elderly: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+
+Number of 
+
+Key takeaways:Nicotinamide Mononucleotide supplementation positively impacts muscle function, reduces insulin resistance, and lowers aminotransferase levels in middle-aged and elderly individuals.
+
+Abstract:INTRODUCTION
+Nicotinamide Mononucleotide (NMN) has gained attention as a precursor to Nicotinamide Adenine Dinucleotide (NAD+) in recent years, commonly utilized in anti-aging therapies. The anti-aging effects of NMN on muscle and liver functions in middleaged and elderly people are still unclear.
+
+OBJECTIVE
+Based on available randomized controlled trials, we conducted a meta-analysis to evaluate the impact of NMN on muscle and liver functions in middle-aged and elderly individuals.
+
+METHODS
+We conducted searches on three electronic databases (PubMed, Embase, Web of Science) for randomized controlled trials involving NMN interventions in middle-aged and elderly populations. Through the Cochrane Handbook, we assessed the specific methodological quality. All statistical analyses were obtained by Stata15, and statistical significance was set as P<0.05.
+
+RESULTS
+There were 412 participants from 9 studies in this meta-analysis. Based on changes in gait speed (SMD: 0.34 m/s, 95%CI p = 0.033), NMN had significant effects on muscle mass. Moreover, NMN had a better effect on ALT (SMD: -0.29 IU/L, 95%CI p = 0.028). Subgroup analysis indicated that administering a small dose of NMN exerted the most prominent impact on Homeostasis Model Assessment-Insulin Resistance (HOMA-IR).
+
+CONCLUSION
+NMN has positive efficacy in enhancing muscle function, reducing insulin resistance and lowering aminotransferase levels in middle-aged and elderly individuals. NMN is an encouraging and considerable drug for anti-aging treatment.
+
+Nicotinamide Mononucleotide Inhibits Hepatic Stellate Cell Activation to Prevent Liver Fibrosis via Promoting PGE2 Degradation.
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) supplementation may prevent liver fibrosis by inhibiting hepatic stellate cell activation and promoting prostaglandin E2 degradation.
+
+Nicotinamide Mononucleotide Administration Amends Protein Acetylome of Aged Mouse Liver
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide treatment can improve health by altering the protein acetylome in aged mouse livers, potentially targeting aging-related functional decline.
+
+Abstract:It is known that the activities of nicotine adenine dinucleotide (NAD+)-dependent deacetylase decline in the aging mouse liver, and nicotinamide mononucleotide (NMN)-mediated activation of deacetylase has been shown to increase healthspans. However, age-induced changes of the acetylomic landscape and effects of NMN treatment on protein acetylation have not been reported. Here, we performed immunoprecipitation coupled with label-free quantitative LC-MS/MS (IPMS) to identify the acetylome and investigate the effects of aging and NMN on liver protein acetylation. In total, 7773 acetylated peptides assigned to 1997 proteins were commonly identified from young and aged livers treated with vehicle or NMN. The major biological processes associated with proteins exhibiting increased acetylation from aged livers were oxidation-reduction and metabolic processes. Proteins with decreased acetylation from aged livers mostly participated in transport and translation processes. Furthermore, NMN treatment inhibited the aging-related increase of acetylation on proteins regulating fatty acid β oxidation, the tricarboxylic acid (TCA) cycle and valine degradation. In particular, NAD (P) transhydrogenase (NNT) was markedly hyperacetylated at K70 in aged livers, and NMN treatment decreased acetylation intensity without altering protein levels. Acetylation at cytochrome 3a25 (Cyp3a25) at K141 was also greatly increased in aged livers, and NMN treatment totally arrested this increase. Our extensive identification and analysis provide novel insight and potential targets to combat aging and aging-related functional decline.
+
+Nicotinamide mononucleotide induces autophagy and ferroptosis via AMPK/mTOR pathway in hepatocellular carcinoma
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) inhibits hepatocellular carcinoma progression by inducing autophagy and ferroptosis through the AMPK/mTOR pathway, making it a promising agent for HCC treatment.
+
+Abstract:Hepatocellular carcinoma (HCC) is a common malignancy worldwide. Herein, we investigated the role of nicotinamide mononucleotide (NMN) in HCC progression. HCC cells were treated with NMN (125, 250, and 500 μM), and then nicotinamide adenine dinucleotide (NAD+) and NADH levels in HCC cells were measured to calculate NAD+/NADH ratio. Cell proliferation, apoptosis, autophagy and ferroptosis were determined. AMPK was knocked down to confirm the involvement of AMPK/mTOR signaling. Furthermore, tumor‐inhibitory effect of NMN was investigated in xenograft models. Exposure to NMN dose‐dependently increased NAD+ level and NAD+/NADH ratio in HCC cells. After NMN treatment, cell proliferation was inhibited, whereas apoptosis was enhanced in both cell lines. Additionally, NMN dose‐dependently enhanced autophagy/ferroptosis and activated AMPK/mTOR pathway in HCC cells. AMPK knockdown partially rescued the effects of NMN in vitro. Furthermore, NMN treatment restrained tumor growth in nude mice, activated autophagy/ferroptosis, and promoted apoptosis and necrosis in tumor tissues. The results indicate that NMN inhibits HCC progression by inducing autophagy and ferroptosis via AMPK/mTOR signaling. NMN may serve as a promising agent for HCC treatment.
+
+Nicotinamide mononucleotide (NMN) as an anti-aging health product – Promises and safety concerns
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) shows promise as an anti-aging health product by elevating NAD+ levels in the body, but proper clinical investigations are needed to confirm its effectiveness and safety.
+
+Ex Vivo Transdermal Delivery of Nicotinamide Mononucleotide Using Polyvinyl Alcohol Microneedles
+
+Number of 
+
+Key takeaways:A 9.5 kDa molecular weight PVA microneedle with NMN and CMC effectively improves the bioavailability of nicotinamide mononucleotide, enhancing its potential as an anti-aging agent.
+
+Abstract:Nicotinamide mononucleotide (NMN), which has recently been spotlighted as an anti-aging agent, is a precursor of the coenzyme nicotinamide adenine dinucleotide that plays an important role in intracellular redox reactions. NMN capsules for oral administration currently on the market have a problem in that they are almost fully metabolized in the stomach and liver and excreted as nicotinamide. Therefore, there is a need to develop a patient-friendly delivery method that can improve the bioavailability of NMN. For this purpose, various polyvinyl alcohol (PVA)-based microneedle patches were fabricated to develop a transdermal delivery system for NMN. First, the molecular weight effect of PVA on the shape and microstructure of microneedles was studied. After selecting the optimal molecular weight PVA, the swelling of the microneedles and the ex vivo release of NMN were studied. The effect of carboxymethyl cellulose (CMC) and dimethyl sulfoxide on NMN release was also investigated. The highest NMN release of 91.94% in 18 h was obtained using a 9.5 kDa molecular weight PVA microneedle containing NMN and CMC.
+
+Improved Physical Performance Parameters in Patients Taking Nicotinamide Mononucleotide (NMN): A Systematic Review of Randomized Control Trials
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide (NMN) supplementation shows non-significant improvements in physical performance parameters and is well-tolerated with no serious adverse effects observed.
+
+Abstract:Nicotinamide adenine dinucleotide (NAD+) is essential in the proper function of many essential cellular processes in the human body. The purpose of this review is to investigate the effect of nicotinamide mononucleotide (NMN), a NAD+ precursor, on physical performance and evaluate the safety profile of supplementation. A systematic review search criteria following the guidelines from the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) was performed in four databases for randomized controlled trials on NMN supplementation. Study variables included title, 
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

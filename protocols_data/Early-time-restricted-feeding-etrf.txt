@@ -1,0 +1,329 @@
+PROTOCOL: Early time-restricted feeding (etrf)
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Not specified
+DESCRIPTION: Early time-restricted feeding (eTRF) involves consuming all meals in the first half of the day, typically within a 6–8-hour window. Studies confirm that this strategy improves insulin sensitivity, regulates glucose levels, lowers blood pressure, and has a positive effect on lipid profile and gut microbiota health. eTRF may support metabolic health regardless of weight loss.
+
+CONTENT SECTIONS:
+
+Early time-restricted feeding (etrf)
+
+Improved glycemic control and circadian rhythm support
+
+Early time-restricted feeding (eTRF) involves consuming all meals in the first half of the day, typically within a 6–8-hour window. Studies confirm that this strategy improves insulin sensitivity, regulates glucose levels, lowers blood pressure, and has a positive effect on lipid profile and gut microbiota health. eTRF may support metabolic health regardless of weight loss.
+
+Level of evidence:Good
+
+eTRF synchronizes calorie intake with circadian hormonal rhythms, supporting the natural regulation of glucose, insulin, and other metabolic markers. Limiting the eating window to earlier in the day improves biological clock function and increases the secretion of beneficial gut hormones such as GLP-1. Additionally, it influences microbiota diversity, which may support metabolism and gastrointestinal health.
+
+eTRF is generally a well-tolerated nutritional strategy in healthy individuals, though mild side effects related to changes in meal timing or adaptation to longer fasting periods may occur.
+
+eTRF is not recommended for people with certain health conditions or special physiological situations.
+
+A typical eating window is 6–8 hours, most often from morning to early afternoon (e.g., 7:00–13:00, 8:00–14:00).
+
+Does not require supplements; it's about planning meal timing.
+
+The first beneficial effects may appear after 1–2 weeks of use.
+
+Meals are best consumed in the first half of the day (before 3:00 PM).
+
+Can be combined with the Mediterranean diet, DASH, plant-based or high-fiber diets.
+
+What not to combine with
+
+It is not recommended for use with very low-calorie or restrictive diets in undernourished individuals.
+
+Gradual implementation
+
+It is advisable to shorten the eating window gradually, e.g., by one hour every few days, to avoid discomfort.
+
+It is recommended to stick to the chosen window consistently, even on weekends, to stabilize the circadian rhythm.
+
+During the window, one should choose high-quality foods rich in protein, fiber, and micronutrients.
+
+Avoid snacking outside the window
+
+Outside the designated hours, only water, tea, or coffee without sugar and calories should be consumed.
+
+Monitoring well-being
+
+It's worth regularly observing your body's reaction—in the case of chronic fatigue or dizziness, consider modifying the protocol or consulting a doctor.
+
+Early time-restricted feeding (eTRF) positively affects metabolism by improving insulin sensitivity, glycemic control, blood pressure, and other markers of metabolic health. Metabolic effects are observed in both healthy and overweight individuals.
+
+Key metabolic benefits
+
+Additional observations and limitations
+
+Cardiovascular system
+
+Early time-restricted feeding (eTRF) shows a positive effect on the cardiovascular system and overall metabolic health. eTRF improves insulin sensitivity, lowers blood pressure, reduces oxidative stress, and positively affects glucose levels and some lipid markers, regardless of weight loss.
+
+Key cardiovascular benefits of eTRF
+
+Mechanisms and additional observations
+
+Early time-restricted feeding (eTRF) shows a positive effect on gut health and overall metabolic condition. The latest research suggests that eTRF may improve gut microbiota diversity, support beneficial bacteria, and regulate the secretion of gut hormones, which translates into better gastrointestinal function.
+
+Key gut benefits of eTRF
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:33
+
+Final comment:Evidence for the effectiveness of early time-restricted feeding (eTRF) comes from numerous randomized clinical trials, systematic reviews, and meta-analyses involving diverse adult populations. The results are consistent and indicate improvements in insulin sensitivity, glycemia, blood pressure, selected lipid markers, and a beneficial effect on gut microbiota. However, most studies are of moderate quality, with limited duration and small sample sizes, so the evidence is classified as 'good' rather than 'strong.' Further long-term studies with larger samples and better adverse event reporting are needed.
+
+Early Time-Restricted Feeding Improves 24-Hour Glucose Levels and Affects Markers of the Circadian Clock, Aging, and Autophagy in Humans
+
+Number of 
+
+Key takeaways:Early time-restricted feeding (eTRF) improves 24-hour glucose levels, alters lipid metabolism, and may have anti-aging effects in humans.
+
+Abstract:Time-restricted feeding (TRF) is a form of intermittent fasting that involves having a longer daily fasting period. Preliminary studies report that TRF improves cardiometabolic health in rodents and humans. Here, we performed the first study to determine how TRF affects gene expression, circulating hormones, and diurnal patterns in cardiometabolic risk factors in humans. Eleven overweight adults participated in a 4-day randomized crossover study where they ate between 8 am and 2 pm (early TRF (eTRF)) and between 8 am and 8 pm (control schedule). Participants underwent continuous glucose monitoring, and blood was drawn to assess cardiometabolic risk factors, hormones, and gene expression in whole blood cells. Relative to the control schedule, eTRF decreased mean 24-hour glucose levels by 4 ± 1 mg/dl (p = 0.0003) and glycemic excursions by 12 ± 3 mg/dl (p = 0.001). In the morning before breakfast, eTRF increased ketones, cholesterol, and the expression of the stress response and aging gene SIRT1 and the autophagy gene LC3A (all p < 0.04), while in the evening, it tended to increase brain-derived neurotropic factor (BNDF; p = 0.10) and also increased the expression of MTOR (p = 0.007), a major nutrient-sensing protein that regulates cell growth. eTRF also altered the diurnal patterns in cortisol and the expression of several circadian clock genes (p < 0.05). eTRF improves 24-hour glucose levels, alters lipid metabolism and circadian clock gene expression, and may also increase autophagy and have anti-aging effects in humans.
+
+Two weeks of early time-restricted feeding (eTRF) improves skeletal muscle insulin and anabolic sensitivity in healthy men
+
+Number of 
+
+Key takeaways:Early time-restricted feeding (eTRF) improves whole-body insulin sensitivity and increases skeletal muscle glucose and BCAA uptake in healthy men, independent of its effects on weight loss.
+
+Abstract:ABSTRACT Background Altering the temporal distribution of energy intake (EI) and introducing periods of intermittent fasting (IF) exert important metabolic effects. Restricting EI to earlier in the day is a novel type of IF. Objectives We assessed the chronic effects of eTRF compared with an energy-matched control on whole-body and skeletal muscle insulin and anabolic sensitivity. Methods Sixteen healthy males (aged 23 ± 1 y; BMI 24.0 ± 0.6 kg·m−2) were assigned to 2 groups that underwent either 2 wk of eTRF (n = 8) or control/caloric restriction (CON:CR; n = 8) diet. The eTRF diet was consumed ad libitum and the intervention was conducted before the CON:CR, in which the diet was provided to match the reduction in EI and body weight observed in eTRF. During eTRF, daily EI was restricted to between 08:00 and 16:00, which prolonged the overnight fast by ∼5 h. The metabolic responses to a carbohydrate/protein drink were assessed pre- and post-interventions following a 12-h overnight fast. Results When compared with CON:CR, eTRF improved whole-body insulin sensitivity and skeletal muscle uptake of glucose and branched-chain amino acids (BCAAs) . eTRF caused a reduction in EI (∼400 kcal·d−1) and weight loss (−1.04 ± 0.25 kg; P = 0.01) that was matched in CON:CR (−1.24 ± 0.35 kg; P = 0.01). Conclusions Under free-living conditions, eTRF improves whole-body insulin sensitivity and increases skeletal muscle glucose and BCAA uptake. The metabolic benefits of eTRF are independent of its effects on weight loss and represent chronic adaptations rather than the effect of the last bout of overnight fast. This trial was registered at clinicaltrials.gov as NCT03969745.
+
+Effects of Early and Late Time-Restricted Feeding on Parameters of Metabolic Health: An Explorative Literature Assessment
+
+Number of 
+
+Key takeaways:Early time-restricted feeding (eTRF) improves insulin resistance and systolic blood pressure, while late time-restricted feeding (lTRF) reduces energy intake and body weight.
+
+Abstract:Chrono-nutrition (meal timing) aligns food consumption with one’s circadian rhythm. The first meal (e.g., breakfast) likely promotes synchronization of peripheral circadian clocks, thereby supporting metabolic health. Time-restricted feeding (TRF) has been shown to reduce body weight (BW) and/or improve cardiovascular biomarkers. In this explorative literature assessment, 13 TRF randomized controlled trials (RCTs) were selected from PubMed and Scopus to evaluate the effects of early (eTRF: first meal before 10:30 a.m.) and late TRF (lTRF: first meal after 11:30 a.m.) on parameters of metabolic health. Although distinct variations in study design were evident between reports, TRF consistently decreased energy intake (EI) and BW, and improved insulin resistance as well as systolic blood pressure. eTRF seemed to have a greater beneficial effect than lTRF on insulin resistance (HOMA-IR). Importantly, most studies did not appear to consider chronotype in their evaluation, which may have underestimated TRF effects. TRF intervention may be a promising approach for risk reduction of human metabolic diseases. To conclusively determine benefits of TRF and identify clear differences between eTRF and lTRF, future studies should be longer-term (≥8 weeks) with well-defined (differences in) feeding windows, include participants chronotypically matching the intervention, and compare outcomes to those of control groups without any dietary limitations.
+
+Randomized controlled trial for time-restricted eating in healthy volunteers without obesity
+
+Number of 
+
+Key takeaways:Early time-restricted eating (eTRF) is more effective than mid-day time-restricted eating (mTRF) in improving insulin sensitivity, fasting glucose, and related metabolic parameters in healthy individuals without obesity.
+
+Effect of early time-restricted feeding on the metabolic profile of adults with excess weight: A systematic review with meta-analysis.
+
+Number of 
+
+Key takeaways:Early time-restricted feeding may improve fasting blood glucose and HOMA-IR in adults with excess weight, but the results of this meta-analysis should be analyzed with caution due to low-quality evidence.
+
+Early Time-Restricted Feeding Improves Insulin Sensitivity, Blood Pressure, and Oxidative Stress Even without Weight Loss in Men with Prediabetes.
+
+Number of 
+
+Key takeaways:Early time-restricted feeding (eTRF) improves insulin sensitivity, blood pressure, and oxidative stress in men with prediabetes, independent of weight loss.
+
+Early time‐restricted feeding improves high‐density lipoprotein amount and function in nonhuman primates, without effects on body composition
+
+Number of 
+
+Key takeaways:Early time-restricted feeding improves high-density lipoprotein amount and function in nonhuman primates without affecting body composition, suggesting potential benefits for cardiovascular disease prevention.
+
+Abstract:Time‐restricted feeding (TRF), whereby caloric intake is limited to a <12‐hour window, is a potential regimen to ameliorate metabolic syndrome and cardiovascular disease (CVD) risk co‐occurring with aging and with obesity. Early TRF (eTRF; early morning feeding followed by overnight fasting) times calorie consumption with hepatic circadian gene expression rhythms. Brief TRF trials demonstrate that high‐density lipoprotein (HDL) cholesterol increases similar to diet/exercise interventions, which may impart beneficial CVD effects. Using a nonhuman primate (NHP) model, the efficacy of eTRF to raise HDL and increase plasma cholesterol efflux capacity (CEC) (primarily mediated by cholesterol efflux to HDL particles, a process that is inversely associated with CVD risk) was examined.
+
+THU272 Early Time Restricted Feeding As a Weight Neutral Approach To Improved Glycemic Variation
+
+Number of 
+
+Key takeaways:Early time-restricted feeding (eTRF) can improve glycemic variation and decrease time above range in a weight-independent manner.
+
+Abstract:Abstract Disclosure: S. Nasserifar: None. J. Bruno: None. S. Vanegas: None. C. Popp: None. J.M. Walker: None. J.O. Aleman Diaz: None. Abstract: Early time-restricted feeding (eTRF) is a type of intermittent fasting that involves restricting caloric intake to the first 6-8 hours of the day. Various studies suggest that eTRF improves cardiometabolic health and glycemic variation. However, it is unclear whether these effects are a consequence of weight loss that frequently accompanies this dietary intervention or due to the metabolic effects of the feeding strategy itself. To address this, we conducted a randomized 7-day isocaloric crossover supervised feeding study comparing eTRF (80% of calories consumed before 1 pm) to a usual feeding pattern (UFP, 50% of calories consumed after 4 pm) among 10 participants with prediabetes and obesity in a metabolic ward. Participants were randomized 1:1 to eTRF or UFP for days 1-7, and then subsequently crossed over to the alternate arm on days 8-14. In order to determine the weight-independent effects of this intervention, food was provided to meet participants’ calculated caloric needs for weight maintenance. To assess glycemia, continuous glucose monitoring was utilized throughout the study period and OGTTs were performed at baseline, crossover point (day 7), and at the end of the study (day 14). Subjects’ weights were stable across the study duration. Compared to the control (UFP), eTRF resulted in decreased mean amplitude of glycemic excursion (MAGE) of 2.5 mmol/L ± 0.2 vs 2.9 mmol/L ± 0.3 (p<0.05) and decreased time above range of 3.1 % ± 1.3 vs 6.7 % ± 1.7 (p= 0.02). Time in range was similar between the two groups (eTRF 75.4 % ± 4.7 vs UFP 74.9 % ± 4.8 (p=0.88)). There was no significant difference in AUC of OGTT between the study groups (eTRF 16391 ± 1595 vs UFP 1586 ± 1586). In conclusion, our study findings suggest that eTRF can improve glycemic variation and decrease time above range in a weight independent manner. Ongoing studies will elucidate the signaling and metabolomic implications of the observed glycemic improvement. Presentation: Thursday, June 15, 2023
+
+114-LB: Early Time-Restricted Feeding Reduces Time in Elevated Glucose Range in Adults With Prediabetes
+
+Number of 
+
+Key takeaways:Early time-restricted feeding (eTRF) may improve glucose control in adults with prediabetes and high BMI by reducing daytime excursions into the elevated 140-180 mg/dL range.
+
+Abstract:Objective: Early time-restricted feeding (eTRF) is an intermittent fasting strategy restricting caloric intake to the first 6-8 hours of the day. While previous studies have shown that eTRF improves glycemia, it is unclear if the effect is due to associated weight loss or metabolic benefits of the feeding strategy itself. In this study, we evaluated the weight-independent effects of eTRF on glycemia using multiple CGM-based time in range (TIR) metrics.
+ Methods: We conducted a randomized 7-day isocaloric crossover supervised feeding study comparing eTRF (80% of calories consumed between 8am-1pm) to a usual feeding pattern (UFP, 50% of calories consumed after 4pm) among participants with prediabetes and BMI > 28 kg/m2 in a metabolic ward. Participants were randomized 1:1 to eTRF or UFP for days 1-7, then crossed over to the other arm on days 8-14. Food intake was tailored to meet weight stable caloric needs. Participants also wore blinded Abbott Freestyle Libre CGMs throughout the study period. We evaluated time spent below 70 mg/dL (TBR<70), in 70-140 mg/dL (TIR70-140), and in 140-180 mg/dL (TIR140-180) glucose range per arm. Further, we compared TIR140-180 between arms stratified by time of day: Daytime and Overnight (6am-12am and 12am-6am CGM readings, respectively) using linear mixed effect regression adjusting for type and order of intervention.
+ Results: We analyzed data from 10 participants (age 58 (10) years, 50% female, 80% Black, BMI: 37.3 (5.4) kg/m2, HbA1c: 5.8 (0.1)%). Weight change over the study period was not significant (p=0.08). Compared to UFP, eTRF was associated with a decrease in TIR140-180 overall (3.3%, p=0.01) and during Daytime (4.3%, p=0.02) but not Overnight (0.4%, p=0.73). We observed no significant differences in TBR<70 (p=0.28) and TIR70-140 (p=0.88) between arms.
+ Conclusion: eTRF may improve glucose control in adults with prediabetes and high BMI by reducing daytime excursions into the elevated 140-180 mg/dL range.
+ 
+ 
+ S. Barua: None. J. Bruno: None. S. Nasserifar: None. S. M. Vanegas: None. C. Popp: None. J. M. Walker: None. J. O. Aleman: Advisory Panel; Intellihealth, Consultant; Novo Nordisk, Employee; Veterans Administration, Research Support; NIH - National Institutes of Health, Veterans Administration.
+ 
+ 
+ 
+ Shapiro-Silverberg Foundation; The Rockefeller University; Doris Duke Charitable Foundation; American Heart Association (17-SFRN33490004); National Institutes of Health (K08DK117064); National Heart, Lung, and Blood Institute (5T32HL098129-12)
+
+The Effect of Early Time-Restricted Feeding on Glycemic Profile in Adults: A Systematic Review of Interventional Studies
+
+Number of 
+
+Key takeaways:Early time-restricted feeding (eTRF) has positive effects on glycemic profile in healthy individuals with normal BMI, but other factors should be considered for overweight, obese, and prediabetic individuals.
+
+Abstract:BACKGROUND Early time-restricted feeding (eTRF) is a new dietary strategy, involving extended fasting (>14h) from midafternoon onwards with or without calorie restriction. Most of the published studies indicate controversial effects on several glycemic markers. AIM To evaluate the effect of non-calorie restricted eTRF on the glycemic profile of adults. METHOD this systematic review was designed according to PRISMA guidelines. Pubmed/ Medline, the Cochrane library and EBSCO electronic databases were systematically searched for eligible clinical trials. Studies with eTRF or with daily fasting regimens that presented all the characteristics of eTRF were selected and compared with regular diet schedules or delayed time-restricted feeding. Blood glucose and insulin markers were extracted from each study as the main outcome measures. RESULTS Five articles including 67 adult subjects in total were selected. The period of intervention varied between 3 days to 5 weeks. Three of the included studies were diet- controlled for weight maintenance, whereas the other two studies allowed for free living. Quality assessment identified two studies of low and three studies of high risk of bias. two studies showed clear positive effects of eTRF on both glucose and insulin markers, including fasting glucose levels, muscle glucose intake, glucose iAUC responses insulin levels, and insulin resistance (p<0.05). Two other studies showed beneficial effects on glucose markers only (fasting glucose, 24h mean glucose levels, and iAUC responses, p<0.05) and the fifth study showed positive effects on insulin markers only (insulin resistance, p<0.05). CONCLUSIONS eTRF seems to have positive effects on the glycemic profile mainly in healthy individuals with normal BMI. However, other factors should also be taken into account to address overweight, obese, and prediabetic individuals. Further research is required to clarify better the effectiveness of eTRF among individuals with different characteristics.
+
+Different time-restricted feeding patterns potentially modulate metabolic health by altering tryptophan metabolism of gut microbes in pigs.
+
+Number of 
+
+Key takeaways:Time-restricted feeding patterns in pigs improve metabolic health by modulating gut microbiota and metabolites, potentially benefiting metabolic disorders.
+
+Time-restricted feeding promotes glucagon-like peptide-1 secretion and regulates appetite via tryptophan metabolism of gut Lactobacillus in pigs
+
+Number of 
+
+Key takeaways:Time-restricted feeding in pigs promotes GLP-1 secretion and regulates appetite by promoting Lactobacillus colonization and modulating microbial tryptophan metabolism.
+
+Abstract:ABSTRACT Previous clinical trials have shown that time-restricted feeding can be involved in regulating the metabolic health of humans and animals. However, the underlying mechanism has not been fully explored. In this study, the pig model was employed to simulate four prevalent human eating habits, with the aim of investigating the impact of gut microbiota and microbial metabolites on gut hormone secretion and appetite regulation. Compared to the ad libitum feeding (ALF) pattern, three time-restricted feeding patterns reduced total food intake and eating time. Meanwhile, three time-restricted feeding patterns induced elevated levels of serum and hypothalamic glucagon-like peptide-1 (GLP-1), while suppressing reward-related circuits in the hypothalamus. It is noteworthy that the early time-restricted feeding (eTRF) pattern increased the number of intestinal enteroendocrine cells (EECs) compared to ALF. Metagenomic and metabonomic analyses revealed that three time-restricted feeding patterns induced colonization of Lactobacillus and significantly increased the levels of its metabolite, indole-3-lactic acid (ILA). Dietary supplementation with ILA exhibited an increasing trend in fasting serum GLP-1 level of piglets. In vitro studies with pig intestinal organoids showed the Lactobacillus metabolite ILA enhanced GLP-1 secretion through the promotion of intestinal stem cell differentiation into EECs, rather than activating the ability of EECs to secrete GLP-1. Overall, time-restricted feeding promoted GLP-1 secretion and affected long-term appetite regulation by promoting the colonization of Lactobacillus and modulating microbial tryptophan metabolism.
+
+Effect of early vs. late time-restricted high-fat feeding on circadian metabolism and weight loss in obese mice
+
+Number of 
+
+Key takeaways:Early time-restricted high-fat feeding leads to increased insulin sensitivity, fat oxidation, and decreased body weight, fat profile, and inflammation in obese mice compared to late feeding.
+
+Abstract:Time-restricted feeding (TRF) limits the time and duration of food availability without calorie reduction. Although a high-fat (HF) diet leads to disrupted circadian rhythms, TRF can prevent metabolic diseases, emphasizing the importance of the timing component. However, the question of when to implement the feeding window and its metabolic effect remains unclear, specifically in obese and metabolically impaired animals. Our aim was to study the effect of early vs. late TRF-HF on diet-induced obese mice in an 8:16 light–dark cycle. C57BL male mice were fed ad libitum a high-fat diet for 14 weeks after which they were given the same food during the early (E-TRF-HF) or late (L-TRF-HF) 8 h of the dark phase for 5 weeks. The control groups were fed ad libitum either a high-fat (AL-HF) or a low-fat diet (AL-LF). Respiratory exchange ratio (RER) was highest for the AL-LF group and the lowest for the AL-HF group. E-TRF-HF led to lower body weight and fat depots, lower glucose, C-peptide, insulin, cholesterol, leptin, TNFα, and ALT levels compared with L-TRF-HF- and AL-HF-fed mice. TRF-HF regardless whether it was early or late led to reduced inflammation and fat accumulation compared with AL-HF-fed mice. E-TRF-HF led to advanced liver circadian rhythms with higher amplitudes and daily expression levels of clock proteins. In addition, TRF-HF led to improved metabolic state in muscle and adipose tissue. In summary, E-TRF-HF leads to increased insulin sensitivity and fat oxidation and decreased body weight, fat profile and inflammation contrary to AL-HF-fed, but comparable to AL-LF-fed mice. These results emphasize the importance of timed feeding compared to ad libitum feeding, specifically to the early hours of the activity period.
+
+Beneficial Effects of Early Time-Restricted Feeding on Metabolic Diseases: Importance of Aligning Food Habits with the Circadian Clock
+
+Number of 
+
+Key takeaways:Aligning food habits with the circadian clock may improve metabolic health and help combat metabolic diseases like obesity, diabetes, and cardiovascular diseases.
+
+Abstract:The importance of metabolic health is a major societal concern due to the increasing prevalence of metabolic diseases such as obesity, diabetes, and various cardiovascular diseases. The circadian clock is clearly implicated in the development of these metabolic diseases. Indeed, it regulates physiological processes by hormone modulation, thus helping the body to perform them at the ideal time of day. Since the industrial revolution, the actions and rhythms of everyday life have been modified and are characterized by changes in sleep pattern, work schedules, and eating habits. These modifications have in turn lead to night shift, social jetlag, late-night eating, and meal skipping, a group of customs that causes circadian rhythm disruption and leads to an increase in metabolic risks. Intermittent fasting, especially the time-restricted eating, proposes a solution: restraining the feeding window from 6 to 10 h per day to match it with the circadian clock. This approach seems to improve metabolic health markers and could be a therapeutic solution to fight against metabolic diseases. This review summarizes the importance of matching life habits with circadian rhythms for metabolic health and assesses the advantages and limits of the application of time-restricted fasting with the objective of treating and preventing metabolic diseases.
+
+99-OR: Effects of Early Time-Restricted Feeding during Gestation on Offspring Glucose Homeostasis in Mice
+
+Number of 
+
+Key takeaways:Early-time restricted feeding during gestation does not affect birth weight or gestational age, but reduces litter size and 3-day pup survival, with offspring maintaining similar insulin and glucose tolerance until adulthood.
+
+Abstract:Time-Restricted Feeding (TRF) is an increasingly common diet that may improve insulin sensitivity. This practice merits study in the setting of pregnancy, as the diet is common, pregnancy represents a critical period for the health of both mother and offspring, and the effects of TRF during pregnancy on maternal gestational health and long-term offspring consequences remain unexamined. To test these effects, female mice were randomized to 6 hours of food availability in the dark cycle (early-time restricted feeding, eTRF), or given 24-hour ad libitum (AL) food access. After one week of acclimatization, females were mated. Food intake and body composition were measured weekly throughout gestation; insulin sensitivity was assessed at day 16 of pregnancy. Offspring birth rate, survival, birthweight, and gestational age were assessed. Body composition and food intake were assessed weekly. After 70 days on a normal diet, all offspring were switched to a 45% high-fat diet (HFD) with continued weekly monitoring. Glucose tolerance and insulin tolerance tests were conducted before and after 10 weeks of HFD feeding. Our data suggests that maternal eTRF does not affect birth weight or gestational age, but does reduce litter size (7.7 pups vs. 6.0 pups) and 3-day pup survival (95% vs. 58%) compared to AL. eTRF offspring had similar insulin and glucose tolerance compared to AL counterparts until adulthood (70 days of age). After 12 weeks of high-fat diet feeding, eTRF males develop concomitant glucose intolerance (auc, p Disclosure M. E. Carter: None. N. El habbal: None. D. S. Snyder: None. J. R. Redd: None. B. Gregg: None. D. Bridges: None. Funding National Institute of Diabetes and Digestive and Kidney Diseases (R01DK107535); University of Michigan
+
+Effect of early feed restriction on metabolic programming and compensatory growth in broiler chickens.
+
+Number of 
+
+Key takeaways:Early feed restriction severely affects growth performance and lipid metabolism in broiler chickens, potentially leading to prolonged metabolic programming and adult obesity.
+
+Abstract:The effect of early feed restriction on metabolic programming and compensatory growth was studied in broiler chickens. A total of 480 female 1-d-old broiler birds (Aconred) were randomly allocated to ad libitum and feed-restricted groups, each of which was replicated 6 times with 40 birds per replicate. Broilers were provided commercial diets. Feed-restricted broilers were deprived of feed for 4 h per day from 1 to 21 d of age. Effects of treatments were determined at 21 and 63 d of age. In feed-restricted birds at 21 d of age, BW, average daily gain and average daily feed intake, breast muscle (P < 0.01), carcass yield (P < 0.05), and abdominal fat (P < 0.05) were decreased. Ether extract content in breast muscle was increased (P < 0.01), whereas CP content was slightly decreased. Triiodothyronine (P < 0.01) and thyroxine (P < 0.05) were decreased in serum. Free fatty acid and very low density lipoprotein were slightly increased in serum, whereas triglyceride and glucose were decreased (P < 0.01). Activities of NADPH-generating enzymes in liver including malic dehydrogenase, isocitrate dehydrogenase, and glucose-6-phosphate remained unchanged in ad libitum birds, whereas hormone-sensitive lipase activity was increased (P < 0.01). In feed-restricted birds at 63 d of age, BW, average daily gain, average daily feed intake, carcass yield, breast muscle yield, and serum triiodothyronine and thyroxine remained as ad libitum birds, whereas abdominal fat yield was increased (P < 0.05). Ether extract content in breast muscle was decreased (P < 0.01), whereas CP content was increased (P < 0.05). Activities of NADPH-generating enzymes were significantly increased, except abdominal malic dehydrogenase and hormone-sensitive lipase activity was decreased (P < 0.01) in liver and abdominal fat. Lipoprotein lipase activity was increased (P < 0.05) in abdominal fat. In summary, feed restriction severely affected growth performance and lipid metabolism in broilers in the early period. Because there was no statistical difference among the final BW, near full compensatory growth was achieved. In addition, early feed restriction might have induced prolonged metabolic programming in chicks and led to adult obesity.
+
+Gestational Early-Time Restricted Feeding Results in Sex-Specific Glucose Intolerance in Adult Male Mice
+
+Number of 
+
+Key takeaways:Gestational early-time restricted feeding during pregnancy leads to sex-specific glucose intolerance in adult male mice after chronic high fat, high sucrose diet feeding.
+
+Abstract:The timing of food intake is a novel dietary component that can impact health. Time-restricted feeding (TRF), a form of intermittent fasting, manipulates food timing. During pregnancy, one may experience disruptions to food intake for diverse reasons (e.g. nausea and vomiting of pregnancy, food insecurity, desire to manage gestational weight gain, disordered eating behaviors, changes in taste and food preferences, etc) and therefore may experience periods of intentional or unintentional fasting similar to TRF protocols. Because interest in TRF is gaining popularity and feeding may be interrupted in those who are pregnant, it is important to understand the long-term effects of TRF during pregnancy on the resultant offspring. Using a mouse model, we tested the effects of gestational exposure to early TRF (eTRF) over the life course of both male and female offspring. Offspring body composition was similar between experimental groups in both males and females from weaning (day 21) to adulthood (day 70), with minor increases in food intake in eTRF females and improved glucose tolerance in males. After 10 weeks of high fat, high sucrose diet feeding, male eTRF offspring were more sensitive to insulin but developed glucose intolerance with impaired insulin secretion. As such, gestational eTRF causes sex-specific deleterious effects on glucose homeostasis after chronic high fat, high sucrose diet feeding in male offspring. Further studies are needed to determine the effect gestational eTRF has on the male pancreas as well as to elucidate the mechanisms that protect females from this metabolic dysfunction.
+
+Effects of the feeding level in early gestation on body reserves and the productive and reproductive performance of primiparous and multiparous sows.
+
+Number of 
+
+Key takeaways:Increasing feeding levels in sows during early gestation may improve short-term productive and reproductive performance, but may increase litter mortality and require further studies on low-weight piglets.
+
+THE SYSTEMIC METABOLIC PROFILE EARLY AFTER ALLOGENEIC STEM CELL TRANSPLANTATION: EFFECTS OF ADEQUATE ENERGY SUPPORT ADMINISTERED THROUGH ENTERAL FEEDING TUBE.
+
+Number of 
+
+Key takeaways:Allotransplant recipients show altered metabolic profiles early after transplantation, mainly due to conditioning, transplantation, and reconstitution, with enteral feeding tube support having minor effects.
+
+HYP-FAST trial study protocol: a phase II, single-center, open-label RCT comparing the effect of early time-restricted feeding on blood pressure control versus standard of care in individuals with primary hypertension
+
+Number of 
+
+Key takeaways:Early time-restricted feeding combined with lifestyle modifications may be superior to standard treatment for primary hypertension.
+
+Abstract:: Background : Primary arterial hypertension is the most prevalent chronic disease globally and significantly impacts public health. It is hypothesized that 16:8 early time-restricted feeding (eTRF) bolsters blood pressure management. To date, there are no randomized trials evaluating its benefits in the treatment of hypertension as a primary outcome. Objective: To determine if eTRF combined with lifestyle modifications is superior to the standard lifestyle modifications treatment of primary hypertension recommended by the 2018 European hypertension guidelines. Methods: This will be a superiority, parallel, open-label, randomized, phase II trial carried out in a single center in Zurich, Switzerland. Participants between 30 and 60 years of age, recently diagnosed with high normal and grade I hypertension will be randomly assigned to the eTRF 18:6 plus lifestyle modifications group or the standard lifestyle interventions group. The primary outcome will be the difference between the mean systolic blood pressure at eight weeks with the baseline measurement. Discussion: This will be the first trial to evaluate the effects of intermittent fasting in patients with primary hypertension. Potential limitations include patient compliance to the intervention. However, in a previous study, self-reported adherence was observed in 1128 of 1351 participants (83.50%). In addition, this study seeks strategies to improve adherence. Conclusion: We hope that this trial directs other authors to carry out future studies aiming for higher external validity and evaluation of long-term effects of intermittent fasting for the treatment of primary hypertension.
+
+CARDIOVASCULAR RISK FACTORS ACROSS THE LIFECOURSE AND COGNITIVE DECLINE: A POOLED COHORT STUDY
+
+Number of 
+
+Key takeaways:Early adult and mid-life cardiovascular risk factors are associated with cognitive decline in late life, but late-life exposure may have protective effects after age 80.
+
+The Fasting and Shifted Timing (FAST) of Eating Study: A pilot feasibility randomized crossover intervention assessing the acceptability of three different fasting diet approaches
+
+Number of 
+
+Key takeaways:The Time-restricted Feeding (TRF) diet is the most acceptable and easiest to follow, while Alternate Day Fasting (ADF) is the most difficult, with no significant differences in weight loss or energy intake between the three diets.
+
+Cardiovascular Risk Factors Across the Life Course and Cognitive Decline
+
+Number of 
+
+Key takeaways:Early adulthood cardiovascular risk factors are associated with greater late-life cognitive decline, suggesting early intervention may improve late-life cognition.
+
+Abstract:Objective Cardiovascular risk factors (CVRFs) are associated with increased risk of cognitive decline, but little is known about how early adult CVRFs and those across the life course might influence late-life cognition. To test the hypothesis that CVRFs across the adult life course are associated with late-life cognitive changes, we pooled data from 4 prospective cohorts (n = 15,001, ages 18–95). Methods We imputed trajectories of body mass index (BMI), fasting glucose (FG), systolic blood pressure (SBP), and total cholesterol (TC) for older adults. We used linear mixed models to determine the association of early adult, midlife, and late-life CVRFs with late-life decline on global cognition (Modified Mini-Mental State Examination ) and processing speed (Digit Symbol Substitution Test ), adjusting for demographics, education, and cohort. Results Elevated BMI, FG, and SBP (but not TC) at each time period were associated with greater late-life decline. Early life CVRFs were associated with the greatest change, an approximate doubling of mean 10-year decline (an additional 3–4 points for 3MS or DSST). Late-life CVRFs were associated with declines in early late life (<80 years) but with gains in very late life (≥80 years). After adjusting for CVRF exposures at all time periods, the associations for early adult and late-life CVRFs persisted. Conclusions We found that imputed CVRFs across the life course, especially in early adulthood, were associated with greater late-life cognitive decline. Our results suggest that CVRF treatment in early adulthood could benefit late-life cognition, but that treatment in very late life may not be as helpful for these outcomes.
+
+Prevalence, characteristics, and predictors of early termination of cardiovascular clinical trials due to low recruitment: insights from the ClinicalTrials.gov registry.
+
+Number of 
+
+Key takeaways:Low recruitment is the main cause of early termination of cardiovascular clinical trials, with factors such as funding source, intervention type, and study design influencing the likelihood of early termination.
+
+Influence of early feeding practices on biomarkers of cardiovascular disease risk in later life
+
+Number of 
+
+Key takeaways:Early feeding practices, such as breastfeeding, can influence cardiovascular disease risk in later life, as breastfed infants and mothers have lower highly sensitive C-reactive protein levels.
+
+Early oral feeding after esophagectomy accelerated gut function recovery by regulating brain-gut peptide secretion.
+
+Number of 
+
+Key takeaways:Early oral feeding after esophagectomy accelerates gut function recovery by regulating brain-gut peptide secretion.
+
+Feeding strategy and prebiotic supplementation: Effects on immune responses and gut health in the early life stage of broiler chickens.
+
+Number of 
+
+Key takeaways:Incorporating prebiotics into broiler chicken starter diets can enhance immune responses and promote gut health, regardless of feeding strategy (early or late).
+
+The gut microbiome of extremely preterm infants randomized to the early progression of enteral feeding
+
+Number of 
+
+Key takeaways:Early progression of enteral feeding reduces parenteral nutrition duration and central venous access in extremely preterm infants, but does not appear to increase gut microbiome diversity in the first 28 days after birth.
+
+Impact of early-life feeding on local intestinal microbiota and digestive system development in piglets
+
+Number of 
+
+Key takeaways:Early feeding of a mixed-fibre diet significantly impacts colon microbiota composition and intestinal development in young piglets.
+
+Early Nutrition Programming (in ovo and Post-hatch Feeding) as a Strategy to Modulate Gut Health of Poultry
+
+Number of 
+
+Key takeaways:Early nutrition programming (in ovo and post-hatch feeding) can effectively modulate gut health in poultry, improving overall health and production.
+
+Abstract:Healthy gastrointestinal tract (GIT) is crucial for optimum performance, better feed efficiency, and overall health of poultry. In the past, antibiotic growth promoters (AGP) were commonly used to modulate the gut health of animals. However, considering the public health concern, the use of AGP in animal feeding is banned or regulated in several jurisdictions around the world. This necessitates the need for alternative nutritional strategies to produce healthy poultry. For that, several alternatives to AGP have been attempted with some success. However, effective modulation of the gut health parameters depends on the methods and timing of the compound being available to host animals. Routinely, the alternatives to AGP and other nutrients are provided in feed or water to poultry. However, the GIT of the newly hatched poultry is functionally immature, despite going through significant morphological, cellular, and molecular changes toward the end of incubation. Thus, early growth and development of GIT are of critical importance to enhance nutrients utilization and optimize the growth of poultry. Early nutrition programming using both in ovo and post-hatch feeding has been used as a means to modulate the early growth and development of GIT and found to be an effective strategy but with inconsistent results. This review summarizes the information on in ovo and post-hatch-feeding of different nutrients and feeds additives and their effects on gut development, histomorphology, microbiology, and immunology. Furthermore, this review will provide insight on the future of early nutrition programming as a strategy to enhance gut health, thereby improving overall health and production so that the poultry industry can benefit from this technique.
+
+Cross-feeding in the gut microbiome: Ecology and mechanisms.
+
+Number of 
+
+Key takeaways:Cross-feeding in the gut microbiome plays a crucial role in establishing stable, resistant, and resilient communities, impacting both microbe fitness and host health.
+
+Early-Life Events, Including Mode of Delivery and Type of Feeding, Siblings and Gender, Shape the Developing Gut Microbiota
+
+Number of 
+
+Key takeaways:Early-life events, such as mode of delivery, type of feeding, siblings, and gender, shape the developing gut microbiota, impacting gut maturation, metabolic, immune, and brain development.
+
+Abstract:Colonization of the infant gut is believed to be critically important for a healthy growth as it influences gut maturation, metabolic, immune and brain development in early life. Understanding factors that influence this process is important, since an altered colonization has been associated with a higher risk of diseases later in life. Fecal samples were collected from 108 healthy neonates in the first half year of life. The composition and functionality of the microbiota was characterized by measuring 33 different bacterial taxa by qPCR/RT qPCR, and 8 bacterial metabolites. Information regarding gender, place and mode of birth, presence of siblings or pets; feeding pattern and antibiotic use was collected by using questionnaires. Regression analysis techniques were used to study associations between microbiota parameters and confounding factors over time. Bacterial DNA was detected in most meconium samples, suggesting bacterial exposure occurs in utero. After birth, colonization by species of Bifidobacterium, Lactobacillus and Bacteroides was influenced by mode of delivery, type of feeding and presence of siblings, with differences found at species level and over time. Interestingly, infant-type bifidobacterial species such as B. breve or B. longum subsp infantis were confirmed as early colonizers apparently independent of the factors studied here, while B. animalis subsp. lactis presence was found to be dependent solely on the type of feeding, indicating that it might not be a common infant gut inhabitant. One interesting and rather unexpected confounding factor was gender. This study contributes to our understanding of the composition of the microbiota in early life and the succession process and the evolution of the microbial community as a function of time and events occurring during the first 6 months of life. Our results provide new insights that could be taken into consideration when selecting nutritional supplementation strategies to support the developing infant gut microbiome.
+
+Gut Microbiota Development: Influence of Diet from Infancy to Toddlerhood
+
+Number of 
+
+Key takeaways:Dietary factors, such as breastfeeding, formula feeding, and complementary feeding, significantly impact gut microbiota development in infancy and toddlerhood, potentially impacting future health.
+
+Abstract:Early life is a critical period as our gut microbiota establishes here and may impact both current and future health. Thus, it is of importance to understand how different factors govern the complex microbial colonization patterns in this period. The gut microbiota changes substantially during infancy and toddlerhood in terms of both taxonomic composition and diversity. This developmental trajectory differs by a variety of factors, including term of birth, mode of birth, intake of antibiotics, presence of furred pets, siblings and family members, host genetics, local environment, geographical location, and maternal and infant/toddler diet. The type of milk feeding and complementary feeding is particularly important in early and late infancy/toddlerhood, respectively. Breastfeeding, due to the supply of human milk oligosaccharide into the gut, promotes the growth of specific human milk oligosaccharide (HMO)-utilizing Bifidobacterium species that dominate the ecosystem as long as the infant is primarily breastfed. These species perform saccharolytic fermentation in the gut and produce metabolites with physiological effects that may contribute to protection against infectious and immune-related diseases. Formula feeding, due to its lack of HMOs and higher protein content, give rise to a more diverse gut microbiota that contains more opportunistic pathogens and results in a more proteolytic metabolism in the gut. Complementary feeding, due to the introduction of dietary fibers and new protein sources, induces a shift in the gut microbiota and metabolism away from the milk-adapted and toward a more mature and diverse adult-like community with increased abundances of short chain fatty acid-producing bacterial taxa. While the physiological implication of these complementary diet-induced changes remains to be established, a few recent studies indicate that an inadequately matured gut microbiota may be causally related to poor growth and development. Further studies are required to expand our knowledge on interactions between diet, gut microbiota, and health in the early life setting.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

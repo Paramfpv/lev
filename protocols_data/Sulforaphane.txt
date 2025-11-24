@@ -1,0 +1,557 @@
+PROTOCOL: Sulforaphane
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: 
+DESCRIPTION: Sulforaphane is a natural isothiocyanate found in cruciferous vegetables, valued for its multi-directional health benefits. Preclinical and early clinical studies have demonstrated its neuroprotective action, support for gut barrier integrity, and ability to inhibit carcinogenesis. Regular intake of sulforaphane may aid in protecting against oxidative stress, inflammation, and proliferative pathologies.
+
+CONTENT SECTIONS:
+
+Comprehensive protection of brain, gut, and cancer prevention
+
+Sulforaphane is a natural isothiocyanate found in cruciferous vegetables, valued for its multi-directional health benefits. Preclinical and early clinical studies have demonstrated its neuroprotective action, support for gut barrier integrity, and ability to inhibit carcinogenesis. Regular intake of sulforaphane may aid in protecting against oxidative stress, inflammation, and proliferative pathologies.
+
+Level of evidence:Preliminary
+
+Sulforaphane acts primarily by activating the Nrf2 pathway, leading to induction of antioxidant and anti-inflammatory enzymes and protecting cells from damage. In the gut, it strengthens the epithelial barrier and modulates the composition of beneficial microbiota. Additionally, it affects cancer cell epigenetics by inhibiting histone deacetylases, promoting apoptosis and cell cycle arrest, thus supporting cancer prevention.
+
+Sulforaphane is well tolerated by most people, but mild gastrointestinal complaints and allergic reactions are possible in sensitive individuals.
+
+The supplement is not recommended for certain groups due to insufficient safety data in these populations.
+
+6–30 mg per day of extract standardized to 5–15% sulforaphane
+
+Capsules or powder from broccoli sprout extract
+
+Initial effects after 2–4 weeks of regular use
+
+Best taken in the morning with a meal
+
+With mustard seeds or raw cabbage to enhance myrosinase activity
+
+For the first 5 days, take 4 doses of 15 mg sulforaphane, then switch to 10–20 mg daily
+
+Add mustard seeds to cruciferous vegetable meals to enhance sulforaphane formation
+
+Supplementation cycles
+
+Use in 2–3 month cycles with monthly breaks
+
+Maintain proper hydration to support metabolite elimination
+
+Sulforaphane positively affects brain health by protecting neurons from oxidative stress, inflammation, and neurodegenerative processes.
+
+Limitations and prospects
+
+Sulforaphane protects the gut from inflammation, supports the gut barrier, regulates microbiota, and alleviates damage and dysbiosis.
+
+Mechanisms of action and protective effects
+
+Sulforaphane demonstrates multi-directional anticancer activity by supporting carcinogen detoxification, inhibiting cancer cell proliferation, and modulating epigenetics and stem cells.
+
+Mechanisms of anticancer action
+
+Examples of effects in various cancers
+
+Limitations and future directions
+
+Scientific data and sources
+
+Level of evidencePreliminary
+
+Number of included studies:58
+
+Final comment:Sulforaphane intervention shows consistent effects in preclinical models (in vitro, in vivo) regarding brain protection, gut microbiota modulation, and cancer chemoprevention. Despite the emergence of individual clinical and pilot RCT studies indicating beneficial effects in humans, experimental research still predominates, classifying the evidence as preliminary.
+
+Sulforaphane and Brain Health: From Pathways of Action to Effects on Specific Disorders
+
+Number of 
+
+Key takeaways:Sulforaphane, found in broccoli seeds and sprouts, offers neuroprotective and cognitive benefits by reducing neuroinflammation, protecting against environmental pollutants, and supporting healthy glucose metabolism.
+
+Abstract:The brain accounts for about 2% of the body’s weight, but it consumes about 20% of the body’s energy at rest, primarily derived from ATP produced in mitochondria. The brain thus has a high mitochondrial density in its neurons because of its extensive energy demands for maintaining ion gradients, neurotransmission, and synaptic activity. The brain is also extremely susceptible to damage and dysregulation caused by inflammation (neuroinflammation) and oxidative stress. Many systemic challenges to the brain can be mitigated by the phytochemical sulforaphane (SF), which is particularly important in supporting mitochondrial function. SF or its biogenic precursor glucoraphanin, from broccoli seeds or sprouts, can confer neuroprotective and cognitive benefits via diverse physiological and biochemical mechanisms. SF is able to cross the blood–brain barrier as well as to protect it, and it mitigates the consequences of destructive neuroinflammation. It also protects against the neurotoxic effects of environmental pollutants, combats the tissue and cell damage wrought by advanced glycation end products (detoxication), and supports healthy glucose metabolism. These effects are applicable to individuals of all ages, from the developing brains in periconception and infancy, to cognitively, developmentally, and traumatically challenged brains, to those in later life as well as those who are suffering with multiple chronic conditions including Parkinson’s and Alzheimer’s diseases.
+
+Sulforaphane improves outcomes and slows cerebral ischemic/reperfusion injury via inhibition of NLRP3 inflammasome activation in rats
+
+Number of 
+
+Key takeaways:Sulforaphane treatment improves outcomes and slows cerebral ischemic/reperfusion injury in rats by inhibiting NLRP3 inflammasome activation and reducing IL-1 and IL-18 expression.
+
+Pre-Clinical Neuroprotective Evidences and Plausible Mechanisms of Sulforaphane in Alzheimer’s Disease
+
+Number of 
+
+Key takeaways:Sulforaphane, found in cruciferous vegetables, shows potential neuroprotective effects against Alzheimer's disease, suggesting a need for further research in pre-symptomatic populations.
+
+Abstract:Sulforaphane, a potent dietary bioactive agent obtainable from cruciferous vegetables, has been extensively studied for its effects in disease prevention and therapy. Sulforaphane potently induces transcription factor nuclear factor erythroid 2-related factor 2 (Nrf2)-mediated expression of detoxification, anti-oxidation, and immune system-modulating enzymes, and possibly acts as an anti-carcinogenic agent. Several clinical trials are in progress to study the effect of diverse types of cruciferous vegetables and sulforaphane on prostate cancer, breast cancer, lung cancer, atopic asthmatics, skin aging, dermatitis, obesity, etc. Recently, the protective effects of sulforaphane on brain health were also considerably studied, where the studies have further extended to several neurological diseases, including Alzheimer’s disease (AD), Parkinson’s disease, Huntington’s disease, amyotrophic lateral sclerosis, multiple sclerosis, autism spectrum disorder, and schizophrenia. Animal and cell studies that employ sulforaphane against memory impairment and AD-related pre-clinical biomarkers on amyloid-β, tau, inflammation, oxidative stress, and neurodegeneration are summarized, and plausible neuroprotective mechanisms of sulforaphane to help prevent AD are discussed. The increase in pre-clinical evidences consistently suggests that sulforaphane has a multi-faceted neuroprotective effect on AD pathophysiology. The anti-AD-like evidence of sulforaphane seen in cells and animals indicates the need to pursue sulforaphane research for relevant biomarkers in AD pre-symptomatic populations.
+
+Glioprotective Effects of Sulforaphane in Hypothalamus: Focus on Aging Brain.
+
+Number of 
+
+Key takeaways:Sulforaphane has anti-aging and glioprotective effects in aged astrocytes, potentially reducing age-related neurodegenerative diseases.
+
+Abstract:Sulforaphane is a natural compound with neuroprotective activity, but its effects on hypothalamus remain unknown. In line with this, astrocytes are critical cells to maintain brain homeostasis, and hypothalamic astrocytes are fundamental for sensing and responding to environmental changes involved in a variety of homeostatic functions. Changes in brain functionality, particularly associated with hypothalamic astrocytes, can contribute to age-related neurochemical alterations and, consequently, neurodegenerative diseases. Thus, here, we investigated the glioprotective effects of sulforaphane on hypothalamic astrocyte cultures and hypothalamic cell suspension obtained from aged Wistar rats (24 months old). Sulforaphane showed anti-inflammatory and antioxidant properties, as well as modulated the mRNA expression of astroglial markers, such as aldehyde dehydrogenase 1 family member L1, aquaporin 4, and vascular endothelial growth factor. In addition, it increased the expression and extracellular levels of trophic factors, such as glia-derived neurotrophic factor and nerve growth factor, as well as the release of brain-derived neurotrophic factor and the mRNA of TrkA, which is a receptor associated with trophic factors. Sulforaphane also modulated the expression of classical pathways associated with glioprotection, including nuclear factor erythroid-derived 2-like 2, heme oxygenase-1, nuclear factor kappa B p65 subunit, and AMP-activated protein kinase. Finally, a cell suspension with neurons and glial cells was used to confirm the predominant effect of sulforaphane in glial cells. In summary, this study indicated the anti-aging and glioprotective activities of sulforaphane in aged astrocytes.
+
+Sulforaphane: An emerging star in neuroprotection and neurological disease prevention.
+
+Number of 
+
+Key takeaways:Sulforaphane, found in cruciferous vegetables like broccoli and cauliflower, shows potential in neuroprotection and disease prevention by fostering neurogenesis and inhibiting apoptosis, oxidative stress, and neuroinflammation.
+
+Effects of sulforaphane in the central nervous system
+
+Number of 
+
+Key takeaways:Sulforaphane, found in cauliflower and broccoli, may prevent and treat central nervous system disorders by promoting neurogenesis and inhibiting oxidative stress and neuroinflammation.
+
+Sulforaphane protects against rotenone-induced neurotoxicity in vivo: Involvement of the mTOR, Nrf2, and autophagy pathways
+
+Number of 
+
+Key takeaways:Sulforaphane shows promising neuroprotective properties in a Parkinson's disease model, reducing oxidative stress, mTOR-dependent neuronal apoptosis, and restoring normal autophagy.
+
+Sulforaphane epigenetically enhances neuronal BDNF expression and TrkB signaling pathways
+
+Number of 
+
+Key takeaways:Sulforaphane, found in Brassica vegetables, has the potential to prevent neuronal disorders like Alzheimer's disease by epigenetically enhancing neuronal BDNF expression and its TrkB signaling pathways.
+
+Abstract:SCOPE
+Brain-derived neurotrophic factor (BDNF) is a neurotrophin that supports the survival of existing neurons and encourages the growth and differentiation of new neurons and synapses. We investigated the effect of sulforaphane, a hydrolysis product of glucoraphanin present in Brassica vegetables, on neuronal BDNF expression and its synaptic signaling pathways.
+
+METHODS AND RESULTS
+Mouse primary cortical neurons and a triple-transgenic mouse model of Alzheimer's disease (3 × Tg-AD) were used to study the effect of sulforaphane. Sulforaphane enhanced neuronal BDNF expression and increased levels of neuronal and synaptic molecules such as MAP2, synaptophysin, and PSD-95 in primary cortical neurons and 3 × Tg-AD mice. Sulforaphane elevated levels of synaptic TrkB signaling pathway components, including CREB, CaMKII, ERK, and Akt in both primary cortical neurons and 3 × Tg-AD mice. Sulforaphane increased global acetylation of histone 3 (H3) and H4, inhibited HDAC activity, and decreased the level of HDAC2 in primary cortical neurons. Chromatin immunoprecipitation analysis revealed that sulforaphane increased acetylated H3 and H4 at BDNF promoters, suggesting that sulforaphane regulates BDNF expression via HDAC inhibition.
+
+CONCLUSION
+These findings suggest that sulforaphane has the potential to prevent neuronal disorders such as Alzheimer's disease by epigenetically enhancing neuronal BDNF expression and its TrkB signaling pathways.
+
+Sulforaphane Ameliorates Okadaic Acid-Induced Memory Impairment in Rats by Activating the Nrf2/HO-1 Antioxidant Pathway
+
+Number of 
+
+Key takeaways:Sulforaphane protects against Okadaic acid-induced memory impairment in rats by activating the Nrf2/HO-1 antioxidant pathway and reducing oxidative stress and neuroinflammation.
+
+Abstract:Okadaic acid (OKA) causes memory impairment and attenuates nuclear factor erythroid 2-related factor 2 (Nrf2) along with oxidative stress and neuroinflammation in rats. Sulforaphane (dietary isothiocyanate compound), an activator of Nrf2 signaling, exhibits neuroprotective effects. However, the protective effect of sulforaphane in OKA-induced neurotoxicity remains uninvestigated. Therefore, in the present study, the role of sulforaphane in OKA-induced memory impairment in rats was explored. A significant increased Nrf2 expression in the hippocampus and cerebral cortex was observed in trained (Morris water maze) rats, and a significant decreased Nrf2 expression in memory-impaired (OKA, 200 ng icv) rats indicated its involvement in memory function. Sulforaphane administration (5 and 10 mg/kg, ip, days 1 and 2) ameliorates OKA-induced memory impairment in rats. The treatment also restored Nrf2 and its downstream antioxidant protein expression (GCLC, HO-1) and attenuated oxidative stress (ROS, nitrite, GSH), neuroinflammation (NF-κB, TNF-α, IL-10), and neuronal apoptosis in the cerebral cortex and hippocampus of OKA-treated rats. Further, to determine whether modulation of Nrf2 signaling is responsible for the protective effect of sulforaphane, in vitro, Nrf2 siRNA and its downstream HO-1 inhibition studies were carried out in a rat astrocytoma cell line (C6). The protective effects of sulforaphane were abolished with Nrf2 siRNA and HO-1 inhibition in astrocytes. The results suggest that Nrf2-dependent activation of cellular antioxidant machinery results in sulforaphane-mediated protection against OKA-induced memory impairment in rats.
+ᅟ
+
+Sulforaphane Inhibits the Generation of Amyloid-β Oligomer and Promotes Spatial Learning and Memory in Alzheimer’s Disease (PS1V97L) Transgenic Mice
+
+Number of 
+
+Key takeaways:Sulforaphane treatment inhibits amyloid- oligomer production and promotes spatial learning and memory in Alzheimer's disease transgenic mice, potentially offering a potential treatment for Alzheimer's disease.
+
+Abstract:Abnormal amyloid-β (Aβ) aggregates are a striking feature of Alzheimer’s disease (AD), and Aβ oligomers have been proven to be crucial in the pathology of AD. Any intervention targeting the generation or aggregation of Aβ can be expected to be useful in AD treatment. Oxidative stress and inflammation are common pathological changes in AD that are involved in the generation and aggregation of Aβ. In the present study, 6-month-old PS1V97L transgenic (Tg) mice were treated with sulforaphane, an antioxidant, for 4 months, and this treatment significantly inhibited the generation and aggregation of Aβ. Sulforaphane also alleviated several downstream pathological changes that including tau hyperphosphorylation, oxidative stress, and neuroinflammation. Most importantly, the cognition of the sulforaphane-treated PS1V97L Tg mice remained normal compared to that of wild-type mice at 10 months of age, when dementia typically emerges in PS1V97L Tg mice. Pretreating cultured cortical neurons with sulforaphane also protected against neuronal injury caused by Aβ oligomers in vitro. These findings suggest that sulforaphane may be a potential compound that can inhibit Aβ oligomer production in AD.
+
+Effects of sulforaphane on cognitive function in patients with frontal brain damage: study protocol for a randomised controlled trial
+
+Number of 
+
+Key takeaways:Sulforaphane may improve cognitive function and quality of life in patients with frontal brain damage, potentially benefiting brain trauma, brain tumors, and cerebrovascular outcomes.
+
+Abstract:Introduction Many patients with frontal brain damage show serious cognitive function deficits, which hamper their quality of life and result in poor clinical outcomes. Preclinical research has shown that sulforaphane can significantly improve spatial localisation and working memory impairment after brain injury. The primary aim of this double-blind randomised controlled clinical trial is to assess the efficacy of sulforaphane for improving cognitive function in patients with frontal brain damage. Methods and analysis Ninety eligible patients will be randomly allocated to an active treatment or a placebo group in a 2:1 ratio. Participants will undergo a series of cognitive and neuropsychiatric tests at baseline (week 0) and after 12 weeks to determine the effect of sulforaphane on cognition. Magnetic resonance spectrum of the brain will be studied using the 3T MRIs of the brain to detect brain metabolites markers, including N-acetyl aspartate, glutamate (Glu), glutathione (GSH) and γ-aminobutyric acid (GABA). Blood brain-derived neurotrophic factor, Glu, GSH and GABA levels and gut microbiota will also be assessed over this period. This study will also evaluate long-term outcomes of brain trauma, brain tumours and cerebrovascular disease via exploratory analyses. The primary outcome will be the difference in scores of a battery of cognitive tests after 12 weeks of sulforaphane treatment. The secondary outcomes will be changes in the Functional Activities Questionnaire (FAQ), the Patient Health Questionnaire (PHQ-9), the Self-Rating Anxiety Scale, the changes in T1-weighted MRI and resting-state functional MRI findings, and changes in brain and blood metabolic markers and gut microbiota at weeks 0 and 12. We expect that sulforaphane will yield favourable results in treating memory and learning deficits for patients with frontal brain damage. Cognitive functional treatment may also improve brain trauma, brain tumours and cerebrovascular outcomes. Ethics and dissemination The study protocol has been approved by the Medical Ethics committee of the Xiangya Hospital of Central South University (No. 2017121019). The results will be disseminated in peer-reviewed journals and at international conferences. Trial registration number This trial was registered on Clinicaltrials.gov on 31 January 2020 (NCT04252261). The protocol version is V.1.0 (20 December 2019).
+
+Sulforaphane suppresses Aβ accumulation and tau hyperphosphorylation in vascular cognitive impairment(VCI).
+
+Number of 
+
+Key takeaways:Sulforaphane, found in cruciferous vegetables, effectively reduces A and p-tau accumulation in vascular cognitive impairment, potentially improving brain health and preventing dementia.
+
+Sulforaphane (4-methylsulfnylbutyl isothiocyanate) mitigates gold nanoparticle induced brain toxicity in male albino rats
+
+Number of 
+
+Key takeaways:Sulforaphane effectively protects against gold nanoparticle-induced brain damage in male albino rats by blocking oxidative stress and inflammation.
+
+Sulforaphane Augments Glutathione and Influences Brain Metabolites in Human Subjects: A Clinical Pilot Study
+
+Number of 
+
+Key takeaways:Sulforaphane increases blood glutathione levels and influences brain metabolites in healthy human subjects, suggesting potential benefits for neuropsychiatric disorders.
+
+Abstract:Schizophrenia and other neuropsychiatric disorders await mechanism-associated interventions. Excess oxidative stress is increasingly appreciated to participate in the pathophysiology of brain disorders, and decreases in the major antioxidant, glutathione (GSH), have been reported in multiple studies. Technical cautions regarding the estimation of oxidative stress-related changes in the brain via imaging techniques have led investigators to explore peripheral GSH as a possible pathological signature of oxidative stress-associated brain changes. In a preclinical model of GSH deficiency, we found a correlation between whole brain and peripheral GSH levels. We found that the naturally occurring isothiocyanate sulforaphane increased blood GSH levels in healthy human subjects following 7 days of daily oral administration. In parallel, we explored the potential influence of sulforaphane on brain GSH levels in the anterior cingulate cortex, hippocampus, and thalamus via 7-T magnetic resonance spectroscopy. A significant positive correlation between blood and thalamic GSH post- and pre-sulforaphane treatment ratios was observed, in addition to a consistent increase in brain GSH levels in response to treatment. This clinical pilot study suggests the value of exploring relationships between peripheral GSH and clinical/neuropsychological measures, as well as the influences sulforaphane has on functional measures that are altered in neuropsychiatric disorders.
+
+Efficacy of Sulforaphane in Neurodegenerative Diseases
+
+Number of 
+
+Key takeaways:Sulforaphane, found in cruciferous vegetable sprouts, shows potential as an effective supplement for treating neurodegenerative diseases like Alzheimer's, Parkinson's, and multiple sclerosis.
+
+Abstract:Sulforaphane (SFN) is a phytocompound belonging to the isothiocyanate family. Although it was also found in seeds and mature plants, SFN is mainly present in sprouts of many cruciferous vegetables, including cabbage, broccoli, cauliflower, and Brussels sprouts. SFN is produced by the conversion of glucoraphanin through the enzyme myrosinase, which leads to the formation of this isothiocyanate. SFN is especially characterized by antioxidant, anti-inflammatory, and anti-apoptotic properties, and for this reason, it aroused the interest of researchers. The aim of this review is to summarize the experimental studies present on Pubmed that report the efficacy of SFN in the treatment of neurodegenerative disease, including Alzheimer’s disease (AD), Parkinson’s disease (PD), and multiple sclerosis (MS). Therefore, thanks to its beneficial effects, SFN could be useful as a supplement to counteracting neurodegenerative diseases.
+
+Sulforaphane as a Potential Protective Phytochemical against Neurodegenerative Diseases
+
+Number of 
+
+Key takeaways:Sulforaphane, found in Brassica vegetables, shows promising neuroprotective effects, potentially playing a key role in preventing neurodegeneration.
+
+Abstract:A wide variety of acute and chronic neurodegenerative diseases, including ischemic/traumatic brain injury, Alzheimer's disease, and Parkinson's disease, share common characteristics such as oxidative stress, misfolded proteins, excitotoxicity, inflammation, and neuronal loss. As no drugs are available to prevent the progression of these neurological disorders, intervention strategies using phytochemicals have been proposed as an alternative form of treatment. Among phytochemicals, isothiocyanate sulforaphane, derived from the hydrolysis of the glucosinolate glucoraphanin mainly present in Brassica vegetables, has demonstrated neuroprotective effects in several in vitro and in vivo studies. In particular, evidence suggests that sulforaphane beneficial effects could be mainly ascribed to its peculiar ability to activate the Nrf2/ARE pathway. Therefore, sulforaphane appears to be a promising compound with neuroprotective properties that may play an important role in preventing neurodegeneration.
+
+Possible Prophylactic Effects of Sulforaphane on LPS-Induced Recognition Memory Impairment Mediated by Regulating Oxidative Stress and Neuroinflammatory Proteins in the Prefrontal Cortex Region of the Brain
+
+Number of 
+
+Key takeaways:Sulforaphane may protect against memory impairments caused by chronic lipopolysaccharide administration by regulating neuroinflammation and oxidative stress in the prefrontal cortex.
+
+Abstract:Background: Alzheimer’s disease (AD) presents a significant global health concern, characterized by neurodegeneration and cognitive decline. Neuroinflammation is a crucial factor in AD development and progression, yet effective pharmacotherapy remains elusive. Sulforaphane (SFN), derived from cruciferous vegetables and mainly from broccoli, has shown a promising effect via in vitro and in vivo studies as a potential treatment for AD. This study aims to investigate the possible prophylactic mechanisms of SFN against prefrontal cortex (PFC)-related recognition memory impairment induced by lipopolysaccharide (LPS) administration. Methodology: Thirty-six Swiss (SWR/J) mice weighing 18–25 g were divided into three groups (n = 12 per group): a control group (vehicle), an LPS group (0.75 mg/kg of LPS), and an LPS + SFN group (25 mg/kg of SFN). The total duration of the study was 3 weeks, during which mice underwent treatments for the initial 2 weeks, with daily monitoring of body weight and temperature. Behavioral assessments via novel object recognition (NOR) and temporal order recognition (TOR) tasks were conducted in the final week of the study. Inflammatory markers (IL-6 and TNF), antioxidant enzymes (SOD, GSH, and CAT), and pro-oxidant (MDA) level, in addition to acetylcholine esterase (AChE) activity and active (caspase-3) and phosphorylated (AMPK) levels, were evaluated. Further, PFC neuronal degeneration, Aβ content, and microglial activation were also examined using H&E, Congo red staining, and Iba1 immunohistochemistry, respectively. Results: SFN pretreatment significantly improved recognition memory performance during the NOR and TOR tests. Moreover, SFN was protected from neuroinflammation and oxidative stress as well as neurodegeneration, Aβ accumulation, and microglial hyperactivity. Conclusion: The obtained results suggested that SFN has a potential protective property to mitigate the behavioral and biochemical impairments induced by chronic LPS administration and suggested to be via an AMPK/caspase-3-dependent manner.
+
+Brain Training and Sulforaphane Intake Interventions Separately Improve Cognitive Performance in Healthy Older Adults, Whereas a Combination of These Interventions Does Not Have More Beneficial Effects: Evidence from a Randomized Controlled Trial
+
+Number of 
+
+Key takeaways:A combination of brain-training and sulforaphane intake alone improves cognitive performance in healthy older adults, but the combined intervention shows no more beneficial effects on cognition.
+
+Abstract:Background: Earlier studies have demonstrated that a single-domain intervention, such as a brain-training (BT) game alone and a sulforaphane (SFN) intake, positively affects cognition. This study examined whether a combined BT and SFN intake intervention has beneficial effects on cognitive function in older adults. Methods: In a 12-week double-blinded randomized control trial, 144 older adults were randomly assigned to one of four groups: BT with SFN (BT-S), BT with placebo (BT-P), active control game (AT) with SFN (AT-S), and active control game with placebo (AT-P). We used Brain Age in BT and Tetris in AT. Participants were asked to play BT or AT for 15 min a day for 12 weeks while taking a supplement (SFN or placebo). We measured several cognitive functions before and after the intervention period. Results: The BT (BT-S and BT-P) groups showed more improvement in processing speed than the active control groups (AT-S and AT-P). The SFN intake (BT-S and AT-S) groups recorded significant improvements in processing speed and working memory performance unlike the placebo intake groups (BT-P and AT-P). However, we did not find any evidence of the combined intervention’s beneficial effects on cognition. Discussion: We discussed a mechanism to improve cognitive functions in the BT and SFN alone interventions.
+
+Sulforaphane exerts its anti-inflammatory effect against amyloid-β peptide via STAT-1 dephosphorylation and activation of Nrf2/HO-1 cascade in human THP-1 macrophages
+
+Number of 
+
+Key takeaways:Sulforaphane reduces inflammation in Alzheimer's disease brains by inhibiting NLRP3 inflammasome activation and activating the Nrf2/HO-1 cascade in human microglia-like cells.
+
+THE PHYTOPROTECTIVE AGENT SULFORAPHANE PREVENTS INFLAMMATORY DEGENERATIVE DISEASES AND AGE-RELATED PATHOLOGIES VIA NRF2-MEDIATED HORMESIS.
+
+Number of 
+
+Key takeaways:Sulforaphane reduces inflammation and age-related diseases by activating the Nrf2 pathway, potentially benefiting public health and clinical treatments.
+
+The functional role of sulforaphane in intestinal inflammation: a review.
+
+Number of 
+
+Key takeaways:Sulforaphane, found in cruciferous plants, has anti-inflammatory properties and potential as dietary supplements to promote intestinal health and reduce the risk of inflammatory bowel disease.
+
+Abstract:Intestinal inflammation represented by inflammatory bowel disease (IBD) has become a global epidemic disease and the number of patients with IBD continues to increase. This digestive tract disease not only affects the absorption of food components by destroying the intestinal epithelial structure, but also can induce diseases in remote organs via the gut-organ axis, seriously harming human health. Nowadays, increasing attention is being paid to the nutritional and medicinal value of food components with increasing awareness among the general public regarding health. As an important member of the isothiocyanates, sulforaphane (SFN) is abundant in cruciferous plants and is famous for its excellent anti-cancer effects. With the development of clinical research, more physiological activities of SFN, such as antidepressant, hypoglycemic and anti-inflammatory activities, have been discovered, supporting the fact that SFN and SFN-rich sources have great potential to be dietary supplements that are beneficial to health. This review summarizes the characteristics of intestinal inflammation, the anti-inflammatory mechanism of SFN and its various protective effects on intestinal inflammation, and the possible future applications of SFN for promoting intestinal health have also been discussed.
+
+Sulforaphane protects intestinal epithelial cells against lipopolysaccharide-induced injury by activating the AMPK/SIRT1/PGC-1ɑ pathway
+
+Number of 
+
+Key takeaways:Sulforaphane protects intestinal epithelial cells from lipopolysaccharide-induced injury by activating the AMPK/SIRT1/PGC-1 pathway and reducing inflammation and apoptosis.
+
+Abstract:ABSTRACT The naturally occurring isothiocyanate sulforaphane, found in vegetables, shows promising anti-inflammatory, anti-apoptosis, and anti-oxidative effects. Whether sulforaphane protects against lipopolysaccharide (LPS)-induced injury in intestinal epithelial cells is unclear. The present study examines the ability of sulforaphane to protect Caco-2 cultures from LPS-induced injury, as well as the mechanism involved. Caco-2 cells were incubated for 24 h with 1 μg/mL LPS and different concentrations of sulforaphane (0.1–10 μM). Then, various indicators of oxidative stress, inflammation, apoptosis, and intestinal permeability were assayed. Sulforaphane increased cell viability and reduced lactate dehydrogenase activity in LPS-treated Caco-2 cells in a concentration-dependent manner. Sulforaphane weakened LPS-induced increases in intestinal epithelial cell permeability and oxidative stress (based on assays of reactive oxygen species, DMA, and H2O2), and it increased levels of antioxidants (SOD, GPx, CAT and T-AOC). At the same time, sulforaphane weakened the ability of LPS to induce production of inflammatory cytokines (IL-1β, IL-6, IL-8 and TNF-α) and the pro-apoptotic caspases-3 and −9. Sulforaphane also upregulated p-AMPK, SIRT1, and PGC-1ɑ, whose inhibitors antagonized the compound’s protective effects. Sulforaphane can protect intestinal epithelial cells against LPS-induced changes in intestinal permeability, oxidative stress, inflammation, and apoptosis. It appears to act by activating the AMPK/SIRT1/PGC-1ɑ pathway. The drug therefore shows potential for preventing LPS-induced intestinal injury. GRAPHICAL ABSTRACT
+
+The Rationale for Sulforaphane Favourably Influencing Gut Homeostasis and Gut–Organ Dysfunction: A Clinician’s Hypothesis
+
+Number of 
+
+Key takeaways:Sulforaphane may help restore gut ecology and improve digestive disorders by targeting intestinal epithelial cells, offering an alternative to microbes.
+
+Abstract:Given the increasing scientific, clinical and consumer interest in highly prevalent functional gastrointestinal disorders, appropriate therapeutic strategies are needed to address the many aspects of digestive dysfunction. Accumulating evidence for the crucifer-derived bioactive molecule sulforaphane in upstream cellular defence mechanisms highlights its potential as a therapeutic candidate in targeting functional gastrointestinal conditions, as well as systemic disorders. This article catalogues the evolution of and rationale for a hypothesis that multifunctional sulforaphane can be utilised as the initial step in restoring the ecology of the gut ecosystem; it can do this primarily by targeting the functions of intestinal epithelial cells. A growing body of work has identified the colonocyte as the driver of dysbiosis, such that targeting gut epithelial function could provide an alternative to targeting the microbes themselves for the remediation of microbial dysbiosis. The hypothesis discussed herein has evolved over several years and is supported by case studies showing the application of sulforaphane in gastrointestinal disorders, related food intolerance, and several systemic conditions. To the best of our knowledge, this is the first time the effects of sulforaphane have been reported in a clinical environment, with several of its key properties within the gut ecosystem appearing to be related to its nutrigenomic effects on gene expression.
+
+Glucoraphanin conversion into sulforaphane and related compounds by gut microbiota
+
+Number of 
+
+Key takeaways:Gut microbiota metabolize glucoraphanin in cruciferous vegetables to sulforaphane, which alleviates intestinal inflammation and oxidative stress, maintaining gut barrier integrity.
+
+Abstract:Glucosinolate glucoraphanin, common in cruciferous vegetables, is a biologically stable precursor of isothiocyanates, such as sulforaphane and erucin, potent activators of Nrf2 signaling coordinating an adaptive response to oxidative stress. Sulforaphane is formed by the hydrolysis of glucoraphanin by a plant enzyme called myrosinase, which is inactivated in the stomach of mammals. Since the latter do not have enzymes possessing myrosinase-like activity, glucoraphanin can be metabolized by the gut microbiota, to sulforaphane, sulforaphane-nitrile, glucoerucin, erucin, and erucin-nitrile. Emerging evidence suggests that variations in gut microbiota composition significantly influence the efficiency and outcome of glucoraphanin metabolism, while sulforaphane itself may reciprocally modulate gut microbiota composition and functionality. This review examines the bidirectional interactions between glucoraphanin, sulforaphane, and gut microbiota. We assume that sulforaphane alleviates intestinal inflammation and oxidative stress maintaining intestinal homeostasis and gut barrier integrity. Besides, the role of sulforaphane in breaking the vicious cycle of oxidative stress and gut dysbiosis is reported, demonstrating the potential of dietary isothiocyanates to support gut barrier function.
+
+Sulforaphane attenuates dextran sodium sulphate induced intestinal inflammation via IL-10/STAT3 signaling mediated macrophage phenotype switching
+
+Number of 
+
+Key takeaways:Sulforaphane effectively reduces intestinal inflammation by switching macrophage phenotypes, promoting intestinal homeostasis and IL-10/STAT3 signaling-mediated inflammation.
+
+Sulforaphane alter the microbiota and mitigate colitis severity on mice ulcerative colitis induced by DSS
+
+Number of 
+
+Key takeaways:Sulforaphane treatment reduces colitis severity in mice by altering gut microbiota and coordinating with probiotics like Butyricicoccus.
+
+Abstract:Abstract Sulforaphane (SFN) is a kind of natural isothiocyanate, which exists in cruciferous plants. Only few studies were about the anti-inflammatory effects of sulforaphane in ulcerative colitis. In this study, our purpose is to explore the effects of sulforaphane on the intestinal microbial community of UC mice. The severity of mice colitis were measured by colon length, survial rate, body weight and disease activity index (DAI) score. Histological and morphological evaluation of colon tissues were performed by HE. 16S rRNA gene amplicon pyrosequencing was used to analyza the changes of mouse flora. The variety of flora expression were explored using quantitative PCR. Sulforaphane treated mice had larger body weight and longer colon length than DSS-induced mice. The colon tissues of DSS group showed congestion and edema. Meanwhile, treatment with sulforaphane effectively reducted the damage scores and MPO activity. Sulforaphane reversed DSS-induced gut dysbiosis. Sulforaphane would shift the balance to Butyricicoccus on inflammation. The possible anti-inflammatory mechanism of sulforaphane is to coordinate with the probiotics such as Butyricicoccus . In summary, these findings proved that sulforaphane might be a useful content and serve as a potential therapy in the treatment of UC.
+
+The broccoli-derived antioxidant sulforaphane changes the growth of gastrointestinal microbiota, allowing for the production of anti-inflammatory metabolites
+
+Number of 
+
+Key takeaways:Sulforaphane, found in broccoli, can increase the growth of specific gastrointestinal microbiota, leading to the production of anti-inflammatory metabolites, providing a novel mechanism for modulating inflammatory states in patients.
+
+Sulforaphane and Albumin Attenuate Experimental Intestinal Ischemia-Reperfusion Injury.
+
+Number of 
+
+Key takeaways:Sulforaphane and albumin effectively reduce intestinal ischemia-reperfusion injury in rats, likely due to their antioxidative effects.
+
+Sulforaphane-enriched extracts from glucoraphanin-rich broccoli exert antimicrobial activity against gut pathogens in vitro and innovative cooking methods increase in vivo intestinal delivery of sulforaphane
+
+Number of 
+
+Key takeaways:Sulforaphane-enriched broccoli soup with mustard seeds may inhibit bacterial growth in the stomach and upper small intestine, but not in the terminal ileum or the colon.
+
+Abstract:Studies on broccoli (Brassica oleracea var. italica) indicate beneficial effects against a range of chronic diseases, commonly attributed to their bioactive phytochemicals. Sulforaphane, the bioactive form of glucoraphanin, is formed by the action of the indigenous enzyme myrosinase. This study explored the role that digestion and cooking practices play in bioactivity and bioavailability, especially the rarely considered dose delivered to the colon.The antimicrobial activity of sulforaphane extracts from raw, cooked broccoli and cooked broccoli plus mustard seeds (as a source myrosinase) was assessed. The persistence of broccoli phytochemicals in the upper gastrointestinal tract was analysed in the ileal fluid of 11 ileostomates fed, in a cross-over design, broccoli soup prepared with and without mustard seeds.The raw broccoli had no antimicrobial activity, except against Bacillus cereus, but cooked broccoli (with and without mustard seeds) showed considerable antimicrobial activity against various tested pathogens. The recovery of sulforaphane in ileal fluids post soup consumption was < 1% but the addition of mustard seeds increased colon-available sulforaphane sixfold. However, when sulforaphane was extracted from the ileal fluid with the highest sulforaphane content and tested against Escherichia coli K12, no inhibitory effects were observed. Analysis of glucosinolates composition in ileal fluids revealed noticeable inter-individual differences, with six 'responding' participants showing increases in glucosinolates after broccoli soup consumption.Sulforaphane-rich broccoli extracts caused potent antimicrobial effects in vitro, and the consumption of sulforaphane-enriched broccoli soup may inhibit bacterial growth in the stomach and upper small intestine, but not in the terminal ileum or the colon.
+
+Sulforaphane and Its Relationship with the Intestinal Flora
+
+Number of 
+
+Key takeaways:Sulforaphane has a direct positive influence on intestinal flora, preventing the growth of various bacteria and promoting good gut health.
+
+Abstract:Sulforaphane is a compound that is correlated to the iso-thiocyanate family.It is well studied to be anti-carcinogenic preventing stomach cancers, antimicrobial, anti-inflammatory and neuroprotective in addition to its sufficient ability to protect against aging and diabetes. Sulforaphane reveals a direct positive effect on the intestinal tissues as it shows a sufficient ability in presenting a high antimicrobial respond that leads to the prevention of uprising various bacteria including both the gram-positive and the gram-negative ones such as Escheria coli and Helicobacter pylori in addition to other types of bacteria. The main objective of this study is to report a profound review of the recent papers done on this topic in order to clarify the relationship between the sulforaphane and intestine. For this review, however, there are no many articles that indicate the intimate relation, ten articles and reports from PubMed and Google Scholar databases have been included in this review of literature in order to demonstrate sulforaphane and its functions and effects towards the intestinal flora. This updated literature synthesis compromised that sulforaphane has a direct positive influence on the intestinal flora. Thus more attention should be put into consideration regarding the increase of its intake.
+
+In Vitro Insights into the Dietary Role of Glucoraphanin and Its Metabolite Sulforaphane in Celiac Disease
+
+Number of 
+
+Key takeaways:Sulforaphane from broccoli sprouts shows potential in reducing inflammation and oxidative stress in the small intestine, while glucoraphanin shows inertness, suggesting potential interest in celiac disease treatment.
+
+Abstract:Sulforaphane is considered the bioactive metabolite of glucoraphanin after dietary consumption of broccoli sprouts. Although both molecules pass through the gut lumen to the large intestine in stable form, their biological impact on the first intestinal tract is poorly described. In celiac patients, the function of the small intestine is affected by celiac disease (CD), whose severe outcomes are controlled by gluten-free dietary protocols. Nevertheless, pathological signs of inflammation and oxidative stress may persist. The aim of this study was to compare the biological activity of sulforaphane with its precursor glucoraphanin in a cellular model of gliadin-induced inflammation. Human intestinal epithelial cells (CaCo-2) were stimulated with a pro-inflammatory combination of cytokines (IFN-γ, IL-1β) and in-vitro-digested gliadin, while oxidative stress was induced by H2O2. LC-MS/MS analysis confirmed that sulforaphane from broccoli sprouts was stable after simulated gastrointestinal digestion. It inhibited the release of all chemokines selected as inflammatory read-outs, with a more potent effect against MCP-1 (IC50 = 7.81 µM). On the contrary, glucoraphanin (50 µM) was inactive. The molecules were unable to counteract the oxidative damage to DNA (γ-H2AX) and catalase levels; however, the activity of NF-κB and Nrf-2 was modulated by both molecules. The impact on epithelial permeability (TEER) was also evaluated in a Transwell® model. In the context of a pro-inflammatory combination including gliadin, TEER values were recovered by neither sulforaphane nor glucoraphanin. Conversely, in the context of co-culture with activated macrophages (THP-1), sulforaphane inhibited the release of MCP-1 (IC50 = 20.60 µM) and IL-1β (IC50 = 1.50 µM) only, but both molecules restored epithelial integrity at 50 µM. Our work suggests that glucoraphanin should not merely be considered as just an inert precursor at the small intestine level, thus suggesting a potential interest in the framework of CD. Its biological activity might imply, at least in part, molecular mechanisms different from sulforaphane.
+
+Protective effects of sulforaphane on inflammation, oxidative stress and intestinal dysbacteriosis induced by triphenyltin in Cyprinus carpio haematopterus.
+
+Number of 
+
+Key takeaways:Sulforaphane can improve fish health by reducing inflammation, oxidative stress, and intestinal dysbacteriosis caused by triphenyltin pollution.
+
+Sulforaphane Normalizes Intestinal Flora and Enhances Gut Barrier in Mice with BBN‐Induced Bladder Cancer
+
+Number of 
+
+Key takeaways:Sulforaphane protects against chemical-induced bladder cancer by normalizing gut microbiota composition, repairing gut barrier damage, and reducing inflammation and immune response.
+
+Abstract:SCOPE
+Gut microbiota imbalance, inflammation, and gut barrier deficiency play an important role in carcinogenesis. Sulforaphane (SFN), an isothiocyanate found in cruciferous vegetables, has been proven to be highly effective in inhibiting cancer. The objective of this study is to investigate the potential roles of the gut microbiota in the inhibition of BBN-induced bladder cancer by SFN.
+
+METHODS AND RESULTS
+N-butyl-N-(4-hydroxybutyl)-nitrosamine is used to induce bladder cancer in male C57BL/6 mice, with or without SFN for 23 weeks. SFN ameliorates the histological changes characteristic of bladder cancer, resulting in fewer submucosal capillaries. SFN normalizes gut microbiota dysbiosis in mice with BBN-induced bladder cancer with a significant increase in Bacteroides fragilis and Clostridium cluster I. SFN also increases butyric acid levels in the mouse colon, and repairs the injury to the mucosal epithelium of the colon and cecum through the upregulation of the expression of tight junction proteins and GLP2. SFN greatly decreases the release of cytokines (IL-6) and secretory immunoglobulin A in the mice with bladder cancer.
+
+CONCLUSION
+These results suggest that SFN protects against chemical-induced bladder cancer through normalizing the composition of gut microbiota and repairing the physiological destruction of the gut barrier, as well as decreasing inflammation and the immune response.
+
+Sulforaphane Ameliorates Nonalcoholic Fatty Liver Disease Induced by High-Fat and High-Fructose Diet via LPS/TLR4 in the Gut–Liver Axis
+
+Number of 
+
+Key takeaways:Sulforaphane from cruciferous vegetables improves non-alcoholic fatty liver disease by reducing inflammation and protecting intestinal integrity in mice on a high-fat and high-fructose diet.
+
+Abstract:The gut–liver axis has emerged as a key player in the progression of non-alcoholic fatty liver disease (NAFLD). Sulforaphane (SFN) is a bioactive compound found in cruciferous vegetables; however, it has not been reported whether SFN improves NAFLD via the gut–liver axis. C57BL/6 mice were fed a high-fat and high-fructose (HFHFr) diet, with or without SFN gavage at doses of 15 and 30 mg·kg−1 body weight for 12 weeks. The results showed that SFN reduced weight gain, hepatic inflammation, and steatosis in HFHFr mice. SFN altered the composition of gut microbes. Moreover, SFN enhanced the intestinal tight junction protein ZO-1, reduced serum LPS, and inhibited LPS/TLR4 and ERS pathways to reduce intestinal inflammation. As a result, SFN protected the intestinal integrity and declined the gut-derived LPS translocations to the liver in HFHFr diet-induced mice. SFN decreased the liver LPS levels and inhibited the LPS/TLR4 pathway activations, thus inhibiting the pro-inflammatory cytokines. Notably, Spearman correlation analysis showed that the protective effect of SFN on intestinal barrier integrity and its anti-inflammatory effect on the liver was associated with improved intestinal dysbiosis. Above all, dietary intervention with SFN attenuates NAFLD through the gut–liver axis.
+
+Long-lasting beneficial effects of maternal intake of sulforaphane glucosinolate on gut microbiota in adult offspring.
+
+Number of 
+
+Key takeaways:Maternal intake of sulforaphane glucosinolate during pregnancy and lactation may produce long-lasting beneficial effects in adult offspring through persistent modulation of gut microbiota, potentially promoting resilience to stress-related psychiatric disorders.
+
+WCN24-701 EFFECTS OF SULFORAPHANE SUPPLEMENTATION ON PLASMA LEVELS OF UREMIC TOXINS IN PATIENTS UNDERGOING HEMODIALYSIS
+
+Number of 
+
+Key takeaways:Sulforaphane supplementation may reduce uremic toxins in patients with chronic kidney disease by modulating intestinal microbiota composition.
+
+Sulforaphane Attenuates AOM/DSS-Induced Colorectal Tumorigenesis in Mice via Inhibition of Intestinal Inflammation
+
+Number of 
+
+Key takeaways:Sulforaphane effectively reduces colorectal tumorigenesis and progression in mice by suppressing intestinal inflammation and enhancing antitumor immune responses.
+
+Abstract:Abstract Sulforaphane (SFN) is a compound derived from cruciferous plants. It has received considerable attention in recent years due to its effectiveness in cancer prevention and anti-inflammatory properties. The purpose of this study was to evaluate the antitumor potential of sulforaphane on colitis-associated carcinogenesis (CAC) through the establishment of a mouse model with AOM/DSS. First, AOM/DSS and DSS-induced model were established and administered SFN for 10 wk, and then the severity of colitis-associated colon cancer was examined macroscopically and histologically. Subsequently, immune cells and cytokines in the tumor microenvironment (TME) were quantified. Finally, the influence of sulforaphane was also investigated using different colon cell lines. We found that sulforaphane treatment decreased tumor volume, myeloid-derived suppressor cells (MDSC) expansion, the expression of the proinflammatory cytokine IL-1β, and the level of IL-10 in serum. Also, it enhanced the antitumor activities of CD8+ T cells and significantly reduced tumorigenesis as induced by AOM/DSS. SFN also attenuated intestinal inflammation in DSS-induced chronic colitis by reshaping the inflammatory microenvironment. This work demonstrates that sulforaphane suppresses carcinogenesis-associated intestinal inflammation and prevents AOM/DSS-induced intestinal tumorigenesis and progression.
+
+Sulforaphane Improves Liver Metabolism and Gut Microbiota in Circadian Rhythm Disorder Mice Models Fed With High-Fat Diets.
+
+Number of 
+
+Key takeaways:Sulforaphane improves liver metabolism and gut microbiota in mice on a high-fat diet, potentially regulating circadian rhythm disruption.
+
+Abstract:SCOPE
+This study aims to investigate the effect of sulforaphane (SFN) on hepatic metabolism and gut microbiota in a shifted circadian rhythm (CR) mouse model fed with a high-fat diet (HFD).
+
+METHODS AND RESULTS
+A shifted CR mouse model with HFD is constructed. Biochemical analyses are used to evaluate the effects of SFN on lipid accumulation and liver function. Targeted metabolomics is used for liver metabolites. Results from hematoxylin and eosin staining and Oil Red O staining show that SFN improves liver lipid accumulation and intestinal inflammatory damage in shifted CR treatment with HFD. The concentrations of amino acid metabolites are increased, and the levels of bile acid metabolites are significantly decreased by SFN treatment. Results from 16S rRNA gene sequencing indicate that SFN modulates gut microbiota, particularly by enhancing beneficial bacteria such as Lachnospiraceae, Lactobacillus, Alistipes, Akkermansia, and Eubacteriaum coprostanoligenes. Correlation analysis confirms a close relationship between intestinal microbiota and hepatic metabolites. SFN significantly regulates CR protein expression in the hypothalamus and liver tissues.
+
+CONCLUSION
+SFN alleviates hepatic metabolic disorder and gut microbiota dysbiosis induced by CR disruption under a high-fat diet in a mouse model, indicating the potential of SFN in regulating CR disruption.
+
+Sulforaphane protects liver injury induced by intestinal ischemia reperfusion through Nrf2-ARE pathway.
+
+Number of 
+
+Key takeaways:Sulforaphane pretreatment reduces liver injury induced by intestinal ischemia/reperfusion in rats, likely due to its antioxidant effect through the Nrf2-ARE pathway.
+
+Abstract:AIM
+To investigate the effect of sulforaphane (SFN) on regulation of NF-E2-related factor-2 (Nrf2)-antioxidant response element (ARE) pathway in liver injury induced by intestinal ischemia/reperfusion (I/R).
+
+METHODS
+Rats were divided randomly into four experimental groups: control, SFN control, intestinal I/R and SFN pretreatment groups (n = 8 in each group). The intestinal I/R model was established by clamping the superior mesenteric artery for 1 h and 2 h reperfusion. In the SFN pretreatment group, surgery was performed as in the intestinal I/R group, with intraperitoneal administration of 3 mg/kg SFN 1 h before the operation. Intestine and liver histology was investigated. Serum levels of aspartate aminotransferase (AST), and alanine aminotransferase (ALT) were measured. Liver tissue superoxide dismutase (SOD), myeloperoxidase (MPO), glutathione (GSH) and glutathione peroxidase (GSH-Px) activity were assayed. The liver transcription factor Nrf2 and heme oxygenase-1 (HO-1) were determined by immunohistochemical analysis and Western blotting analysis.
+
+RESULTS
+Intestinal I/R induced intestinal and liver injury, characterized by histological changes as well as a significant increase in serum AST and ALT levels (AST: 260.13 +/- 40.17 U/L vs 186.00 +/- 24.21 U/L, P < 0.01; ALT: 139.63 +/- 11.35 U/L vs 48.38 +/- 10.73 U/L, P < 0.01), all of which were reduced by pretreatment with SFN, respectively (AST: 260.13 +/- 40.17 U/L vs 216.63 +/- 22.65 U/L, P < 0.05; ALT: 139.63 +/- 11.35 U/L vs 97.63 +/- 15.56 U/L, P < 0.01). The activity of SOD in the liver tissue decreased after intestinal I/R (P < 0.01), which was enhanced by SFN pretreatment (P < 0.05). In addition, compared with the control group, SFN markedly reduced liver tissue MPO activity (P < 0.05) and elevated liver tissue GSH and GSH-Px activity (P < 0.05, P < 0.05), which was in parallel with the increased level of liver Nrf2 and HO-1 expression.
+
+CONCLUSION
+SFN pretreatment attenuates liver injury induced by intestinal I/R in rats, attributable to the antioxidant effect through Nrf2-ARE pathway.
+
+Sulforaphane: A Broccoli Bioactive Phytocompound with Cancer Preventive Potential
+
+Number of 
+
+Key takeaways:Sulforaphane, a phytochemical found in broccoli, shows potential as a cancer preventive agent, with promising results in in vitro, vivo, and clinical studies.
+
+Abstract:Simple Summary As of the past decade, phytochemicals have become a major target of interest in cancer chemopreventive and chemotherapeutic research. Sulforaphane (SFN) is a metabolite of the phytochemical glucoraphanin, which is found in high abundance in cruciferous vegetables, such as broccoli, watercress, Brussels sprouts, and cabbage. In both distant and recent research, SFN has been shown to have a multitude of anticancer effects, increasing the need for a comprehensive review of the literature. In this review, we critically evaluate SFN as an anticancer agent and its mechanisms of action based on an impressive number of in vitro, in vivo, and clinical studies. Abstract There is substantial and promising evidence on the health benefits of consuming broccoli and other cruciferous vegetables. The most important compound in broccoli, glucoraphanin, is metabolized to SFN by the thioglucosidase enzyme myrosinase. SFN is the major mediator of the health benefits that have been recognized for broccoli consumption. SFN represents a phytochemical of high interest as it may be useful in preventing the occurrence and/or mitigating the progression of cancer. Although several prior publications provide an excellent overview of the effect of SFN in cancer, these reports represent narrative reviews that focused mainly on SFN’s source, biosynthesis, and mechanisms of action in modulating specific pathways involved in cancer without a comprehensive review of SFN’s role or value for prevention of various human malignancies. This review evaluates the most recent state of knowledge concerning SFN’s efficacy in preventing or reversing a variety of neoplasms. In this work, we have analyzed published reports based on in vitro, in vivo, and clinical studies to determine SFN’s potential as a chemopreventive agent. Furthermore, we have discussed the current limitations and challenges associated with SFN research and suggested future research directions before broccoli-derived products, especially SFN, can be used for human cancer prevention and intervention.
+
+Sulforaphane as a potential remedy against cancer: Comprehensive mechanistic review.
+
+Number of 
+
+Key takeaways:Sulforaphane shows potential in cancer prevention and treatment through various mechanisms, including modulation of carcinogen metabolism and cell cycle arrest.
+
+Abstract:Sulforaphane belongs to the active class of isothiocyanates capable of delivering various biological benefits for health promotion and disease prevention. This compound is considered vital to curtail numerous metabolic disorders. Various studies have proven its beneficial effects against cancer prevention and its possible utilization as a therapeutic agent in cancer treatment. Understanding the mechanistic pathways and possible interactions at cellular and subcellular levels is key to design and develop cancer therapeutics for humans. In this respect, a number of mechanisms such as modulation of carcinogen metabolism & phase II enzymatic activities, cell cycle arrest, activation of Nrf2, cytotoxic, proapoptotic and apoptotic pathways have been reported to be involved in cancer prevention. This article provides sufficient information by critical analysis to understand the mechanisms involved in cancer prevention attributed to sulforaphane. Furthermore, various clinical studies have also been included for design and development of novel therapies for cancer prevention and cure. PRACTICAL APPLICATIONS: Diet and dietary components are potential tools to address various lifestyle-related disorders. Due to plenty of environmental and cellular toxicants, the chances of cancer prevalence are quite large which are worsen by adopting unhealthy lifestyles. Cancer can be treated with various therapies but those are acquiring side effects causing the patients to suffer the treatment regime. Nutraceuticals and functional foods provide safer options to prevent or delay the onset of cancer. In this regard, sulforaphane is a pivotal compound to be targeted as a potential agent for cancer treatment both in preventive and therapeutic regimes. This article provides sufficient evidence via discussing the underlying mechanisms of positive effects of sulforaphane to further the research for developing anticancer drugs that will help assuage this lethal morbidity.
+
+Chemopreventive activity of sulforaphane
+
+Number of 
+
+Key takeaways:Sulforaphane, found in cruciferous vegetables, has chemopreventive activity by protecting cells from environmental carcinogens and inducing growth arrest and apoptosis in various cancer cells.
+
+Abstract:Cancer is one of the major causes of morbidity and mortality in the world. Carcinogenesis is a multistep process induced by genetic and epigenetic changes that disrupt pathways controlling cell proliferation, apoptosis, differentiation, and senescence. In this context, many bioactive dietary compounds from vegetables and fruits have been demonstrated to be effective in cancer prevention and intervention. Over the years, sulforaphane (SFN), found in cruciferous vegetables, has been shown to have chemopreventive activity in vitro and in vivo. SFN protects cells from environmental carcinogens and also induces growth arrest and/or apoptosis in various cancer cells. In this review, we will discuss several potential mechanisms of the chemopreventive activity of SFN, including regulation of Phase I and Phase II drug-metabolizing enzymes, cell cycle arrest, and induction of apoptosis, especially via regulation of signaling pathways such as Nrf2-Keap1 and NF-κB. Recent studies suggest that SFN can also affect the epigenetic control of key genes and greatly influence the initiation and progression of cancer. This research may provide a basis for the clinical use of SFN for cancer chemoprevention and enable us to design preventive strategies for cancer management, reduce cancer development and recurrence, and thus improve patient survival.
+
+The role of Sulforaphane in cancer chemoprevention and health benefits: a mini-review
+
+Number of 
+
+Key takeaways:Sulforaphane, found in cruciferous vegetables like broccoli, shows potential cancer prevention properties by targeting multiple mechanisms within cells and potentially affecting cancer stem cells.
+
+Abstract:Cancer is a multi-stage process resulting from aberrant signaling pathways driving uncontrolled proliferation of transformed cells. The development and progression of cancer from a premalignant lesion towards a metastatic tumor requires accumulation of mutations in many regulatory genes of the cell. Different chemopreventative approaches have been sought to interfere with initiation and control malignant progression. Here we present research on dietary compounds with evidence of cancer prevention activity that highlights the potential beneficial effect of a diet rich in cruciferous vegetables. The Brassica family of cruciferous vegetables such as broccoli is a rich source of glucosinolates, which are metabolized to isothiocyanate compounds. Amongst a number of related variants of isothiocyanates, sulforaphane (SFN) has surfaced as a particularly potent chemopreventive agent based on its ability to target multiple mechanisms within the cell to control carcinogenesis. Anti-inflammatory, pro-apoptotic and modulation of histones are some of the more important and known mechanisms by which SFN exerts chemoprevention. The effect of SFN on cancer stem cells is another area of interest that has been explored in recent years and may contribute to its chemopreventive properties. In this paper, we briefly review structure, pharmacology and preclinical studies highlighting chemopreventive effects of SFN.
+
+Potential mechanisms of cancer prevention and treatment by sulforaphane, a natural small molecule compound of plant-derived
+
+Number of 
+
+Key takeaways:Sulforaphane (SFN) shows potential in cancer prevention and treatment by increasing cellular defenses against oxidative damage, inducing apoptosis, inhibiting cell cycle progression, and suppressing tumor stem cells.
+
+Abstract:Abstract Despite recent advances in tumor diagnosis and treatment technologies, the number of cancer cases and deaths worldwide continues to increase yearly, creating an urgent need to find new methods to prevent or treat cancer. Sulforaphane (SFN), as a member of the isothiocyanates (ITCs) family, which is the hydrolysis product of glucosinolates (GLs), has been shown to have significant preventive and therapeutic cancer effects in different human cancers. Early studies have shown that SFN scavenges oxygen radicals by increasing cellular defenses against oxidative damage, mainly through the induction of phase II detoxification enzymes by nuclear factor erythroid 2-related factor 2 (Nrf2). More and more studies have shown that the anticancer mechanism of SFN also includes induction of apoptotic pathway in tumor cells, inhibition of cell cycle progression, and suppression of tumor stem cells. Therefore, the application of SFN is expected to be a necessary new approach to treating cancer. In this paper, we review the multiple molecular mechanisms of SFN in cancer prevention and treatment in recent years, which can provide a new vision for cancer treatment.
+
+Metabolism, absorption, and anti-cancer effects of sulforaphane: an update
+
+Number of 
+
+Key takeaways:Sulforaphane, found in broccoli, has potent anti-cancer effects by promoting autophagy, inducing epigenetic modifications, suppressing glycolysis, and fat metabolism, and potentially synergizing with other anti-cancer agents.
+
+Abstract:Abstract Cancer is one of the most devastating diseases, and recently, a variety of natural compounds with preventive effects on cancer developments have been reported. Sulforaphane (SFN) is a potent anti-cancer isothiocyanate originating from Brassica oleracea (broccoli). SFN, mainly metabolized via mercapturic acid pathway, has high bioavailability and absorption. The present reviews mainly discussed the metabolism and absorption of SFN and newly discovered mechanistic understanding recent years for SFN’s anti-cancer effects including promoting autophagy, inducing epigenetic modifications, suppressing glycolysis and fat metabolism. Moreover, its inhibitory effects on cancer stem cells and synergetic effects with other anti-cancer agents are also reviewed along with the clinical trials in this realm.
+
+Harnessing Sulforaphane Potential as a Chemosensitizing Agent: A Comprehensive Review
+
+Number of 
+
+Key takeaways:Sulforaphane, found in cruciferous vegetables, enhances cancer cell sensitivity to chemotherapy and overcomes chemoresistance, offering potential as an adjunct in cancer therapy.
+
+Abstract:Simple Summary Recent oncological research highlights the promising role of naturally derived compounds in cancer prevention and treatment. Sulforaphane (SFN), a phytochemical found in cruciferous vegetables, is a powerful chemosensitizer that increases the sensitivity of cancer cells to chemotherapy and overcomes chemoresistance. When coupled with conventional chemotherapeutic drugs, SFN regulates numerous signaling pathways, proteins and genes which results in synergistic inhibition of cancer progression. The therapeutic potential of SFN is ongoing, with particular emphasis on its chemosensitizing potential against various cancer types. Abstract Recent advances in oncological research have highlighted the potential of naturally derived compounds in cancer prevention and treatment. Notably, sulforaphane (SFN), an isothiocyanate derived from cruciferous vegetables including broccoli and cabbage, has exhibited potent chemosensitizing capabilities across diverse cancer types of bone, brain, breast, lung, skin, etc. Chemosensitization refers to the enhancement of cancer cell sensitivity to chemotherapy agents, counteracting the chemoresistance often developed by tumor cells. Mechanistically, SFN orchestrates this sensitization by modulating an array of cellular signaling pathways (e.g., Akt/mTOR, NF-κB, Wnt/β-catenin), and regulating the expression and activity of pivotal genes, proteins, and enzymes (e.g., p53, p21, survivin, Bcl-2, caspases). When combined with conventional chemotherapeutic agents, SFN synergistically inhibits cancer cell proliferation, invasion, migration, and metastasis while potentiating drug-induced apoptosis. This positions SFN as a potential adjunct in cancer therapy to augment the efficacy of standard treatments. Ongoing preclinical and clinical investigations aim to further delineate the therapeutic potential of SFN in oncology. This review illuminates the multifaceted role of this phytochemical, emphasizing its potential to enhance the therapeutic efficacy of anti-cancer agents, suggesting its prospective contributions to cancer chemosensitization and management.
+
+Dietary sulforaphane, a histone deacetylase inhibitor for cancer prevention.
+
+Number of 
+
+Key takeaways:Sulforaphane, found in cruciferous vegetables, may be an effective chemoprevention agent for prostate cancer by targeting aberrant acetylation patterns and affecting phase 2 enzymes.
+
+Abstract:The reversible acetylation of histones is an important mechanism of gene regulation. During prostate cancer progression, specific modifications in acetylation patterns on histones are apparent. Targeting the epigenome, including the use of histone deacetylase (HDAC) inhibitors, is a novel strategy for cancer chemoprevention. Recently, drugs classified as HDAC inhibitors have shown promise in cancer clinical trials. We have previously found that sulforaphane (SFN), a compound found in cruciferous vegetables, inhibits HDAC activity in human colorectal and prostate cancer cells. Based on the similarity of SFN metabolites and other phytochemicals to known HDAC inhibitors, we previously demonstrated that sulforaphane acted as an HDAC inhibitor in the prostate, causing enhanced histone acetylation, derepression of P21 and Bax, and induction of cell cycle arrest/apoptosis, leading to cancer prevention. The ability of SFN to target aberrant acetylation patterns, in addition to effects on phase 2 enzymes, may make it an effective chemoprevention agent. These studies are important because of the potential to qualify or change recommendations for high-risk prostate cancer patients and thereby increase their survival through simple dietary choices incorporating easily accessible foods into their diets. These studies also will provide a strong scientific foundation for future large-scale human clinical intervention studies.
+
+Breast Cancer Prevention-Is there a Future for Sulforaphane and Its Analogs?
+
+Number of 
+
+Key takeaways:Sulforaphane shows potential in breast cancer chemoprevention by preventing disease development, recurrence, and metastasizing, and protecting normal cells from toxic effects of cytostatics.
+
+Abstract:Breast cancer is the most prevalent type of cancer among women worldwide. There are several recommended methods of breast cancer prevention, including chemoprevention. There are several approved drugs used to prevent breast cancer occurrence or recurrence and metastasizing. There are also a number of new substances undergoing clinical trials and at the stage of initial study. Studies suggest that dietary factors play a crucial role in breast cancer etiology. Epidemiological studies indicate that in particular vegetables from the Brassicaceae family are a rich source of chemopreventive substances, with sulforaphane (SFN) being one of the most widely studied and characterized. This review discusses potential applicability of SFN in breast cancer chemoprevention. A comprehensive review of the literature on the impact of SFN on molecular signalling pathways in breast cancer and breast untransformed cells is presented. The presented results of in vitro and in vivo studies show that this molecule has a potential to act as a preventive molecule either to prevent disease development or recurrence and metastasizing, and as a compound protecting normal cells against the toxic effects of cytostatics. Finally, the still scanty attempts to develop an improved analog are also presented and discussed.
+
+Nrf2 targeting by sulforaphane: A potential therapy for cancer treatment
+
+Number of 
+
+Key takeaways:Sulforaphane shows potential in cancer treatment by protecting cells from DNA damage, modulating cell cycle, and targeting the Nrf2 transcription factor, with limited clinical data.
+
+Abstract:ABSTRACT In the past decades, extensive studies have reported the potential chemopreventive activity of sulforaphane, an isothiocyanate derived from glucoraphanin, occurring in large amounts in Brassica genus plants. Sulforaphane was found to be active against several forms of cancer. A growing body of data shows that sulforaphane acts against cancer at different levels, from development to progression, through pleiotropic effects. In this review, we discuss the available experimental and clinical data on the potential therapeutic role of sulforaphane against cancer. Its effects range from the protection of cells from DNA damage to the modulation of the cell cycle via pro-apoptotic, anti-angiogenesis and anti-metastasis activities. At molecular level, sulforaphane modulates cellular homeostasis via the activation of the transcription factor Nrf2. Although data from clinical studies are limited, sulforaphane remains a good candidate in the adjuvant therapy based on natural molecules against several types of cancer.
+
+Dietary Sulforaphane in Cancer Chemoprevention: The Role of Epigenetic Regulation and HDAC Inhibition.
+
+Number of 
+
+Key takeaways:Sulforaphane, found in cruciferous vegetables, shows potential in cancer chemoprevention by targeting epigenetic alterations and promoting apoptosis, cell cycle arrest, and microRNA modulation.
+
+Abstract:SIGNIFICANCE
+Sulforaphane, produced by the hydrolytic conversion of glucoraphanin after ingestion of cruciferous vegetables, particularly broccoli and broccoli sprouts, has been extensively studied due to its apparent health-promoting properties in disease and limited toxicity in normal tissue. Recent Studies: Recent identification of a sub-population of tumor cells with stem cell-like self-renewal capacity that may be responsible for relapse, metastasis, and resistance, as a potential target of the dietary compound, may be an important aspect of sulforaphane chemoprevention. Evidence also suggests that sulforaphane may target the epigenetic alterations observed in specific cancers, reversing aberrant changes in gene transcription through mechanisms of histone deacetylase inhibition, global demethylation, and microRNA modulation.
+
+CRITICAL ISSUES
+In this review, we discuss the biochemical and biological properties of sulforaphane with a particular emphasis on the anticancer properties of the dietary compound. Sulforaphane possesses the capacity to intervene in multistage carcinogenesis through the modulation and/or regulation of important cellular mechanisms. The inhibition of phase I enzymes that are responsible for the activation of pro-carcinogens, and the induction of phase II enzymes that are critical in mutagen elimination are well-characterized chemopreventive properties. Furthermore, sulforaphane mediates a number of anticancer pathways, including the activation of apoptosis, induction of cell cycle arrest, and inhibition of NFκB.
+
+FUTURE DIRECTIONS
+Further characterization of the chemopreventive properties of sulforaphane and its capacity to be selectively toxic to malignant cells are warranted to potentially establish the clinical utility of the dietary compound as an anti-cancer compound alone, and in combination with clinically relevant therapeutic and management strategies.
+
+Prevention of Carcinogen-Induced Oral Cancer by Sulforaphane
+
+Number of 
+
+Key takeaways:Sulforaphane, found in broccoli sprout extracts, shows preclinical chemopreventive activity against carcinogen-induced oral cancer, supporting further investigation as a chemopreventive agent against tobacco-related HNSCC.
+
+Abstract:Chronic exposure to carcinogens represents the major risk factor for head and neck squamous cell carcinoma (HNSCC). Beverages derived from broccoli sprout extracts (BSE) that are rich in glucoraphanin and its bioactive metabolite sulforaphane promote detoxication of airborne pollutants in humans. Herein, we investigated the potential chemopreventive activity of sulforaphane using in vitro models of normal and malignant mucosal epithelial cells and an in vivo model of murine oral cancer resulting from the carcinogen 4-nitroquinoline-1-oxide (4NQO). Sulforaphane treatment of Het-1A, a normal mucosal epithelial cell line, and 4 HNSCC cell lines led to dose- and time-dependent induction of NRF2 and the NRF2 target genes NQO1 and GCLC, known mediators of carcinogen detoxication. Sulforaphane also promoted NRF2-independent dephosphorylation/inactivation of pSTAT3, a key oncogenic factor in HNSCC. Compared with vehicle, sulforaphane significantly reduced the incidence and size of 4NQO-induced tongue tumors in mice. A pilot clinical trial in 10 healthy volunteers evaluated the bioavailability and pharmacodynamic activity of three different BSE regimens, based upon urinary sulforaphane metabolites and NQO1 transcripts in buccal scrapings, respectively. Ingestion of sulforaphane-rich BSE demonstrated the greatest, most consistent bioavailability. Mucosal bioactivity, defined as 2-fold or greater upregulation of NQO1 mRNA, was observed in 6 of 9 evaluable participants ingesting glucoraphanin-rich BSE; 3 of 6 ingesting sulforaphane-rich BSE; and 3 of 9 after topical-only exposure to sulforaphane-rich BSE. Together, our findings demonstrate preclinical chemopreventive activity of sulforaphane against carcinogen-induced oral cancer, and support further mechanistic and clinical investigation of sulforaphane as a chemopreventive agent against tobacco-related HNSCC. Cancer Prev Res; 9(7); 547–57. ©2016 AACR.
+
+Sulforaphane and Its Protective Role in Prostate Cancer: A Mechanistic Approach
+
+Number of 
+
+Key takeaways:Sulforaphane, found in broccoli and other Brassica genus plants, shows potential in preventing prostate cancer progression through its anticancer properties.
+
+Abstract:The increasing incidence of prostate cancer worldwide has spurred research into novel therapeutics for its treatment and prevention. Sulforaphane, derived from broccoli and other members of the Brassica genus, is a phytochemical shown to have anticancer properties. Numerous studies have shown that sulforaphane prevents the development and progression of prostatic tumors. This review evaluates the most recent published reports on prevention of the progression of prostate cancer by sulforaphane in vitro, in vivo and in clinical settings. A detailed description of the proposed mechanisms of action of sulforaphane on prostatic cells is provided. Furthermore, we discuss the challenges, limitations and future prospects of using sulforaphane as a therapeutic agent in treatment of prostate cancer.
+
+The preventive mechanisms and research progress of sulforaphane in relation to prostate cancer
+
+Number of 
+
+Key takeaways:Sulforaphane shows potential in reducing prostate cancer incidence and progression through various mechanisms, but further research is needed to determine effective doses, bioavailability, and toxic doses.
+
+Abstract:Prostate cancer is one of the most common tumors in urology. Dietary prophylaxis can effectively reduce prostate cancer incidence and progression. A growing body of research has shown that natural food ingredients such as Sulforaphane (SFN) can reduce the incidence of prostate cancer. It has a significant inhibitory effect on the progression from local prostate cancer to more aggressive prostate cancer. This article mainly expounds on the prevention mechanism and research progress of sulforaphane in various ways for prostate cancer and provides a reference for its future clinical application. In this review, ‘SFN’, ‘Prostate Cancer’, and ‘PCa’ were searched through PubMed, Embase, Web of Science, and other databases. SFN inhibits the occurrence and development of prostate cancer mainly through anti-oxidation, inhibition of fatty acid metabolism, inhibition of glycolysis, inhibition of pro-inflammatory factors, inhibition of cell proliferation and promotion of apoptosis, reduction of androgen receptors, and influence of epigenetics. Therefore, SFN is a natural compound with great potential for the prevention and treatment of prostate cancer, but the key factors such as effective chemoprevention dose, bioavailability, toxic dose, and response of sulforaphane in the human body need to be further studied in the future.
+
+Sulforaphane as a Promising Natural Molecule for Cancer Prevention and Treatment
+
+Number of 
+
+Key takeaways:Sulforaphane, found in cruciferous vegetables, shows potential in cancer prevention and treatment by modulating multiple cellular targets and targeting cancer stem cells.
+
+Abstract:Tumorigenicity-inhibiting compounds have been identified in our daily diet. For example, isothiocyanates (ITCs) found in cruciferous vegetables were reported to have potent cancer-prevention activities. The best characterized ITC is sulforaphane (SF). SF can simultaneously modulate multiple cellular targets involved in carcinogenesis, including (1) modulating carcinogen-metabolizing enzymes and blocking the action of mutagens; (2) inhibition of cell proliferation and induction of apoptosis; and (3) inhibition of neo-angiogenesis and metastasis. SF targets cancer stem cells through modulation of nuclear factor kappa B (NF-κB), Sonic hedgehog (SHH), epithelial-mesenchymal transition, and Wnt/β-catenin pathways. Conventional chemotherapy/SF combination was tested in several studies and resulted in favorable outcomes. With its favorable toxicological profile, SF is a promising agent in cancer prevention and/or therapy. In this article, we discuss the human metabolism of SF and its effects on cancer prevention, treatment, and targeting cancer stem cells, as well as providing a brief review of recent human clinical trials on SF.
+
+Dietary Polyphenols and Sulforaphane: Impact on Hallmarks of Colon Cancer (P06-045-19).
+
+Number of 
+
+Key takeaways:Sulforaphane, a dietary micronutrient, significantly alters mRNA expression of genes associated with cancer hallmarks, potentially contributing to cancer prevention strategies.
+
+Abstract:Objectives
+The isothiocyanate sulforaphane and the polyphenols chrysin, epigallocatechin-3-gallate, and resveratrol are dietary micronutrients that are thought to exhibit potential in cancer prevention. These compounds are commonly found in the human diet, and previous research suggests that they may play a role in cellular processes that are often labeled as the 'hallmarks of cancer'. Our goal is to investigate the impact of these dietary nutrients on the expression of genes associated with apoptosis, metastasis, and invasion, and thus their potential role in regulating the expression of genes involved in colon cancer.
+
+Methods
+Colorectal cancer cells were incubated for up to 48 h. RNA was extracted with Trizol/Chloroform, and reverse-transcribed to cDNA. mRNA expression was quantitated using qPCR, normalized to Gapdh, and analyzed using GraphPad Prism. Total protein was extracted using lysis buffer for subsequent Western blotting and catalytic activity assays.
+
+Results
+Our preliminary results suggest that especially the isothiocyanate sulforaphane increases mRNA expression of apoptosis-regulatory genes, such as Cyclooxygenase 2 (p < 0.05) and Bcl-2-associated X protein (p < 0.05), whereas cell proliferation genes, such as cyclin B1 and KRAS remained largely unaffected. Furthermore, matrix metalloprotease 9 expression was significantly inhibited by sulforaphane, but not by the polyphenols investigated.
+
+Conclusions
+Among the dietary micronutrients investigated thus far, sulforaphane significantly altered mRNA expression of genes associated with the hallmarks on cancer. Further investigations involving both shorter and longer-term incubation times, as well as effects on protein expression and activity will help elucidate the effects of sulforaphane and other micronutrients potentially important in colon cancer. Our results may help to understand how commonly eaten dietary compounds may contribute to cancer prevention strategies.
+
+Funding Sources
+Financial support was provided by Towson University's Fisher College of Science and Mathematics (P. Tsuji) and an FCSM undergraduate research grant to M. Darkwa.
+
+Sulforaphane—A Compound with Potential Health Benefits for Disease Prevention and Treatment: Insights from Pharmacological and Toxicological Experimental Studies
+
+Number of 
+
+Key takeaways:Sulforaphane (SFN) shows potential in combating cancer, diabetes, cardiovascular diseases, obesity, and neurodegenerative diseases, with potential benefits as a dietary supplement or adjunct to chemotherapy.
+
+Abstract:Sulforaphane (SFN), which is a hydrolysis product from glucoraphanin, a compound found in cruciferous vegetables, has been studied for its potential health benefits, particularly in disease prevention and treatment. SFN has proven to be effective in combating different types of cancer by inhibiting the proliferation of tumors and triggering apoptosis. This dual action has been demonstrated to result in a reduction in tumor size and an enhancement of survival rates in animal models. SFN has also shown antidiabetic and anti-obesity effects, improving glucose tolerance and reducing fat accumulation. SFN’s ability to activate Nrf2, a transcription factor regulating oxidative stress and inflammation in cells, is a primary mechanism behind its anticancerogenic and antidiabetic effects. Its antioxidant, anti-inflammatory, and anti-apoptotic properties are also suggested to provide beneficial effects against neurodegenerative diseases. The potential health benefits of SFN have led to increased interest in its use as a dietary supplement or adjunct to chemotherapy, but there are insufficient data on its efficacy and optimal doses, as well as its safety. This review aims to present and discuss SFN’s potential in treating various diseases, such as cancer, diabetes, cardiovascular diseases, obesity, and neurodegenerative diseases, focusing on its mechanisms of action. It also summarizes studies on the pharmacological and toxicological potential of SFN in in vitro and animal models and explores its protective role against toxic compounds through in vitro and animal studies.
+
+Sulforaphane, a Dietary Component of Broccoli/Broccoli Sprouts, Inhibits Breast Cancer Stem Cells
+
+Number of 
+
+Key takeaways:Sulforaphane, a natural compound found in broccoli/broccoli sprouts, inhibits breast cancer stem cells and downregulates the Wnt/-catenin self-renewal pathway, supporting its potential for chemoprevention.
+
+Abstract:Purpose: The existence of cancer stem cells (CSCs) in breast cancer has profound implications for cancer prevention. In this study, we evaluated sulforaphane, a natural compound derived from broccoli/broccoli sprouts, for its efficacy to inhibit breast CSCs and its potential mechanism. Experimental Design: Aldefluor assay and mammosphere formation assay were used to evaluate the effect of sulforaphane on breast CSCs in vitro. A nonobese diabetic/severe combined immunodeficient xenograft model was used to determine whether sulforaphane could target breast CSCs in vivo, as assessed by Aldefluor assay, and tumor growth upon cell reimplantation in secondary mice. The potential mechanism was investigated using Western blotting analysis and β-catenin reporter assay. Results: Sulforaphane (1-5 μmol/L) decreased aldehyde dehydrogenase–positive cell population by 65% to 80% in human breast cancer cells (P < 0.01) and reduced the size and number of primary mammospheres by 8- to 125-fold and 45% to 75% (P < 0.01), respectively. Daily injection with 50 mg/kg sulforaphane for 2 weeks reduced aldehyde dehydrogenase–positive cells by >50% in nonobese diabetic/severe combined immunodeficient xenograft tumors (P = 0.003). Sulforaphane eliminated breast CSCs in vivo, thereby abrogating tumor growth after the reimplantation of primary tumor cells into the secondary mice (P < 0.01). Western blotting analysis and β-catenin reporter assay showed that sulforaphane downregulated the Wnt/β-catenin self-renewal pathway. Conclusions: Sulforaphane inhibits breast CSCs and downregulates the Wnt/β-catenin self-renewal pathway. These findings support the use of sulforaphane for the chemoprevention of breast cancer stem cells and warrant further clinical evaluation. Clin Cancer Res; 16(9); 2580–90. ©2010 AACR.
+
+Sulforaphane suppresses EMT and metastasis in human lung cancer through miR-616-5p-mediated GSK3β/β-catenin signaling pathways
+
+Number of 
+
+Key takeaways:Sulforaphane shows potential as an adjuvant chemotherapeutic agent for preventing NSCLC recurrence and metastasis, with miR-616-5p acting as a biomarker or therapeutic target to inhibit metastasis.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

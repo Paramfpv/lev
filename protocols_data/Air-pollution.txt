@@ -1,0 +1,515 @@
+PROTOCOL: Air pollution
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Air pollution - A key risk factor for heart, lung, and brain disorders | Longevity Protocols
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Air pollution is one of the most important environmental factors reducing both lifespan and quality of life. Both particulate matter (PM2.5, PM10) and nitrogen oxides or ozone cause a range of serious cardiovascular diseases, respiratory diseases, and cognitive impairments. Even short-term exposure worsens health, while long-term exposure significantly increases the risk of heart attack, stroke, lung cancer, and dementia.
+
+CONTENT SECTIONS:
+
+A key risk factor for heart, lung, and brain disorders
+
+Air pollution is one of the most important environmental factors reducing both lifespan and quality of life. Both particulate matter (PM2.5, PM10) and nitrogen oxides or ozone cause a range of serious cardiovascular diseases, respiratory diseases, and cognitive impairments. Even short-term exposure worsens health, while long-term exposure significantly increases the risk of heart attack, stroke, lung cancer, and dementia.
+
+Level of evidence:Strong
+
+Toxic components of polluted air enter the body through the respiratory system, triggering chronic inflammation, oxidative stress, and cellular damage. Fine particulate matter and gases impair endothelial function, increase blood clotting, and cause dysfunction of the autonomic nervous system. Pollutants also reach the brain, disrupting neurogenesis and contributing to the development of neurodegenerative diseases. The highest risk concerns the elderly, children, pregnant women, and people with chronic diseases.
+
+The harmfulness of air pollution is confirmed by large-scale epidemiological studies, systematic reviews, and WHO data. Exposure to air pollution leads to:
+
+The scale of the air pollution problem is based on global WHO data and epidemiological analyses. Key figures include:
+
+Monitor the air quality in your area
+
+Check the air quality index (AQI) in your vicinity and limit outdoor activity on days with high particulate matter levels.
+
+Choose outdoor activity away from busy streets
+
+Exercise, walk, and spend time mainly in parks and green areas, away from major sources of pollution.
+
+Use air purifiers at home
+
+Especially during periods of high pollution or smog, it is worth using HEPA filters in indoor spaces.
+
+Ventilate your home when pollution levels are lowest
+
+Typically, the lowest concentrations are recorded in the morning, after rainfall, or on windy days.
+
+Limit your own emissions of pollutants
+
+Choose public transport, bicycle, electric cars; avoid burning waste and using solid-fuel fireplaces at home.
+
+Cardiovascular system
+
+Air pollution has a clearly negative impact on the cardiovascular system. Both short-term and long-term exposure to air pollutants, especially particulate matter (PM2.5 and PM10), increases the risk of heart disease, stroke, hypertension, and premature death from cardiovascular causes. There is no safe level of exposure to air pollution for the cardiovascular system.
+
+Mechanisms of harmful action
+
+Air pollution has a clearly negative impact on the lungs. Studies clearly show that exposure to air pollution worsens lung function, increases the risk of respiratory diseases (such as asthma, COPD, and lung cancer), and exacerbates symptoms in people who are already ill.
+
+Mechanisms and health effects
+
+Summary of selected effects of air pollution on the lungs
+
+Air pollution has a clearly negative impact on the brain. Studies show that long-term exposure to air pollution impairs cognitive functions, increases the risk of developing neurodegenerative diseases (e.g. Alzheimer's disease), and can lead to structural changes in the brain. Particularly vulnerable are children, the elderly, and people with lower education levels.
+
+Main effects on the brain
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:58
+
+Final comment:Many years of epidemiological studies, numerous meta-analyses, and high-quality systematic reviews consistently confirm that polluted air, especially particulate matter (PM2.5, PM10), nitrogen oxides, and ozone, have a negative impact on human health. There is proven association between exposure to these pollutants and an increased risk of cardiovascular diseases (including heart attack and stroke), respiratory diseases (asthma, COPD, lung cancer), as well as cognitive impairment and risk of neurodegeneration. Health effects are observed both in healthy individuals and in sensitive populations. Pathophysiological mechanisms such as chronic inflammation, oxidative stress, and endothelial dysfunction have been confirmed in both population and experimental studies. The scientific consensus in this field is unequivocal and is based on a large number of well-designed human population studies, which justifies awarding the highest level of evidence.
+
+Particulate Matter Air Pollution: Effects on the Cardiovascular System
+
+Number of 
+
+Key takeaways:Particulate matter (PM) air pollution significantly increases the risk of cardiovascular diseases and contributes to metabolic diseases like obesity and diabetes mellitus, requiring further understanding of its toxic effects.
+
+Abstract:Air pollution is a complex mixture of gaseous and particulate components, each of which has detrimental effects on human health. While the composition of air pollution varies greatly depending on the source, studies from across the world have consistently shown that air pollution is an important modifiable risk factor for significantly increased morbidity and mortality. Moreover, clinical studies have generally shown a greater impact of particulate matter (PM) air pollution on health than the gaseous components. PM has wide-ranging deleterious effects on human health, particularly on the cardiovascular system. Both acute and chronic exposure to PM air pollution is associated with increased risk of death from cardiovascular diseases including ischemic heart disease, heart failure, and ischemic/thrombotic stroke. Particulate matter has also been shown to be an important endocrine disrupter, contributing to the development of metabolic diseases such as obesity and diabetes mellitus, which themselves are risk factors for cardiovascular disease. While the epidemiological evidence for the deleterious effects of PM air pollution on health is increasingly accepted, newer studies are shedding light on the mechanisms by which PM exerts its toxic effects. A greater understanding of how PM exerts toxic effects on human health is required in order to prevent and minimize the deleterious health effects of this ubiquitous environmental hazard. Air pollution is a growing public health problem and mortality due to air pollution is expected to double by 2050. Here, we review the epidemiological evidence for the cardiovascular effects of PM exposure and discuss current understanding about the biological mechanisms, by which PM exerts toxic effects on cardiovascular system to induce cardiovascular disease.
+
+Oxidative stress and the cardiovascular effects of air pollution
+
+Number of 
+
+Key takeaways:Air pollution exposure leads to oxidative stress, which is a key pathway for the detrimental cardiovascular effects.
+
+Environmental determinants of cardiovascular disease: lessons learned from air pollution
+
+Number of 
+
+Key takeaways:Air pollution, particularly fine particulate matter (PM 2.5) and ozone gas, is a major environmental risk factor for cardiovascular disease and mortality, with no 'safe' lower exposure levels.
+
+Cardiovascular Effects of Air Pollution: Current Evidence from Animal and Human Studies.
+
+Number of 
+
+Key takeaways:Air pollution, particularly PM2.5, significantly increases the risk of cardiovascular diseases like elevated blood pressure, acute coronary syndrome, and heart failure.
+
+Abstract:BACKGROUND
+Air pollution is a global health concern. PM2.5, a component of ambient air pollution,has been identified by the World Health Organization as one of the pollutants that poses the greatest threat to public health.Cardiovascular health effects have been extensively documented and these effects are still researched.
+
+AIMS
+To provide an overview of recent literature regarding air pollution-associated cardiovascular morbidity and mortality in humans. Additionally, potential mechanisms through which air pollutants affect the cardiovascular system are discussed based on human, and additional animal studies.
+
+METHODOLOGY
+We used the strategy of a narrative review to summarize the scientific literature of studies that were published in the last 7 years. Searches were carried out on PubMed and Web of Science using predefined search queries.
+
+RESULTS AND DISCUSSION
+We obtained an initial set of 800 publications that were filtered to 78 publications that were relevant to include in this review. Analysis of the literature showed significant associations between air pollution, especially PM2.5, and the risk of elevated blood pressure (BP), acute coronary syndrome, myocardial infarction (MI), cardiac arrhythmia and heart failure (HF), respectively. Prominent mechanisms that underlie the adverse effects of air pollution include oxidative stress, systemic inflammation, endothelial dysfunction, autonomic imbalance and thrombogenicity.
+
+CONCLUSIONS
+The current review underscores the relevance of air pollution as a global health concern that affects cardiovascular health. More rigorous standardsare needed to reduce the cardiovascular disease burden imposed by air pollution. Continued research on the health impact of air pollution is needed to provide further insight.
+
+Air pollution and cardiovascular disease.
+
+Number of 
+
+Key takeaways:Exposure to fine particulate matter air pollution contributes to the development of cardiovascular disease and acute cardiac events, highlighting the need for individuals with cardiovascular diseases, the elderly, diabetics, pregnant women, and those with pulmonary diseases to limit outdoor activities during high air pollution levels.
+
+The mechanisms of air pollution and particulate matter in cardiovascular diseases
+
+Number of 
+
+Key takeaways:Air pollution, particularly particulate matter PM_10 and PM_2.5, increases the risk of cardiovascular diseases, with potential therapeutic approaches based on antioxidant intake.
+
+Abstract:Clinical and epidemiological studies demonstrate that short- and long-term exposure to air pollution increases mortality due to respiratory and cardiovascular diseases. Given the increased industrialization and the increased sources of pollutants (i.e., cars exhaust emissions, cigarette smoke, industry emissions, burning of fossil fuels, incineration of garbage), air pollution has become a key public health issue to solve. Among pollutants, the particulate matter (PM) is a mixture of solid and liquid particles which differently affects human health depending on their size (i.e., PM_10 with a diameter <10 μm reach the lung and PM_2.5 with a diameter <2.5 μm penetrate deeper into the lung). In particular, the acute exposure to PM_10 and PM_2.5 increases the rate of cardiovascular deaths. Thus, appropriate interventions to reduce air pollution may promote great benefits to public health by reducing the risk of cardiovascular diseases. Several biological mechanisms have been identified to date which could be responsible for PM-dependent adverse cardiovascular outcomes. Indeed, the exposure to PM_10 and PM_2.5 induces sustained oxidative stress and inflammation. PM_2.5 is also able to increase autonomic nervous system activation. Some potential therapeutic approaches have been tested both in pre-clinical and clinical studies, based on the intake of antioxidants from dietary or by pharmacological administration. Studies are still in progress to increase the knowledge of PM activation of intracellular pathways and propose new strategies of intervention.
+
+The Impact of Air Quality on Cardiovascular Health: A State of the Art Review.
+
+Number of 
+
+Key takeaways:Air pollution increases the risk of cardiovascular diseases, and improving air quality requires increased awareness, collective efforts, and strategic policies for long-term health benefits.
+
+Links between chronic exposure to outdoor air pollution and cardiovascular diseases: a review
+
+Number of 
+
+Key takeaways:Chronic exposure to outdoor air pollution is linked to increased cardiovascular mortality and development of atherosclerosis, hypertension, stroke, and heart failure.
+
+Abstract:Acute exposure to air pollution is associated with an increasing risk of death and cardiovascular disorders. Nonetheless, the impact of chronic exposure to air pollution on the circulatory system is still debated. Here, we review the links of chronic exposure to outdoor air pollution with mortality and most common cardiovascular diseases, in particular during the coronavirus disease 2019 event (COVID-19). We found that recent studies provide robust evidence for a causal effect of chronic exposure to air pollution and cardiovascular mortality. In terms of mortality, the strongest relationship was noted for fine particulate matter, nitrogen dioxide, and ozone. There is also increasing evidence showing that exposure to air pollution, mainly fine particulate matter and nitrogen dioxide, is associated with the development of atherosclerosis, hypertension, stroke, and heart failure. However, available scientific evidence is not strong enough to support associations with cardiac arrhythmias and coagulation disturbances. Noteworthy, for some pollutants, the risk of negative health effects is high for concentrations lower than the limit values recommended by the European Union and Word Health Organization. Efforts to diminish exposure to air pollution and to design optimal methods of air pollution reduction should be urgently intensified and supported by effective legislation and interdisciplinary cooperation.
+
+Impact of Particulate Air Pollution on Cardiovascular Health
+
+Number of 
+
+Key takeaways:Particulate air pollution, particularly PM2.5, is a significant risk factor for cardiovascular diseases and can reduce life expectancy by a few years.
+
+Abstract:Purpose of ReviewAir pollution is established as an independent risk factor for cardiovascular diseases (CVDs). Ambient particulate matter (PM), a principal component of air pollutant, has been considered as a main culprit of the adverse effects of air pollution on human health.Recent FindingsExtensive epidemiological and toxicological studies have demonstrated particulate air pollution is positively associated with the development of CVDs. Short-term PM exposure can trigger acute cardiovascular events while long-term exposure over years augments cardiovascular risk to an even greater extent and can reduce life expectancy by a few years. Inhalation of PM affects heart rate variability, blood pressure, vascular tone, blood coagulability, and the progression of atherosclerosis. The potential molecular mechanisms of PM-caused CVDs include direct toxicity to the cardiovascular system or indirect injury by inducing systemic inflammation and oxidative stress in circulation.SummaryThis review mainly focuses on the acute and chronic effects of ambient PM exposure on the development of cardiovascular diseases and the possible mechanisms for PM-induced increases in cardiovascular morbidity and mortality. Additionally, we summarized some appropriate interventions to attenuate PM air pollution-induced cardiovascular adverse effects, which may promote great benefits to public health.
+
+Effect of Particulate Matter Air Pollution on Cardiovascular Oxidative Stress Pathways.
+
+Number of 
+
+Key takeaways:Particulate matter air pollution contributes to cardiovascular diseases by disrupting normal redox signaling and inducing immune-mediated responses through reactive oxygen species.
+
+Abstract:SIGNIFICANCE
+Particulate matter (PM) air pollution is a leading cause of global cardiovascular morbidity and mortality. Understanding the biological action of PM is of particular importance in improvement of public health. Recent Advances: Both fine (PM <2.5 μM) and ultrafine particles (<0.1 μM) are widely believed to mediate their effects through redox regulated pathways. A rather simplistic graded ramp model of redox stress has been replaced by a more sophisticated understanding of the role of oxidative stress in signaling, and the realization that many of the observed effects may involve disruption and/or enhancement of normal endogenous redox signaling and induction of a potent immune-mediated response, through entrainment of multiple reactive oxygen species (ROS).
+
+CRITICAL ISSUES
+The molecular events by which pulmonary oxidative stress in response to inhalational exposure to air pollution triggers inflammation, major ROS (e.g., superoxide, hydroxyl radical, nitric oxide, and peroxynitrite) generated in air pollution exposure, types of oxidative tissue damage in target organs, contributions of nonimmune and immune cells in inflammation, and the role of protective proteins (e.g., surfactant, proteins, and antioxidants) are highly complex and may differ depending on models and concomitant disease states.
+
+FUTURE DIRECTIONS
+While the role of oxidative stress in the lung has been well demonstrated, the role of oxidative stress in mediating systemic effects especially in inflammation and injury processes needs further work. The role of antioxidant defenses with chronic exposure will also need further exploration. Antioxid. Redox Signal. 28, 797-818.
+
+Role of oxidative stress in cardiovascular disease outcomes following exposure to ambient air pollution.
+
+Number of 
+
+Key takeaways:Exposure to ambient air pollution increases oxidative stress, which contributes to cardiovascular disease risk, sensitivity to ischemia/reperfusion injury, and the onset and progression of metabolic diseases.
+
+Cumulative Lifetime Burden of Cardiovascular Disease From Early Exposure to Air Pollution
+
+Number of 
+
+Key takeaways:Early exposure to air pollution is linked to major cardiovascular disease risks, such as obesity, hypertension, and metabolic disorders.
+
+Abstract:Abstract The disease burden associated with air pollution continues to grow. The World Health Organization (WHO) estimates ≈7 million people worldwide die yearly from exposure to polluted air, half of which—3.3 million—are attributable to cardiovascular disease (CVD), greater than from major modifiable CVD risks including smoking, hypertension, hyperlipidemia, and diabetes mellitus. This serious and growing health threat is attributed to increasing urbanization of the world's populations with consequent exposure to polluted air. Especially vulnerable are the elderly, patients with pre‐existing CVD, and children. The cumulative lifetime burden in children is particularly of concern because their rapidly developing cardiopulmonary systems are more susceptible to damage and they spend more time outdoors and therefore inhale more pollutants. World Health Organization estimates that 93% of the world's children aged <15 years—1.8 billion children—breathe air that puts their health and development at risk. Here, we present growing scientific evidence, including from our own group, that chronic exposure to air pollution early in life is directly linked to development of major CVD risks, including obesity, hypertension, and metabolic disorders. In this review, we surveyed the literature for current knowledge of how pollution exposure early in life adversely impacts cardiovascular phenotypes, and lay the foundation for early intervention and other strategies that can help prevent this damage. We also discuss the need for better guidelines and additional research to validate exposure metrics and interventions that will ultimately help healthcare providers reduce the growing burden of CVD from pollution.
+
+Effects of gaseous and solid constituents of air pollution on endothelial function
+
+Number of 
+
+Key takeaways:Air pollution, including particulate and gaseous pollutants, significantly impacts endothelial function, promoting cardiovascular disorders like hypertension, diabetes, and atherosclerosis.
+
+Abstract:Abstract Ambient air pollution is a leading cause of non-communicable disease globally. The largest proportion of deaths and morbidity due to air pollution is now known to be due to cardiovascular disorders. Several particulate and gaseous air pollutants can trigger acute events (e.g. myocardial infarction, stroke, heart failure). While the mechanisms by which air pollutants cause cardiovascular events is undergoing continual refinement, the preponderant evidence support rapid effects of a diversity of pollutants including all particulate pollutants (e.g. course, fine, ultrafine particles) and gaseous pollutants such as ozone, on vascular function. Indeed alterations in endothelial function seem to be critically important in transducing signals and eventually promoting cardiovascular disorders such as hypertension, diabetes, and atherosclerosis. Here, we provide an updated overview of the impact of particulate and gaseous pollutants on endothelial function from human and animal studies. The evidence for causal mechanistic pathways from both animal and human studies that support various hypothesized general pathways and their individual and collective impact on vascular function is highlighted. We also discuss current gaps in knowledge and evidence from trials evaluating the impact of personal-level strategies to reduce exposure to fine particulate matter (PM2.5) and impact on vascular function, given the current lack of definitive randomized evidence using hard endpoints. We conclude by an exhortation for formal inclusion of air pollution as a major risk factor in societal guidelines and provision of formal recommendations to prevent adverse cardiovascular effects attributable to air pollution.
+
+Ecology of the cardiovascular system: A focus on air-related environmental factors.
+
+Number of 
+
+Key takeaways:Ambient air temperature and pollution are major contributors to cardiovascular diseases, and improving air quality is crucial for cardiovascular prevention.
+
+Impact of air pollution and noise exposure on cardiovascular disease incidence and mortality: A systematic review
+
+Number of 
+
+Key takeaways:Long-term exposure to air pollutants is associated with increased risk of cardiovascular diseases, but the combined interaction between air pollution and noise exposure needs further exploration.
+
+Indoor Air Quality and Health: Impact on Respiratory and Cardiovascular System
+
+Number of 
+
+Key takeaways:Indoor air quality negatively impacts respiratory and cardiovascular health, with various pollutants found in interior environments contributing to immediate and long-term health problems.
+
+Abstract:Introduction: Various air pollutants are found in several interior environments, sometimes at increased concentrations, and they negatively affect the indoor air quality. Exposure to these pollutants often contributes to structural degradation and building failures within their indoor environment and can lead to numerous immediate and long-term health problems. Aim: This retrospective study provides a comprehensive review of the new evidence linking indoor air quality with its impact on respiratory and cardiovascular system. It also refers to the principal pollutants found in indoor environments and associated with harmful effects on health. Method: A review of the Greek and international literature on the issue was performed through the
+
+Environmental and Health Impacts of Air Pollution: A Review
+
+Number of 
+
+Key takeaways:Air pollution contributes to climate change and human health issues, necessitating public awareness and multidisciplinary solutions.
+
+Abstract:One of our era's greatest scourges is air pollution, on account not only of its impact on climate change but also its impact on public and individual health due to increasing morbidity and mortality. There are many pollutants that are major factors in disease in humans. Among them, Particulate Matter (PM), particles of variable but very small diameter, penetrate the respiratory system via inhalation, causing respiratory and cardiovascular diseases, reproductive and central nervous system dysfunctions, and cancer. Despite the fact that ozone in the stratosphere plays a protective role against ultraviolet irradiation, it is harmful when in high concentration at ground level, also affecting the respiratory and cardiovascular system. Furthermore, nitrogen oxide, sulfur dioxide, Volatile Organic Compounds (VOCs), dioxins, and polycyclic aromatic hydrocarbons (PAHs) are all considered air pollutants that are harmful to humans. Carbon monoxide can even provoke direct poisoning when breathed in at high levels. Heavy metals such as lead, when absorbed into the human body, can lead to direct poisoning or chronic intoxication, depending on exposure. Diseases occurring from the aforementioned substances include principally respiratory problems such as Chronic Obstructive Pulmonary Disease (COPD), asthma, bronchiolitis, and also lung cancer, cardiovascular events, central nervous system dysfunctions, and cutaneous diseases. Last but not least, climate change resulting from environmental pollution affects the geographical distribution of many infectious diseases, as do natural disasters. The only way to tackle this problem is through public awareness coupled with a multidisciplinary approach by scientific experts; national and international organizations must address the emergence of this threat and propose sustainable solutions.
+
+Physical Activity in Polluted Air—Net Benefit or Harm to Cardiovascular Health? A Comprehensive Review
+
+Number of 
+
+Key takeaways:Physical activity in polluted air may provide health benefits but may increase the risk of cardiovascular disease.
+
+Abstract:Both exposure to higher levels of polluted air and physical inactivity are crucial risk factors for the development and progression of major noncommunicable diseases and, in particular, of cardiovascular disease. In this context, the World Health Organization estimated 4.2 and 3.2 million global deaths per year in response to ambient air pollution and insufficient physical activity, respectively. While regular physical activity is well known to improve general health, it may also increase the uptake and deposit of air pollutants in the lungs/airways and circulation, due to increased breathing frequency and minute ventilation, thus increasing the risk of cardiovascular disease. Thus, determining the tradeoff between the health benefits of physical activity and the potential harmful effects of increased exposure to air pollution during physical activity has important public health consequences. In the present comprehensive review, we analyzed evidence from human and animal studies on the combined effects of physical activity and air pollution on cardiovascular and other health outcomes. We further report on pathophysiological mechanisms underlying air pollution exposure, as well as the protective effects of physical activity with a focus on oxidative stress and inflammation. Lastly, we provide mitigation strategies and practical recommendations for physical activity in areas with polluted air.
+
+Air Pollution and Noncommunicable Diseases: A Review by the Forum of International Respiratory Societies' Environmental Committee, Part 2: Air Pollution and Organ Systems.
+
+Number of 
+
+Key takeaways:Air pollution harms not only lungs but also various organ systems, contributing to diseases like lung cancer, COPD, cardiovascular issues, strokes, and cognitive decline, with potential prevention through pollution control.
+
+Air pollution: A culprit of lung cancer.
+
+Number of 
+
+Key takeaways:Air pollution, including particulate matter, toxic metals, and bacteria, contributes to lung cancer development through inflammation, DNA damage, and epigenetic regulation.
+
+Air pollution exposure—the (in)visible risk factor for respiratory diseases
+
+Number of 
+
+Key takeaways:Air pollution exposure significantly increases the risk of respiratory diseases, emphasizing the need for improved policy initiatives on air quality in both high- and low-income countries.
+
+Abstract:Abstract There is increasing interest in understanding the role of air pollution as one of the greatest threats to human health worldwide. Nine of 10 individuals breathe air with polluted compounds that have a great impact on lung tissue. The nature of the relationship is complex, and new or updated data are constantly being reported in the literature. The goal of our review was to summarize the most important air pollutants and their impact on the main respiratory diseases (chronic obstructive pulmonary disease, asthma, lung cancer, idiopathic pulmonary fibrosis, respiratory infections, bronchiectasis, tuberculosis) to reduce both short- and the long-term exposure consequences. We considered the most important air pollutants, including sulfur dioxide, nitrogen dioxide, carbon monoxide, volatile organic compounds, ozone, particulate matter and biomass smoke, and observed their impact on pulmonary pathologies. We focused on respiratory pathologies, because air pollution potentiates the increase in respiratory diseases, and the evidence that air pollutants have a detrimental effect is growing. It is imperative to constantly improve policy initiatives on air quality in both high- and low-income countries.
+
+Air pollution, lung function and COPD: results from the population-based UK Biobank study
+
+Number of 
+
+Key takeaways:Ambient air pollution exposure is associated with lower lung function and increased COPD prevalence, with stronger associations seen in males, lower income individuals, and at-risk occupations.
+
+Abstract:Ambient air pollution increases the risk of respiratory mortality, but evidence for impacts on lung function and chronic obstructive pulmonary disease (COPD) is less well established. The aim was to evaluate whether ambient air pollution is associated with lung function and COPD, and explore potential vulnerability factors. We used UK Biobank data on 303 887 individuals aged 40–69 years, with complete covariate data and valid lung function measures. Cross-sectional analyses examined associations of land use regression-based estimates of particulate matter (particles with a 50% cut-off aerodynamic diameter of 2.5 and 10 µm: PM2.5 and PM10, respectively; and coarse particles with diameter between 2.5 μm and 10 μm: PMcoarse) and nitrogen dioxide (NO2) concentrations with forced expiratory volume in 1 s (FEV1), forced vital capacity (FVC), the FEV1/FVC ratio and COPD (FEV1/FVC <lower limit of normal). Effect modification was investigated for sex, age, obesity, smoking status, household income, asthma status and occupations previously linked to COPD. Higher exposures to each pollutant were significantly associated with lower lung function. A 5 µg·m−3 increase in PM2.5 concentration was associated with lower FEV1 (−83.13 mL, 95% CI −92.50– −73.75 mL) and FVC (−62.62 mL, 95% CI −73.91– −51.32 mL). COPD prevalence was associated with higher concentrations of PM2.5 (OR 1.52, 95% CI 1.42–1.62, per 5 µg·m−3), PM10 (OR 1.08, 95% CI 1.00–1.16, per 5 µg·m−3) and NO2 (OR 1.12, 95% CI 1.10–1.14, per 10 µg·m−3), but not with PMcoarse. Stronger lung function associations were seen for males, individuals from lower income households, and “at-risk” occupations, and higher COPD associations were seen for obese, lower income, and non-asthmatic participants. Ambient air pollution was associated with lower lung function and increased COPD prevalence in this large study. In one of the largest analyses to date, ambient air pollution exposure was associated with lower lung function and increased COPD prevalence, with stronger associations seen in those with lower incomes 
+
+Particulate air pollution and impaired lung function
+
+Number of 
+
+Key takeaways:Particulate matter (PM) exposure can impair lung function in both healthy individuals and those with existing lung disease, causing respiratory symptoms and increased health care utilization.
+
+Abstract:Air pollution is a leading cause of morbidity and mortality throughout the world, particularly in individuals with existing lung disease. Of the most common air pollutants, particulate matter (PM) is associated with an increased risk of exacerbations and respiratory symptoms in individuals with existing lung disease, and to a lesser extent, in those without known respiratory issues. The majority of published research has focused on the effects of PM exposures on symptoms and health care utilization. Fewer studies focus on the impact of PM on objective measurements of pulmonary function. This review will focus on the effects of PM exposure on objective measurements of lung function in both healthy individuals and those with existing lung disease.
+
+Short-term exposure to air pollution: Associations with lung function and inflammatory markers in non-smoking, healthy adults.
+
+Number of 
+
+Key takeaways:Short-term exposure to air pollution is associated with subclinical decrements in lung function and increased inflammatory markers in healthy adults in urban areas in France.
+
+Associations among air pollution, asthma and lung function: a cross-sectional study
+
+Number of 
+
+Key takeaways:Air pollution is associated with increased asthma prevalence, current wheezing, asthma-related hospitalizations, and decreased lung function in adults aged 37 to 73 years.
+
+Ambient air pollution, low-grade inflammation, and lung function: Evidences from the UK Biobank.
+
+Number of 
+
+Key takeaways:Ambient air pollution negatively affects lung function, with low-grade inflammation strengthening these associations and modifying their impact.
+
+Role of air pollutants in airway epithelial barrier dysfunction in asthma and COPD
+
+Number of 
+
+Key takeaways:Air pollutants impair airway epithelial barrier function, leading to asthma and COPD development through increased oxidative stress, exaggerated cytokine responses, and impaired host defense.
+
+Abstract:Chronic exposure to environmental pollutants is a major contributor to the development and progression of obstructive airway diseases, including asthma and COPD. Understanding the mechanisms underlying the development of obstructive lung diseases upon exposure to inhaled pollutants will lead to novel insights into the pathogenesis, prevention and treatment of these diseases. The respiratory epithelial lining forms a robust physicochemical barrier protecting the body from inhaled toxic particles and pathogens. Inhalation of airborne particles and gases may impair airway epithelial barrier function and subsequently lead to exaggerated inflammatory responses and airway remodelling, which are key features of asthma and COPD. In addition, air pollutant-induced airway epithelial barrier dysfunction may increase susceptibility to respiratory infections, thereby increasing the risk of exacerbations and thus triggering further inflammation. In this review, we discuss the molecular and immunological mechanisms involved in physical barrier disruption induced by major airborne pollutants and outline their implications in the pathogenesis of asthma and COPD. We further discuss the link between these pollutants and changes in the lung microbiome as a potential factor for aggravating airway diseases. Understanding these mechanisms may lead to identification of novel targets for therapeutic intervention to restore airway epithelial integrity in asthma and COPD. Exposure to air pollution induces airway epithelial barrier dysfunction through several mechanisms including increased oxidative stress, exaggerated cytokine responses and impaired host defence, which contributes to development of asthma and COPD. 
+
+Pulmonary health effects of air pollution
+
+Number of 
+
+Key takeaways:Air pollution exacerbates pulmonary diseases, particularly asthma, chronic obstructive pulmonary disease, lung cancer, and respiratory infections, requiring global cooperation to improve air quality.
+
+Abstract:Purpose of the review Air pollution continues to be a major public health concern affecting nine out of 10 individuals living in urban areas worldwide. Exposure to air pollution is the ninth leading risk factor for cardiopulmonary mortality. The aim of this review is to examine the current literature for the most recent updates on health effects of specific air pollutants and their impact on asthma, chronic obstructive pulmonary disease, lung cancer, and respiratory infection. Recent findings A total of 52 publications were reviewed to establish new insights as to how air pollution is associated with pulmonary morbidity and mortality. Considerable past evidence suggests that air pollution is an important factor that enhances pulmonary disease, while also causing greater harm in susceptible populations, such as children, the elderly, and those of low socio-economic status worldwide. Asthma, chronic obstructive pulmonary disease, lung cancer, and respiratory infections all seem to be exacerbated because of exposure to a variety of environmental air pollutants with the greatest effects because of particulate matter, ozone, and nitrogen oxides. New publications reviewed reaffirm these findings. Summary Continued vigilance will be essential to lessen the effects of air pollution on human health and pulmonary disease. Cooperation at a multinational level will be required on the part of governments, industry, energy-based enterprises, and the public working together to solve our air quality issues at the local, national, and global level.
+
+Associations between short-term exposure to ambient air pollution and lung function in adults
+
+Number of 
+
+Key takeaways:Short-term exposure to air pollutants negatively impacts lung function and is associated with a lower neutrophil count in adults.
+
+Panel studies of air pollution in patients with COPD: Systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:Particulate matter air pollution has a small but significant impact on lung function in patients with COPD, while gaseous pollutants show inconsistent results for lung function or symptoms.
+
+Indoor Air Pollution and the Health of Vulnerable Groups: A Systematic Review Focused on Particulate Matter (PM), Volatile Organic Compounds (VOCs) and Their Effects on Children and People with Pre-Existing Lung Disease
+
+Number of 
+
+Key takeaways:Indoor air pollution, mainly from VOCs and PM, negatively impacts the health of children and those with pre-existing lung diseases.
+
+Abstract:Air pollution affects health, but much of the focus to this point has been on outdoor air. Higher indoor pollution is anticipated due to increasingly energy-efficient and less leaky buildings together with more indoor activities. Studies of indoor air pollution focusing on children and people with respiratory disease from the database Web of Science (1991–2021) were systemically reviewed according to the PRISMA guidelines, with 69 studies included in the final selection. Emissions from building materials affected indoor air quality, and ventilation also had an influence. The main indoor air pollutants are Volatile Organic Compounds (VOCs) and Particulate Matter (PM). PM sources included smoking, cooking, heating, candles, and insecticides, whereas sources of coarse particles were pets, housework and human movements. VOC sources included household products, cleaning agents, glue, personal care products, building materials and vehicle emissions. Formaldehyde levels were particularly high in new houses. Personal exposure related to both indoor and outdoor pollutant levels, highlighting home characteristics and air exchange rates as important factors. Temperature, humidity, educational level, air purifiers and time near sources were also related to personal exposure. There was an association between PM and Fractional exhaled Nitric Oxide (FeNO), lung function, oxygen saturation, childhood asthma and symptoms of chronic obstructive pulmonary disease (COPD) patients. High VOCs were associated with upper airways and asthma symptoms and cancer. Effective interventional studies for PM in the future might focus on human behavior together with air purifiers and increased ventilation, whereas VOC interventions might center more on building materials and household products, alongside purification and ventilation.
+
+Causal effects of air pollutants on lung function and chronic respiratory diseases: a Mendelian randomization study
+
+Number of 
+
+Key takeaways:Air pollutants, particularly PM10, negatively impact lung function and increase COPD incidence, with interleukin-17A acting as a potential therapeutic target.
+
+Abstract:Objectives Our study aims to clarify the causality between air pollutants and lung function, chronic respiratory diseases, and the potential mediating effects of inflammatory proteins. Method We employed Mendelian Randomization (MR) analysis with comprehensive instrumental variables screening criteria to investigate the effects of air pollutants on lung function and chronic lung diseases. Our study incorporated genetic instruments for air pollutants, ensuring F-statistics above 20.86. A total of 18 MR analyses were conducted using the inverse-variance weighted approach, along with heterogeneity and pleiotropy tests to validate the results. Mediated MR analysis was utilized to evaluate the inflammatory proteins mediating the effects of air pollutants. Result MR analysis demonstrated significant causal interactions of particulate matter 2.5 (PM2.5), PM10, and Nitrogen dioxide (NO2) with lung function decline. Specifically, PM10 negatively affected forced expiratory volume in one second (FEV1) (OR: 0.934, 95% CI: 0.904–0.965, p = 4.27 × 10−5), forced vital capacity (FVC) (OR: 0.941, 95% CI: 0.910–0.972, p = 2.86 × 10−4), and FEV1/FVC (OR: 0.965, 95% CI: 0.934–0.998, p = 0.036). PM2.5 and NO2 were identified as potential risk factors for impairing FEV1 (OR: 0.936, 95% CI: 0.879–0.998, p = 0.042) and FEV1/FVC (OR: 0.943, 95% CI: 0.896–0.992, p = 0.024), respectively. For chronic respiratory diseases, PM2.5 and NO2 were associated with increased COPD incidence (OR: 1.273, 95% CI: 1.053–1.541, p = 0.013 for PM2.5; OR: 1.357, 95% CI: 1.165–1.581, p = 8.74 × 10−5 for NO2). Sensitivity analyses confirmed the robustness of these findings, with no significant heterogeneity or horizontal pleiotropy detected. Conclusion Our study ascertained the causal correlations of air pollutants with lung function and COPD, emphasizing the importance of reducing air pollution. Interleukin-17A mediates the reduction of FEV1 and FVC by PM10, revealing potential therapeutic targets.
+
+Effects of Air Pollutants on Airway Diseases
+
+Number of 
+
+Key takeaways:Air pollution exacerbates symptoms of respiratory diseases like asthma and COPD, decreasing quality of life and life expectancy, and increasing morbidity and risk of hospitalization.
+
+Abstract:Air pollutants include toxic particles and gases emitted in large quantities from many different combustible materials. They also include particulate matter (PM) and ozone, and biological contaminants, such as viruses and bacteria, which can penetrate the human airway and reach the bloodstream, triggering airway inflammation, dysfunction, and fibrosis. Pollutants that accumulate in the lungs exacerbate symptoms of respiratory diseases such as asthma and chronic obstructive pulmonary disease (COPD). Asthma, a heterogeneous disease with complex pathological mechanisms, is characterized by particular symptoms such as shortness of breath, a tight chest, coughing, and wheezing. Patients with COPD often experience exacerbations and worsening of symptoms, which may result in hospitalization and disease progression. PM varies in terms of composition, and can include solid and liquid particles of various sizes. PM concentrations are higher in urban areas. Ozone is one of the most toxic photochemical air pollutants. In general, air pollution decreases quality of life and life expectancy. It exacerbates acute and chronic respiratory symptoms in patients with chronic airway diseases, and increases the morbidity and risk of hospitalization associated with respiratory diseases. However, the mechanisms underlying these effects remain unclear. Therefore, we reviewed the impact of air pollutants on airway diseases such as asthma and COPD, focusing on their underlying mechanisms.
+
+Contemporary Concise Review 2023: Environmental and occupational lung diseases
+
+Number of 
+
+Key takeaways:Air pollutants can increase the risk of various lung diseases, highlighting the need for proper recognition and prevention measures.
+
+Abstract:Air pollutants have various effects on human health in environmental and occupational settings. Air pollutants can be a risk factor for incidence, exacerbation/aggravation and death due to various lung diseases, including asthma, chronic obstructive pulmonary disease (COPD), hypersensitivity pneumonitis or pneumonia (HP), pulmonary fibrosis such as pneumoconiosis and malignant respiratory diseases such as lung cancer and malignant pleural mesothelioma. Environmental and occupational respiratory diseases are crucial clinical and social issues worldwide, although the burden of respiratory disease due to environmental and occupational causes varies depending on country/region, demographic variables, geographical location, industrial structure and socioeconomic situation. The correct recognition of environmental and occupational lung diseases and taking appropriate measures are essential to their effective prevention.
+
+How atmospheric pollutants impact the development of chronic obstructive pulmonary disease and lung cancer: A var-based model.
+
+Number of 
+
+Key takeaways:Air pollutants O3 and NO2 have the highest impact on COPD and lung cancer mortality rates, indicating that pollution influences clinical state and contributes to their development.
+
+Air pollution affects lung cancer survival
+
+Number of 
+
+Key takeaways:Air pollution exposures after lung cancer diagnosis shorten survival, with the largest associations found for early-stage non-small cell cancers, particularly adenocarcinomas.
+
+Abstract:Rationale Exposure to ambient air pollutants has been associated with increased lung cancer incidence and mortality, but due to the high case fatality rate, little is known about the impacts of air pollution exposures on survival after diagnosis. This study aimed to determine whether ambient air pollutant exposures are associated with the survival of patients with lung cancer. Methods Participants were 352 053 patients with newly diagnosed lung cancer during 1988–2009 in California, ascertained by the California Cancer Registry. Average residential ambient air pollutant concentrations were estimated for each participant's follow-up period. Cox proportional hazards models were used to estimate HRs relating air pollutant exposures to all-cause mortality overall and stratified by stage (localised only, regional and distant site) and histology (squamous cell carcinoma, adenocarcinoma, small cell carcinoma, large cell carcinoma and others) at diagnosis, adjusting for potential individual and area-level confounders. Results Adjusting for histology and other potential confounders, the HRs associated with 1 SD increases in NO2, O3, PM10, PM2.5 for patients with localised stage at diagnosis were 1.30 (95% CI 1.28 to 1.32), 1.04 (95% CI 1.02 to 1.05), 1.26 (95% CI 1.25 to 1.28) and 1.38 (95% CI 1.35 to 1.41), respectively. Adjusted HRs were smaller in later stages and varied by histological type within stage (p<0.01, except O3). The largest associations were for patients with early-stage non-small cell cancers, particularly adenocarcinomas. Conclusions These epidemiological findings support the hypothesis that air pollution exposures after lung cancer diagnosis shorten survival. Future studies should evaluate the impacts of exposure reduction.
+
+Ambient air pollution and its influence on human health and welfare: an overview
+
+Number of 
+
+Key takeaways:Air pollution contributes to various diseases and negatively impacts human health and well-being, necessitating urgent action to control it.
+
+Abstract:Human health is closely related to his environment. The influence of exposure to air pollutants on human health and well-being has been an interesting subject and gained much volume of research over the last 50 years. In general, polluted air is considered one of the major factors leading to many diseases such as cardiovascular and respiratory disease and lung cancer for the people. Besides, air pollution adversely affects the animals and deteriorates the plant environment. The overarching objective of this review is to explore the previous researches regarding the causes and sources of air pollution, how to control it and its detrimental effects on human health. The definition of air pollution and its sources were introduced extensively. Major air pollutants and their noxious effects were detailed. Detrimental impacts of air pollution on human health and well-being were also presented.
+
+Air Pollution, Genetic Factors and the Risk of Lung Cancer: A Prospective Study in the UK Biobank.
+
+Number of 
+
+Key takeaways:Long-term exposure to air pollution increases the risk of lung cancer, particularly in individuals with high genetic risk.
+
+Abstract:Rationale: Both genetic and environmental factors contribute to lung cancer, but the degree to which air pollution modifies the impact of genetic susceptibility on lung cancer remains unknown. Objectives: To investigate whether air pollution and genetic factors jointly contribute to incident lung cancer. Methods: We analyzed data from 455,974 participants (53% women) without previous cancer at baseline in the UK Biobank. The concentrations of particulate matter (PM2.5, PMcoarse and PM10), nitrogen dioxide (NO2), and nitrogen oxides (NOx) were estimated by land-use regression models, and the association between air pollutants and incident lung cancer was investigated using a Cox proportional hazard model. Furthermore, we constructed a polygenic risk score and evaluated whether air pollutants modified the effect of genetic susceptibility on the development of lung cancer. Measurements and Main Results: The results showed significant associations between the risk of lung cancer and PM2.5 (hazard ratio : 1.63, 95% confidence interval : 1.33-2.01; per 5 μg/m3), PM10 (1.53, 1.20-1.96; per 10 μg/m3), NO2 (1.10, 1.05-1.15; per 10 μg/m3), and NOx (1.13, 1.07-1.18; per 20 μg/m3). There were additive interactions between air pollutants and the genetic risk. Compared with participants with low genetic risk and low air pollution, those with high air pollution and high genetic risk had the highest risk of lung cancer (PM2.5: HR: 1.71, 95% CI:1.45-2.02; PM10: 1.77, 1.50-2.10; NO2: 1.77, 1.42-2.22; NOx: 1.67, 1.43-1.95). Conclusion: Long-term exposure to air pollution may increase the risk of lung cancer, especially in those with high genetic risk.
+
+The impact of exposure to air pollution on cognitive performance
+
+Number of 
+
+Key takeaways:Long-term exposure to air pollution impairs cognitive performance in verbal and math tests, especially for men and the less educated, posing significant health and economic costs.
+
+Abstract:Significance Most of the population in developing countries live in places with unsafe air. Utilizing variations in transitory and cumulative air pollution exposures for the same individuals over time in China, we provide evidence that polluted air may impede cognitive ability as people become older, especially for less educated men. Cutting annual mean concentration of particulate matter smaller than 10 μm (PM10) in China to the Environmental Protection Agency’s standard (50 μg/m3) would move people from the median to the 63rd percentile (verbal test scores) and the 58th percentile (math test scores), respectively. The damage on the aging brain by air pollution likely imposes substantial health and economic costs, considering that cognitive functioning is critical for the elderly for both running daily errands and making high-stake decisions. This paper examines the effect of both cumulative and transitory exposures to air pollution for the same individuals over time on cognitive performance by matching a nationally representative longitudinal survey and air quality data in China according to the exact time and geographic locations of the cognitive tests. We find that long-term exposure to air pollution impedes cognitive performance in verbal and math tests. We provide evidence that the effect of air pollution on verbal tests becomes more pronounced as people age, especially for men and the less educated. The damage on the aging brain by air pollution likely imposes substantial health and economic costs, considering that cognitive functioning is critical for the elderly for both running daily errands and making high-stake decisions.
+
+News Feature: How air pollution threatens brain health
+
+Number of 
+
+Key takeaways:Air pollution, including diesel exhaust, may contribute to cognitive decline and other neurological problems, such as Alzheimer's disease.
+
+Abstract:Long thought to primarily harm the lungs and cardiovascular system, air pollution is now catching the attention of neuroscientists and toxicologists. 
+
+The buzz of a leaf blower and its gaseous fumes fill the air outside a lab facility at the University of Washington in Seattle. Inside the building, neurotoxicologist Lucio Costa is investigating how polluted air—such as garden tool exhaust—could be bad for the brain.
+
+Although stay-at-home orders have provided some respite from major pollution in cities such as Delhi, India, overall pollution increases may be causing not only cardiovascular problems but cognitive decline. Image credit: Shutterstock/Saurav022.
+
+Next to the building sits a 5,500-watt diesel generator, enclosed in a metal box. Pipes carry the diesel exhaust—the same stuff emitted by diesel engines in vehicles and heavy equipment—into the facility, across an exposed ceiling and into a room where plastic cages of mice are stacked high against the wall. Tubes filter the diesel exhaust through the cages, Costa explains, in an effort to mimic the contaminated air you might breathe while sitting in traffic or living near a busy road.
+
+After spending most of his career studying mercury, pesticides, and flame retardants, Costa knows well that many toxins in the environment can hurt the brain. But only in the last several years has the possibility of air pollution as a culprit crossed his mind. A growing body of literature on the topic inspired him to begin research in this diesel lab. “For a long time, I thought that air pollution was affecting mostly the lungs and the cardiovascular system and not the brain,” says Costa. “So I stayed away from any issue related to air pollution.”
+
+Now, mounting evidence seems to link a variety of neurological problems to dirty air. Troubling recent findings include hallmarks of Alzheimer's disease found in the …
+
+Number of 
+
+Key takeaways:Air pollution may account for 21% of dementia cases worldwide, with higher PM2.5 exposures nearly doubled dementia risk in older women.
+
+Abstract:Some of the health risks of inhaling fine and ultrafine pollutant particles are well-established, such as asthma, lung cancer, and, most recently, heart disease. But a growing body of evidence suggests that such exposure can also harm the brain, accelerating cognitive aging, and may even increase risk of Alzheimer9s disease and other forms of dementia. The link between air pollution and dementia remains controversial—even its proponents warn that more research is needed to confirm a causal connection and work out just how the particles might enter the brain and make mischief there. But a growing number of epidemiological studies from around the world, new findings from animal models and human brain imaging studies, and increasingly sophisticated techniques for modeling PM2.5 exposures have raised alarms. Indeed, in an 11-year epidemiological study to be published next week in Translational Psychiatry , University of Southern California (USC) researchers will report that living in places with PM2.5 exposures higher than the Environmental Protection Agency9s standard of 12 μg/m 3 nearly doubled dementia risk in older women. If the finding holds up in the general population, air pollution could account for roughly 21% of dementia cases worldwide, says the study9s lead author, epidemiologist Jiu-Chiuan Chen of the Keck School of Medicine at USC.
+
+Air Pollution, Stress, and Allostatic Load: Linking Systemic and Central Nervous System Impacts
+
+Number of 
+
+Key takeaways:Air pollutants like particulate matter and ozone can activate the hypothalamic-pituitary-adrenal axis, causing early central nervous system effects and contributing to diseases like cognitive decline and mental health disorders.
+
+Abstract:Air pollution is a risk factor for cardiovascular and respiratory morbidity and mortality. A growing literature also links exposure to diverse air pollutants (e.g., nanoparticles, particulate matter, ozone, traffic-related air pollution) with brain health, including increased incidence of neurological and psychiatric disorders such as cognitive decline, dementia (including Alzheimer’s disease), anxiety, depression, and suicide. A critical gap in our understanding of adverse impacts of pollutants on the central nervous system (CNS) is the early initiating events triggered by pollutant inhalation that contribute to disease progression. Recent experimental evidence has shown that particulate matter and ozone, two common pollutants with differing characteristics and reactivity, can activate the hypothalamic-pituitary-adrenal (HPA) axis and release glucocorticoid stress hormones (cortisol in humans, corticosterone in rodents) as part of a neuroendocrine stress response. The brain is highly sensitive to stress: stress hormones affect cognition and mental health, and chronic stress can produce profound biochemical and structural changes in the brain. Chronic activation and/or dysfunction of the HPA axis also increases the burden on physiological stress response systems, conceptualized as allostatic load, and is a common pathway implicated in many diseases. The present paper provides an overview of how systemic stress-dependent biological responses common to particulate matter and ozone may provide insight into early CNS effects of pollutants, including links with oxidative, inflammatory, and metabolic processes. Evidence of pollutant effect modification by non-chemical stressors (e.g., socioeconomic position, psychosocial, noise), age (prenatal to elderly), and sex will also be reviewed in the context of susceptibility across the lifespan.
+
+The Effects of Air Pollution on the Brain: a Review of Studies Interfacing Environmental Epidemiology and Neuroimaging
+
+Number of 
+
+Key takeaways:Traffic-related air pollution (TRAP) exposure may cause brain damage in cerebral white matter, cortical gray matter, and basal ganglia, potentially affecting cognition.
+
+Abstract:An emerging body of evidence has raised concern regarding the potentially harmful effects of inhaled pollutants on the central nervous system during the last decade. In the general population, traffic-related air pollution (TRAP) exposure has been associated with adverse effects on cognitive, behavior, and psychomotor development in children, and with cognitive decline and higher risk of dementia in the elderly. Recently, studies have interfaced environmental epidemiology with magnetic resonance imaging to investigate in vivo the effects of TRAP on the human brain. The aim of this systematic review was to describe and synthesize the findings from these studies. The bibliographic search was carried out in PubMed with ad hoc keywords.The selected studies revealed that cerebral white matter, cortical gray matter, and basal ganglia might be the targets of TRAP. The detected brain damages could be involved in cognition changes. The effect of TRAP on cognition appears to be biologically plausible. Interfacing environmental epidemiology and neuroimaging is an emerging field with room for improvement. Future studies, together with inputs from experimental findings, should provide more relevant and detailed knowledge about the nature of the relationship between TRAP exposure and cognitive, behavior, and psychomotor disorders observed in the general population.
+
+Effects of air pollution on the nervous system and its possible role in neurodevelopmental and neurodegenerative disorders.
+
+Number of 
+
+Key takeaways:Air pollution may negatively affect the brain and contribute to central nervous system diseases, including neurodevelopmental disorders and neurodegenerative diseases like Alzheimer's and Parkinson's disease.
+
+Reduced repressive epigenetic marks, increased DNA damage and Alzheimer's disease hallmarks in the brain of humans and mice exposed to particulate urban air pollution.
+
+Number of 
+
+Key takeaways:Particulate air pollution, including metal-rich CFDNPs, impairs brain chromatin silencing and reduces DNA integrity, increasing the risk of developing Alzheimer's disease in young individuals exposed to high levels of pollution.
+
+Outdoor Air Pollution and Brain Structure and Function From Across Childhood to Young Adulthood: A Methodological Review of Brain MRI Studies
+
+Number of 
+
+Key takeaways:Outdoor air pollutants may impact brain structure and function in children, but future studies need to incorporate a developmental neurosciences perspective and consider exposure timing, age, and appropriate neurodevelopmental milestones.
+
+Abstract:Outdoor air pollution has been recognized as a novel environmental neurotoxin. Studies have begun to use brain Magnetic Resonance Imaging (MRI) to investigate how air pollution may adversely impact developing brains. A systematic review was conducted to evaluate and synthesize the reported evidence from MRI studies on how early-life exposure to outdoor air pollution affects neurodevelopment. Using PubMed and Web of Knowledge, we conducted a systematic search, followed by structural review of original articles with individual-level exposure data and that met other inclusion criteria. Six studies were identified, each sampled from 3 cohorts of children in Spain, The Netherlands, and the United States. All studies included a one-time assessment of brain MRI when children were 6–12 years old. Air pollutants from traffic and/or regional 
+
+Particulate matter exposure and its consequences on hippocampal neurogenesis and cognitive function in experimental models.
+
+Number of 
+
+Key takeaways:Air pollution exposure during gestation negatively impacts brain development and neurogenesis in the hippocampus, leading to neurodevelopmental defects and neurodegenerative disorders.
+
+Stress hormones as potential mediators of air pollutant effects on the brain: Rapid induction of glucocorticoid-responsive genes.
+
+Number of 
+
+Key takeaways:Air pollution, such as ozone, can initially induce stress hormone-dependent signaling in the brain, potentially contributing to the central nervous system impacts of air pollutants.
+
+Air pollution and brain health: defining the research agenda
+
+Number of 
+
+Key takeaways:Greater exposure to air pollution is associated with worse brain health outcomes, but more research is needed to determine when it has the most impact, which pollutant(s) are most important, and which dementia condition is most affected.
+
+Abstract:Purpose of review The literature on air pollution and brain health is rapidly expanding and it is a universal finding that greater exposure to air pollution is associated with worse outcomes, whatever the measure of brain health used (clinical dementia, neuroimaging correlates, or cognitive impairment). However, there are a number of important questions which the studies currently 
+
+Air Pollution, Depressive and Anxiety Disorders, and Brain Effects: A Systematic Review.
+
+Number of 
+
+Key takeaways:Air pollution is associated with increased depressive and anxiety symptoms and behaviors, as well as alterations in brain regions implicated in psychopathology.
+
+Outdoor air pollution and brain development in childhood and adolescence
+
+Number of 
+
+Key takeaways:Outdoor air pollution exposure in childhood and adolescence may increase the vulnerability of the developing brain to neurotoxic effects, potentially impacting cognition and mental health.
+
+Affective disorder and brain alterations in children and adolescents exposed to outdoor air pollution.
+
+Number of 
+
+Key takeaways:Outdoor air pollution is associated with increased risks of affective disorders and suicide in youth, and may cause structural and functional brain abnormalities.
+
+Air pollution, a rising environmental risk factor for cognition, neuroinflammation and neurodegeneration: The clinical impact on children and beyond.
+
+Number of 
+
+Key takeaways:Air pollution negatively impacts children's brain development and may increase the risk of Alzheimer's disease later in life.
+
+Air pollution and performance of the brain
+
+Number of 
+
+Key takeaways:Air pollution is linked to impaired brain function and neurological diseases, highlighting the need for regulations to limit exposure.
+
+Abstract:Air pollution may adversely affect the function of the central nervous system, but its effects are poorly understood. In this paper, we aim to explore whether ambient air quality is associated with impaired brain function and neurologic diseases. PubMed was used to review literature on neurophysiologic responses to traffic pollution from 1990 to 2018, using the keywords “pollution” OR “traffic pollution, air pollution,” AND “neurophysiologic responses.” A qualitative analysis of 112 articles and their related websites was conducted, and 56 articles were selected for further analysis based on study relevance, quality, reliability, and publication date. These 56 articles were analyzed to determine the association, if any, of air pollutants with neurofunction and neurological diseases. Fourteen articles suggest a link between air pollutants and neurodevelopment (25%). Nine found a relationship between stroke (both ischemic and hemorrhagic) and air pollutants (16%). Three articles found a relationship between headache and pollution (5%), and three found a relationship between multiple sclerosis and pollution (5%). A relationship between neurocognitive function and air pollution was described in 16 articles (28.5%). Seven articles suggested a relationship between air pollution and neurodegenerative diseases (12.5%). Another seven reported a relationship between autonomic functions and pollutants (12.5%), and one suggested that air pollution may have neuropsychological effects (1.7%). One study reported a relationship between decades of exposure to air pollutants and neurotoxicity (1.7%). Therefore, the present study confirms the harmful effect of air pollutants on the brain. We recommend that regulations be enacted to limit exposure to air pollutants to help reduce the problems associated with it.
+
+Association between air pollution exposure and brain cortical thickness throughout the lifespan: A systematic review
+
+Number of 
+
+Key takeaways:Increasing air pollution exposure is associated with decreases in brain cortical thickness, potentially affecting cognitive decline and neurodegenerative disease progression.
+
+The Relationship Between Air Pollution and Cognitive Functions in Children and Adolescents: A Systematic Review
+
+Number of 
+
+Key takeaways:Air pollution negatively impacts cognitive functions in children and adolescents, with nitrogen dioxide, particulate matter 2.5, black carbon, and other pollutants linked to impaired memory, attention, processing speed, and fine motor skills.
+
+Abstract:Air pollution has a negative impact on one’s health and on the central nervous system. We decided to assess studies that evaluated the relationship between air pollution and cognitive functions in children and adolescents by reviewing studies that had been published between January 2009 and May 2019. We searched three major databases for original works (26 studies) and for studies using brain imaging methods based on MRI (six studies). Adverse effects of air pollutants on selected cognitive or psychomotor functions were found in all of the studies. Exposure to nitrogen dioxide, for example, was linked to impaired working memory, general cognitive functions, and psychomotor functions; particulate matter 2.5 was linked to difficulties in working memory, short-term memory, attention, processing speed, and fine motor function; black carbon was linked to poor verbal intelligence, nonverbal intelligence, and working memory; airborne copper was linked to impaired attentiveness and fine motor skills; isophorone was linked to lower mathematical skills; and polycyclic aromatic hydrocarbons in fetal life were linked to lower intelligence scores. The studies using MRI showed that high concentrations of air pollutants were linked to changes in the brain’s white matter or lower functional integration and segregation in children’s brain networks. In view of the global increase in air pollution, there is a need for further research to elucidate the relationship between air pollution and cognitive and motor development in children. According to some studies, neuroinflammation, the e4 allele of the apolipoprotein E gene, and gutathione-S-transferase gene polymorphism processes may play a role.
+
+The effect of long-term exposure to toxic air pollutants on the increased risk of malignant brain tumors
+
+Number of 
+
+Key takeaways:Long-term exposure to toxic air pollutants increases the risk of malignant brain tumors, and reducing air pollution can significantly slow down the development of brain diseases.
+
+Abstract:Abstract Toxic air pollutants are one of the most agent that have many acute, chronic and non-communicable diseases (NCDs) on human health under long or short-term exposure has been raised from the past to the present. The aim of this study was investigation effect of long-term exposure to toxic air pollutants on the increased risk of malignant brain tumors. Databases used to for searched were the PubMed, Web of Science, Springer and Science Direct (Scopus) and Google Scholar. 71 papers based on abstract and article text filtered. In the end after sieve we selected 7 papers. Identify all relevant studies published 1970–2022. The literature showed that exposure to toxic air pollutants and their respiration can cause disorders in different parts of the brain by transmission through the circulatory system and other mechanisms. Various unpleasant abnormalities are caused by the inhalation of toxic air pollutants in the human body that some of the most common of them include chronic lung disease, coronary heart disease and heart attacks, strokes and brain diseases (Parkinson’s, Alzheimer’s and multiple Sclerosis), cancers (liver, blood, prostate and brain) and eventually death. According to the finding brain health and proper functioning can be easily disrupted by various genetic or external factors such as air pollution, causing a wide range of abnormalities in the brain and malignant brain tumors. The results of this study showed that reducing the concentration of toxic pollutants in the air, that exposure to them play an increasing role in the development of brain diseases can slow down the process of abnormalities in the brain and will have significant impacts on reducing the number of people affected by them.
+
+Brain Drain: The Impact of Air Pollution on Firm Performance
+
+Number of 
+
+Key takeaways:Air pollution leads to a brain drain, reducing skilled executives and employees, and negatively impacts firm productivity and value.
+
+Abstract:Air pollution is a growing hazard to human health. This study examines whether air pollution affects the formation of corporate human capital and thereby firm performance. We find that people exhibit an intention to look for jobs in less polluted areas when air pollution is high in their location. This suggests that individuals arrange their lives at least partially in response to air pollution. Consistent with this hypothesis, we find that the level of skilled executives and employees at a firm drops significantly when information on pollution in the firm’s location is accessible in real time and when the pollution level in the firm’s location increases, especially in locations where air pollution poses greater health concerns. In addition, parallel reductions in firm productivity and value are found and become more salient when firms have a greater dependence on human capital.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

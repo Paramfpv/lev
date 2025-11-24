@@ -1,0 +1,317 @@
+PROTOCOL: Lack of daylight exposure
+
+IMPACT: Lack of daylight exposure - Negative impact of limited daylight exposure | Longevity Protocols
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Lack of regular access to natural daylight disrupts the synchronization of the biological clock, leading to poorer sleep quality, mood disorders, and an increased risk of mental health problems. Limited contact with sunlight promotes delayed sleep phase and intensifies symptoms of depression and daytime sleepiness. These effects are observed both in the general population and among individuals with existing mood disorders.
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Lack of regular access to natural daylight disrupts the synchronization of the biological clock, leading to poorer sleep quality, mood disorders, and an increased risk of mental health problems. Limited contact with sunlight promotes delayed sleep phase and intensifies symptoms of depression and daytime sleepiness. These effects are observed both in the general population and among individuals with existing mood disorders.
+
+CONTENT SECTIONS:
+
+Lack of daylight exposure
+
+Negative impact of limited daylight exposure
+
+Lack of regular access to natural daylight disrupts the synchronization of the biological clock, leading to poorer sleep quality, mood disorders, and an increased risk of mental health problems. Limited contact with sunlight promotes delayed sleep phase and intensifies symptoms of depression and daytime sleepiness. These effects are observed both in the general population and among individuals with existing mood disorders.
+
+Level of evidence:Good
+
+Natural daylight provides light stimuli that inhibit melatonin secretion during the day and strengthen the circadian rhythm. The absence of such a stimulus leads to weakened amplitude of circadian signals, resulting in a delayed sleep-wake cycle, reduced sleep quality, and dysregulation of neurotransmitters related to mood. Additionally, insufficient stimulation of retinal receptors by daylight may lower serotonin levels, increasing susceptibility to depressive symptoms.
+
+The harmfulness of limited daylight exposure is confirmed by epidemiological and observational studies as well as systematic review findings. Limited access to natural light leads to:
+
+The scale of the problem of inadequate daylight exposure results from the widespread occurrence of sleep and mood disorders in the population. Key numbers include:
+
+Spend morning time outdoors
+
+At least 15–30 minutes of exposure to natural daylight right after waking supports circadian rhythm synchronization and makes it easier to fall asleep in the evening.
+
+Plan breaks for walks during the day
+
+Regular, short outdoor walks during work or study hours help maintain a steady level of light stimuli and reduce sleepiness.
+
+Optimize lighting at home and in the office
+
+Place your desk by a window or use bright light lamps (2500–10,000 lx) in rooms without access to natural light.
+
+Go outside during lunch to strengthen light signals for your biological clock and counteract fatigue.
+
+Lack of daylight exposure leads to poorer sleep quality, delayed circadian rhythm, and increased daytime sleepiness.
+
+Sleepiness and fatigue
+
+Lack of daylight exposure increases the risk of depression, worsens mood, disrupts sleep, and deregulates the circadian rhythm, leading to problems with concentration and well-being.
+
+Depression and low mood
+
+Circadian rhythm disorders
+
+Risk of other mental disorders
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:32
+
+Final comment:The assessment is based on numerous large-scale observational studies, including cross-sectional and longitudinal cohort analyses such as the UK Biobank, as well as several systematic reviews confirming the negative impact of limited daylight exposure on sleep quality, circadian rhythm, and mental health. Although there is a lack of numerous randomized meta-analyses, the consistency of results across different types of studies and their reproducibility justify qualifying the evidence as good.
+
+Outdoor daylight exposure and longer sleep promote wellbeing under COVID‐19 mandated restrictions
+
+Number of 
+
+Key takeaways:Outdoor daylight exposure and longer sleep promote wellbeing during COVID-19 restrictions, while screen time increases and outdoor daylight exposure decreases.
+
+Abstract:Light is an important regulator of daily human physiology in providing time‐of‐day information for the circadian clock to stay synchronised with the 24‐hr day. The coronavirus disease 2019 (COVID‐19) pandemic led to social restrictions in many countries to prevent virus spreading, restrictions that dramatically altered daily routines and limited outdoor daylight exposure. We previously reported that sleep duration increased, social jetlag decreased, and mid‐sleep times delayed during social restrictions (Global Chrono Corona Survey, N = 7,517). In the present study, we investigated in the same dataset changes in wellbeing and their link to outdoor daylight exposure, and sleep–wake behaviour. In social restrictions, median values of sleep quality, quality of life, physical activity and productivity deteriorated, while screen time increased, and outdoor daylight exposure was reduced by ~58%. Yet, many survey participants also reported no changes or even improvements. Larger reductions in outdoor daylight exposure were linked to deteriorations in wellbeing and delayed mid‐sleep times. Notably, sleep duration was not associated with outdoor daylight exposure loss. Longer sleep and decreased alarm‐clock use dose‐dependently correlated with changes in sleep quality and quality of life. Regression analysis for each wellbeing aspect showed that a model with six predictors including both levels and their deltas of outdoor daylight exposure, sleep duration and mid‐sleep timing explained 5%–10% of the variance in changes of wellbeing scores (except for productivity). As exposure to daylight may extenuate the negative effects of social restriction and prevent sleep disruption, public strategies during pandemics should actively foster spending more daytime outdoors.
+
+Time spent in outdoor light is associated with mood, sleep, and circadian rhythm-related outcomes: A cross-sectional and longitudinal study in over 400,000 UK Biobank participants.
+
+Number of 
+
+Key takeaways:Low daytime light exposure is an environmental risk factor for mood, sleep, and circadian-related outcomes.
+
+IMPACT OF DAYLIGHT EXPOSURE ON HEALTH, WELL-BEING AND SLEEP OF OFFICE WORKERS BASED ON ACTIGRAPHY, SURVEYS, AND COMPUTER SIMULATION
+
+Number of 
+
+Key takeaways:Working in daylit office spaces leads to higher sleep quality and better health and well-being scores for office workers.
+
+Abstract:The purpose of this study is to examine how daylight exposure affects the health and well-being of office workers. Sleep actigraphy and health and well-being related survey data were the main dependent variables in this study. Research samples were composed of participants from the United States and South Korea, each set of workers divided into those having daylight at their workplaces and those without. Fifty participants in total wore for two weeks actiwatches equipped with light sensors to measure sleep quality and exposure to ambient light levels. Additional health and well-being measurements were taken using well established survey instruments such as the SF-36 for general and mental health, and the Pittsburg Sleep Quality Index (PSQI) for sleep. In order to estimate the levels of daylight participants were exposed to, computer simulation was used to generate the total annual daylight levels in each participant’s office. Our results seem to indicate that working in daylit office spaces would lead to higher sleep quality and higher scores of the health and well-being scales compared to those who do not work under daylight conditions. Our findings indicate that it is important to provide and maintain significant daylight levels at the workplace. Consequently, in terms of architectural design, building orientation, building dimensions, and the size and height of windows should be taken into consideration to optimize or maximize daylight exposure.
+
+Impact of windows and daylight exposure on overall health and sleep quality of office workers: a case-control pilot study.
+
+Number of 
+
+Key takeaways:Office workers with windows experience better overall health and sleep quality, suggesting that adequate daylight exposure in workplaces is crucial for promoting health and well-being.
+
+Abstract:STUDY OBJECTIVE
+This research examined the impact of daylight exposure on the health of office workers from the perspective of subjective well-being and sleep quality as well as actigraphy measures of light exposure, activity, and sleep-wake patterns.
+
+METHODS
+Participants (N = 49) included 27 workers working in windowless environments and 22 comparable workers in workplaces with significantly more daylight. Windowless environment is defined as one without any windows or one where workstations were far away from windows and without any exposure to daylight. Well-being of the office workers was measured by Short Form-36 (SF-36), while sleep quality was measured by Pittsburgh Sleep Quality Index (PSQI). In addition, a subset of participants (N = 21; 10 workers in windowless environments and 11 workers in workplaces with windows) had actigraphy recordings to measure light exposure, activity, and sleep-wake patterns.
+
+RESULTS
+Workers in windowless environments reported poorer scores than their counterparts on two SF-36 dimensionsrole limitation due to physical problems and vitalityas well as poorer overall sleep quality from the global PSQI score and the sleep disturbances component of the PSQI. Compared to the group without windows, workers with windows at the workplace had more light exposure during the workweek, a trend toward more physical activity, and longer sleep duration as measured by actigraphy.
+
+CONCLUSIONS
+We suggest that architectural design of office environments should place more emphasis on sufficient daylight exposure of the workers in order to promote office workers' health and well-being.
+
+Daylight exposure and mood in real life: Direct association and mediating role of sleep and routine regularity
+
+Number of 
+
+Key takeaways:Optimizing outdoor daylight exposure, particularly during the morning, is associated with improved mental health, with sleep and routine regularity acting as mediators.
+
+Abstract:ABSTRACT The light/dark cycle is the main external cue to synchronize the human biological clock. Modern lifestyles typically lead to less daylight exposure and blunted 24 h-amplitude. We evaluated the association of outdoor daylight exposure (frequency, duration, regularity and shift) with chronotype estimated by sleep phase, regularity of routines, sleep, well-being (WHO-5), and depressive symptoms (PHQ-9), in a sample of 1,095 participants (81.8% female; 87.9% aged 18–49) surveyed online between July and November 2020. We analyzed direct and indirect associations in daylight-mood relationship with chronotype-estimate, routine regularity, and sleep as mediators. Outdoor daylight exposure was associated with WHO-5/PHQ-9 scores in mediation models, with higher total effects when the exposure was every day (β = 4.13 ± 0.53/ β = −3.81 ± 0.67), for more than 4 hours (β = 3.77 ± 0.91/ β = −3.83 ± 1.31) and during the morning (β = 3.41 ± 0.53/ β = −3.74 ± 0.70) in reference to lack of exposure. Chronotype-estimate, routine regularity score, and sleep problems acted as mediators, while social jetlag and sleep duration did not play an important role in this association. This study advanced the understanding of the complex interplay between light exposure, mental health, and individual characteristics of sleep and other routine regularities, and showed the benefits of optimizing daylight exposure to improve mental health.
+
+Promoting adolescent sleep and circadian function: A narrative review on the importance of daylight access in schools
+
+Number of 
+
+Key takeaways:School-level interventions, such as active commuting and outdoor curriculums, can promote adolescent sleep health and circadian rhythms.
+
+Abstract:ABSTRACT Adolescent sleep disturbances and circadian delays pose significant challenges to mood and daytime functioning. In this narrative review, we explore the impact of light on sleep and highlight the importance of monitoring and managing light exposure in adolescents throughout the day and night. The benefits of daylight exposure in mitigating sleep and circadian disruptions are well-established; however, interventions targeting access to daylight in adolescents remain understudied and underutilized. The primary aim of this narrative review is to bring attention to this gap in the literature and propose the need for institutional-level interventions that promote access to daylight, especially considering adolescents’ early school start times and substantial time spent indoors on weekdays. School-led interventions, such as active commuting to school and outdoor curriculums, have promising effects on sleep and circadian rhythms. Additionally, practical measures to optimize natural light in classrooms, including managing blinds and designing conducive environments, should also be considered. While future studies are necessary to facilitate the implementation of interventions, the potential for these school-level interventions to support adolescent sleep health is evident. Aiming for integration of individual-level regulation and institutional-level intervention of light exposure is necessary for optimal outcomes.
+
+Mental health and sleep correlates of self-reported outdoor daylight exposure in over 13,000 adults with depression
+
+Number of 
+
+Key takeaways:Increasing daylight exposure is associated with lower depressive and insomnia symptoms in adults with depression, but may increase hypo-manic-like symptoms.
+
+Abstract:Abstract Background Increasing daylight exposure might be a simple way to improve mental health. However, little is known about daylight-symptom associations in depressive disorders. Methods In a subset of the Australian Genetics of Depression Study (N = 13,480; 75% female), we explored associations between self-reported number of hours spent in daylight on a typical workday and free day and seven symptom dimensions: depressive (overall, somatic, psychological); hypo-manic-like; psychotic-like; insomnia; and daytime sleepiness. Polygenic scores for major depressive disorder (MDD); bipolar disorder (BD); and schizophrenia (SCZ) were calculated. Models were adjusted for age, sex, shift work status, employment status, season, and educational attainment. Exploratory analyses examined age-stratified associations (18–24 years; 25–34 years; 35–64 years; 65 and older). Bonferroni-corrected associations (p < 0.004) are discussed. Results Adults with depression reported spending a median of one hour in daylight on workdays and three hours on free days. More daylight exposure on workdays and free days was associated with lower depressive (overall, psychological, somatic) and insomnia symptoms (p’s<0.001), but higher hypo-manic-like symptoms (p’s<0.002). Genetic loading for MDD and SCZ were associated with less daylight exposure in unadjusted correlational analyses (effect sizes were not meaningful). Exploratory analyses revealed age-related heterogeneity. Among 18–24-year-olds, no symptom dimensions were associated with daylight. By contrast, for the older age groups, there was a pattern of more daylight exposure and lower insomnia symptoms (p < 0.003) (except for 25–34-year-olds on free days, p = 0.019); and lower depressive symptoms with more daylight on free days, and to some extent workdays (depending on the age-group). Conclusions Exploration of the causal status of daylight in depression is warranted.
+
+Assessing the impact of daylight exposure on sleep quality of people over 65 years old
+
+Number of 
+
+Key takeaways:Exposure to daylight can improve sleep quality for people over 65 years old by reducing sleep disruption and improving overall health.
+
+Abstract:Due to our social behaviours, people spend at least 80% of their time indoors, mostly under artificial light. In research and building design, daylight is considered a valuable asset because it is the primary 
+
+Associations Between Multidimensional Sleep Health Parameters and Adolescents’ Self-reported Light Exposure in the Free-living Environment
+
+Number of 
+
+Key takeaways:Adolescent sleep health is associated with self-reported exposure to daylight in the morning and electronic devices in the evening, but not with sleep satisfaction, alertness, or efficiency.
+
+Abstract:The objective of this study was to characterize the associations between light exposure in the free-living environment and multiple dimensions of sleep health of typically developing adolescents. Fifty-six (29 girls, 27 boys) typically developing adolescents (mean age = 13.59, SD = 0.89, range = 12-17 years) participated. For six consecutive nights, sleep was assessed in the home environment using actigraphy. During the same period, participants were asked to fill out a daily sleep log and a daily light exposure log, and to complete questionnaires regarding their alertness and subjective sleep satisfaction. Longer self-reported exposure to daylight in the morning was associated with longer objectively measured sleep duration. Longer self-reported exposures to electronic devices in the evening were associated with later objectively measured sleep onset and offset times, shorter sleep duration, and greater day-to-day sleep variability. Longer morning exposure to outdoor light was associated with a longer sleep duration. Self-reported light exposure was not associated with sleep satisfaction, alertness/sleepiness, or sleep efficiency. Among the covariates, circadian preference accounted for the highest percentage of variance. Adolescents’ sleep health is associated with the self-reported duration of exposure to daylight in the morning and to electronic devices in the evening.
+
+Delayed Sleep in Winter Related to Natural Daylight Exposure among Arctic Day Workers
+
+Number of 
+
+Key takeaways:Lack of natural daylight delays the sleep/wake cycle in Arctic indoor workers, with increased morning light exposure promoting earlier mid-sleep and decreased evening light exposure causing delays.
+
+Abstract:Natural daylight exposures in arctic regions vary substantially across seasons. Negative consequences have been observed in self-reports of sleep and daytime functions during the winter but have rarely been studied in detail. The focus of the present study set out to investigate sleep seasonality among indoor workers using objective and subjective measures. Sleep seasonality among daytime office workers (n = 32) in Kiruna (Sweden, 67.86° N, 20.23° E) was studied by comparing the same group of workers in a winter and summer week, including work and days off at the weekend, using actigraphs (motion loggers) and subjective ratings of alertness and mood. Actigraph analyses showed delayed sleep onset of 39 min in winter compared to the corresponding summer week (p < 0.0001) and shorter weekly sleep duration by 12 min (p = 0.0154). A delay of mid-sleep was present in winter at workdays (25 min, p < 0.0001) and more strongly delayed during days off (46 min, p < 0.0001). Sleepiness levels were higher in winter compared to summer (p < 0.05). Increased morning light exposure was associated with earlier mid-sleep (p < 0.001), while increased evening light exposure was associated with delay (p < 0.01). This study confirms earlier work that suggests that lack of natural daylight delays the sleep/wake cycle in a group of indoor workers, despite having access to electric lighting. Photic stimuli resulted in a general advanced sleep/wake rhythm during summer and increased alertness levels.
+
+Daylight during winters and symptoms of depression and sleep problems: A within-individual analysis.
+
+Number of 
+
+Key takeaways:Higher exposure to daylight during winters may contribute to lower likelihood of depression symptoms and sleep problems.
+
+Evaluating circadian light hygiene: Methodology and health implications
+
+Number of 
+
+Key takeaways:Circadian Light Hygiene (CLH) involves adjusting 24-hour light exposure to support the natural sleep-wake cycle and circadian rhythms, with challenges from light pollution, insufficient natural daylight, and irregular light exposure patterns.
+
+Abstract:Background — A growing body of research demonstrates that a substantial daily range of light exposure, characterized by ample daylight followed by darkness during sleep, is essential for human well-being. This encompasses crucial aspects like sleep quality, mood regulation, and cardiovascular and metabolic health. Objective — This study characterizes Circadian Light Hygiene (CLH) as an essential factor in maintaining health, well-being, and longevity in modern society. CLH involves adjusting the 24-hour light exposure dynamic range to support the natural sleep-wake cycle and circadian rhythms. Three major challenges to CLH negatively impacting human health are: 1) light pollution (light at night, or LAN), characterized by excessive evening and nighttime artificial light; 2) insufficient natural daylight; and 3) irregular light exposure patterns. These interacting challenges necessitate a systematic approach to measurement and analysis. Material and Methods — A systematic review of peer-reviewed literature published through October 30, 2024, examined the methodologies and health effects of circadian and seasonal aspects of light exposure. Conclusion — This review elucidates fundamental principles of circadian light hygiene, synthesizing existing literature and our research to assess the benefits of adequate daylight, the risks of light at night, and adverse outcomes stemming from diminished light exposure range, mistimed light exposure, and irregular patterns. Novel indices for quantifying and optimizing circadian light hygiene are introduced.
+
+Exploring the Impact of Natural Light Exposure on Sleep of Healthy Older Adults: A Field Study
+
+Number of 
+
+Key takeaways:Exposure to high illuminance from daylight for longer durations positively affects sleep efficiency in healthy older adults, regardless of the season.
+
+Abstract:Studies among people with dementia demonstrated that the sleep quality and rhythm improves significantly when people are exposed to ambient bright light. Since almost half of the healthy older people also indicate to suffer from chronic sleep disorders, the question arises whether ambient bright light can be beneficial to healthy older people. Particularly the effect on sleep/wake rhythm in relation to the exposure to natural light is the focus. It was hypothesised that the sleep quality would be worse in winter due to a lower daylight dose than in summer due to the lower illuminance and exposure duration. A field study was conducted to examine the relationship between daylight exposure and sleep quality in 14 healthy older adults living independently in their own dwellings in the Netherlands. All participants were asked to take part of the study both during the summer period as well as during the winter period. Therefore, they had to wear an actigraph for five consecutive days which measured sleep, activity and light exposure. Results confirmed that people were significantly longer exposed to high illumination levels (>1000 lx) in summer than in winter. Sleep quality measures, however, did not differ significantly between summer and winter. A significant, positive correlation was found between exposure duration to high illuminance from daylight during the day and the sleep efficiency the following night in summer, implying that being exposed to high illuminance for a longer time period has a positive effect on sleep efficiency for the individual data. There was also a tendency of less frequent napping in case of longer exposure duration to light for both seasons. Sleep quality does not differ between summer and winter but is related to the duration of the exposure to bright light the day prior to the night.
+
+The Impact of Optimized Daylight and Views on the Sleep Duration and Cognitive Performance of Office Workers
+
+Number of 
+
+Key takeaways:Optimized daylight and views in office spaces improve sleep duration and cognitive performance for workers, with greater benefits for those with lower baseline sleep duration.
+
+Abstract:A growing awareness has recently emerged on the health benefits of exposure to daylight and views. Daylight exposure is linked to circadian rhythm regulation, which can have significant impacts on sleep quality and cognitive function. Views of nature have also been shown to impact emotional affect and performance. This study explores the impact of optimized daylight and views on the sleep and cognitive performance of office workers. Thirty knowledge workers spent one week working in each of two office environments with identical layouts, furnishings, and orientations; however, one was outfitted with electrochromic glass and the other with traditional blinds, producing lighting conditions of 40.6 and 316 equivalent melanopic lux, respectively. Participants in the optimized daylight and views condition slept 37 min longer as measured by wrist-worn actigraphs and scored 42% higher on cognitive simulations designed to test their higher order decision-making performance. Both sleep and cognitive function were impacted after one day in the space, yet the impacts became more significant over the course of the week. The positive effect of optimized daylight and views on cognitive function was comparable for almost all participants, while increases in sleep duration were significantly greater for those with the lowest baseline sleep duration. This study stresses the significance of designing with daylight in order to optimize the sleep quality and performance of office workers.
+
+Association of physical activity, sedentary behaviour, and daylight exposure with sleep in an ageing population: findings from the Whitehall accelerometer sub-study
+
+Number of 
+
+Key takeaways:Higher levels of physical activity and daylight exposure are associated with slightly longer sleep in older adults, but these associations may not be enough to improve sleep quality.
+
+Abstract:Ageing is accompanied by changes in sleep, while poor sleep is suggested as a risk factor for several health outcomes. Non-pharmacological approaches have been proposed to improve sleep in elderly; their impact remains to be investigated. The aim of this study was to examine the independent day-to-day associations of physical behaviours and daylight exposure with sleep characteristics among older adults.Data were drawn from 3942 participants (age range: 60-83 years; 27% women) from the Whitehall II accelerometer sub-study. Day-to-day associations of objectively-assessed daytime physical behaviours (sedentary behaviour, light-intensity physical activity (LIPA), moderate-to-vigorous physical activity (MVPA), mean acceleration, physical activity chronotype) and daylight exposure (proportion of waking window with light exposure > 1000 lx and light chronotype) with sleep characteristics were examined using mixed models.A 10%-increase in proportion of the waking period spent sedentary was associated with 5.12-minute (4.31, 5.92) later sleep onset and 1.76-minute shorter sleep duration (95%confidence interval: 0.86, 2.66). Similar increases in LIPA and MVPA were associated with 6.69 (5.67, 7.71) and 4.15 (2.49, 5.81) earlier sleep onset respectively and around 2-minute longer sleep duration (2.02 (0.87, 3.17) and 2.23 (0.36, 4.11), respectively), although the association was attenuated for MVPA after adjustment for daylight exposure (1.11 (- 0.84, 3.06)). A 3-hour later physical activity chronotype was associated with a 4.79-minute later sleep onset (4.15, 5.43) and 2.73-minute shorter sleep duration (1.99, 3.47). A 10%-increase in proportion of waking period exposed to light> 1000 lx was associated with 1.36-minute longer sleep (0.69, 2.03), independently from mean acceleration. Associations found for sleep duration were also evident for duration of the sleep windows with slightly larger effect size (for example, 3.60 (2.37, 4.82) minutes for 10%-increase in LIPA), resulting in associations with sleep efficiency in the opposite direction (for example, - 0.29% (- 0.42, - 0.16) for 10%-increase in LIPA). Overall, associations were stronger for women than for men.In this study, higher levels of physical activity and daylight exposure were associated with slightly longer sleep in older adults. Given the small effect sizes of the associations, increased physical activity and daylight exposure might not be enough to improve sleep.
+
+Does sunlight exposure predict next-night sleep? A daily diary study among U.S. adults
+
+Number of 
+
+Key takeaways:Morning sunlight exposure predicts better next-night sleep quality, potentially due to regulating circadian rhythms and influencing melatonin production.
+
+Abstract:Poor sleep is becoming increasingly prevalent and is associated with adverse health outcomes. Sunlight exposure may improve sleep by regulating circadian rhythms, increasing vitamin D, and influencing melatonin production. However, research on the sunlight-sleep association is limited, especially outside of cross-sectional designs. This study examined associations between daily self-reported sunlight exposure and next-night sleep quality in 103 adults for up to 70 days. The timing of sunlight exposure predicted next-night sleep quality. Specifically, morning sunlight exposure, relative to no sunlight, predicted better sleep quality based on responses to the brief Pittsburg Sleep Quality Index. Duration of sunlight exposure was generally not associated with sleep quality. Morning sunlight may regulate circadian rhythms, subsequently improving sleep. Findings have potential implications for sleep interventions and daylight savings time policies. Future research should test whether morning sunlight exposure can enhance the effectiveness of sleep interventions.
+
+Evening prolonged relatively low melanopic equivalent daylight illuminance light exposure increases arousal before and during sleep without altering sleep structure
+
+Number of 
+
+Key takeaways:Evening prolonged relatively low melanopic equivalent daylight illuminance light exposure mildly increases arousal before and during sleep without significantly altering sleep structure or quality.
+
+Abstract:Light can influence many psychophysiological functions beyond vision, including alertness, circadian rhythm, and sleep, namely the non‐image forming (NIF) effects of light. Melanopic equivalent daylight illuminance (mel‐EDI) is currently recommended as the predictor of the NIF effects of light. Although light dose is also critical for entraining and regulating circadian cycle, it is still unknown whether relatively low mel‐EDI light exposure for prolonged duration in the evening would affect pre‐sleep arousal and subsequent sleep. In all, 18 healthy college students (10 females, mean age 21.67  years) underwent 2 experimental nights with a 1 week interval in a simulated bedroom environment. During experimental nights, participants were either exposed to high or low mel‐EDI light (73 versus 38 lx mel‐EDI, 90 versus 87 photopic lx at eye level, 150 photopic lx at table level) for 3.5 h before regular bedtime, and their sleep was monitored by polysomnography. Subjective sleepiness, mood, and resting‐state electroencephalography during light exposure were also investigated. Results showed no significant differences in sleep structure and sleep quality between the two light conditions, whereas 3.5 h of exposure to high versus low mel‐EDI light induced marginally higher physiological arousal in terms of a lower delta but higher beta power density before sleep, as well as a lower delta power density during sleep. Moreover, participants felt happier before sleep under exposure to high versus low mel‐EDI light. These findings together with the current literature suggest that evening prolonged relatively low mel‐EDI light exposure may mildly increase arousal before and during sleep but affected sleep structure less.
+
+The influence of integrative lighting on sleep and cognitive functioning of shift workers during the morning shift in an assembly plant.
+
+Number of 
+
+Key takeaways:Integrative lighting settings (192 lux) improve sleep efficiency and alertness in shift workers during morning shifts compared to standard lighting conditions.
+
+Moderating Effect of Daylight Exposure on the Relationship Between Physical Activity and Sleep in Patients with Upper Digestive Cancer: An Exploratory Study.
+
+Number of 
+
+Key takeaways:Higher daylight exposure and exposure to >500 lux significantly improves physical activity and sleep quality in patients with gastric or esophageal cancer.
+
+Bright daylight produces negative effects on affective and cognitive outcomes in nocturnal rats.
+
+Number of 
+
+Key takeaways:Exposure to bright daylight or constant light negatively impacts memory, learning, and cognition in nocturnal rats, with reduced expression levels in the hypothalamus, cortex, and thalamus.
+
+0307 Day and night light exposure are associated with psychiatric disorders: An objective light study in >80,000 people
+
+Number of 
+
+Key takeaways:Greater night light exposure is associated with increased risk for psychiatric disorders, while greater day light exposure is associated with reduced risk for these disorders and self-harm.
+
+Abstract:Circadian rhythm disturbance is a common feature of many psychiatric disorders. Light is the primary input to the circadian clock, with daytime light strengthening rhythms and night light disrupting them. Therefore, habitual light exposure may represent an environmental risk factor for susceptibility to psychiatric disorders.
+ 
+ 
+ 
+ We performed the largest to-date cross-sectional analysis of light, sleep, physical activity, and mental health in participants from the UK Biobank actigraphy cohort (n = 86,772 adults; aged 62.4 ± 7.4 years; 57% women). We examined the independent association of day and night light exposure intensity with covariate-adjusted risk for psychiatric disorders and self-harm.
+ 
+ 
+ 
+ Greater night light exposure was associated with increased risk for major depressive disorder, generalized anxiety disorder, PTSD, psychosis, bipolar disorder, and self-harm. Independent of night light, greater day light exposure was associated with reduced risk for major depressive disorder, PTSD, psychosis, and self-harm. These findings were robust to adjustment for sociodemographics, photoperiod, physical activity, and sleep quality.
+ 
+ 
+ 
+ Our findings demonstrate that low day light and bright night light exposure are associated with a wide range of psychiatric outcomes. Avoiding light at night and seeking light during the day may be a simple and effective, non-pharmacological means of broadly improving mental health.
+
+Number of 
+
+Key takeaways:Curtailing blue light exposure at night and maximizing it in the morning can improve health and well-being by optimizing circadian rhythms and reducing risks for obesity, depression, and other issues.
+
+Abstract:One feature of modern life that may have negative consequences for our health is exposure to light levels that are not aligned with the solar days. This book reviews the scientific literature on the role of appropriately timed light exposure and concludes that it seems prudent to curtail exposure to blue light during the night and maximize exposure to blue light during the morning. Circadian rhythms require short wavelength (blue) light early during the day to optimize their temporal regulation. Experiencing light at night or insufficient light during the day can lead to a host of problems such as obesity, major depression, bipolar depressive disorder, seasonal affective disorder, sleep disorders, common problems with learning and memory, Alzheimer’s disease and other forms of dementia, sundowning syndrome, cancer, heart disease, hypertension, heart attacks, and strokes. Even sustained exposure to the equivalent of a child’s night light can impact everything from how well our brains function every day to how well our bodies recover from injury. Lack of bright light during the day can compromise mood, accelerate cancer growth, and impair cognition. This book introduces the importance of light and circadian rhythms and examines the role of light and body weight; the relationship between appropriately timed light exposure and mood; the role of light on sleep; the interaction among light exposure, cognition, and memory; and the importance of appropriate exposure to light to reduce risk for cancer and cardiovascular disease. Finally, it describes strategies to reduce disruptions to circadian rhythms to improve health and well-being.
+
+Day and night light exposure are associated with psychiatric disorders: an objective light study in >85,000 people
+
+Number of 
+
+Key takeaways:Greater night-time light exposure is associated with increased risk for psychiatric disorders, while greater daytime light exposure is associated with reduced risk for these disorders and self-harm behavior.
+
+Access to Daylight at Home Improves Circadian Alignment, Sleep, and Mental Health in Healthy Adults: A Crossover Study
+
+Number of 
+
+Key takeaways:Increasing circadian-effective light in residences improves circadian alignment, sleep, vitality, and mental health in healthy adults.
+
+Abstract:As the primary environmental cue for the body’s master biological clock, light–dark patterns are key for circadian alignment and are ultimately fundamental to multiple dimensions of health including sleep and mental health. Although daylight provides the proper qualities of light for promoting circadian alignment, our modern indoor lifestyles offer fewer opportunities for adequate daylight exposure. This field study explores how increasing circadian-effective light in residences affects circadian phase, sleep, vitality, and mental health. In this crossover study, 20 residents spent one week in their apartments with electrochromic glass windows and another week with functionally standard windows with blinds. Calibrated light sensors revealed higher daytime circadian-effective light levels with the electrochromic glass windows, and participants exhibited consistent melatonin onset, a 22-min earlier sleep onset, and higher sleep regularity. In the blinds condition, participants exhibited a 15-min delay in dim light melatonin onset, a delay in subjective vitality throughout the day, and an overall lower positive affect. This study demonstrates the impact of daytime lighting on the physiological, behavioral, and subjective measures of circadian health in a real-world environment and stresses the importance of designing buildings that optimize daylight for human health and wellbeing.
+
+Circadian rhythm disruption and mental health
+
+Number of 
+
+Key takeaways:Disrupted circadian rhythms, caused by factors like night shifts and jet lag, are strongly associated with mood disorders, and improving these rhythms may enhance mental health.
+
+The natural context of wellbeing: Ecological momentary assessment of the influence of nature and daylight on affect and stress for individuals with depression levels varying from none to clinical
+
+Number of 
+
+Key takeaways:Nature and daylight exposure positively influence affect and stress levels, with stronger effects for those in higher need of restoration.
+
+The relevance of daylight for humans.
+
+Number of 
+
+Key takeaways:Daylight is crucial for human vision, mood, cognition, alertness, performance, and sleep, and can be used as a 'drug' to treat various clinical conditions.
+
+Artificial light at night and risk of mental disorders: A systematic review.
+
+Number of 
+
+Key takeaways:Artificial light at night is moderately associated with an increased risk of depressive disorders, but more robust evidence is needed.
+
+Beneficial effects of daytime high-intensity light exposure on daily rhythms, metabolic state and affect
+
+Number of 
+
+Key takeaways:Daily morning exposure to 3000 lux full spectrum electric light improves circadian rhythms, metabolic state, and well-being in sand rats.
+
+“ENVIRONMENTAL CRISIS AND MENTAL HEALTH”
+
+Number of 
+
+Key takeaways:Climate change, chemical exposure, and insufficient daylight negatively impact mental health, while inadequate daylight and physical environment properties also influence it.
+
+Abstract:The environment as one of the key determinants of mental health outcomes. Among the dimensions explored, climate change as a global environmental threat creates psychological distress and anxiety about the future. Climate change furthermore has direct impacts on mental health (e.g., heat stress) and indirectly affects social support systems, cultural traditions, and environmental conditions. Alternatively, a wealth of evidence suggests a relationship between human exposure to a wide range of chemical substances and negative mental health outcomes, including depression, anxiety ASD, ADHD and other psychiatric and neurological conditions.Insufficient daylight is reliably associated with increased depressive symptoms. Indirectly, the physical environment may influence mental health by altering psychosocial processes with known mental health sequelae. Personal control, socially supportive relationships, and restoration from stress and fatigue are all affected by properties of the built environment. More prospective, longitudinal studies and, where feasible, randomized experiments are needed to examine the potential role of the physical environment in mental health. Even more challenging is the task of developing underlying models of how the built environment can affect mental health. It is also likely that some individuals may be more vulnerable to mental health impacts of the built environment. Because exposure to poor environmental conditions is not randomly distributed and tends to concentrate among the poor and ethnic minorities, we also need to focus more attention on the health implications of multiple environmental risk exposure. 1. professor and Head,2Assistant professors,3&4Residents Index Medical College Indore
+
+The Role of Daylight for Humans: Gaps in Current Knowledge
+
+Number of 
+
+Key takeaways:Daylight quantity and quality are crucial for optimal physiological and psychological functioning, but current knowledge gaps in daylight research require further research and collaboration across disciplines.
+
+Abstract:Daylight stems solely from direct, scattered and reflected sunlight, and undergoes dynamic changes in irradiance and spectral power composition due to latitude, time of day, time of year and the nature of the physical environment (reflections, buildings and vegetation). Humans and their ancestors evolved under these natural day/night cycles over millions of years. Electric light, a relatively recent invention, interacts and competes with the natural light–dark cycle to impact human biology. What are the consequences of living in industrialised urban areas with much less daylight and more use of electric light, throughout the day (and at night), on general health and quality of life? In this workshop report, we have classified key gaps of knowledge in daylight research into three main groups: (I) uncertainty as to daylight quantity and quality needed for “optimal” physiological and psychological functioning, (II) lack of consensus on practical measurement and assessment methods and tools for monitoring real (day) light exposure across multiple time scales, and (III) insufficient integration and exchange of daylight knowledge bases from different disciplines. Crucial short and long-term objectives to fill these gaps are proposed.
+
+Effect of Daylight on Melatonin and Subjective General Health Factors in Elderly People
+
+Number of 
+
+Key takeaways:Daylight exposure can delay sleep phase and improve anxiety and insomnia in elderly individuals, suggesting that scheduled daylight in morning and evening may help prevent and improve mental disorders.
+
+Abstract:Background: This paper investigated the effect of daylight on morning and night melatonin, subjective general health using GHQ questionnaire, sleepiness and alertness on elderly who lived in nursing houses. Methods: Nineteen nursing home residents participated voluntarily. They exposed to daylight from 9 to 10 a.m. and from 4 to 5 p.m. for 6 wk. The level of melatonin in the morning and at night was measured. General health of all participants was evaluated using General Health Questionnaire (GHQ) as well. Results: Daylight exposure significantly affected morning melatonin from 25.39 pg/ml to 59.77 pg/ml (P=0.001) and night melatonin were changed from 40.30pg/ml to 34.41pg/ml (P=0.081). Mean score of general health changed 36.31 to 29.89 (P=0.003). Karolinska Sleepiness Scale (KSS) and Visual Analogue Scale (VAS) showed increase sleepiness and decrease alertness from 3:00 to 7:00 a.m. Sleepiness decreased and alertness increased during 1:00 p.m. and 20:00 p.m. Conclusions: Daylight exposure could delay sleep phase and correction of circadian rhythm in elderly. Anxiety and insomnia could be improved with daylight exposure. It suggests that elders should be exposed to scheduled daylight in morning and evening for prevention and improvement of mental disorders. Adequate light should be provided for elder’s homes and nursing house.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

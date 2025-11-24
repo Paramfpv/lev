@@ -1,0 +1,551 @@
+PROTOCOL: Noise
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Environmental noise, especially from transportation and human activity, has a serious impact on both physical and mental health. Chronic exposure to noise increases the risk of developing many chronic diseases, such as cardiovascular diseases, hypertension, stroke, as well as mental health disorders, including depression and anxiety. Noise is one of the main risk factors affecting quality of life, causing both hearing loss and other health detriments. For this reason, it constitutes a significant public health threat that requires actions aimed at reducing noise exposure.
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Environmental noise, especially from transportation and human activity, has a serious impact on both physical and mental health. Chronic exposure to noise increases the risk of developing many chronic diseases, such as cardiovascular diseases, hypertension, stroke, as well as mental health disorders, including depression and anxiety. Noise is one of the main risk factors affecting quality of life, causing both hearing loss and other health detriments. For this reason, it constitutes a significant public health threat that requires actions aimed at reducing noise exposure.
+
+CONTENT SECTIONS:
+
+Environmental noise as a threat to health and longevity
+
+Environmental noise, especially from transportation and human activity, has a serious impact on both physical and mental health. Chronic exposure to noise increases the risk of developing many chronic diseases, such as cardiovascular diseases, hypertension, stroke, as well as mental health disorders, including depression and anxiety. Noise is one of the main risk factors affecting quality of life, causing both hearing loss and other health detriments. For this reason, it constitutes a significant public health threat that requires actions aimed at reducing noise exposure.
+
+Level of evidence:Strong
+
+Noise affects the body through a range of mechanisms, including activation of the sympathetic nervous system, which leads to increased levels of stress hormones such as cortisol and adrenaline. Long-term noise exposure, especially at night, disrupts the circadian rhythm, leading to sleep disturbances and increased oxidative stress, which damages blood vessels and the endothelium. Furthermore, noise causes metabolic changes that contribute to the development of heart disease, stroke, and also affect mental health, leading to the development of depression and anxiety.
+
+Environmental noise, especially from transport and industrial activity, poses a serious threat to public health. Long-term exposure may lead to numerous chronic diseases, including hypertension, heart disease, stroke, metabolic disorders, and mental health problems. According to research, noise is associated with many negative health outcomes, including permanent hearing damage. Evidence indicates that reducing noise exposure can significantly improve quality of life and public health.
+
+Environmental noise is a common phenomenon in cities and areas with high traffic, representing one of the main public health threats. According to World Health Organization (WHO) data, noise is responsible for millions of healthy life years lost, especially in developed countries.
+
+Invest in hearing protection
+
+In places with high noise levels (e.g., at work, concerts, stadiums), use protective earmuffs or earplugs to minimize hearing damage.
+
+Avoid loud sounds during sleep
+
+Try to eliminate or minimize noise in your bedroom. Use soundproof curtains to improve sleep quality, and if necessary, consider using white noise or noise-masking apps.
+
+Take care of your mental health
+
+Long-term noise exposure can lead to mental health problems. Consider relaxation techniques such as meditation, yoga, or deep breathing to reduce stress levels.
+
+Choose quiet places to work and rest
+
+Working and relaxing in a noisy environment can contribute to worsening health. Try to choose places that offer quiet or at least limited noise to improve concentration and reduce stress.
+
+Education and awareness
+
+Increase awareness about the effects of noise on health among family and friends. Learning about the risks of noise and its effects can help implement appropriate protective measures in everyday life.
+
+Noise has a clearly negative impact on the ears and hearing. Prolonged or intense exposure to noise can lead to permanent hearing damage, tinnitus, sound sensitivity, and other health problems. These damages are often irreversible, so prevention and hearing protection are crucial.
+
+Noise-induced hearing loss (NIHL)
+
+Impact on children and adolescents
+
+Effects of noise on overall health
+
+Prevention and awareness
+
+Cardiovascular system
+
+Environmental noise, especially from transport, is recognized as a significant risk factor for cardiovascular diseases. Epidemiological and experimental studies clearly indicate that long-term exposure to noise negatively affects the cardiovascular system, increasing the risk of hypertension, heart attack, stroke, and heart failure.
+
+Mechanisms of noise action on the cardiovascular system
+
+Health effects confirmed in studies
+
+Environmental noise is recognized as a significant risk factor for mental health. Studies show that exposure to noise—especially from road, air traffic, or neighbors—is associated with an increased risk of depression, anxiety, deterioration in general mental well-being, and higher stress levels. The greater the exposure or subjective annoyance caused by noise, the higher the risk of mental health problems.
+
+Mechanisms and risk factors
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:56
+
+Final comment:Studies, including meta-analyses, indicate a clear association between noise exposure and a range of health problems, including hypertension, cardiovascular diseases, mental disorders, and hearing damage. Additionally, mechanisms such as oxidative stress, sleep disturbances, and chronic inflammation have been thoroughly documented as side effects of noise. Therefore, the level of evidence for the harmful effects of noise is very high and is based on solid scientific foundations.
+
+Noise-Induced Hearing Loss
+
+Number of 
+
+Key takeaways:Noise-induced hearing loss (NIHL) affects 5% of the world's population and has significant physical, mental, social, and economic impacts, with prevention and early detection being crucial.
+
+Abstract:Noise-induced hearing loss (NIHL) is the second most common cause of sensorineural hearing loss, after age-related hearing loss, and affects approximately 5% of the world’s population. NIHL is associated with substantial physical, mental, social, and economic impacts at the patient and societal levels. Stress and social isolation in patients’ workplace and personal lives contribute to quality-of-life decrements which may often go undetected. The pathophysiology of NIHL is multifactorial and complex, encompassing genetic and environmental factors with substantial occupational contributions. The diagnosis and screening of NIHL are conducted by reviewing a patient’s history of noise exposure, audiograms, speech-in-noise test results, and measurements of distortion product otoacoustic emissions and auditory brainstem response. Essential aspects of decreasing the burden of NIHL are prevention and early detection, such as implementation of educational and screening programs in routine primary care and specialty clinics. Additionally, current research on the pharmacological treatment of NIHL includes anti-inflammatory, antioxidant, anti-excitatory, and anti-apoptotic agents. Although there have been substantial advances in understanding the pathophysiology of NIHL, there remain low levels of evidence for effective pharmacotherapeutic interventions. Future directions should include personalized prevention and targeted treatment strategies based on a holistic view of an individual’s occupation, genetics, and pathology.
+
+Physiological Basis of Noise-Induced Hearing Loss in a Tympanal Ear
+
+Number of 
+
+Key takeaways:Noise-induced hearing loss in locust ears is primarily caused by changes in supporting cells, similar to those in the mammalian auditory system.
+
+Abstract:Acoustic overexposure, such as listening to loud music too often, results in noise-induced hearing loss. The pathologies of this prevalent sensory disorder begin within the ear at synapses of the primary auditory receptors, their postsynaptic partners and their supporting cells. The extent of noise-induced damage, however, is determined by overstimulation of primary auditory receptors, upstream of where the pathologies manifest. Acoustic overexposure, such as listening to loud music too often, results in noise-induced hearing loss. The pathologies of this prevalent sensory disorder begin within the ear at synapses of the primary auditory receptors, their postsynaptic partners and their supporting cells. The extent of noise-induced damage, however, is determined by overstimulation of primary auditory receptors, upstream of where the pathologies manifest. A systematic characterization of the electrophysiological function of the upstream primary auditory receptors is warranted to understand how noise exposure impacts on downstream targets, where the pathologies of hearing loss begin. Here, we used the experimentally-accessible locust ear (male, Schistocerca gregaria) to characterize a decrease in the auditory receptor's ability to respond to sound after noise exposure. Surprisingly, after noise exposure, the electrophysiological properties of the auditory receptors remain unchanged, despite a decrease in the ability to transduce sound. This auditory deficit stems from changes in a specialized receptor lymph that bathes the auditory receptors, revealing striking parallels with the mammalian auditory system. SIGNIFICANCE STATEMENT Noise exposure is the largest preventable cause of hearing loss. It is the auditory receptors that bear the initial brunt of excessive acoustic stimulation, because they must convert excessive sound-induced movements into electrical signals, but remain functional afterward. Here we use the accessible ear of an invertebrate to, for the first time in any animal, characterize changes in auditory receptors after noise overexposure. We find that their decreased ability to transduce sound into electrical signals is, most probably, due to changes in supporting (scolopale) cells that maintain the ionic composition of the ear. An emerging doctrine in hearing research is that vertebrate primary auditory receptors are surprisingly robust, something that we show rings true for invertebrate ears too.
+
+Loud Music and Leisure Noise Is a Common Cause of Chronic Hearing Loss, Tinnitus and Hyperacusis
+
+Number of 
+
+Key takeaways:Loud music and leisure noise are common causes of noise-induced hearing loss, tinnitus, and hyperacusis, highlighting the need for noise limits and hearing conservation education in various settings.
+
+Abstract:High sound levels capable of permanently damaging the ear are experienced not only in factories and war zones but in concert halls, nightclubs, sports stadiums, and many other leisure environments. This review summarizes evidence that loud music and other forms of “leisure noise” are common causes of noise-induced hearing loss, tinnitus, and hyperacusis, even if audiometric thresholds initially remain within clinically normal limits. Given the huge global burden of preventable noise-induced hearing loss, noise limits should be adopted in a much broader range of settings, and education to promote hearing conservation should be a higher public health priority.
+
+What is noise-induced hearing loss?
+
+Number of 
+
+Key takeaways:Noise-induced hearing loss is caused by long-term exposure to noise, and while it can initially recover, it can be permanent and negatively impact people's quality of life and economic well-being.
+
+Abstract:Noise-induced hearing loss is sensory deafness caused by long-term exposure of the auditory system to a noisy environment. Auditory fatigue is an early symptom of noise-induced hearing loss, and hearing can gradually recover after people leave a noisy environment. However, if people remain in a noisy environment for a prolonged period of time, their hearing will be permanently impaired. Societal changes mean that people are more likely to be exposed to noise. The hearing loss and tinnitus caused by noise seriously affect people's quality of life and lead to huge economic loss. The pathogenesis of noise-induced hearing loss is complex. Various theories try to explain this, such as the oxidative stress theory, but none perfectly explains the occurrence of noise-induced hearing loss. There is no treatment which can completely reverse the damage. More research is required to explore the pathogenesis and to better guide clinical practice. Preventative strategies, such as educating the public about hearing health, should be adopted to reduce the harm of noise-induced hearing loss.
+
+Effects of noise on integration of acoustic and electric hearing within and across ears
+
+Number of 
+
+Key takeaways:Tonotopic mismatch affects integration of electric and acoustic hearing differently in quiet and noise, with both EAS and bimodal performance being similarly affected in both conditions.
+
+Abstract:In bimodal listening, cochlear implant (CI) users combine electric hearing (EH) in one ear and acoustic hearing (AH) in the other ear. In electric-acoustic stimulation (EAS), CI users combine EH and AH in the same ear. In quiet, integration of EH and AH has been shown to be better with EAS, but with greater sensitivity to tonotopic mismatch in EH. The goal of the present study was to evaluate how external noise might affect integration of AH and EH within or across ears. Recognition of monosyllabic words was measured for normal-hearing subjects listening to simulations of unimodal (AH or EH alone), EAS, and bimodal listening in quiet and in speech-shaped steady noise (10 dB, 0 dB signal-to-noise ratio). The input/output frequency range for AH was 0.1–0.6 kHz. EH was simulated using an 8-channel noise vocoder. The output frequency range was 1.2–8.0 kHz to simulate a shallow insertion depth. The input frequency range was either matched (1.2–8.0 kHz) or mismatched (0.6–8.0 kHz) to the output frequency range; the mismatched input range maximized the amount of speech information, while the matched input resulted in some speech information loss. In quiet, tonotopic mismatch differently affected EAS and bimodal performance. In noise, EAS and bimodal performance was similarly affected by tonotopic mismatch. The data suggest that tonotopic mismatch may differently affect integration of EH and AH in quiet and in noise.
+
+Adaptation to noise in normal and impaired hearing.
+
+Number of 
+
+Key takeaways:Adaptation to noise can improve hearing in noise, but its impact on hearing-impaired listeners remains unclear.
+
+Abstract:Many aspects of hearing function are negatively affected by background noise. Listeners, however, have some ability to adapt to background noise. For instance, the detection of pure tones and the recognition of isolated words embedded in noise can improve gradually as tones and words are delayed a few hundred milliseconds in the noise. While some evidence suggests that adaptation to noise could be mediated by the medial olivocochlear reflex, adaptation can occur for people who do not have a functional reflex. Since adaptation can facilitate hearing in noise, and hearing in noise is often harder for hearing-impaired than for normal-hearing listeners, it is conceivable that adaptation is impaired with hearing loss. It remains unclear, however, if and to what extent this is the case, or whether impaired adaptation contributes to the greater difficulties experienced by hearing-impaired listeners understanding speech in noise. Here, we review adaptation to noise, the mechanisms potentially contributing to this adaptation, and factors that might reduce the ability to adapt to background noise, including cochlear hearing loss, cochlear synaptopathy, aging, and noise exposure. The review highlights few knowns and many unknowns about adaptation to noise, and thus paves the way for further research on this topic.
+
+Associations Between Recreational Noise Exposure and Hearing Function in Adolescents and Young Adults: A Systematic Review.
+
+Number of 
+
+Key takeaways:Recreational noise exposure in adolescents and young adults may have short-term changes in hearing function, but long-term effects remain unclear due to inconsistencies in measuring exposure and outcomes.
+
+Abstract:PURPOSE
+There is an increasing concern regarding hazardous recreational noise exposure among adolescents and young adults. Daily exposure to loud sound levels over a long period of time can increase the risk of noise-induced hearing loss. The full extent of the impact of recreational noise on hearing is not yet fully understood. The purpose of this review was to synthesize research that investigated hearing function in relation to recreational noise exposure in adolescents and young adults.
+
+METHOD
+A systematic literature search of five databases covering the years 2000-2023 was performed. The articles included investigated audiological measurements of hearing function in relation to recreational noise exposure.
+
+RESULTS
+Four hundred sixty records were identified, of which 20 met the inclusion criteria and were included in the results. This review showed that although some recreational noise activities can be potentially harmful, there is an unclear relationship between exposure and outcome. Some findings indicated hearing threshold shifts or reduced otoacoustic emission amplitudes after recreational noise exposure, but most changes were short term and in the extended high-frequency range.
+
+CONCLUSIONS
+There seemed to be inconsistencies regarding the utilization of methods of measuring exposure and outcome between studies. This might be one reason for the differing results in studies on the reported impact on hearing function from recreational noise exposure. To draw more certain conclusions about long-term effects, there is a need for longitudinal research that utilizes sound level measurements to assess low and high degrees of recreational noise exposure in relation to hearing function.
+
+SUPPLEMENTAL MATERIAL
+
+Auditory and non-auditory effects of noise on health
+
+Number of 
+
+Key takeaways:Noise exposure can cause both auditory and non-auditory health effects, highlighting the need for adequate noise prevention and mitigation strategies for public health.
+
+Long-term exposure to low-intensity environmental noise aggravates age-related hearing loss via disruption of cochlear ribbon synapses.
+
+Number of 
+
+Key takeaways:Long-term exposure to low-intensity environmental noise can lead to hearing loss and aggravate age-related hearing loss by disrupting cochlear ribbon synapses and causing inflammation.
+
+Abstract:Noise pollution is a major public hazard. Previous studies have shown that environmental noise affects the reorganization of the auditory cortex and leads to behavioral abnormality; however, the effects of long-term environmental noise exposure on the inner ear and hearing remain to be elucidated. In this study, we simulated environmental noise with a long-term 70 dB sound pressure level 'white' noise, observed its effect on the inner ears of C57BL/6J mice, and developed an in vitro model for mechanistic studies. We found that environmental noise increased the hearing threshold, decreased the auditory response amplitude, and aggravated the range and extent of age-related hearing loss (ARHL), especially in the intermediate frequency band in mice. Cochlear ribbon synapse is the primary site of inner ear injury caused by environmental noise. We also verified, through an in vitro simulation of the excitatory toxicity of glutamate and aging effects, that the activation of NLRP3 inflammasome plays a vital role in the cochlear ribbon synaptic damage. Our results show that long-term exposure to low-intensity environmental noise can lead to hearing loss via the disruption of ribbon synapses, which is caused by an inflammatory reaction. Additionally, environmental noise can further aggravate the progression of ARHL. This study expounded the pathogenesis of the inner ear damage caused by environmental noise exposure and provides a new direction for the prevention and treatment of hearing loss.
+
+Number of 
+
+Key takeaways:Noise-induced hearing loss can be prevented by reducing exposure to noise sources, using hearing protection, and participating in surveillance programs.
+
+Abstract:Noise can affect hearing in the occupational setting but can have other effects where exposures are non-occupational. For clinical purposes, noise is measured in decibels weighted according to the sensitivity of the human ear (dB(A)). Regardless of source, the effects of overexposure to noise are similar. Initially there is a temporary threshold shift, where reversibility of hearing loss is possible with removal away from further noise. Noise-induced hearing loss occurs following prolonged or intense exposure, with poor prospects for improvement of hearing. The classical audiogram for noise-induced hearing loss shows a 4 kHz dip. Non-auditory effects of prolonged noise exposure include annoyance, sleep disturbance, hypertension, and cardiovascular disease, stress, and impaired cognitive performance. Prevention of noise-induced hearing loss is by reducing exposure to noise at source minimizing exposure time, using hearing protection, and participating in surveillance.
+
+The effects of noise exposure and aging on the acoustic reflex in normal-hearing people
+
+Number of 
+
+Key takeaways:Higher noise exposure and aging can reduce middle ear muscle reflex growth, potentially indicating subclinical nerve damage in normal-hearing individuals.
+
+Abstract:Noise exposure and aging can cause subclinical hearing problems that are not identified with conventional audiometry. Nerve damage among the normal hearing could reduce afferent auditory-nerve activity consequently reducing the middle ear muscle reflex (MEMR). It was hypothesized that normal-hearing individuals reporting more noise exposure would have slower growth of MEMR with increasing levels. Data were analyzed from sixty-one young, normal-hearing people. Each completed the four MEMR assessments and the Life-Time Exposure to Noise and Solvents Questionnaire. Reflex amplitudes were measured as a function of sound level using clinical equipment. High-pass noise stimuli (1.5-4.0 kHz) and a 1-KHz tone were used as elicitors with a 226-Hz probe tone. Data were analyzed using a linear mixed effects model. Individuals reporting higher noise exposure with the LENS-Q had significantly reduced growth of MEMR with level, supporting the hypothesis. Independent effects of age and gender were also observed. The effect of the pure-tone average on MEMR growth functions did not reach significance at the 5% level (p = 0.052). No significant relationships were observed between the MEMR measures and extended high-frequency thresholds nor with word recognition in noise. The results suggest that the MEMR could indicate subclinical nerve damage.
+
+Awareness About the Noise-Induced Hearing Loss (NIHL) and Its Relation to Headphones Use at al Jouf Region, Northern Saudi Arabia
+
+Number of 
+
+Key takeaways:In Saudi Arabia, there is a lack of awareness about noise-induced hearing loss and its symptoms, but a positive trend towards recognizing its preventability.
+
+Abstract:Background: Noise is an 'unwanted sound' with various adverse health effects. Noise-induced hearing loss (NIHL) results from irreparable damage to the inner ear's cochlear hair cells. In addition, a potential consequence of using prevalent personal listening devices (PLDs) puts the users at greater risk of hearing loss when misusing these devices.
+Objectives: This study evaluates the awareness of NIHL and headphones use among general population in Saudi Arabia.
+Materials and Methods: We conducted a cross-sectional study with a representative random sample of the general population of Jouf, Northern Saudi Arabia. A self-administered questionnaire was distributed through the social media. We collected data regarding participants' awareness of NIHL caused by headphone use.
+Results: As regard knowledge about NIHL among the studied population, there were 46.1% admitted to not knowing whether NIHL is a type of conductive hearing loss, 42.5% recognized that a substantial amount of hearing loss is required to impact speech and social development. The data also highlighted a positive trend, with 54.1% acknowledging that noise-induced hearing problems were preventable. Interestingly, a notable portion, 28.1%, were uncertain about the minimum duration of exposure to loud noise that could harm hearing. Similarly, a significant percentage, 24.0%, were unsure about the minimum volume levels that could negatively affect hearing. Additionally, 21.5% unsure whether frequent exposure to hazardous noise leads to hearing loss due to a damaged eardrum. As regard PLD-related practices, there was a significant portion primarily use earphones (40.4%) and listen to audio for 1-2 hours a day (42.5%). Most individuals (40.4%) reported that people surrounding them are usually affected by the noise from their PLDs. Interestingly, a high percentage (71.9%) expressed the recommendation for installing voice limiting features on their ear devices. Additionally, (80.8%) are willing to change their behavior if presented with evidence of the negative impact of loud noise on hearing.
+Conclusion:  noise-induced hearing loss (NIHL) is a prevalent and preventable public health issue that affects a significant portion of the population, including individuals in Saudi Arabia. The study highlighted a lack of awareness and knowledge about NIHL and its symptoms among the general population. However, there is a positive trend towards acknowledging the preventability of noise-induced hearing problems. The study also revealed concerning practices related to personal listening devices (PLDs), with a significant portion of respondents using earphones for extended periods and being surrounded by noise from their devices. There is a growing willingness among individuals to change their behavior if presented with evidence of the negative impact of loud noise on hearing.
+
+Vestibular assessment in occupational noise-induced hearing loss
+
+Number of 
+
+Key takeaways:Noise exposure can cause hearing loss and may also damage the vestibular system, leading to vestibular dysfunction.
+
+Abstract:Background Occupational noise can cause hearing loss and also may affect the vestibular system and result in vestibular dysfunction. Aim To study the effect of noise exposure on the cervical vestibular-evoked myogenic potential (cVEMP) and ocular vestibular-evoked myogenic potential (oVEMP) and to correlate between duration of noise exposure and vestibular dysfunction if present. Patients and methods A total of 60 patients were included in this study, comprising a study group of 30 patients with noise-induced hearing loss and a control group of 30 healthy participants with normal hearing and vestibular function. Patients of both groups underwent cVEMP and oVEMP. Results cVEMPs showed a highly statistically significant difference between the study and control groups regarding P13 and N23 latencies and P13–N23 amplitude, and oVEMPs showed a statistically significant difference between the study and control groups regarding N1 and P1 in latencies and N1–P1 amplitude. A positive correlation was found between duration of noise exposure and VEMPs latencies, whereas a negative correlation between it and VEMPs amplitude. Conclusion Noise exposure is a hazard to inner ear structures that can enhance the damage of vestibular part, especially the sacculocolic pathway.
+
+Preventing Excessive Noise Exposure in Infants, Children, and Adolescents.
+
+Number of 
+
+Key takeaways:Greater awareness of noise hazards is needed to prevent hearing loss in infants, children, and adolescents, with disproportionate effects on underserved communities.
+
+Abstract:Noise exposure is a major cause of hearing loss in adults. Yet, noise affects people of all ages, and noise-induced hearing loss is also a problem for young people. Sensorineural hearing loss caused by noise and other toxic exposures is usually irreversible. Environmental noise, such as traffic noise, can affect learning, physiologic parameters, and quality of life. Children and adolescents have unique vulnerabilities to noise. Children may be exposed beginning in NICUs and well-baby nurseries, at home, at school, in their neighborhoods, and in recreational settings. Personal listening devices are increasingly used, even by small children. Infants and young children cannot remove themselves from noisy situations and must rely on adults to do so, children may not recognize hazardous noise exposures, and teenagers generally do not understand the consequences of high exposure to music from personal listening devices or attending concerts and dances. Environmental noise exposure has disproportionate effects on underserved communities. In this report and the accompanying policy statement, common sources of noise and effects on hearing at different life stages are reviewed. Noise-abatement interventions in various settings are discussed. Because noise exposure often starts in infancy and its effects result mainly from cumulative exposure to loud noise over long periods of time, more attention is needed to its presence in everyday activities starting early in life. Listening to music and attending dances, concerts, and celebratory and other events are sources of joy, pleasure, and relaxation for many people. These situations, however, often result in potentially harmful noise exposures. Pediatricians can potentially lessen exposures, including promotion of safer listening, by raising awareness in parents, children, and teenagers. Noise exposure is underrecognized as a serious public health issue in the United States, with exposure limits enforceable only in workplaces and not for the general public, including children and adolescents. Greater awareness of noise hazards is needed at a societal level.
+
+Noise-induced hearing loss and blood factors: results from a comprehensive cross-sectional study in Iran
+
+Number of 
+
+Key takeaways:Exposure to noise levels below the permissible limit can lead to hearing loss in individuals, with fasting blood glucose (FBS) being the most significant blood factor affecting hearing loss.
+
+Abstract:Noise-induced hearing loss (NIHL) is a common occupational hazard and a leading cause of hearing impairment among industrial workers. Previous studies have primarily focused on the association between physiological parameters and excessive noise exposure (above 85 dB). This study investigates the impact of sound exposure below the permissible limit (between 82 and 85 dB) on blood factors and hearing loss. This cross-sectional analytical study examined 8946 male facility technicians from various industries in Iran, who were exposed to sound levels between 82 and 85 decibels (action limit) over a period of one year. The study examined various blood factors, including complete blood cell count (CBC), blood group (BG), fasting blood glucose (FBS), lipid factors such as triglycerides (TG) and cholesterol (Chol), and also blood pressure (BP). Additionally, the hearing status of participants was evaluated using pure tone audiometry for both ears. The results indicated that age, work experience, SBP, FBS, Chol, Hb, Plt, and Hct were the main factors influencing hearing loss. FBS showed the highest impact on workers' hearing loss, accounting for 36.70% of the variance. Furthermore, Hb and PLT followed with weights of 19.10% and 12.4%, respectively. However, no significant relationship was observed concerning the blood group type. Exposure to noise levels below the permissible limit can lead to hearing loss in individuals. Moreover, FBS, Hb, and PLT were identified as blood factors affecting hearing loss in people. Understanding this will provide the basis for future guidelines on how to care for these workers.
+
+Literature Review: Factors Causing Hearing Loss Due to Noise in Industrial Workers
+
+Number of 
+
+Key takeaways:High noise levels in industrial areas can cause hearing loss in workers, with factors like age, working period, ear protection equipment use, and ear disease history also contributing.
+
+Abstract:Introduction: Industry is a place where many individuals work. In the industrial field, one can do work by utilizing. However, high-tech applications can cause noise in industrial areas. The discomfort of this sound may indirectly pose a risk of health problems, including hearing loss. Methods: The method used in this study was a literature review study with an in-depth review of the articles through an electronic article data base with the keywords noise, hearing loss, and industrial workers. Then, a screening was carried out based on articles that have been 
+
+Negative Effects of Noise on NICU Graduates’ Cochlear Functions
+
+Number of 
+
+Key takeaways:Noise exposure in NICUs negatively affects hearing tests in infants at six months of age, potentially impacting their cochlear functions.
+
+Abstract:Abstract Aim To evaluate the adverse effects of noise on hearing. Methods: Thirty-two infants that had been admitted to neonatal intensive care unit (NICU) and 25 healthy controls were included in this study. Noise levels were recorded continously during the hospitalization period. Results: All healthy controls passed the hearing screening tests before discharge and on the sixth-month follow up. Hospitalized infants had lower “Distortion Product Auto Acoustic Emission Signal Noise Ratio” (DPOAE SNR) amplitudes (dB) at five frequencies (1001, 1501, 3003, 4004, 6006 Hz in both ears). DPOAE fail rates at 1001 Hz and 1501 Hz were higher than in hospitalized infants (81.8% and 50.0% vs 20.0% and 4.0%). Infants who failed the test at 1001 and 1501 Hz were exposed to noise above the recommended maximum level for longer periods of time. Conclusion: Hearing tests performed at sixth-months of life were adversely affected in NICU graduates.
+
+.
+
+Number of 
+
+Key takeaways:Exposure to noise can cause hearing loss and impair balance in mice, with impaired activity of a deafness-related molecule linked to hearing loss and neurodegeneration.
+
+Abstract:Noise stress generated in industry is one of the environmental factors that physically affects the functions of the inner ear. Exposure to noise can cause hearing loss, resulting in serious problems in occupational and daily life. At present, however, there are very limited ways to prevent hearing impairments. The inner ear consists of the organ of Corti, vestibule and semicircular canal. Functional or morphological damage of these tissues in the inner ear caused by genetic factors, aging or environmental factors can result in hearing or balance impairments. In this review, we first introduce a deafness-related molecule found by our clinical research. Our experimental research using genetically engineered mice further demonstrated that impaired activity of the target molecule caused congenital and age-related hearing loss with neurodegeneration of spiral ganglion neurons in the inner ears. We also describe impaired balance in mice caused by exposure to low-frequency noise under experimental conditions with indoor environmental monitoring. We believe that our approaches to pursue both experimental research and fieldwork research complementarily are crucial for the development of a method for prevention of impairments of the inner ear.
+
+Auditory metabolomics, an approach to identify acute molecular effects of noise trauma
+
+Number of 
+
+Key takeaways:Metabolomics can identify 40 metabolites affected by noise exposure, potentially leading to drug targets and novel therapies for noise-induced hearing loss.
+
+Acceptable Noise Level in Unilateral Ménière’s Disease
+
+Number of 
+
+Key takeaways:Unilateral Meniere's disease affects the acceptable noise level in the affected ear, causing deterioration in speech perception in noise.
+
+Abstract:Background and Aim: Noise tolerance and performance in noisy environments are influential factors of hearing aid use in people with hearing loss. One of the causes of hearing loss is Meniere’s disease (MD), which affects speech perception in noise. Acceptable noise level (ANL) is a test that measures the maximum tolerated background noise level (BNL) while listening to the running speech. Since the effect of MD on ANL needs further study, the present study aims to examine the ANL test results in people with unilateral MD, and compare the results between the two ears. 
+Methods: This cross sectional study conducted on 33 individuals with unilateral MD (21 females and 12 males) aged 32–60 years who had the disease for at least one year, who participated in this study. Their most comfortable level (MCL), BNL, and ANL in both ears were then evaluated. 
+Results: The mean MCL and BNL were significantly different between the two ears, where they were higher in the affected ear than in the contralateral ear. There was also a significant difference in the ANL results between the two ears. In the affected ear, a statistically significant relationship was reported between the ANL and the average hearing thresholds at frequencies of 250, 500, and 1000 Hz. 
+Conclusion: MD affects the ANL in the affected ear and causes a deterioration in its level and speech perception in noise.
+
+Environmental Noise and the Cardiovascular System.
+
+Number of 
+
+Key takeaways:Environmental noise, particularly nighttime noise, increases stress hormones and vascular oxidative stress, leading to cardiovascular diseases like arterial hypertension and heart failure.
+
+Transportation noise pollution and cardiovascular disease
+
+Number of 
+
+Key takeaways:Transportation noise pollution is a significant cardiovascular risk factor, increasing the risk of diseases like hypertension, coronary artery disease, heart failure, and arrhythmia.
+
+Transportation Noise Pollution and Cardiovascular Health
+
+Number of 
+
+Key takeaways:Transportation noise increases the risk for cardiovascular diseases, such as ischemic heart disease, heart failure, and stroke, by disrupting sleep, increasing stress hormone levels, and increasing oxidative stress in the vasculature and brain.
+
+Abstract:Epidemiological studies have found that transportation noise increases the risk for cardiovascular morbidity and mortality, with solid evidence for ischemic heart disease, heart failure, and stroke. According to the World Health Organization, at least 1.6 million healthy life years are lost annually from traffic-related noise in Western Europe. Traffic noise at night causes fragmentation and shortening of sleep, elevation of stress hormone levels, and increased oxidative stress in the vasculature and the brain. These factors can promote vascular (endothelial) dysfunction, inflammation, and arterial hypertension, thus elevating cardiovascular risk. The present review focusses on the indirect, nonauditory cardiovascular health effects of noise. We provide an updated overview of epidemiological research on the effects of transportation noise on cardiovascular risk factors and disease, and mechanistic insights based on the latest clinical and experimental studies and propose new risk markers to address noise-induced cardiovascular effects in the general population. We will discuss the potential effects of noise on vascular dysfunction, oxidative stress, and inflammation in humans and animals. We will elaborately explain the underlying pathomechanisms by alterations of gene networks, epigenetic pathways, circadian rhythm, signal transduction along the neuronal-cardiovascular axis, and metabolism. We will describe current and future noise mitigation strategies. Finally, we will conduct an overall evaluation of the status of the current evidence of noise as a significant cardiovascular risk factor.
+
+Short-term aircraft noise stress induces a fundamental metabolic shift in heart proteome and metabolome that bears the hallmarks of cardiovascular disease.
+
+Number of 
+
+Key takeaways:Short-term aircraft noise exposure leads to a fundamental metabolic shift in the heart, reminiscent of cardiovascular disease, within 4 days.
+
+Noise causes cardiovascular disease: it’s time to act
+
+Number of 
+
+Key takeaways:Chronic transportation noise exposure increases the risk of cardiovascular diseases, premature deaths, and sleep disturbances, with vulnerable individuals like those with pre-existing cardiovascular conditions being particularly vulnerable.
+
+Environmental noise induces the release of stress hormones and inflammatory signaling molecules leading to oxidative stress and vascular dysfunction—Signatures of the internal exposome
+
+Number of 
+
+Key takeaways:Environmental noise induces stress hormones and inflammation, leading to oxidative stress and vascular dysfunction, increasing cardiometabolic diseases.
+
+Abstract:Environmental noise is a well‐recognized health risk and part of the external exposome—the World Health Organization estimates that 1 million healthy life years are lost annually in Western Europe alone due to noise‐related complications, including increased incidence of hypertension, heart failure, myocardial infarction, and stroke. Previous data suggest that noise works through two paired pathways in a proposed reaction model for noise exposure. As a nonspecific stressor, chronic low‐level noise exposure can cause a disruption of sleep and communication leading to annoyance and subsequent sympathetic and endocrine stress responses leading to increased blood pressure, heart rate, stress hormone levels, and in particular more oxidative stress, being responsible for vascular dysfunction and representing changes of the internal exposome. Chronic stress generates cardiovascular risk factors on its own such as increased blood pressure, blood viscosity, blood glucose, and activation of blood coagulation. To this end, persistent chronic noise exposure increases cardiometabolic diseases, including arterial hypertension, coronary artery disease, arrhythmia, heart failure, diabetes mellitus type 2, and stroke. The present review discusses the mechanisms of the nonauditory noise‐induced cardiovascular and metabolic consequences, focusing on mental stress signaling pathways, activation of the hypothalamic–pituitary–adrenocortical axis and sympathetic nervous system, the association of these activations with inflammation, and the subsequent onset of oxidative stress and vascular dysfunction. © 2019 BioFactors, 45 (4):495–506, 2019
+
+Cardiovascular effects of environmental noise exposure
+
+Number of 
+
+Key takeaways:Environmental noise exposure, particularly night-time noise, is associated with increased cardiovascular risks, emphasizing the need for noise mitigation strategies for public health.
+
+Abstract:The role of noise as an environmental pollutant and its impact on health are being increasingly recognized. Beyond its effects on the auditory system, noise causes annoyance and disturbs sleep, and it impairs cognitive performance. Furthermore, evidence from epidemiologic studies demonstrates that environmental noise is associated with an increased incidence of arterial hypertension, myocardial infarction, and stroke. Both observational and experimental studies indicate that in particular night-time noise can cause disruptions of sleep structure, vegetative arousals (e.g. increases of blood pressure and heart rate) and increases in stress hormone levels and oxidative stress, which in turn may result in endothelial dysfunction and arterial hypertension. This review focuses on the cardiovascular consequences of environmental noise exposure and stresses the importance of noise mitigation strategies for public health.
+
+A neurobiological mechanism linking transportation noise to cardiovascular disease in humans.
+
+Number of 
+
+Key takeaways:Higher noise exposure increases the risk of major adverse cardiovascular disease events through a mechanism involving increased stress-associated limbic activity and heightened arterial inflammation.
+
+Abstract:AIMS
+Chronic noise exposure associates with increased cardiovascular disease (CVD) risk; however, the role of confounders and the underlying mechanism remain incompletely defined. The amygdala, a limbic centre involved in stress perception, participates in the response to noise. Higher amygdalar metabolic activity (AmygA) associates with increased CVD risk through a mechanism involving heightened arterial inflammation (ArtI). Accordingly, in this retrospective study, we tested whether greater noise exposure associates with higher: (i) AmygA, (ii) ArtI, and (iii) risk for major adverse cardiovascular disease events (MACE).
+
+METHODS AND RESULTS
+Adults (N = 498) without CVD or active cancer underwent clinical 18F-fluorodeoxyglucose positron emission tomography/computed tomography imaging. Amygdalar metabolic activity and ArtI were measured, and MACE within 5 years was adjudicated. Average 24-h transportation noise and potential confounders were estimated at each individual's home address. Over a median 4.06 years, 40 individuals experienced MACE. Higher noise exposure (per 5 dBA increase) predicted MACE and remained robust to multivariable adjustments. Higher noise exposure associated with increased AmygA and ArtI . Mediation analysis suggested that higher noise exposure associates with MACE via a serial mechanism involving heightened AmygA and ArtI that accounts for 12-26% of this relationship.
+
+CONCLUSION
+Our findings suggest that noise exposure associates with MACE via a mechanism that begins with increased stress-associated limbic (amygdalar) activity and includes heightened arterial inflammation. This potential neurobiological mechanism linking noise to CVD merits further evaluation in a prospective population.
+
+Environmental Noise-Induced Effects on Stress Hormones, Oxidative Stress, and Vascular Dysfunction: Key Factors in the Relationship between Cerebrocardiovascular and Psychological Disorders
+
+Number of 
+
+Key takeaways:Chronic low-level noise exposure increases mental stress, leading to cardiovascular complications and psychological disorders like depression and anxiety.
+
+Abstract:The role of noise as an environmental pollutant and its adverse effects on health are being increasingly recognized. Beyond its direct effects on the auditory system (e.g., hearing loss and tinnitus induced by exposure to high levels of noise), chronic low-level noise exposure causes mental stress associated with known cardiovascular complications. According to recent estimates of the World Health Organization, exposure to traffic noise is responsible for a loss of more than 1.5 million healthy life years per year in Western Europe alone, a major part being related to annoyance, cognitive impairment, and sleep disturbance. Underlying mechanisms of noise-induced mental stress are centered on increased stress hormone levels, blood pressure, and heart rate, which in turn favor the development of cerebrocardiovascular disease such as stroke, arterial hypertension, ischemic heart disease, and myocardial infarction. Furthermore, traffic noise exposure is also associated with mental health symptoms and psychological disorders such as depression and anxiety, which further increase maladaptive coping mechanisms (e.g., alcohol and tobacco use). From a molecular point of view, experimental studies suggest that traffic noise exposure can increase stress hormone levels, thereby triggering inflammatory and oxidative stress pathways by activation of the nicotinamide adenine dinucleotide phosphate oxidase, uncoupling of endothelial/neuronal nitric oxide synthase inducing endothelial and neuronal dysfunction. This review elucidates the mechanisms underlying the relationship between noise exposure and cerebrocardiovascular and psychological disorders, focusing on mental stress signaling pathways including activation of the autonomous nervous system and endocrine signaling and its association with inflammation, oxidative stress, and vascular dysfunction.
+
+Investigating the effects of occupational and environmental noise on cardiovascular diseases: a systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Occupational and environmental noise exposure is significantly associated with cardiovascular disease, with higher sound intensity affecting blood pressure in workers and higher ambient noise intensity affecting blood pressure in environmental settings.
+
+Abstract:The present study aimed to use a meta-analysis to investigate the relationship between occupational and non-occupational noise exposure expressed in various studies with cardiovascular disease. This is a systematic review and meta-analysis study based on PRISMA checklist. In this study, the researchers searched five international databases of Medline/PubMed, Embase, Scopus, ISI/web of knowledge, and Google Scholar. Search keywords included two categories noise and noise pollution, cardiovascular disease, and hypertension. The Joanna Briggs Institute checklist was used to review and control the quality of the articles. After all screening stage 139 articles entered the final analysis. The results show that except for East African environmental studies and workplace studies in East Asia, Western Asia, and Northern Europe, there was a significant association between noise exposure and cardiovascular disease. Also, there was a significant difference between the intensity of sound and blood pressure in workers (OR = 1.28, CI 95%: 1.15–1.42, P < 0.001). Based on the results of environmental noise, there was a significant difference between ambient noise intensity and blood pressure (OR = 1.55, CI 95%: 1.53–1.57, P < 0.001). It can be concluded that it is very important to study and identify jobs or living environments with less than the recommended noise level and in addition to hearing aids that occur in over-standard exposures, such as cardiovascular disease.
+
+Noise Exposure and Cardiovascular Health.
+
+Number of 
+
+Key takeaways:Noise exposure, particularly traffic noise, is linked to increased risk of cardiovascular diseases through psychological stress, reduced sleep quality, and disruption in the hypothalamic-pituitary-axis.
+
+Environmental noise-induced cardiovascular, metabolic and mental health disorders: a brief review
+
+Number of 
+
+Key takeaways:Environmental noise exposure is linked to increased incidence of cardiovascular, metabolic, and mental health disorders, including anxiety and depression.
+
+Abstract:BackgroundEnvironmental noise is a pervasive pollutant that is one of the greatest environmental threats to mental, physiological and psychological well-being and has a significant global health burden associated with it. Many epidemiological studies indicate long-term relationship of noise pollution with wide range of metabolic, cardio-vascular and respiratory disorders and diseases.ObjectiveThe goal of this study was to thoroughly analyse available literature on public health implications and various underlying biological mechanisms associated with ambient noise exposure, taking into account both objective and subjective measures of noise exposure.MethodsA search of literature for review on environmental noise and associated cardiovascular, mental health and metabolic implications on human health was done using Web of Science, Google Scholar and PubMed databases.DiscussionExperimental studies indicate that noise exposure leads to endocrine effects, increased incidence of diabetes, impairment of cognitive performance, sleep disturbance and annoyance. Epidemiological evidence indicates that high levels of noise, particularly at night, may cause arterial hypertension and endothelial dysfunction due to higher level of stress hormones and oxidative stress. An increased incidence of cardio-vascular diseases like myocardial infarction, heart rate, ischemic heart disease, stroke and heart failure is associated with noise-induced mental stress. Furthermore, psychological and mental health issues like anxiety and depression are also related with exposure to noise pollution.ConclusionThis article summarises a comprehensive and systematic knowledge established in recent noise research with the spotlight on cardiovascular, metabolic and mental health disorders of environmental noise, providing unique understanding into underlying mechanisms.
+
+Pathomechanistic synergy between particulate matter and traffic noise induced cardiovascular damage and the classical risk factor hypertension.
+
+Number of 
+
+Key takeaways:Both traffic noise and air pollution contribute to cardiovascular damage, promoting atherosclerosis and thrombosis, with a complex interplay between them driving the onset and progression of cardiovascular diseases.
+
+Abstract:SIGNIFICANCE
+In all modern urbanized and industrialized societies, non-communicable diseases, like cardiovascular disease (CVD), are becoming a more important cause of morbidity and mortality. Classic risk factors for CVDs, such as hypertension, are reinforced by behavioral risk factors, like smoking and diet, and environmental risk factors, like transportation noise and air pollution.
+
+RECENT ADVANCES
+Both transportation noise and air pollution have individually been shown to increase the risk for CVD in large cohorts. Insights from animal studies have revealed pathophysiologic mechanisms by which these stressors influence the cardiovascular system. Noise primarily causes annoyance and sleep disturbance, promoting the release of stress hormones. Air pollution primarily damages the lung, where it causes local inflammation and an increase in oxidative stress, which can propagate to the circulation and remote organs.
+
+CRITICAL ISSUES
+Both noise and air pollution converge at the vascular level, where the inflammatory state and oxidative stress cause dysfunction in vascular signaling and promote atherosclerotic plaque formation and thrombosis. Both inflammation and oxidative stress are key aspects of traditional cardiovascular risk factors, such as arterial hypertension. The similarities among the mechanisms of environmental risk factor-induced CVD and hypertension indicate that a complex interplay between them can drive the onset and progression of CVDs, leading to synergistic health impacts.
+
+FUTURE DIRECTIONS
+Our present overview of the negative effects of noise and air pollution on the cardiovascular system provides a mechanistic link to the traditional CVD risk factor, hypertension, which could be used to protect patients with pre-existing CVD better.
+
+Redox Switches in Noise-Induced Cardiovascular and Neuronal Dysregulation
+
+Number of 
+
+Key takeaways:Noise exposure may contribute to cardiovascular diseases by disrupting circadian rhythms, inflammatory signaling, gut microbiome composition, and vessel function through aberrant redox signaling.
+
+Abstract:Environmental exposures represent a significant health hazard, which cumulatively may be responsible for up to 2/3 of all chronic non-communicable disease and associated mortality (Global Burden of Disease Study and The Lancet Commission on Pollution and Health), which has given rise to a new concept of the exposome: the sum of environmental factors in every individual’s experience. Noise is part of the exposome and is increasingly being investigated as a health risk factor impacting neurological, cardiometabolic, endocrine, and immune health. Beyond the well-characterized effects of high-intensity noise on cochlear damage, noise is relatively well-studied in the cardiovascular field, where evidence is emerging from both human and translational experiments that noise from traffic-related sources could represent a risk factor for hypertension, ischemic heart disease, diabetes, and atherosclerosis. In the present review, we comprehensively discuss the current state of knowledge in the field of noise research. We give a brief survey of the literature documenting experiments in noise exposure in both humans and animals with a focus on cardiovascular disease. We also discuss the mechanisms that have been uncovered in recent years that describe how exposure to noise affects physiological homeostasis, leading to aberrant redox signaling resulting in metabolic and immune consequences, both of which have considerable impact on cardiovascular health. Additionally, we discuss the molecular pathways of redox involvement in the stress responses to noise and how they manifest in disruptions of the circadian rhythm, inflammatory signaling, gut microbiome composition, epigenetic landscape and vessel function.
+
+Occupational exposure to noise and the cardiovascular system: a meta-analysis.
+
+Number of 
+
+Key takeaways:Chronic exposure to noise is associated with increased blood pressure, heart rate, and prevalence of hypertension and ECG abnormalities in workers.
+
+Does air pollution confound associations between environmental noise and cardiovascular outcomes? - A systematic review.
+
+Number of 
+
+Key takeaways:Air pollution does not appear to confound associations between environmental noise and cardiovascular health, but more studies on potential interactions are needed.
+
+Impact of Noise and Air Pollution on the Cardiovascular System through the Brain-Heart Axis
+
+Number of 
+
+Key takeaways:Noise and air pollution negatively impact the brain-heart axis, causing neuroinflammation, cerebral oxidative stress, and cardiovascular damage.
+
+Abstract:Non-communicable diseases like cardiovascular disease (CVD) are becoming more prevalent in urbanized and industrialized societies. Classic risk factors like hypertension are reinforced by behavioral factors like smoking and diet, as well as environmental risk factors like transportation noise and air pollution. Animal studies reveal that noise causes annoyance and sleep disturbance, promoting stress hormone release. Air pollution damages the lung, causing inflammation and oxidative stress that can spread to the circulation and remote organs. Both noise and air pollution converge at the vascular level, causing dysfunction in vascular signaling and atherosclerotic plaque formation. The complex interplay between environmental risk factors and CVD can lead to synergistic health impacts. The present review focusses on the impact of noise and air pollution on the brain-heart axis. Noise causes its primary health effects on the brain by activating the sympathetic nervous system, and the hypothalamic-pituitary-adrenal axis and thereby causes neuroinflammation, cerebral oxidative stress and via stress hormone signaling, also induces cardiovascular damage. Air pollution activates the stress response as a homeostatic stressor. Uptake of (nano)particles into the brain can proceed by migration along the olfactory nerve. Particles in the brain can cause stress responses similar to neuroinflammation and cerebral oxidative stress due to noise. Understanding the negative effects of noise and air pollution on the cardiovascular system could help protect patients with pre-existing CVD.
+
+Cardiovascular effects of noise.
+
+Number of 
+
+Key takeaways:High levels of noise, such as occupational or environmental, can increase the risk of cardiovascular diseases, including high blood pressure and ischemic heart diseases.
+
+Abstract:The auditory system is continuously analyzing acoustic information, which is filtered and interpreted by different cortical and subcortical brain structures. According to the general stress concept, repeated temporal changes in biological responses can result in permanent metabolic changes of the organism leading to chronic diseases in the long run. Most epidemiological studies have been carried out with respect to health effects of occupational noise and – regarding environmental noise – with respect to road and air traffic noise. The studies suggest a higher risk of cardiovascular diseases, including high blood pressure and ischemic heart diseases in subjects persistently exposed to high levels of noise at the workplace or transportation noise outside their dwellings. Different expert groups have evaluated the evidence of the association. Road traffic noise levels at the facades of the houses exceeding 65 dB(A) during daytime and 55 dB(A) during the night were considered to be detrimental to cardiovascular health. Adverse health effects due to aircraft noise were found at even lower average noise levels. Most of the studies suggest a continuous increase in risk with increasing noise level. Based on meta-analyses, exposure–response relationships and regression coefficients have been derived that can be used for a quantitative risk assessment and burden of disease calculations in public health.
+
+The cardiovascular effects of noise on man
+
+Number of 
+
+Key takeaways:Persistent exposure to environmental noise can negatively impact cardiovascular health, including hypertension, coronary heart disease, and stroke, with chronic sleep disturbance being a key mediator.
+
+Abstract:Noise is pervasive in everyday life and induces both auditory and non-auditory health effects. Systematic research of the effects of noise on the cardiovascular system has been carried out for more than 50 decades. Noise is a stressor that affects the autonomic nervous system and the endocrine system. Animal experiments, laboratory and field studies carried out on humans provide evidence that persistent exposure to environmental noise affects physiological endpoints, which in turn are adversely associated with cardiovascular diseases. These include hypertension, coronary heart disease, and stroke. New endpoints have been studied, including clinical states of metabolic syndrome such as diabetes mellitus. Chronic sleep disturbance is considered as an important mediator of the effects. Public health policies rely on quantitative risk assessment to set environmental quality standards and to regulate the noise exposure that is generated by environmental noise sources in the communities. Meta-analyses were carr...
+
+Noise Pollution as a Cardiovascular Health Hazard
+
+Number of 
+
+Key takeaways:Noise pollution has adverse effects on health, particularly on the cardiovascular system, causing sleep deprivation and potentially increasing the risk of cardiovascular diseases.
+
+Abstract: Abstract — Introduction: Noise pollution is a health hazard and induces both auditory and non-auditory effects. Extensive levels of noise are associated with a high risk of physiological changes such as hypertension, increased levels of heart beat rate, peripheral vasoconstriction and thus peripheral vascular resistance. Noise can trigger both endocrine and autonomic nervous system responses that in turn affect the cardiovascular system and may be a high risk for the appearance of cardiovascular disease. Aim: This retrospective study provides a comprehensive review of the new evidence linking noise pollution to cardiovascular risk. It considers some fundamental issues concerning noise and its consequences on the cardiovascular system. Method: An extensive review of the International literature was performed through the electronic databases Pubmed, Scopus and Google Scholar and the Association of Greek Academic Libraries Link (Heal-Link), using as key words the following terms: noise pollution, noise exposure, cardiovascular risk, hypertension. Results: Sleep deprivation or fragmentation is usually considered the most severe non-auditory effect of noise pollution, which in turn affects the cardiovascular system. Noise exposure is also associated with hypertension and consequently with other cardiovascular disease, the results from the literature, however, are inconclusive. Conclusions: Noise pollution has many adverse effects on health and especially on the cardiovascular system. Understanding the harmful effects of noise pollution on cardiovascular health will help us to take all the appropriate measures to prevent or to reduce the possible health risks.
+
+Noise and mental health: evidence, mechanisms, and consequences
+
+Number of 
+
+Key takeaways:Exposure to noise, particularly traffic noise, can potentially impact the central nervous system and increase the susceptibility to mental health conditions like depression, anxiety, suicide, and behavioral problems in children and adolescents.
+
+Environmental noise perception and risk of poor mental health in a region on the Mediterranean coast of Spain
+
+Number of 
+
+Key takeaways:High noise perception is associated with a higher risk of poor mental health, regardless of other factors.
+
+Abstract:BACKGROUND
+Exposure to environmental noise may have a negative impact on a population's mental health. We estimated the prevalence of exposure perception to high environmental noise in the Valencian Community, a region on the Mediterranean coast of Spain, and analysed its association with poor mental health risk, adjusting for demographic, socioeconomic and health status variables.
+
+METHODS
+Cross-sectional study based on a sample of 5.485 subjects, aged 15 or above, of the 2016 Valencian Community Health Survey. The risk of poor mental health was assessed via Goldberg's questionnaire, a highly standardized self-reported questionnaire designed to screen for general psychological distress in the general population. Noise perception were determined in the home environment based on individuals' responses to the Valencian Survey question about external noise problems. Sociodemographic variables, such as sex, age, level of education, or country of birth, and health variables, such as self-perceived health, or chronic diseases, were also considered. Logistic regression was used to estimate the Odds Ratios and confidence intervals of association between variables according to sex.
+
+RESULTS
+The prevalence of poor mental health was 26.2% in men and 33.6% in women. A total of 7.8% presented exposure to high noise perception, with no differences according to sex. Being at risk of poor mental health was significantly associated (p < 0.05) with high noise perception after adjusting for the rest of the variables (OR: 2.16 in men; 2.46 in women).
+
+CONCLUSIONS
+Although the prevalence of exposure perception to high noise was not very high, population subgroups presenting high values were detected. High noise perception was related to the risk of poor mental health, regardless of other variables. Poor mental health risk was associated with exposure perception to high noise, other socioeconomic determinants, and health status. Improving noise exposure conditions could reduce the risk of poor mental health.
+
+Noise pollution and mental health
+
+Number of 
+
+Key takeaways:Exposure to traffic noise may increase the risk of dementia and cognitive impairment, particularly Alzheimer's disease.
+
+Abstract:Writers in this 
+
+Environmental Noise Exposure and Mental Health: Evidence From a Population-Based Longitudinal Study.
+
+Number of 
+
+Key takeaways:Exposure to residential noise, particularly traffic noise, is associated with poorer mental health, with decreased noise exposure leading to an increase in mental health over time.
+
+Traffic Noise and Mental Health: A Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:Aircraft noise exposure increases the risk for depression, while road and railway traffic noise do not show statistically significant risk increases for depression or anxiety.
+
+Abstract:Recent evidence suggests that traffic noise may negatively impact mental health. However, existing systematic reviews provide an incomplete overview of the effects of all traffic noise sources on mental health. We conducted a systematic literature search and summarized the evidence for road, railway, or aircraft noise-related risks of depression, anxiety, cognitive decline, and dementia among adults. We included 31 studies (26 on depression and/or anxiety disorders, 5 on dementia). The meta-analysis of five aircraft noise studies found that depression risk increased significantly by 12% per 10 dB LDEN (Effect Size = 1.12, 95% CI 1.02–1.23). The meta-analyses of road (11 studies) and railway traffic noise (3 studies) indicated 2–3% (not statistically significant) increases in depression risk per 10 dB LDEN. Results for road traffic noise related anxiety were similar. We did not find enough studies to meta-analyze anxiety and railway or aircraft noise, and dementia/ cognitive impairment and any traffic noise. In conclusion, aircraft noise exposure increases the risk for depression. Otherwise, we did not detect statistically significant risk increases due to road and railway traffic noise or for anxiety. More research on the association of cognitive disorders and traffic noise is required. Public policies to reduce environmental traffic noise might not only increase wellness (by reducing noise-induced annoyance), but might contribute to the prevention of depression and anxiety disorders.
+
+Neighbour and traffic noise annoyance: a nationwide study of associated mental health and perceived stress
+
+Number of 
+
+Key takeaways:Noise annoyance from neighbors and traffic is strongly linked to poor mental health and high levels of perceived stress among individuals living in multistorey housing in Denmark.
+
+Abstract:Background
+Noise exposure is a well-known risk factor for multiple adverse health effects. Annoyance is the most prevalent response to environmental noise and may result in negative emotional responses, including poor mental health and high levels of perceived stress. The aim of this study was to investigate the association between neighbour and traffic noise annoyance, and mental health and perceived stress.
+
+Methods
+Data were derived from the Danish Health and Morbidity surveys in 2010 and 2013. The study was based on a random sample of the adult population in Denmark living in multistorey housing (n = 7090). Information on neighbour and traffic noise annoyance during the past 2 weeks, and mental health and perceived stress, using Short Form-12 and Perceived Stress Scale instruments, respectively, was obtained by means of self-administered questionnaires. Multiple logistic regression models were used to examine the associations between noise annoyance and poor mental health, and high perceived stress levels, respectively.
+
+Results
+Those who reported being very annoyed by neighbour noise had 2.34 times higher odds of having poor mental health and 2.78 (95% CI: 2.25-3.43) times higher odds to experience a high level of perceived stress than individuals not annoyed by noise from neighbours. Similar associations were observed with traffic noise annoyance.
+
+Conclusion
+The results from this study indicate that there is a strong relationship between noise annoyance and poor mental health and high levels of perceived stress among individuals living in multistorey housing in Denmark. Future studies are needed to determine the direction of causality.
+
+Pathways linking residential noise and air pollution to mental ill‐health in young adults
+
+Number of 
+
+Key takeaways:Increased residential noise is linked to mental ill-health in young adults through indirect pathways, while air pollution is only indirectly associated with mental health.
+
+Association between Noise Annoyance and Mental Health Outcomes: A Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:High noise annoyance is associated with an increased risk of depression, anxiety, and general mental health problems, but more evidence is needed to confirm these findings.
+
+Abstract:To date, most studies of noise and mental health have focused on noise exposure rather than noise annoyance. The purpose of this systematic review and meta-analysis was to evaluate whether the available evidence supports an adverse association between noise annoyance and mental health problems in people. We carried out a literature search of Web of Science, PubMed, Scopus, PsycINFO, and conference proceedings published between 2000 and 2022. Thirteen papers met the inclusion criteria. We conducted meta-analyses of noise annoyance in relation to depression, anxiety, and general mental health. In the meta-analyses, we found that depression was approximately 1.23 times greater in those who were highly noise-annoyed (N = 8 studies). We found an approximately 55% higher risk of anxiety (N = 6) in highly noise-annoyed people. For general mental health (N = 5), highly annoyed participants had an almost 119% increased risk of mental health problems as assessed by Short Form (SF) or General Household Questionnaires (GHQ), but with high heterogeneity and risk of publication bias. In conclusion, findings are suggestive of a potential link between noise annoyance and poorer mental health based on a small number of studies. More evidence is needed to confirm these findings.
+
+WHO Environmental Noise Guidelines for the European Region: A Systematic Review on Environmental Noise and Quality of Life, Wellbeing and Mental Health
+
+Number of 
+
+Key takeaways:Environmental noise may impact quality of life, wellbeing, and mental health, but robust studies are needed for various noise sources and outcomes.
+
+Abstract:This systematic review assesses the quality of the evidence across studies on the effect of environmental noise (road traffic noise, aircraft noise, railway noise, wind-turbine noise) on quality of life, wellbeing and mental health. Quantitative studies of noise effects on children and adults 
+
+Road traffic noise, sleep and mental health.
+
+Number of 
+
+Key takeaways:Road traffic noise may be associated with poorer mental health in individuals with poor sleep quality, but not in those with good or medium sleep quality.
+
+Evidence for Environmental Noise Effects on Health for the United Kingdom Policy Context: A Systematic Review of the Effects of Environmental Noise on Mental Health, Wellbeing, Quality of Life, Cancer, Dementia, Birth, Reproductive Outcomes, and Cognition
+
+Number of 
+
+Key takeaways:Environmental noise has low-quality evidence for harming mental health, wellbeing, and quality of life, with potential harmful effects on cancer outcomes.
+
+Abstract:This systematic review commissioned by the UK Department for the Environment, Food and Rural Affairs (Defra), considers how the evidence base for noise effects on health has changed following the recent reviews undertaken for the WHO Environmental Noise Guidelines. This systematic review assesses the quality of the evidence for environmental noise effects on mental health, wellbeing, and quality of life; birth and reproductive outcomes; and cognition for papers published since the WHO reviews (mid-2015 to March 2019), as well as for cancer and dementia (January 2014 to March 2019). Using the GRADE methodology (Grading of Recommendations Assessment, Development and Evaluation) most evidence was rated as low quality as opposed to very low quality in the previous reviews. There is now low-quality evidence for a harmful effect of road traffic noise on medication use and interview measures of depression and anxiety and low quality evidence for a harmful effect of road traffic noise, aircraft noise, and railway noise on some cancer outcomes. Many other conclusions from the WHO evidence reviews remain unchanged. The conclusions remain limited by the low number of studies for many outcomes. The quantification of health effects for other noise sources including wind turbine, neighbour, industrial, and combined noise remains a research priority.
+
+Environmental Noise Annoyance and Mental Health in Adults: Findings from the Cross-Sectional German Health Update (GEDA) Study 2012
+
+Number of 
+
+Key takeaways:High noise annoyance is associated with impaired mental health in adults, with the association varying based on the source of environmental noise.
+
+Abstract:The health implications of environmental noise, especially cardiovascular effects, have been studied intensively. Research on associations between noise and mental health, however, has shown contradictory results. The present study examined associations between individual levels of noise annoyance due to noise from various sources in the living environment and mental health of adults in Germany. It evaluated whether these associations persisted after adjusting for potential covariates. Data were obtained from the cross-sectional “German Health Update” study 2012 (GEDA 2012), a national health interview survey among adults in Germany conducted by the Robert Koch Institute (n = 19,294). Noise annoyance questions referred to overall noise and that from road traffic, neighbours, and air traffic. Mental health was measured with the five-item Mental Health Inventory. Bivariate analysis showed associations between high levels of noise annoyance and impaired mental health for all noise sources except air traffic. After adjusting for covariates (sociodemographic factors, chronic disease, and social support), both men and women who reported high overall noise annoyance showed more than doubled odds of impaired mental health compared to those who were not annoyed. The odds of impaired mental health in the highest noise annoyance category from road traffic and neighbours were also significantly increased. These findings indicate that high noise annoyance is associated with impaired mental health and that this association can vary with the source of environmental noise. Further research on covariates of this association is necessary. Particularly, longitudinal data are required to establish the direction of associations and to address questions of causality.
+
+New determinants of mental health: the role of noise pollution. A narrative review
+
+Number of 
+
+Key takeaways:Noise pollution, including road, rail, and air traffic, is a risk factor for the emergence of affective disorders, potentially affecting psychological well-being and quality of life.
+
+Abstract:Abstract Urbanisation processes and anthropogenic actions led to a significant increase in pollution levels, with relevant consequences on global health. In particular, noise pollution demonstrated an association with cardiovascular, metabolic, and respiratory diseases. Furthermore, increasing evidence underlined the possible role of air and noise pollution in the development of psychiatric disorders. In this narrative review, evidence concerning the relationship between noise pollution and the emergence of psychiatric symptoms or psychiatric disorders is summarised. After the literature search process was completed, 40 papers were included in the present review. The exposure to road-, rail-, and air- traffic represented a risk factor for the emergence of affective disorders. This could also be mediated by the occurrence of circadian rhythms disturbances or by noise annoyance and noise sensitivity, both influencing psychological well-being and health-related quality of life. Fewer studies concentrated on special populations, particularly pregnant women and children, for whom noise pollution was confirmed as a risk factor for psychopathology. The better clarification of the complex interaction between noise pollution and mental health may help to identify subjects at risk and targeting specific prevention and intervention strategies in the urban environment.
+
+Negative Impact of Noise and Noise Sensitivity on Mental Health in Childhood
+
+Number of 
+
+Key takeaways:Noise and noise sensitivity negatively impact the mental health of children and adolescents, particularly in low-income groups.
+
+Abstract:Introduction: Noise and noise sensitivity have negative effects on mental health and are not well-studied in children and adolescents. In this study, we investigated these effects in the aforementioned population with respect to sociodemographic variables and environmental factors. Materials and Methods: In this population-based study conducted in two large cities in South Korea, 918 elementary and middle-school students were included. After direct measurements at the selected sites, a noise map was created using an interpolation method. The road traffic noise of the participants’ residential areas was calculated based on this noise map. Noise sensitivity was assessed on an 11-point Likert scale. Using multivariate logistic regression, we investigated the relationship among noise, noise sensitivity, and the Child Behavior Checklist. Further analyses were performed subdividing the data according to household income levels. Results: Noise sensitivity was significantly associated with internalizing, externalizing, and total behavioral problems. Noise was positively associated with total behavioral problems. In the low-income group, the degree of association with problem behaviors was higher, whereas the relationship between noise sensitivity and externalization problems disappeared in the high-income group. Conclusion: Noise and noise sensitivity are negatively associated with the mental health of children and adolescents, particularly in low-income groups. The findings of this study suggest that noise sensitivity and socioeconomic status should be considered in coping with negative effects of noise in children and adolescents.
+
+Associations of combined exposures to surrounding green, air pollution and traffic noise on mental health.
+
+Number of 
+
+Key takeaways:Combined exposure to air pollution, traffic noise, and decreased surrounding green is associated with poor mental health, with associations differing by age.
+
+Health Effects of Noise Exposure in Children
+
+Number of 
+
+Key takeaways:Environmental noise exposure in children can lead to annoyance, lower well-being, stress responses, and potentially affect cognitive skills, well-being, and academic test scores.
+
+Abstract:Environmental noise exposure, such as road traffic noise and aircraft noise, is associated with a range of health outcomes in children. Children demonstrate annoyance responses to noise, and noise is also related to lower well-being and stress responses, such as increased levels of adrenaline and noradrenaline. Noise does not cause more serious mental health problems, but there is growing evidence for an association with increased hyperactivity symptoms. Studies also suggest that noise might cause changes in cardiovascular functioning, and there is some limited evidence for an effect on low birth weight. There is robust evidence for an effect of school noise exposure on children’s cognitive skills such as reading and memory, as well as on standardised academic test scores. Environmental noise does not usually reach levels that are likely to affect children’s hearing; however, increasing use of personal electronic devices may leave some children exposed to harmful levels of noise.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

@@ -1,0 +1,588 @@
+PROTOCOL: Caloric restriction (~10%)
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Abstract:Purpose of ReviewCalorie restriction (CR) has emerged as a non-pharmacological treatment to prevent cardiovascular disease (CVD). This article reviews recent progress regarding the role of CR in CVD prevention via reduction of cardiometabolic risk factors and promoting atherosclerotic stability.Recent FindingsCalorie restriction may be an approach to reduce the development of atherosclerosis. CR promotes eNOS activity and SIRT1 expression which in turn improves vasodilation resulting in greater regulation of blood pressure and blood flow. Modest CR in nonobese young and middle-aged adults results in improved cardiometabolic risk profile.SummaryThe evidence for CR in CVD prevention has accumulated in the recent years. Most evidence, however, is from rodent or small human trials. Our understanding of the magnitude of calorie reduction that leads to the long-term therapeutic effects on cardiovascular health is limited. More well-designed controlled trials conducted in diverse populations with larger sample sizes and longer follow-ups are warranted.
+DESCRIPTION: Caloric restriction involves a moderate reduction in calorie intake (about 20–25%) while maintaining complete nutrition. It shows beneficial effects on metabolic and cardiovascular risk factors such as blood pressure, lipid profile, and body composition. Additionally, it may support cellular repair processes and reduce inflammation, promoting a longer healthy lifespan.
+
+CONTENT SECTIONS:
+
+Caloric restriction (~10%)
+
+Metabolic Support and Prevention
+
+Caloric restriction involves a moderate reduction in calorie intake (about 20–25%) while maintaining complete nutrition. It shows beneficial effects on metabolic and cardiovascular risk factors such as blood pressure, lipid profile, and body composition. Additionally, it may support cellular repair processes and reduce inflammation, promoting a longer healthy lifespan.
+
+Level of evidence:Good
+
+Calorie restriction induces metabolic adaptation by activating AMPK and reducing mTOR signaling, which inhibits cell proliferation and supports autophagy. Increased SIRT1 expression improves endothelial function and blood pressure regulation, while lowering insulin and IGF-1 levels reduces cell growth stimulation. Furthermore, CR reduces oxidative stress and inflammation, helping to protect tissues from damage and aging processes.
+
+Caloric restriction is generally well tolerated but may cause mild to moderate side effects associated with energy deficit.
+
+Caloric restriction is not recommended in certain groups due to the risk of malnutrition or health deterioration.
+
+20–25% reduction of daily calorie intake compared to requirements
+
+Balanced diet with energy deficit, rich in protein and micronutrients
+
+First effects visible after 2–4 weeks; full adaptation after 3–6 months
+
+Regular meals at fixed times, avoiding late snacks
+
+Regular monitoring of body weight, body composition, and biochemical parameters
+
+Gradual Introduction of Deficit
+
+Reduce calories by 5–10% per week to facilitate adaptation and maintain motivation
+
+Ensure Adequate Protein Intake
+
+Use 1.2–1.6 g of protein per kg of body weight to protect muscle mass
+
+Include Strength Training
+
+Resistance exercises 2–3 times a week help maintain lean body mass
+
+Supplement Micronutrients
+
+Use multivitamin and mineral supplements, especially D, B12, and iron
+
+Monitor Health Status
+
+Perform blood tests and body composition assessments every 3–6 months to adjust CR
+
+Cardiovascular system
+
+Calorie restriction supports the cardiovascular system by improving risk factors for heart disease, such as blood pressure, lipid profile, body weight, and inflammation.
+
+Key Benefits of CR for the Cardiovascular System
+
+Limitations and Notes
+
+Calorie restriction leads to weight loss, fat reduction, and improved lean body mass proportion, especially when combined with physical activity.
+
+Reduction of Body Weight and Fat Mass
+
+Comparison of Restriction Strategies
+
+Role of Physical Activity
+
+Caloric restriction may reduce the risk of cancer development by positively affecting metabolism, hormones, and inflammatory processes.
+
+Mechanisms of CR in Cancer Prevention
+
+Evidence from Studies
+
+Limitations and Challenges
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:55
+
+Final comment:Most of the effects of caloric restriction—especially in the area of body composition and cardiometabolic factors—are confirmed by numerous randomized controlled trials (including multicenter phase 2 RCTs) and meta-analyses in humans. Long-term clinical studies (e.g., CALERIE-2) and systematic reviews provide reliable data on the benefits, although in the area of cancer prevention, human studies remain mostly preliminary.
+
+The Role of Calorie Restriction in the Prevention of Cardiovascular Disease
+
+Number of 
+
+Key takeaways:Caloric restriction may help prevent cardiovascular disease by reducing atherosclerosis and improving cardiometabolic risk profile in nonobese young and middle-aged adults.
+
+Abstract:Purpose of ReviewCalorie restriction (CR) has emerged as a non-pharmacological treatment to prevent cardiovascular disease (CVD). This article reviews recent progress regarding the role of CR in CVD prevention via reduction of cardiometabolic risk factors and promoting atherosclerotic stability.Recent FindingsCalorie restriction may be an approach to reduce the development of atherosclerosis. CR promotes eNOS activity and SIRT1 expression which in turn improves vasodilation resulting in greater regulation of blood pressure and blood flow. Modest CR in nonobese young and middle-aged adults results in improved cardiometabolic risk profile.SummaryThe evidence for CR in CVD prevention has accumulated in the recent years. Most evidence, however, is from rodent or small human trials. Our understanding of the magnitude of calorie reduction that leads to the long-term therapeutic effects on cardiovascular health is limited. More well-designed controlled trials conducted in diverse populations with larger sample sizes and longer follow-ups are warranted.
+
+The effect of caloric restriction on blood pressure and cardiovascular function: A systematic review and meta-analysis of randomized controlled trials.
+
+Number of 
+
+Key takeaways:Caloric restriction for up to six months can lower blood pressure and improve cardiovascular risk, with effects similar to medications and larger than other lifestyle interventions or supplements.
+
+Significant improvement in cardiometabolic health in healthy nonobese individuals during caloric restriction-induced weight loss and weight loss maintenance.
+
+Number of 
+
+Key takeaways:Sustained caloric restriction in healthy, nonobese individuals improves cardiovascular and metabolic risk factors, but insulin sensitivity improvements are only temporary.
+
+Abstract:Calorie restriction (CR) triggers benefits for healthspan including decreased risk of cardiometabolic disease (CVD). In an ancillary study to CALERIE 2, a 24-mo 25% CR study, we assessed the cardiometabolic effects of CR in 53 healthy, nonobese (BMI: 22-28 kg/m2) men ( n = 17) and women ( n = 36). The aim of this study was to investigate whether CR can reduce risk factors for CVD and insulin resistance in nonobese humans and, moreover, to assess whether improvements are exclusive to a period of weight loss or continue during weight maintenance. According to the energy balance method, the 25% CR intervention ( n = 34) produced 16.5 ± 1.5% (mean ± SE) and 14.8 ± 1.5% CR after 12 and 24 mo (M12, M24), resulting in significant weight loss (M12 -9 ± 0.5 kg, M24 -9 ± 0.5 kg, P < 0.001). Weight was maintained in the group that continued their habitual diet ad libitum (AL, n = 19). In comparison to AL, 24 mo of CR decreased visceral (-0.5 ± 0.01 kg, P < 0.0001) and subcutaneous abdominal adipose tissue (-1.9 ± 0.2kg, P < 0.001) as well as intramyocellular lipid content (-0.11 ± 0.05%, P = 0.031). Furthermore, CR decreased blood pressure (SBP -8 ± 3 mmHg, P = 0.005; DBP -6 ± 2 mmHg, P < 0.001), total cholesterol (-13.6 ± 5.3 mg/dl, P = 0.001), and LDL-cholesterol (-12.9 ± 4.4 mg/dl, P = 0.005), and the 10-yr risk of CVD-disease was reduced by 30%. Homeostasis model assessment of insulin resistance (HOMA-IR) decreased during weight loss in the CR group (-0.46 ± 0.15, P = 0.003), but this decrease was not maintained during weight maintenance (-0.11 ± 0.15, P = 0.458). In conclusion, sustained CR in healthy, nonobese individuals is beneficial in improving risk factors for cardiovascular and metabolic disease such as visceral adipose tissue mass, ectopic lipid accumulation, blood pressure, and lipid profile, whereas improvements in insulin sensitivity were only transient.
+
+Effects of calorie restriction on cardioprotection and cardiovascular health.
+
+Number of 
+
+Key takeaways:Caloric restriction reduces age-associated changes in the heart and major vessels, but does not increase tolerance to ischemic damage.
+
+Effects of matched weight loss from calorie restriction, exercise, or both on cardiovascular disease risk factors: a randomized intervention trial.
+
+Number of 
+
+Key takeaways:Weight loss from calorie restriction and exercise combined significantly improves cardiovascular disease risk factors, but the effects are not additive when weight loss is matched.
+
+Abstract:BACKGROUND
+Weight loss from calorie restriction (CR) and/or endurance exercise training (EX) is cardioprotective. However CR and EX also have weight loss-independent benefits.
+
+OBJECTIVE
+We tested the hypothesis that weight loss from calorie restriction and exercise combined (CREX) improves cardiovascular disease (CVD) risk factors more so than similar weight loss from CR or EX alone.
+
+DESIGN
+Overweight, sedentary men and women (n = 52; aged 45-65 y) were randomly assigned to undergo 6-8% weight loss by using CR, EX, or CREX. Outcomes were measured before and after weight loss and included maximal oxygen consumption (VO2max), resting blood pressure, fasting plasma lipids, glucose, C-reactive protein, and arterial stiffness . Values are means ± SEs.
+
+RESULTS
+Reductions in body weight (∼7%) were similar in all groups. VO2max changed in proportion to the amount of exercise performed (CR, -1% ± 3%; EX, +22% ± 3%; and CREX, +11% ± 3%). None of the changes in CVD risk factors differed between groups. For all groups combined, decreases were observed for systolic and diastolic blood pressure (-5 ± 1 and -4 ± 1 mm Hg, respectively; both P < 0.0008), total cholesterol (-17 ± 4 mg/dL; P < 0.0001), non-HDL cholesterol (-16 ± 3 mg/dL; P < 0.0001), triglycerides (-18 ± 8 mg/dL; P = 0.03), and glucose (-3 ± 1 mg/dL; P = 0.0003). No changes were observed for HDL cholesterol (P = 0.30), C-reactive protein (P = 0.10), PWV (P = 0.30), or AI (P = 0.84). These changes would be expected to decrease the lifetime risk of CVD from 46% to 36%.
+
+CONCLUSION
+Matched weight losses from CR, EX, and CREX have substantial beneficial effects on CVD risk factors. However, the effects are not additive when weight loss is matched. This trial was registered at clinicaltrials.gov as NCT00777621.
+
+Caloric restriction: powerful protection for the aging heart and vasculature.
+
+Number of 
+
+Key takeaways:Caloric restriction has numerous beneficial effects on the aging cardiovascular system, including protection against age-related changes in the heart and vasculature, and improved cardiometabolic risk factors.
+
+Abstract:Cardiovascular disease (CVD) is the leading cause of morbidity and mortality in the United States. Research has shown that the majority of the cardiometabolic alterations associated with an increased risk of CVD (e.g., insulin resistance/type 2 diabetes, abdominal obesity, dyslipidemia, hypertension, and inflammation) can be prevented, and even reversed, with the implementation of healthier diets and regular exercise. Data from animal and human studies indicate that more drastic interventions, i.e., calorie restriction with adequate nutrition (CR), may have additional beneficial effects on several metabolic and molecular factors that are modulating cardiovascular aging itself (e.g., cardiac and arterial stiffness and heart rate variability). The purpose of this article is to review the current knowledge on the effects of CR on the aging of the cardiovascular system and CVD risk in rodents, monkeys, and humans. Taken together, research shows that CR has numerous beneficial effects on the aging cardiovascular system, some of which are likely related to reductions in inflammation and oxidative stress. In the vasculature, CR appears to protect against endothelial dysfunction and arterial stiffness and attenuates atherogenesis by improving several cardiometabolic risk factors. In the heart, CR attenuates age-related changes in the myocardium (i.e., CR protects against fibrosis, reduces cardiomyocyte apoptosis, prevents myosin isoform shifts, etc.) and preserves or improves left ventricular diastolic function. These effects, in combination with other benefits of CR, such as protection against obesity, diabetes, hypertension, and cancer, suggest that CR may have a major beneficial effect on health span, life span, and quality of life in humans.
+
+Calorie restriction anti-hypertrophic effects are associated with improved mitochondrial content, blockage of Ca2+-induced mitochondrial damage, and lower reverse electron transport-mediated oxidative stress
+
+Number of 
+
+Key takeaways:Caloric restriction protects against cardiac hypertrophy by preventing protein elevation, avoiding gene reprogramming, and maintaining antioxidant enzymes and glutathione levels.
+
+Abstract:Abstract Calorie restriction is a nutritional intervention that reproducibly protects against the maladaptive consequences of cardiovascular diseases. Pathological cardiac hypertrophy leads to cellular growth, dysfunction (with mitochondrial dysregulation), and oxidative stress. The mechanisms behind the cardiovascular protective effects of calorie restriction are still under investigation. In this study, we show that this dietetic intervention prevents cardiac protein elevation, avoids fetal gene reprogramming (atrial natriuretic peptide), and blocks the increase in heart weight per tibia length index (HW/TL) seen in isoproterenol-induced cardiac hypertrophy. Our findings suggest that calorie restriction inhibits cardiac pathological growth while also lowering mitochondrial reverse electron transport-induced hydrogen peroxide formation and improving mitochondrial content. Calorie restriction also attenuated the opening of the Ca2+-induced mitochondrial permeability transition pore. We also found that calorie restriction blocked the negative correlation of antioxidant enzymes (superoxide dimutase and glutatione peroxidase activity) and HW/TL, leading to the maintenance of protein sulphydryls and glutathione levels. Given the nature of isoproterenol-induced cardiac hypertrophy, we investigated whether calorie restriction could alter cardiac beta-adrenergic sensitivity. Using isolated rat hearts in a Langendorff system, we found that calorie restricted hearts have preserved beta-adrenergic signaling. In contrast, hypertrophic hearts (treated for seven days with isoproterenol) were insensitive to beta-adrenergic activation using isoproterenol (50 nM). Despite protecting against cardiac hypertrophy, calorie restriction did not alter the lack of responsiveness to isoproterenol in isolated hearts harvested from isoproterenol-treated rats. These results suggest (through a series of mitochondrial, oxidative stress, and cardiac hemodynamic studies) that calorie restriction possesses beneficial effects against hypertrophic cardiomyopathy.
+
+2 years of calorie restriction and cardiometabolic risk (CALERIE): exploratory outcomes of a multicentre, phase 2, randomised controlled trial.
+
+Number of 
+
+Key takeaways:Two years of moderate calorie restriction significantly reduced multiple cardiometabolic risk factors in young, non-obese adults, suggesting potential cardiovascular health benefits.
+
+Caloric Restriction and Cardiovascular Health: the Good, the Bad, and the Renin-Angiotensin System.
+
+Number of 
+
+Key takeaways:Caloric restriction has both positive and negative impacts on cardiovascular health, with a focus on the renin-angiotensin system.
+
+Abstract:Much excitement exists over the cardioprotective and life-extending effects of caloric restriction (CR). This review integrates population studies with experimental animal research to address the positive and negative impact of mild and severe CR on cardiovascular physiology and pathophysiology, with a particular focus on the renin-angiotensin system (RAS). We also highlight the gaps in knowledge and areas ripe for future physiological research.
+
+Caloric Restriction: IMPLICATIONS FOR HUMAN CARDIOMETABOLIC HEALTH
+
+Number of 
+
+Key takeaways:Modest calorie restriction in a combined lifestyle program is likely to improve heart health and prevent cardiovascular events in overweight and obese individuals.
+
+Abstract:PURPOSE: While the impact of caloric restriction on human health is not fully understood, there is strong evidence to support further studies of its influence on cardiovascular health. The purpose of this review was to update the state of the science by examining the relevant literature regarding calorie-restriction effects on aging and cardiovascular health and to discuss the possible role(s) of calorie restriction in preserving cardiovascular function in humans. METHODS: For purpose of this review, we have defined calorie restriction as a reduction in energy intake well below the amount of calories that would be consumed ad libitum (≥10% in humans, ≥20% in animals). We examined the relevant literature on calorie-restriction effects on longevity and cardiovascular health, with an emphasis on the state of the science regarding calorie restriction in humans. We have emphasized the importance of the preliminary and expected findings from the Comprehensive Assessment of the Long-term Effect of Reducing Intake of Energy trial. RESULTS: Evidence from animal studies and a limited number of human trials indicates that calorie restriction has the potential to both delay cardiac aging and help prevent atherosclerotic cardiovascular disease via beneficial effects on blood pressure, lipids, inflammatory processes, and potentially other mechanisms. CONCLUSIONS: On the basis of its known benefits to cardiometabolic health, including modest calorie restriction in a combined lifestyle program is likely to improve heart health and prevent subsequent cardiovascular events in overweight and obese individuals. Additional study is needed to further illuminate its long-term applicability for older adults and for those with significant comorbidities, such as heart failure.
+
+Opposing effects on cardiac function by calorie restriction in different‐aged mice
+
+Number of 
+
+Key takeaways:Caloric restriction (40%) can protect the heart in middle or old age, but accelerates aging in young mice, potentially impacting practical nutritional regimens.
+
+Abstract:Calorie restriction (CR) increases average and maximum lifespan and exhibits an apparent beneficial impact on age‐related diseases. Several studies have shown that CR initiated either in middle or old age could improve ischemic tolerance and rejuvenate the aging heart; however, the data are not uniform when initiated in young. The accurate time to initiate CR providing maximum benefits for cardiac remodeling and function during aging remains unclear. Thus, whether a similar degree of CR initiated in mice of different ages could exert a similar effect on myocardial protection was investigated in this study. C57BL/6 mice were subjected to a calorically restricted diet (40% less than the ad libitum diet) for 3 months initiated in 3, 12, and 19 months. It was found that CR significantly reversed the aging phenotypes of middle‐aged and old mice including cardiac remodeling (cardiomyocyte hypertrophy and cardiac fibrosis), inflammation, mitochondrial damage, telomere shortening, as well as senescence‐associated markers but accelerated in young mice. Furthermore, whole‐genome microarray demonstrated that the AMP‐activated protein kinase (AMPK)–Forkhead box subgroup ‘O’ (FOXO) pathway might be a major contributor to contrasting regulation by CR initiated in different ages; thus, increased autophagy was seen in middle‐aged and old mice but decreased in young mice. Together, the findings demonstrated promising myocardial protection by 40% CR should be initiated in middle or old age that may have vital implications for the practical nutritional regimen.
+
+Caloric restriction, Sirtuins, and cardiovascular diseases
+
+Number of 
+
+Key takeaways:Caloric restriction may protect cardiovascular health by modulating Sirtuin activity, offering new insights for developing interventions to prevent and treat cardiovascular diseases.
+
+Abstract:Abstract Caloric restriction (CR) is a well-established dietary intervention known to extend healthy lifespan and exert positive effects on aging-related diseases, including cardiovascular conditions. Sirtuins, a family of nicotinamide adenine dinucleotide (NAD+)-dependent histone deacetylases, have emerged as key regulators of cellular metabolism, stress responses, and the aging process, serving as energy status sensors in response to CR. However, the mechanism through which CR regulates Sirtuin function to ameliorate cardiovascular disease remains unclear. This review not only provided an overview of recent research investigating the interplay between Sirtuins and CR, specifically focusing on their potential implications for cardiovascular health, but also provided a comprehensive summary of the benefits of CR for the cardiovascular system mediated directly via Sirtuins. CR has also been shown to have considerable impact on specific metabolic organs, leading to the production of small molecules that enter systemic circulation and subsequently regulate Sirtuin activity within the cardiovascular system. The direct and indirect effects of CR offer a potential mechanism for Sirtuin modulation and subsequent cardiovascular protection. Understanding the interplay between CR and Sirtuins will provide new insights for the development of interventions to prevent and treat cardiovascular diseases.
+
+Calorie restriction and resveratrol in cardiovascular health and disease.
+
+Number of 
+
+Key takeaways:Caloric restriction and resveratrol both improve cardiovascular health by reducing oxidative stress and increasing nitric oxide production, but their effectiveness in treating cardiovascular disease in humans remains unclear.
+
+Cardioprotective effects of calorie restriction against inflammation and apoptosis in ovariectomized obese rats: Role of classical estrogen receptors and SIRT1.
+
+Number of 
+
+Key takeaways:Caloric restriction can reduce obesity-induced cardiac inflammation and apoptosis, potentially offering cardioprotection in postmenopausal conditions.
+
+Caloric restriction alone and with exercise improves CVD risk in healthy non-obese individuals.
+
+Number of 
+
+Key takeaways:Caloric restriction with or without exercise, leading to weight loss, significantly reduces cardiovascular disease risk in healthy non-obese individuals.
+
+Pharmacological Strategies to Retard Cardiovascular Aging.
+
+Number of 
+
+Key takeaways:Caloric restriction mimetics and other pharmacological interventions show potential in preventing age-related cardiovascular diseases by supporting cardiovascular health.
+
+Abstract:Aging is the major risk factor for cardiovascular diseases, which are the leading cause of death in the United States. Traditionally, the effort to prevent cardiovascular disease has been focused on addressing the conventional risk factors, including hypertension, hyperglycemia, hypercholesterolemia, and high circulating levels of triglycerides. However, recent preclinical studies have identified new approaches to combat cardiovascular disease. Calorie restriction has been reproducibly shown to prolong lifespan in various experimental model animals. This has led to the development of calorie restriction mimetics and other pharmacological interventions capable to delay age-related diseases. In this review, we will address the mechanistic effects of aging per se on the cardiovascular system and focus on the prolongevity benefits of various therapeutic strategies that support cardiovascular health.
+
+Moderate calorie restriction attenuates age‑associated alterations and improves cardiac function by increasing SIRT1 and SIRT3 expression.
+
+Number of 
+
+Key takeaways:Moderate calorie restriction (25%) improves cardiac function and reduces age-related alterations in rats, with SIRT1 and SIRT3 playing a role in these effects.
+
+Abstract:Calorie restriction (CR) extends the lifespan of mammals and improves cardiac function by attenuation of age‑associated alterations. Sirtuins (SIRT) are involved in these mechanisms, however, the extent to which CR affects cardiac function and sirtuin expression remains unknown. Therefore, the present study aimed to determine to what extent CR affects cardiac function and sirtuin expression. A total of 60 female Sprague‑Dawley rats were randomly divided into four groups, including normal control (NC), 25% calorie restriction (25% CR), 45% calorie restriction (45% CR) and high‑fat diet (HF). The groups were maintained on these specific regimens for 2 months. CR rats were observed to have significantly lower body weight, heart weight, and left ventricle mass index compared with NC and HF rats. Visceral fat, triglyceride, and low density lipoprotein levels were significantly decreased in CR rats. Compared with the 25% CR group, the 45% CR group heart function decreased. The heart rate, left ventricular systolic pressure, +dp/dt and ‑dp/dt of the 45% CR rats decreased, whereas the left ventricular end‑diastolic pressure increased. To explore the molecular mechanism of CR on cardiac function, immunoblotting was used to detect the protein expression of SIRT1 and SIRT3. The 25% CR diet increased the expression of SIRT1 and SIRT3 in myocardium, whereas the 45% CR and HF diets resulted in a decrease in SIRT1 and SIRT3 expression. Moderate calorie restriction (25% CR) improves cardiac function by attenuation of age‑associated alterations in rats. SIRT1 and SIRT3 are associated with these effects.
+
+Calorie restriction in humans: An update
+
+Number of 
+
+Key takeaways:Caloric restriction in non-obese humans can improve health and reduce metabolic risk factors for age-associated diseases, such as type 2 diabetes, cardiovascular diseases, and cancer.
+
+Calorie restriction as an intervention in ageing
+
+Number of 
+
+Key takeaways:Caloric restriction prevents age-associated diseases and extends longevity by improving multiple metabolic pathways and modulating mitochondrial activity, reducing oxidative damage, and promoting anti-inflammatory effects.
+
+Abstract:Ageing causes loss of function in tissues and organs, is accompanied by a chronic inflammatory process and affects life‐ and healthspan. Calorie restriction (CR) is a non‐genetic intervention that prevents age‐associated diseases and extends longevity in most of the animal models studied so far. CR produces a pleiotropic effect and improves multiple metabolic pathways, generating benefits to the whole organism. Among the effects of CR, modulation of mitochondrial activity and a decrease in oxidative damage are two of the hallmarks. Oxidative damage is reduced by the induction of endogenous antioxidant systems and modulation of the peroxidability index in cell membranes. Mitochondrial activity changes are regulated by inhibition of IGF‐1 and Target of Rapamycin (TOR)‐dependent activities and activation of AMP‐dependent kinase (AMPK) and the sirtuin family of proteins. The activity of PGC‐1α and FoxO is regulated by these systems and is involved in mitochondria biogenesis, oxidative metabolism activity and mitochondrial turnover. The use of mimetics and the regulation of common factors have demonstrated that these molecular pathways are essential to explain the effect of CR in the organism. Finally, the anti‐inflammatory effect of CR is an interesting emerging factor to be taken into consideration. In the present revision we focus on the general effect of CR and other mimetics in longevity, focusing especially on the cardiovascular system and skeletal muscle.
+
+Impact of calorie restriction on energy metabolism in humans
+
+Number of 
+
+Key takeaways:Caloric restriction supports metabolic health by reducing energy expenditure larger than weight loss, reducing oxidative damage, and delaying age-associated declines in physiological function.
+
+Body-composition changes in the Comprehensive Assessment of Long-term Effects of Reducing Intake of Energy (CALERIE)-2 study: a 2-y randomized controlled trial of calorie restriction in nonobese humans.
+
+Number of 
+
+Key takeaways:Two years of calorie restriction in nonobese adults led to favorable effects on body composition, potentially facilitating health span and preserving fat-free mass.
+
+Abstract:Background: Calorie restriction (CR) retards aging and increases longevity in many animal models. However, it is unclear whether CR can be implemented in humans without adverse effects on body composition.Objective: We evaluated the effect of a 2-y CR regimen on body composition including the influence of sex and body mass index (BMI; in kg/m2) among participants enrolled in CALERIE-2 (Comprehensive Assessment of Long-term Effects of Reducing Intake of Energy), a multicenter, randomized controlled trial.Design: Participants were 218 nonobese (BMI: 21.9-28.0) adults aged 21-51 y who were randomly assigned to 25% CR (CR, n = 143) or ad libitum control (AL, n = 75) in a 2:1 ratio. Measures at baseline and 12 and 24 mo included body weight, waist circumference, fat mass (FM), fat-free mass (FFM), and appendicular mass by dual-energy X-ray absorptiometry; activity-related energy expenditure (AREE) by doubly labeled water; and dietary protein intake by self-report. Values are expressed as means ± SDs.Results: The CR group achieved 11.9% ± 0.7% CR over 2-y and had significant decreases in weight (-7.6 ± 0.3 compared with 0.4 ± 0.5 kg), waist circumference (-6.2 ± 0.4 compared with 0.9 ± 0.5 cm), FM (-5.4 ± 0.3 compared with 0.5 ± 0.4 kg), and FFM (-2.0 ± 0.2 compared with -0.0 ± 0.2 kg) at 24 mo relative to the AL group (all between-group P < 0.001). Moreover, FFM as a percentage of body weight at 24 mo was higher, and percentage of FM was lower in the CR group than in the AL. AREE, but not protein intake, predicted preservation of FFM during CR (P < 0.01). Men in the CR group lost significantly more trunk fat (P = 0.03) and FFM expressed as a percentage of weight loss (P < 0.001) than women in the CR group.Conclusions: Two years of CR had broadly favorable effects on both whole-body and regional adiposity that could facilitate health span in humans. The decrements in FFM were commensurate with the reduced body mass; although men in the CR group lost more FFM than the women did, the percentage of FFM in the men in the CR group was higher than at baseline. CALERIE was registered at clinicaltrials.gov as NCT00427193.
+
+Calorie restriction in mice: effects on body composition, daily activity, metabolic rate, mitochondrial reactive oxygen species production, and membrane fatty acid composition.
+
+Number of 
+
+Key takeaways:Caloric restriction in mice leads to increased lean and total body mass, but no reduction in daily activity or metabolic rate, and no significant effect on mitochondrial reactive oxygen species production.
+
+Abstract:Different levels of calorie restriction (CR) (125, 85, 50, or 40 kcal/wk for 1, 3, and 6 months) were examined in mice by using the paradigm of Weindruch and colleagues. Lean and total body mass increased on 125 and 85 kcal/wk, but there was negligible growth on low-energy intake. There was no CR-induced reduction in either daily activity or mass-specific metabolic rate. There was no CR-effect on in vitro reactive oxygen species production by liver or muscle mitochondria at 3 months, but after 6 months the effect was significantly reduced in liver mitochondria from 40 kcal/wk mice compared to 125 kcal/wk mice. Changes in the fatty acid composition of phospholipids from liver, kidneys, heart, brain, and skeletal muscle were observed following 1 month of CR.
+
+Effect of calorie restriction with or without exercise on body composition and fat distribution.
+
+Number of 
+
+Key takeaways:Caloric restriction combined with exercise leads to a similar energy deficit and improved body composition, but also improves aerobic fitness.
+
+Abstract:CONTEXT
+There is debate over the independent and combined effects of dieting and increased physical activity on improving metabolic risk factors (body composition and fat distribution).
+
+OBJECTIVE
+The objective of the study was to conduct a randomized, controlled trial (CALERIE) to test the effect of a 25% energy deficit by diet alone or diet plus exercise for 6 months on body composition and fat distribution.
+
+DESIGN
+This was a randomized, controlled trial.
+
+SETTING
+The study was conducted at an institutional research center.
+
+PARTICIPANTS
+Thirty-five of 36 overweight but otherwise healthy participants (16 males, 19 females) completed the study.
+
+INTERVENTION
+Participants were randomized to either control (healthy weight maintenance diet, n = 11), caloric restriction (CR; 25% reduction in energy intake, n = 12), or caloric restriction plus exercise (CR+EX; 12.5% reduction in energy intake + 12.5% increase in exercise energy expenditure, n = 12) for 6 months.
+
+MAIN OUTCOME MEASURES
+Changes in body composition by dual-energy x-ray absorptiometry and changes in abdominal fat distribution by multislice computed tomography were measured.
+
+RESULTS
+The calculated energy deficit across the intervention was not different between CR and CR+EX. Participants lost approximately 10% of body weight (CR: - 8.3 +/- 0.8, CR+EX: - 8.1 +/- 0.8 kg, P = 1.00), approximately 24% of fat mass (CR: - 5.8 +/- 0.6, CR+EX: - 6.4 +/- 0.6 kg, P = 0.99), and 27% of abdominal visceral fat (CR: 0.9 +/- 0.2, CR+EX: 0.8 +/- 0.2 kg, P = 1.00). Both whole-body and abdominal fat distribution were not altered by the intervention.
+
+CONCLUSION
+Exercise plays an equivalent role to CR in terms of energy balance; however, it can also improve aerobic fitness, which has other important cardiovascular and metabolic implications.
+
+One year of caloric restriction in humans: feasibility and effects on body composition and abdominal adipose tissue.
+
+Number of 
+
+Key takeaways:One year of caloric restriction and exercise were equally effective in reducing weight and abdominal fat in nonobese adults, with caloric restriction being feasible but less than prescribed.
+
+Abstract:BACKGROUND
+Caloric restriction (CR) increases maximal life span in short-lived organisms, and its effects are being explored in nonhuman primates. The objectives of this study were to determine the feasibility of prolonged CR in nonobese adults and to compare the effects of CR- and exercise-induced weight loss on body composition and abdominal adiposity.
+
+METHODS
+A randomized, controlled trial was conducted with 48 healthy, nonobese women and men, aged 57 +/- 1 (mean +/- standard error ) years, with body mass index 27.3 +/- 0.3 kg/m2. Participants were randomly assigned to a 20% calorically-restricted diet (CR, n = 19), exercise designed to produce a similar energy deficit (EX, n = 19), or a healthy lifestyle control group (HL, n = 10) for 1 year. Assessments included weight, body composition by dual-energy x-ray absorptiometry, abdominal adipose tissue by magnetic resonance imaging, and energy intake by doubly labeled water.
+
+RESULTS
+The average level of CR achieved by the CR group was 11.5 +/- 2.1%, and the EX group completed 59 +/- 6.7% of their prescribed exercise. Weight changes were greater (p <or=.0005) in the CR (-8.0 +/- 0.9 kg) and EX (-6.4 +/- 0.9) groups as compared to the HL group (-1.3 +/- 0.9 kg), corresponding to reductions of 10.7%, 8.4%, and 1.7% of baseline weights, respectively. Whole-body fat mass and visceral and subcutaneous abdominal adipose tissue decreased significantly (p <.005) and comparably in the CR and EX groups, but did not change in the HL group.
+
+CONCLUSIONS
+CR for 1 year was feasible, but the level of CR achieved was less than prescribed. CR and exercise were equally effective in reducing weight and adiposity.
+
+Introduction. Symposium: Calorie restriction: effects on body composition, insulin signaling and aging.
+
+Number of 
+
+Key takeaways:Caloric restriction has widespread effects, including reducing recidivism after weight loss and improving metabolic health, but also carries unrecognized consequences and may contribute to aging.
+
+Abstract:At this time of increasing attention to the worldwide problem of obesity and its negative consequences for health and well being, it is timely to present a symposium on the effects of calorie restriction and the potential for calorie restriction mimetic therapies. The present symposium "Calorie Restriction: Effects on Body Composition, Insulin Signaling and Aging" was included in the Experimental Biology 2000 meeting held April 15-18, 2000 in San Diego, California. It is now recognized that calorie restriction carries with it many heretofore unrecognized consequences in addition to the life span-extending properties first described in the 1930s. This symposium addresses some of the current issues in calorie restriction and demonstrates the widespread effects that may underlie recidivism after weight loss, as well as the metabolically positive consequences for health of long-term calorie restraint.
+
+Effects of intermittent and continuous calorie restriction on body weight and metabolism over 50 wk: a randomized controlled trial.
+
+Number of 
+
+Key takeaways:The "5:2 diet" (intermittent calorie restriction) may be equivalent but not superior to continuous calorie restriction for weight reduction and prevention of metabolic diseases.
+
+Abstract:Background
+Although preliminary evidence suggests that intermittent calorie restriction (ICR) exerts stronger effects on metabolic parameters, which may link obesity and major chronic diseases, compared with continuous calorie restriction (CCR), there is a lack of well-powered intervention studies.
+
+Objective
+We conducted a randomized controlled trial to test whether ICR, operationalized as the "5:2 diet," has stronger effects on adipose tissue gene expression, anthropometric and body composition measures, and circulating metabolic biomarkers than CCR and a control regimen.
+
+Design
+One hundred and fifty overweight and obese nonsmokers , aged 35-65 y, were randomly assigned to an ICR group (5 d without energy restriction and 2 d with 75% energy deficit, net weekly energy deficit ∼20%), a CCR group (daily energy deficit ∼20%), or a control group (no advice to restrict energy) and participated in a 12-wk intervention phase, a 12-wk maintenance phase, and a 26-wk follow-up phase.
+
+Results
+Loge relative weight change over the intervention phase was -7.1% ± 0.7% (mean ± SEM) with ICR, -5.2% ± 0.6% with CCR, and -3.3% ± 0.6% with the control regimen (Poverall < 0.001, PICR vs. CCR = 0.053). Despite slightly greater weight loss with ICR than with CCR, there were no significant differences between the groups in the expression of 82 preselected genes in adipose tissue implicated in pathways linking obesity to chronic diseases. At the final follow-up assessment (week 50), weight loss was -5.2% ± 1.2% with ICR, -4.9% ± 1.1% with CCR, and -1.7% ± 0.8% with the control regimen (Poverall = 0.01, PICR vs. CCR = 0.89). These effects were paralleled by proportional changes in visceral and subcutaneous adipose tissue volumes. There were no significant differences between ICR and CCR regarding various circulating metabolic biomarkers.
+
+Conclusion
+Our results on the effects of the "5:2 diet" indicate that ICR may be equivalent but not superior to CCR for weight reduction and prevention of metabolic diseases. This trial was registered at clinicaltrials.gov as NCT02449148.
+
+Effects of Different Exercises Combined with Different Dietary Interventions on Body Composition: A Systematic Review and Network Meta-Analysis
+
+Number of 
+
+Key takeaways:Caloric restriction combined with exercise is the most effective strategy for reducing weight and fat percentage while maintaining lean body mass, while a ketogenic diet combined with exercise is less effective at decreasing fat percentage and preserving lean body mass.
+
+Abstract:Background: Exercise and dietary interventions are essential for maintaining weight and reducing fat accumulation. With the growing popularity of various dietary strategies, evidence suggests that combining exercise with dietary interventions offers greater benefits than either approach alone. Consequently, this combined strategy has become a preferred method for many individuals aiming to maintain health. Calorie restriction, 5/2 intermittent fasting, time-restricted feeding, and the ketogenic diet are among the most popular dietary interventions today. Aerobic exercise, resistance training, and mixed exercise are the most widely practiced forms of physical activity. Exploring the best combinations of these approaches to determine which yields the most effective results is both meaningful and valuable. Despite this trend, a comparative analysis of the effects of different exercise and diet combinations is lacking. This study uses network meta-analysis to evaluate the impact of various combined interventions on body composition and to compare their efficacy. Methods: We systematically reviewed literature from database inception through May 2024, searching PubMed, Web of Science, Embase, and the Cochrane Library. The study was registered in PROSPERO under the title: “Effects of Exercise Combined with Different Dietary Interventions on Body Composition: A Systematic Review and Network Meta-Analysis” (identifier: CRD42024542184). Studies were meticulously selected based on specific inclusion and exclusion criteria (The included studies must be randomized controlled trials involving healthy adults aged 18 to 65 years. Articles were rigorously screened according to the specified inclusion and exclusion criteria.), and their risk of bias was assessed using the Cochrane risk of bias tool. Data were aggregated and analyzed using network meta-analysis, with intervention efficacy ranked by Surface Under the Cumulative Ranking (SUCRA) curves. Results: The network meta-analysis included 78 randomized controlled trials with 5219 participants, comparing the effects of four combined interventions: exercise with calorie restriction (CR+EX), exercise with time-restricted eating (TRF+EX), exercise with 5/2 intermittent fasting (5/2F+EX), and exercise with a ketogenic diet (KD+EX) on body composition. Intervention efficacy ranking was as follows: (1) Weight Reduction: CR+EX > KD+EX > TRF+EX > 5/2F+EX (Relative to CR+EX, the effect sizes of 5/2F+EX, TRF+EX and KD+EX are 2.94 (−3.64, 9.52); 2.37 (−0.40, 5.15); 1.80 (−1.75, 5.34)). (2) BMI: CR+EX > KD+EX > 5/2F+EX > TRF+EX (Relative to CR+EX, the effect sizes of 5/2F+EX, TRF+EX and KD+EX are 1.95 (−0.49, 4.39); 2.20 (1.08, 3.32); 1.23 (−0.26, 2.71)). (3) Body Fat Percentage: CR+EX > 5/2F+EX > TRF+EX > KD+EX (Relative to CR+EX, the effect sizes of 5/2F+EX, TRF+EX and KD+EX are 2.66 (−1.56, 6.89); 2.84 (0.56, 5.13); 3.14 (0.52, 5.75).). (4) Lean Body Mass in Male: CR+EX > TRF+EX > KD+EX (Relative to CR+EX, the effect sizes of TRF+EX and KD+EX are −1.60 (−6.98, 3.78); −2.76 (−7.93, 2.40)). (5) Lean Body Mass in Female: TRF+EX > CR+EX > 5/2F+EX > KD+EX (Relative to TRF+EX, the effect sizes of CR+EX, 5/2F+EX and KD+EX are −0.52 (−2.58, 1.55); −1.83 (−4.71, 1.04); −2.46 (−5.69,0.76).). Conclusion: Calorie restriction combined with exercise emerged as the most effective strategy for reducing weight and fat percentage while maintaining lean body mass. For women, combining exercise with time-restricted eating proved optimal for preserving muscle mass. While combining exercise with a ketogenic diet effectively reduces weight, it is comparatively less effective at decreasing fat percentage and preserving lean body mass. Hence, the ketogenic diet combined with exercise is considered suboptimal.
+
+International society of sports nutrition position stand: diets and body composition
+
+Number of 
+
+Key takeaways:Dietary protein intake above current recommendations may improve body composition, with intermittent caloric restriction showing no significant advantage over daily caloric restriction for weight management.
+
+Abstract:Position Statement: The International Society of Sports Nutrition (ISSN) bases the following position stand on a critical analysis of the literature regarding the effects of diet types (macronutrient composition; eating styles) and their influence on body composition. The ISSN has concluded the following. 1) There is a multitude of diet types and eating styles, whereby numerous subtypes fall under each major dietary archetype. 2) All body composition assessment methods have strengths and limitations. 3) Diets primarily focused on fat loss are driven by a sustained caloric deficit. The higher the baseline body fat level, the more aggressively the caloric deficit may be imposed. Slower rates of weight loss can better preserve lean mass (LM) in leaner subjects. 4) Diets focused primarily on accruing LM are driven by a sustained caloric surplus to facilitate anabolic processes and support increasing resistance-training demands. The composition and magnitude of the surplus, as well as training status of the subjects can influence the nature of the gains. 5) A wide range of dietary approaches (low-fat to low-carbohydrate/ketogenic, and all points between) can be similarly effective for improving body composition. 6) Increasing dietary protein to levels significantly beyond current recommendations for athletic populations may result in improved body composition. Higher protein intakes (2.3–3.1 g/kg FFM) may be required to maximize muscle retention in lean, resistance-trained subjects under hypocaloric conditions. Emerging research on very high protein intakes (>3 g/kg) has demonstrated that the known thermic, satiating, and LM-preserving effects of dietary protein might be amplified in resistance-training subjects. 7) The collective body of intermittent caloric restriction research demonstrates no significant advantage over daily caloric restriction for improving body composition. 8) The long-term success of a diet depends upon compliance and suppression or circumvention of mitigating factors such as adaptive thermogenesis. 9) There is a paucity of research on women and older populations, as well as a wide range of untapped permutations of feeding frequency and macronutrient distribution at various energetic balances combined with training. Behavioral and lifestyle modification strategies are still poorly researched areas of weight management.
+
+Calorie for Calorie, Dietary Fat Restriction Results in More Body Fat Loss than Carbohydrate Restriction in People with Obesity.
+
+Number of 
+
+Key takeaways:Dietary fat restriction leads to greater body fat loss than carbohydrate restriction in people with obesity, suggesting the body acts to minimize body fat differences on prolonged isocaloric diets.
+
+Calorie Restriction with or without Time-Restricted Eating in Weight Loss.
+
+Number of 
+
+Key takeaways:Time-restricted eating is not more beneficial for weight loss or reducing metabolic risk factors than daily calorie restriction in obese patients.
+
+Abstract:BACKGROUND
+The long-term efficacy and safety of time-restricted eating for weight loss are not clear.
+
+METHODS
+We randomly assigned 139 patients with obesity to time-restricted eating (eating only between 8:00 a.m. and 4:00 p.m.) with calorie restriction or daily calorie restriction alone. For 12 months, all the participants were instructed to follow a calorie-restricted diet that consisted of 1500 to 1800 kcal per day for men and 1200 to 1500 kcal per day for women. The primary outcome was the difference between the two groups in the change from baseline in body weight; secondary outcomes included changes in waist circumference, body-mass index (BMI), amount of body fat, and measures of metabolic risk factors.
+
+RESULTS
+Of the total 139 participants who underwent randomization, 118 (84.9%) completed the 12-month follow-up visit. The mean weight loss from baseline at 12 months was -8.0 kg (95% confidence interval , -9.6 to -6.4) in the time-restriction group and -6.3 kg (95% CI, -7.8 to -4.7) in the daily-calorie-restriction group. Changes in weight were not significantly different in the two groups at the 12-month assessment (net difference, -1.8 kg; 95% CI, -4.0 to 0.4; P = 0.11). Results of analyses of waist circumferences, BMI, body fat, body lean mass, blood pressure, and metabolic risk factors were consistent with the results of the primary outcome. In addition, there were no substantial differences between the groups in the numbers of adverse events.
+
+CONCLUSIONS
+Among patients with obesity, a regimen of time-restricted eating was not more beneficial with regard to reduction in body weight, body fat, or metabolic risk factors than daily calorie restriction. (Funded by the National Key Research and Development Project and others; ClinicalTrials.gov number, NCT03745612.).
+
+Calorie restriction and calorie dilution have different impacts on body fat, metabolism, behavior, and hypothalamic gene expression.
+
+Number of 
+
+Key takeaways:Caloric restriction (CR) leads to increased hunger and better metabolic health compared to calorie dilution (CD), with hunger signaling playing a key role in the benefits of CR.
+
+Number of 
+
+Key takeaways:Caloric restriction extends life and reduces age-related diseases in animals, with potential benefits for humans, but its effectiveness without negative side effects remains unclear.
+
+When a calorie is not just a calorie: Diet quality and timing as mediators of metabolism and healthy aging.
+
+Number of 
+
+Key takeaways:Dietary composition and feeding schedule impact metabolism, longevity, and healthspan, with varying effects on individuals based on their macronutrient sources and feeding schedule.
+
+Calorie restriction and its impact on gut microbial composition and global metabolism
+
+Number of 
+
+Key takeaways:Caloric restriction promotes gut health by increasing probiotic and butyrate-producing microbes and suppressing proinflammatory strains, potentially benefiting individuals at risk for metabolic diseases.
+
+Abstract:Calorie restriction (CR) is a dietary regimen that reduces calorie intake without incurring malnutrition or a reduction in essential nutrients. It has long been recognized as a natural strategy for promoting health, extending longevity, and prevents the development of metabolic and age-related diseases. In the present review, we focus on the general effect of CR on gut microbiota composition and global metabolism. We also propose mechanisms for its beneficial effect. Results showed that probiotic and butyrate-producing microbes increased their relative abundance, whereas proinflammatory strains exhibited suppressed relative abundance following CR. Analyses of the gut microbial and host metabolisms revealed that most host microbial co-metabolites were changed due to CR. Examples of dramatic CR-induced changes in host metabolism included a decrease in the rate of lipid biosynthesis and an increase in the rates of fatty acid catabolism, β-oxidation, glycogenolysis, and gluconeogenesis. The observed phenotypes and the further verification of the direct link between gut microbiota and metabolome may benefit patients that are at risk for developing metabolic disease. Thus, improved gut microbiota composition and metabolome are potential biomarkers for determining the effectiveness of dietary interventions for age-related and metabolic diseases.
+
+Calorie Restriction Increases Muscle Mitochondrial Biogenesis in Healthy Humans
+
+Number of 
+
+Key takeaways:Caloric restriction improves mitochondrial function in young non-obese adults by increasing muscle mitochondrial DNA and reducing whole body oxygen consumption and DNA damage.
+
+Abstract:Background Caloric restriction without malnutrition extends life span in a range of organisms including insects and mammals and lowers free radical production by the mitochondria. However, the mechanism responsible for this adaptation are poorly understood. Methods and Findings The current study was undertaken to examine muscle mitochondrial bioenergetics in response to caloric restriction alone or in combination with exercise in 36 young (36.8 ± 1.0 y), overweight (body mass index, 27.8 ± 0.7 kg/m2) individuals randomized into one of three groups for a 6-mo intervention: Control, 100% of energy requirements; CR, 25% caloric restriction; and CREX, caloric restriction with exercise (CREX), 12.5% CR + 12.5% increased energy expenditure (EE). In the controls, 24-h EE was unchanged, but in CR and CREX it was significantly reduced from baseline even after adjustment for the loss of metabolic mass (CR, −135 ± 42 kcal/d, p = 0.002 and CREX, −117 ± 52 kcal/d, p = 0.008). Participants in the CR and CREX groups had increased expression of genes encoding proteins involved in mitochondrial function such as PPARGC1A, TFAM, eNOS, SIRT1, and PARL (all, p < 0.05). In parallel, mitochondrial DNA content increased by 35% ± 5% in the CR group (p = 0.005) and 21% ± 4% in the CREX group (p < 0.004), with no change in the control group (2% ± 2%). However, the activity of key mitochondrial enzymes of the TCA (tricarboxylic acid) cycle (citrate synthase), beta-oxidation (beta-hydroxyacyl-CoA dehydrogenase), and electron transport chain (cytochrome C oxidase II) was unchanged. DNA damage was reduced from baseline in the CR (−0.56 ± 0.11 arbitrary units, p = 0.003) and CREX (−0.45 ± 0.12 arbitrary units, p = 0.011), but not in the controls. In primary cultures of human myotubes, a nitric oxide donor (mimicking eNOS signaling) induced mitochondrial biogenesis but failed to induce SIRT1 protein expression, suggesting that additional factors may regulate SIRT1 content during CR. Conclusions The observed increase in muscle mitochondrial DNA in association with a decrease in whole body oxygen consumption and DNA damage suggests that caloric restriction improves mitochondrial function in young non-obese adults.
+
+Effect of Calorie Restriction on Mood, Quality of Life, Sleep, and Sexual Function in Healthy Nonobese Adults: The CALERIE 2 Randomized Clinical Trial.
+
+Number of 
+
+Key takeaways:Calorie restriction in nonobese adults showed positive effects on mood, general health, and sexual drive, with no negative impact on health-related quality of life.
+
+Abstract:IMPORTANCE
+Calorie restriction (CR) increases longevity in many species and reduces risk factors for chronic diseases. In humans, CR may improve health span, yet concerns remain about potential negative effects of CR.
+
+OBJECTIVE
+To test the effect of CR on mood, quality of life (QOL), sleep, and sexual function in healthy nonobese adults.
+
+DESIGN, SETTING, AND PARTICIPANTS
+A multisite randomized clinical trial (Comprehensive Assessment of Long-term Effects of Reducing Intake of Energy Phase 2 ) was conducted at 3 academic research institutions. Adult men and women (N = 220) with body mass index (BMI; calculated as weight in kilograms divided by height in meters squared) of 22.0 to 28.0 were randomized to 2 years of 25% CR or an ad libitum (AL) control group in a 2:1 ratio favoring CR. Data were collected at baseline, 12 months, and 24 months and examined using intent-to-treat analysis. The study was conducted from January 22, 2007, to March 6, 2012. Data analysis was performed from July 18, 2012, to October 27, 2015.
+
+INTERVENTIONS
+Two years of 25% CR or AL.
+
+MAIN OUTCOMES AND MEASURES
+Self-report questionnaires were administered to measure mood (Beck Depression Inventory-II , score range 0-63, higher scores indicating worse mood, and Profile of Mood States , with a total mood disturbance score range of -32 to 200 and higher scores indicating higher levels of the constructs measured), QOL (Rand 36-Item Short Form, score range 0-100, higher scores reflecting better QOL, and Perceived Stress Scale, score range 0-40, higher scores indicating higher levels of stress), sleep (Pittsburgh Sleep Quality Index , total score range 0-21, higher scores reflecting worse sleep quality), and sexual function (Derogatis Interview for Sexual Function-Self-report, total score range 24-188, higher scores indicating better sexual functioning).
+
+RESULTS
+In all, 218 participants (152 women ; mean age, 37.9 (7.2) years; mean BMI, 25.1 ) were included in the analyses. The CR and AL groups lost a mean (SE) of 7.6 (0.3) kg and 0.4 (0.5) kg, respectively, at month 24 (P < .001). Compared with the AL group, the CR group had significantly improved mood (BDI-II: between-group difference , -0.76; 95% CI, -1.41 to -0.11; effect size , -0.35), reduced tension (POMS: BGD, -0.79; 95% CI, -1.38 to -0.19; ES, -0.39), and improved general health (BGD, 6.45; 95% CI, 3.93 to 8.98; ES, 0.75) and sexual drive and relationship (BGD, 1.06; 95% CI, 0.11 to 2.01; ES, 0.35) at month 24 as well as improved sleep duration at month 12 (BGD, -0.26; 95% CI, -0.49 to -0.02; ES, -0.32) (all P < .05). Greater percent weight loss in the CR group at month 24 was associated with increased vigor (Spearman correlation coefficient, ρ = -0.30) and less mood disturbance (ρ = 0.27) measured with the POMS, improved general health (ρ = -0.27) measured with the SF-36, and better sleep quality per the PSQI total score (ρ = 0.28) (all P < .01).
+
+CONCLUSIONS AND RELEVANCE
+In nonobese adults, CR had some positive effects and no negative effects on health-related QOL.
+
+TRIAL REGISTRATION
+clinicaltrials.gov Identifier: NCT00427193.
+
+How does calorie restriction work?
+
+Number of 
+
+Key takeaways:Caloric restriction extends life span and reduces age-related diseases by regulating cellular processes and promoting brain plasticity and self-repair.
+
+Abstract:For almost 70 years, calorie restriction has been known to extend life span. Despite the extensive physiological characterization of this dietary regimen, the molecular basis for the slowing in aging remains unsolved. Recent findings have pinpointed a few molecular pathways that appear to regulate the aging process. In this review, we propose a molecular model for how calorie restriction works that incorporates these recent findings. Calorie restriction (CR) refers to a dietary regimen low in calories without undernutrition. It was first noted in the 1930s that food restriction significantly extends the life span of rodents (McCay et al. 1935). This longevity results from the limitation of total calories derived from carbohydrates, fats, or proteins to a level 25%–60% below that of control animals fed ad libitum (Richardson 1985; Weindruch et al. 1986). The extension in life span can approach 50% in rodents (Sohal and Weindruch 1996). CR extends life span in a remarkable range of organisms, including yeast, rotifers, spiders, worms, fish, mice, and rats (Weindruch and Walford 1988). Emerging data show that its effect may also apply to nonhuman primates (Lane et al. 2001). CR delays a wide spectrum of diseases in different experimental animals; for example, kidney disease, a variety of neoplasias, autoimmune disease, and diabetes (Fernandes et al. 1976; Sarkar et al. 1982; Fernandes and Good 1984; Kubo et al. 1984; Engelman et al. 1990; Shields et al. 1991; Johnson et al. 1997). CR reduces ageassociated neuronal loss in most mouse models of neurodegenerative disorders such as Parkinson’s disease (Duan and Mattson 1999) or Alzheimer’s disease (Zhu et al. 1999). However, beneficial effects in a mouse model for amyotrophic lateral sclerosis were not observed (Pedersen and Mattson 1999). The CR regimen also prevents age-associated declines in psychomotor and spatial memory tasks (Ingram et al. 1987) and loss of dendritic spines necessary for learning (Moroi-Fetters et al. 1989) and improves the brain’s plasticity and ability for selfrepair (Mattson 2000). Why does CR exert these effects? Because CR delays reproduction and promotes survival in times of scarcity, it may have been evolutionarily adaptive during boom/ bust cycles (Harrison 1989; Holliday 1989). Despite the plausibility of this reasoning, several challenges to the significance of CR studies in the laboratory have been made. Perhaps the restricted animals live longer simply because controls are overfed to the point of ill health. However, regimens in which animals are fed controlled amounts of food rather than ad libitum still show beneficial effects of low calories (Weindruch and Walford 1988). Another objection is that inbred strains of rodents are not representative of animals in the wild. For example, lab strains are selected for rapid reproduction and large litters (Miller et al. 1999). It has been argued that these animals may accordingly have shorter life spans than wild strains. By this reasoning, CR may simply correct a defect that has been created by domestication. However, the generality of CR in many different organisms, as mentioned above, supports the argument against this criticism. Even though benefits of CR have been known for many years, the mechanism(s) of its action remains unclear. Its complexity lies in multiple effects including metabolic, neuroendocrine, and apoptotic changes, which vary in intensity and exhibit striking differences among specific organ systems. Several major models to explain CR exist, but none satisfactorily integrates all of CR’s effects. In this review, we address the question of how CR might function to extend life span. We begin with a summary of several aging theories and classical views about the action of CR. Then we discuss how CR extends the life span in Saccharomyces cerevisiae. We extrapolate these findings from yeast to mammals and consider metabolic, neuroendocrine, and apoptotic shifts that may trigger longevity in the higher organisms. We conclude with a model of CR that integrates its effects on mammals.
+
+Calorie restriction and cancer prevention: metabolic and molecular mechanisms.
+
+Number of 
+
+Key takeaways:Caloric restriction may help prevent cancer by reducing growth factors, anabolic hormones, inflammation, and oxidative stress markers associated with various malignancies.
+
+Daily caloric restriction limits tumor growth more effectively than caloric cycling regardless of dietary composition
+
+Number of 
+
+Key takeaways:Daily caloric restriction provides greater protection against tumor growth and lung metastasis than caloric cycling, potentially due to a unique immune signature observed with daily restriction.
+
+Calorie Restriction for Cancer Prevention and Therapy: Mechanisms, Expectations, and Efficacy
+
+Number of 
+
+Key takeaways:Caloric restriction and caloric restriction mimetics show potential in preventing or slowing cancer progression by modulating cellular processes and improving chemotherapy and radiotherapy outcomes.
+
+Abstract:Cancer is one of the most frequently diagnosed diseases, and despite the continuous efforts in searching for new and more effective treatments, its morbidity and mortality remain a significant health problem worldwide. Calorie restriction, a dietary manipulation that consists in a reduction of the calorie intake, is gaining attention as a potential adjuvant intervention for preventing and/or fighting cancer. Several forms of energy reduction intake, which includes caloric restriction tout-court, dietary restrictions, and intermittent fasting, are being explored for their ability to prevent or slow down cancer progression. Additionally, another anti-cancer approach being under investigation relies on the use of nutraceuticals known as “Caloric Restriction Mimetics” that can provide caloric restriction-mediated benefits without subjecting the patients to a strict diet. Preclinical in vitro and in vivo studies consistently show that diet modifiers reducing the calorie have impact on tumor microenvironment and cancer metabolism, resulting in reduced growth and progression of cancer. Preliminary clinical studies show that patients subjected to a reduced nutrient/energy intake experience improved outcomes from chemo- and radiotherapy while better tolerating the side effects. Here, we review the state of the art on the therapeutic potential of calorie restriction and of caloric restriction mimetics in preventing or retarding tumor development by modulating a subset of cellular processes. The most recent clinical progresses with caloric restriction mimetics in the clinical practice are also discussed.
+
+Calorie restriction, aging, and cancer prevention: mechanisms of action and applicability to humans.
+
+Number of 
+
+Key takeaways:Caloric restriction increases lifespan and is a potent cancer-prevention regimen, with potential for human chronic disease prevention and healthy aging.
+
+Abstract:Calorie restriction (CR) is the most effective and reproducible intervention for increasing lifespan in a variety of animal species, including mammals. CR is also the most potent, broadly acting cancer-prevention regimen in experimental carcinogenesis models. Translation of the knowledge gained from CR research to human chronic disease prevention and the promotion of healthy aging is critical, especially because obesity, which is an important risk factor for several chronic diseases, including many cancers, is alarmingly increasing in the Western world. This review synthesizes the key biological mechanisms underlying many of the beneficial effects of CR, with a particular focus on the insulin-like growth factor-1 pathway. We also describe some of the opportunities now available for investigations, including gene expression profiling studies, the development of pharmacological mimetics of CR, and the integration of CR regimens with targeted, mechanism-based interventions. These approaches will facilitate the translation of CR research into strategies for effective human chronic disease prevention.
+
+Effects of Obesity and Calorie Restriction on Cancer Development
+
+Number of 
+
+Key takeaways:Caloric restriction may reduce cancer development by regulating signal cascades, promoting apoptosis and chemotherapy effects.
+
+Abstract:The risk of malignant tumor development is increasing in the world. Obesity is an established risk factor for various malignancies. There are many metabolic alterations associated with obesity which promote cancerogenesis. Excessive body weight leads to increased levels of estrogens, chronic inflammation and hypoxia, which can play an important role in the development of malignancies. It is proved that calorie restriction can improve the state of patients with various diseases. Decreased calorie uptake influences lipid, carbohydrate and protein metabolism, hormone levels and cell processes. Many investigations have been devoted to the effects of calorie restriction on cancer development in vitro and in vivo. It was revealed that fasting can regulate the activity of the signal cascades including AMP-activated protein kinase (AMPK), mitogen-activated protein kinase (MAPK), p53, mTOR, insulin/ insulin-like growth factor 1 (IGF1) and JAK-STAT. Up- or down-regulation of the pathways results in the decrease of cancer cell proliferation, migration and survival and the increase of apoptosis and effects of chemotherapy. The aim of this review is to discuss the connection between obesity and cancer development and the mechanisms of calorie restriction influence on cancerogenesis that stress the importance of further research of calorie restriction effects for the inclusion of this approach in clinical practice.
+
+Calorie restriction and cancer prevention: a mechanistic perspective
+
+Number of 
+
+Key takeaways:Caloric restriction may inhibit cancer by impacting growth factor signaling, inflammation, energy homeostasis, vascular perturbations, and the tumor microenvironment.
+
+Abstract:Calorie restriction (CR) is one of the most potent broadly acting dietary interventions for inducing weight loss and for inhibiting cancer in experimental models. Translation of the mechanistic lessons learned from research on CR to cancer prevention strategies in human beings is important given the high prevalence of excess energy intake, obesity, and metabolic syndrome in many parts of the world and the established links between obesity-associated metabolic perturbations and increased risk or progression of many types of cancer. This review synthesizes findings on the biological mechanisms underlying many of the anticancer effects of CR, with emphasis on the impact of CR on growth factor signaling pathways, inflammation, cellular and systemic energy homeostasis pathways, vascular perturbations, and the tumor microenvironment. These CR-responsive pathways and processes represent targets for translating CR research into effective cancer prevention strategies in human beings.
+
+The Role of Calorie Restriction in Cancer Prevention, Cancer Treatment, Longevity, and in Reducing Cellular Stress
+
+Number of 
+
+Key takeaways:Caloric restriction may help prevent cancer, boost cancer treatment effectiveness, and reduce cellular stress, potentially improving cancer prevention and treatment outcomes.
+
+Abstract:Cancer is one of the top main illnesses worldwide. The aging of the population and the widespread presence of risk factors including obesity, smoking, and/or bad eating habits are expected to contribute to its further rise. Chemotherapy, radiation therapy, and surgery continue to be the cornerstones of cancer treatment, despite the gradual replacement or supplementation of these methods by innovative treatments. The American Cancer Society suggests a high-calorie, high-protein diet for cancer patients undergoing chemotherapy. Furthermore, there are no established recommendations for the kind of diet that would significantly reduce cancer rates. However, calorie restriction (CR) and fasting, two common methods of reducing caloric consumption, show a broad variety of positive benefits that may prevent malignancies and boost the effectiveness of cancer treatments. Periodic fasting (PF), fasting-mimicking diets, and restricted food intake without first a decrease in calories have become popular as interventions with the potential to be widely used to prevent and treat cancer, while chronic CR provides both beneficial and detrimental effects and major compliance challenges. In this article, we discuss the impact that calorie restriction has in preventing cancer, aiding in cancer treatment, producing cellular protection and chemotherapy resistance in animal models and early human investigations.
+
+Fasting and Caloric Restriction in Cancer Prevention and Treatment.
+
+Number of 
+
+Key takeaways:Dietary restriction and fasting may help prevent and treat cancer by inducing cellular protection and chemotherapy resistance.
+
+Abstract:Cancer is the second leading cause of death in the USA and among the leading major diseases in the world. It is anticipated to continue to increase because of the growth of the aging population and prevalence of risk factors such as obesity, smoking, and/or poor dietary habits. Cancer treatment has remained relatively similar during the past 30 years with chemotherapy and/or radiotherapy in combination with surgery remaining the standard therapies although novel therapies are slowly replacing or complementing the standard ones. According to the American Cancer Society, the dietary recommendation for cancer patients receiving chemotherapy is to increase calorie and protein intake. In addition, there are no clear guidelines on the type of nutrition that could have a major impact on cancer incidence. Yet, various forms of reduced caloric intake such as calorie restriction (CR) or fasting demonstrate a wide range of beneficial effects able to help prevent malignancies and increase the efficacy of cancer therapies. Whereas chronic CR provides both beneficial and detrimental effects as well as major compliance challenges, periodic fasting (PF), fasting-mimicking diets (FMDs), and dietary restriction (DR) without a reduction in calories are emerging as interventions with the potential to be widely used to prevent and treat cancer. Here, we review preclinical and preliminary clinical studies on dietary restriction and fasting and their role in inducing cellular protection and chemotherapy resistance.
+
+When less may be more: calorie restriction and response to cancer therapy
+
+Number of 
+
+Key takeaways:Caloric restriction, intermittent fasting, and CR mimetic drugs show promise in enhancing cancer therapy efficacy and reducing side effects.
+
+Abstract:Calorie restriction (CR) extends lifespan and has been shown to reduce age-related diseases including cancer, diabetes, and cardiovascular and neurodegenerative diseases in experimental models. Recent translational studies have tested the potential of CR or CR mimetics as adjuvant therapies to enhance the efficacy of chemotherapy, radiation therapy, and novel immunotherapies. Chronic CR is challenging to employ in cancer patients, and therefore intermittent fasting, CR mimetic drugs, or alternative diets (such as a ketogenic diet), may be more suitable. Intermittent fasting has been shown to enhance treatment with both chemotherapy and radiation therapy. CR and fasting elicit different responses in normal and cancer cells, and reduce certain side effects of cytotoxic therapy. Findings from preclinical studies of CR mimetic drugs and other dietary interventions, such as the ketogenic diet, are promising for improving the efficacy of anticancer therapies and reducing the side effects of cytotoxic treatments. Current and future clinical studies will inform on which cancers, and at which stage of the cancer process, CR, fasting, or CR mimetic regimens will prove most effective.
+
+Nutrition, GH/IGF-I signaling, and cancer.
+
+Number of 
+
+Key takeaways:Nutrition, calorie restriction, and fasting/fasting-mimicking diets may help prevent cancer by modulating growth hormone, insulin, and insulin signaling.
+
+Abstract:Cancer is the second leading cause of death in the United States and among the most prevalent diseases globally, with an incidence expected to grow because of smoking, pollution, poor dietary habits, obesity, and the rise in the older population. Given their ability to reduce risk factors, albeit with varying efficacy, nutrition and fasting could help prevent cancer and other age-related disorders. Calorie Restriction (CR), various forms of intermittent fasting (IF) or periodic fasting (PF), and fasting-mimicking diets (FMDs) have been shown to improve health span, increase lifespan, and prevent or postpone cancer in rodents. The effects of specific diets and fasting regimens on aging and cancer appear to be mediated in part by the reduction in the activity of the Growth Hormone (GH)/Insulin-like-Growth-Factor-1 (IGF-I) axis. Nevertheless, recent data indicates that the alternation of low and normal levels of these hormones and factors may be ideal for optimizing longevity and function. Here we review the role of nutrition, CR, and fasting/FMD on cancer, focusing on the hypothesis that the modulation of GH, IGF-I, and insulin signaling partly mediates the effect of these dietary interventions on cancer prevention.
+
+Calories and carcinogenesis: lessons learned from 30 years of calorie restriction research.
+
+Number of 
+
+Key takeaways:Caloric restriction effectively suppresses carcinogenesis, with potential applications in cancer prevention strategies through growth factor signaling pathways and inflammation.
+
+Abstract:Calorie restriction (CR) is arguably the most potent, broadly acting dietary regimen for suppressing the carcinogenesis process, and many of the key studies in this field have been published in Carcinogenesis. Translation of the knowledge gained from CR research in animal models to cancer prevention strategies in humans is urgently needed given the worldwide obesity epidemic and the established link between obesity and increased risk of many cancers. This review synthesizes the evidence on key biological mechanisms underlying many of the beneficial effects of CR, with particular emphasis on the impact of CR on growth factor signaling pathways and inflammatory processes and on the emerging development of pharmacological mimetics of CR. These approaches will facilitate the translation of CR research into effective strategies for cancer prevention in humans.
+
+Unlocking the Potential: Caloric Restriction, Caloric Restriction Mimetics, and Their Impact on Cancer Prevention and Treatment
+
+Number of 
+
+Key takeaways:Caloric restriction and caloric restriction mimetics show promising effects in cancer prevention and treatment, but more evidence is needed to safely include them in standard-of-care therapies.
+
+Abstract:Caloric restriction (CR) and its related alternatives have been shown to be the only interventions capable of extending lifespan and decreasing the risk of cancer, along with a reduction in burden in pre-clinical trials. Nevertheless, the results from clinical trials have not been as conclusive as the pre-clinical results. Recognizing the challenges associated with long-term fasting, the application of caloric restriction mimetics (CRMs), pharmacological agents that mimic the molecular effects of CR, to harness the potential benefits while overcoming the practical limitations of fasting has resulted in an interesting alternative. This review synthesizes the findings of diverse clinical trials evaluating the safety and efficacy of CR and CRMs. In dietary interventions, a fast-mimicking diet was the most tolerated to reduce tumoral growth markers and chemotherapy side effects. CRMs were well tolerated, and metformin and aspirin showed the most promising effect in reducing cancer risk in a selected group of patients. The application of CR and/or CRMs shows promising effects in anti-cancer therapy; however, there is a need for more evidence to safely include these interventions in standard-of-care therapies.
+
+Effect of Intermittent versus Chronic Calorie Restriction on Tumor Incidence: A Systematic Review and Meta-Analysis of Animal Studies
+
+Number of 
+
+Key takeaways:Intermittent calorie restriction has a greater anticancer effect in genetically engineered mouse models but weaker cancer prevention benefit in chemically induced rat models compared to chronic calorie restriction.
+
+Calorie restriction and breast cancer treatment: a mini-review
+
+Number of 
+
+Key takeaways:Caloric restriction may enhance the efficacy of chemotherapy, radiation therapy, and immunotherapy during breast cancer treatment by altering metabolism and fostering health-enhancing characteristics.
+
+Abstract:Calorie restriction (CR), referred to as a reduction in dietary calorie intake without malnutrition, has been demonstrated to be a safe way to extend longevity of yeast, worms, and laboratory animals, and to decrease the risk factors in age-related diseases including cancer in humans. Pre-clinical studies in animal models demonstrated that CR may enhance the efficacy of chemotherapy, radiation therapy, and immunotherapy during breast cancer treatment. Reduced calorie intake ameliorates risk factors and delays the onset of cancer by altering metabolism and fostering health-enhancing characteristics including increased autophagy and insulin sensitivity, and decreased blood glucose levels, inflammation, angiogenesis, and growth factor signaling. CR is not a common protocol implemented by medical practitioners to the general public due to the lack of substantial clinical studies. Future research and clinical trials are urgently needed to understand fully the biochemical basis of CR or CR mimetics to support its benefits. Here, we present a mini-review of research studies integrating CR as an adjuvant to chemotherapy, radiation therapy, or immunotherapy during breast cancer treatment.
+
+Effects of caloric restriction on immunosurveillance, microbiota and cancer cell phenotype: possible implications for cancer treatment.
+
+Number of 
+
+Key takeaways:Caloric restriction may stimulate cancer immunosurveillance, gut microbiota composition, metabolism, and reduce cancer stem cell growth, potentially benefiting cancer treatment.
+
+Understanding pathways of calorie restriction: a way to prevent cancer?
+
+Number of 
+
+Key takeaways:Caloric restriction may extend lifespans and prevent, delay, and shrink various tumors, potentially benefiting cancer prevention and aging-related diseases.
+
+Abstract:F or decades, researchers have been intrigued by calorie restriction, a tried and true way of extending lifespans in creatures ranging from yeast and roundworms to flies and mice. Aside from increasing the lifespan of organisms up to 80% in some studies, calorie restriction (with proper nutrition) also leads to lower insulin, glucose, and blood pressure levels, as well as increased white blood cell count. Particularly enticing is the possibility for caloric restriction to prevent, delay, and shrink a variety of tumors, a fi nding that seems to complement those of recent studies linking obesity and cancer. In animal studies, researchers reduce food intake by 10% – 60%, but because such extreme dieting would be unrealistic in humans, many researchers are now examining the biological pathways affected by caloric restriction with the aim of developing preventive agents for cancer as well as other diseases associated with aging. Together with the growing fi eld of calorie restriction mimetics — fi nding natural or synthetic compounds that mimic the effects of caloric restriction — they are fi nding these pathways to be numerous and complex. “The fi eld of seems to grow every day with new discoveries of genes, pathways, and proteins that are affected in different ways,” Julie Mattison, Ph.D., a caloric restriction researcher at the National Institute on Aging (NIA), wrote in an e-mail. In gaining information about the systems changed by caloric restriction, she said, researchers can identify targets for mimetics.
+
+Caloric restriction for the management of malignant tumors from animal studies towards clinical translation.
+
+Number of 
+
+Key takeaways:Caloric restriction shows potential in preventing malignant tumors and managing established cancers, but more research is needed for clinical translation.
+
+Abstract:In the last few years, numerous studies have demonstrated that dietary modifications in the form of calories restriction exert beneficial effects in several clinical entities, including aging-related pathologies, autoimmune diseases and cancer. Both as preventive but also as therapeutic modalities, these dietary regimens can impact systemic metabolism, immune and hormonal responses, redox balance and gut microbiota, among others. In the field of oncology, the vast majority of experimental work has explored the role of restricted diets in the prevention of malignant tumors, mostly in carcinogenesis-induced models, with at least encouraging results; on the contrary, less research has been performed in the management of full-blown cancer with ketogenic diet or caloric restriction protocols. Herein, we are aiming to review the relevant preclinical and clinical studies to date which investigate the role of caloric restriction in the treatment of established cancer.
+
+Overeating, caloric restriction and breast cancer risk by pathologic subtype: the EPIGEICAM study
+
+Number of 
+
+Key takeaways:Caloric restriction may be protective against breast cancer risk, while high energy intake increases it, suggesting that moderate caloric restriction combined with regular physical activity may be a good strategy for prevention.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

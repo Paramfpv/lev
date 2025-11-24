@@ -1,0 +1,651 @@
+PROTOCOL: Botox in vascular and sexual function therapy
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Abstract:Onabotulinum toxin-A (BTX) is widely used to treat various medical conditions such as striated and smooth muscle disorders. In urologic disorders, the use of BTX has been approved to treat detrusor overactivity (1). Despite the various therapeutic options for the treatment of erectile dysfunction (ED), there is a need for a new effective and safe treatment for patients who are refractory to noninvasive therapies. Some studies have suggested the possible role of intracavernosal injection (ICI) of BTX for the treatment of ED, which has aroused interest in the area of sexual medicine (2-4). BTX inhibits sympathetic adrenergic or cholinergic vasoconstriction, sensory nerves, decreasing the tone of penile resistance vessels, blood flow, and cavernosal smooth muscle tone, which are involved in the pathophysiology of DE (5). In this interesting study, the 
+DESCRIPTION: Botox (botulinum toxin) administered locally into the corpora cavernosa or pelvic muscles can improve blood flow and reduce excessive spasms, resulting in better erectile function in men and quality of sexual life in women with OAB, vaginismus, or vulvodynia. The therapy is well tolerated, and clinical studies show significant improvements in IIEF, EHS, and FSFI scales. Further, larger, and long-term studies are needed to confirm the durability of effects and safety of the intervention.
+
+CONTENT SECTIONS:
+
+Botox in vascular and sexual function therapy
+
+Improvement of sexual and vascular function
+
+Botox (botulinum toxin) administered locally into the corpora cavernosa or pelvic muscles can improve blood flow and reduce excessive spasms, resulting in better erectile function in men and quality of sexual life in women with OAB, vaginismus, or vulvodynia. The therapy is well tolerated, and clinical studies show significant improvements in IIEF, EHS, and FSFI scales. Further, larger, and long-term studies are needed to confirm the durability of effects and safety of the intervention.
+
+Level of evidence:Preliminary
+
+Level of risk:Elevated
+
+Botox inhibits the release of acetylcholine at nerve endings, leading to local relaxation of smooth muscles and reduction of spasms. In the corpora cavernosa, sphincters, and pelvic floor muscles, this effect increases blood flow and reduces tension, supporting erection and comfort during intercourse. In overactive bladder, reducing spasms alleviates OAB symptoms and improves sexual function.
+
+Level of risk:Elevated
+
+Local botulinum toxin therapy is generally well tolerated but may cause mild and transient adverse effects, mainly local pain, swelling, or minor hematomas.
+
+Botulinum toxin is not recommended in patients with certain conditions due to the risk of systemic or local complications.
+
+100–200 U BoNT-A (e.g., 100 U intracavernosally in men; 100 U to the detrusor in women)
+
+Estimated maximum effect after 1–3 months
+
+The procedure can be performed at any time of day, optimally in the morning
+
+Can be combined with PDE5 inhibitors in men or pelvic floor physiotherapy in women
+
+Precise injection technique
+
+Perform under imaging guidance (USG/EMG) for accurate needle placement
+
+Monitoring and follow-up
+
+Monitor the patient for at least 1–2 hours after the procedure and schedule a follow-up visit after 4–6 weeks
+
+In men, continue PDE5i; in women, implement pelvic floor exercises and behavioral therapy
+
+Consider increasing the dose to 200 U if response is insufficient after 3 months
+
+Explain possible side effects, expected duration of effect, and anticipated benefits
+
+Botox improves vascular and sexual function in men with erectile dysfunction resistant to standard treatment, increasing erection hardness and blood flow. Evidence is limited, and long-term safety and efficacy require further research.
+
+Efficacy in treating erectile dysfunction
+
+Safety and limitations
+
+Impact on other sexual disorders
+
+Botox improves sexual function in women with disorders such as OAB, vaginismus, vulvodynia, and chronic pelvic pain, improving desire, arousal, lubrication, orgasm, and satisfaction, as well as reducing muscle tension and pain, but there is no evidence of impact on vascular function.
+
+Overactive bladder (OAB)
+
+Vaginismus and vulvodynia with chronic pelvic pain
+
+Safety and adverse effects
+
+Impact on vascular function
+
+Scientific data and sources
+
+Level of evidencePreliminary
+
+Number of included studies:55
+
+Final comment:The available studies on the use of botulinum toxin in the treatment of sexual and vascular dysfunction in humans are mainly based on small clinical trials, observational designs, and a few randomized controlled trials. They are characterized by heterogeneous injection protocols, short follow-up periods, and limited numbers of participants, which makes it impossible to conclusively confirm the long-term efficacy and safety of the intervention.
+
+Application of Botulinum Neurotoxin in Male Sexual Dysfunction: Where Are We Now?
+
+Number of 
+
+Key takeaways:Botulinum neurotoxin shows potential as a treatment option for certain male sexual pathologies, but more randomized controlled trials are needed for widespread clinical adoption.
+
+(287) INTRACAVERNOSAL BOTULINUM TOXIN USE IN THE TREATMENT OF ERECTILE DYSFUNCTION: A PROSPECTIVE, DOUBLE-BLIND, RANDOMIZED STUDY
+
+Number of 
+
+Key takeaways:Intracavernosal botulinum toxin is a safe and effective treatment for erectile dysfunction, particularly in patients not responding to conventional therapies, with minimal adverse effects.
+
+Abstract:Erectile dysfunction (ED) is a significant public health issue that greatly impacts patients’ quality of life. Its prevalence increases with age and is associated with several risk factors, including diabetes, hypertension, hypercholesterolemia, smoking, sedentary lifestyle, obesity, and hypogonadism. These factors often lead to vascular endothelial alterations, resulting in atherosclerosis, arterial obstruction, and reduced penile blood flow. Traditional treatments for ED focus on vasodilators to facilitate erections. In the 1980s, intracavernosal injections of vasoactive drugs became prevalent, and the 1990s saw a revolution with the introduction of phosphodiesterase-5 (PDE5) inhibitors, such as sildenafil. Despite their effectiveness, about 30% of patients do not respond adequately to these treatments, prompting the search for more effective alternatives. Botulinum toxin (BT), known for its muscle relaxation properties, emerges as a promising candidate. Preliminary studies, including those by Ghanem (2018) and El-Shaer (2021), show promising results for intracavernosal BT in ED treatment, though further research is needed.
+ 
+ 
+ 
+ The primary objective of this study is to determine the safety and efficacy of intracavernosal botulinum toxin application in the treatment of erectile dysfunction. Specifically, the study aims to assess the improvement in erectile function in patients with ED refractory to standard treatments and evaluate the occurrence of any adverse events associated with BT use.
+ 
+ 
+ 
+ This prospective, double-blind, randomized study involves evaluating botulinum toxin (study drug) versus placebo, alongside standard ED treatments. The study includes male patients aged 18 and above, with an International Index of Erectile Function (IIEF-5) score of 21 or less, and currently undergoing at least one form of standard ED treatment. Exclusion criteria include urogenital neoplasms, radical prostatectomy, testosterone levels below 350 ng/ml, diagnosed depression on antidepressants, genital tract anatomical alterations, and insufficient sexual activity for analysis. Participants will be randomly assigned to either the BT or placebo group. The active treatment involves injecting 100 units of botulinum toxin, diluted in 4 ml of 0.9% saline, into the penile base and distal shaft, with a penile base tourniquet applied for 20 minutes. The placebo group will receive 0.9% saline injections. Patients will be monitored for 12 months, with evaluations at 1, 3, 6, and 12 months post-treatment. These evaluations include the IIEF-5 score, penile length (CRT max), and blood tests. After 6 months, the blind will be lifted, allowing placebo group patients to opt for BT treatment, and active group patients to receive another BT dose if desired.
+ 
+ 
+ 
+ Initial findings from the study indicate that of the 15 patients treated, 8 have shown improvements in their IIEF-5 scores. However, it is important to note that the study is still blinded, and we do not yet know which patients receives botulinum toxin and which received the placebo. As such, the observed improvements cannot yet be attributed to the botulinum toxin treatment. The study will continue the 6-month mark, at which point the blind will be lifted, allowing for a more precise evaluation of the treatment’s efficacy. To date, the treatment has been well-tolerated, with no severe adverse events reported, aligning with previous research on the safety and efficacy of BT for ED.
+ 
+ 
+ 
+ This study provides evidence supporting the uso of intracavernosal botulinum toxin as a safe and effective treatment for erectile dysfunction, particularly in patients who do not responde to conventional therapies. The results indicate improvements in erectile function and minimal adverse effects, suggesting that BT could become a valuable addition to the current ED treatment options. Further research with larger sample sizes and longer follow-up periods is necessary.
+ 
+ 
+ 
+ No.
+
+(335) A NOVEL ULTRASOUND TECHNIQUE CAN PREDICT EFFICACY OF BOTOX INJECTION IN PATIENTS WITH ERECTILE DYSFUNCTION
+
+Number of 
+
+Key takeaways:Shear wave elastography can predict improvement in erectile function after Botox injection in men with erectile dysfunction.
+
+Abstract:Erectile dysfunction (ED) is the inability to get or keep an erection for sexual activity, affecting 5–20% of men worldwide. Starting from 2016, botulinum neurotoxin was tested for treating ED after a human pilot trial. Shear wave elastosonography (SWE) is one of the ultrasound techniques that can be applied to assess corporal tissue stiffness. We aimed to evaluate the SWE predictability of the outcome of a penile Botox injection.
+ 
+ 
+ 
+ Twenty men aged 18–70 with erectile dysfunction and PDE5I non-responders participated in the outpatient clinic of the university hospital. Intracavernosal prostaglandin E1(PGE1) injection. Three elastography measurements for each corpus cavernosum were taken before and after PGE1 injection, and then their average was calculated. 100 IU of OnabotulinumtoxinA diluted in 2 ml of normal saline was injected. The International Index of Erectile Function (IIEF-5), Sexual Encounter Profile questions 2 and 3 (SEP-2 and SEP-3), and Erection Hardness Score (EHS) were measured before and 1 month after Botox injection.
+ 
+ 
+ 
+ There was marked improvement in erectile function measured as the mean IIEF-5 changed from 8.55 to 14.1.61, p < 0.001, with a mean difference of 5.6. SEP-2 changed from 1.75 to 2.56, p = 0.012 with a mean difference of 0.77; SEP-3 changed from 1.60 to 2.39, p = 0.018 with a mean difference of 0.77; and EHS changed from 1.37 to 1.83, p = 0.008 with a mean difference of 0.52. SWE measurements taken after PGE1 injection showed a significant negative association with erectile state outcomes after Botox injection, as measured by IIEF-5(r = -0.429, p = 0.03). In contrast, pre-injection peak systolic velocity measurements showed no significant correlation to outcomes.
+ 
+ 
+ 
+ shear wave elastography may predict improvement after Botox injection.
+ 
+ 
+ 
+ There is no any conflict of interest.
+
+Editorial Comment: Intra-cavernous injection of BOTOX ® (50 and 100 Units) for treatment of vasculogenic erectile dysfunction: Randomized controlled trial
+
+Number of 
+
+Key takeaways:Intra-cavernous injection of BOTOX (50 or 100 units) significantly improves erectile function in patients with vasculogenic erectile dysfunction, with maximum improvement in the third month of treatment.
+
+Abstract:Onabotulinum toxin-A (BTX) is widely used to treat various medical conditions such as striated and smooth muscle disorders. In urologic disorders, the use of BTX has been approved to treat detrusor overactivity (1). Despite the various therapeutic options for the treatment of erectile dysfunction (ED), there is a need for a new effective and safe treatment for patients who are refractory to noninvasive therapies. Some studies have suggested the possible role of intracavernosal injection (ICI) of BTX for the treatment of ED, which has aroused interest in the area of sexual medicine (2-4). BTX inhibits sympathetic adrenergic or cholinergic vasoconstriction, sensory nerves, decreasing the tone of penile resistance vessels, blood flow, and cavernosal smooth muscle tone, which are involved in the pathophysiology of DE (5). In this interesting study, the 
+
+Sexual Dysfunction in Patients with Overactive Bladder Syndrome Treated with Botulinum Toxin
+
+Number of 
+
+Key takeaways:Botox injections for overactive bladder syndrome did not significantly affect sexual quality of life in either women or men.
+
+Abstract:Introduction: Overactive bladder (OAB) is a syndrome of the lower urinary tract characterized by urinary urgency, frequency, and nocturia, with or without urgency urinary incontinence. OAB significantly impacts all aspects of life—social, psychological, physical, professional, domestic, and sexual—for both women and men. The aim of this study was to investigate sexual dysfunction in both women and men with OAB treated with intravesical onabotulinumtoxinA (Botox) injections using the Sexual Quality of Life questionnaire in two versions: female (SQoL-F) and male (SQoL-M). Methods: Forty sexually active patients (thirty women and ten men) with idiopathic OAB were recruited. Patients completed the SQoL-F or SQoL-M questionnaire before treatment, and again at 3 and 6 months after treatment with intravesical onabotulinumtoxinA injections. Results: All 40 patients completed the study (30 women and 10 men). There were no statistically significant differences in SQoL results before the procedure or at 3- and 6-months post-treatment. Conclusions: OAB treatment with onabotulinumtoxinA did not significantly affect the quality of sexual life in either women or men. Further research is needed using questionnaires specifically designed to assess the sexual life of patients with OAB, especially in men.
+
+The effectiveness and safety of intracavernosal botulinum toxin injections in the management of erectile dysfunction: a systematic review and meta-analysis of clinical studies
+
+Number of 
+
+Key takeaways:Intracavernosal botulinum toxin injections may be an effective and safe non-surgical option for managing erectile dysfunction in men.
+
+Abstract:Abstract Background Patients with erectile dysfunction (ED) are often left with limited nonsurgical options when conventional pharmacotherapies become ineffective. Botulinum neurotoxin serotype A (BoNT-A) intracavernosal injections (ICIs) have been demonstrated in a few clinical studies to be effective and safe in managing ED and may serve as a first- or second-line option. Aim To perform a systematic review and meta-analysis on the effectiveness and safety of BoNT-A ICI in managing ED with a focus on human studies. Methods A systematic review and meta-analysis of clinical studies was performed in accordance with the PRISMA 2020 statement. Adult men with ED who received BoNT-A were included in the study. The risk of bias assessment of included studies was performed using the JBI assessment checklists. Outcomes The effectiveness and safety of BoNT-A ICI. Measures of effectiveness included the increase or change in International Index for Erectile Function (IIEF-EF) score/Sexual Health Inventory for Men (SHIM) score/Erection Hardness Score (EHS) or change in Doppler ultrasound parameters and the percentage of patients achieving the minimal clinically important difference (MCID) score. Results The search retrieved 61 articles, and 2 randomized controlled trials (RCTs) and 4 retrospective studies met the inclusion criteria. Three types of BoNT-A were evaluated: onaBoNT-A, aboBoNT-A, and incoBoNT-A. At least 40% of the patients achieved the MCID (2-7 points increase in the IIEF-EF/SHIM score) depending on the severity of ED) at ≥1 month. When directly comparing all 3 BoNT-A, the overall response rate was 77.5%, with no statistically difference between the 3 types. For aboBoNT-A, 500 U appeared to sustain the effectiveness longer compared to 250 U. OnaBoNT-A improved peak systolic velocity on Doppler ultrasound compared with saline. Meta-analysis of the 2 RCTs demonstrated a mean difference of 4.35 (P = .008) in the SHIM score at 12 weeks in favor of onaBoNT-A over normal saline. No systemic side effects have been reported, and the only infrequent local side effect was transient penile pain. Only one case of priapism was reported. Strengths and Limitations This is the first systematic review summarizing data from human studies on ED and BoNT-A ICI. The inclusion criteria and outcomes of the included studies varied, which limited the number of studies included and parameters assessed in the meta-analysis. Conclusion BoNT-A may become an acceptable non-surgical option. However, there is a lack of clinical randomized or observational studies on this topic, and more randomized studies with standardized reporting are required to replicate current results and investigate the long-term benefits of BoNT-A as a monotherapy or adjunct therapy in the management of ED.
+
+Intra-cavernosal injection of botulinum toxin in the treatment of erectile dysfunction: a systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:Intra-cavernosal injection of botulinum toxin (BoNT-A) shows statistical significance in improving erection hardness and peak systolic velocity in men with erectile dysfunction, but further clinical studies are needed to confirm its clinical benefit.
+
+(029) Safety and Efficacy of Botulinum Neurotoxin in the Treatment of Erectile Dysfunction Refractory to Phosphodiesterase Inhibitors: Results of a Randomized Controlled Trial
+
+Number of 
+
+Key takeaways:Botulinum neurotoxin (BoNT-A) injection is a safe and effective treatment for erectile dysfunction refractory to oral phosphodiesterase inhibitors.
+
+Abstract:There has been recent interest in the use of botulinum neurotoxin (BoNT) in the field of Andrology, whereby it has been investigated in the treatment of penile retraction and premature ejaculation.
+ 
+ 
+ 
+ To evaluate the safety and efficacy of intracavernosal BoNT-A injection in the treatment of patients with erectile dysfunction (ED) refractory to oral phosphodiesterase inhibitors (PDE5Is).
+ 
+ 
+ 
+ A double-blind randomized placebo-controlled prospective comparative study conducted at one center and involved 70 patients with ED refractory to PDE5Is. At baseline, the following data were collected: erection hardness score (EHS), peak systolic velocity (PSV), end diastolic velocity (EDV), sexual health inventory for men (SHIM), and the sexual encounter profile 2&3 (SEP-2&3) questionnaires. Treatment group (n = 35) received a single ICI of 100 units of BoNT-A in 2 ml of saline and control group (n = 35) received a single ICI of 2 ml of saline. EHS, PSV, and EDV were assessed at 2 weeks post treatment. SHIM, SEP-2, SEP-3, and global assessment questionnaire (GAQ-Q1&Q2) were completed at 2-, 6-, and 12-weeks post treatment.
+ 
+ 
+ 
+ Two weeks post treatment, the treatment group showed a statistically significant improvement in the mean EHS, PSV, EDV, and GAQ-Q1 positive responders (p < 0.001) compared to the control group. At 6- and 12-weeks post treatment, the treatment group showed a statistically significant improvement in the SHIM scores, SEP-2, and GAQ-Q1&Q2 positive responders compared to the control group. At 6 weeks, where there was a 5-point improvement in the mean SHIM score of the treatment group (10±5.9 from 5.4±1.7 at baseline) versus no improvement in the placebo group, 18 patients in the treatment group (53%) were able to have an erection hard enough for vaginal penetration versus only one patient in the control group.
+ 
+ 
+ 
+ BoNT-A is safe and effective as a potential treatment for ED refractory to PDE5I therapy.
+ 
+ 
+ 
+ No.
+
+Impact of intravesical onabotulinumtoxinA (Botox) on sexual function in patients with overactive bladder syndrome: a systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Intravesical Botox injections show a positive effect on sexual function in patients with overactive bladder syndrome, except for pain.
+
+Abstract:Introduction and hypothesisThe association between overactive bladder (OAB) syndrome and sexual dysfunction is well documented. Intra-detrusor onabotulinumtoxinA (Botox) has proven to be effective treatment for OAB syndrome. Our aim was to examine the impact of intravesical Botox injection on sexual function in patients with OAB, by systematically reviewing the literature.MethodsWe reviewed the literature for studies that reported a change in sexual function after Botox treatment in patients suffering from OAB. This review was conducted following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement using pre-agreed keywords, from database inception to December 2020. Statistical analyses were performed using Review Manager (RevMan; v.5.4).ResultsInitial results yielded 455 citations. Seven articles met our inclusion criteria. One article was double-reported, leaving 6 studies in the systematic review. Three observational before-and-after studies used the Female Sexual Function Index (FSFI) with sufficient information, and therefore were included in our meta-analysis. The pooled number of participants in all studies was 119 patients. In the meta-analysis, there was significant improvement in the following domains of the FSFI after Botox injection; desire (mean difference (MD) −0.51, p = 0.02), arousal (MD −0.86, p = 0.02), lubrication (MD −0.57, p = 0.03), orgasm (MD −0.65, p = 0.0003) and satisfaction (MD −0.46, p = 0.05). Pain was the only domain that did not show improvement (MD −0.07, p = 0.79). The total FSFI score was reported in 88 patients (two studies) showing significant improvement (MD −0.77, p = 0.006).ConclusionsWe report a systematic review of the effect of Botox treatment on sexual function in patients with OAB. Although studies are small, the results indicate a positive effect in patients with OAB.
+
+Testosterone and sexual function in men.
+
+Number of 
+
+Key takeaways:Testosterone therapy improves sexual function in men with overt hypogonadism, but only after assessing serum testosterone levels and considering other concomitant conditions.
+
+Effect of Testosterone Replacement Therapy on Sexual Function and Hypogonadal Symptoms in Men with Hypogonadism.
+
+Number of 
+
+Key takeaways:Testosterone replacement therapy (TRT) for two years improved sexual activity, hypogonadal symptoms, and sexual desire in middle-aged and older men with hypogonadism, but not erectile function.
+
+Abstract:BACKGROUND
+Few long-term randomized trials have evaluated the efficacy of testosterone replacement therapy (TRT) in improving sexual function and hypogonadal symptoms in men with hypogonadism and whether effects are sustained beyond 12 months.
+
+OBJECTIVE
+Testosterone Replacement therapy for Assessment of long-term Vascular Events and efficacy ResponSE in hypogonadal men (TRAVERSE) study evaluated the effect of TRT on major adverse cardiovascular events in middle-aged and older men with hypogonadism. The Sexual Function Study, nested within the parent trial, determined testosterone's efficacy in improving sexual activity, hypogonadal symptoms, libido, and erectile function among men reporting low libido.
+
+METHODS
+Among 5204 men, 45 to 80 years, with two testosterone concentrations <300 ng/dL, hypogonadal symptoms, and cardiovascular disease (CVD) or increased CVD risk enrolled in TRAVERSE trial, 1161 with low libido were enrolled in the Sexual Function Study (587 randomized to receive 1.62% testosterone gel and 574 to placebo gel for the duration of their participation in the study). Primary outcome was change from baseline in sexual activity score. Secondary outcomes included hypogonadal symptoms, erectile function, and sexual desire.
+
+RESULTS
+TRT was associated with significantly greater improvement in sexual activity than placebo at 6 and 12 months, respectively, omnibus test p = 0.011]; treatment effect was maintained at 24 months. TRT improved hypogonadal symptoms and sexual desire, but not erectile function, compared to placebo.
+
+CONCLUSIONS
+In middle-aged and older men with hypogonadism and low libido, TRT for two years improved sexual activity, hypogonadal symptoms, and sexual desire, but not erectile function.
+
+Testosterone Replacement Therapy for Sexual Symptoms.
+
+Number of 
+
+Key takeaways:Testosterone replacement therapy (TRT) can improve libido, erectile function, and overall sexual satisfaction in men with hypogonadal status, but its effectiveness in restoring severe vascular damage requires combined therapy with other drugs.
+
+Current diagnosis and management of erectile dysfunction
+
+Number of 
+
+Key takeaways:Erectile dysfunction can be effectively managed with lifestyle modification, pharmacotherapy, and psychosexual therapy, with PDE5i medications being effective in 60%-65% of men.
+
+Abstract:Erectile dysfunction (ED) is a common male sexual dysfunction associated with a reduced quality of life for patients and their partners. ED is associated with increasing age, depression, obesity, lack of exercise, diabetes mellitus, hypertension, dyslipidaemia, cardiovascular disease and lower urinary tract symptoms related to benign prostatic hyperplasia. The evaluation of men with ED requires a full medical and personally and culturally sensitive sexual history, a focused clinical examination, fasting glucose levels, a fasting lipid profile and, in select cases, a total testosterone level and a prostate‐specific antigen test. Treatment of ED requires lifestyle modification, reduction of comorbid vascular risk factors, and treatment of organic or psychosexual dysfunction with either pharmacotherapy alone or in combination with psychosexual therapy. Between 60% and 65% of men with ED, including those with hypertension, diabetes mellitus, spinal cord injury and other comorbid medical conditions, can successfully complete intercourse in response to the phosphodiesterase type 5 inhibitors (PDE5i) sildenafil, tadalafil, vardenafil and avanafil. Patient‐administered intracorporal injection therapy using vasodilator drugs such as alprostadil is an effective treatment and is useful in men who fail to respond to oral pharmacological agents. Surgical treatment of ED with multicomponent inflatable penile implants is associated with high satisfaction rates. Penile arterial revascularisation and venous ligation surgery are associated with relatively poor outcome results in men with penile atherosclerotic disease or corporal veno‐occlusive dysfunction.
+
+Interactions between erectile dysfunction, cardiovascular disease and cardiovascular drugs
+
+Number of 
+
+Key takeaways:Erectile dysfunction is a common issue in men with cardiovascular disease, and its screening and diagnosis is essential for prevention and improved cardiovascular outcomes.
+
+Impact of Testosterone on Male Health: A Systematic Review
+
+Number of 
+
+Key takeaways:Testosterone therapy can improve vascular function, mood, muscle strength, bone health, and sexual health in healthy men.
+
+Abstract:The development and maintenance of muscular mass, bone density, and general physical strength depend heavily on testosterone, a hormone that plays a complicated and significant role in men's physiology. Beyond these physical advantages, testosterone plays a crucial role in male reproductive health by affecting spermatogenesis (the generation of sperm), libido, and erectile function. It has an effect on many body systems, underscoring its importance for men's physical health and fertility. The goal of this study is to learn more about the critical and varied roles that testosterone plays in healthy men's physiological functioning. The following MeSH terms were used in a PubMed search that covered the years 1998 to the present: (((testosterone) OR (androgens)) OR (testosterone insufficiency)) AND (healthy men)) AND (testosterone replacement). Descriptive, observational, and experimental studies including healthy men-more especially, those assessing the effects of testosterone therapy-were required for inclusion. Testosterone supplements can have a good impact on a number of important aspects of men's health, such as vascular endothelial function, mood (particularly in lowering depression), muscle strength, bone health, and sexual function. Small sample sizes and a dearth of studies, however, limit these findings, highlighting the need for more investigation to completely comprehend the wider impacts of testosterone on men's health. Testosterone therapy has modest advantages, especially for men who have hypogonadism symptoms and low testosterone levels. These advantages include better vascular function, mood, muscle strength, bone density, and sexual health in healthy men. Considering the prospective benefits of testosterone therapy, more investigation and clinical testing are necessary to completely comprehend its effects and improve therapeutic modalities. Further research will better define the function of testosterone in both healthy and deficient men, which will eventually result in more accurate and successful treatment plans.
+
+Benefits of Testosterone Hormone in the Human Body: A Systematic Review
+
+Number of 
+
+Key takeaways:Testosterone supplementation positively influences sexual function, bone health, muscle strength, mood, and vascular endothelial function in healthy individuals.
+
+Abstract:Testosterone is a key hormone with a complex and essential role in the physiology of healthy individuals; it is crucial for developing and maintaining muscle mass and improved bone density. In addition to these physical features, testosterone is vital for reproductive health as libido, erectile function, and spermatogenesis, the process of sperm production; its impact extends across multiple bodily systems, highlighting its importance for physical traits and overall health and fertility. This study aims to explore the critical and multifaceted role of testosterone in the physiology of healthy individuals. The method was to search PubMed from the year 1993 until current data using MESH terms: ((((testosterone) OR (androgens)) OR (testosterone insufficiency)) AND (healthy patients)) AND (testosterone replacement))). The inclusion criteria are studies with descriptive, observational, and experimental approaches on healthy patients that evaluated the action of testosterone. The updated review indicates that testosterone hormone supplementation positively influences several aspects, including sexual function, bone health, muscle strength, mood (particularly in reducing depression), and vascular endothelial function. However, these findings are limited by the small sample sizes and the relatively few studies available on this topic, warranting further research to better understand the full scope of testosterone's effects. Recent landmark trials have demonstrated that testosterone therapy offers modest benefits, particularly for older men with low testosterone levels and symptoms of hypogonadism. These benefits include improvements in sexual function, bone health, muscle strength, mood, and vascular endothelial function in healthy individuals. Given the potential benefits of testosterone therapy, ongoing research and clinical exploration are highly recommended to deepen our understanding of its full range of effects and to refine therapeutic strategies. Doing more studies will help clarify the role of testosterone in both healthy individuals and those with testosterone deficiency, leading to better-informed treatment approaches for the future.
+
+Unveiling The Effect of Testosterone Therapy on Sexual Dysfunction
+
+Number of 
+
+Key takeaways:Testosterone therapy (TTH) has shown positive effects on sexual function, particularly improving erectile function, with improvements in libido and sexual activity occurring within weeks.
+
+Abstract:Male sexual dysfunction, including ED, PD, and PE, is prevalent, particularly in older men. Research has suggested that hormonal factors, specifically low total testosterone levels, may contribute to these conditions. TTh has been explored as a potential treatment for male sexual dysfunction, but studies have used varying assessment methods. This meta-analysis aimed to provide a comprehensive evaluation by using a consistent assessment tool, the International Index of Erectile Function (IIEF). Methods: Randomized controlled trials (RCTs) comparing TTh with placebo in adult men with sexual dysfunction were included. The primary outcome measure was the IIEF score. Studies were selected through a systematic literature search, and 16 RCTs met the inclusion criteria. Results: 16 studies were deemed from 98 studies was identified. The effect size testosterone therapy (Tth) in overall sexual dysfuction with standardized mean difference (SMD) 1.8, 95% CI 0.31 to 3.43. Impact of testosterone therapy on erectile dysfunction with Mean Difference (MD) 3.07, 95% CI 1.68 to 4.46. P-value 0.0001) (p<0.0001). Discussion: Testosterone plays a crucial role in regulating various aspects of male health, including sexual function. TTh has demonstrated positive effects on sexual function, particularly in improving erectile function. The time course of TTh effects suggests that improvements in libido and sexual activity can occur within weeks, while substantial improvements in erectile function may take several months. Additional assessment tools, such as the PDQ-Q4 and DISF-M-II, have also shown positive outcomes with TTh.
+
+Clinical Application of Botulinum Neurotoxin in Lower-Urinary-Tract Diseases and Dysfunctions: Where Are We Now and What More Can We Do?
+
+Number of 
+
+Key takeaways:Botox has shown promise in treating lower urinary tract dysfunctions, but its use is limited in certain conditions and requires further research for approval.
+
+Abstract:Botulinum toxin A (Botox) had been considered a promising drug that has an effect on functional disorders of the lower urinary tract. Because Botox exhibits anti-inflammatory and antispasmodic effects, Botox injection into the bladder can decrease detrusor contractility, reduce bladder hypersensitivity, and eliminate painful sensations. Injecting Botox into the bladder outlet can relax the hyperactivity of the bladder neck, and of the urethral smooth and striated muscles. Based on these therapeutic effects, Botox has been widely applied to treat lower-urinary-tract dysfunctions (LUTDs) such as overactive bladder and neurogenic detrusor overactivity. However, this treatment has not been licensed for use in other LUTDs such as interstitial cystitis, voiding dysfunction due to benign prostatic hyperplasia in men, and dysfunctional voiding in women. Botox has also not been approved for the treatment of children with overactive bladder and dysfunctional voiding; in patients with spinal cord injuries with detrusor sphincter dyssynergia and autonomic dysreflexia; or for poorly relaxed external sphincter in non-neurogenic patients. This article reviews the current knowledge regarding Botox treatment for LUTDs and discusses the potential clinical applications of Botox, as well as work that can be conducted in the future.
+
+Testosterone replacement in men with sexual dysfunction.
+
+Number of 
+
+Key takeaways:Testosterone replacement therapy (TRT) likely has little to no effect on erectile function, sexual quality of life, or cardiovascular mortality in men with sexual dysfunction, with uncertain long-term effects.
+
+Abstract:BACKGROUND
+Clinical practice guidelines recommend testosterone replacement therapy (TRT) for men with sexual dysfunction and testosterone deficiency. However, TRT is commonly promoted in men without testosterone deficiency and existing trials often do not clearly report participants' testosterone levels or testosterone-related symptoms. This review assesses the potential benefits and harms of TRT in men presenting with complaints of sexual dysfunction.
+
+OBJECTIVES
+To assess the effects of testosterone replacement therapy compared to placebo or other medical treatments in men with sexual dysfunction.
+
+SEARCH METHODS
+We performed a comprehensive search of CENTRAL (the Cochrane Library), MEDLINE, EMBASE, and the trials registries ClinicalTrials.gov and World Health Organization International Clinical Trials Registry Platform, with no restrictions on language of publication or publication status, up to 29 August 2023.
+
+SELECTION CRITERIA
+We included randomized controlled trials (RCTs) in men (40 years or over) with sexual dysfunction. We excluded men with primary or secondary hypogonadism. We compared testosterone or testosterone with phosphodiesterase-5 inhibitors (PDEI5I) to placebo or PDE5I alone.
+
+DATA COLLECTION AND ANALYSIS
+Two review authors independently screened the literature, assessed the risk of bias, extracted data, and rated the certainty of evidence (CoE) according to GRADE using a minimally contextualized approach. We performed statistical analyses using a random-effects model and interpreted them according to standard Cochrane methodology. Predefined primary outcomes were self-reported erectile dysfunction assessed by a validated instrument, sexual quality of life assessed by a validated instrument, and cardiovascular mortality. Secondary outcomes were treatment withdrawal due to adverse events, prostate-related events, and lower urinary tract symptoms (LUTS). We distinguished between short-term (up to 12 months) and long-term (> 12 months) outcomes.
+
+MAIN RESULTS
+We identified 43 studies with 11,419 randomized participants across three comparisons: testosterone versus placebo, testosterone versus PDE5I, and testosterone with PDE5I versus PDE5I alone. This abstract focuses on the most relevant comparison of testosterone versus placebo. Testosterone versus placebo (up to 12 months) Based on a predefined sensitivity analysis of studies at low risk of bias, and an analysis combing data from the similar International Index of Erectile Function (IIEF-EF) and IIEF-5 instruments, TRT likely results in little to no difference in erectile function assessed with the IIEF-EF (mean difference (MD) 2.37, 95% confidence interval (CI) 1.67 to 3.08; I² = 0%; 6 RCTs, 2016 participants; moderate CoE) on a scale from 6 to 30 with larger values reflecting better erectile function. We assumed a minimal clinically important difference (MCID) of greater than or equal to 4. TRT likely results in little to no change in sexual quality of life assessed with the Aging Males' Symptoms scale (MD -2.31, 95% CI -3.63 to -1.00; I² = 0%; 5 RCTs, 1030 participants; moderate CoE) on a scale from 17 to 85 with larger values reflecting worse sexual quality of life. We assumed a MCID of greater than or equal to 10. TRT also likely results in little to no difference in cardiovascular mortality (risk ratio (RR) 0.83, 95% CI 0.21 to 3.26; I² = 0%; 10 RCTs, 3525 participants; moderate CoE). Based on two cardiovascular deaths in the placebo group and an assumed MCID of 3%, this would correspond to no additional deaths per 1000 men (95% CI 1 fewer to 4 more). TRT also likely results in little to no difference in treatment withdrawal due to adverse events, prostate-related events, or LUTS. Testosterone versus placebo (later than 12 months) We are very uncertain about the longer-term effects of TRT on erectile dysfunction assessed with the IIEF-EF (MD 4.20, 95% CI -2.03 to 10.43; 1 study, 42 participants; very low CoE). We did not find studies reporting on sexual quality of life or cardiovascular mortality. We are very uncertain about the effect of testosterone on treatment withdrawal due to adverse events. We found no studies reporting on prostate-related events or LUTS.
+
+AUTHORS' CONCLUSIONS
+In the short term, TRT probably has little to no effect on erectile function, sexual quality of life, or cardiovascular mortality compared to a placebo. It likely results in little to no difference in treatment withdrawals due to adverse events, prostate-related events, or LUTS. In the long term, we are very uncertain about the effects of TRT on erectile function when compared to placebo; we did not find data on its effects on sexual quality of life or cardiovascular mortality. The certainty of evidence ranged from moderate (signaling that we are confident that the reported effect size is likely to be close to the true effect) to very low (indicating that the true effect is likely to be substantially different). The findings of this review should help to inform future guidelines and clinical decision-making at the point of care.
+
+The Effect of Intravesical OnabotulinumtoxinA Injection on Women Sexual Function in Overactive Bladder Treatment: Observational Study
+
+Number of 
+
+Key takeaways:Intravesical Botox injections significantly improve sexual function in women with overactive bladder.
+
+Abstract:Objective: To investigate the effect of intravesical onabotulinumtoxinA (Botox) injection on female sexual function in women with overactive bladder (OAB) and to evaluate its relationship with OAB symptoms. Material and Methods: Data from 56 patients with idiopathic OAB and who were resistant to medical therapy between January 2018 and July 2019 were evaluated. The patients were evaluated with an overactive bladder symptom score (OABSS) and female sexual function index (FSFI) before and after 100 IU Botox treatment. The changes in the symptom scores of the patients and the FSFI scores were compared. Results: A total of 38 patients completed the study. The mean age of the patients was 41.59±11.79 (31-56), and the mean body mass index was 30.02±4.77 kg/m2. Mean duration of complaints was 48,93±45,32 months and mean number of pads daily used was 3,92±2,39. For the treatment of idiopathic OAB, 100IU Botox application to each patient was performed in 20 regions. Significant improvement was observed in the OABSS scores of the patients 12 weeks after treatment (10.32±3.01 to 4.68±2.21; p<0.001). When the FSFI scores were examined, a significant improvement was observed in the FSFI-desire, arousal, satisfaction, and pain subgroups and total FSFI score 12 weeks after the procedure. In the post-treatment evaluation, 94.73% of the patients were satisfied with the treatment. Urinary retention occurred in two patients. Conclusion: As a result of our study, intravesical botox injections have been shown to improve sexual function in women with OAB. More extensive studies are needed to better evaluate the effects of botox injection on sexual functions.
+
+Safety and Effectiveness of Repeated Botulinum Toxin A Intracavernosal Injections in Men with Erectile Dysfunction Unresponsive to Approved Pharmacological Treatments: Real-World Observational Data
+
+Number of 
+
+Key takeaways:Repeated botulinum toxin A intracavernosal injections combined with PDE5 inhibitors or prostaglandin E1 inhibitors effectively and safely improve erectile dysfunction in men unresponsive to approved treatments.
+
+Abstract:Intracavernosal injections of botulinum toxin A (BTX/A ic) may be effective for difficult-to-treat erectile dysfunction (ED). This is a retrospective case series study of the effectiveness of repeated off-label BTX/A ic (onabotulinumtoxinA 100U, incobotulinumtoxinA 100U or abobotulinumtoxinA 500U) in men with ED and insufficient response to phosphodiesterase type 5 inhibitors (PDE5-Is) or prostaglandinE1 intracavernosal injections (PGE1 ICIs), defined as an International Index of Erectile Function-Erectile Function domain score (IIEF-EF) < 26 on treatment. Further injections were performed on patients’ requests, and the files of men who underwent at least two injections were reviewed. The response to BTX/A ic was defined as the achievement of the minimally clinically important difference in IIEF-EF adjusted to the severity of ED on treatment at baseline. Out of 216 men treated with BTX/A ic and PDE5-Is or PGE1-ICIs, 92 (42.6%) requested at least a second injection. The median time since the preceding injection was 8.7 months. In total, 85, 44 and 23 men received, respectively, two, three and four BTX/A ic. The overall response rate was 77.5%: 85.7% in men with mild ED, 79% for moderate ED and 64.3% for severe ED on treatment. The response increased with repeated injections: 67.5%, 87.5% and 94.7%, respectively, after the second, third and fourth injections. Post-injection changes in IIEF-EF were similar across injections. The time from injection to request for a further injection varied little. Four men reported penile pain at the time of injection (1.5% of all injections), and one experienced a burn at the penile crus. Repeated BTX/A injections combined with PDE5-Is or PGE1-ICIs produced an effective and durable response, with acceptable safety.
+
+The Effect of Testosterone Replacement on Sexual Function in the Elderly: A Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:Testosterone replacement therapy (TRT) showed no significant improvement in sexual function for elderly men, but intramuscular injections of 1,000 mg testosterone significantly improved erection and motivation.
+
+Abstract:Purpose Healthy aging is an important concern in an aging society. Although the causal relationship between hypogonadism and erectile dysfunction in elderly men remains unclear, many physicians have achieved positive results after implementing exogenous testosterone supplementation therapy in patients with normal or slightly low blood testosterone. The purpose of this study was to conduct a systematic review and meta-analysis on whether testosterone replacement therapy (TRT) could improve sexual function in the elderly, as reported recently. Materials and Methods As a comprehensive literature search was performed to find articles 
+
+Update of the position paper on arterial hypertension and erectile dysfunction.
+
+Number of 
+
+Key takeaways:Erectile dysfunction is associated with arterial hypertension, and antihypertensive drugs may negatively impact erectile function, with diuretics and beta-blockers having the worst effects.
+
+Abstract:: Sexual health is an integral part of overall health, and an active and healthy sexual life is an essential aspect of a good life quality. Cardiovascular disease and sexual health share common risk factors (arterial hypertension, diabetes mellitus, dyslipidemia, obesity, and smoking) and common mediating mechanisms (endothelial dysfunction, subclinical inflammation, and atherosclerosis). This generated a shift of thinking about the pathophysiology and subsequently the management of sexual dysfunction. The introduction of phosphodiesterase type 5 inhibitors revolutionized the management of sexual dysfunction in men. This article will focus on erectile dysfunction and its association with arterial hypertension. This update of the position paper was created by the Working Group on Sexual Dysfunction and Arterial Hypertension of the European Society of Hypertension. This working group has been very active during the last years in promoting the familiarization of hypertension specialists and related physicians with erectile dysfunction, through numerous lectures in national and international meetings, a position paper, newsletters, guidelines, and a book specifically addressing erectile dysfunction in hypertensive patients. It was noted that erectile dysfunction precedes the development of coronary artery disease. The artery size hypothesis has been proposed as a potential explanation for this observation. This hypothesis seeks to explain the differing manifestation of the same vascular condition, based on the size of the vessels. Clinical presentations of the atherosclerotic and/or endothelium disease in the penile arteries might precede the corresponding manifestations from larger arteries. Treated hypertensive patients are more likely to have sexual dysfunction compared with untreated ones, suggesting a detrimental role of antihypertensive treatment on erectile function. The occurrence of erectile dysfunction seems to be related to undesirable effects of antihypertensive drugs on the penile tissue. Available information points toward divergent effects of antihypertensive drugs on erectile function, with diuretics and beta-blockers possessing the worst profile and angiotensin receptor blockers and nebivolol the best profile.
+
+Diagnosis and Treatment of Testosterone Deficiency: Updated Recommendations From the Lisbon 2018 International Consultation for Sexual Medicine.
+
+Number of 
+
+Key takeaways:Testosterone therapy improves sexual desire and erectile function in men with testosterone deficiency, without increasing the risk of prostate cancer or cardiovascular events.
+
+Sexual health and treatment-related sexual dysfunction in sexual and gender minorities with prostate cancer
+
+Number of 
+
+Key takeaways:Prostate cancer treatment can negatively impact sexual health and function in sexual and gender minority populations, affecting their quality of life.
+
+Sexual dysfunction in men and women with diabetes: a mirror of their complications?
+
+Number of 
+
+Key takeaways:Sexual dysfunctions often occur in men and women with diabetes, and addressing both micro- and macro-vascular complications is crucial for effective treatment.
+
+Abstract:BACKGROUND
+Diabetes mellitus (DM), one of the worldwide leading causes of death, is associated with a plethora of micro- and macro-vascular complications which should be carefully investigated and, in case, treated in order to improve quality of life and reduce the risk of premature mortality.
+
+OBJECTIVE
+To investigate and report current evidence in regards to the association between sexual dysfunction and diabetes.
+
+METHODS
+A detailed analysis of current literature has been performed on PubMed and Scholar in order to retrieve the most relevant findings pertaining to study topic.
+
+RESULTS
+Female and male sexual dysfunction often occur in the context of diabetes; while cardiovascular complications are clearly involved, psychosexological factors, endocrine complications, and endothelial dysfunction all contribute to the pathogenesis of sexual dysfunctions. Psychological symptoms are seldom investigated, yet should not be overlooked by the clinician; in fact, an interplay between sexual dysfunctions and depressive symptoms has been reported, and beneficial effects on both conditions might be obtained by adequate psychological support. Sexual dysfunctions can also act as early biomarkers of cardiovascular disease - a phenomenon frequently reported in men, in which erectile dysfunction predicts the development of coronary artery disease. Additionally, drug therapies can act in both directions, with treatments for diabetes possibly improving male sexual function and beneficial effects for cardiovascular health being reported for pro-erectile drugs.
+
+CONCLUSION
+Sexual dysfunctions often occur in men and women with diabetes. Investigating micro- and macro-vascular complications might not be enough to prevent the development or worsening of any sexual dysfunction; endocrine and psychological assessment are therefore needed to provide the best chances for adequate treatment.
+
+Sexual function in men undergoing androgen deprivation therapy
+
+Number of 
+
+Key takeaways:ADT is associated with reduced libido and increased risk of erectile dysfunction in men, and a personalized treatment plan should consider patient and partner needs.
+
+Oxidative Stress and Erectile Dysfunction: Pathophysiology, Impacts, and Potential Treatments
+
+Number of 
+
+Key takeaways:Oxidative stress contributes to erectile dysfunction by disrupting endothelial function and nitric oxide signaling, leading to decreased blood flow and erection difficulties.
+
+Abstract:Erectile dysfunction (ED) is a prevalent condition affecting men’s sexual health, with oxidative stress (OS) having recently been identified as a significant contributing causative factor. This narrative review aims to elucidate the role of OS in the pathophysiology of ED, focusing on impact, mechanisms, and potential therapeutic interventions. Key findings indicate that OS disrupts endothelial function and nitric oxide (NO) signaling, crucial for erectile function. Various sources of reactive oxygen species (ROS) and their detrimental effects on penile tissue are discussed, including aging, diabetes mellitus, hypertension, hyperlipidemia, smoking, obesity, alcohol consumption, psychological stress, hyperhomocysteinemia, chronic kidney disease, and sickle cell disease. Major sources of ROS, such as NADPH oxidase, xanthine oxidase, uncoupled endothelial NO synthase (eNOS), and mitochondrial electron transport, are identified. NO is scavenged by these ROS, leading to endothelial dysfunction characterized by reduced NO availability, impaired vasodilation, increased vascular tone, and inflammation. This ultimately results in ED due to decreased blood flow to penile tissue and the inability to achieve or maintain an erection. Furthermore, ROS impact the transmission of nitrergic neurotransmitters by causing the death of nitrergic neurons and reducing the signaling of neuronal NO synthase (nNOS), exacerbating ED. Therapeutic approaches targeting OS, including antioxidants and lifestyle modifications, show promise in ameliorating ED symptoms. The review underscores the need for further research to develop effective treatments, emphasizing the interplay between OS and vascular health in ED. Integrating pharmacological and non-pharmacological strategies could enhance clinical outcomes for ED patients, advocating for OS management in ED treatment protocols to improve patient quality of life.
+
+Botulinum Neurotoxin and Its Potential Role in the Treatment of Erectile Dysfunction.
+
+Number of 
+
+Key takeaways:Botulinum neurotoxin type A (BoNT-A) shows potential in treating erectile dysfunction, with favorable outcomes in human and animal studies.
+
+Testosterone treatment in older men: clinical implications and unresolved questions from the Testosterone Trials.
+
+Number of 
+
+Key takeaways:Testosterone treatment in older men may improve sexual function but not vitality and physical function, and may have negative effects on coronary plaque volume and cognitive functions.
+
+Treatment of Men for “Low Testosterone”: A Systematic Review
+
+Number of 
+
+Key takeaways:Testosterone supplementation for low testosterone does not consistently show benefits for cardiovascular health, sexual function, mood, and cognition, with ineffective treatment for erectile dysfunction and no consistent effect on mood.
+
+Abstract:Testosterone products are recommended by some prescribers in response to a diagnosis or presumption of “low testosterone” (low-T) for cardiovascular health, sexual function, muscle weakness or wasting, mood and behavior, and cognition. We performed a systematic review of 156 eligible randomized controlled trials in which testosterone was compared to placebo for one or more of these conditions. We included studies in bibliographic databases between January 1, 1950 and April 9, 2016, and excluded studies involving bodybuilding, contraceptive effectiveness, or treatment of any condition in women or children. Studies with multiple relevant endpoints were included in all relevant tables. Testosterone supplementation did not show consistent benefit for cardiovascular risk, sexual function, mood and behavior, or cognition. Studies that examined clinical cardiovascular endpoints have not favored testosterone therapy over placebo. Testosterone is ineffective in treating erectile dysfunction and controlled trials did not show a consistent effect on libido. Testosterone supplementation consistently increased muscle strength but did not have beneficial effects on physical function. Most studies on mood-related endpoints found no beneficial effect of testosterone treatment on personality, psychological well-being, or mood. The prescription of testosterone supplementation for low-T for cardiovascular health, sexual function, physical function, mood, or cognitive function is without support from randomized clinical trials.
+
+The effects of a structured-exercise training program on erectile function, cardiovascular and respiratory parameters in men following prostate cancer treatment: Preliminary results from a randomised, controlled clinical trial in prostate cancer survivorship
+
+Number of 
+
+Key takeaways:A 12-week structured HIIT exercise program is feasible, safe, and improves erectile function, cardiorespiratory fitness, exercise capacity, and vascular health in men with prostate cancer.
+
+Single injection of very mild dose BOTOX in the vastus lateralis improves testicular spermatogenesis and sperm motility in ageing experimental mice
+
+Number of 
+
+Key takeaways:A mild intramuscular dose of BOTOX can improve testicular spermatogenesis and sperm motility in ageing mice, potentially preventing male infertility.
+
+Abstract:Acetylcholine (ACh), a key neurochemical messenger that plays key roles in neuroplasticity and muscle contraction. While ACh is important for the physiological function of the testis, abnormal levels of ACh cause testicular atrophy and male infertility. BOTOX is a therapeutic form of the botulinum neurotoxin that blocks the excessive release of ACh at the neuromuscular junction. Previously, repeated intracremasteric injections and slight overdose of BOTOX have been reported to induce adverse effects in the testicular parameter of experimental rodents. However, a mild dose of BOTOX is highly beneficial against skin ageing, neurological deficits, overactive urinary bladder problems, testicular pain and erectile dysfunctions. Considering the facts, the possible therapeutic benefit of BOTOX on the testis might be achieved via its minimal dose and indirect mode of action rather than repeated high quantity in the local supply. Therefore, we revisited the effect of BOTOX but with a trace amount injected into the vastus lateralis of the thigh muscle, and analyzed histological parameters of testis and quality of semen in ageing experimental mice. Experimental animals injected with 1 U/kg bodyweight of BOTOX showed enhanced spermatogenesis in associations with increased activities of key antioxidants in the testis, leading to increased total sperm count and motility. This study signifies that a mild intramuscular dose of BOTOX can be considered as a potential treatment strategy to manage and prevent male infertility.
+
+Current treatment options for erectile dysfunction in kidney transplant recipients.
+
+Number of 
+
+Key takeaways:Phospherase type 5 inhibitors, testosterone, and extracorporeal shockwave therapy are effective treatments for erectile dysfunction in kidney transplant recipients.
+
+Abstract:INTRODUCTION
+Erectile dysfunction (ED) and kidney dysfunction share common risk factors linked to conditions involving endothelial impairment, such as coronary artery disease, dyslipidemia, diabetes mellitus, hypertension, smoking, and obesity. Men with chronic kidney disease experience a high incidence and prevalence of ED. While a functional renal graft can alleviate the issue for some patients, a significant portion of recipients still experience ED (20%-50%).
+
+OBJECTIVES
+This narrative review describes the variety of current treatments modalities on ED in kidney transplant recipients (KTRs) and their clinical outcomes.
+
+METHODS
+MEDLINE, Web of Science, PubMed, and Google Scholar were used to find eligible articles pertaining to the treatment options of ED in KTRs. A total of 64 articles were evaluated.
+
+RESULTS
+In KTRs, ED stems from a multifaceted etiology: anxiety, drug side effects, interference with penile vascularity, or the response of cavernosal muscle to neurotransmitters, along with changes in the endocrine milieu. A diverse range of treatments to restore erectile function has proven to be safe and effective for KTRs. Options include drug therapy, surgical interventions, intracavernosal injection therapies, vacuum erection devices, and extracorporeal shockwave therapy.
+
+CONCLUSION
+The initial treatment approach may involve the use of a phosphodiesterase type 5 inhibitors at a low dosage, especially if testosterone-circulating levels align with the diagnosis of hypogonadism. The consideration of a combination therapy involving testosterone and phosphodiesterase type 5 inhibitors should be contemplated due to the associated beneficial effects. Extracorporeal shockwave therapy has shown positive short-term clinical and physiological effects on erectile function in patients who did not respond to first-line treatments, resulting in spontaneous erections sufficient for sexual penetration in 50% of cases. Penile implants should be considered as third-line options based on specific patient needs and compliance with clinical conditions.
+
+Use of Botulinum Toxin (Botox®) in Cases of Refractory Pelvic Floor Muscle Dysfunction.
+
+Number of 
+
+Key takeaways:Botulinum toxin (Botox) shows promising evidence in treating refractory pelvic floor muscle dysfunction, with success rates varying between 62 and 100% and no recurrence within 1 year after treatment.
+
+Effects of Testosterone Treatment in Older Men.
+
+Number of 
+
+Key takeaways:Testosterone treatment in men aged 65 and older improves sexual function and mood, but not vitality or walking distance, with no significant difference in adverse events.
+
+Abstract:BACKGROUND
+Serum testosterone concentrations decrease as men age, but benefits of raising testosterone levels in older men have not been established.
+
+METHODS
+We assigned 790 men 65 years of age or older with a serum testosterone concentration of less than 275 ng per deciliter and symptoms suggesting hypoandrogenism to receive either testosterone gel or placebo gel for 1 year. Each man participated in one or more of three trialsthe Sexual Function Trial, the Physical Function Trial, and the Vitality Trial. The primary outcome of each of the individual trials was also evaluated in all participants.
+
+RESULTS
+Testosterone treatment increased serum testosterone levels to the mid-normal range for men 19 to 40 years of age. The increase in testosterone levels was associated with significantly increased sexual activity, as assessed by the Psychosexual Daily Questionnaire (P<0.001), as well as significantly increased sexual desire and erectile function. The percentage of men who had an increase of at least 50 m in the 6-minute walking distance did not differ significantly between the two study groups in the Physical Function Trial but did differ significantly when men in all three trials were included (20.5% of men who received testosterone vs. 12.6% of men who received placebo, P=0.003). Testosterone had no significant benefit with respect to vitality, as assessed by the Functional Assessment of Chronic Illness Therapy-Fatigue scale, but men who received testosterone reported slightly better mood and lower severity of depressive symptoms than those who received placebo. The rates of adverse events were similar in the two groups.
+
+CONCLUSIONS
+In symptomatic men 65 years of age or older, raising testosterone concentrations for 1 year from moderately low to the mid-normal range for men 19 to 40 years of age had a moderate benefit with respect to sexual function and some benefit with respect to mood and depressive symptoms but no benefit with respect to vitality or walking distance. The number of participants was too few to draw conclusions about the risks of testosterone treatment. (Funded by the National Institutes of Health and others; ClinicalTrials.gov number, NCT00799617.).
+
+Androgens and male sexual function.
+
+Number of 
+
+Key takeaways:Testosterone treatment (TRT) can improve sexual functioning in symptomatic hypogonadal men, but its effects are modest and lower in those with metabolic conditions.
+
+Application of Botulinum Neurotoxin in Female Sexual and Genitourinary Dysfunction: A Review of Current Practices.
+
+Number of 
+
+Key takeaways:Botulinum neurotoxin (BoNT) is a safe and effective treatment option for female patients with various sexual and genitourinary disorders.
+
+Number of 
+
+Key takeaways:Men can benefit from Botox treatment for facial lines, but may require more units and special considerations for brows, orbital lines, and lower face.
+
+Abstract:ABSTRACT:  Men have a growing interest in cosmetic dermatologic treatments. Botulinum toxin type A (BTX‐A) treatment offers a minimally invasive approach to improving facial lines and is often the first cosmetic procedure chosen by male patients. In general, men can be treated with the same techniques as women, but often require more units of BTX‐A. Glabellar lines in the male have been the most well‐studied with a recommended starting dose of 40 U. Some men may require up to 80 U in the glabellar complex. The most common cause of an inadequate result in male patients is under‐dosing. Forehead lines require care, as many men with horizontal lines have low‐positioned eyebrows, and excessive relaxation of the lower frontalis muscle can drop their brows further. Special consideration should be given to the male brow when treating men. Lateral orbital lines can be treated with a starting dose of 15 U per crow's foot. Men may need additional injections to the orbicularis oculi muscle as many men have a broad circumferential orbicularis. The lower face is amenable to BTX‐A treatment in men. BTX‐A can be used to reduce axillary sweating and improve armpit odor. BTX‐A shows promise in treating benign prostatic hyperplasia, and may in the future become a first‐line treatment.
+
+Diagnosis and treatment of erectile dysfunction for reduction of cardiovascular risk.
+
+Number of 
+
+Key takeaways:Erectile dysfunction is a valuable marker of cardiovascular risk, and lifestyle changes and informed prescribing of pharmacotherapies can improve overall vascular health and sexual functioning in men with erectile dysfunction.
+
+(272) Botulinum Toxin Injection in Vulva and Vagina: Evidence from a Literature Systematic Review
+
+Number of 
+
+Key takeaways:Botulinum toxin injections show promise in improving vaginismus, vulvodynia, and chronic pelvic pain, but a clear standardization in clinical guidelines is needed for practical guidelines.
+
+Abstract:Vaginismus, vulvodynia and chronic pelvic pain are a group of pain syndromes that may have, in addition to pain, other types of symptoms. Often no specific etiology can be identified, and the choice of treatment is complicated. Although several treatment methods have been proposed, evidence-based therapies are limited. Therapies can be classified in medical, surgical and interventional treatment. Interventional therapy contemplates injection therapy with botulinum toxin, proposed in 1997
+ 
+ 
+ 
+ To evaluate the BoNT injection in the comprehensive care of vaginismus, vulvodynia and chronic pelvic pain and to enhance the impact on the sexual arousal.
+ 
+ 
+ 
+ 1108 patients, Randomized Controlled Trials (RCT) were 7. The Retrospective Studies Without a control group were 4, With a control group: 1. Besides, the Prospective Studies Without a control group were, . 2 patients were With a control group. The BoNT Dosage Range was: Minimum: 12 UI Maximum: 500 UI Types of BoNT Products: Botox® (onabotulinumtoxinA): 14 Xeomin® (incobotulinumtoxinA): 3 Dysport® (abobotulinumtoxinA): 3 Unspecified BoNT Product: 1 EMG-Guided Injection: 5 I used as BoNT Administration Techniques, the Digital Palpation: 12, the unspecified Injection Procedure: 4. My methods were 17 patients in Intramuscular Injection, 3 patients with Vaginal Submucosal Plane, and one patient with Subcutaneous Injection.
+ 
+ 
+ 
+ For Vaginismus, Significant improvement in sexual and orgasmic dysfunction Successful intercourse Reduction of vaginal muscle resistance Improved sexual function (evaluated by Female Sexual Function Index) Pain reduction and improved quality of life (Short-Form Health Survey) BoNT reduced muscular hyperactivity. Both BoNT and placebo improved sexual pain, function, and distress for patients with vulvodynia, Significant improvement in pain 4, improved quality of life 2 and increase of sexual activity due to the reduced pelvic hypertonicity. Other Study Results: Significant improvement in pelvic pain Reduction of vaginal pressure Improvement in quality of life, sexual activity, and reduced pelvic floor muscles myoelectrical activity 
+ 
+ 
+ 
+ Different endpoints and different methods of analysis. Different types of participants. Various techniques and timing. Adverse events. For this reason, even though BoNT seems a promising treatment, a clear standardization in clinical guidelines is still lacking. A clear standardization is needed for practical guidelines. Future perspectives should address reproducible protocols for BoNT administration.
+ 
+ 
+ 
+ No.
+
+Impact of intravesical onabotulinumtoxinA on sexual function in women with OAB
+
+Number of 
+
+Key takeaways:Intravesical onabotulinumtoxinA injections improve sexual function in women with overactive bladder, as assessed by the Female Sexual Function Index.
+
+Abstract:Urgency urinary incontinence (UUI), and the symptoms of overactive bladder (OAB) have a negative impact on female sexual function. The aim of this study was to investigate the effect of intravesical onabotulinumtoxinA (Botox) injection on sexual function in women with OAB, using the multi domain Female Sexual Function Index (FSFI) questionnaire.
+
+Vaginismus Treatment: Clinical Trials Follow Up 241 Patients
+
+Number of 
+
+Key takeaways:A multimodal vaginismus treatment program, including Botox and bupivacaine, effectively treated physical and psychologic aspects of vaginismus, enabling 71% of women to achieve pain-free intercourse.
+
+Vaginismus: Review of Current Concepts and Treatment Using Botox Injections, Bupivacaine Injections, and Progressive Dilation with the Patient Under Anesthesia
+
+Number of 
+
+Key takeaways:Vaginal Botox injections show promise in treating vaginismus, an involuntary aversion to vaginal penetration, and may help plastic surgeons better understand and treat this disorder.
+
+Abstract:Vaginismus is a poorly understood condition affecting approximately 1–7% of females worldwide. This article aims to bring attention to this disorder and to review the use of Botox injections to treat these patients. Vaginismus, also known as vaginal penetration disorder, is an aversion to any form of vaginal penetration as a result of painful attempts and a fear of anticipated pain. It is involuntary and uncontrolled and functions much the same as any reflex to avoid injury. It is the most common reason for unconsummated marriages. The etiology is thought to be unknown. Numerous papers note a history of religious or strict sexual upbringing or aversion to penetration because of perceived pain and bleeding with first-time intercourse. Sexual molestation may be more prevalent in this group of patients. The Lamont classification is very helpful in stratifying these patients for treatment. Lamont grade 5 vaginismus is introduced. Vaginal Botox injections for the treatment of vaginismus has received increasing attention since the technique was first described in a 1997 case report. Plastic surgeons worldwide with their experience using Botox are well positioned to learn more about this relatively unknown entity and render treatment.
+
+Botulinum toxin type A-a novel treatment for provoked vestibulodynia? Results from a randomized, placebo controlled, double blinded study.
+
+Number of 
+
+Key takeaways:Botox injections in women with vestibulodynia do not significantly reduce pain, improve sexual functioning, or impact quality of life compared to placebo.
+
+Abstract:INTRODUCTION
+Vestibulodynia is an increasingly recognized problem among women and is often difficult to treat.
+
+AIM
+This randomized, double blinded, placebo-controlled study aimed to evaluate the efficacy of Botox in the treatment of vestibulodynia.
+
+METHODS
+Sixty-four women were randomized to receive Botox (N = 32) or saline placebo (N = 32). Botulinum toxin A (20 I.E.) diluted in 0.5 mL saline or 0.5 mL saline was injected in the musculus bulbospongiosus at baseline.
+
+MAIN OUTCOME MEASURES
+Pain was measured monthly on a visual analog scale (VAS) Likert scale. Sexual function was measured using the Female Sexual Function Index (FSFI) and the Female Sexual Distress Scale at baseline and at 3 and 6 months follow up. Quality of life was measured using the 36-item short-form (SF-36).
+
+RESULTS
+Sixty women (94%) completed the 6 months follow up. Both Botox and placebo produced significantly pain reduction (P < 0.001). There was no significant difference in the median VAS score between the groups at 6 months follow up (P = 0.984). An improvement on the FSFI full score from baseline until 6 months was not significantly different between the groups (P = 0.635). In the placebo group a statistical significant larger reduction in sexual distress was observed from baseline until 6 months follow up compared to the Botox group (P = 0.044). No statistical significant differences were observed between the B- and P-groups in regard to the SF-36 scores.
+
+CONCLUSION
+Injection of 20 I.E. Botox in the vestibule of women diagnosed with vestibulodynia does not reduce pain, improve sexual functioning, or impact the quality of life compared to placebo and evaluated at 3 and 6 moths follow up. Both the Botox group and the placebo groups experienced a reduction in pain on the VAS Likert scale at 6 months follow up. Women with vestibulodynia have difficulty with sexual function and present with sexual distress, which has to be addressed in conjunction with pain to eliminate the disorder.
+
+Overactive Bladder Syndrome Treatments and Their Effect on Female Sexual Function: A Review
+
+Number of 
+
+Key takeaways:Physiotherapy, anticholinergic drugs, intravesical injections of onabotulinumtoxinA, and sacral neuromodulation do not negatively affect sexual function in women with overactive bladder syndrome.
+
+Botulinum Toxin A Injections Into Pelvic Floor Muscles Under Electromyographic Guidance for Women With Refractory High-Tone Pelvic Floor Dysfunction: A 6-Month Prospective Pilot Study
+
+Number of 
+
+Key takeaways:Electromyography-guided Botox injections can effectively reduce pelvic pain and improve quality of life in women with refractory high-tone pelvic floor dysfunction.
+
+Abstract:Objectives High-tone pelvic floor dysfunction (HTPFD) is a debilitating chronic pain disorder for many women with significant impact on their quality of life (QoL). Our objective was to determine the efficacy of electromyography-guided onabotulinumtoxinA (Botox; Allergan, Irvine, Calif) injections in treating patient’s perception of pelvic pain and improving QoL measurement scores. Methods This is a prospective pilot open-label study of women with chronic pelvic pain and HTPFD who have failed conventional therapy between January 2011 and August 2013. Botox injections (up to 300 U) were done using needle electromyography guidance, from a transperineal approach, to localize spastic pelvic floor muscles (PFMs). Data were collected at baseline, 4, 8, 12, and 24 weeks after injections. This included demographics; Visual Analog Scale (VAS) scores for pain and dyspareunia; validated questionnaires for symptoms, QoL, and sexual function; Global Response Assessment scale for pelvic pain; digital examination of PFM for tone and tenderness; and vaginal manometry. Side effects were also recorded. Results Out of 28 women who enrolled in the study, 21 completed the 6-month follow-up and qualified for analysis. The mean (SD) age was 35.1 (9.4) years (range, 22–50 years), and the mean (SD) body mass index was 25 (4.4). Comorbidities included interstitial cystitis/bladder pain syndrome (42.9%) and vulvodynia (66.7%). Overall, 61.9% of subjects reported improvement on Global Response Assessment at 4 weeks and 80.9% at 8, 12, and 24 weeks post injection, compared with baseline. Of the subjects who were sexually active at baseline, 58.8% (10/17), 68.8% (11/16), 80% (12/15), and 83.3% (15/18) reported less dyspareunia at 4, 8, 12, and 24 weeks, respectively. Dyspareunia Visual Analog Scale score significantly improved at weeks 12 (5.6, P = 0.011) and 24 (5.4, P = 0.004) compared with baseline (7.8). Two of the 4 patients who avoided sexual activity at baseline secondary to dyspareunia resumed and tolerated intercourse after Botox. Sexual dysfunction as measured by the Female Sexual Distress Scale significantly improved at 8 weeks (27.6, P = 0.005), 12 weeks (27.9, P = 0.006), and 24 weeks (22.6, P < 0.001) compared with baseline (34.5). The Short-Form 12 Health Survey (SF-12) showed improved QoL in the physical composite score at all post injections visits (42.9, 44, 43.1, and 45.5 vs 40 at baseline; P < 0.05), and in the mental composite score at both 12 and 24 weeks (44.3 and 47.8 vs 38.5, P = 0.012). Vaginal manometry demonstrated significant decrease in resting pressures and in maximum contraction pressures at all follow-up visits (P < 0.05). Digital assessment of PFM (on a scale from 0 to 4) showed decreased tenderness on all visits (mean of 1.9, 1.7, 1.8, 1.9; P < 0.001) compared with baseline (2.8). Reported postinjection adverse effects included worsening of the following preexisting conditions: constipation (28.6%), stress urinary incontinence (4.8%), fecal incontinence (4.8%), and new onset stress urinary incontinence (4.8%). Conclusions Electromyography-guided Botox injection into PFM could be beneficial for women with refractory HTPFD who have failed conservative therapy.
+
+Can Botox Offer Help Women With Vaginismus? A Systematic Review and Meta-Analysis
+
+Number of 
+
+Key takeaways:Botox injections can improve vaginismus in women, but more randomized clinical trials are needed to confirm this conclusion.
+
+Abstract:Abstract Objectives: Evaluating the effect of botox injections on the satisfactory penetrating in women with vaginismus. Methods: A comprehensive systematic search in the electronic databases carried out up to September 2018. All studies that used botox to treat vaginismus were included in this review. Results: Nine cohort studies were included in meta-analysis. Our results indicate that botox can be an option for effective treatment of patients with vaginismus (event rate = 0.855, 95% confidence interval = 0.764 to 0.915; p-value < 0.001). Conclusion: Botox injection can improve vaginismus. However, because of the lack of randomized clinical trials, this conclusion should be carefully interpreted.
+
+Botox Effect on Sex Hormones and Lipid Profile of Females Rats
+
+Number of 
+
+Key takeaways:Botox injections in female rats decrease FSH and LH levels and increase progesterone levels, with 0.2 ml dose showing the most significant increase in cholesterol levels.
+
+Abstract:The present study aimed to investigate the effect of Botoxon sex hormones level which including follicle-stimulating hormone (FSH), luteinizing hormone(LH)and progesterone in female rats and measurement of serum lipid profile. Two doses 0.1/animal and 0.2 ml/animal from Botox were used and the animals were injected intramuscular of botulinum toxin for 1 day as two doses only. The results showed a significant decrease (P<0.05) in the level of FSH and LH, with a significant increase the level of progesterone of the female treated with 0.1 ml and 0.2 ml of Botox compared with the control group. The results showed a significant increase in the level of cholesterol, TG, HDL, LDL and VLDL of the female treated with Botoxat dose 0.2 ml when compared with the control group. While,the female treated with Botoxat dose 0.1 ml there was no a significant in level of cholesterol compared with control group. Also, there was a significant decrease of HDL of female rats treated with Botox compared with control group. Injections of female rats with botulinum toxin are generally well tolerated and side effects are few. A precise knowledge and understanding of the functional anatomy of the mimetic muscles is absolutely necessary to correctly use botulinum toxins in clinical practice.
+
+Sexual health and function in women with diabetes
+
+Number of 
+
+Key takeaways:Women with diabetes experience more sexual dysfunction due to factors such as high blood glucose levels, depression, and self-management issues, but raising awareness can help address this issue in clinical consultations.
+
+Abstract:Sexual dysfunction for women with diabetes is more common than for women without diabetes. The reasons why women with diabetes are a high‐risk group are numerous. For example, lack of vaginal lubrication, pain during sex and inability to orgasm can be a consequence of high or low blood glucose levels. Higher rates of depression in people with diabetes can lead to low sexual drive. Wearing of diabetes devices, such as pumps, glucose monitors or lumps from lipohypertrophy around insulin injection sites may affect body image and self‐esteem and the inconvenience of self‐managing diabetes may affect the spontaneity of sex. This narrative review provides an overview of the problem of sexual dysfunction in women with diabetes, current methods of assessing sexual dysfunction in women, pharmacological and non‐pharmacological interventions to treat it and an example of how psychological support for women with diabetes who experience sexual dysfunction can be integrated into a diabetes service. There are still significant gaps in our knowledge of how best to support women with diabetes and sexual dysfunction. However, raising awareness of the problem may help women with diabetes and healthcare professionals to discuss it as part of diabetes clinical consultations.
+
+Cardiometabolic Risk and Female Sexuality-Part I. Risk Factors and Potential Pathophysiological Underpinnings for Female Vasculogenic Sexual Dysfunction Syndromes.
+
+Number of 
+
+Key takeaways:Common cardiometabolic alterations may affect vascular function in the female genital tract, with a milder association than in men.
+
+Associations between arterial health and sexual function in women aged 60–64 years
+
+Number of 
+
+Key takeaways:Arterial health is associated with improved female sexual function in women aged 60-64 years.
+
+Abstract:Female sexual dysfunction is very common, but its determinants remain under‐investigated. Vasculogenic impairments are suggested to be related to female sexual dysfunction, but previous literature regarding the association is scarce. This study aims to study the association between arterial health and female sexual function in women in their 60s.
+
+Sexual function analysis and clitoral vascularization in postmenopausal women with genitourinary syndrome treated with Ospemifene.
+
+Number of 
+
+Key takeaways:Ospemifene improves vaginal health and vulvovaginal vascular perfusion, positively impacting sexual function and quality of life in postmenopausal women with genitourinary syndrome.
+
+Abstract:AIMS
+To evaluate the efficacy of Ospemifene in the vaginal health index (VHI), in the vulvovaginal vascular perfusion and to assess its impact on quality of life and sexual function.
+
+METHODS
+Among 52 eligible patients, 43 consecutive postmenopausal patients affected by vulvo-vaginal atrophy (VVA) or Genitourinary Syndrome (GSM) were evaluated. VVA evaluation and ultrasound of the vulvo-vaginal vascularization by sampling the pulsatility index (PI) of clitoris dorsal artery were performed before and after 3 months-treatment with Ospemifene. The 36-Item Short Form Survey (SF-36) for the quality-of-life assessment before and after 3 months were available for all women; instead Female Sexual Function Index (FSFI) and the Female Sexual Distress Scale (FSDS) questionnaires for the sexual function evaluation were performed for sexually active women in the study. The Patient Impression of Global Improvement (PGI-I) after 3 months of treatment was also calculated.
+
+RESULTS
+The number of sexually active women significantly increased after 3 months . The mean number of intercourses during the treatment increased (12.87 ± 3.43 vs 15.79 ± 3.12, p=0.03). The PI of clitoris dorsal artery has significantly changed before and after treatment respectively . The FSFI, FSDS and SF-36 questionnaires scores showed a significant improvement after 3 months. VHI and PI were the independent factors of a lower FSFI after 3 months of treatment at multivariate analysis.
+
+CONCLUSIONS
+Ospemifene improve the VHI and vulvovaginal vascular perfusion demonstrating a positive impact on sexual function and quality of life.
+
+Impact of Immune System Activation and Vascular Impairment on Male and Female Sexual Dysfunction.
+
+Number of 
+
+Key takeaways:Chronic immune system activation may contribute to vascular impairments in male and female sexual dysfunction, potentially reducing the risk of cardiovascular diseases.
+
+Female sexual dysfunction
+
+Number of 
+
+Key takeaways:Female sexual dysfunction (FSD) is a functional impairment in women's sexual response cycle, affecting their quality of life and potentially leading to psychological issues.
+
+Abstract:According to the World Health Organization, sexual health as a state of physical, emotional, mental, and social well-being in the context of sexuality, excludes the mere absence of disease, dysfunction, or infirmity. Thus a woman’s sexual function encompasses many areas; the construct of a normal function as a quality of life indicator often but not always conforms to the sexual response cycle, which is an endogenous process contributed by hormonal, vascular, neuronal, and psycho-emotional factors. Clinical and scientific evidence abounds about the physiological role of sex steroids viz. oestrogen, testosterone, and also progesterone in facilitating and maintaining the woman’s sexual parameters. The neurophysiology extends from the central and peripheral nervous systems to the targeted genital structures resulting in coordinated vascular and non-vascular smooth muscle relaxation, to be accompanied by pelvic vasocongestion, vaginal lubrication, and labial and clitoral engorgement. Any detrimental impact on this normal cycle of concerted responses can result in a functional impairment or ‘female sexual dysfunction’ (FSD). Sexual changes, psychogenic or organic, are common in women at any age; such complaints are frequently accompanied by quality-of-life concerns, varying levels of personal distress, anxiety, depression, and also fertility concerns in younger women. With FSD as a medically diagnosable entity, fewer drugs have met the safety and efficacy criteria for global approval and clinical utility. In order to appreciate the diverse range of FSD and the extent of its physical, physiological, and psychological implications, it is important to understand the fundamentals as well as the changing paradigms in a woman’s sexual functioning.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

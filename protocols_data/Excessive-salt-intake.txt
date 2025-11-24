@@ -1,0 +1,530 @@
+PROTOCOL: Excessive salt intake
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Excessive salt intake - A strongly documented risk factor for heart disease, kidney disease, and cognitive impairment | Longevity Protocols
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Excessive consumption of table salt is one of the most important and best-documented environmental factors increasing the risk of hypertension, stroke, heart attack, chronic kidney disease, and dementia. Salt present in the Western diet exceeds WHO recommendations by several times, leading to a significant increase in morbidity and premature death.
+
+CONTENT SECTIONS:
+
+Excessive salt intake
+
+A strongly documented risk factor for heart disease, kidney disease, and cognitive impairment
+
+Excessive consumption of table salt is one of the most important and best-documented environmental factors increasing the risk of hypertension, stroke, heart attack, chronic kidney disease, and dementia. Salt present in the Western diet exceeds WHO recommendations by several times, leading to a significant increase in morbidity and premature death.
+
+Level of evidence:Strong
+
+Salt retains water in the body, which raises blood pressure and puts a strain on the heart and blood vessels. Additionally, excess sodium damages the vascular endothelium, increases oxidative stress, promotes inflammation and tissue fibrosis, and also negatively affects the gut microbiome and immunity. Persistently high salt intake accelerates the development of chronic cardiovascular and kidney diseases, as well as cognitive impairment, even in people without baseline hypertension.
+
+The harmfulness of excessive salt intake is confirmed by decades of epidemiological studies, meta-analyses, and WHO data. Even moderately increased salt intake leads to a significant increase in the risk of cardiovascular disease, stroke, chronic kidney disease, and mortality. Harmful effects are also observed in the areas of brain health and cognitive function.
+
+Excessive salt consumption is one of the largest modifiable risk factors for deaths and chronic diseases worldwide. Data from the WHO and international epidemiological consortia emphasize that the scale of the problem involves hundreds of millions of people globally.
+
+Replace salt with herbs and spices
+
+When preparing meals, try to limit salt in favor of fresh herbs, pepper, garlic, lemon juice, or other natural seasonings that enhance flavor.
+
+Avoid highly processed foods
+
+Most of the salt in the diet comes from bread, cold cuts, cheese, soups, and ready-made meals. Choose fresh products and cook for yourself.
+
+Check the amount of sodium on food product packaging and choose those with lower salt content.
+
+Gradually reduce salt amount
+
+Reduce the amount of salt in your diet step by step – your taste buds will adapt to a lower level of saltiness after about 2 weeks.
+
+Choose bread and products with reduced salt content
+
+More and more bakeries offer low-sodium bread – it is worth asking about or choosing such products.
+
+Pay attention to hidden salt
+
+Salt is also found in products that do not seem salty – such as breakfast cereals, sauces, canned foods, or spice mixes. Check the ingredients even in these products.
+
+Adjust salt portions to your health status
+
+People with hypertension, chronic kidney disease, or at risk should be especially rigorous in limiting salt according to doctor's recommendations.
+
+Cardiovascular system
+
+Excessive salt intake has a strongly negative impact on the cardiovascular system. Too much salt in the diet increases the risk of hypertension, stroke, heart disease, and premature death. Limiting salt intake is an effective strategy for preventing cardiovascular diseases.
+
+Mechanisms and effects of salt excess
+
+Summary of scientific evidence
+
+Practical conclusions
+
+Excessive salt intake has a strongly negative impact on the kidneys. High salt intake contributes to the development and progression of chronic kidney disease (CKD), increases the risk of proteinuria, and accelerates the deterioration of kidney function, independent of blood pressure.
+
+Mechanisms of salt damage to the kidneys
+
+Summary of clinical and population studies
+
+Importance of salt reduction
+
+Excessive salt intake may negatively affect the brain, leading to impaired cognitive function, vascular disorders, and increased risk of dementia – independent of its effect on blood pressure. High salt intake is associated with memory impairment, changes in brain structure, and the development of cerebrovascular diseases.
+
+Main mechanisms and effects
+
+Summary of the effects of excessive salt intake on the brain
+
+Importance of salt reduction for brain health
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:48
+
+Final comment:Strong evidence of the harmful effects of excessive salt intake comes from numerous meta-analyses, randomized controlled trials (RCTs), and large population studies conducted in humans. A clear link has been documented between high salt intake and increased risk of hypertension, stroke, heart attack, and chronic kidney disease. Reducing salt consumption significantly decreases the risk of these complications, which has been confirmed in clinical studies and systematic reviews. The impact of salt on cognitive function and brain structure is increasingly well understood and, although further research is needed, the results of current observational and experimental analyses are consistent. The body of scientific evidence justifies an unequivocal recognition of excessive salt intake as harmful and significantly shortening life expectancy.
+
+A comprehensive review on cardiovascular disorders development due to salt intake: an emphasis on policy implementation
+
+Number of 
+
+Key takeaways:Reducing salt intake is crucial to prevent hypertension and cardiovascular diseases, but effective implementation requires public awareness, education, and reformulation of processed foods.
+
+Abstract:Abstract Excessive salt consumption has been linked with the emergence of hypertension, which further leads to cardiovascular disease development among other medical conditions. This has resulted in leading world institutions such as the WHO coming up with relevant plans to minimize its use. Lower–middle-income countries (LMICs) have greatest burden of noncommunicable diseases (NCDs), with hypertension being a common condition. Reduction of salt intake is a great control measure in minimizing the rise in prevalence of hypertension or cardiovascular diseases. Many countries have agreed and even formulated their salt reduction policies as recommended by the WHO, however, the challenge is widely noted in implementation. Thus, few countries have been able to achieve the global WHO recommended standards of daily salt intake. Salt is the main source of sodium in our diets, which is an essential component responsible for the balance of the extracellular fluid volume but may lead to salt-induced hypertension when used excessively. The achievement of salt reduction is predicated on multiple factors such as knowledge, attitude and practice of the public. Therefore, localizing interventions with strategies such as public media campaigns, reformulation of processed foods (mandatory and voluntary) and front-of-packaging labelling awareness. Some of the reasons for failure in implementation include economic challenges, lack of visionary leadership, stakeholder struggles and poor planning and execution of strategies. This review aims to elaborate on the development of cardiovascular diseases or hypertension due to salt usage and the recent advancement regarding salt reduction policies. Further, we assess the need for proper implementation with the United Kingdom as a case study. In conclusion, most governments have made the right decisions in developing or recommending salt reduction strategies to the food industry. However, more focus is needed to ensure effective implementation of the plans.
+
+Salt Reduction to Prevent Hypertension and Cardiovascular Disease: JACC State-of-the-Art Review.
+
+Number of 
+
+Key takeaways:Lowering salt intake lowers blood pressure and reduces the risk of cardiovascular disease, all-cause mortality, and other conditions, making it a cost-effective and essential public health measure.
+
+Modelling the effect of compliance with WHO salt recommendations on cardiovascular disease mortality and costs in Brazil
+
+Number of 
+
+Key takeaways:Excessive sodium consumption contributes to 15% of cardiovascular disease deaths and 14% of healthcare costs in Brazil, with high societal costs and a need for cost-effective policies.
+
+Abstract:Introduction Cardiovascular diseases (CVDs) represent the main cause of death among non-communicable diseases (NCDs) in Brazil, and they have a high economic impact on health systems. Most populations around the world, including Brazilians, consume excessive sodium, which increases blood pressure and the risk of CVDs. Objective To model the estimated deaths and costs associated with CVDs, which are mediated by increased blood pressure attributable to excessive sodium consumption in adults from the perspective of the Brazilian public health system in 2017. Methods We employed two macrosimulation methods, using top-down approaches and based on the same relative risks. The models estimated the mortality and costs-of-illness attributable to excessive sodium intake and mediated by hypertension for adults aged over 30 years in 2017. Direct healthcare cost data (inpatient care, outpatient care and medications) were extracted from the Ministry of Health information systems and official records. Results In 2017, an estimated 46,651 deaths from CVDs could have been prevented if the average sodium consumption had been reduced to 2 g/day in Brazil. Premature deaths related to excessive sodium consumption caused 575,172 Years of Life Lost and US$ 752.7 million in productivity losses to the economy. In the same year, the National Health System’s costs of hospitalizations, outpatient care and medication for hypertension attributable to excessive sodium consumption totaled US$192.1 million. The main causes of death and costs associated with CVDs were coronary heart disease and stroke, followed by hypertensive disease, heart failure and aortic aneurysm. Conclusion Excessive sodium consumption is estimated to account for 15% of deaths by CVDs and to 14% of the inpatient and outpatient costs associated with CVD. It also has high societal costs in terms of premature deaths. CVDs are a leading cause of disease and economic burden on the global, regional and country levels. As a largely preventable and treatable conditions, CVDs require the strengthening of cost-effective policies, supported by evidence, including modeling studies, to reduce the costs relating to illness borne by the Brazilian public health system and society.
+
+The impact of excessive salt intake on human health
+
+Number of 
+
+Key takeaways:Excessive salt intake leads to high blood pressure, cardiovascular morbidity, and mortality, causing 5 million deaths per year worldwide.
+
+Sodium Intake as a Cardiovascular Risk Factor: A Narrative Review
+
+Number of 
+
+Key takeaways:Reducing sodium intake, particularly when consumed in excess, is a potential strategy to reduce blood pressure and cardiovascular disease worldwide.
+
+Abstract:While sodium is essential for human homeostasis, current salt consumption far exceeds physiological needs. Strong evidence suggests a direct causal relationship between sodium intake and blood pressure (BP) and a modest reduction in salt consumption is associated with a meaningful reduction in BP in hypertensive as well as normotensive individuals. Moreover, while long-term randomized controlled trials are still lacking, it is reasonable to assume a direct relationship between sodium intake and cardiovascular outcomes. However, a consensus has yet to be reached on the effectiveness, safety and feasibility of sodium intake reduction on an individual level. Beyond indirect BP-mediated effects, detrimental consequences of high sodium intake are manifold and pathways involving vascular damage, oxidative stress, hormonal alterations, the immune system and the gut microbiome have been described. Globally, while individual response to salt intake is variable, sodium should be perceived as a cardiovascular risk factor when consumed in excess. Reduction of sodium intake on a population level thus presents a potential strategy to reduce the burden of cardiovascular disease worldwide. In this review, we provide an update on the consequences of salt intake on human health, focusing on BP and cardiovascular outcomes as well as underlying pathophysiological hypotheses.
+
+Cardiovascular and other effects of salt consumption
+
+Number of 
+
+Key takeaways:High salt intake is a major factor in high blood pressure and increased cardiovascular risk, with potential adverse effects on other diseases as well.
+
+Salt intake, stroke, and cardiovascular disease: meta-analysis of prospective studies
+
+Number of 
+
+Key takeaways:High salt intake is significantly associated with increased risk of stroke and total cardiovascular disease, supporting the need for substantial population reduction in salt intake for cardiovascular disease prevention.
+
+Abstract:Objective To assess the relation between the level of habitual salt intake and stroke or total cardiovascular disease outcome. Design Systematic review and meta-analysis of prospective studies published 1966-2008. Data sources Medline (1966-2008), Embase (from 1988), AMED (from 1985), CINAHL (from 1982), Psychinfo (from 1985), and the Cochrane Library. Review methods For each study, relative risks and 95% confidence intervals were extracted and pooled with a random effect model, weighting for the inverse of the variance. Heterogeneity, publication bias, subgroup, and meta-regression analyses were performed. Criteria for inclusion were prospective adult population study, assessment of salt intake as baseline exposure, assessment of either stroke or total cardiovascular disease as outcome, follow-up of at least three years, indication of number of participants exposed and number of events across different salt intake categories. Results There were 19 independent cohort samples from 13 studies, with 177 025 participants (follow-up 3.5-19 years) and over 11 000 vascular events. Higher salt intake was associated with greater risk of stroke (pooled relative risk 1.23, 95% confidence interval 1.06 to 1.43; P=0.007) and cardiovascular disease (1.14, 0.99 to 1.32; P=0.07), with no significant evidence of publication bias. For cardiovascular disease, sensitivity analysis showed that the exclusion of a single study led to a pooled estimate of 1.17 (1.02 to 1.34; P=0.02). The associations observed were greater the larger the difference in sodium intake and the longer the follow-up. Conclusions High salt intake is associated with significantly increased risk of stroke and total cardiovascular disease. Because of imprecision in measurement of salt intake, these effect sizes are likely to be underestimated. These results support the role of a substantial population reduction in salt intake for the prevention of cardiovascular disease.
+
+The Influence of Dietary Salt Beyond Blood Pressure
+
+Number of 
+
+Key takeaways:High dietary salt can negatively affect various organ systems, irrespective of blood pressure, and may contribute to disease development over time.
+
+Abstract:Purpose of ReviewExcess sodium from dietary salt (NaCl) is linked to elevations in blood pressure (BP). However, salt sensitivity of BP varies widely between individuals and there are data suggesting that salt adversely affects target organs, irrespective of BP.Recent Findings High dietary salt has been shown to adversely affect the vasculature, heart, kidneys, skin, brain, and bone. Common mediators of the target organ dysfunction include heightened inflammation and oxidative stress. These physiological alterations may contribute to disease development over time. Despite the adverse effects of salt on BP and several organ systems, there is controversy surrounding lower salt intakes and cardiovascular outcomes.SummaryOur goal here is to review the physiology contributing to BP-independent effects of salt and address the controversy around lower salt intakes and cardiovascular outcomes. We will also address the importance of background diet in modulating the effects of dietary salt.
+
+Links between dietary salt intake, renal salt handling, blood pressure, and cardiovascular diseases.
+
+Number of 
+
+Key takeaways:High salt intake is strongly linked to high blood pressure and cardiovascular diseases, with chronic exposure to a high-salt diet being a major factor in the occurrence of hypertension and cardiovascular diseases.
+
+Abstract:Epidemiological, migration, intervention, and genetic studies in humans and animals provide very strong evidence of a causal link between high salt intake and high blood pressure. The mechanisms by which dietary salt increases arterial pressure are not fully understood, but they seem related to the inability of the kidneys to excrete large amounts of salt. From an evolutionary viewpoint, the human species is adapted to ingest and excrete <1 g of salt per day, at least 10 times less than the average values currently observed in industrialized and urbanized countries. Independent of the rise in blood pressure, dietary salt also increases cardiac left ventricular mass, arterial thickness and stiffness, the incidence of strokes, and the severity of cardiac failure. Thus chronic exposure to a high-salt diet appears to be a major factor involved in the frequent occurrence of hypertension and cardiovascular diseases in human populations.
+
+Role of salt intake in prevention of cardiovascular disease: controversies and challenges
+
+Number of 
+
+Key takeaways:Reducing salt intake lowers blood pressure and reduces the risk of cardiovascular disease, making it an achievable, affordable, and important strategy to prevent CVD worldwide.
+
+The damaging duo: Obesity and excess dietary salt contribute to hypertension and cardiovascular disease
+
+Number of 
+
+Key takeaways:Obesity and excess dietary salt contribute to hypertension and cardiovascular disease, with ultra-processed foods playing a major role in both.
+
+Abstract:Hypertension is a primary risk factor for cardiovascular disease. Cardiovascular disease is the leading cause of death among adults worldwide. In this review, we focus on two of the most critical public health challenges that contribute to hypertension—obesity and excess dietary sodium from salt (i.e., sodium chloride). While the independent effects of these factors have been studied extensively, the interplay of obesity and excess salt overconsumption is not well understood. Here, we discuss both the independent and combined effects of excess obesity and dietary salt given their contributions to vascular dysfunction, autonomic cardiovascular dysregulation, kidney dysfunction, and insulin resistance. We discuss the role of ultra‐processed foods—accounting for nearly 60% of energy intake in America—as a major contributor to both obesity and salt overconsumption. We highlight the influence of obesity on elevated blood pressure in the presence of a high‐salt diet (i.e., salt sensitivity). Throughout the review, we highlight critical gaps in knowledge that should be filled to inform us of the prevention, management, treatment, and mitigation strategies for addressing these public health challenges.
+
+Editorial: Hold the salt: dietary sodium's effect on cardiovascular and kidney diseases
+
+Number of 
+
+Key takeaways:Excessive sodium intake is linked to cardiovascular and kidney diseases, emphasizing the need for innovative, science-driven strategies to reduce sodium consumption.
+
+Abstract:fall of empires. Ancient civilizations, such as the Egyptians, used salt for food preservation and mummification, showcasing its wide range of applications. As society evolved, salt became more than a nutritional element-it was central to religious rituals, cultural practices, and even currency systems (1).The relationship between salt and health, however, has been more complex.Historically, salt was recognized as necessary for maintaining bodily functions, particularly in regulating fluid balance and nerve transmission. However, excessive salt consumption has been linked to adverse health outcomes, particularly cardiovascular and kidney diseases, which remain a global concern today. Numerous studies have established a strong relationship between high sodium intake and adverse cardiovascular outcomes, and consequently, public health guidelines recommend limiting sodium intake to reduce these risks. A meta-analysis demonstrated that excessive sodium intake is associated with elevated blood pressure, a well-known risk factor for cardiovascular diseases (CVD) such as heart attacks and strokes (2). The Global Burden of Disease Study found that high sodium consumption was responsible for 3 million deaths and 70 million disabilityadjusted life years (DALYs) globally, highlighting its significant contribution to CVD (3).Furthermore, clinical studies such as the Dietary Approach to Stop Hypertension (DASH) study have shown that reducing salt intake can significantly lower blood pressure and decrease the risk of cardiovascular events (4). This body of evidence has led global health organizations, including the World Health Organization (WHO), to recommend limiting sodium intake to less than 2 grams daily to mitigate cardiovascular risks.In addition to cardiovascular risks, high sodium intake has detrimental effects on kidney function. Chronic high salt consumption is linked to the progression of chronic kidney disease (CKD) and an increased risk of end-stage renal disease (ESRD) (5).Studies highlighted that high dietary salt exacerbates proteinuria and accelerates the decline in kidney function among patients with hypertension and CKD. Moreover, excessive sodium intake can induce glomerular hyperfiltration and promote kidney damage over time, particularly in individuals with pre-existing renal conditions (6)(7)(8).These findings underscore the importance of salt reduction not only for cardiovascular health but also for preventing and managing kidney disease.Research into the effects of salt on the cardiovascular and kidney systems is essential for addressing rising global health challenges like hypertension, heart disease, and CKD. Despite widespread awareness, gaps remain in our understanding of the specific mechanisms by which excess salt harms these systems. By offering fresh insights, our Research Topic fills this critical need, presenting new findings that highlight the nuanced impact of salt at clinical, epidemiological and molecular levels.A study on the North Indian population (Kaur et al.) found that sodium and salt consumption exceed recommended levels, while potassium intake remains below ideal. This imbalance is particularly concerning among individuals with CKD, suggesting the need for targeted dietary policies to mitigate CKD progression and improve overall public health outcomes. In a related study, high salt intake and overhydration among non-dialysis CKD patients were linked to an increased risk of cardiac structural and functional impairments (Duan et al.). An experimental study on rodents (Siddiqui et al.) revealed that diets high in fructose and salt led to cardiorenal dysfunctions. However, the chronic inhibition of the renin-angiotensin system (RAS) improved both cardiac and renal histopathological outcomes.In the realm of the heart disease, a study on rheumatic heart disease (RHD) (Zhang It underscores the need to include smaller bakeries in salt reduction efforts and reveals that, despite a modest decrease in bread salt content over a decade, WHO targets remain unmet, suggesting further reformulation strategies are necessary.In light of these findings, we are undoubtedly at a pivotal moment in addressing the global health impacts of excessive sodium intake. The extensively body of evidence, including the studies presented in this Research Topic, leaves no room for hesitation: innovative, science-driven strategies to reduce sodium consumption are not just necessary -they are urgent. From targeted public health policies to advancements in food technologies, the solutions are within our grasp. However, realizing these solutions will require a unified effort from researchers, policymakers, and the food industry. As we move forward, the challenge lies in transforming this knowledge into concrete actions that prioritize both public health and the sustainability of our food systems.
+
+Dietary Salt Can Be Crucial for Food-Induced Vascular Inflammation
+
+Number of 
+
+Key takeaways:Excessive salt consumption may contribute to chronic vascular inflammation, such as atherosclerosis, and understanding its molecular mechanisms can help prevent cardiovascular health.
+
+Abstract:Salt enhances the taste as well as the nutritional value of food. Besides, several reports are available on the incidence and epidemiology of various illnesses in relation to salt intake. Excessive salt consumption has been found to be linked with high blood pressure, renal disease, and other cardiovascular disorders due to the result of vascular inflammation. Nevertheless, studies aimed at elucidating the molecular processes that produce vascular inflammation have yet to reach their conclusions. This article emphasizes the significance of investigating the mechanisms underlying both acute and chronic vascular inflammation induced by salt. It also explores the logical inferences behind cellular oxidative stress and the role of endothelial dysfunction as the potential initiator of the inflammatory segments that remain poorly understood. It is therefore hypothesized that salt is one of the causes of chronic vascular inflammation such as atherosclerosis. The hypothesis’s secrets, when revealed, can help assure cardiovascular health by proactive efforts and the development of appropriate preventative measures, in combination with medication, dietary and lifestyle adjustments.
+
+Impact of Salt Intake on the Pathogenesis and Treatment of Hypertension.
+
+Number of 
+
+Key takeaways:Reducing dietary salt intake can significantly reduce blood pressure and reduce morbidity rates, especially in hypertensive patients.
+
+Abstract:Excessive dietary salt (sodium chloride) intake is associated with an increased risk for hypertension, which in turn is especially a major risk factor for stroke and other cardiovascular pathologies, but also kidney diseases. Besides, high salt intake or preference for salty food is discussed to be positive associated with stomach cancer, and according to recent studies probably also obesity risk. On the other hand a reduction of dietary salt intake leads to a considerable reduction in blood pressure, especially in hypertensive patients but to a lesser extent also in normotensives as several meta-analyses of interventional studies have shown. Various mechanisms for salt-dependent hypertension have been put forward including volume expansion, modified renal functions and disorders in sodium balance, impaired reaction of the renin-angiotensin-aldosterone-system and the associated receptors, central stimulation of the activity of the sympathetic nervous system, and possibly also inflammatory processes.Not every person reacts to changes in dietary salt intake with alterations in blood pressure, dividing people in salt sensitive and insensitive groups. It is estimated that about 50–60 % of hypertensives are salt sensitive. In addition to genetic polymorphisms, salt sensitivity is increased in aging, in black people, and in persons with metabolic syndrome or obesity. However, although mechanisms of salt-dependent hypertensive effects are increasingly known, more research on measurement, storage and kinetics of sodium, on physiological properties, and genetic determinants of salt sensitivity are necessary to harden the basis for salt reduction recommendations.Currently estimated dietary intake of salt is about 9–12 g per day in most countries of the world. These amounts are significantly above the WHO recommended level of less than 5 g salt per day. According to recent research results a moderate reduction of daily salt intake from current intakes to 5–6 g can reduce morbidity rates. Potential risks of salt reduction, like suboptimal iodine supply, are limited and manageable. Concomitant to salt reduction, potassium intake by higher intake of fruits and vegetables should be optimised, since several studies have provided evidence that potassium rich diets or interventions with potassium can lower blood pressure, especially in hypertensives.In addition to dietary assessment the gold standard for measuring salt intake is the analysis of sodium excretion in the 24 h urine. Spot urine samples are appropriate alternatives for monitoring sodium intake. A weakness of dietary evaluations is that the salt content of many foods is not precisely known and information in nutrient databases are limited. A certain limitation of the urine assessment is that dietary sources contributing to salt intake cannot be identified.Salt reduction strategies include nutritional education, improving environmental conditions (by product reformulation and optimization of communal catering) up to mandatory nutrition labeling and regulated nutrition/health claims, as well as legislated changes in the form of taxation.Regarding dietary interventions for the reduction of blood pressure the Dietary Approaches to Stop Hypertension (DASH) diet can be recommended. In addition, body weight should be normalized in overweight and obese people (BMI less than 25 kg/m^2), salt intake should not exceed 5 g/day according to WHO recommendations (<2 g sodium/day), no more than 1.5 g sodium/d in blacks, middle- and older-aged persons, and individuals with hypertension, diabetes, or chronic kidney disease, intake of potassium (~4.7 g/day) should be increased and alcohol consumption limited. In addition, regular physical activity (endurance, dynamic resistance, and isometric resistance training) is very important.
+
+Excessive salt intake is a significant predictor for future development of metabolic syndrome in the general population
+
+Number of 
+
+Key takeaways:Excessive salt intake significantly predicts the development of metabolic syndrome in the general population, suggesting that salt restriction can prevent both metabolic syndrome and hypertension leading to cardiovascular diseases.
+
+Abstract:Dietary salt consumption is one of the most important modifiable factors in our lifestyle and restriction of dietary salt results in the reduction of blood pressure in previous studies. Excessive salt intake causes cardiovascular diseases independently of its effects on blood pressure. Since metabolic syndrome also increases a risk of cardiovascular disease, there may be some association between salt intake and metabolic syndrome.
+ 
+ 
+ 
+ The present study was designed to investigate a possible relationship between salt intake and future development of metabolic syndrome in the general population.
+ 
+ 
+ 
+ Consecutive 12,256 subjects without metabolic syndrome (male=7,053, 52.1±12.3 year-old) who visited our hospital for an annual physical check-up from April 2010 to March 2018 were enrolled. After baseline examination, subjects were followed up until March 2019 (median 1,582 days) with the endpoint being the development of metabolic syndrome. Metabolic syndrome was diagnosed according to the Japanese criteria (2005). Individual salt intake was estimated using a spot urine by a previously reported method.
+ 
+ 
+ 
+ Salt intake was 11.9±3.0 g/day in male and 8.2±2.1 g/day in female subjects at baseline. During the follow-up period, 1,669 subjects developed metabolic syndrome (29.9 per 1,000 person-year) with the incidence being more frequent in male than female subjects (41.8 vs. 14.2 per 1,000 person-year). Non-adjusted hazard ratio (HR) (95% confidence interval ) of salt intake for the development of metabolic syndrome was 1.157 (1.142–1.173). In analysis where subjects were divided into gender-specific quartiles according to the baseline salt intake, Kaplan-Meyer curve analysis revealed that the incidence of metabolic syndrome were increased across the quartiles (20.6, 25.0, 32.4, and 42.7 per 1,000 person-years; logrank p<0.001). Multivariate Cox proportional hazard analysis adjusted for age, gender, body mass index, systolic blood pressure, heart rate, serum creatinine, uric acid, fasting plasma glucose, low-density lipoprotein cholesterol, triglyceride, hemoglobin and current smoking habit at baseline revealed that salt intake predicted the new onset of metabolic syndrome (HR: 1.036, 95% CI: 1.019–1.054).
+ 
+ 
+ 
+ Excessive salt intake is significantly associated with the new development of metabolic syndrome in the general population. The results suggest that salt restriction prevents metabolic syndrome as well as hypertension leading to cardiovascular diseases.
+ 
+ 
+ 
+ Type of funding 
+
+Salt-responsive gut commensal modulates TH17 axis and disease
+
+Number of 
+
+Key takeaways:High salt intake affects the gut microbiome, particularly depleting Lactobacillus murinus, and may worsen autoimmune conditions and salt-sensitive hypertension by inducing T helper 17 cells.
+
+Excessive salt consumption causes systemic calcium mishandling and worsens microarchitecture and strength of long bones in rats
+
+Number of 
+
+Key takeaways:Long-term excessive salt consumption leads to impaired skeletal mass and integrity in rats, potentially through negative calcium balance.
+
+The role of sodium in modulating immune cell function
+
+Number of 
+
+Key takeaways:Excessive sodium intake can potentially modulate immune cell function, potentially contributing to immune dysregulation and promoting cardiovascular and autoimmune diseases.
+
+Dietary salt, vascular dysfunction, and cognitive impairment.
+
+Number of 
+
+Key takeaways:Excessive salt consumption is linked to vascular dysfunction and cognitive impairment, potentially contributing to Alzheimer's disease.
+
+Abstract:Excessive salt consumption is a major health problem worldwide leading to serious cardiovascular events including hypertension, heart disease and stroke. Additionally, high salt diet has been increasingly associated with cognitive impairment in animal models and late-life dementia in humans. High salt consumption is harmful for the cerebral vasculature, disrupts blood supply to the brain and could contribute to Alzheimer's disease pathology. Although animal models have advanced our understanding of the cellular and molecular mechanisms, additional studies are needed to further elucidate the effects of salt on brain function. Furthermore, the association between excessive salt intake and cognitive impairment will have to be more thoroughly investigated in humans. Since the harmful effects of salt on the brain are independent by its effect on blood pressure, in this review, I will specifically discuss the evidence, available in experimental models and humans, on the effects of salt on vascular and cognitive function in the absence of changes in blood pressure. Given the strong effects of salt on the function of immune cells, I will also discuss the evidence linking salt consumption to gut immunity dysregulation with particular attention to the ability of salt to disrupt T-helper 17 (Th17) cells homeostasis. Lastly, I will briefly discuss the data implicating IL-17A, the major cytokine produced by Th17 cells, in vascular dysfunction and cognitive impairment.
+
+Excessively low salt diet damages the heart through activation of cardiac (pro) renin receptor, renin-angiotensin-aldosterone, and sympatho-adrenal systems in spontaneously hypertensive rats
+
+Number of 
+
+Key takeaways:Excessively low salt diets can damage the heart by activating the renin-angiotensin-aldosterone and sympathetic systems, leading to increased heart rate and fibrosis in both healthy and hypertensive rats.
+
+Abstract:Objective A high salt intake causes hypertension and leads to cardiovascular disease. Therefore, a low salt diet is now recommended to prevent hypertension and cardiovascular disease. However, it is still unknown whether an excessively low salt diet is beneficial or harmful for the heart. Methods Wistar Kyoto rats (WKYs) and spontaneously hypertensive rats (SHRs) received normal salt chow (0.9% salt diet) and excessively low salt chow (0.01% salt diet referred to as saltless diet) for 8 weeks from 8 to 16 weeks of age. The effects of the excessively low salt diet on the cardiac (pro) renin receptor, renin-angiotensin-aldosterone, and sympatho-adrenal systems were investigated. Results The excessively low salt diet did not affect the systolic blood pressure but significantly increased the heart rate both in WKYs and SHRs. The excessively low salt diet significantly elevated plasma renin activity, plasma angiotensin I, II and aldosterone concentrations, and plasma noradrenaline and adrenaline concentrations both in WKYs and SHRs. Cardiac expressions of renin, prorenin, (P)RR, angiotensinogen, and angiotensin II AT1 receptor and phosphorylated (p)-ERK1/2, p-HSP27, p-38MAPK, and TGF-ß1 were significantly enhanced by the excessively low salt diet in both WKYs and SHRs. The excessively low salt diet accelerated cardiac interstitial and perivascular fibrosis and increased the cardiomyocyte size and interventricular septum thickness in WKYs and SHRs but the extent was greater in SHRs. Conclusion An excessively low salt diet damages the heart through activation of plasma renin-angiotensin-aldosterone and sympatho-adrenal systems and activation of cardiac (P)RR and angiotensin II AT1 receptor and their downstream signals both in WKYs and SHRs.
+
+Body Fluid-Independent Effects of Dietary Salt Consumption in Chronic Kidney Disease
+
+Number of 
+
+Key takeaways:High dietary salt intake contributes to chronic kidney disease pathogenesis and cardiovascular health through tissue remodelling and immune cell homeostasis, with potential new treatment options.
+
+Abstract:The average dietary salt (i.e., sodium chloride) intake in Western society is about 10 g per day. This greatly exceeds the lifestyle recommendations by the WHO to limit dietary salt intake to 5 g. There is robust evidence that excess salt intake is associated with deleterious effects including hypertension, kidney damage and adverse cardiovascular health. In patients with chronic kidney disease, moderate reduction of dietary salt intake has important renoprotective effects and positively influences the efficacy of common pharmacological treatment regimens. During the past several years, it has become clear that besides influencing body fluid volume high salt also induces tissue remodelling and activates immune cell homeostasis. The exact pathophysiological pathway in which these salt-induced fluid-independent effects contribute to CKD is not fully elucidated, nonetheless it is clear that inflammation and the development of fibrosis play a major role in the pathogenic mechanisms of renal diseases. This review focuses on body fluid-independent effects of salt contributing to CKD pathogenesis and cardiovascular health. Additionally, the question whether better understanding of these pathophysiological pathways, related to high salt consumption, might identify new potential treatment options will be discussed.
+
+High sodium intake increases blood pressure and risk of kidney disease. From the Science of Salt: A regularly updated systematic review of salt and health outcomes (August 2016 to March 2017)
+
+Number of 
+
+Key takeaways:Excessive sodium intake increases blood pressure and risk of kidney disease, with some studies showing benefits of salt restriction in chronic BP.
+
+Abstract:The purpose of this review was to identify, summarize, and critically appraise studies on dietary salt and health outcomes that were published from August 2016 to March 2017. The search strategy was adapted from a previous systematic review on dietary salt and health. Studies that meet standards for methodological quality criteria and eligible health outcomes are reported in detailed critical appraisals. Overall, 47 studies were identified and are summarized in this review. Two studies assessed all‐cause or disease‐specific mortality outcomes, eight studies assessed morbidity reduction‐related outcomes, three studies assessed outcomes related to symptoms/quality of life/functional status, 25 studies assessed blood pressure (BP) outcomes and other clinically relevant surrogate outcomes, and nine studies assessed physiologic surrogate outcomes. Eight of these studies met the criteria for outcomes and methodological quality and underwent detailed critical appraisals and commentary. Five of these studies found adverse effects of salt intake on health outcomes (BP; death due to kidney disease and initiation of dialysis; total kidney volume and composite of kidney function; composite of cardiovascular disease (CVD) events including, and risk of mortality); one study reported the benefits of salt restriction in chronic BP and two studies reported neutral results (BP and risk of CKD). Overall, these articles confirm the negative effects of excessive sodium intake on health outcomes.
+
+Association between Daily Urinary Sodium Excretion, Ratio of Extracellular Water-to-Total Body Water Ratio, and Kidney Outcome in Patients with Chronic Kidney Disease
+
+Number of 
+
+Key takeaways:High salt intake is associated with poor renal outcomes in chronic kidney disease patients, regardless of blood pressure, proteinuria, and volume status.
+
+Abstract:Whether dietary salt intake affects chronic kidney disease (CKD) progression remains unclear. We conducted a retrospective cohort study to analyze the effects of both daily salt intake (DSI) and volume status on renal outcomes in 197 CKD patients. DSI was estimated by 24-h urinary sodium excretion and volume status was assessed by the ratio of extracellular water (ECW) to total body water (TBW) measured by bioelectrical impedance analysis (BIA). We divided patients into two groups according to DSI (6 g/day) or median ECW/TBW (0.475) and compared renal outcomes of each group. Furthermore, we classified and analyzed four groups according to both DSI and ECW/TBW. The higher DSI group showed a 1.69-fold (95% confidence interval (CI) 1.12–2.57, p = 0.01) excess risk of outcome occurrence compared to the lower group. Among the four groups, compared with Group 1 (low DSI and low ECW/TBW), Group 3 (high DSI and low ECW/TBW) showed a 1.84-fold (95% CI 1.03–3.30, p = 0.04) excess risk of outcome occurrence; however, Group 2 (low DSI and high ECW/TBW) showed no significant difference. High salt intake appears to be associated with poor renal outcome independent of blood pressure (BP), proteinuria, and volume status.
+
+Altered dietary salt intake for people with chronic kidney disease.
+
+Number of 
+
+Key takeaways:Reducing salt intake significantly reduces blood pressure and the risk of oedema in people with chronic kidney disease, but may increase renin activity and aldosterone levels.
+
+Abstract:BACKGROUND
+Salt intake shows great promise as a modifiable risk factor for reducing heart disease incidence and delaying kidney function decline in people with chronic kidney disease (CKD). However, a clear consensus of the benefits of reducing salt in people with CKD is lacking.
+
+OBJECTIVES
+This review evaluated the benefits and harms of altering dietary salt intake in people with CKD.
+
+SEARCH METHODS
+We searched the Cochrane Renal Group's Specialised Register to 13 January 2015 through contact with the Trials' Search Co-ordinator using search terms relevant to this review.
+
+SELECTION CRITERIA
+We included randomised controlled trials (RCTs) that compared two or more levels of salt intake in people with any stage of CKD.
+
+DATA COLLECTION AND ANALYSIS
+Two authors independently assessed studies for eligibility and conducted risk of bias evaluation. Results were expressed as risk ratios (RR) and their 95% confidence intervals (CI) for dichotomous outcomes, and mean difference (MD) and 95% CI for continuous outcomes. Mean effect sizes were calculated using the random-effects models.
+
+MAIN RESULTS
+We included eight studies (24 reports, 258 participants). Because duration of the included studies was too short (1 to 26 weeks) to test the effect of salt restriction on endpoints such as mortality, cardiovascular events or CKD progression, changes in salt intake on blood pressure and other secondary risk factors were applied. Three studies were parallel RCTs and five were cross-over studies. Selection bias was low in five studies and unclear in three. Performance and detection biases were low in two studies and unclear in six. Attrition and reporting biases were low in four studies and unclear in four. One study had the potential for high carryover effect; three had high risk of bias from baseline characteristics (change of medication or diet) and two studies were industry funded.There was a significant reduction in 24 hour sodium excretion associated with low salt interventions (range 52 to 141 mmol) (8 studies, 258 participants: MD -105.86 mmol/d, 95% CI -119.20 to -92.51; I(2) = 51%). Reducing salt intake significantly reduced systolic blood pressure (8 studies, 258 participants: MD -8.75 mm Hg, 95% CI -11.33 to -6.16; I(2) = 0%) and diastolic blood pressure (8 studies, 258 participants: MD -3.70 mm Hg, 95% CI -5.09 to -2.30; I(2) = 0%). One study reported restricting salt intake reduced the risk of oedema by 56%. Salt restriction significantly increased plasma renin activity (2 studies, 71 participants: MD 1.08 ng/mL/h, 95% CI 0.51 to 1.65; I(2) = 0%) and serum aldosterone (2 studies, 71 participants: 6.20 ng/dL (95% CI 3.82 to 8.58; I(2) = 0%). Antihypertensive medication dosage was significantly reduced with a low salt diet (2 studies, 52 participants): RR 5.48, 95% CI 1.27 to 23.66; I(2) = 0%). There was no significant difference in eGFR (2 studies, 68 participants: MD -1.14 mL/min/1.73 m(2), 95% CI -4.38 to 2.11; I(2) = 0%), creatinine clearance (3 studies, 85 participants): MD -4.60 mL/min, 95% CI -11.78 to 2.57; I(2) = 0%), serum creatinine (5 studies, 151 participants: MD 5.14 µmol/L, 95% CI -8.98 to 19.26; I(2) = 59%) or body weight (5 studies, 139 participants: MD -1.46 kg; 95% CI -4.55 to 1.64; I(2) = 0%). There was no significant change in total cholesterol in relation to salt restriction (3 studies, 105 participants: MD -0.23 mmol/L, 95% CI -0.57 to 0.10; I(2) = 0%) or symptomatic hypotension (2 studies, 72 participants: RR 6.60, 95% CI 0.77 to 56.55; I(2) = 0%). Salt restriction significantly reduced urinary protein excretion in all studies that reported proteinuria as an outcome, however data could not be meta-analysed.
+
+AUTHORS' CONCLUSIONS
+We found a critical evidence gap in long-term effects of salt restriction in people with CKD that meant we were unable to determine the direct effects of sodium restriction on primary endpoints such as mortality and progression to end-stage kidney disease (ESKD). We found that salt reduction in people with CKD reduced blood pressure considerably and consistently reduced proteinuria. If such reductions could be maintained long-term, this effect may translate to clinically significant reductions in ESKD incidence and cardiovascular events. Research into the long-term effects of sodium-restricted diet for people with CKD is warranted, as is investigation into adherence to a low salt diet.
+
+Sodium Intake and Chronic Kidney Disease
+
+Number of 
+
+Key takeaways:Low salt diets are a rational and basic tool to correct fluid overload and hypertension in all stages of Chronic Kidney Disease, but should be personalized based on volume status and true burden of hypertension.
+
+Abstract:In Chronic Kidney Disease (CKD) patients, elevated blood pressure (BP) is a frequent finding and is traditionally considered a direct consequence of their sodium sensitivity. Indeed, sodium and fluid retention, causing hypervolemia, leads to the development of hypertension in CKD. On the other hand, in non-dialysis CKD patients, salt restriction reduces BP levels and enhances anti-proteinuric effect of renin–angiotensin–aldosterone system inhibitors in non-dialysis CKD patients. However, studies on the long-term effect of low salt diet (LSD) on cardio-renal prognosis showed controversial findings. The negative results might be the consequence of measurement bias (spot urine and/or single measurement), reverse epidemiology, as well as poor adherence to diet. In end-stage kidney disease (ESKD), dialysis remains the only effective means to remove dietary sodium intake. The mismatch between intake and removal of sodium leads to fluid overload, hypertension and left ventricular hypertrophy, therefore worsening the prognosis of ESKD patients. This imposes the implementation of a LSD in these patients, irrespective of the lack of trials proving the efficacy of this measure in these patients. LSD is, therefore, a rational and basic tool to correct fluid overload and hypertension in all CKD stages. The implementation of LSD should be personalized, similarly to diuretic treatment, keeping into account the volume status and true burden of hypertension evaluated by ambulatory BP monitoring.
+
+Impact of high salt diets on CHOP-mediated apoptosis and renal fibrosis in a rat model
+
+Number of 
+
+Key takeaways:Excessive salt intake leads to renal fibrosis through the PERK/ATF4/CHOP/BCL-2 signaling pathway, and urinary KIM-1 can serve as a diagnostic marker to prevent progressive renal failure.
+
+Abstract:BackgroundProlonged and excessive salt intake accelerates oxidative stress in kidney tissues, which brings about ER stress. The PERK/ATF4/CHOP/BCL-2 signaling pathway has an essential role in ER stress-induced apoptosis. The present study aimed to investigate the effect of high salt diets on the development of renal fibrosis through CHOP-mediated apoptosis.Methods and resultsTwenty-five male Wistar rats were randomly divided into five groups (n = 5 each). Groups 1–5 were treated with 0%, 0.5%, 1%, 1.2%, 1.5% of NaCl dissolved in distilled water, respectively, for 8 weeks. To detect the degree of renal tubular damage, urinary KIM-1 was measured. The slides of renal tissues were stained via Masson’s Trichrome staining methods for fibrosis detection. The relative gene expression of ATF4, CHOP, and BCl-2 in renal tissues were analyzed using the qRT-PCR method. The results revealed no significant difference between the urea, creatinine, and urine flow rate of the rats receiving different concentrations of NaCl (groups 2–5) and those of the control group (group 1). The rats treated with 1.5% NaCl (group 5) showed significant elevations in urinary KIM-1 and the mRNA level of CHOP compared to the control group. Mild renal fibrosis was also observed in group 5.ConclusionsExcessive salt intake leads to fibrosis as it induces the PERK/ATF4/CHOP/BCL-2 signaling pathway in renal tissues. KIM-1 is detectable in urine before the impairment of renal function which can be used as a diagnostic marker to prevent the development of progressive renal failure.
+
+Dietary Salt Restriction in Chronic Kidney Disease: A Meta-Analysis of Randomized Clinical Trials
+
+Number of 
+
+Key takeaways:Moderate salt restriction significantly reduces blood pressure and proteinuria/albuminuria in patients with chronic kidney disease (Stage 1-4).
+
+Abstract:Background. A clear evidence on the benefits of reducing salt in people with chronic kidney disease (CKD) is still lacking. Salt restriction in CKD may allow better control of blood pressure (BP) as shown in a previous systematic review while the effect on proteinuria reduction remains poorly investigated. Methods. We performed a meta-analysis of randomized controlled trials (RCTs) evaluating the effects of low versus high salt intake in adult patients with non-dialysis CKD on change in BP, proteinuria and albuminuria. Results. Eleven RCTs were selected and included information about 738 CKD patients (Stage 1–4); urinary sodium excretion was 104 mEq/day (95%CI, 76–131) and 179 mEq/day (95%CI, 165–193) in low- and high-sodium intake subgroups, respectively, with a mean difference of −80 mEq/day (95%CI from −107 to −53; p <0.001). Overall, mean differences in clinic and ambulatory systolic BP were −4.9 mmHg (95%CI from −6.8 to −3.1, p <0.001) and −5.9 mmHg (95%CI from −9.5 to −2.3, p <0.001), respectively, while clinic and ambulatory diastolic BP were −2.3 mmHg (95%CI from −3.5 to −1.2, p <0.001) and −3.0 mmHg (95%CI from −4.3 to −1.7; p <0.001), respectively. Mean differences in proteinuria and albuminuria were −0.39 g/day (95%CI from −0.55 to −0.22, p <0.001) and −0.05 g/day (95%CI from −0.09 to −0.01, p = 0.013). Conclusion. Moderate salt restriction significantly reduces BP and proteinuria/albuminuria in patients with CKD (Stage 1–4).
+
+Measured sodium excretion is associated with CKD progression: results from the KNOW-CKD study.
+
+Number of 
+
+Key takeaways:High salt intake is associated with increased risk of progression in chronic kidney disease, particularly in women, those 60 years of age, those with uncontrolled hypertension, and those with obesity.
+
+Abstract:BACKGROUND
+Diet is a modifiable factor of chronic kidney disease (CKD) progression. However, the effect of dietary salt intake on CKD progression remains unclear. Therefore, we analyzed the effect of dietary salt intake on renal outcome in Korean patients with CKD.
+
+METHODS
+We measured 24-h urinary sodium (Na) excretion as a marker of dietary salt intake in the prospective, multi-center, longitudinal KoreaN cohort study for Outcome in patients With CKD (KNOW-CKD). Data were analyzed from CKD patients at Stages G3a to G5 (n = 1254). We investigated the association between dietary salt intake and CKD progression. Patients were divided into four quartiles of dietary salt intake, which was assessed using measured 24-h urinary Na excretion. The study endpoint was composite renal outcome, which was defined as either halving the estimated glomerular filtration rate or developing end-stage renal disease.
+
+RESULTS
+During a median (interquartile range) follow-up of 4.3 (2.8-5.8) years, 480 (38.7%) patients developed the composite renal event. Compared with the reference group (Q2, urinary Na excretion: 104.2 ≤ Na excretion < 145.1 mEq/day), the highest quartile of measured 24-h urinary Na excretion was associated with risk of composite renal outcome in a multivariable hazards model. Subgroup analyses showed that high-salt intake was particularly associated with a higher risk of composite renal outcome in women, in patients <60 years of age, in those with uncontrolled hypertension and in those with obesity.
+
+CONCLUSIONS
+High salt intake was associated with increased risk of progression in CKD.
+
+Altered dietary salt intake for preventing diabetic kidney disease and its progression.
+
+Number of 
+
+Key takeaways:Reducing salt intake lowers blood pressure and slows the progression of chronic kidney disease in individuals with type 1 and type 2 diabetes.
+
+Abstract:BACKGROUND
+There is strong evidence that our current consumption of salt is a major factor in the development of increased blood pressure (BP) and that a reduction in our salt intake lowers BP, whether BP levels are normal or raised initially. Effective control of BP in people with diabetes lowers the risk of strokes, heart attacks and heart failure and slows the progression of chronic kidney disease (CKD) in people with diabetes. This is an update of a review first published in 2010.
+
+OBJECTIVES
+To evaluate the effect of altered salt intake on BP and markers of cardiovascular disease and of CKD in people with diabetes.
+
+SEARCH METHODS
+We searched the Cochrane Kidney and Transplant Register of Studies up to 31 March 2022 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register were identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov.
+
+SELECTION CRITERIA
+We included randomised controlled trials (RCTs) of altered salt intake in individuals with type 1 and type 2 diabetes. Studies were included when there was a difference between low and high sodium intakes of at least 34 mmol/day.
+
+DATA COLLECTION AND ANALYSIS
+Two authors independently assessed studies and resolved differences by discussion. We calculated mean effect sizes as mean difference (MD) and 95% confidence intervals (CI) using the random-effects model. Confidence in the evidence was assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach.
+
+MAIN RESULTS
+Thirteen RCTs (313 participants), including 21 comparisons (studies), met our inclusion criteria. One RCT (two studies) was added to this review update. Participants included 99 individuals with type 1 diabetes and 214 individuals with type 2 diabetes. Two RCTs (four studies) included some participants with reduced overall kidney function. The remaining studies either reported that participants with reduced glomerular filtration rate (GFR) were excluded from the study or only included participants with microalbuminuria and normal GFR. Five studies used a parallel study design, and 16 used a cross-over design. Studies were at high risk of bias for most criteria. Random sequence generation and allocation concealment were adequate in only three and two studies, respectively. One study was at low risk of bias for blinding of participants and outcome assessment, but no studies were at low risk for selective reporting. Twelve studies reported non-commercial funding 
+
+AUTHORS' CONCLUSIONS
+This systematic review shows an important reduction in SBP and DBP in people with diabetes with normal GFR during short periods of salt restriction, similar to that obtained with single drug therapy for hypertension. These data support the international recommendations that people with diabetes with or without hypertension or evidence of kidney disease should reduce salt intake to less than 5 g/day (2 g sodium).
+
+Frequency of adding salt is a stronger predictor of chronic kidney disease in individuals with genetic risk.
+
+Number of 
+
+Key takeaways:Frequency of adding salt contributes to chronic kidney disease, with increased risk in individuals with genetic risk factors for CKD.
+
+Abstract:The incidence of chronic kidney disease (CKD) is increasing worldwide, but there is no specific treatment available. Therefore, understanding and controlling the risk factors for CKD are essential for preventing disease occurrence. Salt intake raises blood pressure by increasing fluid volume and contributes to the deterioration of kidney function by enhancing the renin-angiotensin system and sympathetic tone. Thus, a low-salt diet is important to reduce blood pressure and prevent kidney diseases. With recent advancements in genetic research, our understanding of the etiology and genetic background of CKD has deepened, enabling the identification of populations with a high genetic predisposition to CKD. It is thought that the impact of lifestyle or environmental factors on disease occurrence or prevention may vary based on genetic factors. This study aims to investigate whether frequency of adding salt has different effects depending on genetic risk for CKD. CKD polygenic risk scores (PRS) were generated using CKDGen Consortium GWAS (N= 765,348) summary statics. Then we applied the CKD PRS to UK Biobank subjects. A total of 331,318 European individuals aged 40-69 without CKD were enrolled in the study between 2006-2010. The average age at enrollment of the participants in this study was 56.69, and 46% were male. Over an average follow-up period of 8 years, 12,279 CKD cases were identified. The group that developed CKD had a higher percentage of individuals who added salt (46.37% vs. 43.04%) and higher CKD high-risk PRS values compared to the group that did not develop CKD (23.53% vs. 19.86%). We classified the individuals into four groups based on PRS: low (0-19%), intermediate (20-79%), high (80-94%), very high (≥ 95%). Incidence of CKD increased incrementally according to CKD PRS even after adjusting for age, sex, race, Townsend deprivation index, body mass index, estimated glomerular filtration rate, smoking, alcohol, physical activity, diabetes mellitus, dyslipidemia, hypertension, coronary artery diseases, cerebrovascular diseases at baseline. Compared to the 'never/rarely' frequency of adding salt group, 'always' frequency of adding salt group had an increasing incidence of CKD proportionate to the degree of frequency of adding salt. However, the significant association of 'always' group on incident CKD disappeared in the low PRS group. This study validated the signal from PRSs for CKD across a large cohort and confirmed that frequency of adding salt contributes to the occurrence of CKD. Additionally, it confirmed that the effect of frequency of 'always' adding salt on CKD incidence is greater in those with more than intermediate CKD-PRS. This study suggests that increased salt intake is particularly concerning for individuals with genetic risk factors for CKD, underscoring the clinical importance of reducing salt intake for these individuals.
+
+Salt induces myocardial and renal fibrosis in normotensive and hypertensive rats.
+
+Number of 
+
+Key takeaways:High dietary salt intake leads to widespread fibrosis and increased TGF-beta1 in the heart and kidney in both normotensive and hypertensive rats, suggesting excessive salt intake may be a direct pathogenic factor for cardiovascular disease.
+
+Abstract:BACKGROUND
+The detrimental effects of high dietary salt intake may not only involve effects on blood pressure and organ hypertrophy but also lead to tissue fibrosis independently of these factors.
+
+METHODS AND RESULTS
+The effect of a normal (1%) or high (8%) sodium chloride diet on myocardial and renal fibrosis was assessed by quantitative histomorphometry in spontaneously hypertensive rats (SHRs) and normotensive Wistar-Kyoto rats (WKYs). The effect of salt on transforming growth factor-beta1 (TGF-beta1) gene expression was assessed by Northern blot hybridization. A high-salt diet from 8 to 16 weeks of age resulted in increased blood pressure and left ventricular and renal hypertrophy in both WKYs and SHRs. Marked interstitial fibrosis was demonstrated in the left ventricle (LV), glomeruli, and renal tubules and in intramyocardial arteries and arterioles but not in the right ventricle. The collagen volume fraction increased significantly after high-salt diet in the LV, intramyocardial arteries and arterioles, glomeruli, and peritubular areas in both WKYs and SHRs. In the kidneys, glomerular and peritubular type IV collagen was also increased. There was overexpression of TGF-beta1 mRNA in the LV and kidneys in both rat strains after a high-salt diet (all P<0.001).
+
+CONCLUSIONS
+High dietary salt led to widespread fibrosis and increased TGF-beta1 in the heart and kidney in normotensive and hypertensive rats. These results suggest a specific effect of dietary salt on fibrosis, possibly via TGF-beta1-dependent pathways, and further suggest that excessive salt intake may be an important direct pathogenic factor for cardiovascular disease.
+
+The Interplay Between Dietary Sodium Intake and Proteinuria in CKD
+
+Number of 
+
+Key takeaways:High sodium intake is associated with increased proteinuria in patients with chronic kidney disease, potentially moderating the risk of adverse kidney outcomes.
+
+Does the kidney influence the hunger for salt?
+
+Number of 
+
+Key takeaways:Renal denervation may reduce the drive to consume salty foods in patients with poorly controlled hypertension by affecting sensory nerves in the kidney.
+
+Could salt intake directly affect the cerebral microvasculature in hypertension?
+
+Number of 
+
+Key takeaways:Excessive dietary salt consumption is associated with increased cerebral small vessel disease in hypertensive patients.
+
+Dietary salt promotes neurovascular and cognitive dysfunction through a gut-initiated TH17 response
+
+Number of 
+
+Key takeaways:Excess dietary salt leads to cognitive impairment in mice by promoting endothelial dysfunction and IL-17 production through a gut-brain axis.
+
+High Salt Elicits Brain Inflammation and Cognitive Dysfunction, Accompanied by Alternations in the Gut Microbiota and Decreased SCFA Production
+
+Number of 
+
+Key takeaways:High-salt diets in mice lead to cognitive dysfunction, brain inflammation, and gut dysbiosis, particularly reduced short-chain fatty acid production.
+
+Abstract:Background: Excessive salt intake is considered as an important risk factor for cognitive impairment, which might be the consequence of imbalanced intestinal homeostasis. Objective: To investigate the effects of dietary salt on the gut microbiota and cognitive performance and the underlying mechanisms. Methods: Adult female C57BL/6 mice were maintained on either normal chow (control group, CON) or sodium-rich chow containing 8% NaCl (high-salt diet, HSD) for 8 weeks. Spatial learning and memory ability, short-chain fatty acids (SCFAs) concentrations, gut bacterial flora composition, blood-brain barrier permeability, and proinflammatory cytokine levels and apoptosis in the brain were evaluated. Results: The mice fed a HSD for 8 weeks displayed impaired learning and memory abilities. HSD significantly reduced the proportions of Bacteroidetes (S24-7 and Alloprevotella) and Proteobacteria and increased that of Firmicutes (Lachnospiraceae and Ruminococcaceae). SCFA concentrations decreased in the absolute concentrations of acetate, propionate, and butyrate in the fecal samples from the HSD-fed mice. The HSD induced both BBB dysfunction and microglial activation in the mouse brain, and increased the IL-1β, IL-6, and TNF-α expression levels in the cortex. More importantly, the degree of apoptosis was higher in the cortex and hippocampus region of mice fed the HSD, and this effect was accompanied by significantly higher expression of cleaved caspase-3, caspase-3, and caspase-1. Conclusion: The HSD directly causes cognitive dysfunction in mice by eliciting an inflammatory environment and triggering apoptosis in the brain, and these effects are accompanied by gut dysbiosis, particularly reduced SCFA production.
+
+Dietary Salt Disrupts Tricarboxylic Acid Cycle and Induces Tau Hyperphosphorylation and Synapse Dysfunction during Aging
+
+Number of 
+
+Key takeaways:Elevated salt intake impairs the tricarboxylic acid cycle and induces tau hyperphosphorylation and synapse dysfunction during aging, leading to cognitive impairment.
+
+Abstract:Dietary salt causes synaptic deficits and tau hyperphosphorylation, which are detrimental to cognitive function. However, the specific effects of a high-salt diet on synapse and tau protein remain poorly understood. In this study, aged (15-month-old) C57BL/6 mice received a normal (0.5% NaCl) or high-salt (8% NaCl) diet for 3 months, and N2a cells were treated with normal culture medium or a NaCl medium (40 mM). Spatial learning and memory abilities were tested using the Morris water maze. The levels of metabolites and related enzymes in the tricarboxylic acid (TCA) cycle were confirmed using liquid chromatography-tandem mass spectrometry, western blotting, and immunofluorescence. We also investigated synapse morphology and the phosphorylation of tau protein. Under the high-salt diet, mice displayed impaired learning and memory compared to mice fed the normal diet. Furthermore, excessive salt intake disturbed the TCA cycle in both animals and cells compared to the respective normal controls. High dietary salt reduced postsynaptic density protein 95 (PSD95) and brain-derived neurotrophic factor (BDNF) expression, impaired neurons, and caused synaptic loss in the mice. We also detected tau hyperphosphorylation at different sites (Thr205, Thr231, and Thr181) without increasing total tau levels in response to high salt treatment, both in vivo and in vitro. We concluded that elevated salt intake impairs the TCA cycle and induces tau hyperphosphorylation and synapse dysfunction during aging, which ultimately results in cognitive impairment.
+
+Excessive Dietary Salt Intake Exacerbates Cognitive Impairment Progression and Increases Dementia Risk in Older Adults.
+
+Number of 
+
+Key takeaways:Excessive dietary salt intake increases cognitive impairment risk and dementia risk in older adults, regardless of known risk factors like hypertension and APOE genotype.
+
+Excessive salt consumption increases susceptibility to cerebrovascular dysfunction and cognitive impairments in the elderly of both sexes
+
+Number of 
+
+Key takeaways:Excessive salt consumption increases susceptibility to cerebrovascular dysfunction and cognitive impairments in both male and female elderly individuals, regardless of blood pressure.
+
+Abstract:Epidemiological study indicates that the prevalence of dementia is higher in women than men. Excessive salt consumption increases the incidence of cardiovascular disorders, which is one of the major risk factors for dementia. However, whether high‐salt intake that can but not always elevate blood pressure contributes to the development of dementia is still not well understood. Moreover, if there is a correlation between excessive salt consumption, cerebral vascular dysfunction, and dementia, especially if there is a relationship between these factors and sex and age is unclear. In the present study, we examined the myogenic response of middle cerebral artery, autoregulation of cerebral blood flow (CBF), functional hyperemia, and cognitive function in young (3‐month) and old (18‐month) SD rats in both males and females. Blood pressure was not altered in all groups of rats fed 8% high salt (HS) diet. Yong and old female rats all displayed more spontaneous tone, less pressure‐induced myogenic response compared to age‐matched males. HS fed rats developed the impaired myogenic response to pressure and to Ach‐induced vasodilation in all age and sex. CBF measured by laser Doppler flowmetry (LDF) rose by 27.7 ± 4.8% (male, young), 57.4 ± 4.4% (female, young), 35.9 ± 3.3% (male, old), and 60.3 ± 12.3% (female, old), respectively, when MAP increases from 100–180 mmHg indicating that female rats have impaired CBF autoregulation in both ages. HS intake diminished and aggravated CBF autoregulation in male and female rats, respectively, in all age. Elderly female rats exhibited impaired functional hyperemia measured by LDF during whisker stimulation compared to age‐matched males. Excessive salt intake also exacerbated the declined functional hyperemia and resulted in cognitive impairment examined by eight‐arm water maze in old male and female rats. These results demonstrated that excessive salt consumption increases susceptibility to the development of cerebrovascular dysfunction and cognitive impairments in both male and female elderly independent of blood pressure. This study provides novel insight to understand the effects of metabolic stressors on sex and age in the development of cerebral vascular function and dementia.
+
+High salt diet induces cognitive impairment and is linked to the activation of IGF1R/mTOR/p70S6K signaling.
+
+Number of 
+
+Key takeaways:High salt intake leads to cognitive impairment and is linked to decreased autophagy, tau protein hyperphosphorylation, and synaptic dysfunction.
+
+Abstract:A high-salt diet (HSD) has been associated with various health issues, including hypertension and cardiovascular diseases. However, recent studies have revealed a potential link between high salt intake and cognitive impairment. This study aims to investigate the effects of high salt intake on autophagy, tau protein hyperphosphorylation, and synaptic function and their potential associations with cognitive impairment. To explore these mechanisms, 8-month-old male C57BL/6 mice were fed either a normal diet (0.4% NaCl) or an HSD (8% NaCl) for 3 months, and Neuro-2a cells were incubated with normal medium or NaCl medium (80 mM). Behavioral tests revealed learning and memory deficits in mice fed the HSD. We further discovered that the HSD decreased autophagy, as indicated by diminished levels of the autophagy-associated proteins Beclin-1 and LC3, along with an elevated p62 protein level. HSD feeding significantly decreased insulin-like growth factor-1 receptor (IGF1R) expression in the brain of C57BL/6 mice and activated mechanistic target of rapamycin (mTOR) signaling. In addition, the HSD reduced synaptophysin and postsynaptic density protein 95 (PSD95) expression in the hippocampus and caused synaptic loss in mice. We also found amyloid β accumulation and hyperphosphorylation of tau protein at different loci both in vivo and in vitro. Overall, this study highlights the clinical significance of understanding the impact of an HSD on cognitive function. By targeting the IGF1R/mTOR/p70S6K pathway or promoting autophagy, it may be possible to mitigate the negative effects of high salt intake on cognitive function.
+
+Reviewing the effects of dietary salt on cognition: mechanisms and future directions.
+
+Number of 
+
+Key takeaways:High salt intake may impair cognitive function in rodents, with mixed results in humans, and the need for further studies to clarify the impact of salt intake on cognition.
+
+Abstract:BACKGROUND AND OBJECTIVES
+Consumption of salt exceeds dietary guidelines for many countries around the world, despite efforts to increase awareness of the potential cardiovascular health risks. Emerging evidence, primarily from rodent models, indicates that high salt intake may also impair aspects of cognitive function. To our knowledge, here we provide the first review of the effects of salt on cognition. To review literature on the effects of high-salt diets on cognitive measures across human and non-human animal research to generate targeted questions for future studies.
+
+METHODS AND STUDY DESIGN
+Non-systematic literature review of studies manipulating (in rodents) or measuring (in humans) salt intake and assessing performance on cognitive measures.
+
+RESULTS
+Studies in humans have focused on older populations and show mixed associations between salt intake and cognitive performance. By contrast, most rodent studies have found impairments in cognition following chronic consumption of high-salt (typically 7-8%) diets. Most report impairments in tasks assessing spatial memory with corresponding increases in hippocampal oxidative stress and inflammatory responses originating in the gut. Notably, several rodent studies reported that high-salt diets impaired cognitive function in the absence of blood pressure changes.
+
+CONCLUSIONS
+Contrasting results from human and animal studies emphasise the need for further studies to clarify whether salt intake affects cognition. Testing cognition in high-salt diet models that induce hypertension will increase the translatability of future studies in rodents. A challenge for research in humans is isolating the effects of salt from those of fat and sugar that tend to co-occur in 'western' diets.
+
+Excessive salt intake accelerates the progression of cerebral small vessel disease in older adults
+
+Number of 
+
+Key takeaways:Excessive salt intake accelerates the progression of cerebral small vessel disease in older adults.
+
+Abstract:Abstract Background It is unclear whether excessive salt intake accelerates the progression of cerebral small vessel disease (CSVD). The major objective of this study was to investigate the harmful effect of excessive salt intake on the progression of CSVD in older individuals. Methods Between May 2007 and November 2010, 423 community-dwelling individuals aged 60 years and older were recruited from the Shandong area, China. Salt intake was estimated using 24-hour urine collection for 7 consecutive days at baseline. Participants were classified into low, mild, moderate and high groups according to the salt intake estimation. CSVD including white matter hyperintensities (WMHs), lacunes, microbleeds and an enlarged perivascular space (EPVS) were determined using brain magnetic resonance imaging. Results During an average of five years of follow-up, the WMH volume and WMH-to-intracranial ratio were increased in the four groups. However, the increasing trends in the WMH volume and WMH-to-intracranial ratio were significantly faster in the higher salt intake groups compared with the lower salt intake groups ( P adjusted &lt; 0.001). The cumulative hazard ratios of new-incident WMHs (defined as those with Fazekas scale scores ≥ 2), new-incident lacunes, microbleeds or an EPVS, as well as composites of CSVD, were respectively 2.47, 2.50, 3.33, 2.70 and 2.89 for the mild group; 3.72, 3.74, 4.66, 4.01 and 4.49 for the moderate group; and 7.39, 5.82, 7.00, 6.40 and 6.61 for the high group, compared with the low group after adjustment for confounders ( P adjusted &lt; 0.001). The risk of new-incident WMHs, lacunes, microbleeds or an EPVS, and composites of CSVD was significantly increased with each 1-standard-deviation increment in salt intake ( P adjusted &lt; 0.001). Conclusion Our data indicates that excessive salt intake is an important and independent contributor to the progression of CVSD in older adults.
+
+Investigating High Salt Diet Effects on Stress Responding and Microglial Activation
+
+Number of 
+
+Key takeaways:High salt intake does not influence behavioral responses to acute stress in mice, suggesting it does not affect stress response strategies.
+
+Abstract:<b>Abstract ID 14239</b> <b>Poster Board 360</b> Consuming excess salt (NaCl), the primary 
+
+The effects of excess salt consumption on contextual fear generalization in mice
+
+Number of 
+
+Key takeaways:Excessive salt consumption in mice leads to reduced fear generalization and enhanced contextual discrimination, suggesting a significant impact on anxiety symptoms.
+
+Abstract:Excess salt (NaCl) consumption is prevalent worldwide. Most Americans consume more than twice the daily recommended amount of sodium (Na; 2300mg). Excessive salt intake is a risk factor for cardiovascular pathology such as hypertension. Anxiety is often comorbid with cardiovascular diseases. Research has been done to examine the relationship between salt consumption and cardiovascular and other related peripheral diseases. However, far less research has been done to examine the relationship between salt consumption and brain health or anxiety. To examine this, mice were used because their salt intake and stress exposure can be rigorously controlled, unlike in humans. Specifically, we focused on fear generalization, a key characteristic of anxiety symptoms involving contextually inappropriate fear of situations not currently present. We hypothesized that mice consuming a diet with excess salt would exhibit higher levels of fear generalization relative to mice consuming a low salt diet. Adult (9 wk old) male and female C57BL/6J mice were given either a low (0.4% NaCl, w/w) or high (4.0% NaCl) salt diet ad libitum. Mice underwent contextual fear training 2 or 6 wks after commencing diet manipulation. Testing for contextually appropriate (fear expression) and contextually inappropriate (fear generalization) fear behavior occurred either 2 days (2 and 6 wk groups) or 4 wks (6 wk group) after training. Regardless of diet condition, mice of both sexes acquired contextual fear similarly when trained at the 2 wk timepoint, and exhibited equivalent fear expression and contextual discrimination when tested 2 days later. Similarly, and as expected, male mice consuming a low salt diet expressed normal levels of fear generalization at 4 wks. Contrary to our hypothesis, however, male mice consuming a high salt diet did not exhibit fear generalization at 4 wks. Female tests of 4 wk fear generalization, and both sexes in the 6 wk group being tested after 2 days, are ongoing. Thus far, our findings indicate that male mice consuming a high salt diet do not generalize their contextual fear after a standard time delay (4 wks), or alternatively display enhanced contextual discrimination at the 4 wk timepoint post‐training. Our findings suggest intake of salt, a non‐caloric dietary component, can have a significant effect on a measure directly related to anxiety symptoms. Future experiments will evaluate the contribution of neuroinflammation to these behavioral changes, as well as investigate cued fear responses in both sexes.
+
+Maternal high‐salt diet during pregnancy impairs synaptic plasticity and memory in offspring
+
+Number of 
+
+Key takeaways:Maternal high-salt diet during pregnancy impairs synaptic plasticity and memory in adult offspring, potentially due to reduced astrocytes in juvenile years.
+
+Abstract:Excess salt intake harms the brain health and cognitive functions, but whether a maternal high‐salt diet (HSD) affects the brain development and neural plasticity of offspring remains unclear. Here, using a range of behavioral tests, we reported that the offspring of maternal HSD subjects exhibited short‐ and long‐term memory deficits, especially in spatial memory in adulthood. Moreover, impairments in synaptic transmission and plasticity in the hippocampus were observed in adult offspring by using in vivo electrophysiology. Consistently, the number of astrocytes but not neurons in the hippocampus of the offspring from the HSD group were significantly decreased, and ERK and AKT signaling pathways involved in neurodevelopment were highly activated only during juvenile. In addition, the expression of synaptic proteins decreased both in juvenile and adulthood, and this effect might be involved in synaptic dysfunction. Collectively, these data demonstrated that the maternal HSD might cause adult offspring synaptic dysfunction and memory loss. It is possibly due to the reduction of astrocytes in juvenile.
+
+High salt intake activates the hypothalamic–pituitary–adrenal axis, amplifies the stress response, and alters tissue glucocorticoid exposure in mice
+
+Number of 
+
+Key takeaways:High salt intake activates the hypothalamic-pituitary-adrenal axis, amplifies stress response, and alters tissue glucocorticoid exposure in mice, potentially contributing to long-term health consequences of a high salt diet.
+
+Abstract:High salt intake is common and contributes to poor cardiovascular health. Sustained cortisol excess also induces an adverse cardiovascular profile. Urinary cortisol excretion positively correlates with urinary sodium excretion. We hypothesised that this was due to hypothalamic-pituitary-adrenal axis activation by high salt intake. In male C57BL6/J mice, 2 weeks of high salt intake increased Crh and Pomc mRNA abundance in the hypothalamus and anterior pituitary, respectively and caused a sustained rise in plasma corticosterone. Plasma copeptin and anterior pituitary V1b receptor mRNA expression was elevated, which may contribute to basal HPA axis activation. Additionally, high salt intake amplified glucocorticoid response to restraint stress, indicative of enhanced HPA axis sensitivity. In the periphery, high salt intake reduced the binding capacity of corticosteroid-binding globulin, enhancing glucocorticoid bioavailability. Within several tissues, the expression of glucocorticoid-regenerating enzyme, 11β-hydroxysteroid dehydrogenase type 1, was increased and the glucocorticoid receptor downregulated. Overall, high salt intake increased glucocorticoid exposure in the hippocampus, anterior pituitary and liver. Chronic high salt intake amplifies basal and stress-induced glucocorticoid levels and resets glucocorticoid biology centrally, peripherally and within cells. This shows direct connectivity between salt homeostasis and HPA axis function. The cumulative effect is likely maladaptive and may contribute to the long-term health consequences of a high salt diet.
+
+The impact of salt consumption on cardiometabolic and cognitive health in aged female rats
+
+Number of 
+
+Key takeaways:Low-salt diets in aged female rats reduce blood pressure but increase anxiety, while high-salt diets may worsen short-term memory and increase long-term memory.
+
+Salt as a non-caloric behavioral modifier: A review of evidence from pre-clinical studies
+
+Number of 
+
+Key takeaways:Elevated salt intake in non-human animals can impair spatial memory expression, reduce nest building, and increase stress responsivity, with potential broader behavioral implications in female sex.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

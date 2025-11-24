@@ -1,0 +1,624 @@
+PROTOCOL: Ashwagandha
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: Clinical evaluation of the pharmacological impact of ashwagandha root extract on sleep in healthy volunteers and insomnia patients: A double-blind, randomized, parallel-group, placebo-controlled study.
+DESCRIPTION: Ashwagandha (Withania somnifera) is an adaptogen with documented effects in reducing stress, anxiety, and improving sleep quality and cognitive functions. Supplementation with ashwagandha supports body recovery, increases resilience to stressors, and improves mood and mental well-being. Numerous clinical studies and meta-analyses confirm its effectiveness and good safety profile.
+
+CONTENT SECTIONS:
+
+Comprehensive adaptogenic support and neuroprotection
+
+Ashwagandha (Withania somnifera) is an adaptogen with documented effects in reducing stress, anxiety, and improving sleep quality and cognitive functions. Supplementation with ashwagandha supports body recovery, increases resilience to stressors, and improves mood and mental well-being. Numerous clinical studies and meta-analyses confirm its effectiveness and good safety profile.
+
+Level of evidence:Good
+
+Ashwagandha works mainly by modulating the hypothalamic-pituitary-adrenal (HPA) axis, lowering cortisol levels and stabilizing the stress response. Compounds in the plant, including withanolides and triethylene glycol, enhance the activity of GABA and serotonin receptors, which promotes relaxation and improves sleep quality. Additionally, it exhibits anti-inflammatory and antioxidant effects, supporting neuroplasticity and protecting nerve cells from damage.
+
+The supplement is well tolerated by most people, but mild side effects may occur.
+
+The supplement is not recommended for people with certain conditions or while taking specific medications.
+
+300–600 mg root extract daily
+
+First effects after 4–8 weeks
+
+In the evening, preferably 30–60 minutes before bedtime
+
+Supplementation cycle
+
+Use for 8–12 weeks, then take a 1–2 week break
+
+Take with a light meal for better absorption and to reduce the risk of gastrointestinal complaints
+
+If the dosage is higher, split it into two smaller portions – morning and evening
+
+Keep a sleep and well-being journal to assess subjective improvement
+
+Avoid caffeine in the evening
+
+Limit caffeine-containing beverages after 2 p.m. to avoid disrupting the adaptogen’s effect
+
+Combine with relaxation
+
+Combine supplementation with breathing techniques or meditation to enhance calming effects
+
+Ashwagandha improves sleep quality and duration in healthy individuals and those with insomnia, shortens sleep latency, extends total sleep time, increases sleep efficiency, and lowers anxiety and stress levels.
+
+Effectiveness in improving sleep
+
+Ashwagandha has beneficial effects on mental health, particularly by reducing stress and anxiety, improving mood, sleep, and cognitive functions through modulation of the HPA axis and neurotransmitters.
+
+Stress, anxiety, and mood
+
+Cognitive functions and energy
+
+Safety and limitations
+
+Ashwagandha supports cognitive function, memory, and brain health through adaptogenic, neuroprotective effects and improved resilience to stress, although further large-scale clinical studies are needed.
+
+Impact on cognitive functions and memory
+
+Neuroprotective action and mechanisms
+
+Safety and limitations
+
+Scientific data and sources
+
+Level of evidenceGood
+
+Number of included studies:62
+
+Final comment:Numerous randomized controlled trials and at least two meta-analyses confirm the beneficial effects of ashwagandha on sleep quality, stress reduction, and cognitive function. The results are consistent across various populations and with different doses, which speaks to the reliability of the effects. Although there is methodological heterogeneity and a limited number of long-term, multi-center trials, the available evidence provides a solid scientific basis for the effects of ashwagandha.
+
+Effect of Ashwagandha (Withania somnifera) extract on sleep: A systematic review and meta-analysis
+
+Number of 
+
+Key takeaways:Ashwagandha extract improves sleep in adults, particularly those with insomnia, and enhances mental alertness and reduces anxiety, but long-term safety data is needed.
+
+Abstract:Objective To determine the effect of Ashwagandha extract on sleep. Methods A comprehensive search was conducted in CENTRAL, MEDLINE, SCOPUS, Google Scholars, World Health Organization Trials Portal, ClinicalTrials.gov, Clinical Trial Registry of India, and AYUSH Research Portal for all appropriate trials. Randomized controlled trials that examined the effect of Ashwagandha extract versus placebo on sleep in human participants 18 years old and above were considered. Two authors independently read all trials and independently extracted all relevant data. The primary outcomes were sleep quantity and sleep quality. The secondary outcomes were mental alertness on rising, anxiety level, and quality of life. Results A total of five randomized controlled trials containing 400 participants were analyzed. Ashwagandha extract exhibited a small but significant effect on overall sleep (Standardized Mean Difference -0.59; 95% Confidence Interval -0.75 to -0.42; I2 =  62%). The effects on sleep were more prominent in the subgroup of adults diagnosed with insomnia, treatment dosage ≥600 mg/day, and treatment duration ≥8 weeks. Ashwagandha extract was also found to improve mental alertness on rising and anxiety level, but no significant effect on quality of life. No serious side effects were reported. Conclusion Ashwagandha extract appears to has a beneficial effect in improving sleep in adults. However, data on the serious adverse effects of Ashwagandha extract are limited, and more safety data would be needed to assess whether it would be safe for long-term use.
+
+A randomized, double blind, placebo controlled study to evaluate the effects of ashwagandha (Withania somnifera) extract on sleep quality in healthy adults.
+
+Number of 
+
+Key takeaways:Ashwagandha extract supplementation for six weeks significantly improved sleep quality and overall well-being in healthy adults with non-restorative sleep, with no reported adverse events.
+
+Triethylene glycol, an active component of Ashwagandha (Withania somnifera) leaves, is responsible for sleep induction
+
+Number of 
+
+Key takeaways:Triethylene glycol is an active sleep-inducing component of Ashwagandha leaves, potentially useful for insomnia therapy.
+
+Abstract:Insomnia is the most common sleep complaint which occurs due to difficulty in falling asleep or maintaining it. Most of currently available drugs for insomnia develop dependency and/or adverse effects. Hence natural therapies could be an alternative choice of treatment for insomnia. The root or whole plant extract of Ashwagandha (Withania somnifera) has been used to induce sleep in Indian system of traditional home medicine, Ayurveda. However, its active somnogenic components remain unidentified. We investigated the effect of various components of Ashwagandha leaf on sleep regulation by oral administration in mice. We found that the alcoholic extract that contained high amount of active withanolides was ineffective to induce sleep in mice. However, the water extract which contain triethylene glycol as a major component induced significant amount of non-rapid eye movement sleep with slight change in rapid eye movement sleep. Commercially available triethylene glycol also increased non-rapid eye movement sleep in mice in a dose-dependent (10–30 mg/mouse) manner. These results clearly demonstrated that triethylene glycol is an active sleep-inducing component of Ashwagandha leaves and could potentially be useful for insomnia therapy.
+
+Clinical evaluation of the pharmacological impact of ashwagandha root extract on sleep in healthy volunteers and insomnia patients: A double-blind, randomized, parallel-group, placebo-controlled study.
+
+Number of 
+
+Key takeaways:Ashwagandha root extract significantly improves sleep quality and helps manage insomnia in both healthy individuals and insomnia patients, with no adverse effects reported.
+
+Ashwagandha (Withania somnifera) - influence on sleep: review
+
+Number of 
+
+Key takeaways:Ashwagandha supplementation improves sleep quality and reduces oxidative stress, potentially benefiting both insomniacs and healthy individuals.
+
+Abstract:Introduction: Ashwagandha (Withania somnifera) is a plant found on the Indian subcontinent. The health-promoting properties attributed to it have been largely verified in numerous studies over the past 20 years. This article reviews studies on the effects of ashwagandha supplementation on sleep, its deprivation, and studies analyzing the mechanisms determining such effects.
+Materials and methods: A review of the literature available in the PubMed database was carried out, using the key words: "ashwagandha" ; "sleep" ; "insomnia", "withania", "somnifera", "withanolide", "withaferin".
+Results: Ashwagandha has a positive effect on the quality and length of sleep. It is indicated that it improves sleep parameters among both insomniacs and healthy people. In addition, it has been proven to reduce oxidative stress under conditions of sleep deprivation. Ashwagandha's positive effects on sleep have been shown to be related to its effects on GABA-nergic transmission, and the chemical responsible for the plant's sleep induction is triethylene glycol. Its regular use increases dopamine levels in the brain and could potentially be useful in treating the sleep-related disorder restless legs syndrome.
+Conclusions: The use of ashwagandha is a potential direction for treating sleep disorders and improving sleep quality in healthy individuals. There is a need for further development and studies on larger groups of patients to exploit its potential.
+
+Sleep-promoting activity of amylase-treated Ashwagandha (Withania somnifera L. Dunal) root extract via GABA receptors
+
+Number of 
+
+Key takeaways:Ashwagandha root extract promotes sleep by binding to GABA receptors, improving sleep quality and quantity, and effectively relieving caffeine-induced insomnia symptoms.
+
+Abstract:Ashwagandha (Withania somnifera L. Dunal), an Indian medicinal plant that has been used for centuries to treat insomnia, exhibits a variety of biological activities, such as improving cognitive function, immunity and anxiety. In this study, the effect of enzyme-treated Ashwagandha root extract (EA) and on sleep was evaluated using rodent models. Starch contained in the Ashwagandha root extract was removed by amylase treatment to prepare EA. To evaluate the sleep-promoting activity of EA, a pentobarbital-induced sleep test and electroencephalogram analysis were performed. In addition, the sleep-promoting mechanism of EA was elucidated by analyzing the expression of sleep-related receptors. In the pentobarbital-induced sleep test, EA dose-dependently increased sleep duration. Additionally, electroencephalogram analysis revealed that EA significantly increased δ-wave and non-rapid eye movement sleep times, which are involved in deep sleep, thereby improving sleep quality and quantity. EA also effectively relieved caffeine-induced insomnia symptoms. Furthermore, the γ-aminobutyric acid (GABA) content in the brain and mRNA and protein expression of GABAA, GABAB1, and serotonin receptors were significantly increased by EA compared to the normal group. In particular, EA showed sleep-promoting activity by binding to various GABAA receptor sites. Collectively, EA exhibited sleep-promoting activity through the GABAergic system and may be used as a functional material to improve sleep deprivation.
+
+Ashwagandha as an Adaptogen: Its Influence on Sleep Patterns, Stress Response, and Anxiety in Modern Life
+
+Number of 
+
+Key takeaways:Ashwagandha shows significant potential as a natural therapy for managing stress, improving sleep quality, and reducing anxiety, with a generally favorable safety profile.
+
+Abstract:Background:
+Ashwagandha (Withania somnifera), a prominent adaptogen in traditional Ayurvedic medicine, has gained substantial attention for its potential to enhance resilience to modern stressors, improve sleep quality, and alleviate anxiety. Preclinical and clinical studies have demonstrated that Ashwagandha’s active compounds, particularly withanolides, influence the hypothalamic-pituitary-adrenal (HPA) axis, leading to reductions in cortisol levels and a more balanced stress response.
+Puropose: This review aims to consolidate current evidence on Ashwagandha’s efficacy in modulating stress response, improving sleep patterns, and reducing anxiety levels.
+Material and methods: The review was based on the analysis of materials collected in the databases "Pubmed", Google Scholar, ResearchGate, books and other scientific articles. The search was conducted using keywords: “Ashwagandha”, “Withania somnifera”, “adaptogen”, “stress”, “anxiety”, “sleep”, “cortisol”. “HPA axis”.
+Results: A review of the literature has shown Ashwagandha anxiolytic properties, with effects comparable to standard anti-anxiety medications but with fewer side effects. Additionally, Ashwagandha has been shown to significantly improve sleep onset latency, sleep duration, and overall sleep quality, particularly in individuals suffering from stress-induced sleep disorders.
+Conclusions: Ashwagandha shows significant potential as a natural therapy for managing stress, improving sleep quality, and reducing anxiety, primarily through its effects on the hypothalamic-pituitary-adrenal (HPA) axis and cortisol regulation. Clinical trials have demonstrated its efficacy in improving sleep patterns and reducing anxiety, with a generally favorable safety profile. However, there is a need for further research, particularly to better understand the long-term effects and safety of Ashwagandha supplementation.
+
+The effect of Ashwagandha (Withania somnifera) supplementation on sleep, mood, and cognitive function in healthy university students
+
+Number of 
+
+Key takeaways:Ashwagandha supplementation may improve feelings of confusion in university students, but no other mood indicators, sleep, or cognitive function parameters were found to be significantly different.
+
+Abstract:University students often face high levels of stress and sleep disturbances due to their academic demands and lifestyle factors(1). Ashwagandha (Withania somnifera), an adaptogenic herb, has shown the potential to mitigate stress and improve cognitive function(2). However, limited research has examined its effects on these variables in university students. This study aimed to determine the effects of ashwagandha supplementation on sleep quality, mood, and cognitive function in university students. A randomized, double-blind, placebo-controlled crossover study was used. Nine university students (5 males, 4 females; Age: 21 ± 1 years; BMI: 25 ± 2.5 kg/m2) were randomly assigned to receive 500 mg of standardized ashwagandha root extract capsules for 7 days or a placebo (encapsulated cornstarch) with a 7-day washout between treatments. Sleep was measured during the 7-day supplementation period using the Loughborough Daily Sleep Diary. Postsupplementation mood and cognitive function were measured by the Profile of Mood States (POMS) scale(3) and computerised Stroop, and Deary-Liewald simple and choice reaction tasks(4). Paired sample t-tests were used to determine differences between the ashwagandha and placebo conditions with calculated effect sizes (Cohen’s d). Participants reported lower confusion indicator on the POMS following ashwagandha compared to the placebo (mean ± SD: 4.8 ± 2.0 vs 7.6 ± 3.1 arbitrary units; P = 0.03; d = −0.92). No other differences were found for any other mood indicators, sleep, or cognitive function parameters (P > 0.05). These data suggest that ashwagandha may improve feelings of confusion in university students but further studies with larger sample sizes are needed to verify these findings and elucidate the underlying mechanisms.
+
+Hydroalcoholic Extract of Ashwagandha Improves Sleep by Modulating GABA/Histamine Receptors and EEG Slow-Wave Pattern in In Vitro - In Vivo Experimental Models
+
+Number of 
+
+Key takeaways:Ashwagandha extract improves sleep quality by modulating GABA/Histamine receptors and enhancing EEG slow-wave patterns in experimental models.
+
+Abstract:Withania somnifera (ashwagandha) has been used traditionally as a remedy for insomnia and to enhance cognitive function. The effects of ashwagandha extract (AE, 35% withanolide glycosides, ShodenⓇ) on the expression levels of γ-aminobutyric acid (GABA)Aρ1 and histamine H3 receptors in Rattus norvegicus glioblastoma (C6) cell lines were studied using semiquantitative reverse transcriptase-polymerase chain reactions. The effects of AE on sleep onset and duration were studied in Swiss albino mice using the pentobarbital-induced sleep model. Furthermore, the effects on nonrapid eye movement (NREM) and rapid eye movement sleep patterns were studied in Wistar rats with electroencephalogram (EEG) to support the improvement in sleep quality. There was an increase in gene expression levels of GABAAρ1 receptor (1.38 and 1.94 folds) and histamine H3 (1.14 and 1.29 folds) receptors induced by AE at doses of 15 and 30 μg/mL compared to control. AE at doses of 10, 25, and 50 mg/kg body weight showed a significant decrease in time to sleep onset and increased total sleep duration in the pentobarbital-induced sleep model. At 50 mg/kg body weight dosage level, a 34% decrease (P<0.0001) in sleep onset time and 47% increase (P<0.0001) in sleep duration was observed. The EEG study showed significant improvement in alpha, beta, theta, delta, and gamma bands at doses of 10, 25, and 50 mg/kg body weight with delta waves showing increases of 30%, 46% (P<0.05), and 34%, respectively. The induction of sleep, GABA-mimetic action, NREM sleep, and the effects on slow-wave cycles support the calming property of AE in improving the quality of sleep.
+
+Unlocking Better Sleep and Stress Relief: The Power of Ashwagandha (Withania somnifera) Supplementation – A Literature Review
+
+Number of 
+
+Key takeaways:Ashwagandha supplementation significantly improves sleep quality and reduces stress, particularly for those with anxiety or chronic stress.
+
+Abstract:Ashwagandha (Withania somnifera) is known for its adaptogenic properties, helping the body manage stress from various sources. This review, based on 23 studies, evaluates Ashwagandha's effectiveness in enhancing sleep quality and reducing stress. The herb's bioactive compounds modulate stress responses and neurotransmitter systems, contributing to improved mental and physical resilience. The studies consistently show that Ashwagandha supplementation (250 to 600 mg daily for 4 to 12 weeks) significantly improves sleep quality, latency, and efficiency. These effects are largely due to the modulation of the hypothalamic-pituitary-adrenal (HPA) axis, cortisol reduction, and enhancement of GABAergic and serotonergic pathways. Ashwagandha also extends total sleep time in various populations, including healthy adults and the elderly. In addition to enhancing sleep, Ashwagandha reduces stress by lowering cortisol levels and modulating neurotransmitter systems. Numerous studies highlight its role in alleviating anxiety and improving mental well-being. However, some studies report gastrointestinal issues and potential interactions with medications, necessitating caution and consultation with healthcare providers. This review synthesizes current research, identifies trends, and highlights gaps in the literature, contributing to a better understanding of Ashwagandha's role in modern health practices. Given the challenges of sleep disorders and stress-related conditions, Ashwagandha shows promise as a natural remedy, particularly for those with anxiety or chronic stress. Future research should focus on understanding the underlying mechanisms, ensuring long-term safety, and standardizing supplement quality to strengthen its therapeutic applications.
+
+Efficacy of Different Concentrations of Withanolides in Ashwagandha Supplements for Insomnia and Enhancing Energy Level
+
+Number of 
+
+Key takeaways:Ashwagandha supplements with higher levels of withanolides are more effective in treating insomnia and improving sleep quality, while unstandardized ashwagandha may only increase energy levels.
+
+Abstract:Abstract Objectives Ashwagandha was found to have promising results in treating insomnia and bringing forward circadian rhythms. However, anyone with insomnia responded differently to various concentrations of withanolides in Ashwagandha supplements. In this study, the concentration of withanolides in Ashwagandha and total sleep time improvement, sleep circadian rhythms, and energy level elevation were investigated in sleep deprived subjects. Methods A total of 132 participants with insomnia aged between 18 and 50 were selected for inclusion in the study. Unstandardized Ashwagandha supplements were distributed to group A (n=39). Ashwagandha with 5% of withanolides was assigned to group B (n=53), and group C (n=40) received ashwagandha contained 2.5% of withanolides. The data were collected from self-reported questionnaires and analyzed using the Shapiro-Wilk test and the Wilcoxon signed-rank test with R Studio 4.1.2. Results Group B showed the greatest improvement in sleep quality. In the beginning, 38% of participants slept less than 6 hours, decreasing to 26% after the trial (p=0.007197). 42% of the participants slept before 12am at baseline, increasing to 64% at the end (p=0.0004883). More participants in group C were able to sleep more than 7 hours (p-value=3.426e-05) and those with high energy levels increased dramatically from 13% to 40% (p-value=0.0001221). However, some people have reported acne and oiliness as side effects. Conclusions Ashwagandha with higher levels of withanolides has been shown to be more effective in treating insomnia. Moderate levels may improve both energy levels and total sleep time, while unstandardized ashwagandha may only be effective in increasing energy levels. Funding Sources The company Nutripacks sponsored this testing trial.
+
+Ashwagandha (Withania somnifera)—Current Research on the Health-Promoting Activities: A Narrative Review
+
+Number of 
+
+Key takeaways:Ashwagandha shows potential as a valuable natural remedy for various health concerns, including neuroprotective, sedative, adaptogenic, anti-inflammatory, cardioprotective, and anti-diabetic properties.
+
+Abstract:In recent years, there has been a significant surge in reports on the health-promoting benefits of winter cherry (Withania somnifera), also known as Ashwagandha. Its current research covers many aspects of human health, including neuroprotective, sedative and adaptogenic effects and effects on sleep. There are also reports of anti-inflammatory, antimicrobial, cardioprotective and anti-diabetic properties. Furthermore, there are reports of reproductive outcomes and tarcicidal hormone action. This growing body of research on Ashwagandha highlights its potential as a valuable natural remedy for many health concerns. This narrative review delves into the most recent findings and provides a comprehensive overview of the current understanding of ashwagandha’s potential uses and any known safety concerns and contraindications.
+
+The impact of ashwagandha on sleep quality, anxiety reduction, and stress lowering: comparative analysis of available studies
+
+Number of 
+
+Key takeaways:Ashwagandha supplementation improves sleep quality, reduces anxiety, and reduces stress, potentially through its action on the hypothalamic-pituitary-adrenal axis, neurotransmitter modulation, and antioxidative activity.
+
+Abstract:Introduction and objective: The increasing prevalence of sleep disorders, anxiety, and stress in contemporary society necessitates effective and accessible treatments. Ashwagandha - Withania somnifera (WS), an adaptogenic herb utilized in traditional Ayurvedic medicine, has gained significant attention in recent years for its potential to improve various aspects of health and well-being. This comprehensive review of the scientific literature aims to systematize the current scientific reports regarding the impact of Ashwagandha on enhancing sleep quality, reducing levels of anxiety and stress. 
+  
+Material and Method: In this article, a review of publications available in the PubMed and Google Scholar databases was conducted, with an analysis of clinical and experimental studies focusing on methodology, participant demographics, dosage regimens, and tools for assessing sleep quality, anxiety, and stress levels. Articles were searched using English language terms: "ashwagandha," "Withania somnifera," "influence of sleep quality," "stress," "anxiety." 
+  
+Conclusions: The scientific studies presented indicate the benefits of Ashwagandha supplementation in the context of improving sleep quality, reducing anxiety states, and stress. The results of various studies, including randomized controlled trials and systematic reviews, suggest that Ashwagandha may positively influence these health aspects through its action on the hypothalamic-pituitary-adrenal (HPA) axis11, modulation of neurotransmitters (GABA, serotonin)1, and antioxidative activity2.
+
+Electroencephalogram Correlates the Role of Ashwagandha in Sleep and Memory Promoting Effect
+
+Number of 
+
+Key takeaways:Ashwagandha extract enhances slow wave activity in the brain, potentially improving sleep quality and memory in rats.
+
+Abstract:Background: Ashwagandha (Withania somnifera), a known traditional medicine used in Ayurveda system of medicine, native to the India. Poor quality sleep always looked as serious complaint as it disrupts sleep. The natural phytoconstituents present in the ashwagandha believed to be adaptogen that helps the body to adapt stress by normalizing or correcting through balancing immune and neuroendocrine system. The mechanism that enhances sleep quality in the presence of ashwagandha is still unknown. Based on all available studies we investigated the effects of hydroalcoholic extract of ashwagandha effects on various bands of the electroencephalogram (EEG) to ascertain its role in behavior and sleep in rats. Material and methods: The present study explored in Wistar rats of either sex (n=12) used to record EEG in the presence of ashwagandha extracts (25mg/kg body weight). The previous studies revealed sleep promoting character of GABA very well documented in governing sleep and Withania somnifera known to posses mild to moderate hypnotic activity. We used conventional model for quantifying EEG in presence of ashwagandha extract and investigated its possible role in memory, behavior and sleep. Withania somnifera extract administered orally (25mg/ kg) for electrophysiological recordings. Comparison made between post administration of extract with baseline recording employing vehicle and is considered as control. The changes in various bands of EEG noticed following administration of ashwagandha extract. Results: The Withania somnifera extract increased electrophysiological properties in delta (p<0.001) and gamma (p<0.003) bands and was found to be statistically significant. Statistically significant changes not observed in theta and alpha band power but beta band power was reduced in its influence (p<0.013). Conclusion: The present study revealed enhanced activity of the slow wave in presence of ashwagandha extract and divulged the details of its role in sleep and memory.
+
+Efficacy and Safety of Ashwagandha (Withania somnifera) Root Extract in Insomnia and Anxiety: A Double-blind, Randomized, Placebo-controlled Study
+
+Number of 
+
+Key takeaways:Ashwagandha root extract, at 300 mg twice daily, improves sleep quality and sleep onset latency in patients with insomnia.
+
+Abstract:Introduction Insomnia is a prevalent sleep disorder that can profoundly impact a person’s physical health and mental wellbeing. Most of the currently available drugs for insomnia exert adverse effects. Hence, alternative herbal therapies could be effective in treating insomnia. Ashwagandha, a proven “Rasayana” from ancient Ayurveda is having the required potential to treat insomnia. Objective To determine the efficacy and safety of Ashwagandha root extract in patients with insomnia and anxiety. Methods This was a randomized, double-blind, placebo-controlled study conducted at Prakruti Hospital, Kalwa, Maharashtra, India. A total of 60 patients were randomly divided into two groups: test (n = 40) and placebo (n = 20) in a randomization ratio of 2:1. Test product was a capsule containing highest concentration full-spectrum Ashwagandha root extract 300 mg, and the placebo was an identical capsule containing starch. Both treatments were given twice daily with milk or water for 10 weeks. Sleep actigraphy (Respironics Philips) was used for assessment of sleep onset latency (SOL), total sleep time (TST), sleep efficiency (SE) and wake after sleep onset (WASO). Other assessments were total time in bed (sleep log), mental alertness on rising, sleep quality, Pittsburgh Sleep Quality Index (PSQI), and Hamilton Anxiety Rating Scale (HAM-A) scales. Results Two patients, one from each group, did not complete study and the per-protocol dataset (n = 58) included 29 and 19 patients from test and placebo, respectively. The baseline parameters were similar in the two groups at baseline. The sleep onset latency was improved in both test and placebo at five and 10 weeks. However, the SOL was significantly shorter (p, 0.019) after 10 weeks with test compared to placebo . Also, significant improvement in SE scores was observed with Ashwagandha which was 75.63 (2.70) for test at the baseline and increased to 83.48 (2.83) after 10 weeks, whereas for placebo the SE scores changed from 75.14 (3.73) at baseline to 79.68 (3.59) after 10 weeks. Similarly, significant improvement in sleep quality was observed with test compared to placebo (p, 0.002). Significant improvement was observed in all other sleep parameters, i.e., SOL, SE, PSQI and anxiety (HAM-A scores) with Ashwagandha root extract treatment for 10 weeks. Conclusion Ashwagandha root extract is a natural compound with sleep-inducing potential, well tolerated and improves sleep quality and sleep onset latency in patients with insomnia at a dose of 300 mg extract twice daily. It could be of potential use to improve sleep parameters in patients with insomnia and anxiety, but need further large-scale studies.
+
+Effectiveness of Enriched Milk with Ashwagandha Extract and Tryptophan for Improving Subjective Sleep Quality in Adults with Sleep Problems: A Randomized Double-Blind Controlled Trial
+
+Number of 
+
+Key takeaways:Ashwagandha alone and ashwagandha combined with tryptophan both improve sleep quality in adults with sleep problems, but the combination shows no greater benefits compared to ashwagandha alone.
+
+Abstract:A randomized, double-blind and controlled study was conducted to assess the effectiveness of the intake of 250 mL of lactose-free skimmed milk enriched with ashwagandha (Withania somnifera) alone or combined with tryptophan vs. non-enriched milk (control) on the subjective quality of sleep in healthy adults with sleep problems. The duration of supplementation was 90 days. Fifty-two eligible subjects were assigned to the study arms of ashwagandha 250 mg, ashwagandha 250 mg plus tryptophan 175 mg, ashwagandha 600 mg, and control with 13 subjects in each group. It was hypothesized that ashwagandha plus tryptophan could be superior to ashwagandha alone for improving sleep-related variables. Changes in the visual analogue scale (VAS) for sleep quality were significantly higher in the three experimental groups as compared with controls (p = 0.014). Improvements in the subscales of the Pittsburg Sleep Quality Index (PSQI) were found in all groups, but between-group differences were not significant. In the index of insomnia severity, decreases were higher in the three experimental groups as compared with controls especially in the group of ashwagandha 600 mg. Daytime somnolence was also reduced in the three experimental groups. Changes in anxiety levels and Morningness–Eveningness Questionnaire were not observed. The study products did not elicit changes in body composition and were well tolerated and safe. The data did not support the hypothesis, as the combination of ashwagandha and tryptophan did not show greater benefits in improving sleep quality than ashwagandha alone. However, the results from the three experimental groups containing ashwagandha were more favorable compared to the placebo group.
+
+Adaptogenic and Anxiolytic Effects of Ashwagandha Root Extract in Healthy Adults: A Double-blind, Randomized, Placebo-controlled Clinical Study
+
+Number of 
+
+Key takeaways:Ashwagandha root extract effectively reduces stress and anxiety in healthy adults, with improved sleep quality.
+
+Abstract:Background Stress, anxiety and impeded sleep are a frequent feature of life in modern societies. Across socio-economic strata, stress, anxiety and ineffective sleep detract from healthful living and serve as precursors of various ailments. The use of herbs to offset these antecedents and outcomes has greatly increased in recent years. Ashwagandha, an adaptogenic Ayurvedic herb, has been often used to combat and reduce stress and thereby enhance general wellbeing. While there have been other studies documenting the use of Ashwagandha for stress resistance, this is the first study to use a high-concentration root extract while also varying the dosage substantially. Therefore, this is the first study to offer insight into dose-response of a high concentration root extract. Material and methods In this eight-week, prospective, randomized, double-blind, placebo-controlled study, the stress-relieving effect of Ashwagandha root extract was investigated in stressed healthy adults. Sixty male and female participants with a baseline perceived stress scale (PSS) score >20 were randomized to receive capsules of Ashwagandha extract 125 mg, Ashwagandha extract 300 mg or identical placebo twice daily for eight weeks in a 1:1:1 ratio. Stress was assessed using PSS at baseline, four weeks and eight weeks. Anxiety was assessed using the Hamilton-Anxiety (HAM-A) scale and serum cortisol was measured at baseline and at eight weeks. Sleep quality was assessed using a seven-point sleep scale. A repeat measures ANOVA (general linear model) was used for assessment of treatment effect at different time periods. Post-hoc Dunnett’s test was used for comparison of two treatments with placebo. Results Two participants (one each in 250 mg/day Ashwagandha and placebo) were lost to follow-up and 58 participants completed the study. A significant reduction in PSS scores was observed with Ashwagandha 250 mg/day (P < 0.05) and 600 mg/day (P < 0.001). Serum cortisol levels reduced with both Ashwagandha 250 mg/day (P < 0.05) and Ashwagandha 600 mg/day (P < 0.0001). Compared to the placebo group participants, the participants receiving Ashwagandha had significant improvement in sleep quality. Conclusion Ashwagandha root aqueous extract was beneficial in reducing stress and anxiety.
+
+A Novel Ashwagandha (Withania somnifera) Formulation Mitigates Sleep Deprivation-Induced Cognitive Impairment and Oxidative Stress in a Rat Model
+
+Number of 
+
+Key takeaways:Ashwagandha root extract formulations, particularly at higher concentrations, can mitigate sleep deprivation-induced cognitive impairment by modulating oxidative stress, neurotransmitter balance, and neuroplasticity.
+
+Abstract:Ashwagandha (Withania somnifera) is a well-known adaptogenic herb traditionally used to enhance sleep quality and mitigate stress-induced cognitive decline. This study investigated the effects of different doses of ashwagandha root extract (AE) formulations on cognitive function, oxidative stress, and neuronal plasticity in a rat model of sleep deprivation (SD). Forty-nine rats were randomly assigned to seven groups: control, wide platform (WP), SD, SD + A1 (15 mg/kg AE 1.5%), SD + A2 (30 mg/kg AE 1.5%), SD + A3 (5.5 mg/kg AE 8.0%), and SD + A4 (11 mg/kg AE 8.0%). The extract was administered orally for four weeks. SD induced via a modified wide platform model significantly impaired spatial memory, increased oxidative stress, and suppressed GABA receptor activity. Treatment with all AE doses, except 15 mg/kg AE 1.5%, considerably reduced serum corticosterone (12% for SD + A2, 15% for SD + A3, and 32% for SD + A4), CRH (11% for SD + A2, 14% for SD + A3, and 17% for SD + A4), ACTH (22% for SD + A2, 26% for SD + A3, and 38% for SD + A4), and MDA levels (31% for SD + A2, 34% for SD + A3, and 46% for SD + A4) (p < 0.05). All doses improved antioxidant enzyme activity and memory performance, while AE 8.0% doses notably increased serotonin (19% for SD + A3 and 33% for SD + A4) and dopamine levels (40% for SD + A3 and 50% for SD + A4). Moreover, AE treatment enhanced markers of neuronal plasticity and partially improved GABAergic function. These findings suggest that AE formulations, particularly at higher concentrations, exert neuroprotective effects against SD-induced cognitive impairment by modulating oxidative stress, neurotransmitter balance, and neuroplasticity, indicating their potential application in managing stress-related neurological disorders.
+
+Effects of Root Extract of Ashwagandha (Withania somnifera) on Perception of Recovery and Muscle Strength in Female Athletes
+
+Number of 
+
+Key takeaways:Ashwagandha root extract 600 mg/day for 28 days may improve total quality recovery and enhance perceived sleep quality in female footballers.
+
+Abstract:ABSTRACT Ashwagandha is a supplement with the potential to improve exercise performance. However, research on its impact on female athletes remains limited. This study investigates the effects of ashwagandha on exercise recovery and muscle strength in professional female athletes, addressing a gap in understanding its role in this underrepresented population. Female footballers were randomly assigned to a 600 mg/day ashwagandha root extract group (ASH, n = 15; age: 26.0 ± 4.9 years, height: 1.66 ± 0.1 m, body mass: 61.5 ± 7.5 kg, and career: 15.2 ± 7.4 years) or a placebo group (PLA, n = 15; age: 23.5 ± 5.5 years, height: 1.66 ± 0.1 m, body mass: 61.5 ± 6.0 kg, and career: 13.1 ± 4.9 years). Recovery was assessed with total quality recovery (TQR), Hooper Index (HI) and rate of perceived exertion (RPE). Strength was assessed by hand grip, medicine ball throw (MBT), countermovement jump (CMJ) and peak power. Dietary intake was recorded prior to baseline measurements. Repeated measures ANOVA, Bonferroni test, independent t‐tests and ANCOVA were used in the analysis. A significant group × time interaction effect was found for TQR (p = 0.026), with the post‐hoc analysis revealing a significant difference between ASH and PLA at 28 days (p = 0.039). Perceived sleep quality from HI improved significantly in ASH compared to PLA (p = 0.038), with a significant change at 14 days. The ANCOVA analysis highlighted the significant influence of carbohydrate intake on hand grip strength (p = 0.005), MBT (p < 0.001) and body mass (p < 0.001). A dosage of 600 mg of ashwagandha root extract for 28 days may improve TQR and enhance perceived sleep quality in female footballers. Future research should investigate the optimal dosage and test across a broader range of athletic populations. Trials Registration: The trial is registered on ClinicalTrials.gov with the ID NCT06264986
+
+Efficacy and Safety of Ashwagandha Root Extract on Cognitive Functions in Healthy, Stressed Adults: A Randomized, Double-Blind, Placebo-Controlled Study
+
+Number of 
+
+Key takeaways:Ashwagandha SR capsules improve memory, focus, psychological well-being, and sleep quality, while reducing stress levels in healthy, stressed adults, with no reported adverse events.
+
+Abstract:Background The global prevalence of stress is increasing. Stress adversely affects cognitive ability, sleep quality, and overall psychological well-being. Ashwagandha (Withania somnifera (L.) Dunal), an essential medicine in Ayurveda, is reportedly beneficial in reducing stress and improving memory. This double-blind, randomized, placebo-controlled clinical study evaluated the effect of Ashwagandha root extract sustained-release capsule 300 mg (Prolanza™; hereafter Ashwagandha SR) on cognitive functions, stress levels, sleep quality, overall well-being, and safety in stressed subjects. Methods Subjects (130 healthy cognitively sound adults ) having a Perceived Stress Scale (PSS) score of 14–24 were randomized to receive either Ashwagandha SR or placebo. Subjects took one capsule of Ashwagandha SR or placebo daily for 90 consecutive days. This study was registered on Clinical Trials Registry-India (CTRI) on 13/11/2019 . The primary endpoint was the change in cognitive function as measured by CANTAB from baseline to the end of the study period (90 ± 7 days). The secondary outcomes included the change in PSS-10 score, serum cortisol level (9–11 am), the OHQ score, the PSQI, and serum BDNF levels. Results Only 125 completed the study and were evaluated. The Cambridge Neuropsychological Test Automated Battery (CANTAB) reported significantly improved recall memory, and the total error rate in recalling patterns significantly decreased at visit 4 in the Ashwagandha SR group vs. the placebo group (first attempt memory score:12.9 ± 6.7 vs. 10.1 ± 6.3; total errors:17.5 ± 23.3 vs. 27.7 ± 23.6). At visit 4, lower PSS-10 score (13.0 ± 5.0 vs. 18.7 ± 4.6; p < .0001), serum cortisol levels (p=0.0443), and Pittsburgh Sleep Quality Index (PSQI) score (p < .0001) but higher Oxford Happiness Questionnaire (OHQ) scores (p < .0001) were seen in Ashwagandha SR vs. the placebo group, suggesting significantly lower stress levels and significantly better psychological well-being and sleep quality in the former. No adverse events were reported. Conclusions This is the first clinical study assessing Ashwagandha SR for its safety and efficacy. Treatment with one Ashwagandha SR capsule once daily for 90 days improved memory and focus, psychological well-being, and sleep quality, reduced stress levels, and was safe and well-tolerated.
+
+The Impact of Ashwagandha on Stress, Sleep Quality, and Food Cravings in College Students: Quantitative Analysis of a Double-Blind Randomized Control Trial.
+
+Number of 
+
+Key takeaways:Ashwagandha can effectively reduce stress and its negative effects on sleep and food cravings in college students within 30 days.
+
+Abstract:The purpose of this study was to examine the impact of ashwagandha (ASH) (Withania somnifera) on sleep, perceived stress, and cravings in a college student population. Sixty healthy students were screened/enrolled into a 30-day double-blinded placebo (PLA)-controlled intervention (700 mg daily, full spectrum extract of ASH root). Anthropometrics, demographics, and validated questionnaires assessing physical activity, restorative sleep, perceived stress, and food cravings were assessed before and after the study. Descriptive statistics, Pearson's correlations, and point biserial correlations were used to screen the data. For sleep and stress, a nonsignificant mixed (group × time) multivariate analysis of variance (MANOVA) was followed by one-way MANOVA (time on sleep/stress) and one-way multivariate analysis of covariance (MANCOVA) (group on sleep/stress, using initial sleep as a covariate) as follow-up tests. Further follow-up tests for this MANCOVA showed group membership affected final sleep (58.4 ± 12.4 vs. 48.2 ± 15.0 ASH vs. PLA respectively, P < .05) using initial sleep as a covariate. Initial sleep (confounder) affected final stress, but not final sleep. Mixed analysis of variance (group × time) showed an interaction effect on food cravings, where the ASH group experienced lower cravings than the PLA group over time at end of study. The 30-day intervention was shorter than most other studies where more pronounced stress differences were seen at six weeks, indicating ASH may need the longer time period to show more pronounced stress relieving differences. ASH can be an effective safe intervention in young adult populations to help manage stress and its detrimental impacts on sleep and satiety in as little as 30 days. Clinical Trial Registration number-NCT05430685.
+
+Efficacy and Tolerability of Ashwagandha Root Extract in the Elderly for Improvement of General Well-being and Sleep: A Prospective, Randomized, Double-blind, Placebo-controlled Study
+
+Number of 
+
+Key takeaways:Ashwagandha root extract significantly improves quality of life, sleep quality, and mental alertness in elderly individuals, with good tolerability and safety.
+
+Abstract:Background Ashwagandha is an excellent adaptogen that is being used since ancient times in Ayurvedic medicine. Traditionally, it is used for various ailments and general well-being, including the treatment of geriatric patients. Managing quality of life (QoL) remains a challenge for the elderly population, especially joint pain management, sleep, and general well-being. With a growing global elderly population, QoL management with efficient medication and supplementation is the major healthcare requirement. Objective The objective of this study was to assess the safety, efficacy, and tolerability of Ashwagandha (Withania somnifera (L.) Dunal.) root extract on the improvement of general health and sleep in elderly people. Methods This 12-week, prospective, randomized, double-blind, placebo-controlled study was conducted on individuals of either gender aged between 65-80 years. Participants were randomized to receive Ashwagandha root extract at a dose of 600 mg/day (n = 25) orally, or identical placebo capsules with the same dose (n = 25) for 12 weeks. Efficacy was assessed using the WHOQOL-BREF questionnaire, sleep quality, mental alertness on rising, and Physician’s Global Assessment of Efficacy to Therapy (PGAET). The safety and tolerability were assessed using the clinical adverse events reporting and Patient's Global Assessment of Tolerability to Therapy (PGATT). Results Statistically significant (P<0.0001) improvement was observed in the Ashwagandha treatment group compared to the placebo. The mean (SD) total score of WHOQOL-BREF improved from 140.53 (8.25) at the baseline to 161.84(9.32) at the end of the study. The individual domain scores were also improved. At baseline, the sleep quality and the mental alertness on rising were comparatively low in both the groups. However, upon intervention, a significant increase in the quality of sleep (P<0.0001) and mental alertness (P<0.034) was observed in the Ashwagandha treatment group when compared to the placebo group. Overall improvement was observed for the general wellbeing, sleep quality, and mental alertness in the study population. The experimental group population displayed good tolerability to the test product and it was reported as safe and beneficial by the study participants. Conclusion The study outcomes suggest that Ashwagandha root extract was efficient in improving the QoL, sleep quality, and mental alertness as self-assessed by the elderly participants. The recommended dose used in this study could be effective for the elderly population.
+
+Evaluation of Comparative Efficacy of Ashwagandha (Withania somnifera) vs Brahmi (Bacopa monnieri Linn) on Stress Level and Quality of Sleep in the Subjects Experiencing Mental Stress: A Clinical Trial Protocol
+
+Number of 
+
+Key takeaways:Ashwagandha and Brahmi both show potential in reducing stress levels and improving sleep quality in individuals experiencing mental stress.
+
+Abstract:Introduction: Adequate sleep is essential for the preservation of both physical and mental health. Sleep deprivation or interruption can cause a variety of physical, metabolic and cognitive problems, resulting in stress, anxiety, obesity and other neurocognitive dysfunctions. Sleep deprivation causes loss of sleep-dependent processes in the hippocampus and pyriform cortex, which are responsible for memory and perception.
+
+Need of the Study: Everyone in today’s world has stress and insufficient sleep as a result of their work load, hectic lifestyle, adoption of sedentary habits and other factors. Ayurveda has described many herbs under ‘medhya rasayan’. Ashwagandha is commonly used than Brahmi. Brahmi is relatively easy to cultivate and inexpensive, hence this study is planned.
+
+Aim: To study the comparative efficacy of Ashwagandha (Withania somnifera) vs Brahmi (Bacopa monnieri Linn) on stress level and quality of sleep in the subjects experiencing stress.
+
+Materials and Methods: It is a double-blind standard control clinical trial and the study will be undertaken at Department of Kayachikitsa, Mahatma Gandhi Ayurved Hospital and Research Centre (MGACHRC) at Salod (H), Wardha, Maharashtra, India starting from January 2024 to June 2025. This study will include 60 patients (30 in each group) experiencing mental stress. Group-A (Experimental Group) and Group-B (Control Group) will be given Brahmi ghana (extract of Bacopa monnieri Linn) and Ashwagandha ghana (extract of Withania somnifera), respectively with Luke warm water at bed time for 60 days. The patients will be assessed on every 15th day through Perceived Stress Scale (PSS) and Pittsburgh Sleep Quality Index (PSQI) scales.
+
+The Perceived Impact of Ashwagandha on Stress, Sleep Quality, Energy, and Mental Clarity for College Students: Qualitative Analysis of a Double-Blind Randomized Control Trial.
+
+Number of 
+
+Key takeaways:Ashwagandha supplementation for college students improved their perceived well-being by supporting sustained energy, mental clarity, and enhanced sleep quality.
+
+Abstract:Stress, anxiety, and depression, along with feeling overwhelmed and exhausted have been widely reported by college students as factors that negatively impact their academic performance, and overall well-being. Ashwagandha is an Ayurvedic herb that has been used historically to support healthy responses to stressors, but has recently gained popularity in the United States for its ability to support well-being for populations who experience chronic stress. To our knowledge, there have not been any human trials evaluating the efficacy of ashwagandha on stress in the United States. No studies to date have used qualitative research methods to consider the experiential impact of ashwagandha supplementation. Our purpose was to explore the lived experiences of college students participating in a double-blind randomized control trial evaluating the impact of ashwagandha as an intervention to support college students' well-being. Participants were college students (N = 60) age 18-50 years, who were randomized to either intervention or placebo group to take one capsule twice a day for 30 days. Intervention group participants took 700 mg of full spectrum extract of ashwagandha root per day, whereas those in the placebo group took glycerol capsules. Qualitative data included daily affect check-ins and focus groups. Data were analyzed using Dedoose qualitative coding software and thematic analysis. Four themes resulted regarding energy levels, mental clarity, sleep dynamics, and stress. Our findings demonstrated that ashwagandha increased college students' perceived well-being through supporting sustained energy, heightened mental clarity, and enhanced sleep quality, through a moderate dose of ashwagandha for the course of 30 days. Clinical Trial Registration number: NCT05430685.
+
+Potential clinical usage of ashwagandha root extract: A review
+
+Number of 
+
+Key takeaways:Ashwagandha root extract shows potential in treating insomnia, stress-related disorders, cognitive functions, endocrine diseases, and enhancing muscle strength and recovery in healthy adults.
+
+Abstract:INTRODUCTION AND OBJECTIVE 
+Ashwagandha, an herb commonly used in traditional Indian medicine, has been gathering attention as a potential drug in various specialties such as psychiatry, neurology, or endocrinology and even as a possible cancer treatment. In this review we aim to summarize reports form recent years on potential clinical usage of Ashwagandha. 
+REVIEW METHODS 
+The literature review was conducted using PubMed and Google Scholar online databases. 
+THE STATE OF KNOWLEDGE 
+Several studies evaluating potential pharmacological uses of Ashwagandha root extract has been published. There are clinical trials conducted in India using the plant in treatment of insomnia that resulted in improved sleep quality. Ashwagandha root extract has been successfully administered in stress-related disorders. There are reports of improvement in cognitive functions in patients with mild cognitive impairment and better symptom control in obsessive-compulsive disorder after Ashwagandha supplementation. Ashwagandha has been studied in endocrine diseases, showing potential in alleviating climacteric symptoms during perimenopause and in subclinical hypothyroidism. The study aimed to assess effect of Ashwagandha on vitality and hormonal changes in elderly men showed mixed results, with improvement in some hormonal levels and not statistically significant improvement in quality of life compared to placebo group. It has also been noted that ashwagandha root extract has positive effect on cardiovascular system, as well as enhancing muscle strength and recovery in otherwise healthy adults. 
+SUMMARYAshwagandha root extract seems to possess beneficial properties that allow for its use in several branches of medicine. However as current findings are reported from small sample studies, further research on a larger scale is needed.
+
+Aqueous Leaf Extract of Withania somnifera as a Potential Neuroprotective Agent in Sleep-deprived Rats: a Mechanistic Study
+
+Number of 
+
+Key takeaways:Ashwagandha leaf extract shows potential as a neuroprotective agent in sleep-deprived rats, improving behavioral performance and reducing cellular stress and apoptosis in the brain.
+
+Abstract:Modern lifestyle and sustained stress of professional commitments in the current societal set up often disrupts the normal sleep cycle and duration which is known to lead to cognitive impairments. In the present study, we report whether leaf extract of Withania somnifera (Ashwagandha) has potential neuroprotective role in acute stress of sleep deprivation. Experiments were performed on three groups of adult Wistar rats: group 1 (vehicle treated-undisturbed sleep ), group 2 (vehicle treated-sleep deprived ), and group 3 (ASH-WEX treated-sleep deprived ). Groups 1 and 2 received single oral feeding of vehicle and group 3 received ASH-WEX orally (140 mg/kg or 1 ml/250 g of body weight) for 15 consecutive days. Immediately after this regimen, animals from group 1 were allowed undisturbed sleep (between 6 a.m. and 6 p.m.), whereas rats of groups 2 and 3 were deprived of sleep during this period. We observed that WSD rats showed significant improvement in their performance in behavioral tests as compared to VSD group. At the molecular level, VSD rats showed acute change in the expression of proteins involved in synaptic plasticity, cell survival, and apoptosis in the hippocampus region of brain, which was suppressed by ASH-WEX treatment thus indicating decreased cellular stress and apoptosis in WSD group. This data suggest that Ashwagandha may be a potential agent to suppress the acute effects of sleep loss on learning and memory impairments and may emerge as a novel supplement to control SD-induced cognitive impairments.
+
+The benefits of ashwagandha (Withania somnifera) supplements on brain function and sports performance
+
+Number of 
+
+Key takeaways:Ashwagandha supplements show potential in improving brain function and sports performance, but more research is needed on their antioxidant response and athletic performance effects.
+
+Abstract:Ashwagandha or Withania somnifera is an herbal plant belonging to the Solanaceae family. Because of its wide range of phytochemicals, ashwagandha root extract has been used in numerous research studies, either alone or in conjunction with other natural plants, for various biomedical applications, which include its anti-microbial, anti-inflammatory, anti-stress, anti-tumor, cardioprotective, and neuroprotective properties. Additionally, it improves endothelial function, lowers reactive oxygen species, controls apoptosis, and improves mitochondrial function. These properties make it a useful treatment for a variety of conditions, including age-related symptoms, anxiety, neurodegenerative diseases, diabetes, stress, arthritis, fatigue, and cognitive/memory impairment. Despite the numerous benefits of ashwagandha supplementation, there have been just four meta-analyses on the herb’s effectiveness in treating anxiety, neurobehavioral disorders, impotence, and infertility. Moreover, no reviews exist that examine how ashwagandha affects antioxidant response and physical sports performance. Consequently, the goal of this study was to analyze the scientific literature regarding the effects of ashwagandha consumption on antioxidant response and athletic performance.
+
+Acute and Repeated Ashwagandha Supplementation Improves Markers of Cognitive Function and Mood
+
+Number of 
+
+Key takeaways:Ashwagandha supplementation (225 mg) may improve memory, attention, vigilance, and executive function while decreasing perceptions of tension and fatigue in younger healthy individuals.
+
+Abstract:Background: Ashwagandha has been reported to reduce stress and attenuate cognitive decline associated with inflammation and neurodegeneration in clinical populations. However, the effects as a potential nootropic nutrient in younger populations are unclear. This study examined the effects of liposomal ashwagandha supplementation on cognitive function, mood, and markers of health and safety in healthy young men and women. Methods: 59 men and women (22.7 ± 7 yrs., 74.9 ± 16 kg, 26.2 ± 5 BMI) fasted for 12 h, donated a fasting blood sample, and were administered the COMPASS cognitive function test battery (Word Recall, Word recognition, Choice Reaction Time Task, Picture Recognition, Digit Vigilance Task, Corsi Block test, Stroop test) and profile of mood states (POMS). In a randomized and double-blind manner, participants were administered 225 mg of a placebo (Gum Arabic) or ashwagandha (Withania somnifera) root and leaf extract coated with a liposomal covering. After 60-min, participants repeated cognitive assessments. Participants continued supplementation (225 mg/d) for 30 days and then returned to the lab to repeat the experiment. Data were analyzed using a general linear model (GLM) univariate analysis with repeated measures and pairwise comparisons of mean changes from baseline with 95% confidence intervals (CI). Results: Ashwagandha supplementation improved acute and/or 30-day measures of Word Recall (correct and recalled attempts), Choice Reaction Time (targets identified), Picture Recognition (“yes” correct responses, correct and overall reaction time), Digit Vigilance (correct reaction time), Stroop Color-Word (congruent words identified, reaction time), and POMS (tension and fatigue) from baseline more consistently with several differences observed between groups. Conclusion: Results support contentions that ashwagandha supplementation (225 mg) may improve some measures of memory, attention, vigilance, attention, and executive function while decreasing perceptions of tension and fatigue in younger healthy individuals. Retrospectively registered clinical trial ISRCTN58680760.
+
+Study protocol and rationale for a prospective, randomized, double-blind, placebo-controlled study to evaluate the effects of Ashwagandha (Withania somnifera) extract on nonrestorative sleep
+
+Number of 
+
+Key takeaways:Ashwagandha extract may improve nonrestorative sleep and reduce anxiety and stress, potentially benefiting individuals with chronic inflammation-related sleep disorders.
+
+Abstract:Abstract Nonrestorative sleep (NRS) is one of the cardinal symptoms of insomnia and can occur independent of other components of insomnia. Among the sleep disturbances, NRS has been little studied in the general population, even though this symptom plays an important role in several medical conditions associated with chronic inflammation such as heart disease, fibromyalgia, and chronic fatigue syndrome, as well as various sleep disorders. There is paucity in the literature about effective treatments for NRS. Ashwagandha (Withania somnifera) has been demonstrated to reduce anxiety and stress, allowing the body to settle down and prepare for sleep. This study will be a double-blind, randomized, placebo-controlled interventional study in NRS population. The NRS participants are identified using Restorative Sleep Questionnaire-weekly version (RSQ-W) questionnaire. Actigraphy and polysomnography are used for the objective assessment of sleep. The other assessments used are Hamilton Anxiety Depression Scale (HADS), World Health Organization Quality of Life (WHOQOL) scales, and C-reactive protein. Routine blood and urine analyses will be conducted to assess the safety of treatment. Duration of study for each participant will be 50 days with “day one” for screening followed by randomization for the treatment. The duration for medicine/placebo intake shall be 42 days. Primary outcome will be to evaluate effect of daily supplement of ashwagandha extract compared with placebo in subjects with NRS at 6 weeks from baseline, as assessed by the total score of RSQ-W. CTRI Registration Number: CTRI/2017/02/007801
+
+Potential clinical applications of Ashwagandha (Withania somnifera) in medicine and neuropsychiatry
+
+Number of 
+
+Key takeaways:Ashwagandha shows potential in reducing stress, improving cognition, and enhancing exercise capacity in healthy adults, but more large-scale, methodologically stringent clinical trials are needed for confident recommendations.
+
+Abstract:ABSTRACT Introduction Ashwagandha (ASW) is the extract of the plant Withania somnifera. It is widely used in complementary, alternative, and integrative medicine (CAIM) but is little discussed in mainstream modern medical literature. Areas covered We performed a review of potential pharmacotherapeutic properties of ASW. Studies were sourced from relevant online and offline databases. In animal models, ASW displays antioxidant activity. It has GABAergic and other neurotransmitter modulatory effects. It reduces apoptosis and promotes synaptic plasticity. It improves cognition and reverses induced cognitive deficits. It attenuates indices of stress. In human subjects, ASW enhances adaptogenesis in healthy adults. It modestly benefits generalized anxiety disorder and obsessive-compulsive disorder, and symptom severity in schizophrenia, substance use disorders, and attention deficit hyperactivity disorder. It improves sleep quality. Expert opinion ASW may confer modest benefit in certain neuropsychiatric conditions. Its benefits may arise from induction of neuroplasticity, antioxidant and anti-inflammatory effects, and modulation of GABA and glutamate, as well as other neurotransmitters. The antioxidant and anti-inflammatory actions may also benefit neurodegenerative states. Reports of clinical benefit with ASW must be interpreted with caution, given the paucity of randomized clinical trials (RCTs). Greater methodological rigor is necessary before clinical recommendations on ASW can be confidently made. Plain Language Summary ASW is an extract of the Indian winter review and meta-analysis of four RCTs reported scientific studies on the use of ASW in animal and human subjects in order to identify potential clinical uses in modern medicine. Our review finds that ASW has antioxidant and anti-inflammatory action. It also modulates the effects of several neurotransmitters in the brain. It attenuates laboratory and clinical indices of stress. These mechanisms may benefit mental illnesses such as anxiety, depression, obsessive-compulsive disorder, schizophrenia, attention deficit hyperactivity disorder, and addictive disorders. ASW improves exercise capacity in healthy adults. It also appears to improve sleep quality. In addition, ASW may also improve cognitive functioning post-brain injury and in those at risk of dementia. There is evidence from animal models that ASW may also be of benefit in cancer, stroke, and induced organ damage. These studies, while suggesting a wide range of potential clinical applications for ASW, must be viewed with caution because the clinical data are based on small numbers of patients treated for a relatively short period of time. Many clinical trials that found benefits with ASW were one-off studies that have not been replicated. Larger and more methodologically stringent clinical trials are required before ASW can be confidently recommended for clinical use. Because ASW is a herbal extract and because the efficacy of its many constituents is not known, it is not possible to generalize conclusions to all extracts, whether standardized or not.
+
+Enhancing Physical Performance and Health: The Effects of Withania Somnifera on Strength, Endurance, and Overall Well-being
+
+Number of 
+
+Key takeaways:Ashwagandha supplementation enhances physical performance, recovery, and overall well-being in athletes, while providing various health benefits, including improved sleep quality and reduced stress and anxiety.
+
+Abstract:Introduction: Withania Somnifera (Ashwagandha), an ancient ayurvedic remedy, has been valued for centuries in traditional medicine due to its versatility of beneficial properties on the body system. Contemporary research aims to expand the medicinal use of Ashwagandha and fully harness its adaptogenic potential. Recently, Ashwagandha has gained the rising interest of sportsmen seeking effective and natural ways to enhance their performance. 
+Purpose of the work: The aim of this study is to review existing research on the effects of Withania Somnifera (Ashwagandha) supplementation on performance, as well as its beneficial impact on overall health and well-being of athletes. 
+Materials and methods: A comprehensive literature search and analysis was conducted on PubMed, Google Scholar, Scopus and Science Direct databases using combinations of the following phrases: „Withania Somnifera”; „Ashwagandha”; „Adpatogens”; „Health Benefits of Ashwagandha”; „Ashwagandha and Physical Performance”; „Ashwagandha and Endurance”; „Adverse Effects of Ashwagandha”. 
+Results: Supplementation of Ashwagandha has been demonstrated to enhance physical performance and recovery in athletes, as well as significantly improve strength and muscle mass. Furthermore, supplementation provides various health benefits for the body, with emphasis on improved sleep quality and reduced stress and anxiety. Research recognises Ashwagandha as safe and well-tolerated.
+
+Efficacy and safety of ashwagandha root extract in the treatment of insomnia, anxiety and reducing stress – literature review
+
+Number of 
+
+Key takeaways:Ashwagandha root extract shows efficacy and safety in treating insomnia, anxiety, and reducing stress, but further research is needed to confirm its role in these conditions.
+
+Abstract:Insomnia, anxiety and stress are common complaints of people living today. Together, these factors can significantly reduce the quality of people's lives and disrupt relationships. Insomnia is a health problem connected with the difficulty falling asleep, waking early, waking during sleep, or poor quality of sleep, the consequences of which during the day are a feeling of being fatigue, reduced well-being, irritability, impaired concentration and learning ability. Anxiety is an emotional state related with anticipation of danger coming from the outside or coming from inside the organism, manifesting itself as feeling of uneasiness, tension, embarrassment, threat. Stress is a disturbance of body homeostasis caused by a physical or psychological factor. 
+The aim of this study was to assess the efficacy and safety of  ashwagandha root extract in the treatment of insomnia, anxiety and reducing stress. Our study material consisted of publications, which were found in PubMed, ResearchGate and Google Scholar databases. In order to find the proper publications, the search has been conducted with the use of a combination of key words like: ''ashawagandha'', ''insomnia'', ''anxiety'', ''stress". The first step was to find proper publications from the last 5 years. The second step was to carry out an overview of the found publications. 
+Currently a lot of researches is being conducted to find natural substances that are just as effective as pharmacotherapy in the treatment of insomnia, anxiety and reducing stress, but without the side effects. Some researchers have focused their attention to the ashwagandha root extract.  Results of mentioned studies proved the efficacy and safety of ashwagandha root extract. However, further research is needed to estabilish the role of ashwagandha root extract in the treatment of insomnia, anxiety and reducing stress.
+
+Exploring the efficacy and safety of a novel standardized ashwagandha (Withania somnifera) root extract (Witholytin®) in adults experiencing high stress and fatigue in a randomized, double-blind, placebo-controlled trial
+
+Number of 
+
+Key takeaways:Ashwagandha may have anti-fatigue effects in overweight middle-to-older adults experiencing high stress and fatigue, but its impact on perceived stress levels was not significantly different from a placebo.
+
+Abstract:Background: Stress is a state of homeostasis in the body being challenged, resulting in a systemic response. It has become more prevalent in recent years and affects mental and physical health. Aims: Evaluate the effects of ashwagandha on stress, fatigue, and sex hormones in overweight or mildly obese men and women with self-reported stress and fatigue. Methods: Two-arm, parallel-group, 12-week, randomized, double-blind, placebo-controlled trial on overweight or mildly obese men and women aged 40–75 years, supplementing with 200 mg of an ashwagandha root extract (Witholytin®) twice daily. Results/Outcomes: Supplementation with ashwagandha was associated with a significant reduction in stress levels based on the Perceived Stress Scale (primary outcome); however, the improvements were not significantly different to the placebo group (p = 0.867). Based on the Chalder Fatigue Scale, there was a statistically significant reduction in fatigue symptoms in the ashwagandha group compared to the placebo group (p = 0.016), and participants taking ashwagandha also experienced a significant increase in heart rate variability (p = 0.003). However, there were no significant between-group differences in other self-report outcome measures. In the men taking ashwagandha, there was a significant increase in the blood concentrations of free testosterone (p = 0.048) and luteinizing hormone (p = 0.002) compared to the placebo group. Conclusions/Interpretation: The results of this study suggest that in overweight middle-to-older age adults experiencing high stress and fatigue, compared to the placebo, ashwagandha did not have a significantly greater impact on perceived stress levels. However, based on secondary outcome measures, it may have anti-fatigue effects. This may be via its impact on the autonomic nervous system. However, further research is required to expand on these current findings.
+
+Effects of Four-Week Supplementation of Ashwagandha and B-Vitamins on Mood and Stress Relief
+
+Number of 
+
+Key takeaways:Daily supplementation of ashwagandha and B-vitamins may improve mood and reduce stress levels in women, with increased sleep hours correlated to lower cortisol levels.
+
+Abstract:Currently, about 77% of Americans regularly experience physical and emotional symptoms caused by stress. The present study examined the combined effects of ashwagandha and B-vitamins on mood and stress relief.
+ 
+ 
+ 
+ In a pre- and post-intervention trial, forty women, 30–50 years of age, with a body mass index between 25 and 35 kg/m,2 were assigned to consume a taffy containing ashwagandha and B-vitamins twice daily for four weeks. Self-reported mood, sleep duration, and levels of stress hormones were assessed over the course of four weeks. Paired t-tests were used to compare variables across all possible pairs of time points, and linear mixed models featuring random intercepts were employed to investigate linear changes over time in the same set of variables. Pearson's correlation coefficient was used to establish the strength of the relationship between selected variables. The statistical significance level was set at 0.05.
+ 
+ 
+ 
+ Perceived levels of stress, state anxiety, and traits anxiety scores were significantly reduced by 19.6% (P < 0.001), 14.3% (P = 0.03), and 12.2% (P = 0.01), respectively at four weeks compared with baseline. Negative affect was significantly reduced by 15.6% (P = 0.02) at two weeks compared to baseline, then remained constant thereafter. Our findings also showed that participants’ hours of sleep was found to change significantly over time after controlling for participant age and BMI. Older participants with larger BMI's generally had the least amount of sleep at baseline; however, by the end of four weeks, they generally had the most. Although the levels of salivary cortisol and alpha-amylase did not significantly change over the four-week period, higher sleep hours were correlated with lower levels of cortisol over time (r = −0.329; P < 0.001). In addition, higher sleep hours were correlated with higher diurnal alpha-amylase slope decline over time (r = 0.389; P = 0.006) in obese individuals.
+ 
+ 
+ 
+ The findings of this study suggest that daily supplementation of ashwagandha and B-vitamins could be a plausible intervention for improved mood and stress levels in women. Longer-term, placebo-controlled trials are needed to confirm these findings.
+ 
+ 
+ 
+ This research was funded by the Food Sciences Corporation. Funder had no role in data collection, data analysis or interpretation, or writing of the abstract.
+
+A randomized comparative clinical study to evaluate the efficacy of Ashwagandha Churna over Tagara Churna in the management of Nidranasha (insomnia)
+
+Number of 
+
+Key takeaways:Ashwagandha Churna has a significantly better effect on managing insomnia compared to Tagara Churna in a randomized clinical study.
+
+Abstract:Ayurveda is known for its holistic approach. It has emphazised to lead a healthy lifestyle, and Nidra is one among the important factor to remain healthy. Nidra is the most neglected part of modern lifestyle where one gives least importance to the timing, duration and quality of sleep with stress playing an important role in inducing insomnia. Aim of present study was to evaluate efficacy of Ashwagandha Churna over Tagara Churna in the management of Nidranasha. Study was conducted on 40 clinically diagnosed patients of Nidranasha. On the basis of observed data, it was concluded that Ashwagandha Churna has highly significant effect on Nidranasha when compared to Tagara Churna.
+
+Effects of Withania somnifera (Ashwagandha) on Stress and the Stress-Related Neuropsychiatric Disorders Anxiety, Depression, and Insomnia
+
+Number of 
+
+Key takeaways:Ashwagandha root and leaf extracts show promising anti-stress, anti-anxiety, and depression effects, but more research is needed on optimal preparation and dosage for treating neuropsychiatric conditions.
+
+Abstract:Background Withania somnifera (WS), also known as Ashwagandha, is commonly used in Ayurveda and other traditional medicine systems. WS has seen an increase in worldwide usage due to its reputation as an adaptogen. This popularity has elicited increased scientific study of its biological effects, including a potential application for neuropsychiatric and neurodegenerative disorders. Objective This review aims to provide a comprehensive summary of preclinical and clinical studies examining the neuropsychiatric effects of WS, specifically its application in stress, anxiety, depression, and insomnia. Methods Reports of human trials and animal studies of WS were collected primarily from the PubMed, Scopus, and Google Scholar databases. Results WS root and leaf extracts exhibited noteworthy anti-stress and anti-anxiety activity in animal and human studies. WS also improved symptoms of depression and insomnia, though fewer studies investigated these applications. WS may alleviate these conditions predominantly through modulation of the hypothalamic-pituitary-adrenal and sympathetic-adrenal medullary axes, as well as through GABAergic and serotonergic pathways. While some studies link specific withanolide components to its neuropsychiatric benefits, there is evidence for the presence of additional yet unidentified active compounds in WS. Conclusion While benefits were seen in the reviewed studies, significant variability in the WS extracts examined prevents a consensus on the optimum WS preparation or dosage for treating neuropsychiatric conditions. WS generally appears safe for human use; however, it will be important to investigate potential herb-drug interactions involving WS if used alongside pharmaceutical interventions. Further elucidation of active compounds of WS is also needed.
+
+A randomized, double blind, standard controlled trial to compare safety and efficacy of two leading brands of Ashwagandha products in patients suffering from mental health related symptoms
+
+Number of 
+
+Key takeaways:The test product, Herbochem +91 Ashwagandha 500 mg capsules, showed better efficacy in reducing anxiety, depression, stress, and improving sleep quality compared to the control product, KSM 66 Ashwagandha 600 mg capsules.
+
+Abstract:Background: Mental health related symptoms are common among the population. Current treatment exhibits serious adverse effects, delayed onset of action and low efficacy. Ashwagandha has a variety of beneficial effects in mental health disorders. We did a comparison of two Ashwagandha brands using a variety of scales for anxiety, depression, stress, and sleep quality.
+Methods: The study was conducted in 80 patients suffering from mental health related symptoms. Test product used was: Herbochem +91 Ashwagandha 500 mg capsules and control used was: KSM 66 Ashwagandha 600 mg capsules.
+Results: The reduction in the perceived stress scores and Hamilton depression scale scores at day 30/60 from day 0 was higher in the test group as compared with the control group. The reduction in the Beck’s anxiety inventory scores at day 30/60/90 from day 0 was higher in the test group as compared with the control group. The increase in the Pittsburgh sleep quality index scores at day 30/60 from day 0 was higher in the test group as compared with the control group. The reduction in the serum cortisol scores at day 30 from day 0 was higher in the test group as compared with the control group. Results showed that, the incidence of adverse events was same in both groups.
+Conclusions: It is important to note that test product having 500 mg Ashwagandha, showed better efficacy as compared to control product having 100 mg more (600 mg) of Ashwagandha.
+
+Does Ashwagandha supplementation have a beneficial effect on the management of anxiety and stress? A systematic review and meta‐analysis of randomized controlled trials
+
+Number of 
+
+Key takeaways:Ashwagandha supplementation significantly reduces anxiety and stress levels compared to placebo, but further high-quality studies are needed to confirm its clinical efficacy.
+
+Abstract:Clinical trial studies revealed conflicting results on the effect of Ashwagandha extract on anxiety and stress. Therefore, we aimed to evaluate the effect of Ashwagandha supplementation on anxiety as well as stress. A systematic search was performed in PubMed/Medline, Scopus, and Google Scholar from inception until December 2021. We included randomized clinical trials (RCTs) that investigate the effect of Ashwagandha extract on anxiety and stress. The overall effect size was pooled by random‐effects model and the standardized mean difference (SMD) and 95% confidence interval (CIs) for outcomes were applied. Overall, 12 eligible papers with a total sample size of 1,002 participants and age range between 25 and 48 years were included in the current systematic review and meta‐analysis. We found that Ashwagandha supplementation significantly reduced anxiety (SMD: −1.55, 95% CI: −2.37, −0.74; p = .005; I2 = 93.8%) and stress level (SMD: −1.75; 95% CI: −2.29, −1.22; p = .005; I2 = 83.1%) compared to the placebo. Additionally, the non‐linear dose–response analysis indicated a favorable effect of Ashwagandha supplementation on anxiety until 12,000 mg/d and stress at dose of 300–600 mg/d. Finally, we identified that the certainty of the evidence was low for both outcomes. The current systematic review and dose–response meta‐analysis of RCTs revealed a beneficial effect in both stress and anxiety following Ashwagandha supplementation. However, further high‐quality studies are needed to firmly establish the clinical efficacy of the plant.
+
+An investigation into the stress-relieving and pharmacological actions of an ashwagandha (Withania somnifera) extract
+
+Number of 
+
+Key takeaways:Ashwagandha supplementation significantly reduces anxiety and stress in adults, potentially through its effect on the hypothalamus-pituitary-adrenal axis.
+
+Abstract:Abstract Background: Ashwagandha (Withania somnifera (L.) Dunal) is a herb traditionally used to reduce stress and enhance wellbeing. The aim of this study was to investigate its anxiolytic effects on adults with self-reported high stress and to examine potential mechanisms associated with its therapeutic effects. Methods: In this 60-day, randomized, double-blind, placebo-controlled study the stress-relieving and pharmacological activity of an ashwagandha extract was investigated in stressed, healthy adults. Sixty adults were randomly allocated to take either a placebo or 240 mg of a standardized ashwagandha extract (Shoden) once daily. Outcomes were measured using the Hamilton Anxiety Rating Scale (HAM-A), Depression, Anxiety, and Stress Scale -21 (DASS-21), and hormonal changes in cortisol, dehydroepiandrosterone-sulphate (DHEA-S), and testosterone. Results: All participants completed the trial with no adverse events reported. In comparison with the placebo, ashwagandha supplementation was associated with a statistically significant reduction in the HAM-A (P = .040) and a near-significant reduction in the DASS-21 (P = .096). Ashwagandha intake was also associated with greater reductions in morning cortisol (P < .001), and DHEA-S (P = .004) compared with the placebo. Testosterone levels increased in males (P = .038) but not females (P = .989) over time, although this change was not statistically significant compared with the placebo (P = .158). Conclusions: These findings suggest that ashwagandha's stress-relieving effects may occur via its moderating effect on the hypothalamus-pituitary-adrenal axis. However, further investigation utilizing larger sample sizes, diverse clinical and cultural populations, and varying treatment dosages are needed to substantiate these findings. Trial registration: Clinical Trials Registry—India (CTRI registration number: CTRI/2017/08/009449; date of registration 22/08/2017)
+
+Rational use of Ashwagandha in Ayurveda (Traditional Indian Medicine) for health and healing.
+
+Number of 
+
+Key takeaways:Ashwagandha has been used in Ayurveda for health and healing since ancient times, with scientific evidence corroboring its traditional uses and benefits.
+
+Functional, Nutraceutical, and Health‐Endorsing Perspectives of Ashwagandha
+
+Number of 
+
+Key takeaways:Ashwagandha has potential health benefits for mental, metabolic, stress reduction, cognitive function, immunity, and cardiovascular health, but requires further development and regulatory hurdles for widespread use.
+
+Abstract:A widely used herb in Ayurvedic medicine, Ashwagandha has garnered much attention from individuals worldwide due to its potential therapeutic and health benefits. This comprehensive review examines the nutritional composition, medicinal benefits, and clinical data related to Ashwagandha's application in modern medicine. Ashwagandha has been used for centuries to treat physical exhaustion, tension, and anxiety, but new research has broadened its medicinal uses. It has many benefits because of its immunomodulatory, anti‐inflammatory, adaptogenic, and antioxidant properties. Some of the significant bioactive substances include alkaloids, saponins, and withanolides. The clinical studies have established the benefits of Ashwagandha for mental health, metabolic health, stress reduction, cognitive function, immunity, and cardiovascular health. This review also covers the expanding significance of Ashwagandha in nutrition and its uses in functional foods. Despite promising Ashwagandha‐based therapeutics, their science must be developed into standard products, improve the dosing, and eliminate current regulatory hurdles for widespread use.
+
+Ashwagandha and stress
+
+Number of 
+
+Key takeaways:Ashwagandha is a safe and effective natural stress reducer, improving mental and physical health without significant side effects.
+
+Abstract:Ashwagandha, also known as Withania somnifera, is an adaptogen gaining popularity as a natural stress reducer. Stress is a common phenomenon caused by factors such as lifestyle, work pressure or social conflict, and has a negative impact on both mental and physical health. In response to these challenges, more and more people are looking for natural solutions, and adaptogens such as ashwagandha offer support in dealing with stress without significant side effects. Scientific research shows that ashwagandha can lower levels of the stress hormone cortisol and improve results on tests assessing stress, anxiety and depression. Numerous studies conducted on both animals and humans confirm its beneficial effects on mental and physical health, including improvement of cognitive functions, sleep quality and emotional well-being. The mechanism of action of ashwagandha includes regulation of the HPA axis, reduction of glucocorticoids and modulation of the immune system. Despite promising results, further research is needed to fully understand its mechanism of action, assess long-term effects, and investigate possible interactions with other drugs. Ashwagandha seems to be a safe and effective agent in the fight against stress, but it is recommended to consult a doctor before starting supplementation.
+
+IMPACT OF ASHWAGANDHA (WITHANIA SOMNIFERA) ON MENTAL HEALTH PROFILE OF ELDERLY WOMEN
+
+Number of 
+
+Key takeaways:Ashwagandha supplementation significantly reduced moderate depression in elderly women, improved self-esteem, and increased nutrient intake.
+
+Abstract:Growing old certainly involves a variety of life stressors that can lead to depression at any age, any gender, race or class. Depression is a pervasive and impairing illness affecting women twice more than men. An ayurvedic approach of using herbs like Ashwagandha with its active principle component withanolides seems to be more acceptable to relieve anxiety, stress, depression, aging, fatigue and depressed immunity. About 15 moderately depressed women of 60 years and above age were supplemented 500 mg Ashwagandha tablets per day for 6 weeks. Mental health was assessed by GDI, MMSE and CIT scales. Socio economic status, dietary pattern, health profile and activity pattern were also assessed. After the intervention there was a significant (p ≤0.05) change in number of moderately depressed subjects (base line: 56 percent, final: 13 percent). About 13 percent subjects scored normal MMSE. A significant (p ≤0.05) reduction i.e. 6.3% in CIT score was observed (base line: 14.5, final: 8.2). About 53 percent subjects were showing high self esteem and 93 percent subjects (p=≤ 0.05) were able to meet >50 percent of RDA for major nutrients like energy and protein (base line: 60 percent). Nutrients contributing mental health like tryptophan, methionine, choline, vitamin C and folic acid intake were also improved among 70 percent subjects. Present study showed the beneficial effect of Ashwagandha on moderately depressed elderly women.
+
+Therapeutic Effect of Withania somnifera (Ashwagandha) on Depression: A comprehensive review
+
+Number of 
+
+Key takeaways:Ashwagandha significantly reduces depression and modulates oxidative stress and inflammation, making it a potential natural depression remedy.
+
+Abstract:Ashwagandha (Withania somnifera), which is widely used in Ayurveda and other system of medicine, is best known for its ability to reduce depression and associated problems. Notably, important constituents of the body such as enzymes are intimately associated with the chemicals present in plants; hence supplementation is necessary to maintain overall health. In this study, reports of experimental studies were collected primarily from various scientific sources like Scopus, Springer, PubMed, Google Scholar etc. The findings of the review suggested that AS extract and its phytoconstituents significantly reduced depression and also modulated oxidative stress and inflammation which play a major role in neurological disorders including depression. The growing amount of research on ashwagandha emphasizes its potential as a useful natural depression remedy. However, further preclinical and clinical research is necessary to substantiate present observations to establish better methods for assessing the ashwagandha safety, effectiveness, bioavailability, purity, and precise mechanisms of action.
+
+The Multifaceted Effects of Ashwagandha (Withania somnifera) Root Extract on Physical Performance, Cognitive Function, Mental Health, and Safety in Adults
+
+Number of 
+
+Key takeaways:Ashwagandha root extract enhances physical performance, cognitive health, and mental well-being in adults without adverse effects.
+
+Abstract:Background: Ashwagandha root extract offers broad therapeutic benefits, enhancing physical performance, mental health, and cognitive function, making it a valuable adaptogenic and nootropic solution.
+Methods: This study reviews clinical trials on Ashwagandha's effects in adults, analyzing physical performance, cognitive function, mood, sleep, and hormonal balance using validated measures and biomarkers.
+Results: Ashwagandha supplementation enhanced endurance, strength, and hypertrophy, especially with resistance training. It improved memory, attention, anxiety, and depression, boosted sleep quality, balanced hormones in perimenopause, increased testosterone in men, and aided COVID-19 recovery, all without adverse effects.
+Conclusion: These findings highlight Ashwagandha's broad-spectrum benefits as a safe and effective therapeutic agent for physical performance, cognitive health, and mental well-being. Further large-scale, long-term studies are needed to refine dosing protocols and expand its clinical applications across diverse populations.
+
+Ashwagandha in brain disorders: A review of recent developments.
+
+Number of 
+
+Key takeaways:Ashwagandha shows potential as a neuroprotective agent in various brain disorders, but further study is needed to confirm its mechanistic pathways and promote it as a promising drug candidate.
+
+Effects of Acute Ashwagandha Ingestion on Cognitive Function
+
+Number of 
+
+Key takeaways:Acute ashwagandha supplementation improves executive function, helps sustain attention, and increases short-term/working memory.
+
+Abstract:Background: Ashwagandha (Withania somnifera) has been reported to decrease perceptions of stress, enhance mood, and improve cognitive function. However, it is currently unknown whether acute ashwagandha supplementation affects memory and cognitive function. This study evaluated the effects of acute ashwagandha extract ingestion on executive function. Materials and Methods: 13 healthy volunteers were administered the Berg–Wisconsin Card Sorting (BCST), Go/No-Go (GNG), Sternberg Task (STT), and Psychomotor Vigilance Task (PVTT) tests. Participants then ingested in a double-blind, placebo-controlled, and crossover manner 400 mg of a placebo (PLA) or ashwagandha (ASH) extract (NooGandha®, Specnova Inc., Boca Raton, FL, USA). Participants then performed cognitive function tests every hour for 6 h. After a 4-day washout period, volunteers repeated the experiment while receiving the remaining supplement. Data were analyzed by repeated measures General Linear Model multivariate and univariate statistics with body weight as a covariate. Results: Acute ASH supplementation increased STT-determined working memory as demonstrated by an improvement in 6 letter length, Present Reaction Time at 3 and 6 h. PVTT analysis revealed that ASH sustained attention by helping maintain reaction times, preventing mental fatigue, and remaining vigilant. Conversely, reaction times (at task 20, hour 6; overall, hour 3) increased with PLA. In the BCST, there was evidence that ASH increased the ability to recognize and ‘shift’ to a new rule compared with baseline. However, this was not seen when evaluating changes from baseline, suggesting that differences in baseline values influence results. In the GNG test, ASH ingestion promoted faster response times to respond correctly than PLA, indicating less metal fatigue. However, ASH did not affect accuracy compared to PLA, as both treatments decreased the percentage of correct answers. Conclusions: Acute supplementation with 400 mg of ashwagandha improved selected measures of executive function, helped sustain attention, and increased short-term/working memory.
+
+Ashwagandha (Withania somnifera) root extract attenuates hepatic and cognitive deficits in thioacetamide-induced rat model of hepatic encephalopathy via induction of Nrf2/HO-1 and mitigation of NF-kB/MAPK signaling pathways.
+
+Number of 
+
+Key takeaways:Ashwagandha root extract shows promising hepato- and neuroprotective effects, improving hepatic encephalopathy and reducing liver/brain injuries in rats through antioxidant and anti-inflammatory activities.
+
+Efficacy of Withania somnifera supplementation on adult’s cognition and mood
+
+Number of 
+
+Key takeaways:Ashwagandha supplementation may improve cognitive abilities, reduce stress, and anxiety in adults experiencing perceived stress, without causing adverse events.
+
+Effects of Ashwagandha (Withania Somnifera) on stress and anxiety: A systematic review and meta-analysis.
+
+Number of 
+
+Key takeaways:Ashwagandha formulations have beneficial effects on stress and anxiety, with limited adverse effects, but further information is needed to determine its long-term safety.
+
+Review Article on Ashwagandha Used for Treatment of Mental and Physical Health.
+
+Number of 
+
+Key takeaways:Ashwagandha shows promise in improving mental and physical health, reducing inflammation, supporting heart health, and controlling blood sugar levels.
+
+Abstract:In recent years, there has been a rise in studies
+showing the health benefits of winter cherry
+(Withania somnifera), also known as
+Ashwagandha. Research has found that it may help
+with various health issues, such as protecting the
+brain, improving sleep, reducing stress, and
+boosting energy. It also shows promise in reducing
+inflammation, fighting infections, supporting heart
+health, and helping control blood sugar levels.
+Some studies suggest it may even improve
+reproductive health and have positive effects on
+hormone balance. This growing body of research
+suggests Ashwagandha could be a valuable natural
+remedy for many health concerns. This review
+looks at the latest findings, as well as any safety
+issues or warnings about its use.
+
+Can Ashwagandha Benefit the Endocrine System?—A Review
+
+Number of 
+
+Key takeaways:Ashwagandha root extract shows potential in improving thyroid gland function, normalizing adrenal activity, and enhancing reproductive system function.
+
+Abstract:Withania somnifera, also known as Ashwagandha, has been used in traditional medicine for thousands of years. Due to the wide range of its activities, there has been interest in its possible beneficial effects on the human body. It is proved that, among others, Ashwagandha has anti-stress, anti-inflammatory, antimicrobial, anti-cancer, anti-diabetic, anti-obesity, cardioprotective, and hypolipidemic properties. Particularly interesting are its properties reported in the field of psychiatry and neurology: in Alzheimer’s disease, Parkinson’s disease, multiple sclerosis, depression, bipolar disorder, insomnia, anxiety disorders and many others. The aim of this review is to find and summarize the effect that Ashwagandha root extract has on the endocrine system and hormones. The multitude of active substances and the wide hormonal problems faced by modern society sparked our interest in the topic of Ashwagandha’s impact on this system. In this work, we also attempted to draw conclusions as to whether W. somnifera can help normalize the functions of the human endocrine system in the future. The search mainly included research published in the years 2010–2023. The results of the research show that Ashwagandha can have a positive effect on the functioning of the endocrine system, including improving the secretory function of the thyroid gland, normalizing adrenal activity, and multidirectional improvement on functioning of the reproductive system. The main mechanism of action in the latter appears to be based on the hypothalamus–pituitary–adrenal (HPA) axis, as a decrease in cortisol levels and an increase in hormones such as luteinizing hormone (LH) and follicle-stimulating hormone (FSH) in men were found, which results in stress level reduction and improvement in fertility. In turn, other studies prove that active substances from W. somnifera, acting on the body, cause an increase in the secretion of triiodothyronine (T3) and thyroxine (T4) by the thyroid gland and a subsequent decrease in the level of thyroid-stimulating hormone (TSH) in accordance with the hypothalamus–pituitary–thyroid (HPT) axis. In light of these findings, it is clear that Ashwagandha holds significant promise as a natural remedy for various health concerns, especially those related to the endocrine system. Future research may provide new insights into its mechanisms of action and expand its applications in both traditional and modern medicine. The safety and toxicity of Ashwagandha also remain important issues, which may affect its potential use in specific patient groups.
+
+Experimental evidence on the therapeutic effects of ashwagandha on the human body: A literature review
+
+Number of 
+
+Key takeaways:Ashwagandha-based preparations show potential in improving cognitive functions, psychological well-being, and physical performance, with potential benefits for conditions like depression, anxiety, hormonal imbalances, muscle weakness, and sexual dysfunction.
+
+Abstract:Ashwagandha-based preparations are gaining increasing global popularity as effective natural therapeutic agents. However, the lack of consensus regarding the scientific validity of this plant’s effects and the absence of comprehensive biochemical studies highlight the need for a systematic analysis of its efficacy, particularly within the framework of evidence-based medicine. The purpose of this study was to assess the effectiveness of ashwagandha-based preparations through the analysis of experimental research. To achieve this, a systematic review and analysis of literature sources from scientific databases were conducted using an analytical approach. A range of experimental studies demonstrate that the application of the leaves and roots of two ashwagandha species, Withania somnifera and Withania coagulans, is the most effective. Both aqueous extracts and alcohol-based extracts exhibit comparable therapeutic value. The most commonly available formulations are in capsule or tablet form. Notably, a positive impact and improvements in cognitive functions, psychological well-being, and physical performance have been observed among volunteers participating in experiments. Improvements have also been reported in conditions such as depression, anxiety, hormonal imbalances, muscle weakness, and sexual dysfunction. The antioxidant and anti-inflammatory properties of Withania somnifera contribute to slowing down ageing processes, inhibiting tumour development, and supporting the proper functioning of the cardiovascular, nervous, and muscular systems. Combined preparations containing ashwagandha demonstrate particularly high efficacy, enhancing the studied health parameters. Furthermore, incorporating this herbal extract into primary medical treatments has been shown to accelerate patient recovery. Importantly, ashwagandha is not contraindicated for older adults; on the contrary, experimental evidence suggests that its consumption reduces muscle atrophy, improves overall well-being, and regulates hormonal balance in elderly men. According to experimental findings, ashwagandha possesses a range of therapeutic properties that can substantially improve human health indicators, particularly in men. Therefore, the integration of this medicinal plant into contemporary medical practice may yield highly beneficial results
+
+Exploring the therapeutic potential of Ashwagandha (Withania somnifera) supplementation in alleviating stress and stress-related disorders
+
+Number of 
+
+Key takeaways:Ashwagandha supplementation shows promise in addressing stress and stress-related disorders, enhancing overall well-being and happiness without causing side effects.
+
+Abstract:Withania somnifera, also known as Ashwagandha, is a key herb in Ayurvedic medicine, celebrated for its ability to rejuvenate and promote longevity. It is believed to support overall wellness, offering neuroprotective, anti-inflammatory, and adaptogenic benefits. This study aims to evaluate how Ashwagandha (Withania somnifera) supplementation impacts stress levels, psychological well-being, and resilience, assessing its overall effectiveness as an adaptogen. Stress, be it physical or psychological, activates a response involving the nervous, endocrine, and immune systems through various mechanisms, initially aiding in handling challenges but becoming detrimental when perceived as intense, repetitive, or prolonged, contributing to conditions like depression, anxiety and cognitive decline. Ashwagandha reduces morning cortisol and DHEA-S levels and increases heart rate variability. It improves sleep quality, alleviates anxiety symptoms, and may help with depression due to its components, such as alkaloids and withanolides. Additionally, it reduces fatigue and enhances overall well-being and happiness. It is important that Ashwagandha supplementation is safe and does not cause side effects, making it an attractive alternative for supporting health and well-being. Ashwagandha supplementation, due to adaptogenic qualities, appears promising in addressing stress and stress-related disorders, as well as enhancing overall well-being. Further research is warranted to fully explore its potential role in conventional health strategies.
+
+Exploring the Therapeutic Potential of Ashwagandha (Withania somnifera) in Alleviating Stress and Anxiety
+
+Number of 
+
+Key takeaways:Ashwagandha formulations show beneficial effects on stress and anxiety, with limited adverse effects, but further information is needed to determine its safety for long-term administration.
+
+Abstract:Background: Stress is a known causative factor in modulating cognitive health, on which the overall well-being and quality of life are dependent. Long-term stress has shown to disrupt the balance of the hypothalamic–pituitary–adrenal (HPA) axis. Adaptogens, such as Withania somnifera (Ashwagandha), are commonly used in ayurvedic medicine for stress relief and ameliorating HPA-axis dysfunction. 
+Aims & Objectives: To collect available literature in Ayurveda and modern science along with research had been studied published in International Journals till date. 
+Methods: A comprehensive search was conducted in MEDLINE, EMBASE, PubMed, PsychINFO and the Cochrane Library. Randomized controlled trials that examined the effects of Ashwagandha on stress and anxiety were included. Both subjective and objective measures of stress and anxiety were assessed as outcome variables. 
+Conclusion: The findings from the included studies indicated that Ashwagandha formulations had beneficial effects on stress and anxiety. The adverse effects associated with Ashwagandha are limited; however, further information is required to determine its safety with long-term administration.
+
+Neurodegenerative diseases and Withania somnifera (L.): An update.
+
+Number of 
+
+Key takeaways:Ashwagandha extracts and its major constituents show neuroprotective properties against neurodegenerative diseases like Alzheimer's, Huntington's, and Parkinson's disease.
+
+Abstract 1879 Ashwagandha, a herbal product used as a neuroprotective agent
+
+Number of 
+
+Key takeaways:Ashwagandha, a traditional Indian medicine, shows potential as a neuroprotective agent by combating stress and reducing neuroinflammation, offering potential therapeutic avenues for neurodegenerative diseases like Alzheimer's and Parkinson's.
+
+Ashwagandha Diminishes Hippocampal Apoptosis Induced by Microwave Radiation by Acetylcholinesterase Dependent Neuro-Inflammatory Pathway in Male Coturnix coturnix Japonica.
+
+Number of 
+
+Key takeaways:Ashwagandha reduces oxidative stress and neurodegeneration caused by microwave radiation, promoting neuronal health and enhancing memory in male Japanese quail.
+
+Abstract:Microwave radiation (MWR) has been linked to neurodegeneration by inducing oxidative stress in the hippocampus of brain responsible for learning and memory. Ashwagandha (ASW), a medicinal plant is known to prevent neurodegeneration and promote neuronal health. This study investigated the effects of MWR and ASW on oxidative stress and cholinergic imbalance in the hippocampus of adult male Japanese quail. One control group received no treatment, the second group quails were exposed to MWR at 2 h/day for 30 days, third was administered with ASW root extract orally 100 mg/day/kg body weight and the fourth was exposed to MWR and also treated with ASW. The results showed that MWR increased serum corticosterone levels, disrupted cholinergic balance and induced neuro-inflammation. This neuro-inflammation further led to oxidative stress, as evidenced by decreased activity of antioxidant enzymes SOD, CAT and GSH. MWR also caused a significant decline in the nissil substances in the hippocampus region of brain indicating neurodegeneration through oxidative stress mediated hippocampal apoptosis. ASW, on the other hand, was able to effectively enhance the cholinergic balance and subsequently lower inflammation in hippocampus neurons. This suggests that ASW can protect against the neurodegenerative effects of MWR. ASW also reduced excessive ROS production by increasing the activity of ROS-scavenging enzymes. Additionally, ASW prevented neurodegeneration through decreased expression of caspase-3 and caspase-7 in hippocampus, thus promoting neuronal health. In conclusion, this study showed that MWR induces apoptosis and oxidative stress in the brain, while ASW reduces excessive ROS production, prevents neurodegeneration and promotes neuronal health.
+
+Withania somnifera (Ashwagandha) Improves Spatial Memory, Anxiety and Depressive-like Behavior in the 5xFAD Mouse Model of Alzheimer’s Disease
+
+Number of 
+
+Key takeaways:Ashwagandha root extract improves spatial memory and reduces depressive and anxiety-related behavior in Alzheimer's disease mice, suggesting potential as a therapeutic option.
+
+Abstract:Withania somnifera (WS), also known as ashwagandha, is a popular botanical supplement used to treat various conditions including memory loss, anxiety and depression. Previous studies from our group showed an aqueous extract of WS root (WSAq) enhances cognition and alleviates markers for depression in Drosophila. Here, we sought to confirm these effects in the 5xFAD mouse model of β-amyloid (Aβ) accumulation. Six- to seven-month-old male and female 5xFAD mice were treated with WSAq in their drinking water at 0 mg/mL, 0.5 mg/mL or 2.5 mg/mL for four weeks. In the fourth week of treatment, spatial memory, anxiety and depressive-like symptoms were evaluated. At the conclusion of behavioral testing, brain tissue was harvested, immunohistochemistry was performed, and the cortical expression of antioxidant response genes was evaluated. Both concentrations of WSAq improved spatial memory and reduced depressive and anxiety-related behavior. These improvements were accompanied by a reduction in Aβ plaque burden in the hippocampus and cortex and an attenuation of activation of microglia and astrocytes. Antioxidant response genes were upregulated in the cortex of WSAq-treated mice. Oral WSAq treatment could be beneficial as a therapeutic option in AD for improving disease pathology and behavioral symptoms. Future studies focused on dose optimization of WSAq administration and further assessment of the mechanisms by which WSAq elicits its beneficial effects will help inform the clinical potential of this promising botanical therapy.
+
+Efficacy and Safety of Ashwagandha (Withania somnifera (L.) Dunal) Root Extract in Improving Memory and Cognitive Functions
+
+Number of 
+
+Key takeaways:Ashwagandha root extract may improve memory and cognitive functions in adults with mild cognitive impairment, enhancing executive function, attention, and information processing speed.
+
+Abstract:ABSTRACT Objectives: Cognitive decline is often associated with the aging process. Ashwagandha (Withania somnifera (L.) Dunal) has long been used in the traditional Ayurvedic system of medicine to enhance memory and improve cognition. Aim: This pilot study was designed to evaluate the efficacy and safety of ashwagandha (Withania somnifera (L.) Dunal) in improving memory and cognitive functioning in adults with mild cognitive impairment (MCI). Methods: A prospective, randomized, double-blind, placebo-controlled study was conducted in 50 adults. Subjects were treated with either ashwagandha-root extract (300 mg twice daily) or placebo for eight weeks. Results: After eight weeks of study, the ashwagandha treatment group demonstrated significant improvements compared with the placebo group in both immediate and general memory, as evidenced by Wechsler Memory Scale III subtest scores for logical memory I (p = 0.007), verbal paired associates I (p = 0.042), faces I (p = 0.020), family pictures I (p = 0.006), logical memory II (p = 0.006), verbal paired associates II (p = 0.031), faces II (p = 0.014), and family pictures II (p = 0.006). The treatment group also demonstrated significantly greater improvement in executive function, sustained attention, and information-processing speed as indicated by scores on the Eriksen Flanker task (p = 0.002), Wisconsin Card Sort test (p = 0.014), Trail-Making test part A (p = 0.006), and the Mackworth Clock test (p = 0.009). Conclusions: Ashwagandha may be effective in enhancing both immediate and general memory in people with MCI as well as improving executive function, attention, and information processing speed.
+
+Nootropic potential of Ashwagandha leaves: Beyond traditional root extracts
+
+Number of 
+
+Key takeaways:Ashwagandha leaf extracts show potential in reversing Alzheimer's and Parkinson's diseases, protecting against environmental neurotoxins, and enhancing memory.
+
+Ashwagandha (Withania somnifera) Reverses β-Amyloid1-42 Induced Toxicity in Human Neuronal Cells: Implications in HIV-Associated Neurocognitive Disorders (HAND)
+
+Number of 
+
+Key takeaways:Ashwagandha root extract shows neuroprotective effects against -amyloid induced toxicity and HIV-1-associated neurocognitive disorders.
+
+Abstract:Alzheimer’s disease (AD) is characterized by progressive dysfunction of memory and higher cognitive functions with abnormal accumulation of extracellular amyloid plaques and intracellular neurofibrillary tangles throughout cortical and limbic brain regions. At present no curative treatment is available, and research focuses on drugs for slowing disease progression or providing prophylaxis. Withania somnifera (WS) also known as ‘ashwagandha’ is used widely in Ayurvedic medicine as a nerve tonic and memory enhancer. However, there is a paucity of data on the potential neuroprotective effects of W.somnifera against β-Amyloid (1–42)-induced neuropathogenesis. In the present study, we have tested the neuroprotective effects of methanol:Chloroform (3:1) extract of ashwagandha against β-amyloid induced toxicity and HIV-1Ba-L (clade B) infection using a human neuronal SK-N-MC cell line. Our results showed that β-amyloid induced cytotoxic effects in SK-N-MC cells as shown by decreased cell growth when tested individually. Also, confocal microscopic analysis showed decreased spine density, loss of spines and decreased dendrite diameter, total dendrite and spine area in clade B infected SK-N-MC cells compared to uninfected cells. However, when ashwagandha was added to β-amyloid treated and HIV-1 infected samples, the toxic effects were neutralized. Further, the MTT cell viability assays and the peroxisome proliferator-activated receptor-γ (PPARγ) levels supported these observations indicating the neuroprotective effect of WS root extract against β-amyloid and HIV-1Ba-L (clade B) induced neuro-pathogenesis.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

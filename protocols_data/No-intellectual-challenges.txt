@@ -1,0 +1,248 @@
+PROTOCOL: No intellectual challenges
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: No intellectual challenges - Lack of intellectual and environmental stimulation as a risk factor for developmental and emotional disorders | Longevity Protocols
+HARM LEVEL: Level of harmfulness
+DESCRIPTION: Lack of intellectual challenges and environmental stimulation can lead to severe deficits in cognitive, emotional, and social development, which has a significant impact on health and quality of life in later years. Especially in children and adolescents, brain development is highly dependent on intellectual stimuli and social interactions.
+
+CONTENT SECTIONS:
+
+No intellectual challenges
+
+Lack of intellectual and environmental stimulation as a risk factor for developmental and emotional disorders
+
+Lack of intellectual challenges and environmental stimulation can lead to severe deficits in cognitive, emotional, and social development, which has a significant impact on health and quality of life in later years. Especially in children and adolescents, brain development is highly dependent on intellectual stimuli and social interactions.
+
+Level of evidence:Preliminary
+
+Lack of intellectual challenges leads to weakened brain plasticity, reduced information processing abilities, and hinders the development of emotional and social skills. Prolonged exposure to a poor intellectual and social environment can result in permanent deficits in cognitive and adaptive functioning.
+
+Lack of intellectual challenges can lead to severe cognitive, emotional, and social deficits. The negative effects of insufficient intellectual stimulation are particularly evident in children and adolescents, whose brains are in a phase of intensive formation. Prolonged lack of challenges can result in intellectual disability and difficulties with adaptation to society.
+
+The scale of the problem of lack of intellectual challenges is particularly significant in the context of children and adolescents, where lack of adequate stimulation can lead to long-term health problems. Although there is a lack of precise data on the scale of this problem in the general population, early research already indicates the prevalence of deficits among children with limited intellectual challenges.
+
+Increase intellectual stimulation
+
+Ensure regular intellectual challenges, such as brain games, learning new skills, or problem-solving. This keeps the brain constantly activated and developing.
+
+Create social interactions
+
+Regular interactions with others, both adults and peers, are key for emotional and social development. Engaging in group activities can improve communication and social skills.
+
+Create a stimulating environment
+
+Provide an environment that encourages curiosity and creativity. Offering a variety of experiences, such as creative play, artistic activities, or educational trips, helps develop cognitive abilities.
+
+Support emotional development
+
+Help develop emotional skills by teaching how to recognize and express emotions, as well as cope with difficult feelings. Support children in learning empathy, which will help them better adapt to various social situations.
+
+Monitor progress and adjust challenges
+
+Regularly assess how the child responds to intellectual and social challenges. If you notice difficulties, adjust the level of challenges so that they are appropriate to the child's abilities while remaining motivating.
+
+Lack of intellectual challenges can have a negative impact on the brain, especially in the context of cognitive development and functioning in people with developmental disorders. Most importantly, environmental stimulation and social experiences are crucial for proper brain development and cognitive function.
+
+Importance of intellectual and environmental stimulation
+
+Table: Effects of lack of intellectual challenges on brain function
+
+Scientific data and sources
+
+Level of evidencePreliminary
+
+Number of included studies:20
+
+Final comment:Lack of intellectual challenges is associated with negative effects on cognitive and social development; however, the available evidence is preliminary and requires further research. Most studies come from animal experiments or limited clinical trials, which means the evidence is still in the exploratory phase.
+
+TRIO loss of function is associated with mild intellectual disability and affects dendritic branching and synapse function.
+
+Number of 
+
+Key takeaways:TRIO loss of function is associated with mild intellectual disability and affects dendritic branching and synapse function in the developing brain.
+
+Abstract:Recently, we marked TRIO for the first time as a candidate gene for intellectual disability (ID). Across diverse vertebrate species, TRIO is a well-conserved Rho GTPase regulator that is highly expressed in the developing brain. However, little is known about the specific events regulated by TRIO during brain development and its clinical impact in humans when mutated. Routine clinical diagnostic testing identified an intragenic de novo deletion of TRIO in a boy with ID. Targeted sequencing of this gene in over 2300 individuals with ID, identified three additional truncating mutations. All index cases had mild to borderline ID combined with behavioral problems consisting of autistic, hyperactive and/or aggressive behavior. Studies in dissociated rat hippocampal neurons demonstrated the enhancement of dendritic formation by suppressing endogenous TRIO, and similarly decreasing endogenous TRIO in organotypic hippocampal brain slices significantly increased synaptic strength by increasing functional synapses. Together, our findings provide new mechanistic insight into how genetic deficits in TRIO can lead to early neuronal network formation by directly affecting both neurite outgrowth and synapse development.
+
+Understanding intellectual disability and autism spectrum disorders from common mouse models: synapses to behaviour
+
+Number of 
+
+Key takeaways:Mouse models reveal common pathological nodes in intellectual disability and autism spectrum disorders, suggesting potential for targeted therapies and functional recovery.
+
+Abstract:Normal brain development is highly dependent on the timely coordinated actions of genetic and environmental processes, and an aberration can lead to neurodevelopmental disorders (NDDs). Intellectual disability (ID) and autism spectrum disorders (ASDs) are a group of co-occurring NDDs that affect between 3% and 5% of the world population, thus presenting a great challenge to society. This problem calls for the need to understand the pathobiology of these disorders and to design new therapeutic strategies. One approach towards this has been the development of multiple analogous mouse models. This review discusses studies conducted in the mouse models of five major monogenic causes of ID and ASDs: Fmr1, Syngap1, Mecp2, Shank2/3 and Neuroligins/Neurnexins. These studies reveal that, despite having a diverse molecular origin, the effects of these mutations converge onto similar or related aetiological pathways, consequently giving rise to the typical phenotype of cognitive, social and emotional deficits that are characteristic of ID and ASDs. This convergence, therefore, highlights common pathological nodes that can be targeted for therapy. Other than conventional therapeutic strategies such as non-pharmacological corrective methods and symptomatic alleviation, multiple studies in mouse models have successfully proved the possibility of pharmacological and genetic therapy enabling functional recovery.
+
+Working memory functions in children with different degrees of intellectual disability.
+
+Number of 
+
+Key takeaways:Children with intellectual disabilities show deficits in working memory, with phonological information processing being a cause of cognitive impairment.
+
+Abstract:BACKGROUND
+In recent years, there has been increased research interest in the functioning of working memory in people with intellectual disabilities. Although studies have repeatedly found these individuals to have weak working memory skills, few investigations have distinguished between different degrees of intellectual disability. This study aims to help close this research gap and, in so doing, to examine whether the deficits observed reflect a developmental lag or a qualitative deviation from normal development.
+
+METHOD
+In a 5-group design, the working memory performance of a group of 15-year-olds with mild intellectual disability (IQ 50-69) was compared with that of two groups of children (aged 10 and 15 years) with borderline intellectual disability (IQ 70-84) and with that of two groups of children with average intellectual abilities (IQ 90-115) matched for mental and chronological age (aged 7 and 15 years). All children were administered a comprehensive battery of tests assessing the central executive, the visual-spatial sketchpad, and the phonological loop.
+
+RESULTS
+The results showed deficits in all three components of working memory, and revealed that these deficits increased with the degree of intellectual disability. The findings indicate that, relative to their mental age peers, children with learning difficulties show structural abnormalities in the phonological store of the phonological loop, but developmental lags in the other two subsystems.
+
+CONCLUSIONS
+Similar patterns of results emerged for both subgroups of children with intellectual disability, indicating that problems with phonological information processing seem to be one of the causes of cognitive impairment in individuals with intellectual disability.
+
+Brain functional and structural changes in diabetic children. How can intellectual development be optimized in type 1 diabetes?
+
+Number of 
+
+Key takeaways:Maintaining close to normal glycemic levels and implementing early neuropsychological evaluations can optimize intellectual development in children with type 1 diabetes.
+
+Abstract:The neuropsychological functioning of people with type 1 diabetes (T1D) is of key importance to the effectiveness of the therapy, which, in its complexity, requires a great deal of knowledge, attention, and commitment. Intellectual limitations make it difficult to achieve the optimal metabolic balance, and a lack of this alignment can contribute to the further deterioration of cognitive functions. The aim of this study was to provide a narrative review of the current state of knowledge regarding the influence of diabetes on brain structure and functions during childhood and also to present possible actions to optimize intellectual development in children with T1D. Scopus, PubMed, and Web of Science databases were searched for relevant literature using selected keywords. The results were summarized using a narrative synthesis. Disturbances in glucose metabolism during childhood may have a lasting negative effect on the development of the brain and related cognitive functions. To optimize intellectual development in children with diabetes, it is essential to prevent disorders of the central nervous system by maintaining peri-normal glycemic levels. Based on the performed literature review, it seems necessary to take additional actions, including repeated neuropsychological evaluation with early detection of any cognitive dysfunctions, followed by the development of individual management strategies and the training of appropriate skills, together with complex, multidirectional environmental support. Plain language summary Intellectual development in children with type 1 diabetes Disturbances in glucose metabolism during childhood may have a lasting negative effect on the development of the brain and related cognitive functions. To optimize intellectual development in children with type 1 diabetes, it is essential to prevent disorders of the central nervous system by maintaining close to normal glycemic levels. Based on the performed literature review, it seems necessary to take additional actions, including repeated neuropsychological evaluation with early detection of cognitive dysfunctions, followed by the development of individual management strategies, and the training of appropriate skills, together with complex, multidirectional environmental support.
+
+Prenatal Immune and Endocrine Modulators of Offspring's Brain Development and Cognitive Functions Later in Life
+
+Number of 
+
+Key takeaways:Prenatal challenges, such as stress and infections, can alter fetal brain development and offspring's cognitive functions later in life through the interaction of maternal hormones and immune markers.
+
+Abstract:Milestones of brain development in mammals are completed before birth, which provide the prerequisite for cognitive and intellectual performances of the offspring. Prenatal challenges, such as maternal stress experience or infections, have been linked to impaired cognitive development, poor intellectual performances as well as neurodevelopmental and psychiatric disorders in the offspring later in life. Fetal microglial cells may be the target of such challenges and could be functionally modified by maternal markers. Maternal markers can cross the placenta and reach the fetus, a phenomenon commonly referred to as “vertical transfer.” These maternal markers include hormones, such as glucocorticoids, and also maternal immune cells and cytokines, all of which can be altered in response to prenatal challenges. Whilst it is difficult to discriminate between the maternal or fetal origin of glucocorticoids and cytokines in the offspring, immune cells of maternal origin—although low in frequency—can be clearly set apart from offspring's cells in the fetal and adult brain. To date, insights into the functional role of these cells are limited, but it is emergingly recognized that these maternal microchimeric cells may affect fetal brain development, as well as post-natal cognitive performances and behavior. Moreover, the inheritance of vertically transferred cells across generations has been proposed, yielding to the presence of a microchiome in individuals. Hence, it will be one of the scientific challenges in the field of neuroimmunology to identify the functional role of maternal microchimeric cells as well as the brain microchiome. Maternal microchimeric cells, along with hormones and cytokines, may induce epigenetic changes in the fetal brain. Recent data underpin that brain development in response to prenatal stress challenges can be altered across several generations, independent of a genetic predisposition, supporting an epigenetic inheritance. We here discuss how fetal brain development and offspring's cognitive functions later in life is modulated in the turnstile of prenatal challenges by introducing novel and recently emerging pathway, involving maternal hormones and immune markers.
+
+Temporal regularity of cerebral activity at rest correlates with slowness of reaction times in intellectual disability
+
+Number of 
+
+Key takeaways:Intellectual disability is linked to increased temporal regularity in brain signals, leading to slower reaction times and weakening adaptive behavior efficiency.
+
+Brain development of a school-aged boy with autism spectrum condition talented in arithmetic: a case report
+
+Number of 
+
+Key takeaways:A school-aged autistic boy with intellectual and language challenges shows exceptional arithmetic ability, potentially due to reduced gray matter volume in brain regions associated with arithmetic.
+
+Abstract:Abstract Whereas autism spectrum condition is known for its social and communicative challenges, some autistic children demonstrate unusual islets of abilities including those related to mathematics, the neurobiological underpinnings of which are increasingly becoming the focus of research. Here we describe an 8-year-old autistic boy with intellectual and language challenges, yet exceptional arithmetic ability. He can perform verbal-based multiplication of three- and even four-digit numbers within 20 seconds. To gain insights into the neural basis of his talent, we investigated the gray matter in the child's brain in comparison to typical development, applying voxel-based morphometry to magnetic resonance imaging data. The case exhibited reduced gray matter volume in regions associated with arithmetic, which may suggest an accelerated development of brain regions with arithmetic compared to typically developing individuals: potentially a key factor contributing to his exceptional talent. Taken together, this case report describes an example of the neurodiversity of autism. Our research provides valuable insights into the potential neural basis of exceptional arithmetic abilities in individuals with the autism spectrum and its potential contribution to depicting the diversity and complexity of autism.
+
+Developmental Delays in Socio-Emotional Brain Functions in Persons with an Intellectual Disability: Impact on Treatment and Support
+
+Number of 
+
+Key takeaways:Developmental delays in socio-emotional brain functions may increase the susceptibility to mental disorders in individuals with intellectual disabilities, requiring individualized treatment and support.
+
+Abstract:Intellectual disability is a neurodevelopmental disorder with a related co-occurrence of mental health issues and challenging behaviors. In addition to purely cognitive functions, socio-emotional competencies may also be affected. In this paper, the lens of developmental social neuroscience is used to better understand the origins of mental disorders and challenging behaviors in people with an intellectual disability. The current concept of intelligence is broadened by socio-emotional brain functions. The emergence of these socio-emotional brain functions is linked to the formation of the respective neuronal networks located within the different parts of the limbic system. Thus, high order networks build on circuits that process more basic information. The socio-emotional skills can be assessed and complement the results of a standardized IQ-test. Disturbances of the brain cytoarchitecture and function that occur at a certain developmental period may increase the susceptibility to certain mental disorders. Insights into the current mental and socio-emotional functioning of a person may support clinicians in the calibration of treatment and support. Acknowledging the trajectories of the socio-emotional brain development may result in a more comprehensive understanding of behaviors and mental health in people with developmental delays and thus underpin supports for promotion of good mental health in this highly vulnerable population.
+
+Intellectual awareness of naming abilities in people with chronic post-stroke aphasia
+
+Number of 
+
+Key takeaways:Poor intellectual awareness in post-stroke aphasia patients is linked to reduced performance on semantic tasks, with anterior inferior frontal lesions impairing awareness and mid-superior temporal lesions preserving it.
+
+Intellectual Development in Autism Spectrum Disorders: New Insights from Longitudinal Studies
+
+Number of 
+
+Key takeaways:Greater ASD severity in young children leads to poorer cognitive outcomes, suggesting that intellectual disability in ASD may emerge as a consequence of severe social-communication deficits.
+
+Abstract:The presence/absence of Intellectual Disability (ID) is considered to be the most critical factor affecting outcomes in individuals with Autism Spectrum Disorders (ASD). However, the question of the specific nature of ID in ASD has received little attention, with the current view being that ID is a comorbid condition (i.e., one that is unrelated in etiology and causality from the ASD itself). Recent advances in developmental neuroscience, highlighting the importance of early exposure to social experiences for cognitive development, support an alternative view; that ID in ASD might emerge as a consequence of severe social-communication deficits on the experience-dependent mechanisms underlying neurocognitive development. We tested this prediction in two independent samples of young children with ASD (Ns = 23 and 60), finding that children with greater ASD severity at an initial assessment were more likely to present with poorer cognitive outcomes at a later assessment, irrespective of initial cognitive level. The results of this proof of principle study suggest that ASD symptom severity contributes to the extent to which the environmental input required to support “typical” brain development can be processed by the individual, so that the risk of developing ID increases as the number and severity of ASD social-communicative impairments increase.
+
+Children With Intellectual Disabilities: Challenges In Education
+
+Number of 
+
+Key takeaways:Children with intellectual disabilities face challenges in mainstream education, such as poorer attention, perception, thinking, memory, and speech, which can hinder their success in school.
+
+Abstract:Educational policies aimed at school inclusion have led to increased enrollment of students with special education needs in mainstream schools. As a result, there is an increase in problems and challenges that children face while studying at school. 
+The article aims to highlight some of the difficulties and challenges that elementary school children with intellectual disorder face while studying in a mainstream school. In this study, we have conducted a literature review that examines the level of development of higher mental functions in children with intellectual development problems: attention, perception, thinking, memory, speech.
+
+The impact of toxins on the developing brain.
+
+Number of 
+
+Key takeaways:Toxins can cause substantial population-level damage to the developing brain, leading to intellectual deficits and mental disorders in children, highlighting the need for public health protection.
+
+Abstract:The impact of toxins on the developing brain is usually subtle for an individual child, but the damage can be substantial at the population level. Numerous challenges must be addressed to definitively test the impact of toxins on brain development in children: We must quantify exposure using a biologic marker or pollutant; account for an ever-expanding set of potential confounders; identify critical windows of vulnerability; and repeatedly examine the association of biologic markers of toxins with intellectual abilities, behaviors, and brain function in distinct cohorts. Despite these challenges, numerous toxins have been implicated in the development of intellectual deficits and mental disorders in children. Yet, too little has been done to protect children from these ubiquitous but insidious toxins. The objective of this review is to provide an overview on the population impact of toxins on the developing brain and describe implications for public health.
+
+How Does Sleep Deprivation Functionally Impact the Challenging Behavior of People With Intellectual Disabilities? A Systematic Review
+
+Number of 
+
+Key takeaways:Sleep deprivation can increase negatively reinforced challenging behavior in people with intellectual disabilities, while automatic and positive reinforcement mechanisms may remain unaffected.
+
+Abstract:Sleep deprivation is a common health condition among people with intellectual disabilities. Studies have linked sleep problems with challenging behaviors. However, it is unclear if there is a consistent effect on challenging behavior and what reinforcement mechanism(s) might be involved. A systematic review of PsychINFO, PubMed, and Scopus identified seven studies meeting the inclusion criteria that had been published over the past 50 years. Data were extracted regarding participant characteristics, specific aim, sleep deprivation, functional behavioral assessments, results, and key findings. Studies consistently reported increased rates of challenging behavior following bouts of sleep deprivation. Five of the seven studies demonstrated negative reinforcement as the mechanism associated with increased challenging behavior. Results were unclear or lacking for other reinforcer mechanisms. Current evidence shows that sleep deprivation can increase negatively reinforced challenging behavior, but automatic and positive reinforcement mechanisms may be unaffected. Theoretical and practice implications are discussed.
+
+Gut microbiota, nutrition, and mental health
+
+Number of 
+
+Key takeaways:Insufficient or inadequate nutrition can negatively impact brain health, mental health, and psychological functioning, with gut microbiota playing a crucial role in cognitive processes, mood regulation, and neuroplasticity.
+
+Abstract:The human brain remains one of the greatest challenges for modern medicine, yet it is one of the most integral and sometimes overlooked aspects of medicine. The human brain consists of roughly 100 billion neurons, 100 trillion neuronal connections and consumes about 20–25% of the body’s energy. Emerging evidence highlights that insufficient or inadequate nutrition is linked to an increased risk of brain health, mental health, and psychological functioning compromise. A core component of this relationship includes the intricate dynamics of the brain-gut-microbiota (BGM) system, which is a progressively recognized factor in the sphere of mental/brain health. The bidirectional relationship between the brain, gut, and gut microbiota along the BGM system not only affects nutrient absorption and utilization, but also it exerts substantial influence on cognitive processes, mood regulation, neuroplasticity, and other indices of mental/brain health. Neuroplasticity is the brain’s capacity for adaptation and neural regeneration in response to stimuli. Understanding neuroplasticity and considering interventions that enhance the remarkable ability of the brain to change through experience constitutes a burgeoning area of research that has substantial potential for improving well-being, resilience, and overall brain health through optimal nutrition and lifestyle interventions. The nexus of lifestyle interventions and both academic and clinical perspectives of nutritional neuroscience emerges as a potent tool to enhance patient outcomes, proactively mitigate mental/brain health challenges, and improve the management and treatment of existing mental/brain health conditions by championing health-promoting dietary patterns, rectifying nutritional deficiencies, and seamlessly integrating nutrition-centered strategies into clinical care.
+
+Efficiency of Functional Brain Networks and Intellectual Performance
+
+Number of 
+
+Key takeaways:The global efficiency of functional brain networks is strongly associated with intellectual performance, with frontal and parietal regions showing the most pronounced effects.
+
+Abstract:Our brain is a complex network in which information is continuously processed and transported between spatially distributed but functionally linked regions. Recent studies have shown that the functional connections of the brain network are organized in a highly efficient small-world manner, indicating a high level of local neighborhood clustering, together with the existence of more long-distance connections that ensure a high level of global communication efficiency within the overall network. Such an efficient network architecture of our functional brain raises the question of a possible association between how efficiently the regions of our brain are functionally connected and our level of intelligence. Examining the overall organization of the brain network using graph analysis, we show a strong negative association between the normalized characteristic path length λ of the resting-state brain network and intelligence quotient (IQ). This suggests that human intellectual performance is likely to be related to how efficiently our brain integrates information between multiple brain regions. Most pronounced effects between normalized path length and IQ were found in frontal and parietal regions. Our findings indicate a strong positive association between the global efficiency of functional brain networks and intellectual performance.
+
+Microanalysis of Daily Living Skills in adolescents with Autism Spectrum Disorder without an intellectual disability
+
+Number of 
+
+Key takeaways:Adolescents with ASD without an intellectual disability show significant challenges in daily living skills, highlighting the need for interventions to improve their skills for successful adult outcomes.
+
+Abstract:Adolescents with autism spectrum disorder (ASD) without an intellectual disability (ID) have daily living skills (DLS) that fall below their chronological age and affect their ability to achieve successful adult outcomes, but little is known about their specific DLS challenges. Utilizing the Vineland Adaptive Behavior Scales, 3rd Edition (VABS-3) in a sample of 151 adolescents with ASD without an ID, we explored the VABS-3 DLS domain, subdomains, interview topics, and individual items. Results indicated that Community DLS was a relative strength, followed by Domestic DLS, and then Personal DLS. Adolescents with ASD demonstrated significant challenges in many age appropriate DLS subdomain interview topics and individual items, indicating a need for interventions to increase acquisition of DLS to improve adult outcomes.
+
+Affective Decision Making and Peer Influence in Youth with Intellectual Disability
+
+Number of 
+
+Key takeaways:Adolescents with intellectual disabilities face challenges in cognitive decision making and are more susceptible to peer influence, which can impact their affective decision making and risk-taking behaviors.
+
+Abstract:Adolescents are frequently faced with decisions characterized by an affective component, such as those that take place among peers or include the promise of a reward. In such situations both cognitive and affective control are necessary for optimal decision making. A lack of either can contribute to risk-taking behaviors and social vulnerability. In light of this, the current chapter reviews the state of research on how adolescents with intellectual disability (ID) make affective decisions, with a special focus on the role of peers.Evidence suggests adolescents with ID face challenges in cognitive decision making that can contribute to problems in their affective decision making processes. Furthermore, adolescents with ID show increased susceptibility to peer influence, which may impact their affective decision making. This was found with regard to immediate impact on decisions involving risk-taking and also to some extent with regard to the long-term socialization of behavioral problems related to affective control. Data from intervention studies suggest that provision of support in cognitive decision making can positively impact affective decision making. Also, risks of negative peer influence may be reduced by instruction with a decision-making curriculum. Taken together, however, studies on affective decision making in adolescents with ID are still rare, and this chapter’s conclusions are best considered tentative.Based on the state of the literature, future research directions are proposed and implications for supporting adolescents with ID in affective decision making are discussed.
+
+Persistence of challenging behaviours in adults with intellectual disability over a period of 11 years.
+
+Number of 
+
+Key takeaways:Challenges in adults with intellectual disabilities persist over time, with factors like environmental factors and participant characteristics not consistently related to behavior persistence.
+
+Abstract:BACKGROUND
+Challenging behaviours in people with an intellectual disability (ID) often develop early and tend to persist throughout life. This study presents data on the chronicity of challenging behaviours in adults with ID over a period of 11 years, and explores the characteristics of people with persistent serious behaviour problems.
+
+METHOD
+Support staff provided data on 58 adults living in a long-term residential facility using an interview survey schedule assessing challenging behaviours in 1992 and 2003.
+
+RESULTS
+Participants presenting with serious physical attacks, self-injury and frequent stereotypy were the most likely to persist in these behaviours over time. These behaviours were characterised by high persistence percentages and associations over time. However, the earlier presence of serious challenging behaviours did not significantly affect the likelihood of serious challenging behaviours in 2003. Individuals with persisting behaviour problems differed from those who did not present serious behaviour problems on the basis of their younger age, increased mobility, and decreased sociability and daily living skills in 1992.
+
+CONCLUSIONS
+Estimates of persistence for challenging behaviours are affected by the statistics chosen to represent stability. The apparent persistence of serious challenging behaviours highlights the need to identify the factors related to maintenance of these behaviours over time. The participant characteristics and adaptive behaviours identified in the present study were not consistently related to the persistence of challenging behaviours. Therefore, other factors, including environmental characteristics, are likely to be related to challenging behaviour persistence.
+
+AFFECTIVE-COGNITIVE INDICATOR OF EMOTIONAL INTELLIGENCE FORMEDNESS IN HIGH SCHOOLERS WITH INTELLECTUAL DISABILITIES.
+
+Number of 
+
+Key takeaways:High schoolers with intellectual disabilities exhibit insufficient formedness of the affective-cognitive indicator of emotional intelligence, leading to significant difficulties in socialization and integration into society.
+
+Abstract:OBJECTIVE
+The aim is to determine the peculiarities of the affective-cognitive indicator of emotional intelligence in high schoolers with intellectual disabilities.
+
+PATIENTS AND METHODS
+Materials and methods: The study, which was conducted during 2019-2020, involved 76 high schoolers in the age of 14-17 who studied in the 7-9th grades in Kyiv schools (Ukraine) (45 high schoolers with intellectual disabilities and 31 high schoolers with normative development). The diagnosis of the high schoolers' ability to perceive, understand and identify emotions; to assimilate emotions in thoughts, to stimulate thought processes with the help of emotions was carried out. The Mayer-Salovey-Caruzo Emotional Intelligence Test, adapted for children with intellectual disabilities, was used.
+
+RESULTS
+Results: Insufficient formedness of the affective-cognitive indicator of emotional intelligence in high schoolers with intellectual disabilities has been determined: a decrease in the level of perception of emotions by expression; superficial perception of expressive features, vagueness of ideas about them; insufficient differentiation of the constituent elements of the emotional model; difficulties of orientation in a set of emotional signs of different modalities; lack of understanding of social emotions and the content of a moral act.
+
+CONCLUSION
+Conclusions: It has been proven that the low state of formedness of the affective-cognitive indicator of emotional intelligence results in significant difficulties that arise during interaction with each other, and this affects primarily the further socialization and integration into society.
+
+Exploring the relationship between challenging behaviour and mental health disorder in autistic individuals with intellectual disabilities
+
+Number of 
+
+Key takeaways:The relationship between challenging behavior and mental health disorders in autistic individuals with intellectual disabilities is complex and multifaceted, but challenging behavior cannot reliably identify specific mental health disorders.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.

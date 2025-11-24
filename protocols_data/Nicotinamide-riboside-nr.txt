@@ -1,0 +1,464 @@
+PROTOCOL: Nicotinamide riboside (nr)
+
+IMPACT: Key areas of impact
+EVIDENCE LEVEL: Level of evidence:
+RISK LEVEL: Potential risk
+HARM LEVEL: 
+DESCRIPTION: Nicotinamide riboside (NR) is a precursor of NAD+, which plays a key role in cellular metabolism and neuroprotective functions. NR supplementation helps increase NAD+ levels in the body, which translates into potential benefits for liver health, energy metabolism, and brain function. It is well tolerated and safe for use, although the metabolic effects in humans require further clinical studies.
+
+CONTENT SECTIONS:
+
+Nicotinamide riboside (nr)
+
+Metabolic Health Support and Neuroprotection
+
+Nicotinamide riboside (NR) is a precursor of NAD+, which plays a key role in cellular metabolism and neuroprotective functions. NR supplementation helps increase NAD+ levels in the body, which translates into potential benefits for liver health, energy metabolism, and brain function. It is well tolerated and safe for use, although the metabolic effects in humans require further clinical studies.
+
+Level of evidence:Strong
+
+NR works by increasing the availability of NAD+, a key coenzyme in redox reactions and the regulation of metabolic pathways. Elevated NAD+ activates enzymes such as sirtuins, which support DNA repair, regulate energy metabolism, and reduce inflammation. In the nervous system, NR supports mitochondrial function and protects neurons from oxidative stress, which may counteract neurodegenerative processes.
+
+Nicotinamide riboside is generally well tolerated by most people. Side effects are usually mild and short-term, but they may occur in some individuals, especially at high doses.
+
+Nicotinamide riboside supplementation is not recommended for individuals with certain conditions where increasing NAD+ levels may be unsafe or contraindicated.
+
+250–1000 mg daily, doses used in clinical studies
+
+Initial effects after 1–2 weeks of supplementation
+
+Recommended with a meal, preferably in the morning or before a workout
+
+Start with a low dose
+
+Starting supplementation with a lower dose allows the body’s tolerance to be assessed and reduces the risk of side effects.
+
+Consistency and regularity
+
+Consistent, daily intake increases the chances of achieving positive metabolic and neuroprotective effects.
+
+It’s important to observe the body’s responses and consult a doctor if any concerning symptoms appear.
+
+Avoid very high doses
+
+Doses significantly exceeding those used in studies may worsen certain metabolic parameters.
+
+Nicotinamide riboside (NR) is a precursor of NAD+ that shows a range of beneficial effects on liver health in preclinical studies. The most important evidence suggests that NR may protect the liver from damage, improve lipid metabolism, reduce steatosis and fibrosis, and support liver regeneration.
+
+Main liver benefits of NR
+
+Limitations and clinical data
+
+Nicotinamide riboside (NR), a precursor to NAD+, is being intensively studied for its effects on brain health. Preclinical and early clinical studies suggest that NR may benefit cognitive functions, reduce neuroinflammation, and support neuronal health, though most evidence comes from animal studies.
+
+Mechanisms of action and effects in animal models
+
+Human clinical trial results
+
+Limitations and remaining uncertainties
+
+Nicotinamide riboside (NR) is a precursor of NAD+, a key coenzyme in many metabolic pathways. Studies have shown that NR can influence metabolism, but the effects are moderate and depend on dose, duration of supplementation, and health status.
+
+Effects of NR on metabolism in humans
+
+Results from animal studies
+
+Summary of selected NR effects on metabolism
+
+Scientific data and sources
+
+Level of evidenceStrong
+
+Number of included studies:49
+
+Final comment:The assessment of the evidence level is based on numerous studies, including randomized controlled trials (RCTs), which confirm the effectiveness of nicotinamide riboside (NR) supplementation in increasing NAD+ levels in humans and its beneficial effects on liver health and neuroprotective functions in preclinical models. Additionally, available clinical trials have shown good tolerance and safety of NR use, as well as positive metabolic effects in animal studies. Although the metabolic benefits in humans are moderate and require further research, the current scientific foundation is strong enough to classify NR's effects as confirmed in key areas of its impact. Therefore, this intervention has a solid scientific basis and is considered effective in increasing NAD+ and supporting metabolic and neuroprotective health.
+
+Integrated transcriptome and metabolome study reveal the therapeutic effects of nicotinamide riboside and nicotinamide mononucleotide on nonalcoholic fatty liver disease.
+
+Number of 
+
+Key takeaways:Nicotinamide riboside and nicotinamide mononucleotide effectively reduce body weight gain, improve glucose homeostasis, regulate plasma lipid levels, and alleviate liver injury, oxidative stress, and lipid accumulation in mice with nonalcoholic fatty liver disease.
+
+Nicotinamide adenine dinucleotide biosynthesis promotes liver regeneration
+
+Number of 
+
+Key takeaways:NAD availability is limited during liver regeneration, and supplementing with precursors like nicotinamide riboside may be therapeutic in settings of acute liver injury.
+
+Abstract:The regenerative capacity of the liver is essential for recovery from surgical resection or injuries induced by trauma or toxins. During liver regeneration, the concentration of nicotinamide adenine dinucleotide (NAD) falls, at least in part due to metabolic competition for precursors. To test whether NAD availability restricts the rate of liver regeneration, we supplied nicotinamide riboside (NR), an NAD precursor, in the drinking water of mice subjected to partial hepatectomy. NR increased DNA synthesis, mitotic index, and mass restoration in the regenerating livers. Intriguingly, NR also ameliorated the steatosis that normally accompanies liver regeneration. To distinguish the role of hepatocyte NAD levels from any systemic effects of NR, we generated mice overexpressing nicotinamide phosphoribosyltransferase, a rate‐limiting enzyme for NAD synthesis, specifically in the liver. Nicotinamide phosphoribosyltransferase overexpressing mice were mildly hyperglycemic at baseline and, similar to mice treated with NR, exhibited enhanced liver regeneration and reduced steatosis following partial hepatectomy. Conversely, mice lacking nicotinamide phosphoribosyltransferase in hepatocytes exhibited impaired regenerative capacity that was completely rescued by administering NR. Conclusion: NAD availability is limiting during liver regeneration, and supplementation with precursors such as NR may be therapeutic in settings of acute liver injury. (Hepatology 2017;65:616‐630).
+
+Nicotinamide Mononucleotide and Nicotinamide Riboside Improve Dyslipidemia and Fatty Liver but Promote Atherosclerosis in Apolipoprotein E Knockout Mice
+
+Number of 
+
+Key takeaways:Nicotinamide mononucleotide and nicotinamide riboside improve dyslipidemia and fatty liver but promote atherosclerosis in Apolipoprotein E knockout mice, with safe doses around 100 mg/kg.
+
+Abstract:Background: Nicotinamide mononucleotide (NMN) and nicotinamide riboside (NR) are intermediary products in NAD+ metabolism. NMN and NR supplementation can elevate NAD+ levels in tissues, addressing health issues associated with aging and obesity. However, the impact of NMN and NR on atherosclerosis remains incompletely elucidated. Methods: C57BL/6J and Apolipoprotein E knockout (ApoE−/−) mice were used to explore the impact of NMN and NR supplementation on serum lipids, fatty liver, and atherosclerosis. Additionally, various suppliers, administration protocols, and doses on ApoE−/− mice were investigated. Results: The intragastric administration of NMN (300 mg/kg) and NR (230 mg/kg) reduced body weight, serum lipids, and fatty liver but aggravated atherosclerosis in ApoE−/− mice after 4 months of administration with different suppliers. Atherosclerosis also deteriorated after 2 months of different NMN administration protocols (intragastric and water administration) in ApoE−/− mice with existing plaques. The effects of NMN were dose-dependent, and doses around 100 mg/kg had little harmful effects on atherosclerosis. Conclusions: NMN and NR improve dyslipidemia and fatty liver but promote atherosclerosis in ApoE−/− mice. These findings emphasize the safe dosage for the clinical trials of NMN.
+
+The Effectiveness of Four Nicotinamide Adenine Dinucleotide (NAD+) Precursors in Alleviating the High-Glucose-Induced Damage to Hepatocytes in Megalobrama amblycephala: Evidence in NAD+ Homeostasis, Sirt1/3 Activation, Redox Defense, Inflammatory Response, Apoptosis, and Glucose Metabolism
+
+Number of 
+
+Key takeaways:Nicotinamide riboside (NR) is the most effective NAD+ precursor in alleviating high-glucose-induced liver damage in fish, with superior anti-oxidative stress, inflammation inhibition, and anti-apoptosis effects.
+
+Abstract:The administration of NAD+ precursors is a potential approach to protect against liver damage and metabolic dysfunction. However, the effectiveness of different NAD+ precursors in alleviating metabolic disorders is still poorly elucidated. The current study was performed to compare the effectiveness of four different NAD+ precursors, including nicotinic acid (NA), niacinamide (NAM), nicotinamide riboside (NR), and nicotinamide mononucleotide (NMN) in alleviating high-glucose-induced injury to hepatocytes in a fish model, Megalobrama amblycephala. An in vitro high-glucose model was successfully established to mimic hyperglycemia-induced damage to the liver, which was evidenced by the reduced cell viability, the increased transaminase activity, and the depletion of cellular NAD+ concentration. The NAD+ precursors all improved cell viability, with the maximal effect observed in NR, which also had the most potent NAD+ boosting capacity and a significant Sirt1/3 activation effect. Meanwhile, NR presented distinct and superior effects in terms of anti-oxidative stress, inflammation inhibition, and anti-apoptosis compared with NA, NAM, and NMN. Furthermore, NR could effectively benefit glucose metabolism by activating glucose transportation, glycolysis, glycogen synthesis and the pentose phosphate pathway, as well as inhibiting gluconeogenesis. Moreover, an oral gavage test confirmed that NR presented the most potent effect in increasing hepatic NAD+ content and the NAD+/NADH ratio among four NAD+ precursors. Together, the present study results demonstrated that NR is most effective in attenuating the high-glucose-induced injury to hepatocytes in fish compared to other NAD+ precursors.
+
+Nicotinamide riboside attenuates alcohol induced liver injuries via activation of SirT1/PGC-1α/mitochondrial biosynthesis pathway
+
+Number of 
+
+Key takeaways:Nicotinamide riboside protects against ethanol-induced liver injuries by replenishing NAD+, reducing oxidative stress, and activating SirT1-PGC-1-mitochondrial biosynthesis.
+
+Nicotinamide riboside protects against liver fibrosis induced by CCl4 via regulating the acetylation of Smads signaling pathway
+
+Number of 
+
+Key takeaways:Nicotinamide riboside (NR) protects against liver fibrosis by suppressing hepatic stellate cell activation and regulating the acetylation of Smads signaling pathway.
+
+Effect of nicotinamide riboside on lipid metabolism and gut microflora‐bile acid axis in alcohol‐exposed mice
+
+Number of 
+
+Key takeaways:Nicotinamide riboside supplementation may help prevent alcohol-related liver disease by regulating lipid metabolism disorders and gut microflora-bile acid axis in alcohol-exposed mice.
+
+Abstract:Abstract Alcoholic liver disease (ALD) is the most common complication of alcohol abuse, while we lack safe and effective treatment for ALD. This study aimed to explore the effects of nicotinamide riboside (NR) on lipid metabolism and gut microflora‐bile acid axis in alcohol‐exposed mice. NR significantly improved liver histopathological damage and abnormal liver function. NR as a provider of nicotinamide adenine dinucleotide (NAD+) increased the NAD+/NADH ratio. Meanwhile, NR inhibited the activation of the protein phosphatase 1 signaling pathway, decreased the liver triglyceride and total bile acid levels, and reduced lipid accumulation. According to the results of gut microflora species analysis, NR intervention changed the microbial community structure at the phylum, family and genus levels, and the species abundances returned to a level similar to these of the normal control group. Besides, the results of high‐performance liquid chromatograph‐mass spectrometry showed that NR intervention resulted in fecal bile acid levels tending to be normal with decreased chenodeoxycholic acid level and increased deoxycholic acid and hyocholic acid levels. Spearman's correlation analysis showed a correlation between gut microflora and bile acids. Therefore, NR supplementation has the potential to prevent ALD, and its mechanism may be related to regulating lipid metabolism disorders and the gut microflora‐bile acid axis.
+
+Nicotinamide Riboside Supplementation to Suckling Male Mice Improves Lipid and Energy Metabolism in Skeletal Muscle and Liver in Adulthood
+
+Number of 
+
+Key takeaways:Mild nicotinamide riboside supplementation during suckling in male mice improves lipid and energy metabolism in adulthood, potentially serving as a preventive strategy against obesity-related disorders.
+
+Abstract:Nicotinamide riboside, an NAD+ precursor, has been attracting a lot of attention in recent years due to its potential benefits against multiple metabolic complications and age-related disorders related to NAD+ decline in tissues. The metabolic programming activity of NR supplementation in early-life stages is much less known. Here, we studied the long-term programming effects of mild NR supplementation during the suckling period on lipid and oxidative metabolism in skeletal muscle and liver tissues using an animal model. Suckling male mice received a daily oral dose of NR or vehicle (water) from day 2 to 20 of age, were weaned at day 21 onto a chow diet, and at day 90 were distributed to either a high-fat diet (HFD) or a normal-fat diet for 10 weeks. Compared to controls, NR-treated mice were protected against HFD-induced triacylglycerol accumulation in skeletal muscle and displayed lower triacylglycerol levels and steatosis degree in the liver and distinct capacities for fat oxidation and decreased lipogenesis in both tissues, paralleling signs of enhanced sirtuin 1 and AMP-dependent protein kinase signaling. These pre-clinical findings suggest that mild NR supplementation in early postnatal life beneficially impacts lipid and energy metabolism in skeletal muscle and liver in adulthood, serving as a potential preventive strategy against obesity-related disorders characterized by ectopic lipid accumulation.
+
+Nicotinamide riboside supplementation exerts an anti-obesity effect and prevents inflammation and fibrosis in white adipose tissue of female diet-induced obesity mice.
+
+Number of 
+
+Key takeaways:Nicotinamide riboside supplementation reduces obesity and prevents inflammation and fibrosis in white adipose tissue in old female mice with diet-induced obesity, but not in young female mice.
+
+Nicotinamide Riboside Ameliorates Fructose-Induced Lipid Metabolism Disorders in Mice by Activating Browning of WAT, and May Be Also Related to the Regulation of Gut Microbiota
+
+Number of 
+
+Key takeaways:Nicotinamide riboside (NR) alleviates fructose-induced lipid metabolism disorders in mice by activating browning of white adipose tissue and may also be related to modulating gut microbiota.
+
+Abstract:Objectives: This study aims to observe the preventive effect of nicotinamide riboside (NR) on fructose-induced lipid metabolism disorders and explore its mechanism. Methods: Male C57BL/6J mice were fed a 20% fructose solution and given 400 mg/kg NR daily by gavage for 10 weeks. Results: The results indicated that NR supplementation significantly reduced the body weight, liver weight, white adipose tissue (WAT) weight, serum, and hepatic lipid levels. NR upregulated the protein expression levels of sirtuin-1 (SIRT1), AMP-activated protein kinase (AMPK), PR domain containing 16 (PRDM16), uncoupling protein 1 (UCP1), peroxisome proliferator-activated receptor-gamma coactiva-tor-1-alpha (PGC-1α), nuclear respiratory factor 1-encoding gene (NRF1), mitochondrial transcription factor A (TFAM), cluster of differentiation 137 (CD137), transmembrane protein 26 (TMEM26), and T-box 1 (TBX1). Moreover, NR enhanced the Actinobacteria and Enterorhabdus abundance. Spearman’s correlation analysis revealed that significant correlations exist between Firmicutes, Bacteroidetes, and Erysipelotrichaceae with browning-related indicators. Conclusions: In conclusion, NR could alleviate lipid metabolic abnormalities induced by fructose through activating SIRT1/AMPK-mediated browning of WAT. The mechanism by which NR improves fructose-induced lipid metabolism disorders may also be associated with the modulation of intestinal flora.
+
+Nicotinamide riboside, an NAD+ precursor, attenuates the development of liver fibrosis in a diet-induced mouse model of liver fibrosis.
+
+Number of 
+
+Key takeaways:Nicotinamide riboside supplementation reduces liver fibrosis in a diet-induced mouse model, suggesting it may be a potential preventative for human liver fibrosis.
+
+Nicotinamide riboside and dietary restriction effects on gut microbiota and liver inflammatory and morphologic markers in cafeteria diet-induced obesity in rats.
+
+Number of 
+
+Key takeaways:Nicotinamide riboside combined with dietary restriction may be a potential adjuvant for metabolic dysfunction-associated fatty liver disease therapy, reducing liver inflammation and fibrosis.
+
+1592-P: Evaluating Metabolic Effects of Nicotinamide Riboside on Hepatic Substrate Metabolism in CDAA-Induced NAFLD Mice
+
+Number of 
+
+Key takeaways:Nicotinamide riboside treatment did not affect substrate, fats vs glucose, utilization in CDAA-induced NAFLD mouse livers.
+
+Abstract:Nonalcoholic fatty liver disease (NAFLD) is associated with insulin resistance and altered hepatic energy metabolism, with imbalanced glucose and lipid metabolism. Nicotinamide riboside (NR) has recently emerged as a potential therapeutic for a broad range of metabolic abnormalities. Here, we evaluate the effect of NR treatment on hepatic substrate metabolism in mice with NAFLD. NAFLD was induced by feeding the animals with a choline-deficient, amino acid-define (CDAA) diet for 4 weeks. Mice (C57BL/6) in the NR treatment group (CDAA+NR) were then put on a NR-containing CDAA diet for 10 weeks while the non-treated animals remained on CDAA. Both groups of animals had similar food consumption and weight gain rates, with comparable liver-to-body weight ratios. At the conclusion of the treatment, isolated livers were perfused via the portal vein with 13C metabolic tracers, i.e. 5.5 mM glucose + 0.4 mM long chain fatty acids (LCFA) suspended in bovine serum albumin. Fractional substrate oxidations and flux analyses were done using 13C nuclear magnetic resonance (NMR) spectroscopy. An increasing trend of oxygen consumption rates was observed as a result of NR treatment (1.50±0.43 µmol/min/liver) compared to the CDAA-treated group (0.68±0.15 µmol/min/liver). However, the increase is not statistically different. 13C NMR isotopomer flux analyses revealed that pyruvate dehydrogenase flux relative to citrate synthase flux are comparable across the 2 groups (CDAA: 30±4%; CDAA+NR: 33±10%). No changes in fractional oxidation of 13C-long-chain fatty acids and 13C-glucose were observed as a result of nicotinamide riboside treatment, with 44±2% and 48±3% of Ac-CoA derived from 13C-LCFA in CDAA and CDAA+NR livers, respectively. 13C-glucose contributed as a minor source of Ac-CoA (~4-5%) in both groups. These findings suggest that nicotinamide riboside treatment did not affect substrate, fats vs glucose, utilization in CDAA-induced NAFLD mouse livers.
+ 
+ 
+ Q. Shen: None. J.K. Pugmire: None. U. Suwannasual: None. N.R. Maptue: None. C. Khemtong: None.
+ 
+ 
+ 
+ University of Florida
+
+Nicotinamide Riboside, an NAD + Precursor, Reduces Hepatic Stellate Cell Activation and Attenuates Liver Fibrosis in a Diet-induced Mouse Model of Liver Fibrosis (OR24-06-19).
+
+Number of 
+
+Key takeaways:Nicotinamide riboside supplementation prevents liver fibrosis development in a diet-induced mouse model, suggesting it may be a potential preventative for human liver fibrosis.
+
+Abstract:Objectives
+There is limited pharmacological treatment for liver fibrosis, which can result from chronic liver injury. In this study, we investigated the effect of nicotinamide riboside (NR), a nicotinamide adenine dinucleotide (NAD) precursor, on the development of liver fibrosis in a diet-induced mouse model of liver fibrosis in vivo and in hepatic stellate cells (HSCs) in vitro.
+
+Methods
+Male C57BL/6 J mice were randomly assigned to three groups: a low-fat control (LF; 6% fat by wt), a high-fat/high-sucrose/high-cholesterol control (HF; 35%/34%/2.0% by wt, n = 13) or a HF diet supplemented with NR at 400 mg/kg/day (HF-NR, n = 14) for 20 weeks. Features of liver fibrosis were assessed by molecular, histological, and biochemical analyses to determine the effect of NR. Metabolic rates, energy expenditure and physical activity were measured using indirect calorimetry. Primary mouse and human HSCs, the primary extracellular matrix-producing cell-type in the liver, were used to determine the anti-fibrogenic effects of NR in vitro.
+
+Results
+HF-NR group had reduced body weight gain, which was attributable to increased energy expenditure. NR supplementation did not affect serum alanine aminotransferase levels and markers of steatosis and inflammation in the liver. However, liver trichrome and picrosirius red staining and total collagen quantification showed significant reductions of collagen by NR. Consistently, hepatic collagen 1a1 mRNA and protein were significantly reduced in the HF-NR group. Liver NAD levels were significantly reduced by HF, but was increased by NR supplementation. RNA-Seq analysis of NAD metabolism genes in quiescent and activated HSCs indicated that NAD levels might be reduced in activated HSCs due to repression of NAD salvage pathway, which regenerates NAD from nicotinamide. Indeed, treatment of primary human and mouse HSCs with NR significantly reduced their activation in vitro.
+
+Conclusions
+NR supplementation prevented the development of liver fibrosis in a diet-induced mouse model of liver fibrosis independent of hepatic steatosis and inflammation. The data suggest that NR may directly reduce HSC activation to exert its anti-fibrotic effect. NR may be developed as a potential preventative for human liver fibrosis.
+
+Funding Sources
+The NIH, USDA Multistate Hatch, and USDA Hatch.
+
+An open-label, non-randomized study of the pharmacokinetics of the nutritional supplement nicotinamide riboside (NR) and its effects on blood NAD+ levels in healthy volunteers
+
+Number of 
+
+Key takeaways:Oral nicotinamide riboside (NR) is well-tolerated and increases circulating NAD+ levels, potentially benefiting patients with mitochondrial dysfunction due to genetic and acquired diseases.
+
+Abstract:Objectives The co-primary objectives of this study were to determine the human pharmacokinetics (PK) of oral NR and the effect of NR on whole blood nicotinamide adenine dinucleotide (NAD+) levels. Background Though mitochondrial dysfunction plays a critical role in the development and progression of heart failure, no mitochondria-targeted therapies have been translated into clinical practice. Recent murine studies have reported associations between imbalances in the NADH/NAD+ ratio with mitochondrial dysfunction in multiple tissues, including myocardium. Moreover, an NAD+ precursor, nicotinamide mononucleotide, improved cardiac function, while another NAD+ precursor, nicotinamide riboside (NR), improved mitochondrial function in muscle, liver and brown adipose. Thus, PK studies of NR in humans is critical for future clinical trials. Methods In this non-randomized, open-label PK study of 8 healthy volunteers, 250 mg NR was orally administered on Days 1 and 2, then uptitrated to peak dose of 1000 mg twice daily on Days 7 and 8. On the morning of Day 9, subjects completed a 24-hour PK study after receiving 1000 mg NR at t = 0. Whole-blood levels of NR, clinical blood chemistry, and NAD+ levels were analyzed. Results Oral NR was well tolerated with no adverse events. Significant increases comparing baseline to mean concentrations at steady state (Cave,ss) were observed for both NR (p = 0.03) and NAD+ (p = 0.001); the latter increased by 100%. Absolute changes from baseline to Day 9 in NR and NAD+ levels correlated highly (R2 = 0.72, p = 0.008). Conclusions Because NR increases circulating NAD+ in humans, NR may have potential as a therapy in patients with mitochondrial dysfunction due to genetic and/or acquired diseases.
+
+A randomized placebo-controlled clinical trial of nicotinamide riboside in obese men: safety, insulin-sensitivity, and lipid-mobilizing effects.
+
+Number of 
+
+Key takeaways:Nicotinamide riboside supplementation (2000 mg/d) appears safe but does not improve insulin sensitivity and whole-body glucose metabolism in obese, insulin-resistant men.
+
+Abstract:Background
+Animal studies suggest a positive role for nicotinamide riboside (NR) on insulin sensitivity and hepatic steatosis in models of obesity and type 2 diabetes. NR, an NAD+ precursor, is a member of the vitamin B-3 family now available as an over-the-counter supplement. Although data from preclinical trials appear consistent, potential effects and safety need to be evaluated in human clinical trials.
+
+Objective
+The aim of this study was to test the safety of dietary NR supplementation over a 12-wk period and potential to improve insulin sensitivity and other metabolic parameters in obese, insulin-resistant men.
+
+Design
+In an investigator-initiated randomized, placebo-controlled, double-blinded, and parallel-group designed clinical trial, forty healthy, sedentary men with a body mass index (BMI) > 30 kg/m2, age-range 40-70 y were randomly assigned to 12 wk of NR (1000 mg twice daily) or placebo. We determined the effects of NR supplementation on insulin sensitivity by a hyperinsulinemic euglycemic clamp and substrate metabolism by indirect calorimetry and labeled substrates of tritiated glucose and palmitate. Body composition and fat mass distribution were determined by whole-body dual-energy X-ray absorptiometry (DXA) and MRI scans, and measurements of intrahepatic lipid content were obtained by MR spectroscopy.
+
+Results
+Insulin sensitivity, endogenous glucose production, and glucose disposal and oxidation were not improved by NR supplementation. Similarly, NR supplementation had no effect on resting energy expenditure, lipolysis, oxidation of lipids, or body composition. No serious adverse events due to NR supplementation were observed and safety blood tests were normal.
+
+Conclusion
+12 wk of NR supplementation in doses of 2000 mg/d appears safe, but does not improve insulin sensitivity and whole-body glucose metabolism in obese, insulin-resistant men. This trial was registered at clinicaltrials.gov as NCT02303483.
+
+Nicotinamide riboside is uniquely and orally bioavailable in mice and humans
+
+Number of 
+
+Key takeaways:Oral nicotinamide riboside can significantly increase blood NAD+ levels in humans and mice, with dose-dependent effects and a sensitive biomarker for effective NAD+ repletion.
+
+Nicotinamide riboside supplementation alters body composition and skeletal muscle acetylcarnitine concentrations in healthy obese humans
+
+Number of 
+
+Key takeaways:NR supplementation for 6 weeks in overweight or obese individuals increased skeletal muscle NAD+ metabolites and acetylcarnitine metabolism, with minor changes in body composition and sleeping metabolic rate.
+
+Abstract:ABSTRACT Background Nicotinamide riboside (NR) is an NAD+ precursor that boosts cellular NAD+ concentrations. Preclinical studies have shown profound metabolic health effects after NR supplementation. Objectives We aimed to investigate the effects of 6 wk NR supplementation on insulin sensitivity, mitochondrial function, and other metabolic health parameters in overweight and obese volunteers. Methods A randomized, double-blinded, placebo-controlled, crossover intervention study was conducted in 13 healthy overweight or obese men and women. Participants received 6 wk NR (1000 mg/d) and placebo supplementation, followed by broad metabolic phenotyping, including hyperinsulinemic-euglycemic clamps, magnetic resonance spectroscopy, muscle biopsies, and assessment of ex vivo mitochondrial function and in vivo energy metabolism. Results Markers of increased NAD+ synthesis—nicotinic acid adenine dinucleotide and methyl nicotinamide—were elevated in skeletal muscle after NR compared with placebo. NR increased body fat-free mass (62.65% ± 2.49% compared with 61.32% ± 2.58% in NR and placebo, respectively; change: 1.34% ± 0.50%, P = 0.02) and increased sleeping metabolic rate. Interestingly, acetylcarnitine concentrations in skeletal muscle were increased upon NR (4558 ± 749 compared with 3025 ± 316 pmol/mg dry weight in NR and placebo, respectively; change: 1533 ± 683 pmol/mg dry weight, P = 0.04) and the capacity to form acetylcarnitine upon exercise was higher in NR than in placebo (2.99 ± 0.30 compared with 2.40 ± 0.33 mmol/kg wet weight; change: 0.53 ± 0.21 mmol/kg wet weight, P = 0.01). However, no effects of NR were found on insulin sensitivity, mitochondrial function, hepatic and intramyocellular lipid accumulation, cardiac energy status, cardiac ejection fraction, ambulatory blood pressure, plasma markers of inflammation, or energy metabolism. Conclusions NR supplementation of 1000 mg/d for 6 wk in healthy overweight or obese men and women increased skeletal muscle NAD+ metabolites, affected skeletal muscle acetylcarnitine metabolism, and induced minor changes in body composition and sleeping metabolic rate. However, no other metabolic health effects were observed. This trial was registered at clinicaltrials.gov as NCT02835664
+
+The NAD-Booster Nicotinamide Riboside Potently Stimulates Hematopoiesis through Increased Mitochondrial Clearance.
+
+Number of 
+
+Key takeaways:Nicotinamide riboside (NR) effectively stimulates hematopoiesis by increasing mitochondrial clearance, leading to increased asymmetric divisions and improved survival and blood recovery after chemo- and radiotherapy.
+
+Safety assessment of nicotinamide riboside, a form of vitamin B3
+
+Number of 
+
+Key takeaways:Nicotinamide riboside (NR) is a safe synthetic form of vitamin B3 with a similar toxicity profile to nicotinamide at the highest dose tested, with no mortality at an oral dose of 5000 mg/kg.
+
+Abstract:Nicotinamide riboside (NR) is a naturally occurring form of vitamin B3 present in trace amounts in some foods. Like niacin, it has been shown to be a precursor in the biosynthesis of nicotinamide adenine dinucleotide (NAD+). The safety of Niagen™, a synthetic form of NR, was determined using a bacterial reverse mutagenesis assay (Ames), an in vitro chromosome aberration assay, an in vivo micronucleus assay, and acute, 14-day and 90-day rat toxicology studies. NR was not genotoxic. There was no mortality at an oral dose of 5000 mg/kg. Based on the results of a 14-day study, a 90-day study was performed comparing NR at 300, 1000, and 3000 mg/kg/day to an equimolar dose of nicotinamide at 1260 mg/kg/day as a positive control. Results from the study show that NR had a similar toxicity profile to nicotinamide at the highest dose tested. Target organs of toxicity were liver, kidney, ovaries, and testes. The lowest observed adverse effect level for NR was 1000 mg/kg/day, and the no observed adverse effect level was 300 mg/kg/day.
+
+Nicotinamide Riboside Supports Brain Health: Assessing the Evidence
+
+Number of 
+
+Key takeaways:Nicotinamide riboside (NR) shows promise in improving brain function and neurobiology in preclinical models, supporting its potential clinical evaluation as a support for brain health.
+
+Abstract:Abstract Objectives Alterations in neurobiology are linked to mild cognitive decline and various diseases including Alzheimer's Disease (AD), ALS, and Autism Spectrum Disorder (ASD). Declines in brain health are associated with neuroinflammation, nicotinamide adenine dinucleotide (NAD+) deficits, and are often accompanied by changes in memory and social behaviors. The NAD+ precursor, nicotinamide riboside (NR) is a clinically proven, safe dietary supplement in humans. The objective of this review is to evaluate the effectiveness of NR on improving brain function and neurobiology in preclinical models, to support translation into future clinical studies. Methods Peer-reviewed, published preclinical studies evaluating NR on various parameters of brain health and neurodegeneration were reviewed. Complimentary endpoints associated with multiple studies were identified to conclude potential mechanisms of action across multiple disease models and justify translation into human studies. Results A total of 20 preclinical studies have been published evaluating NR on various aspects of brain health in cell culture and rodent models. NR was evaluated in preclinical models of AD, ALS, Gulf War Illness, ASD, obesity-induced cognitive decline, alcohol-induced depression, and maternal supplementation, amongst others. Though various doses of NR were tested, 400 mg/kg/day (estimated at 1300 mg/day for an adult human) was most frequently utilized dose. NR increased NAD+ levels in the brain of mice following oral supplementation in seven separate studies. Multiple studies demonstrated NR-induced improvements in cognitive performance, behavior, and slowing of disease progression. The mechanisms of NR-induced augmentations were repeatedly associated with decreased neuroinflammation, potentially through a decrease in the cGAS–STING pathway, attenuation of neuronal degradation, reduction in amyloid-β, increase in brain-derived neurotrophic factor, and an increase in sirtuins. Conclusions As the safety of NR has been demonstrated in multiple clinical studies, and oral NR supplementation has been shown to be successful in multiple preclinical models of neurodegeneration and brain function, there is ample evidence to support clinical evaluation of NR as a support for brain health. Funding Sources The authors are employees of ChromaDex.
+
+Nicotinamide riboside alleviates sweeteners-induced brain and cognitive impairments in immature mice.
+
+Number of 
+
+Key takeaways:Nicotinamide riboside supplementation protects against cognitive impairment caused by sweeteners in immature mice, potentially due to increased brain NAD+ levels, reduced neuroinflammation, and maintaining a balance of oxidative stress, apoptosis, and autophagy.
+
+Abstract:The consumption of sweeteners is high around the world. Sweet beverages are one of the most important and popular sources of sweeteners. Previous studies have reported that excessive sweeteners might cause health hazards, including cognitive impairment. Nicotinamide riboside (NR), a precursor of NAD+, has been found to alleviate several cognitive impairments. However, the protective effects of NR against sweetener-induced cognitive impairment remain unclear. Hence, we evaluated the effects of sweeteners and NR (400 mg kg-1 d-1) on the brain and cognition of mice by simulating an extreme lifestyle of completely replacing water with sugar-sweetened beverage (simulated with 10% sucrose solution) or sugar-free sweet beverage (simulated with 0.05% aspartame solution) from weaning to adulthood. The results revealed that continuous exposure to sucrose or aspartame for eight weeks did not significantly cause differences in body weight but significantly induced cognitive impairments, including anxiety- and depressive-like behaviours, impairments in learning, memory and sociability. Moreover, sucrose or aspartame exposure induced neuronal injury, reduction of Nissl bodies, overactivation of the TLR4/NF-κB/NLRP3/ASC/Caspase-1 pathway and increased downstream inflammatory cytokines in mouse hippocampus, and also induced an imbalance of oxidative stress, apoptosis and autophagy, large consumptions of intracellular antioxidant factors, and overactivation of the PI3K/Akt/FOXO1 and PI3K/Akt/mTOR pathways in mouse brain. NR treatment increased NAD+ in the brain, and prevented and alleviated these impairments effectively. In summary, we found that NR supplementation protected against cognitive impairment caused by sucrose or aspartame in immature mice, which might be related to increased brain NAD+ level, relieved neuroinflammation and pyroptosis in the hippocampus, and maintained a balance of oxidative stress, apoptosis and autophagy in the brain.
+
+Cognitive and Alzheimer's disease biomarker effects of oral nicotinamide riboside (NR) supplementation in older adults with subjective cognitive decline and mild cognitive impairment
+
+Number of 
+
+Key takeaways:Oral nicotinamide riboside supplementation (1g/day) shows potential in improving cognition and reducing Alzheimer's disease biomarkers in older adults with subjective cognitive decline and mild cognitive impairment.
+
+Abstract:Age‐associated depletion in nicotinamide adenine dinucleotide (NAD+) concentrations has been implicated in metabolic, cardiovascular, and neurodegenerative disorders. Supplementation with NAD+ precursors, such as nicotinamide riboside (NR), offers a potential therapeutic avenue against neurodegenerative pathologies in aging, Alzheimer's disease, and related dementias. A crossover, double‐blind, randomized placebo (PBO) controlled trial was conducted to test the safety and efficacy of 8 weeks' active treatment with NR (1 g/day) on cognition and plasma AD biomarkers in older adults with subjective cognitive decline and mild cognitive impairment.
+
+Nicotinamide riboside modulates the reactive species interactome, bioenergetic status and proteomic landscape in a brain-region-specific manner
+
+Number of 
+
+Key takeaways:Nicotinamide riboside (NR) has cognitive benefits and alleviates neuroinflammation in Alzheimer's Disease mouse models, potentially affecting the metabolome and playing disease-modifying roles.
+
+Nicotinamide riboside alleviates brain dysfunction induced by chronic cerebral hypoperfusion via protecting mitochondria.
+
+Number of 
+
+Key takeaways:Nicotinamide riboside supplementation improves cognitive function and oxygenation capacity in chronic cerebral hypoperfusion rats, potentially due to its neuroprotective effects.
+
+Results from a pilot study: The effects of nicotinamide riboside on mild cognitive impairment
+
+Number of 
+
+Key takeaways:Nicotinamide riboside supplementation may improve brain function in older adults with mild cognitive impairment by increasing blood NAD(+) levels.
+
+Abstract:Nicotinamide adenine dinucleotide (NAD+) is a critical coenzyme in cellular metabolism. NAD(+) levels decrease with aging. Experimentally boosting NAD(+) improves cognitive function and synaptic plasticity in Alzheimer's disease mouse models. NAD(+) can be synthesized from dietary intake of its precursors, including nicotinamide riboside (NR), a readily available non‐prescription nutritional supplement. Recent studies have demonstrated that dietary NR increases blood NAD(+) levels in healthy older adults. We hypothesize that NR supplementation will positively affect brain function in older adults with mild cognitive impairment (MCI).
+
+Nicotinamide riboside, a form of vitamin B3, protects against excitotoxicity‐induced axonal degeneration
+
+Number of 
+
+Key takeaways:Nicotinamide riboside (NR) is a better neuroprotective agent than NAD+ in excitotoxicity-induced axonal degeneration, with its stronger effect depending on axonal stress.
+
+Abstract:NAD+ depletion is a common phenomenon in neurodegenerative pathologies. Excitotoxicity occurs in multiple neurologic disorders and NAD+ was shown to prevent neuronal degeneration in this process through mechanisms that remained to be determined. The activity of nicotinamide riboside (NR) in neuroprotective models and the recent description of extracellular conversion of NAD+ to NR prompted us to probe the effects of NAD+ and NR in protection against excitotoxicity. Here, we show that intracortical administration of NR but not NAD+ reduces brain damage induced by NMDA injection. Using cortical neurons, we found that provision of extracellular NR delays NMDA‐induced axonal degeneration (AxD) much more strongly than extracellular NAD+. Moreover, the stronger effect of NR compared to NAD+ depends of axonal stress since in AxD induced by pharmacological inhibition of nicotinamide salvage, both NAD+ and NR prevent neuronal death and AxD in a manner that depends on internalization of NR. Taken together, our findings demonstrate that NR is a better neuroprotective agent than NAD+ in excitotoxicity‐induced AxD and that axonal protection involves defending intracellular NAD+ homeostasis.—Vaur, P., Brugg, B., Mericskay, M., Li, Z., Schmidt, M. S., Vivien, D., Orset, C., Jacotot, E., Brenner, C., Duplus, E. Nicotinamide riboside, a form of vitamin B3, protects against excitotoxicity‐induced axonal degeneration. FASEB J. 31, 5440–5452 (2017). 
+
+Oral nicotinamide riboside raises NAD+ and lowers biomarkers of neurodegenerative pathology in plasma extracellular vesicles enriched for neuronal origin
+
+Number of 
+
+Key takeaways:Oral nicotinamide riboside supplementation increases NAD+ levels in the brain and lowers biomarkers related to neurodegenerative pathology in healthy older adults.
+
+Abstract:Declining nicotinamide adenine dinucleotide (NAD+) concentration in the brain during aging contributes to metabolic and cellular dysfunction and is implicated in the pathogenesis of aging‐associated neurological disorders. Experimental therapies aimed at boosting brain NAD+ levels normalize several neurodegenerative phenotypes in animal models, motivating their clinical translation. Dietary intake of NAD+ precursors, such as nicotinamide riboside (NR), is a safe and effective avenue for augmenting NAD+ levels in peripheral tissues in humans, yet evidence supporting their ability to raise NAD+ levels in the brain or engage neurodegenerative disease pathways is lacking. Here, we studied biomarkers in plasma extracellular vesicles enriched for neuronal origin (NEVs) from 22 healthy older adults who participated in a randomized, placebo‐controlled crossover trial (NCT02921659) of oral NR supplementation (500 mg, 2x /day, 6 weeks). We demonstrate that oral NR supplementation increases NAD+ levels in NEVs and decreases NEV levels of Aβ42, pJNK, and pERK1/2 (kinases involved in insulin resistance and neuroinflammatory pathways). In addition, changes in NAD(H) correlated with changes in canonical insulin–Akt signaling proteins and changes in pERK1/2 and pJNK. These findings support the ability of orally administered NR to augment neuronal NAD+ levels and modify biomarkers related to neurodegenerative pathology in humans. Furthermore, NEVs offer a new blood‐based window into monitoring the physiologic response of NR in the brain.
+
+Acute Treatment with Nicotinamide Riboside Chloride Reduces Hippocampal Damage and Preserves the Cognitive Function of Mice with Ischemic Injury
+
+Number of 
+
+Key takeaways:Nicotinamide riboside chloride treatment improves cognitive function and reduces hippocampal damage in mice with acute brain ischemia.
+
+Abstract:Nicotinamide adenine dinucleotide (NAD) is a critical cosubstrate for enzymes involved in supplying energy to the brain. Nicotinamide riboside (NR), an NAD^+ precursor, emerges as a neuroprotective factor after chronic brain insults. However, researchers have not determined whether it improves cognition after acute ischemia. In the present study, mice with middle cerebral artery occlusion were treated with NR chloride (NRC, 300 mg/kg, IP., 20 min after reperfusion). The results of the Morris water maze test revealed better recovery of learning and memory function in the NRC-treated group. Acute NRC treatment decreased hippocampal infarct volume, reduced neuronal loss and apoptosis in the hippocampus. Western blot and high-performance liquid chromatography assays of hippocampal tissues revealed that the activation of Sirtin-1 and adenosine 5′ monophosphate-activated protein kinase was increased, the NAD content was elevated, and the production of adenosine triphosphate was strengthened by NRC. Collectively, acute NRC treatment increased the energy supply, reduced the neuronal loss and apoptosis, protected the hippocampus and ultimately promoted the recovery of cognitive function after brain ischemia.
+
+Nicotinamide Riboside Enhances Mitochondrial Proteostasis and Adult Neurogenesis through Activation of Mitochondrial Unfolded Protein Response Signaling in the Brain of ALS SOD1G93A Mice
+
+Number of 
+
+Key takeaways:Nicotinamide riboside (NR) improves mitochondrial proteostasis and adult neurogenesis in the brain of ALS mice by activating mitochondrial unfolded protein response signaling.
+
+Abstract:Amyotrophic lateral sclerosis (ALS) is caused by the progressive degeneration of motor neurons in the spinal cord, the brain stem, and the motor cortex. So far, there is still a lack of effective drugs. Nicotinamide adenine dinucleotide (NAD+) takes part in redox reactions and the NAD-dependent signaling pathway. The NAD+ decline is related with many neurological diseases, leading to the accumulation of neurotoxic protein in the central nervous system. Moreover, the NAD+ supplementation is shown to promote neural stem cells/neuronal precursor cells (NSCs/NPCs) pool maintenance. Regulatory mechanisms and functions of NAD+ metabolism in ALS are still unknown. Thus, we hypothesized the aggregation of human SOD1 toxic protein and the fate of NSCs/NPCs in the ALS disease could be improved by the administration of nicotinamide riboside (NR), an NAD+ precursor. In this study, we treated SOD1G93A transgenic and wild-type mice by the oral administration of 20 mg/ml NR starting at 50 days of age. Effects of NR on the body weight, the motor function, the onset and the survival were assessed during the experiment. The expression of mutant hSOD1 protein, mitochondrial unfolded protein response (UPRmt) related protein, mitophagy markers and NAD+ metabolism related protein were detected by immunoblotting. Effects of NR on the NSCs/NPCs in neurogenic niches of brain were identified by the immunofluorescence staining. Our investigation elucidated that the NR treatment exhibited better hanging wire endurance but did not postpone the onset or extend the life span of SOD1G93A mice. Besides, we observed that the NR repletion promoted the clearance of mitochondrial hSOD1 neurotoxic protein. Meanwhile, the mitochondrial function pathway was disrupted in the brain of SOD1G93A mice. What's more, we demonstrated that the inadequate function of NAD+ salvage synthesis pathway was the primary explanation behind the decline of NAD+, and the NR treatment enhanced the proliferation and migration of NSCs/NPCs in the brain of SOD1G93A mice. At last, we found that levels of UPRmt related protein were significantly increased in the brain of SOD1G93A mice after the NR treatment. In summary, these findings reveal that the administration of NR activates UPRmt signaling, modulates mitochondrial proteostasis and improves the adult neurogenesis in the brain of SOD1G93A mice.
+
+Acute nicotinamide riboside supplementation increases human cerebral NAD+ levels in vivo
+
+Number of 
+
+Key takeaways:Acute nicotinamide riboside supplementation increases cerebral NAD+ levels in healthy human volunteers, as confirmed by downfield proton MRS.
+
+Abstract:The purpose of this study was to determine the effect of acute nicotinamide riboside (NR) supplementation on cerebral nicotinamide adenine dinucleotide (NAD+) levels in the human brain in vivo by means of downfield proton MRS (DF 1H MRS).
+
+Effect of Nicotinamide riboside supplementation on cerebral NAD+ levels in vivo
+
+Number of 
+
+Key takeaways:Oral nicotinamide riboside supplementation increases cerebral NAD+ levels in healthy volunteers, as demonstrated by noninvasive MR imaging.
+
+Abstract:Motivation: To determine if acute nicotinamide riboside (NR) supplementation increases cerebral nicotinamide adenine dinucleotide (NAD+) levels in the human brain. Goal(s): To measure cerebral NAD+ levels before and after nicotinamide riboside supplementation using downfield 1HMRS at 7T MRI in ten healthy volunteers. Approach: First MR scan was performed in each healthy volunteer after overnight fasting to obtain baseline NAD+ levels. In the second scan on the following day, the same protocol was repeated, but with NR supplements administered orally 4 hours before the scan. Results: An increase in mean NAD+ concentration was observed with NR supplementation, compared to the baseline (0.458±0.053 vs 0.392±0.058mM; p<0.001). Impact: The preliminary results from this study show that oral NR supplementation increases NAD+ levels in brain and demonstrates the potential of downfield 1HMRS for noninvasive quantification of cerebral NAD+ and monitoring the effects of NR supplementation on cerebral NAD+ levels.
+
+Liposome-based loading enhances the distribution of nicotinamide riboside chloride into the brain and its neuroprotective effects in cerebral ischemic mice
+
+Number of 
+
+Key takeaways:Liposome-based nicotinamide riboside chloride loading improves the brain distribution and therapeutic effects of the drug, potentially enhancing its potential for clinical translation and neurorestoration in stroke.
+
+The NADPARK study: A randomized phase I trial of nicotinamide riboside supplementation in Parkinson's disease.
+
+Number of 
+
+Key takeaways:Nicotinamide riboside supplementation is a well-tolerated, safe, and potentially neuroprotective therapy for Parkinson's disease, with mild clinical improvement observed.
+
+Supplementation with Nicotinamide Riboside Reduces Brain Inflammation and Improves Cognitive Function in Diabetic Mice
+
+Number of 
+
+Key takeaways:Nicotinamide riboside supplementation reduces brain inflammation and improves cognitive function in diabetic mice by inhibiting amyloidogenesis and neuroinflammation.
+
+Abstract:The purpose of this study is to investigate whether nicotinamide riboside (NR) can improve inflammation and cognitive function in diabetic mice. ICR male mice were fed for 14 weeks with either high-fat chow diet (HF, 60% kcal fat) or standard chow diet (CON, 10% kcal fat). HF, streptozotocin, and nicotinamide were used to induce hyperglycemia. NR or vehicle was delivered via stomach gavage for six weeks. Oral glucose tolerance test, Y-maze test, and nest construction test were conducted before and after the NR treatment period. NR treatment induced down-regulation of NLRP3, ASC, and caspase-1. NR reduced IL-1 expression significantly by 50% in whole brains of hyperglycemic mice. Other inflammatory markers including TNF-α and IL-6 were also attenuated by NR. Brain expression of amyloid-β precursor protein and presenilin 1 were reduced by NR. In addition, NR induced significant reduction of amyloid-β in whole brains of diabetic mice. NR treatment restored hyperglycemia-induced increases in brain karyopyknosis to the levels of controls. Nest construction test showed that NR improved hippocampus functions. Spatial recognition memory and locomotor activity were also improved by NR supplementation. These findings suggest that NR may be useful for treating cognitive impairment by inhibiting amyloidogenesis and neuroinflammation.
+
+Nicotinamide riboside alleviates alcohol-induced depression-like behaviours in C57BL/6J mice by altering the intestinal microbiota associated with microglial activation and BDNF expression.
+
+Number of 
+
+Key takeaways:Nicotinamide riboside (NR) dietary supplementation protects against alcohol-induced depression-like behaviors in mice by altering gut microbiota composition and reducing inflammation-related cytokines.
+
+Abstract:The gut microbiota play an important role in many central nervous system diseases through the gut microbiota-brain axis. Recent studies suggest that nicotinamide riboside (NR) has neuroprotective properties. However, it is unknown whether NR can prevent or protect against alcohol-induced depression. Furthermore, it is unclear whether its therapeutic action involves changes in the composition of the gut microbiome. Here, we investigated the effects of NR in the mouse model of alcohol-induced depression. Treatment with NR improved the alcohol-induced depressive behaviour in mice. In addition, NR decreased the number of activated microglia in the hippocampus, and it reduced the levels of pro-inflammatory (IL-1β, IL-6, and TNF-α) and anti-inflammatory (IL-10 and TGF-β) cytokines in the brain of mice with alcohol-induced depression. Furthermore, NR significantly upregulated BDNF and diminished the inhibition of the AKT/GSK3β/β-catenin signalling pathway in the hippocampus of these mice. 16S rRNA sequencing revealed that, compared with control and NR-treated mice, the gut microbiome richness and composition were significantly altered in the depressed mice. Spearman's correlation analysis showed that differential gut bacterial genera correlated with the levels of inflammation-related cytokines and BDNF in the brain. After faecal microbiota transplantation, cognitive behaviours, microglial activity, levels of cytokines and BDNF, and activation state of the AKT/GSK3β/β-catenin signalling pathway (which is downstream of the BDNF receptor, TrkB) in recipient mice were similar to those in donor mice. Collectively, our findings show that NR dietary supplementation protects against alcohol-induced depression-like behaviours, possibly by altering the composition of the gut microbiota.
+
+Nicotinamide Riboside—The Current State of Research and Therapeutic Uses
+
+Number of 
+
+Key takeaways:Nicotinamide riboside shows potential health benefits for treating various conditions and infections, with potential applications in metabolic disorders, neurodegenerative disorders, and infections like SARS-CoV-2.
+
+Abstract:Nicotinamide riboside (NR) has recently become one of the most studied nicotinamide adenine dinucleotide (NAD+) precursors, due to its numerous potential health benefits mediated via elevated NAD+ content in the body. NAD+ is an essential coenzyme that plays important roles in various metabolic pathways and increasing its overall content has been confirmed as a valuable strategy for treating a wide variety of pathophysiological conditions. Accumulating evidence on NRs’ health benefits has validated its efficiency across numerous animal and human studies for the treatment of a number of cardiovascular, neurodegenerative, and metabolic disorders. As the prevalence and morbidity of these conditions increases in modern society, the great necessity has arisen for a rapid translation of NR to therapeutic use and further establishment of its availability as a nutritional supplement. Here, we summarize currently available data on NR effects on metabolism, and several neurodegenerative and cardiovascular disorders, through to its application as a treatment for specific pathophysiological conditions. In addition, we have reviewed newly published research on the application of NR as a potential therapy against infections with several pathogens, including SARS-CoV-2. Additionally, to support rapid NR translation to therapeutics, the challenges related to its bioavailability and safety are addressed, together with the advantages of NR to other NAD+ precursors.
+
+Chronic nicotinamide riboside supplementation is well-tolerated and elevates NAD+ in healthy middle-aged and older adults
+
+Number of 
+
+Key takeaways:Chronic nicotinamide riboside supplementation is well-tolerated and effectively stimulates NAD+ metabolism in healthy middle-aged and older adults.
+
+Nicotinamide Riboside Augments the Aged Human Skeletal Muscle NAD+ Metabolome and Induces Transcriptomic and Anti-inflammatory Signatures
+
+Number of 
+
+Key takeaways:Oral nicotinamide riboside supplementation in aged men increases the muscle NAD+ metabolome and reduces inflammation without altering mitochondrial bioenergetics.
+
+Nicotinamide riboside improves muscle mitochondrial biogenesis, satellite cell differentiation, and gut microbiota in a twin study
+
+Number of 
+
+Key takeaways:Nicotinamide riboside improves muscle mitochondrial biogenesis, satellite cell differentiation, and gut microbiota composition in humans, but does not affect adiposity or metabolic health.
+
+Abstract:Nicotinamide adenine dinucleotide (NAD+) precursor nicotinamide riboside (NR) has emerged as a promising compound to improve obesity-associated mitochondrial dysfunction and metabolic syndrome in mice. However, most short-term clinical trials conducted so far have not reported positive outcomes. Therefore, we aimed to determine whether long-term NR supplementation boosts mitochondrial biogenesis and metabolic health in humans. Twenty body mass index (BMI)–discordant monozygotic twin pairs were supplemented with an escalating dose of NR (250 to 1000 mg/day) for 5 months. NR improved systemic NAD+ metabolism, muscle mitochondrial number, myoblast differentiation, and gut microbiota composition in both cotwins. NR also showed a capacity to modulate epigenetic control of gene expression in muscle and adipose tissue in both cotwins. However, NR did not ameliorate adiposity or metabolic health. Overall, our results suggest that NR acts as a potent modifier of NAD+ metabolism, muscle mitochondrial biogenesis and stem cell function, gut microbiota, and DNA methylation in humans irrespective of BMI.
+
+Nicotinamide riboside attenuates age-associated metabolic and functional changes in hematopoietic stem cells
+
+Number of 
+
+Key takeaways:Nicotinamide riboside (NR) restores youthful metabolic capacity in hematopoietic stem cells, supporting healthy aging by re-establishing a more youthful hematopoietic system.
+
+Effects of a wide range of dietary nicotinamide riboside (NR) concentrations on metabolic flexibility and white adipose tissue (WAT) of mice fed a mildly obesogenic diet
+
+Number of 
+
+Key takeaways:30 mg nicotinamide riboside per kg is most beneficial for metabolic health, promoting metabolic flexibility and enhancing white adipose tissue gene expression in mice on an obesogenic diet.
+
+Abstract:Scope Metabolic flexibility is the ability to switch metabolism between carbohydrate oxidation (CHO) and fatty acid oxidation (FAO) and is a biomarker for metabolic health. The effect on metabolic health of nicotinamide riboside (NR) as an exclusive source of vitamin B3 is unknown and is examined here for a wide range of NR. Design and methods Nine‐week‐old male C57BL/6JRcc mice received a semi‐purified mildly obesogenic (40 en% fat) diet containing 0.14% L‐tryptophan and either 5, 15, 30, 180, or 900 mg NR per kg diet for 15 weeks. Body composition and metabolic parameters were analyzed. Metabolic flexibility was measured using indirect calorimetry. Gene expression in epididymal white adipose tissue (eWAT) was measured using qRT‐PCR . Results The maximum delta respiratory exchange ratio when switching from CHO to FAO (maxΔRERCHO1→FAO) and when switching from FAO to CHO (maxΔRERFAO→CHO2) were largest in 30 mg NR per kg diet (30NR). In eWAT, the gene expression of Pparγ, a master regulator of adipogenesis, and of Sod2 and Prdx3, two antioxidant genes, were significantly upregulated in 30NR compared to 5NR. Conclusion 30NR is most beneficial for metabolic health, in terms of metabolic flexibility and eWAT gene expression, of mice on an obesogenic diet.
+
+Safety and Metabolism of Long-term Administration of NIAGEN (Nicotinamide Riboside Chloride) in a Randomized, Double-Blind, Placebo-controlled Clinical Trial of Healthy Overweight Adults
+
+Number of 
+
+Key takeaways:Long-term administration of NIAGEN (nicotinamide riboside chloride) is safe and increases blood NAD+ levels without causing flushing or adverse events in overweight adults.
+
+Nicotinamide riboside has minimal impact on energy metabolism in mouse models of mild obesity
+
+Number of 
+
+Key takeaways:Nicotinamide riboside supplementation does not alter metabolic phenotype in mildly obese mice, but increases mitochondrial respiration in soleus muscle.
+
+Abstract:Supplementation with precursors of NAD has been shown to prevent and reverse insulin resistance, mitochondrial dysfunction, and liver damage in mouse models of diet-induced obesity. We asked whether the beneficial effects of supplementation with the NAD precursor nicotinamide riboside (NR) are dependent on mouse strain. We compared the effects of NR supplementation on whole-body energy metabolism and mitochondrial function in mildly obese C57BL/6N and C57BL/6J mice, two commonly used strains to investigate metabolism. Male C57BL/6N and C57BL/6J mice were fed a high-fat diet (HFD) or standard chow with or without NR supplementation for 8 weeks. Body and organ weights, glucose tolerance, and metabolic parameters as well as mitochondrial O2 flux in liver and muscle fibers were assessed. We found that NR supplementation had no influence on body or organ weight, glucose metabolism or hepatic lipid accumulation, energy expenditure, or metabolic flexibility but increased mitochondrial respiration in soleus muscle in both mouse strains. Strain-dependent differences were detected for body and fat depot weight, fasting blood glucose, hepatic lipid accumulation, and energy expenditure. We conclude that, in mild obesity, NR supplementation does not alter metabolic phenotype in two commonly used laboratory mouse strains.
+
+Nicotinamide Riboside Ameliorates Survival Time and Motor Dysfunction in an MPTP-Induced Parkinson's Disease Zebrafish Model through Effects on Glucose Metabolism and Endoplasmic Reticulum Stress.
+
+Number of 
+
+Key takeaways:Nicotinamide riboside improves survival time and motor dysfunction in a Parkinson's disease zebrafish model by modulating glucose metabolism and endoplasmic reticulum stress through the Perk-Eif2-Atf4-Chop pathway.
+
+BST1 regulates nicotinamide riboside metabolism via its glycohydrolase and base-exchange activities
+
+Number of 
+
+Key takeaways:BST1 plays a dual role as a glycohydrolase and base-exchange enzyme during oral nicotinamide riboside supplementation, regulating its metabolism and aging-related diseases.
+
+Nicotinamide riboside induces a thermogenic response in lean mice
+
+Number of 
+
+Key takeaways:Oral nicotinamide riboside supplementation effectively induces a thermogenic response in lean mice, affecting brown adipose tissue metabolism.
+
+Dietary supplementation with nicotinamide riboside improves fetal growth under hypoglycemia.
+
+Number of 
+
+Key takeaways:Nicotinamide riboside (NR) improves fetal growth by increasing blood glucose levels in pregnant animals with hypoglycemia, suggesting its potential as a dietary supplement for glycemic control in diabetic women.
+
+High Dose of Dietary Nicotinamide Riboside Induces Glucose Intolerance and White Adipose Tissue Dysfunction in Mice Fed a Mildly Obesogenic Diet
+
+Number of 
+
+Key takeaways:High-dose nicotinamide riboside supplementation in mice fed a mildly obesogenic diet leads to reduced metabolic flexibility, increased insulin resistance, and white adipose tissue dysfunction.
+
+Abstract:Nicotinamide riboside (NR) is a nicotinamide adenine dinucleotide (NAD+) precursor vitamin. The scarce reports on the adverse effects on metabolic health of supplementation with high-dose NR warrant substantiation. Here, we aimed to examine the physiological responses to high-dose NR supplementation in the context of a mildly obesogenic diet and to substantiate this with molecular data. An 18-week dietary intervention was conducted in male C57BL/6JRccHsd mice, in which a diet with 9000 mg NR per kg diet (high NR) was compared to a diet with NR at the recommended vitamin B3 level (control NR). Both diets were mildly obesogenic (40 en% fat). Metabolic flexibility and glucose tolerance were analyzed and immunoblotting, qRT-PCR and histology of epididymal white adipose tissue (eWAT) were performed. Mice fed with high NR showed a reduced metabolic flexibility, a lower glucose clearance rate and aggravated systemic insulin resistance. This was consistent with molecular and morphological changes in eWAT, including sirtuin 1 (SIRT1)-mediated PPARγ (proliferator-activated receptor γ) repression, downregulated AKT/glucose transporter type 4 (GLUT4) signaling, an increased number of crown-like structures and macrophages, and an upregulation of pro-inflammatory gene markers. In conclusion, high-dose NR induces the onset of WAT dysfunction, which may in part explain the deterioration of metabolic health.
+
+About the creator ofLongevity Protocols
+
+Co-founder of technology companiesMDBootstrapandCogniVis AI/ Listed inForbes '30 under 30'/EOer/ Enthusiast of open-source projects, fascinated by the intersection of technology and longevity /Dancer, nerd and bookworm /
+
+In the past, a youth educator in orphanages and correctional facilities.
