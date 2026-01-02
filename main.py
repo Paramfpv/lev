@@ -1,72 +1,130 @@
-"""
-Main RAG System Connector
-Connects the data ingestion pipeline with the retrieval pipeline
-"""
+# main.py
+from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel
+from core.retrieval_pipeline import LongevityRAGChatbot
+from core.supabase_utils import supabase
 
-from data_ingestion_pipeline import run_simple_pipeline
-from retrieval_pipeline import LongevityRAGChatbot
+# 1️⃣ Create FastAPI instance
+app = FastAPI(title="LEV Longevity RAG API", version="1.0")
 
-def setup_rag_system():
-    """
-    Set up the complete RAG system
-    """
-    print("Setting up Longevity RAG System...")
-    
-    # Check if processed data exists
-    import os
-    if not os.path.exists("processed_data/all_chunks.json"):
-        print("Processed data not found. Running data ingestion pipeline...")
-        run_simple_pipeline()
-    else:
-        print("Processed data found. Skipping ingestion.")
-    
-    # Initialize chatbot
-    chatbot = LongevityRAGChatbot()
-    return chatbot
+# 2️⃣ Add CORS middleware
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allow all origins for development
+    allow_credentials=True,
+    allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],  # Explicitly allow OPTIONS
+    allow_headers=["*"],  # Allow all headers
+)
 
-def main():
-    """
-    Main function to run the complete RAG system
-    """
-    chatbot = setup_rag_system()
-    
-    print("\n" + "=" * 60)
-    print("🤖 LONGEVITY RAG CHATBOT READY!")
-    print("=" * 60)
-    print("Ask me about longevity protocols, supplements, exercise, sleep, nutrition, and more!")
-    print("\nCommands:")
-    print("- 'list protocols' - Show all available protocols")
-    print("- 'list protocols sleep' - Show protocols related to sleep")
-    print("- 'protocol Magnesium' - Get detailed info about Magnesium")
-    print("- Or just ask any question!")
-    print("\nType 'quit' or 'exit' to end the session.")
-    print("=" * 60)
-    
-    while True:
+# 3️⃣ Initialize chatbot once (stays in memory)
+bot = LongevityRAGChatbot()
+
+
+# 4️⃣ Define input schemas
+class ChatRequest(BaseModel):
+    question: str
+    user_id: str = None
+
+class RegisterRequest(BaseModel):
+    email: str
+    password: str
+
+class LoginRequest(BaseModel):
+    email: str
+    password: str
+
+# 5️⃣ Default route
+@app.get("/")
+def root():
+    return {"message": "LEV RAG API is running."}
+
+
+# 6️⃣ User registration
+# replace register and login implementations with the following
+
+@app.post("/register")
+def register(request: RegisterRequest):
+    try:
+        res = supabase.auth.sign_up({
+            "email": request.email,
+            "password": request.password
+        })
+
+        # Supabase v2 returns an AuthResponse: check res.user (no .error attr)
+        if not getattr(res, "user", None):
+            # try to return helpful message if available
+            detail = getattr(res, "message", None) or getattr(res, "error", None) or "Registration failed"
+            raise HTTPException(status_code=400, detail=str(detail))
+
+        return {
+            "message": "User registered successfully",
+            "user_id": res.user.id,
+            "email": res.user.email
+        }
+
+    except HTTPException:
+        raise
+    except Exception as e:
+        print("Registration exception:", e)
+        raise HTTPException(status_code=400, detail=str(e))
+
+
+@app.post("/login")
+def login(request: LoginRequest):
+    try:
+        res = supabase.auth.sign_in_with_password({
+            "email": request.email,
+            "password": request.password
+        })
+
+        # If login failed, res.user will be falsy — handle it cleanly
+        if not getattr(res, "user", None):
+            detail = getattr(res, "message", None) or getattr(res, "error", None) or "Login failed"
+            raise HTTPException(status_code=400, detail=str(detail))
+
+        return {
+            "message": "Login successful",
+            "user_id": res.user.id,
+            "email": res.user.email
+        }
+
+    except HTTPException:
+        raise
+    except Exception as e:
+        print("Login exception:", e)
+        raise HTTPException(status_code=400, detail=str(e))
+
+
+
+# 8️⃣ Main chat route (saves chat history to Supabase)
+@app.post("/chat")
+def chat(request: ChatRequest):
+    answer = bot.chat(request.question)
+    # Save chat to Supabase if user_id provided
+    if request.user_id:
         try:
-            # Get user input
-            user_input = input("\n💬 You: ").strip()
-            
-            # Check for exit commands
-            if user_input.lower() in ['quit', 'exit', 'bye', 'goodbye']:
-                print("\n👋 Thanks for using the Longevity RAG Chatbot! Stay healthy!")
-                break
-            
-            # Skip empty inputs
-            if not user_input:
-                continue
-            
-            # Get response from chatbot
-            print("\n🤖 Bot:")
-            response = chatbot.chat(user_input)
-            print(response)
-            
-        except KeyboardInterrupt:
-            print("\n\n👋 Thanks for using the Longevity RAG Chatbot! Stay healthy!")
-            break
+            supabase.table("chat_history").insert({
+                "user_id": request.user_id,
+                "question": request.question,
+                "answer": answer
+            }).execute()
         except Exception as e:
-            print(f"\n❌ Error: {e}")
-            print("Please try again or type 'quit' to exit.")
+            print(f"Error saving chat history: {e}")
+    return {"answer": answer}
 
-if __name__ == "__main__":
-    main()
+# 9️⃣ Get chat history for a user
+@app.get("/history/{user_id}")
+def get_history(user_id: str):
+    try:
+        res = supabase.table("chat_history").select("*").eq("user_id", user_id).order("timestamp", desc=True).limit(50).execute()
+        return {"history": res.data}
+    except Exception as e:
+        return {"history": [], "error": str(e)}
+
+# 7️⃣ Reset memory route
+@app.post("/reset")
+def reset_memory():
+    """Clears chatbot short-term memory."""
+    bot.reset_memory()
+    return {"message": "Chat memory has been reset."}

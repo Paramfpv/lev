@@ -91,5 +91,5 @@ dmypy.json
 
 # Local data files (if they contain sensitive data)
 # Uncomment if needed:
-# processed_data/
-# protocols_data/
+processed_data/
+protocols_data/

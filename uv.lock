@@ -1254,6 +1254,7 @@ dependencies = [
     { name = "langchain-community" },
     { name = "langchain-core" },
     { name = "langchain-groq" },
+    { name = "langchain-text-splitters" },
     { name = "python-dotenv" },
     { name = "requests" },
     { name = "sentence-transformers" },
@@ -1265,20 +1266,21 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "chromadb", specifier = ">=1.2.1" },
-    { name = "faiss-cpu", specifier = ">=1.12.0" },
-    { name = "fastapi", specifier = ">=0.120.1" },
-    { name = "langchain", specifier = ">=1.0.2" },
-    { name = "langchain-community", specifier = ">=0.4" },
-    { name = "langchain-core", specifier = ">=1.0.0" },
-    { name = "langchain-groq", specifier = ">=1.0.0" },
-    { name = "python-dotenv", specifier = ">=1.1.1" },
-    { name = "requests", specifier = ">=2.32.5" },
-    { name = "sentence-transformers", specifier = ">=5.1.2" },
+    { name = "chromadb", specifier = "==1.2.1" },
+    { name = "faiss-cpu", specifier = "==1.12.0" },
+    { name = "fastapi", specifier = "==0.120.1" },
+    { name = "langchain", specifier = "==1.0.2" },
+    { name = "langchain-community", specifier = "==0.4" },
+    { name = "langchain-core", specifier = "==1.0.0" },
+    { name = "langchain-groq", specifier = "==1.0.0" },
+    { name = "langchain-text-splitters", specifier = "==1.0.0" },
+    { name = "python-dotenv", specifier = "==1.1.1" },
+    { name = "requests", specifier = "==2.32.5" },
+    { name = "sentence-transformers", specifier = "==5.1.2" },
     { name = "streamlit", specifier = ">=1.50.0" },
-    { name = "supabase", specifier = ">=2.24.0" },
-    { name = "torch", specifier = ">=2.9.0" },
-    { name = "uvicorn", specifier = ">=0.38.0" },
+    { name = "supabase", specifier = "==2.24.0" },
+    { name = "torch", specifier = "==2.9.0" },
+    { name = "uvicorn", specifier = "==0.38.0" },
 ]
 
 [[package]]
