@@ -8,7 +8,11 @@ WORKDIR /app
 COPY requirements.txt .
 
 # Install any needed packages specified in requirements.txt
-RUN pip install --no-cache-dir -r requirements.txt
+# Install CPU-only PyTorch first to reduce image size and download time
+RUN pip install --no-cache-dir --default-timeout=1000 torch==2.9.0 --index-url https://download.pytorch.org/whl/cpu
+
+# Install other dependencies
+RUN pip install --no-cache-dir --default-timeout=1000 -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cpu
 
 # Copy the rest of the application code
 COPY . .
