@@ -1,103 +1,77 @@
-# Longevity RAG Chatbot
+# LEV Longevity RAG Chatbot
 
-A RAG (Retrieval-Augmented Generation) chatbot for querying longevity and human optimization protocols, with both CLI and Streamlit interface.
+An AI-powered RAG (Retrieval-Augmented Generation) API for querying longevity and human optimization protocols.
 
 ## Features
 
-- 📚 Query 100+ longevity protocols on supplements, exercise, sleep, and more
-- 🤖 AI-powered responses using Groq's Llama 3.1 model
-- 💬 Interactive chat interface with Streamlit
-- 🔍 Protocol search and filtering
-- 📊 Full documentation and metadata
-
-## Setup
-
-### 1. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 2. Configure Environment
-
-Create a `.env` file in the project root:
-
-```
-GROQ_API_KEY=your_groq_api_key_here
-```
-
-Get your API key from: https://console.groq.com/
-
-### 3. Process the Data (First Time Only)
-
-```bash
-python data_ingestion_pipeline.py
-```
-
-This will load all protocols from `protocols_data/` and save processed chunks to `processed_data/`.
-
-## Usage
-
-### Streamlit App (Recommended)
-
-```bash
-streamlit run app.py
-```
-
-The app will open in your browser with a user-friendly interface featuring:
-- Chat interface for asking questions
-- Sidebar with searchable protocol list
-- Quick action buttons for common queries
-- Interactive protocol buttons
-
-### Command Line Interface
-
-```bash
-python retrieval_pipeline.py
-```
-
-## Example Queries
-
+- 📚 **RAG Pipeline**: Semantic search over 100+ longevity protocols
+- 🚀 **FastAPI Backend**: Robust API for chat, history, and authentication
+- 🧠 **AI Models**: Uses Groq (Llama 3.1) for fast inference
+- 🗄️ **Database**: Supabase for user storage and chat history
+- 🔍 **Vector DB**: ChromaDB Cloud for storing and retrieving protocol chunks
 
 ## Project Structure
- 
-core/ - Data ingestion and retrieval logic
-backend/ - API and Supabase integration
-frontend/ - Temporary/testing files
-processed_data/ - Output data
-protocols_data/ - Input documents
-
 
 ```
-.
-├── app.py                         # Streamlit web app
-├── data_ingestion_pipeline.py     # Data processing pipeline
-├── retrieval_pipeline.py          # RAG chatbot backend
-├── processed_data/                # Processed chunks and metadata
-│   ├── all_chunks.json
-│   └── metadata.json
-├── protocols_data/                # Source protocol files
-├── requirements.txt               # Python dependencies
-└── README.md                      # This file
+Lev/
+├── core/                        # Core Application Logic
+│   ├── data_ingestion.py        # Pipeline to process & chunk .txt files
+│   ├── retrieval_pipeline.py    # RAG chatbot logic & Groq integration
+│   └── supabase_utils.py        # Database connection utilities
+├── protocols_data/              # Source text files (Knowledge Base)
+├── processed_data/              # JSON output of processed chunks
+├── main.py                      # FastAPI Entry Point
+├── schema.sql                   # Database Structure
+├── requirements.txt             # Project Dependencies
+└── Dockerfile                   # Deployment Configuration
 ```
 
-## Backend Architecture
+## Setup & Local Development
 
-The backend consists of two main components:
+1. **Clone the repository**
+   ```bash
+   git clone <repo-url>
+   cd Lev
+   ```
 
-1. **Data Ingestion Pipeline** (`data_ingestion_pipeline.py`):
-   - Loads protocol files from `protocols_data/`
-   - Chunks documents into smaller pieces
-   - Saves processed chunks to JSON
+2. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-2. **Retrieval Pipeline** (`retrieval_pipeline.py`):
-   - Loads processed chunks
-   - Implements semantic search
-   - Generates responses using Groq API
-   - Handles special commands and protocol queries
+3. **Configure Environment**
+   Duplicate `.env.example` to `.env` and fill in your keys:
+   ```bash
+   cp .env.example .env
+   ```
+   **Required Keys:**
+   - `GROQ_API_KEY`: For AI generation
+   - `SUPABASE_URL` & `SUPABASE_KEY`: For database
+   - `CHROMA_API_KEY`, `CHROMA_TENANT_ID`, `CHROMA_DATABASE`: For vector search
 
-The Streamlit app (`app.py`) provides a user-friendly interface without modifying the backend logic.
+4. **Initialize Database**
+   - Run the SQL commands in `schema.sql` in your Supabase SQL Editor.
 
-## License
+5. **Run the API**
+   ```bash
+   uvicorn main:app --reload
+   ```
+   API will be available at `http://localhost:8000`.
 
-MIT License
+## API Documentation
+
+Once running, access the automatic documentation:
+- **Swagger UI**: `http://localhost:8000/docs`
+- **ReDoc**: `http://localhost:8000/redoc`
+
+### Key Endpoints
+- `POST /chat`: Send a message to the bot
+- `GET /history/{user_id}`: Get past conversations
+- `GET /health`: Check API and database status
+
+## Deployment
+
+This project includes a `Dockerfile` and is ready for deployment on platforms like **Railway**, **Render**, or **DigitalOcean App Platform**.
+
+**Environment Variables for Deployment:**
+Ensure all variables from `.env.example` are set in your deployment environment settings.

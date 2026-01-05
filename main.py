@@ -37,7 +37,45 @@ class LoginRequest(BaseModel):
 # 5️⃣ Default route
 @app.get("/")
 def root():
-    return {"message": "LEV RAG API is running."}
+    return {
+        "message": "LEV RAG API is running.",
+        "documentation": "/docs",
+        "health_check": "/health"
+    }
+
+# 6️⃣ Health Check
+@app.get("/health")
+def health_check():
+    """Checks the status of the API and its dependencies."""
+    status = {
+        "status": "healthy",
+        "database": "unknown",
+        "vector_db": "unknown"
+    }
+    
+    # Check Supabase
+    try:
+        supabase.table("chat_history").select("id").limit(1).execute()
+        status["database"] = "connected"
+    except Exception as e:
+        status["database"] = f"error: {str(e)}"
+        status["status"] = "degraded"
+
+    # Check ChromaDB (via bot instance)
+    try:
+        if bot.client:
+            bot.client.heartbeat()
+            status["vector_db"] = "connected"
+        else:
+             status["vector_db"] = "not_initialized"
+    except Exception as e:
+        status["vector_db"] = f"error: {str(e)}"
+        status["status"] = "degraded"
+
+    if status["status"] != "healthy":
+        raise HTTPException(status_code=503, detail=status)
+        
+    return status
 
 
 # 6️⃣ User registration
