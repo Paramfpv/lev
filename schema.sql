@@ -50,24 +50,28 @@ CREATE INDEX IF NOT EXISTS idx_chat_history_timestamp ON public.chat_history(tim
 -- ALTER TABLE public.chat_history DROP COLUMN IF EXISTS bot_answer;
 
 -- ==============================================================================
--- 5. FUTURE ROADMAP: "ChatGPT Style" (Sessions)
+-- 5. MULTI-SESSION CHAT SUPPORT
 -- ==============================================================================
--- Currently, all messages for a user are in one big pile.
--- Modern chatbots use "Sessions" or "Threads" to organize topics.
---
--- Future structure (Suggestion):
---
--- TABLE chat_sessions (
---   id UUID PRIMARY KEY,
---   user_id UUID,
---   title TEXT, ("New Chat", "Longevity Protocols", etc.)
---   created_at TIMESTAMPTZ
--- );
---
--- TABLE chat_messages (
---   id UUID PRIMARY KEY,
---   session_id UUID REFERENCES chat_sessions(id),
---   role TEXT, ("user" or "assistant")
---   content TEXT,
---   created_at TIMESTAMPTZ
--- );
+
+-- 5.1 Create the Sessions Table
+CREATE TABLE IF NOT EXISTS public.chat_sessions (
+    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    user_id UUID NOT NULL REFERENCES auth.users(id) ON DELETE CASCADE,
+    title TEXT,                            -- "New Chat", "Longevity Protocols", etc.
+    created_at TIMESTAMPTZ DEFAULT NOW()
+);
+
+-- 5.2 Add session_id to chat_history
+-- We use ALTER TABLE to add the column if it doesn't exist.
+DO $$
+BEGIN
+    IF NOT EXISTS (SELECT 1 FROM information_schema.columns WHERE table_name = 'chat_history' AND column_name = 'session_id') THEN
+        ALTER TABLE public.chat_history ADD COLUMN session_id UUID REFERENCES public.chat_sessions(id) ON DELETE CASCADE;
+    END IF;
+END $$;
+
+-- 5.3 Indexes for Sessions
+CREATE INDEX IF NOT EXISTS idx_chat_sessions_user_id ON public.chat_sessions(user_id);
+CREATE INDEX IF NOT EXISTS idx_chat_history_session_id ON public.chat_history(session_id);
+
+-- Note: The previous "FUTURE ROADMAP" section is now implemented above.

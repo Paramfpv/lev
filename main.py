@@ -25,6 +25,11 @@ bot = LongevityRAGChatbot()
 class ChatRequest(BaseModel):
     question: str
     user_id: str = None
+    session_id: str = None  # Optional for now, but recommended for new chats
+
+class CreateSessionRequest(BaseModel):
+    user_id: str
+    title: str = "New Chat"
 
 class RegisterRequest(BaseModel):
     email: str
@@ -139,23 +144,63 @@ def login(request: LoginRequest):
 @app.post("/chat")
 def chat(request: ChatRequest):
     answer = bot.chat(request.question)
+    
     # Save chat to Supabase if user_id provided
     if request.user_id:
         try:
-            supabase.table("chat_history").insert({
+            data = {
                 "user_id": request.user_id,
                 "question": request.question,
                 "answer": answer
-            }).execute()
+            }
+            if request.session_id:
+                data["session_id"] = request.session_id
+                
+            supabase.table("chat_history").insert(data).execute()
         except Exception as e:
             print(f"Error saving chat history: {e}")
+            
     return {"answer": answer}
 
-# 9️⃣ Get chat history for a user
-@app.get("/history/{user_id}")
-def get_history(user_id: str):
+# 9️⃣ Session Management Routes
+
+@app.post("/sessions")
+def create_session(request: CreateSessionRequest):
+    """Creates a new chat session."""
     try:
-        res = supabase.table("chat_history").select("*").eq("user_id", user_id).order("timestamp", desc=True).limit(50).execute()
+        res = supabase.table("chat_sessions").insert({
+            "user_id": request.user_id,
+            "title": request.title
+        }).execute()
+        
+        # Return the created session
+        if res.data:
+            return res.data[0]
+        else:
+            raise HTTPException(status_code=500, detail="Failed to create session")
+            
+    except Exception as e:
+        print("Create session error:", e)
+        raise HTTPException(status_code=400, detail=str(e))
+
+@app.get("/sessions/{user_id}")
+def get_user_sessions(user_id: str):
+    """Lists all chat sessions for a user."""
+    try:
+        res = supabase.table("chat_sessions").select("*").eq("user_id", user_id).order("created_at", desc=True).execute()
+        return {"sessions": res.data}
+    except Exception as e:
+        return {"sessions": [], "error": str(e)}
+
+# 🔟 Get chat history for a SPECIFIC session
+@app.get("/history/{session_id}")
+def get_session_history(session_id: str):
+    try:
+        # We now query by session_id instead of user_id for the specific chat view
+        res = supabase.table("chat_history").select("*").eq("session_id", session_id).order("timestamp", desc=False).execute() 
+        # Note: Chat UI usually needs ascending order (oldest first), but let's check frontend pref.
+        # usually APIs return desc for "recent list" but asc for "conversation view".
+        # Let's return ASC so the frontend can just append.
         return {"history": res.data}
     except Exception as e:
         return {"history": [], "error": str(e)}
