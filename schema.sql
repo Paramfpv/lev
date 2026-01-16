@@ -75,3 +75,72 @@ CREATE INDEX IF NOT EXISTS idx_chat_sessions_user_id ON public.chat_sessions(use
 CREATE INDEX IF NOT EXISTS idx_chat_history_session_id ON public.chat_history(session_id);
 
 -- Note: The previous "FUTURE ROADMAP" section is now implemented above.
+
+-- ==============================================================================
+-- 6. PROJECT STRUCTURE (Mind, Body, Soul)
+-- ==============================================================================
+
+-- 6.1 Create Projects Table (Tree Structure)
+-- "parent_id" references "id" in the same table, allowing infinite nesting.
+CREATE TABLE IF NOT EXISTS public.projects (
+    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    user_id UUID NOT NULL REFERENCES auth.users(id) ON DELETE CASCADE,
+    parent_id UUID REFERENCES public.projects(id) ON DELETE CASCADE, -- Null for Root Projects
+    name TEXT NOT NULL,
+    description TEXT,
+    created_at TIMESTAMPTZ DEFAULT NOW()
+);
+
+-- 6.2 Index for Parent Lookup
+CREATE INDEX IF NOT EXISTS idx_projects_parent_id ON public.projects(parent_id);
+CREATE INDEX IF NOT EXISTS idx_projects_user_id ON public.projects(user_id);
+
+-- 6.3 Update Chat Sessions to belong to a Project
+-- If you already created the table, run this ALTER command:
+DO $$
+BEGIN
+    IF NOT EXISTS (SELECT 1 FROM information_schema.columns WHERE table_name = 'chat_sessions' AND column_name = 'project_id') THEN
+        ALTER TABLE public.chat_sessions ADD COLUMN project_id UUID REFERENCES public.projects(id) ON DELETE SET NULL;
+    END IF;
+END $$;
+
+CREATE INDEX IF NOT EXISTS idx_chat_sessions_project_id ON public.chat_sessions(project_id);
+
+
+-- ==============================================================================
+-- 7. AUTOMATION: Default "Mind, Body, Soul" Projects
+-- ==============================================================================
+-- This trigger automatically creates the 3 root projects for every NEW user.
+
+-- 7.1 Function to insert defaults
+CREATE OR REPLACE FUNCTION public.create_default_projects()
+RETURNS TRIGGER AS $$
+BEGIN
+    INSERT INTO public.projects (user_id, name, parent_id, description) VALUES 
+    (NEW.id, 'Mind', NULL, 'Cognitive enhancement, learning, and mental clarity.'),
+    (NEW.id, 'Body', NULL, 'Physical health, fitness, and nutrition.'),
+    (NEW.id, 'Soul', NULL, 'Emotional balance, purpose, and spiritual well-being.');
+    RETURN NEW;
+END;
+$$ LANGUAGE plpgsql SECURITY DEFINER;
+
+-- 7.2 Trigger Definition (Runs after a user signs up)
+-- DROP TRIGGER IF EXISTS on_auth_user_created ON auth.users; 
+-- Note: You might need to run the DROP manually if it conflicts.
+-- In Supabase SQL Editor:
+-- CREATE TRIGGER on_auth_user_created
+-- AFTER INSERT ON auth.users
+-- FOR EACH ROW EXECUTE FUNCTION public.create_default_projects();
+
+-- NOTE: Since I cannot execute triggers on "auth.users" from here via migration easily without 
+-- superuser sometimes, please copy-paste the Trigger creation manually if it fails.
+-- But the standard definition is:
+
+DO $$
+BEGIN
+    IF NOT EXISTS (SELECT 1 FROM pg_trigger WHERE tgname = 'on_auth_user_created') THEN
+        CREATE TRIGGER on_auth_user_created
+        AFTER INSERT ON auth.users
+        FOR EACH ROW EXECUTE FUNCTION public.create_default_projects();
+    END IF;
+END $$;

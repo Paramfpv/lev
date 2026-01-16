@@ -25,11 +25,19 @@ bot = LongevityRAGChatbot()
 class ChatRequest(BaseModel):
     question: str
     user_id: str = None
-    session_id: str = None  # Optional for now, but recommended for new chats
+    session_id: str = None 
+    project_id: str = None # New: Associate chat with a project context
 
 class CreateSessionRequest(BaseModel):
     user_id: str
     title: str = "New Chat"
+    project_id: str = None # New: Sessions usually belong to a project
+
+class CreateProjectRequest(BaseModel):
+    user_id: str
+    name: str # e.g. "Meditation"
+    parent_id: str = None # UUID of parent project. None = Root (but triggers handle roots usually)
+    description: str = None
 
 class RegisterRequest(BaseModel):
     email: str
@@ -155,6 +163,11 @@ def chat(request: ChatRequest):
             }
             if request.session_id:
                 data["session_id"] = request.session_id
+            
+            # Note: We usually don't save project_id in chat_history if session_id is there (normalize),
+            # but if current schema is flat/growing, we can add it if column exists.
+            # Ideally session links to project, so history -> session -> project.
+            # But let's check schema support later. For now, rely on session.
                 
             supabase.table("chat_history").insert(data).execute()
         except Exception as e:
@@ -166,12 +179,16 @@ def chat(request: ChatRequest):
 
 @app.post("/sessions")
 def create_session(request: CreateSessionRequest):
-    """Creates a new chat session."""
+    """Creates a new chat session, optionally within a project."""
     try:
-        res = supabase.table("chat_sessions").insert({
+        data = {
             "user_id": request.user_id,
             "title": request.title
-        }).execute()
+        }
+        if request.project_id:
+            data["project_id"] = request.project_id
+
+        res = supabase.table("chat_sessions").insert(data).execute()
         
         # Return the created session
         if res.data:
@@ -184,10 +201,15 @@ def create_session(request: CreateSessionRequest):
         raise HTTPException(status_code=400, detail=str(e))
 
 @app.get("/sessions/{user_id}")
-def get_user_sessions(user_id: str):
-    """Lists all chat sessions for a user."""
+def get_user_sessions(user_id: str, project_id: str = None):
+    """Lists chat sessions. Can filter by project_id."""
     try:
-        res = supabase.table("chat_sessions").select("*").eq("user_id", user_id).order("created_at", desc=True).execute()
+        query = supabase.table("chat_sessions").select("*").eq("user_id", user_id)
+        
+        if project_id:
+            query = query.eq("project_id", project_id)
+            
+        res = query.order("created_at", desc=True).execute()
         return {"sessions": res.data}
     except Exception as e:
         return {"sessions": [], "error": str(e)}
@@ -198,12 +220,64 @@ def get_session_history(session_id: str):
     try:
         # We now query by session_id instead of user_id for the specific chat view
         res = supabase.table("chat_history").select("*").eq("session_id", session_id).order("timestamp", desc=False).execute() 
-        # Note: Chat UI usually needs ascending order (oldest first), but let's check frontend pref.
-        # usually APIs return desc for "recent list" but asc for "conversation view".
-        # Let's return ASC so the frontend can just append.
         return {"history": res.data}
     except Exception as e:
         return {"history": [], "error": str(e)}
+
+# 11. PROJECT MANAGEMENT (Mind, Body, Soul hierarchical structure)
+
+@app.post("/projects")
+def create_project(request: CreateProjectRequest):
+    """Creates a new project node in the tree."""
+    try:
+        data = {
+            "user_id": request.user_id,
+            "name": request.name,
+            "parent_id": request.parent_id, # Can be nested under another project
+            "description": request.description
+        }
+        res = supabase.table("projects").insert(data).execute()
+        
+        if res.data:
+            return res.data[0]
+        else:
+             raise HTTPException(status_code=500, detail="Failed to create project")
+    except Exception as e:
+        print("Create project error:", e)
+        raise HTTPException(status_code=400, detail=str(e))
+
+@app.get("/projects/{user_id}")
+def get_projects(user_id: str, parent_id: str = None):
+    """
+    Get projects for a user.
+    - If parent_id is provided, gets direct children (Sub-projects).
+    - If parent_id is NOT provided, gets Root projects (Mind, Body, Soul).
+    """
+    try:
+        query = supabase.table("projects").select("*").eq("user_id", user_id)
+        
+        if parent_id:
+            query = query.eq("parent_id", parent_id)
+        else:
+             # Get roots (Mind, Body, Soul) -> where parent_id is NULL
+             query = query.is_("parent_id", "null")
+             
+        res = query.order("created_at", desc=True).execute()
+        return {"projects": res.data}
+    except Exception as e:
+        return {"projects": [], "error": str(e)}
+
+@app.get("/projects/tree/{user_id}")
+def get_project_tree(user_id: str):
+    """
+    Experimental: Get full flat list to build tree on frontend.
+    """
+    try:
+        res = supabase.table("projects").select("*").eq("user_id", user_id).execute()
+        # Frontend can construct the tree from this flat list using parent_id
+        return {"projects": res.data}
+    except Exception as e:
+         return {"projects": [], "error": str(e)}
 
 # 7️⃣ Reset memory route
 @app.post("/reset")
