@@ -144,3 +144,58 @@ BEGIN
         FOR EACH ROW EXECUTE FUNCTION public.create_default_projects();
     END IF;
 END $$;
+-- ==============================================================================
+-- LEV MEMORY SYSTEM
+-- ==============================================================================
+-- Run this in your Supabase SQL Editor to enable the Memory System.
+
+-- 1. Enable pgvector (Required for embeddings/smart retrieval)
+CREATE EXTENSION IF NOT EXISTS vector;
+
+-- 2. Create the Memory Table
+CREATE TABLE IF NOT EXISTS public.user_memory (
+    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    user_id UUID NOT NULL REFERENCES auth.users(id) ON DELETE CASCADE,
+    
+    -- CORE CONTENT
+    content TEXT NOT NULL,
+    
+    -- SCOPE & HIERARCHY
+    -- 'session': Context relevant only to a specific chat.
+    -- 'project': Context relevant to a whole project (e.g. "Body").
+    -- 'global': Universal facts about the user (e.g. "User is vegan").
+    scope TEXT NOT NULL CHECK (scope IN ('session', 'project', 'global')),
+    
+    -- LINKING (Nullable based on scope)
+    project_id UUID REFERENCES public.projects(id) ON DELETE CASCADE,
+    session_id UUID REFERENCES public.chat_sessions(id) ON DELETE CASCADE,
+    
+    -- AI METADATA
+    confidence FLOAT DEFAULT 1.0 CHECK (confidence >= 0 AND confidence <= 1.0),
+    importance INTEGER DEFAULT 1, -- 1-10 scale. Used for retrieval weighting or decay.
+    
+    -- RETRIEVAL & FUTURE PROOFING
+    -- 'embedding': Vector representation for semantic search.
+    -- 'metadata': JSONB for flexible extras (e.g. { "origin_message_id": "...", "tags": ["diet"] })
+    embedding vector(1536), 
+    metadata JSONB DEFAULT '{}'::jsonb,
+
+    -- TIMESTAMPS
+    created_at TIMESTAMPTZ DEFAULT NOW(),
+    last_accessed_at TIMESTAMPTZ DEFAULT NOW(),
+
+    -- DATA INTEGRITY
+    CONSTRAINT valid_scope_context CHECK (
+        (scope = 'session' AND session_id IS NOT NULL) OR
+        (scope = 'project' AND project_id IS NOT NULL) OR
+        (scope = 'global')
+    )
+);
+
+-- 3. INDEXES
+-- Speed up retrieval by user and scope
+CREATE INDEX IF NOT EXISTS idx_memory_user_scope ON public.user_memory(user_id, scope);
+-- Speed up project-specific memory lookups
+CREATE INDEX IF NOT EXISTS idx_memory_project ON public.user_memory(project_id);
+-- Speed up vector similarity search (Uncomment when you have data)
+-- CREATE INDEX idx_memory_embedding ON public.user_memory USING ivfflat (embedding vector_cosine_ops);

@@ -1,10 +1,11 @@
 # Lev Project - API Handoff & Frontend Guide
 
-## 🚀 Project Vision: "Mind, Body, Soul"
-We are building a hierarchical, tree-structured chat application.
+## 🚀 Project Vision: "Mind, Body, Soul" + Intelligent Memory
+We are building a hierarchical, tree-structured chat application with **intelligent memory**.
 - **Root Domains**: Every user starts with three default projects: **Mind**, **Body**, and **Soul**.
 - **Infinite Nesting**: Users can create sub-projects inside projects (e.g., *Body -> Fitness -> Marathon Training*).
 - **Contextual Chat**: Users create Chat Sessions *inside* these projects.
+- **🧠 Memory System**: Lev learns from your conversations and remembers facts, preferences, and rules at Session, Project, and Global scopes.
 
 The Frontend handles the visualization of this Tree and the Chat Interface.
 
@@ -65,7 +66,7 @@ We provide two ways to fetch projects. For the Frontend Tree View, fetching the 
   {
     "user_id": "uuid",
     "name": "New Project Name",
-    "parent_id": "uuid-of-parent" // Optional. If omitted, it becomes a Root (avoid this, stick to M/B/S roots).
+    "parent_id": "uuid-of-parent", // Optional. If omitted, it becomes a Root (avoid this, stick to M/B/S roots).
     "description": "Optional"
   }
   ```
@@ -93,7 +94,8 @@ Chats happen *inside* a project (or standalone, but ideally inside a project).
 
 ---
 
-### 4. Messaging
+### 4. Messaging (With Intelligent Memory)
+
 #### Send Message
 - **POST** `/chat`
 - **Body**:
@@ -106,10 +108,35 @@ Chats happen *inside* a project (or standalone, but ideally inside a project).
   }
   ```
 - **Response**: `{"answer": "AI Response..."}`
+- **🧠 Memory Behavior**:
+  - **Read**: Before generating a response, Lev checks for relevant memories (Project + Global scope).
+  - **Write**: After responding, Lev extracts facts/preferences from your message and saves them automatically.
+  - **Example**: If you say *"I prefer Python"*, Lev will remember this for future chats in that project.
 
 #### Get History
 - **GET** `/history/{session_id}`
 - **Response**: `{"history": [{"question": "...", "answer": "...", "timestamp": "..."}]}`
+
+---
+
+## 🧠 Memory System Architecture
+
+### How It Works
+1. **Memory Router** (`core/memory/memory_router.py`): Classifies user intent and decides which memory scopes to query.
+2. **Memory Store** (`core/memory/memory_store.py`): Handles database reads/writes with strict scope filtering.
+3. **Memory Extractor** (`core/memory/memory_extractor.py`): Extracts facts from user messages and applies promotion rules.
+
+### Memory Scopes
+| Scope | Description | Example |
+|-------|-------------|---------|
+| **Session** | Temporary context for the current chat | "I'm working on the login feature" |
+| **Project** | Rules and preferences for a specific project | "Use Python for all code in this project" |
+| **Global** | Universal facts about the user | "My name is Param" |
+
+### Automatic Behavior
+- **Extraction**: Happens automatically after every user message.
+- **Retrieval**: Happens automatically before generating responses (when relevant).
+- **Promotion**: Facts are promoted from Session → Project → Global based on repetition and confidence.
 
 ---
 
@@ -134,9 +161,37 @@ The app should feel like a "Command Center" or "Digital Brain".
 6. User clicks "New Chat".
 7. Main view switches to Empty Chat.
 8. User types -> Message sent to backend.
+9. **🧠 Memory works silently in the background**.
 
 ### 3. Tech Stack Recommendation
-Since you mentioned a "beginner friendly" but "hirarichal" structure:
+Since you mentioned a "beginner friendly" but "hierarchical" structure:
 - **Framework**: React, Vue, or Vanilla JS (if simple).
 - **State**: Need a way to store the `projectTree` and `currentUser`.
 - **Styling**: Clean, perhaps dark mode (Terminal/Cyberpunk or Zen/Minimalist).
+
+---
+
+## 📊 Database Schema Overview
+
+### Core Tables
+- **`auth.users`**: Managed by Supabase Auth
+- **`projects`**: Hierarchical project tree (Mind/Body/Soul + nested sub-projects)
+- **`chat_sessions`**: Chat conversations linked to projects
+- **`chat_history`**: Message history for each session
+- **`user_memory`**: 🧠 **NEW** - Stores extracted facts, preferences, and rules
+
+### Memory Table Structure
+```sql
+user_memory (
+  id UUID PRIMARY KEY,
+  user_id UUID REFERENCES auth.users(id),
+  content TEXT NOT NULL,
+  scope TEXT CHECK (scope IN ('session', 'project', 'global')),
+  project_id UUID REFERENCES projects(id),
+  session_id UUID REFERENCES chat_sessions(id),
+  confidence FLOAT,
+  importance INTEGER,
+  metadata JSONB,
+  created_at TIMESTAMPTZ
+)
+```

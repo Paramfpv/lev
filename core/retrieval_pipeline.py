@@ -70,7 +70,7 @@ class LongevityRAGChatbot:
     # MESSAGE BUILDING
     # ============================================================
 
-    def _build_conversational_messages(self, query: str, contexts: List[str]) -> List[Dict]:
+    def _build_conversational_messages(self, query: str, contexts: List[str], extra_context: str = "") -> List[Dict]:
         persona = (
             "You are a friendly, science-based longevity expert. "
             "Give short, evidence-based, and practical answers. "
@@ -81,11 +81,16 @@ class LongevityRAGChatbot:
         memory_snippet = "\n".join(
             [f"{m['role']}: {m['content']}" for m in self.memory[-MAX_MEMORY_TURNS * 2:]]
         )
+        # Combine RAG context and Memory Router context
         context_text = "\n\n".join(contexts)[:MAX_CONTEXT_CHARS]
+        
+        full_context = f"Scientific Data:\n{context_text}"
+        if extra_context:
+            full_context += f"\n\nUser Memory:\n{extra_context}"
 
         user = {
             "role": "user",
-            "content": f"Context:\n{context_text}\n\nHistory:\n{memory_snippet}\n\nQuestion: {query}",
+            "content": f"Context:\n{full_context}\n\nHistory:\n{memory_snippet}\n\nQuestion: {query}",
         }
         return [system, user]
 
@@ -114,13 +119,13 @@ class LongevityRAGChatbot:
     # MAIN CHAT FUNCTION
     # ============================================================
 
-    def chat(self, query: str) -> str:
+    def chat(self, query: str, context: str = "") -> str:
         """Main method for chat interaction"""
         if not query.strip():
             return "Please enter a valid question."
 
         contexts = self._search_relevant_chunks(query)
-        messages = self._build_conversational_messages(query, contexts)
+        messages = self._build_conversational_messages(query, contexts, extra_context=context)
         reply = self._call_groq(messages)
 
         self.add_to_memory("user", query)
