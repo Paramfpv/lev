@@ -665,3 +665,6 @@ class MemoryManager:
             return json.loads(resp)
         except:
             return None
+
+# Global Instance
+memory_manager = MemoryManager()
