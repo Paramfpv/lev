@@ -601,6 +601,8 @@ class MemoryManager:
                 "optimization_score": 0,
                 "domains": {d: "missing" for d in domains},
                 "last_updated": "Error"
+            }
+
     def get_next_personal_info_question(self, user_id: str, current_session_questions: int = 0) -> Optional[Dict]:
         """
         Orchestrator for Personal Info Chat.
