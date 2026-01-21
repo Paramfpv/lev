@@ -1,0 +1,181 @@
+LEV SYSTEM — FINAL PROBLEM STATEMENT
+(Pre-Implementation Remediation Document)
+Prepared after full codebase + rule-doc review
+Scope: API, Memory System, RAG Pipelines, Rule Specifications
+0. EXECUTIVE SUMMARY (READ THIS FIRST)
+LEV currently has good components but no coherent system.
+The largest risk is conceptual, not technical:
+The code implements a persistent note-taking assistant,
+while the documentation and product narrative claim a learning memory system.
+These two realities do not match.
+If Antigravity starts solving problems without addressing this mismatch first, fixes will compound into deeper architectural debt.
+1. P0 — CRITICAL SYSTEM BREAKERS
+Must be resolved before any new features, scaling, or pitching
+P0.1 — Documentation vs Code Mismatch (Severe)
+Status: ❌ Broken
+What docs claim
+Memory promotion via repetition
+Confidence updates over time
+Decay and demotion
+Cross-project verification
+Session → Project → Global lifecycle
+What code actually does
+One-shot extraction
+No repetition tracking
+No decay
+No demotion
+No cross-project logic
+Session memory not implemented at all
+Impact
+“Learning system” claim is false
+Any technical audit or investor diligence will fail immediately
+Action Required
+Either:
+Downgrade rule docs to future roadmap
+OR implement the rules exactly as specified
+P0.2 — Memory Does Not Learn Over Time
+Status: ❌ Broken
+Root Cause
+MemoryExtractor never checks existing memories
+Confidence never updates after insertion
+Promotion decisions are stateless
+Memory is write-once, forever
+Impact
+Memory quality only degrades
+Noise accumulates
+“Confidence” field is meaningless
+Action Required
+Introduce historical memory lookup during extraction
+Track repetitions, confirmations, corrections
+Implement confidence mutation and deletion rules
+P0.3 — Session Memory Is Fictional
+Status: ❌ Broken
+Evidence
+Docs describe session memory
+Router plans for session memory
+Retrieval rules specify SQL for session memory
+BUT:
+Extractor never saves session memory
+Store never persists it
+Retrieval never queries it
+Impact
+Core lifecycle layer is missing
+System relies on chat history implicitly while claiming explicit memory
+Action Required
+Either:
+Implement real session memory
+OR remove session memory from docs, router, and rules
+P0.4 — Split-Brain Memory Architecture
+Status: ❌ Dangerous
+Problem
+Two competing memory systems exist:
+Active system (router + extractor + store)
+Unused but complete memory_manager.py
+Impact
+Future devs will accidentally wire the wrong one
+Impossible to reason about “the memory system”
+Action Required
+Delete memory_manager.py
+OR promote it as the single authoritative system
+No middle state allowed
+2. P1 — BEHAVIORAL & SCALING RISKS
+System “works” but is unstable and non-deterministic
+P1.1 — LLM-Driven Control Flow Without Hard Guards
+Status: ⚠️ Risky
+Problem
+Router decisions depend on LLM JSON
+Partial sanitization
+No schema enforcement
+Silent fallbacks
+Impact
+Same input can produce different memory behavior
+Debugging becomes non-reproducible
+Action Required
+Enforce strict schemas
+Hard-map intent → scope logic
+LLM should classify, not decide system behavior
+P1.2 — Global Identity Fragmentation
+Status: ⚠️ UX Risk
+Problem
+Extractor defaults to PROJECT scope if project_id exists
+Personal facts get trapped inside projects
+Impact
+User identity splits across projects
+Long-term personalization breaks
+Action Required
+Explicit global-fact detection
+Cross-project verification logic
+P1.3 — Retrieval Logic Ignores Importance
+Status: ⚠️ Spec Drift
+Problem
+Docs specify (confidence × importance)
+Code does not store or use importance
+Impact
+Retrieval prioritization is incorrect
+High-importance facts can be buried
+Action Required
+Implement importance field OR remove it from spec
+P1.4 — No Contradiction Resolution
+Status: ⚠️ Accumulates Errors
+Problem
+Conflicting memories coexist forever
+Corrections are not detected
+No override or demotion logic
+Impact
+Assistant becomes unreliable over time
+Action Required
+Implement contradiction detection
+Apply demotion or deletion rules
+3. P2 — ARCHITECTURAL & MAINTAINABILITY DEBT
+Not immediately fatal, but slows development and increases risk
+P2.1 — /chat Is a God Endpoint
+Problem
+Routing, retrieval, RAG, extraction, persistence all in one place
+Impact
+Hard to test
+Hard to refactor
+Hard to reason about failures
+Action Required
+Separate orchestration from execution steps
+P2.2 — Three Memory Types Without a Priority Contract
+Types
+Chat history (in-memory)
+User memory (Supabase)
+Knowledge memory (Chroma)
+Problem
+Merged ad-hoc at prompt time
+No formal precedence rules
+Impact
+Prompt bloat
+Inconsistent answers
+Action Required
+Define strict context assembly order
+P2.3 — Vector Ingestion Is Isolated From Product Logic
+Problem
+Offline ingestion
+No versioning
+No provenance
+No alignment with memory rules
+Impact
+Knowledge base evolves independently of system behavior
+Action Required
+Formalize vector data lifecycle or clearly scope it as static knowledge
+4. P3 — PROFESSIONALISM & HYGIENE ISSUES
+Doesn’t break functionality, but hurts credibility
+Logging inconsistent (print vs logging)
+Auth trusts user_id blindly
+CORS unsafe for anything beyond local dev
+Health checks are shallow
+created_at = "now()" is DB-fragile
+5. CORE DIAGNOSIS (ONE PARAGRAPH)
+LEV currently stores memories, but it does not reason about memories over time.
+Until promotion, decay, contradiction handling, and session memory are either:
+implemented or
+explicitly removed from scope,
+the system cannot honestly be described as a learning or intelligent memory architecture.
+6. HANDOFF INSTRUCTIONS FOR ANTIGRAVITY
+Before writing code, Antigravity must first answer three yes/no questions:
+Is memory promotion real in v1, or future-only?
+Does session memory truly exist, or not at all?
+Which single file/module owns the memory lifecycle?
+All fixes must flow from those decisions.

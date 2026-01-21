@@ -12,7 +12,7 @@ The Frontend handles the visualization of this Tree and the Chat Interface.
 ---
 
 ## 🛠️ Backend API Reference
-**Base URL**: `http://localhost:8000`
+**Base URL**: `lev-production.up.railway.app`
 
 ### 1. Authentication
 Authentication is handled via Supabase, but the backend provides wrappers to simplify headers/user management.
@@ -119,24 +119,73 @@ Chats happen *inside* a project (or standalone, but ideally inside a project).
 
 ---
 
+### 5. Personal Info (User Stats)
+Used for the "Optimization %" bar on the dashboard.
+
+#### Get User Stats
+- **GET** `/user/stats/{user_id}`
+- **Response**:
+  ```json
+  {
+    "optimization_score": 60, // (Covered Domains / 5) * 100
+    "domains": {
+      "identity": "complete",
+      "preferences": "partial",
+      "habits": "missing",
+      "goals": "partial",
+      "constraints": "complete"
+    },
+    "last_updated": "ISO_TIMESTAMP"
+  }
+  ```
+- **Logic**:
+  - Only counts **Global** memories with **Confidence >= 0.85**.
+  - Domains: Identity, Preferences, Habits, Goals, Constraints.
+  - Score is percentage of domains that have *any* data ("partial" or "complete").
+
+#### Get Next Personal Info Question (Orchestrator)
+- **GET** `/personal-info/question/{user_id}?session_count=0`
+- **Params**: `session_count` (int): How many questions asked in *this* session (Frontend tracks this. Max 5).
+- **Response**:
+  ```json
+  {
+    "question": "What usually keeps you up at night?",
+    "domain": "habits"
+  }
+  ```
+- **Stop Condition**: Returns `null` if Optimization Score >= 70% OR `session_count` >= 5.
+- **Flow**:
+  1. Call this endpoint.
+  2. Display question.
+  3. User answers via standard `POST /chat`.
+  4. Memory system extracts fact.
+  5. Call `/user/stats` to update progress.
+
 ## 🧠 Memory System Architecture
 
 ### How It Works
-1. **Memory Router** (`core/memory/memory_router.py`): Classifies user intent and decides which memory scopes to query.
-2. **Memory Store** (`core/memory/memory_store.py`): Handles database reads/writes with strict scope filtering.
-3. **Memory Extractor** (`core/memory/memory_extractor.py`): Extracts facts from user messages and applies promotion rules.
+### How It Works (Canonical Lifecycle V1)
+1. **Single Authority** (`core/memory_manager.py`): Manages the entire lifecycle (Extraction -> Lookup -> Impact Analysis -> Promotion -> Persistence).
+2. **Interactive Learning**:
+   - **Extraction**: User input is mined for facts/preferences.
+   - **Lookup**: System checks for existing memories to detect duplicates or contradictions.
+   - **Impact Analysis**: New facts are judged against old ones.
+     - **Exact Match**: Increments repetition.
+     - **Contradiction**: Overrides old memory if new confidence is higher.
+   - **Promotion**:
+     - **Session → Project**: After **3 repetitions** (or 2 if High Importance).
+     - **Project → Global**: After verification in a **different project**.
 
 ### Memory Scopes
-| Scope | Description | Example |
-|-------|-------------|---------|
-| **Session** | Temporary context for the current chat | "I'm working on the login feature" |
-| **Project** | Rules and preferences for a specific project | "Use Python for all code in this project" |
-| **Global** | Universal facts about the user | "My name is Param" |
+| Scope | Description | Promotion Rule |
+|-------|-------------|----------------|
+| **Session** | Immediate working memory, strictly scoped to current chat. | Promotes to **Project** if useful & repeated. |
+| **Project** | Rules/Context specific to a project domain (e.g., "Fitness"). | Promotes to **Global** if valid across multiple projects. |
+| **Global** | Universal User Truths (Identity, Core Values). | Highest tier, strictly verified. |
 
 ### Automatic Behavior
-- **Extraction**: Happens automatically after every user message.
-- **Retrieval**: Happens automatically before generating responses (when relevant).
-- **Promotion**: Facts are promoted from Session → Project → Global based on repetition and confidence.
+- **Write**: Happens automatically. The system "learns" by updating repetition counts and confidence scores rather than just appending rows.
+- **Read**: Prioritizes **Session** (Recency) > **Project** (Context) > **Global** (Truths).
 
 ---
 
@@ -189,9 +238,15 @@ user_memory (
   scope TEXT CHECK (scope IN ('session', 'project', 'global')),
   project_id UUID REFERENCES projects(id),
   session_id UUID REFERENCES chat_sessions(id),
-  confidence FLOAT,
-  importance INTEGER,
+  confidence FLOAT DEFAULT 1.0,
+  importance TEXT CHECK (importance IN ('low', 'medium', 'high')),
+  repetition_count INTEGER DEFAULT 1,
+  keywords TEXT[], -- Array of strings
   metadata JSONB,
-  created_at TIMESTAMPTZ
+  created_at TIMESTAMPTZ DEFAULT NOW(),
+  last_accessed TIMESTAMPTZ DEFAULT NOW()
 )
 ```
+
+
+

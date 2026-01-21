@@ -148,78 +148,34 @@ def login(request: LoginRequest):
 
 
 
-from core.memory.memory_router import MemoryRouter
-from core.memory.memory_store import memory_store
-from core.memory.memory_extractor import memory_extractor
-
-# Initialize Router
-memory_router = MemoryRouter()
+from core.memory_manager import memory_manager
 
 # 8️⃣ Main chat route (saves chat history to Supabase)
 @app.post("/chat")
 def chat(request: ChatRequest):
-    # 1. Route Intent (Decide which memory scopes needed)
+    # 1. Memory Lifecycle (Routing -> Extraction -> Learning -> Retrieval)
+    # The MemoryManager handles the entire lifecycle now.
     context_str = ""
     
     if request.user_id:
         try:
-            # Plan retrieval
-            plan = memory_router.route(
+            result = memory_manager.route(
+                request.question,
                 request.user_id, 
                 request.session_id, 
-                request.project_id, 
-                request.question
+                request.project_id
             )
-            
-            retrieved_lines = []
-
-            # 2. Fetch Project Memory (if applicable)
-            if plan.get("use_project") and request.project_id:
-                project_mems = memory_store.get_project_memory(
-                    request.user_id, 
-                    request.project_id, 
-                    memory_types=plan.get("memory_types"), 
-                    limit=5
-                )
-                if project_mems:
-                    retrieved_lines.append(f"Project Context (ID: {request.project_id}):")
-                    for m in project_mems:
-                        retrieved_lines.append(f"- {m['content']}")
-
-            # 3. Fetch Global Memory (if applicable)
-            if plan.get("use_global"):
-                global_mems = memory_store.get_global_memory(
-                    request.user_id, 
-                    memory_types=plan.get("memory_types"), 
-                    limit=5
-                )
-                if global_mems:
-                    retrieved_lines.append("Global User Context:")
-                    for m in global_mems:
-                        retrieved_lines.append(f"- {m['content']}")
-
-            if retrieved_lines:
-                context_str = "\n".join(retrieved_lines)
+            context_str = result.get("context", "")
                 
         except Exception as e:
             print(f"[Memory Error] Logic failed: {e}")
-            # Non-blocking, proceed without memory
+            # Non-blocking, proceed
 
     # 4. Chat with LLM (Injecting Context)
     bot_response = bot.chat(request.question, context=context_str)
     
-    # NEW: 5. Extract & Save Memory (Fire & Forget logic ideally, but sequential here for simplicity)
-    if request.user_id:
-        try:
-            # We assume extraction should happen on the User's input, 
-            # effectively "Learning" from what the user just said.
-            memory_extractor.extract_and_save(
-                user_id=request.user_id,
-                user_message=request.question,
-                project_id=request.project_id
-            )
-        except Exception as e:
-            print(f"[Memory Extraction Error]: {e}")
+    # NOTE: Extraction is now handled within memory_manager.route() (Step 1 of lifecycle)
+    # So we do not need a separate extraction step here.
 
     # 6. Save Chat History
     if request.user_id:
@@ -235,6 +191,8 @@ def chat(request: ChatRequest):
             supabase.table("chat_history").insert(data).execute()
         except Exception as e:
             print(f"Error saving chat history: {e}")
+            
+    return {"answer": bot_response}
             
     return {"answer": bot_response}
 
@@ -348,3 +306,21 @@ def reset_memory():
     """Clears chatbot short-term memory."""
     bot.reset_memory()
     return {"message": "Chat memory has been reset."}
+
+@app.get("/user/stats/{user_id}")
+def get_user_stats(user_id: str):
+    """
+    Returns AI Knowledge stats: % Optimization, Memory Counts.
+    Used for the Dashboard 'Personal Info' bar.
+    """
+    stats = memory_manager.get_memory_stats(user_id)
+    return stats
+
+@app.get("/personal-info/question/{user_id}")
+def get_personal_info_question(user_id: str, session_count: int = 0):
+    """
+    Orchestrator: Returns the next question to ask the user to fill missing memory domains.
+    Returns {"question": "...", "domain": "..."} or null if done/limit reached.
+    """
+    result = memory_manager.get_next_personal_info_question(user_id, session_count)
+    return result
