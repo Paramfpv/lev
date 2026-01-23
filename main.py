@@ -2,6 +2,7 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
+from typing import Optional
 from core.retrieval_pipeline import LongevityRAGChatbot
 from core.supabase_utils import supabase
 
@@ -317,10 +318,10 @@ def get_user_stats(user_id: str):
     return stats
 
 @app.get("/personal-info/question/{user_id}")
-def get_personal_info_question(user_id: str, session_count: int = 0):
+def get_personal_info_question(user_id: str, session_count: int = 0, session_id: Optional[str] = None):
     """
     Orchestrator: Returns the next question to ask the user to fill missing memory domains.
     Returns {"question": "...", "domain": "..."} or null if done/limit reached.
     """
-    result = memory_manager.get_next_personal_info_question(user_id, session_count)
+    result = memory_manager.get_next_personal_info_question(user_id, session_count, session_id)
     return result

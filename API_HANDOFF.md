@@ -144,22 +144,29 @@ Used for the "Optimization %" bar on the dashboard.
   - Score is percentage of domains that have *any* data ("partial" or "complete").
 
 #### Get Next Personal Info Question (Orchestrator)
-- **GET** `/personal-info/question/{user_id}?session_count=0`
-- **Params**: `session_count` (int): How many questions asked in *this* session (Frontend tracks this. Max 5).
+- **GET** `/personal-info/question/{user_id}?session_count=0&session_id=...`
+- **Params**: 
+  - `session_count` (int): How many questions asked in *this* session (Frontend tracks this. Max 5).
+  - `session_id` (str, optional): The UUID of the current chat session. Used to prevent repeating questions in the same session.
 - **Response**:
   ```json
   {
     "question": "What usually keeps you up at night?",
-    "domain": "habits"
+    "domain": "habits",
+    "project_id": "uuid-of-personal-info-project"
   }
   ```
 - **Stop Condition**: Returns `null` if Optimization Score >= 70% OR `session_count` >= 5.
 - **Flow**:
   1. Call this endpoint.
-  2. Display question.
-  3. User answers via standard `POST /chat`.
-  4. Memory system extracts fact.
-  5. Call `/user/stats` to update progress.
+  2. **CRITICAL**: Create (or resume) a chat session linked specifically to `project_id`. 
+     * **Do NOT** use the "Mind/Body/Soul" projects for this.
+     * **Do NOT** use a generic session. 
+     * The answer MUST be posted to a session belonging to "Personal Info".
+  3. Display question.
+  4. User answers via standard `POST /chat`.
+  5. Memory system extracts fact and links it to the "Personal Info" project scope.
+  6. Call `/user/stats` to update progress.
 
 ## 🧠 Memory System Architecture
 

@@ -58,6 +58,8 @@ class MemoryManager:
         self.api_key = GROQ_API_KEY
         self.api_url = GROQ_API_URL
         self.model = LLM_MODEL
+        # Track asked domains per session to prevent repetition: {session_id: {domain, ...}}
+        self._session_asked_domains: Dict[str, set] = {}
 
     def _call_llm(self, system_prompt: str, user_content: str, json_mode: bool = True) -> str:
         if not self.api_key:
@@ -603,12 +605,13 @@ class MemoryManager:
                 "last_updated": "Error"
             }
 
-    def get_next_personal_info_question(self, user_id: str, current_session_questions: int = 0) -> Optional[Dict]:
+    def get_next_personal_info_question(self, user_id: str, current_session_questions: int = 0, session_id: Optional[str] = None) -> Optional[Dict]:
         """
         Orchestrator for Personal Info Chat.
         1. Checks constraints (max 5 questions, score < 70%).
         2. Identifies missing domains.
         3. Generates a friendly question.
+        4. Ensures no repetition within the same session.
         """
         # 1. Constraints
         if current_session_questions >= 5:
@@ -623,23 +626,44 @@ class MemoryManager:
         domains = stats["domains"]
         target_domain = None
         
+        # Filter out domains already asked IN THIS SESSION
+        asked_in_session = set()
+        if session_id:
+            if session_id not in self._session_asked_domains:
+                self._session_asked_domains[session_id] = set()
+            asked_in_session = self._session_asked_domains[session_id]
+        
         # Look for missing first
         for d, status in domains.items():
-            if status == "missing":
+            if status == "missing" and d not in asked_in_session:
                 target_domain = d
                 break
         
         # If no missing, look for partial
         if not target_domain:
             for d, status in domains.items():
-                if status == "partial":
+                if status == "partial" and d not in asked_in_session:
                     target_domain = d
                     break
                     
         if not target_domain:
-            return None # All complete
+            return None # All complete or all asked
             
-        # 3. Generate Question
+        # Mark as asked immediately
+        if session_id:
+            self._session_asked_domains[session_id].add(target_domain)
+            
+        # 4. Get Project ID for 'Personal Info'
+        # This ensures frontend creates the session in the right place
+        project_id = None
+        try:
+            res = supabase.table("projects").select("id").eq("user_id", user_id).eq("name", "Personal Info").execute()
+            if res.data and len(res.data) > 0:
+                project_id = res.data[0]["id"]
+        except Exception as e:
+            print(f"[WARN] Failed to fetch Personal Info project ID: {e}")
+
+        # 5. Generate Question
         prompt = f"""
         You are a friendly, human AI assistant onboarding a new user.
         Your goal is to learn about their "{target_domain}" (Identity, Preferences, Habits, Goals, or Constraints) 
@@ -662,7 +686,9 @@ class MemoryManager:
         """
         resp = self._call_llm(prompt, "Generate Question")
         try:
-            return json.loads(resp)
+            data = json.loads(resp)
+            data["project_id"] = project_id # Frontend MUST use this
+            return data
         except:
             return None
 
